@@ -207,12 +207,13 @@
 		<style type="text/css" id="wp-custom-css">
 		/*
         You can add your own CSS here.
-
+        
         Click the help icon above to learn more.
         */
-        .hs-form-261fdf75-a20c-4c7b-aa77-7e3e7a24cc04_79af9da0-bdbe-4c6e-a79f-10d7437b4be3 fieldset {max-width: 100% !important;}.page-id-89472 hr {border-bottom: 1px solid #222222;}
+        .hs-form-261fdf75-a20c-4c7b-aa77-7e3e7a24cc04_79af9da0-bdbe-4c6e-a79f-10d7437b4be3 fieldset {max-width: 100% !important;}.page-id-89472 hr {border-bottom: 1px solid #222222;
+        }
 		</style>
-		
+
         <!-- Post status check -->
 		
         <!-- Status -->
@@ -383,19 +384,30 @@
         <ins data-revive-zoneid="67" data-revive-id="4238ea9fb228ecdc4ee5a3edc4919eca"></ins>
         <script src="//creative.chocchildrens.net/ras/www/delivery/asyncjs.php"></script>
 
-        <!-- CODE HERE -->
+        <!-- Translation Textboxes -->
 
-        <h1>Medical Translation</h1>
-        <form role="translate" action="translate.php" method="post">
-            <textarea name="sourceText" rows="10" cols="50" placeholder="Type your text here..."></textarea>
-            <br>
-            <button type="submit">Translate</button>
-            <br>
-            <h3>Translated Text:</h3>   
-            <textarea name="translatedText" rows="10" cols="50" readonly></textarea>
-        </form>
+        <div id="Translate" style="background:#efefef;">
+                <h1>Document Translation</h1>
+                    <form action="translate.php" method="post">
+                        <div class="side-by-side">
+                            <textarea name="sourceText" rows="10" cols="50" placeholder="Type your text here..."></textarea>
+                            <button type="submit">Translate</button>
+                        </div>
+                        <h3>Translated Text:</h3>
+                        <textarea name="translatedText" rows="10" cols="50" readonly></textarea>
+                    </form>
+        </div>
 
+        <div id="Translation" style="background: #efefef;">
+            <div class="container translator-section">
+                <div class="text-center">
+                    <h2>Translation Tool</h2>
+                </div>
+                
+            </div>
+        </div>
 
+        <div>    
         </div><!-- /breadcrumbs -->
 
         <!-- Sidebar Widget Area -->
