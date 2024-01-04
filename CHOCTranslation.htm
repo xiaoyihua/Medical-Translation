@@ -386,26 +386,36 @@
 
         <!-- Translation Textboxes -->
 
-        <div id="Translate" style="background:#efefef;">
-                <h1>Document Translation</h1>
-                    <form action="translate.php" method="post">
-                        <div class="side-by-side">
-                            <textarea name="sourceText" rows="10" cols="50" placeholder="Type your text here..."></textarea>
-                            <button type="submit">Translate</button>
-                        </div>
-                        <h3>Translated Text:</h3>
-                        <textarea name="translatedText" rows="10" cols="50" readonly></textarea>
-                    </form>
-        </div>
-
         <div id="Translation" style="background: #efefef;">
             <div class="container translator-section">
-                <div class="text-center">
-                    <h2>Translation Tool</h2>
+                <div class="translator-wrapper">
+                    <div class="translator-input">
+                        <textarea spellcheck="false" class="sourceText" placeholder="Type your text here..."></textarea>
+                        <textarea spellcheck="false" readonly disabled class="translatedText"></textarea>
+                    </div>
+                    <ul class="translator-controls">
+                        <li class="row sourceIcons">
+                            <div class="translator-icons">
+                                <i id="sourceIcons" class="fas fa-volume-up"></i>
+                                <i id="sourceIcons" class="fas fa-copy"></i>
+                            </div>
+                            <select></select>
+                        </li>
+                        <li class="exchange"><i class="fas fa-exchange-alt"></i></li>
+                        <li class="row translatedIcons">
+                            <select></select>
+                            <div class="translator-icons">
+                                <i id="translatedIcons" class="fas fa-volume-up"></i>
+                                <i id="translatedIcons" class="fas fa-copy"></i>
+                            </div>
+                        </li>
+                    </ul>
                 </div>
-                
+                <button>Translate Text</button>
             </div>
         </div>
+        <script src="js/countries.js"></script>
+        <script src="js/script.js"></script>
 
         <div>    
         </div><!-- /breadcrumbs -->
