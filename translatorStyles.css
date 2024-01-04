@@ -1,12 +1,11 @@
-body{
+body
+  .container .translator-section{
     display: flex;
     align-items: center;
     justify-content: center;
     padding: 0 10px;
     min-height: 100vh;
-    background: #5372F0;
-  }
-  .container{
+
     max-width: 690px;
     width: 100%;
     padding: 30px;
@@ -14,19 +13,19 @@ body{
     border-radius: 7px;
     box-shadow: 0 10px 20px rgba(0,0,0,0.01);
   }
-  .wrapper{
+  .wrapper .translator-section{
     border-radius: 5px;
     border: 1px solid #ccc;
   }
-  .wrapper .text-input{
+  .translator-section .translator-input{
     display: flex;
     border-bottom: 1px solid #ccc;
   }
-  .text-input .to-text{
+  .translator-input .sourceText{
     border-radius: 0px;
     border-left: 1px solid #ccc;
   }
-  .text-input textarea{
+  .sourceText textarea{
     height: 250px;
     width: 100%;
     border: none;
@@ -37,22 +36,22 @@ body{
     padding: 10px 15px;
     border-radius: 5px;
   }
-  .text-input textarea::placeholder{
+  .sourceText textarea::placeholder{
     color: #b7b6b6;
   }
-  .controls, li, .icons, .icons i{
+  .translator-controls, li, .translator-icons, .translator-icons i{
     display: flex;
     align-items: center;
     justify-content: space-between;
   }
-  .controls{
+  .translator-controls{
     list-style: none;
     padding: 12px 15px;
   }
-  .controls .row .icons{
+  .translator-controls .row .translator-icons{
     width: 38%;
   }
-  .controls .row .icons i{
+  .translator-controls .row .translator-icons i{
     width: 50px;
     color: #adadad;
     font-size: 14px;
@@ -60,15 +59,15 @@ body{
     transition: transform 0.2s ease;
     justify-content: center;
   }
-  .controls .row.from .icons{
+  .translator-controls .row.sourceIcons .translator-icons{
     padding-right: 15px;
     border-right: 1px solid #ccc;
   }
-  .controls .row.to .icons{
+  .translator-controls .row.translatedIcons .translator-icons{
     padding-left: 15px;
     border-left: 1px solid #ccc;
   }
-  .controls .row select{
+  .translator-controls .row select{
     color: #333;
     border: none;
     outline: none;
@@ -95,13 +94,13 @@ body{
     border-radius: 8px;
     border-right: 2px solid #ffffff;
   }
-  .controls .exchange{
+  .translator-controls .exchange{
     color: #adadad;
     cursor: pointer;
     font-size: 16px;
     transition: transform 0.2s ease;
   }
-  .controls i:active{
+  .translator-controls i:active{
     transform: scale(0.9);
   }
   .container button{
@@ -117,30 +116,30 @@ body{
     background: #5372F0;
   }
   @media (max-width: 660px){
-    .container{
+    .container .translator-section{
       padding: 20px;
     }
-    .wrapper .text-input{
+    .wrapper .translator-input{
       flex-direction: column;
     }
-    .text-input .to-text{
+    .translator-input .translatedText{
       border-left: 0px;
       border-top: 1px solid #ccc;
     }
-    .text-input textarea{
+    .translator-input textarea{
       height: 200px;
     }
-    .controls .row .icons{
+    .translator-controls .row .translator-icons{
       display: none;
     }
     .container button{
       padding: 13px;
       font-size: 16px;
     }
-    .controls .row select{
+    .translator-controls .row select{
       font-size: 16px;
     }
-    .controls .exchange{
+    .translator-controls .exchange{
       font-size: 14px;
     }
   }
