@@ -320,12 +320,180 @@
         <meta name="msapplication-TileImage" content="https://www.choc.org/wp/wp-content/uploads/2020/07/cropped-cropped-CHOC_Favicon_512px-270x270.png" />
 
 		<style type="text/css" id="wp-custom-css">
-		/*
-        You can add your own CSS here.
+        .hs-form-261fdf75-a20c-4c7b-aa77-7e3e7a24cc04_79af9da0-bdbe-4c6e-a79f-10d7437b4be3 fieldset {
+            max-width: 100% !important;
+        }
+        \.page-id-89472 hr {
+            border-bottom: 1px solid #222222;
+        }
+
+        .translator-body{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 0 10px;
+            min-height: 100vh;
+            background: #5372F0;
+        }
         
-        Click the help icon above to learn more.
-        */
-        .hs-form-261fdf75-a20c-4c7b-aa77-7e3e7a24cc04_79af9da0-bdbe-4c6e-a79f-10d7437b4be3 fieldset {max-width: 100% !important;}.page-id-89472 hr {border-bottom: 1px solid #222222;
+        .translator-container{
+            max-width: 690px;
+            width: 100%;
+            padding: 30px;
+            background: #fff;
+            border-radius: 7px;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.01);
+        }
+
+        .translator-wrapper{
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+
+        .translator-wrapper .translator-input{
+            display: flex;
+            border-bottom: 1px solid #ccc;
+        }
+
+        .translator-input .to-text{
+            border-radius: 0px;
+            border-left: 1px solid #ccc;
+        }
+
+        .translator-input textarea{
+            height: 250px;
+            width: 100%;
+            border: none;
+            outline: none;
+            resize: none;
+            background: none;
+            font-size: 18px;
+            padding: 10px 15px;
+            border-radius: 5px;
+        }
+
+        .translator-input textarea::placeholder{
+            color: #b7b6b6;
+        }
+
+        .translator-controls, li, .translator-icons, .translator-icons i{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .translator-controls{
+            list-style: none;
+            padding: 12px 15px;
+        }
+
+        .translator-controls .row .translator-icons{
+            width: 38%;
+        }
+
+        .translator-controls .row .translator-icons i{
+            width: 50px;
+            color: #adadad;
+            font-size: 14px;
+            cursor: pointer;
+            transition: transform 0.2s ease;
+            justify-content: center;
+        }
+
+        .translator-controls .row .from .translator-icons{
+            padding-right: 15px;
+            border-right: 1px solid #ccc;
+        }
+
+        .translator-controls .row .to .translator-icons{
+            padding-left: 15px;
+            border-left: 1px solid #ccc;
+        }
+
+        .translator-controls .row select{
+            color: #333;
+            border: none;
+            outline: none;
+            font-size: 18px;
+            background: none;
+            padding-left: 5px;
+        }
+
+        .translator-input textarea::-webkit-scrollbar{
+            width: 4px;
+        }
+
+        .translator-controls .row select::-webkit-scrollbar{
+            width: 8px;
+        }
+
+        .translator-input textarea::-webkit-scrollbar-track,
+        .translator-controls .row select::-webkit-scrollbar-track{
+            background: #fff;
+        }
+
+        .translator-input textarea::-webkit-scrollbar-thumb{
+            background: #ddd;
+            border-radius: 8px;
+        }
+
+        .translator-controls .row select::-webkit-scrollbar-thumb{
+            background: #999;
+            border-radius: 8px;
+            border-right: 2px solid #ffffff;
+        }
+
+        .translator-controls .exchange{
+            color: #adadad;
+            cursor: pointer;
+            font-size: 16px;
+            transition: transform 0.2s ease;
+        }
+
+        .translator-controls i:active{
+            transform: scale(0.9);
+        }
+
+        .translator-container button {
+            width: 100%;
+            padding: 14px;
+            outline: none;
+            border: none;
+            color: #fff;
+            cursor: pointer;
+            margin-top: 20px;
+            font-size: 17px;
+            border-radius: 5px;
+            background: #5372F0;
+        }
+
+        @media (max-width: 660px){
+            .container{
+            padding: 20px;
+            }
+            .wrapper .text-input{
+            flex-direction: column;
+            }
+            .text-input .to-text{
+            border-left: 0px;
+            border-top: 1px solid #ccc;
+            }
+            .text-input textarea{
+            height: 200px;
+            }
+            .controls .row .icons{
+            display: none;
+            }
+            .container button{
+            padding: 13px;
+            font-size: 16px;
+            }
+            .controls .row select{
+            font-size: 16px;
+            }
+            .controls .exchange{
+            font-size: 14px;
+            }
         }
 		</style>
 
@@ -501,29 +669,32 @@
 
         <!-- Translation Textboxes -->
 
-        <div id="Translation" style="background: #efefef;">
-            <div class="container translator-section">
-                <div class="wrapper translator-section">
+        <div id="Translation" class="translator-body" style="background: #efefef;">
+            <div class="translator-container">
+                <div class="translator-wrapper">
                     <div class="translator-input">
-                        <textarea spellcheck="false" class="sourceText" placeholder="Type your text here..."></textarea>
-                        <textarea spellcheck="false" readonly disabled class="translatedText"></textarea>
+                        <textarea spellcheck="false" class="from-text" placeholder="Type to translate."></textarea>
+                        <textarea spellcheck="false" readonly disabled class="to-text" placeholder="Translation"></textarea>
                     </div>
                     <ul class="translator-controls">
-                        <li class="row sourceIcons">
-                            <div class="translator-icons">
-                                <i id="sourceIcons" class="fas fa-volume-up"></i>
-                                <i id="sourceIcons" class="fas fa-copy"></i>
-                            </div>
-                            <select></select>
-                        </li>
-                        <li class="exchange"><i class="fas fa-exchange-alt"></i></li>
-                        <li class="row translatedIcons">
-                            <select></select>
-                            <div class="translator-icons">
-                                <i id="translatedIcons" class="fas fa-volume-up"></i>
-                                <i id="translatedIcons" class="fas fa-copy"></i>
-                            </div>
-                        </li>
+                    <li class="row from">
+                        <div class="translator-icons">
+                            <i id="from" class="fas fa-volume-up"></i>
+                            <i id="from" class="fas fa-copy"></i>
+                        </div>
+                        <select></select>
+                    </li>
+                    <li class="exchange">
+                        <i class="fas fa-exchange-alt">
+                        </i>
+                    </li>
+                    <li class="row to">
+                        <select></select>
+                        <div class="translator-icons">
+                            <i id="to" class="fas fa-volume-up"></i>
+                            <i id="to" class="fas fa-copy"></i>
+                        </div>
+                    </li>
                     </ul>
                 </div>
                 <button>Translate Text</button>

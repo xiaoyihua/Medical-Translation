@@ -1,31 +1,37 @@
-body
-  .container .translator-section{
+.translator-body{
     display: flex;
     align-items: center;
     justify-content: center;
     padding: 0 10px;
     min-height: 100vh;
+    background: #5372F0;
+}
 
+.translator-container{
     max-width: 690px;
     width: 100%;
     padding: 30px;
     background: #fff;
     border-radius: 7px;
     box-shadow: 0 10px 20px rgba(0,0,0,0.01);
-  }
-  .wrapper .translator-section{
+}
+
+.translator-wrapper{
     border-radius: 5px;
     border: 1px solid #ccc;
-  }
-  .translator-section .translator-input{
+}
+
+.translator-wrapper .translator-input{
     display: flex;
     border-bottom: 1px solid #ccc;
-  }
-  .translator-input .sourceText{
+}
+
+.translator-input .to-text{
     border-radius: 0px;
     border-left: 1px solid #ccc;
-  }
-  .sourceText textarea{
+}
+
+.translator-input textarea{
     height: 250px;
     width: 100%;
     border: none;
@@ -35,75 +41,91 @@ body
     font-size: 18px;
     padding: 10px 15px;
     border-radius: 5px;
-  }
-  .sourceText textarea::placeholder{
+}
+
+.translator-input textarea::placeholder{
     color: #b7b6b6;
-  }
-  .translator-controls, li, .translator-icons, .translator-icons i{
+}
+
+.translator-controls, li, .translator-icons, .translator-icons i{
     display: flex;
     align-items: center;
     justify-content: space-between;
-  }
-  .translator-controls{
+}
+
+.translator-controls{
     list-style: none;
     padding: 12px 15px;
-  }
-  .translator-controls .row .translator-icons{
+}
+
+.translator-controls .row .translator-icons{
     width: 38%;
-  }
-  .translator-controls .row .translator-icons i{
+}
+
+.translator-controls .row .translator-icons i{
     width: 50px;
     color: #adadad;
     font-size: 14px;
     cursor: pointer;
     transition: transform 0.2s ease;
     justify-content: center;
-  }
-  .translator-controls .row.sourceIcons .translator-icons{
+}
+
+.translator-controls .row .from .translator-icons{
     padding-right: 15px;
     border-right: 1px solid #ccc;
-  }
-  .translator-controls .row.translatedIcons .translator-icons{
+}
+
+.translator-controls .row .to .translator-icons{
     padding-left: 15px;
     border-left: 1px solid #ccc;
-  }
-  .translator-controls .row select{
+}
+
+.translator-controls .row select{
     color: #333;
     border: none;
     outline: none;
     font-size: 18px;
     background: none;
     padding-left: 5px;
-  }
-  .text-input textarea::-webkit-scrollbar{
+}
+
+.translator-input textarea::-webkit-scrollbar{
     width: 4px;
-  }
-  .controls .row select::-webkit-scrollbar{
+}
+
+.translator-controls .row select::-webkit-scrollbar{
     width: 8px;
-  }
-  .text-input textarea::-webkit-scrollbar-track,
-  .controls .row select::-webkit-scrollbar-track{
+}
+
+.translator-input textarea::-webkit-scrollbar-track,
+.translator-controls .row select::-webkit-scrollbar-track{
     background: #fff;
-  }
-  .text-input textarea::-webkit-scrollbar-thumb{
+}
+
+.translator-input textarea::-webkit-scrollbar-thumb{
     background: #ddd;
     border-radius: 8px;
-  }
-  .controls .row select::-webkit-scrollbar-thumb{
+}
+
+.translator-controls .row select::-webkit-scrollbar-thumb{
     background: #999;
     border-radius: 8px;
     border-right: 2px solid #ffffff;
-  }
-  .translator-controls .exchange{
+}
+
+.translator-controls .exchange{
     color: #adadad;
     cursor: pointer;
     font-size: 16px;
     transition: transform 0.2s ease;
-  }
-  .translator-controls i:active{
+}
+
+.translator-controls i:active{
     transform: scale(0.9);
-  }
-  .container button{
+}
+
+.translator-container button {
     width: 100%;
     padding: 14px;
     outline: none;
@@ -114,32 +136,33 @@ body
     font-size: 17px;
     border-radius: 5px;
     background: #5372F0;
-  }
-  @media (max-width: 660px){
-    .container .translator-section{
-      padding: 20px;
+}
+
+@media (max-width: 660px){
+    .container{
+    padding: 20px;
     }
-    .wrapper .translator-input{
-      flex-direction: column;
+    .wrapper .text-input{
+    flex-direction: column;
     }
-    .translator-input .translatedText{
-      border-left: 0px;
-      border-top: 1px solid #ccc;
+    .text-input .to-text{
+    border-left: 0px;
+    border-top: 1px solid #ccc;
     }
-    .translator-input textarea{
-      height: 200px;
+    .text-input textarea{
+    height: 200px;
     }
-    .translator-controls .row .translator-icons{
-      display: none;
+    .controls .row .icons{
+    display: none;
     }
     .container button{
-      padding: 13px;
-      font-size: 16px;
+    padding: 13px;
+    font-size: 16px;
     }
-    .translator-controls .row select{
-      font-size: 16px;
+    .controls .row select{
+    font-size: 16px;
     }
-    .translator-controls .exchange{
-      font-size: 14px;
+    .controls .exchange{
+    font-size: 14px;
     }
-  }
+}
