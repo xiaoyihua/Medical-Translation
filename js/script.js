@@ -4,6 +4,7 @@ exchageIcon = document.querySelector(".exchange"),
 selectTag = document.querySelectorAll("select"),
 icons = document.querySelectorAll(".row i");
 translateBtn = document.querySelector("button"),
+
 selectTag.forEach((tag, id) => {
     for (let country_code in countries) {
         let selected = id == 0 ? country_code == "en-GB" ? "selected" : "" : country_code == "en-GB" ? "selected" : "";
@@ -11,6 +12,7 @@ selectTag.forEach((tag, id) => {
         tag.insertAdjacentHTML("beforeend", option);
     }
 });
+
 exchageIcon.addEventListener("click", () => {
     let tempText = fromText.value,
     tempLang = selectTag[0].value;
@@ -19,11 +21,13 @@ exchageIcon.addEventListener("click", () => {
     selectTag[0].value = selectTag[1].value;
     selectTag[1].value = tempLang;
 });
+
 fromText.addEventListener("keyup", () => {
     if(!fromText.value) {
         toText.value = "";
     }
 });
+
 translateBtn.addEventListener("click", () => {
     let text = fromText.value.trim(),
     translateFrom = selectTag[0].value,
@@ -41,6 +45,7 @@ translateBtn.addEventListener("click", () => {
         toText.setAttribute("placeholder", "Translation");
     });
 });
+
 icons.forEach(icon => {
     icon.addEventListener("click", ({target}) => {
         if(!fromText.value || !toText.value) return;
