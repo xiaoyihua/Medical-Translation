@@ -68,3 +68,21 @@ icons.forEach(icon => {
         }
     });
 });
+
+
+var typingTimer;
+
+$('#left').on('input', function() {
+    clearTimeout(typingTimer);
+
+    typingTimer = setTimeout(function() {
+        $.ajax({
+            type: 'POST',
+            url: 'translate.php',
+            data: { text: $('#left').val() },
+            success: function(data) {
+                $('#right').val(data);
+            }
+        });
+    }, 1000); // adjust this value to control the delay (in milliseconds)
+});

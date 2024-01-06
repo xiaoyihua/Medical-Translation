@@ -1,12 +1,24 @@
 <?php
+$apiKey = 'YOUR_API_KEY'; // replace with your actual API key
+$url = 'https://translation.googleapis.com/language/translate/v2?key=' . $apiKey;
 
-if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-    $sourceText = $_POST['sourceText'];
+$data = array(
+    'q' => $_POST['text'],
+    'target' => 'en'
+);
 
-    // Translate the text using a PHP library or the Google Translate API
-    // ...
+$options = array(
+    'http' => array(
+        'header' => "Content-type: application/x-www-form-urlencoded\r\n",
+        'method' => 'POST',
+        'content' => http_build_query($data)
+    )
+);
 
-    // Return the translated text
-    echo "<textarea name='translatedText' rows='10' cols='50' readonly>$translatedText</textarea>";
-}
+$context = stream_context_create($options);
+$result = file_get_contents($url, false, $context);
+
+$response = json_decode($result, true);
+
+echo $response['data']['translations'][0]['translatedText'];
 ?>
