@@ -3,7 +3,24 @@ toText = document.querySelector(".to-text"),
 exchageIcon = document.querySelector(".exchange"),
 selectTag = document.querySelectorAll("select"),
 icons = document.querySelectorAll(".row i");
-translateBtn = document.querySelector("button"),
+translateBtn = document.querySelector("button")
+
+var typingTimer;
+
+$('#left').on('input', function() {
+    clearTimeout(typingTimer);
+
+    typingTimer = setTimeout(function() {
+        $.ajax({
+            type: 'POST',
+            url: 'translate.php',
+            data: { text: $('#left').val() },
+            success: function(data) {
+                $('#right').val(data);
+            }
+        });
+    }, 1000); // adjust this value to control the delay (in milliseconds)
+});
 
 selectTag.forEach((tag, id) => {
     for (let country_code in countries) {
@@ -70,19 +87,4 @@ icons.forEach(icon => {
 });
 
 
-var typingTimer;
 
-$('#left').on('input', function() {
-    clearTimeout(typingTimer);
-
-    typingTimer = setTimeout(function() {
-        $.ajax({
-            type: 'POST',
-            url: 'translate.php',
-            data: { text: $('#left').val() },
-            success: function(data) {
-                $('#right').val(data);
-            }
-        });
-    }, 1000); // adjust this value to control the delay (in milliseconds)
-});
