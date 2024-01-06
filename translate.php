@@ -1,5 +1,5 @@
 <?php
-$apiKey = 'YOUR_API_KEY'; // replace with your actual API key
+$apiKey = 'YOUR_API_KEY'; // TODO: replace with your actual API key
 $url = 'https://translation.googleapis.com/language/translate/v2?key=' . $apiKey;
 
 $data = array(

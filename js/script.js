@@ -5,6 +5,8 @@ selectTag = document.querySelectorAll("select"),
 icons = document.querySelectorAll(".row i");
 translateBtn = document.querySelector("button")
 
+//TODO: add character limit
+
 var typingTimer;
 
 $('#left').on('input', function() {
