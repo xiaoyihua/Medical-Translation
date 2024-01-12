@@ -5,7 +5,8 @@ selectTag = document.querySelectorAll("select"),
 icons = document.querySelectorAll(".row i");
 translateBtn = document.querySelector("button")
 
-//TODO: add character limit
+//TODO: add character limit method
+
 
 var typingTimer;
 
