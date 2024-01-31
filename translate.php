@@ -1,6 +1,12 @@
 <?php
-$apiKey = 'YOUR_API_KEY'; // TODO: replace with your actual API key
-$url = 'https://translation.googleapis.com/language/translate/v2?key=' . $apiKey;
+require 'vendor/autoload.php'
+// TODO: actual API key
+
+$apiKey = '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'; 
+
+// Define the endpoint URL
+$endpoint = 'https://api.openai.com/v1/chat/completions';
+
 
 $data = array(
     'q' => $_POST['text'],
