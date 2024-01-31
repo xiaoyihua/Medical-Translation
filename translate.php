@@ -1,46 +1,39 @@
 <?php
-require 'vendor/autoload.php';
+    require 'vendor/autoload.php';
+    $client = OpenAI::client('YOUR_API_KEY');
 
-// TODO: actual API key
-$apiKey = ''; 
+    if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+        $text = $_POST['text'];
+        $translateFrom = $_POST['translateFrom'];
+        $translateTo = $_POST['translateTo'];
 
-// Define the endpoint URL
-$endpoint = 'https://api.openai.com/v1/chat/completions';
+        if (!empty($text)) {
+            $apiUrl = 'https://api.openai.com/v1/chat/completions';
+            $data = $client->chat()->create([
+                'model' => 'gpt-3.5-turbo',
+                'messages' => [[
+                    'role' => 'system',
+                    'content' => "You are a doctor. You speak multiple languages and are specialized in translating medical documents.",
+                ],
+                [
+                    'role' => 'user',
+                    'content' => "Translate the following text from $translateFrom to $translateTo: $text",
+                 ]],
+                 'temperature' => 1,
+                 'max_tokens' => 50,
+                 'top_p' => 1, 
+            ]);
 
-// Create a new Guzzle HTTP client
-$client = new \GuzzleHttp\Client();
+            if ($result !== false) {
+                echo $data['choices'][0]['message']['content'];
 
-// Define the prompt for ChatGPT
-$prompt = 'Translate the following English text to French:';
-
-// Make a POST request to the API
-$response = $client->post($endpoint, [
-    'headers' => [
-        'Authorization' => "Bearer $apiKey",
-    ],
-    'json' => [
-        'prompt' => $prompt,
-        'max_tokens' => 50, // Adjust the max tokens as needed
-    ],
-]);
-
-$data = array(
-    'q' => $_POST['text'],
-    'target' => 'en'
-);
-
-$options = array(
-    'http' => array(
-        'header' => "Content-type: application/x-www-form-urlencoded\r\n",
-        'method' => 'POST',
-        'content' => http_build_query($data)
-    )
-);
-
-$context = stream_context_create($options);
-$result = file_get_contents($url, false, $context);
-
-$response = json_decode($result, true);
-
-echo $response['data']['translations'][0]['translatedText'];
+            } else {
+                echo 'Error: Unable to make API call.';
+            }
+        } else {
+            echo 'Error: Text field is empty.';
+        }
+    } else {
+        echo 'Error: Invalid request method.';
+    }
 ?>
