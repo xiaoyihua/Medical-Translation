@@ -1,4 +1,4 @@
-/* TODO: Fix language dropdown centering. Add word count */
+/* TODO: Fix language dropdown centering location. Add word count */
 
 translator-body{
     display: flex;
@@ -10,7 +10,7 @@ translator-body{
 }
 
 .translator-container{
-    max-width: 690px;
+    max-width: 1380px;
     width: 100%;
     padding: 30px;
     background: #fff;

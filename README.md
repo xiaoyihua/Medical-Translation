@@ -1,13 +1,24 @@
 # Medical-Translation
-How to write a great documentation (in 5 points)
+What is the goal of this project?
+- This project seeks to leverage Microsoft Azure's GPT API in order to power medically compliant translation. This can help improve patient-doctor relationships among patients that do not primarily speak English.
 
-1. Use question and answer look (more like FAQs)
-2. Use pointers wherever possible
-    a. maximum 5, preferably 3
-    b. if goes beyond 5, try making sub-points instead
-3. Diagrams wherever possible. a 🖼 is worth a 1000 words
-4. Be precise, but accurate. And have  w h i t e  s p a c e s , increases readability.
-5. Avoid similar synonyms, generous adjectives, spellnig and grammatical the mistakes
-    a. repeat same words already used to refer something
-    b. have links to go to something previously explained
-    c. Avoid external links, instead provide a brief. Add link only for confidence (reduces distraction)
+What are the key files in this repository?
+- CHOCTranslation.htm contains a modified version of CHOC's website HTML. It contains assets originally found in CHOC's website in addition to new assets. 
+
+- CHOCTranslation.htm has been modified to directly include the translation box's CSS in the HTML as a style block.
+
+- The styles can be separately found in translatorStyles.css.
+
+- Icon assets are found in font-awesome.min.css.
+
+- Countries.js provides a reactive list for the translation box.
+
+- script.js contains functions that handle button events and creates a call to the PHP file.
+
+- translate.php contains the actual API call which then posts the result into the other translation box.
+
+How does this project assure translation quality?
+- We use a semantic similarity model to make sure our engineered prompt produces translations close to that of human translation.
+
+How does this project assure medical compliance?
+- We use Microsoft Azure's version of the API in order to have control over the data.
