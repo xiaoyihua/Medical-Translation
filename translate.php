@@ -1,7 +1,7 @@
 <?php
-require 'vendor/autoload.php'
-// TODO: actual API key
+require 'vendor/autoload.php';
 
+// TODO: actual API key
 $apiKey = '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'; 
 
 // Define the endpoint URL

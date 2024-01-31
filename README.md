@@ -15,6 +15,8 @@ What are the key files in this repository?
 
 - script.js contains functions that handle button events and creates a call to the PHP file.
 
+- vendor folder contains composer files to help connect to HTTPS for the API call
+
 - translate.php contains the actual API call which then posts the result into the other translation box.
 
 How does this project assure translation quality?
