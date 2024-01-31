@@ -7,26 +7,9 @@ translateBtn = document.querySelector("button")
 
 //TODO: add character limit method, change API to work with our API
 
-var typingTimer;
-
-$('#left').on('input', function() {
-    clearTimeout(typingTimer);
-
-    typingTimer = setTimeout(function() {
-        $.ajax({
-            type: 'POST',
-            url: 'translate.php',
-            data: { text: $('#left').val() },
-            success: function(data) {
-                $('#right').val(data);
-            }
-        });
-    }, 1000); // adjust this value to control the delay (in milliseconds)
-});
-
 selectTag.forEach((tag, id) => {
     for (let country_code in countries) {
-        let selected = id == 0 ? country_code == "en-GB" ? "selected" : "" : country_code == "en-GB" ? "selected" : "";
+        let selected = id == 0 ? country_code == "es-ES" ? "selected" : "" : country_code == "en-GB" ? "selected" : "";
         let option = `<option ${selected} value="${country_code}">${countries[country_code]}</option>`;
         tag.insertAdjacentHTML("beforeend", option);
     }
@@ -49,20 +32,24 @@ fromText.addEventListener("keyup", () => {
 
 translateBtn.addEventListener("click", () => {
     let text = fromText.value.trim(),
-    translateFrom = selectTag[0].value,
-    translateTo = selectTag[1].value;
-    if(!text) return;
+        translateFrom = selectTag[0].value,
+        translateTo = selectTag[1].value;
+    if (!text) return;
+
     toText.setAttribute("placeholder", "Translating...");
-    let apiUrl = `https://api.mymemory.translated.net/get?q=${text}&langpair=${translateFrom}|${translateTo}`;
-    fetch(apiUrl).then(res => res.json()).then(data => {
-        toText.value = data.responseData.translatedText;
-        data.matches.forEach(data => {
-            if(data.id === 0) {
-                toText.value = data.translation;
-            }
-        });
-        toText.setAttribute("placeholder", "Translation");
-    });
+
+    const xhr = new XMLHttpRequest();
+    xhr.open('POST', 'translate.php', true);
+    xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+    xhr.onload = function() {
+        if (xhr.status === 200) {
+            toText.value = xhr.responseText;
+            toText.setAttribute("placeholder", "Translation");
+        } else {
+            toText.setAttribute("placeholder", "Error: Unable to translate.");
+        }
+    };
+    xhr.send(`text=${text}&translateFrom=${translateFrom}&translateTo=${translateTo}`);
 });
 
 icons.forEach(icon => {

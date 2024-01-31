@@ -2,11 +2,27 @@
 require 'vendor/autoload.php';
 
 // TODO: actual API key
-$apiKey = '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'; 
+$apiKey = ''; 
 
 // Define the endpoint URL
 $endpoint = 'https://api.openai.com/v1/chat/completions';
 
+// Create a new Guzzle HTTP client
+$client = new \GuzzleHttp\Client();
+
+// Define the prompt for ChatGPT
+$prompt = 'Translate the following English text to French:';
+
+// Make a POST request to the API
+$response = $client->post($endpoint, [
+    'headers' => [
+        'Authorization' => "Bearer $apiKey",
+    ],
+    'json' => [
+        'prompt' => $prompt,
+        'max_tokens' => 50, // Adjust the max tokens as needed
+    ],
+]);
 
 $data = array(
     'q' => $_POST['text'],
