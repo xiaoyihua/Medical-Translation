@@ -7,6 +7,10 @@
     "config": {
         "allow-plugins": {
             "php-http/discovery": true
+        },
+        "preferred-install": "dist",
+        "platform": {
+        "php": "8.3.2"
         }
     }
 }
