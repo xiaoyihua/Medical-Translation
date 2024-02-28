@@ -5,6 +5,8 @@
         "nyholm/psr7": "^1.8"
     },
     "config": {
+        "optimize-autoloader": true,
+		"prepend-autoloader": false,
         "allow-plugins": {
             "php-http/discovery": true
         },
