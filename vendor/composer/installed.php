@@ -3,7 +3,7 @@
         'name' => '__root__',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'e003cb4adc0cf93ed7beb92d1a87b774d003d0ed',
+        'reference' => '212ea73abdb2a6284ee6a4ecf113afdafe8c35a1',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         '__root__' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'e003cb4adc0cf93ed7beb92d1a87b774d003d0ed',
+            'reference' => '212ea73abdb2a6284ee6a4ecf113afdafe8c35a1',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -29,9 +29,9 @@
             'dev_requirement' => false,
         ),
         'openai-php/client' => array(
-            'pretty_version' => 'v0.8.2',
-            'version' => '0.8.2.0',
-            'reference' => '081ea0b0096d5788ae1d4f8e2e4c82d7f68dccb7',
+            'pretty_version' => 'v0.8.4',
+            'version' => '0.8.4.0',
+            'reference' => '00470f5fedd7b08ee4860959d6952f0be0ec48a0',
             'type' => 'library',
             'install_path' => __DIR__ . '/../openai-php/client',
             'aliases' => array(),
@@ -110,8 +110,8 @@
         'psr/http-factory-implementation' => array(
             'dev_requirement' => false,
             'provided' => array(
-                0 => '*',
-                1 => '1.0',
+                0 => '1.0',
+                1 => '*',
             ),
         ),
         'psr/http-message' => array(
@@ -126,8 +126,8 @@
         'psr/http-message-implementation' => array(
             'dev_requirement' => false,
             'provided' => array(
-                0 => '*',
-                1 => '1.0',
+                0 => '1.0',
+                1 => '*',
             ),
         ),
         'psr/log' => array(
@@ -140,9 +140,9 @@
             'dev_requirement' => false,
         ),
         'symfony/http-client' => array(
-            'pretty_version' => 'v7.0.2',
-            'version' => '7.0.2.0',
-            'reference' => 'db714986d3b84330bb6196fdb201c9f79b3a8853',
+            'pretty_version' => 'v7.0.4',
+            'version' => '7.0.4.0',
+            'reference' => '8384876f49a2316a63f88a9cd12436de6936bee6',
             'type' => 'library',
             'install_path' => __DIR__ . '/../symfony/http-client',
             'aliases' => array(),
