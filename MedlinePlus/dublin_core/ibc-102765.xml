@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-102765</identifier>
+<setSpec>0001-6519</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Indirect laryngoscopy with rigid 70-degree laryngoscope as a predictor of difficult direct laryngoscopy</dc:title>
+<dc:description xml:lang="en">Introduction and objectives: The commonly-used predictors for difficult airway management are not very accurate. We investigate the power of indirect laryngoscopy with the rigid 70-degree laryngoscope as a predictor of difficult visualisation of the larynx with direct laryngoscopy. Methods: We performed preoperative indirect laryngoscopy with the rigid laryngoscope on 300 patients. The vision obtained was classified into four grades: 1 (vocal cords visible), 2 (posterior commissure visible), 3 (epiglottis visible) and 4 (no glottic structure visible). Grades 3 and 4 were considered predictors of difficult larynx visualisation. Next, direct laryngoscopy with the Macintosh laryngoscope was carried out on the patients under general anaesthesia. Positive value was defined as a Cormack and Lehane III and IV. Other common clinical predictors were also analysed. A logistic regression model using the relevant variables was elaborated. We also investigated predictors of difficult visualisation of the larynx with indirect laryngoscopy. Results: The model found and the coefficients for preparing it were: f(x)= -10.097+5.145 indirect laryngoscopy (3-4)+3.489 retrognathia +2.548 mouth opening &lt;3.5cm +1.911 thyromental distance &lt;6.5cm +1.352 snorer+(0.151 * cm neck thickness). This model provided a correct result in 94.3% of cases. In the case of indirect laryngoscopy, the model found was: f (x)=-2.641+0.920 snorer+0.875 cervical mobility. Conclusions: Indirect laryngoscopy was the independent variable with the greatest predictive power. Snoring is a common predictor in both laryngoscopy models(AU)</dc:description>
+<dc:creator>Hernández-Cádiz, Maria J</dc:creator>
+<dc:creator>Sánchez-Morillo, Jorge</dc:creator>
+<dc:creator>Gómez-Diago, Lorena</dc:creator>
+<dc:creator>Estruch-Pérez, María J</dc:creator>
+<dc:creator>Richart-Aznar, Maite</dc:creator>
+<dc:creator>Tamarit-Conejeros, José M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos: Los predictores comúnmente utilizados para prever la vía aérea difícil poseen poca capacidad para pronosticarla. Nuestro objetivo es investigar la potencia de la laringoscopia indirecta con el laringoscopio rígido de 70° como predictor de dificultad de visión de la laringe con la laringoscopia directa. Métodos: Se efectuó una laringoscopia indirecta con el laringoscopio rígido en el preoperatorio a 300 pacientes. Según la visión obtenida fueron clasificados en 4 grados: 1 (cuerdas vocales visibles), 2 (comisura posterior visible), 3 (visión solo de epiglotis) y 4 (ninguna estructura glótica visible). EL 3 y el 4 eran considerados predictores de dificultad de visión de la laringe. Después, bajo anestesia general, practicamos a los pacientes la laringoscopia directa con el laringoscopio de Macintosh. Valoramos como positivo el encontrar un Cormack-Lehane III-IV. Se registraron otros predictores clínicos comunes. Se elaboró un modelo de regresión logística con fines predictivos utilizando las variables relevantes. Investigamos también los predictores de la dificultad de visión de la laringe con la laringoscopia indirecta. Resultados: El modelo encontrado y sus coeficientes para confeccionarlo fueron: f(x)=-10,097+5,145 laringoscopia indirecta (3-4)+3,489 retrognatia +2,548 apertura boca &lt;3,5cm+1,911 distancia tiromentoniana  &lt;6,5cm+1,352 roncopatía+ (0,151*cm grosor cuello). Proporciona un resultado correcto en el 94,3% de los casos. En el caso de la laringoscopia indirecta el modelo hallado era: f(x)=-2,641+0,920 roncopatía+0,875 movilidad cervical. Conclusiones: La laringoscopia indirecta fue la variable independiente con más poder predictivo (mayor coeficiente). La roncopatía es un predictor común entre los modelos de ambas laringoscopias(AU)</dc:description>
+<dc:source>Acta Otorrinolaringol Esp;63(4): 272-279, jul.-ago. 2012. graf, tab</dc:source>
+<dc:identifier>ibc-102765</dc:identifier>
+<dc:title xml:lang="es">La laringoscopia indirecta mediante endoscopio rígido de 70º como valor predictivo de la dificultad de visión de la laringe</dc:title>
+<dc:subject>^d13776^s22073</dc:subject>
+<dc:subject>^d7603^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d8009^s29166</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d28119^s29166</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d4805^s22074</dc:subject>
+<dc:subject>^d8007^s22074</dc:subject>
+<dc:subject>^d4805^s22045</dc:subject>
+<dc:subject>^d8007^s22045</dc:subject>
+<dc:subject>^d8009^s22053</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d7602^s22045</dc:subject>
+<dc:subject>^d8007^s22039</dc:subject>
+<dc:subject>^d24841^s22073</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201208</dc:date>
+</metadata>
+</record>
+</ibecs-document>

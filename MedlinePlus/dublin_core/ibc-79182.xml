@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-79182</identifier>
+<setSpec>1132-8460</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Different doses of genistein and daidzein phytoestrogens affect cell viability and expression of factors involved in the development of prostrate carcinoma differently</dc:title>
+<dc:description xml:lang="en">Introduction. Epidemiological studies suggest that soy phytoestrogens might be responsible for the low incidence of prostate carcinoma (PCa) in Asian populations. PCa cells express regulatory factors of cell proliferation and viability, and also several factors that interact with cells in the bone microenvironment. In the present study, we evaluated the effects of soy phytoestrogens genistein and daidzein on cell viability and apoptosis, and also on the expression of parathormone-related protein (PTHrP) and its receptor (PTH1R), osteoprotegerina (OPG) and receptor activator of nuclear factor kappa B ligand (RANK-L) in the human PCa cell lines PC-3 and LNCaP. Patients and methods. Cells were seeded at 20,000 cells/cm2 in RPMI with 10% fetal bovine serum, and then were incubated with different concentrations of each phytoestrogen or saline vehicle (basal control) for 1-4 days. Cell viability was evaluated by Trypan blue exclusion, and apoptosis was determined by flow citometry. Gene expression of PTHrP was analyzed by semiquantitative RT-PCR with specific primers. Protein expression of PTHrP, the PTH1R, OPG, and RANKL was determined by western blot in total cell protein or cell membrane (RANKL) extracts. Results. We found that both genistein and daidzein, at µM range, decrease cell viability and increase apoptosis; but genistein was more potent and efficient than daidzein in both PCa cell lines. In addition, these isoflavones, at ¾ nM, increase the expression of PTHrP and the PTH1R, and also the OPG/RANKL ratio in these cells. Conclusions. These findings demonstrate that different concentrations of genistein and daidzein induce distinct effects on PCa cells that might affect PCa development(AU)</dc:description>
+<dc:creator>Esbrit, P</dc:creator>
+<dc:creator>Alonso, V</dc:creator>
+<dc:creator>Gortázar, A. R. de</dc:creator>
+<dc:creator>Pérez Martínez, F. C</dc:creator>
+<dc:creator>Calahorra, F. J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. Estudios epidemiológicos sugieren que los fitoestrógenos de la soja podrían ser responsables de la baja incidencia del carcinoma prostático (CaP) en poblaciones asiáticas. Las células de CaP expresan factores reguladores de la proliferación/viabilidad celular, así como factores capaces de interaccionar con las células en el microambiente óseo. En el presente estudio hemos evaluado los efectos de los fitoestrógenos de la soja, genisteína y daidzeína, sobre la viabilidad celular/apoptosis y sobre la expresión de la proteína relacionada con la parathormona (PTHrP) y su receptor (PTH1R), la osteoprotegerina (OPG) y el ligando del receptor activador del NF-kappa B (RANKL) en las células de CaP humano PC-3 y LNCaP. Pacientes y métodos. Las células, sembradas a 20.000 células/cm2 en RPMI con suero fetal bovino al 10%, se incubaron con distintas concentraciones de cada fitoestrógeno o el vehículo salino (control basal) durante 1-4 días. La viabilidad celular se evaluó por exclusión con azul de tripán y la apoptosis se determinó por citometría de flujo. La expresión génica de PTHrP se analizó por RT-PCR semicuantitativa con cebadores específicos. La expresión proteica de PTHrP, PTH1R, OPG y RANKL se determinó por transferencia western en extractos de proteína celular total o de membrana (RANKL). Resultados. Hemos encontrado que tanto la genisteína como la daidzeína en el rango µM disminuyen la viabilidad celular e incrementan la apoptosis; siendo la genisteína más potente y eficaz que la daidzeína en ambos tipos celulares. Además, estas isoflavonas a dosis ¾ nM aumentan la expresión de PTHrP y del PTH1R, así como la relación OPG/RANKL en estas células. Conclusiones. Estos hallazgos demuestran que diferentes dosis de genisteína y daidzeína inducen efectos diversos sobre las células de CaP que podrían afectar al desarrollo de este tumor(AU)</dc:description>
+<dc:source>Rev. esp. enferm. metab. óseas (Ed. impr.);15(5): 91-97, sept. 2006. ilus</dc:source>
+<dc:identifier>ibc-79182</dc:identifier>
+<dc:title xml:lang="es">Diferentes dosis de los fitoestrógenos genisteína y daidzeína afectan de distinto modo a la viabilidad celular y a la expresión de factores implicados en el desarrollo de cáncer de próstata</dc:title>
+<dc:subject>^d24666^s22038</dc:subject>
+<dc:subject>^d34543^s22045</dc:subject>
+<dc:subject>^d52396^s22073</dc:subject>
+<dc:subject>^d34543^s22074</dc:subject>
+<dc:subject>^d11914^s22080</dc:subject>
+<dc:subject>^d5567^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d5567^s22066</dc:subject>
+<dc:subject>^d13406^s22020</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d30827^s22031</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d38791^s22065</dc:subject>
+<dc:subject>^d38791^s22020</dc:subject>
+<dc:subject>^d33414^s22073</dc:subject>
+<dc:subject>^d38791^s22073</dc:subject>
+<dc:subject>^d36190^s22065</dc:subject>
+<dc:subject>^d2505^s22031</dc:subject>
+<dc:subject>^d28224^s22074</dc:subject>
+<dc:subject>^d24666^s22031</dc:subject>
+<dc:subject>^d28224^s22066</dc:subject>
+<dc:subject>^d24666^s22033</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200609</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-29286</identifier>
+<setSpec>1132-1296</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Computer assisted text analysis in qualitative research</dc:title>
+<dc:creator>Conti-Cuesta, F</dc:creator>
+<dc:creator>PrietoRodríguez, M. A</dc:creator>
+<dc:creator>Pinzón-Pulielo, S. A</dc:creator>
+<dc:creator>Salas-Gaspar</dc:creator>
+<dc:creator>Gil-García, E</dc:creator>
+<dc:creator>Cruz-Piqueras, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Fundación Index</dc:publisher>
+<dc:description xml:lang="es">El objetivo de este artículo es presentar un proceso de análisis del texto apoyado en un programa informático. Se proponen dos tipos de análisis: Análisis de Contenido y Análisis de Discurso. El Análisis de Contenido se desarrolla en tres niveles: a) Sintáctico: búsqueda de palabras o caracteres, b) Semántico: busca el sentido de las palabras y el análisis de las categorías propuestas. c) Pragmático: trata de descubrir las circunstancias en las que la comunicación tiene lugar. El Análisis de Discurso busca captar el sistema de creencias que subyace al lenguaje verbal y describir sentidos, significados e interacciones entre los entrevistados. Existen programas informáticos que facilitan la tarea de organización y análisis de la información textual, cumpliendo tres funciones básicas: 1) codificación del texto y capacidad de relacionar categorías y sujetos de forma automática; 2) elaboración de tipologías o perfiles con base en las variables sociodemográficas y de opinión; y, 3) posibilidad de trabajar con grandes cantidades de información de forma simultánea, (AU)</dc:description>
+<dc:source>Index enferm;11(36/37): 24-28, abr. 2002.</dc:source>
+<dc:identifier>ibc-29286</dc:identifier>
+<dc:title xml:lang="es">El Análisis de Texto asistido por Ordenador en la Investigación Cualitativa</dc:title>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d12527^s22045</dc:subject>
+<dc:subject>^d19402</dc:subject>
+<dc:subject>^d13344</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d33673</dc:subject>
+<dc:subject>^d13042</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200204</dc:date>
+</metadata>
+</record>
+</ibecs-document>

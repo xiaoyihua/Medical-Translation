@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-20170</identifier>
+<setSpec>1137-6627</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prevalence of CYP2D6 mutations in sporadic Parkinson's disease: case-control study</dc:title>
+<dc:creator>García Delgado, M</dc:creator>
+<dc:creator>Novo, F. J</dc:creator>
+<dc:creator>Viñes, J. J</dc:creator>
+<dc:creator>Vizmanos, J. L</dc:creator>
+<dc:creator>Guerrero, D</dc:creator>
+<dc:creator>Larumbe, R</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Departamento de Salud. Gobierno de Navarra</dc:publisher>
+<dc:description xml:lang="es">Los factores genéticos parecen tener un papel importante en el desarrollo de la enfermedad de Parkinson. La degeneración de la sustancia negra, característica de esta enfermedad, puede deberse al efecto tóxico de sustancias derivadas del metabolismo celular. El gen CYP2D6 codifica para la enzima metabolizadora debrisoquina-4- hidroxilasa implicada en la detoxificación de parte de estos productos. La presencia de determinadas mutaciones en el gen conlleva la falta de actividad enzimática y genera el fenotipo "pobre metabolizador". Se ha analizado mediante la técnica de PCR-RFLP la presencia de las mutaciones genéticas CYP2D6 3, CYP2D6 4, CYP2D6 6 y CYP2D6 8 en un grupo de 46 pacientes con EP y en 54 controles, con el fin de estudiar el posible valor del genotipo CYP2D6 como factor de riesgo para la enfermedad de Parkinson en la población navarra. Los alelos CYP2D6 3, 6 y 8 no están representados en la población de estudio. No hemos obtenido una mayor prevalencia de mutaciones CYP2D6 4 en los pacientes con respecto a los controles (30,43 por ciento vs 44,44 por ciento). No existe correlación entre la enfermedad de Parkinson y la presencia de las mutaciones CYP2D6 4 (odds ratio 0,55; 95 por ciento IC 0,24 a 1,25), en homocigosis (odds ratio 0,38; 95 por ciento IC 0,04 a 3,76) o en heterocigosis (odds ratio 0,62; 95 por ciento IC 0,27 a 1,44). En conclusión, el genotipo CYP2D6 no constituye un factor de EP (AU)</dc:description>
+<dc:source>An Sist Sanit Navar;25(2): 147-154, mayo 2002. ilus, tab</dc:source>
+<dc:identifier>ibc-20170</dc:identifier>
+<dc:title xml:lang="es">Prevalencia de mutaciones CYP2D6 en enfermedad de Parkinson esporádica: estudio caso-control</dc:title>
+<dc:subject>^d10833</dc:subject>
+<dc:subject>^d33011^s22033</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d10489^s22026</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d9346^s22033</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d10489^s22033</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24551</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200205</dc:date>
+</metadata>
+</record>
+</ibecs-document>

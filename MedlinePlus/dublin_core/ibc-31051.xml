@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-31051</identifier>
+<setSpec>0212-7113</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Differences between ethanol concentrations in serum and blood: correlation and implications in clinical and legal diagnosis of ethanol overdose</dc:title>
+<dc:creator>Ferrer Dufol, Ana</dc:creator>
+<dc:creator>Laguna Castrillo, Mariano</dc:creator>
+<dc:creator>Tomas Buisan, M. Luisa</dc:creator>
+<dc:creator>Cerrada Lamuela, Elena</dc:creator>
+<dc:creator>Tomas Buisan, Luis</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Asociación Española de Toxicología</dc:publisher>
+<dc:description xml:lang="es">Se presentan los resultados de un trabajo que pretende verificar la correlación existente entre la concentración de etanol en suero y sangre medidas mediante la técnica enzimática de la alcohol deshidrogenasa en 283 muestras, aplicando un modelo simple de regresión lineal. Se ha comprobado la existencia de una buena correlación entre las concentraciones de etanol en ambos medios (r2 = 0,9739) con un intervalo de confianza al 95 por ciento de: +/-0,17 gr/litro (AU)</dc:description>
+<dc:source>Rev. toxicol;17(1): 33-35, ene.-abr. 2000. tab, graf</dc:source>
+<dc:identifier>ibc-31051</dc:identifier>
+<dc:title xml:lang="es">Diferencia en la concentración de etanol en suero y sangre total: correlación e implicaciones en el diagnóstico clínico y legal de la intoxicación etílica</dc:title>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d439^s22032</dc:subject>
+<dc:subject>^d431^s22062</dc:subject>
+<dc:subject>^d24551</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d37778^s22002</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200004</dc:date>
+</metadata>
+</record>
+</ibecs-document>

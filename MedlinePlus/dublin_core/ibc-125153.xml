@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-125153</identifier>
+<setSpec>0001-6519</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cochlear microphonic latency</dc:title>
+<dc:description xml:lang="en">Introduction and objective: By using appropriate instrumentation, we have found that cochlear microphonics (CM) advance or delay their appearance, depending on the sound pressure that generates them. This time variation is on the order of microseconds. We have not found any reference to this behaviour, which is why we make the finding known. Material and method: We used the standard instrumentation specified for the study of CM. The method was based on the phase shift function of the CM according to the intensity of the stimulus. Results: Latency was observed in CM, and we determined that latency time diminishes as the intensity of the stimulus increases. Conclusions: From the sound stimulus to the bioelectric potential transduction, there is a time period of microseconds, the shorter the more powerful the stimulus. This suggests that electromechanical transduction is not a simple mechanical process (AU)</dc:description>
+<dc:creator>Sanjuán Juaristi, Julio</dc:creator>
+<dc:creator>Sanjuán Martínez-Conde, Mar</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivo: Empleando la instrumentación adecuada, venimos constatando que los microfónicos cocleares (MC) evocados adelantan o retrasan su aparición en función de la presión sonora que los genera. Esta variación en el tiempo es del orden de microsegundos. No hemos encontrado referencia alguna de este comportamiento, razón por la cual damos conocer el hallazgo. Material y método: Se emplea instrumentación específica para el estudio de los MC. El método se basa en el desplazamiento de fase de los MC en función de la intensidad del estímulo. Resultados: Se constata la latencia en los MC y se observa que la misma disminuye a medida que se incrementa la intensidad del estímulo. Conclusiones: Desde el estímulo sonoro a la traducción en potencial bioeléctrico encontramos un periodo de tiempo en microsegundos, menor a mayor potencia. Esto sugiere que traducción mecano-eléctrica no es un simple proceso de naturaleza mecánica (AU)</dc:description>
+<dc:source>Acta Otorrinolaringol Esp;65(4): 231-236, jul.-ago. 2014. ilus, graf, tab</dc:source>
+<dc:identifier>ibc-125153</dc:identifier>
+<dc:title xml:lang="es">Latencia de los microfónicos cocleares</dc:title>
+<dc:subject>^d7935^s22031</dc:subject>
+<dc:subject>^d12364^s22031</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6351^s22031</dc:subject>
+<dc:subject>^d37635^s22031</dc:subject>
+<dc:subject>^d3083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201408</dc:date>
+</metadata>
+</record>
+</ibecs-document>

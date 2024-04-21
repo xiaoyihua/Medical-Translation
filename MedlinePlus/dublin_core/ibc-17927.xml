@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-17927</identifier>
+<setSpec>0212-6567</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Measurement of the legibility of written texts. Correlation between the flesch manual method and computer</dc:title>
+<dc:creator>Simón Lorda, P</dc:creator>
+<dc:creator>Barrio Cantalejo, I</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Objetivo. Correlacionar el cálculo del índice de legibilidad de Flesch por el método manual original y su determinación mediante los programas informáticos Word Perfect 7 y Microsoft Word 2000, así como la correlación entre otras medidas informáticas de la legibilidad. Diseño. Estudio observacional, descriptivo. Emplazamiento. Un centro de salud de Madrid, en el marco de un estudio sobre legibilidad de folletos de educación para la salud (EPS).Material. Una muestra de texto de 100 folletos de EPS y 11 textos generales de control. Mediciones principales. Los 11 textos fueron analizados mediante el método manual original de Flesch y los programas informáticos mencionados, con los que se calculó numero de palabras y frases, puntuación de Flesch, índice de complejidad oracional y se estimó el índice LEGIN. Se estimó el coeficiente de correlación de Pearson de todas las variables. Resultados. La correlación entre la medición manual del índice de Flesch, el número de palabras y frases y su determinación por los métodos informáticos es muy buena (r &gt; 0,75) y entre los 2 programas es excelente (r &gt; 0,9). Los resultados apoyan las puntuaciones de corte de la legibilidad medida informáticamente planteadas por otros trabajos. Conclusiones. La medición de la legibilidad mediante los programas informáticos utilizados puede sustituir con fiabilidad a la medición manual del índice de Flesch  (AU)</dc:description>
+<dc:source>Aten Primaria;31(2): 104-108, feb. 2003.</dc:source>
+<dc:identifier>ibc-17927</dc:identifier>
+<dc:title xml:lang="es">Medición de la legibilidad de textos escritos. Correlación entre método manual de Flesch y métodos informáticos</dc:title>
+<dc:subject>^d19402</dc:subject>
+<dc:subject>^d12366</dc:subject>
+<dc:subject>^d23864</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200302</dc:date>
+</metadata>
+</record>
+</ibecs-document>

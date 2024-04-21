@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-28783</identifier>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Ionic dialysante to control the dosis of dialysis. One year experience</dc:title>
+<dc:creator>Ortuño, J</dc:creator>
+<dc:creator>Alarcón, C</dc:creator>
+<dc:creator>Arambarri, M</dc:creator>
+<dc:creator>Echarri, R</dc:creator>
+<dc:creator>Marcén, D</dc:creator>
+<dc:creator>Fernández Lucas, M</dc:creator>
+<dc:creator>Rivera, M</dc:creator>
+<dc:creator>Merino, J. L</dc:creator>
+<dc:creator>Teruel, J. L</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Grupo Aula Médica, S.A.</dc:publisher>
+<dc:description xml:lang="es">Introducción: Mediante el cálculo de la dialisancia iónica, el monitor Diascan (Hospal) permite obtener el valor del aclaramiento de urea (K) y del Kt en cada sesión de hemodiálisis. Si dividimos el Kt así obtenido por el Kt/V calculado por cualquiera de las fórmulas al uso, obtendremos para cada enfermo un valor de V acorde al método utilizado para calcular el Kt/V. Introduciendo el valor V de cada enfermo, el programa Diascan proporciona un valor Kt/V de forma automática y sin precisar reactivo. Objetivo: Durante el año 2002 hemos controlado la dosis de diálisis de los enfermos de nuestra unidad mediante el Kt/V del Diascan (Kt/V Diascan). El objetivo del presente trabajo ha sido estudiar la concordancia entre el Kt/V Diascan y el Kt/V calculado por el método de Lowrie de 1983 (Kt/V Lowrie83).Material y métodos: El estudio ha sido realizado en los 63 enfermos crónicos que a lo largo del año 2002 se han dializado en un monitor Integra (Hospal) equipado con el sistema Diascan. En cada enfermo se calculó V dividiendo el Kt Diascan entre el KtV Lowrie83. El cálculo se hizo en dos sesiones de diálisis consecutivas, utilizando como V la media de las dos medidas. El valor V de cada enfermo fue introducido en su programa Diascan y de esta forma obtuvimos un valor Kt/V Diascan en todas las sesiones de hemodiálisis. A lo largo del año 2002 hemos realizado 7 estudios de concordancia entre Kt/V" Diascan y Kt/V Lowrie83. La concordancia entre ambos procedimientos (variabilidad intermétodo) se ha estudiado mediante su diferencia relativa = 100 × (diferencia absoluta Kt/V Lowrie83-Lt/V Diascan)/media de ambos Kt/V. Se consideró que la concordancia entre ambos métodos era aceptable cuando la variabilidad intermétodo era igual o inferior al 10 por ciento.Para valorar la utilidad del Kt/V Diascan en el control diario de la dosis de diálisis, se analizó su valor en todas las sesiones de diálisis realizadas en un mes elegido de forma arbitraria (julio de 2002). Durante todo ese mes se dializaron 41 enfermos en un monitor Integra con control Diascan. El número total de se siones analizadas fue de 554. En cada enfermo se estudió la variabilidad de la dosis de diálisis que recibió en todas las sesiones de ese mes. Resultados: En los 7 estudios de concordancia realizados no se objetivó una diferencia estadísticamente significativa entre ambos procedimientos, la variabilidad intermétodo media osciló entre el 5,2 y el 6,6 por ciento y el porcentaje de casos con variabilidad intermétodo igual o inferior al 10 por ciento estuvo comprendido entre el 83 y el 91 por ciento. En 11 de los 63 enfermos hubo que reajustar el valor de V durante el período de seguimiento. De las 554 sesiones realizadas con control Diascan durante un mes, en 41 (7 por ciento) se produjo fallo de lectura. En el 93 por ciento de las 513 sesiones válidas, el Kt/V Diascan fue superior a 1. De los 41 enfermos analizados durante ese mes, en 38 (93 por ciento) el Kt/V medio del mes fue superior a 1. El coeficiente de variación de la dosis de diálisis de cada enfermo en todas las sesiones recibidas en el mes, osciló entre 2,1 por ciento y 12,4 por ciento siendo la media de 5,1 por ciento. Conclusiones: Nuestra experiencia a lo largo de un año indica que el Kt/V Diascan mantiene una buena correlación con el Kt/V simplificado que ha sido utilizado como referencia. De forma periódica es necesario realizar estudios de concordancia para detectar posibles variaciones en el volumen de distribución de la urea de cada enfermo. El Kt/V Diascan un dato bastante fidedigno de la dosis de diálisis administrada a cada enfermo al final de cada sesión (AU)</dc:description>
+<dc:source>Nefrologia;23(5): 444-450, 2003.</dc:source>
+<dc:identifier>ibc-28783</dc:identifier>
+<dc:title xml:lang="es">Utilidad de la dialisancia iónica para control de la dosis de diálisis. Experiencia de un año</dc:title>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d7645</dc:subject>
+<dc:subject>^d29407</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23663</dc:subject>
+<dc:subject>^d9183</dc:subject>
+<dc:subject>^d14907</dc:subject>
+<dc:subject>^d50497</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200300</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-119032</identifier>
+<setSpec>1134-3230</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Costs and outcome of a glucometer that detects severe hypoglycemia patterns in patients with diabetes mellitus</dc:title>
+<dc:description xml:lang="en">Objective: To estimate the cost, outcome and economic impact, of the use of a Blood Glucose Monitoring System (BGMS) with pattern alert technology compared with standard BGMS, for the prevention of severe hypoglycemia (SH) in the insulin-treated type 1 and type 2 diabetes populations. Material and methods: A short term model has been constructed from literature data. It has been assumed that the cost of both BGMS and their corresponding strips are identical between alternatives, including only the direct cost of the severe hypoglycemia event caused by poor metabolic control. Results: BGMS shows low sensitivity and positive predictive value, and high specificity and negative predictive value. With a baseline risk of hypoglycemia of around 9% for the insulintreated DM1 and DM2 population, and 17% for DM1 population &lt; 17 years, the trend detector algorithm could prevent between 20% and 35% of severe hypoglycemias. Cost saving per patient would be between &#128; 12 and &#128; 39, respectively. Moreover, this monitoring system could save costs of around &#128; 7.7 million &#128; for the Health System in a baseline analysis. Conclusions: BGMS with pattern alert technology is effective in preventing severe hypoglycemia and can be cost saving for Spanish health system. Nevertheless, empirical data on the probability of reducing Severe Hypoglycemia is necessary in order to reach any firm conclusions (AU)</dc:description>
+<dc:creator>Olry de Labry Lima, Antonio</dc:creator>
+<dc:creator>García-Mochón, Leticia</dc:creator>
+<dc:creator>Espín Balbino, Jaime</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Evaluar en términos de coste, resultado e impacto económico el uso de un glucómetro para la monitorización ambulatoria de la glucosa capilar (MAGC), con detector de tendencias glucémicas, comparado con otro que carezca de esta herramienta, para la prevención de hipoglucemias graves (HG) en población con diabetes tipo 1 (DM1) y tipo 2 (DM2) en tratamiento con insulina. Material y métodos: Se ha realizado un modelo de análisis a corto plazo a partir de datos recogidos de la literatura. En el análisis de costes e impacto económico se ha asumido que el coste de los medidores y sus correspondientes tiras son idénticos entre las alternativas, incluyendo solo el coste directo derivado del evento de hipoglucemia grave causado por un mal control metabólico. Resultados: El sistema de MAGC muestra bajos valores de sensibilidad y valores predictivos positivos, y altos valores de especificidad y valores predictivos negativos. Con un riesgo basal de HG en torno al 9% para población DM1 y DM2 en tratamiento con insulina y 17% para población con DM1 &lt; 17 años, el algoritmo con detector de tendencias podría evitar entre el 20 y 35% de las hipoglucemias graves, suponiendo un potencial ahorro de costes por paciente de entre 12 y 39 euros, respectivamente. Asimismo, supondría un ahorro potencial en torno a 7,7 millones de euros para el Sistema Nacional de Salud (SNS) en el análisis basal, asumiendo una tasa de incidencia de un evento de HG por paciente/año. Conclusiones: El modelo estima que el sistema de MAGC con detector de tendencias es efectivo y puede ahorrar costes para el SNS respecto a un sistema de MAGC tradicional. Sin embargo, en el caso de las hipoglucemias graves se hace necesario contar con datos empíricos para poder afirmar dicha conclusión (AU)</dc:description>
+<dc:source>Av. diabetol;30(1): 9-16, ene.-feb. 2014. graf, tab</dc:source>
+<dc:identifier>ibc-119032</dc:identifier>
+<dc:title xml:lang="es">Costes y efectividad de un detector de tendencias glucémicas en pacientes con diabetes mellitus</dc:title>
+<dc:subject>^d30313</dc:subject>
+<dc:subject>^d7124^s22054</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d37656</dc:subject>
+<dc:subject>^d3942^s22054</dc:subject>
+<dc:subject>^d23570^s22018</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201402</dc:date>
+</metadata>
+</record>
+</ibecs-document>

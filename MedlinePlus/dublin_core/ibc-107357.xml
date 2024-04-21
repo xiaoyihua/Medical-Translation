@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-107357</identifier>
+<setSpec>0214-1221</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Spanish pediatric research in medline</dc:title>
+<dc:description xml:lang="en">The objective of this work was to elaborate and apply search filters to retrieve the Spanish scientific output (SO) in pediatrics. Abibliographic search was carried out in MEDLINE. The search was based on the construction and application of a Spanish geographic filter, elaborated according to a previous model, and a thematic one to retrieve records in the pediatric area. The following was determined: frequency of the records, place of publication, language, journal, number of authors and year of publication; to observe the dynamics of the SO, a bibliographic study was carried out over a period of ten years. By applying the geographic filter, 277,949 records were retrieved; 620 were retrieved in the pediatric Spanish area. Of these, 262 (42.26%) were published between 2000-2009. Most of records were signed by one author. In Spain, the records were published in 42 journals and abroad in 79 journals. A search filter able to retrieve the pediatric Spanish SO was created, that supposed 1.22% of the total records in the pediatric field encompassed by MEDLINE. Approximately 80% of these articles were published in Spain (AU)</dc:description>
+<dc:creator>Radut, D. S</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En este trabajo se planteó como objetivo elaborar y aplicar filtros de búsqueda para recuperar la producción científica (PC) pediátrica española. Se empleó una búsqueda bibliográfica en MEDLINE, basada en la construcción y la aplicación de un filtro geográfico español, elaborado según un modelo previo, y uno temático para recuperar referencias en el área pediátrica. Se determinaron: frecuencia de las referencias, lugar de publicación, idioma, revista, número de autores y año de publicación; para observar la dinámica de la PC se realizó un estudio bibliográfico sobre un período de diez años. Mediante el filtro geográfico se recuperaron277.949 referencias; en el área pediátrica española se recuperaron620. De estas, 262 (42,26%) se publicaron entre 2000-2009. El mayor número de referencias estaban firmadas por un autor. En España, las referencias se publicaron en 42 revistas y en el extranjero en 79 revistas. Se elaboró un filtro de búsqueda capaz de recuperar la PC española pediátrica, que supuso 1,22% del total de referencias en el campo pediátrico englobado en MEDLINE. Aproximadamente 80% de estas referencias fueron publicadas en España (AU)</dc:description>
+<dc:source>Cir Pediatr;24(4): 214-220, oct. 2011. ilus, tab</dc:source>
+<dc:identifier>ibc-107357</dc:identifier>
+<dc:title xml:lang="es">La investigación pediátrica española en MEDLINE</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d37673^s22066</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d28994^s22083</dc:subject>
+<dc:subject>^d10565^s22083</dc:subject>
+<dc:subject>^d28904^s22083</dc:subject>
+<dc:subject>^d29043^s22083</dc:subject>
+<dc:subject>^d24536</dc:subject>
+<dc:subject>^d10697^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201110</dc:date>
+</metadata>
+</record>
+</ibecs-document>

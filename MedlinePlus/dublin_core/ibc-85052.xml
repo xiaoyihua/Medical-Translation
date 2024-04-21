@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-85052</identifier>
+<setSpec>1138-9672</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Thermal comfort in cold environments: Determination of clothing isolation requirements by means of an iterative method</dc:title>
+<dc:description xml:lang="en">Objective: To design an Excel-based tool for the determination of clothing isolation requirements (IREQ), maximumexposure time (Tmax) and recovery time (Trec) for occupational exposure to cold, and apply it to the meat industry.Methods: Environmental conditions in a meat factory were measured and verifi ed. Task analysis was used to determine themetabolic demands of jobs, and these were compared to metabolic demand calculations derived from six different equations based on worker heart rates. To verify the effectiveness of the method, once the values of IREQ, Tmax and Trec had been obtained, worker skin surface and clothing surface temperatures were measured, together with administration of a satisfaction survey.                                                       Results: The highest concordances on metabolic rate were obtained with the Karvonen modifi ed equation and derivedmaximum oxygen consumption (VO2max). The Excel-based tool allowed calculation of IREQ, Tmax and Trec. The satisfactionsurvey showed a good level of thermal comfort, with the exception of one department. Measurement of surface temperaturesdid not always prove to be an effective way of verifying the obtained information.Conclusions: This tool allows determination of IREQ, Tmax and Trec in a workplace, based on measurement of heart rateand environmental conditions. There is a need to improve the precision of methods used to determine metabolic rates(AU)</dc:description>
+<dc:creator>Rivera Garrido, Santiago Eloy</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Diseñar con el programa Excel una herramienta para la determinación del aislamiento requerido del atuendo(IREQ), tiempo máximo de permanencia (Tmax) y tiempo de recuperación (Trec) para exposición laboral a frío y aplicarloa la industria cárnica.Métodos: Se midieron y comprobaron las condiciones ambientales en una industria cárnica. Se determinó el metabolismode los puestos a partir de un estudio de tareas y se comparó con el obtenido, mediante seis ecuaciones diferentes, a partirde la frecuencia cardiaca medida en los trabajadores. Para comprobar la efectividad de los métodos, una vez obtenidos losvalores de IREQ, Tmax y Trec se realizó una medición de la temperatura en la superfi cie de la piel y de la ropa y una encuestadel grado de satisfacción de los trabajadores.Resultados: Se observa la mejor concordancia de metabolismos con los datos obtenidos mediante la ecuación de Karvonenmodifi cada y el VO2max determinado. La herramienta diseñada permite obtener los valores de IREQ, Tmax y Trec. La encuestaarroja resultado de confort térmico con la excepción de una sección de trabajo. La medición de las temperaturas superfi -ciales no siempre resulta efi caz para la comprobación de los datos obtenidos.Conclusiones: Resulta posible determinar IREQ, Tmax y Trec de un puesto de trabajo mediante la herramienta diseñada, conociendola frecuencia cardiaca y los datos ambientales. Debe mejorarse la exactitud en la determinación de los metabolismos(AU)</dc:description>
+<dc:source>Arch. prev. riesgos labor. (Ed. impr.);13(2): 74-83, abr.-jun. 2010. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-85052</dc:identifier>
+<dc:title xml:lang="es">Confort térmico en condiciones ambientales de frío: determinación del aislamiento requerido del atuendo mediante método iterativo</dc:title>
+<dc:subject>^d25293^s22049</dc:subject>
+<dc:subject>^d3112^s22020</dc:subject>
+<dc:subject>^d29064</dc:subject>
+<dc:subject>^d9971^s22055</dc:subject>
+<dc:subject>^d9971^s22066</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d20201</dc:subject>
+<dc:subject>^d25293^s22060</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d9971^s22045</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d35120</dc:subject>
+<dc:subject>^d28446^s22066</dc:subject>
+<dc:subject>^d28446^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201006</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-93615</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Benefits of statin therapy based on plasma carbohydrate antigen 125 values following an admission for acute heart failure</dc:title>
+<dc:description xml:lang="en">Introduction and objectives. The prognostic benefit of statins in patients with heart failure is a topic of controversy. Under the hypothesis that statins may provide greater benefit in a subgroup of patients with heightened inflammatory activity, we sought to explore whether statins are associated with a decreased risk of long-term mortality in patients with acute heart failure based on elevated levels of carbohydrate antigen 125, a biomarker related to systemic congestion and proinflammatory status. Methods. We analysed 1222 consecutive patients admitted with acute heart failure in a single teaching center during a median follow-up of 20 months. Carbohydrate antigen 125 was measured during index hospitalization and dichotomized according to the established reference cut-off (&gt;35 U/mL). Results. Increased levels of carbohydrate antigen 125 (&gt;35 U/mL) were observed in 793 (64.9%) and prescription of statins registered in 455 (37.2%) patients. In patients with carbohydrate antigen 125 &gt;35 U/mL, mortality was lower in statin-treated patients (1.89 vs 2.80 per 10 patient-years of follow-up, P&lt;.001). Conversely, in those with carbohydrate antigen 125 in normal range, mortality did not differ (1.76 vs 1.63 per 10 patient-years of follow-up, P=.862). After covariate adjustment, this differential effect persisted (P for interaction=.024) and statin use was associated with a significant mortality reduction in patients with elevated values of carbohydrate antigen 125 (hazard ratio=0.65, 95% confidence interval: 0.51-0.82; P&lt;.001), but not in those with values equal to or below 35 U/mL (hazard ratio=1.02, 95% confidence interval: 0.74-1.41; P=.907). Conclusions. Elevation of carbohydrate antigen 125 (&gt;35 U/mL) identified a subset of patients with acute heart failure who could benefit from statin treatment in regard to total mortality (AU)</dc:description>
+<dc:creator>Fonarow, Gregg C</dc:creator>
+<dc:creator>Miñana, Gema</dc:creator>
+<dc:creator>Fácila, Lorenzo</dc:creator>
+<dc:creator>Bodí, Vicent</dc:creator>
+<dc:creator>Chorro, Francisco J</dc:creator>
+<dc:creator>Bertomeu-Martínez, Vicente</dc:creator>
+<dc:creator>Núñez, Julio</dc:creator>
+<dc:creator>Sanchis, Juan</dc:creator>
+<dc:creator>Núñez, Eduardo</dc:creator>
+<dc:creator>Bertomeu-González, Vicente</dc:creator>
+<dc:creator>Palau, Patricia</dc:creator>
+<dc:creator>Llàcer, Ángel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos. La utilidad de las estatinas en pacientes con insuficiencia cardiaca es motivo de controversia. Bajo la hipótesis de que el tratamiento con estatinas sería útil en los pacientes con insuficiencia cardiaca y mayor actividad inmunoinflamatoria, pretendimos conocer si la elevación del antígeno carbohidrato 125, un biomarcador asociado a la congestión sistémica y actividad inflamatoria, identificaría a los que se beneficiarían, en cuanto a mortalidad, del tratamiento con estatinas tras un ingreso por insuficiencia cardiaca aguda. Métodos. Analizamos a 1.222 pacientes consecutivos ingresados por insuficiencia cardiaca aguda. El antígeno carbohidrato 125 se determinó durante el ingreso hospitalario y se dicotomizó según los valores de referencia (&gt; 35 U/ml). Resultados. Se observaron valores elevados del antígeno carbohidrato 125 en 793 pacientes (64,9%) y a 455 (37,2%) se les prescribió estatinas. Entre los pacientes con antígeno carbohidrato 125&gt;35 U/ml, la mortalidad de los tratados con estatinas fue inferior (1,89 frente a 2,80/10 pacientes-año de seguimiento; p&lt;0,001). Por el contrario, la mortalidad de aquellos con valores de antígeno carbohidrato 125 &amp;#8804; 35 U/ml fue similar (1,76 frente a 1,63/10 pacientes-años de seguimiento; p=0,862). Tras un minucioso ajuste multivariable, este efecto diferencial atribuible al tratamiento con estatinas persistió (para la interacción, p=0,024). Así, el tratamiento con estatinas se asoció con una reducción significativa del riesgo de muerte de los sujetos con antígeno carbohidrato 125&gt;35 U/ml (hazard ratio=0,65; intervalo de confianza del 95%, 0,51-0,82; p&lt;0,001); sin embargo, no fue así en aquellos con valores de antígeno carbohidrato 125 &amp;#8804; 35 U/ml (hazard ratio=1,02; intervalo de confianza del 95%, 0,74-1,41; p=0,907). Conclusiones. La elevación plasmática del antígeno carbohidrato 125 identificó un subgrupo de población que podría beneficiarse del tratamiento con estatinas en términos de mortalidad a largo plazo (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;64(12): 1100-1108, dic. 2011. tab, ilus</dc:source>
+<dc:identifier>ibc-93615</dc:identifier>
+<dc:title xml:lang="es">Beneficios del tratamiento con estatinas según los valores plasmáticos del antígeno carbohidrato 125 tras un ingreso por insuficiencia cardiaca aguda</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d33014^s22073</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3982^s22045</dc:subject>
+<dc:subject>^d32327^s22021</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d3982^s22074</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d8281^s22012</dc:subject>
+<dc:subject>^d8281^s22016</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d6486^s22067</dc:subject>
+<dc:subject>^d6486^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201112</dc:date>
+</metadata>
+</record>
+</ibecs-document>

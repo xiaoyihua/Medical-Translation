@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-69753</identifier>
+<setSpec>0212-7199</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:description xml:lang="en">Objective: To analyse the efficiency of varenicline compared with bupropion, NRT (nicotine replacement therapy) and no pharmacological treatment in Spain. Methods: A Markov model was developed to analyse the health and economic consequences of smoking cessation therapies. The transition probabilities were taken from published studies. The model allows cost effectiveness analyses for different time frames (10 years, 20 years and life time). Outcomes are measured in terms of incremental life years gained (LYG) and QALYs. Pharmacological costs and costs of medical visits with varenicline and bupropion were considered. Treatment costs of smoking associated morbidity were taken from Spanish studies. Results: The analyses were done under the perspective of the National Health System, discounting costs and health benefits at 3%. Results:The life time cost-effectiveness analysis shows that varenicline dominates all other smoking cessation interventions (more effective at a lower cost).This is due to the higher efficacy of varenicline associated with a reductionin smoking related morbimortality, which, in the long term, accounts for health care cost savings that overcome the extra cost of varenicline. Even when shorter time frames are considered (20 years), vareniclin is cost-effective in comparison with any other alternative. Conclusions: Varenicline is a dominant option (more effective at a lower cost) compared with all other smoking cessation treatments when the timeframe is the life span of the patient. Varenicline is cost-effective even when shorter timeframes are considered (20 years or more), withan estimated incremental cost per QALY far bellow any thresh old commonly accepted in our environment</dc:description>
+<dc:creator>Brosa Riestra, M</dc:creator>
+<dc:creator>Arroyo, O</dc:creator>
+<dc:creator>Wilson, K</dc:creator>
+<dc:creator>Sánchez-Maestre, C</dc:creator>
+<dc:creator>Fernández de Bobadilla Osorio, J</dc:creator>
+<dc:creator>Sanz de Burgoa, V</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Analizar la eficiencia de la vareniclina (Champix®) versus bupropion y TSN (terapia sustitutiva con nicotina) y tratamiento no farmacológico en España. Métodos: Se utilizó un modelo de Markov para analizar las consecuencias clínicas y económicas del tabaquismo y distintas intervenciones para dejar de fumar. Las probabilidades fueron tomadas de la literatura y ensayos clínicos, siendo utilizadas para estimar la efectividad de las opciones comparadas (vareniclina, bupropión, TSN y no tratamiento farmacológico), para distintos horizontes temporales. Los resultados se expresaron en años de vida (AV) ganado y coste por años de vida ajustados por calidad (AVAC) ganado de vareniclina vs comparadores. El análisis se realizó desde la perspectiva del Sistema Nacional de Salud, descontando los costes al 3,5% anual. Resultados: La mayor eficacia de vareniclina supone una reducción de la morbi-mortalidad asociada al tabaquismo, que a largo plazo, compensa totalmente el coste adicional del tratamiento respecto a los comparadores.Vareniclina se muestra como una opción dominante respecto a todas las alternativas en el análisis a largo plazo (toda la vida de los sujetos). Incluso tomando horizontes temporales más cortos (20 años) resulta coste efectivo, siempre menos de 9.000 &#128;/AVAC ganado en comparación con cualquier alternativa. Conclusiones: Vareniclina es una opción dominante (más efectiva amenor coste) comparada con los demás tratamientos, cuando se considera toda la vida del sujeto. Vareniclina es una terapia coste-efectiva incluso cuando se consideran horizontes temporales más cortos (a partir de 20 años), con un coste efectividad incremental muy por debajo del umbral aceptado en nuestro entorno</dc:description>
+<dc:source>An Med Interna;25(7): 342-348, jul. 2008. ilus, tab</dc:source>
+<dc:identifier>ibc-69753</dc:identifier>
+<dc:subject>^d3380^s22018</dc:subject>
+<dc:subject>^d32111^s22073</dc:subject>
+<dc:subject>^d32112^s22073</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29815^s22045</dc:subject>
+<dc:subject>^d1411^s22073</dc:subject>
+<dc:subject>^d23925^s22080</dc:subject>
+<dc:subject>^d13411^s22080</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d9723^s22006</dc:subject>
+<dc:subject>^d23925^s22067</dc:subject>
+<dc:subject>^d16645</dc:subject>
+<dc:subject>^d23925^s22018</dc:subject>
+<dc:subject>^d30220^s22073</dc:subject>
+<dc:subject>^d3380^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200807</dc:date>
+</metadata>
+</record>
+</ibecs-document>

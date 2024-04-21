@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-17788</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Rasch-modelling a test</dc:title>
+<dc:description xml:lang="en">Classical Test Theory (CTT) has been the main psychometrical model for constructing and analysing tests. However CTT limitations have given place to alternative models, such as the Rasch Model (RM), which allows -given a good fit- conjoint measurement of persons and items on the same dimension, or construct. The various advantages of the RM are presented following a detailed example- the analysis of the Mathematics Test (MT) constructed by the authors. The MT is used to illustrate the advantages of the RM both for collective assessment and for individual diagnosis; the main techniques used in the analysis are also introduced (AU)</dc:description>
+<dc:creator>Prieto, Gerardo</dc:creator>
+<dc:creator>Delgado, Ana</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La denominada Teoría Clásica de los Tests ha sido el principal modelo psicométrico empleado en la construcción y análisis de tests. Sin embargo, sus limitaciones han llevado a la propuesta de modelos alternativos, de los cuales el más parsimonioso es el modelo de Rasch, que permite -dado un buen ajuste de los datos- la medición conjunta de personas e ítems en una misma dimensión o constructo. Ésta y otras ventajas del modelo se presentan siguiendo como ejemplo el análisis del Test de Matemáticas construido por los autores. El análisis del TM nos ha permitido ilustrar las ventajas del modelo de Rasch tanto en la evaluación colectiva como en el diagnóstico individual, así como presentar las principales técnicas empleadas en el proceso (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);15(1): 94-100, feb. 2003.</dc:source>
+<dc:identifier>ibc-17788</dc:identifier>
+<dc:title xml:lang="es">Análisis de un test mediante el modelo de Rasch</dc:title>
+<dc:subject>^d12018</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12031</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200302</dc:date>
+</metadata>
+</record>
+</ibecs-document>

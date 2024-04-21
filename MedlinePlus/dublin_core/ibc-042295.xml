@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-042295</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Celiac disease</dc:title>
+<dc:creator>Casellas i Jordà, Francesc</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">No disponible</dc:description>
+<dc:source>Med. clín (Ed. impr.);126(4): 137-142, feb. 2006. ilus, tab</dc:source>
+<dc:identifier>ibc-042295</dc:identifier>
+<dc:title xml:lang="es">Enfermedad celíaca</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d27787^s22006</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d6044^s22006</dc:subject>
+<dc:subject>^d2481^s22038</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d2481^s22067</dc:subject>
+<dc:subject>^d2481^s22012</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200602</dc:date>
+</metadata>
+</record>
+</ibecs-document>

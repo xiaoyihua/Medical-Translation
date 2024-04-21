@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-130709</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Implementing graphical and analytical procedures for developing parallel tests</dc:title>
+<dc:description xml:lang="en">Implementing graphical and analytical procedures for developing parallel tests. We present an instrumental study in which two general procedures (graphical and objective) for constructing parallel forms are implemented. Both procedures are based on an item pool which is calibrated by means of the classical test theory. The graphic procedure is Gulliksen&#146;s matched random subtests method. The objective procedure is based on the criteria proposed by van der Linden and Boekkooi-Timminga, and uses zero-one programming. The stand-alone program FOR-PAR is free and user-friendly, and allows the parallel forms to be obtained directly from the item scores. FOR-PAR covers an important need in applied research, because developing parallel forms is a requirement in some applications, and, so far, no programmes of this type were available. The procedures which are implemented were applied in an illustrative example based on an adjustment test intended for visually handicapped people (AU)</dc:description>
+<dc:creator>Lorenzo-Seva, Urbano</dc:creator>
+<dc:creator>Pallero González, Rafael</dc:creator>
+<dc:creator>Ferrando Piera, Pere Joan</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Se presenta un trabajo de instrumentación en el que se implementan procedimientos gráficos y objetivos para construir formas paralelas a partir de un conjunto de ítems calibrados mediante la teoría clásica de los tests. El procedimiento gráfico es el de subtests apareados propuesto por Gulliksen. El procedimiento objetivo se basa en los criterios propuestos por van der Linden y Boekkooi-Timminga y utiliza programación cero-uno. El programa FOR-PAR, de fácil uso y libre distribución, es auto-contenido y permite obtener las formas paralelas a partir de las puntuaciones de los ítems. FOR-PAR cubre una necesidad aplicada importante ya que la necesidad de elaborar formas paralelas surge con relativa frecuencia en la práctica y, hasta ahora, no existía ningún programa de este tipo. La aplicación  de los procedimientos implementados y el uso del programa se ilustran mediante un estudio empírico basado en un test de ajuste a la discapacidad visual (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);21(2): 321-325, abr.-jun. 2009. graf, tab</dc:source>
+<dc:identifier>ibc-130709</dc:identifier>
+<dc:title xml:lang="es">Implementación de procedimientos gráficos y analíticos para la construcción de formas paralelas</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d12018</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d19130^s22074</dc:subject>
+<dc:subject>^d15187</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200906</dc:date>
+</metadata>
+</record>
+</ibecs-document>

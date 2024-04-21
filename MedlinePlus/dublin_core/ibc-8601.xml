@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-8601</identifier>
+<setSpec>1130-5665</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Noise-induced hearing loss valuation with otoacoustic emissions and distortion products</dc:title>
+<dc:creator>Marco Algarra, J</dc:creator>
+<dc:creator>Morant Ventura, A</dc:creator>
+<dc:creator>Mata Peñuela, J. J</dc:creator>
+<dc:creator>Orts Alborch, M</dc:creator>
+<dc:creator>Postigo Madueño, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Editorial Mapfre</dc:publisher>
+<dc:description xml:lang="es">La aplicación de los registros de productos de distorsión acústica a la patología auditiva derivada de la exposición a ruido se hace especialmente interesante por su carácter de análisis frecuencia¡. Estudiamos un total de 34 sujetos expuestos a ruido en tres formas de presentación: continua (trabajadores de metalurgia), de impacto (cazadores y agentes de orden) y aguda (explosiones de artefactos). A todos les realizamos un estudio consistente en otoscopia, audiometría tonal, logoaudiometría, impedanciometría y registro de PD 2fl-f2 en forma de Pdgrama. Los resultados evidencian una afectación precoz en los PD de frecuencias 3-6 kRz de f2, que se manifiestan por disminución de incidencia de registro en relación con el aumento de¡ umbral audiométrico, más evidente en frecuencia 6kRz de f2 en los sujetos expuestos a ruido continuo, aunque los datos de menor amplitud se manifiestan en los registros de 3 y 4 kRz, independientemente de la forma de presentación del ruido. (AU)</dc:description>
+<dc:source>MAPFRE med;11(2): 94-100, abr. 2000. tab, graf</dc:source>
+<dc:identifier>ibc-8601</dc:identifier>
+<dc:title xml:lang="es">Evaluación de la hipoacusia por ruido mediante otoemisiones acústicas y productos de distorsión</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d1315</dc:subject>
+<dc:subject>^d6470^s22016</dc:subject>
+<dc:subject>^d32436</dc:subject>
+<dc:subject>^d6470^s22027</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1304^s22045</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d6472^s22045</dc:subject>
+<dc:subject>^d34709</dc:subject>
+<dc:subject>^d165^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200004</dc:date>
+</metadata>
+</record>
+</ibecs-document>

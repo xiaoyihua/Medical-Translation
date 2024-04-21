@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-109934</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prognostic value of the biomarkers procalcitonin, interleukin-6 and C-reactive protein in severe sepsis</dc:title>
+<dc:description xml:lang="en">Aim: To determine the prognostic value of the biomarkers procalcitonin, interlukin-6 and C-reactive protein in septic patients. Design: A cohort of 81 septic patients. Setting: Critical Care Unit. Dr. Peset Hospital. Valencia (Spain). Patients: Divided according to sepsis classification (sepsis, severe sepsis and septic shock), source and two different groups (medical and postsurgical). Variables analyzed: Quantitative (procalcitonin, interleukin-6, C-reactive protein, lactate, age, Apache II and SOFA scores upon admission and after 3 and 7 days). Qualitative (ICU mortality, multiorgan failure development and sex). Statistical analysis: Mann-Whitney U-test for the comparison of quantitative variables, X2 test for qualitative variables. Multivariate analysis with mortality and multiorgan failure as dependent variables and the described quantitative parameters as independent variables. ROC curves of the variables found to be significant in the multivariate analysis. Results: Septic shock patients showed greater mortality and more frequent multiorgan failure. Comparison of survivors versus deceased patients showed significant differences in Apache II score, interleukin-6 and lactate (p&lt;0.001) upon admission and after 3 and 7 days. Similar findings applied to the comparison of patients with and without multiorgan failure, and on the same days. Procalcitonin only showed differences on days 3 and 7 (p=0.001). In the multivariate analysis with mortality as dependent variable, interleukin-6 proved significant on day 3 (OR 2.6). With multiorgan failure as dependent variable, only the SOFA score showed significance (OR 2.3). The Apache II and interleukin-6 ROC curves corresponding to day 3 showed areas of 0.80 and 0.86, respectively. Conclusions: 1) Interleukin-6 is an inflammatory biomarker with mortality prognostic value. 2) None of the biomarkers proved predictive of multiorgan failure (AU)</dc:description>
+<dc:creator>Bautista-Rentero, D</dc:creator>
+<dc:creator>Miguel-Bayarri, V</dc:creator>
+<dc:creator>Pallás-Beneyto, L</dc:creator>
+<dc:creator>Tormo-Calandín, C</dc:creator>
+<dc:creator>Casanoves-Laparra, E. B</dc:creator>
+<dc:creator>Martín-Osorio, L. F</dc:creator>
+<dc:creator>Sancho-Chinesta, S</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Comprobar el valor pronóstico de los biomarcadores procalcitonina, interleukina 6 y proteína C reactiva en pacientes sépticos graves Diseño: Cohorte de 81 pacientes críticos Ambito: Unidad de Críticos Hospital Dr. Peset. Valencia. Pacientes: Divididos según el grado de sepsis (sepsis, sepsis severa, shock séptico), foco de sepsis y grupo (pacientes médicos y posquirúrgicos de alto riesgo). Variables analizadas: Cuantitativas (procalcitonina, interleukina-6, proteína C reactiva, lactato, edad, Apache II y SOFA) al ingreso, 3.er y 7.o día de evolución. Cualitativas (mortalidad intra UCI, desarrollo Fallo Multiorgánico y sexo). Estadística: comparación variables cuantitativas con test U de Mann-Whitney; las cualitativas con test de &amp;#967;2; análisis multivariante variables dependientes mortalidad y fallo multiorgánico e independientes las cuantitativas descritas; curvas ROC de las variables significativas en el multivariante Resultados: Pacientes con shock séptico fallecieron más y desarrollaron más fallo multiorgánico. Comparación entre vivos y fallecidos, mostró diferencias significativas Apache II, interleukina-6 y lactato (p &lt;0,001) al ingreso, 3.er y 7.o día. Entre pacientes con fallo multiorgánico y sin él, también y los mismos días. La procalcitonina mostró diferencias solo en 3.er y 7.o día (p=0,001). Análisis multivariante con variable dependiente mortalidad la interleukina-6 mostró significación al 3.er día (O.R. 2,6). Con variable dependiente fallo multiorgánico solo SOFA tuvo significación (O.R. 2,3). Curva ROC Apache II e interleukina-6 3.er día mostró área 0,80 y 0,86 respectivamente. Conclusiones: 1) La interleukina-6 es un biomarcador inflamatorio con valor pronóstico de mortalidad; 2) Ningún biomarcador tuvo valor predictivo de fallo multiorgánico (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);36(8): 556-562, nov. 2012. ilus</dc:source>
+<dc:identifier>ibc-109934</dc:identifier>
+<dc:title xml:lang="es">Valor pronóstico de los biomarcadores procalcitonina, interleukina 6 y proteína C reactiva en la sepsis grave</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d3439^s22045</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d22124^s22002</dc:subject>
+<dc:subject>^d9294^s22080</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d32031^s22080</dc:subject>
+<dc:subject>^d23568^s22002</dc:subject>
+<dc:subject>^d32981^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29472^s22002</dc:subject>
+<dc:subject>^d22372^s32387</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201211</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-112236</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">A new IRT-based standard setting method: Application to eCat-Listening</dc:title>
+<dc:description xml:lang="en">Background: Criterion-referenced interpretations of tests are highly necessary, which usually involves the difficult task of establishing cut scores. Contrasting with other Item Response Theory (IRT)-based standard setting methods, a non-judgmental approach is proposed in this study, in which Item Characteristic Curve (ICC) transformations lead to the final cut scores. Method: eCat-Listening, a computerized adaptive test for the evaluation of English Listening, was administered to 1,576 participants, and the proposed standard setting method was applied to classify them into the performance standards of the Common European Framework of Reference for Languages (CEFR). Results: The results showed a classification closely related to relevant external measures of the English language domain, according to the CEFR. Conclusions: It is concluded that the proposed method is a practical and valid standard setting alternative for IRT-based tests interpretations (AU)</dc:description>
+<dc:creator>Olea, Julio</dc:creator>
+<dc:creator>Aguado, David</dc:creator>
+<dc:creator>García, Pablo Eduardo</dc:creator>
+<dc:creator>Abad, Francisco José</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Antecedentes: las interpretaciones de los tests referidas a criterio son muy necesarias, lo cual normalmente implica la difícil tarea de establecer puntos de corte. En contraste con otros métodos de standard setting basados en la Teoría de la Respuesta al Ítem (TRI), en este estudio se propone una aproximación no basada en juicios, en que transformaciones de las Curvas Características de los Ítems (CCIs) dan lugar a los puntos de corte finales. Método: se administró eCat-Listening, un test adaptativo informatizado de evaluación de la comprensión oral del inglés, a 1.576 participantes y se aplicó el método de standard setting propuesto para clasificarles en los estándares de ejecución del Marco Común Europeo de Referencia para las lenguas (MCER). Resultados: los resultados mostraron una clasificación estrechamente relacionada con variables externas relevantes sobre dominio del inglés, de acuerdo con el MCER. Conclusiones: se concluye que el método de standard setting propuesto es una alternativa práctica y válida para las interpretaciones de tests basados en TRI (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);25(2): 238-244, abr.-jun. 2013.</dc:source>
+<dc:identifier>ibc-112236</dc:identifier>
+<dc:title xml:lang="es">Un nuevo método de standard setting basado en la TRI: aplicación a eCat-Listening</dc:title>
+<dc:subject>^d12031^s22083</dc:subject>
+<dc:subject>^d12018^s22048</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d12018^s22083</dc:subject>
+<dc:subject>^d12010</dc:subject>
+<dc:subject>^d32532^s22045</dc:subject>
+<dc:subject>^d12527^s22045</dc:subject>
+<dc:subject>^d12031^s22048</dc:subject>
+<dc:subject>^d12031^s22049</dc:subject>
+<dc:subject>^d7432^s22066</dc:subject>
+<dc:subject>^d7432^s22074</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201306</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-159410</identifier>
+<setSpec>1989-1342</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Influence of macular pigment optical density spatial distribution on intraocular scatter</dc:title>
+<dc:description xml:lang="en">Purpose: This study evaluated the summed measures of macular pigment optical density (MPOD) spatial distribution and their effects on intraocular scatter using a commercially available device (C-Quant, Oculus, USA). Methods: A customized heterochromatic flicker photometer (cHFP) device was used to measure MPOD spatial distribution across the central 16º using a 1º stimulus. MPOD was calculated as a discrete measure and summed measures across the central 1º, 3.3º, 10º and 16º diameters. Intraocular scatter was determined as a mean of 5 trials in which reliability and repeatability measures were met using the C-Quant. MPOD spatial distribution maps were constructed and the effects of both discrete and summed values on intraocular scatter were examined. Results: Spatial mapping identified mean values for discrete MPOD [0.32 (s.d. = 0.08)], MPOD summed across central 1º [0.37 (s.d. = 0.11)], MPOD summed across central 3.3º [0.85 (s.d. = 0.20)], MPOD summed across central 10º [1.60 (s.d. = 0.35)] and MPOD summed across central 16º [1.78 (s.d. = 0.39)]. Mean intraocular scatter was 0.83 (s.d. = 0.16) log units. While there were consistent trends for an inverse relationship between MPOD and scatter, these relationships were not statistically significant. Correlations between the highest and lowest quartiles of MPOD within the central 1º were near significance. Conclusions: While there was an overall trend of decreased intraocular forward scatter with increased MPOD consistent with selective short wavelength visible light attenuation, neither discrete nor summed values of MPOD significantly influence intraocular scatter as measured by the C-Quant device (AU)</dc:description>
+<dc:creator>Bland, Pauline J</dc:creator>
+<dc:creator>Putnam , Christopher M</dc:creator>
+<dc:creator>Bassi, Carl J</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objetivo: Este estudio evaluó la suma de las mediciones de la distribución espacial de la densidad óptica del pigmento macular (MPOD) y sus efectos sobre la dispersión intraocular, utilizando un dispositivo comercialmente disponible (C-Quant, Oculus, EEUU). Métodos: Se utilizó un fotómetro intermitente heterocromático personalizado (cHFP) para medir la distribución espacial de la MPOD a lo largo de los 16º centrales, utilizando un estímulo de 1º. La MPOD se calculó como medición discreta y como las sumas de las mediciones a lo largo de los diámetros centrales de 1º, 3,3º, 10º y 16º. Se calculó la dispersión intraocular como media de los cinco ensayos en los que se lograron mediciones de fiabilidad y repetibilidad utilizando el dispositivo C-Quant. Se construyeron mapas de distribución espacial de la MPOD, examinándose los efectos sobre la dispersión intraocular, tanto de los valores discretos como de la suma de valores. Resultados: El mapeado espacial identificó valores medios para la MPOD discreta [0,32 (DE = 0,08)], la suma de MPOD a lo largo de 1º central [0,37 (DE = 0,11)], la suma de MPOD a lo largo de 3,3&amp;#9702; centrales [0,85 (DE = 0.20)], la suma de MPOD a lo largo de 10º centrales [1,60 (DE = 0,35)] y la suma de MPOD a lo largo de 16&amp;#9702; centrales [1,78 (DE = 0,39)]. La dispersión intraocular media fue de 0,83 (DE = 0,16) unidades log. A pesar de producirse una tendencia consistente hacia una relación inversa entre MPOD y dispersión, dichas relaciones no fueron estadísticamente significativas. Las correlaciones entre los cuartiles superior e inferior de la MPOD dentro de 1º central fueron próximas a la significación estadística. Conclusiones: A pesar de producirse una tendencia general hacia la disminución de la dispersión intraocular con el incremento de la MPOD, consistente con una atenuación selectiva de la luz visible con longitud de onda corta, ni los valores discretos ni la suma de valores de la MPOD reflejaron una influencia significativa sobre la dispersión intraocular, según las mediciones realizadas con el dispositivo C-Quant (AU)</dc:description>
+<dc:source>J. optom. (Internet);10(1): 63-68, ene.-mar. 2017. graf, tab</dc:source>
+<dc:identifier>ibc-159410</dc:identifier>
+<dc:title xml:lang="es">Influencia de la distribución espacial de la densidad óptica del pigmento macular sobre la dispersión intraocular</dc:title>
+<dc:subject>^d19062</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d10085^s22045</dc:subject>
+<dc:subject>^d53257^s22074</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d19035^s22016</dc:subject>
+<dc:subject>^d53257^s22048</dc:subject>
+<dc:subject>^d19035^s22012</dc:subject>
+<dc:subject>^d19035^s22044</dc:subject>
+<dc:subject>^d19035^s22053</dc:subject>
+<dc:subject>^d55624^s22011</dc:subject>
+<dc:subject>^d55624^s22044</dc:subject>
+<dc:subject>^d27804^s22011</dc:subject>
+<dc:subject>^d55624^s22000</dc:subject>
+<dc:subject>^d55624^s22055</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201703</dc:date>
+</metadata>
+</record>
+</ibecs-document>

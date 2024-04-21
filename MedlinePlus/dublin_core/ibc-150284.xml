@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150284</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">No disponible</dc:title>
+<dc:description xml:lang="en">Stochostic learning models for dichotomous response trials and a finite number of absorbing states. A probabilistic model for a learning process has been built up in the context of the state models for the learning mathematical theory. Two transitory states (for the acquisition and forgetting processes) and a finite number of absorbing states are considered. The transition probabilities are assumed to be controlled by the &#147;response strength&#148; of the Luce&#146;s &amp;#946; model, derived from his choice axiom (AU)</dc:description>
+<dc:creator>Santisteban Requena, Carmen</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En este trabajo se construye un modelo probabilístico para representar un proceso de aprendizaje en el contexto de los modelos de estado en la denominada teoría matemática del aprendizaje. El modelo incluye tanto el proceso de adquisición como el de olvido, así como el supuesto de que el proceso puede terminar en uno cualquiera de r estados. Se consideran en el modelo dos estados transitorios y un número finito r de estados absorbentes. Las transiciones se supone que están reguladas por la &#147;fuerza de la respuesta&#148; según la concibe Luce en su modelo b de aprendizaje y que deriva a partir de su axioma de elección (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);12(supl.2): 519-521, 2000.</dc:source>
+<dc:identifier>ibc-150284</dc:identifier>
+<dc:title xml:lang="es">Modelos estocásticos de aprendizaje en ensayos de respuesta dicotómica y un número finito de estados absorbentes</dc:title>
+<dc:subject>^d32532^s22045</dc:subject>
+<dc:subject>^d8036</dc:subject>
+<dc:subject>^d28633</dc:subject>
+<dc:subject>^d8776</dc:subject>
+<dc:subject>^d9152</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28617</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200000</dc:date>
+</metadata>
+</record>
+</ibecs-document>

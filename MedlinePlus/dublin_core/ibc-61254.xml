@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-61254</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Methods to smooth mortality indicators: application to analysis of inequalities in mortality in Spanish cities [the MEDEA Project]</dc:title>
+<dc:description xml:lang="en">Although there is some experience in the study of mortalityinequalities in Spanish cities, there are large urban centersthat have not yet been investigated using the census tract asthe unit of territorial analysis. The coordinated project ®Socioeconomicand environmental inequalities in mortality in Spanishcities. The MEDEA project» was designed to fill this gap,with the participation of 10 groups of researchers in Andalusia,Aragon, Catalonia, Galicia, Madrid, Valencia, and the BasqueCountry. The MEDEA project has four distinguishing features:a) the census tract is used as the basic geographicalarea; b) statistical methods that include the geographical structureof the region under study are employed for risk estimation;c) data are drawn from three complementary data sources(information on air pollution, information on industrialpollution, and the records of mortality registrars), and d) a coordinated,large-scale analysis, favored by the implantation ofcoordinated research networks, is carried out. The main objective of the present study was to explain the methods for smoothingmortality indicators in the context of the MEDEA project.This study focusses on the methodology and the resultsof the Besag, York and Mollié model (BYM) in disease mapping.In the MEDEA project, standardized mortality ratios(SMR), corresponding to 17 large groups of causes of deathand 28 specific causes, were smoothed by means of the BYMmodel; however, in the present study this methodology wasapplied to mortality due to cancer of the trachea, bronchi andlung in men and women in the city of Barcelona from 1996 to2003. As a result of smoothing, a different geographical patternfor SMR in both genders was observed. In men, a SMRhigher than unity was found in highly deprived areas. In contrast,in women, this pattern was observed in more affluentareas(AU)</dc:description>
+<dc:creator>Cano-Serral, Gemma</dc:creator>
+<dc:creator>Rodríguez-Sanz, Maica</dc:creator>
+<dc:creator>Ocaña-Riola, Ricardo</dc:creator>
+<dc:creator>Toro, Silvia</dc:creator>
+<dc:creator>Sánchez-Villegas, Pablo</dc:creator>
+<dc:creator>Barceló, M. Antònia</dc:creator>
+<dc:creator>Martínez-Beneito, Miguel Ángel</dc:creator>
+<dc:creator>Montoya, Imanol</dc:creator>
+<dc:creator>Alcalá, José Tomás</dc:creator>
+<dc:creator>Figueiras, Adolfo</dc:creator>
+<dc:creator>Borrell, Carme</dc:creator>
+<dc:creator>Martínez, José Miguel</dc:creator>
+<dc:creator>Saez, Marc</dc:creator>
+<dc:creator>López-Abente, Gonzalo</dc:creator>
+<dc:creator>Calvo, Montse</dc:creator>
+<dc:creator>Saurina, Carme</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Como resultado se aprecia un diferente patrón geográfico enlas RME suavizadas en ambos sexos. En los hombres se observanunas RME mayores que la unidad en los barrios conmayor privación socioeconómica. En las mujeres este patrónse observa en las zonas con un mayor nivel socioeconómico(AU)</dc:description>
+<dc:source>Gac Sanit;22(6): 596-608, nov.-dic. 2008. mapas, tab, graf</dc:source>
+<dc:identifier>ibc-61254</dc:identifier>
+<dc:title xml:lang="es">Métodos para la suavización de indicadores de mortalidad: aplicación al análisis de desigualdades en mortalidad en ciudades del Estado español (Proyecto MEDEA)</dc:title>
+<dc:subject>^d50231</dc:subject>
+<dc:subject>^d28632^s22066</dc:subject>
+<dc:subject>^d^s22083</dc:subject>
+<dc:subject>^d28418</dc:subject>
+<dc:subject>^d28605</dc:subject>
+<dc:subject>^d28403^s22048</dc:subject>
+<dc:subject>^d^s22041</dc:subject>
+<dc:subject>^d28632^s22048</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d28403^s22083</dc:subject>
+<dc:subject>^d28637^s22066</dc:subject>
+<dc:subject>^d28632^s22083</dc:subject>
+<dc:subject>^d33155</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200812</dc:date>
+</metadata>
+</record>
+</ibecs-document>

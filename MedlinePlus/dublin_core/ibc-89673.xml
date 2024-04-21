@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-89673</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Magnetic resonance imaging postprocessing techniques in the study of brain connectivity</dc:title>
+<dc:creator>Meneu, T</dc:creator>
+<dc:creator>Sanjuán, J</dc:creator>
+<dc:creator>Robles, M</dc:creator>
+<dc:creator>Escarti-Fabra, M. J</dc:creator>
+<dc:creator>Martí-Bonmatí, L</dc:creator>
+<dc:creator>Aguilar, E. J</dc:creator>
+<dc:creator>Iglesia-Vayá, M. de la</dc:creator>
+<dc:creator>Molina-Mateo, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Brain connectivity is a key concept for understanding brain function. Current methods to detect and quantify different types of connectivity with neuroimaging techniques are fundamental for understanding the pathophysiology of many neurologic and psychiatric disorders. This article aims to present a critical review of the magnetic resonance imaging techniques used to measure brain connectivity within the context of the Human Connectome Project. We review techniques used to measure: a) structural connectivity b) functional connectivity (main component analysis, independent component analysis, seed voxel, meta-analysis), and c) effective connectivity (psychophysiological interactions, causal dynamic models, multivariate autoregressive models, and structural equation models). These three approaches make it possible to combine and use different statistical techniques to elaborate mathematical models in the attempt to understand the functioning of the brain. The findings obtained with these techniques must be validated by other techniques for analyzing structural and functional connectivity. This information is integrated in the Human Connectome Project where all these approaches converge to provide a representation of all the different models of connectivity (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);53(3): 236-245, mayo-jun. 2011.</dc:source>
+<dc:identifier>ibc-89673</dc:identifier>
+<dc:title xml:lang="es">Técnicas de análisis de posproceso en resonancia magnetica para el estudio de la conectividad cerebral</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d^s22066</dc:subject>
+<dc:subject>^d1953^s29166</dc:subject>
+<dc:subject>^d30967</dc:subject>
+<dc:subject>^d^s22074</dc:subject>
+<dc:subject>^d2525^s22004</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1953^s22053</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22935^s22045</dc:subject>
+<dc:subject>^d2525^s22053</dc:subject>
+<dc:subject>^d2525^s29166</dc:subject>
+<dc:subject>^d33556^s22074</dc:subject>
+<dc:subject>^d33556^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201106</dc:date>
+</metadata>
+</record>
+</ibecs-document>

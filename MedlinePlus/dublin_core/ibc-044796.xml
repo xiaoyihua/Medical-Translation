@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-044796</identifier>
+<setSpec>1132-0095</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Basic statisticic for anesthesiologists (I): estadística, probabilidad e inferencia</dc:title>
+<dc:description xml:lang="en">Statistical techniques are the scientific methods relative to collecting data, graphical display and análisis of data in order to take decisions according with results.  Descriptive statistic refers to the way of set, organize and summarize data. A variable is defined as an attribute or measure recorded in a sample of individuals. There are two types of variables. Qualitative variables reference categorical data and can be summarised as frecuencies and percentages. Quantitative variables are used when numerical data are possible. Figures are different considering the type of data. Usually, bar and pie diagrams are for categorical, and histogram for continous data. Descriptive data analysis involves the use of statistical test such as central tendency measurements (means, median and mode), and dispersion measurements (standard deviation, variance, percentil range and variation coefficient). The purpose of probability is to quantifie the uncertain of a result. It is defined as a number between 0 to 1. Probability is 0 when the result must not be possible, and 1 when the result is sure to happen. An aleatory variable is illustrated by a mathematical function associated with a real number perfectly defined. They could be discontinuous (Bimodal and Poisson distribution), and continuous (normal and t Student distribution). Inference provides general results of values obtained in a sample, by estimation and the contrats of hypothesis</dc:description>
+<dc:creator>Mirón Rodríguez, M. F</dc:creator>
+<dc:creator>García-Miguel, F. J</dc:creator>
+<dc:creator>Domíguez Ruiz-Huerta, A</dc:creator>
+<dc:creator>Alsina Aser, F. J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La estadística es el conjunto de métodos científicos ligados a la toma, organización, recopilación, presentación y análisis de datos, tanto para la deducción de conclusiones como para tomar decisiones razonables de acuerdo con tales análisis. La estadística descriptiva trata la forma de recoger, organizar y resumir estas observaciones. Las características de los datos se muestran en tablas y gráficos. A cada característica de los elementos de una población se le llama variable. Existen varios tipos de variables. Las variables cualitativas se refieren a categorías o atributos de los individuos estudiados. Las variables cuantitativas son aquellas cuyos datos son de tipo numérico. Según el tipo de variables se distinguen los siguientes tipos de gráficos: diagramas de barra y diagramas de sectores (variable cualitativa); histogramas (variable cuantitativa). Los índices usados en estadística descriptiva se dividen en: medidas de tendencia central (media varianza, rango intercuartílico y coeficiente de variación). La probabilidad permite cuantificar la incertidumbre acerca de la ocurrencia de un resultado. Se define como un número entre 0 y 1, asociado con la verosimilitud de que ocurra un suceso. La probabilidad de este suceso será igual a 0 cuando estemos seguros de que sí va a ocurrir. Variable aleatoria es toda función que asocia un número real, perfectamente definido, a cada punto muestral. Se distinguen entre discretas (Binomial y Poisson) y continuas (normal y t de Student). La inferencia es la parte de la estadística que desarrolla la generalización de los resultados obtenidos en una muestra total de la población. Trata dos problemas, la estimación y el contraste de hipótesis. El contraste de hipótesis trata de formular una asunción que puede ser cierta o no y, a través de los datos de la muestra, se toma la decisión de rechazarla o no. La hipótesis formulada con intención de rechazarla se le suele llamar hipótesis nula H0 y la hipótesis que se desea aceptar, hipótesis alternativa, H1</dc:description>
+<dc:source>Actual. anestesiol. reanim;16(1): 3-15, ene.-mar. 2006. ilus, tab</dc:source>
+<dc:identifier>ibc-044796</dc:identifier>
+<dc:title xml:lang="es">Conceptos básicos de estadística para anestesiólogos (I): estadística descriptiva, probabilidad e inferencia</dc:title>
+<dc:subject>^d28401</dc:subject>
+<dc:subject>^d10221^s22083</dc:subject>
+<dc:subject>^d28605</dc:subject>
+<dc:subject>^d24624</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d787</dc:subject>
+<dc:subject>^d28440</dc:subject>
+<dc:subject>^d10221^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200603</dc:date>
+</metadata>
+</record>
+</ibecs-document>

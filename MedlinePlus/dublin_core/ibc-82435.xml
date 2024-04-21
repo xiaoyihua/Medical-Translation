@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-82435</identifier>
+<setSpec>0034-9356</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Clinical validation of minimally invasive evaluation of systolic function</dc:title>
+<dc:description xml:lang="en">BACKGROUND AND OBJECTIVE: Pulse contour continuous cardiac output (PiCCO) monitoring by means of transpulmonary thermodilution provides 2 indices of systolic function: the cardiac function index and the global ejection fraction. Our aim was to compare these 2 PiCCO indices to the left-ventricular ejection fraction obtained by transthoracic echocardiography. MATERIAL AND METHODS: This was a prospective clinical study of 35 adult patients in the critical care unit of a university hospital. Each patient provided his or her own control data. Patients with marked changes in regional segment contractility or nonsinus rhythm were excluded. We collected patient variables, reason for admission to the critical care unit, the Acute Physiology and Chronic Health Evaluation II score, the reason for hemodynamic monitoring, and the infusion of vasoactive drugs at the time of the procedure. RESULTS: Statistically significant correlations were found between the left-ventricular ejection fraction and the global ejection fraction (r=0.79, P&lt;.001) and the cardiac function index (r=0.66, P&lt;.001). The mean (SD) difference between the left-ventricular ejection fraction and the global ejection fraction and the cardiac function index were 1.05% (10.2%) (range, 19.0% to 29.1%) and 0.001% (12.4%) (range, &#150;24.3% to 24.3%), respectively. For predicting a left-ventricular ejection fraction of less than 40%, the area under the curve was 0.879 for the global ejection fraction and 0.805 for the cardiac function index of A global ejection fraction less than 13.5% and a cardiac function index less than 3.15 min-1 predicted a left-ventricular ejection fraction less than 40% with sensitivities of 97% and 96% and specificities of 85% and 77%, respectively. CONCLUSIONS: In patients without marked changes in regional segment contractility, the global ejection fraction and the cardiac function index calculated by the PiCCO monitor offer a reliable and simple way to assess left-ventricular systolic function. Low values for these indicators suggest the need for echocardiographic assessment of left- and right-ventricular function(AU)</dc:description>
+<dc:creator>Jover, J. L</dc:creator>
+<dc:creator>Belda, F. J</dc:creator>
+<dc:creator>Postigo, S</dc:creator>
+<dc:creator>Aguilar, G</dc:creator>
+<dc:creator>Aznárez, B</dc:creator>
+<dc:creator>Ferrando, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">OBJETIVO: El monitor PiCCO(R), mediante la técnica de termodilución transpulmonar (TDTP), ofrece dos índices de valoración de la función sistólica: el índice de función cardiaca (IFC) y la fracción de eyección global (FEG). En este estudio comparamos estos índices con la fracción de eyección del ventrículo izquierdo medida por ecocardiografía transtorácica. MATERIAL Y MÉTODO: Estudio clínico prospectivo de 35 pacientes adultos ingresados en una unidad de críticos de un hospital universitario. Cada paciente fue su propio control. Se excluyeron enfermos con alteraciones graves de la contractilidad segmentaria, así como los que tenían un ritmo cardiaco no sinusal. Se recogieron los datos demográficos, el motivo de ingreso en la unidad de cuidados críticos, el valor del APACHE II (Acute Physiology And Chronic Health Evaluation), el motivo de la monitorización hemodinámica y la infusión de fármacos vasoactivos en el momento de la exploración. Mediante el monitor PiCCO® se obtuvo el valor de la fracción de eyección global y el índice de función cardiaca. A su vez, se midió la fracción de eyección del ventrículo izquierdo mediante ecocardiografía transtorácica. RESULTADOS: Se encontraron correlaciones estadísticamente significativas de la fracción de eyección del ventrículo izquierdo con la FEG y el IFC (r=0,79; p&lt;0,001 y r=0,66; p&lt;0,001, respectivamente). La diferencia media entre los valores de la fracción de eyección del ventrículo izquierdo medidos y estimados por FEG e IFC fue de 1,05 ± 10,2% (rango -19,0 a 29,1) y 0,001 ± 12,4% (rango -24,3 a 24,3) respectivamente. El área bajo la curva para estimar una fracción de eyección del ventrículo izquierdo inferior a 40% fue 0,879 y 0,805 para la FEG e IFC respectivamente. La FEG inferior a 13,5% y el IFC inferior a 3,15 min-1 detectan una fracción de eyección del ventrículo izquierdo inferior a 40% con una sensibilidad del 97% y 96% y una especificidad del 85% y 77%, respectivamente. CONCLUSIONES: En pacientes sin alteraciones severas de la contractilidad segmentaria, los índices de contractilidad FEG e IFC obtenidos con el monitor PiCCO® constituyen una herramienta fiable y sencilla para la valoración de la función sistólica del ventrículo izquierdo. Valores bajos de estos índices nos deben incitar a realizar un estudio ecocardiográfico para valorar la función ventricular derecha e izquierda(AU)</dc:description>
+<dc:source>Rev Esp Anestesiol Reanim;57(9): 559-564, nov. 2010. tab, ilus</dc:source>
+<dc:identifier>ibc-82435</dc:identifier>
+<dc:title xml:lang="es">Validación clínica de la valoración mínimamente invasiva de la función sistólica</dc:title>
+<dc:subject>^d2346^s22031</dc:subject>
+<dc:subject>^d1821^s22031</dc:subject>
+<dc:subject>^d23233^s22039</dc:subject>
+<dc:subject>^d23233^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d32597^s22039</dc:subject>
+<dc:subject>^d13706^s22031</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d14192^s22074</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d32597^s22074</dc:subject>
+<dc:subject>^d14192^s22039</dc:subject>
+<dc:subject>^d23233^s22074</dc:subject>
+<dc:subject>^d32354</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201011</dc:date>
+</metadata>
+</record>
+</ibecs-document>

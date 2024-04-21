@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-127334</identifier>
+<setSpec>1130-2399</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Correlation between body mass index and development of pressure ulcers in intensive care medicine</dc:title>
+<dc:description xml:lang="en">Objectives: This study aims to evaluate the association between body mass index (BMI), incidence and severity of pressure ulcers (PU) in patients admitted to the Intensive Care Unit (ICU), and describe the differential prognosis of patients with PU and factors that modify it. Material and methods: Case-control study with observation period of 15 months. We collected baseline variables, prognostic scales, therapies and clinical outcome. Univariate analysis was performed for each outcome variable between cases and controls using the appropriate hypothesis test depending on the nature of the variables. ROC curve for BMI and PU. Logistic regression with PU as dependent variable and the covariates that reached p&lt;0.05 in the bivariate analysis. Correlation using Pearson or Spearman was made between BMI, albumin, days to diagnosis of UPP, immobilization, and PU degree. Significance level at p &lt;0.05. Results: 77 patients developed PU and 231 controls were chosen. The cases had higher APACHE II (p=0.043) and SAPS 3 (p=0.023), length of stay in ICU and mechanical ventilation (p&lt;0.001). BMI&amp;#8805;40 was associated with UPP (p=0.024 OR=3.23 CI95% 1.17-8.93). There was a significant association between PU degree, length of stay and MV (p&lt;0,001), but not with immobilization, dynamic support surface and death rate. Multivariate analysis found association between PU, length of MV (p=0.013, OR 1.08, CI95% 1.01-1.16) and kidney replacement therapy (p=0.013, OR 3.55 CI95% 1.31-9.64), with BMI&amp;#8805;40 as a confounding factor. Conclusions: Length of mechanical ventilation and renal replacement therapy are risk factors for pressure ulcer development, and BMI&amp;#8805;40 acts as a confounding factor. PU development and its maximum degree are not associated with a worse prognosis (AU)</dc:description>
+<dc:creator>Hidalgo Encinas, Y</dc:creator>
+<dc:creator>Herrero-Gutiérrez, E</dc:creator>
+<dc:creator>García-Martínez, M. Á</dc:creator>
+<dc:creator>Cherednichenko, T</dc:creator>
+<dc:creator>González Tamayo, R</dc:creator>
+<dc:creator>Flores Lucas, I</dc:creator>
+<dc:creator>Catalá Espinosa, A. I</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Evaluar la asociación entre índice de masa corporal (IMC) y aparición y severidad de la úlcera por presión (UPP) en pacientes que ingresan en Unidades de Medicina Intensiva (UMI). Describir el pronóstico diferencial de los pacientes con UPP y los factores que lo modifican. Material y métodos Estudio de casos y controles con observación durante 15 meses. Se recogieron variables de situación basal, escalas pronósticas, terapias y resultado clínico. Se realizó análisis univariante de cada variable entre casos y controles mediante el test de contraste de hipótesis adecuado en función de la naturaleza de las variables. Curva COR para determinar el IMC que marca la aparición de UPP. Análisis de regresión logística con UPP como variable dependiente y las covariables significativas a un nivel p &lt; 0,05 en el análisis bivariante. Correlación mediante Pearson o Spearman entre IMC, albúmina, días hasta el diagnóstico de UPP, tiempo de inmovilización, y grado de UPP. El nivel de significación se definió para un valor de p &lt; 0,05. Resultados: De 1.424 pacientes, 77 desarrollaron UPP. Los casos tuvieron mayor APACHE II (p=0,043), SAPS 3 (p=0,023), tiempo de estancia en UMI y de VM (p&lt;0,001) y complicaciones. El IMC&amp;#8805;40 se asoció a UPP (p=0,024 OR=3,23 IC95% 1,17-8,93). Hubo asociación entre el grado de UPP y el tiempo de estancia y de VM (p&lt;0,001), pero no con los días de inmovilización, uso de colchón neumático y fallecimiento. El modelo multivariante encontró como factores pronósticos de UPP el tiempo de VM (p=0,013, OR 1,08 IC95% 1,01-1,16) y la depuración extrarrenal (p=0,013, OR 3,55 IC95% 1,31-9,64), siendo el IMC&amp;#8805;40 un factor de confusión. Conclusiones: Los pacientes con IMC&amp;#8805;40 desarrollaron más UPP, pero el IMC es un factor de confusión al asociar mayor tiempo de VM y depuración extrarrenal (AU)</dc:description>
+<dc:source>Enferm Intensiva;25(3): 107-113, jul.-sept. 2014. ilus, tab</dc:source>
+<dc:identifier>ibc-127334</dc:identifier>
+<dc:title xml:lang="es">Relación entre el índice de masa corporal y el desarrollo de úlcera por presión en Medicina Intensiva</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d33939^s22045</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24542</dc:subject>
+<dc:subject>^d3681^s22080</dc:subject>
+<dc:subject>^d24551</dc:subject>
+<dc:subject>^d18001</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201409</dc:date>
+</metadata>
+</record>
+</ibecs-document>

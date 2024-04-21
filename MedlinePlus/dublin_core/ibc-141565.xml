@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-141565</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Implementation of a robot for the preparation of antineoplastic drugs in the Pharmacy Service</dc:title>
+<dc:description xml:lang="en">Objective: To describe the implementation of a robot for the preparation of antineoplastic drugs in the Pharmacy Service and to be able to analyze the added value to pharmacotherapy. Methods: The implementation was carried out in June 2012 at a tertiary level Hospital, taking place in two periods: 1- test period with the installation of the robot, with technical configuration of the equipment and validation of 29 active ingredients and the integration of electronic prescribing software with the robot application (9 months). 2- Usage period (22 months). On the other hand, training was given to pharmacists and nurses. The robot uses image recognition, barcode identification and gravimetric controls for proper operation. These checks provide information about the error ratio in the preparation, with a margin of ± 10%, which after a pilot study was restricted to a range of ±4%. The robot was programmed to recognize bags, infusion pumps, syringes and vials. The added value was assessed for 31 months by identifying preparation´s errors. Results: 11,865 preparations were made by the robot, which meant approximately 40% of all antineoplastic prepared from 29 different active ingredients. 1.12% (n=133) of the errors were identified by the robot and therefore didn´t reach the patient (negative desviation - 4%). These errors were corrected manually. Conclusion: The implementation of a robot in the preparation of antineoplastic drugs allows to identify errors therefore preventing them to arrive to the patient. This promotes safety and quality of the process, reducing the exposure to cytotoxic drugs from the manipulator (AU)</dc:description>
+<dc:creator>Pacheco Ramos, María de la Paz</dc:creator>
+<dc:creator>Arias Fernández, María Lourdes</dc:creator>
+<dc:creator>Arenaza Peña, Ainhoa Elisa</dc:creator>
+<dc:creator>Zamora Barrios, María Dolores</dc:creator>
+<dc:creator>Santiago Perez, Alejandro</dc:creator>
+<dc:creator>Bilbao Gómez-Martino, Cristina</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Describir la implantación de un robot para la elaboración de antineoplásicos en el Servicio de Farmacia y evaluar el valor añadido al proceso farmacoterapéutico. Método: La implantación se llevó a cabo en Junio 2012 en un hospital de tercer nivel, realizándose en dos períodos: 1-Período de pruebas con la instalación del robot, configuración técnica del equipo, validación de 29 principios activos e integración con el software de prescripción electrónica (9 meses); 2-Período de utilización (22 meses). Se impartieron cursos de formación a farmacéuticos y personal de enfermería. Para su funcionamiento el robot emplea reconocimiento fotográfico, identificación por código de barras y controles gravimétricos, que proporcionaron datos de error cometido por preparación, tolerando ±10% y restringiéndolo, tras un estudio piloto, a un intervalo de tolerancia de ±4%. El robot fue programado para reconocer bolsas, infusores, jeringas y viales. El valor añadido se evaluó durante 31 meses con la identificación de los errores de preparación. Resultados: Se realizaron 11.865 preparaciones en el robot, que correspondieron al 40% del global de antineoplásicos elaborados, de 29 principios activos diferentes. Se identificaron y evitaron errores de dosificación en el 1,12% (n=133) de las preparaciones, que no alcanzaron al paciente al ser identificadas por el robot como preparaciones con desviación negativa (-4%) y ser corregidas manualmente. Conclusiones: La implantación de un robot en la elaboración de antineoplásicos permite identificar los errores de elaboración y evitar que lleguen al paciente, promoviendo la seguridad y calidad del proceso farmacoterapéutico de antineoplásicos y reduciendo la exposición del manipulador a los mismos (AU)</dc:description>
+<dc:source>Farm Hosp;39(3): 137-146, mayo-jun. 2015. ilus, tab</dc:source>
+<dc:identifier>ibc-141565</dc:identifier>
+<dc:title xml:lang="es">Implantación de un robot para la elaboración de antineoplásicos</dc:title>
+<dc:subject>^d19341^s22045</dc:subject>
+<dc:subject>^d11016^s22049</dc:subject>
+<dc:subject>^d4403^s22045</dc:subject>
+<dc:subject>^d54857</dc:subject>
+<dc:subject>^d974^s22078</dc:subject>
+<dc:subject>^d4401^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23106^s22002</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201506</dc:date>
+</metadata>
+</record>
+</ibecs-document>

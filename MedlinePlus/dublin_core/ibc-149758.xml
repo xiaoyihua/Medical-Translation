@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-149758</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Risk factors for provoking collisions between cyclists and pedestrians in Spain, 1993-2011</dc:title>
+<dc:description xml:lang="en">Objective: To identify and quantify the factors depending on pedestrians, cyclists and the environment associated with the risk of causing a collision between a cyclist and a pedestrian in Spain from 1993 to 2011. Methods: Study design: retrospective case series. Population: 1228 pedestrian-cyclist pairs involved in the same number of collisions in an urban area, only one of whom committed an infraction. Source: Register of Traffic Accidents with Victims, supported by the Spanish Traffic General Directorate. Variables: committing an infraction (yes/no), age, sex, helmet use (cyclist), hour, type of day, year, existence of sidewalks, place of the accident, and priority regulated. Analysis: logistic regression model to estimate the strength of the association between the pedestrian's responsibility and independent variables. The association with the cyclist's responsibility was assessed by reversing the value of the odds ratios obtained. Results: In both groups of users, the risk of causing a collision was higher in extreme ages. Female cyclists had a slightly higher risk than male cyclists, while the use of a helmet had a protective effect. The risk of the pedestrian causing an accident was higher in the absence of sidewalks. Cyclists more frequently provoked accidents in crosswalks. Conclusion: We recommend the implementation of safety campaigns aimed at pedestrians and cyclists, with special attention paid to the youngest and older people. Interventions for correct road use would also be advisable (AU)</dc:description>
+<dc:creator>Pulido Manzanero, José</dc:creator>
+<dc:creator>Martínez Ruiz, Virginia</dc:creator>
+<dc:creator>Lardelli Claret, Pablo</dc:creator>
+<dc:creator>Jiménez Mejías, Eladio</dc:creator>
+<dc:creator>Olmedo Requena, Rocío</dc:creator>
+<dc:creator>Amezcua Prieto, Carmen</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Identificar y cuantificar los factores dependientes del peatón, del ciclista y del ambiente asociados a un mayor riesgo de ser causa de una colisión entre un ciclista y un peatón en España, entre 1993 y 2011. Métodos: Diseño del estudio: serie de casos retrospectiva. Población: 1228 pares peatón-ciclista implicados en otras tantas colisiones en zona urbana, en las que sólo uno de los dos cometió una infracción. Fuente de información: Registro de Accidentes de Tráfico con Víctimas de la Dirección General de Tráfico. Variables: comisión de infracción (sí/no), edad, sexo, uso de casco (ciclista), hora, tipo de día, año, presencia de aceras, lugar del accidente, prioridad regulada. Análisis: modelo de regresión logística para estimar la fuerza de la asociación entre la responsabilidad del peatón y las variables independientes. Invirtiendo el valor de las odds ratios obtenidas se valoró la asociación con la responsabilidad del ciclista. Resultados: En ambos grupos de usuarios, el riesgo de ser responsable de la colisión fue mayor en las edades extremas. Las mujeres ciclistas presentaron un riesgo ligeramente mayor que los hombres, mientras que usar casco tuvo un efecto protector. El riesgo de que el peatón fuera responsable fue mayor en ausencia de aceras. Los ciclistas provocaron con más frecuencia los atropellos en los pasos de peatones. Conclusión: Sería recomendable implementar campañas de seguridad vial dirigidas a peatones y ciclistas, prestando especial atención a jóvenes y ancianos. Las intervenciones para el uso correcto de la calzada también serían de utilidad (AU)</dc:description>
+<dc:source>Gac Sanit;29(supl.1): 10-15, sept. 2015. tab</dc:source>
+<dc:identifier>ibc-149758</dc:identifier>
+<dc:title xml:lang="es">Factores asociados al riesgo de provocar una colisión entre un ciclista y un peatón en España, 1993-2011</dc:title>
+<dc:subject>^d23893^s22083</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d29153^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d11926^s22074</dc:subject>
+<dc:subject>^d13308</dc:subject>
+<dc:subject>^d36432^s22083</dc:subject>
+<dc:subject>^d1667^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201509</dc:date>
+</metadata>
+</record>
+</ibecs-document>

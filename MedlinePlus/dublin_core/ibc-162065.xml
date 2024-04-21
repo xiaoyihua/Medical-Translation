@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-162065</identifier>
+<setSpec>2253-654X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">A novel semi-robotized device for high-precision 18F-FDG-guided breast cancer biopsy</dc:title>
+<dc:description xml:lang="en">Purpose. To assess the 3D geometric sampling accuracy of a new PET-guided system for breast cancer biopsy (BCB) from areas within the tumour with high 18F-FDG uptake. Materials and methods. In the context of the European Union project MammoCare, a prototype semi-robotic stereotactic prototype BCB-device was incorporated into a dedicated high resolution PET-detector for breast imaging. The system consists of 2 stacked rings, each containing 12 plane detectors, forming a dodecagon with a 186mm aperture for 3D reconstruction (1mm3 voxel). A vacuum-assisted biopsy needle attached to a robot-controlled arm was used. To test the accuracy of needle placement, the needle tip was labelled with 18F-FDG and positioned at 78 target coordinates distributed over a 35mm×24mm×28mm volume within the PET-detector field-of-view. At each position images were acquired from which the needle positioning accuracy was calculated. Additionally, phantom-based biopsy proofs, as well as MammoCare images of 5 breast cancer patients, were evaluated for the 3D automated locating of 18F-FDG uptake areas within the tumour. Results. Needle positioning tests revealed an average accuracy of 0.5mm (range 0&#150;1mm), 0.6mm (range 0&#150;2mm), and 0.4mm (range 0&#150;2mm) for the x/y/z-axes, respectively. Furthermore, the MammoCare system was able to visualize and locate small (&lt;10mm) regions with high 18F-FDG uptake within the tumour suitable for PET-guided biopsy after being located by the 3D automated application. Conclusions. Accuracy testing demonstrated high-precision of this semi-automatic 3D PET-guided system for breast cancer core needle biopsy. Its clinical feasibility evaluation in breast cancer patients scheduled for neo-adjuvant chemotherapy will follow (AU)</dc:description>
+<dc:creator>Valdés Olmos, RA</dc:creator>
+<dc:creator>Moliner, L</dc:creator>
+<dc:creator>Teixeira, SC</dc:creator>
+<dc:creator>Loo, CE</dc:creator>
+<dc:creator>Stokkel, MPM</dc:creator>
+<dc:creator>Alamo, J</dc:creator>
+<dc:creator>Donswijk, ML</dc:creator>
+<dc:creator>Hellingman, D</dc:creator>
+<dc:creator>Rijkhorst, EJ</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objetivo. Evaluar la precisión de un nuevo sistema de biopsia de mama (BM) guiado por PET que permite tomar muestras en áreas tumorales de alta captación de 18F-FDG en 3D con alta precisión geométrica. Materiales y métodos. El proyecto MammoCare financiado por la Unión Europea desarrolló un dispositivo de BM estereotáctica incorporado en un PET dedicado de alta resolución provisto de 2 anillos apilados con 12 detectores planos cada uno formando un dodecágono con una apertura de 186mm para la adquisición de PET en posición prona y reconstrucción 3D con vóxeles de 1mm3. El sistema utiliza agujas de biopsia asistida por vacío colocadas en un dispositivo robotizado. Su exactitud se estableció marcando con 18F-FDG la punta de la aguja en un objetivo de 35×24×28mm colocado dentro del campo visual del anillo PET. Se utilizaron 78 coordenadas realizando una adquisición por posición. Adicionalmente, se evaluó la localización 3D automatizada de las áreas de captación de 18F-FDG utilizando las imágenes de 5 pacientes con cáncer de mama. Resultados. Se estableció una precisión media de 0,5mm (rango 0-1mm); 0,6mm (rango 0-2mm) y 0,4mm (rango 0-2mm) respectivamente para los ejes x/y/z, en la colocación de la aguja. La aplicación 3D automatizada localizó múltiples regiones (&lt;10mm) intratumorales con alta captación de 18F-FDG adecuadas para BM guiada por PET. Conclusión. El sistema de BM guiada por PET con localización semirrobotizada alcanzó alta precisión lo que permitirá evaluar su viabilidad clínica en pacientes con cáncer de mama programados para quimioterapia neoadyuvante (AU)</dc:description>
+<dc:source>Rev. esp. med. nucl. imagen mol. (Ed. impr.);36(3): 158-165, mayo-jun. 2017. tab, ilus</dc:source>
+<dc:identifier>ibc-162065</dc:identifier>
+<dc:title xml:lang="es">Un nuevo dispositivo semirrobotizado para biopsia de alta precisión guiada por la captación de 18F-FDG en el cáncer de mama</dc:title>
+<dc:subject>^d1968^s29166</dc:subject>
+<dc:subject>^d55010^s22045</dc:subject>
+<dc:subject>^d9871^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d55679^s22066</dc:subject>
+<dc:subject>^d33556^s22066</dc:subject>
+<dc:subject>^d55010^s22039</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d33478^s22000</dc:subject>
+<dc:subject>^d19341^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201706</dc:date>
+</metadata>
+</record>
+</ibecs-document>

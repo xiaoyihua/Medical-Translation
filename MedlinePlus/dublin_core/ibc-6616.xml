@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-6616</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Identification of new diagnostic categories within bronchial asthma and COPD. A review of traditional classifications</dc:title>
+<dc:creator>Diego Damiá, A de</dc:creator>
+<dc:creator>Perpiñá Tordera, M</dc:creator>
+<dc:creator>León Fábregas, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El solapamiento en la expresión clínica y funcional de las enfermedades de la vía aérea hace difícil separar las diferentes entidades nosológicas incluidas dentro de ellas. Nuestro objetivo ha sido identificar categorías "ocultas" dentro de las etiquetas diagnósticas tradicionales de asma bronquial y de bronquitis crónica. Para ello, estudiamos a 211 pacientes diagnosticados de alguna de estas enfermedades mediante la valoración de su función pulmonar (espirometría), variabilidad de la obstrucción (test broncodilatador, flujo espiratorio máximo, test de provocación bronquial), atopia (prick-test, IgE sérica total), parámetros biológicos (eosinófilos), grado de tabaquismo y sintomatología. Se utilizó una técnica multivariante de clasificación automática de datos (quick cluster) para reclasificar a los sujetos en base a los parámetros de agrupación seleccionados con un análisis factorial de componentes principales. Este análisis nos permitió identificar 4 tipos diferentes de pacientes (asma tópico, bronquitis asmática, bronquitis crónica simple y bronquitis con hiperrespuesta bronquial) que consideramos representativos de categorías diagnósticas con significado clínico relevante y que estarían solapadas y parcialmente ocultas dentro de los diagnósticos de asma bronquial y bronquitis crónica (AU)</dc:description>
+<dc:source>Arch Bronconeumol;38(1): 10-15, ene. 2002.</dc:source>
+<dc:identifier>ibc-6616</dc:identifier>
+<dc:title xml:lang="es">Identificación de nuevas categorías diagnósticas dentro del asma bronquial y la EPOC. una revisión de las clasificaciones tradicionales</dc:title>
+<dc:subject>^d1257</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d36008</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200201</dc:date>
+</metadata>
+</record>
+</ibecs-document>

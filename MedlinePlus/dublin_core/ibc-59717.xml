@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-59717</identifier>
+<setSpec>0212-1972</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Digital medical imaging: beyond radiodiagnosis</dc:title>
+<dc:description xml:lang="en">In this article the authors tackle the subject of digital medical imaging in its different modalities. The article deals with non radiological medical imaging (eye fundus, microscopic cut, cytology, etc) (AU)</dc:description>
+<dc:creator>Morillo Castro, Ana</dc:creator>
+<dc:creator>Bueno García, Gloria</dc:creator>
+<dc:creator>García Rojo, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La imagen digital en medicina abarca diferentes modalidades de imagen, según la fuente de energía utilizada y la información que proporciona, anatómica o funcional, del cuerpo humano. Imagen que es utilizada en numerosas especialidades médicas. En particular, aquí trataremos imágenes médicas no radiológicas, algunas específicas de ciertas especialidades médicas (fondo de ojo en oftalmología, cortes microscópicos y citología en anatomía patológica) y otras utilizadas  por múltiples especialidades (imagen externa del paciente, imagen de pieza quirúrgicas). La imagen digital permite emplear técnicas de procesado y análisis específicas para cada tipo de imagen. Las características especiales de estas imágenes médicas (color, movimiento, gran tamaño) requieren soluciones especiales no contempladas en los sistemas de gestión de imagen habitualmente utilizados en los sistemas de radiología, lo que ha obligado a la ampliación de los estándares de imagen actualmente existentes (AU)</dc:description>
+<dc:source>Todo hosp;(218): 394-403, jul.-ago. 2005. ilus, tab</dc:source>
+<dc:identifier>ibc-59717</dc:identifier>
+<dc:title xml:lang="es">La imagen médica digital: más allá del radiodiagnóstico</dc:title>
+<dc:subject>^d22878^s22083</dc:subject>
+<dc:subject>^d36296^s22045</dc:subject>
+<dc:subject>^d10065^s22039</dc:subject>
+<dc:subject>^d36296^s22066</dc:subject>
+<dc:subject>^d22878^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22878^s22066</dc:subject>
+<dc:subject>^d36296^s22049</dc:subject>
+<dc:subject>^d9044^s22066</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d22878^s22048</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d36296^s22019</dc:subject>
+<dc:subject>^d9041^s22074</dc:subject>
+<dc:subject>^d22878^s22039</dc:subject>
+<dc:subject>^d30313^s22066</dc:subject>
+<dc:subject>^d4805^s22074</dc:subject>
+<dc:subject>^d30313^s22045</dc:subject>
+<dc:subject>^d19200^s22045</dc:subject>
+<dc:subject>^d19200^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200508</dc:date>
+</metadata>
+</record>
+</ibecs-document>

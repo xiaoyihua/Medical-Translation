@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-163677</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Spatial analysis of syphilis and gonorrhea infections in a Public Health Service in Madrid</dc:title>
+<dc:description xml:lang="en">Background: Sexually transmitted diseases are a significant public health problem. Within the Madrid Autonomous Region, the districts with the highest syphilis and gonorrhea incidences are part of the same Public Health Service (Servicio de Salud Pública del Área 7, SSPA 7). The objective of this study was to identify, by spatial analysis, clusters of syphilis and gonorrhea infections in this SSPA in Madrid. Methods: All confirmed syphilis and gonorrhea cases registered in SSPA 7 in Madrid were selected. Moran&#146;s I was calculated in order to identify the existence of spatial autocorrelation and a cluster analysis was performed. Clusters and cumulative incidences (CI) per health zone were mapped. Results: The district with most cases was Centro (CI: 67.5 and 160.7 per 100.000 inhabitants for syphilis and gonorrhea, respectively) with the highest CI (120.0 and 322.6 per 100.000 inhabitants) in the Justicia health zone. 91.6% of all syphilis cases and 89.6% of gonorrhea cases were among men who have sex with men (MSM). Moran&#146;s I was 0.54 and 0.55 (p&lt;0.001) for syphilis and gonorrhea, respectively. For syphilis, a cluster was identified including the six health zones of the Centro district, with a relative risk (RR)of 6.66 (p=0.001). For gonorrhea, a cluster was found including the Centro district, three health zones of the Chamberí district and one of Latina (RR 5.05; p=0.001). Conclusion: Centro was the district with most cases of syphilis and gonorrhea and the most affected population were MSM. For both infections, clusters were found with an important overlap. By identifying the most vulnerable health zones and populations, these results can help to design public health measures for preventing sexually transmitted diseases (AU)</dc:description>
+<dc:creator>Taveira Jiménez, José Antonio</dc:creator>
+<dc:creator>Sánchez Gómez, Amaya</dc:creator>
+<dc:creator>Wijers, Irene GM</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamentos: Las infecciones de transmisión sexual son un importante problema de salud pública. Dentro de la Comunidad de Madrid, los distritos con mayor incidencia de sífilis infecciosa e infección gonocócica pertenecen al Servicio de Salud Pública del Área 7 (SSPA 7). El objetivo de este estudio fue identificar conglomerados de casos de sífilis infecciosa y de infección gonocócica dentro de este SSPA. Métodos: Se seleccionaron todos los casos confirmados de sífilis infecciosa y de infección gonocócica del año 2015 registrados en el SSPA 7 de Madrid. Se determinó el índice I de Morán para las dos enfermedades para identificar la existencia de autocorrelación espacial y se realizó un análisis de conglomerados. Los conglomerados e incidencias acumuladas (IA) por zona básica de salud (ZBS) fueron visualizados en mapas. Resultados: El distrito con más casos fue Centro (IA: 67,5 y 160,7 por 100.000 habitantes para la sífilis infecciosa y la infección gonocócica, respectivamente), con IA más altas (120,0 y 322,6 por 100.000 habitantes) en la ZBS de Justicia. El 91,6% de los casos de sífilis infecciosa y el 89,6% de las infecciones gonocócicas correspondieron a hombres que tienen sexo con hombres (HSH). El índice I de Moran fue de 0,54 y 0,55 (p&lt;0,001) para la sífilis infecciosa y la infección gonocócica respectivamente. Para la sífilis infecciosa se identificó un conglomerado que comprende las seis ZBS que forman el distrito Centro, con un riesgo relativo (RR) de 6,66 (p=0,001). Para la infección gonocócica, se identificó un conglomerado que englobaba el distrito Centro, tres ZBS de Chamberí y una del distrito Latina (RR 5,05; p=0,001). Conclusión: Centro fue el distrito con más casos de sífilis infecciosa y de infección gonocócica y el colectivo más afectado fue el de HSH. Para las dos enfermedades se identificaron conglomerados con un gran solapamiento. Al identificar las zonas básicas de salud y colectivos más vulnerables, estos resultados pueden ayudar a diseñar intervenciones de salud pública para la prevención de las infecciones de transmisión sexual (AU)</dc:description>
+<dc:source>Rev Esp Salud Publica;91: 0-0, 2017. mapas, tab</dc:source>
+<dc:identifier>ibc-163677</dc:identifier>
+<dc:title xml:lang="es">Estudio espacial de la sífilis infecciosa y la infección gonocócica en un servicio de salud pública de Área de Madrid</dc:title>
+<dc:subject>^d24326^s22080</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24326^s22054</dc:subject>
+<dc:subject>^d24320^s22054</dc:subject>
+<dc:subject>^d13411^s22080</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d24320^s22080</dc:subject>
+<dc:subject>^d28441^s22066</dc:subject>
+<dc:subject>^d13106^s22083</dc:subject>
+<dc:subject>^d28408</dc:subject>
+<dc:subject>^d55056</dc:subject>
+<dc:subject>^d24198^s22080</dc:subject>
+<dc:subject>^d53386</dc:subject>
+<dc:subject>^d28455^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201700</dc:date>
+</metadata>
+</record>
+</ibecs-document>

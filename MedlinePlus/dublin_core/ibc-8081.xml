@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-8081</identifier>
+<setSpec>0001-6519</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Use of narrow-band spectrogram in voice surgery</dc:title>
+<dc:description xml:lang="en">Subjective voice qualities are difficult to transform into permanent objective visual patterns. Voice spectrography is not a new method of voice analysis. However, in spite of many contributions to the literature, few otolaryngologists have used this interesting method as a clinical tool for evaluating the voice before and after surgical voice procedures. We used the Yanagihara method for classifying degrees of hoarseness, witch is based on the appearance of noise components and loss of harmonic components as the major acoustic factors related to hoarseness. This classification is clinically useful because the severity of hoarseness can be numerically expressed. Changes in the harmonic components were analyzed by voice spectrographic analysis (AU)</dc:description>
+<dc:publisher>Sanidad y Ediciones (SANED, S.L.)</dc:publisher>
+<dc:description xml:lang="es">Las cualidades subjetivas de la voz son difíciles de transformar en patrones visuales objetivos. La espectrografía no es un método novedoso de análisis de la voz, pero a pesar de numerosos trabajos presentes en la literatura, pocos otorrinolaringólogos utilizan este interesante método como una herramienta clínica para la evaluación de la voz antes y después de realizar intervenciones fonoquirúrgicas. Nosotros hacemos uso de la clasificación según el método de Yanagihara en grados de severidad de la disfonía que se basa en la aparición de componentes de ruido y la pérdida de componentes armónicos en el espectro de una voz disfónica. Esta clasificación es clínicamente útil dado que el grado de severidad de la disfonía se puede expresar de forma numérica. En este trabajo se analizan los cambios en los componentes armónicos y la suma de componentes de ruido en las disfonías basándonos en el análisis espectrográfico de la voz (AU)</dc:description>
+<dc:source>Acta Otorrinolaringol Esp;51(3): 243-245, abr. 2000. ilus</dc:source>
+<dc:title xml:lang="es">Aplicación del espectrograma de banda estrecha de fonocirugía</dc:title>
+<dc:type>article</dc:type>
+<dc:creator>Suarez Nieto, C</dc:creator>
+<dc:creator>Baragaño Río, L</dc:creator>
+<dc:creator>Maldonado Fernández, M</dc:creator>
+<dc:creator>Muñoz Pinto, C</dc:creator>
+<dc:creator>Núñez Batalla, F</dc:creator>
+<dc:language>es</dc:language>
+<dc:identifier>ibc-8081</dc:identifier>
+<dc:subject>^d15235</dc:subject>
+<dc:subject>^d28094^s22009</dc:subject>
+<dc:subject>^d13444</dc:subject>
+<dc:subject>^d13401</dc:subject>
+<dc:subject>^d28094^s22016</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d18001</dc:subject>
+<dc:date>200004</dc:date>
+</metadata>
+</record>
+</ibecs-document>

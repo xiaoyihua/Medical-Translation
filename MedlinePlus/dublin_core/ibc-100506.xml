@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-100506</identifier>
+<setSpec>0214-3429</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Emergence of plasmid mediated AmpC Beta-lactamasas: origin, importance, detection and therapeutical options</dc:title>
+<dc:description xml:lang="en">AmpC &amp;#946;-lactamases can hydrolyze penicillins, oxyimino-, 7-&amp;#945;-methoxycephalosporins and monobactams. Susceptibility to cefepime or cefpirome is little affected and is unchanged for carbapenems. Originally such genes are thought to have been mobilized to mobile genetic elements from the chromosomal ampC genes from members of Enterobacteriaceae facilitating their spread and now they can appear in bacterial lacking or poorly expressing a chromosomal ampC gene. The prevalence of infection by plasmid mediated AmpC (pAmpC) varies depending on the type of enzyme and geographical location and blaCMY-2 is the most frequently detected worldwide. Typically, pAmpC producing isolates are associated with resistance to multiple antibiotics making the selection of an effective antibiotic difficult. Phenotypic and molecular methods to detect pAmpC are described and the role of different antibiotics in the treatment of these infections is examined. Surveillance studies about the evolution of this emerging resistant mechanism are important in clinical isolates. Evaluate the in vitro susceptibility of these isolates and the clinical efficacy of other therapeutic options is required(AU)</dc:description>
+<dc:creator>Seral, Cristina</dc:creator>
+<dc:creator>Gude, M. José</dc:creator>
+<dc:creator>Castillo, F. Javier</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Las &amp;#946;-lactamasas AmpC pueden hidrolizar penicilinas, cefamicinas, oximinocefalosporinas y monobactams, pero no son activas frente a cefalosporinas de cuarta generación y carbapenémicos. Los genes blaAmpC, que se encuentran en el cromosoma de algunos bacilos gramnegativos, se han integrado en elementos genéticos transferibles, lo que ha permitido su difusión a microorganismos que carecen de forma natural de ampC cromosómico o lo expresan a bajo nivel. La prevalencia de las infecciones causadas por bacterias productoras de AmpC plasmídica (pAmpC) varía en función del tipo de enzima y la localización geográfica, siendo blaCMY-2 la enzima de distribución más universal. Los aislados clínicos productores de pAmpC son con frecuencia resistentes a otros antimicrobianos, lo que reduce de manera importante las opciones terapéuticas. Se describen los métodos fenotípicos y genotípicos que permiten su detección y se analiza el papel que pueden desempeñar diferentes antimicrobianos en el tratamiento de las infecciones que producen. Este mecanismo emergente de resistencia requiere detectar y vigilar su evolución en los aislados clínicos y evaluar la sensibilidad in vitro y la eficacia clínica de otras opciones terapéuticas(AU)</dc:description>
+<dc:source>Rev Esp Quimioter;25(2): 89-99, jun.2012.</dc:source>
+<dc:identifier>ibc-100506</dc:identifier>
+<dc:title xml:lang="es">Emergencia de Beta-lactamasas AmpC plasmídicas (pAmpC ó cefamicinasas): origen, importancia, detección y alternativas terapéuticas</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d3050^s22073</dc:subject>
+<dc:subject>^d1639^s22078</dc:subject>
+<dc:subject>^d24550^s22078</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24550^s22079</dc:subject>
+<dc:subject>^d31725^s22073</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d1639^s22073</dc:subject>
+<dc:subject>^d24550^s22044</dc:subject>
+<dc:subject>^d7414^s22057</dc:subject>
+<dc:subject>^d555</dc:subject>
+<dc:subject>^d4710^s22045</dc:subject>
+<dc:subject>^d5712^s22073</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201206</dc:date>
+</metadata>
+</record>
+</ibecs-document>

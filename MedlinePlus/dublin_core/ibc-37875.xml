@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-37875</identifier>
+<setSpec>0212-1972</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Physical-mathematical analysis of the influence of local weather conditions on the performance of the medical vacuum</dc:title>
+<dc:description xml:lang="en">No disponible</dc:description>
+<dc:publisher>Puntex, S.A.</dc:publisher>
+<dc:description xml:lang="es">Para elaborar este trabajo se ha partido de una central de referencia: a nivel del mar (760 mm Hg) y 20 ºC, y la cruzamos con los datos de 90 observatorios meteorológicos de España viendo cómo se alteran sus prestaciones. Influencia de la presión atmosférica local Influencia en la toma La potencia disminuye al disminuir la presión atmosférica ambiente. Por ejemplo en Soria (668 mm Hg) la potencia se reduce un 12,11 por ciento respecto a si la misma toma estuviese a nivel del mar. Influencia en la capacidad de las centrales Se ha realizado un análisis bajo dos criterios: 1. Conseguir un vacío de -500 mm Hg sobre la presión atmosférica local sin corregir el caudal ambiente (consideramos el caudal ambiente como geométrico). Si el nominal de dos hospitales gemelos (uno al nivel del mar y otro en Soria) fuera de 200 m3/h según norma HTM-22, pero en Soria deberían ser 270 m3 /h. Una proporción importante de observatorios necesitaría un incremento entre el 10 y el 20 por ciento. Hay casos extremos, variaciones mayores del 50 por ciento, como Izaña con un factor de corrección máximo de 2,62 (con respecto al caso anterior en lugar de 200 seria 524 m 3/ h).2. Dimensionar la central necesaria para suministrar la misma potencia que si estuviera al nivel del mar, pero corrigiendo los diferentes caudales ambientes. Siguiendo con el ejemplo de Soria obtenemos bajo este nuevo criterio un factor de corrección es de 1,5 veces. En el mismo caso de los hospitales gemelos (uno a nivel del mar y el otro en Soria) el de Soria se necesitarla 300 m3 /h en lugar de los 200 m3 /h mencionados. Como antes Izaña es el lugar con el máximo factor de corrección: 3,25 (lo que implicaría una central de 650 m3/h).Uno de cada cinco observatorios precisaría un incremento de capacidad entre el 20 y el 30 por ciento y uno de cada 20 precisaría un incremento mayor del 50 por ciento. Influencia de la temperatura local Aunque el hospital esté climatizado, las salas de máquinas no lo están y el gas circulante por la red de vacío tenderá a tomar la temperatura ambiente de la central. Por ejemplo, si la temperatura de la sala de máquinas es de 40ºC implica que el caudal de la bomba tendrá que ser un 6,8 por ciento más grande para compensar el aumento de temperatura con respecto a la referencia de 20°C.Sevilla es el lugar con una variación máxima: 1,09. Como estadística, utilizando sólo las temperaturas máximas registradas, hay que decir que la mayoría de observatorios, precisarían un incremento de capacidad mayor del 7 por ciento, en los casos más extremos, se necesitarían incrementos del 9 por ciento. Conclusiones Las condiciones climatológicas son factores a tener en cuenta en el diseño de centrales de vacío medico (AU)</dc:description>
+<dc:source>Todo hosp;(188): 411-426, jul. 2002. tab</dc:source>
+<dc:title xml:lang="es">Análisis físico-matemático de la influencia de las condiciones ambientales locales en las prestaciones del vacío medico</dc:title>
+<dc:type>article</dc:type>
+<dc:creator>Renedo Rouco, I</dc:creator>
+<dc:creator>Renedo Puig, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:identifier>ibc-37875</dc:identifier>
+<dc:subject>^d13904^s22048</dc:subject>
+<dc:subject>^d16303</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24663^s22048</dc:subject>
+<dc:subject>^d24467</dc:subject>
+<dc:subject>^d15021</dc:subject>
+<dc:subject>^d1281</dc:subject>
+<dc:date>200207</dc:date>
+</metadata>
+</record>
+</ibecs-document>

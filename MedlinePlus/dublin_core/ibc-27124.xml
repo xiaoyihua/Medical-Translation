@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-27124</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">An automatic system for anatomophysiological correlation in three planes simultaneously during functional neurosurgery</dc:title>
+<dc:creator>Guerra, E</dc:creator>
+<dc:creator>Maragoto, C</dc:creator>
+<dc:creator>Morales, J. M</dc:creator>
+<dc:creator>Fernández, F</dc:creator>
+<dc:creator>Seijo, F</dc:creator>
+<dc:creator>López, G</dc:creator>
+<dc:creator>Teijeiro, J</dc:creator>
+<dc:creator>Macías, R. J</dc:creator>
+<dc:creator>Álvarez, L. M</dc:creator>
+<dc:creator>Álvarez, E </dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>César Viguera</dc:publisher>
+<dc:description xml:lang="es">Introducción. El sistema de programas NDRS (Neurosurgical Deep Recording System) sustituye con un ordenador personal el complejo equipamiento electrónico para el registro y procesamiento de la actividad eléctrica cerebral profunda, como guía de la neurocirugía funcional estereotáxica; asimismo, permite mayores posibilidades de representación de la información de forma gráfica directa, su manejo automático y la flexibilidad suficiente para implementar diferentes análisis. Objetivo. Este trabajo describe las posibilidades automáticas de representación gráfica simultánea en tres planos casi ortogonales, ofrecidas por la nueva versión 5.1 del NDRS, para facilitar los análisis de correlación anatomofisiológica en la localización de estructuras cerebrales profundas durante esta cirugía de mínimo acceso. Material y métodos. Esta nueva versión puede mostrar automáticamente el comportamiento espacial de la amplitud de las señales registradas a lo largo del trayecto del electrodo dentro del cerebro, superpuesta simultáneamente sobre los correspondientes cortes sagital, coronal y axial de un atlas anatómico cerebral, tras su escalamiento automático de acuerdo con las dimensiones del cerebro de cada paciente. Ello también puede mostrarse en una representación tridimensional de los diferentes planos interceptados entre sí. Resultados. El sistema NDRS se ha utilizado con éxito en España y Cuba en más de 300 intervenciones neuroquirúrgicas funcionales. Esta nueva versión facilita aún más los análisis de correlación espacial anatomofisiológica para localizar las estructuras cerebrales. Conclusión. El sistema ha contribuido a incrementar la exactitud y seguridad en la selección de los blancos quirúrgicos para el control de diferentes síntomas de la enfermedad de Parkinson y otros trastornos del movimiento (AU)</dc:description>
+<dc:source>Rev Neurol;32(11): 1005-1012, jun. 2001.</dc:source>
+<dc:identifier>ibc-27124</dc:identifier>
+<dc:title xml:lang="es">Sistema automático para la correlación anatomofisiológica en tres planos simultáneos durante la neurocirugía funcional</dc:title>
+<dc:subject>^d7344</dc:subject>
+<dc:subject>^d3540</dc:subject>
+<dc:subject>^d4667</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d13878</dc:subject>
+<dc:subject>^d29770</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d29510</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d29192</dc:subject>
+<dc:subject>^d1731</dc:subject>
+<dc:subject>^d34212</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d14065</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200106</dc:date>
+</metadata>
+</record>
+</ibecs-document>

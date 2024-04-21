@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-050204</identifier>
+<setSpec>0304-5013</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Influence of bibliography on the quality of thesis proposals presented in a university department. Regression models</dc:title>
+<dc:description xml:lang="en">Objective: To evaluate the current situation of the publications cited in doctoral thesis proposals in the Department of Obstetrics, Gynecology and Surgery of the University of Zaragoza (Spain) between 1995 and 2002 and to determine the influence of the bibliography on the quality of thesis proposals with a view to predicting the quality of thesis proposals according to their bibliographic parameters. Material and method: We performed a case-control study (proposals with and without bibliography, respectively). A total of 273 thesis proposals corrected by two evaluators (546 subjects under study) and presented in the Department of Obstetrics, Gynecology and Surgery in the University of Zaragoza between 1995 and 2002 were analyzed. Results: A statistically significant association was found between the variable of bibliography (present, incorrect, or absent) and the quality of thesis proposals (corrected evaluation) verified by two statistical tests. The number of citations seemed to be linearly related to the corrected evaluation (0.229). Various models were proposed through multiple linear regression but these models had little predictive power. Conclusions 1. The publications cited did not influence the quality of doctoral thesis proposals. 2. Although some significant variables were found (a large number of cited publications was weakly correlated with higher quality), these variables explained practically none of the variability in quality. 3. The only variable with predictive or explanatory value on the quality of thesis proposals was the number of citations: the greater the number of citations the higher the quality but this variable explained only 8.5% of the variability in quality</dc:description>
+<dc:creator>Supervía Alonso, Alberto</dc:creator>
+<dc:creator>Royo Manero, Pedro</dc:creator>
+<dc:creator>Alcázar Zambrano, Juan Luis</dc:creator>
+<dc:creator>Galván García, Rosendo</dc:creator>
+<dc:creator>Ruiz Zambrana, Álvaro</dc:creator>
+<dc:creator>Mazaira Salcedo, Jesús</dc:creator>
+<dc:creator>Lamata Hernández, Félix</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Evaluar cuál es la situación actual de la bibliografía aportada en los proyectos de tesis doctoral en el Departamento de Obstetricia, Ginecología y Cirugía de la Universidad de Zaragoza entre los años 1995 y 2002, y dilucidar cómo influye ésta en la calidad de los proyectos de tesis, para poder hacer predicciones sobre la calidad de cualquier proyecto de tesis en función de sus parámetros bibliográficos. Material y método: Estudio analítico de casos y controles (proyectos con bibliografía y sin ella, respectivamente) en el que se analizan 273 proyectos de tesis corregidos por dos personas (546 sujetos evaluados) presentados en el Departamento de Obstetricia, Ginecología y Cirugía de la Universidad de Zaragoza entre los años 1995 y 2002. Resultados: Se halló asociación estadística entre la variable bibliografía (existente, incorrecta y no existente) y la calidad del proyecto de tesis (valoración corregida) comprobada mediante dos tests estadísticos. El número de citas bibliográficas parece estar algo relacionada linealmente con la valoración corregida (0,229). Mediante regresión lineal múltiple se proponen varios modelos, pero resultan de escaso poder predictivo. Conclusiones: 1. Para responder a la hipótesis conceptual de trabajo se podría decir que el apartado bibliográfico no influye en la calidad de los proyectos de tesis doctoral. 2. Sí que se observan relaciones ya comentadas, como que a grandes cantidades de citas el trabajo suele estar algo mejor calificado, de ahí que aunque nos salgan algunas variables significativas no nos expliquen prácticamente nada de la variabilidad de la respuesta. 3. La única variable que tiene valor predictivo o explicativo de la calidad del proyecto de tesis es el número de citas: a mayor número de citas, mayor calidad del proyecto de tesis, pero desgraciadamente es muy pobre, apenas un 8,5%</dc:description>
+<dc:source>Prog. obstet. ginecol. (Ed. impr.);49(11): 656-665, nov. 2006. tab, graf</dc:source>
+<dc:identifier>ibc-050204</dc:identifier>
+<dc:title xml:lang="es">Influencia de la bibliografía en la calidad de los proyectos de tesis presentados en un departamento universitario. Modelos de regresión</dc:title>
+<dc:subject>^d1659</dc:subject>
+<dc:subject>^d14893</dc:subject>
+<dc:subject>^d24536</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12528</dc:subject>
+<dc:subject>^d51780</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200611</dc:date>
+</metadata>
+</record>
+</ibecs-document>

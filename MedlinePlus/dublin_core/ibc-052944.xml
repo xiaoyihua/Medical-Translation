@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-052944</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Estimating utility values for health status using the Spanish version of the SF-36. Validity of the SF-6D index vs EQ-5D</dc:title>
+<dc:description xml:lang="en">Background and objective: A new utility index derived of the SF-36, the SF-6D, was recently developed and has been compared with other utility measures. The objective was to validate this index in the Spanish version of SF-36 with respect to the EQ-5D. Method: 1,843 complete measures of the SF-36 and the EQ-5D from 1,283 patients who received a solid organ transplant were collected. SF-6D values were calculated using the model proposed by its creator and without tariff values (not weighted). EQ-5D values were calculated using Spanish visual analog scale tariff (VAS-t), the time-trade off tariff (TTO-t) and also without tariff values (not weighted). Spearman correlation coefficients were calculated between SF-6D and EQ-5D values. Results: Mean value (standard deviation) of SF-6D was 0.67 (0.15), of VAS-t, 0.69 (0.24) and of TTO-t, 0.70 (0.32). SF-6D values had moderate correlation with VAS-t (r = 0.734) and TTO-t (r = 0.731) (both p , 0.001). The not weighted SF-6D had a high correlation with the weighted version (r = 0.969, p , 0.001), and moderate with the VAS-t (r = 0.754), TTO-t (r = 0.750) and no weighted EQ-5D (r = 0.784) (p , 0.001). Conclusions: The SF-6D index derived from the Spanish version of SF-36 seem to be a valid utility index to be used with the SF-36 databases from studies made in Spain</dc:description>
+<dc:creator>Ortega, Teresa</dc:creator>
+<dc:creator>Morís, Joaquín</dc:creator>
+<dc:creator>Rebollo, Pablo</dc:creator>
+<dc:creator>Ortega, Francisco</dc:creator>
+<dc:creator>Valdés, Covadonga</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamento y objetivo: Recientemente se ha desarrollado un nuevo índice de utilidad derivado del SF-36, el SF-6D, que ha sido comparado con otras medidas similares. El objetivo del presente estudio ha sido validar el SF-6D, obtenido a partir de la versión española del SF-36, respecto al EQ-5D. Método: Se disponía de 1.843 medidas del SF-36 y el EQ-5D de 1.283 pacientes que habían recibido un trasplante de órgano sólido. Se calculó el SF-6D siguiendo el modelo propuesto por su creador y sin las tarifas (sin pesos). El EQ-5D se calculó con las 2 tarifas españolas, a partir de la escala visual analógica (t-EVA), por la técnica de equivalencia temporal (t-ET), y también sin pesos. Se calcularon los coeficientes de correlación de Spearman entre los diferentes valores del SF-6D y el EQ-5D. Resultados: La media (desviación estándar) del SF-6D fue de 0,67 (0,15), la de la t-EVA de 0,69 (0,24) y la de la t-ET de 0,70 (0,32). El SF-6D mostró correlación moderada con la t-EVA (r = 0,734) y con la t-ET (r = 0,731) (p , 0,001 para ambas). La versión sin pesos del SF-6D mostró una correlación elevada con el SF-6D con pesos (r = 0,969; p , 0,001) y moderada con la t-EVA (r = 0,754), t-ET (r = 0,750) y versión sin pesos del EQ-5D (r = 0,784) (p , 0,001 para todas). Conclusiones: El SF-6D derivado de la versión española del SF-36 parece ser una medida de utilidad válida para su uso en bases de datos con el SF-36 de estudios realizados en España</dc:description>
+<dc:source>Med. clín (Ed. impr.);128(14): 536-537, abr. 2007. tab</dc:source>
+<dc:identifier>ibc-052944</dc:identifier>
+<dc:title xml:lang="es">Estimación de un índice de utilidad mediante el uso de la versión española del Cuestionario de Salud SF-36: validez del índice SF-6D frente al EQ-5D</dc:title>
+<dc:subject>^d28449</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29074</dc:subject>
+<dc:subject>^d11622^s22080</dc:subject>
+<dc:subject>^d32026</dc:subject>
+<dc:subject>^d28608^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200704</dc:date>
+</metadata>
+</record>
+</ibecs-document>

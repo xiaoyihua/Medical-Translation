@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-17832</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cost analysis and prediction regarding cost progression for drugs used in a General Hospital</dc:title>
+<dc:creator>Juan Colomer, J</dc:creator>
+<dc:creator>López Sáez, A</dc:creator>
+<dc:creator>Pérez Ruixo, J. J</dc:creator>
+<dc:creator>Jiménez Torres, N. V</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Arán Ediciones, S.A.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Caracterizar la temporalidad del coste en medicamentos de un Hospital General Universitario y desarrollar un modelo matemático de predicción. Material y métodos: Tipo de hospital: Hospital General Universitario de 573 camas. Extracción de datos: estadísticas mensuales del consumo de medicamentos hospitalario. Periodo de estudio: enero 1992-diciembre 2000. Grupos: los datos disponibles hasta diciembre de 1999 se utilizan para identificar el modelo estadístico (grupo de identificación) y los datos de 2000 se utilizan para validar el mismo (grupo de validación). Modelos esta dísticos: la variable dependiente es el logaritmo neperiano del coste mensual de los medicamentos utilizados. El modelo de regresión lineal múltiple utiliza como variables independientes, el tiempo transcurrido desde el inicio del estudio (años), el mes y el año en que se efectúan las dispensaciones. El desarrollo del modelo ARIMA se realiza mediante la metodología de Box-Jenkins. Evaluación de la capacidad predictiva: media del error relativo de predicción (exactitud) y raíz cuadrada de la media del error cuadrático de predicción (precisión) de las predicciones realizadas mediante el modelo ARIMA desarrollado en el grupo de validación. Resultados: La tendencia de crecimiento lineal existente desde 1992 hasta 1996 1,2 per cent (IC95 per cent: 1,08 a 1,32 per cent), se incrementa hasta el 2,34 per cent (IC95 per cent: 1,93 a 2,73 per cent) a partir de inicios de 1997.El modelo de regresión lineal múltiple desarrollado, evidencia una estacionalidad en el coste de los medicamentos y es capaz de explicar el 96,39 per cent de su variabilidad. Respecto al mes de agosto en promedio, los meses de febrero, junio y marzo incrementan el coste de los medicamentos en 25,66, 25,55 y 22,93 per cent respectivamente. El modelo ARIMA desarrollado (0,1,1) (0,1,1) posee una exactitud (3,21 per cent) y una precisión (9,12 per cent) adecuadas para la predicción del coste de los medicamentos. Este modelo predice para el año 2001 un coste de 2.274 millones de pesetas. Conclusión: La disponibilidad de un modelo matemático para predecir el coste de los medicamentos utilizados en el hospital, es una herramienta eficaz para planificar los presupuestos en el Área de Gestión del Servicio de Farmacia (AU)</dc:description>
+<dc:source>Farm Hosp;26(2): 69-76, mar. 2002. tab, graf</dc:source>
+<dc:identifier>ibc-17832</dc:identifier>
+<dc:title xml:lang="es">Análisis y predicción de la evolución del coste de los medicamentos utilizados en un Hospital General Universitario</dc:title>
+<dc:subject>^d30355</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d10797^s22018</dc:subject>
+<dc:subject>^d16645</dc:subject>
+<dc:subject>^d6940</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6900</dc:subject>
+<dc:subject>^d6925</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200203</dc:date>
+</metadata>
+</record>
+</ibecs-document>

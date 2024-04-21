@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-149975</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">A Taxonomy for observational designs</dc:title>
+<dc:description xml:lang="en">Four basic criteria are proposed in order to classify the observational designs. 1) Time criterion, relative to the moment in which the behavior is registered. This criterion would oscillate between two poles: synchronous and diachronic. 2) Number of subjects observed, varying from one to several subjects. 3) Relationships between the units, with three dimensions: Independence, dependence, and interdependence. 4) Level of the answer, related to the existence of one or more behavior modalities. These basic criteria most be complemented with other secondary criteria, such as: a) instruments used in the observation, b) sample techniques, and c) behavior register techniques, such as continuous or interval registers. Finally, the use of these criteria are discussed, and the applicability problems analyzed (AU)</dc:description>
+<dc:creator>Artamendi Arrizabalaga, JA</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El trabajo plantea identificar los criterios que permiten diferenciar y definir los distintos diseños observacionales. Se proponen cuatro criterios básicos: 1) criterio Temporal, relativo al momento en el que son recogidos los indicadores de conducta, dimensión que fluctúa entre dos polos: a) Diacrónico cuando se relacionan indicadores recogidos en distintos momentos temporales, corresponde a la perspectiva de seguimiento y b) Sincrónico, si estos indicadores corresponden a la misma sesión de observación, sería una perspectiva puntual. 2) criterio del Número de Sujetos observados, dimensión que varía entre a) la perspectiva idiográfica centrada en un solo sujeto, y b) la perspectiva nomotética cuando es observada una pluralidad de individuos. 3) criterio de Relaciones entre las Unidades, con tres dimensiones: a) relaciones de Independencia, asociaciones entre las unidades, b) relaciones de Dependencia, establecimiento de causalidad entre las unidades, y c) relaciones de Interdependencia. 4) criterio de Nivel de Respuesta, vinculado a la existencia en la investigación de una o más modalidades de conducta diferenciadas según su contenido y producción. Estos criterios básicos deben de ser complementados con una serie de criterios secundarios relacionados con: 1) los instrumentos de observación empleados: codificación binaria, sistemas de categorías, formatos de campo, escalas de apreciación, etc. 2) las técnicas de muestreo: a) Intersesional, selección de momentos de comienzo y fin de las sesiones, b) Intrasesional, selección de sujetos que centran la atención del observador. 3) las técnicas de registro que especifiquen las propiedades de las categorías a registrar y el momento en que se realiza: a) registro continuo, b) en puntos de tiempo y c) de intervalos. La segunda vertiente consiste en la ubicación en este marco de una relación lo más exhaustiva posible de las investigaciones observacionales dirigidas, o en las que se ha colaborado, desde el ámbito universitario. Se presenta un resumen global del objeto de estudio, las problemáticas abordadas, el contexto de aplicación, etc (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);12(supl.2): 56-59, 2000. graf</dc:source>
+<dc:identifier>ibc-149975</dc:identifier>
+<dc:title xml:lang="es">Aproximación a una taxonomía de los diseños observacionales</dc:title>
+<dc:subject>^d33183^s22045</dc:subject>
+<dc:subject>^d12364</dc:subject>
+<dc:subject>^d7562</dc:subject>
+<dc:subject>^d50295^s22011</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28419</dc:subject>
+<dc:subject>^d32037</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200000</dc:date>
+</metadata>
+</record>
+</ibecs-document>

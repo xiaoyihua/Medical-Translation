@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-88858</identifier>
+<setSpec>0001-7310</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Store-and-Forward Teledermatology: Assessment of Validity in a Series of 2000 Observations</dc:title>
+<dc:description xml:lang="en">Background and objectives: The aim of this study was to assess the validity of store-and forward teledermatology as a tool to support physicians in primary care and hospital emergency services and reduce the requirement for face-to-face appointments. Diagnostic validity and the approach chosen for patient management (face-to-face vs teledermatology) were compared according to patient origin and diagnostic group. Material and methods: Digital images from 100 patients were assessed by 20 different dermatologists and the diagnoses offered were compared with those provided in face-to-face appointments (gold standard). The proposed management of the different groups of patients was also compared. Results: The percentage complete agreement was 69.05% (95% confidence interval [CI], 66.9%&#151;71.0%). The aggregate agreement was 87.80% (95% CI, 86.1%&#151;89.0%). When questioned about appropriate management of the patients, observers elected face-to-face consultation in60% of patients (95% CI, 58%&#151;61%) and teledermatology in 40% (95% CI, 38%&#151;41%). Diagnostic validity was higher in patients from primary care (76.1% complete agreement and 91.8% aggregate agreement) than those from hospital emergency services (61.8% complete agreement, 83.4% aggregate agreement) (p &lt; 0.001) and teledermatology was also chosen more often in patients from primary care compared with those from emergency services (42% vs 38%; p = 0.003). In terms of diagnostic group, higher validity was observed for patients with infectious diseases (73.3% complete agreement and 91.3% aggregate agreement) compared to those with inflammatory disease (70.8% complete agreement and 86.4% aggregate agreement) or tumors (63.0% complete agreement and 87.2% aggregate agreement) (p &lt;0.001). Teledermatology was also chosen more often in patients with infectious diseases (52%) than in those with inflammatory disease (40%) or tumors (28%) (p &lt;0.001). Conclusions: Store-and-forward teledermatology has a high level of diagnostic validity, particularly in those cases referred from primary care and in infectious diseases. It can be considered useful for the diagnosis and management of patients at a distance and would reduce the requirement for face-to-face consultation by 40% (AU)</dc:description>
+<dc:creator>Plana, M. N</dc:creator>
+<dc:creator>Hidalgo, Á</dc:creator>
+<dc:creator>Martorell-Calatayud, A</dc:creator>
+<dc:creator>Jaén, P</dc:creator>
+<dc:creator>Gil-Mosquera, M</dc:creator>
+<dc:creator>Ríos-Buceta, L</dc:creator>
+<dc:creator>Zamora, J</dc:creator>
+<dc:creator>Aguayo-Leiva, I</dc:creator>
+<dc:creator>Vañó-Galván, S</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos: Objetivo: evaluar la validez de la teledermatología diferida y su aplicación como herramienta de apoyo a Atención Primaria y servicios de Urgencias hospitalarias (consultas presenciales evitadas). Comparar validez y manejo del paciente (presencial vs teledermatología) según el origen del paciente y el grupo diagnóstico. Material y métodos: se compararon los diagnósticos emitidos sobre 100 pacientes por 20 dermatólogos observadores con el emitido en la consulta presencial (patrón oro) y se comparó el manejo entre los grupos de pacientes. Resultados: porcentaje de acuerdo completo (AC): 69,05 (IC 95%: 66,9-71,0). Porcentaje de acuerdo agregado (AG): 87,80 (IC 95%: 86,1-89,0). Pacientes manejados de manera presencial: 60% (58-61). Pacientes manejados por teledermatología: 40% (38-41). Los pacientes provenientes de Atención Primaria y el grupo de patología infecciosa presentó mayor validez diagnóstica (76,1 AC y 91,8 AG; p &lt; 0,001 para Atención Primaria y 73,3 AC y 91,3 AG; p &lt; 0,001 parapatología infecciosa) y fueron manejados vía teledermatológica (42%; p = 0,003 para Atención Primaria y 52%; p &lt; 0,001 para patología infecciosa) en mayor medida que los provenientes de Urgencias (61,8 AC y 83,4 AG; 38% manejo teledermatológico) y aquéllos con patología inflamatoria(70,8 AC y 86,4 AG; 40% manejo teledermatológico) o tumoral (63,0 AC y 87,2 AG; 28%manejo teledermatológico). Conclusiones: la teledermatología diferida presenta una elevada validez diagnóstica, especialmente en casos remitidos de Atención Primaria y para patología infecciosa, y es útil en el manejo y diagnóstico a distancia de pacientes, ya que evitaría el 40% de las consultas presenciales (AU)</dc:description>
+<dc:source>Actas Dermosifiliogr;102(4): 277-283, mayo 2011. tab</dc:source>
+<dc:identifier>ibc-88858</dc:identifier>
+<dc:title xml:lang="es">Teledermatología diferida: análisis de validez en una serie de 2.000 observaciones</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d30481^s22018</dc:subject>
+<dc:subject>^d30481^s37748</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30481^s22048</dc:subject>
+<dc:subject>^d30481^s22060</dc:subject>
+<dc:subject>^d30481^s22083</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d30481^s22045</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d30481^s22074</dc:subject>
+<dc:subject>^d13252^s22018</dc:subject>
+<dc:subject>^d30481^s22066</dc:subject>
+<dc:subject>^d13252^s22016</dc:subject>
+<dc:subject>^d13252^s22027</dc:subject>
+<dc:subject>^d13252^s22053</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201105</dc:date>
+</metadata>
+</record>
+</ibecs-document>

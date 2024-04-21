@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-31083</identifier>
+<setSpec>0212-7113</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Comparison of amaranth cytotoxicity in two mammalian cell lines using rapid colorimetric bioassays</dc:title>
+<dc:creator>Santa Maria, A</dc:creator>
+<dc:creator>López, A</dc:creator>
+<dc:creator>Díaz, M. M</dc:creator>
+<dc:creator>Ortiz, A. I</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Asociación Española de Toxicología</dc:publisher>
+<dc:description xml:lang="es">El amaranto es un colorante de color rojo ampliamente utilizado en alimentación y cosmética. En la bibliografía consultada no se han encontrado referencias sobre la citotoxicidad de este colorante por lo que se ha creído oportuno abordar su estudio. Este estudio se ha llevado a cabo en dos líneas celulares de naturaleza fibroblástica: línea celular 3T3 (fibroblastos de origen embrionario humano). La citotoxicidad fue evaluada mediante dos bioensayos: a) ensayo de rojo neutro (RN); b) ensayo de proteína total (PT). Se han calculado las IC50 del amaranto en ambas líneas celulares, observándose mayor sensibilidad al colorante con las células 3T3 que con los fibroblastos humanos (AU)</dc:description>
+<dc:source>Rev. toxicol;18(2): 79-81, mayo-ago. 2001. tab</dc:source>
+<dc:identifier>ibc-31083</dc:identifier>
+<dc:title xml:lang="es">Comparación de la citotoxicidad del amaranto en dos líneas celulares de mamífero utilizando bioensayos colorimétricos rápidos</dc:title>
+<dc:subject>^d9688</dc:subject>
+<dc:subject>^d3622^s22002</dc:subject>
+<dc:subject>^d2496^s22021</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d5482^s22021</dc:subject>
+<dc:subject>^d35655^s22068</dc:subject>
+<dc:subject>^d3155^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200108</dc:date>
+</metadata>
+</record>
+</ibecs-document>

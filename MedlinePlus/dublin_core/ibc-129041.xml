@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-129041</identifier>
+<setSpec>0034-0618</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Development of a Paediatric Pharmaceutical Care Model for validating prescriptions orders in Spanish Hospitals</dc:title>
+<dc:description xml:lang="en">This project develops a model for Pharmaceutical Care Child validation of pediatric medical orders. For its development, a study of the safety profile in prescribing Spanish in 8 pediatric hospitals. There were 667 interventions (49.3%-error dose, 15.1%, wrong dosage form, 10.7%, 9.3% wrong medicine-often erroneous, among others). Subsequently that model was developed by the Delphi methodology with a panel of 50 experts. The result is a model with 39 questions divided into three levels of complexity: basic, intermediate and advanced, with their respective tools for checking and perfectly exportable to other hospitals (AU)</dc:description>
+<dc:creator>Pozas, M</dc:creator>
+<dc:creator>Fernández-Llamazares, Cecilia M</dc:creator>
+<dc:creator>Feal, Begoña</dc:creator>
+<dc:creator>Álvarez-del Vayo, Concha</dc:creator>
+<dc:creator>Villaronga, Miquel</dc:creator>
+<dc:creator>Juárez-Giménez, Juan Carlos</dc:creator>
+<dc:creator>Cabañas, M. Josep</dc:creator>
+<dc:creator>Valverde, Esteban</dc:creator>
+<dc:creator>Hernández-Gago, Yolanda</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El presente proyecto desarrolla un modelo de Atención Farmacéutica Infantil para la validación de órdenes médicas de pacientes pediátricos. Para su desarrollo, se realizó un estudio del perfil de seguridad en la prescripción en 8 hospitales españoles pediátricos. Se registraron 667 intervenciones (49,3%-error dosis; 15,1%-forma farmacéutica errónea; 10,7%-medicamento incorrecto 9,3%-frecuencia errónea, entre otros). Posteriormente se desarrolló dicho modelo siguiendo la metodología Delphi con un panel de 50 expertos. Como resultado se obtiene un modelo con 39 cuestiones dividido en 3 niveles de complejidad: básico, intermedio y avanzado, con sus respectivas herramientas para el chequeo y perfectamente exportable a otros hospitales (AU)</dc:description>
+<dc:source>An Real Acad Farm;79(3): 481-504, jul.-sept. 2013. tab, ilus</dc:source>
+<dc:identifier>ibc-129041</dc:identifier>
+<dc:title xml:lang="es">Diseño de un modelo de atención farmacéutica infantil para la validación de órdenes médicas en hospitales españoles</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28889^s22049</dc:subject>
+<dc:subject>^d10797^s22049</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d2710^s22049</dc:subject>
+<dc:subject>^d11742</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d50249</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d8675^s22054</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201309</dc:date>
+</metadata>
+</record>
+</ibecs-document>

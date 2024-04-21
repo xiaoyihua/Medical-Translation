@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-051207</identifier>
+<setSpec>1130-5665</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Gene hypermethylation as biological aggressiveness marker in malignant nervous system tumours</dc:title>
+<dc:description xml:lang="en">Tumour development is a multi-step process implying the sequential accumulation of molecular genetic andepigenetic alterations. These abnormalities primarily involve oncogenes, tumour suppressor genes, DNA repair genes, etc. In addition to the classical genetic mechanisms (mutation, deletion, etc) contributing to gene dysfunction, epigenetic changes, mainly aberrant CpG island promoter methylation contributes to tumour related gene silencing. Our study in 271 samples derived from malignant neurogenic neoplams (gliomas, medulloblastomas, neuroblastomas and metastatictumours) demonstrated non-random methylation rates involving cell-cycle control genes: RB1, p16INK4a,p14ARF, as well as DAP-Kinase, Caspase 8 (apoptosis and metastatic inhibitors), MGMT (a DNA-repair gene),or THBS1 (an angiogenesis inhibitor gene). Our finding salso suggested that aberrant methylation of specific genes may represent a predictive factor for biological aggressiveness of these malignant tumours:&#150; MGMT, in gliomas (response to alkylating agents).&#150; p14ARF and RB1 in anaplastic astrocytomas and secondaty glioblastoma.&#150; p16INK4a in oligodendrogliomas.&#150; Caspase 8 in neuroblastomas and medulloblastomas.&#150; DAP-kinasa in brain metastases. Accordingly, epigenetic analysis may contribute in the screening of those aggressive samples susceptible of special clinical follow-up and specific therapies</dc:description>
+<dc:creator>Rey, J. A</dc:creator>
+<dc:creator>Bello, M. J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El desarrollo neoplásico implica la acumulación secuencial de alteraciones afectando a genes (oncogenes, genes supresores de tumor, genes reparadores) claves en el control de la proliferación y ciclo celular, factores de crecimiento, apoptosis, reparación de ADN, inhibidores de angiogénesis, etc. Con frecuencia estos genes son alterados merced a procesos genéticos: mutaciones, alteraciones de estructura, que resultan en proteínasinactivas o funcionalmente deficientes. No obstante, dichos genes son susceptibles de una expresión anómala como resultado de alteraciones epigenéticas, principalmente metilación de islas CpG de los promotores génicos. Nuestro estudio en 271muestras de tumores del Sistema Nervioso de alto grado demalignidad (gliomas, meduloblastomas, neuroblastomas, metástasis en cerebro) ha demostrado tasas significativas de dicha variación epigenética afectando a genes como RB1, p16INK4a, p14ARF, (controladores del ciclo celular), DAP-kinasa, Caspasa 8 (controladores de apoptosis y metástais), MGMT(reparación ADN), THBS1 (inhibición de angiogénesis), TP53,TP73, etc. Nuestros hallazgos permiten indicar que la hipermetilación de determinados genes puede representar un factor predictivo de la agresividad biológica de los tumores:&#150; MGMT, en gliomas (sensibilidad a quimioterapia).&#150; p14ARF y RB1 en astrocitomas anaplásicos y glioblastomas secundarios.&#150; p16INK4a en oligodendrogliomas.&#150; Caspasa 8 en neuroblastomas y meduloblastomas.&#150; DAP-kinasa en tumores metastásicos en cerebro. Estos hallazgos sugieren que el análisis epigenético de genes específicos puede contribuir a la identificación de aquellos casos más agresivos, susceptibles de seguimientos clínicos y terapias específicas</dc:description>
+<dc:source>MAPFRE med;17(2): 135-143, feb. 2006. tab</dc:source>
+<dc:identifier>ibc-051207</dc:identifier>
+<dc:title xml:lang="es">Hipermetilación génica como marcador de agresividad biológica en tumores malignos del Sistema Nervioso</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d24373^s22001</dc:subject>
+<dc:subject>^d2488^s22033</dc:subject>
+<dc:subject>^d32788</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9616^s22016</dc:subject>
+<dc:subject>^d33163</dc:subject>
+<dc:subject>^d2921</dc:subject>
+<dc:subject>^d28960</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200602</dc:date>
+</metadata>
+</record>
+</ibecs-document>

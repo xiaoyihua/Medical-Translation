@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-043477</identifier>
+<setSpec>1139-6709</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Regulation of conjugal transfer by Lrp and Dam methylation in plasmid R100</dc:title>
+<dc:description xml:lang="en">Conjugal transfer of the F-like plasmid R100 occurs at higher frequencies in the absence of DNA adenine methylation. Lower levels of R100-encoded FinP RNA were found in a Dam- host, suggesting that Dam methylation regulates FinP RNA synthesis. Lack of the leucine-responsive regulatory protein (Lrp) causes a decrease in R100 plasmid transfer, indicating that Lrp is an activator of R100-mediated conjugation. Hence, host-encoded regulators previously described for the Salmonella virulence plasmid (pSLT) seem to play analogous roles in R100. Repression of conjugal transfer in rich medium is an additional trait shared by R100 and pSLT. DNA sequence comparisons in regulatory loci support the view that R100 and pSLT are closely related (AU)</dc:description>
+<dc:creator>Camacho, Eva M</dc:creator>
+<dc:creator>Casadesús, Josep</dc:creator>
+<dc:creator>Serna, Ana</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">La transferencia conjugativa de R100, un plásmido de la familia de F, ocurre a frecuencias más altas en ausencia de metilación Dam. Los mutantes Dam- contienen menores cantidades de RNA FinP que la estirpe silvestre; ello sugiere que la metilación Dam regula la síntesis de RNA FinP. La carencia de proteína reguladora de respuesta a la leucina (Lrp) produce una disminución de la transferencia de R100; ello indica que Lrp es un activador de la conjugación mediada por R100. Por tanto, los reguladores codificados por el hospedador que regulan la transferencia del plásmido de virulencia de Salmonella (pSLT) parecen ejercer funciones análogas en la conjugación mediada por R100. La represión de la transferencia conjugativa en medio rico es otro rasgo común a R100 y pSLT. La comparación de secuencias en loci reguladores apoya la existencia de un estrecho parentesco entre R100 y pSLT (AU)</dc:description>
+<dc:source>Int Microbiol;8(4): 279-285, dic. 2005. tab, graf</dc:source>
+<dc:identifier>ibc-043477</dc:identifier>
+<dc:title xml:lang="es">Regulación de la transferencia conjugativa por Lrp y metilación Dam en el plásmido R100</dc:title>
+<dc:subject>^d3251</dc:subject>
+<dc:subject>^d12852^s22033</dc:subject>
+<dc:subject>^d5016^s22033</dc:subject>
+<dc:subject>^d28049^s22033</dc:subject>
+<dc:subject>^d22306^s22033</dc:subject>
+<dc:subject>^d4664^s22045</dc:subject>
+<dc:subject>^d14549</dc:subject>
+<dc:subject>^d8929</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200512</dc:date>
+</metadata>
+</record>
+</ibecs-document>

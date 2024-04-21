@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-84658</identifier>
+<setSpec>0210-5705</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prognostic scores of cirrhosis</dc:title>
+<dc:description xml:lang="en">Prognostic models are useful to estimate disease severity, establishexpected survival in a specific situation, and calculatethe risk of certain medical interventions.Of all the scores described in liver cirrhosis, those with thewidest clinical applicability are the Child-Pugh classificationand the model for end-stage liver disease (MELD). Althoughthe Child-Pugh classification was used for many years tostratify patients and select those that can safely undergo liversurgery, currently this classification has been substitutedby the MELD.This model uses only three simple and objective variablesand has consequently become the most widely used instrument,especially to fix priorities when allocating organs in livertransplantation. Nevertheless, this model has some limitationssince some indications for liver transplantation(hepatocarcinoma, metabolic diseases, etc.) and certain comorbiditiesin patients with cirrhosis (hepatic encephalopathy,hyponatremia, refractory ascites) are not well representedin the MELD (AU)</dc:description>
+<dc:creator>Castells, Lluís</dc:creator>
+<dc:creator>Campos-Varela, Isabel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Los modelos pronóstico son útiles para la estimación de lagravedad de una enfermedad, para establecer la supervivenciaesperada ante una situación determinada y determinar elriesgo ante ciertas intervenciones médicas.En relación con la cirrosis hepática, de todas las puntuacionesdescritas, las que presentan una mayor aplicabilidad clínicason la clasificación de Child-Pugh y el modelo MELD.Mientras que la clasificación de Child-Pugh ha sido utilizadadurante muchos años para estratificar a los pacientes yseleccionar a los que podían ser sometidos a cirugía hepáticacon seguridad, en la actualidad se ha sustituido por el modeloMELD. Dicho modelo utiliza únicamente 3 variables sencillasy objetivas, con lo que se ha convertido en el más utilizado,especialmente de cara a establecer la priorización enla adjudicación de órganos en las listas de trasplante hepático(TH). A pesar de todo, el modelo MELD sigue presentandoalgunas limitaciones, ya que algunas indicaciones de TH(hepatocarcinoma, enfermedades metabólicas, etc.) y determinadassituaciones clínicas del paciente con cirrosis (encefalopatiahepática, hiponatremia, ascitis refractaria) no quedanbien representadas (AU)</dc:description>
+<dc:source>Gastroenterol Hepatol;31(7): 439-446, agost. 2008. tab</dc:source>
+<dc:identifier>ibc-84658</dc:identifier>
+<dc:title xml:lang="es">Puntuaciones de pronóstico de la cirrosis</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d32281</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d8276^s22080</dc:subject>
+<dc:subject>^d29476^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d18001</dc:subject>
+<dc:subject>^d33939^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200809</dc:date>
+</metadata>
+</record>
+</ibecs-document>

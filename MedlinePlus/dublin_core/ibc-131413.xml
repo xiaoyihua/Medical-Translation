@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-131413</identifier>
+<setSpec>1575-0973</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Review of fundamentals of latent class analysis and application example in area of addictions</dc:title>
+<dc:description xml:lang="en">Objetivos. El análisis de clases latentes (LCA) es una técnica de especial relevancia en el campo del consumo de drogas, donde gran parte de las variables son categóricas. La metodología en la que se basa el LCA permite identificar tipologías de uso de sustancias en lugar de focalizar de manera exclusiva en patrones patológicos, por lo que se pueden detectar otros problemas de consumo. Este estudio se propone revisar los fundamentos del LCA y ofrecer un ejemplo de aplicación en el campo de las adicciones. Método. Para la ejemplificación del LCA se recurrió a datos de un estudio sobre hábitos de consumo relacionados con el tabaco en mayores de 18 años de España (N = 2.002) realizado por el Centro de Investigaciones Sociológicas. De 513 personas que informaron ser fumadoras, 498 completaron datos suficientes para ser incluidas en el LCA, 55,2 % varones y 44,8 % mujeres (M = 41,71 años; DT = 13,75). El análisis se basó en las siguientes variables: cantidad de cigarrillos fumados por día, intención de dejar de fumar, auto-percepción como fumador y frecuencia de fumar de los padres cuando era niño. Resultados. Para evaluar el ajuste del modelo estimado por LCA se recurrió primordialmente a los criterios de información (BIC, AIC y AIC3). Resultados preliminares mostraron a los modelos de 2 y 4 clases como los más verosímiles. Tras un bootstrapping condicional se eligió el modelo de 4 clases latentes. Las clases reconocidas fueron: "fumadores notables" = compuesta por el 27,91 % de la muestra, "fumadores leves" = 26,21 %, "fumadores moderados" = 23,75 %, y "fumadores graves" = 22,13 %. Conclusiones. Se discuten los resultados y la utilidad del LCA para detectar patrones de consumo de sustancias(AU)</dc:description>
+<dc:creator>Brussino, S</dc:creator>
+<dc:creator>Reyna, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Aims. Latent class analysis (LCA) is a technique especially relevant in the drug field, where much of the variables are categorical. The methodology on which the LCA is based allows identifying typologies of use of substances instead of to focus of exclusive way in pathological patterns, so it can detect other consumer problems. The objectives of this study are to review the basics of LCA and to provide an application example in area of addictions. Method. Data of a study conducted by the Center of Sociological Research on consumer habits associated to tobacco in adults over 18 years old from Spain (N = 2002) were used for the exemplification of LCA. Of 513 people who reported being smokers, 498 completed sufficient data to be included in the LCA, 55.2 % men and 44.8 % women (M = 41.71 years old, SD = 13.75). The analysis was based on the following variables: number of cigarettes smoked per day, intention to quit, self-perception of smoking and smoking frequency of parents as a child. Results. In order to evaluate the fit of the model estimated by LCA were considered mainly the information criteria (BIC, AIC and AIC3). Preliminary results showed the models 2 and 4 classes as the most plausible. After bootstrapping conditional the model of 4 latent classes was chosen. The classes recognized were: "smoking remarkable" = 27.91 % of the sample, "light smokers" = 26.21 %, "moderate smokers" = 23.75 %, and "serious smokers" = 22.13 %. Conclusions. The results and usefulness of LCA to detect patterns of substance use are discussed(AU)</dc:description>
+<dc:source>Trastor. adict;13(1): 11-19, ene.-mar. 2011. tab, ilus</dc:source>
+<dc:identifier>ibc-131413</dc:identifier>
+<dc:title xml:lang="es">Revisión de los fundamentos del análisis de clases latentes y ejemplo de aplicación en el área de las adicciones</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d9488^s22080</dc:subject>
+<dc:subject>^d33535^s22080</dc:subject>
+<dc:subject>^d28605</dc:subject>
+<dc:subject>^d12436</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9488^s22054</dc:subject>
+<dc:subject>^d9488^s22032</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d33535^s22012</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d33538^s22080</dc:subject>
+<dc:subject>^d30184^s22021</dc:subject>
+<dc:subject>^d11773</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201103</dc:date>
+</metadata>
+</record>
+</ibecs-document>

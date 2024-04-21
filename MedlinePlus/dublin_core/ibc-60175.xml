@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-60175</identifier>
+<setSpec>1135-2841</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">No disponible</dc:title>
+<dc:description xml:lang="en">No disponible</dc:description>
+<dc:creator>Grupo de antisépticos y desinfectantes de la SEMPSPH</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Hay bastantes estudios en los cuales las soluciones alcohólicas se consideran más adecuadas para la antiséptica quirúrgica del personal sanitario que los desinfectantes clásicos, clorhexidina y povidona iodada. Pero no todas las soluciones alcohólicas tienen similar eficacia 8por las sustancias que acompañan al alcohol, tipo de alcoholes empleados, etc). Por ello debemos poder diferenciarlas, para introducir las mejores en nuestros hospitales. Un método sencillo consiste en aplicar la &#147;regla del efecto neto + 0,6). Para ello, pediremos a los fabricantes que nos den los informes de la Norma Europea 12791. En su última página se exponen los efectos inmediato y a las 3 horas (expresados como medias del log10 de ufc), del producto problema y del alcohol de referencia, el n-propanol de 60º. Si restaos al log10 del problema el del n-propanol, tanto en el tiempo 0 como a las 3 horas, obtendremos lo efectos netos (inmediato y 3 h). Decisión: Efectos netos inmediatos negativos. Rechazar el producto. Efectos netos positivos: prelación según el punto de corte +0,6 (obtenido de un N=20, ES de aproximadamente 0,3 en este tipo de EN y z=1,96), considerando: a) 1ª opción: ambos efectos netos son &gt;+0,6. B) 2ª opción: uno de ellos es superior a + 0,6 pero el otro no. C) 3ª opción: ambos efectos netos son &lt;+ 0,6. Si tenemos para elegir varios productos en la misma opción, diferenciar pos su aceptabilidad (en una muestra en nuestro hospital) y precio (AU)</dc:description>
+<dc:source>Med. prev;14(3): 28-33, jul.-sept. 2008. ilus, tab</dc:source>
+<dc:identifier>ibc-60175</dc:identifier>
+<dc:title xml:lang="es">Protocolo para elegir las mejores soluciones alcohólicas de uso en antisepsia quirúrgica del personal sanitario. Regla del &#147;efecto neto + 0, 6&#148; a partir de informes de la EN12791</dc:title>
+<dc:subject>^d4263^s22073</dc:subject>
+<dc:subject>^d904^s22048</dc:subject>
+<dc:subject>^d27977</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28062^s22048</dc:subject>
+<dc:subject>^d4263^s22048</dc:subject>
+<dc:subject>^d904^s22073</dc:subject>
+<dc:subject>^d435^s22073</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200809</dc:date>
+</metadata>
+</record>
+</ibecs-document>

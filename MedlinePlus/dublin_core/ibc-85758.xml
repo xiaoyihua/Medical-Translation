@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-85758</identifier>
+<setSpec>1888-6116</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Nonlinear analysis of magnetoencephalography recordings for evaluating the brain injury suffered by mild cognitive impairment patients</dc:title>
+<dc:description xml:lang="en">Objective: Mild cognitive impairment (MCI) refers to the clinical state of subjects who suffer from some degree of cognitive deterioration but do not meet clinical criteria for dementia. Nowadays, magnetoencephalography (MEG) recordings are not used in MCI clinical diagnosis. Nevertheless, non-linear methods have demonstrated their usefulness for the analysis of brain recordings in this disease. Material and methods: We have examined the MEG background activity in 18 MCI patients and 24 elderly control subjects with five non-linear techniques: Lempel-Ziv complexity, Shannon spectral entropy, approximate entropy, sample entropy and detrended fluctuation analysis. Results: Our results suggest that MCI have an effect on the MEG background activity, producing a loss of complexity and irregularity on the recordings, and changes in the signals fluctuations. Conclusions: Our findings show the usefulness of non-linear measures to detect changes in the dynamical behaviour of brains injured by the development of MCI. Nevertheless, this study is only a first step for the use of non-linear analysis in the MCI diagnosis and further investigations are needed to confirm our results (AU)</dc:description>
+<dc:creator>Poza, J</dc:creator>
+<dc:creator>Hornero, R</dc:creator>
+<dc:creator>Fernández, A</dc:creator>
+<dc:creator>Gómez, C</dc:creator>
+<dc:creator>Escudero, J</dc:creator>
+<dc:creator>Abásolo, D</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Analizar los registros cerebrales del deterioro cognitivo leve (DCL) con señales de magnetoencefalografía (MEG). Material y métodos: Se estudió la actividad MEG espontánea en 18 pacientes con DCL y en 24 sujetos de control de edad avanzada utilizando cinco métodos de análisis no lineal: complejidad de Lempel-Ziv, entropía espectral de Shannon, entropía aproximada, entropía muestral y análisis de fluctuaciones sin tendencias. Resultados: Los métodos no lineales reflejaron una alteración significativa en la actividad MEG de los pacientes. El DCL parece provocar una disminución en la complejidad e irregularidad de los registros y cambios en las fluctuaciones de las señales. Conclusiones: Los cambios en la actividad MEG pueden interpretarse como una pérdida de capacidad cognitiva debido al daño cerebral sufrido por los pacientes con DCL (AU)</dc:description>
+<dc:source>Trauma (Majadahonda);21(4): 241-250, oct.-dic. 2010. tab, ilus</dc:source>
+<dc:identifier>ibc-85758</dc:identifier>
+<dc:title xml:lang="es">Aplicación de métodos no lineales a las señales de magnetoencefalograma para valorar el daño cerebral en enfermos de deterioro cognitivo leve</dc:title>
+<dc:subject>^d23748^s22039</dc:subject>
+<dc:subject>^d34226^s22067</dc:subject>
+<dc:subject>^d34226^s22012</dc:subject>
+<dc:subject>^d23748^s22045</dc:subject>
+<dc:subject>^d34226^s29166</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d34226^s22016</dc:subject>
+<dc:subject>^d23748^s22074</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201012</dc:date>
+</metadata>
+</record>
+</ibecs-document>

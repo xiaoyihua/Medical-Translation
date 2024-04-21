@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-36560</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Imputation of the begining of follow up in longitudinal studies applied to the HIV infection</dc:title>
+<dc:creator>Hernández-Aguado, Ildefonso</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ministerio de Sanidad y Consumo</dc:publisher>
+<dc:description xml:lang="es">Fundamentos: En los estudios de cohorte o longitudinales los sujetos son reclutados con un tiempo de evolución desde el inicio del problema, como en el caso de la infección por VIH. El objetivo de este trabajo es mostrar diversas técnicas de imputación del inicio del seguimiento y valorar su adecuación en el marco de un estudio sobre la evolución de la infección por VIH. Sujetos y métodos: Se dispone de tres subcohortes de sujetos VIH+ reclutados en los centros de información y prevención del SIDA de Valencia y Castellón hasta 1996. 244 seroincidentes, 887 prevalentes con mediciones de CD4 y 337 sin mediciones de CD4 en los que se estima la fecha de seroconversión. Para los seroincidentes se considera el punto medio entre la ultima visita VIH- y la primera VIH+. Para los prevalentes con CD4 se imputa la fecha de seroconversión a partir de 5 extracciones aleatorias de un modelo de progresión desde la infección hasta un nivel determinado de CD4. Para los sujetos prevalentes sin CD4 se imputa la fecha de seroconversión a partir de 5 muestras aleatorias de la densidad de incidencia de VIH obtenida de las otras dos cohortes. Se replicó 500 veces la imputación, asignando como seroconversión la mediana de las imputaciones y obteniendo limites de confianza a partir de los percentiles 5 y 95. La validez de las imputaciones se contrastó comparando los tiempos a SIDA y Muerte para cada uno de los tres grupos. Resultados: Se observaron 443 casos de SIDA y 405 defunciones en los 1.468 sujetos. La mediana de infección fue enero de 1993 para los incidentes, enero de 1991 para los prevalentes con CD4 y noviembre de 1988 para los prevalentes sin CD4. Este último grupo muestra una peor supervivencia y tiempo libre de sida respecto a las otras dos cohortes. Conclusiones: Los instrumentos de imputación utilizados han mostrado su utilidad para disminuir el sesgo de supervivencia en estudios observacionales. Su generalización depende de la viabilidad de poder obtener cohortes incidentes, de disponer de un marcador de progresión o un punto de origen (AU)</dc:description>
+<dc:source>Rev Esp Salud Publica;78(2): 215-227, mar. 2004.</dc:source>
+<dc:identifier>ibc-36560</dc:identifier>
+<dc:title xml:lang="es">Imputación del instante de inicio de seguimiento en estudios longitudinales: aplicación a la infección por vih</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d24718</dc:subject>
+<dc:subject>^d29415</dc:subject>
+<dc:subject>^d32319</dc:subject>
+<dc:subject>^d28633</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d28630</dc:subject>
+<dc:subject>^d32285</dc:subject>
+<dc:subject>^d29422</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200403</dc:date>
+</metadata>
+</record>
+</ibecs-document>

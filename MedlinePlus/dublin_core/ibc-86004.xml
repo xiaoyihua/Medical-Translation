@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-86004</identifier>
+<setSpec>1888-6116</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Statistic in orthopaedic surgery and traumatology</dc:title>
+<dc:description xml:lang="en">Objetive: Epidemiologic research is based on statistical methods and usually studies representative samples to attain knowledge about population. These studies are based on statistical inference. There are two ways to make inference. One is the parameter estimation with confidence intervals, another is the hypothesis test. A confidence interval allow us to control the precision (a range of the estimated variable) and the confidence (the probability of the population parameter to be included in that range) of the results. A hypothesis test quantifies the chance that a result could be explained by the random nature of the sample measuring type I and type II errors. Every research question has a matching hypothesis test according to the types of the variables, their distribution, the number of sampled units and the groups to be compared. The use of p-values is subject to controversy. Other methods like Bayesian statistics or confidence intervals offer alternatives. Survival studies measure events along time intervals. There are different methods regarding the type of intervals or the data to be analyzed. Multivariate statistics allow us to analyze two or more variables at a time. The exploratory methods can simplify the data, both the number of subjects and the variables. Confirmatory methods like logistic regression enable the analysis and importance of confounding and interacting variables (AU)</dc:description>
+<dc:creator>Fernández-Carreira, J. M</dc:creator>
+<dc:creator>Sánchez-Torres, M</dc:creator>
+<dc:creator>Hernández-Vaquero, D</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Los estudios de investigación epidemiológica se sustentan en los métodos de la estadística. Para poder alcanzar conocimiento sobre poblaciones frecuentemente se estudian muestras representativas de las mismas. Estos estudios se basan en la inferencia estadística. La inferencia se puede realizar mediante la estimación de parámetros por intervalos de confianza o bien mediante el cálculo de la significación estadística &#150;valores p&#150; mediante contrastes de hipótesis. En un intervalo de confianza se busca una solución que proporcione seguridad y precisión. Con los contrastes de hipótesis se cuantifica la probabilidad de que las observaciones muestrales puedan ser explicadas por el azar del muestreo, midiendo los errores tipo I y tipo II. En cada hipótesis de investigación existe un contraste apropiado en función de los tipos de variables estudiadas, su distribución, el número de sujetos estudiados y el número de grupos que se comparan. La utilización de valores p está sujeta a controversia, ante lo que se ofrecen alternativas como la utilización de métodos bayesianos o el enfoque a intervalos de confianza. Los estudios dirigidos a la medición de eventos a lo largo de periodos de observación se denominan estudios de supervivencia. Existen distintos métodos en función del tipo de periodos estudiados y de las variables a analizar. Los métodos estadísticos multivariantes permiten analizar dos o más variables a la vez. Existen métodos exploratorios que pueden simplificar el número de variables o de sujetos y métodos confirmatorios como la regresión logística que permite analizar el papel de variables confusoras y de interacciones (AU)</dc:description>
+<dc:source>Trauma (Majadahonda);21(supl.1): 28-33, 2010. tab, ilus</dc:source>
+<dc:identifier>ibc-86004</dc:identifier>
+<dc:title xml:lang="es">Utilización de la estadística en cirugía ortopédica y traumatología</dc:title>
+<dc:subject>^d19369^s22083</dc:subject>
+<dc:subject>^d24852^s22083</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d28426</dc:subject>
+<dc:subject>^d10162^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d10162^s22066</dc:subject>
+<dc:subject>^d10162^s22045</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d33575^s22083</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201000</dc:date>
+</metadata>
+</record>
+</ibecs-document>

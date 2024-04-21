@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-110700</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The Bayesian approach: another way of drawing inferences</dc:title>
+<dc:description xml:lang="en">The serious objections made with regard to significance tests account for the necessity of employing another inferential procedure. Bayesian methods are free of such objections, and they provide a very attractive alternative. By means of a simple example, this article illustrates how a typical problem of medical research could be solved using these two approaches. Bayesian methods offer more information and are more useful than conventional ones for analyzing experimental outcomes. In addition, a natural interpretation of conclusions are given by Bayesian methods. Finally, modern computational programs allow us to solve their complex calculation (AU)</dc:description>
+<dc:creator>Benavides, A</dc:creator>
+<dc:creator>Silva, L. C</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Las serias impugnaciones que se hacen a las pruebas de significación avalan la necesidad de utilizar otra manera de inferir. Los métodos bayesianos están exentos de estas objeciones y se presentan como una alternativa muy atractiva. Este artículo ilustra, a través de un ejemplo muy simple, cómo un problema típico de la investigación sanitaria se resuelve con los dos enfoques. El empleo de los métodos bayesianos en el análisis de los resultados del experimento brinda más información y resulta de mayor utilidad que los métodos convencionales; además, las conclusiones se expresan en un lenguaje mucho más intuitivo y las complejidades de sus cálculos pueden ser resueltas por los programas computacionales modernos (AU)</dc:description>
+<dc:source>Gac Sanit;15(4): 341-346, ene.-feb. 2001. ilus, tab</dc:source>
+<dc:identifier>ibc-110700</dc:identifier>
+<dc:title xml:lang="es">El enfoque bayesiano: otra manera de inferir</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d28633</dc:subject>
+<dc:subject>^d28635</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200102</dc:date>
+</metadata>
+</record>
+</ibecs-document>

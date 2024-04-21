@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-7303</identifier>
+<setSpec>0210-9433</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:creator>Martín Lorente, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Los pacientes oncológicos acuden con cierta frecuencia a los servicios de urgencias de los hospitales donde llevan a cabo un control de su enfermedad de base. Los motivos de consulta urgente están muchas veces relacionados con su neoplasia y las eventuales complicaciones, aunque en otras ocasiones se deben a efectos adversos del tratamiento quimio o radioterápico, o incluso a afecciones intercurrentes no relacionadas con la enfermedad neoplásica.Siempre que sea posible debe consultarse la historia clínica y/o los informes previos de asistencia que nos permitirán conocer con detalle la situación clínica del paciente y saber si está recibiendo tratamiento activo con intención curativa o si, por el contrario, se encuentra en situación paliativa. Una anamnesis y una exploración física completas suelen ser suficientes para orientar el origen de la urgencia, aunque habitualmente deberá confirmarse mediante la realización de pruebas complementarias, antes de instaurar el tratamiento adecuado. (AU)</dc:description>
+<dc:source>Med. integral (Ed. impr.);37(3): 85-93, feb. 2001.</dc:source>
+<dc:identifier>ibc-7303</dc:identifier>
+<dc:title xml:lang="es">Urgencias en el paciente oncológico</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d9562^s22067</dc:subject>
+<dc:subject>^d9562^s22012</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4713</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200102</dc:date>
+</metadata>
+</record>
+</ibecs-document>

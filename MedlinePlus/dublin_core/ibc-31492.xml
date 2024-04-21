@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-31492</identifier>
+<setSpec>0211-5735</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Von Neumann´s dream and Freud´s reality</dc:title>
+<dc:creator>Sánchez Ron, José Manuel</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Asociacion Española de Neuropsiquiatria</dc:publisher>
+<dc:description xml:lang="es">Tomando como punto de partida lo que John von Neumann escribió en su libro El Ordenador y el cerebro y Sigmund Freud pensó y escribió en Proyecto de una psicología científica, se considera la cuestión de si el cerebro humano se puede comprender en base (o reducir) a la física y la matemática tal y como entendemos en la actualidad. Para ello se presta especial atención a cuestiones como: "conducta versus actividad ", límites de la matemática (Gödel y Turing), explicaciones no algorítmicas, nuevas propuestas como la de Roger Penrose, y sistemas no lineales (AU)</dc:description>
+<dc:source>Rev. Asoc. Esp. Neuropsiquiatr;23(85): 77-87, ene. 2003.</dc:source>
+<dc:identifier>ibc-31492</dc:identifier>
+<dc:title xml:lang="es">El sueño de Von Neumann y la realidad de Freud</dc:title>
+<dc:subject>^d14065^s22031</dc:subject>
+<dc:subject>^d8601</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d5755</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200301</dc:date>
+</metadata>
+</record>
+</ibecs-document>

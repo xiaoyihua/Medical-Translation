@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-121478</identifier>
+<setSpec>1888-4008</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Verification of the interchangeability of patient results between duplicate equipment</dc:title>
+<dc:description xml:lang="en">A fairly common situation in clinical laboratories is the existence of different analyzers used interchangeably for determining the same tests. It must be ensured that the level of agreement between the results obtained is independent of the systems or analytical platforms used, and that the measurements are comparable. Otherwise, we can create clinician misunderstanding and a possible misinterpretation of the results. Safety of the patient may be at risk. For this reason, this workgroup established two different situations: implementation of new equipment and review of previously verified equipment. In the first case, an analysis of the differences should be performed using the biological variability (VB) as a means to establish the maximum difference allowed. When VB data are not available, the statistical criterion should used for this calculation. A second possibility would be the use of linear regression for the study of comparability of analyzers. The use of the Clinical and Laboratory Standards Institute Protocol (CLSI), which allows up to 10 analyzers to be verified with a maximum of 2 analytical series, is proposed in the case of previously checked equipment. If the results provided by the different analyzers do not exceed the maximum deviation established, they would be considered as a single virtual equipment, otherwise, the results are not interchangeable, and the laboratory report should indicate clearly the analyzer used in each patient, as well as the appropriate reference range (AU)</dc:description>
+<dc:creator>Ricós Aguilá, Carmen</dc:creator>
+<dc:creator>Ramón Bauzá, Francisco</dc:creator>
+<dc:creator>Cuadrado Cenzual, María Ángeles</dc:creator>
+<dc:creator>Jou Turallas, Josep María</dc:creator>
+<dc:creator>Gutiérrez Bassini, Gabriela</dc:creator>
+<dc:creator>Salas García, Ángel</dc:creator>
+<dc:creator>Blázquez Sánchez, Raquel</dc:creator>
+<dc:creator>Prada de Medio, Enrique</dc:creator>
+<dc:creator>Álvarez Ríos, Ana Isabel</dc:creator>
+<dc:creator>Pineda Tenor, Daniel</dc:creator>
+<dc:creator>Morancho Zaragoza, Jorge</dc:creator>
+<dc:creator>Calafell Clar, Rafael</dc:creator>
+<dc:creator>Cobo del Hoyo, María José</dc:creator>
+<dc:creator>Perich Alsina, Carmen</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Una situación bastante común en los laboratorios clínicos es la existencia de distintos analizadores que, usados indistintamente, determinan las mismas pruebas. Debemos asegurar que el grado de concordancia entre los resultados obtenidos sea independiente de los sistemas o plataformas analíticas y que, por tanto, las mediciones sean comparables. Si no podemos garantizarlo, puede crearse confusión en el clínico y una posible mala interpretación de los resultados, viéndose comprometida la seguridad del paciente. Por este motivo, este grupo de trabajo plantea 2 situaciones diferenciadas: Implantación de un nuevo equipo y revisión de equipos previamente verificados. En el primer caso se debe realizar un análisis de las diferencias, utilizando la variabilidad biológica (VB) como fuente para establecer la diferencia máxima permitida; en caso de que no existieran datos de VB, se utilizará el criterio estadístico para este cálculo. Una segunda posibilidad sería la utilización de la regresión lineal para el estudio de intercambiabilidad entre analizadores. En el caso de equipos ya verificados previamente, se propone la utilización del protocolo del CLSI, que permite la comprobación de hasta 10 analizadores con un máximo de 2 series analíticas. Si los resultados proporcionados por los distintos analizadores no superan la desviación máxima establecida, se considerarán como un equipo virtual único; en caso contrario, los resultados no serán intercambiables, por lo que el informe de resultados deberá indicar de forma clara el analizador empleado en cada paciente, así como el intervalo de referencia adecuado (AU)</dc:description>
+<dc:source>Rev. lab. clín;7(1): 17-24, ene.-mar. 2014. ilus</dc:source>
+<dc:identifier>ibc-121478</dc:identifier>
+<dc:title xml:lang="es">Verificación de la intercambiabilidad de resultados entre equipos duplicados</dc:title>
+<dc:subject>^d7931^s22048</dc:subject>
+<dc:subject>^d25665</dc:subject>
+<dc:subject>^d33124^s22039</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201403</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-102668</identifier>
+<setSpec>0212-9728</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Models for assessment of human error in system reliability studies</dc:title>
+<dc:description xml:lang="en">The probabilistic analysis of risks applied to complex industrial systems demonstrates that human error is a very important part of the total risk, although its exact quantification is doubtful. On the other hand, the current techniques for modeling and calculating human errors presuppose, in a way not always explicit, the election of a certain pattern of human behavior; in such a way that many limitations revealed by the scientific literature seems due to the use of so named &#145;partial&#146; behavior models, while the &#145;general&#146; models, that are more ambitious, still need better methodological development. The present work describes the methods applied currently to human reliability studies and it points out the relationship that underlies between these and the models for human behavior representation, showing the investigation lines ongoing for covering methodological lacks. We declare the protagonism of Psychology about defining the human behavior models that underlie the reliability analysis techniques, and also about criticizing these techniques, especially on the simplifications that, to make them more governable, they have the perverse effect of hiding psychological mechanisms of errors (AU)</dc:description>
+<dc:creator>Ruiz-Moreno1, Juan M</dc:creator>
+<dc:creator>Trujillo, Humberto M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El análisis probabilístico de riesgos aplicado a sistemas industriales o técnicos complejos demuestra que el error humano es un elemento muy importante del riesgo total, aunque su cuantificación exacta es dudosa. Por otra parte, las técnicas actuales para el modelado y cálculo de los errores humanos presuponen, de manera más o menos explícita, la elección de algún modelo de comportamiento humano; de tal manera que buena parte de las limitaciones que en esas técnicas refleja la literatura científica parecen debidas al empleo de los modelos de comportamiento denominados parciales, mientras que los modelos denominados generales, más ambiciosos, adolecen aún de desarrollo metodológico. El presente trabajo describe los métodos aplicados actualmente en los estudios de fiabilidad humana y señala la relación que subyace entre éstos y los modelos de representación del comportamiento humano, poniendo de manifiesto las líneas de investigación en curso para cubrir las carencias metodológicas. Para el avance de los estudios sobre fiabilidad humana, se manifiesta el protagonismo de la Psicología, tanto en la fundamentación de los modelos de comportamiento humano que subyacen en las técnicas de análisis de la fiabilidad, como en la crítica de estas mismas técnicas, en especial hacia las simplificaciones que, por hacerlas más manejables, tienen como efecto perverso un encubrimiento de los mecanismos psicológicos del error (AU)</dc:description>
+<dc:source>An. psicol;28(3): 963-977, oct.-dic. 2012. ilus, graf</dc:source>
+<dc:identifier>ibc-102668</dc:identifier>
+<dc:title xml:lang="es">Modelos para la evaluación del error humano en estudios de fiabilidad de sistemas</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d1538</dc:subject>
+<dc:subject>^d30652</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d10112</dc:subject>
+<dc:subject>^d37622</dc:subject>
+<dc:subject>^d51665^s22002</dc:subject>
+<dc:subject>^d7395^s22049</dc:subject>
+<dc:subject>^d31493</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201212</dc:date>
+</metadata>
+</record>
+</ibecs-document>

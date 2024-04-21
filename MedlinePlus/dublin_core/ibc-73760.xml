@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-73760</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Breast MRI: the usefulness of diffusion-weighted sequences for differentiating between benign and malignant lesions</dc:title>
+<dc:description xml:lang="en">Objective: To evaluate the usefulness of diffusion-weighted MRI sequences and of the apparent diffusion coefficient (ADC) to differentiate between benign and malignant breast lesions. Material and methods: We prospectively studied 88 patients (aged 31 to 79 years) with 94 lesions (80 malignant and 14 benign) who were referred for preoperative local staging. All patients underwent dynamic MRI examination after intravenous contrast administration and a diffusion-weighted sequence with ADC calculation. The results obtained at diffusion-weighted imaging were correlated with those obtained at histological examination. Results: The mean value of the ADC for malignant lesions (1.12±0.25×10&amp;#8722;3mm2/s) was significantly lower (p&lt;0.001) than for benign lesions (1.61±0.52×10&amp;#8722;3mm2/s). No significant differences in ADC values were found between the different subtypes of invasive carcinomas or between intraductal carcinoma and invasive carcinoma (p&gt;0.05). Using an ADC lower than 0.95×10&amp;#8722;3mm2/s as a threshold for malignancy, the sensitivity is 52% and the specificity is 100%.ConclusionDiffusion-weighted sequences provide additional information in breast MRI that is useful for differentiating between benign and malignant lesions, thus improving the specificity of the technique (AU)</dc:description>
+<dc:creator>Castañer, F</dc:creator>
+<dc:creator>Argelaguet, M</dc:creator>
+<dc:creator>Ferrer, J</dc:creator>
+<dc:creator>Viejo, N</dc:creator>
+<dc:creator>Albanell, J</dc:creator>
+<dc:creator>Vilanova, J. C</dc:creator>
+<dc:creator>Barceló, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Valorar la utilidad en la resonancia magnética (RM) de mama de la difusión y el coeficiente de difusión aparente (CDA) para diferenciar entre lesiones benignas y malignas. Material y métodos: Se estudian prospectivamente 88 pacientes, de 31 a 79 años, con 94 lesiones (80 malignas y 14 benignas), que fueron remitidas para un estudio prequirúrgico de extensión local, y a las que se realizó una RM de mama con estudio dinámico tras administrar contraste intravenoso y secuencia de difusión, valorando su correspondiente CDA. Se correlacionan los resultados obtenidos en difusión con la anatomía patológica. Resultados: El valor medio del CDA de las lesiones malignas (1,12±0,25×10&amp;#8722;3mm2/s) fue significativamente inferior (p&lt;0,001) al de las benignas (1,61±0,52×10&amp;#8722;3mm2/s). No se obtuvieron diferencias significativas entre los diferentes subtipos de carcinomas invasivos y tampoco entre el carcinoma intraductal y el invasivo (p&gt;0,05). Con un valor CDA&lt;0,95×10&amp;#8722;3mm2/s como indicador de malignidad, la sensibilidad es del 52% y la especifidad es del 100%.ConclusiónEn la RM de mama la difusión aporta información adicional en la caracterización de la benignidad y malignidad de las lesiones mejorando la especifidad de la técnica (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);51(5): 469-473, sept.-oct. 2009. ilus, tab</dc:source>
+<dc:identifier>ibc-73760</dc:identifier>
+<dc:title xml:lang="es">Resonancia magnética de mama: utilidad de la difusión para diferenciar entre lesiones benignas y malignas</dc:title>
+<dc:subject>^d37550^s22039</dc:subject>
+<dc:subject>^d1968^s22008</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d37550^s22074</dc:subject>
+<dc:subject>^d37550^s22083</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d37550^s22045</dc:subject>
+<dc:subject>^d37550^s22066</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d1968^s29166</dc:subject>
+<dc:subject>^d23405^s22045</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d1968^s22032</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200910</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-91438</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Artificial neural networks in Neurosciences</dc:title>
+<dc:description xml:lang="en">This article shows that artificial neural networks are used for confirming the relationships between physiological and cognitive changes. Specifically, we explore the influence of a decrease of neurotransmitters on the behaviour of old people in recognition tasks. This artificial neural network recognizes learned patterns. When we change the threshold of activation in some units, the artificial neural network simulates the experimental results of old people in recognition tasks. However, the main contributions of this paper are the design of an artificial neural network and its operation inspired by the nervous system and the way the inputs are coded and the process of orthogonalization of patterns (AU)</dc:description>
+<dc:creator>Salinas Martínez de Lecea, José María</dc:creator>
+<dc:creator>Porras Chavarino, Carmen</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Este artículo prueba la utilidad de los modelos de redes neuronales artificiales para confirmar relaciones entre cambios fisiológicos y cognitivos. Concretamente, se exploran las consecuencias que las dificultades de neurotransmisión, característica del envejecimiento cerebral, suponen en la respuesta de ancianos en tareas de reconocimiento. Así, la red diseñada es capaz de reconocer patrones aprendidos y cuando se manipula el umbral de activación de algunas unidades del dispositivo se reproducen los resultados experimentales de los ancianos en tareas de reconocimiento. Sin embargo, las aportaciones más novedosas corresponden al diseño y funcionamiento de la red inspirados en rasgos biológicos del sistema nervioso, así como en la codificación de la información, basada en los sistemas sensoriales, y el proceso de ortogonalización que tiene lugar cuando se transmite la información a unidades ocultas del dispositivo (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);23(4): 738-744, oct.-dic. 2011. tab, ilus</dc:source>
+<dc:identifier>ibc-91438</dc:identifier>
+<dc:title xml:lang="es">Diseño de redes neuronales artificiales en Neurociencias</dc:title>
+<dc:subject>^d19624^s22045</dc:subject>
+<dc:subject>^d19624^s22066</dc:subject>
+<dc:subject>^d31881^s22031</dc:subject>
+<dc:subject>^d29935</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22101^s22053</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201112</dc:date>
+</metadata>
+</record>
+</ibecs-document>

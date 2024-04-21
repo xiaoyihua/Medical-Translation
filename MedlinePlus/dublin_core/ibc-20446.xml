@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-20446</identifier>
+<setSpec>0034-0618</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Studing of binding antigen-antibody of some substances by means of radioinmunoanalysis (RIA) and inmunoradiometric analysis (IRMA)</dc:title>
+<dc:creator>Salaz Aliaga, Sofía</dc:creator>
+<dc:creator>Moreno Frigols, José Luis</dc:creator>
+<dc:creator>Esteban Peris Ribera, José</dc:creator>
+<dc:creator>San Martín Ciges, Eduardo</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Real Academia de Farmacia</dc:publisher>
+<dc:description xml:lang="es">Se ha estudiado el equilibrio de la unión, a sus anticuerpos específicos, de las siguientes sustancias: Insulina y dehidroepiandrosterona sulfato (DHEAs), mediante RIA en fase sólida, osteocalcina y fracción c-terminal de la parathormona (PTHc), mediante RIA en disolución y enolasa específica neuronal (NSE), tiroglobulina (Tg) y el marcador tumoral CA549, mediante IRMA. Se pretende determinar un modelo que explique, de manera general, dichas reacciones antígeno-anticuerpo, así como establecer la influencia de algunos factores: temperatura, clase de anticuerpo, reacción en fase sólida o en disolución, características del antígeno, etc., sobre esta unión.Los resultados obtenidos en el estudio del equilibrio no se ajustan al modelo de sitios idénticos e independientes, sin embargo proporcionan un excelente ajuste a la ecuación de Hill.Las reacciones estudiadas presentan un valor bajo de la entalpía de reacción concordante con la naturaleza de la unión antígeno-anticuerpo (AU)</dc:description>
+<dc:source>An Real Acad Farm;67(2): 281-296, abr. 2001. tab, graf</dc:source>
+<dc:identifier>ibc-20446</dc:identifier>
+<dc:title xml:lang="es">Estudio mediante Radioinmunoanálisis (RIA) y análisis inmunorradiométrico (IRMA) del equilibrio de la reacción antígeno-anticuerpo de algunas sustancias</dc:title>
+<dc:subject>^d24739</dc:subject>
+<dc:subject>^d27138</dc:subject>
+<dc:subject>^d22633</dc:subject>
+<dc:subject>^d7500^s22038</dc:subject>
+<dc:subject>^d32998^s22038</dc:subject>
+<dc:subject>^d24820^s22038</dc:subject>
+<dc:subject>^d945^s22031</dc:subject>
+<dc:subject>^d14342^s22038</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200104</dc:date>
+</metadata>
+</record>
+</ibecs-document>

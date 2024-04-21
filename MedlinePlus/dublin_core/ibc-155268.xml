@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-155268</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Predicting short-term mortality in patients with acute exacerbation of chronic heart failure: The EAHFE-3D scale</dc:title>
+<dc:description xml:lang="en">Introduction and objectives: Prognostic scales are needed in acute exacerbation of chronic heart failure to detect early mortality. The objective of this study is to create a prognostic scale (scale EAHFE-3D) to stratify the risk of death the very short term. Patients and method: We used the EAHFE database, a multipurpose, multicenter registry with prospective follow-up currently including 6,597 patients with acute heart failure attended at 34 Spanish Emergency Departments from 2007 to 2014. The following variables were collected: demographic, personal history, data of acute episode and 3-day mortality. The derivation cohort included patients recruited during 2009 and 2011 EAHFE registry spots (n=3,640). The classifying variable was all-cause 3-day mortality. A prognostic scale (3D-EAHFE scale) with the results of the multivariate analysis based on the weight of the OR was created. The 3D-EAHFE scale was validated using the cohort of patients included in 2014 spot (n=2,957). Results: A total of 3,640 patients were used in the derivation cohort and 102 (2.8%) died at 3 days. The final scale contained the following variables (maximum 165 points): age&amp;#8805;75 years (30 points), baseline NYHA III-IV (15 points), systolic blood pressure&lt;110mmHg (20 points), room-air oxygen saturation&lt;90% (30 points), hyponatremia (20 points), inotropic or vasopressor treatment (30 points) and need for noninvasive mechanical ventilation (20 points); with a ROC curve of 0.80 (95% CI 0.76-0.84; P&lt;.001). The validation cohort included 2,957 patients (66 died at 3 days, 2.2%), and the scale obtained a ROC curve of 0.76 (95% CI 0.70-0.82; P&lt;.001). The risk groups consisted of very low risk (0-20 points), low risk (21-40 points), intermediate risk (41-60 points), high risk (61-80 points) and very high risk (&gt;80 points), with a mortality (derivation/validation cohorts) of 0/0.5, 0.8/1.0, 2.9/2.8, 5.5/5.8 and 12.7/22.4%, respectively. Conclusions: EAHFE-3D scale may help to predict the very short term prognosis of patients with acute heart failure in 5 risk groups (AU)</dc:description>
+<dc:creator>Herrero, P</dc:creator>
+<dc:creator>Aguirre, A</dc:creator>
+<dc:creator>Miró, Ò</dc:creator>
+<dc:creator>Llorens, P</dc:creator>
+<dc:creator>Tost, J</dc:creator>
+<dc:creator>Martín-Sánchez, FJ</dc:creator>
+<dc:creator>Gil, V</dc:creator>
+<dc:creator>Jacob, J</dc:creator>
+<dc:creator>Andueza, JÁ</dc:creator>
+<dc:creator>Escoda, R</dc:creator>
+<dc:creator>Alquézar, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos: Disponer de escalas pronósticas en la insuficiencia cardiaca crónica agudizada para detectar la mortalidad precoz es fundamental. El objetivo de este estudio es crear una escala pronóstica (escala EAHFE-3D) que estratifique el riesgo de muerte a muy corto plazo. Pacientes y método: Se utilizó el registro EAHFE, multipropósito y multicéntrico, con seguimiento prospectivo que incluye 6.597 pacientes con insuficiencia cardiaca crónica agudizada atendidos en 34 servicios de urgencias españoles entre 2007 y 2014. Se recogieron variables demográficas, antecedentes personales, datos del episodio agudo, destino final y mortalidad a los 3 días. La cohorte de derivación incluye pacientes seleccionados entre 2009 y 2011 en el registro EAHFE (n=3.640). La variable a estudio fue la mortalidad a los 3 días. Se creó una escala pronóstica (escala EAHFE-3D) con los resultados del estudio multivariante en función del peso de la OR. La escala fue validada utilizando una cohorte de pacientes incluidos en 2014 (n=2.957). Resultados: Se analizaron 3.640 pacientes (102 muertos a los 3 días, 2,8%) en la cohorte de derivación. La escala final contiene las siguientes variables (máximo 165 puntos): edad&amp;#8805;75 años (30 puntos), NYHA basal III-IV (15 puntos), presión arterial sistólica&lt;110mmHg (20 puntos), saturación de O2&lt;90% (30 puntos), hiponatremia (20 puntos), tratamiento inotropo o vasopresor (30 puntos) y necesidad de ventilación mecánica no invasiva (20 puntos), con un área bajo la curva ROC de 0,80 (IC 95% 0,76-0,84; p&lt;0,001). La cohorte de validación incluye 2.957 pacientes (66 muertos a los 3 días, 2,2%) y la escala obtiene un área bajo la curva ROC de 0,76 (IC 95% 0,70-0,82; p&lt;0,001). Los grupos fueron: muy bajo riesgo (0-20 puntos), bajo riesgo (21-40 puntos), riesgo intermedio (41-60 puntos), alto riesgo (61-80 puntos) y muy alto riesgo (&gt;80 puntos), con una mortalidad (cohorte de derivación/validación) de 0/0,5, 0,8/1,0%, 2,9/2,8, 5,5/5,8 y 12,7/22,4%, respectivamente. Conclusiones: La escala EAHFE-3D puede ser de ayuda para estratificar el pronóstico a muy corto plazo de los pacientes con insuficiencia cardiaca crónica agudizada en 5 grupos de riesgo (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);40(6): 348-355, ago.-sept. 2016. tab, graf</dc:source>
+<dc:identifier>ibc-155268</dc:identifier>
+<dc:title xml:lang="es">Predicción de la mortalidad a muy corto plazo de los pacientes con insuficiencia cardiaca crónica agudizada: escala EAHFE-3D</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d33939^s22045</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d31019^s22083</dc:subject>
+<dc:subject>^d6486^s22047</dc:subject>
+<dc:subject>^d28575</dc:subject>
+<dc:subject>^d18001</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201609</dc:date>
+</metadata>
+</record>
+</ibecs-document>

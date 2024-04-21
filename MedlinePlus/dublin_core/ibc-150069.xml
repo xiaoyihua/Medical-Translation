@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150069</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Effects of the scale number of categories on the Muraki Graded Response Model</dc:title>
+<dc:description xml:lang="en">Effects that variation in the number of categories in ordinal scales has on the Graded Response Model (as proposed by Muraki (1990)) are evaluated by means of Parscale 3.2 (Muraki and Bock, 1998). Two sets of simulated data (unidimensional and bidimensional) and an empirical data set are analyzed. General results show that when data are unidimensional, the best goodness of fit indices are achieved between 4 and 6 categories. Satisfactory estimates of parameter &amp;#920; are also obtained. When data are bidimensional 6 categories are needed as a minimum to achieve satisfactory fit indices. In this case, &amp;#920; estimates represent the average between the two latent factors (AU)</dc:description>
+<dc:creator>García Cueto, Eduardo</dc:creator>
+<dc:creator>Hernández Baeza, Ana</dc:creator>
+<dc:creator>Muñiz, José</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En el presente estudio se evalúa el modo en que la variación del número de categorías de respuesta en escalas ordinales afecta al comportamiento del modelo de respuesta graduada en la versión propuesta por Muraki (1990). Dicho comportamiento es evaluado mediante el programa Parscale 3.2 (Muraki y Bock, 1998) a partir de un conjunto de datos simulados - unidimensionales y bidimensionales - y mediante una muestra empírica. En general los resultados muestran que, cuando los datos son unidimensionales, el mejor ajuste se consigue entre 4 y 6 categorías, estimándose satisfactoriamente el parámetro &amp;#920; . Cuando los datos son bidimensionales es necesario un mínimo de 6 categorías para lograr un ajuste satisfactorio, siendo las estimaciones de &amp;#920; una estimación del promedio de los dos factores subyacentes (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);12(supl.2): 288-291, 2000. tab, graf</dc:source>
+<dc:identifier>ibc-150069</dc:identifier>
+<dc:title xml:lang="es">Comportamiento del modelo de respuesta graduada en función del número de categorías de la escala</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d1544</dc:subject>
+<dc:subject>^d31198</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28575</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:subject>^d12018^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200000</dc:date>
+</metadata>
+</record>
+</ibecs-document>

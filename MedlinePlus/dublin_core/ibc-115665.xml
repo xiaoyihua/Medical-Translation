@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-115665</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Measurement of continuous improvement in the safety of oncologic patients</dc:title>
+<dc:description xml:lang="en">Objective: To analyze continuous improvement in the safety of oncologic patients through the change of quality indicators established with the implementation of a quality management system (QMS) according to the ISO 9001-2008 regulation at a oncologic pharmacy unit (OPU). Method: Prospective and observational study carried out between January of 2008 and December of 2011. The ISO 9001-2008 certification of the OPU included the proceedings of electronic prescription, validation, preparation, delivery, and administration of the antineoplastic therapy. The following quality indicators were established: medication errors (ME), preparation and delivery errors not reaching the patient, and ME reaching the patient. The indicators were calculated quarterly through the Farmis-Oncofarm® software; the adherence standard was defined at &lt; 1 ME per one thousand and the follow-up was done through control graphs. One "postimplementation" period (2008-2011) and one "pre-implementation" period (2007) were established and the U Mann Whitney test was used to compare the median of the indicator for both periods. The differences between the two periods were considered to be statistically significant when the p value was p &lt; 0.05. Results: 140,440 preparations were made at the OPU, for 4,770 patients, corresponding to 52,906 patients-day. The adherence to the standard during the first one-year period allowed reducing the three indicators to &lt; 0,5 ME per one thousand. For preparation ME an abnormal value was identified; the causes were analyzed and improvement measures were proposed. In the post-implementation period, ME were reduced during the post-implementation period as compared to the pre-implementation period (p&lt;0.05). Conclusions: The follow-up of the quality indicators allows measuring and assessing the pharmacotherapy safety in the oncologic patient. After the implementation of the QMS at the OPU, the number of ME has been reduced (AU)</dc:description>
+<dc:creator>López-Montenegro Soria, M. Á</dc:creator>
+<dc:creator>Albert Marí, A</dc:creator>
+<dc:creator>Jiménez Torres, N. V</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Analizar la mejora continua en la seguridad del paciente oncológico, a través de la evolución de los indicadores de calidad establecidos tras la implantación de un sistema de gestión de la calidad (SGC) según norma ISO 9001:2008, en una unidad de oncología farmacéutica (UOF). Método: Estudio observacional prospectivo realizado entre Enero 2008 y Diciembre de 2011. La certificación ISO 90012008 de la UOF incluyó los procesos de prescripción electrónica, validación, preparación, dispensación y administración del tratamiento antineoplásico. Se establecieron los indicadores de calidad: errores de medicación (EM) de preparación y dispensación que no alcanzan al paciente, y EM que alcanzan al paciente. Los indicadores se calcularon con una periodicidad trimestral a partir del aplicativo informático Farmis-Oncofarm®, se definió el estándar de cumplimiento en &lt;1 EM por mil y el seguimiento se realizó mediante gráficos de control. Se definieron dos periodos "postimplantación" (2008-2011) y "preimplantación" (2007) y se aplicó la prueba estadística U de Mann Whitney para comparar la mediana del indicador en ambos periodos. Se consideraron diferencias estadísticamente significativas entre los periodos cuando p &lt; 0,05. Resultados: Se realizaron 140.440 preparaciones en la UOF, para 4.770 pacientes, correspondientes a 52.906 pacientes-día. El cumplimiento del estándar durante la primera anualidad permitió su reducción a &lt;0,5 EM por mil en los tres indicadores. En los EM de preparación se identificó un valor anómalo que implicó analizar sus causas y proponer propuestas de mejora. En el periodo postimplantación se redujeron los EM respecto al periodo preimplantación (p &gt; 0,05). Conclusiones: El seguimiento de los indicadores de calidad permite medir y evaluar la seguridad farmacoterapéutica en el paciente oncológico. Tras la implantación del SGC en la UOF se han reducido los EM generados (AU)</dc:description>
+<dc:source>Farm Hosp;37(2): 143-150, mar.-abr. 2013. ilus, tab</dc:source>
+<dc:identifier>ibc-115665</dc:identifier>
+<dc:title xml:lang="es">Medida de la mejora continua en la seguridad del paciente oncológico</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d^s22054</dc:subject>
+<dc:subject>^d31061^s22045</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d50249</dc:subject>
+<dc:subject>^d36300^s22045</dc:subject>
+<dc:subject>^d974^s22073</dc:subject>
+<dc:subject>^d54857^s22048</dc:subject>
+<dc:subject>^d8675^s22054</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201304</dc:date>
+</metadata>
+</record>
+</ibecs-document>

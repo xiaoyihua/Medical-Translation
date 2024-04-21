@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-5167</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Brain death: what is the diagnostic value of multimodality evoked potentials?</dc:title>
+<dc:creator>Paniagua Soto, J</dc:creator>
+<dc:creator>Piñero Benitez, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Los multipotenciales evocados [somestésicos (PES), acústicos troncoencefálicos (PEAT) y visuales (PEV)] son resistentes a depresores centrales e hipotermia. Exploran diferentes vías sensoriales periféricas y centrales, y aportan información útil para diagnosticar la muerte encefálica (ME). Esto se demuestra ampliamente en la bibliografía. Los PES se obtienen estimulando en nervio mediano en la muñeca y registrando en C'3/C'4-Fz y C7-Fz, los PEAT con estímulo click en el oído y registro en A1/A2-Cz y los PEV tras estimulación ocular y recepción Oz-Fz. Los multipotenciales evocados tienen un comportamiento muy constante en la ME, con ausencia de respuestas por encima de la unión bulbomedular. Los PEAT muestran ausencia bilateral de ondas III, IV y V, persistiendo a veces I y/o II uni o bilateralmente. Los somestésicos corticales están siempre ausentes y los espinales originados por debajo de la unión bulbomedular se conservan. Los PEV están ausentes. Los multipotenciales evocados confirman orechazan el diagnóstico clínico-electroencefalográfico (EEG) de ME en circunstancias donde la valoración de estos factores está limitada, como la hipotermia, que retrasa las latencias pero se conservan hasta los 25 ºC, comenzando entonces a desaparecer, y la impregnación por depresores centrales, como barbitúricos, que modifican latencias y amplitudes a ciertas dosis pero únicamente desaparecen con cifras muy superiores a las habituales. Los multipotenciales evocados constituyen una prueba diagnóstica segura, fiable, rápida, repetible, accesible, de bajo coste y disponible en casi todos los hospitales. La combinación de criterios clínicos y estudios neurofisiológicos (EEG y multipotenciales evocados) garantizan una seguridad diagnóstica en la ME (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);24(3): 124-134, mar. 2000. ilus</dc:source>
+<dc:identifier>ibc-5167</dc:identifier>
+<dc:title xml:lang="es">Muerte encefálica: ¿cuál es el valor diagnóstico de los potenciales evocados multimodales?</dc:title>
+<dc:subject>^d4641^s22074</dc:subject>
+<dc:subject>^d3660</dc:subject>
+<dc:subject>^d5168</dc:subject>
+<dc:subject>^d4641^s22045</dc:subject>
+<dc:subject>^d4669^s22074</dc:subject>
+<dc:subject>^d5170^s22031</dc:subject>
+<dc:subject>^d5170^s22021</dc:subject>
+<dc:subject>^d3162^s22074</dc:subject>
+<dc:subject>^d1952^s22016</dc:subject>
+<dc:subject>^d3162^s22045</dc:subject>
+<dc:subject>^d28929^s22031</dc:subject>
+<dc:subject>^d4669^s22045</dc:subject>
+<dc:subject>^d14065^s22053</dc:subject>
+<dc:subject>^d28929^s22021</dc:subject>
+<dc:subject>^d14065^s22058</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200003</dc:date>
+</metadata>
+</record>
+</ibecs-document>

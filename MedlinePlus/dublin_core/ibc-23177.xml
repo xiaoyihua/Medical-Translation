@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-23177</identifier>
+<setSpec>0212-8799</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Inspiratory flow as a determinant in ventilation during exercise</dc:title>
+<dc:creator>Centeno, R. A</dc:creator>
+<dc:creator>Beaus, M</dc:creator>
+<dc:creator>Naranjo, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Federación Española de Medicina del Deporte</dc:publisher>
+<dc:description xml:lang="es">Hemos estudiado a 34 deportistas varones pertenecientes a 7 modalidades deportivas diferentes y que fueron divididos en dos grupos de 17 sujetos con características similares. Cada uno de los grupos realizó una prueba de esfuerzo en tapiz rodante hasta el agotamiento siguiendo protocolos diferentes. Ambos realizaban un calentamiento previo de 3 min a 8 Km/h y partían de una velocidad inicial de 10.8 Km/h.; a partir de ahí el primer grupo siguió un protocolo con aumento progresivo de la velocidad a razón de 0.2 Km/h cada 20 segundos mientras que el segundo realizó un protocolo escalonado con incrementos de 1.8 Km/h cada tres minutos. El objetivo del trabajo era analizar la respuesta ventilatoria a través de las modificaciones en el ciclo respiratorio comparando ambos protocolos y en deportistas con distintos tipos y niveles de entrenamiento. En los dos protocolos se alcanzan las mismas velocidades máximas y valores de VO2max prácticamente idénticos (58.59 vs 58.07 mL/Kg/min, p = 0.8). De los parámetros estudiados (FC, VE, VT, FR, Ti, Te, Ttot, VT/Ti, Ti/Ttot, V02, VCO2, FEO 2, FECO2, RQ, VE/VO2 y VE/VCO2) sólo hay diferencias significativas (p&lt; 0.05) en los valores de VE y VCO2 correspondientes al 80 y 90 por ciento del VO2max y en los de VT/Ti al 90 por ciento del VOZ max. Se observa una relación lineal entre la eliminación de COZ y la ventilación que es común a ambos protocolos, de forma que aunque los valores de ambos parámetros difieren de un protocolo a otro a medida que aumenta la intensidad del ejercicio, todas estas variaciones se ajustan a una misma recta de regresión (R2 = 0.98).Por otra parte, la relación Ti/Ttot se mantiene constante durante toda la prueba en ambos grupos, por lo que las modificaciones de la ventilación dependen exclusivamente del incremento del flujo inspiratorio (VT/Ti) y de forma que resulta independiente del protocolo empleado (AU)</dc:description>
+<dc:source>Arch. med. deporte;17(79): 395-400, sept. 2000. tab, graf</dc:source>
+<dc:identifier>ibc-23177</dc:identifier>
+<dc:title xml:lang="es">El flujo inspiratorio como factor determinante de la ventilación durante el ejercicio</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d5178</dc:subject>
+<dc:subject>^d230</dc:subject>
+<dc:subject>^d13298^s22031</dc:subject>
+<dc:subject>^d28107^s22031</dc:subject>
+<dc:subject>^d27977</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d32868^s22031</dc:subject>
+<dc:subject>^d13562^s22031</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200009</dc:date>
+</metadata>
+</record>
+</ibecs-document>

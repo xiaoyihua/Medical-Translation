@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-90654</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Evaluation of a medical records archive through the application of statistical methods for quality control</dc:title>
+<dc:description xml:lang="en">Background: In undertaking a Minimum Basic Data Set (MBDS) of hospital discharges has to be done for all hospitals. It depends on the good function of the Medical Records Archive. The objective of this study is the continuous evaluation of the quality of the Medical Records Archive via Control Diagrams statistical techniques arose. Methods: From June2005 to January2009 a retrospective search of the discharges/Medical Records pending coding, from a tertiary care university hospital was carried out. The different categories of discharges/Medical Records were registered on an Excel spreadsheet under the following headings: searched for, found, completed/closed, pending and not located for each a particular month and year. The Overall Effectiveness Index was calculated, 0,9 being the standard quality value. Furthermore to assess the process quality over the entire length of the period studied and in each month and year, the Shewhart`s Control Diagram and Cumulative Sum (CUSUM) graphic tests were applied. Results: The Overall Effectiveness Index was 0.95. The majority of % errors corresponded to November2008 with 55 (11.73%) and June2008 with 14 (10.45%). In the Control Diagrams there are abnormally high values, obtained after standardization, in July2005 (5.95) and November 2008 (7.00). The CUSUM showed one point outside of the initial control (July2005 &#150; 5.95), although until June2007, the average (4.7%) was slightly below the overall averages (4.81%) and then increases from July2007 on (5.02%). Conclusion: The Archive quality has varied over time, demonstrating that it was especially lower at the end of the study(AU)</dc:description>
+<dc:creator>Vicente Vírseda, Juan Antonio</dc:creator>
+<dc:creator>Asensio Villahoz, Paula</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamentos: La cumplimentación del Conjunto Mínimo Básico de Datos (CMBD) de hospitalización es obligatoria para todos los hospitales. Depende de un buen funcionamiento del Archivo de Historias Clínicas. El objetivo de este estudio es hacer una evaluación continua de la calidad del Archivo de Historias Clínicas con técnicas estadísticas de Diagramas de Control. Métodos: De junio2005 a enero2009 se realizó una búsqueda retrospectiva de las altas pendientes de codificar en el CMBD de un hospital de tercer nivel. Se registraron en Excel las altas/Historias Clínicas: buscadas, encontradas, prestadas, con incidencias y no localizadas de cada mes/año estudiado. Se calculó el Índice de Eficacia Global, considerándose el valor del estándar de calidad 0,9. Y para conocer la calidad del proceso a lo largo de todo el período de estudio y en cada mes/año analizado, se aplicaron los test gráficos del Diagrama de Control de Shewhart y de Sumas Acumuladas (CUSUM). Resultados: El Índice de Eficacia Global fue 0,95. Los mayores % de errores correspondieron a noviembre2008 con 55 (11,73%) y junio2008 con 14 (10,45%). En los Diagramas de Control destacan los valores anormalmente altos, obtenidos tras la estandarización, en julio2005 (7,42) y noviembre2008 (7,00). Y en CUSUM se observó un punto fuera de control al inicio, julio2005 (5,95), aunque hasta junio2007 la media (4,70%) se situó ligeramente por debajo de la media global (4,81%). Aumentando a partir de julio2007 (5,02%). Conclusión: La calidad del Archivo ha ido variando a lo largo del tiempo, siendo más baja especialmente al final del estudio(AU)</dc:description>
+<dc:source>Rev Esp Salud Publica;85(4): 391-404, jul.-ago.2011. tab, ilus</dc:source>
+<dc:identifier>ibc-90654</dc:identifier>
+<dc:title xml:lang="es">Evaluación de un archivo de historias clínicas mediante la aplicación de métodos de control estadístico de la calidad</dc:title>
+<dc:subject>^d28219^s22041</dc:subject>
+<dc:subject>^d28219^s22083</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d27786^s22048</dc:subject>
+<dc:subject>^d12223</dc:subject>
+<dc:subject>^d12436</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d27786^s22083</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201108</dc:date>
+</metadata>
+</record>
+</ibecs-document>

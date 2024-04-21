@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-28603</identifier>
+<setSpec>0213-1285</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Sorption and solubility of several materials formulated with resin</dc:title>
+<dc:description xml:lang="en">The aim of this study was to determine the sorption and solubility of four resin composites: Tetric Ceram (Vivadent), Ecusit (DMG), Degufill (Degussa) and Z-250 (3M-Espe); and two polyacid-modified resins: Luxat (DMG) and lonosit (DMG). Five discs (15 mm x 0.85 mm) of each material were prepared and ground wet to remove poorly polymerized suface layers. Discs were conditioned in a desiccator (37º C) until a constant weight was achieved using an analytic balance (mo); immersed in distilled water 37º C (m1) and finally into a vacuum oven (60º C, 24 h) and reweighted (m2). Sorption (A) and solubility (S) were calculated: A = m1 - m2 / V; S = mo - m2 / V. ANOVA and SNK tests showed statistical differences among the studied materials. lonosit showed the highest sorption and Tetric Ceram and Ecusit the lowest. Luxat presented higher sorption than Degufill, but both materials showed similar sorption values compared with Z-250. The higher solubility was obtained by lonosit. No statistical differences were found among resin composites and Luxat (AU)</dc:description>
+<dc:publisher>Ediciones Avances, S.L.</dc:publisher>
+<dc:description xml:lang="es">El objetivo de este estudio fue determinar la sorción y solubilidad de cuatro resinas compuestas: Tetric Ceram (Vivadent), Ecusit (DMG), Degufill (Degussa) y Z-250 (3M-Espe); y dos resinas modificadas con poliácido: Luxat (DMG) e Ionosit (DMG). Cinco especímenes circulares (15 mm x 0.85 mm) de cada material fueron preparados y pulidos con discos de carburo de silicio. Los especímenes fueron desecados en una estufa a 37° C hasta que se registró un peso constante (mo) y, posteriormente, se introdujeron en agua destilada a 37° C (m1). Una vez estabilizado su peso fueron desecados nuevamente, colocados en una campana al vacío (60° C, 24 h) y pesados por última vez (m2). El cálculo de la sorción (A) y solubilidad (S) se realizó mediante expresiones matemáticas interrelacionadas: A = m1 - m2/V; S = m0 - m2/ V Los tests de AMOVA y Student Newman Keuls mostraron diferencias en la sorción y solubilidad según el material estudiado (p&lt;0.05). Ionosit presentó los valores más altos de sorción y Tetric Ceram y Ecusit los más bajos. La sorción de Luxat fue más elevada que la de Degufill, pero la de ambos materiales fue similar a la del Z-250. La solubilidad de Ionosit fue también significativamente más alta que la de los demás materiales. Las resinas compuestas evaluadas y Luxat presentaron unos valores de solubilidad similares (AU)</dc:description>
+<dc:source>Av Odontoestomatol;19(6): 283-289, nov.-dic. 2003. tab</dc:source>
+<dc:title xml:lang="es">Sorción y solubilidad de materiales formulados con resina</dc:title>
+<dc:type>article</dc:type>
+<dc:creator>Ceballos, L</dc:creator>
+<dc:creator>Vaca, MJ</dc:creator>
+<dc:creator>Fuentes, MV</dc:creator>
+<dc:creator>Toledano, M</dc:creator>
+<dc:creator>Osorio, R</dc:creator>
+<dc:creator>Garcia-Godoy, F</dc:creator>
+<dc:language>es</dc:language>
+<dc:identifier>ibc-28603</dc:identifier>
+<dc:subject>^d13378</dc:subject>
+<dc:subject>^d34518^s22073</dc:subject>
+<dc:subject>^d21012</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6039^s22073</dc:subject>
+<dc:subject>^d19042</dc:subject>
+<dc:subject>^d14096</dc:subject>
+<dc:subject>^d3808^s22045</dc:subject>
+<dc:date>200312</dc:date>
+</metadata>
+</record>
+</ibecs-document>

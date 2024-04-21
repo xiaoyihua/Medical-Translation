@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-10625</identifier>
+<setSpec>0210-9433</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:creator>Sánchez Barón, A</dc:creator>
+<dc:creator>Marín Trigo, J. M</dc:creator>
+<dc:creator>Alonso Muñoz, J. E</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">La tos persistente es un proceso que dura más de 3-4 semanas y no se atribuye a una causa aparente. Un protocolo de diagnóstico y tratamiento secuencial, basado en el recordatorio anatómico del reflejo de la tos, proporciona la mayoría de las veces el diagnóstico etiológico final. Las 3 causas más frecuentes de tos persistente son: síndrome de goteo posnasal, asma bronquial y reflujo gastroesofágico. Las pruebas complementarias a realizar y el tratamiento de la tos persistente deben ir dirigidas, en primer lugar, a identificar esas 3 causas. Un porcentaje reducido de pacientes requiere estudios adicionales especializados y, ocasionalmente, se diagnostican enfermedades importantes que de otra forma no habrían sido identificadas y tratadas. Los antitusivos y mucolíticos no están indicados en la tos persistente y su uso sin averiguar la etiología previa de la tos sólo conduce a prolongar el síntoma y retrasar el tratamiento definitivo y efectivo de la enfermedad subyacente (AU)</dc:description>
+<dc:source>Med. integral (Ed. impr.);39(3): 106-109, feb. 2002. tab</dc:source>
+<dc:identifier>ibc-10625</dc:identifier>
+<dc:title xml:lang="es">Un paciente con tos crónica</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d3386^s22027</dc:subject>
+<dc:subject>^d3386^s22016</dc:subject>
+<dc:subject>^d27977</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28563</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200202</dc:date>
+</metadata>
+</record>
+</ibecs-document>

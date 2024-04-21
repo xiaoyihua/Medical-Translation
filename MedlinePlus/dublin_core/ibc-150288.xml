@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150288</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">No disponible</dc:title>
+<dc:description xml:lang="en">Item response theory and confirmatory factor analysis: Two approaches for testing the psychometric equivalence of translated tests. Translating psychological tests from one language and culture to other languages and cultures is a common practice in cross-cultural research. However, researchers should not assume that the translation is perfectly equivalent to the original source language version; instead of that it is necessary to carry out DIF analysis to test the equivalence of the different versions of the questionnaire. Confirmatory Factor Analysis (CFA) and Item Response Theory (IRT) models are alternative procedures for the detection of DIF. The objective of this study is to compare the utility of CFA and IRT models for testing the psychometric equivalence of translated tests. The English version of the PSDQ was administered to 986 Australian teenagers, and a translated Spanish version of the questionnaire was administered to 986 Spanish teenagers. CFA with nonzero latent means were carried out to test the equivalence of both versions of the questionnaire; and in the context of IRT Samejima&#146;s Graded Response Model was used with the same purpose. The results of this study show that CFA with nonzero latent means allows to identify uniform DIF as well as nonuniform DIF, so the use of AFC is comparable to the use of IRT models (AU)</dc:description>
+<dc:creator>Tomás Marco, Inés</dc:creator>
+<dc:creator>González-Romá, Vicente</dc:creator>
+<dc:creator>Gómez Benito, Juana</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La traducción de cuestionarios es un fenómeno frecuente en la investigación transcultural. En estos casos, no se puede asumir la equivalencia de las diferentes versiones traducidas, sino que es necesario confirmar dicha equivalencia llevando a cabo análisis del FDI. El análisis factorial confirmatorio (AFC) y la teoría de respuesta al ítem (TRI), representan dos aproximaciones alternativas para el estudio del FDI. El objetivo de este trabajo es comparar el AFC y la TRI como métodos alternativos para evaluar la equivalencia psicométrica en el contexto de la traducción de instrumentos de medida. Para ello se aplicó la versión original en inglés del PSDQ a una muestra de 986 adolescentes australianos, y una versión traducida al castellano de este cuestionario a 986 adolescentes valencianos. Se llevaron a cabo AFCs utilizando el modelo de medias latentes; dentro del contexto de la TRI se utilizó el Modelo de Respuesta Graduada de Samejima. Los resultados indican que el uso del AFC con estructura de medias latentes es totalmente comparable a los métodos de la TRI, y permite analizar tanto el FDI uniforme como el no uniforme (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);12(supl.2): 540-544, 2000. tab</dc:source>
+<dc:identifier>ibc-150288</dc:identifier>
+<dc:title xml:lang="es">Teoría de respuesta al ítem y análisis factorial confirmatorio: dos métodos para analizar la equivalencia psicométrica en la traducción de cuestionarios</dc:title>
+<dc:subject>^d1544^s22083</dc:subject>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d28624</dc:subject>
+<dc:subject>^d28437</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:subject>^d12018^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200000</dc:date>
+</metadata>
+</record>
+</ibecs-document>

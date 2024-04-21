@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-163415</identifier>
+<setSpec>1138-3593</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Dermoscopy for beginners (ii): dermoscopic structures and diagnostic methods</dc:title>
+<dc:description xml:lang="en">Dermoscopy (DS) is an in vivo non-invasive diagnostic technique developed to study skin lesions. It improves the diagnostic accuracy of hyperpigmented lesions and early diagnosis of potentially malignant lesions, especially melanoma. It uses a device called a dermoscope to display deeper skin structures not visible to the naked eye, called dermoscopic structures. Only some of them have histological significance, basing them on DS. Many, more or less complex, dermoscopic methods have been developed to aid in the differential diagnosis of skin cancer. The most widespread is 2-step algorithm dermoscopy. But there are some more simple methods, designed to be operated by non-medical experts in DS. Two of them are useful in primary care: the 3-point checklist of DS, and the BLINCK algorithm. This paper focuses on describing the dermoscopic parameters needed to implement these algorithms, as well as their interpretation (AU)</dc:description>
+<dc:creator>Palacios-Martínez, D</dc:creator>
+<dc:creator>Díaz-Alonso, RA</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La dermatoscopia (DS) es una técnica diagnóstica in vivo, no invasiva, desarrollada para estudiar las lesiones cutáneas. Mejora el diagnóstico precoz y el diagnóstico diferencial de las lesiones potencialmente malignas, especialmente el melanoma. Utiliza un dispositivo llamado dermatoscopio para visualizar estructuras cutáneas profundas no visibles a simple vista, denominadas estructuras dermatoscópicas. Únicamente algunas de ellas tienen significado histológico, basándose en ellas la DS. Se han desarrollado numerosos métodos dermatoscópicos, más o menos complejos, para ayudar en el diagnóstico diferencial del cáncer de piel. El más extendido es el algoritmo en 2 pasos o etapas. Pero existen algunos métodos más sencillos, diseñados para ser aplicados por médicos no expertos en DS. Dos de ellos resultan de gran utilidad en atención primaria: la regla de los 3 puntos y el algoritmo BLINCK. Este trabajo se centra en la descripción de los parámetros dermatoscópicos necesarios para aplicar dichos algoritmos, así como en su interpretación (AU)</dc:description>
+<dc:source>SEMERGEN, Soc. Esp. Med. Rural Gen. (Ed. Impr.);43(4): 312-317, mayo-jun. 2017. ilus</dc:source>
+<dc:identifier>ibc-163415</dc:identifier>
+<dc:title xml:lang="es">Dermatoscopia para principiantes (ii): estructuras dermatoscópicas y métodos diagnósticos</dc:title>
+<dc:subject>^d13259^s29166</dc:subject>
+<dc:subject>^d33556^s22039</dc:subject>
+<dc:subject>^d13259^s22080</dc:subject>
+<dc:subject>^d38340</dc:subject>
+<dc:subject>^d8714^s29166</dc:subject>
+<dc:subject>^d19157^s29166</dc:subject>
+<dc:subject>^d33556^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30694^s29166</dc:subject>
+<dc:subject>^d3965</dc:subject>
+<dc:subject>^d9695</dc:subject>
+<dc:subject>^d5298^s22019</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201706</dc:date>
+</metadata>
+</record>
+</ibecs-document>

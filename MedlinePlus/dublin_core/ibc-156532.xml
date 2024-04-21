@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-156532</identifier>
+<setSpec>0014-2565</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Factors influencing pleural drainage in parapneumonic effusions</dc:title>
+<dc:description xml:lang="en">Objective. The identification of parapneumonic effusions (PPE) requiring pleural drainage is challenging. We aimed to determine the diagnostic accuracy of radiological and pleural fluid findings in discriminating between PPE that need drainage (complicated PPE (CPPE)) and those that could be resolved with antibiotics only (uncomplicated PPE (UPPE)). Subjects and methods. A retrospective review of 641 consecutive PPE, of which 393 were categorized as CPPE and 248 as UPPE. Demographics, radiological (size and laterality on a chest radiograph) and pleural fluid parameters (pus, bacterial cultures, biochemistries) were compared among groups. Logistic regression was performed to determine variables useful for predicting chest drainage, and receiver-operating characteristic curves assisted in the selection of the best cutoff values. Results. According to the likelihood ratios (LR), findings increasing the probability of chest tube usage the most were: effusions occupying &amp;#8805;1/2 of the hemithorax (LR 13.5), pleural fluid pH &amp;#8804;7.15 (LR 6.2), pleural fluid glucose &amp;#8804;40mg/dL (LR 5.6), pus (LR 4.8), positive pleural fluid cultures (LR 3.6), and pleural fluid lactate dehydrogenase &gt;2000U/L (LR 3.4). In the logistic regression analysis only the first two were selected as significant predictors of CPPE. In non-purulent effusions, the effusion's size and pleural fluid pH retained their discriminatory properties, in addition to a pleural fluid C-reactive protein (CRP) level &gt;100mg/L. Conclusion. Large radiological effusions and a pleural fluid pH &amp;#8804;7.15 were the best predictors for chest drainage in patients with PPE. In the subgroup of patients with non-purulent effusions, pleural fluid CRP also contributed to CPPE identification (AU)</dc:description>
+<dc:creator>Porcel, JM</dc:creator>
+<dc:creator>Bielsa, S</dc:creator>
+<dc:creator>Valencia, H</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objetivo. La identificación de los derrames paraneumónicos (DP) que precisan drenaje pleural es problemática. Se ha intentado establecer la precisión diagnóstica de los hallazgos radiológicos y del líquido pleural para distinguir entre los DP que precisan drenaje (DP complicado) y aquellos que podrían remitir solo con tratamiento antibiótico (DP no complicado). Sujetos y métodos. Revisión retrospectiva de 641 DP consecutivos, de los cuales 393 fueron clasificados como complicados y 248 como no complicados. Se compararon los datos demográficos, radiológicos (tamaño y lateralidad en radiografía de tórax) y los parámetros del líquido pleural (pus, cultivos bacterianos, bioquímicas) entre ambos grupos. Para establecer qué variables son más útiles al predecir el drenaje torácico se llevó a cabo una regresión logística, y las curvas de rendimiento diagnóstico ayudaron a seleccionar los valores de corte. Resultados. Según el cociente de probabilidad (CP), los hallazgos que aumentan la probabilidad de drenaje torácico son: derrames que se expanden por &amp;#8805; 1/2 del hemitórax (CP 13,5), pH del líquido pleural &amp;#8804; 7,15 (CP 6,2), glucosa del líquido pleural &amp;#8804; 40mg/dL (CP 5,6), pus (CP 4,8), cultivos bacterianos positivos del líquido pleural (CP 3,6) y LDH en líquido pleural &gt; 2.000U/L (CP 3,4). En el análisis de regresión logística solo los 2 primeros se clasificaron como factores predisponentes de DP complicado. En los derrames no purulentos el tamaño del derrame y el pH del líquido pleural mantuvieron sus propiedades discriminatorias, además de la proteína C reactiva (PCR) en líquido pleural &gt;100mg/L. Conclusión. Los derrames grandes y un pH del líquido pleural &amp;#8804; 7,15 fueron los mejores factores predisponentes para el drenaje torácico en pacientes con derrame paraneumónico. En el subgrupo de pacientes con derrames no purulentos, la PCR del líquido pleural también contribuyó a la identificación del DP complicado (AU)</dc:description>
+<dc:source>Rev Clin Esp;216(7): 361-366, oct. 2016. tab</dc:source>
+<dc:identifier>ibc-156532</dc:identifier>
+<dc:title xml:lang="es">Factores que influyen en el drenaje del derrame pleural paraneumónico</dc:title>
+<dc:subject>^d11425^s22012</dc:subject>
+<dc:subject>^d11425^s22067</dc:subject>
+<dc:subject>^d11425^s22032</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d11425^s22016</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d11425^s29166</dc:subject>
+<dc:subject>^d23481^s22045</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d4729^s22012</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d4729^s29166</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201610</dc:date>
+</metadata>
+</record>
+</ibecs-document>

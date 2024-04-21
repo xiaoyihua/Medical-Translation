@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-85288</identifier>
+<setSpec>0212-1972</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">HL7-IHE. Applying the standards from a practical standpoint</dc:title>
+<dc:description xml:lang="en">The introduction of information technologies and communications in the healhtcare system represent a challenge to achieve in a short time using specific industry standards such as HL7-based integration. The integration of systems and initiatives such as IHE allow the use of standards for each specific step to be defined in a practical way (AU)</dc:description>
+<dc:creator>Gallego Pérez, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La introducción de las Tecnologías de la Información y de las Comunicaciones en el sistema sanitario representa un reto para poder alcanzar, en un corto espacio de tiempo, estándares específicos del sector como la integración basada en HL7. La integración de sistemas e iniciativas tales como IHE permiten definir el uso de los estándares para cada escalón concreto de una forma práctica (AU)</dc:description>
+<dc:source>Todo hosp;(258): 449-454, jul.-ago. 2009. ilus</dc:source>
+<dc:identifier>ibc-85288</dc:identifier>
+<dc:title xml:lang="es">HL7-IHE. Cómo aplicar los estándares desde una visión práctica</dc:title>
+<dc:subject>^d29453^s22048</dc:subject>
+<dc:subject>^d33196^s22045</dc:subject>
+<dc:subject>^d6896^s22045</dc:subject>
+<dc:subject>^d32011</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200908</dc:date>
+</metadata>
+</record>
+</ibecs-document>

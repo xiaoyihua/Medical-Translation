@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-9050</identifier>
+<setSpec>0365-6691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">AutoCAD system for planimetric study of the optic disc in glaucoma: technique and reproducibility study</dc:title>
+<dc:creator>Honrubia López, F. M</dc:creator>
+<dc:creator>Melcon Sánchez Frieras, B</dc:creator>
+<dc:creator>Polo Llorens, V</dc:creator>
+<dc:creator>Sánchez Pérez, A</dc:creator>
+<dc:creator>Larrosa Poves, J. M</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Audiovisual y Marketing, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: El propósito de este trabajo es el desarrollo de una técnica planimétrica de biomorfometría del disco óptico mediante sistema AutoCAD (Automated Computer Assisted Designer) y analizar el grado de variabilidad que presentan las mediciones. Métodos: Desarrollo de una técnica planimétrica con el sistema AutoCAd R.14 Autodesk: captación, delimitación de contornos mediante polilíneas y/o elipse ajustada, sectorialización de imagen y cuantificación [diámetro vertical de excavación y disco; áreas de disco, excavación, sectores del anillo neurorretiniano (ANR) y atrofia Beta]. Estudios de reproducibilidad interimagen e intraimagen (n=10) en papila normal y miópica mediante el cálculo del coeficiente de variabilidad (CV) de las mediciones propuestas. Resultados: El método desarrollado permite realizar un análisis biomorfométrico de la papila óptica en un tiempo de 5-10 minutos. El estudio interimagen presentó un rango de CV entre 1,18-4,42. El estudio intraimagen presentó un rango de CV entre 0,30-4,21. La determinación de contornos mediante una elipse ajustada presenta un mayor nivel de reproducibilidad. Conclusiones: La planimetría AutoCAD del nervio óptico es una técnica de análisis biomorfométrico interactivo, de fácil incorporación a la clínica. Presenta niveles de reproducibilidad equivalentes o superiores a los aportados por otras técnicas de papilometría. La delimitación de contornos mediante el ajuste de una elipse presenta el mayor nivel de reproducibilidad (AU)</dc:description>
+<dc:source>Arch Soc Esp Oftalmol;76(9): 551-558, sept. 2001.</dc:source>
+<dc:identifier>ibc-9050</dc:identifier>
+<dc:title xml:lang="es">Sistema autoCAD para el estudio planimétrico de la papila óptica en el glaucoma: técnica y estudio de reproducibilidad</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28053</dc:subject>
+<dc:subject>^d10078</dc:subject>
+<dc:subject>^d10065</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200109</dc:date>
+</metadata>
+</record>
+</ibecs-document>

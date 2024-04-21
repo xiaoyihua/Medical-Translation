@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-139956</identifier>
+<setSpec>1134-248X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">No disponible</dc:title>
+<dc:description xml:lang="en">Aim: a) to know which variables from functional assessment, treatment, or blood samples have prognostic value in advanced cancer patients; and b) to develop a logistic equation able to establish prognosis in advanced cancer patients. Patients and method: a prospective study in advanced cancer patients. Dependent variable: life lasting 30 or fewer days. Independent variables: performance status, treatment, biochemical and hematological parameters from a blood sample available for general practitioners. Statistics: A descriptive analysis &#150; a univariate analysis using Student&#146;s t-test and chisquared test; a multivariate analysis by logistic regression. SPSS Windows 2000. Results: 130 evaluations were included from 73 patients. Main age was 68.89 (DT 11.54). 60% were males. Most frequent tumors included: digestive tract, 39.2%; and lung cancer 21.5%. Variables selected by the univariate analysis were: urea, total protein, albumin, prealbumin, betaglobulin, iron, calcium, LDH, ferritin, hematocrit, hemoglobin, total white blood cell count, neutrophils, lymphocytes, sodium corticoids, and KPS. Variables selected by the multivariate analysis were: urea, albumin, iron, LDH, total white blood cell count, neutrophils, CD8, corticoids, and KPS. The model&#146;s sensitivity was 76%, specificity was 92%. Positive predictive value was 0.82, and negative predictive value was 0.87%. Conclusions: selected variables in the multivariate analysis allow to develop a predictive model that is useful to establish the survival probability at 30 or fewer days for every advanced cancer patient (AU)</dc:description>
+<dc:creator>Altisent, R</dc:creator>
+<dc:creator>León, M</dc:creator>
+<dc:creator>Nabal, M</dc:creator>
+<dc:creator>Naudí, C</dc:creator>
+<dc:creator>Tres, A</dc:creator>
+<dc:creator>Palomar, C</dc:creator>
+<dc:creator>Trujillano, J</dc:creator>
+<dc:creator>Porta, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: a) establecer qué variables funcionales, de tratamiento y analíticas tienen capacidad pronóstica independiente en pacientes con cáncer en situación de enfermedad terminal; y b) desarrollar una ecuación logística que defina un modelo predictivo útil para un paciente con cáncer terminal. Material y método: estudio prospectivo realizado en pacientes con cáncer avanzado sin tratamiento curativo. Variable dependiente: supervivencia igual o inferior a 30 días; variables independientes: situación funcional, tratamiento, parámetros bioquímicos y hematológicos procedentes de una muestra de sangre periférica y accesibles al médico de cabecera. Análisis estadístico: descriptivo; univariable mediante t de Student y Chi cuadrado y multivariable mediante regresión logística. Paquete SPSS Windows 2000. Resultados: se incluyeron 130 evaluaciones procedentes de 73 pacientes. La edad media fue de 68.89 (DT 11,54). El 60% fueron hombres. Las neoplasias más frecuentes fueron: tubo digestivo 39,2% y pulmón 21,5%. Las variables seleccionadas por el análisis univariable fueron: urea, proteínas totales, albúmina, prealbúmina, beta-globulina, hierro, LDH, ferritina, hematocrito, hemoglobina, leucocitos, neutrófilos, linfocitos, sodio, calcio, KPS y tratamiento con corticoides. Las variables seleccionadas por el análisis multivariable fueron: urea, albúmina, hierro, LDH, leucocitos, neutrófilos, CD8, Corticoides y KPS. La sensibilidad del modelo desarrollado alcanza el 76% y una especificidad del 92%. Valor predictivo positivo de 0,82 y valor predictivo negativo de 0,87%. Conclusión: el análisis conjunto de las variables seleccionadas por el análisis de regresión logística permite generar una ecuación logística que define un modelo predictivo útil para el cálculo de la probabilidad de supervivencia menor o igual a 30 días en pacientes con cáncer en situación de enfermedad terminal (AU)</dc:description>
+<dc:source>Med. paliat;15(1): 27-38, 2008. tab, graf</dc:source>
+<dc:identifier>ibc-139956</dc:identifier>
+<dc:title xml:lang="es">Modelo predictivo de pronóstico generado en pacientes con cáncer en fase avanzada</dc:title>
+<dc:subject>^d24890</dc:subject>
+<dc:subject>^d33939^s22045</dc:subject>
+<dc:subject>^d9562^s22012</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d10353^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d18001</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200800</dc:date>
+</metadata>
+</record>
+</ibecs-document>

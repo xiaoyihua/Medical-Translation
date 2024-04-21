@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-83016</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The evolution of breast cancer mortality and the dissemination of mammography in Catalonia. An analysis by health region</dc:title>
+<dc:description xml:lang="en">Background: The decrease of breast cancer (BC) mortality rates has been attributed to early detection programs and therapeutic advances. The objective is to compare BC mortality trend in health regions of Catalonia during the period 1993-2007. In parallel, dissemination of periodic mammography in the health regions has been analyzed. Methods: Mortality and health surveys data were used. Poisson and «joinpoint» regression analyses were used to compare regional BC mortality rates and quantify their temporal evolution. Mixed effects models were used to compare the rates and their evolution by region. Results: The BC mortality rate decreased 3% annually in Cataluña. Between 1993 and 2007, the standard mortality rate changed from 34.8 to 23.3 per 100,000 women. Barcelona ciutat showed higher mortality rates than the Centre (rate ratio (RR)=0.873), Costa de Ponent (RR=0.885), Tarragona (RR=0.9) and Lleida regions (RR=0.915), but these differences tend to disappear over time. There were no observed trend changes in the evolution of the regional mortality rates, except in the Centre region. The use of periodic mammography was similar across health regions. During the 90s, Barcelona ciutat had a 36.1% utilization of periodic mammography in women aged 40-74, in the 1994 survey, the Centre 23.7 and Costa de Ponent 25.2%. Conclusions: The progressive increase in the use of periodic mammography and the decrease of BC mortality were similar in the eight health regions of Catalonia(AU)</dc:description>
+<dc:creator>Gispert Magarolas, Rosa</dc:creator>
+<dc:creator>Pérez Lacasta, María José</dc:creator>
+<dc:creator>Martínez Alonso, Montserrat</dc:creator>
+<dc:creator>Pla Farnós, Roger</dc:creator>
+<dc:creator>Rué Monné, Montserrat</dc:creator>
+<dc:creator>Gregori Gomis, Aleix</dc:creator>
+<dc:creator>Carles Lavila, Misericordia</dc:creator>
+<dc:creator>Vilaprinyo Terré, Ester</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamento: El descenso de las tasas de mortalidad por cáncer de mama (CM) se ha atribuido a la implantación de programas de cribado y a avances terapéuticos. El objetivo de este trabajo es comparar la evolución de su mortalidad en las regiones sanitarias de Cataluña en el periodo 1993-2007. Paralelamente, se ha analizado la diseminación de la mamografía periódica en las regiones sanitarias. Métodos: Se analizaron los datos del registro de mortalidad y encuestas de salud. Se utilizaron regresiones de Poisson y «joinpoint» para comparar las tasas de mortalidad por CM y analizar su evolución temporal. Se utilizaron modelos de efectos mixtos para comparar el nivel y la evolución de la mortalidad por regiones. Resultados. La tasa de mortalidad por CM descendió un 3% anual en Cataluña. Entre 1993 y 2007, la tasa estandarizada varió de 34,8 a 23,3 por 100.000 mujeres. Barcelona ciutat presentó unas tasas de mortalidad más elevadas que las regiones Centre (ratio de tasas (RT)=0,87), Costa de Ponent (RT=0,89), Tarragona (RT=0,9) y Lleida (RT=0,915), pero estas diferencias tendieron a desaparecer. No se observaron cambios de tendencia en la evolución de la mortalidad de las regiones, excepto en la región Centre. Durante los años 1990 Barcelona ciutat presentó unos porcentajes de utilización de mamografía periódica del 36,1% de las mujeres de 40-74 años, en la encuesta de 1994, la región Centre (23,7%) y Costa de Ponent (25,2%). Conclusiones: La progresiva utilización de mamografía periódica y la disminución de la mortalidad por CM fueron similares en las regiones sanitarias de Cataluña(AU)</dc:description>
+<dc:source>Rev Esp Salud Publica;84(6): 691-703, nov.-dic.2010. tab, ilus</dc:source>
+<dc:identifier>ibc-83016</dc:identifier>
+<dc:title xml:lang="es">Evolución de la mortalidad por cáncer de mama y diseminación de la mamografía de cribado en Cataluña. Un análisis por regiones sanitarias</dc:title>
+<dc:subject>^d28136</dc:subject>
+<dc:subject>^d25123^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d1968^s22080</dc:subject>
+<dc:subject>^d24838</dc:subject>
+<dc:subject>^d23307^s22074</dc:subject>
+<dc:subject>^d38340</dc:subject>
+<dc:subject>^d24419</dc:subject>
+<dc:subject>^d23307^s22083</dc:subject>
+<dc:subject>^d24538</dc:subject>
+<dc:subject>^d24811</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d25123^s22083</dc:subject>
+<dc:subject>^d28632^s22083</dc:subject>
+<dc:subject>^d23307^s22066</dc:subject>
+<dc:subject>^d1968^s22047</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201012</dc:date>
+</metadata>
+</record>
+</ibecs-document>

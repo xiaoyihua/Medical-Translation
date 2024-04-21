@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150216</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The concept of parallel measurements</dc:title>
+<dc:description xml:lang="en">Measures that have identical true scores and linearly experimentally independent errors that have equal variances are named parallel measurements (Lord &amp; Novick, 1968). Since the origin of the Classical Test Theory (CTT) the concept of parallel measurement has played a central role as a cornerstone of the concept and the estimation of reliability (Gulliksen, 1950; Lord &amp; Novick, 1968). The difficulties in finding such similar comparable measurements were early known, and some other concepts, wording different levels of comparability, were proposed. The purpose of these relaxed concepts of comparability was to find a higher level of empirical availability yet capable of sustaining a theoretical base for the reliability coefficient. Although Wilks (1946) and Jöreskog (1971) provided soft methods to determine if two measures are parallel tests, the classical concept of parallel measurements remains untested and its empirical possibility is far from clear. The aim of this paper is to trace the development of the concept of parallel measurements as a base for reliability and discuss some of its limitations (AU)</dc:description>
+<dc:creator>Melià, Josep L</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Las medidas que tienen puntuaciones verdaderas idénticas y errores linealmente independientes con varianzas iguales se denominan medidas paralelas (Lord &amp; Novick, 1968). Desde el origen de la Teoría Clásica de Tests el concepto de mediciones paralelas ha jugado un papel central como piedra angular del concepto y la estimación de la fiabilidad (Gulliksen, 1950; Lord &amp; Novick, 1968). Las dificultades para encontrar mediciones comparables tan semejantes fue pronto conocida proponiéndose otros conceptos que expresan diferentes grados de comparabilidad. El propósito de estos conceptos de comparabilidad relajada fue encontrar el mayor nivel de viabilidad empírica todavía capaz de sustentar la base teórica del coeficiente de fiabilidad. Aunque Wilks (1946) y Jöreskog (1971) aportaron métodos débiles para determinar si dos medidas son paralelas, el concepto clásico de mediciones paralelas permanece no testado y su posibilidad empírica no está clara. El propósito de este trabajo es trazar el desarrollo del concepto de mediciones paralelas como fundamento de la fiabilidad y discutir algunas de sus limitaciones (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);12(supl.2): 386-388, 2000.</dc:source>
+<dc:identifier>ibc-150216</dc:identifier>
+<dc:title xml:lang="es">La cuestión de las mediciones paralelas</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1544^s22039</dc:subject>
+<dc:subject>^d37676</dc:subject>
+<dc:subject>^d28575</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:subject>^d12018^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200000</dc:date>
+</metadata>
+</record>
+</ibecs-document>

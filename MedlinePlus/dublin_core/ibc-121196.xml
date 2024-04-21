@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-121196</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Patient handoffs: problems and solutions</dc:title>
+<dc:creator>López Álvarez, J</dc:creator>
+<dc:creator>Montero Ruiz, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:source>Rev. calid. asist;29(2): 116-117, mar.-abr. 2014.</dc:source>
+<dc:identifier>ibc-121196</dc:identifier>
+<dc:title xml:lang="es">Transferencias de responsabilidad entre médicos: problemas y soluciones</dc:title>
+<dc:subject>^d8670^s37748</dc:subject>
+<dc:subject>^d32466^s37748</dc:subject>
+<dc:subject>^d29638</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29004^s22018</dc:subject>
+<dc:subject>^d32466^s22045</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d11250</dc:subject>
+<dc:subject>^d13325</dc:subject>
+<dc:subject>^d32048^s22066</dc:subject>
+<dc:subject>^d32188</dc:subject>
+<dc:subject>^d33121^s37748</dc:subject>
+<dc:subject>^d11251</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201404</dc:date>
+</metadata>
+</record>
+</ibecs-document>

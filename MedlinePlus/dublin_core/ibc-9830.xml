@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-9830</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Fever due to isoniazid</dc:title>
+<dc:creator>Furest Carrasco, I</dc:creator>
+<dc:creator>Marín González, M</dc:creator>
+<dc:creator>Herrejón Silvestre, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">No disponible</dc:description>
+<dc:source>Arch Bronconeumol;36(2): 112-112, feb. 2000.</dc:source>
+<dc:identifier>ibc-9830</dc:identifier>
+<dc:title xml:lang="es">Fiebre por isoniacida</dc:title>
+<dc:subject>^d5444</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d999</dc:subject>
+<dc:subject>^d7705</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200002</dc:date>
+</metadata>
+</record>
+</ibecs-document>

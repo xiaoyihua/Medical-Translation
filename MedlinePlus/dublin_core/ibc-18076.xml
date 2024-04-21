@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-18076</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Evaluation of image quality and dose in thoracic spiral CT examinations in patients with pulmonary carcinoma. Preliminary results</dc:title>
+<dc:creator>Morán Penco, Pilar</dc:creator>
+<dc:creator>Cuevas Ibáñez, Alfredo</dc:creator>
+<dc:creator>Baeza Trujillo, Montserrat</dc:creator>
+<dc:creator>García Castaño, Begoña</dc:creator>
+<dc:creator>Arenas de Pablo, Ángel</dc:creator>
+<dc:creator>Gómez León, Nieves</dc:creator>
+<dc:creator>Morán Blanco, Luz María</dc:creator>
+<dc:creator>Calzado Cantera, Alfonso</dc:creator>
+<dc:creator>Turrero Nogués, Agustín</dc:creator>
+<dc:creator>Rodríguez González, Ricardo</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Hemos aplicado los criterios de calidad de TC definidos en la Guía Europea a una muestra de exámenes de TC de tórax -para la indicación de carcinoma de pulmón- de cinco centros de la Comunidad de Madrid que disponen de equipos de TC helicoidal. Los exámenes seleccionados han sido evaluados independientemente por cinco radiólogos para determinar el grado de cumplimiento de los criterios de calidad de imagen definidos en la Guía para Exámenes de Tórax General. Las medidas dosimétricas efectuadas en paralelo han servido para estimar los valores del índice de dosis de TC (CTDIw), del producto dosis-longitud (DLP) y de la dosis efectiva para cada paciente. Los resultados muestran un alto cumplimiento global de los criterios de calidad (96 por ciento) con promedios por centro entre el 94 por ciento (en dos centros) y el 98 por ciento (en tres centros). Hay 10 de 16 criterios que se cumplen en todos los exámenes de la muestra; los que no se cumplen sistemáticamente son: dos de visualización (1,1 y 1,4), con 92-96 por ciento de cumplimiento, y cuatro de reproducción crítica (2,6; 2,8; 2,9 y 2,10), con porcentajes de cumplimiento entre el 91 por ciento y el 96 por ciento. Los valores medios por centro del CTDIw están en el intervalo 12,9-19,1 mGy; los del DLP entre 263 y 577 mGy-cm y los de la dosis efectiva entre 4,2 y 9,2 mSv. La correlación DLP-calidad de imagen en los centros con mayor calidad de imagen ha sido nula en dos de ellos y moderada directa en el tercero. En los dos centros con menor calidad de imagen la correlación ha sido moderada inversa en uno y débil directa en otro.(AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);44(6): 229-236, sept. 2002. ilus, tab</dc:source>
+<dc:identifier>ibc-18076</dc:identifier>
+<dc:title xml:lang="es">Evaluación de la calidad de imagen y de la dosis en exámenes de TC helicoidal de tórax en pacientes con carcinoma de pulmón. Resultados preliminares</dc:title>
+<dc:subject>^d4943^s22055</dc:subject>
+<dc:subject>^d24339^s22045</dc:subject>
+<dc:subject>^d8345^s29166</dc:subject>
+<dc:subject>^d4943^s22048</dc:subject>
+<dc:subject>^d27977</dc:subject>
+<dc:subject>^d8352^s29166</dc:subject>
+<dc:subject>^d22878^s22045</dc:subject>
+<dc:subject>^d22878^s22011</dc:subject>
+<dc:subject>^d22878^s22066</dc:subject>
+<dc:subject>^d22878^s22048</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d12266</dc:subject>
+<dc:subject>^d12223</dc:subject>
+<dc:subject>^d12268</dc:subject>
+<dc:subject>^d8345^s22053</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200209</dc:date>
+</metadata>
+</record>
+</ibecs-document>

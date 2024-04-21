@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-105631</identifier>
+<setSpec>0214-1582</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Imaging characteristics of triple-negative carcinoma</dc:title>
+<dc:description xml:lang="en">Triple-negative breast cancer is a tumour subtype that sometimes cannot be seen on mammograms or ultrasound. Furthermore, its appearance using these techniques often suggests a benign lesion. However, triple-negative tumours can always be seen on MRI and always have malignant signs using this technique. Their morphological characteristics and behaviour are different from other tumour subtypes. Triple-negative tumours have a distinct pattern of recurrence, thus a different approach to follow-up is proposed(AU)</dc:description>
+<dc:creator>Tortajada Giménez, Lidia</dc:creator>
+<dc:creator>Sentís Crivellé, Melcior</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El cáncer de mama triple negativo es un subtipo tumoral que puede no visualizarse en la mamografía y en la ecografía, donde frecuentemente presenta hallazgos indicativos de benignidad, mientras que todas las lesiones se visualizan en la resonancia magnética con hallazgos asociados a malignidad y con características morfológicas diferentes en otros subtipos tumorales. El patrón de recidiva de estos tumores también es distinto, por lo que cabe plantearse un esquema de seguimiento diferente del utilizado de otros subtipos tumorales(AU)</dc:description>
+<dc:source>Rev. senol. patol. mamar. (Ed. impr.);25(1): 22-31, ene.-mar. 2012.</dc:source>
+<dc:identifier>ibc-105631</dc:identifier>
+<dc:title xml:lang="es">Características de imagen del carcinoma triple negativo</dc:title>
+<dc:subject>^d29141^s22066</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d1968^s29166</dc:subject>
+<dc:subject>^d22935^s22045</dc:subject>
+<dc:subject>^d2320^s22012</dc:subject>
+<dc:subject>^d2320^s29166</dc:subject>
+<dc:subject>^d22935^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d9557^s29166</dc:subject>
+<dc:subject>^d23307^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201203</dc:date>
+</metadata>
+</record>
+</ibecs-document>

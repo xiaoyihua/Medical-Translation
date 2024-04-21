@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-141679</identifier>
+<setSpec>0214-1582</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">A multiparametric predictive model of axillary status in patients with breast cancer: total tumoral load and molecular signature. A multicenter study</dc:title>
+<dc:description xml:lang="en">Objective. To evaluate the combined impact of each of the immunohistochemically surrogated molecular signatures (PM) of breast cancer subtype along with the total tumor load (CTT) of the sentinel node (SN) as a predictor of non-SN metastatic involvement. Methods. We included 373 patients diagnosed with infiltrating breast cancer with metastatic SN who underwent subsequent axillary lymph node dissection (ALND) from six hospitals. The surrogate MS for each case was defined as per ST Gallen definitions. A multivariate analysis was conducted to estimate the predictive model and normal kernel functions to fit the density distributions of the total tumoral load for each molecular signatures. Results. Metastatic involvement of the axillary lymph node was identified in 66% of the patients. We obtained seven different predictive models with an area under curve (AUC) ranging from 0.65 to 0.77. The best model was based on the CTT, histological type, tumor size, stage, lymphatic invasion, MS, and the total number of SN. The greatest differences in the density functions of the CTT were found in the PM for positive and negative cases of the BH, TN and HER2 subtypes. Conclusions. The inclusion of PM in the multivariate model improved the AUC, especially when the total number of sentinel nodes were included. Differences were observed in the impact of the CTT among the different smolecular profiles subtypes (AU)</dc:description>
+<dc:creator>Burgués, Octavi</dc:creator>
+<dc:creator>Ruiz, Irene</dc:creator>
+<dc:creator>Ramírez, Ana Karina</dc:creator>
+<dc:creator>Tormos, Bárbara</dc:creator>
+<dc:creator>Cano Muñoz, Rafael</dc:creator>
+<dc:creator>Rodrigo, Maximiliano</dc:creator>
+<dc:creator>Bernet, Laia</dc:creator>
+<dc:creator>Cámara de las Heras, Juan M. de la</dc:creator>
+<dc:creator>García-Gómez, Juan Miguel</dc:creator>
+<dc:creator>Piñero, Antonio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. El objetivo de nuestro estudio es evaluar el impacto combinado de cada uno de los perfiles moleculares del cáncer de mama, subrogados inmunohistoquímicamente junto con la carga tumoral total del ganglio centinela como predictores de afectación metastásica en los ganglios axilares no centinela. Material y métodos. Se incluyeron 373 pacientes de carcinoma infiltrante de mama con ganglio centinela metastásico y linfadenectomía axilar, procedentes de seis hospitales españoles. Se aplicaron los criterios de ST Gallen para definir el perfil molecular. Se realizó un análisis multivariante para definir diferentes modelos predictivos y se estudiaron las distribuciones de densidad de probabilidad de la carga tumoral para cada perfil molecular en los casos con axila metastásica y no metastásica en los ganglios no centinela. Resultados. Hubo un 66% de linfadenectomías axilares metastásicas. Se obtuvieron 7 modelos predictivos cuyas áreas bajo la curva ROC oscilaron entre 0,65 y 0,77. El mejor modelo fue el basado en la carga tumoral total, tipo histológico, diámetro tumoral, grado, invasión linfovascular, perfil molecular y número total de ganglios centinela. Las mayores diferencias de densidad de probabilidad de la carga tumoral total se producen entre las distribuciones de casos positivos y negativos de los perfiles moleculares BH, TN y HER2. Conclusión. La inclusión del perfil molecular en el modelo mejora el área bajo la curva ROC, especialmente si se incluye también el número total de cganglios centinela. Se observan diferencias entre los distintos perfiles moleculares para el valor predictivo de la carga tumoral total (AU)</dc:description>
+<dc:source>Rev. senol. patol. mamar. (Ed. impr.);28(3): 96-104, sept. 2015. tab, ilus</dc:source>
+<dc:identifier>ibc-141679</dc:identifier>
+<dc:title xml:lang="es">Modelo predictivo multiparamétrico del estatus axilar en pacientes con cáncer de mama: carga tumoral total y perfil molecular. Estudio multicéntrico</dc:title>
+<dc:subject>^d1968^s22038</dc:subject>
+<dc:subject>^d8374^s22011</dc:subject>
+<dc:subject>^d5937^s22038</dc:subject>
+<dc:subject>^d8374^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29640</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d9555^s22033</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d1968^s22080</dc:subject>
+<dc:subject>^d9555^s22038</dc:subject>
+<dc:subject>^d1968^s22011</dc:subject>
+<dc:subject>^d5937^s22033</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201509</dc:date>
+</metadata>
+</record>
+</ibecs-document>

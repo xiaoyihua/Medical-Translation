@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-156197</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Assessment of three risk adjustment systems as predictors of the consumption of medicines and medical supplies at polyvalent hospitalization units. Spain</dc:title>
+<dc:description xml:lang="en">Background: The use of medicines and medical supplies is a significant component of health expenditure, linked to healthcare quality and efficient resource allocation. This study aimed to evaluate three risk adjustment systems predictive power of the consumption of medicines and medical supplies at polyvalent hospitalization units (PHU). Methods: This is an observational, retrospective study of the resources utilization in PHU between 2010 and 2013. We fitted linear regression models and evaluated their goodness of fit for three different predictors: Charlson Comorbidity Index (CCI), All Patients DRG (AP-DRG) and All Patients Refined DRG (APR-DRG) relative weights, and each one of them corrected by the length of stay. We analyzed hospitalization episodes included in the Minimum Basic Data Set (MBDS) from Fuenlabrada University Hospital. Data about the use of medicines and medical supplies were obtained from pharmacy and supply chain management information systems. Results: Significant correlation was found between the annual consumption and the predictors considered (r=0.879 for CCI; r=0.622 for AP-DRG and r=0.514 for APR-DRG; p&lt;0.01). The CCI corrected by length of stay was the variable that best fit presented (&amp;#7772;2=0.863; p&lt;0.001). Conclusions: The best predictive ability of CCI indicates that resource utilization depends more of the concurrent presence of additional pathology than the case mix calculated for iso-resource groups (AU)</dc:description>
+<dc:creator>Mera Flores, Ana María</dc:creator>
+<dc:creator>Bernal Sobrino, José Luis</dc:creator>
+<dc:creator>Busto Bonifaz, Sebastián del</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamentos: El uso de medicamentos y productos sanitarios constituye un componente significativo del gasto sanitario, vinculado con la calidad de la atención y la asignación eficiente de los recursos. Este estudio tuvo por objetivo evaluar en tres sistemas de ajuste de riesgos la capacidad predictiva del consumo de medicamentos y productos sanitarios de los sujetos ingresados en unidades polivalentes de hospitalización. Métodos: Estudio de los consumos de las unidades polivalentes de hospitalización del Hospital de Fuenlabrada entre 2010 y 2013, utilizando información de las aplicaciones de farmacia y suministros y el Conjunto Mínimo de Datos Básicos. Se ajustaron modelos de regresión lineal para el índice de Comorbilidad de Charlson (ICH) y el peso medio de los Grupos Relacionados por el Diagnóstico All Patients (AP-GRD) y All Patiens Refined (APR_GRD), cada uno de ellos corregidos por el número de estancias. Resultados: Se comprobó la existencia de correlación estadísticamente significativa entre los consumos anuales y los predictores considerados (los coeficientes de Pearson fueron r=0,879 para ICH; r=0,622 para AP-GRD, y r=0,514 para APR-GRD; p&lt;0,01). ICH corregido por el número de estancias fue la variable que mejor ajuste presentó para la trasformación logarítmica de los consumos (&amp;#7772;2=0,863; p&lt; 0,001). Conclusiones: La mayor capacidad predictiva del índice de comorbilidad de Charlson indica que el consumo de recursos depende más de la presencia concurrente de patología que de la complejidad de la casuística estimada para grupos isoconsumo, aun cuando se considere la gravedad o se corrija la complejidad resultante por la duración del episodio (AU)</dc:description>
+<dc:source>Rev Esp Salud Publica;90: 0-0, 2016. tab, graf</dc:source>
+<dc:identifier>ibc-156197</dc:identifier>
+<dc:title xml:lang="es">Evaluación de tres sistemas de ajuste de riesgo como predictores del consumo de medicamentos y productos sanitarios en unidades polivalentes de hospitalización</dc:title>
+<dc:subject>^d30327^s22083</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d33939^s22045</dc:subject>
+<dc:subject>^d24572^s22066</dc:subject>
+<dc:subject>^d32016</dc:subject>
+<dc:subject>^d12224^s22083</dc:subject>
+<dc:subject>^d4422^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29453^s22083</dc:subject>
+<dc:subject>^d4943^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201600</dc:date>
+</metadata>
+</record>
+</ibecs-document>

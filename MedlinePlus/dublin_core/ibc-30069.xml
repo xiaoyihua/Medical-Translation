@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-30069</identifier>
+<setSpec>1138-9672</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Occupational injury incidences comparisons according to the Active Workforce Survey and the Social Security System Register</dc:title>
+<dc:creator>Catot, N</dc:creator>
+<dc:creator>Benavides, F. G</dc:creator>
+<dc:creator>Giráldez, M. T</dc:creator>
+<dc:creator>Delclós, J</dc:creator>
+<dc:creator>Castejón, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>SM Group</dc:publisher>
+<dc:description xml:lang="es">Objetivos. El cálculo de la incidencia de las lesiones por accidentes de trabajo (LAT) debe basarse, idealmente, en el registro de Afiliados a la Seguridad Social (RASS), pero dada la dificultad de obtenerlo y la ausencia de variables como la ocupación, es habitual utilizar como denominador los datos de asalariados de la Encuesta de Población Activa (EPA). El objetivo de este estudio fue comparar la incidencia de LAT mortales y no mortales con baja en jornada en el año 2000, estimada con ambos denominadores. Material y métodos. Las incidencias para el RASS y la EPA se compararon según las variables de sexo, edad, comunidad autónoma y actividad económica. Para valorar la repercusión de los denominadores en la comparación de las incidencias según las variables estudiadas se utilizó la prueba de Spearman. Resultados. El número de trabajadores asalariados, fue, según la EPA, un 8 por ciento menos que el número correspondientes al RASS. La incidencia a partir de laEPA sobreestima generalmente a la calculada con el RASS, encontrando las mayores diferencias en actividades económicas como la "Agricultura, ganadería, caza y silvicultura" (69,2 por ciento), "Pesca" (38,4 por ciento), "Comercio y reparación de vehículos" (21,1 por ciento) y "Actividades inmobiliarias y alquiler de servicios" (42 por ciento). Para las restantes variables las diferencias fueron menores. El orden de magnitud en todas las comparaciones fue parecido en ambas series de incidencias, tanto en las no mortales como en las mortales. Conclusiones. La incidencia de LAT fue generalmente más elevada si se calcula a partir de los datos de la EPA que si se estima a partir de los datos del RASS, dado que los datos de la EPA utilizados se refieren a los asalariados, dejando fuera a los trabajadores dados de alta en los regímenes especiales del Mar, Agricultura y Minería del Carbón. Sin embargo, la comparación según las variables analizadas se ve poco afectada, ya que el orden de magnitud obtenido a partir de las incidencias fue parecido entre ambas series de incidencias (AU)</dc:description>
+<dc:source>Arch. prev. riesgos labor. (Ed. impr.);7(1): 16-21, ene. 2004. tab</dc:source>
+<dc:identifier>ibc-30069</dc:identifier>
+<dc:title xml:lang="es">Comparación de la incidencia de lesiones por accidente de trabajo según la Encuesta de Población Activa y el Registro de Afiliados a la Seguridad Social</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d15345^s22047</dc:subject>
+<dc:subject>^d23892^s22083</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d28583</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d27794</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d15345</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200401</dc:date>
+</metadata>
+</record>
+</ibecs-document>

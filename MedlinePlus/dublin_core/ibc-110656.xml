@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-110656</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Incorporation of geostatistical methodology for influenza surveillance in a sentinel network</dc:title>
+<dc:description xml:lang="en">Objectives: To evaluate geostatistical description of influenza data from the Valencian Sentinel Network (VSN) in Spain using the kriging method and to assess the possibility of incorporating this method into routine surveillance. Methods: We use influenza surveillance data on three influenza seasons (1997-1998, 1998-1999 and 1999-2000) from the VSN to construct a geocodified data matrix of the incidence of this disease. The geographic distribution was studied using the kriging method, which enables estimation of the incidence in a few strategically distributed points. Influenza isoincidence maps for each week were plotted. Cross validation was used to evaluate the method. Results: In most of the weeks, the values of reduced standard deviation and reduced mean were close to the optimal values (0 and 1, respectively). Out of range reduced standard deviation values were found in 12 of 20 weeks in the last season only. The estimation of rates in all three seasons showed coherence in spatial distribution and temporal evolution. Conclusions: In most situations the results were acceptable. The method does not requiere extra computer resources or an excessive amount of time and requires only annual adaptation. Becauseit is easy to use, the technique is appropriate for routine use but the accuracy of estimations could be improved by increasing the complexity of the model (AU)</dc:description>
+<dc:creator>Martínez-Beneito,  M. A</dc:creator>
+<dc:creator>Molins, T</dc:creator>
+<dc:creator>Abellán, J. J</dc:creator>
+<dc:creator>Peñalver, J</dc:creator>
+<dc:creator>Zurriaga, O</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Valorar la descripción geoestadística realizada de los datos de gripe recogidos a través de la Red Centinela Sanitaria de la Comunidad Valenciana (RCSCV) mediante la utilización del método kriging con la finalidad de evaluar la posibilidad de su incorporación a la vigilancia rutinaria Método: Se han utilizado los datos de vigilancia de gripe de la RCSCV en tres temporadas gripales (1997-1998, 1998-1999 y 1999-2000), construyéndose una matriz de datos de incidencia de gripe geocodificada. La distribución geográfica fue estudiada mediante la técnica geoestadística kriging, que permite estimar la incidencia de la enfermedad en cualquier punto del territorio, a partir de la incidencia observada en unos pocos puntos estratégicamente distribuidos. Se elaboraron mapas de curvas de isoincidencia de gripe para cada semana. La valoración de la técnica se realizó mediante validación cruzada. Resultados: En la mayoría de las semanas, los valores tanto de la desviación estándar (DE) reducida, como de la media reducida estuvieron cercanos a los valores considerados óptimos (0 o 1, respectivamente), y sólo en la última temporada se obtuvieron valores de la DE reducida alejados de los considerados como de buen ajuste en 12 de las 20 semanas. La estimación de tasas en todas las temporadas demostró una coherencia en su distribución espacial. También se observó coherencia en la evolución temporal. Conclusiones: En la mayoría de las situaciones los resultados pueden considerarse aceptables, no requiere recursos informáticos extraordinarios ni un empleo de tiempo excesivo, y necesita tan sólo una adaptación anual. Su facilidad de uso lo hace apto para su utilización como una técnica de rutina, pese a que puede mejorarse la precisión de las estimaciones, incrementando la complejidad del modelo (AU)</dc:description>
+<dc:source>Gac Sanit;16(4): 324-333, jul.-ago. 2002. ilus, tab</dc:source>
+<dc:identifier>ibc-110656</dc:identifier>
+<dc:title xml:lang="es">Incorporación de la metodología geoestadística a la vigilancia de la gripe en una red centinela</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d^s22052</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28441^s22049</dc:subject>
+<dc:subject>^d24884</dc:subject>
+<dc:subject>^d37724^s22074</dc:subject>
+<dc:subject>^d51281^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200208</dc:date>
+</metadata>
+</record>
+</ibecs-document>

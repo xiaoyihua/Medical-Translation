@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-29988</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Voltage-sources analysis in studies with foramen ovale electrodes</dc:title>
+<dc:description xml:lang="en">Introduction. Paroxysmal activity in medial temporal lobe epilepsy is originated in either hippocampal or parahippocampal regions. This activity can be directly recorded by foramen ovale electrodes. That paroxysmal activity will start from irritative or ictal areas. However, anatomo-functional relations between both regions are still debated. Objective. We describe a new physical very simple model which allows to directly analysis the anatomo-physiological relations between sources for interictal an ictal areas. Results. 1) The mathematical model allows to fit with minimum error and great precision the voltage sources originated from monopoles. 2) We can obtain this degree of precision with a matrix using an internodal distance of 0.1 mm (300 × 200 nodes) 3) Triplets of potentials with double sources -with equal or specially with inverse charges- have bigger error than monopolar charges. 4) Fitting real data obtained from a patient shows an error of 0.29 ± 0.17% for interictal and 0.54 ± 1.22 % and 2.84 ± 3.00 % for two seizures (mean ± SD) Conclusions. This model allows directly to know the relative anatomo-physiological relations between interictal and ictal sources in MTLE, which have a very important implications so for patho-physiological as therapeutics and outcome implications (AU)</dc:description>
+<dc:publisher>César Viguera</dc:publisher>
+<dc:description xml:lang="es">Introducción. La actividad paroxística en la epilepsia del lóbulo temporal medial tiene su origen en la región hipocámpica o parahipocámpica. Esta actividad puede registrarse directamente por medio de electrodos de foramen oval. Esta actividad paroxística tendrá su origen tanto en la región irritativa como en la de comienzo ictal. Sin embargo, la relación entre ambas es todavía objeto de debate.Objetivo. Se describe un modelo simple que permite el análisis directo de las relaciones anatomofuncionales entre los orígenes de la actividad interictal e ictal. Resultados. a) El modelo matemático permite el ajuste con un mínimo error y con gran precisión de fuentes de voltaje originadas por monopolos; b) Este ajuste se consigue con una matriz cuya distancia internodal es de 0,1mm (300 × 200 puntos) ;c) El ajuste de tripletes de potenciales con fuentes de voltaje dobles y, especialmente, dipolares produce errores en el ajuste que no se observan al utilizar el modelo monopolar; d)El ajuste a los datos reales obtenidos de un paciente muestra una gran precisión, con errores de la actividad interictal de 0,29 ñ 0,17 por ciento, mientras que para dos episodios ictales están en 0,54 ñ 1,22 y 2,84 ñ 3,00 por ciento (media ñ DE). Conclusiones. Se trata de un modelo que permite conocer directamente las relaciones relativas anatomofuncionales entre actividades interictales e ictales, lo que tiene importantes implicaciones, tanto fisiopatológicas como pronósticas y terapéuticas (AU)</dc:description>
+<dc:source>Rev Neurol;38(3): 209-216, feb. 2004. graf</dc:source>
+<dc:title xml:lang="es">Análisis de fuentes de voltaje en estudios con electrodos de foramen oval</dc:title>
+<dc:type>article</dc:type>
+<dc:creator>Pastor, J</dc:creator>
+<dc:creator>Rojo, P</dc:creator>
+<dc:creator>Sola, R. G</dc:creator>
+<dc:language>es</dc:language>
+<dc:identifier>ibc-29988</dc:identifier>
+<dc:subject>^d13484</dc:subject>
+<dc:subject>^d4632</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d37568</dc:subject>
+<dc:subject>^d4638</dc:subject>
+<dc:subject>^d4946</dc:subject>
+<dc:subject>^d9144</dc:subject>
+<dc:subject>^d4912</dc:subject>
+<dc:subject>^d208</dc:subject>
+<dc:date>200402</dc:date>
+</metadata>
+</record>
+</ibecs-document>

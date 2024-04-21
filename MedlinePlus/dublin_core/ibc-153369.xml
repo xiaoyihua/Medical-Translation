@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-153369</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Perception and attitudes of health professionals from a health area regarding influenza vaccination</dc:title>
+<dc:description xml:lang="en">Objective. Influenza is an infectious, acute and highly contagious disease, and vaccination remains the most effective prevention measure. Health professionals are considered at risk because of their daily exposure with patients. Vaccine coverage among health professionals in Spain is relatively low. The aim of this paper is to describe and analyse the perception and attitudes about influenza vaccination among health professionals from a health care area. Method. A descriptive cross-sectional study was conducted using a web application method (EUSurvey). Data were analysed using descriptive, bivariate, and multivariate (logistic regression) analysis using R-project statistical software. Results. A total of 161 professionals (17.9%) responded to the online survey, 54.0% women (n = 87) and 45.9% men (n = 74). Influenza vaccination rate coverage among health professionals was 34.7%. The main reason reported by health professionals for getting vaccinated was to protect themselves (98.1%), to protect their family (72.6%), and to protect their patients (65.4%). On the other hand, the reasons for health professionals that reported not getting vaccinated was because of the lack of information about it (37.4%), fear of adverse reactions (22.2%), not having had time (14.1%), and considering that the vaccine does not work (14.1%). Multivariate analysis showed that the main factors for not getting vaccinated was to be female, type of service (administrative, medical-surgical and surgical), lack of information, and not been vaccinated before. Conclusions. In order to increase vaccine uptake among health care personnel, information on the benefits of influenza vaccinations must be increased. Vaccination strategies should be targeted at those groups with lower coverage and are at high risk (AU)</dc:description>
+<dc:creator>Santacruz-Hamer, V</dc:creator>
+<dc:creator>Oliva-Reina, I</dc:creator>
+<dc:creator>Porras-Povedano, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. La gripe es una enfermedad infecciosa, aguda y altamente contagiosa, siendo la vacunación la medida más eficaz para su prevención. Los profesionales sanitarios son personal de riesgo, por estar expuestos a posible contagio y estar en contacto con pacientes de riesgo, a pesar de ello las coberturas entre profesionales en nuestro país son relativamente bajas. Nuestro objetivo es describir y analizar la percepción y actitud de los profesionales de un área de salud frente a la vacunación antigripal. Método. Estudio transversal, mediante encuesta, de 17 preguntas, cumplimentándose online a través de la aplicación web EUSurvey. La población diana han sido todos los profesionales de nuestra área de salud. Se realizó análisis descriptivo, bivariante y multivariante (regresión logística) mediante software estadístico R-project. Resultados. Respondieron 161 profesionales del área (17,9%), 87 mujeres (54,0%) y 74 hombres (45,9%), con una cobertura vacunal del 34,7%. El principal motivo para vacunarse fue la protección propia (98,1%), frente a protección de familiares (72,6%) y pacientes (65,4%), mientras que para no vacunarse refirieron falta de información (37,4%), miedo a reacciones (22,2%), no haber tenido tiempo (14,1%) y considerar la vacuna ineficaz (14,1%). El análisis multivariante reflejó como principales factores para no vacunarse sexo femenino, tipo de servicio (administrativos, quirúrgicos y médico-quirúrgicos), falta de información y no haberse vacunado antes. Conclusiones. Debemos aumentar las campañas de información y dirigir las estrategias de vacunación principalmente a aquellos colectivos con menores coberturas, sin olvidarnos de los profesionales que sí se vacunan y que una vez captados suelen repetir anualmente (AU)</dc:description>
+<dc:source>Rev. calid. asist;31(3): 159-167, mayo-jun. 2016. tab</dc:source>
+<dc:identifier>ibc-153369</dc:identifier>
+<dc:title xml:lang="es">Percepción y actitud de los profesionales de un área de salud frente a vacunación antigripal</dc:title>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d51281^s22054</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23897</dc:subject>
+<dc:subject>^d28141</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d28608^s22074</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d23109^s22000</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:subject>^d29592^s22048</dc:subject>
+<dc:subject>^d29592^s22066</dc:subject>
+<dc:subject>^d51281^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201606</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-047443</identifier>
+<setSpec>1695-4033</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Procalcitonin for the diagnosis of neonatal sepsis of vertical transmission</dc:title>
+<dc:description xml:lang="en">Objective: To evaluate procalcitonin (PCT) as a diagnostic marker of neonatal sepsis of vertical transmission and to compare the results of PCT with those of the most widely used laboratory tests for sepsis.                 Patients and Methods: A prospective study was conducted in 136 blood samples from 69 newborn infants admitted to a neonatal department. PCT, C-reactive protein (CRP), leukocyte count, and the immature-to-total neutrophil ratio (I/T ratio) were measured. The PCT reference range of controls from 0 to 72 hours of life was constructed, and the diagnostic efficiency of the tests was calculated, with their 95 % confidence intervals (95 % CI).                 Results: This study included 35 controls, 24 neonates with noninfectious disorders, and 10 neonates with sepsis (5 with culture-proven sepsis). PCT, CRP, and the I/T ratio discriminated septic from nonseptic patients. Their areas under the ROC curve were 0.696 (p 5 0.009), 0.735 (p 5 0.002), and 0.703 (p 5 0.006), respectively, with no statistically significant differences. The accuracy of PCT, CRP, and leukocyte count improved after 24 hours of life with areas under the ROC curve of 0.813 (p 5 0.007), 0.826 (p 5 0.005), and 0.841 (p 5 0.003), respectively. Overall, PCT detected vertically transmitted sepsis with a sensitivity of 68.4 % (95 % CI: 46.0 %-84.6 %), specificity of 82.4 % (95 % CI: 72.2 %-89.4 %), positive likelihood ratio of 3.89 (95 % CI: 2.18 %-6.96 %), and negative likelihood ratio of 0.38 (95 % CI: 0.19 %-0.76 %), similar to those of CRP.                 Conclusions: PCT may be a useful marker for the diagnosis of vertically transmitted sepsis. Studies with larger sample sizes are required to establish the accuracy of PCT</dc:description>
+<dc:creator>Deschamps Mosquera, E. M</dc:creator>
+<dc:creator>López Sastre, J. B</dc:creator>
+<dc:creator>Coto Cotallo, G. D</dc:creator>
+<dc:creator>Crespo Hernández, M</dc:creator>
+<dc:creator>Pérez Solís, D</dc:creator>
+<dc:creator>Diéguez Junquera, M. A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Evaluar la utilidad de la procalcitonina (PCT) para el diagnóstico de sepsis neonatal de transmisión vertical y comparar sus resultados con los marcadores de sepsis más utilizados.                 Pacientes y métodos: Estudio prospectivo sobre 136 muestras de 69 recién nacidos ingresados en un servicio de neonatología. Se midieron la PCT, proteína C reactiva (PCR), recuento leucocitario e índice de neutrófilos inmaduros/totales (índice I/T). Se construyó el rango de normalidad de la PCT entre 0 y 72 h de vida y se calculó la eficacia diagnóstica de los marcadores de infección estudiados con sus intervalos de confianza del 95 % (IC 95 %).                 Resultados: Se incluyeron 35 controles, 24 neonatos con procesos no infecciosos y 10 diagnosticados de sepsis (cinco con confirmación bacteriológica). PCT, PCR e índice I/T mostraron capacidad diagnóstica, con áreas bajo la curva COR de 0,696 (p 5 0,009), 0,735 (p 5 0,002) y 0,703 (p 5 0,006), respectivamente, sin diferencias estadísticamente significativas. El rendimiento mejoró a partir de las 24 h de vida para PCT, PCR y recuento leucocitario, con áreas bajo la curva COR de 0,813 (p 5 0,007), 0,826 (p 5 0,005) y 0,841 (p 5 0,003), respectivamente. Globalmente la PCT detectó sepsis de transmisión vertical con sensibilidad del 68,4 % (IC 95 %: 46,0-84,6), especificidad 82,4 % (IC 95 %: 72,2-89,4), cociente de probabilidades del positivo 3,89 (IC 95 %: 2,18-6,96) y cociente de probabilidades del negativo 0,38 (IC 95 %: 0,19-0,76), similares a la PCR.                 Conclusiones: La PCT puede ser una herramienta útil para el diagnóstico de sepsis de transmisión vertical. Es necesario disponer de estudios con mayor número de pacientes</dc:description>
+<dc:source>An Pediatr (Barc);64(4): 341-348, abr. 2006. ilus, tab</dc:source>
+<dc:identifier>ibc-047443</dc:identifier>
+<dc:title xml:lang="es">Procalcitonina para el diagnóstico de sepsis neonatal de transmisión vertical</dc:title>
+<dc:subject>^d23568^s22062</dc:subject>
+<dc:subject>^d32282</dc:subject>
+<dc:subject>^d32031^s22062</dc:subject>
+<dc:subject>^d11943^s22062</dc:subject>
+<dc:subject>^d22226</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d32031^s22069</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d32031^s22016</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d22372</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200604</dc:date>
+</metadata>
+</record>
+</ibecs-document>

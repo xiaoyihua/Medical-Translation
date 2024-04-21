@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-10954</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Validation of a telephone questionannaire for Ischemic Cardiopathy in Emergency Healt Services</dc:title>
+<dc:creator>Navarro Pérez, Pilar</dc:creator>
+<dc:creator>Jjiménez Moral, Gabriel</dc:creator>
+<dc:creator>Caraballo Daza, Ramón</dc:creator>
+<dc:creator>Martín Castro, Carmen</dc:creator>
+<dc:creator>Martín Vázquez, J. Manuel</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Fundamento: Ante la relevancia en la toma de decisiones en los centros de coordinación de una empresa de emergencias sanitarias, disponer de un instrumento (protocolo telefónico) científicamente validado permitiría una más adecuada asignación de recursos prioritarios, Unidad de Cuidados Intensivos, a estos pacientes demandantes de asistencia emergente. Esto es especialmente importante en los casos de cardiopatía isquémica, en los que una rápida actuación mejorará la supervivencia y calidad de vida posterior. El objetivo de este estudio ha sido la validación de un protocolo telefónico para cardiopatía isquémica en emergencias sanitarias. Material y métodos: Diseño: Estudio transversal de base extrahospitalaria. Ámbito de estudio: El estudio se ha realizado en cuatro provincias andaluzas (Almería, Cádiz, Granada y Jaén) de la Empresa Pública de Emergencias Sanitarias. Sujetos de estudio: La muestra objeto del estudio ha estado constituida por 736 pacientes con dolor torácico tomados de una muestra mayor constituida por 13.689 llamadas asistenciales a través de la línea 061. Instrumentalización: Se ha diseñado un cuestionario mediante un comité de 12 expertos. El cuestionario se le ha realizado a todas las llamadas asistenciales recibidas en los cuatro centros de coordinación que han participado en el estudio. Posteriormente mediante registros hospitalarios se ha realizado una identificación de casos diagnosticados de cardiopatía isquémica (Infarto agudo de miocardio y/o angina inestable). Se ha construido un modelo, mediante regresión logística, determinando su calibración (utilizando el test de Hosmer-Lemeshow) y su discriminación estudiando el área bajo la Curva ROC. Resultados: Se ha obtenido un protocolo final según modelo de regresión logística en el que se incluyen las siguientes seis variables: Presencia de antecedentes de cardiopatía isquémica, Edad mayor de 40 años, Dolor torácico irradiado a brazo izquierdo, Presencia de síntomas vegetativos entre un conjunto multisintomático, Disminución del dolor torácico tras la toma de nitritos y Sexo. El test de calibración presentó una 2 de 4,3613 con p=0,7374. Para la discriminación se ha calculado el área bajo la curva ROC (curva de rendimiento diagnóstico), obteniendo un área de 0,6904 y p&lt;0,05.Conclusiones: El protocolo propuesto según modelo calibra y discrimina bien, selecciona adecuadamente a los pacientes con cardiopatía isquémica de aquellos que no la presenta (AU)</dc:description>
+<dc:source>Rev. calid. asist;16(1): 15-21, ene. 2001. tab, ilus</dc:source>
+<dc:identifier>ibc-10954</dc:identifier>
+<dc:title xml:lang="es">Validación de un protocolo telefónico para cardiopatía isquémica en emergencias sanitarias</dc:title>
+<dc:subject>^d30650^s22080</dc:subject>
+<dc:subject>^d23674^s22011</dc:subject>
+<dc:subject>^d23674^s22055</dc:subject>
+<dc:subject>^d23674^s22074</dc:subject>
+<dc:subject>^d28634^s22045</dc:subject>
+<dc:subject>^d14067^s22083</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d4705</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:subject>^d27977^s22048</dc:subject>
+<dc:subject>^d14067^s22048</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d23674^s22039</dc:subject>
+<dc:subject>^d23674^s22066</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d27977^s22011</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d28608^s22074</dc:subject>
+<dc:subject>^d14067^s22055</dc:subject>
+<dc:subject>^d30650^s22016</dc:subject>
+<dc:subject>^d14067^s22074</dc:subject>
+<dc:subject>^d4710^s22045</dc:subject>
+<dc:subject>^d4710^s22048</dc:subject>
+<dc:subject>^d23674^s22049</dc:subject>
+<dc:subject>^d4707^s22045</dc:subject>
+<dc:subject>^d23674^s22048</dc:subject>
+<dc:subject>^d35256</dc:subject>
+<dc:subject>^d4707^s22048</dc:subject>
+<dc:subject>^d14067^s22039</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200101</dc:date>
+</metadata>
+</record>
+</ibecs-document>

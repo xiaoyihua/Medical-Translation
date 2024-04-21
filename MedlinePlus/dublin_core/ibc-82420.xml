@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-82420</identifier>
+<setSpec>1699-258X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Reliability and reproducibility of a morpho-textural image analysis method over a patellar ligament ultrasonography</dc:title>
+<dc:description xml:lang="en">Objective. Image analysis techniques over ultrasonograms may be useful to extract quantitative information. Because ecography and the selection of the area of interest are technician-dependent, the objective of this work was to calculate the reliability and the reproducibility of the analysis method. Material and methods. Test-retest reliability study on 60 cross-sectional patellar ligament ultrasonograms on 1cm of patella were carried out. Sonosite Titan L-38 (5&#150;10MHz) and the Image analysis software J v1.40 were used. Morphometric variables were: perimeter, area, width, thickness, and mean echogenity; textural variables were: uniformity, homogeneity and entropy. The intraclass correlation coefficient (ICC) was calculated with a confidence interval of 95%. Results. Intraclass correlation coefficients over 0,70 were found, with an agreement ranging from good to very good in all of the variables both for the intra ecography and inter ecography studies. Conclusion. Very good levels of reliability and internal consistency were seen, demonstrating that from the statistical point of view, the variability introduced by the technician is not significant. This method can be taken as a reference to analyze the reliability between several ultrasonographers(AU)</dc:description>
+<dc:creator>Ríos-Díaz, José</dc:creator>
+<dc:creator>Baño Aledo, María Elena del</dc:creator>
+<dc:creator>Martínez-Payá, Jacinto J</dc:creator>
+<dc:creator>Groot Ferrando, Ana de</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos. La aplicación de ecografía cuantitativa sobre el tejido tendinoso puede resultar de utilidad pero es necesario conocer la fiabilidad tanto del proceso de la toma ecográfica como de la selección de las regiones para el análisis. Los objetivos del trabajo fueron calcular la fiabilidad y reproducibilidad del método de análisis morfotextural intra-ecografía e interecografía del tendón rotuliano. Material y métodos. Estudio de concordancia del tipo testretest sobre 120 ecografías transversales del tendón rotuliano a 1cm del pico de la rótula, con un ecógrafo Sonosite Titan y sonda L-38 (5&#150;10MHz) y el software de análisis Image J v1.40. Se calcularon variables morfométricas: perímetro, área, anchura, grosor y ecogenicidad media; y texturales: uniformidad, homogeneidad y entropía. Se calculó el coeficiente de correlación intraclase (CCI) junto con las representaciones gráficas de Bland con un IC del 95%. Resultados. Se encontraron coeficientes de correlación intraclase con valores superiores a 0,70, con fuerza de la concordancia entre buena y muy buena en todas las variables y tanto en el estudio intraecografía como en el estudio interecografía. Conclusión. La fiabilidad del método fue buena por lo que la variabilidad introducida por los exploradores no es significativa y el método es potencialmente válido para el estudio y cuantificación ecográfica del tejido tendinoso(AU)</dc:description>
+<dc:source>Reumatol. clín. (Barc.);6(6): 278-284, nov.-dic.2010. tab, ilus</dc:source>
+<dc:identifier>ibc-82420</dc:identifier>
+<dc:title xml:lang="es">Fiabilidad y reproducibilidad de un nuevo método de análisis morfotextural de imágenes ecográficas del tendón rotuliano</dc:title>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d29304^s22074</dc:subject>
+<dc:subject>^d32016</dc:subject>
+<dc:subject>^d31206^s29166</dc:subject>
+<dc:subject>^d7435</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d14088^s29166</dc:subject>
+<dc:subject>^d29304^s22045</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201012</dc:date>
+</metadata>
+</record>
+</ibecs-document>

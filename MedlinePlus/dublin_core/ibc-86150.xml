@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-86150</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Semiautomatic quantification of left and right ventricular function in cardiac magnetic resonance imaging: a preliminary study</dc:title>
+<dc:description xml:lang="en">Objectives. The aim of this study was to compare a semiautomatic segmentation method to quantify the function of both ventricles in magnetic resonance imaging (MRI) with the manual tracing method. Material and methods. We examined 17 patients with diverse cardiovascular diseases on a 1.5 Tesla MRI unit (Magnetom Symphony Quantum; Siemens Medical Systems, Erlangen, Germany) using the following parameters: maximum gradient, 30 mT/m; and slew rate, 125 T/m/s. In all studies, we acquired images in cine mode in the short axis (SSFP, 6mm slice thickness, from the base to the ventricular apex) with breath holding. To reduce the user interaction, we used only one image per patient to initiate the semiautomatic method. The semiautomatic method was based on a specifically designed algorithm of regional growth and border detection. We quantified the end-diastolic volume (EDV), end-systolic volume (ESV), and the ejection fraction (EF) for both ventricles in all patients. Results. No significant differences between the two segmentation techniques were found in the quantification of either ventricle (p&gt;0.05). The difference in the volumes, although nearly significant, are clinically irrelevant. The correlation for the estimation of left ventricular function was excellent (r&gt;0.9), and the correlation for the estimation of right ventricular function was good (r&gt;0.7). Conclusions. Our semiautomatic segmentation method enables the function of both ventricles to be quantified as accurately as the conventional method(AU)</dc:description>
+<dc:creator>Martínez Monzonís, A</dc:creator>
+<dc:creator>Masip Capdevila, L. R</dc:creator>
+<dc:creator>García Tahoces, P</dc:creator>
+<dc:creator>Vidal Carreira, J. J</dc:creator>
+<dc:creator>Suárez Cuenca, J. J</dc:creator>
+<dc:creator>Souto Bayarri, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos. El objetivo de este estudio es comparar un método de segmentación semiautomático para cuantificar la función de ambos ventrículos en imágenes de resonancia magnética (RM), con el trazado manual de los contornos. Material y métodos. 17 pacientes con diversas enfermedades cardiovasculares fueron examinados con un equipo de RM de 1,5 Tesla (Magnetom Symphony Quantum; maximum gradient, 30 mT/m; slew rate, 125 T/m/s- Siemens Medical Systems, Erlangen, Germany). Se adquirieron, en todos los estudios, imágenes en modo cine, en eje corto (SSFP, 6mm de grosor de corte, en apnea, desde la base al ápex ventricular). Para reducir la interacción del usuario, solo se utilizó una imagen por paciente para iniciar el método semiautomático. Este método se basa en un algoritmo de crecimiento regional y detección de bordes específicamente diseñado. En todos los pacientes, se cuantificaron los volúmenes telediastólico (VTD), telesistólico (VTS) y la fracción de eyección (FE) de ambos ventrículos. Resultados. No se detectaron diferencias estadísticamente significativas en la cuantificación de la función de ambos ventrículos con los métodos de segmentación propuestos (p&gt;0,05). La diferencia de los volúmenes, aunque cercana a la significación, no conlleva un valor clínico relevante. La correlación al estimar la función ventricular izquierda fue excelente (r&gt;0,9), disminuyendo levemente para la función ventricular derecha (r&gt;0,7). Conclusiones. Nuestro método de segmentación semiautomático permite una cuantificación de la función de ambos ventrículos tan exacta como el método convencional(AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);53(1): 39-46, ene.-feb. 2011. tab, ilus</dc:source>
+<dc:identifier>ibc-86150</dc:identifier>
+<dc:title xml:lang="es">Cuantificación semiautomática de la función ventricular izquierda y derecha en resonancia magnética cardíaca. Estudio preliminar</dc:title>
+<dc:subject>^d29149</dc:subject>
+<dc:subject>^d6505^s29166</dc:subject>
+<dc:subject>^d6480^s29166</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d2359^s22016</dc:subject>
+<dc:subject>^d13706^s22022</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d52634^s29166</dc:subject>
+<dc:subject>^d22935^s22045</dc:subject>
+<dc:subject>^d22935^s22066</dc:subject>
+<dc:subject>^d6487^s22074</dc:subject>
+<dc:subject>^d22935^s22074</dc:subject>
+<dc:subject>^d2359^s29166</dc:subject>
+<dc:subject>^d22935^s22039</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201102</dc:date>
+</metadata>
+</record>
+</ibecs-document>

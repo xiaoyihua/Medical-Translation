@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-36564</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Longitudinal study of hospital readmissions for heart failure in Catalonia, 1996-1999</dc:title>
+<dc:creator>Tomàs, Lluís</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ministerio de Sanidad y Consumo</dc:publisher>
+<dc:description xml:lang="es">Fundamento: El objetivo de este trabajo es describir el fenómeno del reingreso para los pacientes con insuficiencia cardiaca (IC) e identificar algunos de sus factores clínicos asociados, mediante un estudio de seguimiento con datos administrativos. Métodos: Estudio longitudinal de reingresos por insuficiencia cardiaca congestiva en la población &gt;=65 años de Cataluña durante el período 1996-1999. Fuente de información: CMBD-AH del Servicio Catalán de la Salud. Definición de insuficiencia cardiaca congestiva, causa etiológica o precipitante y comorbilidad mediante la combinación de códigos CIE-9 de alta. Unidades de análisis: 'paciente con insuficiencia cardiaca congestiva' y 'población índice o cohorte'.Estadística: análisis de supervivencia (Kaplan-Meier y test de Logrank) y modelos de regresión (Cox). Resultados: La población de seguimiento integrada por 16.919 pacientes generó 44.283 altas (61,8 por ciento reingresos). El tiempo libre de reingreso (Mediana 'ME' en meses) y la comparación de las curvas de supervivencia es estadísticamente significativa con valores inferiores en las categorías: '65-74 años' (ME=21,6 meses); 'hombre' (23,3); 'región sanitaria 6' (16,3); 'hospital de referencia' (22,9) y 'EPOC pura asociada a la IC (17,7). El mayor riesgo de reingreso, ajustado por las otras variables de estudio, se observa para 'EPOC pura' [RR=1,03, (IC 95 por ciento: 1,02-1,04), p&lt;0,001], y 'Cardiopatía isquémica' [RR=1,03, (IC al 95 por ciento: 1,01-1,05), p=0,003]. Conclusiones: Este estudio muestra la complejidad clínica y patrones de utilización hospitalaria de los pacientes con insuficiencia cardiaca, identificando que los que padecen EPOC o cardiopatía isquémica constituyen grupos prioritarios de intervención asistencial y mostrando de este modo el potencial de las bases de datos administrativas para la planificación y la gestión clínica (AU)</dc:description>
+<dc:source>Rev Esp Salud Publica;78(2): 267-276, mar. 2004.</dc:source>
+<dc:identifier>ibc-36564</dc:identifier>
+<dc:title xml:lang="es">Estudio longitudinal de los reingresos en pacientes con insuficiencia cardiaca en Cataluña, 1996-1999</dc:title>
+<dc:subject>^d6486</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d10553</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d28630</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200403</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-6187</identifier>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Variables which influence the health related quality of life (HRQOL) of patients on renal replacement therapy (RRT)</dc:title>
+<dc:creator>Rebollo, P</dc:creator>
+<dc:creator>González, M. P</dc:creator>
+<dc:creator>Bobes, J</dc:creator>
+<dc:creator>Saiz, P</dc:creator>
+<dc:creator>Ortega, F</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Grupo Aula Médica, S.A.</dc:publisher>
+<dc:description xml:lang="es">Con el objetivo de identificar las variables sociodemográficas y clínicas asociadas con la calidad de vida relacionada con la salud (CVRS) de los pacientes con insuficiencia renal terminal (IRT) en tratamiento con hemodiálisis crónica (n = 170) o trasplante renal (n = 210) en nuestra región, se planteó el presente estudio transversal, utilizando para la evaluación de la CVRS el perfil de consecuencias de la enfermedad (PCE) y el cuestionario de salud SF-36 (SF-36). Además se recogieron datos sociodemográficos (edad de inicio de TRS, edad en la entrevista, sexo, nivel socioeconómico, nivel de educación, y situación de convivencia), datos clínicos (inclusión en lista de espera para trasplante renal, diagnóstico de enfermedad renal, tiempo en cada tipo de TRS, cifra sérica de hemoglobina, hematocrito, urea, creatinina, proteínas totales, albúmina, número de ingresos anuales y días de hospitalización durante el último año), un índice de comorbilidad y la puntuación en la escala de Karnofsky. Se empleó el método de la regresión logística en el PCE y la regresión lineal múltiple en el SF-36, para investigar qué variables de las estudiadas se asocian independientemente con la CVRS, ajustando paso a paso un modelo de regresión para cada dimensión del PCE, y cada puntuación sumaria del SF-36, en cada método de TRS (hemodiálisis y trasplante renal).A pesar de la asociación independiente con la CVRS que demostraron tener algunos de los factores estudiados (edad, sexo, nivel de educación, tiempo en diálisis, tiempo con trasplante renal, hospitalización durante el último año, comorbilidad y estado funcional evaluado por la escala de Karnofsky) parece que la puntuación en estos instrumentos de evaluación de la CVRS depende en gran medida de otros factores no estudiados, y se puede pensar por tanto, que estos instrumentos recogen una información del paciente que hasta el momento no se tenía en cuenta (AU)</dc:description>
+<dc:source>Nefrologia;20(2): 171-181, mar. 2000.</dc:source>
+<dc:identifier>ibc-6187</dc:identifier>
+<dc:title xml:lang="es">Factores asociados a la calidad de vida relacionada con la salud (CVRS) de los pacientes en terapia renal sustitutiva (TRS)</dc:title>
+<dc:subject>^d13344</dc:subject>
+<dc:subject>^d28449</dc:subject>
+<dc:subject>^d12225</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d31085</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200003</dc:date>
+</metadata>
+</record>
+</ibecs-document>

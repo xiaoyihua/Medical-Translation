@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-138285</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prognostic value of lipopolysaccharide binding protein and procalcitonin in patients with severe sepsis and septic shock admitted to intensive care</dc:title>
+<dc:description xml:lang="en">Aims 1) To assess the prognostic value of levels on admission and serial measurements of lipopolysaccharide binding protein (LBP) and procalcitonin (PCT) in relation to in-hospital mortality; and 2) to determine whether the addition of these parameters to severity scores (APACHE II and SOFA) is able to improve prognostic accuracy. Design A single-center, prospective observational study was carried out. Setting Intensive Care unit of a university hospital. Patients One hundred severe sepsis and septic shock patients were included. Data collected Demographic data, APACHE II and SOFA scores, PCT and LBP levels on admission and after 48hours, and in-hospital mortality. Results The best area under the curve for predicting in-hospital mortality corresponded to APACHE II on admission and SOFA after 48h (AUC ROC: 0.75 for both). PCT and LBP levels on admission and LBP clearance were not statistically different between in-hospital survivors and non-survivors. Only PCT clearance was higher among in-hospital survivors than in non-survivors (AUC ROC: 0.66). The combination of severity scores and PCT clearance did not result in superior areas under the curve. Conclusions LBP and PCT levels on admission and LBP clearance showed no prognostic value in severe sepsis and septic shock patients. Only PCT clearance was predictive of in-hospital mortality. The prognostic accuracy was significantly better for APACHE on admission and SOFA after 48h than for any of the analyzed biomarkers, and the addition of PCT clearance did not improve their prognostic value (AU)</dc:description>
+<dc:creator>Ortín-Freire, A</dc:creator>
+<dc:creator>Esteban-Torrella, P</dc:creator>
+<dc:creator>García de Guadiana-Romualdo, L. M</dc:creator>
+<dc:creator>Rebollo-Acebes, S</dc:creator>
+<dc:creator>Jiménez-Sánchez, R</dc:creator>
+<dc:creator>Trujillo-Santos, J</dc:creator>
+<dc:creator>Pedregosa Díaz, J</dc:creator>
+<dc:creator>Jiménez Santos, E</dc:creator>
+<dc:creator>Hernando-Holgado, A</dc:creator>
+<dc:creator>Viqueira-González, M</dc:creator>
+<dc:creator>Albaladejo-Otón, M. D</dc:creator>
+<dc:creator>Allegue-Gallego, J. M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos 1) Valorar la utilidad pronóstica de la determinación inicial y seriada de la proteína fijadora de lipopolisacáridos (LBP) y de la procalcitonina (PCT) y 2) evaluar si su adicción a los scores de gravedad mejoraría su valor pronóstico. Diseño Estudio prospectivo observacional. Ámbito Unidad de Cuidados Intensivos de un hospital general universitario. Pacientes Se incluyó a 100 pacientes ingresados por sepsis grave/shock séptico. Variables de interés Datos demográficos, APACHE II y SOFA, concentración de PCT y LBP inicial y a las 48 h y mortalidad hospitalaria. Resultados Los scores APACHE II al ingreso y SOFA a las 48 h presentaron el mayor rendimiento como predictores de mortalidad hospitalaria (AUC ROC: 0,75 para ambos). La concentración inicial de PCT y LBP y el aclaramiento de LBP fueron similares en pacientes supervivientes y fallecidos. Solo el aclaramiento de PCT fue superior en supervivientes respecto a los fallecidos (AUC ROC: 0,66). La combinación de los scores de gravedad con el aclaramiento de PCT no mejoró su valor pronóstico. Conclusiones La concentración inicial de LBP y de PCT y el aclaramiento de LBP no presentaron valor pronóstico en pacientes con sepsis grave/shock séptico. Solo el aclaramiento de PCT se comportó como predictor de mortalidad hospitalaria. El rendimiento de los scores APACHE II al ingreso y SOFA a las 48 h fue superior al de los biomarcadores analizados y la adición del aclaramiento de PCT no aumentó su valor pronóstico (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);39(4): 207-212, mayo 2015. ilus, tab</dc:source>
+<dc:identifier>ibc-138285</dc:identifier>
+<dc:title xml:lang="es">Valor pronóstico de la proteína fijadora de lipopolisácaridos y la procalcitonina en pacientes consepsis grave y shock séptico ingresados en una unidad de cuidados intensivos</dc:title>
+<dc:subject>^d2396^s22002</dc:subject>
+<dc:subject>^d31136^s22044</dc:subject>
+<dc:subject>^d30047</dc:subject>
+<dc:subject>^d28155^s22002</dc:subject>
+<dc:subject>^d23568^s22002</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201505</dc:date>
+</metadata>
+</record>
+</ibecs-document>

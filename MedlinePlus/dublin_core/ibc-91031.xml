@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-91031</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Technical Requirements of Spirometers in the Strategy for Guaranteeing the Access to Quality Spirometry</dc:title>
+<dc:description xml:lang="en">Access to quality spirometry is an essential objective in order to be able to minimize the underdiagnosisof respiratory diseases, especially in those that are most frequent, such as COPD and asthma. Thisobjective can be reached in the short term, but it requires the simultaneous integration of differentstrategies: training of the health-care professionals who perform spirometry, definition of standards forthe transmission of the information, technical requirements for acquiring apparatuses and the correctinterpretation of the results.This present study shows the use of standards for the electronic exchange of clinical information.In order to normalize the treatment of the data related with spirometry and to enable the exchangeof information, we have used the standard CDA R2 (Clinical Document Architecture, Release 2) of HL7(Health Level Seven), version 3. HL7 is a product by HL7 International, a non-profit organization thatdeals in the production of standards in the health-care setting in order to facilitate interoperability.Furthermore, defining these standards is essential for ensuring that they are adopted by spirometermanufacturers. Be means of this process, the base is set for facilitating access to spirometry at the healthcarelevel, while at the same time it is a fundamental technical element for designing quality controlprograms of the explorations (AU)</dc:description>
+<dc:creator>Burgos, Felip</dc:creator>
+<dc:creator>Salas, Tomàs</dc:creator>
+<dc:creator>Muñoz, Pilar</dc:creator>
+<dc:creator>Gallego, Carlos</dc:creator>
+<dc:creator>Escarrabill, Joan</dc:creator>
+<dc:creator>Rubies, Carles</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El acceso a una espirometría de calidad es un objetivo imprescindible para poder minimizar el infradiagnósticode las enfermedades respiratorias, especialmente en las más frecuentes, como la EPOC y el asma.Este objetivo es alcanzable a corto plazo pero requiere la integración simultánea de estrategias diversas:formación de los profesionales que deben realizar la espirometría, definición de estándares para la transmisiónde la información, programa de control de calidad requerimientos técnicos en las adquisicionesde aparatos y la correcta interpretación de los resultados.El presente trabajo muestra la utilización de estándares para el intercambio electrónico de informaciónclínica. Para normalizar el tratamiento de los datos relacionados con la espirometría y permitir elintercambio de información se ha utilizado el estándar CDA R2 (Clinical Document Architecture, Release2) de HL7 (Health Level Seven) versión 3. HL7 es un producto de HL7 International, una organizaciónno lucrativa que se dedica a la producción de estándares en el ámbito de la salud para facilitar lainteroperabilidad.La definición de este estándar, además, es imprescindible para asegurar la adopción del mismo porparte de los fabricantes de espirómetros. Mediante este proceso se ponen las bases para facilitar el accesoa la espirometría desde todos los ámbitos asistenciales y, a su vez, es un elemento técnico fundamentalpara dise&#152;nar los programas de control de calidad de las exploraciones (AU)</dc:description>
+<dc:source>Arch Bronconeumol;47(9): 466-469, sept. 2011. tab</dc:source>
+<dc:identifier>ibc-91031</dc:identifier>
+<dc:title xml:lang="es">Requerimientos técnicos de los espirómetros en la estrategia para garantizar el acceso a una espirometría de calidad</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d12223</dc:subject>
+<dc:subject>^d12436</dc:subject>
+<dc:subject>^d13530^s22048</dc:subject>
+<dc:subject>^d13530^s22039</dc:subject>
+<dc:subject>^d13530^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201109</dc:date>
+</metadata>
+</record>
+</ibecs-document>

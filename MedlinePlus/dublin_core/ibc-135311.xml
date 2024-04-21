@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-135311</identifier>
+<setSpec>1575-0922</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Thyroglobulin determination</dc:title>
+<dc:description xml:lang="en">Serum thyroglobulin (TG) is a highly specific and sensitive tumoral marker for the follow-up of patients with differentiated thyroid carcinoma. The standardization of most immunoassays against the CRM-457 reference preparation has reduced, but not eliminated, variability among methods. Consequently, the monitoring of TG concentrations during the follow-up of patients should be performed in the same laboratory and always using the same method. The greater the functional sensitivity and the inter-series accuracy of TG analysis, the greater the sensitivity in the early detection of recurrences. Immunometric methods should be protected against the hook effect, whether with a 2 step design or by processing the samples, at least those with high suspicion, directly and in diluted form. Special mention should be made of the interference produced by anti-thyroglobulin antibodies (anti-Tg ab). Because a safe method to predict such interference is lacking and because any level of autoantibody concentration can potentially cause interference, all TG determinations should be accompanied by anti-TG antibody determinations using the most sensitive and accurate immunoassay methods possible. When these autoantibodies are present, TG concentrations should be appropriately interpreted. Moreover, interference with TG determination can be produced by the presence of heterophilic antibodies. In addition, TG segregated by the tumor can be immunologically inert for the assay used (AU)</dc:description>
+<dc:creator>Álvarez García, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La tiroglobulina sérica es un marcador tumoral altamente específico y sensible para el seguimiento de pacientes con carcinoma diferenciado de tiroides. La estandarización de la mayoría de inmunoanálisis frente al material de referencia CRM-457 ha reducido, pero no eliminado, la variabilidad entre métodos. Por eso, la monitorización de las concentraciones de tiroglobulina durante el seguimiento de un paciente debe hacerse en el mismo laboratorio y siempre con el mismo método. Cuanto mejor sea la sensibilidad funcional y la precisión interserial del análisis de tiroglobulina, más sensible será éste para detectar recurrencias de forma temprana. Los métodos inmunométricos deben estar protegidos frente al efecto gancho, ya sea con un diseño en 2 etapas o bien procesando las muestras, al menos las de elevada sospecha, de forma directa y diluida. Mención especial requiere la interferencia producida por anticuerpos antitiroglobulina. La inexistencia de una metodología segura para predecir esta interferencia, unido a que cualquier concentración de autoanticuerpos es potencialmente interferente, obliga a acompañar toda determinación de tiroglobulina con la de anticuerpos antitiroglobulina, utilizando métodos de inmunoanálisis lo más sensibles y precisos posible. En presencia de estos autoanticuerpos las concentraciones de tiroglobulina han de interpretarse apropiadamente. Además, existe la posibilidad de que la determinación de tiroglobulina sea interferida por la presencia de anticuerpos heterófilos, o que la tiroglobulina segregada por el tumor resulte inmunológicamente inerte para el análisis utilizado (AU)</dc:description>
+<dc:source>Endocrinol Nutr;52(supl.1): 40-44, mayo 2005. ilus</dc:source>
+<dc:identifier>ibc-135311</dc:identifier>
+<dc:title xml:lang="es">Determinación de tiroglobulina</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d14342^s22002</dc:subject>
+<dc:subject>^d24373^s22001</dc:subject>
+<dc:subject>^d24373^s22002</dc:subject>
+<dc:subject>^d1329^s22001</dc:subject>
+<dc:subject>^d14342^s22044</dc:subject>
+<dc:subject>^d22696^s22016</dc:subject>
+<dc:subject>^d22512^s22066</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22512^s22074</dc:subject>
+<dc:subject>^d22512^s22048</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22512^s22045</dc:subject>
+<dc:subject>^d1329</dc:subject>
+<dc:subject>^d14342</dc:subject>
+<dc:subject>^d22512^s22039</dc:subject>
+<dc:subject>^d19387^s22044</dc:subject>
+<dc:subject>^d9557^s22016</dc:subject>
+<dc:subject>^d19387^s22001</dc:subject>
+<dc:subject>^d19387</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200505</dc:date>
+</metadata>
+</record>
+</ibecs-document>

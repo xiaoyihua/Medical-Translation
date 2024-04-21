@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-3826</identifier>
+<setSpec>1575-0922</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Interferences of low levels of thyroglobulin antibodies on thyroglobulin determination</dc:title>
+<dc:creator>Scognamillo, A. C</dc:creator>
+<dc:creator>Mayorga, L. S</dc:creator>
+<dc:creator>Giribet, G</dc:creator>
+<dc:creator>Perinetti, H. A</dc:creator>
+<dc:creator>Pusiol, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Antecedentes. La tiroglobulina es sintetizada exclusivamente en las células foliculares tiroideas, y su medición sérica se utiliza en el seguimiento del cáncer diferenciado de tiroides tratado. La presencia de autoanticuerpos antitiroglobulina (AcTG) en el paciente dificulta la detección exacta de tiroglobulina por métodos inmunoanalíticos. Métodos. En este trabajo se evaluó el efecto de los AcTG, determinados por aglutinación de partículas (AGP) y por un método inmunométrico quimioluminiscente (IMQ), en la valoración de la tiroglobulina medida por dos técnicas de alta sensibilidad, pero basadas en distintos principios: inmunocompetencia (RIA) e inmunometría (quimioluminiscencia [QMO]). Se evaluó en el suero de 60 pacientes la tiroglobulina antes y después del agregado de una cantidad conocida de tiroglobulina, y se calculó el porcentaje de recuperación de la tiroglobulina agregada a cada suero. Resultados. Los resultados mostraron que la presencia de AcTG, aun en bajas concentraciones detectadas por IMQ pero no por AGP, interfiere en la determinación de tiroglobulina, tanto por RIA como por QMO. Conclusión. La determinación de tiroglobulina como marcador para el seguimiento del cáncer diferenciado de tiroides debe ir acompañada por la medición de AcTG por un método de alta sensibilidad. En caso de detectarse AcTG, aun en bajas concentraciones, la determinación de tiroglobulina debe ser considerada críticamente por la posibilidad de interferencia con los métodos de determinación (AU)</dc:description>
+<dc:source>Endocrinol Nutr;47(2): 49-54, feb. 2000.</dc:source>
+<dc:identifier>ibc-3826</dc:identifier>
+<dc:title xml:lang="es">Interferencia de valores bajos de autoanticuerpos antitiroglobulina en la determinación de tiroglobulina</dc:title>
+<dc:subject>^d14342^s22002</dc:subject>
+<dc:subject>^d927^s22038</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d1329^s22002</dc:subject>
+<dc:subject>^d22696^s22016</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d22633^s22045</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200002</dc:date>
+</metadata>
+</record>
+</ibecs-document>

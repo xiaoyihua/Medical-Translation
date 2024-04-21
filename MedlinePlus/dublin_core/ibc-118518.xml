@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-118518</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Perfusion magnetic resonance imaging for high grade astrocytomas: Can cerebral blood volume, peak height, and percentage of signal intensity recovery distinguish between progression and pseudoprogression?</dc:title>
+<dc:description xml:lang="en">Objectives: To study the usefulness of common MRI perfusion parameters for identifying pseudoprogression in high grade astrocytomas. Material and methods: This retrospective case-control study compared the relative cerebral blood volume (rCBV), the relative percentage of signal intensity recovery (rPSR), and the relative peak height (rPH) recorded in a sample of 17 cases of anaplastic astrocytomas and gliomas considered to be undergoing pseudoprogression by biopsy or follow-up with those recorded in a sample of histologically similar tumors that were treated and considered to be undergoing progression by histologic study or follow-up. We evaluated the accuracy of these parameters and the correlations among them. Statistical significance was set at P&lt;.05. Results: The rCBV, rPSR, and rPH were significantly different between the two groups (P=.001). The cutoff values rPH=1.37, rCBV=0.9, and rPSR=99% yielded sensitivity (S)=88% and specificity (Sp)=82.2% for rPH, S=100% and Sp=100% for rCBV, and S=100% and Sp=70.6% for rPSR, respectively. We found negative correlations between rPRS and rPH (&amp;#8722;0.76) and between rPRS and rCBV (&amp;#8722;0.81) and a high positive correlation between rPH and rCBV (0.87). Conclusion: The variables rPH and rCBV were useful for differentiating between pseudoprogression and true progression in our sample. The variable rPRS was also very sensitive, although the overlap in the values between samples make it less useful a priori (AU)</dc:description>
+<dc:creator>Martínez-Martínez, A</dc:creator>
+<dc:creator>Martínez-Bosch, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos. Estudiar la utilidad de los parámetros de perfusión en RM para identificar la seudoprogresión tumoral en astrocitomas de alto grado. Material y métodos. Este estudio retrospectivo de casos y controles comparó el volumen sanguíneo cerebral relativo (VSCr), el porcentaje de recuperación de intensidad de señal relativo (PRSr) y la altura relativa del pico (relative Peak Height [rPH]) en una muestra de 17 casos de astrocitomas anaplásicos y glioblastomas diagnosticados de seudoprogresión (mediante biopsia o control evolutivo), con otra muestra de 17 tumores tratados, histológicamente parecidos, y diagnosticados anatomopatológica o evolutivamente de progresión. Se evaluó la precisión de tales parámetros y su correlación. La significación estadística se estableció con una p &lt; 0,05. Resultados. El VSCr, PRSr y rPH fueron estadísticamente distintos entre ambos grupos (p = 0,001). La sensibilidad (S) y especificidad (E) para los puntos de corte 1,37 rPH; 0,9 VSCr y 99% PRSr fueron respectivamente del 88% (S) y 82,2% (E) rPH; 100% (S) y 100% (E) VSCr; y 100% (S) y 70,6% (E) PRSr. Las variables PRSr-rPH (&amp;#8722;0,76) y PRSr-VSCr (&amp;#8722;0,81) se correlacionaron negativamente. La correlación rPH-VSCr fue alta (0,87). Conclusión. La rPH y el VSCr fueron útiles en nuestra muestra para diferenciar los casos de seudoprogresión tumoral de los de progresión verdadera. El PRSr también fue un parámetro muy sensible aunque el solapamiento de valores entre las muestras lo hacen a priori menos útil (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);56(1): 35-43, ene.-feb. 2014. tab, ilus</dc:source>
+<dc:identifier>ibc-118518</dc:identifier>
+<dc:title xml:lang="es">Resonancia magnética de perfusión en astrocitomas de alto grado: el volumen sanguíneo cerebral, la altura del pico y el porcentaje de recuperación de intensidad de señal ¿pueden discriminar entre progresión y seudoprogresión?</dc:title>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d53213^s22045</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d^s22039</dc:subject>
+<dc:subject>^d24551</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d22935^s22045</dc:subject>
+<dc:subject>^d1958^s29166</dc:subject>
+<dc:subject>^d23405^s22045</dc:subject>
+<dc:subject>^d10669^s22045</dc:subject>
+<dc:subject>^d1262^s29166</dc:subject>
+<dc:subject>^d22935^s22039</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d31846^s29166</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201402</dc:date>
+</metadata>
+</record>
+</ibecs-document>

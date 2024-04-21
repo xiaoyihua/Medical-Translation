@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-058999</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Two methods to analyze trends in the incidence of heroin and cocaine use in Barcelona [Spain]</dc:title>
+<dc:description xml:lang="en">Objectives: To describe 2 statistical methods for estimating trends in the incidence of heroin and cocaine use in Barcelona.         Methods: Admissions for treatment of heroin and cocaine consumption recorded by the Barcelona Drug Information System between 1991 and 2003 were used. We selected 4,367 subjects initiating treatment for the first time for heroin use, and 2,147 for cocaine use. Two statistical techniques were employed: Reporting Delay Adjustment (RDA) and the Log-linear Model (LLM). RDA was used in subjects who initiated drug consumption between 1991 and 2003, and LLM for those who began heroin use between 1967 and 2003 and cocaine use between 1971 and 2003. In addition, for each drug and method the latency period (LP) was determined (years between first consumption and first treatment).         Results: Comparison of the distributions of the LP for each drug revealed that heroin users initiated treatment for the first time sooner than cocaine users, regardless of the method employed. In general, the estimated incidence of heroin use in Barcelona fell progressively after 1982. In contrast, the incidence of cocaine use rose rapidly until 1998, and has been irregular since. The incidence of cocaine use began to be substantial in the early 1990s, but took several years to manifest itself as problematic.         Conclusion: The estimated incidence was underestimated by RDA compared with LLM, but the incidence of heroin use could be biased before 1991 due to changes in treatment provisions. Although the estimated incidence is relative to individuals who are admitted for treatment at some time in their life, trends in incidence can be used to plan future actions</dc:description>
+<dc:creator>Domingo-Salvany, Antonia</dc:creator>
+<dc:creator>Gómez Melis, Guadalupe</dc:creator>
+<dc:creator>Brugal, M. Teresa</dc:creator>
+<dc:creator>Scalia-Tomba, Gianpaolo</dc:creator>
+<dc:creator>Sánchez-Niubò, Albert</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Mostrar 2 métodos estadísticos para estimar la evolución de la incidencia de consumo de heroína y cocaína en Barcelona.         Métodos: Los inicios de tratamiento por consumo de heroína y cocaína del Sistema de Información de Drogas de Barcelona entre 1991 y 2003. Se seleccionaron 4.367 sujetos con un primer tratamiento por heroína y 2.147 por cocaína. Se ha empleado el método Reporting Delay Adjustment (RDA) y modelos logarítmicos lineales (MLL), considerando para el RDA los inicios de tratamiento cuyo inicio de consumo era entre 1991 y 2003, y para el MLL entre 1967 y 2003 para la heroína y entre 1971 y 2003 para la cocaína. Además, para cada droga y método se estudió la distribución del período de latencia (PL) (años entre el primer consumo y el primer tratamiento).         Resultados: Según la distribución del PL, los consumidores de heroína tardan menos tiempo en iniciar su primer tratamiento que los de cocaína, indistintamente del método empleado. En general, la incidencia estimada de consumo de heroína en Barcelona disminuyó progresivamente desde 1982. En cambio, para la cocaína aumentó rápidamente hasta 1998, y fue irregular posteriormente. A principios de los noventa la incidencia de consumo de cocaína empezó a ser importante, años antes de manifestarse como problemática.         Conclusión: El RDA subestima la incidencia respecto al MLL, pero la incidencia de heroína con MLL puede estar sesgada antes de 1991 por cambios en la oferta de tratamiento. Aunque la incidencia estimada se refiere a los sujetos que hacen tratamiento alguna vez en la vida, su evolución ayuda a prever acciones futuras</dc:description>
+<dc:source>Gac Sanit;21(5): 397-403, sep.2007. ilus, tab</dc:source>
+<dc:identifier>ibc-058999</dc:identifier>
+<dc:title xml:lang="es">Dos métodos para analizar la evolución de la incidencia de consumo de heroína y cocaína en Barcelona</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d12031^s22039</dc:subject>
+<dc:subject>^d6715^s22080</dc:subject>
+<dc:subject>^d33538^s22080</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d33535^s22067</dc:subject>
+<dc:subject>^d28374</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200709</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-105302</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Predicting risk of acute rejection in patients with kidney transplants</dc:title>
+<dc:description xml:lang="en">Objective: Create a model to predict the risk of acute rejection of kidney transplant considering variables related to the immunosuppressant agent used, the receiver, the donor and the transplanted organ. Methods: Cohort study in a population of 68 patients with kidney transplants being treated with tacrolimus triple therapy. Predicting the risk of acute rejection was carried out with a logistic regression analysis using age, sex, re-transplant status, number of HLA incompatibilities, cold ischaemia time, acute tubular necrosis, induction with basiliximab or thymoglobulin and treatment type as explanatory variables. The contribution of variables associated with determining the blood concentration of tacrolimus was also evaluated; these variables include the average blood concentration, the number of values below and included in the pre-defined therapeutic interval, and the time during which those values remained within that interval. Results: The logistic regression analysis indicates that the risk of acute rejection depends on the acute tubular necrosis (OR: 3; CI 95 %, 0.7 to 13.2) and on the time that the blood concentrations of tacrolimus remains within the therapeutic interval (OR: 0.8; CI 95 %, 0.7 to 0.9).The final model presents an optimal discrimination power (AUCROC:77 %; CI 95 %, 62 % to 92 %). For the selected cut-off point (probability greater than or equal to 0.24) the model shows a sensitivity of 83 % (CI 95 %, 74 to 90 %) and a specificity of 71 % (CI 95 %, 61 to 80 %).Conclusions: In patients with kidney transplants, the presence of acute tubular necrosis, together with the time the blood concentration of tacrolimus remained within the predetermined therapeutic interval, permitted the identification of patients with a higher probability of having an acute rejection episode during the first two weeks following the transplant (AU)</dc:description>
+<dc:creator>Pallardó Mateu, L</dc:creator>
+<dc:creator>López-Montenegro Soria, M. A</dc:creator>
+<dc:creator>Porta Oltra, B</dc:creator>
+<dc:creator>Jiménez Torres, N. V</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Construir un modelo para predecir el riesgo de rechazo agudo al trasplante renal considerando variables relacionadas con el tratamiento inmunosupresor instaurado, el receptor, el donante y el órgano trasplantado. Método: Estudio de cohortes en una población de 68 pacientes con trasplante renal en tratamiento con tacrolimus en triple terapia. La predicción del riesgo de rechazo agudo se realizó mediante un análisis de regresión logística utilizando como variables explicativas la edad, sexo, presencia de retrasplante, número de incompatibilidades HLA, tiempo de isquemia fría, necrosis tubular aguda, inducción con basiliximab o timoglobulina y tipo de tratamiento. También se evaluó la contribución de variables asociadas a la determinación de la concentración sanguínea de tacrolimus, entre ellas la media de la concentración sanguínea, el número de valores por debajo e incluidos en el intervalo terapéutico predefinido, y el tiempo que dichos valores permanecían en las condiciones referidas. Resultados: El análisis de regresión logística indica que el riesgo de rechazo agudo depende de la necrosis tubular aguda (odds ratio [OR] = 3; intervalo de confianza [IC] del 95 %, 0,7 a 13,2) y del tiempo que las concentraciones sanguíneas de tacrolimus permanecen dentro del intervalo terapéutico (OR = (..)  (AU)</dc:description>
+<dc:source>Farm Hosp;33(4): 194-201, ago. 2009. ilus, tab</dc:source>
+<dc:identifier>ibc-105302</dc:identifier>
+<dc:title xml:lang="es">Predicción de riesgo de rechazo agudo en pacientes con trasplante renal</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d11016^s22083</dc:subject>
+<dc:subject>^d30103^s22000</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d11622^s22080</dc:subject>
+<dc:subject>^d6235^s22016</dc:subject>
+<dc:subject>^d29475^s22020</dc:subject>
+<dc:subject>^d7344^s22000</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200908</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-046191</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Agreement between pneumotachograph and PiKo-1 measurements of PEF and FEV1</dc:title>
+<dc:description xml:lang="en">Objective: To assess how well values for peak expiratory flow (PEF) and forced expiratory volume in 1 second (FEV1) agree when measured with the PiKo-1 device and with a conventional pneumotachograph.                 Patients and methods: This randomized, single-blind study included 40 patients who attended the clinic for lung function testing. The 2 measurement devices were the Masterlab pneumotachograph and the PiKo-1. A correction factor estimated by the manufacturer was applied to the measurements taken with the PiKo-1.                 Results: The values obtained with the 2 devices differed by a mean of 5.8218 L/min for PEF (95% confidence interval [CI], ­9.4809 to 21.1387) and 0.001 L for FEV1 (95% CI, ­0.0616 to 0.0636). The intraclass correlation coefficient was 0.9652 (95% CI, 0.9336-0.9819) for PEF and 0.9876 (95% CI, 0.9761-0.9936) for FEV1.                 Conclusions: The PiKo-1 is a simple and easy-to-use device that can be very useful for monitoring and assessing the severity of obstructive pulmonary diseases. The results must be corrected for altitude and the estimated correction factor should be applied</dc:description>
+<dc:creator>Viejo-Bañuelos, J . L</dc:creator>
+<dc:creator>Rodríguez-Pascual, L</dc:creator>
+<dc:creator>Cordero-Guevara, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Evaluar la concordancia de las mediciones del flujo espiratorio máximo (PEF) y del volumen espiratorio forzado en el primer segundo (FEV1) entre el medidor PiKo-1 y un neumotacógrafo de uso habitual.                 Pacientes y métodos: Se incluyó a 40 pacientes que acudieron al laboratorio de pruebas funcionales respiratorias para el estudio de su función pulmonar. El estudio se realizó de forma aleatorizada y ciega con los 2 sistemas de medida (neumotacógrafo Masterlab y PiKo-1). En las mediciones del PiKo-1 se introdujo el factor de corrección estimado por el fabricante.                 Resultados: Las diferencias medias obtenidas fueron para el PEF de 5,8218 (intervalo de confianza [IC] del 95%, ­9,4809 a 21,1387) y para el FEV1 de 0,001 (IC del 95%, ­0,0616 a 0,0636). El coeficiente de correlación intraclase fue de 0,9652 (IC del 95%, 0,9336-0,9819) para el PEF y de 0,9876 (IC del 95%, 0,9761-0,9936) para el FEV1.                 Conclusiones: El PiKo-1 es un aparato de medida sencillo y de fácil manejo que puede ser de gran utilidad para el seguimiento y la valoración de la gravedad en las enfermedades obstructivas pulmonares. Los resultados deben corregirse en función de la altitud y el factor de corrección estimado</dc:description>
+<dc:source>Arch Bronconeumol;42(3): 144-147, mar. 2006. ilus</dc:source>
+<dc:identifier>ibc-046191</dc:identifier>
+<dc:title xml:lang="es">Estudio de la concordancia de 2 aparatos para la medida del PEF y FEV1: neumotacógrafo y PiKo-1</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28040^s22031</dc:subject>
+<dc:subject>^d1969^s22039</dc:subject>
+<dc:subject>^d28137^s22031</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d13530^s22039</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200603</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-039206</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Use of a coronary risk score (the TIMI risk score) in a non-selected patient population assessed for chest pain at an emergency department</dc:title>
+<dc:description xml:lang="en">Introduction and objectives. Stratification algorithms for acute coronary syndrome enable the identification of high-risk patients who will benefit from more aggressive treatment. The TIMI Risk Score (TRS) has been shown to be useful in intermediate- and high-risk patients. However, little is known about its value in non-selected patients. Our aim was to assess the efficacy of the TRS for risk stratification in a non-selected population with chest pain. Patients and method. We evaluated 1254 consecutive patients (age, 54 [19] years; 57% male) attending an emergency department for chest pain. Overall, 343 (27%) were admitted and 911 (73%) were discharged. All cardiac events during 6-month follow-up were recorded. Results. Of the 911 discharged patients, 45 (5.3%) were admitted during follow-up: 9 (1.1%) underwent revascularization, 5 (0.6%) had a myocardial infarction (MI), and 2 (0.2%) died from cardiovascular disease. Patients with a high TRS had a significantly higher risk of reaching the composite endpoint of death, MI, or revascularization (relative risk per unit of TRS increase, 3.63; 95% CI, 2.20-6.00; P&lt;.001). Of the patients who were initially admitted, 22 (6.4%) underwent revascularization, 4 (1.2%) had an MI, and 14 died (4.1%) from cardiovascular disease during follow-up. The relative risk of the composite endpoint per unit of TRS increase was 1.72 (95% CI, 1.32-2.24; P&lt;.001). Conclusions. The TIMI risk score is useful for stratifying cardiovascular event risk in non-selected patients with chest pain. The score can identify high-risk patients who will benefit from hospital admission and early aggressive treatment</dc:description>
+<dc:creator>Gimeno, Juan R</dc:creator>
+<dc:creator>Villegas, Manuel</dc:creator>
+<dc:creator>Hurtado, José</dc:creator>
+<dc:creator>Sánchez, Eugenia</dc:creator>
+<dc:creator>Valdés, Mariano</dc:creator>
+<dc:creator>Muñoz, Luis</dc:creator>
+<dc:creator>González, Josefa</dc:creator>
+<dc:creator>Pascual, Domingo</dc:creator>
+<dc:creator>García Almagro, Francisco J</dc:creator>
+<dc:creator>Antolinos, María J</dc:creator>
+<dc:creator>Teruel, Francisca</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos. Diferentes algoritmos de estratificación del síndrome coronario agudo (SCA) permiten identificar a los individuos con un mayor riesgo que pueden beneficiarse de tratamientos más agresivos. Se ha demostrado que el TIMI Risk Score (TRS) es útil en pacientes con un riesgo intermedio y alto, pero faltan evidencias acerca de su aplicabilidad clínica en pacientes no seleccionados. El objetivo es comprobar la eficacia del TRS en la estratificación del riesgo en una población con dolor torácico no seleccionada. Pacientes y método. Se incluyó a 1.254 pacientes consecutivos que acudieron a urgencias por dolor torácico no traumático sin ascenso del segmento ST (edad 54 ± 19 años, 57% varones). Se ingresó a 343 (27%) y se dio de alta a 911 (73%). Se registró la aparición de eventos cardíacos a los 6 meses. Resultados. En el grupo dado de alta desde urgencias, 45 (5,3%) pacientes fueron ingresados durante el seguimiento, 9 (1,1%) recibieron tratamiento de revascularización, 5 (0,6%) presentaron un infarto agudo miocárdico (IAM) y 2 (0,2%) fallecieron por causa cardiovascular. Los que obtuvieron una mayor puntuación en el TRS presentaron más riesgo de presentar el evento combinado muerte, infarto o revascularización (riesgo relativo por incremento de unidad = 3,63; intervalo de confianza [IC] del 95%, 2,20-6,00; p &lt; 0,001). En el grupo de ingresados hubo 22 revascularizaciones (6,4%), 4 IAM (1,2%) y 14 muertes de causa cardiovascular (4,1%) durante el seguimiento. El riesgo relativo de evento combinado por cada incremento del TRS fue 1,72 (IC del 95%, 1,32-2,24; p &lt; 0,001). Conclusiones. El TRS es una herramienta eficaz para la estratificación pronóstica de pacientes no seleccionados que consultan por dolor torácico. Permite identificar a los individuos de alto riesgo que se beneficiarían de ingreso hospitalario y tratamiento agresivo precoz</dc:description>
+<dc:source>Rev Esp Cardiol;58(7): 775-781, jul. 2005. tab</dc:source>
+<dc:identifier>ibc-039206</dc:identifier>
+<dc:title xml:lang="es">Aplicación de una puntuación de riesgo coronario (TIMI Risk Score) en una población no seleccionada de pacientes que consultan por dolor torácico en un servicio de urgencias</dc:title>
+<dc:subject>^d28567</dc:subject>
+<dc:subject>^d28625</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d19062</dc:subject>
+<dc:subject>^d4711</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d2359^s22047</dc:subject>
+<dc:subject>^d9395^s22027</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d32048</dc:subject>
+<dc:subject>^d9396</dc:subject>
+<dc:subject>^d14384</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200507</dc:date>
+</metadata>
+</record>
+</ibecs-document>

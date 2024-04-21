@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-36140</identifier>
+<setSpec>0004-2927</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">A reference to a pharmacy in Granada in the eighteenth century</dc:title>
+<dc:creator>Cañadas de la Fuente, G. A</dc:creator>
+<dc:creator>Crespo-Muñoz, F. J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Facultad de Farmacia. Universidad de Granada</dc:publisher>
+<dc:description xml:lang="es">Los inventarios que recogen las existencias de las boticas son documentos de gran interés para la Historia de la Farmacia. Se informa en este trabajo del hallazgo de una de estas relaciones, fechada en el siglo XVIII, entre los fondos del Archivo Histórico del Ilustre Colegio Notarial de Granada y se realiza un análisis sucinto de la misma (AU)</dc:description>
+<dc:source>Ars pharm;45(3): 247-252, 2004. tab</dc:source>
+<dc:identifier>ibc-36140</dc:identifier>
+<dc:title xml:lang="es">Noticia de una botica granadina del siglo XVIII</dc:title>
+<dc:subject>^d38882</dc:subject>
+<dc:subject>^d29613</dc:subject>
+<dc:subject>^d8064^s22034</dc:subject>
+<dc:subject>^d28597^s22034</dc:subject>
+<dc:subject>^d1113^s22034</dc:subject>
+<dc:subject>^d10794^s22034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200400</dc:date>
+</metadata>
+</record>
+</ibecs-document>

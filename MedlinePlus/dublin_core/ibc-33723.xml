@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-33723</identifier>
+<setSpec>0482-5985</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Finite-elements analysis of the effect of meniscal tears and meniscectomies</dc:title>
+<dc:creator>Peña, E</dc:creator>
+<dc:creator>Martínez, M. A</dc:creator>
+<dc:creator>Palanca, D</dc:creator>
+<dc:creator>Calvo, B</dc:creator>
+<dc:creator>Doblaré, M</dc:creator>
+<dc:creator>Seral, F</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Objetivos. Se ha desarrollado un modelo tridimensional mediante elementos finitos de la articulación femorotibial para determinar las áreas de contacto y distribución de presiones entre el menisco y el cartílago articular e investigar los efectos de la meniscectomía. Material y método. Partiendo de imágenes de una rodilla sana, obtenidas por resonancia magnética nuclear (RMN), se ha elaborado un modelo geométrico de elementos finitos sobre el que se han desarrollado diferentes tipos de meniscectomías, estudiando el comportamiento del modelo en diferentes situaciones: con menisco sano, con lesión meniscal, tras meniscectomía parcial y tras meniscectomía total, para analizar los efectos sobre el cartílago articular. Resultados. En el modelo de lesión meniscal del tipo longitudinal la aparición de tensiones de tracción en el borde de la fisura meniscal podría explicar la inestabilidad de estas lesiones y su propagación. En el modelo de meniscectomía parcial, se origina un incremento de la compresión sobre el cartílago articular en zonas inicialmente descargadas. Finalmente, en el modelo con meniscectomía total, el menisco externo es el que absorbió la totalidad del contacto apareciendo importantes cambios sobre el cartílago del cóndilo femoral lateral. Conclusiones. Consideramos, analizando los resultados obtenidos, que influyen tanto la zona meniscal resecada como la cantidad de menisco que se reseca. Además, las roturas de los meniscos son inestables a largo plazo. Asimismo, hemos comprobado que la meniscectomía parcial altera el comportamiento normal de la articulación, y en especial del cartílago articular, aumentando hasta un 126 por ciento las tensiones de compresión, lo que podría justificar su deterioro (AU)</dc:description>
+<dc:source>Rev. ortop. traumatol. (Madr., Ed. impr.);48(4): 298-303, jul. 2004. ilus, tab</dc:source>
+<dc:identifier>ibc-33723</dc:identifier>
+<dc:title xml:lang="es">Análisis mediante elementos finitos del efecto de las roturas meniscales y meniscectomías</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d1721</dc:subject>
+<dc:subject>^d23405</dc:subject>
+<dc:subject>^d19395^s22009</dc:subject>
+<dc:subject>^d14533</dc:subject>
+<dc:subject>^d33575</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d32532</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d19395^s22042</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200407</dc:date>
+</metadata>
+</record>
+</ibecs-document>

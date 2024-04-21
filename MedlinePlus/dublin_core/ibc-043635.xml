@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-043635</identifier>
+<setSpec>1135-7606</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Virtopsy. Applications of a new method of non-invasive body inspection in forensic sciences</dc:title>
+<dc:description xml:lang="en">Modern imaging methods, such as radiological    CT/MRI scanning provides real, full 3D data of the body    surface and internal structures. This information is stored in    DICOM files (a standard protocol in radiology image    acquisition). Many image-analysis procedures, such as    interactive visualization, morphometry, densitometry, three    dimensional reconstruction, etc., can be carried-out on    these files. These tasks are performed in a non-invasive and    non-destructive manner, and the results can be stored in    order to document the case.    The present paper describes the basis of imageanalysis    procedures on DICOM files directed to forensic    purposes (socalled "virtopsy"), emphasizing the utility of the    method in Pathology, Forensic Traumatology and other    fields.    The virtopsy must be considered not only as a postmortem    procedure (complementing but not substituting    the traditional autopsy), but a way to examine body parts    in an interactive manner, whatever the subject is dead or    alive. That spreads its utility and makes the method    appropriate whenever an accurate, real-time, interactive    and reproducible forensic anatomic examination is    required</dc:description>
+<dc:creator>Baena, S</dc:creator>
+<dc:creator>Arregui, R</dc:creator>
+<dc:creator>Aso, J</dc:creator>
+<dc:creator>Martínez-Quiñones, J. V</dc:creator>
+<dc:creator>Aso-Vizán, J</dc:creator>
+<dc:creator>Pons, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Los modernos métodos de imagen, como la CT y la    RNM proporcionan datos reales y tridimensionales de la    superficie y las estructuras internas corporales. Esta    información se almacena en ficheros DICOM (un protocolo    estándar en adquisición de imagen radiológica). Sobre    esos ficheros pueden realizarse muchos procedimientos    de análisis de imagen, tales como visualización interactiva,    morfometría, reconstrucciones tridimensionales, etc.    Estas tareas son realizadas de una manera no invasiva y    no destructiva, pudiéndose almacenar los resultados    para documentación del caso. El presente trabajo describe    las bases de los procedimientos de análisis de imagen    sobre ficheros DICOM dirigidos a propósitos forenses (la    llamada "virtopsia"), enfatizando la utilidad del método    en Patología, Traumatología Forense y otros campos.    La "virtopsia" debe ser considerada no sólo como    un procedimientos post-mortem (complementando pero    no sustituyendo a la autopsia tradicional), sino como un    modo de examinar partes corporales de una manera    interactiva, sea en el fallecido o en el sujeto vivo. Ello    amplia su utilidad y hace apropiado el procedimiento    siempre que se requiera un examen anatómico forense    reproducible, preciso, interactivo y en tiempo real</dc:description>
+<dc:source>Cuad. med. forense;11(40): 95-106, abr. 2005. ilus</dc:source>
+<dc:identifier>ibc-043635</dc:identifier>
+<dc:title xml:lang="es">Virtopsia. Aplicaciones de un nuevo método de inspección corporal no invasiva en ciencias forenses</dc:title>
+<dc:subject>^d25561</dc:subject>
+<dc:subject>^d23524^s22045</dc:subject>
+<dc:subject>^d32245^s22045</dc:subject>
+<dc:subject>^d29565^s22039</dc:subject>
+<dc:subject>^d22878^s22045</dc:subject>
+<dc:subject>^d29565^s22045</dc:subject>
+<dc:subject>^d23321^s22045</dc:subject>
+<dc:subject>^d32594^s22039</dc:subject>
+<dc:subject>^d19200^s22039</dc:subject>
+<dc:subject>^d22935^s22045</dc:subject>
+<dc:subject>^d1853</dc:subject>
+<dc:subject>^d19200^s22045</dc:subject>
+<dc:subject>^d32245^s22039</dc:subject>
+<dc:subject>^d1352^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200504</dc:date>
+</metadata>
+</record>
+</ibecs-document>

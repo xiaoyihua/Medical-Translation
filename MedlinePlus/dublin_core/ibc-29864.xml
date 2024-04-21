@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-29864</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Use of DNA chips (microarrays) in medicine: technical foundations and basic procedures for statistical analysis of results</dc:title>
+<dc:creator>Solé, Xavier</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">La tecnología de microarrays de ADN permite realizar análisis genéticos sobre miles de genes simultáneamente. El análisis de estos experimentos supone un reto desde el punto de vista estadístico, ya que los métodos clásicos de análisis deben adaptarse a la enorme multiplicidad de hipótesis que se prueban. Además, la gran variabilidad observada en los experimentos y su elevado coste exigen un diseño cuidadoso. En esta revisión se explicará con detalle qué es un microarray de ADNc, cómo funciona y cuáles son sus principales usos. Seguidamente, se abordarán aspectos estadísticos del diseño experimental y de los diferentes apartados del análisis de un microarray, desde el procesamiento de la imagen y control de calidad de los datos hasta los tests para identificar genes de interés. Por último se comentarán diferentes técnicas de análisis multivariante que se pueden utilizar para analizar patrones en la expresión de los genes (AU)</dc:description>
+<dc:source>Med. clín (Ed. impr.);122(supl.1): 73-79, ene. 2004.</dc:source>
+<dc:identifier>ibc-29864</dc:identifier>
+<dc:title xml:lang="es">Uso de chips de ADN (microarrays) en medicina: fundamentos técnicos y procedimientos básicos para el análisis estadístico de resultados</dc:title>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d33876</dc:subject>
+<dc:subject>^d34543</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12528</dc:subject>
+<dc:subject>^d22152</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200401</dc:date>
+</metadata>
+</record>
+</ibecs-document>

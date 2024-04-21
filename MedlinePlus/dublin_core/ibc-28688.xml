@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-28688</identifier>
+<setSpec>1137-6821</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Concordance, validity and utility of the Triage aid Program software programme of the Andorra Triage Model</dc:title>
+<dc:creator>Albert Cortés, E</dc:creator>
+<dc:creator>Segarra Ramón, X</dc:creator>
+<dc:creator>Ferrando Garrigós, J. B</dc:creator>
+<dc:creator>Gómez Jiménez, J</dc:creator>
+<dc:creator>Borrás Ferré, M</dc:creator>
+<dc:creator>Prat Margarit, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Saned, S.A.</dc:publisher>
+<dc:description xml:lang="es">Objetivos: El programa informático de ayuda al triaje (PAT) es un instrumento de ayuda a la decisión en el triaje, que disminuye su variabilidad, dota a los profesionales de un protocolo de soporte médico-legal, es un elemento de control de calidad y disminuye el tiempo necesario de formación en triaje. Evaluamos la conformidad y la validez del PAT, en relación a la escala canadiense de triaje y urgencia para los servicios de urgencias (CTAS).Métodos: Realizamos un análisis de concordancia y una validación respecto a algunos substitutos de gravedad, comparando los niveles de triaje establecidos por profesionales expertos y por el PAT, mediante una técnica de doble triaje, en dos períodos: A: Septiembre 2001-Junio 2002. Analizamos 19.002 episodios de triaje; B: 27 de junio a 7 de julio de 2002. Analizamos 616 episodios de triaje con seguimiento prospectivo caso a caso y realizamos una corrección del PAT. Resultados: El índice Kappa ponderado cuadrático (k) para el PAT corregido fue de 0,83 (95 por ciento IC 0,81-0,85), con una concordancia modal exacta del 84,74 por ciento y una concordancia modal en un nivel de triaje del 98,86 por ciento. No observamos diferencias en el comportamiento de los dos sistemas en su relación a los tiempos de estancia en urgencias, los índices de ingreso y la demanda de exploraciones complementarias. Conclusiones: La alta conformidad del PAT con la CTAS lo hace un instrumento válido y útil y consigue los objetivos planteados como instrumento docente, de control de calidad y de ayuda al triaje en base a la CTAS (AU)</dc:description>
+<dc:source>Emergencias (Sant Vicenç dels Horts);15(6): 339-344, dic. 2003. tab</dc:source>
+<dc:identifier>ibc-28688</dc:identifier>
+<dc:title xml:lang="es">Concordancia, validez y utilidad del programa informático de ayuda al triaje (PAT) del Modelo andorrano de triaje (MAT)</dc:title>
+<dc:subject>^d28838^s22045</dc:subject>
+<dc:subject>^d8079</dc:subject>
+<dc:subject>^d19402</dc:subject>
+<dc:subject>^d28625</dc:subject>
+<dc:subject>^d27977</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d4711</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4713</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200312</dc:date>
+</metadata>
+</record>
+</ibecs-document>

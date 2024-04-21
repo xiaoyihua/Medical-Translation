@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-161376</identifier>
+<setSpec>0034-9356</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Assessment of Euroscore and SAPS III as hospital mortality predicted in cardiac surgery</dc:title>
+<dc:description xml:lang="en">Objectives. To perform an external validation of Euroscore I, Euroscore II and SAPS III. Patients and method. Retrospective cohort study over three years on all adult patients who underwent cardiac surgery. We reviewed the clinical data, following the patient until outcome or discharge from hospital (dead, alive). We computed the predicted mortality by Euroscore I (EI), II (EII) and SAPS III. The model validation was assessed by discrimination: area under curve ROC; and calibration (Hosmer-Lemeshow test). Results. 866 patients were included. 62.5% of them male, with a median age of 69 years, 6.1% died during hospitalization. Predicted mortality: E I 7.94%, E II 3.54, SAPS III 12.1%. Area under curve (95% IC): E I 0.862 (0.812-0.912); E II 0.861 (0.806-0.915); SAPS III 0.692 (0.601-0.784). Hosmer-Lemeshow test: E I 14.0046 (P=.08164); E II 33.67 (P=.00004660); SAPS III 11.57 (P=.171). Conclusions. EII had good discrimination, but the calibration was not good with predicted mortality lower than the real mortality. E I showed the best discrimination with good calibration and a tendency to overestimate the mortality. SAPS III showed poor discrimination with good calibration and a tendency to greatly overestimate the predicted mortality. We saw no improvement in the predictive performance of EII over I and we reject the use of SAPS III in this kind of patient (AU)</dc:description>
+<dc:creator>Castaño-Moreira, B</dc:creator>
+<dc:creator>Sánchez-Casado, M</dc:creator>
+<dc:creator>Bustos-Molina, F</dc:creator>
+<dc:creator>López-Almodóvar, LF</dc:creator>
+<dc:creator>Paredes-Astillero, I</dc:creator>
+<dc:creator>Mateos-Pañero, B</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos. Realizar una validación externa del Euroscore I, Euroscore II y SAPS III. Pacientes y método. Estudio de cohorte retrospectivo durante 3 años de todos los pacientes adultos intervenidos de cirugía cardiaca. Se revisó la historia clínica siguiendo al paciente hasta el alta hospitalaria (vivo, muerto). Se calcularon las mortalidades predichas por el Euroscore I (EI), II (EII) y SAPS III. La validación de los modelos se determinó mediante la discriminación mediante el área bajo la curva ROC y la calibración mediante el test de Hosmer-Lemeshow. Resultados. Ochocientos sesenta y seis pacientes incluidos, el 62,5% varones, con una edad mediana de 69 años. El 6,1% falleció durante su ingreso hospitalario. Mortalidad predicha: EI 7,94%, EII 3,54, SAPS III 12,1%. Área bajo la curva (IC 95%): EI 0,862 (0,812-0,912); EII 0,861 (0,806-0,915); SAPS III 0,692 (0,601-0,784). Prueba de Hosmer-Lemeshow: EI 14,0046 (p=0,08164); EII 33,67 (p=0,00004660); SAPS III 11,57 (p=0,171). Conclusiones. el EII presentó una discriminación adecuada, aunque la calibración no fue apropiada con cifras de mortalidad predicha menores a la real. El EI mostró la mejor discriminación con una calibración adecuada y una tendencia a sobreestimar la mortalidad. El SAPS III ha mostrado mala discriminación con una calibración adecuada y una tendencia a aumentar exageradamente la predicción de la mortalidad. No hemos observado ninguna mejoría en el rendimiento predictivo del EII sobre el I y rechazamos la utilización del SAPS III en este tipo de enfermos (AU)</dc:description>
+<dc:source>Rev Esp Anestesiol Reanim;64(5): 273-281, mayo 2017. tab, graf</dc:source>
+<dc:identifier>ibc-161376</dc:identifier>
+<dc:title xml:lang="es">Valoración del Euroscore y SAPS III como predictor de mortalidad hospitalaria en el postoperatorio de cirugía cardiaca</dc:title>
+<dc:subject>^d14290^s22045</dc:subject>
+<dc:subject>^d30047</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d28614</dc:subject>
+<dc:subject>^d6500^s22047</dc:subject>
+<dc:subject>^d28626</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d32354</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d35256</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201705</dc:date>
+</metadata>
+</record>
+</ibecs-document>

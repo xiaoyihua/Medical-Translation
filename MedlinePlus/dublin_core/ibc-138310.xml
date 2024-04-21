@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-138310</identifier>
+<setSpec>1578-8423</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Classification algorithms and neural networks in automated observation records</dc:title>
+<dc:description xml:lang="en">The aim of this study is to analyse a set of data got through an on-line platform, using some ranking and knowledge oriented discovery rules techniques. Data mining techniques are applied to obtain a reliable relationship which can show the interest of the users in order to fill rigorously the on-line questionnaire attending to the way they do. Although there are programming techniques which allows us to observe the behaviour of users while filling the survey, current work uses artificial neural networks to predict their behaviour, based on variables obtained from the own survey. The sample is made up of 1,636 participants from deferent geographical areas and age ranges, obtained anonymously by answering the IPSETA questionnaire which is used for a psychological monitoring of sport talents. the results obtained using the analysis techniques show that females prefer to register on the platform to fill the survey, getting a high reliability (70fi) (AU)</dc:description>
+<dc:creator>González-Ruiz, S. L</dc:creator>
+<dc:creator>Gómez-Gallego, I</dc:creator>
+<dc:creator>Hernández-Mendo, A</dc:creator>
+<dc:creator>Pastrana-Brincones, J. L</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El objetivo del presente estudio es analizar los datos obtenidos a través de una plataforma on-line, mediante diferentes técnicas de clasificación y aprendizaje orientadas al descubrimiento del conocimiento. Se aplican técnicas de minería de datos para obtener relaciones de habilidad que informen del interés de los usuarios por cumplimentar de manera rigurosa el cuestionario on-line atendiendo al modo de realizar el mismo. Aunque existen técnicas que nos permiten observar el comportamiento de los usuarios mientras realizan el cuestionario, en este caso se emplean Redes Neuronales Artificiales para predecir el comportamiento de aquellos, atendiendo a variables obtenidas al realizar el cuestionario. La muestra consta de 1.636 participantes de diferentes zonas geográficas y rangos de edad, obtenida al contestar de manera anónima o identificada al cuestionario Inventario Psicológico para el Seguimiento de Talentos Deportivos (IPSETA). Los resultados obtenidos mediante las diferentes técnicas de análisis informan que el género femenino prefiere realizar el registro en la plataforma para cumplimentar el cuestionario, alcanzando un alto porcentaje de fiabilidad (70fi) (AU)</dc:description>
+<dc:source>Cuad. psicol. deporte;15(1): 31-40, ene.-jun. 2015. ilus, tab</dc:source>
+<dc:identifier>ibc-138310</dc:identifier>
+<dc:title xml:lang="es">Algoritmos de clasificación y redes neuronales en la observación automatizada de registros</dc:title>
+<dc:subject>^d13562^s22083</dc:subject>
+<dc:subject>^d52940^s22011</dc:subject>
+<dc:subject>^d6276</dc:subject>
+<dc:subject>^d50295^s22045</dc:subject>
+<dc:subject>^d29935</dc:subject>
+<dc:subject>^d53812^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d53808^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201506</dc:date>
+</metadata>
+</record>
+</ibecs-document>

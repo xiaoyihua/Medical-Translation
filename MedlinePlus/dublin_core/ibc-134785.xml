@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-134785</identifier>
+<setSpec>0034-9356</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Mortality risk factors in critical post-surgical patients treated using continuous renal replacement techniques</dc:title>
+<dc:description xml:lang="en">Objective: To determine the influence of demographics, medical, and surgical variables on 30-day mortality in patients who need continuous renal replacement therapy (CRRT). Materials and methods: A retrospective-following study was conducted using the data of 112 patients admitted to the postoperative intensive care unit who required CRRT, between August 2006 and August 2011, and followed-up for 30 days. The following information was collected: age, gender, history of HBP, DM, cardiovascular disease, and CKD, urgent surgery, surgical speciality, organic dysfunction according to the SOFA scale, the number of organs with dysfunction, use of mechanical ventilation, diagnostic and origin of sepsis, type of CRRT, and 30-day mortality. General linear models were used for estimating the strength of association (relative risk [RR], and 95% confidence interval [CI] between variables and 30-day mortality. Results: In the univariant analysis, the following variables were identified as risk factors for 30-day mortality: age(RR 1.04; 95% CI 1.01-1.06; P = .0005), and history of cardiovascular disease (RR 1.57; 95% CI 1.02-2.41; P = .039). Among the variables included in the multivariable analysis (age, history of cardiovascular disease, sepsis, and number of organs with dysfunction), only age was identified as an independent risk factor for 30-day mortality (RR 1.03; 95% CI 1.00-1.05; P = .007). Conclusion: Thirty-day mortality in postoperative, critically ill patients who require CRRT is high (41.07%). Age has been identified as an independent risk factor, with renal failure as the most common indication for the use of these therapies (AU)</dc:description>
+<dc:creator>Estupiñán-Jiménez, JC</dc:creator>
+<dc:creator>Castro-Rincón, JM</dc:creator>
+<dc:creator>Pérez-Cerdà, F</dc:creator>
+<dc:creator>Lora, D</dc:creator>
+<dc:creator>López, E</dc:creator>
+<dc:creator>González, O</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Determinar la influencia de las variables demográficas, médicas y quirúrgicas sobre la mortalidad a 30 días en pacientes que requieren la aplicación de técnicas continuas de reemplazo renal (TCRR) en la Unidad de Cuidados Intensivos Posquirúrgicos. Materiales y métodos: Estudio de seguimiento retrospectivo. Datos de 112 pacientes admitidos en la Unidad de Cuidados Intensivos que requirieron TCRR, entre agosto de 2006 y agosto de 2011 y seguidos durante 30 días. Se recogió la siguiente información: edad, género, historia de HTA, DM, enfermedad cardiovascular e IRC, cirugía urgente, especialidad quirúrgica, disfunción orgánica de acuerdo con la escala SOFA, número de órganos con disfunción, uso de ventilación mecánica, diagnóstico y origen de la sepsis, modalidad de TCRR y mortalidad a 30 días. Se utilizaron modelos lineales generales para estimar la fuerza de la asociación (riesgo relativo [RR] e intervalo de confianza [IC] al 95%) entre las diferentes variables y la mortalidad a 30 días. Resultados: En el análisis univariante se identificaron como factores de riesgo para la mortalidad a 30 días la edad(RR 1,04; IC 95% 1,01-1,06; p = 0,0005) y la presencia de enfermedad cardiovascular previa (RR 1,57; IC 95% 1,02-2,41; p = 0,039). Entre las variables incluidas en el análisis multivariante (edad, historia de enfermedad cardiovascular previa, presencia de sepsis y número de órganos con disfunción), solo la edad se identificó como factor de riesgo independiente para mortalidad a 30 días (RR 1,03; IC 95% 1,00-1,05; p = 0,007). Conclusión: La mortalidad a 30 días en los pacientes críticos posquirúrgicos que necesitan TCRR es alta (41,07%), identificándose la edad como factor de riesgo independiente, siendo la insuficiencia renal aguda la principal indicación para el uso de estas terapias (AU)</dc:description>
+<dc:source>Rev Esp Anestesiol Reanim;62(4): 184-190, abr. 2015. tab</dc:source>
+<dc:identifier>ibc-134785</dc:identifier>
+<dc:title xml:lang="es">Factores de riesgo para mortalidad en pacientes críticos posquirúrgicos tratados con técnicas continuas de reemplazo renal</dc:title>
+<dc:subject>^d3439^s22045</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d7530^s22083</dc:subject>
+<dc:subject>^d53982^s22080</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30170^s22047</dc:subject>
+<dc:subject>^d11622^s22080</dc:subject>
+<dc:subject>^d31085^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201504</dc:date>
+</metadata>
+</record>
+</ibecs-document>

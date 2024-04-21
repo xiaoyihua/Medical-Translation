@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-20448</identifier>
+<setSpec>0034-0618</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prediction of antibacterial properties of a group of quinolones by molecular Topology</dc:title>
+<dc:creator>Anton Fos, G. M</dc:creator>
+<dc:creator>Mut Ronda, S</dc:creator>
+<dc:creator>Salabert Salvador, M. T</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Real Academia de Farmacia</dc:publisher>
+<dc:description xml:lang="es">Se ha aplicado la Topología molecular a la predicción de propiedades antimicrobianas (concentración mínima inhibitoria 50 por ciento, CMI50, en Neisseria meningitidis, Capilobacter jejunji y Clostridium difficile) para un grupo de quinolonas, utilizando un análisis de regresión multilineal. Se han obtenido las correspondientes funciones de conectividad, siendo el criterio de selección diversos parámetros estadísticos como F de Snedecor, t de Student, cp de Mallow, etc. Los análisis de regresión muestran que el modelo predictivo propuesto por la conectividad molecular predice estas propiedades. Los correspondientes estudios de estabilidad y aleatoriedad realizados a los modelos seleccionados muestran una buena estabilidad y una nula aleatoriedad (AU)</dc:description>
+<dc:source>An Real Acad Farm;67(2): 305-318, abr. 2001. tab</dc:source>
+<dc:identifier>ibc-20448</dc:identifier>
+<dc:title xml:lang="es">Predicción de propiedades antimicrobianas de un grupo de quinolonas mediante Topología molecular</dc:title>
+<dc:subject>^d31904^s22078</dc:subject>
+<dc:subject>^d9538^s22021</dc:subject>
+<dc:subject>^d8106</dc:subject>
+<dc:subject>^d28890^s22021</dc:subject>
+<dc:subject>^d903^s22078</dc:subject>
+<dc:subject>^d24244</dc:subject>
+<dc:subject>^d28882^s22021</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200104</dc:date>
+</metadata>
+</record>
+</ibecs-document>

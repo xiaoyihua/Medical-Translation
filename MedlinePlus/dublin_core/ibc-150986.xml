@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150986</identifier>
+<setSpec>0210-4806</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">A Preliminary Study of the Ability of the 4Kscore test, the Prostate Cancer Prevention Trial-Risk Calculator and the European Research Screening Prostate-Risk Calculator for Predicting High-Grade Prostate Canc</dc:title>
+<dc:description xml:lang="en">Introduction: To prevent the overdiagnosis and overtreatment of prostate cancer (PC), therapeutic strategies have been established such as active surveillance and focal therapy, as well as methods for clarifying the diagnosis of high-grade prostate cancer (HGPC) (defined as a Gleason score &amp;#8805;7), such as multiparametric magnetic resonance imaging and new markers such as the 4Kscore test (4 KsT). By means of a pilot study, we aim to test the ability of the 4 KsT to identify HGPC in prostate biopsies (Bx) and compare the test with other multivariate prognostic models such as the Prostate Cancer Prevention Trial Risk Calculator 2.0 (PCPTRC 2.0) and the European Research Screening Prostate Cancer Risk Calculator 4 (ERSPC-RC 4). Material and methods: Fifty-one patients underwent a prostate Bx according to standard clinical practice, with a minimum of 10 cores. The diagnosis of HGPC was agreed upon by 4 uropathologists. We compared the predictions from the various models by using the Mann-Whitney U test, area under the ROC curve (AUC) (DeLong test), probability density function (PDF), box plots and clinical utility curves. Results: Forty-three percent of the patients had PC, and 23.5% had HGPC. The medians of probability for the 4 KsT, PCPTRC 2.0 and ERSPC-RC 4 were significantly different between the patients with HGPC and those without HGPC (p&amp;#8804;.022) and were more differentiated in the case of 4 KsT (51.5% for HGPC [25&#150;75 percentile: 25&#150;80.5%] vs. 16% [P 25&#150;75: 8&#150;26.5%] for non-HGPC; p=.002). All models presented AUCs above 0.7, with no significant differences between any of them and 4 KsT (p&amp;#8805;.20). The PDF and box plots showed good discriminative ability, especially in the ERSPC-RC 4 and 4 KsT models. The utility curves showed how a cutoff of 9% for 4 KsT identified all cases of HGPC and provided a 22% savings in biopsies, which is similar to what occurs with the ERSPC-RC 4 models and a cutoff of 3%. Conclusions: The assessed predictive models offer good discriminative ability for HGPCs in Bx. The 4 KsT is a good classification model as a whole, followed by ERSPC-RC 4 and PCPTRC 2.0. The clinical utility curves help suggest cutoff points for clinical decisions: 9% for 4 KsT and 3% for ERSPC-RC 4. This preliminary study should be interpreted with caution due to its limited sample size (AU)</dc:description>
+<dc:creator>Mejía Urbáez, E</dc:creator>
+<dc:creator>Ávarez Alegret, R</dc:creator>
+<dc:creator>Esteban Escaño, LM</dc:creator>
+<dc:creator>García Ruiz, R</dc:creator>
+<dc:creator>Sanz, G</dc:creator>
+<dc:creator>Alfaro Torres, J</dc:creator>
+<dc:creator>Borque Fernando, Á</dc:creator>
+<dc:creator>Gil Fabra, J</dc:creator>
+<dc:creator>Cabañuz Plo, T</dc:creator>
+<dc:creator>Tejero Sánchez, A</dc:creator>
+<dc:creator>Hakim Alonso, S</dc:creator>
+<dc:creator>Marquina Ibáñez, IM</dc:creator>
+<dc:creator>Gil Martínez, P</dc:creator>
+<dc:creator>Rubio Briones, J</dc:creator>
+<dc:creator>Lou Mercadé, AC</dc:creator>
+<dc:creator>Gil Sanz, MJ</dc:creator>
+<dc:creator>Muñoz Rivero, MV</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: Frente al sobrediagnóstico y al sobretratamiento en cáncer de próstata (CaP) se establecen estrategias terapéuticas como la vigilancia activa o la terapia focal, o métodos para precisar el diagnóstico del CaP de alto grado (CaP-AG), Gleason &amp;#8805; 7, como la resonancia magnética multiparamétrica o nuevos marcadores como el 4Kscore Test (4KsT). Es nuestro propósito testar mediante un estudio piloto la capacidad del 4KsT como identificador de CaP-AG (suma de Gleason &amp;#8805; 7) en biopsia de próstata (Bx) y compararlo con otros modelos pronósticos multivariantes disponibles, como el Prostate Cancer Prevention Trial-Risk Calculator 2.0 (PCPTRC 2.0) y elEuropean Research Screening Prostate Cancer-Risk Calculator 4 (ERSPC-RC 4). Material y métodos: Cincuenta y un pacientes sometidos a BxP según práctica clínica habitual, con un mínimo de 10 cilindros. Diagnóstico de CaP-AG consensuado por 4 uropatólogos. Comparación de las predicciones ofrecidas por los diferentes modelos mediante prueba U Mann-Whitney, áreas bajo la curva ROC (AUC) (test de DeLong), funciones de densidad de probabilidad, diagramas de caja y curvas de utilidad clínica (CUC). Resultados: Un 43% presentaron CaP y un 23,5% CaP-AG. Las medianas de probabilidad de 4KsT, PCPTRC 2.0 y ERSPC-RC 4 fueron significativamente diferentes entre los pacientes con CaP-AG y no CaP-AG (p &amp;#8804; 0,022), siendo más diferenciadas en el caso de 4KsT (mediana en CaP-AG: 51,5% [percentil 25-75: 25-80,5%], frente a 16% [P 25-75: 8-26,5%] en no CaP-AG [p = 0,002]). Todos los modelos mostraron AUC por encima de 0,7 sin diferencias significativas entre ninguno de ellos y 4KsT (p &amp;#8805; 0,20). Las funciones de densidad de probabilidad y diagramas de caja muestran una buena capacidad discriminativa, especialmente en los modelos de ERSPC-RC 4 y 4KsT. Las CUC muestran como un punto de corte del 9% de 4KsT identifica a todos los CaP-AG y permite un ahorro del 22% de biopsias, similar a lo que ocurre con los modelos de ERSPC-RC 4 y un punto de corte del 3%. Conclusiones: Los modelos predictivos evaluados ofrecen una buena capacidad de discriminación del CaP-AG en Bx. 4KsT es un buen modelo clasificatorio en su conjunto, seguido de ERSPC-RC 4 y PCPTRC 2.0. Las CUC permiten sugerir puntos de corte de decisión clínica: 9% para 4KsT y 3% en ERSPC-RC 4. Este estudio preliminar debe ser interpretado con cautela por su limitado tamaño muestral (AU)</dc:description>
+<dc:source>Actas Urol Esp;40(3): 155-163, abr. 2016. tab, graf</dc:source>
+<dc:identifier>ibc-150986</dc:identifier>
+<dc:title xml:lang="es">4Kscore Test, Prostate Cancer Prevention Trial-Risk Calculator y European Research Screening Prostate-Risk Calculator en la predicción del cáncer de próstata de alto grado; estudio preliminar</dc:title>
+<dc:subject>^d28846^s22045</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d28614</dc:subject>
+<dc:subject>^d32016</dc:subject>
+<dc:subject>^d1731^s22074</dc:subject>
+<dc:subject>^d24008^s22073</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d5678</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d32857^s22045</dc:subject>
+<dc:subject>^d22935^s22045</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d23405^s22045</dc:subject>
+<dc:subject>^d37562^s22045</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d1731^s22045</dc:subject>
+<dc:subject>^d11914^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201604</dc:date>
+</metadata>
+</record>
+</ibecs-document>

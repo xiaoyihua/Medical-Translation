@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-75403</identifier>
+<setSpec>0034-9356</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Evaluation of the p53 Arg72Pro polymorphism as a prognostic factor in severe head injury and the inclusion of this indicator in a predictive model</dc:title>
+<dc:description xml:lang="en">BACKGROUND AND OBJECTIVE: Physiologic variableshave traditionally been studied as prognostic factors insevere head injury. Until recently it was not thought thatgenetic factors might play a role. The main objective ofthis study was to construct a logistic regression modelincluding physiologic variables and the p53 Arg72Propolymorphism, which can promote neuron deaththrough apoptosis.MATERIAL AND METHODS: We included 90 patientsadmitted to the postoperative recovery unit with severehead injury. Patients with previous neurologic deficitswere excluded. Clinical variables were recorded. Thep53 Arg72Pro polymorphism was analyzed using polymerasechain reaction of DNA in blood. Neurologic outcomewas assessed on the Glasgow Outcome Scale. Apredictive logistic regression model was then constructedbased on relevant candidate variables (sex, age, poorGlasgow score, the Acute Physiology and ChronicHealth Evaluation II score, pupil size, pupil reactivity,subarachnoid hemorrhage, number of days in the recoveryunit, number of days on mechanical ventilation, andthe early development of hypotension) in addition to thep53 Arg72Pro polymorphism.RESULTS: The Arg/Arg polymorphism was an independentpredictor of poor outcome (odds ratio, 3.55;95% confidence interval [CI], 1.11-11.32; P=.032). Theselected model (including the variables age, gene polymorphism,pupil reactivity, and Glasgow score) had funcioadequatediscriminatory power (sensitivity 82.3%, 95%CI 72.8%-91.8%; specificity 78.6%, 95% CI 63.4%-93.8%), classifying 81.1% of the patients correctly. Thep53 Arg72Pro polymorphism, along with pupil reactivity,age and Glasgow score, is useful in a predictivemodel of good or poor outcome on discharge after headinjury(AU)</dc:description>
+<dc:creator>Carbayo Herencia, J. A</dc:creator>
+<dc:creator>Moreno Cuesta, J</dc:creator>
+<dc:creator>García Cuesta, D. C</dc:creator>
+<dc:creator>Escribano Martínez, J</dc:creator>
+<dc:creator>Jordán, J</dc:creator>
+<dc:creator>Martínez Lucas, P</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">OBJETIVO: Clásicamente se han estudiado variablesfisiológicas para conocer los factores pronósticos en laevolución de los pacientes que han padecido un traumatismocraneoencefálico grave, pero hasta hace poco tiempono se pensaba que los factores genéticos pudieraninfluir. El objetivo principal del estudio fue elaborar unmodelo de regresión logística que agrupara parámetrosfisiológicos y el polimorfismo genético Arg72Pro de p53,ya que éste puede condicionar la muerte neuronal porapoptosis.MATERIAL Y MÉTODO: Incluimos en el estudio 90pacientes que ingresaron en la Unidad de Reanimacióncon traumatismo craneoencefálico grave. Se excluyeronaquellos con déficit neurológico previo. Se registraronlas variables clínicas y se analizó el polimorfismoArg72Pro de p53 mediante amplificación por PCR(Polymerase Chain Reaction) de ADN sanguíneo. La evoluciónneurológica se valoró con la Glasgow OutcomeScale. Posteriormente se elaboró un modelo de regresiónlogística con fines predictivos con aquellas variablesrelevantes (que resultaron ser sexo, edad, peor Glasgow,APACHE II, tamaño de las pupilas, reactividad de laspupilas, hemorragia subaracnoidea, número de días deestancia en reanimación, número de días con ventilaciónmecánica y aparición de hipotensión arterial precoz), asícomo el polimorfismo genético Arg72Pro de p53.RESULTADOS: El polimorfismo Arg/Arg fue un predictorindependiente de mala evolución (OR: 3,55; IC del95%: 1,11-11,32; p=0,032). El modelo seleccionado incluyólas variables edad, polimorfismo genético, reactividadpupilar y escala de Glasgow, cuyo poder de discriminaciónes adecuado [sensibilidad 82,3% (IC del 95% 72,8-91,8) y especificidad 78,6% (IC del 95% 63,4-93,8)], presentandoun 81,1% de clasificaciones correctas...(AU)</dc:description>
+<dc:source>Rev Esp Anestesiol Reanim;56(9): 529-535, nov. 2009. tab, ilus</dc:source>
+<dc:identifier>ibc-75403</dc:identifier>
+<dc:title xml:lang="es">Evaluación del polimorfismo Arg72Pro de p53 como factor pronóstico del traumatismo craneoencefálico grave y su participación en la construcción de un modelo predictivo</dc:title>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d11547^s22031</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d30827^s22031</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d24697^s22074</dc:subject>
+<dc:subject>^d12541</dc:subject>
+<dc:subject>^d7202^s22012</dc:subject>
+<dc:subject>^d28957^s22031</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d13195</dc:subject>
+<dc:subject>^d34373^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200911</dc:date>
+</metadata>
+</record>
+</ibecs-document>

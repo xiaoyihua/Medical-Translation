@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-151643</identifier>
+<setSpec>0482-5985</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cement-femoral stem interface model in total hip prosthesis: study of the surface with finite element</dc:title>
+<dc:description xml:lang="en">Introduction. Debonding of the stem-cement interface is one of the most important causes aseptic loosening of the femoral stem, and it is related with the implant survival. The main goal of this study is the development of a damage model, in order to simulate the cement degradation and the debonding process of the stem-cement interface, respectively. We would consider two different surfaced finishing of the stem. Materials and methods. An axisymetric finite element model of a stem and the surrounding cement mantle was developed. The cement damage model was also implemented to simulate its degradation. The stem was gradually compressed in the cement by a dynamic, sinusoidal axial force, cycling between 0 and 7 kN for 1.7 million cycles at a frequency of 1 Hz. When the interface is completely debonded, contact friction is incorporated between both surfaces. Results. Subsidence is higher in the polished stems because the stem-cement interface is completely debonded. Cement damage in the polished stem is more distributed and quantitatively is lower than for the rough stems, where cement damage is more concentrated distally. Conclusion. Finite element models are able to predict the behaviour of implants relating the stem geometry with its surface finished. The influence of the surface finished on the cement damage and debonding process of the stem-cement interface have been demonstrated with the model proposed (AU)</dc:description>
+<dc:creator>Seral-García, B</dc:creator>
+<dc:creator>Seral-Iñigo, F</dc:creator>
+<dc:creator>García-Aznar, JM</dc:creator>
+<dc:creator>Pérez-Ansón, MA</dc:creator>
+<dc:creator>Doblaré-Castellano, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. La separación entre el cemento y el implante femoral se relaciona con los aflojamientos asépticos y con la supervivencia de los implantes. El objetivo del trabajo es el desarrollo de un modelo de daño que simule la degradación del cemento y el aflojamiento del implante, con dos acabados superficiales del vástago. Material y método. Aplicamos un modelo axisimétrico de elementos finitos de un vástago rodeado por una capa de cemento. La carga de compresión aplicada al vástago varía de 0 a 7 kN con frecuencia de 1 Hz durante 1,7 millones de ciclos. Una vez que se soltó la interfaz se incorporó rozamiento entre ambas superficies. Resultados. En los vástagos lisos el daño estimado en el cemento estaba más distribuido, siendo el daño global menor. En los rugosos hay mayor concentración del daño y mayor degradación del cemento en la zona distal, continuándose por la zona proximal. Conclusión. La simulación con elementos finitos permite predecir el comportamiento de los implantes relacionando macrogeometría y superficie. En nuestro modelo se demuestra la influencia del acabado superficial del vástago en la localización e intensidad del daño en el cemento y en la interfaz (AU)</dc:description>
+<dc:source>Rev. ortop. traumatol. (Madr., Ed. impr.);50(2): 137-143, 2006. graf</dc:source>
+<dc:identifier>ibc-151643</dc:identifier>
+<dc:title xml:lang="es">Modelo de interfaz cemento-vástago en artroplastias totales de cadera. Estudio de la superficie con elementos finitos</dc:title>
+<dc:subject>^d6236^s22033</dc:subject>
+<dc:subject>^d1868^s22065</dc:subject>
+<dc:subject>^d6236^s22031</dc:subject>
+<dc:subject>^d35403^s22039</dc:subject>
+<dc:subject>^d1868^s22011</dc:subject>
+<dc:subject>^d1868^s22002</dc:subject>
+<dc:subject>^d33577^s22039</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d33577^s22048</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d11916^s22048</dc:subject>
+<dc:subject>^d11916^s22011</dc:subject>
+<dc:subject>^d33577^s22011</dc:subject>
+<dc:subject>^d33577^s22045</dc:subject>
+<dc:subject>^d1868^s22048</dc:subject>
+<dc:subject>^d35403^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200600</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-159509</identifier>
+<setSpec>1138-3593</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Accuracy and reliability between glucose meters: a study under normal clinical practice conditions</dc:title>
+<dc:description xml:lang="en">Introduction. The glucose meters usually show a high accuracy, and in clinical practice, capillary and plasma glucose (PG) are used interchangeably. However, many variables can affect the validity of these devices. The aim of this study was to determine the accuracy and reliability of 3 glucose meters that are currently used in a primary care centre. Material and methods. A sample of venous blood and a drop of capillary blood were obtained from 59 participants. The drop was analysed in 3 glucose meters: 2 FreeStyle® Optium (OP1 and OP2), and one Accu-Chek® Aviva. The PG acted as the reference value, and the haematocrit and plasma levels of urea, bilirubin, uric acid and triglycerides were also analysed. We used the Passing-Bablok regression for accuracy and the intraclass correlation coefficient and the Bland-Altman method for reliability. The current American Diabetes Association standard of a total error of±5% was applied. Results. Differences in mean±standard deviation (mg/dL) and the systematic error were 5.8±7 and 5.8% (OP1); 6.2±8 and 5.9% (OP2); 8.3±8 and 6.3% (Accu-Chek®). The OP1/OP2 pair showed the highest level of reliability, with an intraclass correlation coefficient=0.97, bias=&amp;#8722;0.4mg/dL, and a width of the 95% limits of agreement of 28.6mg/dL. The highest levels of accuracy and reliability were observed in high glucose ranges (PG&amp;#8805;126mg/dL). Conclusions. Despite their clinically acceptable mean difference compared to the PG, the 3 glucose meters did not fulfill the current American Diabetes Association standard. The regular performance of quality control tests of these devices is recommended (AU)</dc:description>
+<dc:creator>García de Diego, O</dc:creator>
+<dc:creator>Sgaramella, GA</dc:creator>
+<dc:creator>Deib-Morgan, K</dc:creator>
+<dc:creator>Pariente Rodrigo, E</dc:creator>
+<dc:creator>García-Velasco, P</dc:creator>
+<dc:creator>García González, I</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. Los glucómetros demuestran habitualmente una gran exactitud, y en la práctica, la glucemia capilar y la glucemia plasmática (GP) son utilizadas indistintamente. Sin embargo, numerosas variables pueden afectar la validez de estos aparatos. El objetivo de este estudio fue conocer la exactitud y la concordancia de 3 glucómetros utilizados en las consultas de un EAP. Material y métodos. De 59 participantes se obtuvieron una muestra de sangre venosa y una gota de sangre capilar, que fue analizada en 3 glucómetros: 2 FreeStyle® Optium (OP1 y OP2) y un Accu-Chek® Aviva. El valor de referencia fue la GP y fueron analizados asimismo el hematocrito y los niveles plasmáticos de urea, bilirrubina, ácido úrico y triglicéridos. Se utilizaron la regresión de Passing-Bablok para la exactitud, y el coeficiente de correlación intraclase y el método Bland-Altman para la concordancia. Se ha considerado el estándar actual (American Diabetes Association) de un error tolerado de±5%. Resultados. La diferencia de medias±desviación estándar (mg/dL) y el error sistemático fueron: 5,8±7 y 5,8% (OP1); 6,2±8 y 5,9% (OP2); 8,3±8 y 6,3% (Accu-Chek®). El par más concordante fue OP1/OP2, con un coeficiente de correlación intraclase=0,97, sesgo=&amp;#8722;0,4mg/dL y una amplitud de los límites de acuerdo con el 95%=28,6mg/dL. Se observaron los mayores grados de exactitud y de concordancia en rangos glucémicos elevados (GP&amp;#8805;126mg/dL). Conclusiones. Aunque mostraron una diferencia de medias clínicamente aceptable respecto a la GP, los 3 glucómetros incumplieron el estándar actual de la American Diabetes Association. Es recomendable la realización periódica de controles de calidad de estos dispositivos (AU)</dc:description>
+<dc:source>SEMERGEN, Soc. Esp. Med. Rural Gen. (Ed. Impr.);43(1): 20-27, ene.-feb. 2017. tab, graf</dc:source>
+<dc:identifier>ibc-159509</dc:identifier>
+<dc:title xml:lang="es">Exactitud y concordancia entre glucómetros: un estudio en condiciones habituales de práctica clínica</dc:title>
+<dc:subject>^d37656^s22031</dc:subject>
+<dc:subject>^d1812^s22002</dc:subject>
+<dc:subject>^d4943^s22048</dc:subject>
+<dc:subject>^d28575^s22048</dc:subject>
+<dc:subject>^d28575^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1328^s22045</dc:subject>
+<dc:subject>^d1328^s22066</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d1328^s22074</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d1328^s22039</dc:subject>
+<dc:subject>^d12223</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d23570^s22039</dc:subject>
+<dc:subject>^d3942^s22054</dc:subject>
+<dc:subject>^d28379^s22045</dc:subject>
+<dc:subject>^d28379^s22066</dc:subject>
+<dc:subject>^d10221^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201702</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-139549</identifier>
+<setSpec>0014-2565</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Is time to search the Wells Score 4.0?</dc:title>
+<dc:description xml:lang="en">Background: Wells score for deep vein thrombosis presents problems for implementation in the hospital emergencies, mainly due to the complexity of its enforcement. Objective: To assess whether the inclusion of D-dimer as a predictor might lead to a simplification of this clinical decision rule. Patients and methods: A database of deep vein thrombosis patients was studied by logistic regression model in which the 10 predictors in the Wells score and the dimer D were included. The diagnosis was made with compression ultrasonography with Doppler signal. D-dimer was determined by a quantitative method of latex, a technique immunofiltration or a turbidimetric technique. Results: 577 patients (54.1% women) were studied, with a mean age of 66.7 (14.2) years. 25.1% were diagnosed with deep vein thrombosis. Only four variables were independent, building a weighted model with greater predictive ability (area under the curve) than the original model (0.844 vs. 0.751, p&lt;0.001). Both models showed an acceptable safety, with a similar rate of failure (0.8% vs. 1%). The simplified model allowed to select a higher percentage of patients who could have benefited from the non performance of the imaging test (20.6% vs. 15.8%, p=0.039). Conclusions: The introduction of D-dimer in a regression model simplifies the Wells score and maintain the same efficacy and safety, which could improve its implementation in the hospital emergencies (AU)</dc:description>
+<dc:creator>Lozano-Rodríguez, A</dc:creator>
+<dc:creator>Rosa-Jiménez, A</dc:creator>
+<dc:creator>Martín-Moreno, P</dc:creator>
+<dc:creator>Hinojosa-Martínez, MD</dc:creator>
+<dc:creator>Montijano-Cabrera, ÁM</dc:creator>
+<dc:creator>Rosa-Jiménez, F</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Antecedentes: El modelo de Wells para la trombosis venosa profunda presenta problemas para su implementación en las áreas de urgencias hospitalarias debido, fundamentalmente, a la complejidad de su aplicación. Objetivo: Evaluar si la inclusión del dímero D como un predictor podría repercutir en una simplificación de dicho modelo. Pacientes y métodos: Sobre una base de datos retrospectiva de pacientes estudiados por trombosis venosa profunda se aplicó un modelo de regresión logística en el que se incluyeron los 10 predictores del modelo de Wells y el resultado del dímero D. El diagnóstico se realizó con una ecografía de compresión con señal Doppler. El dímero D se determinó mediante una técnica cuantitativa de látex, una técnica de inmunofiltración o una técnica turbidimétrica. Resultados: Se estudiaron 577 pacientes (mujeres: 54,1%) con una edad media de 66,7 (14,2) años y un porcentaje de trombosis venosa profunda del 25,1%. Solo 4 variables resultaron independientes, construyéndose un modelo ponderado con una mayor capacidad predictiva (área bajo la curva) que el modelo original (0,844 vs. 0,751, p &lt; 0,001). Ambos modelos mostraron una seguridad aceptable, con una tasa de fracasos similar (0,8% vs. 1%). El modelo simplificado permitió seleccionar a un mayor porcentaje de pacientes en los que podría no haberse realizado la prueba de imagen (20,6% vs. 15,8%, p = 0,039). Conclusiones: La introducción del dímero D en un modelo de regresión permite simplificar el modelo de Wells y mantener su misma eficacia y seguridad, lo que podría mejorar su implementación en las áreas de urgencias hospitalarias (AU)</dc:description>
+<dc:source>Rev Clin Esp;215(5): 258-264, jun.-jul. 2015. tab</dc:source>
+<dc:identifier>ibc-139549</dc:identifier>
+<dc:title xml:lang="es">¿Ha llegado el momento de buscar la escala de Wells 4.0?</dc:title>
+<dc:subject>^d4713^s22045</dc:subject>
+<dc:subject>^d33768^s22016</dc:subject>
+<dc:subject>^d27977</dc:subject>
+<dc:subject>^d4711</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d29199</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201507</dc:date>
+</metadata>
+</record>
+</ibecs-document>

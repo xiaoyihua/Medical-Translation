@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-5354</identifier>
+<setSpec>1135-4127</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:creator>Carrillo Ojeda, P </dc:creator>
+<dc:creator>González Casanova González, S </dc:creator>
+<dc:creator>Joyanes Romo, A </dc:creator>
+<dc:creator>Armas Felipe, J </dc:creator>
+<dc:creator>Fraga Hernández, E </dc:creator>
+<dc:creator>Marrero Pereyra, B</dc:creator>
+<dc:creator>Reyes Rodríguez, J. F</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">El presente estudio se desarrolla en el Área de Salud de Tenerife, que cuenta con una población de derecho de 692.366 habitantes. Debido a su gran dimensión, se divide en 37 zonas de salud, de las cuales 34 funcionan con el modelo de equipo de atención primaria. El principal objetivo del presente trabajo es explorar un modelo alternativo al actual para la asignación de médicos de familia (MF) a las zonas de salud, a fin de lograr una mayor equidad en la distribución de las cargas de trabajo. Se incluyeron todos los centros de salud (CS) que durante el año completo contaron con cita previa centralizada y cuyos datos ofrecían calidad suficiente para su comparación, resultando un total de 26 CS cabecera (343.250 habitantes). Los consultorios locales dependientes de los CS cabecera se justifican por motivos de dispersión geográfica, aunque su población no llegue a alcanzar la ratio mínima de personas adscritas por profesional como criterio general. Por ello, pensamos que la asignación de recursos a los consultorios locales podría ser analizada en otro estudio de forma específica. Para cada CS cabecera se obtuvo la pirámide de población adscrita, la de población atendida y la pirámide del total de consultas; con estos datos se elaboraron los indicadores de presión asistencial (PA), pirámide del porcentaje de población atendida sobre su población adscrita ( por ciento Pob. Ate.) y pirámide del índice de frecuentación de la población atendida (IF Pob. Ate.). Basándonos en el análisis de estos dos últimos indicadores, se propone un modelo alternativo para la asignación de MF a los CS cabecera, dado el menor coeficiente de variación (CV = 6,9) de la PA entre centros, del que se obtiene con los dos modelos que se vienen aplicando en la práctica, G y cupo óptimo (CV = 19,3 y 21,5, respectivamente) (AU)</dc:description>
+<dc:source>Cuad. gest. prof. aten. prim. (Ed. impr.);7(4): 168-176, oct. 2001. tab, graf</dc:source>
+<dc:identifier>ibc-5354</dc:identifier>
+<dc:title xml:lang="es">Aproximación a un modelo alternativo para la asignación de médicos de familia a las zonas de salud</dc:title>
+<dc:subject>^d29745</dc:subject>
+<dc:subject>^d30652</dc:subject>
+<dc:subject>^d50271</dc:subject>
+<dc:subject>^d11253^s22049</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d51571</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d28640</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200110</dc:date>
+</metadata>
+</record>
+</ibecs-document>

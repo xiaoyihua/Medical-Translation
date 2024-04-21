@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-18337</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Informed consent documents in primary care</dc:title>
+<dc:creator>Serrano, Encarnación</dc:creator>
+<dc:creator>Reyes, Alejandro</dc:creator>
+<dc:creator>Herrero, Alicia</dc:creator>
+<dc:creator>García, Fátima</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Valoración de la cantidad y calidad de la información que presentan los documentos de consentimiento informado (CI) que se utilizan en atención primaria.Material y métodos: Estudio descriptivo transversal. Análisis de todos los documentos de CI que se utilizaban en las 11 áreas sanitarias de Madrid en el año 2001. Se evaluó la cantidad de información según las variables más valoradas por autores y organismos (conferencia de consenso), y la calidad de información aplicando al texto la fórmula de Flesch y analizando los tecnicismos. Dos documentos fueron excluidos del análisis de la calidad de información por no poder aplicar la fórmula de Flesch debido al escaso texto que contenían. Resultados: El 100 por ciento de los documentos registra el nombre del procedimiento, el reconocimiento del paciente de haber sido informado y su firma. Más del 75 por ciento recoge la explicación del procedimiento, los riesgos, las posibilidades de ampliar información, el nombre de la persona que autoriza el procedimiento, el lugar y la fecha. Menos del 50 por ciento recoge los beneficios, las alternativas y la firma del médico. Sólo el 8 por ciento reconoce la libertad del paciente para reconsiderar su decisión. Respecto a la dificultad estructural (valorada aplicando la fórmula de Flesch), el 70 por ciento de los documentos tiene una puntuación positiva, y el 40 por ciento mayor de 10. De los 3 documentos con puntuación negativa, 2 es menor de -3. El 90 por ciento de los documentos no contiene tecnicismos. La media de tecnicismos es 0,1.Conclusiones: Los documentos de CI utilizados en las áreas de Madrid cumplen adecuadamente los criterios básicos de cantidad y calidad de la información, aunque en algunos aspectos serían deseables algunas mejoras (AU)</dc:description>
+<dc:source>Rev. calid. asist;17(6): 325-330, ago. 2002. tab</dc:source>
+<dc:identifier>ibc-18337</dc:identifier>
+<dc:title xml:lang="es">Documentos de consentimiento informado en atención primaria</dc:title>
+<dc:subject>^d12223</dc:subject>
+<dc:subject>^d7435</dc:subject>
+<dc:subject>^d11756^s22049</dc:subject>
+<dc:subject>^d28571</dc:subject>
+<dc:subject>^d25105</dc:subject>
+<dc:subject>^d11756^s22048</dc:subject>
+<dc:subject>^d12224^s22048</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:subject>^d12224^s22049</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200208</dc:date>
+</metadata>
+</record>
+</ibecs-document>

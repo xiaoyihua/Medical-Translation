@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-2606</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">New regimen for protection of health data</dc:title>
+<dc:creator>Villar Rojas, F. J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">La nueva Ley de Protección de Datos Personales de 1999 (Ley Orgánica 15/1999, de 13 de diciembre) ha modificado el régimen de protección de los datos de salud. Su aprobación es consecuencia de la Directiva 95/46/CE. Los cambios principales son: 1) la extensión del control público a los datos no automatizados, recogidos en ficheros manuales, además de los automatizados; únicamente quedan fuera los ficheros personales o domésticos; 2) la regla general, el consentimiento previo del afectado, se exceptúa cuando el tratamiento de los datos sea preciso para fines médicos o de gestión sanitaria, siempre que dicho tratamiento se realice por un profesional sujeto por el secreto profesional; 3) se establece la compatibilidad del uso para fines científicos de los datos recogidos en ficheros cualquiera que fuera la finalidad con la que se recabaron, y 4) se afirma la vigencia de las normas sobre tratamiento de datos de salud recogidas en la legislación sanitaria. La Ley reduce los supuestos en que es preciso el consentimiento para manejar datos de salud en beneficio de su utilización para atender fines médicos, sanitarios y de investigación (AU)</dc:description>
+<dc:source>Gac Sanit;14(2): 156-162, mar.-abr.  2000.</dc:source>
+<dc:identifier>ibc-2606</dc:identifier>
+<dc:title xml:lang="es">El nuevo régimen de protección de los datos de salud</dc:title>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d3243</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200004</dc:date>
+</metadata>
+</record>
+</ibecs-document>

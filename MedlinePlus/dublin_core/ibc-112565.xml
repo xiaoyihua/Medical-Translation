@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-112565</identifier>
+<setSpec>2253-654x</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">18F-FDG-PET-based tumor delineation in cervical cancer: Threshold contouring and lesion volumes</dc:title>
+<dc:creator>Ferreira, C. G</dc:creator>
+<dc:creator>Erlich, F</dc:creator>
+<dc:creator>Mamede, M</dc:creator>
+<dc:creator>Nogueira-Rodrigues, A</dc:creator>
+<dc:creator>Camisão, C</dc:creator>
+<dc:creator>Altino, S</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objective. To evaluate a semi-automated PET-image tumor segmentation algorithm for gross tumor volume (GTV) delineation in patients with locally advanced cervical cancer. Material and methods. Thirty-two patients with locally advanced cervical cancer were retrospectively evaluated. Semi-automated PET-image-based GTV delineation was applied using a previous established algorithm (GTV2SD) and 2 fixed threshold-based methods (GTV40% and GTV50%). GTV2SD was determined as the pixel with the mean value plus 2-standard deviation of the liver intensity, and GTV40% and GTV50% with 40% and 50% of the maximum tumor intensity (Tmax), respectively. The derived volumes were then compared with the GTVs generated manually using MR (GTVMR). Results. The mean value of GTV2SD, GTV40% and GTV50% was 85.3cc, 16.2cc and 24.1cc, respectively. Good agreement was noticed between GTV2SD and GTVMR (rho=0.88). GTV40% and GTV50% showed weaker correlation with GTVMR (rho=0.68 and rho=0.71, respectively). Conclusions. This study provides preliminary evidence that metabolic tumor volume delineation is feasible using computer-generated measurements in 18F-FDG PET images. Generation of PET-based tumor volumes is affected by the choice of threshold level used. Metabolic tumor bulk calculated using the pixel with the mean value plus 2-standard deviations of the liver intensity (GTV2SD) correlates better with the MR-derived tumor volumes. The method is a simple and clinically applicable approach to generate PET-derived GTV for radiation therapy planning of cervical cancer(AU)</dc:description>
+<dc:source>Rev. esp. med. nucl. imagen mol. (Ed. impr.);32(3): 162-166, mayo-jun.2013.</dc:source>
+<dc:identifier>ibc-112565</dc:identifier>
+<dc:title xml:lang="es">Delineación tumoral basada en 18F-FDG-PET en el cáncer cervical: delimitación del contorno umbral y volúmenes de la lesión</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d2618^s29166</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d19062</dc:subject>
+<dc:subject>^d7022^s29166</dc:subject>
+<dc:subject>^d2618^s22012</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d33478</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d2623^s29166</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201306</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-130199</identifier>
+<setSpec>1888-4008</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Usefulness of procalcitonin for predicting bacteremia in cancer patients with fever</dc:title>
+<dc:description xml:lang="en">Aim. Bacteraemia is one of the most important causes of morbidity and mortality in cancer patients. The aim of this study was to evaluate the usefulness of procalcitonin for predicting bacteraemia in febrile oncology and oncohaematology patients admitted to the Emergency Department of our hospital. Material and methods. The study included a total of 152 febrile episodes in 134 adult cancer patients. A blood sample was collected on admission to the Emergency Department to measure C-reactive protein (CRP) and procalcitonin (PCT). Febrile episodes were classified into two groups according to the blood culture results: bacteraemia episodes (n = 22) and non-bacteraemia episodes (n = 130). Receiver Operating Characteristic curve analysis was performed for each biomarker as a predictor of bacteraemia. Results. PCT and CRP levels were significantly higher in the bacteraemia episodes group when compared with non-bacteraemia episodes group. PCT showed a diagnostic accuracy higher than CRP for predicting bacteraemia (AUC Receiver Operating Characteristic: PCT 0,781 (95% CI: 0,667 - 0,895) vs. CRP: 0,632 (95% CI: 0,493 - 0,771); p = 0,02). A cut-off value of 0,20 ng/mL was associated with a negative predictive value of 95,8% to rule-out bacteraemia. Conclusion. PCT measurement in febrile cancer patients in the Emergency Department is a useful tool to rule-out bacteraemia, and may contribute in initial therapeutic decision making and rationalise the request for blood culture (AU)</dc:description>
+<dc:creator>Viqueira-González, Montserrat</dc:creator>
+<dc:creator>García de Guadiana-Romualdo, Luis</dc:creator>
+<dc:creator>Cerezuela Fuentes, Pablo</dc:creator>
+<dc:creator>Hernando-Holgado, Ana</dc:creator>
+<dc:creator>Jiménez-Santos, Enrique</dc:creator>
+<dc:creator>Español Morales, Ignacio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. La bacteriemia es una de las principales causas de morbimortalidad en el paciente con cáncer. El objetivo de este estudio es evaluar la utilidad de la procalcitonina como marcador predictor de bacteriemia en pacientes oncológicos y oncohematológicos que acudieron al Servicio de Urgencias de nuestro hospital. Material y métodos. Se incluyeron en el estudio 152 episodios de fiebre en 134 pacientes adultos oncológicos. Al ingreso en el Servicio de Urgencias una muestra de sangre fue extraída para la medida de proteína C reactiva (PCR) y procalcitonina (PCT). Los episodios febriles se clasificaron en dos grupos en función de los resultados del hemocultivo: bacteriémicos (n = 22) y no bacteriémicos (n = 130). El rendimiento diagnóstico de los biomarcadores como predictores de bacteriemia fue calculado mediante el análisis del área bajo la curva Receiver Operating Characteristic. Resultados. Las concentraciones de PCT y PCR fueron significativamente más altas en los episodios febriles con bacteriemia que en los no bacteriémicos. La PCT presentó un rendimiento diagnóstico más alto que la PCR como predictor de bacteriemia (área bajo la curva Receiver Operating Characteristic: PCT 0,781 (IC 95%: 0,667 - 0,895) vs. PCR: 0,632 (IC 95%: 0,493 - 0,771); p = 0,02). Un punto de corte de 0,20 ng/mL presentó un valor predictivo negativo de 95,8% para descartar bacteriemia. Conclusión. En el Servicio de Urgencias, la medida de PCT en pacientes oncológicos con fiebre es una herramienta útil para descartar bacteriemia y puede contribuir a la toma inicial de decisiones terapéuticas y a racionalizar la solicitud del hemocultivo (AU)</dc:description>
+<dc:source>Rev. lab. clín;7(4): 127-133, oct.-dic. 2014. tab, ilus</dc:source>
+<dc:identifier>ibc-130199</dc:identifier>
+<dc:title xml:lang="es">Utilidad de la procalcitonina para predecir bacteriemia en pacientes oncológicos con fiebre</dc:title>
+<dc:subject>^d51711^s22045</dc:subject>
+<dc:subject>^d28418</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3965</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22372</dc:subject>
+<dc:subject>^d30241^s22016</dc:subject>
+<dc:subject>^d5444^s22012</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d9562^s22012</dc:subject>
+<dc:subject>^d28320^s22066</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d28320^s22045</dc:subject>
+<dc:subject>^d5444^s22016</dc:subject>
+<dc:subject>^d5444^s22027</dc:subject>
+<dc:subject>^d22372^s22002</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201412</dc:date>
+</metadata>
+</record>
+</ibecs-document>

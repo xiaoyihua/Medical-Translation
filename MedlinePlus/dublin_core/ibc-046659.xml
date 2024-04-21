@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-046659</identifier>
+<setSpec>1134-3230</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Optimization of the CSII therapy using the continuous glucose monitoring systems</dc:title>
+<dc:description xml:lang="en">The continuous subcutaneous insulin infusion (CSII) systems    are the most physiological treatment of diabetes mellitus. This therapy    should be initiated using theoretical algorithms to calculate    both basal rate and boluses, but then is necessary to make adaptations    using the results of the capillary glucose measurements    done for the patient. The continuous glucose monitoring systems    (CGMS) offer very detailed information about glucose profile, being    very useful to adjust CSII therapy especially during the night. In    this chapter, recommendations to adjust basal rate and boluses    of diabetic subjects treated with insulin pumps using the CGMS    systems are presented, together with practical cases obtained from    our clinic</dc:description>
+<dc:creator>Chico, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Los sistemas de infusión continua de insulina (ISCI) representan    el tratamiento insulínico más fisiológico de la diabetes mellitus. El    inicio del mismo en cuanto al cálculo de la línea basal y de los    &#147;bolus&#148; suele hacerse de forma teórica utilizando unos algoritmos    preestablecidos, pero posteriormente es necesario realizar    ajustes en la pauta en función de los controles de glucemia capilar    que realiza el propio paciente. Los sistemas de monitorización    continua de glucosa (SMCG) nos ofrecen una información    muy detallada del perfil de glucosa del paciente, lo cual es de gran    utilidad para ajustar la pauta del tratamiento con ISCI, sobre todo    en el período nocturno. En este capítulo se ofrecen recomendaciones    para ajustar la línea basal y los &#147;bolus&#148; en pacientes diabéticos    tratados con ISCI utilizando SMCG, así como ejemplos prácticos    extraídos de pacientes de nuestra consulta</dc:description>
+<dc:source>Av. diabetol;21(2): 129-134, abr.-jun. 2005. ilus, tab</dc:source>
+<dc:identifier>ibc-046659</dc:identifier>
+<dc:title xml:lang="es">Optimización del tratamiento con ISCI mediante la monitorización continua de glucosa</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d23570^s22074</dc:subject>
+<dc:subject>^d22523</dc:subject>
+<dc:subject>^d^s22020</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d37656</dc:subject>
+<dc:subject>^d3944^s22057</dc:subject>
+<dc:subject>^d3950^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200506</dc:date>
+</metadata>
+</record>
+</ibecs-document>

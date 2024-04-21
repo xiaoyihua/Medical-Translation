@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-96839</identifier>
+<setSpec>1137-6821</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Time series analysis of poisonings treated in a hospital emergency department</dc:title>
+<dc:description xml:lang="en">Objective: To establish a system of quality control for calculating the weekly cumulative incidence rates of poisoning streated in a hospital emergency department. Material and methods: Daily reports of poisoning cases treated in the emergency department of Hospital NS Candelaria from January 2005 to December 2009 were used to provide the time series for analysis of weekly cumulative incidencerates. An autoregressive integrated moving average (ARIMA) model was used to predict the expected endemic rate, to provide sufficient warning to allow for preparation of appropriate interventions based on that indicator&#146;s behavior. Results: A total of 3550 reports of poisoning were collected. The annual cumulative incidences for the period studied ranged from 128 x 105 residents of the hospital&#146;s catchment area in 2005 to 203 x 105 in 2009 (weekly increase of0.6%). The ARIMA model fitted to the 2005-2008 subseries predicted the behavior of 2009 incidence rates, which adequately reflected observations for that year.Conclusions: A comparison between the actual flow of poisoning cases in 2009 and the behavior of incidence rates predicted by the statistical model for that period suggests that this technique is a reliable and appropriate tool formonitoring the process of care in poisoning cases attended by a hospital emergency department wishing to bring intervention planning into line with expected incidence (AU)</dc:description>
+<dc:creator>Aguirre-Jaime, J</dc:creator>
+<dc:creator>Rodríguez Álvarez, C</dc:creator>
+<dc:creator>Arias Rodríguez, A</dc:creator>
+<dc:creator>García Andrés, M. C</dc:creator>
+<dc:creator>Morcillo Rehberger, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Establecer un sistema de control de calidad estadística para la tasa de incidencia acumulada semanal de intoxicaciones atendidas en un servicio de urgencias hospitalario. Métodos: Se empleó las notificaciones diarias de casos atendidos por intoxicaciones en el servicio de urgencias del Hospital Nuestra Señora de la Candelaria, entre enero de2005 y diciembre de 2009 para conformar la serie temporal de tasas las semanales de incidencia acumulada. Mediante metodología ARIMA (modelos autorregresivos integrados de medias móviles) se predijo el valor endémico esperado de esta tasa con un periodo de antelación suficiente como para tomar medidas de intervención oportunas apartir del comportamiento observado en este indicador. Resultados: Se recopiló una muestra de 3.550 notificaciones de intoxicaciones atendidas. Las tasas de incidencia acumulada anual en el periodo estudiado fluctuaron entre 128 por 100.000 habitantes del área de influencia del hospital en 2005 y 203 x por 100.000 en 2009, con un incremento semanal del 0,6%. El modelo ARIMA ajustado a la subserie 2005-2008 produjo un pronóstico de comportamiento de la tasa de intoxicaciones para 2009 que contrastado con lo observado en ese año nos permitió considerarlo adecuado. Conclusiones: El contraste del canal de control de calidad estadística de las intoxicaciones atendidas en urgencias con esta técnica para 2009 con el comportamiento observado en ese indicador durante ese mismo año permite considerar a este instrumento como adecuado y fiable para monitorizar el proceso asistencial de atención a las intoxicaciones en el servicio de urgencias hospitalario con vistas a una intervención oportuna sobre su incidencia (AU)</dc:description>
+<dc:source>Emergencias (Sant Vicenç dels Horts);23(3): 193-199, jun. 2011. ilus, tab</dc:source>
+<dc:identifier>ibc-96839</dc:identifier>
+<dc:title xml:lang="es">Análisis de series temporales aplicado a intoxicaciones atendidas en urgencias hospitalarias</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d^s22083</dc:subject>
+<dc:subject>^d11471^s22080</dc:subject>
+<dc:subject>^d4707^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28419</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201106</dc:date>
+</metadata>
+</record>
+</ibecs-document>

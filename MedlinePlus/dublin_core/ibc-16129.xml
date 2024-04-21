@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-16129</identifier>
+<setSpec>0212-6567</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Use of neurone networks in medicine: concerning dyspeptic pathology</dc:title>
+<dc:creator>Méndez Díez, C</dc:creator>
+<dc:creator>Conde Gómez, M</dc:creator>
+<dc:creator>López Carabaño, A</dc:creator>
+<dc:creator>Sáenz Bajo, N</dc:creator>
+<dc:creator>Barrios Rueda, E</dc:creator>
+<dc:creator>Domínguez Macías, I</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Objetivo. Desarrollo y entrenamiento de una red neuronal que permita clasificar a los pacientes que acuden a la consulta con síntomas de dispepsia en dos grupos: los que muy probablemente tengan enfermedad ulcerosa péptica o reflujo gastroesofágico (RGE) y los que muy probablemente tengan dispepsia funcional o idiopática. Comparación de los resultados obtenidos con la red neuronal y otros clasificadores estadísticos. Diseño. Estudio retrospectivo. Emplazamiento. Tres consultas de equipo de atención primaria de ámbito urbano. Participantes. Ochenta y un pacientes con diagnóstico de dispepsia, a los que se realizó endoscopia digestiva y/o tránsito esofagogastroduodenal (EGD) documentado en la historia clínica. Método. Entrevista personal con cuestionario predefinido sobre sintomatología y factores de riesgo de patología dispéptica. El análisis de los datos se ha realizado con clasificador determinista, clasificador estadístico y red neuronal basada en un perceptrón multicapa. Resultados. La red neuronal clasifica correctamente a un 81 per cent de los pacientes, con un valor predictivo negativo (VPN) del 90 per cent y un valor predictivo positivo (VPP) del 80 per cent. Conclusiones. La red neuronal proporciona excelentes tasas de acierto en la clasificación de los pacientes a partir de la presencia o no de determinados síntomas. Se observa una tendencia a discriminar mejor los diagnósticos negativos (dispepsia funcional o idiopática) frente a los positivos (enfermedad ulcerosa péptica o RGE). El uso sistemático de redes neuronales en las consultas de atención primaria facilitaría al clínico su labor, aumentando la rentabilidad de cualquier decisión diagnóstica y terapéutica (AU)</dc:description>
+<dc:source>Aten Primaria;30(2): 99-102, jun. 2002.</dc:source>
+<dc:identifier>ibc-16129</dc:identifier>
+<dc:title xml:lang="es">Uso de redes neuronales en medicina: a propósito de la patología dispéptica</dc:title>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d11756</dc:subject>
+<dc:subject>^d4478</dc:subject>
+<dc:subject>^d10633</dc:subject>
+<dc:subject>^d29935</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3965</dc:subject>
+<dc:subject>^d24004</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d28918</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200206</dc:date>
+</metadata>
+</record>
+</ibecs-document>

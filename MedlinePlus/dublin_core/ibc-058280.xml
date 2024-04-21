@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-058280</identifier>
+<setSpec>1695-4033</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Agreement between two devices for measuring exhaled nitric oxide</dc:title>
+<dc:description xml:lang="en">Background                 Measurement of fractional exhaled nitric oxide (FENO) is a non-invasive marker of eosinophilic airway inflammation that can be useful in asthma diagnosis and control, as well as in treatment monitoring.                 Objective                 We studied the correlation between two techniques for measuring FENO: the chemiluminescence-based analyzer (NIOX(R), Aerocrine, Sweden) and a new portable electrochemical sensor-based analyzer (NIOX-MINO(R), Aerocrine).                 Material and methods                 FENO was measured by the single breath on-line method. In all children, three consecutives measurements were obtained with NIOX(R), with a maximum of six attempts, and the arithmetic mean was calculated. Next, using NIOX-MINO(R), a single measurement was made successively in each of the children. The variables analyzed were sex, age, height, weight, diagnosis, treatment, NIOX-MINO(R) value, mean of three values obtained with NIOX(R) and the NO elimination rate (nL/min). For the statistical analysis, the Bland-Altman plot was used to compare the means and the differences between measurements of FENO from NIOX(R) and NIOX-MINO(R). The agreement between the two analyzers was estimated by Cohen's Kappa statistic.                 Results                 Thirty children were included, 14 (46.67 %) boys and 16 (53.33 %) girls. The mean age was 11.3 ± 3.09 years. All of the children successfully performed the measurements with two analyzers. The relationship between the means and the differences in the values obtained with NIOX-MINO(R) and NIOX(R) were statistically significant (p &lt; 0.005). In addition, Cohen's Kappa statistic (0.78) suggested a high degree of agreement between the results obtained with the two devices.                 Conclusions                 The two analyzers, NIOX-MINO(R) and NIOX(R), were not equivalent. There was good agreement between the FENO values measured with the two devices. Measurement of FENO with the portable electrochemical sensor-based analyzer (NIOX-MINO(R)) is valid and feasible in children older than 5 years</dc:description>
+<dc:creator>Korta Murua, J</dc:creator>
+<dc:creator>Emparanza Knorr, J. I</dc:creator>
+<dc:creator>Pérez-Yarza, E. G</dc:creator>
+<dc:creator>Sardón Prado, O</dc:creator>
+<dc:creator>Mintegui Aramburu, J</dc:creator>
+<dc:creator>Aldasoro Ruiz, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Antecedentes                 La fracción exhalada de óxido nítrico (FENO) se comporta como un marcador no invasivo de inflamación eosinófila de la vía aérea, que resulta de utilidad en el diagnóstico de asma, en el control de la enfermedad y en la monitorización del tratamiento.                 Objetivo                 Analizar la concordancia entre dos dispositivos de medida de la FENO, un analizador de quimioluminiscencia estacionario (NIOX(R), Aerocrine, Suecia) y un analizador electroquímico portátil (NIOX-MINO(R), Aerocrine, Suecia).                 Material y métodos                 Las medidas se han realizado mediante registro on-line de respiración única (single breath on-line measurement). Se han obtenido tres medidas consecutivas con el analizador NIOX(R), máximo de seis intentos, y se ha calculado la media. Asimismo, y de forma sucesiva en cada uno de los niños, se realizó otra medición con el analizador NIOX-MINO(R). Se han analizado las variables cuantitativas edad, talla, peso, valor NIOX-MINO(R), valor medio NIOX(R) y flujo de óxido nítrico (NO) (nl/min), y las variables cualitativas sexo, diagnóstico y tratamiento. En el análisis estadístico se han estudiado la regresión de las medias de FENO (Bland-Altman) y el grado de acuerdo entre ambos dispositivos (estadístico kappa de Cohen).                 Resultados                 Se han estudiado 30 niños, edad media 11,3 ± 3,09 años, distribuidos en 14 varones (46,67 %) y 16 mujeres (53,33 %). El 100 % de los casos realizaron con éxito las mediciones con ambos dispositivos. La regresión de las medias obtenidas fue significativa, tanto en valores absolutos como relativos. Asimismo, hubo acuerdo entre los resultados con ambos dispositivos (kappa de Cohen, 0,78).                 Conclusiones                 Los dos sistemas estudiados de determinación de la FENO no son equivalentes. Existe entre ambas técnicas un acuerdo sustancial en las determinaciones obtenidas. La FENO determinada mediante técnica electroquímica con sistemas portátiles es válida en niños mayores de 5 años</dc:description>
+<dc:source>An Pediatr (Barc);67(6): 572-577, dic. 2007. ilus</dc:source>
+<dc:identifier>ibc-058280</dc:identifier>
+<dc:title xml:lang="es">Concordancia entre dos dispositivos de medida de óxido nítrico exhalado</dc:title>
+<dc:subject>^d4635^s22045</dc:subject>
+<dc:subject>^d9753^s22044</dc:subject>
+<dc:subject>^d8338</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d9753^s22020</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200712</dc:date>
+</metadata>
+</record>
+</ibecs-document>

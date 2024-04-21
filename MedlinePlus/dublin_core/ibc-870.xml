@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-870</identifier>
+<setSpec>0009-739X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">In-hospital mortality among patients with major trauma: analysis of preventable mortality</dc:title>
+<dc:creator>Turégano, F</dc:creator>
+<dc:creator>Garrido, G</dc:creator>
+<dc:creator>Bordons, E</dc:creator>
+<dc:creator>López, J. A</dc:creator>
+<dc:creator>Ots, J. R</dc:creator>
+<dc:creator>López, S</dc:creator>
+<dc:creator>Martín, J. R</dc:creator>
+<dc:creator>Perea, J</dc:creator>
+<dc:creator>Vega, D</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Introducción. Los programas de mejora y control de calidad que analizan la provisión de cuidados a los pacientes traumatizados tienden, fundamentalmente, a utilizar la mortalidad como marcador de esa calidad. El concepto de mortalidad evitable en politraumatizados surge de la evaluación de esa calidad asistencial, y se basa en la información obtenida de registros que incluyen muchos miles de pacientes. Métodos. Hemos analizado la mortalidad hospitalaria en un registro de pacientes traumatizados graves (n = 593) recogido desde junio de 1993 hasta diciembre de 1999. El análisis de la mortalidad evitable se ha basado fundamentalmente en el modelo TRISS de cálculo de probabilidad de supervivencia (Ps) y en los criterios de mortalidad evitable del Comité de Trauma del Colegio Americano de Cirujanos. Se ha puesto especial énfasis en la revisión detallada de aquellos pacientes fallecidos cuando la probabilidad de supervivencia era superior al 50 por ciento. Resultados. La mortalidad de la serie ha sido del 22,5 por ciento (134 pacientes), para una mortalidad esperada del 26 por ciento. El principal mecanismo lesional en pacientes fallecidos ha sido la precipitación al vacío (29,8 por ciento), y el traumatismo craneoencefálico ha sido la principal causa fundamental de muerte (42,5 por ciento). El traumatismo cerrado ha revestido una gravedad doble de la del penetrante (ISS de 30 ñ 18 frente a 15 ñ 12, respectivamente), siendo el Injury Severity Score (ISS) global de la serie de 26 ñ 18. El estadístico Z para el traumatismo cerrado y penetrante fue de -0,28 y -0,19, respectivamente. El estadístico M fue de 0,59 y 0,93, respectivamente. El 26 por ciento de los pacientes fallecidos tenían una Ps superior a 0,50. El 86,5 por ciento de las muertes se juzgaron como inevitables, el 11,9 por ciento como potencialmente evitables y el 1,6 por ciento como claramente evitables, para una mortalidad evitable global del 13,5 por ciento. Conclusiones. Las cifras de mortalidad evitable obtenidas parecen aceptables, aun asumiendo las dificultades de su cálculo, la variabilidad y la ausencia de referencias en nuestro entorno sanitario. El análisis de esta mortalidad evitable en traumatizados, basado fundamentalmente en métodos objetivos de análisis estadístico de sistemas de puntuación de la gravedad, se considera, a pesar de sus dificultades, el estándar para la evaluación de la calidad asistencial (AU)</dc:description>
+<dc:source>Cir. Esp. (Ed. impr.);70(1): 21-26, jul. 2001.</dc:source>
+<dc:identifier>ibc-870</dc:identifier>
+<dc:title xml:lang="es">Mortalidad hospitalaria en pacientes con traumatismos graves: análisis de la mortalidad evitable</dc:title>
+<dc:subject>^d30047</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d15345^s22047</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200107</dc:date>
+</metadata>
+</record>
+</ibecs-document>

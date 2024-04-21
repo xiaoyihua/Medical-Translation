@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-058950</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Effect of environmental factors on the risk of death for drivers of two-wheeled motorized vehicles involved in road crashes</dc:title>
+<dc:description xml:lang="en">Objectives: To assess the effect of environmental factors on the risk of death for drivers of two-wheeled motorized vehicles (TWMV) after a crash.         Methods: We studied a case series comprising all 309,626 drivers of TWMV involved in road crashes with victims compiled by the Spanish Department of Transportation from 1993 to 2002. The dependent variable was death of the driver. Environmental factors included temporal variables (year, month, day and hour of the crash) and spatial variables (area where the accident took place and light conditions, among others). Confounding variables related to the driver (age, sex, helmet use), the vehicle, and the type of crash were also recorded. Poisson regression models were constructed to obtain crude and adjusted relative risks for each environmental condition.         Results: In the adjusted analysis, no association was found between most time-related factors and the risk of death, with the exception of an increased risk in the early hours of the morning. The risk of death was much greater for crashes on open roads (especially highways and motorways) than in urban areas, where the risk of death increased as the size of the town decreased.         Conclusions: After adjustment for several confounders, the only environmental factors related to the risk of death in TWMV drivers after a crash were the area when the crash occurred, and (more weakly) the time of day when it occurred</dc:description>
+<dc:creator>Luna del Castillo, Juan de Dios</dc:creator>
+<dc:creator>Lardelli-Claret, Pablo</dc:creator>
+<dc:creator>Bueno-Cavanillas, Aurora</dc:creator>
+<dc:creator>Espigares-Rodríguez, Elena</dc:creator>
+<dc:creator>Donate-López, Carolina</dc:creator>
+<dc:creator>Jiménez -Moleón, José Juan</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Valorar el efecto de las circunstancias ambientales sobre el riesgo de muerte de los conductores de vehículos de dos ruedas de motor (VDRM) tras un accidente de tráfico.         Métodos: Se ha estudiado la serie de casos formada por los 309.626 conductores de VDRM implicados en accidentes de tráfico con víctimas en España, entre 1993 y 2002, recogidos por la Dirección General de Tráfico. La variable dependiente ha sido la defunción del conductor. Como variables ambientales se han considerado factores temporales (año, mes, día y hora) y espaciales (zona del accidente, iluminación, entre otros). También se han recogido potenciales factores de confusión dependientes del conductor (edad, sexo, uso de casco), del vehículo y el tipo de accidente. Se han obtenido, mediante modelos de regresión de Poisson, riesgos relativos crudos y ajustados para cada categoría ambiental.         Resultados: Para la mayoría de las variables temporales, no hay asociación con el riesgo de defunción en el análisis ajustado, a excepción de un mayor riesgo para la conducción de madrugada. El riesgo aumenta fuertemente en carretera (especialmente autopistas y autovías) con respecto a las zonas urbanas, para las que hay una clara relación dosis-respuesta entre un menor tamaño del municipio y una mayor letalidad.         Conclusiones: Tras ajustar por los factores de riesgo dependientes del conductor, el efecto de los factores ambientales sobre el riesgo de muerte del conductor de un VDRM tras el accidente se circunscribe a la zona donde se produce el accidente y, en menor medida, a la hora en que ocurre</dc:description>
+<dc:source>Gac Sanit;21(3): 197-203, mayo 2007. tab</dc:source>
+<dc:identifier>ibc-058950</dc:identifier>
+<dc:title xml:lang="es">Efecto de las circunstancias ambientales sobre el riesgo de defunción de los conductores de vehículos de dos ruedas de motor implicados en accidentes de tráfico</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d19251^s22083</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d31048</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23893^s22047</dc:subject>
+<dc:subject>^d6411^s22074</dc:subject>
+<dc:subject>^d31670</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200705</dc:date>
+</metadata>
+</record>
+</ibecs-document>

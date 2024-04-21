@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-102042</identifier>
+<setSpec>0212-1972</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">No disponible</dc:title>
+<dc:description xml:lang="en">No disponible</dc:description>
+<dc:creator>Riesco Sanz, Manuel V</dc:creator>
+<dc:creator>Zorita Lamadrid, Ángel L</dc:creator>
+<dc:creator>Muñoz Cano, Manuel</dc:creator>
+<dc:creator>Moríñigo Sotelo, Daniel</dc:creator>
+<dc:creator>Duque Pérez, Óscar</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Los transformadores de potencia son máquinas eléctricas que tienen unas pérdidas de energía asociadas. Hay unas pérdidas que se consideran fijas e independientes del nivel de carga del transformador y que se producen por el simple hecho de estar conectado el transformador a la red. Son proporcionales a la tensión de alimentación y no cambian mientras no varíe esta tensión. También hay unas pérdidas variables que  dependen del nivel de carga del. Estas pérdidas de energía suponen una reducción del rendimiento del transformador y se traducen en calor y, por lo tanto, en un incremento de la temperatura de las máquinas. Desde un punto de vista económico suponen un coste  de operación del transformador y, desde un punto de vista medioambiental, se traducen en emisiones de gases de efecto invernadero y de gases contaminantes en las centrales térmicas de producción de energía eléctrica (AU)</dc:description>
+<dc:source>Todo hosp;(276): 25-30, jul. 2012. ilus, tab</dc:source>
+<dc:identifier>ibc-102042</dc:identifier>
+<dc:title xml:lang="es">Eficiencia energética de transformadores de potencia en centros hospitalarios</dc:title>
+<dc:subject>^d6906^s22066</dc:subject>
+<dc:subject>^d^s22074</dc:subject>
+<dc:subject>^d4631^s22066</dc:subject>
+<dc:subject>^d51826^s22002</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201207</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150016</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Measurement of chronic conditions in a single person as a mortality predictor</dc:title>
+<dc:description xml:lang="en">The presence of multiple chronic diseases in a single individual has become an increasing public health problem for two reasons: population aging and the growing prevalence of chronic conditions in the elderly. This article aims to review the various measures of chronic conditions used in different morbidity studies and to provide an example of their application. We present definitions and characteristics of distinct morbidity measures, as well as their advantages and disadvantages, and provide an example of their calculation using real data. The presence of multiple chronic diseases in a single individual can be measured in multiple ways. Thus, morbidity can be expressed as multi-morbidity, co-morbidity, or as a co-morbidity index. Researchers have to select the best option according to the research objectives, study design, information resources, and the main outcome variable selected (AU)</dc:description>
+<dc:creator>Rius, Cristina</dc:creator>
+<dc:creator>Pérez, Glòria</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La presencia de múltiples trastornos crónicos en una misma persona se está definiendo como un problema de salud pública cada vez más relevante, tanto por el incremento del grupo de personas mayores como por el aumento de la presencia de trastornos crónicos que aparecen con la edad. El objetivo principal de este trabajo es revisar las distintas medidas de los trastornos crónicos que se han utilizado en diferentes estudios de morbilidad existentes, al mismo tiempo que mostrar un ejemplo de su aplicación. Se presentan la definición y las características de las distintas medidas, sus ventajas y limitaciones, y las opciones para su análisis, así como un ejemplo de su obtención con datos de nuestro ámbito. La presencia de múltiples trastornos crónicos en la misma persona se puede estudiar de distintas formas. Así, la morbilidad puede expresarse como multimorbilidad, comorbilidad o como un índice de comorbilidad y deben ser los investigadores los que seleccionen la mejor opción, dependiendo de los objetivos planteados en la investigación, del diseño del estudio en sí mismo, de la fuente de obtención de la información y de la variable de resultado de salud que se estudie (AU)</dc:description>
+<dc:source>Gac Sanit;20(supl.2): 17-26, dic. 2006. tab, graf</dc:source>
+<dc:identifier>ibc-150016</dc:identifier>
+<dc:title xml:lang="es">Medición de los trastornos crónicos en un mismo individuo como predictores de la mortalidad</dc:title>
+<dc:subject>^d28632^s22066</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d24572^s22066</dc:subject>
+<dc:subject>^d28418</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d31474</dc:subject>
+<dc:subject>^d28563^s22080</dc:subject>
+<dc:subject>^d32285</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200612</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-107079</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Monitoring polymedicated elderly patients in a health care unit</dc:title>
+<dc:description xml:lang="en">Objective Implement a coordinated strategy for the family care unit and the pharmacy division in order to enable revising treatment in polymedicated patients. To this end, we have developed a software tool permitting the patient's primary doctor to have a quick, summarised description of the patient's updated pharmacological treatments, and detect iatrogenic risks and/or dosage adjustments and pharmacotherapy advice. Methods In this study, polymedicated patients are defined as those taking 10 or more medications during at least one month. Development phases: Design of a guide form to assist the family doctor in reviewing treatments. Development of a pharmacotherapy report (FTR) as a complementary document to assist the doctor in reviewing treatments. Implementation of a coordinated loop between the family doctor and the pharmacist. Review of work instructions and distribution to involved staff members. Results The target population of the study consists of 1897 polymedicated patients. We issued 1897 reports, containing the following: 8530 recommendations (10% alerts from regulatory authorities, 31% recommendations regarding high-risk drugs in elderly patients, 7% information on new treatments and 52% recommendations on proper drug use); 399 highly relevant drug interactions; and 5036 recommendations for dose adjustment. These pharmacotherapy reports permit treatment to be revised for nearly 100% of the selected population. Conclusion The development and implementation of software tools for monitoring polymedicated patients enables us to create FTRs that facilitate routine medical reviews of pharmacological treatment in a fairly wide range of patients (AU)</dc:description>
+<dc:creator>Garrido-Fernández, R</dc:creator>
+<dc:creator>Fernández-Espínola, S</dc:creator>
+<dc:creator>Galán-Retamal, C</dc:creator>
+<dc:creator>Padilla-Marín, V</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo Implantar una estrategia coordinada entre la unidad de atención familiar y el servicio de farmacia que posibilite la revisión del tratamiento en pacientes polimedicados. Para ello se ha desarrollado una herramienta informática que permite al médico responsable del paciente visualizar de forma rápida y resumida la descripción del tratamiento farmacológico actualizado, así como la detección de riesgos de iatrogenias y/o ajuste de dosis y consejo farmacoterapéutico. Métodos Para el estudio se ha considerado paciente polimedicado aquel que toma 10 o más medicamentos durante, al menos, un mes. Fases de desarrollo: Diseño de un formulario guía para revisión de tratamientos por el médico de familia. Desarrollo de un informe farmacoterapéutico (IFT) como documento de apoyo al médico para la revisión del tratamiento. Puesta en marcha del circuito coordinado médico de familia-farmacéutico: redacción de instrucciones de trabajo y difusión entre los profesionales implicados. Resultados La población diana del estudio corresponde a 1.897 pacientes polimedicados. Se han emitido 1.897 informes, en los que se recogen: 8.530 recomendaciones (10% alertas de agencias reguladoras, 31% recomendaciones sobre medicación de alto riesgo en paciente anciano, 7% información sobre novedades terapéuticas y 52% recomendaciones sobre uso adecuado del medicamento); 399 interacciones de alta relevancia clínica y 5.036 recomendaciones de ajuste posológico. Estos informes farmacoterapéuticos están permitiendo la revisión del tratamiento de prácticamente el 100% de la población seleccionada. Conclusión El desarrollo e implantación de herramientas informáticas en el seguimiento de pacientes polimedicados permite la elaboración de IFT que facilitan la revisión médica rutinaria del tratamiento farmacológico en un censo de pacientes relativamente amplio (AU)</dc:description>
+<dc:source>Farm Hosp;34(6): 265-270, Nov. -dic. 2010.</dc:source>
+<dc:identifier>ibc-107079</dc:identifier>
+<dc:title xml:lang="es">Seguimiento del paciente anciano polimedicado en un área de salud</dc:title>
+<dc:subject>^d33105</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6913</dc:subject>
+<dc:subject>^d30150</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201012</dc:date>
+</metadata>
+</record>
+</ibecs-document>

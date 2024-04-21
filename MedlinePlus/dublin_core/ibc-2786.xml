@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-2786</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Trends in traffic accident mortality in Spain, 1962-1994</dc:title>
+<dc:creator>Lardelli Claret, P</dc:creator>
+<dc:creator>Dios Luna del Castillo, J de</dc:creator>
+<dc:creator>Redondo Calderón, J. L</dc:creator>
+<dc:creator>Jiménez Moleón, J. J</dc:creator>
+<dc:creator>Gálvez Vargas, R</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Estudiar la evolución de la tasa de mortalidad por accidentes de tráfico en España desde 1962 hasta 1994 y la capacidad explicativa que sobre ella tienen sus cuatro componentes teóricos: la motorización (vehículos/habitantes), la accidentabilidad (accidentes/vehículos), la lesividad (víctimas/accidentes), y la letalidad (defunciones/víctimas).Métodos: A partir de los Censos de la Población Española y de los Boletines de la Dirección General de Tráfico se han obtenido los datos necesarios para calcular las variables antes referidas, para todos los años del período en estudio, globales, en carretera y en zona urbana. Se han obtenido los coeficientes de correlación de Pearson simple y parcial entre cada indicador y la tasa de mortalidad, y se han aplicado modelos de regresión de Poisson. Resultados: La tasa de mortalidad poblacional muestra una tendencia ascendente durante el período estudiado, y destaca el fuerte incremento de sus valores entre 1982 y 1989, que afectó fundamentalmente a población joven, seguido de un descenso posterior. Los cuatro componentes antes citados se asocian positivamente con la magnitud de la tasa de mortalidad. En el análisis de correlación parcial destaca su asociación con los índices de motorización y de lesividad globales y en carretera, mientras que en zona urbana es la letalidad el factor más estrechamente asociado con ella. El papel de la accidentabilidad parece relativamente menor. Conclusiones: Ya que la tasa de exposición es creciente en nuestro país y escapa a una estrategia de control, es necesario potenciar las medidas que tiendan a disminuir los otros tres componentes de la mortalidad poblacional, específicamente las relacionadas con la lesividad y la letalidad (AU)</dc:description>
+<dc:source>Gac Sanit;14(1): 7-15, ene.-feb.  2000.</dc:source>
+<dc:identifier>ibc-2786</dc:identifier>
+<dc:title xml:lang="es">Evolución de la mortalidad por accidentes de tráfico en España, 1962-1994</dc:title>
+<dc:subject>^d7399</dc:subject>
+<dc:subject>^d27830</dc:subject>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29362</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d14904</dc:subject>
+<dc:subject>^d23893</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d2715</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d24838</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d22226</dc:subject>
+<dc:subject>^d9152</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200002</dc:date>
+</metadata>
+</record>
+</ibecs-document>

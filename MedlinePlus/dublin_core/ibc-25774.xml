@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-25774</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Short-term relationship between air pollution and mortality in 13 Spanish cities</dc:title>
+<dc:creator>Taracido, Margarita</dc:creator>
+<dc:creator>Iñíguez, Carmen</dc:creator>
+<dc:creator>Daponte, Antonio</dc:creator>
+<dc:creator>Barceló, M. Antònia</dc:creator>
+<dc:creator>Ballester, Ferran</dc:creator>
+<dc:creator>Ordóñez, José M</dc:creator>
+<dc:creator>Guillén, José Jesús</dc:creator>
+<dc:creator>Arribas, Federico</dc:creator>
+<dc:creator>Bellido, Juan</dc:creator>
+<dc:creator>Cambra, Koldo</dc:creator>
+<dc:creator>Pérez-Hoyos, Santiago</dc:creator>
+<dc:creator>Sáez, Marc</dc:creator>
+<dc:creator>Cañada, Álvaro</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">FUNDAMENTO Y OBJETIVO: EMECAM es un proyecto multicéntrico cuyo objetivo es evaluar la asociación a corto plazo de la contaminación sobre la salud en España. MATERIAL Y MÉTODO: Se obtuvieron los datos sobre contaminación atmosférica (partículas en suspensión y gases), mortalidad (todas las causas excluidas las externas, causas respiratorias y causas del aparato circulatorio) y de covariables para el control de la confusión (temperatura, humedad, gripe, variables de calendario) en 13 ciudades españolas. Los estimadores locales de los efectos de los contaminantes, obtenidos a partir de modelos autorregresivos generalizados aditivos de Poisson, se combinaron mediante modelos de efectos fijos y, cuando existía heterogeneidad, modelos de efectos aleatorios. Se construyeron todos los modelos con uno y con dos contaminantes simultáneamente. RESULTADOS: Un aumento de 10 µg/m3 en el promedio de las concentraciones del día simultáneo y el día anterior de humos negros se asoció con un incremento del 0,8 por ciento (intervalo de confianza [IC] del 95 por ciento, 0,4-1,1) de la mortalidad total. El mismo incremento de dióxido de azufre y de dióxido de nitrógeno se asoció con incrementos del 0,5 por ciento (IC del 95 por ciento, 0,1-1,0) y del 0,6 por ciento (IC del 95 por ciento: 0,3-0,8) de la mortalidad, respectivamente. Un aumento de 1 mg/m3 en los valores de monóxido de carbono se asoció con un incremento del 1,5 por ciento (IC del 95 por ciento, 0,5-2,6) en las defunciones diarias. Los coeficientes obtenidos para los grupos de causas específicas fueron, en general, de mayor magnitud. En los modelos de dos contaminantes las partículas y el monóxido de carbono fueron los contaminantes que mostraron mayor robustez en los estimadores. CONCLUSIONES: Los incrementos diarios en las concentraciones de contaminantes atmosféricos se asocian, a corto plazo, con un aumento en el número de defunciones en las ciudades españolas (AU)</dc:description>
+<dc:source>Med. clín (Ed. impr.);121(18): 684-689, nov. 2003.</dc:source>
+<dc:identifier>ibc-25774</dc:identifier>
+<dc:title xml:lang="es">Relación a corto plazo de la contaminación atmosférica y la mortalidad en 13 ciudades españolas</dc:title>
+<dc:subject>^d28632</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d400</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d14904</dc:subject>
+<dc:subject>^d14384</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200311</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-131630</identifier>
+<setSpec>0212-9728</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">A Bayesian Analysis of the motivation, motivational climate and anxiety in young competitive team players</dc:title>
+<dc:description xml:lang="en">The aim of this study is to analyze the relationship between the self-determinated motivation, the goal orientation and the perceived motivational climate and their impact on the cognitive and somatic components of the competitive anxiety in young athletes, and their acceptance of the use of cheating and gamesmanship in sport. We administered PMCSQ,TEOSQ, BRSQ, CDED and SAS- 2 to 270 football, handball and basket ballplayers (Mean age = 14.67, SD = 1.53). Probabilistic relationships of dependence and independence of the variables were studied by a Bayesian network (BN), developed using Netica and Tetrad IV. After the validation of the BN, we instantiated hypothetical probability values of several dependent variables in order to analyze the variation of the probability of the independent variables. Results show different statistical dependence relationships between the self-determined motivation and achievement motivation, respect to the competitive anxiety, and also show a controversial relationship between the perceived motivational climate and the task and egoorientation of the players. It also shows the residual role of the somaticanxiety, and the instrumental role of the the use of cheating and gamemanship (AU)</dc:description>
+<dc:creator>Garcia-Mas, Alexandre</dc:creator>
+<dc:creator>Olmedilla, Aurelio</dc:creator>
+<dc:creator>Fuster-Parra, Pilar</dc:creator>
+<dc:creator>Ponseti, Francisco Javier</dc:creator>
+<dc:creator>Palou, Pere</dc:creator>
+<dc:creator>Cruz, Jaume</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El objetivo de este estudio es analizar las relaciones entre la autodeterminación, la disposición de orientación a metas, y el clima motivacional percibido por jóvenes deportistas, así como su impacto sobre los componentes somático y cognitivo de la ansiedad competitiva, y sobre la aceptación del uso del engaño y la astucia en el deporte. Se administraron los instrumentos PMCSQ-2, TEOSQ, BRSQ, CDED y SAS-2 a 270 jugadores de fútbol, balonmano y baloncesto (M = 14.67; DE = 1.53). Las relaciones de dependencia e independencia probabilística de las variables estudiadas fueron establecidas mediante una red Bayesiana implementada con Netica y Tetrad IV. Posteriormente, se instanciaron valores de probabilidad hipotéticos en algunas variables de la RB para analizar la variación sobre las probabilidades de las variables independientes. Los resultados muestran un distinto peso causal de la motivación autodeterminada y de la motivación de logro sobre la ansiedad competitiva, y evidencian una controvertida relación entre los climas motivacionales percibidos y las orientaciones de tarea y de ego de los jugadores. Asmismo, se confirma el papel residual de la ansiedad somática; el rol instrumental de la aceptación del engaño y la astucia, y finalmente, la validación de la red Bayesiana (AU)</dc:description>
+<dc:source>An. psicol;31(1): 355-366, ene. 2015. ilus, tab</dc:source>
+<dc:identifier>ibc-131630</dc:identifier>
+<dc:title xml:lang="es">Análisis bayesiano de la motivación, el clima motivacional y la ansiedad en jóvenes jugadores de equipo</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d54747^s22056</dc:subject>
+<dc:subject>^d52940^s22056</dc:subject>
+<dc:subject>^d9234</dc:subject>
+<dc:subject>^d6276</dc:subject>
+<dc:subject>^d28635</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d13562^s22056</dc:subject>
+<dc:subject>^d3194</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201504</dc:date>
+</metadata>
+</record>
+</ibecs-document>

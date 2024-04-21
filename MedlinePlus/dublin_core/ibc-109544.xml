@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-109544</identifier>
+<setSpec>0212-6567</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Presence and adequacy of pharmaceutical preparations in the Spanish edition of Wikipedia</dc:title>
+<dc:description xml:lang="en">Objective: To determine the presence, and to evaluate the adequacy of pharmaceutical preparations in the Spanish edition of Wikipedia. Design: Descriptive cross-sectional study. Setting: the terms studied were obtained from the Vademecum, UBM Medica Spain S.A, (http://vademécum.es). Participants: the sample was calculated by simple random sampling without replacement from the active ingredients present in the Vademecum, making the estimation of population parameters (expected value of approximately 0.5; 0.05 range accuracy and confidence level=0.95) in an infinite population. Method: The existence and adequacy of the terminology was observed by accessing the Spanish edition of Wikipedia. The term was considered adequate when the information contained the proper use, dosage and adverse effects. Main measurements: The qualitative binary variable yes/no (presence of the pharmaceutical drug, use, posology, adverse effects, adequacy) were described by frequency and percentage, quantitative (number of queries, update) using mean and standard deviation. The existences of an association between qualitative variables were analyzed using chi-square, and significance of the differences of means for independent samples, using the Student t test. Results: Of the sample studied (n=386), 171 terms were found, with 15 being adequate. Significant differences were observed between adequacy and dose (P&lt;0.001) and adverse effects (P&lt;0.001), but not with use (P=0.193). Conclusions: Pharmaceutical preparation entries in the Spanish edition of Wikipedia are still insufficient and the adequacy of the information remains inconsistent(AU)</dc:description>
+<dc:creator>Sanz-Valero, Javier</dc:creator>
+<dc:creator>López Marcos, Paula</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Determinar la presencia y analizar la adecuación de los principios activos farmacológicos en la edición española de la Wikipedia. Diseño: Estudio descriptivo transversal. Emplazamiento: Los términos a estudiar se obtuvieron del Vademécum, UBM Medica Spain S.A. (http://vademécum.es). Participantes: Se calculó, a partir de los principios activos existentes en el Vademécum, una muestra mediante muestreo aleatorio simple sin reposición, efectuando la estimación de parámetros poblacionales (valor esperado aproximado a 0,5, precisión del intervalo 0,05 y nivel de confianza=0,95) en una población infinita. Método: La existencia de la terminología y su adecuación se constató accediendo a la edición española de la Wikipedia. Se consideró el término adecuado cuando la información contenía correctamente su uso, la posología y los efectos secundarios. Mediciones principales: Las variables cualitativas dicotómicas sí/no (presencia del principio activo, uso, posología, efectos secundarios, adecuación) se describieron por su frecuencia y porcentaje, las cuantitativas (consultas, actualidad) mediante su media y desviación estándar. La existencia de asociación, entre variables cualitativas, se analizó mediante la prueba de ji al cuadrado y la significación de la diferencia de medias, para muestras independientes, mediante la prueba de la t de Student. Resultados: De la muestra a estudio (n=386) se determinó la existencia de 171 términos, siendo 15 adecuados. Se observaron diferencias significativas entre la adecuación y la posología (p&lt;0,001) y con los efectos secundarios (p&lt;0,001), no observándose con su uso (p=0,193). Conclusiones: Las entradas sobre principios activos farmacológicos en la edición española de la Wikipedia son aún escasas y la adecuación de su información sigue siendo inconsistente(AU)</dc:description>
+<dc:source>Aten Primaria;45(2): 101-106, feb. 2013. graf</dc:source>
+<dc:identifier>ibc-109544</dc:identifier>
+<dc:title xml:lang="es">Presencia y adecuación de los principios activos farmacológicos en la edición española de la Wikipedia</dc:title>
+<dc:subject>^d33921^s22074</dc:subject>
+<dc:subject>^d33921^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d33921^s22066</dc:subject>
+<dc:subject>^d53806</dc:subject>
+<dc:subject>^d33921^s22049</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d33921^s22048</dc:subject>
+<dc:subject>^d11756^s22074</dc:subject>
+<dc:subject>^d28596^s22045</dc:subject>
+<dc:subject>^d11756^s22049</dc:subject>
+<dc:subject>^d51470</dc:subject>
+<dc:subject>^d11756^s22048</dc:subject>
+<dc:subject>^d50124</dc:subject>
+<dc:subject>^d30149^s22073</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201302</dc:date>
+</metadata>
+</record>
+</ibecs-document>

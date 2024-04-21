@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-2482</identifier>
+<setSpec>0302-4342</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Evaluation of a transcutaneous bilirubinometer</dc:title>
+<dc:creator>Marugán Isabel, V. M</dc:creator>
+<dc:creator>García Rivera, M. T</dc:creator>
+<dc:creator>Hernández Calvo, M. T</dc:creator>
+<dc:creator>Tesoro González, R</dc:creator>
+<dc:creator>Ochoa Sangrador, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">OBJETIVO: Los bilirrubinómetros transcutáneos son instrumentos que permiten detectar y monitorizar la hiperbilirrubinemia neonatal, reduciendo el número de extracciones sanguíneas necesarias para su control. Estos dispositivos, de uso rutinario, presentan, no obstante, un amplio rango de error que debe ser evaluado. Nos planteamos establecer la precisión y validez en nuestro medio de un bilirrubinómetro transcutáneo clásico. MÉTODOS: Estudio transversal, observacional, descriptivo sobre una muestra de 117 determinaciones simultáneas de bilirrubina transcutánea y sérica, en 82 neonatos ictéricos. Análisis de la concordancia entre mediciones repetidas y de distintas localizaciones. Desarrollo de modelos predictivos de la bilirrubina sérica y análisis de la validez de dichas predicciones. RESULTADOS: Todos los puntos de medición presentaron una concordancia entre medidas repetidas excelente (coeficiente de correlación intraclase superior a 0,92). Las mediciones en frente tenían un coeficiente de correlación lineal de 0,75; en esternón variaba en función de la ausencia o presencia de fototerapia (0,86 y 0,54, respectivamente). Los intervalos de error en los que se encontraban las predicciones de bilirrubina sérica eran de ñ2 mg/dl para valores bajos y ñ4 mg/dl para valores altos &gt;= 15 mg/dl). CONCLUSIÓN: El bilirrubinómetro transcutáneo evaluado presenta una alta precisión, pero su validez debe ser cuestionada por la existencia de un importante margen de error respecto a la bilirrubina sérica, especialmente en los pacientes con concentraciones elevadas (AU)</dc:description>
+<dc:source>An Esp Pediatr;52(6): 561-569, jun. 2000.</dc:source>
+<dc:identifier>ibc-2482</dc:identifier>
+<dc:title xml:lang="es">Evaluación de un instrumento de medición de la bilirrubina transcutánea</dc:title>
+<dc:subject>^d7399</dc:subject>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d5444</dc:subject>
+<dc:subject>^d6554</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d5978</dc:subject>
+<dc:subject>^d10809</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d2715</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:subject>^d14952</dc:subject>
+<dc:subject>^d22226</dc:subject>
+<dc:subject>^d12368</dc:subject>
+<dc:subject>^d13248</dc:subject>
+<dc:subject>^d1686</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d13581</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200006</dc:date>
+</metadata>
+</record>
+</ibecs-document>

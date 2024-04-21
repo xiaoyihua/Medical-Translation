@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-29862</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Methodological approach to the use of artificial neural networks for predicting results in medicine</dc:title>
+<dc:creator>Sorribas, Albert</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">En la práctica clínica, existe un gran interés en conseguir modelos de predicción precisos. Dentro de las posibles alternativas técnicas disponibles, las redes neuronales artificiales (RN) se utilizan cada vez más en medicina. En esta revisión realizamos primero una introducción a la metodología de RN, describiendo el funcionamiento del tipo de RN más utilizado, que es el perceptrón multicapa entrenado con algoritmo de retropropagación (MLP). A continuación, comparamos el MLP con la regresión logística (RL) y, finalmente, mediante un ejemplo con datos reales, mostramos un esquema práctico para realizar una aplicación basada en RN. La ventaja principal de las RN es su capacidad de incorporar efectos no-lineales e interacciones entre las variables del modelo sin necesidad de incluirlas a priori. Como mayores desventajas, las RN proporcionan un modelo donde es difícil la interpretación de los parámetros y que necesita de un cierto empirismo en su proceso de construcción y entrenamiento. Las RN son útiles para el cálculo de probabilidad de un resultado en función de un conjunto de variables predictoras y consiguen mejores resultados, en algunas situaciones, que la RL. Las metodologías de RN y RL son complementarias y nos ayudan a conseguir modelos más válidos (AU)</dc:description>
+<dc:source>Med. clín (Ed. impr.);122(supl.1): 59-67, ene. 2004.</dc:source>
+<dc:identifier>ibc-29862</dc:identifier>
+<dc:title xml:lang="es">Aproximación metodológica al uso de redes neuronales artificiales para la predicción de resultados en medicina</dc:title>
+<dc:subject>^d29935</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d29918</dc:subject>
+<dc:subject>^d32048</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d22729</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200401</dc:date>
+</metadata>
+</record>
+</ibecs-document>

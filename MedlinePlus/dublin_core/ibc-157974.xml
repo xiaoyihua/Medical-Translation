@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-157974</identifier>
+<setSpec>0034-9356</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Comparison of the Cortínez and the Schnider models with a targeted effect-site TCI of 3 mcg/ml in biophase in healthy volunteers</dc:title>
+<dc:description xml:lang="en">Objective. To compare the Cortínez and Schnider models in effect-site TCI mode (3 mcg/ml) in healthy volunteers. Methods. Ten healthy volunteers were prospectively studied on 2 occasions. Propofol was administered with the Cortínez or the Schnider models, as randomly assigned. Times and predicted concentrations at the time of loss and recovery of consciousness (LOC and ROC), mass of drug administered, BIS, and haemodynamic variables were compared. Statistical analysis was with paired Wilcoxon test. A P&lt;.05 was considered significant. Results. The propofol bolo was higher (1.4 [1.3-1.6] versus 0.9 [0.7-1.3] mg/kg, P=.005) and the LOC occurred earlier (1.33 [0.67-6.83] versus 3.87 [1.66-11.08] minutes, P=.02) with the Cortínez model compared to the Schnider model. With the Cortínez model, LOC occurred at an effect site concentrations of 2.6 (1.65-3.0) mcg/ml. With the Schnider model, LOC occurred at 3.87 min (1.66-11.8) after reaching the target of 3 mcg/ml. (P=.001). BIS values, infusion rates, and haemodynamic variables were similar between models after 20minutes of infusion (P&gt;.5). Recovery (ROC) was longer with the Cortínez model (11.6 [8.1-16.2] vs. 8.5 [4.7-15.5] min, P=.003). Conclusions. The Cortínez model is a good alternative to the Schnider model for use in effect-site TCI mode in normal weight subjects. With the target used in this study (3 mcg/ml), the slower Ke0 incorporated into the Cortínez model better discriminated the LOC time (AU)</dc:description>
+<dc:creator>Frederico Avendaño, C</dc:creator>
+<dc:creator>Cortínez, LI</dc:creator>
+<dc:creator>Ramírez-Paesano, CR</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Comparar clínicamente los modelos de Schnider y Cortínez con sistemas «TCI», para la perfusión de propofol a concentración en biofase de 3 mcg/ml en voluntarios sanos. Material y método. Se estudió prospectivamente a 10 voluntarios sanos en 2 ocasiones. Se administró propofol con el modelo de Cortínez o Schnider según asignación aleatorizada. Se compararon tiempos y concentraciones de propofol alcanzadas al momento de pérdida y recuperación de consciencia (LOC y ROC), masa de fármaco administrada, valores de BIS y variables hemodinámicas. El análisis estadístico fue con Wilcoxon pareado. Una p &amp;#8804; 0,05 fue considerada significativa. Resultados. El bolo inicial de propofol fue mayor (1,4 [1,3-1,6] versus 0,9 [0,7-1,3] mg/kg; p=0,005) y el LOC ocurrió antes (1,33 [0,67-6,83] versus 3,87 [1,66-11,08] min; p=0,02) con el modelo de Cortínez comparado con el modelo de Schnider. El modelo de Cortínez predice una concentración en biofase al LOC de 2,6mcg/ml (1,65-3,0). Con Schnider, el LOC ocurre 3,87min (1,66-11,8) después de alcanzado el objetivo de 3mcg/ml (p=0,001). Los valores de BIS, las velocidades de perfusión y las variables hemodinámicas fueron similares con ambos modelos a los 20 min de perfusión (p&gt;0,5). La recuperación (ROC) fue más larga con el modelo de Cortínez (11,6 [8,1-16,2] vs. 8,5 [4,7-15,5] min; p=0,003). Conclusiones. El modelo de Cortínez es una buena alternativa al modelo de Schnider para su uso en TCI con objetivo en biofase en sujetos normopeso. Con el objetivo utilizado, las concentraciones en biofase predichas con la Ke0 más lenta incorporada en el modelo de Cortínez permiten discriminar mejor el momento del LOC en la inducción (AU)</dc:description>
+<dc:source>Rev Esp Anestesiol Reanim;63(10): 556-563, dic. 2016. tab, graf</dc:source>
+<dc:identifier>ibc-157974</dc:identifier>
+<dc:title xml:lang="es">Comparación del modelo de Cortínez y de Schnider en perfusión de propofol controlada por objetivo de 3 mcg/ml, a biofase, en voluntarios sanos</dc:title>
+<dc:subject>^d55451^s22083</dc:subject>
+<dc:subject>^d7170^s22073</dc:subject>
+<dc:subject>^d32016</dc:subject>
+<dc:subject>^d24841^s22079</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d8188^s22073</dc:subject>
+<dc:subject>^d788^s22073</dc:subject>
+<dc:subject>^d10669^s22045</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d6590^s22021</dc:subject>
+<dc:subject>^d788^s22000</dc:subject>
+<dc:subject>^d55451^s22011</dc:subject>
+<dc:subject>^d6493^s22021</dc:subject>
+<dc:subject>^d24841^s22073</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201612</dc:date>
+</metadata>
+</record>
+</ibecs-document>

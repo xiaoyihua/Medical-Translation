@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-10646</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Linezolid: a new alternative for gram positive</dc:title>
+<dc:creator>Boj, M</dc:creator>
+<dc:creator>Gómez Gener, A</dc:creator>
+<dc:creator>Salvador, P</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Arán Ediciones, S.A.</dc:publisher>
+<dc:description xml:lang="es">Linezolida es un nuevo antibiótico perteneciente a la familia de las oxazolidinonas que ejerce su acción por inhibición de la fase de iniciación de la síntesis proteica. Posee un amplio espectro de actividad frente a microorganismos gram positivos que incluye estafilococos resistentes a meticilina, neumococos resistentes a penicilina y Enterococcus faecalis y E. faecium resistentes a vancomicina. Linezolida ha sido aprobado por la FDA para el tratamiento de neumonías adquiridas en la comunidad y nosocomiales, infecciones cutáneas y de tejidos blandos complicadas y no complicadas e infecciones por enterococos resistentes a vancomicina.La dosis recomendada de linezolida es de 600 mg cada 12 horas tanto por vía oral como intravenosa, en general es bien tolerado, siendo los efectos adversos que se observan con más frecuencia los trastornos gastrointestinales. (AU)</dc:description>
+<dc:source>Farm Hosp;26(1): 44-48, ene. 2002. ilus</dc:source>
+<dc:identifier>ibc-10646</dc:identifier>
+<dc:title xml:lang="es">Linezolida: una nueva alternativa en infecciones por gram positivos</dc:title>
+<dc:subject>^d30071^s22057</dc:subject>
+<dc:subject>^d911^s22000</dc:subject>
+<dc:subject>^d911^s22079</dc:subject>
+<dc:subject>^d32073^s22057</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d911^s22020</dc:subject>
+<dc:subject>^d10257^s22073</dc:subject>
+<dc:subject>^d13255^s22057</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200201</dc:date>
+</metadata>
+</record>
+</ibecs-document>

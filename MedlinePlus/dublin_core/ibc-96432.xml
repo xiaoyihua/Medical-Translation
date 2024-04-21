@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-96432</identifier>
+<setSpec>0212-9728</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">When the mean fails, use an M-estimator</dc:title>
+<dc:description xml:lang="en">In the field of addictions on many occasions one has to work with quantitative variables, and the arithmetic mean is the most used location index. Nevertheless, the use of this index should be limited to those situations in which the distributions of the variables are symmetrical. The aim of this work is to exemplify the importance of recurring to adequate descriptive statistics in order to summarize quantitative variables, through the study of the quantity of consumption of addictive substances in adolescence. The sample is made up of 9300 students between 14 and 18 years (47.1% boys and 52.9% girls) who anonymously answered a questionnaire on consumption of substances. The quantity of weekly consumption of different substances is described using classical location indexes belonging to Exploratory Data Analysis (EDA). It can be seen how the results vary noticeably according to the statistics selected, with the Huber M-estimator as the index giving more &#147;real&#148; values. The arithmetic mean is not a good index in order to duly approach the reality of drug consumption when the distributions are asymmetrical, in which cases it becomes necessary to use resistant indexes such as, among others, Huber&#146;s M-estimator (AU)</dc:description>
+<dc:creator>Cajal, Berta</dc:creator>
+<dc:creator>Palmer, Alfonso</dc:creator>
+<dc:creator>Gervilla, Elena</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">En el campo de las adicciones en muchas ocasiones se tiene que trabajar con variables cuantitativas, siendo la media aritmética el índice de localización utilizado mayoritariamente. No obstante, el uso de este índice debería limitarse a aquellas situaciones en las que las distribuciones de las variables sean simétricas. El objetivo de este trabajo es ejemplificar la importancia de recurrir a estadísticos descriptivos adecuados para resumir variables cuantitativas, mediante el estudio de la cantidad de consumo de sustancias adictivas en la adolescencia. La muestra está formada por 9300 estudiantes con edades entre los 14 y los 18 años (47.1% chicos y 52.9% chicas) que contestaron de forma anónima un cuestionario sobre consumo de sustancias. Se describe la cantidad de consumo semanal de diferentes sustancias mediante índices de localización clásicos y pertenecientes al Análisis Exploratorio de Datos (EDA). Se puede observar cómo los resultados varían notablemente en función del estadístico elegido, siendo el M-estimador de Huber un índice con valores más &#147;reales&#148;. La media aritmética no es un buen índice para acercarnos debidamente a la realidad del consumo de drogas cuando las distribuciones son asimétricas, siendo necesario utilizar índices resistentes, tal como, entre otros, el M-estimador de Huber (AU)</dc:description>
+<dc:source>An. psicol;28(1): 281-288, ene.-abr. 2012. tab, graf, ilus</dc:source>
+<dc:identifier>ibc-96432</dc:identifier>
+<dc:title xml:lang="es">Cuando falle la media, utilice un M-estimador</dc:title>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d33535^s22080</dc:subject>
+<dc:subject>^d24318^s22062</dc:subject>
+<dc:subject>^d24318^s22041</dc:subject>
+<dc:subject>^d24318^s22020</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d33535^s22016</dc:subject>
+<dc:subject>^d33535^s22027</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d33535^s22067</dc:subject>
+<dc:subject>^d33535^s22056</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d33535^s22053</dc:subject>
+<dc:subject>^d33535^s22054</dc:subject>
+<dc:subject>^d24318^s22018</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201204</dc:date>
+</metadata>
+</record>
+</ibecs-document>

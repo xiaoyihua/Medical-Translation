@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-95779</identifier>
+<setSpec>0014-2565</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Comparison between two equations to estimated glomerular filtration rate</dc:title>
+<dc:description xml:lang="en">Background. There are several formulae to calculate estimated glomerular filtration rate (eGF). Two of those used most are MDRD study equation (Modification of Diet in Renal Disease) and the Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI). On the contrary to the MDRD formula, the CKD-EPI equation included subjects with normal glomerular filtration rate. Our objective has been to compare the results obtained by both equations. Patients and methods. FGE was calculated using the MDRD and CKD-EPI equation in 20000 subjects based on the data for gender, age and serum creatinine. Results. Mean age of patients was 73.5±8.3 years. The eGF by the MDRD and CKD-EPI equations was 70.1±29.0 and 68.1±23.8mL/min/1.73m2 (P&lt;0.001, correlation coefficient: 0.926). For men, it was 71.3±30.2 and 68.1±24.2mL/min/1.73m2 (P&lt;0.001) and for women it was 69.0±27.7 and 68.0±23.3mL/min/1.73m2 (P&lt;0.001), respectively. In subjects &amp;#8805;70 years, the eGF by MDRD was 3.1mL/min/1.73m2, superior that by CKD-EPI (P&lt;0.001). However, in patients &lt;70 years, both equations had similar results. The prevalences of stages 1-2, 3, 4 and 5 for chronic renal disease were very similar (MDRD: 67, 25, 6 and 3%, and CKD-EPI: 68, 24, 6 and 3%). If the reference variable used the eGF by MDRD, the eGF by CKD-EPI reclassified 528 patients (2.6% of the total) into four stages of CKD (stage 1-2: 0.8%; stage 3: 7.5%; stage 4: 4.6% and stage 5: 0%). Conclusions. The CKD-EPI equation applied to our population shows slightly lower levels than the MDRD. By stages, the new equation reduces the number of subjects in stage 3(AU)</dc:description>
+<dc:creator>Esteve Poblador, S</dc:creator>
+<dc:creator>Ortuño Alonso, M</dc:creator>
+<dc:creator>Gorriz Pintado, S</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Antecedentes. Existen diversas fórmulas para calcular el filtrado glomerular estimado (FGe), dos de las más difundidas son la MDRD (Modification of Diet in Renal Disease) y la CKD-EPI (Chronic Kidney Disease Epidemiology Collaboration). A diferencia de la fórmula MDRD, la ecuación CKD-EPI incluyó sujetos con filtrado glomerular normal. Hemos estudiado la comparabilidad de ambas ecuaciones. Pacientes y métodos. Se calculó el FGe por la ecuación MDRD y CKD-EPI en 20.000 sujetos a partir de los datos obtenidos del sexo, edad y creatinina sérica. Resultados. La edad media de los pacientes fue de 73,5±8,3 años. El FGe según las ecuaciones MDRD y CKD-EPI fue de 70,1±29,0 y 68,1±23,8mL/min/1,73 m2 (p&lt;0,001; coeficiente de correlación: 0,926) respectivamente. En los varones el FGe según las fórmulas MDRD y CKD-EPI fue de 71,3±30,2 y 68,1±24,2mL/min/1,73 m2 (p&lt;0,001); y en las mujeres de 69,0±27,7 y 68,0±23,3mL/min/1,73 m2 (p&lt;0,001) respectivamente. En los sujetos con &amp;#8805;70 años el FGe medio calculado por MDRD fue 3,1mL/min/1,73 m2 superior al obtenido por CKD-EPI (p&lt;0,001). Sin embargo, en los pacientes &lt;70 años, ambas ecuaciones ofrecieron resultados similares. Las prevalencias de los estadios 1-2, 3, 4 y 5 de enfermedad renal crónica (ERC) fueron muy similares (MDRD: 67, 25, 6 y 3%, y CKD-EPI: 68, 24, 6 y 3%). Tomando como referencia el FGe calculado según MDRD, los resultados de la ecuación CKD-EPI obligaron a reclasificar a 528 pacientes (2,6% del total; estadio 1-2: 0,8%; estadio 3: 7,5%; estadio 4; 4,6% y estadio 5; 0%). Conclusiones. La ecuación CKD-EPI en la población estudiada ofrece valores ligeramente inferiores a los obtenidos con la fórmula MDRD, si bien el número de sujetos clasificados en los diferentes estadios de ERC fue muy similar(AU)</dc:description>
+<dc:source>Rev Clin Esp;212(2): 75-80, feb.2012.</dc:source>
+<dc:identifier>ibc-95779</dc:identifier>
+<dc:title xml:lang="es">Comparación de dos ecuaciones para estimar el filtrado glomerular</dc:title>
+<dc:subject>^d3421^s22002</dc:subject>
+<dc:subject>^d7849^s22016</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d7849^s22012</dc:subject>
+<dc:subject>^d7849^s22067</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d28596^s22045</dc:subject>
+<dc:subject>^d6063^s22031</dc:subject>
+<dc:subject>^d7849^s22032</dc:subject>
+<dc:subject>^d6063^s22021</dc:subject>
+<dc:subject>^d13436^s22074</dc:subject>
+<dc:subject>^d28596^s22074</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d3421^s29165</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201202</dc:date>
+</metadata>
+</record>
+</ibecs-document>

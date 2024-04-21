@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-143698</identifier>
+<setSpec>0212-6567</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Survival of patients with heart failure in primary care</dc:title>
+<dc:description xml:lang="en">Objective: To describe survival of patients with chronic heart failure (HF) followed up in primary care (PC) and analyse the effect of sex, age, clinical and health services factors, and income levels on survival. Design: Longitudinal observational study of a retrospective cohort of patients with information extracted from electronic medical records. Setting: PC Area 7 of the Community of Madrid. Participants: Patients 24 year and older with at least one visit to PC in 2006. Principal measurement: Incident cases of HF followed up from 2006 to 2010 or until death. Survival analysis with Kaplan-Meier and Cox proportional hazard multivariate regression. Results: A total of 3,061 cases were identified in a cohort of 227,984 patients. The survival rate was 65% at 5 years, with 519 patients dying with a median survival of 49 months. Factors associated with increased risk of mortality were, age (HR = 1.04, 1.03-1.05), and having a diagnosis of ischemic heart disease (HR = 1.45, 1.15- 1.78), or diabetes (HR = 1.52, 1.17-1.95). Factors with a significant protective effect were: female sex (HR = 0.72, 0.59-0.86), non-pensioner (HR = 0.43, 0.23-0.84), having received the influenza vaccine annually (HR = 0.01, 0.00-0.06), prescribed lipid-lowering drugs (HR = 0.78, 0.61-0.99) or ACE inhibitors (HR = 0.73, 0.60-0.88), and blood tests having been requested (HR = 0.97, 0.95-1.00), X-rays (HR = 0.81, 0.74-0.88), or electrocardiograms (HR = 0.90, 0.81-0.99) in PC. Conclusions: Data from patients with HF followed up in PC indicate that their survival is better than that obtained in other countries, supporting the argument of a better evolution of HF in Mediterranean countries (AU)</dc:description>
+<dc:creator>Cura González, Isabel del</dc:creator>
+<dc:creator>Martín-Martínez, María Auxiliadora</dc:creator>
+<dc:creator>Estela Gamiño Arroyo, Ana</dc:creator>
+<dc:creator>Sánchez-Piedra, Carlos</dc:creator>
+<dc:creator>Garrido Elustondo, Sofía</dc:creator>
+<dc:creator>Carmona, Rocío</dc:creator>
+<dc:creator>Prado-Galbarro, Francisco Javier</dc:creator>
+<dc:creator>Sarría-Santamera, Antonio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Describir la supervivencia de los pacientes con insuficiencia cardiaca (IC) con seguimiento en atención primaria (AP) y analizar el efecto del sexo, edad, factores clínicos, de utilización de servicios y nivel de renta, en la supervivencia. Diseño: Estudio observacional longitudinal de una cohorte retrospectiva de pacientes a partir de la historia clínica electrónica. Emplazamiento: Área 7 de AP de la Comunidad de Madrid. Participantes: Pacientes mayores de 24 años con una consulta en AP en el año 2006. Mediciones principales: Casos incidentes de IC desde 2006 a 2010 o hasta su fallecimiento. Análisis de supervivencia de Kaplan-Meier y de regresión multivariante de riesgos proporcionales de Cox. Resultados: Se identificaron 3.061 pacientes en una cohorte de 227.984. Su supervivencia fue del 65% a los 5 años. Fallecieron 519 pacientes con una supervivencia media de 49 meses. Los factores asociados a mayor riesgo de mortalidad fueron la edad (HR = 1,04; 1,03-1,05) y tener diagnóstico de cardiopatía isquémica (HR = 1,45; 1,15-1,78) o de diabetes (HR = 1,52; 1,17-1,95). Los factores con un efecto protector fueron ser mujer (HR = 0,72; 0,59-0,86), no pensionista (HR = 0,43; 0,23-0,84), haber recibido la vacunación de la gripe anualmente (HR = 0,01; 0,00-0,06), tener prescritos hipolipidemiantes (HR = 0,78; 0,61-0,99) o IECA (HR = 0,73; 0,60-0,88), así como que se le hubieran solicitado analíticas (HR = 0,98; 0,95-1), radiografías (HR = 0,81; 0,74-0,88) y electrocardiogramas (HR = 0,90; 0,81-0,99) en AP. Conclusiones: Los datos de los pacientes con IC seguidos en AP indican que su supervivencia es mejor que la obtenida en otros países, apoyando el argumento de la mejor evolución de la IC en los países mediterráneos (AU)</dc:description>
+<dc:source>Aten Primaria;47(7): 438-445, ago.-sept. 2015. tab, graf</dc:source>
+<dc:identifier>ibc-143698</dc:identifier>
+<dc:title xml:lang="es">Supervivencia de pacientes con insuficiencia cardiaca en atención primaria</dc:title>
+<dc:subject>^d55468</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d6486^s22053</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6486^s22012</dc:subject>
+<dc:subject>^d13915^s22031</dc:subject>
+<dc:subject>^d6486^s22013</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d13411^s22028</dc:subject>
+<dc:subject>^d30650^s22053</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201509</dc:date>
+</metadata>
+</record>
+</ibecs-document>

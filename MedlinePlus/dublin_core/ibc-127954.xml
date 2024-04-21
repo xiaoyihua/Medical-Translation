@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-127954</identifier>
+<setSpec>0214-1582</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Evaluation of the BI-RADS® categories between readers and with regard to a quantitative method</dc:title>
+<dc:description xml:lang="en">Objective. To assess agreement in breast density classification using the BI-RADS® system and the concordance between this measurement method compared with a dedicated software program (Quantra®). Patients and methods. A descriptive study was carried out in 2 phases. First, we analyzed the BI-RADS® breast density classification assessed by 5 readers in a sample of 516 patients randomly selected and stratified into groups. Intraobserver and interobserver reproducibility were calculated (kappa index). Second, we evaluated the agreement between the most experienced reader and a software package that calculates the volumetric fraction of fibroglandular tissue (Quantra®). Results. The agreement between pairs ranged from fair to moderate (kappa 0.35-0.67). The reading group showed moderate reproducibility (0.58) with the highest values in high breast densities and in the youngest and oldest patients. Intraobserver agreement ranged from moderate to substantial (0.52-0.79). In density classification, there was no evidence of agreement between the expert reader and the software application (kappa = 0.0737). Conclusions. The agreement values obtained corroborate the evidence described in the literature on reading performed by experienced radiologists working exclusively with mammograms. No agreement was found in reader classification versus Quantra® (which classifies densities with a lesser percentage than visual analysis), which could be due to the cut off by category (AU)</dc:description>
+<dc:creator>Martín Ruiz, Olga</dc:creator>
+<dc:creator>Martín Aguilar Angulo, Paul</dc:creator>
+<dc:creator>Moreno de la Presa, Raquel</dc:creator>
+<dc:creator>Romero Castellano, Cristina</dc:creator>
+<dc:creator>Almenar Gil, Asunción</dc:creator>
+<dc:creator>Pinto Varela, José María</dc:creator>
+<dc:creator>Segur Nieto, Virginia</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Valorar la concordancia al clasificar las densidades mamarias empleando el sistema BI-RADS® y la variabilidad entre este método empleado por un lector experto en comparación con los valores obtenidos mediante un sistema de medición automática (Quantra®). Pacientes y métodos. Estudio descriptivo en 2 fases. Primero se evaluó la clasificación BI-RADS® de 5 lectores de una muestra seleccionada de forma aleatoria y estratificada por grupos (516 pacientes), para medir la variabilidad intraobservador e interobservador (índice kappa). Finalmente se analizó la concordancia entre el radiólogo con más experiencia y el software Quantra® que permite la valoración volumétrica de la densidad. Resultados. La concordancia por parejas varió entre débil a moderada (kappa 0,35-0,67), el grupo presentó un valor moderado de reproducibilidad (0,58), siendo mayor en las densidades extremas y en los grupos de edad límite. La variabilidad intraobservador fue de moderada a buena (0,52-0,79). Respecto a la clasificación de la densidad por categorías entre el lector experto y la aplicación, no se evidenció concordancia (kappa = 0,0737). Conclusiones. Los valores de concordancia obtenidos corroboran la evidencia descrita en la literatura, considerando que la lectura la realizaron radiólogos con experiencia y dedicación exclusiva en mama. No se apreció concordancia en la clasificación lector versus Quantra® (esta pondera las densidades en menor porcentaje respecto al análisis visual), y esto podría deberse al punto de corte por categoría (AU)</dc:description>
+<dc:source>Rev. senol. patol. mamar. (Ed. impr.);27(4): 157-162, oct.-dic. 2014.</dc:source>
+<dc:identifier>ibc-127954</dc:identifier>
+<dc:title xml:lang="es">Valoración de las categorías BI-RADS ® de la densidad mamaria entre radiólogos y respecto a un método cuantitativo de medición</dc:title>
+<dc:subject>^d23524^s22045</dc:subject>
+<dc:subject>^d1965^s22053</dc:subject>
+<dc:subject>^d23307^s22074</dc:subject>
+<dc:subject>^d23307^s22039</dc:subject>
+<dc:subject>^d1968^s22053</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d19346^s22039</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d23307^s22066</dc:subject>
+<dc:subject>^d23307^s22045</dc:subject>
+<dc:subject>^d23524^s22039</dc:subject>
+<dc:subject>^d1968^s22058</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201412</dc:date>
+</metadata>
+</record>
+</ibecs-document>

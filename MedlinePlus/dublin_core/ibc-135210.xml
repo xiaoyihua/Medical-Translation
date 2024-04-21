@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-135210</identifier>
+<setSpec>0034-0618</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Theoretical study of the binding mode between CDK2 and butirolactone I</dc:title>
+<dc:description xml:lang="en">Cyclin dependent kinases (CDKs) play a central role in the regulation of the cell division cycle, which makes them a promising target for the development of therapeutic agents in cancer. Efforts have been made in the last few years in the search for small molecules that can act as chemical inhibitors of CDKs. These inhibitors block cell cycle progression and display interesting antitumor activities. Butirolactone I, a natural product isolated from Aspergillus terreus, has shown antiproliferative activity against colon and pancreatic carcinoma cell lines; it behaves as  an ATP competitive inhibitor, displaying a high affinity and selectivity towards CDK1 (cdc2) and CDK2. Due to the structural complexity of this compound, little is known about its binding mode to the pharmacological target. In this work, computer-based design techniques have been used to study the binding mode of butirolactone I to CDK2. The lowest energy complex predicted by these means was later submitted to molecular dynamics simulations in the presence of solvent around the ligandís binding site. The analysis of this simulation indicates the formation of a stable complex, which we propose as a possible binding mode. This has been used as a starting point for the rational design of other ligands that have been synthesized in our laboratory (AU)</dc:description>
+<dc:creator>Pascual Teresa, Beatriz de</dc:creator>
+<dc:creator>Fernández Braña, Miguel</dc:creator>
+<dc:creator>García, María Luisa</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Las quinasas dependientes de ciclinas (CDKs) juegan un papel importante en la regulación de la división del ciclo celular, lo que supone una prometedora diana para el desarrollo de nuevos agentes terapéuticos frente al cáncer. Se ha realizado un gran esfuerzo durante los últimos años en la búsqueda de pequeñas moléculas que pueden actuar como inhibidores químicos de las CDKs. Estos inhibidores bloquean la progresión del ciclo celular y presentan una interesante actividad antitumoral. La butirolactona I, un producto natural aislado de Aspergillus terreus, que ha mostrado actividad antiproliferativa frente a carcinoma de colon y de páncreas en líneas celulares. Se comporta como un inhibidor competitivo del ATP, mostrando alta afinidad y selectividad frente a CDK1 (cdc2) y CDK2. Debido a la complejidad de la estructura de dicho compuesto, no se conoce bien su modo de unión a la diana farmacológica. Mediante técnicas de modelización molecular, hemos llevado a cabo un estudio que nos ha permitido proponer un modo de unión de dicho compuesto a su diana farmacológica. El complejo de más baja energía obtenido por este procedimiento fue posteriormente sometido a una simulación de dinámica molecular en presencia explícita del disolvente en torno al sitio de unión del ligando. El análisis de dicha simulación indica la formación de un complejo estable, que proponemos como posible modo de unión, y que ha servido como base para el diseño racional de otros ligandos que han sido sintetizados en nuestro laboratorio (AU)</dc:description>
+<dc:source>An Real Acad Farm;70(2): 325-356, abr.-jun. 2004. ilus, tab</dc:source>
+<dc:identifier>ibc-135210</dc:identifier>
+<dc:title xml:lang="es">Estudio teórico del modo de unión entre CDK2 y butirolactona I</dc:title>
+<dc:subject>^d32292^s22007</dc:subject>
+<dc:subject>^d38682^s22002</dc:subject>
+<dc:subject>^d32292^s22065</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d32292^s22078</dc:subject>
+<dc:subject>^d32292^s22002</dc:subject>
+<dc:subject>^d38682^s22065</dc:subject>
+<dc:subject>^d22945</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d9562^s22067</dc:subject>
+<dc:subject>^d9562^s22057</dc:subject>
+<dc:subject>^d9562^s22011</dc:subject>
+<dc:subject>^d9562^s29165</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200406</dc:date>
+</metadata>
+</record>
+</ibecs-document>

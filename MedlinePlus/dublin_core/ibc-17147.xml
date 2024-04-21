@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-17147</identifier>
+<setSpec>0212-4572</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Evaluation of the Sysmes UF-100 flow cytometer for automated urine sediment</dc:title>
+<dc:creator>Tormo Díaz, C</dc:creator>
+<dc:creator>Llorca Santos, B</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Safel Distribución</dc:publisher>
+<dc:description xml:lang="es">El citómetro de flujo Sysmex UF-100 es un equipo diseñado para detectar, identificar y cuantificar los elementos formes de la orina. El objetivo principal del presente trabajo ha sido evaluar las prestaciones analíticas del autoanalizador y correlacionarlo con el método utilizado habitualmente en el laboratorio: la observación del sedimento urinario al microscopio óptico después de ser analizadas mediante un lector de tiras reactivas. Para la evaluación se siguió el Protocolo de Evaluación para analizadores automáticos de la Sociedad Española de Bioquímica Clínica y Patología Molecular utilizando materiales de control comerciales y especimenes de los pacientes. El rango de coeficientes de variación para la reproducibilidad se sitúa entre 2.1 y 9.0 per cent, dando mejores resultados que la variabilidad intraserial. La linealidad fue aceptable, dando coeficientes de correlación elevados, destacando el r=0.999 para las bacterias; los límites de detección resultaron muy bajos, siendo mucho más sensibles que el ojo humano y, finalmente, no se demostró que hubiera contaminación de una muestra sobre otra en el rango de concentraciones estudiadas. La comparación entre los dos métodos estudiados muestra una correlación lineal alta para hematíes y leucocitos, destacando un r=0.722 para hematíes en el grupo hospital y un 0.884 para leucocitos en el grupo de atención primaria, y algo más baja para el resto de parámetros cuantitativos. En cuanto a las variables cualitativas, obtenemos especificidades aceptables, pero no así en las sensibilidades, por lo que consideramos que su aplicación inmediata en el análisis de orina rutinario debe ser limitada. (AU)</dc:description>
+<dc:source>Anál. clín;27(4): 179-190, oct. 2002. tab, graf</dc:source>
+<dc:identifier>ibc-17147</dc:identifier>
+<dc:title xml:lang="es">Evaluación del citómetro de flujo Sysmex UF-100 para la realización automática del sedimento urinario</dc:title>
+<dc:subject>^d5567^s22039</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d14956^s29165</dc:subject>
+<dc:subject>^d12437</dc:subject>
+<dc:subject>^d14051</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200210</dc:date>
+</metadata>
+</record>
+</ibecs-document>

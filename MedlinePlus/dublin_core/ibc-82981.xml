@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-82981</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Evaluation of the left ventricle with three-dimensional echocardiography: comparison with cardiac magnetic resonance</dc:title>
+<dc:description xml:lang="en">Objective. Three-dimensional echocardiography (3DE) is becoming increasingly common in clinical environments. However, the quality of the images depends on the acoustic window, and it can be difficult to identify the endocardial borders. The objective of this study was to evaluate the performance of 3DE in determining the volumes and left ventricular ejection fraction in unselected patients against the gold standard, cardiac magnetic resonance (CMR). Material and methods. In 47 unselected patients who underwent CMR, we performed 3DE using a real-time acquisition technique and semiautomatic border detection. Results. We excluded 4 patients (8.5%) because they had an extremely deficient acoustic window. In the remaining 43 patients, including those with a suboptimal acoustic window, we obtained the following correlations between 3DE and CMR: end-diastolic volume, 0.71; end-systolic volume, 0.77; ejection fraction, 0.74. Although the end-diastolic volume was systematically underestimated, no significant differences were observed in the ejection fraction. When the 11 patients with suboptimal acoustic windows were excluded, we observed a systematic underestimation of the end-diastolic and end-systolic volumes, which paradoxically gave rise to improved correlation coefficients (0.79, 0.92, and 0.84, respectively) and a more accurate ejection fraction. Conclusions. Compared to CMR, 3DE systematically underestimates the ventricular volumes but enables adequate determination of the left ventricular ejection fraction regardless of the quality of the acoustic window (AU)</dc:description>
+<dc:creator>Claver, E</dc:creator>
+<dc:creator>Hidalgo, A</dc:creator>
+<dc:creator>Carreras, F</dc:creator>
+<dc:creator>Pujadas, S</dc:creator>
+<dc:creator>Leta, R</dc:creator>
+<dc:creator>Pons-Lladó, G</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. La implantación de la ecocardiografia tridimensional (E3D) en el ámbito clínico está experimentando importantes avances. Sin embargo, la calidad de imagen depende de la ventana acústica, y puede ser difícil la identificación de los bordes endocárdicos. El objetivo de este estudio fue comparar la E3D en la determinación de los volúmenes y la fracción de eyección del ventrículo izquierdo en pacientes no seleccionados, usando la resonancia magnética cardiaca (RMC) como patrón de referencia. Material y métodos. A 47 pacientes no seleccionados sometidos a un estudio de RMC, se les practicó también una E3D mediante la técnica de adquisición en tiempo real y análisis con detección semiautomática de los bordes. Resultados. Se excluyeron 4 pacientes (8,5%) por tener una ventana acústica extremadamente deficiente. En el resto (43 pacientes), incluyendo aquellos con una ventana subóptima, se obtuvo una correlación aceptable entre la E3D y la RMC: volumen telediastólico: 0,71; volumen telesistólico: 0,77; fracción de eyección: 0,74. Aunque hubo una infraestimación sistemática del volumen telediastólico, no se observaron diferencias significativas en la determinación de la fracción de eyección. Al excluir los 11 pacientes con ventana subóptima, se observó una infraestimación sistemática de los volúmenes telediastólico y telesistólico, lo que dio lugar paradójicamente a una mejoría de los coeficientes de correlación (0,79, 0,92, 0,84), resultando más exacta la fracción de eyección. Conclusiones. En comparación con la RMC, la E3D infraestima sistemáticamente los volúmenes ventriculares, pero permite la determinación adecuada de la fracción de eyección ventricular izquierda independientemente de la ventana acústica (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);52(6): 534-540, nov.-dic. 2010. tab, ilus</dc:source>
+<dc:identifier>ibc-82981</dc:identifier>
+<dc:title xml:lang="es">Evaluación del ventrículo izquierdo por ecocardiografia tridimensional. Comparación con la Cardio-RM</dc:title>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d6505^s29166</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d33091^s22039</dc:subject>
+<dc:subject>^d30693^s29166</dc:subject>
+<dc:subject>^d33091^s22066</dc:subject>
+<dc:subject>^d33091^s22045</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d33091^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201012</dc:date>
+</metadata>
+</record>
+</ibecs-document>

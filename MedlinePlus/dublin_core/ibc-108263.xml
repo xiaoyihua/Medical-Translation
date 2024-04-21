@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-108263</identifier>
+<setSpec>0213-9626</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Theory of malaria peptides with high-affinity binding to red blood cells. Theoretical predictions of new binding peptides and predictive mutations of critical amino acids</dc:title>
+<dc:description xml:lang="en">The trial-error method has been used to study the binding capacityof peptides from merozoite proteins to red blood cell receptors. Physical-mathematical characterizations with probability and entropyhave differentiated in an objective way high-affinity binding peptidesfrom those that do not bind.Five theoretical peptides and 40 peptides from 4 merozoite surfaceproteins were selected. An induction was made by calculating the probability of grouped amino acids to happen, and consecutively that of twoamino acids. By building a sample probability space with high-affinitybinding peptides and another one with non-binding peptides, the predictive values for high-affinity and non-binding peptides was calculated.One hundred and sixteen non-binding peptides from the same proteinswere quantified, confirming predictive values. The predictive values foroverlapped peptides from MSP-2 were calculated, and some performance measures for predictions were quantified. Theoretical mutations forone high-affinity binding peptide were constructed, quantifying for eachmutation the predictive values.A predictive methodology for the binding of merozoite surface proteins to red blood cell receptors was developed, with 95% sensibility, and90% specificity, with respect to experimental results.The development of an a-causal theory founded in a physical-mathematical order, which replaced the molecular biology language and theassay-error method for a mental experiment, physical-mathematical lawsand one theoretical induction lead to the creation of effective predictionsof the experiments (AU)</dc:description>
+<dc:creator>Prieto, Signed</dc:creator>
+<dc:creator>Rodríguez, Javier</dc:creator>
+<dc:creator>Bernal, Pedro</dc:creator>
+<dc:creator>Correa , Catalina</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El método de ensayo y error experimental ha sido usado para estudiarla capacidad de unión a receptores del glóbulo rojo de péptidos de proteí-nas del merozoíto. Caracterizaciones físicas y matemáticas con la probabilidad y la entropía han diferenciado objetivamente péptidos de alta uniónde los que no lo son.Se seleccionaron 5 péptidos teóricos y 40 pertenecientes a cuatro proteínas de superficie del merozoíto. Se realizó una inducción calculando laprobabilidad de aparición de aminoácidos por grupos, y agrupados consecutivamente de a dos, construyendo un espacio de probabilidad con lospéptidos de alta unión y otro con los péptidos que no se unen, se calcularon los valores que predicen cuando un péptido es o no de alta unión. Secuantificaron los 116 péptidos que no presentaron alta unión de las mismasproteínas, confirmando los valores predictivos. Se calcularon los valorespredictivos para los péptidos sobrelapados de la MSP-2, se realizaron medidas de desempeño de las predicciones respecto a los hallazgos experimentales. Se realizaron mutaciones teóricas de un péptido de alta unión calculando para cada mutación los valores predictivos.Se desarrolló una metodología predictiva para proteínas de superficiedel merozoíto a receptores del glóbulo rojo, encontrando una sensibilidaddel 95% y una especificidad del 90%, según resultados experimentales.El desarrollo de una teoría fundamentada en un orden físico y matemático acausal reemplazando el lenguaje de la biología molecular y el método ensayo-error por un experimento mental, leyes físico-matemáticas y unainducción teórica permitió crear predicciones eficaces de los experimentos (AU)</dc:description>
+<dc:source>Inmunología (1987);29(1): 7-19, ene.-mar. 2010. tab</dc:source>
+<dc:identifier>ibc-108263</dc:identifier>
+<dc:title xml:lang="es">Teoría de péptidos de alta unión de malaria al glóbulo rojo. Predicciones teóricas de nuevos péptidos de unión y mutaciones teóricaspredictivas de aminoácidos críticos</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d52015^s22038</dc:subject>
+<dc:subject>^d9152</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d11773</dc:subject>
+<dc:subject>^d33844^s22038</dc:subject>
+<dc:subject>^d10648^s22038</dc:subject>
+<dc:subject>^d8462^s22038</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201003</dc:date>
+</metadata>
+</record>
+</ibecs-document>

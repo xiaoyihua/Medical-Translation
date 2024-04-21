@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-053515</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Detection of inducible resistance to clindamycin in cutaneous isolates of Staphylococcus spp. by phenotypic and genotypic methods</dc:title>
+<dc:description xml:lang="en">Introduction. Resistance to macrolides, lincosamides and type B streptogramins (MLSB) in Staphylococcus isolates can be due to several mechanisms. The most important are an active efflux mechanism (MSB phenotype) and ribosomal target modification (MLSB phenotype); this latter mechanism confers resistance to all three groups of antimicrobials (MLSB resistance). Expression of MLSB resistance can be constitutive (cMLSB) or inducible (iMLSB).  Methods. A group of 117 erythromycin-resistant Staphylococcus spp. clinical isolates from cutaneous samples were selected from 536 recent clinical isolates of this microorganism. Resistance phenotypes were determined by the double disk diffusion test. Presence of the ermA, ermC, ermB and msrA genes was detected by real time PCR.  Results. The MSB phenotype was the most common, comprising 11.2% (7.2% in S. aureus and 23% in CoNS) of the erythromycin-resistant strains. The rate of iMLSB resistance was significantly higher, 7.4% (5.2% in S. aureus and 14% in CoNS), than the rate of cMLSB resistance, 3.2% (1.7% in S. aureus and 7.4% in CoNS).  The msrA gene was present in all isolates with the MSB phenotype, and the ermC gene was the most common among clindamycin-resistant strains with the MLSB phenotype (constitutive or inducible).  Conclusion. The good correlation between the phenotypic (disk-diffusion) and genotypic (real time PCR) methods used allows prediction of the mechanisms of erythromycin and clindamycin resistance, provides insight into the epidemiological differences in their distribution, and is an aid to selecting the most appropriate antimicrobial therapy (AU)</dc:description>
+<dc:creator>Aznar-Martín, Javier</dc:creator>
+<dc:creator>Cantos de la Casa, Ángel</dc:creator>
+<dc:creator>Merino-Díaz, Laura</dc:creator>
+<dc:creator>Torres-Sánchez, María José</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. La resistencia de estafilococos a macrólidos, lincosamidas y estreptograminas del tipo B (antibióticos MLSB) puede ser debida a varios mecanismos de resistencia y entre ellos los dos más importantes son la expulsión activa (fenotipo MSB) y la modificación de la diana en el ribosoma (fenotipo MLSB). Este último mecanismo confiere resistencia cruzada a los 3 grupos de antimicrobianos (resistencia MLSB). La expresión fenotípica de la resistencia MLSB puede ser de carácter constitutivo (cMLSB) o inducible (iMLSB).  Métodos. Se estudiaron 117 estafilococos resistentes a eritromicina procedentes de muestras cutáneas que fueron seleccionados a partir de 536 aislados clínicos de estafilococos. El estudio fenotípico se realizó mediante la técnica de difusión por doble disco. La presencia de los genes ermA, ermC, ermB y msrA implicados en la resistencia se estudiaron por reacción en cadena de la polimerasa (PCR) en tiempo real.  Resultados. El fenotipo MSB fue el más frecuente, encontrándose en el 11,2% de las cepas (7,2% Staphylococcus aureus y 23% ECN) y la tasa de resistencia inducible iMLSB, fue estadísticamente significativa más alta 7,4% (5,2% en S. aureus y 14% en ECN) que la tasa de resistencia constitutiva cMLSB, 3,2% (1,7% en S. aureus y 7,4% en ECN).  Todos los aislados con el fenotipo MSB presentaron el gen msrA y el gen ermC fue el más frecuentemente detectado en las cepas resistentes a clindamicina con fenotipo MLSB (constitutivo o inducible).  Conclusión. La buena correlación entre los métodos fenotípicos (doble difusión con discos) y genotípicos permiten inferir el mecanismo de resistencia a eritromicina y clindamicina, seleccionar el tratamiento antimicrobiano más adecuado, así como apreciar las diferencias epidemiológicas en su distribución (AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;25(2): 77-81, feb. 2007. tab</dc:source>
+<dc:identifier>ibc-053515</dc:identifier>
+<dc:title xml:lang="es">Detección de resistencia inducible a clindamicina en aislados cutáneos de Staphylococcus spp. por métodos fenotípicos y genotípicos</dc:title>
+<dc:subject>^d10833</dc:subject>
+<dc:subject>^d5974</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23201^s22044</dc:subject>
+<dc:subject>^d28027^s22078</dc:subject>
+<dc:subject>^d36323^s22033</dc:subject>
+<dc:subject>^d8967</dc:subject>
+<dc:subject>^d29045</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d22164</dc:subject>
+<dc:subject>^d1449</dc:subject>
+<dc:subject>^d24244^s22045</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d3058^s22033</dc:subject>
+<dc:subject>^d23201^s22078</dc:subject>
+<dc:subject>^d28320^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200702</dc:date>
+</metadata>
+</record>
+</ibecs-document>

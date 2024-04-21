@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-115134</identifier>
+<setSpec>0034-9356</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Phenylephrine dosing error in Intensive Care Unit. Case of the trimester</dc:title>
+<dc:description xml:lang="en">A real clinical case reported to SENSAR is presented. A patient admitted to the surgical intensive care unit following a lung resection, suffered arterial hypotension. The nurse was asked to give the patient 1 mL of phenylephrine. A few seconds afterwards, the patient experienced a hypertensive crisis, which resolved spontaneously without damage. Thereafter, the nurse was interviewed and a dosing error was identified: she had mistakenly given the patient 1 mg of phenylephrine (1 mL) instead of 100 mcg (1 mL of the standard dilution, 1 mg in 10 mL). The incident analysis revealed latent factors (event triggers) due to the lack of protocols and standard operating procedures, communication errors among team members (physician-nurse), suboptimal training, and underdeveloped safety culture. In order to preempt similar incidents in the future, the following actions were implemented in the surgical intensive care unit: a protocol for bolus and short lived infusions (&lt; 30 min) was developed and to close the communication gap through the adoption of communication techniques. The protocol was designed by physicians and nurses to standardize the administration of drugs with high potential for errors. To close the communication gap, repeated checks about saying and understanding was proposed («closed loop»). Labeling syringes with the drug dilution was also recommended(AU)</dc:description>
+<dc:creator>Sistema Español de Notificación en Seguridad en Anestesia y Reanimación (SENSAR)</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Presentamos un caso real comunicado en SENSAR. Se trataba de un paciente ingresado en una unidad de Reanimación tras una resección pulmonar y que presentaba hipotensión arterial. Se pidió a la enfermera responsable del paciente que le administrara 1 ml de fenilefrina. Unos segundos después, el paciente presentó una crisis hipertensiva autolimitada, que cedió espontáneamente sin producir ningún daño. Se preguntó a la enfermera sobre la medicación administrada y se constató que se había producido un error de dosificación, habiéndose administrado 1 mg (1 ml) de fenilefrina en lugar de 100 mcg (1 ml de la dilución habitual de 1 mg en 10 ml, 100 mcg/ml). Al analizar el incidente hallamos factores latentes (favorecedores del incidente) relacionados con la falta de protocolos y sistemática de trabajo, error en la comunicación entre profesionales (médico-enfermero), problemas en la política de formación y fallo en la cultura de seguridad. Para prevenir este tipo de incidentes se elaboró un protocolo en la Unidad de Reanimación para la administración de fármacos en bolo e infusiones inferiores a 30 min, y se instauraron técnicas para mejorar la comunicación entre profesionales. El protocolo sistematiza el uso de fármacos identificados como de riesgo para generar errores de administración y ha sido desarrollado entre médicos y personal de enfermería de Reanimación. Para mejorar el proceso de comunicación se propone realizar comprobaciones repetidas de lo dicho y entendido, para cerrar el bucle de comunicación (closed loop). También se recomienda el etiquetado de jeringas especificando la dilución del fármaco(AU)</dc:description>
+<dc:source>Rev Esp Anestesiol Reanim;60(7): e19-e21, ago.-sept. 2013.</dc:source>
+<dc:identifier>ibc-115134</dc:identifier>
+<dc:title xml:lang="es">Administración de dosis equivocada de fenilefrina en Reanimación. Caso del trimestre</dc:title>
+<dc:subject>^d8675^s22020</dc:subject>
+<dc:subject>^d33121^s22024</dc:subject>
+<dc:subject>^d10849^s22073</dc:subject>
+<dc:subject>^d4365</dc:subject>
+<dc:subject>^d8675^s37748</dc:subject>
+<dc:subject>^d21012</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d7152^s22012</dc:subject>
+<dc:subject>^d8675^s22047</dc:subject>
+<dc:subject>^d8675^s22024</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d54857^s22083</dc:subject>
+<dc:subject>^d7152^s22016</dc:subject>
+<dc:subject>^d7152^s22057</dc:subject>
+<dc:subject>^d54857^s22041</dc:subject>
+<dc:subject>^d33121^s22020</dc:subject>
+<dc:subject>^d33141</dc:subject>
+<dc:subject>^d54857^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201309</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-61893</identifier>
+<setSpec>0212-1972</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Radiology research: the need for a collaborative approach</dc:title>
+<dc:description xml:lang="en">The growing importance of the image in all medical processes means that the development of cooperative work in network is a social obligation. Multi-disciplinarity is a key factor to increasing the quality of information which is extracted from radiology explorations and the new minimally invasive therapies guided by imaging. The cyber-infrastructures are the new advanced research settings which give support to the processes of acquisition, storing, management, integration, mining and visualization of data (AU) </dc:description>
+<dc:creator>Martín-Bonmatí, Luis</dc:creator>
+<dc:creator>Hernández-García, Vicente</dc:creator>
+<dc:creator>Lull, Juan José</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La creciente importancia de la imagen en todos los procesos médicos hace que el desarrollo de trabajos cooperativos en red sea una obligación social. Mediante la creación de una plataforma conjunta, multidisciplinar y colaborativa se pueden aunar datos, esfuerzos, capacidades y recursos. Los  profesionales de la imagen médica deben profundizar en la calidad de la información  que se extrae de las exploraciones que se realizan y de las nuevas terapias mínimamente invasivas guiadas por la imagen, en un entorno distribuido y seguro de compartición de conocimietno y recursos. Este entorno se debe construir sobre una capa de servicios desplegados en una &#147;ciberinfraestructura&#148; con un sistema de acceso distribuido a las bases de datos estructuradas y seguras sobre las que aplicar técnicas avanzadas de &#147;posproceso&#148; y de &#147;minería de datos&#148; para extraer conocimiento en un entorno seguro. Las ciberinfraestructuras son los nuevos entornos de investigación avanzada que dan soporte a los procesos de adquisición, almacenamiento, gestión, integración, minería y visualización de datos, así como otros servicios de computación y procesamiento de la información a través de Internet. Para que la investigación radiológica sea eficaz, deben crearse grupo de trabajo donde se interrelacionen no sólo médicos de diversas especialidades, sino también otros profesionales no sanitarios relacionados con la imagen médica (ingenieros, informáticos, telecomunicaciones, química-física, farmacología). El grado de complejidad de estos grupos, su multidisciplinaridad, será un medida de las necesidades de la investigación (AU) </dc:description>
+<dc:source>Todo hosp;(237): 366-374, jun. 2007.</dc:source>
+<dc:identifier>ibc-61893</dc:identifier>
+<dc:title xml:lang="es">Investigación Radiológica: necesidad de una aproximación colaborativa</dc:title>
+<dc:subject>^d32795^s22066</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d22878^s22048</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d12527^s22045</dc:subject>
+<dc:subject>^d12527^s22066</dc:subject>
+<dc:subject>^d32597^s22074</dc:subject>
+<dc:subject>^d12527^s22049</dc:subject>
+<dc:subject>^d32597^s22083</dc:subject>
+<dc:subject>^d19200^s22066</dc:subject>
+<dc:subject>^d19243^s22049</dc:subject>
+<dc:subject>^d32795^s22018</dc:subject>
+<dc:subject>^d19200^s22074</dc:subject>
+<dc:subject>^d32795^s22049</dc:subject>
+<dc:subject>^d19243^s22045</dc:subject>
+<dc:subject>^d32795^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200706</dc:date>
+</metadata>
+</record>
+</ibecs-document>

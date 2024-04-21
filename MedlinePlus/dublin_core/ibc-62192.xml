@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-62192</identifier>
+<setSpec>1130-2399</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Patient-noninvasive mechanical ventilation interaction</dc:title>
+<dc:description xml:lang="en">Noninvasive mechanical ventilation is one more step in the treatment of patients with acute respiratory failure. In addition to gas exchange disorders, its primary indication to initiate it is the presence of signs of respiratory muscles fatigue. To assure successful mechanical ventilation, the ventilator and patient must be synchronized, that is, the effort the patient makes to start inspiration is recognized by the ventilator and it quickly delivers gas flow, that the flow provided by the ventilator adapts to the flow need of the patient during delivery of gas phase and that the ventilator recognizes the cessation of inspiratory activity by the patient, ends the delivery of gas and opens the expiratory valve to allow the patient expiration. This sequence of events, which seem so logical, is almost never achieved in the clinical practice, commonly observing some asynchrony in ventilated patients. The presence of patient-ventilator asynchrony leads to increased breathing work, which would lead to the failure of the main objective of ventilatory support, that is none other than decline in the patient&#146;s respiratory work(AU)</dc:description>
+<dc:creator>Artacho, R</dc:creator>
+<dc:creator>López, M</dc:creator>
+<dc:creator>Gómez, M. I</dc:creator>
+<dc:creator>García, F</dc:creator>
+<dc:creator>Guzmán, J. A</dc:creator>
+<dc:creator>Campo, E. del</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La ventilación mecánica no invasiva constituye un escalón más del tratamiento del paciente en situación de fallo respiratorio agudo. Además de los trastornos del intercambio de gases, la indicación principal para iniciarla la constituye la presencia de signos de fatiga de los músculos respiratorios. Para que la ventilación mecánica tenga éxito es fundamental que ventilador y paciente estén sincronizados, es decir, que el esfuerzo que el enfermo hace para iniciar la inspiración sea reconocido por el ventilador y este entregue rápidamente un flujo de gas, que el flujo aportado por el ventilador se adapte a la necesidad de flujo del paciente durante la fase de entrega de gas, y que el ventilador reconozca el cese de la actividad inspiratoria del paciente, finalice la entrega de gas y abra la válvula espiratoria para permitir la espiración del paciente. Esta secuencia de hechos, que parecen tan lógicos, casi nunca se consigue en la práctica clínica, siendo habitual observar en los pacientes ventilados algún tipo de asincronía. La presencia de desadaptación o asincronía paciente-ventilador conduce invariablemente a un aumento del trabajo respiratorio, lo que hará fracasar el objetivo fundamental del soporte ventilatorio, que no es otro que la disminución del trabajo respiratorio del paciente(AU)</dc:description>
+<dc:source>Enferm Intensiva;20(3): 110-116, jul.-sep. 2009. graf</dc:source>
+<dc:identifier>ibc-62192</dc:identifier>
+<dc:title xml:lang="es">Interacción paciente-ventilador en ventilación mecánica no invasiva</dc:title>
+<dc:subject>^d12552^s22067</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12541^s22045</dc:subject>
+<dc:subject>^d12541^s22024</dc:subject>
+<dc:subject>^d24402^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200909</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-118162</identifier>
+<setSpec>1888-4008</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Comparison of the new point of care method for measuring cardiac troponin i in whole blood versus two plasma immunoassays</dc:title>
+<dc:description xml:lang="en">Background. AQT90 FLEX is a new bench top analyzer with performance characteristics that make it suitable for use in Point of Care. In this work we compare troponin I measured in whole blood with this analyzer and the plasma measurement using two immunoassays frequently used in core laboratories, such as Dimension(R) EXL and Stratus(R) CS. Methods. We collected 68 samples into lithium heparin tubes, which were analyzed on the AQT90 FLEX and then centrifuged and the plasma used for the measurement of troponin I using the Dimension(R) EXL and Stratus(R) CS. Results. The regression analysis yielded the following equations: AQT = 0.006 + 0.22*Dimension (r = 0.90) and AQT = 0.001 + 0.29*Stratus (r=0.97), although constant and proportional differences were observed in both comparisons. The comparison between Stratus(R) and Dimension(R) yielded the following equation: Stratus = 0.0026 + 0.98*Dimension (r = 0.99) with no constant errors in either of them (AU)</dc:description>
+<dc:creator>Varona Pérez, Julia</dc:creator>
+<dc:creator>Bustos Guadaño, Fernando</dc:creator>
+<dc:creator>José Luis Martín Calderón, José Luis</dc:creator>
+<dc:creator>Sánchez Gómez, Juan Carlos</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. El equipo AQT90 FLEX es un analizador de sobremesa para inmunoanálisis que presenta características que lo hacen útil para su empleo a la cabecera del paciente. En el presente trabajo comparamos el método de la troponina I en sangre total en este equipo frente a la medida en plasma con 2 inmunoanálisis usados en los laboratorios centrales, como son Stratus® CS y Dimension(R) EXL. Material y métodos. Se obtuvieron 68 muestras de sangre recogidas en tubo de heparina litio. Las muestras se analizaron primero en el AQT90 FLEX y una vez liberados los tubos se centrifugaron, analizándose el plasma resultante por Stratus(R) CS y Dimension(R) EXL. Resultados. El análisis de regresión arrojó los siguientes ecuaciones: AQT = 0,006 + 0,22*Dimension con un coeficiente de correlación de 0,90 y AQT = 0,001 + 0,29*Stratus, siendo el coeficiente de correlación de 0,97, aunque se observaron diferencias constantes y proporcionales. Para la comparación entre los 2 métodos usados como referencia frente al método a evaluar se obtuvo la siguiente ecuación: Stratus = 0,0026 + 0,98*Dimension con un coeficiente de correlación de 0,99 en ausencia de errores (AU)</dc:description>
+<dc:source>Rev. lab. clín;6(4): 104-144, oct.-dic. 2013.</dc:source>
+<dc:identifier>ibc-118162</dc:identifier>
+<dc:title xml:lang="es">Comparación de un método de point of care para la medida de troponina I cardiaca en sangre total frente a dos inmunoensayos en plasma</dc:title>
+<dc:subject>^d22512^s22066</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d52613^s22016</dc:subject>
+<dc:subject>^d22512^s22074</dc:subject>
+<dc:subject>^d9395^s22016</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d33046^s22002</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d22512^s22045</dc:subject>
+<dc:subject>^d22512^s22039</dc:subject>
+<dc:subject>^d9395^s22053</dc:subject>
+<dc:subject>^d33046</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201312</dc:date>
+</metadata>
+</record>
+</ibecs-document>

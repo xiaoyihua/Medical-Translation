@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-14654</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Comparison of three alternative methods for the analysis of interrupted time-series</dc:title>
+<dc:description xml:lang="en">This paper examines three procedures for analyzing interrupted time-series designs. Particularly, the functioning of correctly identified model, the general transformation approach, and an alternative approach proposed by Escudero and Vallejo (1999). Simulated data were used for investigating the effects that two intervention models had on the estimation of parameters, error rates and power rates of 20 ARIMA processes. The results indicate that, under manipulated conditions: 1) the accuracy of estimates is essentially the same for all three approaches. 2) The alternative approach controls the Type I error rate when &amp;#945; = 0.05 and the model has more than one parameter; under the remaining conditions the model provides conservative rates of error. Finally, with an immediate and constant intervention effect the alternative approach is less powerful than the rest of the approaches; however, with an gradual and permanent intervention effect all three analyses provided equivalent results (AU)</dc:description>
+<dc:creator>Vallejo, Guillermo</dc:creator>
+<dc:creator>Escudero, José Ramón</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Se examina el comportamiento de las tres técnicas de análisis de diseños de series temporales interrumpidas: el modelo correctamente identificado, el enfoque de la transformación general y un enfoque alternativo propuesto por Escudero y Vallejo (1999). Se utilizaron datos simulados para investigar los efectos que dos modelos de intervención tenían en la estimación de los parámetros, tasas de error y tasas de potencia de 20 procesos ARIMA. Para las condiciones manipuladas, los resultados ponen de relieve: 1) que los tres enfoques proporcionan esencialmente los mismos estimadores de parámetros, 2) que el enfoque alternativo mantiene controlada la tasa de error al nivel nominal cuando a =0.05 y el modelo tiene más de un parámetro, en los casos restantes el enfoque se vuelve conservador y 3) que cuando el modelo de intervención es abrupto y constante el enfoque alternativo es menos potente que los otros dos enfoques, mientras que cuando el modelo de intervención es gradual y permanente la potencia de los tres enfoques es bastante similar (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);12(3): 480-486, ago. 2000.</dc:source>
+<dc:identifier>ibc-14654</dc:identifier>
+<dc:title xml:lang="es">Comparación de tres métodos alternativos para el análisis de series temporales interrumpidas</dc:title>
+<dc:subject>^d24535</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200008</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-042518</identifier>
+<setSpec>0212-7199</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Impact of automatised systems in a high resolution model of outpatient clinics</dc:title>
+<dc:description xml:lang="en">Objective: To analyse the impact of computerised systems in Radiology and Laboratory Departments on the reduction in the waiting time of the patients attending to an Internal Medicine outpatient consultation organised in a high resolution model. Methods: For one year, we studied the delay in diagnostic explorations (laboratory test, simple radiology, ultrasonic diagnostics and brain scanner) that were all applied for and performed in a single day. We compared the traditional organization (n = 312 explorations), in which the results were handed in by hospital auxiliary staff, to a computerised method (n = 457 explorations), which was implemented via our intranet. Results: The global delay decreased 10% in average, the differences being significant only for the variables &#147;brain scanner&#148; (12.7%) and &#147;laboratory&#148; (19%). The average reduction in the waiting time per patient was 11.7%, ranging from 7.8% (when only one exploration was performed) to 13.2% (when 2 explorations were carried out). The percentage of patients who needed to wait more than 3 hours to receive their results also diminished significantly. Conclusion: The implementation of computerised systems reduced the waiting time to receive the results of complementary explorations. However, our results were not homogeneous for the different explorations</dc:description>
+<dc:creator>Martos Melguizo, L</dc:creator>
+<dc:creator>Montijano Cabrera, A. M</dc:creator>
+<dc:creator>Zambrana García, J. L</dc:creator>
+<dc:creator>Adarraga Cansino, M. D</dc:creator>
+<dc:creator>Rosa-Jiménez, F</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Estudiar la eficacia de los sistemas informatizados en las Áreas de Radiología y Laboratorio en la reducción del tiempo de espera de los pacientes en un programa de alta resolución en la consulta externa de medicina interna. Material y método: Se analizó durante un año la demora de las pruebas diagnósticas solicitadas en el día (laboratorio, radiología simple, ecografía y TAC craneal) y el tiempo de espera de los pacientes según el método convencional (312 peticiones cuyos resultados eran enviados a través de celadores o personal auxiliar) o el método informatizado (457 peticiones vía intranet). Resultados: Se observó una reducción media del 10% en la demora global, aunque las diferencias sólo fueron significativas para la TAC (12,7%) y el laboratorio (19%). La reducción media del tiempo de espera del paciente fue del 11,7% que osciló según fueran una (7,8%) o dos (13,2%) las pruebas solicitadas. El porcentaje de pacientes que esperaron más de 3 horas la llegada de sus resultados se redujo de forma significativa. Discusión: El uso de sistemas automatizados de transmisión de las exploraciones complementarias produjo una reducción del tiempo de espera de los pacientes. Sin embargo, los resultados no afectaron de forma homogénea a las distintas técnicas</dc:description>
+<dc:source>An Med Interna;22(11): 511-514, nov. 2005. tab</dc:source>
+<dc:identifier>ibc-042518</dc:identifier>
+<dc:title xml:lang="es">Impacto de los sistemas automatizados en un modelo de consulta de alta resolución</dc:title>
+<dc:subject>^d29347</dc:subject>
+<dc:subject>^d7553^s22049</dc:subject>
+<dc:subject>^d28842</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d10004</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d555^s22049</dc:subject>
+<dc:subject>^d29531</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200511</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-146154</identifier>
+<setSpec>0212-1611</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Model for estimating standing height in Mexican adults for 20-59 years, based on knee length</dc:title>
+<dc:description xml:lang="en">Currently, bone distances are used to predict standing height in adults that might not be able to achieve a correct standing position. Knee length based algorithms for estimating standing height have been proposed and designed for specific populations. However, equations for other populations may not necessarily reflect environmental and genetic factors for the group of interest. The aim of this study was to develop and validate predictive models for standing height in Mexican adults. For this purpose, 240 male and female adults aged 20 to 59 years, with no apparent spine problems were measured. We measured weight, height and knee length, using an anthropometer of our own design and a glass fiber metric measuring tape. A predictive model for each measuring instrument was developed. Model selection and development of equations were carried out by 'all possible regressions and multiple regression' procedures. The predictive models for standing height by the anthropometer and by the measuring tape did not show significant differences between measured and estimated height. The R2 for the two models were 0.93 and 0.92, with a standard error of the estimator (EE) of 2.30 and 2.40 cm, for the anthropometer and the measuring tape, respectively. Both methods were acceptable in terms of concordance, accuracy and precision; however, at very high and low predicted height values, both models showed significant bias, which should be considered when applying these algorithms in different populations (AU)</dc:description>
+<dc:creator>Antunez Roman, Lesley E</dc:creator>
+<dc:creator>Valencia, Mauro E</dc:creator>
+<dc:creator>Villegas Valle, Rosa Consuelo</dc:creator>
+<dc:creator>Díaz Zavala, Rolando Giovanni</dc:creator>
+<dc:creator>Mendivil Alvarado, Herminia</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Actualmente las distancias óseas se utilizan para predecir la talla en adultos que no pueden tener una adecuada bipedestación o no cumplen con la posición adecuada para la obtención de la talla. Existen algoritmos para la estimación de la talla basados en la longitud rodilla-talón, diseñados para poblaciones específicas; sin embargo, existen poblaciones que aún no cuentan con esta herramienta, por lo que se usan ecuaciones ya existentes, que no necesariamente reflejan los factores genético-ambientales para la población de interés. El objetivo de este estudio fue desarrollar y validar modelos predictivos para la talla de pie en adultos mexicanos, con antropómetro de diseño propio y cinta métrica. Se midieron 240 adultos de 20 a 59 años, de ambos sexos, sin problemas aparentes en la columna vertebral. Se midió el peso, la talla de pie y la longitud rodilla-talón. Se desarrolló un modelo predictivo para cada instrumento de medición. La selección de modelos y el desarrollo de las ecuaciones se llevó a cabo mediante los métodos de 'Todas las Regresiones Posibles' y 'Regresión Múltiple'. Se obtuvieron dos algoritmos que no mostraron diferencias significativas entre la talla medida y estimada tras un proceso de validación cruzada. Las R2 para los modelos fueron de 0,93 y 0,92, con un error estándar del estimador (EE) de 2,30 y 2,40 cm, para el antropómetro y la cinta respectivamente. Ambos métodos resultaron aceptables en términos de concordancia, exactitud y precisión. A tallas extremas (altas o bajas), ambos modelos presentaron sesgo, lo cual debe considerarse al aplicar estos algoritmos (AU)</dc:description>
+<dc:source>Nutr Hosp;32(6): 2855-2861, dic. 2015. tab, graf</dc:source>
+<dc:identifier>ibc-146154</dc:identifier>
+<dc:title xml:lang="es">Modelo para la estimación de la talla de pie en adultos mexicanos de 20-59 años basado en la longitud rodilla-talón</dc:title>
+<dc:subject>^d1852</dc:subject>
+<dc:subject>^d27937^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d38801</dc:subject>
+<dc:subject>^d1862^s22083</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201512</dc:date>
+</metadata>
+</record>
+</ibecs-document>
