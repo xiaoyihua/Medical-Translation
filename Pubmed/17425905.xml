@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>17425905</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Revuelta, Javier</dc:author>
+<dc:author>Kessel, Dominique</dc:author>
+<dc:description xml:lang="en">Testing model fit for latent structure models (latent trait models and latent class models) is difficult because of the lack of goodness-of-fit statistics with a known distribution. This paper describes the application of the pi* goodness-of-fit statistic to latent structure models. The statistic pi* is based on the concept of latent classes and has a natural interpretation when applied to these models. This statistic assumes that the population is made up of several classes that follow a parametric model, and a residual class outside the model. The value of pi* is the population proportion in the residual class. This paper describes the estimation algorithms of pi* for latent trait and latent class models and an empirical example with a scale of study habits. There are two latent classes in these data: bad and regular students, which are related to the student s responsibility.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2007 May </dc:date>
+<dc:title xml:lang="es">Aplicación del estadístico* de bondad de ajuste a modelos de estructura latente.</dc:title>
+<dc:title xml:lang="en">[Application of the pi* goodness-of-fit index to latent structure models].</dc:title>
+<dc:publisher>Psicothema</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

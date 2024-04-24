@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>19462563</identifier>
+<setSpec>0120-4157</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Niño, Larry</dc:author>
+<dc:description xml:lang="en">INTRODUCTION Aedes aegypti is the main vector of dengue in the Americas. The prevention and control of this disease require new monitoring techniques for this mosquito. Knowledge of the spatial and temporal distributions of A. aegypti populations allow the planning and evaluation of measures to decrease the vector-human contact. OBJECTIVE The spatial variation pattern of the A. aegypti container index (defined as the percentage of artificial containers infested with A. aegypti larva) was analyzed for the purpose of developing a graphical representation. MATERIALS AND METHODS Larval surveys were undertaken in every household of La Independencia neighborhood in May 2007 (Acacias-Meta). Spatial statistics employing the semivariogram function and kriging estimations were applied to these data. RESULTS The experimental semivariogram output was adjusted to the gaussian mathematical model, whose sill was calculated to be 5.1, the range as 57.1 meters and the nugget as 0.01. A bidimensional graph of the kriging estimation was built, allowing the identification of the urban areas with highest container index. CONCLUSION The analysis of the container index and distribution map provided a useful tool in monitoring, evaluating and making control decisions concerning A. aegypti infestations.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2008 Dec </dc:date>
+<dc:title xml:lang="es">Uso de la función semivariograma y estimación kriging en el análisis espacial de un indicador entomológico de Aedes aegypti (Diptera: Culicidae).</dc:title>
+<dc:title xml:lang="en">[Use of the function semivariogram and kriging estimation in the spacial analysis of Aedes aegypti (Diptera: Culicidae) distributions].</dc:title>
+<dc:publisher>Biomedica : revista del Instituto Nacional de Salud</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

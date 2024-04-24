@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>23233138</identifier>
+<setSpec>1576-6578</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Sola, R G</dc:author>
+<dc:author>Pastor, J</dc:author>
+<dc:author>Ortega, G J</dc:author>
+<dc:description xml:lang="en">INTRODUCTION. The presence of an acute spike-wave pattern in the recordings of epileptic patients can contaminate the calculated synchronisation values between pairs of electrodes. MATERIALS AND METHODS. We present a simple procedure, involving a numeric simulation of a bivariate electroencephalogram recording with paroxysmal activity, to determine whether or not a method for quantifying synchronisation must be used on any of the recordings that are typically employed in the preoperative evaluation of patients with epilepsy. RESULTS. The information provided by this procedure makes it possible to distinguish between the authentic synchronisation of baseline activity and that produced by paroxysmal activity, such as acute spike-wave patterns. The procedure developed in this study makes it possible to quantify the degree of 'contamination' produced by the synchronisation of the paroxysmal activity on the synchronisation values of the baseline activity. CONCLUSIONS. The issue addressed in this work is of fundamental importance when automatic methods are utilised in the clinical applications of quantitative electroencephalography and can help to prevent diagnostic errors in which synchronisation is used as a marker of the pathology.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2012 Dec 16 </dc:date>
+<dc:title xml:lang="es">Contaminacion de la actividad paroxistica en los metodos cuantitativos de electroencefalografia en pacientes epilepticos.</dc:title>
+<dc:title xml:lang="en">[Contamination of paroxysmal activity in quantitative EEG methods in epileptic patients].</dc:title>
+<dc:publisher>Revista de neurologia</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

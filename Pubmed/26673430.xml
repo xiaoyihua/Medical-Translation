@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>26673430</identifier>
+<setSpec>1578-1283</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Díaz Palacios, Miguel</dc:author>
+<dc:author>Moya Fuero, Alfonso</dc:author>
+<dc:author>Perales Chordá, Carolina</dc:author>
+<dc:author>Temes Cordovez, Rafael R</dc:author>
+<dc:author>Martí Garrido, Jaume</dc:author>
+<dc:author>Hernández Fernández de Rojas, Dolores</dc:author>
+<dc:description xml:lang="en">R-ALERGO is a project developed by researchers from the Universitat Politècnica de València and the Hospital Universitario La Fe (Valencia, Spain). The main objective of the project is to create a mobile application identifying, within the city of Valencia, the most favorable routes for allergic individuals. The application is developed using nine environmental variables with a potential effect on the development of clinical manifestations in allergic individuals. The application combines the use of spatial analysis based on network technology and implemented with a geographic information system software. The first 01 version is under evaluation for a Healthy app hallmark. The next step in this project is to design a clinical validation process to test its usefulness in allergic individuals.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:subject>Allergy</dc:subject>
+<dc:subject>Alergia</dc:subject>
+<dc:subject>Análisis de redes</dc:subject>
+<dc:subject>Network analysis</dc:subject>
+<dc:subject>City planning</dc:subject>
+<dc:subject>Mobile applications</dc:subject>
+<dc:subject>Aplicaciones móviles</dc:subject>
+<dc:subject>Sistemas de información geográfica</dc:subject>
+<dc:subject>Geographic information systems</dc:subject>
+<dc:subject>Planificación de ciudades</dc:subject>
+<dc:date>2016 Mar-Apr </dc:date>
+<dc:title xml:lang="es">R-ALERGO. Rutas alergosaludables en Valencia.</dc:title>
+<dc:title xml:lang="en">[R-ALERGO. Allergy-healthy routes in Valencia].</dc:title>
+<dc:publisher>Gaceta sanitaria</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

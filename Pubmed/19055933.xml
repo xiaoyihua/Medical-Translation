@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>19055933</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>González Arenas, P</dc:author>
+<dc:author>Pérez Márquez, M</dc:author>
+<dc:author>Suarez-Sipmann, F</dc:author>
+<dc:description xml:lang="en">Neurally adjusted ventilatory assist (NAVA) is a new mode of assisted mechanical ventilation that uses the signal obtained from diaphragmatic electrical activity (Edi) to control the mechanical ventilator. Edi directly represents the central respiratory drive and reflects the length and intensity of the patient's neural effort. During NAVA, mechanical inspiratory assist starts when the respiratory center initiates the breath and is therefore independent of any pneumatic component. During inspiration, the pressure delivered is proportional to the Edi and the inspiratory pressure assist ceases when the neural activation of the diaphragm starts to decline after reaching the inspiratory maximum value. NAVA is a new conceptual approach to mechanical ventilation that can significantly improve patient-ventilator interaction and optimize the level of effective respiratory muscle unloading during assisted mechanical ventilation.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2008 Nov </dc:date>
+<dc:title xml:lang="es">Nuevos modos de ventilación: NAVA.</dc:title>
+<dc:title xml:lang="en">[New modes of ventilation: NAVA].</dc:title>
+<dc:publisher>Medicina intensiva</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

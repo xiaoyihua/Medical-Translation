@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>25064414</identifier>
+<setSpec>2340-3284</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Bouchacourt, J P</dc:author>
+<dc:author>Kohn, W E</dc:author>
+<dc:author>Hurtado, F J</dc:author>
+<dc:author>Riva, J A</dc:author>
+<dc:description xml:lang="en">OBJECTIVE To evaluate the changes over time (trend) in sign and magnitude for SSVO2 and SVO2 during and after cardiac surgery. PATIENTS AND METHODS A prospective and observational study was conducted on 34 cardiac surgery patients. Venous blood samples were taken simultaneously from the introductor (SVCO2) and distal (SVO2) port of the pulmonary artery catheter at predefined intervals. Systemic and pulmonary hemodynamic variables were measured at the same time. The trend was calculated as the difference between 2 consecutive measurements (tSO2). Data were processed with ANOVA for multiple comparisons, Pearson correlation coefficient and Bland-Altman analysis. RESULTS There was a significant correlation between SVCO2 and tSVO2 (R(2)=0.55), the mean of the differences was 0.36±7.75%, and the limits of agreement ranged from -15.1 to 15.9%. The sign of the trend was similar in 85.1% of the paired data. However, the magnitude of the changes in tSVCO2 and tSVO2 were not always equivalent. Between 0 and 5% of the change in the tSVCO2 was coincident with only 44.7% of the tSVO2. A wide variation was found between both trends when the signs and magnitudes of the changes were taken into account. CONCLUSIONS When considering the sign and magnitude, the change over time of central venous O2 saturations were not interchangeable in cardiac surgery patients. Clinical decisions based exclusively on tSVCO2 monitoring should be taken with caution.</dc:description>
+<dc:type>Comparative Study</dc:type>
+<dc:language>es</dc:language>
+<dc:subject>Mixed venous saturation</dc:subject>
+<dc:subject>Oxygen extraction ratio</dc:subject>
+<dc:subject>Central venous saturation</dc:subject>
+<dc:subject>Monitorización hemodinámica</dc:subject>
+<dc:subject>Catéter de arteria pulmonar</dc:subject>
+<dc:subject>Hemodynamic monitoring</dc:subject>
+<dc:subject>Saturación de vena cava superior</dc:subject>
+<dc:subject>Saturación de sangre venosa mezclada</dc:subject>
+<dc:subject>Cardiac surgery</dc:subject>
+<dc:subject>Cirugía cardíaca</dc:subject>
+<dc:subject>Extracción de oxígeno</dc:subject>
+<dc:subject>Pulmonary artery catheter</dc:subject>
+<dc:date>2015 Mar </dc:date>
+<dc:title xml:lang="es">Las tendencias en el tiempo de las saturaciones de oxígeno en la vena cava superior y la arteria pulmonar no son equivalentes en cirugía cardiaca.</dc:title>
+<dc:title xml:lang="en">[The changes in the oxygen saturations in the superior vena cava and the pulmonary artery are not the same during cardiac surgery].</dc:title>
+<dc:publisher>Revista espanola de anestesiologia y reanimacion</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

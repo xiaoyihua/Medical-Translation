@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>29398167</identifier>
+<setSpec>1578-6749</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Montserrat, N</dc:author>
+<dc:author>Trujillano, J</dc:author>
+<dc:author>Serviá, L</dc:author>
+<dc:author>Badia, M</dc:author>
+<dc:description xml:lang="en">INTRODUCTION The goals of this project were to compare both the anatomic and physiologic severity scores in trauma patients admitted to intensive care unit (ICU), and to elaborate mixed statistical models to improve the precision of the scores. METHODS A prospective study of cohorts. The combined medical/surgical ICU in a secondary university hospital. Seven hundred and eighty trauma patients admitted to ICU older than 16 years of age. Anatomic models (ISS and NISS) were compared and combined with physiological models (T-RTS, APACHE II [APII], and MPM II). The probability of death was calculated following the TRISS method. The discrimination was assessed using ROC curves (ABC [CI 95%]), and the calibration using the Hosmer-Lemeshoẃs H test. The mixed models were elaborated with the tree classification method type Chi Square Automatic Interaction Detection. RESULTS A 14% global mortality was recorded. The physiological models presented the best discrimination values (APII of 0.87 [0.84-0.90]). All models were affected by bad calibration (P&lt;.01). The best mixed model resulted from the combination of APII and ISS (0.88 [0.83-0.90]). This model was able to differentiate between a 7.5% mortality for elderly patients with pathological antecedents and a 25% mortality in patients presenting traumatic brain injury, from a pool of patients with APII values ranging from 10 to 17 and an ISS threshold of 22. CONCLUSIONS The physiological models perform better than the anatomical models in traumatic patients admitted to the ICU. Patients with low scores in the physiological models require an anatomic analysis of the injuries to determine their severity.</dc:description>
+<dc:type>Journal Article</dc:type>
+<dc:language>es</dc:language>
+<dc:subject>Scoring</dc:subject>
+<dc:subject>Modelos de gravedad</dc:subject>
+<dc:subject>Predicción de mortalidad</dc:subject>
+<dc:subject>Trauma</dc:subject>
+<dc:subject>Mortality prediction</dc:subject>
+<dc:date>2018 Feb 02 </dc:date>
+<dc:title xml:lang="es">Gravedad en pacientes traumáticos ingresados en UCI. Modelos fisiológicos y anatómicos.</dc:title>
+<dc:title xml:lang="en">Severity scores in trauma patients admitted to ICU. Physiological and anatomic models.</dc:title>
+<dc:publisher>Medicina intensiva</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

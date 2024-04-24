@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>22732953</identifier>
+<setSpec>1699-5198</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Míguez Pérez, R</dc:author>
+<dc:author>Alonso Rorís, V M</dc:author>
+<dc:author>Álvarez Sabucedo, L M</dc:author>
+<dc:author>Santos Gago, J M</dc:author>
+<dc:author>Mikic Fonte, F A</dc:author>
+<dc:description xml:lang="en">Currently, there is a huge amount of information available on Internet that can neither be interpreted nor used by software agents. This fact poses a serious drawback to the potential of tools that deal with data on the current Web. Nevertheless, in recent times, advances in the domain of Semantic Web make possible the development of a new generation of smart applications capable of creating added-value services for the final user. This work shows the technical challenges that must be faced in the area of nutrition in order to transform one or several oldfashion sources of raw data into a web repository based on semantic technologies and linked with external and publicly available data on Internet. This approach makes possible for automatic tools to operate on the top of this information providing new functionalities highly interesting in the domain of public health, such as the automatic generation of menus for children or intelligent dietetic assistants, among others. This article explains the process to create such information support applying the guidelines of the Linked Data initiative and provides insights into the use of tools to make the most of this technology for its adoption in related use cases and environments.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2012 Mar-Apr </dc:date>
+<dc:title xml:lang="es">Linked Data como herramienta en el ámbito de la nutrición.</dc:title>
+<dc:title xml:lang="en">[Linked Data as a tool in the nutrition domain].</dc:title>
+<dc:publisher>Nutricion hospitalaria</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

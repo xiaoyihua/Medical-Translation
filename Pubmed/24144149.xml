@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>24144149</identifier>
+<setSpec>2448-5667</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Castelán-Martínez, Osvaldo D</dc:author>
+<dc:author>Pérez, Marcela</dc:author>
+<dc:author>Rivas-Ruiz, Rodolfo</dc:author>
+<dc:author>Talavera, Juan O</dc:author>
+<dc:description xml:lang="en">When you want to show if there is a statistical association or differences between categorical variables, it is recommended to use the χ(2) test. This nonparametric test is one of the most used in clinical research; it contrasts nominal or ordinal qualitative variables that are observed in clinical practice. This test calculates the p value that determines whether differences between groups are real or due to chance. The χ(2) test is the basis of other tests to analyze qualitative ordinal variables as χ(2) for linear trend, which compares three groups with two outcomes or McNemar test, which contrasts two related samples (a before and afterward comparison) or Mantel-Haenszel χ(2), which controls for potential confounding variables. When using small samples, where the expected results are less than 5, Fisher's exact test should be used. These tests are the most widely used in the medical literature; however, they do not give us the magnitude or the direction of the event and a proper interpretation that requires clinical judgment is needed.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:subject>estadística</dc:subject>
+<dc:subject>chi-square</dc:subject>
+<dc:subject>chi-cuadrada</dc:subject>
+<dc:subject>variables cualitativas</dc:subject>
+<dc:subject>qualitative variables</dc:subject>
+<dc:subject>statistics</dc:subject>
+<dc:date>2013 Sep-Oct </dc:date>
+<dc:title xml:lang="es">Investigación clínica XVII. Prueba χ(2), de lo esperado a lo observado.</dc:title>
+<dc:description xml:lang="es">
+             Cuando se busca demostrar que existe relación o diferencias estadísticamente significativas, entre las variables categóricas se utiliza la prueba de χ2. Esta prueba no paramétrica es una de las más usadas en la investigación clínica, ya que contrasta variables cualitativas nominales u ordinales observadas en la práctica clínica. Con esta prueba se calcula el valor de p para decidir si las diferencias entre los grupos son reales o se deben al azar. Esta prueba genéricamente recibe el nombre de χ2 o chi cuadrada (dependiendo de las preferencias idiomáticas) y es la base de otras pruebas con las que se analizan las variables cualitativas ordinales: la χ2 de tendencia lineal, con la que se comparan tres grupos que pueden tener dos desenlaces; la prueba de McNemar, que sirve para contrastar dos muestras relacionadas (antes y después de una maniobra); o la χ2 de Mantel-Haenszel, que controla el efecto de variables potencialmente confusoras. Para muestras pequeñas, en las que el resultado esperado es menor de 5, se debe utilizar la prueba exacta de Fisher. Como se puede ver, este grupo de pruebas es el de mayor uso en los artículos médicos, sin embargo, no dan cuenta de la magnitud ni de la dirección del evento, por lo que su adecuada interpretación requiere del juicio clínico. 
+        </dc:description>
+<dc:title xml:lang="en">[Clinical research XVII. χ(2) test, from the expected to the observed].</dc:title>
+<dc:publisher>Revista medica del Instituto Mexicano del Seguro Social</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

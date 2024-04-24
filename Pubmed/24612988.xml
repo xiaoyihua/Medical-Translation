@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>24612988</identifier>
+<setSpec>1699-7980</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Amón-Sesmero, J H</dc:author>
+<dc:author>Conde-Redondo, C</dc:author>
+<dc:author>García-Velandria, F</dc:author>
+<dc:author>Alonso-Fernández, D</dc:author>
+<dc:author>Cobos-Carbó, A</dc:author>
+<dc:author>Rodríguez-Tesedo, V</dc:author>
+<dc:author>Martínez-Sagarra, J M</dc:author>
+<dc:author>Sánchez-García, J F</dc:author>
+<dc:author>Rodríguez-Toves, L A</dc:author>
+<dc:author>Alvarez-Buitrago, L</dc:author>
+<dc:author>Cepeda-Delgado, M</dc:author>
+<dc:description xml:lang="en">OBJECTIVE Our objective was to elaborate a predictive model of bladder cancer, in an unselected clinical population submitted to cystoscopy. MATERIALS AND METHODS We recruited consecutive patients that underwent cystoscopy due to suspicion of bladder cancer or surveillance of a previously diagnosed bladder cancer. Urine cytology and a BTA-stat® (BTA) test were carried out for all patients. To avoid an assessment bias, the BTA-tests, cytologies and cystoscopies were conducted in a blinded fashion. We used logistic regression to predict cystoscopy results from cytology, BTA-test and clinical variables. RESULTS From August 2011 to July 2012, we recruited 244 patients and 237 were valid for analysis. Newly diagnosed and surveillance cases were 13% and 87% respectively. Cytology and BTA-test sensitivities were 57.9% (CI 95: 42.2-72.1) and 63.2% (CI 95: 47.3-76.6) with specificities of 84.4% (CI 95: 78.7-88.8) and 82.9% (CI 95: 77.1-87.5). The predictive model included the BTA-test, cytology, time since previous tumour, and treatment with mitomicin or BGC during the last three months. The model predictive accuracy (AUC) was .85 (.78-.92), and dropped to 0.79 when excluding the BTA-test (P=.026). For the surveillance of bladder cancer, a 10% threshold on the model predicted probabilities resulted in an overall negative predictive value of 95.7%, and 95.0% in low grade tumours. CONCLUSION In a cost containment environment, our prediction model could be used to space out cystoscopies in patients with previous, low grade tumours, resulting in a more efficient use of resources in the healthcare system.</dc:description>
+<dc:type>Journal Article</dc:type>
+<dc:language>es</dc:language>
+<dc:subject>Cytological techniques</dc:subject>
+<dc:subject>Marcadores tumorales</dc:subject>
+<dc:subject>Tumor markers</dc:subject>
+<dc:subject>Técnicas Citológicas</dc:subject>
+<dc:subject>Urinary bladder cancer</dc:subject>
+<dc:subject>Nomograms</dc:subject>
+<dc:subject>Cystoscopy</dc:subject>
+<dc:subject>Cáncer de vejiga urinaria</dc:subject>
+<dc:subject>Cistoscopia</dc:subject>
+<dc:subject>Neoplasias genitourinarias</dc:subject>
+<dc:subject>Nomogramas</dc:subject>
+<dc:subject>Genitourinary neoplasm</dc:subject>
+<dc:date>2014 Oct </dc:date>
+<dc:title xml:lang="en">Predicting results of daily-practice cystoscopies.</dc:title>
+<dc:publisher>Actas urologicas espanolas</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

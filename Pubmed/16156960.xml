@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>16156960</identifier>
+<setSpec>1020-4989</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Feuillade, María Rosa</dc:author>
+<dc:author>Enría, Delia A</dc:author>
+<dc:description xml:lang="en">OBJECTIVE To determine the most rational strategy of vaccination with Candid 1 vaccine in order to prevent Argentine hemorrhagic fever among children under 15 years old living an endemic area. METHODS To analyze the estimated effectiveness, a decision tree model was designed, with two possible options: vaccinate all the children under age 15 in the endemic area ("expanded vaccination") or vaccinate only the children at greater risk ("selective vaccination"). These two options were compared with the alternative of not vaccinating. The evaluation was complemented with a sensitivity analysis to identify the threshold values of the critical variables that could change the decision. The probabilities that were used were taken from earlier clinical and epidemiological trials. RESULTS According to the model that we used, the expanded vaccination strategy was the best option, with a total expected utility of 9.99998 (out of a maximum possible 10.0). The sensitivity analysis showed that selective vaccination would be the best strategy if the incidence in the population with low risk drops to less than 3 per 1,000,000 population or if the rate of serious adverse reactions to the vaccine reaches more than 9 per 100,000 inhabitants. No variation in the parameters used in the model supported the option of not vaccinating. CONCLUSIONS Given the risk and benefit parameters that we used, we recommend vaccinating with Candid 1 all the children under age 15 who live in the area endemic for Argentine hemorrhagic fever. The proposed model can be fitted to future needs, and it can help in decision-making by incorporating prospective disease surveillance data. These results can be used as a basis for cost and efficacy studies and for other quantitative analyses.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2005 Aug </dc:date>
+<dc:title xml:lang="es">Análisis de la utilidad de la vacuna Candid 1 en la prevención de la fiebre hemorrágica argentina en niños.</dc:title>
+<dc:title xml:lang="en">[Analysis of the usefulness of Candid 1 vaccine in preventing Argentine hemorrhagic fever in children].</dc:title>
+<dc:publisher>Revista panamericana de salud publica = Pan American journal of public health</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

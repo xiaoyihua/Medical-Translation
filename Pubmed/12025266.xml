@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>12025266</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Ortega Calvo, Manuel</dc:author>
+<dc:author>Cayuela Domínguez, Aurelio</dc:author>
+<dc:description xml:lang="en">Unconditioned logistic regression is a highly useful risk prediction method in epidemiology. This article reviews the different solutions provided by different authors concerning the interface between the calculation of the sample size and the use of logistics regression. Based on the knowledge of the information initially provided, a review is made of the customized regression and predictive constriction phenomenon, the design of an ordinal exposition with a binary output, the event of interest per variable concept, the indicator variables, the classic Freeman equation, etc. Some skeptical ideas regarding this subject are also included.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2002 Mar-Apr </dc:date>
+<dc:title xml:lang="es">Regresión logística no condicionada y tamaño de muestra: una revisión bibliográfica.</dc:title>
+<dc:title xml:lang="en">[Unconditioned logistic regression and sample size: a bibliographic review].</dc:title>
+<dc:publisher>Revista espanola de salud publica</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

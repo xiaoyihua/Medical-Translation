@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>25362823</identifier>
+<setSpec>0004-0622</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Casotto, Meris</dc:author>
+<dc:author>Laurentin, Alexander</dc:author>
+<dc:author>Aguilar, Víctor Hugo</dc:author>
+<dc:author>Lugo Gonázlez, Dennis Alexander</dc:author>
+<dc:author>Gómez, Ana</dc:author>
+<dc:description xml:lang="en">The principal component analysis (PCA), non-metric multidimensional scaling (MDS) and analysis of similarity (ANOSIM) are multivariate statistical techniques that graphically represent numerical measures of several factors and display multiple relationships that may exist between them. In this study, we evaluated the applicability of these techniques to analyze the nutritional quality of diet, using as model, the bioassay rice weevil. The diets tested were: corn starch, potato starch, 5% glucose, peas, starved and starved with water supply. The variables studied were: survival, weight change and body composition. The PCA and MDS showed positive relationships of survival and weight change with body fat and carbohydrate parameters. Fat and carbohydrates were greater in starches diets, similar to the positive control. The PCA showed differences between populations fed with different diets, whereas the MDS showed similarity between diets. Both studies defined a gradient of the nutritive value of diets in the x-axis. The ANOSIM indicate significant (p &lt; 0.05) differences between groups. This test is necessary to support the results obtained in the PCA and MDS. The application of these statistical tools is promising to analyze complex processes such as interaction of differents variables to measure the nutritional quality of diets.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2013 Sep </dc:date>
+<dc:title xml:lang="es">Aplicabilidad de estadística multivariada para estudios nutricionales: bioensayo con el gorgojo de arroz (Sitophilus oryzae L).</dc:title>
+<dc:title xml:lang="en">[Applicability of multivariate statistics for nutritional studies: bioassay rice weevil (Sitophilus oryzae L)].</dc:title>
+<dc:publisher>Archivos latinoamericanos de nutricion</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

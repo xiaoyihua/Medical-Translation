@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>27552004</identifier>
+<setSpec>0717-6163</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Melipillán, Roberto</dc:author>
+<dc:author>Vicente, Benjamín</dc:author>
+<dc:author>Hormazabal, Naín</dc:author>
+<dc:author>Saldivia, Sandra</dc:author>
+<dc:author>Carroza, Ana</dc:author>
+<dc:author>Pihan, Rolando</dc:author>
+<dc:description xml:lang="en">BACKGROUND Screening instruments are required for the detection of depressive disorders by primary care practitioners. AIM To develop a screening instrument to detect depression, based on data gathered interviewing patients attending primary health care settings. MATERIAL AND METHODS The instrument was constructed with data about factors associated or triggering a depressive disorder obtained from 3,000 patients consulting for general morbidity. All patients answered the Composite International Diagnostic Interview, (version 2.1, section depression) and an inventory containing 39 risk factors for depression, obtained from the literature. A multiple imputation method using chained equations was carried out. Using a binary logistic regression with backward selection, an equation for depression screening was obtained. The c-index was calculated to estimate discriminating power of the model. A shrinkage factor was estimated to adjust the predictive model. RESULTS Estimations were carried out with data from 2,552 patients with a median age of 47 years (73% women). Fifty five percent lived with a partner and 45% had basic studies. The method selected 14 significant predictors, with a shrinkage value of 0.861 and a c-index of 0.838 (95% confidence intervals 0.82-0.86). CONCLUSIONS The instrument has adequate psychometric properties as a screening tool for depression in primary health care.</dc:description>
+<dc:type>Journal Article</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2016 May </dc:date>
+<dc:title xml:lang="es">Inventario Concepción: Desarrollo y validación de un instrumento de tamizaje de depresión para atención primaria.</dc:title>
+<dc:title xml:lang="en">[Concepción inventory: Development of a screening instrument for depression in primary care in Chile].</dc:title>
+<dc:publisher>Revista medica de Chile</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

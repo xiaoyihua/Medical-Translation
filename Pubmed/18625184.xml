@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>18625184</identifier>
+<setSpec>0014-2565</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Expósito Ruiz, M</dc:author>
+<dc:author>Pérez Vicente, S</dc:author>
+<dc:author>Garrido Fernández, P</dc:author>
+<dc:author>Ruiz Bailén, M</dc:author>
+<dc:description xml:lang="en">Observational studies are frequently used in biomedical research to determine associations between a treatment or exposure and the effects they can produce. Randomized control trials have been developed with the same purpose. Although they provide more precise results, they are more complex and costly. The use of propensity score methodology in observational studies helps to decrease the appearance of bias that they normally present, making them more accurate and with better reliability than randomized control trials. Given the increase in the use of the propensity score methodology in clinical research in recent years, we consider that it is of particular interest to make a description of it, highlighting its application scope and different use techniques.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2008 Jul-Aug </dc:date>
+<dc:title xml:lang="es">Uso de la metodología propensity score en la investigación sanitaria.</dc:title>
+<dc:title xml:lang="en">[Use of the propensity score methodology in health care research].</dc:title>
+<dc:publisher>Revista clinica espanola</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

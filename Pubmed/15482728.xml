@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>15482728</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Gutiérrez Macías, Alfonso</dc:author>
+<dc:author>Franco Vicario, Ricardo</dc:author>
+<dc:author>Lizarralde Palacios, Eva</dc:author>
+<dc:author>Martínez Odriozola, Pedro</dc:author>
+<dc:author>Miguel de la Villa, Felipe</dc:author>
+<dc:author>García Jiménez, Nicanor</dc:author>
+<dc:description xml:lang="en">BACKGROUND AND OBJECTIVE Clinical suspicion of bacteremia lacks of sensitivity, specificity or predictive values enough to be clinically useful. The aim of this study was to develop a clinical prediction rule of bacteremia for patients hospitalized in an internal medicine department, with community-acquired symptoms, who had blood cultures obtained. PATIENTS AND METHOD A prospective study, including all patients who had blood cultures in the first 48 h after admission, was performed. A clinical prediction rule of bacteremia was derived from a random sample of two thirds of the patients (derivation cohort) and validated in the remaining (validation cohort). After bivariate analysis, significant variables were included in a stepwise logistic regression analysis. In every patient out of the derivation and validation cohorts a score, derived from the addition of points for each of the significant predictor variables of logistic regression, was obtained; according to this score, 4 groups were formed, and the prevalence of bacteremia in each of them was calculated. Calibration and discrimination were evaluated by the Hosmer-Lemeshow test and area under the ROC curve respectively. RESULTS Four hundred and forty-eight blood cultures were obtained; the prevalence of bacteremia was 25.2%. Independent predictors of bacteremia in the bivariate analysis were urinary focus of infection, body temperature &gt;= 38.3 degrees C, presence of band forms, ESR &gt;= 70 mm, platelets &lt; 200 * 103/microl, blood glucose &gt;= 140 mg/dl, urea &gt;= 50 mg/dl, C-reactive protein &gt;= 12 mg/dl, and albumin &lt; 3 g/dl. According to the score, in the derivation cohort, four groups with increasing prevalence of bacteremia were identified; in the group with a score between 0 and 3, the prevalence was 2.4%; between 4 and 5: 15.7%; between 6 and 7: 42.9%; and score &gt;= 8: 65%. In the validation cohort, the prevalence was 4.1%, 22.6%, 29.3%, and 80%, respectively. The model showed good calibration (Hosmer-Lemeshow *2 = 4.91; p = 0.77). Area under the ROC curve was 0.81 (95% confidence interval, 0.76-0.86) in the derivation cohort, and 0.77 (95% confidence interval, 0.69-0.85) in validation cohort. CONCLUSIONS Our model, constructed with 9 variables and a simple additive point system, had good calibration and discrimination, which points at its usefulness to estimate the probability of bacteremia in patients admitted in an Internal Medicine department. Used in conjunction with clinical judgement, the model can be useful in the decision-making process, concerning blood cultures obtention, clinical monitoring, and empirical antimicrobial therapy. Before application, additional prospective validation in other settings is warranted.</dc:description>
+<dc:type>Comparative Study</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2004 Sep 04 </dc:date>
+<dc:title xml:lang="es">Bacteriemia adquirida en la comunidad: elaboración de un modelo de predicción clínica en pacientes ingresados en un servicio de medicina interna.</dc:title>
+<dc:title xml:lang="en">[Predictive model for community acquired bacteremia in patients from an Internal Medicine Unit].</dc:title>
+<dc:publisher>Medicina clinica</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

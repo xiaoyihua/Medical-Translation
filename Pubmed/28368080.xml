@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>28368080</identifier>
+<setSpec>1576-6578</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Sola, R G</dc:author>
+<dc:author>Pastor, J</dc:author>
+<dc:author>Sanz-Garcia, A</dc:author>
+<dc:author>Ortega, G J</dc:author>
+<dc:author>Vega-Zelaya, L</dc:author>
+<dc:description xml:lang="en">INTRODUCTION In partial seizures, from a clinical point of view or even from electroencephalography characterization of post-ictal period can be difficult. The spectral and complex network analysis could lead to a more accurate definition of its limits, as well as to a great understanding of the seizures. PATIENTS AND METHODS Digital EEG recordings from scalp and foramen oval electrodes were used, 32 seizures, from 15 patients with drug-resistant mesial temporal lobe epilepsy (Engel I). We analyzed numerically: the spectral entropy, the different frequency bands and several variables used to characterize the cortical network, density of links, modularity, cluster coefficient and average path length. Variations of for post-ictal versus pre-ictal periods were quantified. RESULTS The cortical network density of links increased during the post-ictal period of complex seizures matching with an spectral entropy decrease, mainly due to an increase in Delta band activity. This variables reached extreme values around one minute after seizure end, defined by classical electroencephalography. CONCLUSIONS Our results can be explained by the appearance of an 'ending' mechanism that starts in the ictal period, classically defined, and reach their maximum effect during the post-ictal period. These results could be useful to define the post-ictal period start, as the moment with maximum synchrony, which has a highest density of links and a lowest spectral entropy.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2017 Apr 16 </dc:date>
+<dc:title xml:lang="es">Donde comienza el periodo postictal en la epilepsia del lobulo temporal? Hacia una definicion cuantitativa.</dc:title>
+<dc:description xml:lang="es">
+             Donde comienza el periodo postictal en la epilepsia del lobulo temporal? Hacia una definicion cuantitativa. 
+             Introduccion. En las crisis parciales, el periodo postictal presenta grandes dificultades de caracterizacion, tanto desde el punto de vista clinico como en electroencefalografia. Un analisis espectral y de redes complejas permitiria una definicion mas precisa de sus limites y una comprension mas completa de las crisis. Pacientes y metodos. Se analizaron registros digitales de electroencefalografia de electrodos de scalp y foramen oval, 32 crisis, de 15 pacientes con epilepsia farmacorresistente del lobulo temporal (Engel I). Numericamente se estudio la entropia espectral, las distintas bandas de frecuencia y medidas de caracterizacion de la red cortical, la densidad de enlaces, la modularidad, el coeficiente de agrupamiento y la longitud de camino medio, y se cuantifico la variacion del periodo postictal respecto al preictal. Resultados. Durante el periodo postictal de las crisis complejas existe un marcado aumento de la densidad de enlaces en la red cortical coincidente con un descenso en la entropia espectral, principalmente debido al aumento de la actividad en la banda delta. Los valores extremos de estas medidas se alcanzan aproximadamente un minuto despues del fin de las crisis, definidas electroencefalograficamente usando metodos tradicionales. Conclusiones. Nuestros resultados pueden explicarse por la aparicion de un mecanismo de 'finalizacion' de las crisis que comienza dentro del periodo ictal definido clasicamente y que alcanzan su efecto maximo durante el periodo postictal. Estos resultados podrian emplearse para definir el inicio del periodo postictal como aquel donde la sincronizacion es maxima, esto es, donde la densidad de enlaces resulta mayor y la entropia espectral es minima. 
+        </dc:description>
+<dc:title xml:lang="en">[When does post-ictal period start in temporal lobe epilepsy? A quantitative EEG perspective].</dc:title>
+<dc:publisher>Revista de neurologia</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>10452140</identifier>
+<setSpec>0302-4342</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Emparanza Knörr, J I</dc:author>
+<dc:author>Aguirre Conde, A</dc:author>
+<dc:author>Morato Rodríguez, M D</dc:author>
+<dc:author>Delgado Rubio, A</dc:author>
+<dc:author>González Pérez-Yarza, E</dc:author>
+<dc:author>Pérez Legorburu, A</dc:author>
+<dc:description xml:lang="en">OBJECTIVE Our objective was to obtain spirometric reference values for children. PATIENTS AND METHODS We performed a transversal study in schools in Bilbao of children of both sexes that were between 7 and 14 years of age, non-smokers and healthy (according to a questionnaire and physical examination). A sample of 657 subjects was calculated based on the standard deviations of height for each sex and age group. The sample units were the schools and they were selected randomly. The following data were collected: age, sex, weight, height, FVC, FEV1, FEV1/FEC, PEF, FEF25, FEF50, FEF75 and FEF25-75. Forced spirometry was carried out according to the ATS guidelines by using a MasterScreen model 4.10.b (Jaeger, Germany). A descriptive statistical study was performed, as well as a normality test and linear regression. RESULTS We studied 765 subjects (415 boys and 350 girls). The natural logarithm of the spirometric variables was taken to obtain a Gaussian distribution. These variables were related to age, weight and height. The relationship improved when associated with sex, with the best association being between height and sex. The equations obtained were only valid for FVC and FEV1, and were as follows: in boys FVC(L) = -1.968 + 0.020 height and FEV1(L) = -1.831 + 0.018 height and for girls FVC(L) = -1.879 + 0.019 height and FEV1(L) = -1.809 + 0.018 height [R2 = 0.893, 0.891, 0.868 and 0.871, respectively]. CONCLUSIONS The pediatric reference values for forced spirometry were established for our population, complying with the current applicable guidelines.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>1999 Jul </dc:date>
+<dc:title xml:lang="es">Valores espirométricos en niños sanos de un área urbana de la Comunidad Autónoma Vasca.</dc:title>
+<dc:title xml:lang="en">[Spirometric values in healthy children of the urban area of the Basque Autonomic Community].</dc:title>
+<dc:publisher>Anales espanoles de pediatria</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

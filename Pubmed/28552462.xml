@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>28552462</identifier>
+<setSpec>1578-6749</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Souto Moura, T</dc:author>
+<dc:author>Germano, N</dc:author>
+<dc:author>Sequeira, T</dc:author>
+<dc:author>Papoila, A L</dc:author>
+<dc:author>Aguiar Rosa, S</dc:author>
+<dc:author>Alves, M</dc:author>
+<dc:author>Cavaco, R</dc:author>
+<dc:author>Bento, L</dc:author>
+<dc:description xml:lang="en">BACKGROUND Invasive cardiac monitoring using thermodilution methods such as PiCCO® is widely used in critically ill patients and provides a wide range of hemodynamic variables, including cardiac output (CO). However, in post-cardiac arrest patients subjected to therapeutic hypothermia, the low body temperature possibly could interfere with the technique. Transthoracic Doppler echocardiography (ECHO) has long proved its accuracy in estimating CO, and is not influenced by temperature changes. OBJECTIVE To assess the accuracy of PiCCO® in measuring CO in patients under therapeutic hypothermia, compared with ECHO. DESIGN AND PATIENTS Thirty paired COECHO/COPiCCO measurements were analyzed in 15 patients subjected to hypothermia after cardiac arrest. Eighteen paired measurements were obtained at under 36°C and 12 at ≥36°C. A value of 0.5l/min was considered the maximum accepted difference between the COECHO and COPiCCO values. RESULTS Under conditions of normothermia (≥36°C), the mean difference between COECHO and COPiCCO was 0.030 l/min, with limits of agreement (-0.22, 0.28) - all of the measurements differing by less than 0.5 l/min. In situations of hypothermia (&lt;36°C), the mean difference in CO measurements was -0.426 l/min, with limits of agreement (-1.60, 0.75), and only 44% (8/18) of the paired measurements fell within the interval (-0.5, 0.5). The calculated temperature cut-off point maximizing specificity was 35.95°C: above this temperature, specificity was 100%, with a false-positive rate of 0%. CONCLUSIONS The results clearly show clinically relevant discordance between COECHO and COPiCCO at temperatures of &lt;36°C, demonstrating the inaccuracy of PiCCO® for cardiac output measurements in hypothermic patients.</dc:description>
+<dc:type>Journal Article</dc:type>
+<dc:language>es</dc:language>
+<dc:subject>Monitor PiCCO</dc:subject>
+<dc:subject>Doppler echocardiography</dc:subject>
+<dc:subject>Hipotermia</dc:subject>
+<dc:subject>Monitorización hemodinámica</dc:subject>
+<dc:subject>PiCCO monitor</dc:subject>
+<dc:subject>Hemodynamic monitoring</dc:subject>
+<dc:subject>Gasto cardiaco</dc:subject>
+<dc:subject>Cardiac output</dc:subject>
+<dc:subject>Ecocardiografía doppler</dc:subject>
+<dc:subject>Hypothermia</dc:subject>
+<dc:date>2017 May 25 </dc:date>
+<dc:title xml:lang="en">The accuracy of PiCCO® in measuring cardiac output in patients under therapeutic hypothermia - Comparison with transthoracic echocardiography.</dc:title>
+<dc:publisher>Medicina intensiva</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

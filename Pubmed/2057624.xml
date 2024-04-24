@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>2057624</identifier>
+<setSpec>0034-9356</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>de Miguel, E</dc:author>
+<dc:author>Borches, D</dc:author>
+<dc:author>Ruiz, R</dc:author>
+<dc:description xml:lang="en">Sodium nitroprusside (NPS) is a potent vasodilator which is frequently administered for the control of arterial blood pressure and peripheral resistances. Manual regulation of the dose is difficult and requires a permanent surveillance of patients under treatment. Several attempts have been made to develop an automatized system able to safely control the dose of the drug in clinical practice. However, since now the results have not been completely satisfactory. The aim of our study was to develop of a new automatic-adaptative system able to continuously control the dose of NPS. The system consists of a high precision infusion pump controlled by a microprocessor. Arterial blood pressure is continuously monitorized and according to its values NPS is automatically regulated to maintain blood pressure within a preselected range. A control "fuzzy logic" algorithm was used. We have assessed the efficacy, adaptability, and safeness of the system. The system was tested in 15 mongrel dogs. The protocol was divided into two parts. During the first part a 25% to 30% reduction in blood pressure from baseline values lasting for a period of 4 hours was attempted. The second part was devoted to test the adaptability of the control unit during induced unstable hemodynamic situations. Group I dogs were subjected to volume overload. Group II were treated with noradrenaline to increase blood pressure, and group III underwent a venous bleeding to produce arterial hypotension. Control of arterial blood pressure was achieved after a minimum of 5 min and a maximum of 19 min (mean values = 13.3 min).(ABSTRACT TRUNCATED AT 250 WORDS)</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>1991 Jan-Feb </dc:date>
+<dc:title xml:lang="es">Hipotensión inducida con nitroprusiato sódico mediante un sistema automático-adaptativo de regulación de la dosis. Desarrollo experimental.</dc:title>
+<dc:title xml:lang="en">[Hypotension induced by sodium nitroprusside administered via an automatic-adaptive dose regulating system. Experimental development].</dc:title>
+<dc:publisher>Revista espanola de anestesiologia y reanimacion</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

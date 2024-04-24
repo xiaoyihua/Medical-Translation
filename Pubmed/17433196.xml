@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>17433196</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Palma Pérez, Silvia</dc:author>
+<dc:author>Delgado Rodríguez, Miguel</dc:author>
+<dc:description xml:lang="en">The present review aims to answer 3 questions: does publication bias need to be assessed in meta-analyses?; what procedures, not requiring complex statistical approaches, can be applied to detect it?; and should other factors be taken into account when interpreting the procedures? The first question is easy to answer. Publication bias is a potential threat to the validity of the conclusions of meta-analyses. Therefore, both the MOOSE and QUOROM statements include publication bias in their guidelines; nevertheless, many meta-analyses do not use these statements (e.g., meta-analyses conducted by the Cochrane Collaboration), perhaps because they use a comprehensive search strategy. There are many methods to assess publication bias. The most frequently used are funnel plots or &lt;Christmas trees&gt;, &lt;trim and fill&gt; (which allow the effects of bias to be estimated), and methods based upon regression on plots, such as Egger's method and funnel plot regression. An advantage of these methods is that they can only be applied using published data. However, agreement between these methods in detecting bias is often poor. Therefore, application of more than one method to detect publication bias is recommended. To correctly interpret the results, the number of pooled studies should be more than 10 and the existence of heterogeneity in the pooled estimate must be taken into account.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2006 Dec </dc:date>
+<dc:title xml:lang="es">Consideraciones prácticas acerca de la detección del sesgo de publicación.</dc:title>
+<dc:title xml:lang="en">[Practical considerations on detection of publication bias].</dc:title>
+<dc:publisher>Gaceta sanitaria</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

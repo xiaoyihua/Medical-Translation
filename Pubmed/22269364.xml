@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>22269364</identifier>
+<setSpec>1886-144X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Lobo, Lorena</dc:author>
+<dc:author>Travieso, David</dc:author>
+<dc:description xml:lang="en">One of the most surprising capacities of the haptic system is the ability to estimate different properties of objects, like weight or length, through invariants of rotational mechanics that are accessible via the proprioceptive system. This field of research is called Dynamic Touch. In its classical experimental paradigm, the participant firmly grasps a rod that can be wielded but not seen, and he or she tries to match the hand-held rod's length using another rod that can be seen but not wielded. In the experiment reported here, we focus on the role of the exploratory behavior, restricting the wielding in six conditions that vary both the amplitude and the frequency of movements. Increments in the speed of the movement are shown to increase the accuracy in the haptic estimation. It is argued that these results support the moment of inertia as the best informational candidate, given that it is an invariant property that only emerges when rotational torques are applied. Alternative candidates such as static moment or mass are discarded because they do not depend on differential movements.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2012 Feb </dc:date>
+<dc:title xml:lang="es">El patrón de exploración modula la percepción de longitudes a través del tacto dinámico.</dc:title>
+<dc:title xml:lang="en">[Exploration styles modulate length perception through dynamic touch].</dc:title>
+<dc:publisher>Psicothema</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

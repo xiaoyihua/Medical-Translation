@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>19558917</identifier>
+<setSpec>0001-7310</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Castilla-Castellano, V</dc:author>
+<dc:author>López-Estebaranz, J L</dc:author>
+<dc:description xml:lang="en">Computerization, with a change from paper to electronic format, represents an alternative to traditional information management. This model offers advantages in legibility, uniformity, accessibility, and use of the data. However, it is not easy to apply this process to clinical practice as it requires a suitable network, continuous application development, an implementation strategy, and the cooperation of all staff involved. We have reviewed our experience in the development and introduction of electronic health records and their adaptation to a pioneer dermatology department in Spain. Since our hospital was opened 1998, the model used is that of a single, centralized electronic health record, with supplementary departmental attributes. The electronic health record is conceived as an interactive database designed around the patient, with a procedure-based structure, and that obviates the need for hardcopies (paper or films) in practically all situations; it must comply with legal requirements. The system is installed on central servers maintained by the information technology department. The potential is unlimited; particularly important possibilities include clinical guideline-directed care, remote connection for general practitioners, and online activity, stock, and quality management. With the aim of realizing this potential, a technological change was started in 2003, moving towards what was to become the chosen system in the Community of Madrid to cope with the workload arising from new hospitals.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2009 Jun </dc:date>
+<dc:title xml:lang="es">Historia clínica en soporte electrónico: experiencia de un servicio de Dermatología.</dc:title>
+<dc:title xml:lang="en">[Electronic medical history: experience in a dermatology department].</dc:title>
+<dc:publisher>Actas dermo-sifiliograficas</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

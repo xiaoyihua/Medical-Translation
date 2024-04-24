@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>16740241</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Espuelas, H</dc:author>
+<dc:author>Luján, M</dc:author>
+<dc:author>Marín, A</dc:author>
+<dc:author>Canturri, E</dc:author>
+<dc:author>Domingo, Ch</dc:author>
+<dc:author>Moreno, A</dc:author>
+<dc:description xml:lang="en">OBJECTIVE To validate a monitor for transcutaneous measurement of oxygen saturation (SpO2) and partial pressure of carbon dioxide (TcPCO2). PATIENTS AND METHODS This observational study included 140 Caucasian nonsmokers without jaundice. Patients underwent forced spirometry, measurement of SpO2 and TcPCO2 with the SenTec monitor, and arterial blood gas analysis (readings with 2 devices) during the stabilization phase of the monitor. In the statistical analysis, values from the 2 devices for measuring arterial blood gases were compared by mean differences for PaCO2 and oxygen saturation (SaO2). The arithmetic mean of the 2 blood gas measurements was calculated and relations between them and the SpO2 and TcPCO2 were assessed by the Pearson correlation coefficient (r) and the intraclass correlation coefficient (ICC) as a measure of agreement. Bland-Altman analysis was used to test data dispersion. RESULTS Ten patients were excluded due to a systematic error in the gas calibrator. The mean (SD) time to stabilization of the monitor before reading was 13.9 (2.4) minutes. The forced expiratory volume in the first second was greater than 80% in 40 patients, between 60% and 79% in 23, between 40% and 59% in 30, and less than 40% in 37. The mean (SD) differences between arterial blood gas measurements were 0.28 (1.0) mm Hg for PaCO2, -0.06% (0.86%) for SaO2, and -0.9 (2.7) mm Hg for PaO2. In the tests for correlation and agreement, r was 0.74 and ICC was 0.73 for SaO2 and SpO2; r was 0.92 and ICC was 0.92 for PaCO2 and TcPCO2. The subgroup analyses did not show any noteworthy differences. The Bland Altman analysis showed no significant dispersion. It was observed that the SenTec monitor underestimated oxygen saturation values by around 1% with respect to SaO2 and overestimated carbon dioxide pressure by 1 mm Hg with respect to PaCO2 values. CONCLUSIONS The stabilization time recommended for the SenTec monitor before taking a reading is 20 minutes. The overestimates and underestimates by the monitor are not clinically relevant. Finally, the values for SpO2 and TcPCO2 measured by the validated monitor are reliable.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2006 May </dc:date>
+<dc:title xml:lang="es">Medición transcutánea de la presión parcial de anhídrido carbónico y de la saturación de oxígeno: validación del monitor SenTec.</dc:title>
+<dc:title xml:lang="en">[Transcutaneous measurement of partial pressure of carbon dioxide and oxygen saturation: validation of the SenTec monitor].</dc:title>
+<dc:publisher>Archivos de bronconeumologia</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

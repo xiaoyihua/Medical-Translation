@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>10618799</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Delgado-Rodríguez, M</dc:author>
+<dc:author>Sillero-Arenas, M</dc:author>
+<dc:description xml:lang="en">The objective of the present article is to review the biases in meta-analysis. This procedure can be included within observational studies, and its biases follow the same classification: selection, information and confounding bias. Selection bias can always be present because of the impossibility of enumerating the reference population. More interest deserves publication bias, influenced by many facts: significant results, design type, language of publication, the existence of conflicts of interest, sample size, institutional prestige, existence of prejudices, and regression to the mean. There are several graphic and quantitative procedures to detect the error under certain assumptions. The correction of this bias is quite unlikely. It is easier to guarantee that the selection process of the studies among those located is not subjected to errors, if structured protocols are used. Information bias has been less studied, but it has also been documented. Control of confounding bias depends on the identification of this error in the individual studies, but it can also be introduced through certain analytic techniques, as the ecologic fallacy. Lastly, it is recommended not to use the procedure of Peto in the analysis as this technique provides biased results.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>1999 </dc:date>
+<dc:title xml:lang="es">Sesgos en el metaanálisis.</dc:title>
+<dc:title xml:lang="en">[Biases in meta-analysis].</dc:title>
+<dc:publisher>Medicina clinica</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

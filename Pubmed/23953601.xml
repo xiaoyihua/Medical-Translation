@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>23953601</identifier>
+<setSpec>2253-8070</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>García-Velloso, M J</dc:author>
+<dc:author>Torre, W</dc:author>
+<dc:author>Pardo, F J</dc:author>
+<dc:author>Aristu, J</dc:author>
+<dc:author>Martí-Climent, J M</dc:author>
+<dc:author>Alcázar, J L</dc:author>
+<dc:author>Hernández, J L</dc:author>
+<dc:author>Garrastachu, P</dc:author>
+<dc:author>Peñuelas, I</dc:author>
+<dc:author>Gómez-Fernández, M</dc:author>
+<dc:author>Valero, M</dc:author>
+<dc:author>Richter, J A</dc:author>
+<dc:author>Prieto, E</dc:author>
+<dc:description xml:lang="en">OBJECTIVE To design a novel ex-vivo acquisition technique to establish a common framework to validate different segmentation techniques for oncological PET images. To evaluate several automatic segmentation algorithms on this set of images. MATERIAL AND METHODS In 15 patients with cancer, ex-vivo PET studies of surgical specimens removed during surgery were performed after injection of (18)F-FDG. Images were acquired in two scanners: a clinical PET/CT and a high-resolution PET scanner. Real tumor volume was determined in each patient, and a reference image was generated for segmentation of each tumor. Images were segmented with 12 automatic algorithms and with a standard method for PET (relative threshold at 42%) and results were evaluated by quantitative parameters. RESULTS It has been possible to demonstrate by segmentation of PET images of surgical specimens that on high resolution PET images, 8 out of 12 evaluated segmentation techniques outperformed the standard method, whose value is 42%. However, none of the algorithms outperformed the standard method when applied on images from the clinical PET/CT. Due to the great interest of this set of PET images, all studies have been published on the Internet in order to provide a common framework for validation and comparison of different segmentation techniques. CONCLUSIONS We have proposed a novel technique to validate segmentation techniques for oncological PET images, acquiring ex-vivo PET studies of surgical specimens. We have demonstrated the usefulness of this set of PET images by evaluating several automatic segmentation algorithms.</dc:description>
+<dc:type>Journal Article</dc:type>
+<dc:language>es</dc:language>
+<dc:subject>Segmentación</dc:subject>
+<dc:subject>Pieza quirúrgica</dc:subject>
+<dc:subject>Surgical specimen</dc:subject>
+<dc:subject>Segmentation</dc:subject>
+<dc:subject>Oncología</dc:subject>
+<dc:subject>Oncology</dc:subject>
+<dc:subject>Positron emission tomography</dc:subject>
+<dc:subject>Tomografía por emisión de positrones</dc:subject>
+<dc:date>2014 Mar-Apr </dc:date>
+<dc:title xml:lang="es">Validación de técnicas de segmentación para la tomografía por emisión de positrones mediante imágenes ex-vivo de piezas quirúrgicas oncológicas.</dc:title>
+<dc:title xml:lang="en">[Validation of segmentation techniques for positron emission tomography using ex-vivo images of oncological surgical specimens].</dc:title>
+<dc:publisher>Revista espanola de medicina nuclear e imagen molecular</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

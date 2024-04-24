@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>26612542</identifier>
+<setSpec>1579-2129</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Kojima, Ryota</dc:author>
+<dc:author>Kaneko, Takeshi</dc:author>
+<dc:author>Ishigatsubo, Yoshiaki</dc:author>
+<dc:author>Miyazawa, Naoki</dc:author>
+<dc:author>Inoue, Miyo</dc:author>
+<dc:author>Horita, Nobuyuki</dc:author>
+<dc:description xml:lang="en">BACKGROUND Theophylline has been shown to improve respiratory function and oxygenation in patients with chronic obstruction pulmonary disease (COPD). However, the impact of theophylline on mortality in COPD patients has not been not sufficiently evaluated. METHOD Two investigators independently searched for eligible articles in 4 databases. The eligibility criterion for this meta-analysis was an original research article that provided a hazard ratio for theophylline for all-cause mortality of COPD patients. Both randomized controlled trials and observational studies were accepted. After we confirmed no substantial heterogeneity (I(2)&lt;50%), the fixed-model method with generic inverse variance was used for meta-analysis to estimate the pooled hazard ratio. RESULTS We screened 364 potentially eligible articles. Of the 364 articles, 259 were excluded on the basis of title and abstract, and 99 were excluded after examination of the full text. Our final analysis included 6 observational studies and no randomized controlled trials. One study reported 2 cohorts. The number of patients in each cohort ranged from 47 to 46,403. Heterogeneity (I(2)=42%, P=.11) and publication bias (Begg's test r=0.21, P=.662) were not substantial. Fixed-model meta-analysis yielded a pooled hazard ratio for theophylline for all-cause death of 1.07 (95% confidence interval: 1.02-1.13, P=.003). CONCLUSION This meta-analysis of 7 observational cohorts suggests that theophylline slightly increases all-cause death in COPD patients.</dc:description>
+<dc:type>Journal Article</dc:type>
+<dc:language>es</dc:language>
+<dc:subject>Efectos adversos</dc:subject>
+<dc:subject>Muerte</dc:subject>
+<dc:subject>Broncodilatador</dc:subject>
+<dc:subject>Bronchodilator</dc:subject>
+<dc:subject>Drug toxicity</dc:subject>
+<dc:subject>Enfisema</dc:subject>
+<dc:subject>Toxicidad de los fármacos</dc:subject>
+<dc:subject>Death</dc:subject>
+<dc:subject>Adverse effect</dc:subject>
+<dc:subject>Emphysema</dc:subject>
+<dc:date>2016 May </dc:date>
+<dc:title xml:lang="es">Uso crónico de teofilina y mortalidad en la enfermedad pulmonar obstructiva crónica: un metaanálisis.</dc:title>
+<dc:title xml:lang="en">Chronic Use of Theophylline and Mortality in Chronic Obstructive Pulmonary Disease: A Meta-analysis.</dc:title>
+<dc:publisher>Archivos de bronconeumologia</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

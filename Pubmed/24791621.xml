@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>24791621</identifier>
+<setSpec>1699-7980</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Rincón, A</dc:author>
+<dc:author>Zudaire, B</dc:author>
+<dc:author>Tienza, A</dc:author>
+<dc:author>Algarra, R</dc:author>
+<dc:author>Pascual, I</dc:author>
+<dc:author>Velis, J M</dc:author>
+<dc:author>Zudaire, J</dc:author>
+<dc:description xml:lang="en">OBJECTIVES To improve the predictive efficacy of the D'Amico risk classification system with magnetic resonance imaging (MRI) of the pelvis. MATERIAL AND METHODS We studied 729 patients from a series of 1310 radical prostatectomies for T1-T2 prostate cancer who underwent staging pelvic MRI. Each patient was classified with T2, T3a or T3b MRI, and N (+) patients were excluded. We identified the therapeutic factors that affected the biochemical progression-free survival (BPFS) time (prostate specific antigen [PSA] levels&gt;0.4ng/mL) using a univariate and multivariate study with Cox models. We attempted to improve the predictive power of the D'Amico model (low risk: T1; Gleason 2-6; PSA levels&lt;10ng/mL; intermediate risk: T2 or Gleason 7 or PSA levels 10-20ng/mL; high risk: T3 or Gleason 8-10 or PSA levels&gt;20ng/mL). RESULTS In the univariate study, the clinical factors that influenced BPFS were the following: Gleason 7 (HR: 1.7); Gleason 8-10 (HR: 2.9); T2 (HR: 1.6); PSA levels 10-20 (HR: 2); PSA levels&gt;20 (HR: 4.3); D'Amico intermediate (HR: 2.1) and high (HR: 4.8) risk; T3a MRI (HR: 2.3) and T3b MRI (HR: 4.5). In the multivariate study, the only variables that affected BPFS were the following: D'Amico intermediate risk (HR: 2; 95% CI 1.2-3.3); D'Amico high risk (HR: 4.1; 95% CI 2.4-6.8); T3a MRI (HR: 1.9; 95% CI 1.2-2.9) and T3b MRI (HR: 3.9; 95% CI 2.5-6.1). Predictive model: Using the multivariate Cox models, we assessed the weight of each variable. A value of 1 was given to D'Amico low risk and T2 MRI; a value of 2 was given to D'Amico intermediate risk and T3a MRI and a value 3 was given to D'Amico high risk and T3b MRI. Each patient had a marker that varied between 2 and 6. The best model included 3 groups, as follows: 494 (67.7%) patients in group 1, with a score of 2-3 points (HR, 1), a BPFS of 86%±2% and 79%±2% at 5 and 10 years, respectively; 179 (24.6%) patients in group 2, with a score of 4 points (HR, 3), a BPFS of 60%±4% and 54%±5% at 5 and 10 years, respectively; and 56 (7.7%) patients in group 3, with a score of 5-6 points (HR, 9.3), a BPFS of 29%±8% and 19%±7% at 5 and 10 years, respectively. The median BPFS time was 1.5 years. CONCLUSION MRI data significantly improves the predictive capacity of BPFS when using the D'Amico model data.</dc:description>
+<dc:type>Journal Article</dc:type>
+<dc:language>es</dc:language>
+<dc:subject>Cáncer de próstata</dc:subject>
+<dc:subject>Progresión bioquímica</dc:subject>
+<dc:subject>D’Amico classification</dc:subject>
+<dc:subject>Radical prostatectomy</dc:subject>
+<dc:subject>Migración de estadios</dc:subject>
+<dc:subject>Clasificación D́Amico</dc:subject>
+<dc:subject>Prostatectomía radical</dc:subject>
+<dc:subject>Biochemical progression</dc:subject>
+<dc:subject>Stage migration</dc:subject>
+<dc:subject>Prostate cancer</dc:subject>
+<dc:date>2014 Nov </dc:date>
+<dc:title xml:lang="en">Optimizing D'Amico risk groups in radical prostatectomy through the addition of magnetic resonance imaging data.</dc:title>
+<dc:publisher>Actas urologicas espanolas</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

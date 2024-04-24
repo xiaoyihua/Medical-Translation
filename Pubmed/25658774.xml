@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>25658774</identifier>
+<setSpec>0717-6384</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Sánchez Trujillo, Noel Antonio</dc:author>
+<dc:description xml:lang="en">This article is a discussion about two statistical tools used for prediction and causality assessment: logistic regression and Bayesian networks. Using data of a simulated example from a study assessing factors that might predict pulmonary emphysema (where fingertip pigmentation and smoking are considered); we posed the following questions. Is pigmentation a confounding, causal or predictive factor? Is there perhaps another factor, like smoking, that confounds? Is there a synergy between pigmentation and smoking? The results, in terms of prediction, are similar with the two techniques; regarding causation, differences arise. We conclude that, in decision-making, the sum of both: a statistical tool, used with common sense, and previous evidence, taking years or even centuries to develop; is better than the automatic and exclusive use of statistical resources.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:subject>diagnostic tests</dc:subject>
+<dc:subject>confounding variables</dc:subject>
+<dc:subject>decision making</dc:subject>
+<dc:subject>epidemiologic effect modifiers</dc:subject>
+<dc:subject>Bayesian prediction</dc:subject>
+<dc:subject>logistic regression</dc:subject>
+<dc:subject>Bayes theorem</dc:subject>
+<dc:subject>causality</dc:subject>
+<dc:date>2015 Feb 03 </dc:date>
+<dc:title xml:lang="es">La regresión logística frente a una red bayesiana divergente.</dc:title>
+<dc:description xml:lang="es">
+             Este artículo aborda dos herramientas estadísticas utilizadas en la predicción y la causalidad: la regresión logística y las redes bayesianas. A partir de datos tomados como ejemplo simulado de un estudio que evalúa factores que influyen en el padecimiento de enfisema pulmonar -donde se incluyen pigmentación en los dedos y tabaquismo- nos preguntamos: ¿es la pigmentación un factor de confusión, causal o predictivo?, ¿existe otro factor que, como el tabaquismo, confunde? O tal vez, ¿existe sinergia entre la pigmentación y el tabaquismo? En el caso de la predicción los resultados son similares con las dos técnicas, en cambio en la causalidad tienen diferencias. Se concluye que en la toma de decisiones es mejor la suma de una herramienta estadística usada con sentido común y evidencias anteriores, que toman años e incluso siglos para consolidarse, que el empleo automático y exclusivo de recursos estadísticos. 
+        </dc:description>
+<dc:title xml:lang="en">[Logistic regression against a divergent Bayesian network].</dc:title>
+<dc:publisher>Medwave</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

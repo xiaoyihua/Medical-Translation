@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>28483178</identifier>
+<setSpec>0034-7450</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Guzmán Sierra, Dayana Lizethe</dc:author>
+<dc:author>Camargo Casallas, Luz Helena</dc:author>
+<dc:author>Carreño León, Mariano</dc:author>
+<dc:description xml:lang="en">OBJECTIVE To design a diagnostic support system for sleep apnoea and hypopnoea syndrome (SAHS) using moving average based on knowledge, able to identify SAHS episodes from a respiratory polygraphy (RP) database. METHODS An analysis was made of data obtained from a public database, that included the RP signals, nasobucal airflow, thoracoabdominal movement, and pulse oximetry of 23 patients between 28 and 68 years with suspected SAHS, and with a body mass index (BMI) from 25.1 to 42.5. RESULTS The identification and classification of episodes of apnoea and hypopnoea was obtained. CONCLUSIONS The algorithm designed identified episodes of SAHS using polygraphy signals, which by implementating in a graphical interface allows visualisation of onset, duration, type, oxygen saturation, and pulse oximetry of each episode, and can be used as a support tool for the diagnosis of sleep disorders.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:subject>Respiración</dc:subject>
+<dc:subject>Apnea</dc:subject>
+<dc:subject>Sleep</dc:subject>
+<dc:subject>Apnoea</dc:subject>
+<dc:subject>Polisomnografía</dc:subject>
+<dc:subject>Sueño</dc:subject>
+<dc:subject>Breathing</dc:subject>
+<dc:subject>Polysomnography</dc:subject>
+<dc:date>2017 Apr - Jun </dc:date>
+<dc:title xml:lang="es">Identificación automática de episodios de SAHS utilizando señales de poligrafía respiratoria.</dc:title>
+<dc:title xml:lang="en">[Identifying Sleep Apnoea and Hypopnoea Episodes From Respiratory Polygraphy Signals].</dc:title>
+<dc:publisher>Revista colombiana de psiquiatria</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

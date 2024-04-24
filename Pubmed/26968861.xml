@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>26968861</identifier>
+<setSpec>1578-8865</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>García de Diego, O</dc:author>
+<dc:author>Deib-Morgan, K</dc:author>
+<dc:author>Sgaramella, G A</dc:author>
+<dc:author>Pariente Rodrigo, E</dc:author>
+<dc:author>García-Velasco, P</dc:author>
+<dc:author>García González, I</dc:author>
+<dc:description xml:lang="en">INTRODUCTION The glucose meters usually show a high accuracy, and in clinical practice, capillary and plasma glucose (PG) are used interchangeably. However, many variables can affect the validity of these devices. The aim of this study was to determine the accuracy and reliability of 3 glucose meters that are currently used in a primary care centre. MATERIAL AND METHODS A sample of venous blood and a drop of capillary blood were obtained from 59 participants. The drop was analysed in 3 glucose meters: 2 FreeStyle® Optium (OP1 and OP2), and one Accu-Chek® Aviva. The PG acted as the reference value, and the haematocrit and plasma levels of urea, bilirubin, uric acid and triglycerides were also analysed. We used the Passing-Bablok regression for accuracy and the intraclass correlation coefficient and the Bland-Altman method for reliability. The current American Diabetes Association standard of a total error of±5% was applied. RESULTS Differences in mean±standard deviation (mg/dL) and the systematic error were 5.8±7 and 5.8% (OP1); 6.2±8 and 5.9% (OP2); 8.3±8 and 6.3% (Accu-Chek®). The OP1/OP2 pair showed the highest level of reliability, with an intraclass correlation coefficient=0.97, bias=-0.4mg/dL, and a width of the 95% limits of agreement of 28.6mg/dL. The highest levels of accuracy and reliability were observed in high glucose ranges (PG≥126mg/dL). CONCLUSIONS Despite their clinically acceptable mean difference compared to the PG, the 3 glucose meters did not fulfill the current American Diabetes Association standard. The regular performance of quality control tests of these devices is recommended.</dc:description>
+<dc:type>Comparative Study</dc:type>
+<dc:language>es</dc:language>
+<dc:subject>Validez</dc:subject>
+<dc:subject>Validity</dc:subject>
+<dc:subject>Reproducibilidad de resultados</dc:subject>
+<dc:subject>Diabetes mellitus</dc:subject>
+<dc:subject>Blood glucose self-monitoring</dc:subject>
+<dc:subject>Reproducibility of results</dc:subject>
+<dc:subject>Autoanálisis de glucemia</dc:subject>
+<dc:date>2017 Jan - Feb </dc:date>
+<dc:title xml:lang="es">Exactitud y concordancia entre glucómetros: un estudio en condiciones habituales de práctica clínica.</dc:title>
+<dc:title xml:lang="en">[Accuracy and reliability between glucose meters: A study under normal clinical practice conditions].</dc:title>
+<dc:publisher>Semergen</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>27238950</identifier>
+<setSpec>1405-9940</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Valencia, Raúl</dc:author>
+<dc:author>Bustamante, John</dc:author>
+<dc:author>Uribe, Pablo</dc:author>
+<dc:author>Sosa, Mauricio</dc:author>
+<dc:description xml:lang="en">OBJECTIVE The accumulated evidence on angioplasty techniques with stents has raised a controversy about the factors that influence the final vascular response. Indeed, several studies have shown there might be re-stenosis between 30% to 40% about 6 months after placement, relating to the design of the device as one of the main causes. This paper proposes the functional characterization of endovascular stents, analyzing its mechanical influence in the vascular system and predicting implicit traumatic factors in the vessel. METHODS A structural analysis was made for several computational models of endovascular stents using Finite Element Analysis in order to predict the mechanical behavior and the vascular trauma. In this way, the stents were considered as tubular devices composed of multiple links under radial pressure loads, reflecting stress concentration effects. RESULTS The analysis allowed to visualize how the geometry of stents is adjusted under several load conditions, in order to obtain the response of "solid-solid" interaction between the stent and the arterial wall. Thus, an analysis was performed in order to calculate stress, and a conceptual model that explains its mechanical impact on the stent-vessel interaction, was raised, to infer on the functionality from the design of the devices. CONCLUSIONS The proposed conceptual model allows to determine the relationship between the conditions of mechanical interaction of the stents, and warns about the effects in what would be the operation of the device on the vascular environment.</dc:description>
+<dc:type>Journal Article</dc:type>
+<dc:language>es</dc:language>
+<dc:subject>Colombia</dc:subject>
+<dc:subject>Biomecánica vascular</dc:subject>
+<dc:subject>Angioplasty</dc:subject>
+<dc:subject>Computational models</dc:subject>
+<dc:subject>Elementos finitos</dc:subject>
+<dc:subject>Finite elements analysis</dc:subject>
+<dc:subject>Modelos computacionales</dc:subject>
+<dc:subject>Angioplastia</dc:subject>
+<dc:subject>Mechanical characterization</dc:subject>
+<dc:subject>Vascular biomechanics</dc:subject>
+<dc:subject>Stent vascular</dc:subject>
+<dc:subject>Vascular stent</dc:subject>
+<dc:subject>Caracterización mecánica</dc:subject>
+<dc:date>2016 Jul-Sep </dc:date>
+<dc:title xml:lang="es">Propuesta de modelo de trauma vascular mediante la caracterización mecánica de prótesis endovasculares (stents) a través del análisis estructural con técnicas FEA.</dc:title>
+<dc:title xml:lang="en">[Proposed model of vascular trauma by mean of mechanical characterization of endovascular prostheses (stents) based on structural analysis by FEA].</dc:title>
+<dc:publisher>Archivos de cardiologia de Mexico</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

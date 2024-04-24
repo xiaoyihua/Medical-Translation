@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>17590117</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Mora Atorrasagasti, O</dc:author>
+<dc:author>Lertxundi Etxebarria, U</dc:author>
+<dc:author>Martínez Bengoechea, M J</dc:author>
+<dc:author>Gabilondo Zelaia, I</dc:author>
+<dc:author>Peral Aguirregoitia, J</dc:author>
+<dc:author>Franco Lamela, E</dc:author>
+<dc:description xml:lang="en">OBJECTIVE To describe the implementation, functioning and results of a prospective automated system monitoring clinically relevant interactions in hospitalised patients in a 400-bed hospital for the period between 1 January 2005 and 31 March 2006. METHOD We created a computer programme in Access(R) 97 that checks, twice daily, the drug treatments of all of the patients admitted to the hospital in order to search for the 198 pairs of drugs previously selected from: a validated tertiary source (Hansten PD, Horn JR. Hansten and Horn's Drug Interactions Analysis and Management. St. Louis, MO: Facts and Comparisons; 2001 and updates), most relevant primary sources, expert opinions and alerts from the Spanish Agency of Medicines and Health Products. The clinical pharmacist will assess the drug-drug interaction (DDI) taking into account the timeline sequence, dose, administration route, management opportunities, patient diagnosis, clinical relevance, etc. If necessary, the doctor is contacted by phone and/or letter to inform him/her of the type of interaction, the mechanism and possible management. The programme files the following variables every day: interaction, sex, age, service, number of drugs, pharmaceutical intervention and doctor response. RESULTS Clinically relevant drug interactions were detected in 3% of patients during their stay in hospital. These patients were an average of 10 years older and received an average of four drugs more than other patients. A total of 538 interactions were detected in 15 months. Forty-three of 198 possible DDls appeared at some time. The pharmacist intervened on 126 (23%) occasions. The doctor accepted the recommendation on at least 66 (52%) occasions. Fourteen drugs were responsible for 91% of the interactions reported. CONCLUSIONS The patients with interactions are older and receive more drugs. The prior intervention of the pharmacist eliminated 77% of unnecessary alerts.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2007 Mar-Apr </dc:date>
+<dc:title xml:lang="es">Evaluación prospectiva de interacciones entre medicamentos en pacientes ingresados mediante una aplicación informática.</dc:title>
+<dc:title xml:lang="en">[Prospective assessment of drug interactions in hospitalized patients using a computer programme].</dc:title>
+<dc:publisher>Farmacia hospitalaria : organo oficial de expresion cientifica de la Sociedad Espanola de Farmacia Hospitalaria</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

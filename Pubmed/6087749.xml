@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>6087749</identifier>
+<setSpec>0020-3785</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Cuarón, A</dc:author>
+<dc:description xml:lang="en">Attenuation of gama radiation (140 KeV) from a punctual source of 99mTc was investigated in materials with a similar density to that of human chest tissues: air, saw dust (lungs), and water (chest wall and mediastinic organs). Half-value thickness (A 1/2) and linear attenuation coefficients (u) were measured for each material. With these experimental data, attenuation of the primary radiation beam and intensity of Compton effect at an angle of 90 degrees were calculated at different depths of a theoretical model of a human chest, assuming a primary radiation beam with a direction from right-to-left, and the inverse. The results demonstrated the theoretical possibility of obtaining quantitative tomographic bidimensional images of the tissular densitometry of the hemi-tórax near the radiation source, by means of the detection of the gama photons scattered al 90 degrees as a result of Compton effect. Attenuation of the primary beam prevents the obtaintion of information from the far sided hemitorax. Theoretical considerations for the correction of this defect of the low energy gama photons from 99mTc are discussed. It was decided to design and built a system for the experimental evaluation of this new principle for clinical exploration, which can be used as a low cost and simple adjuvant to increase the specificity of perfusion lung scintigraphy.</dc:description>
+<dc:type>Journal Article</dc:type>
+<dc:language>es</dc:language>
+<dc:date>1984 May-Jun </dc:date>
+<dc:title xml:lang="es">Centelleografía perfusoria pulmonar. Factibilidad de la tomografía torácica cuantitativa mediante la detección de la dispersión de las radiaciones gama del tecnecio-99m.</dc:title>
+<dc:title xml:lang="en">[Pulmonary perfusion scintigraphy. Feasibility of quantitative thoracic tomography using the detection of gamma ray dispersion from technetium-99m].</dc:title>
+<dc:publisher>Archivos del Instituto de Cardiologia de Mexico</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

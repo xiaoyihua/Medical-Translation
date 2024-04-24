@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>28778682</identifier>
+<setSpec>1578-8989</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Trujillo-Hernández, Benjamín</dc:author>
+<dc:author>Murillo-Zamora, Efrén</dc:author>
+<dc:author>Medina-González, Alfredo</dc:author>
+<dc:author>Zamora-Pérez, Liliana</dc:author>
+<dc:author>Guzmán-Esquivel, José</dc:author>
+<dc:author>Vázquez-Yáñez, Andrés</dc:author>
+<dc:description xml:lang="en">INTRODUCTION Healthcare-associated pneumonia (HCAP) is the leading cause of infection in a hospital setting and is associated with a high mortality rate. This study aimed to evaluate the performance of the pneumonia severity index (PSI) and confusion, urea, respiratory rate, blood pressure, age≥65 (CURB-65) systems in predicting 30-day mortality in HCAP in adult patients. PATIENTS AND METHODS A cross-sectional study took place and data from 109 non-immunocompromised individuals aged&gt;18 years were analyzed. The clinical diagnosis of HCAP included the presence of radiographic infiltrates in patients≥48hours after hospital admission. The PSI and CURB-65 scores were calculated and performance measures were estimated. Summary statistics were used to describe the study sample. The PSI and CURB-65 scores were calculated based on 20 and 5 criteria, respectively, and the performance indicators of the screening tools were estimated. RESULTS The overall 30-day mortality was 59.6%. At every given threshold, PSI sensitivity was higher, but showed a lower specificity than the CURB-65, and the highest Youden index (0.392) was observed at cut-off V in the PSI. The area under the ROC curve was 0.737 (95% CI: 0.646-0.827) and 0.698 (95% CI: 0.600-0.797) using the PSI and CURB-65 systems, respectively (P=.323). CONCLUSION Our findings suggest that the performance of the PSI and CURB-65 is reasonable for predicting 30-day mortality in adult HCAP patients and may be used in healthcare settings.</dc:description>
+<dc:type>Journal Article</dc:type>
+<dc:language>es</dc:language>
+<dc:subject>Pneumonia</dc:subject>
+<dc:subject>Evaluation index</dc:subject>
+<dc:subject>Mortality</dc:subject>
+<dc:subject>Mortalidad</dc:subject>
+<dc:subject>Índice de evaluación</dc:subject>
+<dc:subject>Healthcare-associated</dc:subject>
+<dc:subject>Asociación a la asistencia sanitaria</dc:subject>
+<dc:subject>Neumonía</dc:subject>
+<dc:date>2018 Feb 09 </dc:date>
+<dc:title xml:lang="es">Desempeño de los sistemas de puntuación PSI y CURB-65 para predecir la mortalidad a 30 días de la neumonía asociada a la asistencia sanitaria.</dc:title>
+<dc:title xml:lang="en">Performance of the PSI and CURB-65 scoring systems in predicting 30-day mortality in healthcare-associated pneumonia.</dc:title>
+<dc:publisher>Medicina clinica</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

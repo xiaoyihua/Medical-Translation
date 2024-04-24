@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>26597332</identifier>
+<setSpec>2253-8070</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>González Larriba, J L</dc:author>
+<dc:author>Cala-Zuluaga, E</dc:author>
+<dc:author>Jiménez-Ballvé, A</dc:author>
+<dc:author>Cabrera-Martín, M N</dc:author>
+<dc:author>García García-Esquinas, M</dc:author>
+<dc:author>Fuentes-Ferrer, M E</dc:author>
+<dc:author>Pérez-Castejón, M J</dc:author>
+<dc:author>Ortega-Candil, A</dc:author>
+<dc:author>Cano-Carrizal, R</dc:author>
+<dc:author>Lapeña-Gutierrez, L</dc:author>
+<dc:author>Carreras-Delgado, J L</dc:author>
+<dc:author>Rodríguez-Rey, C</dc:author>
+<dc:description xml:lang="en">AIM To establish a Breslow Thickness (BT) cut-off point for indication of PET-CT of cutaneous melanoma in early stages and evaluate its prognostic value. MATERIAL AND METHODS Retrospective analysis of 347 PET-CT studies with diagnosis of melanoma, of which 108 were performed for initial staging. Thirty-one patients were excluded, and a final sample of 77 patients remained. A ROC curve analysis was performed to establish an optimal cut-off point. A survival analysis was performed, considering death assignable to melanoma as the main event, for the evaluation of its prognostic value. RESULTS Forty-seven (61.04%) of all 77 patients selected were men, and 11 (14.29%) had a positive PET-CT result. Mean age was 65.17±15.00 years. The median BT in patients with a negative PET-CT result was 2.75 mm (IQR 1.83-4.50) and in the positive group 6.25 mm (IQR 5.40-7.50) (P=.0013). In the ROC curve analysis (AUC 0.804, SE 0.054), an optimal value of 5 mm BT with the following values was obtained: sensitivity 90.91%, specificity 78.79%, negative predictive value (NPV) 98.1%, positive predictive value (PPV) 41.7%, diagnostic OR 37.1, and accuracy 80.52%. Mean follow-up was 18.66±14,35 months, detecting 2/53 (3.77%) deaths in the BT&lt;5 mm group, and 7/24 (29.17%) in the BT≥5 mm group. Survival curves between both groups were significantly different (P=.0013). CONCLUSIONS A 5 mm cut-off point correctly distinguishes those patients with positive PET-CT from those with negative results in the early stages of cutaneous melanoma; therefore it could be included in initial staging of this subgroup of patients.</dc:description>
+<dc:type>Journal Article</dc:type>
+<dc:language>es</dc:language>
+<dc:subject>Breslow thickness</dc:subject>
+<dc:subject>Estadificación</dc:subject>
+<dc:subject>Staging</dc:subject>
+<dc:subject>Melanoma</dc:subject>
+<dc:subject>Índice de Breslow</dc:subject>
+<dc:subject>PET-CT</dc:subject>
+<dc:subject>PET-TC</dc:subject>
+<dc:date>2016 Mar-Apr </dc:date>
+<dc:title xml:lang="en">Breslow thickness and (18)F-FDG PET-CT result in initial staging of cutaneous melanoma: Can a cut-off point be established?</dc:title>
+<dc:publisher>Revista espanola de medicina nuclear e imagen molecular</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

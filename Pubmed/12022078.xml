@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>12022078</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Peña, J L</dc:author>
+<dc:description xml:lang="en">INTRODUCTION In the auditory system, the inner ear breaks down complex signals into their spectral components, and encodes the amplitude and phase of each. In order to infer sound direction in space, a computation on each frequency component of the sound must be performed. DEVELOPMENT Space specific neurons in the owl s inferior colliculus respond only to sounds coming from a particular direction and represent the results of this computation. The interaural time difference (ITD) and interaural level difference (ILD define the auditory space for the owl and are processed in separate neural pathways. The parallel pathways that process these cues merge in the external nucleus of the inferior colliculus where the space specific neurons are selective to combinations of ITD and ILD. How do inputs from the two sources interact to produce combination selectivity to ITD ILD pairs? A multiplication of postsynaptic potentials tuned to ITD and ILD can account for the subthreshold responses of these neurons to ITD ILD pairs. Examples of multiplication by neurons or neural circuits are scarce, but many computational models assume the existence of this basic operation. The owl s auditory system uses such operation to create a 2 dimensional map of auditory space. The map of space in the owl s auditory system shows important similarities with representations of space in the cerebral cortex and other sensory systems. In encoding space or other stimulus features, individual neurons appear to possess analogous functional properties related to the synthesis of high order receptive fields.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2002 Feb 1-15 </dc:date>
+<dc:title xml:lang="es">Neuronas que codifican la direcci n del sonido.</dc:title>
+<dc:title xml:lang="en">[Neurons that encode sound direction].</dc:title>
+<dc:publisher>Revista de neurologia</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

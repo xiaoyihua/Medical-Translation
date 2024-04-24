@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>10380327</identifier>
+<setSpec>0004-0614</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Muñoz Martínez, V F</dc:author>
+<dc:author>Pino Casermeiro-Osuna, J A</dc:author>
+<dc:author>Jiménez Garrido, A</dc:author>
+<dc:author>Gómez de Gabriel, J M</dc:author>
+<dc:author>Sánchez de Bajadoz, E</dc:author>
+<dc:author>Fernández Lozano, J J</dc:author>
+<dc:description xml:lang="en">OBJECTIVE In line with our previous studies in the field of robotics, a new application of our robotic arm is presented: voice-directed cystoscopy. METHODS Cystoscopy was performed in a sow using a voice-directed robotic arm to which a cystoscope had been attached. The computer executes all the processes that enable interaction with the surgeon and communication with the robotic system. The surgeon directs the movements of the cystoscope by voice, using instructions easily recognizable by the voice identifier. RESULTS/CONCLUSIONS This system is easy to operate and carries out the commands given by the surgeon with great precision and safety.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>1999 May </dc:date>
+<dc:title xml:lang="es">Cistoscopia robotizada dirigida mediante la voz.</dc:title>
+<dc:title xml:lang="en">[Voice-directed robotic cystoscopy].</dc:title>
+<dc:publisher>Archivos espanoles de urologia</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

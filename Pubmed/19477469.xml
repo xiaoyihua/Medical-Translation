@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>19477469</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Tojeiro, Sandra</dc:author>
+<dc:author>Marín, Fernando</dc:author>
+<dc:author>González-Macías, Jesús</dc:author>
+<dc:author>Vila, Joan</dc:author>
+<dc:author>Martín, Dionisio</dc:author>
+<dc:author>Díez-Pérez, Adolfo</dc:author>
+<dc:description xml:lang="en">BACKGROUND AND OBJECTIVES Absolute risk estimate for fractures in the individual subject provides meaningful information for interventions. Recently, we have described an algorithm to calculate the absolute risk for non-vertebral fractures in women from Spain, aged 65 years or older, that includes clinical parameters and quantitative bone ultrasound values of the calcaneus (URL: www.ecosap.info). We assessed the performance of the algorithm by means of the statistical analysis of the model calibration. SUBJECTS AND METHODS The algorithm was the result of the prospective analysis of 5.201 [corrected] women who were attended for any reason in Primary Care Centres and followed-up for 3 years. Model calibration was evaluated by comparing number of estimated (E) cases predicted with the equation with the number of observed (O) cases, and its accuracy to discriminate women with and without a new fracture. RESULTS No evidence of statistically significant miscalibration of the model was observed. The E/O ratio was 1,02 (CI 95%: 0,91-1,14). Calibration chi(2) value (difference between the estimated and observed cases) did not reach statistical significance. Area under the curve-ROC was approximately 0.67. CONCLUSIONS These results suggest a good calibration of the proposed algorithm for non-vertebral fracture prediction. It would be desirable to calibrate it with an independent cohort to definitively test its external validity.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2009 Oct 10 </dc:date>
+<dc:title xml:lang="es">Validación de un algoritmo para el cálculo del riesgo absoluto de fracturas no vertebrales por fragilidad en una cohorte de mujeres posmenopáusicas.</dc:title>
+<dc:title xml:lang="en">[Validation of an algorithm to calculate the absolute risk of non-vertebral fragility fractures in a cohort of postmenopausal women].</dc:title>
+<dc:publisher>Medicina clinica</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

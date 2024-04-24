@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>21821333</identifier>
+<setSpec>1579-2129</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Burgos, Felip</dc:author>
+<dc:author>Salas, Tomàs</dc:author>
+<dc:author>Muñoz, Pilar</dc:author>
+<dc:author>Gallego, Carlos</dc:author>
+<dc:author>Escarrabill, Joan</dc:author>
+<dc:author>Rubies, Carles</dc:author>
+<dc:description xml:lang="en">Access to quality spirometry is an essential objective in order to be able to minimize the underdiagnosis of respiratory diseases, especially in those that are most frequent, such as COPD and asthma. This objective can be reached in the short term, but it requires the simultaneous integration of different strategies: training of the health-care professionals who perform spirometry, definition of standards for the transmission of the information, technical requirements for acquiring apparatuses and the correct interpretation of the results. This present study shows the use of standards for the electronic exchange of clinical information. In order to normalize the treatment of the data related with spirometry and to enable the exchange of information, we have used the standard CDA R2 (Clinical Document Architecture, Release 2) of HL7 (Health Level Seven), version 3. HL7 is a product by HL7 International, a non-profit organization that deals in the production of standards in the health-care setting in order to facilitate interoperability. Furthermore, defining these standards is essential for ensuring that they are adopted by spirometer manufacturers. Be means of this process, the base is set for facilitating access to spirometry at the health-care level, while at the same time it is a fundamental technical element for designing quality control programs of the explorations.</dc:description>
+<dc:type>Journal Article</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2011 Sep </dc:date>
+<dc:title xml:lang="en">Technical requirements of spirometers in the strategy for guaranteeing the access to quality spirometry.</dc:title>
+<dc:publisher>Archivos de bronconeumologia</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

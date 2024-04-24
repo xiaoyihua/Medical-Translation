@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>8378586</identifier>
+<setSpec>0034-9402</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Pérez-Arroyo, M</dc:author>
+<dc:author>Sánchez-Suero, S</dc:author>
+<dc:author>Asencor, F J</dc:author>
+<dc:author>Pérez-Cobo, J C</dc:author>
+<dc:description xml:lang="en">The mapping of evoked cerebral activity is largely determined by the choice of the interpolation system used. When the number of electrodes is very large, practically any interpolation system is valid, but the geometrical and anatomical limitations imposed by the animals normally chosen for these experiments impede the use of a large number of electrodes; hence the overriding importance of a workable interpolation system. The polynomic interpolation method on the monomial structure is presented as valid, and compared with the pseudolineal interpolation method, which is more commonly used.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>1993 Jun </dc:date>
+<dc:title xml:lang="es">Mapas de potenciales cerebrales por un nuevo método de interpolación polinomial.</dc:title>
+<dc:title xml:lang="en">[Brain potential mapping by a new method of polynomial interpolation].</dc:title>
+<dc:publisher>Revista espanola de fisiologia</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

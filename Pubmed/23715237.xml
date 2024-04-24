@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>23715237</identifier>
+<setSpec>0120-4157</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Vargas-Zambrano, Juan Camilo</dc:author>
+<dc:author>González, John Mario</dc:author>
+<dc:author>Villa-Camacho, Juan Carlos</dc:author>
+<dc:description xml:lang="en">INTRODUCTION Interferon beta (IFN-β) is a treatment for relapsing remitting multiple sclerosis. However, the therapeutic use of recombinant proteins induces a humoral immunologic response resulting in the induction of binding (BAb) or neutralizing (NAb) antibodies against the biological product. The presence of neutralizing antibodies has been associated with decreased IFN-β treatment efficacy. MATERIALS AND METHODS Two tumor cell lines (K562 and U937) were cultivated with human recombinant IFN-β1a at different concentrations and lengths of time in order to measure the expression of intracellular ISG15, an inducible molecule in the IFN-β1a signaling cascade. Blood was obtained from non-immunized and IFN-β1a immunized (100,000 IU) New Zealand rabbits. The presence of BAb was evaluated by ELISA. For NAb detection, sera 1:20 dilution were added to the IFN-β1a-stimulated cell lines, and ISG15 expression was evaluated by flow cytometry. RESULTS K562 cells provided the better cell line for the assay, stimulated with a dose of 1,000 IU of IFN-β1a, and a 1:100 dilution for the primary antibody and a 1:200 dilution for the secondary antibody. ISG15 expression was compared between cells alone or cultivated with IFN-β1a. Mean fluorescence intensity (MFI) for ISG-15 expression median was 198 arbitrary units (AU) with interquartile ranges of 173-231 AU for non-stimulated cells and 430 AU with interquartile ranges of 316-611.5 AU for IFN-β1a stimulated cells (p&lt;0.01). Immunized rabbit sera decreased the expression of ISG-15 in K562 cells stimulated with IFN-β1a, whereas non-immunized rabbit sera did not. CONCLUSIONS This rabbit model demonstrates that ISG15 expression evaluated with flow cytometry can be used as a detection assay for NAb.</dc:description>
+<dc:type>Comparative Study</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2012 Oct-Dec </dc:date>
+<dc:title xml:lang="es">Modelo de detección de anticuerpos neutralizantes contra IFN-β mediante citometría de flujo.</dc:title>
+<dc:title xml:lang="en">[Flow cytometry model for the detection of neutralizing antibodies against of IFN-β].</dc:title>
+<dc:publisher>Biomedica : revista del Instituto Nacional de Salud</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

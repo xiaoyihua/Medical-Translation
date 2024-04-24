@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>28318757</identifier>
+<setSpec>1578-1283</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Hernández, Gilma</dc:author>
+<dc:author>Navarro, Albert</dc:author>
+<dc:author>Moriña, David</dc:author>
+<dc:description xml:lang="en">The presence of missing data in collected variables is common in health surveys, but the subsequent imputation thereof at the time of analysis is not. Working with imputed data may have certain benefits regarding the precision of the estimators and the unbiased identification of associations between variables. The imputation process is probably still little understood by many non-statisticians, who view this process as highly complex and with an uncertain goal. To clarify these questions, this note aims to provide a straightforward, non-exhaustive overview of the imputation process to enable public health researchers ascertain its strengths. All this in the context of dichotomous variables which are commonplace in public health. To illustrate these concepts, an example in which missing data is handled by means of simple and multiple imputation is introduced.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:subject>Epidemiología</dc:subject>
+<dc:subject>Missing data</dc:subject>
+<dc:subject>Salud pública</dc:subject>
+<dc:subject>Valores ausentes</dc:subject>
+<dc:subject>Imputation</dc:subject>
+<dc:subject>Epidemiology</dc:subject>
+<dc:subject>Public health</dc:subject>
+<dc:subject>Imputación</dc:subject>
+<dc:date>2017 Jul - Aug </dc:date>
+<dc:title xml:lang="es">Imputación de valores ausentes en salud pública: conceptos generales y aplicación en variables dicotómicas.</dc:title>
+<dc:title xml:lang="en">[Imputing missing data in public health: general concepts and application to dichotomous variables].</dc:title>
+<dc:publisher>Gaceta sanitaria</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

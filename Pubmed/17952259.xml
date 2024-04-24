@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>17952259</identifier>
+<setSpec>0102-311X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Yang, Hyun Mo</dc:author>
+<dc:author>Rosales, Juan Carlos</dc:author>
+<dc:description xml:lang="en">A SIR-type deterministic mathematical model for three hosts is applied to analyze the transmission process for American tegumentary leishmaniasis in Río Blanco and Las Carmelitas, located in northeastern Salta Province, Argentina, and to derive the expression for the baseline reproducibility number Ro. The model is implemented in the MATLAB environment, and based on data from endemic areas, simulations are performed and numerical estimations of Ro are obtained. Río Blanco shows Ro = 4.689 and Las Carmelitas Ro = 1.948. By studying the model numerically, we also estimate the force of infection, namely 0.239 and 0.171 (unit 1/year), respectively. The simulations show that in Río Blanco, the endemic phase was more sustained than the inter-epidemic phase in Las Carmelitas. The estimations of these epidemiological parameters indicate where the Ministry of Health and Provincial Health Department will experience greater difficulty in controlling and eradicating the disease.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2007 Nov </dc:date>
+<dc:title xml:lang="es">Estimación del número de reproducibilidad basal para la leishmaniasis tegumentar americana en dos localidades del nordeste de la Provincia de Salta, Argentina.</dc:title>
+<dc:title xml:lang="en">[Estimation of the basic reproducibility number for American tegumentary leishmaniasis in two sites in northeastern Salta Province, Argentina].</dc:title>
+<dc:publisher>Cadernos de saude publica</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

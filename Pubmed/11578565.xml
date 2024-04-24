@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>11578565</identifier>
+<setSpec>1578-1283</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Sáez, M</dc:author>
+<dc:description xml:lang="en">In longitudinal analyses subjects are repeatedly measured along time. They are mixed designs, characterised for their simultaneous consideration of two or more dimensions of analysis, in which time is one of the dimensions.Longitudinal analyses have important advantages with respect other designs. The most important is that they are more efficient, since they allow to distinguish between-individual and within-individual variation.Longitudinal analyses can be approached marginal and conditionally. Whereas the former allows to draw poblational, or average, inferences, the latter permits to draw individual inferences.The statistical models to use depend on the type of response variable. If the dependent variable is normally distributed one will use linear mixed models. When the response is a count one will use mixed Poisson regressions. Mixed binomial or multinomial logistic regressions should be used when the response would be categorical.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2001 Jul-Aug </dc:date>
+<dc:title xml:lang="es">El problema de las medidas repetidas. Análisis longitudinal en epidemiología.</dc:title>
+<dc:title xml:lang="en">[The problem of repeated measurements. Longitudinal analysis in epidemiology].</dc:title>
+<dc:publisher>Gaceta sanitaria</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

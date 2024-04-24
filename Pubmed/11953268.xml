@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>11953268</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Gómez De La Cámara, A</dc:author>
+<dc:author>Mañes, N</dc:author>
+<dc:author>Varela De Ugarte, A</dc:author>
+<dc:author>Llobregat, N</dc:author>
+<dc:author>López Encuentra, A</dc:author>
+<dc:description xml:lang="en">OBJECTIVE To quantify changes in tumor-node-metastasis (TNM) staging (numerical migration) and survival (prognostic migration) that arise when certainty criteria are applied to a patient population with non-small cell lung cancer (NSCLC) treated surgically. METHODS The population consisted of 1,844 patients with NSCLC who underwent surgery between 1993 and 1996 at hospitals participating in the Bronchogenic Carcinoma Co-operative Group of the Spanish Society of Pneumology and Thoracic Surgery (GCCB-S). For every patient, surgical-pathological TNM staging (p) was based on two classifications: initial staging by each participating GCCB-S center (pTNM-i) and a second classification bearing greater classificatory certainty (pTNM-cc) resulting from the application of stricter criteria. Numerical migration was said to have occurred in cases where the two classifications did not coincide, and the possible prognostic migration under the new staging was then assessed. RESULTS The results revealed great numerical migration in the pN0 classification (from 1,091 cases to 665). The changes did not result in prognostic migration either for the group as a whole or for pT1-2N0M0 cases. However, for pT3N0M0 cases, median survival increased by 13 months. The difference in three-year survival (S3) for pT3N0M0-i without certainty confirmation [S3 = 0.30 (95%CI 0.18-0.42), n=59] and pT3N0M0-cc [S3=0.54 (95%CI = 0.44-0.64), n = 92] was significant (log-rank, p = 0.035). Such behavior was not observed for pT1-2N0M0. CONCLUSIONS The numerical migration observed as a result of applying surgical-pathological classificatory certainty criteria is relevant but the prognostic repercussion is scarce, except in cases classified as pT3N0M0, in which a significant positive prognostic migration is observed (the "Will Rogers phenomenon").</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2002 Apr </dc:date>
+<dc:title xml:lang="es">El fenómeno Will-Rogers. Migración de estadios en carcinoma broncogénico, tras aplicar criterios de certeza clasificatoria.</dc:title>
+<dc:title xml:lang="en">[The Will-Rogers phenomenon. Stage migration in bronchogenic carcinoma after applying certainty criteria].</dc:title>
+<dc:publisher>Archivos de bronconeumologia</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

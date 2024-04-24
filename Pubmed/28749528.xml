@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>28749528</identifier>
+<setSpec>0214-4840</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Ventura-León, José Luis</dc:author>
+<dc:description xml:lang="en">La confiabilidad es entendida como una propiedad métrica de las puntuaciones de un instrumento de medida. Recientemente se viene utilizando el coeficiente omega (ω) para la estimación de la confiabilidad. No obstante, la medición nunca es exacta por la influencia del error aleatorio, por esa razón es necesario calcular y reportar el intervalo de confianza (IC) que permite encontrar en valor verdadero en un rango de medida. En ese contexto, el artículo plantea una forma de estimar el IC mediante el método de bootstrap para facilitar este procedimiento se brindan códigos de R (un software de acceso libre) para que puedan realizarse los cálculos de una forma amigable. Se espera que el artículo sirva de ayuda a los investigadores de ámbito de salud.</dc:description>
+<dc:type>Journal Article</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2018 Jan 01 </dc:date>
+<dc:title xml:lang="es">Intervalos de confianza para coeficiente Omega: Propuesta para el cálculo.</dc:title>
+<dc:description xml:lang="es">
+             La confiabilidad es entendida como una propiedad métrica de las puntuaciones de un instrumento de medida. Recientemente se viene utilizando el coeficiente omega (ω) para la estimación de la confiabilidad. No obstante, la medición nunca es exacta por la influencia del error aleatorio, por esa razón es necesario calcular y reportar el intervalo de confianza (IC) que permite encontrar en valor verdadero en un rango de medida. En ese contexto, el artículo plantea una forma de estimar el IC mediante el método de bootstrap para facilitar este procedimiento se brindan códigos de R (un software de acceso libre) para que puedan realizarse los cálculos de una forma amigable. Se espera que el artículo sirva de ayuda a los investigadores de ámbito de salud. 
+        </dc:description>
+<dc:title xml:lang="en">Confidence Intervals for Omega Coefficient: Proposal for Calculus.</dc:title>
+<dc:publisher>Adicciones</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>20423639</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Bono Cabré, Roser</dc:author>
+<dc:author>Tuero Herrero, Ellián</dc:author>
+<dc:author>Arnau Gras, Jaime</dc:author>
+<dc:author>Fernández García, Paula</dc:author>
+<dc:author>Vallejo Seco, Guillermo</dc:author>
+<dc:description xml:lang="en">Knowledge of the subject matter plays a vital role when attempting to choose the best possible linear mixed model to analyze longitudinal data. To date, in the absence of strong theory, much of the work has focused on modeling the covariance matrix by comparing non-nested models using selection criteria. In this paper, we compare the performance of conditional likelihood ratio test (LRT) and several versions of information criteria for selecting nested mean structures and/or nested covariance structures, assuming that the true data-generating processes are known. Simulation results indicate that the efficient criteria performed better than their consistent counterparts when covariance structures used in the data generation were complex, and worse when structures were simple. The conditional LRT under full maximum likelihood (FML) estimation was better overall than the other criteria in terms of selection performance. However, under restricted maximum likelihood (REML), estimation was inferior. We also find that the strategy suggested in the statistical literature of using REML for covariance structure selection, and FML for mean structure selection may be misleading.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2010 May </dc:date>
+<dc:title xml:lang="es">Selección de modelos anidados para datos longitudinales usando criterios de información y la estrategia de ajuste condicional.</dc:title>
+<dc:title xml:lang="en">[Nested model selection for longitudinal data using information criteria and the conditional adjustment strategy].</dc:title>
+<dc:publisher>Psicothema</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

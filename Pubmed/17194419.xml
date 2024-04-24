@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>17194419</identifier>
+<setSpec>1579-2242</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Mendivil, Joan</dc:author>
+<dc:author>Parada, Antoni</dc:author>
+<dc:author>Valderas, José M</dc:author>
+<dc:author>Losada-Yáñez, Marina</dc:author>
+<dc:author>Alonso, Jordi</dc:author>
+<dc:description xml:lang="en">INTRODUCTION AND OBJECTIVES The increasing size of the PubMed (Medline) database has made it necessary to develop specific tools for information retrieval (i.e., filters). The current configuration of the Limits option in PubMed does not enable searches to be limited according to geographic criteria. Our objectives, therefore, were a) to develop a geographic filter for the retrieval from PubMed of studies performed in the Spanish population, and b) to assess its performance. METHODS A second-generation filter was constructed by reviewing previous strategies. It involved the selection of three types of record that included: a) the term Spain in different languages; b) Spanish place names (i.e., mainly those of autonomous regions and provinces), and c) acronyms for health services in autonomous regions. The performance of the filter (i.e., its sensitivity and specificity) was assessed in a representative sample (i.e., clinical trials indexed in PubMed under the MeSH term Myocardial Infarction) by comparison with the results of a manual search (the gold standard). In addition, the filter's performance was also evaluated by comparing it with a simple search for the term Spain[ad]. RESULTS Use of the filter retrieved 74 (98.7%) of the relevant references. The sensitivity (88.1%) was higher than that of the simple search strategy (45.8%), and excellent specificity (100%) was achieved in both cases. CONCLUSIONS A geographic filter has been developed for identifying studies in PubMed that involve the Spanish population.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2006 Dec </dc:date>
+<dc:title xml:lang="es">Construcción de un filtro geográfico para la identificación en PubMed de estudios realizados en España.</dc:title>
+<dc:title xml:lang="en">[Development of a geographic filter for PubMed to identify studies performed in Spain].</dc:title>
+<dc:publisher>Revista espanola de cardiologia</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>16807866</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Cosenza-Andraus, M E</dc:author>
+<dc:author>Fantezia-Andraus, C</dc:author>
+<dc:author>Gomes-Nunes, R</dc:author>
+<dc:author>Alves-Leon, S V</dc:author>
+<dc:author>Nunes-Cosenza, C A</dc:author>
+<dc:description xml:lang="en">INTRODUCTION The video-electroencephalography (video-EEG) prolonged monitoring is an important auxiliary diagnostic instrument in epilepsy, and provides valuable information to classify the type of crisis and epileptic syndromes and to localize the epileptogenic zone. The fuzzy logic gives an efficient and intelligent analysis method, able to make inferences over ambiguous systems, and has been increasing used in several areas. AIMS To correlate clinical and electroencephalographic data obtained with video-EEG of patients with clinical and interictal electroencephalography criteria of medically refractory temporal lobe epilepsy (TLE) and to make inferences of diagnosis precision with the application of the Fuzzy Hierarchy COPPE/Cosenza Model; to investigate the frequency in which the clinical, syndromic and topographic diagnosis can be modified in these patients; to evaluate the usefulness and applicability of fuzzy logic on the analysis of this type of study. PATIENTS AND METHODS Transversal, prospective study, that included 22 adult outpatients with ambulatory diagnosis of medically refractory TLE, submitted to video-EEG monitoring that varied from 48 hours to 10 days. The grade of diagnosis precision was infered by fuzzy logic. RESULTS The clinical diagnosis of epilepsy was modified in two (9%) patients, the syndromic in six (27.2%) and the topographic in 16 (72.7%). The fuzzy indicators of ambulatory diagnostic precision were: 0.91 to clinical diagnosis; 0.74 to syndromic diagnosis and 0.36 to topographic diagnosis, considering 1 the maximal precision diagnostic value (attributed to the video-EEG results). CONCLUSIONS The video-EEG prolonged monitoring established the clinical, syndromic and topographic correct diagnosis in these patients; the fuzzy logic best defined a mathematical value of the correspondence between ambulatorial diagnosis of TLE and the video-EEG prolonged monitoring.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2006 Jul 1-15 </dc:date>
+<dc:title xml:lang="es">Monitorización prolongada por videoelectroencefalografía de pacientes con diagnóstico ambulatorio de epilepsia del lóbulo temporal de difícil control: aplicación del modelo de lógica fuzzy</dc:title>
+<dc:title xml:lang="en">[Video-electroencephalography prolonged monitoring in patients with ambulatory diagnosis of medically refractory temporal lobe epilepsy: application of fuzzy logic's model].</dc:title>
+<dc:publisher>Revista de neurologia</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>25679918</identifier>
+<setSpec>0716-1018</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Bahamonde, Cristian</dc:author>
+<dc:author>Hott-Harvey, Bárbara</dc:author>
+<dc:author>Stuardo, Valeria</dc:author>
+<dc:author>Manríquez, José</dc:author>
+<dc:author>Mardones, Pedro</dc:author>
+<dc:description xml:lang="en">INTRODUCTION Meningococcal disease (MD) is a public health problem worldwide, due to its high morbidity and mortality. Most cases occur in sub-Saharan Africa, where there is a marked seasonal pattern with predominance during the dry season. OBJECTIVES To describe the morbidity of MD in the Metropolitan Region (MR) of Chile and explore whether there is a correlation between the number of cases with the levels of atmospheric particulate matter PM 10 and PM 2.5, relative humidity (RH), temperature and total environmental pollen. MATERIALS AND METHODS Ecological time series study, statistical analysis with R 3.0.1, graphics with Excel 2013. RESULTS Between 2010 and 2013, 234 MD cases were reported in the MR with an increasing trend. There is a seasonal pattern with an increase of cases from August to October, and a decrease from March to April. There is no correlation with the levels of PM10 and PM2.5. There is a slight positive correlation with RH and a slight negative correlation with temperature. There is a moderate positive correlation with the levels of total environmental pollens. DISCUSSION Overcrowding and the winter viral infections could explain the increased incidence of MD and the slight correlation with RH and temperature. The moderate correlation with the pollens could be explained by an effect of irritation of the upper airway. CONCLUSIONS More epidemiological studies whose designs allow a greater causal inference are required.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2014 Dec </dc:date>
+<dc:title xml:lang="es">Enfermedad meningocóccica en la Región Metropolitana de Chile y su correlación con factores ambientales.</dc:title>
+<dc:title xml:lang="en">[Meningococcal disease in the Metropolitan Region of Chile and its correlation with environmental factors].</dc:title>
+<dc:publisher>Revista chilena de infectologia : organo oficial de la Sociedad Chilena de Infectologia</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>25660140</identifier>
+<setSpec>1578-1968</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>García Pastor, A</dc:author>
+<dc:author>Fernández Bullido, Y</dc:author>
+<dc:author>Sobrino García, P</dc:author>
+<dc:author>García Arratibel, A</dc:author>
+<dc:author>Domínguez Rubio, R</dc:author>
+<dc:author>Vázquez Alen, P</dc:author>
+<dc:author>Muñoz González, A</dc:author>
+<dc:author>Romero Delgado, F</dc:author>
+<dc:author>Villanueva Osorio, J A</dc:author>
+<dc:author>Iglesias Mohedano, A M</dc:author>
+<dc:author>Gil Núñez, A</dc:author>
+<dc:author>Díaz Otero, F</dc:author>
+<dc:description xml:lang="en">OBJECTIVE This study aims to determine which factors are associated with delays in door-to needle (DTN) time in our hospital. This will help us design future strategies to shorten time to treatment with intravenous thrombolysis (IVT). METHODS Retrospective analysis of a prospective cohort of patients with ischaemic stroke treated with IVT in our hospital between 2009 and 2012. We analysed the relationship between DTN time and the following variables: age, sex, personal medical history, onset-to-door time, pre-hospital stroke code activation, blood pressure and blood glucose level, National Institutes of Health Stroke Scale (NIHSS), computed tomography angiography (CTA) and/or doppler/duplex ultrasound (DUS) performed before IVT, time to hospital arrival, and day of the week and year of stroke. RESULTS Our hospital treated 239 patients. Median time to treatment in minutes (IQR): onset-to-door, 84 (60-120); door-to-CT, 17 (13-24.75); CT-to needle, 34 (26-47); door-to-needle, 52 (43-70); onset-to-needle, 145 (120-180). Door-to-needle time was significantly shorter when code stroke was activated, at 51 vs. 72min (P=0.008), and longer when CTA was performed, at 59 vs. 48.5min (P=0.004); it was also longer with an onset-to-door time&lt;90min, at 58 vs. 48min (P=0.003). The multivariate linear regression analysis detected 2 factors affecting DTN: code stroke activation (26.3% reduction; P&lt;0.001) and onset-to-door time (every 30min of onset-to-door delay corresponded to a 4.7min increase in DTN time [P=0.02]). On the other hand, CTA resulted in a 13.4% increase in DTN (P=0.03). No other factors had a significant influence on door-to-needle time. CONCLUSIONS This study enabled us to identify CTA and the «3-hour effect» as the 2 factors that delay IVT in our hospital. In contrast, activating code stroke clearly reduces DTN. This information will be useful in our future attempts to reduce door-to-needle times.</dc:description>
+<dc:type>Journal Article</dc:type>
+<dc:language>es</dc:language>
+<dc:subject>Computed tomography angiography</dc:subject>
+<dc:subject>In-hospital delays</dc:subject>
+<dc:subject>Tiempo puerta-aguja</dc:subject>
+<dc:subject>Three-hour effect</dc:subject>
+<dc:subject>Efecto de las 3horas</dc:subject>
+<dc:subject>Trombólisis intravenosa</dc:subject>
+<dc:subject>Door-to-needle time</dc:subject>
+<dc:subject>Angio-TC</dc:subject>
+<dc:subject>Retraso intrahospitalario</dc:subject>
+<dc:subject>Ictus isquémico</dc:subject>
+<dc:subject>Intravenous thrombolysis</dc:subject>
+<dc:subject>Ischaemic stroke</dc:subject>
+<dc:date>2016 Sep </dc:date>
+<dc:title xml:lang="es">Identificación de los factores que influyen en el retraso intrahospitalario del inicio de trombólisis intravenosa en el ictus agudo en un hospital terciario.</dc:title>
+<dc:title xml:lang="en">Factors associated with in-hospital delays in treating acute stroke with intravenous thrombolysis in a tertiary centre.</dc:title>
+<dc:publisher>Neurologia (Barcelona, Spain)</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

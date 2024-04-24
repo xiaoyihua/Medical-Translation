@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>14980155</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Cirera, Eva</dc:author>
+<dc:author>Tristán-Polo, Manuel</dc:author>
+<dc:author>Arribas, Pere</dc:author>
+<dc:description xml:lang="en">Linking records from two or more data sets with information on an issue allows us to identify those belonging to the same individual. The linkage process can be manual, deterministic, or probabilistic. Probabilistic linkage was developed for those situations where there is no single identifier, the number of identifying variables is limited, and they have little discriminating power. Considering the possibilities for the linkage to be correct or incorrect and based on the degree of agreement among variables and their frequencies, this process weights each variable. This manuscript presents linkage techniques, describes probabilistic linkage step by step, and illustrates it with examples taken from the actual operation of our services.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2004 </dc:date>
+<dc:title xml:lang="es">Buscando una aguja en un pajar: las técnicas de conexión de registros en los sistemas de información sanitaria.</dc:title>
+<dc:title xml:lang="en">[Looking for a needle in a haystack: record linkage techniques in health information systems].</dc:title>
+<dc:publisher>Medicina clinica</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

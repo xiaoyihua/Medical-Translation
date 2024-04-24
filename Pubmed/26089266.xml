@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>26089266</identifier>
+<setSpec>0016-3813</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Castañón-González, Jorge Alberto</dc:author>
+<dc:author>Buhse, Thomas</dc:author>
+<dc:author>Polanco-González, Carlos</dc:author>
+<dc:author>Villanueva-Martínez, Sebastián</dc:author>
+<dc:author>Samaniego-Mendoza, José Lino</dc:author>
+<dc:description xml:lang="en">INTRODUCTION In most places all over the world–including our country–services in emergency rooms are oversaturated. This situation frequently forces the continuously arriving ambulances to be redirected to other medical units, delaying the admission of patients moved and thus adversely affecting their physical condition. OBJECTIVE To introduce an improvement to the Índicede Saturación Modificado computational system, which monitors the degree of saturation of a network of emergency medical services, to include a network of ambulances, enabling in the system: (i) the effective allocation of ambulances to the site of the accident, or severe clinical event, and (ii) the remote booking of beds in the nearest and least saturated emergency room available. MATERIAL AND METHODS The evaluation and connectivity of the computational improvement to the Índicede Saturación Modificado system was carried out with a computational test verifying these two aspects, using only differences in postal codes, for time measuring. RESULTS The verification of its sustainability online showed the new Índice de Saturación Modificado y Ambulancias system (ISMA) has a robust structure capable of being adapted to mobile phones, laptops or tablets, and can efficiently administrate: (i) the quantification of excessive demand in the emergency room services of a hospital network, (ii) the allocation of ambulances attending the site of the event or contingency, and (iii) the allocation of ambulances and patients, in the best distance-time conditions, from the site of the accident or clinical event to the nearest and least saturated emergency room service. CONCLUSIONS This administrative management tool is efficient and simple to use, and it optimally relates independent service networks.</dc:description>
+<dc:type>Journal Article</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2015 May-Jun </dc:date>
+<dc:title xml:lang="es">Índice de Saturación Modificado y Ambulancias (ISMA): asignación de ambulancias y reservación remota de camas en los Servicios de Urgencias Médicas.</dc:title>
+<dc:title xml:lang="en">[Índice de Saturación Modificado y Ambulancias (ISMA): Ambulance assignment and remote Emergency Room Bed Reservation].</dc:title>
+<dc:publisher>Gaceta medica de Mexico</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

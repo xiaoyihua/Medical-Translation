@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>8733286</identifier>
+<setSpec>0034-9887</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Vukasovic, J L</dc:author>
+<dc:author>Florenzano, F</dc:author>
+<dc:description xml:lang="en">The analysis of heart rate variability studies the normal oscillatory changes of the cardiac cycle. These changes are periodical or incidental and are controlled by humoral, sympathetic and parasympathetic stimuli. Frequency domain and time domain are the methods most used to assess heart rate variability. Time domain analyses variations of cardiac cycle using the standard deviation of RR intervals in 24 hours (SDRR) and the percentage of difference between adjacent normal RR intervals of more than 50 ms (pNN50). Frequency domain, converts beat to beat fluctuation of heart rate into different components of frequency by a fast Fourier transformation. They are classified, according to their magnitude, in high frequency (&gt; 0.15 Hz), low frequency (0.04-0.15 Hz), very low frequency (0.003-0.04 Hz) and extremely low frequency (&lt; 0.003 Hz). The high frequency fluctuations are predominantly related to parasympathetic activity whereas the low frequency fluctuations are related to sympathetic and parasympathetic activity. The physiology of very low and extremely low frequency fluctuations remains unclear. Many reports have shown that a decrease in heart rate variability after myocardial infarction may independently identify patients at risk for sudden death. However, the physiopathologic basis of these findings is not yet elucidated.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>1995 Nov </dc:date>
+<dc:title xml:lang="es">Variabilidad de la frecuencia cardíaca: sus fundamentos fisiopatológicos y su utilidad como índice pronóstico post-infarto agudo del miocardio.</dc:title>
+<dc:title xml:lang="en">[Variability of the heart rate: its physiopathological basis and its use as prognostic index after acute myocardial infarction].</dc:title>
+<dc:publisher>Revista medica de Chile</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

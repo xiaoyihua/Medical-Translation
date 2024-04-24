@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>24758859</identifier>
+<setSpec>2448-5667</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Berea-Baltierra, Ricardo</dc:author>
+<dc:author>Palacios-Cruz, Lino</dc:author>
+<dc:author>Rivas-Ruiz, Rodolfo</dc:author>
+<dc:author>Pérez-Rodríguez, Marcela</dc:author>
+<dc:author>Moreno, Jorge</dc:author>
+<dc:author>Talavera, Juan O</dc:author>
+<dc:description xml:lang="en">The complexity of the causality phenomenon in clinical practice implies that the result of a maneuver is not solely caused by the maneuver, but by the interaction among the maneuver and other baseline factors or variables occurring during the maneuver. This requires methodological designs that allow the evaluation of these variables. When the outcome is a binary variable, we use the multiple logistic regression model (MLRM). This multivariate model is useful when we want to predict or explain, adjusting due to the effect of several risk factors, the effect of a maneuver or exposition over the outcome. In order to perform an MLRM, the outcome or dependent variable must be a binary variable and both categories must mutually exclude each other (i.e. live/death, healthy/ill); on the other hand, independent variables or risk factors may be either qualitative or quantitative. The effect measure obtained from this model is the odds ratio (OR) with 95 % confidence intervals (CI), from which we can estimate the proportion of the outcome's variability explained through the risk factors. For these reasons, the MLRM is used in clinical research, since one of the main objectives in clinical practice comprises the ability to predict or explain an event where different risk or prognostic factors are taken into account.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:subject>Biomedical research</dc:subject>
+<dc:subject>Logistic models</dc:subject>
+<dc:subject>Causality</dc:subject>
+<dc:date>2014 Mar-Apr </dc:date>
+<dc:title xml:lang="es">Investigación clínica XX. Del juicio clínico a la regresión logística múltiple.</dc:title>
+<dc:description xml:lang="es">
+             La complejidad del fenómeno de causalidad en la práctica clínica implica que el resultado de una maniobra no se deba únicamente a esta, sino a la interacción con otros factores del estado basal o variables que ocurran durante la maniobra. Esto requiere diseños metodológicos que permitan evaluar estas variables. Cuando el resultado es dicotómico, se usa la regresión logística múltiple (RLM). La RLM es un modelo multivariado útil cuando se requiere predecir o explicar, al ajustar por el efecto de distintos factores de riesgo, el efecto de una maniobra o exposición sobre el desenlace. Para realizar la RLM se requiere que el desenlace (o la variable dependiente) sea dicotómico y mutuamente excluyente (por ejemplo, vivo/muerto, enfermo/sano); las variables independientes o factores de riesgo pueden ser cuantitativas o cualitativas. La asociación que se obtiene es la razón de probabilidades, también llamada razón de momios (RM), con intervalos de confianza (IC) del 95 % y con estas medidas se estima el porcentaje de la variabilidad del desenlace que se explica a partir de los factores de riesgo. Por estas razones, este modelo es el más usado en la investigación clínica, ya que uno de los principales objetivos de la práctica clínica es poder predecir o explicar un evento en el que se tomen en cuenta diferentes factores de riesgo. 
+        </dc:description>
+<dc:title xml:lang="en">[Clinical research XX. From clinical judgment to multiple logistic regression model].</dc:title>
+<dc:publisher>Revista medica del Instituto Mexicano del Seguro Social</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

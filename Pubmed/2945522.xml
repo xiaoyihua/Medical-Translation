@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>2945522</identifier>
+<setSpec>0020-3785</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Bracamonte-Peraza, R</dc:author>
+<dc:author>Ruiz-Primo, M E</dc:author>
+<dc:author>Pérez-Padilla, J R</dc:author>
+<dc:author>Manrique, G</dc:author>
+<dc:description xml:lang="en">Ear oximeters estimate arterial oxygen saturation (Sa02) measuring the characteristics of light transmission through the ear lobe. We tested the accuracy of a new ear oximeter (Biox-III) in Mexico City comparing its estimates (Sa02OXI) with Sa02 measured by a Co-Oximeter, in a simultaneously taken arterial blood sample. We used two indexes in the arterial sample: Sa02 of the total hemoglobin (Sa02T) given directly by the Co-Oximeter and Sa02 of the hemoglobin available for oxygenation (Sa02A) which corrects for the presence of carboxyhemoglobin and metahemoglobin. We studied 21 subjects with a total of 100 simultaneous samples with a Sa02T ranging from 36.2% to 97.2%. The samples were obtained with the subjects resting, during light exercise, during rebreathing and increasing the Fi02. Spearman and Pearson's correlation coefficients between Sa02OXI and Sa02A were 0.97, and between Sa02OXI and Sa02T were 0.96. Lineal regression equations were: Sa02T = 2.047 (Sa02OXI) -8.5 and Sa02A = 1.102 (Sa02OXI) -9.32. Slopes of the equations and correlation coefficients were statistically significant (P less than 0.001). Mean error of Sa02OXI compared with Sa02T (Sa02T-Sa02OXI) was -4.4% and compared with Sa02A (Sa02A-Sa02OXI) was -0.4%, with a standard deviation of 3.4% and 3.5% respectively. In the presence of carboxyhemoglobin the ear oximeter overestimates Sa02T but not Sa02A. Measurement error increases during rebreathing maybe because error increases at low Sa02 and because of the delay in oximeter's response in a situation of a continuously falling Sa02. Ear oximeter Biox-III estimates Sa02 in Mexico City as accurately as the Biox-IIA at sea level. Sa02 measurement is quick, easy, continuous and non-invasive, which increase its potential clinical and research application.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>1986 Jul-Aug </dc:date>
+<dc:title xml:lang="es">Exactitud del oxímetro de oído (Biox-III) en la ciudad de México y su sensibilidad a la carboxihemoglobina.</dc:title>
+<dc:title xml:lang="en">[Accuracy of an the ear oximeter Biox-III and its sensitivity to carboxyhemoglobin in Mexico City].</dc:title>
+<dc:publisher>Archivos del Instituto de Cardiologia de Mexico</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

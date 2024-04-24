@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>18413099</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Villarino Vivas, Angel</dc:author>
+<dc:author>Fontes de Gracia, Ana Isabel</dc:author>
+<dc:author>Fontes de Gracia, Sofía</dc:author>
+<dc:author>Reales Avilés, José Manuel</dc:author>
+<dc:description xml:lang="en">Taking into account the studies about the measure of sensitivity in magnitude estimation tasks, we analyze the three most common measures used in this topic: Pearson's product-moment correlation between the logarithm of the stimulus and the logarithm of the response (R), the exponent of Stevens' power function (K), and the measure "M" proposed by Garriga-Trillo. Using a sample of participants greater than usual in psychophysical studies (180 participants), we designed an experiment with two sets of stimuli with different stimulus ranges. In each of these sets, we used two kinds of stimuli (line segments and squares). Our conclusions were: (1) we rejected the use of K as a sensitivity measure because the results provided by this index were the opposite of those expected when we compared the two stimulus ranges. (2) We also rejected the use of M because this measure is a linear transformation of Kendall's coefficient of concordance. (3) Lastly, we suggest the mathematical transformation proposed by Fisher to achieve a normal distribution, and recommend this transformation as the best sensitivity measure.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2008 May </dc:date>
+<dc:title xml:lang="es">Evaluación de tres medidas de la sensibilidad en tareas de estimación de magnitudes.</dc:title>
+<dc:title xml:lang="en">[Evaluation of three sensitivity measures in magnitude estimation tasks].</dc:title>
+<dc:publisher>Psicothema</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

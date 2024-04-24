@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>27349326</identifier>
+<setSpec>2253-8070</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Riola-Parada, C</dc:author>
+<dc:author>García-Cañamaque, L</dc:author>
+<dc:author>Carreras-Delgado, J L</dc:author>
+<dc:author>Pérez-Dueñas, V</dc:author>
+<dc:description xml:lang="en">PET/MRI is a new multimodality technique with a promising future in diagnostic imaging. Technical limitations are being overcome. Interference between the two systems (PET and MRI) seems to have been resolved. MRI-based PET attenuation correction can be performed safely. Scan time is acceptable and the study is tolerable, with claustrophobia prevalence similar to that of MRI. Quantification with common parameters, such as Standardized Uptake Value (SUV), shows a fairly good correlation between both systems. However, PET/CT currently provides better results in scan time, scan costs, and patient comfort. Less patient radiation exposure is a big advantage of PET/MRI over PET/CT, which makes it particularly recommended in paediatric and adolescent patients requiring one or more studies. PET/MRI indications are the same as those of PET/CT, given that in cases where MRI is superior to CT, PET/MRI is superior to PET/CT. This superiority is clear in many soft tissue tumours. Moreover, it is common to perform both PET/CT and MRI in neurological diseases, as well as in some tumours, such as breast cancer. A single PET/MRI study replaces both with obvious benefit. MRI also allows other MRI-based PET corrections, such as motion or partial volume effect corrections. The better spatial resolution of MRI allows the transfer of well-defined MRI areas or small volumes of interest to PET image, in order to measure PET biomarkers in these areas. The richness of information of both techniques opens up immense possibilities of synergistic correlation between them.</dc:description>
+<dc:type>Journal Article</dc:type>
+<dc:language>es</dc:language>
+<dc:subject>Multimodality imaging</dc:subject>
+<dc:subject>PET/MRI</dc:subject>
+<dc:subject>PET/CT</dc:subject>
+<dc:subject>Imagen multimodalidad</dc:subject>
+<dc:subject>PET/TC</dc:subject>
+<dc:subject>PET/RM</dc:subject>
+<dc:subject>Positron emission tomography</dc:subject>
+<dc:subject>Tomografía por emisión de positrones</dc:subject>
+<dc:date>2016 Sep-Oct </dc:date>
+<dc:title xml:lang="es">PET/RM: ¿un lujo o una necesidad?</dc:title>
+<dc:title xml:lang="en">PET/MRI: A luxury or a necessity?</dc:title>
+<dc:publisher>Revista espanola de medicina nuclear e imagen molecular</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

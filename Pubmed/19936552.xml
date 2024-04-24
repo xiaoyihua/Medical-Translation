@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>19936552</identifier>
+<setSpec>1606-7916</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Hernández-Rodríguez, Gabriela Eréndira</dc:author>
+<dc:author>Ruiz-Ramírez, Juan</dc:author>
+<dc:description xml:lang="en">OBJECTIVE Propose a mathematic model that shows how population structure affects the size of infectious disease epidemics. MATERIAL AND METHODS This study was conducted during 2004 at the University of Colima. It used generalized small-world network topology to represent contacts that occurred within and between families. To that end, two programs in MATLAB were conducted to calculate the efficiency of the network. The development of a program in the C programming language was also required, that represents the stochastic susceptible-infectious-removed model, and simultaneous results were obtained for the number of infected people. RESULTS An increased number of families connected by meeting sites impacted the size of the infectious diseases by roughly 400%. DISCUSSION Population structure influences the rapid spread of infectious diseases, reaching epidemic effects.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2009 Sep-Oct </dc:date>
+<dc:title xml:lang="es">Modelo estocástico de la transmisión de enfermedades infecciosas.</dc:title>
+<dc:title xml:lang="en">[Stochastic model of infectious diseases transmission].</dc:title>
+<dc:publisher>Salud publica de Mexico</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

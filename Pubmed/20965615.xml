@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>20965615</identifier>
+<setSpec>1578-1283</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Silva, Claudio S</dc:author>
+<dc:author>Alvarado, Sergio A</dc:author>
+<dc:author>Cáceres, Dante D</dc:author>
+<dc:description xml:lang="en">OBJECTIVE To evaluate the predictive efficiency of two statistical models (one parametric and the other non-parametric) to predict critical episodes of air pollution exceeding daily air quality standards in Santiago, Chile by using the next day PM10 maximum 24h value. Accurate prediction of such episodes would allow restrictive measures to be applied by health authorities to reduce their seriousness and protect the community's health. METHODS We used the PM10 concentrations registered by a station of the Air Quality Monitoring Network (152 daily observations of 14 variables) and meteorological information gathered from 2001 to 2004. To construct predictive models, we fitted a parametric Gamma model using STATA v11 software and a non-parametric MARS model by using a demo version of Salford-Systems. RESULTS Both models showed a high correlation between observed and predicted values. However, the Gamma model predicted PM10 values below 240 μg/m³ more accurately than did MARS. The latter was more efficient in predicting PM10 values above 240 μg/m³ throughout the study period. CONCLUSION MARS models are more efficient in predicting extreme PM10 values and allow health authorities to adopt preventive methods to reduce the effects of these levels on the population's health. The reason for this greater accuracy may be that MARS models correct variations in the series over time, thus better fitting the curve associated with PM10 concentrations.</dc:description>
+<dc:type>Comparative Study</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2010 Nov-Dec </dc:date>
+<dc:title xml:lang="es">Modelación de episodios críticos de contaminación por material particulado (PM10) en Santiago de Chile. Comparación de la eficiencia predictiva de los modelos paramétricos y no paramétricos.</dc:title>
+<dc:title xml:lang="en">[Modeling critical episodes of air pollution by PM10 in Santiago, Chile. Comparison of the predictive efficiency of parametric and non-parametric statistical models].</dc:title>
+<dc:publisher>Gaceta sanitaria</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

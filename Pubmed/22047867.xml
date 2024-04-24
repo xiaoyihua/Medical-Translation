@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>22047867</identifier>
+<setSpec>1886-144X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Salinas Martínez de Lecea, José María</dc:author>
+<dc:author>Porras Chavarino, Carmen</dc:author>
+<dc:description xml:lang="en">This article shows that artificial neural networks are used for confirming the relationships between physiological and cognitive changes. Specifically, we explore the influence of a decrease of neurotransmitters on the behaviour of old people in recognition tasks. This artificial neural network recognizes learned patterns. When we change the threshold of activation in some units, the artificial neural network simulates the experimental results of old people in recognition tasks. However, the main contributions of this paper are the design of an artificial neural network and its operation inspired by the nervous system and the way the inputs are coded and the process of orthogonalization of patterns.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2011 Nov </dc:date>
+<dc:title xml:lang="es">Diseño de redes neuronales artificiales en Neurociencias.</dc:title>
+<dc:title xml:lang="en">[Artificial neural networks in Neurosciences].</dc:title>
+<dc:publisher>Psicothema</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>20920966</identifier>
+<setSpec>0025-7680</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Mónaco, Daniela C</dc:author>
+<dc:author>Krolewiecki, Alejandro</dc:author>
+<dc:author>César, Carina</dc:author>
+<dc:author>Cahn, Pedro</dc:author>
+<dc:author>Salomón, Horacio</dc:author>
+<dc:author>Dilernia, Darío A</dc:author>
+<dc:description xml:lang="en">In Argentina, HIV diagnosis is reached by voluntary testing or symptom-based case findings. However, because of the high proportion of infected individuals unaware of their serologic status new strategies are required. In this article we show how a mathematic model predicts the impact of expanding HIV testing in Argentina. The model is based on time-dependent Markov matrixes and applies parameters-dependent transition-probabilities obtained from both national and international cohort studies. Outputs include time on clinical stages and therapy regime, CD4-count, viral-load, infection-state and age; mortality rates and proportion of unidentified infection at a population-level. Simulations were performed for current testing strategy and for a theoretical scenario with earlier diagnosis. We show how our prediction suggests that diagnosis before onset of symptoms would increase life expectancy by 10.7 years. Also, we show how a reduction of time to diagnosis to 5 or less years from infection would reduce mortality rates in the first year of HAART from 7.6% to 2.1%, the proportion of unrecognized infection from 43.2% to 23.8% and the proportion of individuals with unaware infection needing treatment from 12% to 0.2%. Based on this prediction we stress the importance of implementing health policies aimed at detecting HIV infection in early stages in Argentina.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2010 </dc:date>
+<dc:title xml:lang="es">La importancia del diagnóstico temprano en la supervivencia de los pacientes HIV positivos.</dc:title>
+<dc:title xml:lang="en">[The importance of early diagnosis for the survival of HIV positive patients].</dc:title>
+<dc:publisher>Medicina</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

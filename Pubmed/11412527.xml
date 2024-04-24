@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>11412527</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>García Zarza, A</dc:author>
+<dc:author>Calvo, V</dc:author>
+<dc:author>Padilla, J</dc:author>
+<dc:author>Pastor, J</dc:author>
+<dc:author>París, F</dc:author>
+<dc:author>Peñalver, J</dc:author>
+<dc:author>Blasco, E</dc:author>
+<dc:description xml:lang="en">OBJECTIVE To develop and validate a mortality risk model for patients with resected stage I non-small cell bronchogenic carcinoma (NSCBC). PATIENTS AND METHOD Tumors from 798 patients with diagnoses of NSCBC were resected and classified in stage I. The Kaplan-Meier method and Cox's proportional hazard model were used to analyze the influence of clinical and pathologic variables on survival. RESULTS Univariate analysis revealed that age (p = 0.0461), symptoms (p = 0.0383), histology (p = 0.0489) and tumor size (p = 0.0002) and invasion (p = 0.0010) affected survival. Size (p = 0.0000) and age (p = 0.0269) were entered into multivariate analysis. Each patient's risk was estimated by applying the regression equation derived from multivariate analysis; the mean was 1.47 +/- 0.31 (range 0.68 to 2.92). The series was divided into three groups by degree of risk (low, intermediate and high), establishing the cutoff points at 1.16 and 1.78 (standard deviation of the mean). Five-year survival rates were 85%, 62% and 46%, respectively (p = 0.0000). To validate the model's predictive capacity, the series was divided randomly into two groups: the study group with 403 patients and the validation group with 395. Age (p = 0.0295), symptoms (p = 0.0396), tumor size (p = 0.0010) and invasion (p = 0.0010) affected survival in the univariate analysis. Size (p = 0.0000) and age (p = 0.0358) were entered into Cox's model. Mean risk was 1.94 +/- 0.36 (range 0.98 to 3.32). The series was divided into three risk groups, with cut-off points established at 1.58 and 2.30. Five year survival rates were 90%, 62% and 46% for the low, intermediate and high risk groups, respectively (p = 0.0000). The same model proved able to identify risk when applied to the validation group, in which five-year survival rates were 78%, 61% and 48%, respectively (p = 0.0000). CONCLUSIONS Risk models can identify patient subgroups, potentially influenced by co-adjuvant treatment, as well as facilitate comparison of patient series.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2001 Jun </dc:date>
+<dc:title xml:lang="es">Modelo de riesgo de mortalidad en el carcinoma broncogénico no anaplásico de células pequeñas en estadio I.</dc:title>
+<dc:title xml:lang="en">[Model of mortality risk in stage I non-small cell bronchogenic carcinoma].</dc:title>
+<dc:publisher>Archivos de bronconeumologia</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

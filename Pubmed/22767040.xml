@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>22767040</identifier>
+<setSpec>1680-5348</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Hernández Hernández, Vladimir</dc:author>
+<dc:description xml:lang="en">OBJECTIVE Prepare a tool for the exploratory study of road accidents in Ciudad Juarez, Chihuahua, Mexico, that exclusively applies the spatial geographical variable (location). METHODS Observational and cross-sectional study that uses a Geographic Information System to explore the spatial nature of 13 305 road accidents recorded during 2008 and 2009 in Ciudad Juarez. Indicators were constructed that approximated the transit flow and included two variables: indices of the level of urbanization and population density. RESULTS The value of the global spatial autocorrelation was positive, indicating the presence of groupings that were identified through the spatial association indicators. There are road risk clusters located in areas with a high level of urbanization, low population density, and a high transit flow level. CONCLUSIONS The exploratory analysis of spatial data is a phase that precedes the use of multivariate techniques with a broader scope. The application of exploratory analysis techniques in itself makes it possible to standardize spatial groupings, identify global autocorrelation, and indicate the direction of the variables under study.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2012 May </dc:date>
+<dc:title xml:lang="es">Análisis exploratorio espacial de los accidentes de tránsito en Ciudad Juárez, México.</dc:title>
+<dc:title xml:lang="en">[Spatial exploratory analysis of road accidents in Ciudad Juarez, Mexico].</dc:title>
+<dc:publisher>Revista panamericana de salud publica = Pan American journal of public health</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

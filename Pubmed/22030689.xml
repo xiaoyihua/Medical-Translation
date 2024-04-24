@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>22030689</identifier>
+<setSpec>0124-0064</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Toro-Zapata, Hernán D</dc:author>
+<dc:author>Restrepo, Leonardo D</dc:author>
+<dc:author>Vergaño-Salazar, Juan G</dc:author>
+<dc:author>Muñoz-Loaiza, Aníbal</dc:author>
+<dc:description xml:lang="en">Dengue fever transmission dynamics were studied in an endemic region considering the use of preventative measures and mechanical control in reducing transmission of the disease. A system of ordinary differential equations was proposed, describing the dynamics and their evolution as determined by numerical simulation. Different mechanical control and prophylaxis strategies were compared to the situation without control. The basic reproduction number R₀ was determined R₀ to show that if R₀ &gt; 1 there would be a risk of an epidemic and otherwise the disease would have low impact levels. The basic reproduction number helps determine the dynamics' future pattern and contrast the results so obtained with those obtained numerically. It was concluded that although prophylaxis and mechanical control alone provide effective results in controlling the disease, if both controls are combined then infection levels become significantly reduced. Around 60 % mechanical control and prevention levels are needed to provide suitable results in controlling dengue outbreaks.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2010 Dec </dc:date>
+<dc:title xml:lang="es">Dinámica de transmisión del Dengue clásico con control mecánico y profilaxis.</dc:title>
+<dc:title xml:lang="en">[Classical dengue transmission dynamics involving mechanical control and prophylaxis].</dc:title>
+<dc:publisher>Revista de salud publica (Bogota, Colombia)</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

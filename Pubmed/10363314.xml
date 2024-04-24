@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>10363314</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Pastor-Gómez, J</dc:author>
+<dc:description xml:lang="en">INTRODUCTION The effect of the dopamine on the calcium current of identified cells of the snail Helix aspersa consists on an initial decrease, followed by a subsequent increase when the drug is removed. It had been previously demonstrated that this effect is mediated by a G protein, supposing that the decrease of the current would be mediated by the G alpha subunit, while the increase would be produced by the G beta gamma subunit. OBJECTIVE A mathematical model has been developed with the object to test if the hypothesis of the dual action of the G protein could explain the experimental results. MATERIAL AND METHODS It has been recording by means of the 'patch-clamp' (whole cell) in identified cells of snail. On the other hand, it has been developed a mathematical model of the calcium current using a Hodgkin-Huxley model, and a simulation of the action of the G protein on this current. RESULTS Adjusting the kinetic parameters of the channel by means of the experimental data, it has reproduced in a faithful way the behavior of the calcium current. The simulation of the action of dopamine reproduces the decrease and increase of the current by means of the serial action of the G protein's subunits. CONCLUSION Although a mathematical model cannot demonstrate the logic necessity of the hypotheses on that is based, it is unequivocally demonstrated that the hypothesis is fully compatible with experimental results.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>1999 Apr 16-30 </dc:date>
+<dc:title xml:lang="es">Modelo matemático de la acción dual de la proteína G sobre la corriente de Ca2+ en neuronas identificadas del caracol Helix aspersa.</dc:title>
+<dc:title xml:lang="en">[Mathematical model of the dual action of G protein on the Ca2+ current in identified neurons of the snail Helix aspersa].</dc:title>
+<dc:publisher>Revista de neurologia</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

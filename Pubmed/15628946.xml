@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>15628946</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Alós Almiñana, M</dc:author>
+<dc:author>Esquer Borrás, J</dc:author>
+<dc:author>Fernández Megía, M J</dc:author>
+<dc:description xml:lang="en">OBJECTIVES To describe the behavior and variability of methotrexate (MTX) pharmacokinetic parameters in patients with non-Hodgkin lymphoma (NHL) and to suggest a monitoring system to optimize sample collection using a bayesian method. METHOD Two adult patient groups diagnosed with different NHL types were studied. Group I was made up of 9 patients aged 53 +/- 16 years who received MTX at a mean dose of 1.652 +/- 327 mg per course. Group II was made up of 7 patients aged 53 +/- 14 years who received MTX at a mean dose of 1.862 +/- 220 mg per course. No statistically significant differences between groups were seen. Serum MTX measurements were performed using polarized immunofluorescence (TDx system). The pharmacokinetic analysis was performed using Abbottbase Pharmacokinetics Systems (PKS) software, adjusting experimental data according to a bicompartmental linear model for intravenous delivery using non-linear regression in Group I and Bayesian estimates in Group II. By estimating mean square error and linear regression between predicted and experimental concentrations, the capability of the Bayesian method implemented in PKS to predict plasma MTX concentration at 48 hours post-infusion was evaluated. The safety of MTX therapy was assessed using patient medical histories and then scoring toxicity using the WHO scale. RESULTS Pharmacokinetic parameters obtained for group I included: alpha (h(-1)) = 0.38 +/- 0.12; beta (h(-1)) = 0.07 +/- 0.03; K12 (h(-1)) = 0.02 +/- 0.02; K21 (h(-1)) = 0.09 +/- 0.09; K13 (h(-1)) = 0.34 +/- 0.12; Vc (l/kg) = 0.53 +/- 0.23; Vss (l/kg) = 0.62 +/- 0.26; Cl (l/kg.h) = 0.16 +/- 0.06. The error for the PKS population model in measuring plasma MTX concentration at 48 hours post-infusion in Group II was calculated in accordance with three sampling schemes -12 h, 24 h, and both. It was -14.58 x 10(-3), -15.70 x 10(-3) and -14.67 x 10(-3), respectively. Eqm was 9.58 x 10(-3), 2.39 x 10(-3), and 1.02 x 10(-3), respectively. CONCLUSION An MTX monitoring scheme is suggested based on a Bayesian method implementing pharmacokinetic parameters obtained from an adult population with NHL, which allows therapy safety and the clearance profile of MTX to be predicted from a single sample collected at 24 hours post-infusion.</dc:description>
+<dc:type>Comparative Study</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2004 Nov-Dec </dc:date>
+<dc:title xml:lang="es">Monitorización farmacocinética del metotrexato en infusión de 24 horas en una población adulta afectada de linforma no Hodgkin.</dc:title>
+<dc:title xml:lang="en">[Pharmacokinetic monitoring of 24-hour infusion of methotrexate in an adult population with non-Hodgkin lymphoma].</dc:title>
+<dc:publisher>Farmacia hospitalaria : organo oficial de expresion cientifica de la Sociedad Espanola de Farmacia Hospitalaria</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

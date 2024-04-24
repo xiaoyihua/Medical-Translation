@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>28007311</identifier>
+<setSpec>1578-1283</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Vanegas, Jairo</dc:author>
+<dc:author>Vásquez, Fabián</dc:author>
+<dc:description xml:lang="en">Multivariate Adaptive Regression Splines (MARS) is a non-parametric modelling method that extends the linear model, incorporating nonlinearities and interactions between variables. It is a flexible tool that automates the construction of predictive models: selecting relevant variables, transforming the predictor variables, processing missing values and preventing overshooting using a self-test. It is also able to predict, taking into account structural factors that might influence the outcome variable, thereby generating hypothetical models. The end result could identify relevant cut-off points in data series. It is rarely used in health, so it is proposed as a tool for the evaluation of relevant public health indicators. For demonstrative purposes, data series regarding the mortality of children under 5 years of age in Costa Rica were used, comprising the period 1978-2008.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:subject>Estadística no paramétrica</dc:subject>
+<dc:subject>Forecasting</dc:subject>
+<dc:subject>Metodología</dc:subject>
+<dc:subject>Predicción</dc:subject>
+<dc:subject>Methods</dc:subject>
+<dc:subject>Non-parametric statistics</dc:subject>
+<dc:date>2017 May - Jun </dc:date>
+<dc:title xml:lang="es">Multivariate Adaptative Regression Splines (MARS), una alternativa para el análisis de series de tiempo.</dc:title>
+<dc:title xml:lang="en">[Multivariate Adaptive Regression Splines (MARS), an alternative for the analysis of time series].</dc:title>
+<dc:publisher>Gaceta sanitaria</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

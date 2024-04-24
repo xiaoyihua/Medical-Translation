@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>28453055</identifier>
+<setSpec>0124-0064</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Joyanes-Aguilar, Luis</dc:author>
+<dc:author>Castaño, Néstor J</dc:author>
+<dc:author>Osorio, José H</dc:author>
+<dc:description xml:lang="en">Objective To present a simulation model that establishes the economic impact to the health care system produced by the diagnostic evolution of patients suffering from arterial hypertension. Methodology The information used corresponds to that available in Individual Health Records (RIPs, in Spanish). A statistical characterization was carried out and a model for matrix storage in MATLAB was proposed. Data mining was used to create predictors. Finally, a simulation environment was built to determine the economic cost of diagnostic evolution. Results 5.7 % of the population progresses from the diagnosis, and the cost overrun associated with it is 43.2 %. Conclusions Results shows the applicability and possibility of focussing research on establishing diagnosis relationships using all the information reported in the RIPS in order to create econometric indicators that can determine which diagnostic evolutions are most relevant to budget allocation.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2015 Oct </dc:date>
+<dc:title xml:lang="es">Modelo de simulación y minería de datos para identificar y predecir cambios presupuestales en la atención de pacientes con hipertensión arterial.</dc:title>
+<dc:title xml:lang="en">[Simulation and data mining model for identifying and prediction budget changes in the care of patients with hypertension].</dc:title>
+<dc:publisher>Revista de salud publica (Bogota, Colombia)</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

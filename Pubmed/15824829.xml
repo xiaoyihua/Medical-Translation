@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>15824829</identifier>
+<setSpec>0034-9887</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Carmona, Sergio</dc:author>
+<dc:author>Reyes, Alvaro</dc:author>
+<dc:author>Erazo, Marcia</dc:author>
+<dc:author>Salinas, Hugo</dc:author>
+<dc:author>Veloz, Patricio</dc:author>
+<dc:author>Martínez, Luis</dc:author>
+<dc:author>Carrasco, Benjamín</dc:author>
+<dc:description xml:lang="en">BACKGROUND Diagnosis related groups (DRGs) are the most reliable patient classification system in hospital management. When this information is unavailable, other reliable classification system must be used. AIM To obtain useful indices for hospital management, based on descriptive multivariate techniques. MATERIAL AND METHODS Data on admissions to a University Hospital during 2003 were analyzed. Number of discharges, lethality rate, re-admission rate, number of outpatient consultations, length of hospital stay and surgical complexity index were analyzed, using information obtained by the Operations Management Department. The Principal Components Analysis (PCA) technique was applied and the R correlation matrix was used. RESULTS A total of 24,345 discharges were analyzed. The first two principal components were selected, accounting cumulatively for 76% of data variability (47% for the first and 29% for the second). CONCLUSIONS The first component may be assimilated to a new index representing the difficulty of the attended cases, which we have termed Case Complexity. The second principal component would explain the number of attended persons, which we have termed Case Load. These two indices allow us to classify hospital services.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2005 Feb </dc:date>
+<dc:title xml:lang="es">Propuesta de índices de gestión de servicios médico-quirúrgicos hospitalarios mediante técnicas estadísticas multivariantes.</dc:title>
+<dc:title xml:lang="en">[A proposal of new indices for hospital management].</dc:title>
+<dc:publisher>Revista medica de Chile</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

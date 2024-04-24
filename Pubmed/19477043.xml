@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>19477043</identifier>
+<setSpec>1578-1852</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Jarrín, Inmaculada</dc:author>
+<dc:author>del Amo, Julia</dc:author>
+<dc:author>Pérez-Hoyos, Santiago</dc:author>
+<dc:author>Geskus, Ronald</dc:author>
+<dc:description xml:lang="en">This paper provides an overview of the main statistical methods used in the analysis of data from cohort studies and presents a detailed description of the way these methods are applied in HIV/AIDS research. First, we describe methods for analyzing events in person-time data. Second, we present survival methods for the analysis of time-to-event data. In this context, we illustrate the application of these methods to describe the AIDS incubation period and survival from HIV seroconversion, to determine the factors and biological markers associated with disease progression, and to evaluate effectiveness of therapy. The review ends by illustrating the statistical methods used for the analysis of markers measured repeatedly over time.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2010 May </dc:date>
+<dc:title xml:lang="es">Principales métodos de análisis en los estudios de cohortes de sujetos diagnosticados de infección por el virus de la inmunodeficiencia humana (VIH).</dc:title>
+<dc:title xml:lang="en">[Analytical methods in cohort studies of patients with HIV infection].</dc:title>
+<dc:publisher>Enfermedades infecciosas y microbiologia clinica</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>15264158</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Vaquero-Casares, E</dc:author>
+<dc:author>González-Rosa, J J</dc:author>
+<dc:author>Cardoso-Moreno, M J</dc:author>
+<dc:author>Vázquez-Marrufo, M</dc:author>
+<dc:author>Gómez-González, C M</dc:author>
+<dc:description xml:lang="en">INTRODUCTION Previous studies of the spontaneous activity of the EEG indicate that women present bigger absolute spectral power in the alpha band than men, but few studies have been done during cognitive activity. AIM To check possible gender differences in the EEG frequency domain during a visuo-spatial attentional task to understand better the temporary dynamics of alpha. SUBJECTS AND METHODS A classic oddball paradigm was used whose stimuli (90% standard-10% objectives) were complex. In each block (10 with 100 trials) it was requested to the subjects (20, 10 of each gender) to attend to one of the visual fields (left and right, with random stimuli and identical probability). Power spectral density values were calculated applying the fast Fourier transform in the alpha band (9-11 Hz) in two overlapped windows (sliding windows): of 0-512 ms and of 412-924 ms. RESULTS The normalized data were analyzed by means of ANOVAs, with the following factors: gender, attention, hemisphere, visual field and electrodes. CONCLUSIONS Different modulations were obtained attending to the gender variable: men showed smaller alpha or bigger suppression of the rhythm in posterior electrodes and women exhibited smaller power in anterior electrodes.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2004 Jul 16-31 </dc:date>
+<dc:title xml:lang="es">Modulación postestímulo generoespecífica en la banda alfa durante la atención visuoespacial.</dc:title>
+<dc:title xml:lang="en">[Gender-specific post-stimulus modulation in the alpha band during visual-spatial attention].</dc:title>
+<dc:publisher>Revista de neurologia</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

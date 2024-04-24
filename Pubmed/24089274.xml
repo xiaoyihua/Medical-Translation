@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>24089274</identifier>
+<setSpec>0717-6163</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Salas P, Francisca</dc:author>
+<dc:author>Carrasco P, Elena</dc:author>
+<dc:author>Torres-Avilés, Francisco</dc:author>
+<dc:author>González R, Nelly</dc:author>
+<dc:author>Pérez B, Francisco</dc:author>
+<dc:description xml:lang="en">BACKGROUND Pollution and viral infections could be associated with the incidence of type 1 diabetes mellitus. AIM To look for associations between the temporal patterns of Type 1 Diabetes Mellitus (T1D) in infants younger than the age of 15 years, and environmental factors, such as air pollution and viruses. MATERIAL AND METHODS Data registries from hospitals, emergency services, and the Infantile Diabetes Foundation were reviewed, corresponding to children aged less than 15 years, who received their first insulin injection between 2000 and 2007. The incidence of type 1 diabetes was computed for each epidemiological week. Environmental ozone and particulate matter rates for each week were obtained from Environmental services. Rates of influenza and respiratory syncytial virus infections were obtained from the epidemiological department of the Ministry of Health. An ecological Bayesian Poisson regression model was fitted, introducing the covariates, lagged covariates and errors, to estimate the incidence by epidemiological week. RESULTS Three factors were significant by the proposed model: particulate matter PPM 2.5 (relative risk (RR): 1.003) lagged by two weeks, influenza (RR: 0.1808) and RSV (RR: 1.021). Trends and seasonality were clearly controlled by these covariates, considering the epidemiological week as a counting period. CONCLUSIONS These results show that environmental factors could be related to peaks of type 1 diabetes incidence.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2013 May </dc:date>
+<dc:title xml:lang="es">Estudio temporal de diabetes mellitus tipo 1 en Chile: asociación con factores ambientales durante el período 2000-2007.</dc:title>
+<dc:title xml:lang="en">[Association of the incidence of type 1 diabetes mellitus with environmental factors in Chile during the period 2000-2007].</dc:title>
+<dc:publisher>Revista medica de Chile</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

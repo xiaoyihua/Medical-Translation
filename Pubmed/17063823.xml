@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>17063823</identifier>
+<setSpec>0036-3634</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Pérez-Núñez, Ricardo</dc:author>
+<dc:author>Avila-Burgos, Leticia</dc:author>
+<dc:author>Salinas-Rodríguez, Aarón</dc:author>
+<dc:description xml:lang="en">OBJECTIVE To describe some of the statistical alternatives available for studying continuous proportions and to compare them in order to show their advantages and disadvantages by means of their application in a practical example of the Public Health field. MATERIALS AND METHODS From the National Reproductive Health Survey performed in 2003, the proportion of individual coverage in the family planning program--proposed in one study carried out in the National Institute of Public Health in Cuernavaca, Morelos, Mexico (2005)--was modeled using the Normal, Gamma, Beta and quasi-likelihood regression models. The Akaike Information Criterion (AIC) proposed by McQuarrie and Tsai was used to define the best model.Then, using a simulation (Monte Carlo/Markov Chains approach) a variable with a Beta distribution was generated to evaluate the behavior of the 4 models while varying the sample size from 100 to 18,000 observations. RESULTS Results showed that the best statistical option for the analysis of continuous proportions was the Beta regression model, since its assumptions are easily accomplished and because it had the lowest AIC value. Simulation evidenced that while the sample size increases the Gamma, and even more so the quasi-likelihood, models come significantly close to the Beta regression model. CONCLUSIONS The use of parametric Beta regression is highly recommended to model continuous proportions and the normal model should be avoided. If the sample size is large enough,the use of quasi-likelihood model represents a good alternative.</dc:description>
+<dc:type>Comparative Study</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2006 Sep-Oct </dc:date>
+<dc:title xml:lang="es">Modelos de regresión para variables expresadas como una proporción continua.</dc:title>
+<dc:title xml:lang="en">[Regression models for variables expressed as a continuous proportion].</dc:title>
+<dc:publisher>Salud publica de Mexico</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

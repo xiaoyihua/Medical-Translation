@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>21829965</identifier>
+<setSpec>1680-5348</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Niño, Larry</dc:author>
+<dc:description xml:lang="en">OBJECTIVE Design and implement a surveillance method for locating Aedes aegypti infestation foci with the use of larvae traps and spatial interpolation techniques, which facilitate the ongoing estimation of vector abundance in the area by counting the individuals collected in the study area. METHODS A total of 228 larvae traps were installed--at a rate of one per block--in the most densely populated area of commune five of Villavicencio (Meta). With regionalized information on larvae abundance, spatial interpolations were conducted with the Voronoi polygon, ordinary kriging, and inverse distance weighting techniques. RESULTS An alternative method for the surveillance of dengue vectors is presented. This method is based on the use of larvae traps and spatial interpolation techniques to obtain area maps supported by specific observations. CONCLUSIONS The results show that this strategy is better than the indices normally used, since it facilitates continuous visualization of the level of vector infestation and consequently, the risk of dengue transmission, based on the extent of A. aegypti infestation. Implementation of this strategy is expected to contribute to more effective planning, optimization, and evaluation of prevention and control activities.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2011 Jun </dc:date>
+<dc:title xml:lang="es">Interpolación espacial de la abundancia larval de Aedes aegypti para localizar focos de infestación.</dc:title>
+<dc:title xml:lang="en">[Spatial interpolation of Aedes aegypti larvae abundance for locating infestation foci].</dc:title>
+<dc:publisher>Revista panamericana de salud publica = Pan American journal of public health</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

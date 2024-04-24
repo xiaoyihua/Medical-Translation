@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>14980162</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Sorribas, Albert</dc:author>
+<dc:author>March, Jaume</dc:author>
+<dc:author>Trujillano, Javier</dc:author>
+<dc:description xml:lang="en">In clinical practice, there is an increasing interest in obtaining adequate models of prediction. Within the possible available alternatives, the artificial neural networks (ANN) are progressively more used. In this review we first introduce the ANN methodology, describing the most common type of ANN, the Multilayer Perceptron trained with backpropagation algorithm (MLP). Then we compare the MLP with the Logistic Regression (LR). Finally, we show a practical scheme to make an application based on ANN by means of an example with actual data. The main advantage of the RN is its capacity to incorporate nonlinear effects and interactions between the variables of the model without need to include them a priori. As greater disadvantages, they show a difficult interpretation of their parameters and large empiricism in their process of construction and training. ANN are useful for the computation of probabilities of a given outcome based on a set of predicting variables. Furthermore, in some cases, they obtain better results than LR. Both methodologies, ANN and LR, are complementary and they help us to obtain more valid models.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2004 </dc:date>
+<dc:title xml:lang="es">Aproximación metodológica al uso de redes neuronales artificiales para la predicción de resultados en medicina.</dc:title>
+<dc:title xml:lang="en">[Methodological approach to the use of artificial neural networks for predicting results in medicine].</dc:title>
+<dc:publisher>Medicina clinica</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>15125262</identifier>
+<setSpec>1405-9940</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>González, Hortensia</dc:author>
+<dc:author>Lerma, Claudia</dc:author>
+<dc:author>Torres, Araceli</dc:author>
+<dc:author>Arriola, Gabriela</dc:author>
+<dc:author>Pastelín, Gustavo</dc:author>
+<dc:author>Arce, Humberto</dc:author>
+<dc:description xml:lang="en">Cardiac tissues are able to work within a wide range of frequencies to respond to the changing requirements an organism may have. However, during these frequency variations and under certain pathologic conditions arrhythmias such as blocks, tachycardia, fibrillation, etc, may arise some with fatal consequences. For this reason several experimental procedures have been developed that have shown to be useful in studying whole heart properties, or as an alternative from portions of it when changes in its work rate are imposed. This study reports different phenomena occurring in the papillary muscle of the guinea pig heart when stimulated at very high frequency, of several tens of pps, while analyzing its responses during gradual increments starting at 1 (pulses per second). We found that in our conditions papillary muscles display N:1 rhythms with progressive higher N; further more we found that between one and the next rhythm diverse transition patterns appear, among them a new one that we have named "burst pattern". Finally we show that our system exhibits a generalized process of hysteresis by frequency, being this the first report for guinea pig cardiac tissue and the first one to show also the presence of several hysteresis loops in the same experiment. Due to the large volume of generated data we used a faster and easier way to analyze and display them, based on the fast Fourier transform (FFT). The method is briefly described.</dc:description>
+<dc:type>Comparative Study</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2004 Jan-Mar </dc:date>
+<dc:title xml:lang="es">Actividad rítmica del músculo papilar inducida por estimulación de alta frecuencia: ritmos n:1, formas de transición e histéresis.</dc:title>
+<dc:title xml:lang="en">[Arrhythmic activity of the papillary muscle induced by high frequency stimulation: n1 rhythms,transition forms and hysteresis].</dc:title>
+<dc:publisher>Archivos de cardiologia de Mexico</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

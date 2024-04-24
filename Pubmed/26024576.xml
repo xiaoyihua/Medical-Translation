@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>26024576</identifier>
+<setSpec>1989-4600</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>García-Vega, Juan Manuel</dc:author>
+<dc:author>Delgado-Gómez, David</dc:author>
+<dc:author>Oquendo, Maria A</dc:author>
+<dc:author>Berenguer, Nuria</dc:author>
+<dc:author>Artieda-Urrutia, Paula</dc:author>
+<dc:author>Ruiz-Hernández, Diego</dc:author>
+<dc:author>Blasco-Fontecilla, Hilario</dc:author>
+<dc:description xml:lang="en">OBJECTIVE To develop a brief and reliable psychometric scale to identify individuals at risk for suicidal behaviour. DESIGN Case-control study. SAMPLE AND SETTING 182 individuals (61 suicide attempters, 57 psychiatric controls, and 64 psychiatrically healthy controls) aged 18 or older, admitted to the Emergency Department at Puerta de Hierro University Hospital in Madrid, Spain. MEASURES All participants completed a form including their socio-demographic and clinical characteristics, and the Personality and Life Events scale (27 items). To assess Axis I diagnoses, all psychiatric patients (including suicide attempters) were administered the Mini International Neuropsychiatric Interview. STATISTICAL ANALYSIS Descriptive statistics were computed for the socio-demographic factors. Additionally, χ(2) independence tests were applied to evaluate differences in socio-demographic and clinical variables, and the Personality and Life Events scale between groups. A stepwise linear regression with backward variable selection was conducted to build the Short Personality Life Event (S-PLE) scale. In order to evaluate the accuracy, a ROC analysis was conducted. The internal reliability was assessed using Cronbach's α, and the external reliability was evaluated using a test-retest procedure. RESULTS The S-PLE scale, composed of just 6 items, showed good performance in discriminating between medical controls, psychiatric controls and suicide attempters in an independent sample. For instance, the S-PLE scale discriminated between past suicide and past non-suicide attempters with sensitivity of 80% and specificity of 75%. The area under the ROC curve was 88%. A factor analysis extracted only one factor, revealing a single dimension of the S-PLE scale. Furthermore, the S-PLE scale provides values of internal and external reliability between poor (test-retest: 0.55) and acceptable (Cronbach's α: 0.65) ranges. Administration time is about one minute. CONCLUSIONS The S-PLE scale is a useful and accurate instrument for estimating the risk of suicidal behaviour in settings where the time is scarce.</dc:description>
+<dc:type>Journal Article</dc:type>
+<dc:language>es</dc:language>
+<dc:subject>Acontecimientos vitales</dc:subject>
+<dc:subject>Life events</dc:subject>
+<dc:subject>Sensación de vacío</dc:subject>
+<dc:subject>Personalidad</dc:subject>
+<dc:subject>Personas que intentan suicidarse</dc:subject>
+<dc:subject>Personality</dc:subject>
+<dc:subject>Emptiness</dc:subject>
+<dc:subject>Suicide attempters</dc:subject>
+<dc:date>2015 Oct-Dec </dc:date>
+<dc:title xml:lang="en">Short Personality and Life Event scale for detection of suicide attempters.</dc:title>
+<dc:publisher>Revista de psiquiatria y salud mental</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

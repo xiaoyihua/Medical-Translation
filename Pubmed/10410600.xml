@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>10410600</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Barceló, M A</dc:author>
+<dc:author>Guillén Grima, F</dc:author>
+<dc:author>Sáez Zafra, M</dc:author>
+<dc:author>Ordóñez, J M</dc:author>
+<dc:author>Pérez-Hoyos, S</dc:author>
+<dc:author>Cirera Suárez, L</dc:author>
+<dc:author>Alcalá Nalvaiz, T</dc:author>
+<dc:author>Ballester Díez, F</dc:author>
+<dc:author>Figueiras Guzmán, A</dc:author>
+<dc:author>Bellido, J</dc:author>
+<dc:author>López, A A</dc:author>
+<dc:author>Cambra, C</dc:author>
+<dc:author>Ocaña, R</dc:author>
+<dc:author>Rodríguez, V</dc:author>
+<dc:description xml:lang="en">The aim of this study is to Mortality show the protocol of analysis which was set out as part of the EMECAM Project, illustrating the application thereof to the effect of pollution has on the mortality in the city of Valencia. The response variables considered will be the daily deaths rate resulting from all causes, except external ones. The explicative variables are the daily series of different pollutants (black smoke, SO2, NO2, CO, O3). As possible confusion variables, weather factors, structural factors and weekly cases of flu are taken into account. A Poisson regression model is built up for each one of the four deaths series in two stages. In the first stage, a baseline model is fitted using the possible confusion variables. In the second stage, the pollution variables or the time legs thereof are included, controlling the residual autocorrelation by including mortality time lags. The process of fitting the baseline model is as follows: 1) Include the significant sinusoidal terms up to the sixth order. 2) Include the significant temperature or temperature squared terms with the time lags thereof up to the 7th order. 3) Repeat this process with the relative humidity. 4) Add in the significant terms of calendar years, daily tendency and tendency squared. 5) The days of the week as dummy variables are always included in the model. 6) Include the holidays and the significant time lags of up to two weeks of flu. Following the reassessment of the model, each one of the pollutants and the time lags thereof up to the fifth order are proven out. The impact is analyzed by six-month periods, including interaction terms.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>1999 Mar-Apr </dc:date>
+<dc:title xml:lang="es">Protocolo EMECAM: análisis del effecto a corto plazo de la contaminacion atmosférica sobre la mortalidad.</dc:title>
+<dc:title xml:lang="en">[The EMECAM protocol: an analysis of the short-term effect of air pollution on mortality. Estudio Multicéntrico Español sobre la Relación entre la Contaminación Atmosférica u la Mortalidad].</dc:title>
+<dc:publisher>Revista espanola de salud publica</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

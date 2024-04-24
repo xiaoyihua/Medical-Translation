@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>24658190</identifier>
+<setSpec>1989-2284</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Vega-Díaz, Nicanor</dc:author>
+<dc:author>Tornero-Molina, Fernando</dc:author>
+<dc:author>Calvillo-Arbizu, Jorge</dc:author>
+<dc:author>Macía-Heras, Manuel</dc:author>
+<dc:author>Roa-Romero, Laura M</dc:author>
+<dc:author>Aresté-Fosalba, Nuria</dc:author>
+<dc:author>Milán-Martín, José A</dc:author>
+<dc:description xml:lang="en">BACKGROUND A major obstacle that hinders the implementation of technological solutions in healthcare is the rejection of developed systems by users (healthcare professionals and patients), who consider that they do not adapt to their real needs. OBJECTIVES (1) To design technological architecture for the telecare of nephrological patients by applying a methodology that prioritises the involvement of users (professionals and patients) throughout the design and development process; (2) to show how users' needs can be determined and addressed by means of technology, increasing the acceptance level of the final systems. METHODS In order to determine the main current needs in Nephrology, a group of Spanish Nephrology Services was involved. Needs were recorded through semi-structured interviews with the medical team and questionnaires for professionals and patients. RESULTS A set of requirements were garnered from professionals and patients. In parallel, the group of biomedical engineers identified requirements for patient telecare from a technological perspective. All of these requirements drove the design of modular architecture for the telecare of peritoneal dialysis and pre-dialysis patients. CONCLUSIONS This work shows how it is possible to involve users in the whole process of design and development of a system. The result of this work is the design of adaptable modular architecture for the telecare of nephrological patients and it addresses the preferences and needs of patient and professional users consulted.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2014 </dc:date>
+<dc:title xml:lang="es">Aproximación metodológica al diseño de un sistema de teleasistencia para pacientes en prediálisis y diálisis peritoneal</dc:title>
+<dc:title xml:lang="en">[Methodological approach to designing a telecare system for pre-dialysis and peritoneal dialysis patients].</dc:title>
+<dc:publisher>Nefrologia : publicacion oficial de la Sociedad Espanola Nefrologia</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

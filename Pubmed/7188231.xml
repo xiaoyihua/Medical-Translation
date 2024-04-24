@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>7188231</identifier>
+<setSpec>0482-640X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Díez de los Ríos, A</dc:author>
+<dc:author>Martínez Morillo, M</dc:author>
+<dc:description xml:lang="en">A program to evaluate the dosimetry in complex implants of encapsulated sources of 252Cf has been written. The program can use different kind of sources (applicator tubes, short afterloading cells, afterloading cells, needles and seeds). Partial contribution to total dose of radiation due to neutrons and gamma rays are separately evaluated. The program can work in two modes: in one mode the dose in a given point is evaluated; in the other mode isodose contours are obtained. Neutron and gamma ray isodose contours are separately obtained. The program is written in BASIC.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>1982 </dc:date>
+<dc:title xml:lang="es">Dosimetría en radioterapia intersticial con neutrones.</dc:title>
+<dc:title xml:lang="en">[Dosimetry in interstitial radiotherapy using neutrons].</dc:title>
+<dc:publisher>Revista espanola de oncologia</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

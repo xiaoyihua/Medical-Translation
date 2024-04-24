@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>22052759</identifier>
+<setSpec>1576-8260</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Donovan, Michael J</dc:author>
+<dc:author>Cordon-Cardo, Carlos</dc:author>
+<dc:author>Costa, Jose</dc:author>
+<dc:description xml:lang="en">Personalized medicine in the management of patients with prostate cancer consists of the integration of patient attributes such as age, genetic risk and co-morbidities with specific clinical-pathologic variables including serum prostate specific antigen (PSA), imaging and features from the diagnostic prostate needle biopsy or prostatectomy specimen including tumor differentiation (i.e. Gleason), volume and extent of disease (i.e. tumor length and / or percentage, number of positive cores at diagnosis or pathologic stage post surgery including margin status). Although the development of various clinical statistical instruments such as nomograms have provided a mechanism to interrogate these variables, most urologists rely on basic prognostic features of stage, grade and PSA along with clinical judgment to define and understand individual risk and predict health outcomes. In addition, unlike other tumor types such as breast cancer, there are no routine ancillary diagnostic studies performed on the prostate needle biopsy or prostatectomy specimen to support and refine the treatment decision process for the individual patient. In this review we will provide a summary of the current practice of predictive modeling in prostate cancer and explore how technical advances in functional histology have played a role in the development and incorporation of a systems based platform for providing a patient-specific risk profile useful for clinical decision making.</dc:description>
+<dc:type>Journal Article</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2011 Oct </dc:date>
+<dc:title xml:lang="en">Personalized approach to prostate cancer prognosis.</dc:title>
+<dc:publisher>Archivos espanoles de urologia</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

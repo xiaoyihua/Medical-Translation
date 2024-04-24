@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>26857085</identifier>
+<setSpec>1578-1747</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Álvarez-Tello, Margarita</dc:author>
+<dc:author>Casado-Mejía, Rosa</dc:author>
+<dc:author>Ortega-Calvo, Manuel</dc:author>
+<dc:author>Praena-Fernández, Juan Manuel</dc:author>
+<dc:description xml:lang="en">BACKGROUND Patient homecare with multiple morbidities is an increasingly common occurrence. The caregiver strain index is tool in the form of questionnaire that is designed to measure the perceived burden of those who care for their families. The aim of this study is to construct a diagnostic nomogram of informal caregiver burden using data from a predictive model. METHODS The model was drawn up using binary logistic regression and the questionnaire items as dichotomous factors. The dependent variable was the final score obtained with the questionnaire but categorised in accordance with that in the literature. Scores between 0 and 6 were labelled as "no" (no caregiver stress) and at or greater than 7 as "yes". The version 3.1.1R statistical software was used. To construct confidence intervals for the ROC curve 2000 boot strap replicates were used. RESULTS A sample of 67 caregivers was obtained. A diagnosing nomogram was made up with its calibration graph (Brier scaled = 0.686, Nagelkerke R2=0.791), and the corresponding ROC curve (area under the curve=0.962). FINDINGS The predictive model generated using binary logistic regression and the nomogram contain four items (1, 4, 5 and 9) of the questionnaire. R plotting functions allow a very good solution for validating a model like this. The area under the ROC curve (0.96; 95% CI: 0.994-0.941) achieves a high discriminative value. Calibration also shows high goodness of fit values, suggesting that it may be clinically useful in community nursing and geriatric establishments.</dc:description>
+<dc:type>Journal Article</dc:type>
+<dc:language>es</dc:language>
+<dc:subject>Caregivers</dc:subject>
+<dc:subject>Cuidador</dc:subject>
+<dc:subject>Atención primaria de salud</dc:subject>
+<dc:subject>Logistic models</dc:subject>
+<dc:subject>Modelos logísticos</dc:subject>
+<dc:subject>Primary health care</dc:subject>
+<dc:subject>Primary care nursing</dc:subject>
+<dc:subject>Enfermería de atención primaria</dc:subject>
+<dc:date>2017 Jan - Feb </dc:date>
+<dc:title xml:lang="es">Desarrollo de un modelo predictivo para el índice de esfuerzo del cuidador.</dc:title>
+<dc:title xml:lang="en">[Developing a predictive model for the caregiver strain index].</dc:title>
+<dc:publisher>Revista espanola de geriatria y gerontologia</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

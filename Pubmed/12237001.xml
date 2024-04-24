@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>12237001</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Prats, Guillem</dc:author>
+<dc:author>Sabaté, Montserrat</dc:author>
+<dc:description xml:lang="en">Integrons are genetic elements known for their role in the acquisition and expression of genes conferring antibiotic resistance. Integrons have an integrase gene (intI), an attachment site (attI), into which individual resistance genes are inserted and a promotor sequence (Pant), allowing expression of resistance genes (cassette-associated genes), which do not have promotors. Integrase recognizes 59-be, a specific sequence in certain resistance genes, which is captured by recombination at the attI attachment site. The fragment intI - attI is highly conserved in all integrons and is called 59 -CS. Integrons have been classified according to the sequence of their integrase and the ones most frequently detected in isolated clinical strains belong to Class I. Class I integrons contain the 59 -CS region followed by gene cassettes in a variable region and finally, a conserved region known as 39 -CS containing two genes, the quaternary ammonium resistance gene (qacEDI) and the sulphonamide resistance gene (sul1); both genes are fixed in this structure. Accordingly, the structure of a Class 1 integron would be IntI - attI [R11 R21.] - qacED1 - sul1. Integrons are probably not mobile, but they are often found in transposons within conjunctive plasmids, which assures their mobility, as can be seen by their wide diffusion among bacteria.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2002 Aug-Sep </dc:date>
+<dc:title xml:lang="es">Estructura y función de los integrones.</dc:title>
+<dc:title xml:lang="en">[Structure and function of integrons].</dc:title>
+<dc:publisher>Enfermedades infecciosas y microbiologia clinica</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

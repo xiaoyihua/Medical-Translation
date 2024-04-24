@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>24060412</identifier>
+<setSpec>1578-1747</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Soria, Selene</dc:author>
+<dc:author>Vidan, Maite</dc:author>
+<dc:author>Ortiz, Javier</dc:author>
+<dc:author>Gallego, Eva</dc:author>
+<dc:author>Serra-Rexach, José Antonio</dc:author>
+<dc:description xml:lang="en">OBJECTIVES To identify predictive factors for 6 and 12-months mortality after discharge from a geriatric acute care unit, and from these, derive a mortality-risk index. METHODS AND ANALYSIS Prospective cohort study will be conducted on patients over 70 years-old admitted to a geriatric acute care unit and survived to hospital discharge. The main outcome measure will be mortality at 6 months and 12 months after discharge. Independent variables include sociodemographics, functional status, comorbidities, and clinical and laboratory characteristics. Risk factors associated with mortality will be constructed using multivariate logistic regression models. To build the mortality index, points will be assigned to each risk factor by dividing each beta coefficient in the logistic model by the lowest beta coefficient. A score will be assigned to each subject by adding up the points for each risk factor present in the model. The predictive accuracy of the model will be determined by comparing the predicted versus observed mortality in the study population and calculating the area under the ROC curves in both populations. CONCLUSIONS The risk-mortality index developed would allow an easy estimate to be made of individual risk of death at 6 months and 12 months after discharge from a geriatric acute care unit, with the purpose of establishing care plans and individualising treatment, according to real objectives.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:subject>Anciano</dc:subject>
+<dc:subject>Mortality risk</dc:subject>
+<dc:subject>Riesgo de mortalidad</dc:subject>
+<dc:subject>Elderly</dc:subject>
+<dc:subject>Hospitalización</dc:subject>
+<dc:subject>Hospitalisation</dc:subject>
+<dc:date>2014 Sep-Oct </dc:date>
+<dc:title xml:lang="es">Elaboración de una herramienta para la estimación del riesgo de mortalidad a corto y medio plazo tras el alta de una Unidad de Hospitalización de Agudos de Geriatría.</dc:title>
+<dc:title xml:lang="en">[Development of a risk-mortality index for elderly patients discharged from a geriatric acute care unit].</dc:title>
+<dc:publisher>Revista espanola de geriatria y gerontologia</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

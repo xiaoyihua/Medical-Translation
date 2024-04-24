@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>25720181</identifier>
+<setSpec>0034-7744</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Ávila, Dennis Denis</dc:author>
+<dc:description xml:lang="en">Egg shape is difficult to quantify due to the lack of an exact formula to describe its geometry. Here I described a simple algorithm to characterize and compare egg shapes using Fourier functions. These functions can delineate any closed contour and had been previously applied to describe several biological objects. I described, step by step, the process of data acquisition, processing and the use of the SHAPE software to extract function coefficients in a study case. I compared egg shapes in three birds' species representing different reproductive strategies: Cuban Parakeet (Aratinga euops), Royal Tern (Thalasseus maximus) and Cuban Blackbird (Dives atroviolaceus). Using 73 digital pictures of eggs kept in Cuban scientific collections, I calculated Fourier descriptors with 4, 6, 8, 16 and 20 harmonics. Descriptors were reduced by a Principal Component Analysis and the scores of the eigen-values that account for 90% of variance were used in a Lineal Discriminant Function to analyze the possibility to differentiate eggs according to its shapes. Using four harmonics, the first five component accounted for 97% of shape variances; more harmonics diluted the variance increasing to eight the number of components needed to explain most of the variation. Convex polygons in the discriminant space showed a clear separation between species, allowing trustful discrimination (classification errors between 7-15%). Misclassifications were related to specific egg shape variability between species. In the study case, A. euops eggs were perfectly classified, but for the other species, errors ranged from 5 to 29% of misclassifications, in relation to the numbers or harmonics and components used. The proposed algorithm, despite its apparent mathematical complexity, showed many advantages to describe eggs shape allowing a deeper understanding of factors related to this variable.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2014 Dec </dc:date>
+<dc:title xml:lang="es">Aplicación de las funciones elípticas de Fourier para la descripción de la forma de los huevos de las aves.</dc:title>
+<dc:title xml:lang="en">[Application of the elliptic fourier functions to the description of avian egg shape].</dc:title>
+<dc:publisher>Revista de biologia tropical</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

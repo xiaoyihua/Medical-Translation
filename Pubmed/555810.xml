@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>555810</identifier>
+<setSpec>0032-7468</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>González, C</dc:author>
+<dc:author>Biagi, F</dc:author>
+<dc:author>Del Río, R</dc:author>
+<dc:type>Journal Article</dc:type>
+<dc:language>es</dc:language>
+<dc:date>1979 May-Jun </dc:date>
+<dc:title xml:lang="es">Tratamiento de la giardiasis con dosis única de tinidazol.</dc:title>
+<dc:title xml:lang="en">[Treatment of giardiasis with a single dose of tinidazole].</dc:title>
+<dc:publisher>La Prensa medica mexicana</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

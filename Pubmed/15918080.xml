@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>15918080</identifier>
+<setSpec>1139-9287</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Fresán, A</dc:author>
+<dc:author>Portillo, V</dc:author>
+<dc:author>de la Fuente-Sandoval, C</dc:author>
+<dc:author>Apiquian, R</dc:author>
+<dc:description xml:lang="en">INTRODUCTION Abnormal synaptic pruning has been proposed by some authors as a theory to explain schizophrenia. It has been studied in different ways, some of which are computerized models. METHODS A PC computer with MATLAB version 5.3 and Neural Networks Toolbox programs were used. To reproduce the model we used Elman's network for neuronal unit and McGlashan and Hoffman's network. RESULTS The corrected percentage of detection improved as synapses were prunned. It increased from 68% to 91 %, reaching the highest detection level when 60% of the synapses were eliminated. Detection capacity was reduced when synaptic elimination continued and the program started detecting words in the absence of input. This was considered as a hallucination. When pruning reached from 80% to 95%, hallucinations occurred more frequently. CONCLUSIONS The computer simulation model provides a symptom formation model, and also a way of understanding pruning's adaptative utility. When the neuronal units were eliminated (instead of connections), there was only progressive worsening in word perception. This confirms the hypothesis proposed that schizophrenia pathophysiology underlies neuronal connections, not the neurons.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2005 May-Jun </dc:date>
+<dc:title xml:lang="es">Reproducción de un modelo informático de las alucinaciones auditivas en la esquizofrenia.</dc:title>
+<dc:title xml:lang="en">[Replication of a computer model of auditory hallucinations in schizophrenia].</dc:title>
+<dc:publisher>Actas espanolas de psiquiatria</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

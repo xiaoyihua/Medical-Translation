@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>26758219</identifier>
+<setSpec>1680-5348</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Arnesi, Nora</dc:author>
+<dc:author>Hachuel, Leticia</dc:author>
+<dc:author>Prunello, Marcos</dc:author>
+<dc:description xml:lang="en">OBJECTIVE Apply and assess a Bayesian approach to projecting cancer mortality rates by fitting age-period-cohort (APC) models. METHODS The Bayesian estimation method was applied to bladder cancer mortality data in Argentina. A second-order autoregressive model was adopted for a priori specification of APC model coefficients. The estimates obtained were compared with all available information and excluding age groups with low mortality, to assess behavior of the approach in light of scattered data. Mortality was projected for two successive periods following the ones observed. RESULTS Robustness of the method was verified, which avoids excluding age groups with null or low mortality. Observed rates all fall within the credibility bands and confirm the model's goodness of fit. An overall downward trend in bladder cancer mortality was observed. Estimates and projections of these rates are more precise in age groups that have greater incidence of mortality. CONCLUSIONS The Bayesian formulation used herein makes it possible to reduce random variation between adjacent estimates by specifying that the effects of each scale depend on the immediately preceding ones. It was demonstrated that the approach has the capacity to handle low frequencies and obtain reliable mortality estimates, as well as precise projections, without the need for making additional assumptions, as happens in classical APC model fitting.</dc:description>
+<dc:type>Journal Article</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2015 Oct </dc:date>
+<dc:title xml:lang="es">Uso del enfoque bayesiano para la estimación y proyección de tasas.</dc:title>
+<dc:title xml:lang="en">[Use of a bayesian approach to rate estimation and projection].</dc:title>
+<dc:publisher>Revista panamericana de salud publica = Pan American journal of public health</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

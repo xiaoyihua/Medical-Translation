@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>10410611</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Figueiras, A</dc:author>
+<dc:author>Taracido Trunk, M</dc:author>
+<dc:author>Castro Lareo, I</dc:author>
+<dc:description xml:lang="en">BACKGROUND In the Autonomous Region of Galicia, no study has been made of the impacts of air pollution on human health, despite the fact that several of its major cities have moderate levels of pollution. Therefore, we have considered the need of making this study in the city of Vigo. The main objective of this analysis is that of analyzing the short-term impact of air pollution on the daily death rate for all reasons in the city of Vigo throughout the 1991-1994 period, by using the procedure for analysis set out as part of the EMECAM Project. METHOD The daily fluctuations in the number of deaths for all causes with the exception of the external ones are listed with the daily fluctuations of sulfur dioxide and particles using Poisson regression models. A non-parametric model is also used in order to better control the confusion variables. RESULTS Using the Poisson regression model, no significant relationships have been found to exist between the pollutants and the death rate. In the non-parametric model, a relationship was found between the concentration of particles on the day immediately prior to the date of death and the death rate, an effect which remains unchanged on including the autoregressive terms. CONCLUSIONS Particle-based air pollution is a health risk despite the average levels of this pollutant falling within the air quality guideline levels in the city of Vigo.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>1999 Mar-Apr </dc:date>
+<dc:title xml:lang="es">Efectos a corto plazo de la contaminación atmosférica sobre la mortalidad. Resultados del proyecto EMECAM en la ciudad de Vigo, 1991-94.</dc:title>
+<dc:title xml:lang="en">[The short-term effects of air pollution on mortality. The results of the EMECAM project in the city of Vigo, 1991-94. Estudio Multicéntrico Español sobre la Relación entre la Contaminación Atmosférica y la Mortalidad].</dc:title>
+<dc:publisher>Revista espanola de salud publica</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

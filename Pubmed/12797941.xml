@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>12797941</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Rodríguez Nieto, M J</dc:author>
+<dc:author>Ortega, A</dc:author>
+<dc:author>González Mangado, N</dc:author>
+<dc:author>Gómez Seco, J</dc:author>
+<dc:author>Sabillón, O</dc:author>
+<dc:author>Heili, S</dc:author>
+<dc:author>Fernández, I</dc:author>
+<dc:description xml:lang="en">Venturi systems are among the most widely used devices for delivering oxygen therapy. Nevertheless, rigorous quality control of their reliability is lacking. In this study we used mass spectrometry to evaluate Venturi systems sold by various companies in Spain. We also studied tolerance under various conditions (changes in oxygen flow and with increased system resistance). Fixed systems were found to comply well with recommendations, whereas none of the variable systems complied. One system (Oxigem Variable) was unable to provide an oxygen concentration below 31% when set to deliver at 24% to 28%. We conclude that the variable masks available in Spain do not comply with European Union recommendations and the range of error of one of them (Oxigem Variable) means it is not clinically useful. Fixed systems were the most reliable ones in our market, and airlife and intersurgical devices were the variable systems that best approximated the reliability of fixed systems.</dc:description>
+<dc:type>Comparative Study</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2003 Jun </dc:date>
+<dc:title xml:lang="es">Fiabilidad de los sistemas de Venturi en la oxigenoterapia.</dc:title>
+<dc:title xml:lang="en">[Reliability of Venturi oxygen therapy systems].</dc:title>
+<dc:publisher>Archivos de bronconeumologia</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

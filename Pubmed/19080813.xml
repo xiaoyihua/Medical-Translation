@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>19080813</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Ribes, J</dc:author>
+<dc:author>Gispert, R</dc:author>
+<dc:author>Clèries, R</dc:author>
+<dc:author>Buxó, M</dc:author>
+<dc:author>Valls, J</dc:author>
+<dc:author>Ameijide, A</dc:author>
+<dc:description xml:lang="en">BACKGROUND AND OBJECTIVE To perform cancer incidence and mortality projections in Catalonia for the period 2005-2019. To assess the projected increase in the incidence in 2015 compared with that in 2005, and to determine whether this increase is attributable to changes in risk or in demographics. POPULATION AND METHOD Bayesian age-period-cohort models were fitted to age-specific rates for 1985-2004 to obtain the expected number of cases for the 5-year periods 2005-2009, 2010-2014 and 2015- 2019. Annual cases were estimated through a polynomial interpolation model. Incidence and mortality data were obtained from the Tarrragona and Gerona cancer registries, while population pyramids for the period 1985-2019 were obtained from the Catalan Institute of Statistics. RESULTS In Catalonia, 27,438 cancer cases will be diagnosed among men and 19,986 among women in 2015, representing an increase in the number of cases diagnosed of 31% and 34%, respectively, when compared with those diagnosed in 2005 (20,999 and 14,141, respectively). In men, the increases attributable to risk, aging and demographic changes are 10%, 14% and 7%, respectively, whereas in women these changes are 6%, 13% and 15%. In the next decade, cancer mortality is expected to stabilize in men and to continue to decrease in women. Major increases in cancer incidence and mortality are expected among old age groups. CONCLUSIONS The present study highlights the need to reorganize the resources and infrastructures required for cancer control and care, taking into account the predicted burden of oncology patients.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2008 Oct </dc:date>
+<dc:title xml:lang="es">Proyección de la incidencia y la mortalidad del cáncer en Cataluña hasta el año 2015 mediante un modelo bayesiano.</dc:title>
+<dc:title xml:lang="en">[Predictions of cancer incidence and mortality in Catalonia to 2015 by means of Bayesian models].</dc:title>
+<dc:publisher>Medicina clinica</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

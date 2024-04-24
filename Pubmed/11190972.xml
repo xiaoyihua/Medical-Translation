@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>11190972</identifier>
+<setSpec>1020-4989</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Bangdiwala, S I</dc:author>
+<dc:author>Cumsille, F</dc:author>
+<dc:description xml:lang="en">Frequently during the process of data analysis in epidemiological studies, the scale of one or more continuous variables is changed. The objective of this paper was to assess the consequences of categorizing variables during data analysis. We studied three situations with different scenarios for statistical analysis with regression models. The results show that dichotomizing continuous variables can substantially modify the relationships between dependent and independent variables. Thus, for example, in epidemiological studies trying to evaluate the effect of an exposure on a response, the magnitude and/or the direction of this effect can be biased by dichotomizing a variable. We therefore recommend avoiding, as much as possible, the categorization of variables when doing analyses.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2000 Nov </dc:date>
+<dc:title xml:lang="es">Categorización de variables en el análisis estadístico de datos: consecuencias sobre la interpretación de resultados.</dc:title>
+<dc:title xml:lang="en">[Categorizing variables in the statistical analysis of data: consequences for interpreting the results].</dc:title>
+<dc:publisher>Revista panamericana de salud publica = Pan American journal of public health</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

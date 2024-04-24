@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>19269716</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Díaz, Julio</dc:author>
+<dc:author>Linares, Cristina</dc:author>
+<dc:description xml:lang="en">INTRODUCTION The last report of World Health Organization's Air Quality Guidelines establishes a value of 10 microg/m3 as the annual mean particulate PM2.5 concentration. However, in large cities such as Madrid, this value is doubled and consequently an association between PM2.5 values and effects on morbidity and mortality is to be expected. OBJECTIVE To analyze and quantify the influence of PM2.5 concentrations on daily hospital admissions in 0-10-year-olds in Madrid. MATERIAL AND METHODS We analyzed the daily number of emergency hospital admissions for all causes (ICD-10: A00-R99) except traumatisms to the Gregorio Marañón General University Hospital in Madrid from 2003 to 2005. The age groups analyzed were 0-10 years and 0-1 year. A longitudinal ecological analysis of time series was performed using Poisson Regression Models. Seasonalities, trends, days of the week, and autocorrelation between morbidity series were controlled. Influenza epidemics, air pollutants, and noise and pollen concentrations were used as control variables. RESULTS The only primary pollutant found to be statistically significant in the models was PM2.5 concentration. The relative risk associated with an increase of 10 microg/m3 in PM2.5 concentration was 1.03 (95%CI 1.00-1.05) for children less than 10 years old and 1.03 (95%CI 1.00-1.06) for infants less than 1 year old. The attributable risk was 2.7 and 2.8%, respectively. CONCLUSIONS PM2.5 concentrations are an excellent indicator of the health impact of primary pollutants in Madrid. The results obtained demonstrate the need to implement measures to reduce PM2.5 concentrations in the atmosphere in large cities.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2009 May-Jun </dc:date>
+<dc:title xml:lang="es">Efecto de las partículas de diámetro inferior a 2,5 micras (PM(2,5)) sobre los ingresos hospitalarios en niños menores de 10 años en Madrid.</dc:title>
+<dc:title xml:lang="en">[Impact of particulate matter with diameter of less than 2.5 microns [PM2.5] on daily hospital admissions in 0-10-year-olds in Madrid. Spain [2003-2005]].</dc:title>
+<dc:publisher>Gaceta sanitaria</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

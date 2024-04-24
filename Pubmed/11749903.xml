@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>11749903</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Solà, J</dc:author>
+<dc:author>Roqué, M</dc:author>
+<dc:author>Macià, M</dc:author>
+<dc:author>Rué, M</dc:author>
+<dc:description xml:lang="en">BACKGROUND We have developed a tool to measure disease severity of patients hospitalized in conventional units in order to evaluate and compare the effectiveness and quality of health care in our setting. PATIENTS AND METHOD A total of 2,274 adult patients admitted consecutively to inpatient units from the Medicine, Surgery and Orthopaedic Surgery, and Trauma Departments of the Corporació Sanitària Parc Taulí of Sabadell, Spain, between November 1, 1997 and September 30, 1998 were included. The following variables were collected: demographic data, previous health state, substance abuse, comorbidity prior to admission, characteristics of the admission, clinical parameters within the first 24 hours of admission, laboratory results and data from the Basic Minimum Data Set of hospital discharges. Multiple logistic regression analysis was used to develop mortality probability models during the hospital stay. RESULTS The mortality probability model at admission (MPMHOS-0) contained 7 variables associated with mortality during hospital stay: age, urgent admission, chronic cardiac insufficiency, chronic respiratory insufficiency, chronic liver disease, neoplasm, and dementia syndrome. The mortality probability model at 24-48 hours from admission (MPMHOS-24) contained 9 variables: those included in the MPMHOS-0 plus two statistically significant laboratory variables: hemoglobin and creatinine. CONCLUSIONS Severity measures, in particular those presented in this study, can be helpful for the interpretation of hospital mortality rates and can guide mortality or quality committees at the time of investigating health care-related problems.</dc:description>
+<dc:type>Comparative Study</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2001 Sep 29 </dc:date>
+<dc:title xml:lang="es">Modelos probabilísticos de mortalidad para pacientes hospitalizados en unidades convencionales.</dc:title>
+<dc:title xml:lang="en">[Probabilistic models of mortality for patients hospitalized in conventional units].</dc:title>
+<dc:publisher>Medicina clinica</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

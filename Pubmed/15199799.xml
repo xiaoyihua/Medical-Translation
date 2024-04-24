@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>15199799</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Ferreros, Inmaculada</dc:author>
+<dc:author>del Amo, Julia</dc:author>
+<dc:author>Hernández-Aguado, Ildefonso</dc:author>
+<dc:author>Pérez-Hoyos, Santiago</dc:author>
+<dc:author>Hurtado, Isabel</dc:author>
+<dc:description xml:lang="en">BACKGROUND In cohort or longitudinal studies, subjects are recruited some time after the beginning of the problem, as in HIV infection. The aim of this paper is to show several imputation techniques of the beginning of follow up and evaluate its use in the framework of a study of HIV progression. METHODS Three subcohorts of HIV+ subjects recruited in Valencia and Castellón CIPS up to 1996 are available. Seroconversion date was estimated for 244 Seroincidents, 887 seroprevalents with CD4 measurements and 337 without CD4 measurements. For seroincidents midpoint between last HIV- and first HIV+ visits was considered. For prevalent with CD4 serocon version date was imputed from 5 random samples of a progression model of infection to a CD4 level. For prevalent without CD4 seroconversion date was imputed from 5 random samples of HIV incidence density obtained from the other subcohorts. The imputation was repeated 500 times, assigning the seroconversion date as the median of imputations and obtaining confidence limits from 5 and 95 percentiles. Imputation validity was tested comparing time to AIDS and death for each one of the 3 groups. RESULTS 443 and 405 deaths were observed among the 1468 subjects. Median of seroconversion was January 1993 for incidents, January 1991 for prevalents with CD4 and November 1988 for prevalents without CD4. The latest group showed a worse survival and AIDS free time compared to the other two cohorts. CONCLUSIONS The imputation tools used showed their usefulness to reduce the survival bias in observational studies. Their generalization depends on the viability of incident cohorts, the availability of a progression marker or a origin on time.</dc:description>
+<dc:type>Comparative Study</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2004 Mar-Apr </dc:date>
+<dc:title xml:lang="es">Imputación del instante de inicio de seguimiento en estudios longitudinales: aplicación a la infección por VIH.</dc:title>
+<dc:title xml:lang="en">[Determination of the beginning of follow-up in longitudinal studies applied to HIV infections].</dc:title>
+<dc:publisher>Revista espanola de salud publica</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

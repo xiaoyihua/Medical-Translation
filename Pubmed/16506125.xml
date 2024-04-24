@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>16506125</identifier>
+<setSpec>1576-6578</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Rodríguez-Andrés, C</dc:author>
+<dc:author>Delgado-Naranjo, J</dc:author>
+<dc:author>Bellón-Vázquez, A</dc:author>
+<dc:description xml:lang="en">INTRODUCTION The need to quantify and classify the cases of mental retardation with a genetic origin (MRGO) has led the GIRMOGEN (Genetic Mental Retardation Research Group) to promote a computerised register of cases of MRGO. AIMS. To draw up a suitable protocol for the design and development of a register of these characteristics, to theoretically define the phases that make up the overall process of designing and developing the register, and to create a register of patients diagnosed with MRGO following the phases set out in that procedure. MATERIALS AND METHODS A nine-phase circular sequential method was used. The first consists of an initial approach phase and the process continues until the final production and research phase is reached, which is managed by a single computer program or application. The intermediate phases between the initial approach and the production are as follows: planning, requirements, analysis and design, security (legal cover and confidentiality), implementation, trials and testing, and evaluation. RESULTS The circular sequential design and development process resulted in a relational database system managed by a computer application called GIRMOGEN-Pro v. 1.0. CONCLUSIONS This software allows cases to be registered in real time and constitutes a multi-centre system that makes it possible to register cases at different geographical locations. It allows a correct epidemiological analysis to be performed, reduces the chances of biases occurring, and also makes it possible to control for confusion and interaction among variables. Technically it meets the standards set out by current law regulating personal health-related information.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2006 Jan 07 </dc:date>
+<dc:title xml:lang="es">Fundamentos teóricos para la creación de un registro de pacientes diagnosticados de retraso mental de origen genético: perspectiva desde la epidemiología y la salud pública.</dc:title>
+<dc:title xml:lang="en">[Theoretical foundations for the creation of a register of patients diagnosed with mental retardation of a genetic origin: an epidemiological and public health perspective].</dc:title>
+<dc:publisher>Revista de neurologia</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>12471513</identifier>
+<setSpec>0365-6691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>García Sánchez, J</dc:author>
+<dc:author>González de la Rosa, M</dc:author>
+<dc:author>Mira Mira, J</dc:author>
+<dc:author>Carmona Suárez, E J</dc:author>
+<dc:author>Gallardo, L M</dc:author>
+<dc:author>García Feijoó, J</dc:author>
+<dc:author>Fernández Vidal, A</dc:author>
+<dc:author>González Hernández, M</dc:author>
+<dc:description xml:lang="en">PURPOSE To provide a useful tool in the diagnosis of glaucoma by developing an automatic system for visual field classification based on neuro-fuzzy rules. METHOD A total of 212 visual fields (OCTOPUS 123 program G1X), from 198 patients, were analysed: 61 normal (controls) and 151 with glaucomatous damage (49% with incipient damage, 29.1% with moderate damage, and 21.9% advanced). Inclusion criteria for glaucomatous patients were: Visual acuity &gt;0.5, IOP &lt; 20 mm Hg (with treatment), refraction &lt;5 Dp and previous perimetric experience. EXCLUSION CRITERIA miotics, other ocular pathologies which could interfere with visual field examination, and for control subjects: visual acuity &gt;0.5, no ocular pathologies and refraction &lt; 5 Dp. A neuro-fuzzy classifier (NEFCLASS) is a system consisting in a series of fuzzy rules, obtained after a learning process, which attempts to assign to each piece of data input its corresponding output. Initially, the characteristics of each data input are established (input units). Then, based on previous knowledge, a set of rules are defined, and finally, the learning process allows the optimisation of the classifier parameters to generate an output. RESULTS Input units were defined by using the mean defects calculated at specific areas of the visual field; five rules were then created which generated sensitivity and specificity values of 96.0% and 93.4% respectively. CONCLUSIONS The use of neuro-fuzzy rules for visual field classification in normal vs glaucomatous can provide results which can match the quality of those obtained with other techniques such as discriminatory analysis or neural networks.</dc:description>
+<dc:type>Comparative Study</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2002 Dec </dc:date>
+<dc:title xml:lang="es">Desarrollo de un sistema automático de discriminación del campo visual glaucomatoso basado en un clasificador neuro-fuzzy.</dc:title>
+<dc:title xml:lang="en">[Development of an automatic discrimination system for glaucomatous visual fields based on neuro-fuzzy nets].</dc:title>
+<dc:publisher>Archivos de la Sociedad Espanola de Oftalmologia</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>22386270</identifier>
+<setSpec>1578-6749</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Quintana, M</dc:author>
+<dc:author>Madero, R</dc:author>
+<dc:author>Lorenzo, A García de</dc:author>
+<dc:author>González-Higueras, E</dc:author>
+<dc:author>Pérez-Arriaga, M</dc:author>
+<dc:author>Díaz-Alersi, R</dc:author>
+<dc:author>Montejo, J C</dc:author>
+<dc:author>Añón, J M</dc:author>
+<dc:author>Choperena, G</dc:author>
+<dc:author>Marina, L</dc:author>
+<dc:author>Martín-Delgado, C</dc:author>
+<dc:author>Oñoro, J J</dc:author>
+<dc:author>Gómez-Tello, V</dc:author>
+<dc:author>Córcoles, V</dc:author>
+<dc:author>López-Martínez, J</dc:author>
+<dc:author>García-Fernández, A M</dc:author>
+<dc:author>Gordo, F</dc:author>
+<dc:description xml:lang="en">OBJECTIVE To design a probability model for prolonged mechanical ventilation (PMV) using variables obtained during the first 24 hours of the start of MV. DESIGN An observational, prospective, multicenter cohort study. SCOPE Thirteen Spanish medical-surgical intensive care units. PATIENTS Adult patients requiring mechanical ventilation for more than 24 hours. INTERVENTIONS None. STUDY VARIABLES APACHE II, SOFA, demographic data, clinical data, reason for mechanical ventilation, comorbidity, and functional condition. A multivariate risk model was constructed. The model contemplated a dependent variable with three possible conditions: 1. Early mortality; 2. Early extubation; and 3. PMV. RESULTS Of the 1661 included patients, 67.9% (n=1127) were men. Age: 62.1±16.2 years. APACHE II: 20.3±7.5. Total SOFA: 8.4±3.5. The APACHE II and SOFA scores were higher in patients ventilated for 7 or more days (p=0.04 and p=0.0001, respectively). Noninvasive ventilation failure was related to PMV (p=0.005). A multivariate model for the three above exposed outcomes was generated. The overall accuracy of the model in the training and validation sample was 0.763 (95%IC: 0.729-0.804) and 0.751 (95%IC: 0.672-0.816), respectively. The likelihood ratios (LRs) for early extubation, involving a cutoff point of 0.65, in the training sample were LR (+): 2.37 (95%CI: 1.77-3.19) and LR (-): 0.47 (95%CI: 0.41-0.55). The LRs for the early mortality model, for a cutoff point of 0.73, in the training sample, were LR (+): 2.64 (95%CI: 2.01-3.4) and LR (-): 0.39 (95%CI: 0.30-0.51). CONCLUSIONS The proposed model could be a helpful tool in decision making. However, because of its moderate accuracy, it should be considered as a first approach, and the results should be corroborated by further studies involving larger samples and the use of standardized criteria.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2012 Oct </dc:date>
+<dc:title xml:lang="es">Modelo de probabilidad de ventilación mecánica prolongada.</dc:title>
+<dc:title xml:lang="en">[Prolonged mechanical ventilation probability model].</dc:title>
+<dc:publisher>Medicina intensiva</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>21315398</identifier>
+<setSpec>1578-178X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Martínez Monzonís, A</dc:author>
+<dc:author>García Tahoces, P</dc:author>
+<dc:author>Masip Capdevila, L R</dc:author>
+<dc:author>Suárez Cuenca, J J</dc:author>
+<dc:author>Souto Bayarri, M</dc:author>
+<dc:author>Vidal Carreira, J J</dc:author>
+<dc:description xml:lang="en">OBJECTIVES The aim of this study was to compare a semiautomatic segmentation method to quantify the function of both ventricles in magnetic resonance imaging (MRI) with the manual tracing method. MATERIAL AND METHODS We examined 17 patients with diverse cardiovascular diseases on a 1.5 Tesla MRI unit (Magnetom Symphony Quantum; Siemens Medical Systems, Erlangen, Germany) using the following parameters: maximum gradient, 30 mT/m; and slew rate, 125 T/m/s. In all studies, we acquired images in cine mode in the short axis (SSFP, 6mm slice thickness, from the base to the ventricular apex) with breath holding. To reduce the user interaction, we used only one image per patient to initiate the semiautomatic method. The semiautomatic method was based on a specifically designed algorithm of regional growth and border detection. We quantified the end-diastolic volume (EDV), end-systolic volume (ESV), and the ejection fraction (EF) for both ventricles in all patients. RESULTS No significant differences between the two segmentation techniques were found in the quantification of either ventricle (p&gt;0.05). The difference in the volumes, although nearly significant, are clinically irrelevant. The correlation for the estimation of left ventricular function was excellent (r&gt;0.9), and the correlation for the estimation of right ventricular function was good (r&gt;0.7). CONCLUSIONS Our semiautomatic segmentation method enables the function of both ventricles to be quantified as accurately as the conventional method.</dc:description>
+<dc:type>Comparative Study</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2011 Jan-Feb </dc:date>
+<dc:title xml:lang="es">Cuantificación semiautomática de la función ventricular izquierda y derecha en resonancia magnética cardíaca. Estudio preliminar.</dc:title>
+<dc:title xml:lang="en">[Semiautomatic quantification of left and right ventricular function in cardiac magnetic resonance imaging: a preliminary study].</dc:title>
+<dc:publisher>Radiologia</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

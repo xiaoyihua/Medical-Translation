@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>1630180</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Carreter Oróñez, C A</dc:author>
+<dc:author>Arribas Llorente, J L</dc:author>
+<dc:author>Muniesa Cuenca, M P</dc:author>
+<dc:author>Hernández Navarrete, M J</dc:author>
+<dc:author>Calvete Fernández, H I</dc:author>
+<dc:author>García Mata, J R</dc:author>
+<dc:author>Abaurrea León, J</dc:author>
+<dc:author>López del Val, J A</dc:author>
+<dc:description xml:lang="en">BACKGROUND In this study we introduce a new view of hospital infection, to apply time series techniques to it. Our objective is to complement hospital infection's epidemiological surveillance by means of obtaining alert and alarm thresholds that make easy to the epidemiologist the decision of intervention, in case they are exceeded. METHODS We have used the classic time series analysis described by Rumeau-Rouquette, and ARIMA (Autoregresive Integrated Moving Average) models developed by Box and Jenkins. The study focus on three hospital units: one intensive care, one long term care and one surgical unit. The nosocomial infection intervals have been calculated with a 68% (1SD) and 95% (2SD) confidence levels. RESULTS We detect an ascending general trend in the last two units, without the detection of seasonal variations. Two ARIMA (1, 0, 0) models we obtained for surgery and long term care, discarding other better adjusted models, more complex and difficult to obtain, but with no real advantage in prediction power. Confidence intervals were calculated with both methods. We did not find general trend and seasonal variations for intensive care unit. No model was considered valid, because of its high random component. The nosocomial infection intervals have been calculated with mean +/- 1SD and mean +/- 2SD. CONCLUSIONS We think that more precise knowledge of hospital infection, with a high random component in our study, can be in addition useful to assign priority to human and material resources.</dc:description>
+<dc:type>Comparative Study</dc:type>
+<dc:language>es</dc:language>
+<dc:date>1992 Jun 06 </dc:date>
+<dc:title xml:lang="es">Análisis de series temporales aplicado a la infección nosocomial.</dc:title>
+<dc:title xml:lang="en">[Time-series analysis applied to nosocomial infection].</dc:title>
+<dc:publisher>Medicina clinica</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

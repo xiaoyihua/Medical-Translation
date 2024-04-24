@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>16324517</identifier>
+<setSpec>0212-6982</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Crespo Vázquez, C</dc:author>
+<dc:author>Lomeña Caballero, F</dc:author>
+<dc:author>Cot Sanz, A</dc:author>
+<dc:author>Aguiar Fernández, P</dc:author>
+<dc:author>Falcón Falcón, C</dc:author>
+<dc:author>Pavía Segura, J</dc:author>
+<dc:author>Ros Puig, D</dc:author>
+<dc:description xml:lang="en">AIM To study the effect of photon scattering on the quantification of relative changes of 18F-FDG uptake in longitudinal brain PET studies. MATERIALS AND METHODS Two studies from a numerical Zubal phantom were simulated. One of these was a basal reference study and the other was an activated study showing an increase or decrease in the uptake in a region of the anterior cingulated cortex. SimSET Monte Carlo code was used to simulate PET sinograms. Primary photons, which did not undergo interactions, and scattered photons, which underwent one or more interactions, were stored in separate files to assess the effect of scattering. Reconstruction was carried out using an iterative algorithm based on ordered subsets of projections (OSEM-2D). The relative changes in uptake were calculated from images reconstructed with all the photons (primary and scattered) and from images reconstructed with only primary photons. RESULTS A linear relationship between the calculated and theoretical values was obtained both for the images reconstructed with all the photons and for those reconstructed with primary photons. Our findings show a relative change recovery of 79% +/- 0.4% for all photons and 91% +/- 0.5% for primary photons only. CONCLUSIONS Our results highlight subestimation of relative changes of 12% +/- 0.7% when scattered photons are used. Thus the importance of correcting this degradation in order to improve quantification is shown.</dc:description>
+<dc:type>Comparative Study</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2005 Nov-Dec </dc:date>
+<dc:title xml:lang="es">Influencia de la dispersión de fotones en la cuantificación de cambios relativos en estudios longitudinales de PET cerebral con 18F-FDG.</dc:title>
+<dc:title xml:lang="en">[Influence of photon scattering on the quantification of relative changes in longitudinal brain PET studies with 18F-FDG].</dc:title>
+<dc:publisher>Revista espanola de medicina nuclear</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

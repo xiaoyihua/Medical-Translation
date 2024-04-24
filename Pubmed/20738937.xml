@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>20738937</identifier>
+<setSpec>1579-2242</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Lucas, Gavin</dc:author>
+<dc:author>Elosua, Roberto</dc:author>
+<dc:author>Lluís-Ganella, Carla</dc:author>
+<dc:author>Subirana, Isaac</dc:author>
+<dc:author>Marrugat, Jaume</dc:author>
+<dc:author>Sentí, Mariano</dc:author>
+<dc:author>Jimenez-Conde, Jordi</dc:author>
+<dc:author>Tomás, Marta</dc:author>
+<dc:description xml:lang="en">INTRODUCTION AND OBJECTIVES Coronary artery disease (CAD) has a substantial genetic component and, in recent years, a number of genetic variants associated with the disease have been identified. The objective of this study was to evaluate the magnitude of the association between a genetic risk score, which is based on the accumulated number of risk alleles in all genetic variants of interest, and the presence of CAD. METHODS The study involved in silico data from the Wellcome Trust Case-Control Consortium on 1988 patients with CAD and 5380 controls. The association between the genetic risk score and CAD was assessed using logistic regression analysis. RESULTS Nine genetic variants independently associated with CAD irrespective of other cardiovascular risk factors were selected. There was a linear association between the number of risk alleles and the risk of presenting with CAD (odds ratio [OR] for an increase of one allele=1.18; 95% confidence interval [CI], 1.15-1.22; P=2 x 10-16). The OR for CAD for the last quintile of the accumulated number of risk alleles relative to the first was 2.21 (95%CI, 1.87-2.61; P=5 x 10-21). CONCLUSIONS A genetic risk score based on nine genetic variants independently associated with CAD irrespective of other cardiovascular risk factors was associated with the presence of the disease. Cohort studies are needed to determine whether this genetic risk score can improve the predictive capacity or the risk classification of classical risk functions.</dc:description>
+<dc:type>Journal Article</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2010 Aug </dc:date>
+<dc:title xml:lang="en">Additive effect of multiple genetic variants on the risk of coronary artery disease.</dc:title>
+<dc:publisher>Revista espanola de cardiologia</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

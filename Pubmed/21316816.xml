@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>21316816</identifier>
+<setSpec>1578-1283</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Aguilar, Isabel</dc:author>
+<dc:author>Alcalá, Tomás</dc:author>
+<dc:author>Esteban, Mariano</dc:author>
+<dc:author>Martos, Maria Carmen</dc:author>
+<dc:author>Rabanaque, Maria José</dc:author>
+<dc:author>Compés, Maria Luisa</dc:author>
+<dc:author>Feja, Cristina</dc:author>
+<dc:description xml:lang="en">OBJECTIVES The aim of this study was to identify geographical differences in mortality from liver cirrhosis in men living in the province of Zaragoza, Spain, as well as its possible association with socioeconomic factors. The utility of the MEDEA project's deprivation index in rural areas was also explored. METHODS Census tracts were used in Zaragoza city as analysis units and municipalities were used for the rest of the province. Crude and smoothed standardized mortality ratios were calculated for each analysis unit through a Bayesian generalized mixed linear model. A deprivation index was obtained and was included in the model in quartiles. An exploratory analysis was also conducted, including a rural index in the province of Zaragoza. RESULTS In Zaragoza city, mortality from liver cirrhosis and other chronic liver diseases [code 571 of the 9th International Classification of Diseases (ICD) and K70, K72.1, K73, K74, K76.1.9 of the ICD-10] increased as the deprivation index increased. Mortality in the most deprived areas was twice that in the less deprived areas (relative risk [RR] 2.09, credible interval (CI): 1.53-2.83). In the rest of the province, geographical differences in mortality could not be explained by the deprivation index used. Nevertheless, municipalities with the highest values in the rural index showed a RR of 0.47 (CI: 0.18-0.92) compared with those with the lowest values. CONCLUSIONS In Zaragoza city, mortality from liver cirrhosis and other chronic liver diseases was higher in the most deprived census tracts than in the most affluent areas. This association was not found in the rest of the province, probably because of the low variability explained by the deprivation index. Municipalities with high rural values had the lowest risk of death from these diseases.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2011 Mar-Apr </dc:date>
+<dc:title xml:lang="es">Desigualdades y mortalidad por cirrosis en varones (Zaragoza, 1996-2003).</dc:title>
+<dc:title xml:lang="en">[Men inequalities and liver cirrhosis mortality (Zaragoza, Spain, 1996-2003)].</dc:title>
+<dc:publisher>Gaceta sanitaria</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

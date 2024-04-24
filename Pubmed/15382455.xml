@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>15382455</identifier>
+<setSpec>0124-0064</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Pardo, Rodrigo</dc:author>
+<dc:author>Echeverri, Jairo</dc:author>
+<dc:author>Sánchez, Ricardo</dc:author>
+<dc:description xml:lang="en">OBJECTIVE To assess the relationship between nutritional status and some factors related with poverty (acute diarrhea and overcrowding) in children less than 6 years of age in Bogotá. METHODS A community-based, cross-sectional study, was conducted during 2000 in the urban area of Bogotá, using a household interview survey. 3081 adults having in their homes children under five years were interviewed. This number of participants was calculated to obtain a representative sample of the city for estimating a binomial population parameter. A multistage sampling was carried out. The sample size was reduced to 2833 with the elimination of cases missing scores on dependent variables (DVs). Cephalic and brachial perimeters (continuous variables), used as a proxy of nutritional status (DVs), were selected as the main outcome measures. A 2 x 2 x 2 multivariate analysis of variance was performed on two DVs. Independent variables were overcrowding (as a measure of marginalization) and recent acute diarrhea. The analyses included sequential adjustment for nonorthogonality. RESULTS DVs showed a low correlation (r=0.3) and a symmetric distribution. Evaluation of assumptions of linearity and multicollinearity were satisfactory. The omnibus test, using Wilk's criterion, showed that combined DVs were significantly affected by recent acute diarrhea (F=9.65 p=0.000), age less than 1 year (F=350.81 p=0.000) and the interaction acute diarrhea x overcrowding (F=6.25 p=0.000). In order to evaluate the impact of each main effect on the individual DVs, a Roy-Bargmann stepdown analysis was carried out. Homogeneity of regression was achieved for all components of the stepdown analysis. The brachial perimeter has a unique contribution to predict recent acute diarrhea (Roy-Bargmann F(1,1)=13.1 p=0.000). The cephalic perimeter has a unique contribution to predict acute diarrhea and overcrowding (Roy-Bargmann F(1,1)=10.22 p=0.001). CONCLUSIONS Recent acute diarrhea and overcrowding are related with poor nutritional status. Brachial and cephalic perimeters could be attractive indicators of different varieties of nutritional deficiency.</dc:description>
+<dc:type>Comparative Study</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2004 May-Aug </dc:date>
+<dc:title xml:lang="es">Perímetros braquial y cefálico como indicadores de pobreza y enfermedad diarréica aguda en niños menores de 5 ańos, en Bogotá.</dc:title>
+<dc:title xml:lang="en">[The brachial and cephalic perimeters as indicators of poverty and acute diarrhea in children under five years in Bogotá].</dc:title>
+<dc:publisher>Revista de salud publica (Bogota, Colombia)</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

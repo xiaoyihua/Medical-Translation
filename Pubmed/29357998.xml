@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>29357998</identifier>
+<setSpec>1578-1283</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Buxó, Maria</dc:author>
+<dc:author>Marcos-Gragera, Rafael</dc:author>
+<dc:author>Cordero, David</dc:author>
+<dc:author>Vilardell, Mireia</dc:author>
+<dc:author>Clèries, Ramon</dc:author>
+<dc:author>Ameijide, Alberto</dc:author>
+<dc:author>Díez-Villanueva, Ana</dc:author>
+<dc:author>Yasui, Yutaka</dc:author>
+<dc:author>Martínez, José Miguel</dc:author>
+<dc:author>Vilardell, Maria Loreto</dc:author>
+<dc:author>Carulla, Marià</dc:author>
+<dc:author>Moreno, Víctor</dc:author>
+<dc:author>Izquierdo, Ángel</dc:author>
+<dc:author>Alarcón, Francisco</dc:author>
+<dc:author>Borràs, Josep M</dc:author>
+<dc:author>Galceran, Jaume</dc:author>
+<dc:description xml:lang="en">Relative survival has been used as a measure of the temporal evolution of the excess risk of death of a cohort of patients diagnosed with cancer, taking into account the mortality of a reference population. Once the excess risk of death has been estimated, three probabilities can be computed at time T: 1) the crude probability of death associated with the cause of initial diagnosis (disease under study), 2) the crude probability of death associated with other causes, and 3) the probability of absolute survival in the cohort at time T. This paper presents the WebSurvCa application (https://shiny.snpstats.net/WebSurvCa/), whereby hospital-based and population-based cancer registries and registries of other diseases can estimate such probabilities in their cohorts by selecting the mortality of the relevant region (reference population).</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:subject>Exceso de mortalidad</dc:subject>
+<dc:subject>Excess mortality</dc:subject>
+<dc:subject>Relative survival</dc:subject>
+<dc:subject>Competing risk</dc:subject>
+<dc:subject>Cáncer de mama</dc:subject>
+<dc:subject>Net survival</dc:subject>
+<dc:subject>Supervivencia relativa</dc:subject>
+<dc:subject>Breast cancer</dc:subject>
+<dc:subject>Supervivencia neta</dc:subject>
+<dc:subject>Riesgos competitivos</dc:subject>
+<dc:date>2018 Jan 19 </dc:date>
+<dc:title xml:lang="es">WebSurvCa: estimación vía web de las probabilidades de fallecimiento y de supervivencia de una cohorte.</dc:title>
+<dc:title xml:lang="en">[WebSurvCa: web-based estimation of death and survival probabilities in a cohort].</dc:title>
+<dc:publisher>Gaceta sanitaria</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

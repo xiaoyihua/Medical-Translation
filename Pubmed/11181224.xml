@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>11181224</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>García Jiménez, J D</dc:author>
+<dc:author>Maldonado Pérez, J A</dc:author>
+<dc:author>Ayerbe García, R</dc:author>
+<dc:author>Herrera Carranza, M</dc:author>
+<dc:author>Castillo Quintero, M</dc:author>
+<dc:author>Sánchez Segovia, J</dc:author>
+<dc:description xml:lang="en">OBJECTIVE To evaluate response to pressure and flow triggering in an experimental model of the normal, obstructive and restrictive lung with six non-invasive mechanical ventilation units: Vintil+ (VP), Respironics STD20 (RR), Puritan Bennet 335 (PB), Quantum (QT), DP90 (DP) and Sullivan II ST (SV). METHOD Analog signals of volume, pressure and flow from a lung simulator were recorded by a Mingograph 34 polygraph. Positive inspiratory pressure (PIP) was 12 cmH2O, respiratory rate was 17 cycles/min, end expiratory pressure (PEEP) was 4 cmH2O, and inspiratory effort (P0.1) was 4 cmH2O. Parameters calculated were negative trigger pressure, trigger time (or the flow wave delay in triggering), and the percentage of peak inspiratory flow at which a change to exhalation or cycle phase. RESULTS The RR and PB units had the best trigger response with pressure triggering below -1 cmH2O and trigger times less than 100 ms. VP proved to have the poorest response. The cycle of the RR agreed most closely with the standard (5-25% of peak inspiratory flow), whereas change to exhalation occurred with the other units with zero flow (in all patterns with DP90, and in restrictive patterns with PB and VP) or greater than 50% of peak inspiratory flow (in all models with QT). Analysis of pressure curves showed great differences in slope, plateau and depressurization. CONCLUSIONS The RR unit proved to have the most homogeneous behavior for all the phase parameters studied as being the ones that most influence a patient's adaptation to a ventilator.</dc:description>
+<dc:type>Comparative Study</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2001 Jan </dc:date>
+<dc:title xml:lang="es">Parámetros de adaptación en ventilación mecánica no invasiva. Estudio comparativo experimental.</dc:title>
+<dc:title xml:lang="en">[Adaptation parameters in non-invasive mechanical ventilation. Experimental comparative study].</dc:title>
+<dc:publisher>Archivos de bronconeumologia</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

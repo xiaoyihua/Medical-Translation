@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>25052269</identifier>
+<setSpec>0717-6163</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Vicente, Benjamin</dc:author>
+<dc:author>Melipillán, Roberto</dc:author>
+<dc:author>Xavier, Miguel</dc:author>
+<dc:author>Maaroos, Heidi Ingrid</dc:author>
+<dc:author>Svab, Igor</dc:author>
+<dc:author>Bellón-Saameño, Juan</dc:author>
+<dc:author>Marston, Louise</dc:author>
+<dc:author>King, Michael</dc:author>
+<dc:author>Nazareth, Irwin</dc:author>
+<dc:author>Saldivia, Sandra</dc:author>
+<dc:author>Geerlings, M-I</dc:author>
+<dc:description xml:lang="en">BACKGROUND The reduction of major depression incidence is a public health challenge. AIM To develop an algorithm to estimate the risk of occurrence of major depression in patients attending primary health centers (PHC). MATERIAL AND METHODS Prospective cohort study of a random sample of 2832 patients attending PHC centers in Concepción, Chile, with evaluations at baseline, six and twelve months. Thirty nine known risk factors for depression were measured to build a model, using a logistic regression. The algorithm was developed in 2,133 patients not depressed at baseline and compared with risk algorithms developed in a sample of 5,216 European primary care attenders. The main outcome was the incidence of major depression in the follow-up period. RESULTS The cumulative incidence of depression during the 12 months follow up in Chile was 12%. Eight variables were identified. Four corresponded to the patient (gender, age, depression background and educational level) and four to patients' current situation (physical and mental health, satisfaction with their situation at home and satisfaction with the relationship with their partner). The C-Index, used to assess the discriminating power of the final model, was 0.746 (95% confidence intervals (CI = 0,707-0,785), slightly lower than the equation obtained in European (0.790 95% CI = 0.767-0.813) and Spanish attenders (0.82; 95% CI = 0.79-0.84). CONCLUSIONS Four of the factors identified in the risk algorithm are not modifiable. The other two factors are directly associated with the primary support network (family and partner). This risk algorithm for the incidence of major depression provides a tool that can guide efforts towards design, implementation and evaluation of effectiveness of interventions to prevent major depression.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2014 Mar </dc:date>
+<dc:title xml:lang="es">Desarrollo y validación de un algoritmo para predecir riesgo de depresión en consultantes de atención primaria en Chile.</dc:title>
+<dc:title xml:lang="en">[Development of an algorithm to predict the incidence of major depression among primary care consultants].</dc:title>
+<dc:publisher>Revista medica de Chile</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

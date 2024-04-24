@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>11899712</identifier>
+<setSpec>0001-5504</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Rukoz, M</dc:author>
+<dc:author>Alvarez, M</dc:author>
+<dc:author>Rivas, M</dc:author>
+<dc:description xml:lang="en">The study of the different fiber types present in muscle tissue sample images allows the investigators to identify some metabolic and contractile muscle properties, and in general, its physiological state. The image segmentation, which identifies regions or contours of objects within the image, is a fundamental step of the on-line image analysis that can help in this study. However, this kind of images, in general, are very diffuse and with low contrast, so it is difficult to identify the different objects within the image. The main objective of this work is to propose a two-phase method for segmentation of digitized images of cross sections of rat muscle tissue. The first phase allows obtaining an initial group of homogeneous regions by using a uniformity criterion. In this phase we use a division and union of regions algorithm. The purpose of the second phase is to group together in an image the regions corresponding to a given fiber type. The results obtained show an appropriate identification of the regions of interest on the images studied.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2001 </dc:date>
+<dc:title xml:lang="es">Segmentación de imagenes biomédicas mediante crecimiento de regiones.</dc:title>
+<dc:title xml:lang="en">[Biomedical images segmentation by the regions growth method].</dc:title>
+<dc:publisher>Acta cientifica venezolana</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

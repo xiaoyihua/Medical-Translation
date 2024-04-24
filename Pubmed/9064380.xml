@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>9064380</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Riu, M</dc:author>
+<dc:author>Sáez, M</dc:author>
+<dc:author>Castells, X</dc:author>
+<dc:description xml:lang="en">BACKGROUND To analyze the relationship between length of hospitalary stay and early readmission rate. To assess the hypothesis that those admissions with the lowest length of stay are associated with higher early readmission rate. PATIENTS AND METHODS Retrospective study of 35,902 hospital admissions. A single admission was selected randomly for each patient. The readmission risk during 31 days were related with length of stay level. Logistic regression model was applied to adjusting by other variables (age, sex, admission year, emergency admission, patient residence, payer). RESULTS The early readmission rate is lower in the admissions with low outlier length of stay than with not outlier length of stay (5.8% vs 9.8%). After adjusting for other variables the odds ratio is under 1 but not statically significant (0.90; 0.80-1.02). Admissions with high length of stay outlier haver higher early readmission rate (10.4%), with adjusted odds ratio of 1.14 (1.02-1.27). CONCLUSIONS Admissions with lowest length of stay did not have a high early readmission risk.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>1996 Nov 02 </dc:date>
+<dc:title xml:lang="es">Asociación entre la estancia media hospitalaria y la tasa de reingresos prematuros.</dc:title>
+<dc:title xml:lang="en">[Relationship between average hospital stay and the rate of early readmissions].</dc:title>
+<dc:publisher>Medicina clinica</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

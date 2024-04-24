@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>16913459</identifier>
+<setSpec>0036-3634</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Figueiras, Adolfo</dc:author>
+<dc:author>Carracedo-Martínez, Eduardo</dc:author>
+<dc:description xml:lang="en">In epidemiological surveys, non-response constitutes a great limitation due to the loss of validity and statistical power it represents, whether such a loss occurs due to partial participation (the individual fails to answer certain variables) or due to total lack of participation (the individual does not answer any variable). This paper reviews the scientific literature on the different methods to process statistic data when non-response has occurred in non-longitudinal studies, so as to counteract their effect in such studies. Most statistical methods focus on dealing with partial participation (missing data). These methods, of which there is a great variety, can be classified into two large groups: imputation and complete data. For accurate selection of the study method, it is necessary to study the data matrix beforehand, observing the missing data generation mechanism, as well as the proportion they represent of the total data.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2006 Jul-Aug </dc:date>
+<dc:title xml:lang="es">Tratamiento estadistico de la falta de respuesta en estudios epidemiológicos transversales.</dc:title>
+<dc:title xml:lang="en">[Statistical processing of non-response in transversal epidemiological studies].</dc:title>
+<dc:publisher>Salud publica de Mexico</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

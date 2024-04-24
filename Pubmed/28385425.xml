@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>28385425</identifier>
+<setSpec>1578-2190</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Carrascosa, J M</dc:author>
+<dc:author>Moreno-Ramírez, D</dc:author>
+<dc:author>Ferrándiz, C</dc:author>
+<dc:author>Ruiz-Villaverde, R</dc:author>
+<dc:author>Rodríguez-Fernández, L</dc:author>
+<dc:author>de la Cueva, P</dc:author>
+<dc:author>Galán, M</dc:author>
+<dc:author>Ferrándiz, L</dc:author>
+<dc:author>Rivera, R</dc:author>
+<dc:author>Ojeda-Vila, T</dc:author>
+<dc:author>Herrerías-Esteban, J M</dc:author>
+<dc:author>Carretero, G</dc:author>
+<dc:description xml:lang="en">BACKGROUND Therapeutic decisions in psoriasis are influenced by disease factors (e.g., severity or location), comorbidity, and demographic and clinical features. OBJECTIVE We aimed to assess the reliability of a mobile telephone application (MDi-Psoriasis) designed to help the dermatologist make decisions on how to treat patients with moderate to severe psoriasis. METHOD We analyzed interobserver agreement between the advice given by an expert panel and the recommendations of the MDi-Psoriasis application in 10 complex cases of moderate to severe psoriasis. The experts were asked their opinion on which treatments were most appropriate, possible, or inappropriate. Data from the same 10 cases were entered into the MDi-Psoriasis application. Agreement was analyzed in 3 ways: paired interobserver concordance (Cohen's κ), multiple interobserver concordance (Fleiss's κ), and percent agreement between recommendations. RESULTS The mean percent agreement between the total of 1210 observations was 51.3% (95% CI, 48.5-54.1%). Cohen's κ statistic was 0.29 and Fleiss's κ was 0.28. Mean agreement between pairs of human observers only, excluding the MDi-Psoriasis recommendations, was 50.5% (95% CI, 47.6-53.5%). Paired agreement between the recommendations of the MDi-Psoriasis tool and the majority opinion of the expert panel (Cohen's κ) was 0.44 (68.2% agreement). CONCLUSIONS The MDi-Psoriasis tool can generate recommendations that are comparable to those of experts in psoriasis.</dc:description>
+<dc:type>Journal Article</dc:type>
+<dc:language>es</dc:language>
+<dc:subject>eSalud</dc:subject>
+<dc:subject>Health applications</dc:subject>
+<dc:subject>Psoriasis</dc:subject>
+<dc:subject>Comorbidity</dc:subject>
+<dc:subject>Reproducibility</dc:subject>
+<dc:subject>Biologics</dc:subject>
+<dc:subject>Biológicos</dc:subject>
+<dc:subject>Apps</dc:subject>
+<dc:subject>Comorbilidad</dc:subject>
+<dc:subject>eHealth</dc:subject>
+<dc:subject>Reproducibilidad</dc:subject>
+<dc:date>2017 Sep </dc:date>
+<dc:title xml:lang="es">Fiabilidad de una aplicación de ayuda a la toma de decisiones terapéuticas en el paciente con psoriasis (MDi Psoriasis®).</dc:title>
+<dc:title xml:lang="en">Reliability of the MDi Psoriasis® Application to Aid Therapeutic Decision-Making in Psoriasis.</dc:title>
+<dc:publisher>Actas dermo-sifiliograficas</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>

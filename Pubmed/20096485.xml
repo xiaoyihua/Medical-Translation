@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pubmed-document>
+<record>
+<header>
+<identifier>20096485</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:author>Sánchez Rodríguez, P</dc:author>
+<dc:author>Rodríguez Villar, S</dc:author>
+<dc:author>López Reina Torrijos, P</dc:author>
+<dc:author>Velasco Ramos, A</dc:author>
+<dc:author>Cabezas Martín, H</dc:author>
+<dc:author>Sánchez Casado, M</dc:author>
+<dc:author>López de Toro Martín Consuegra, I</dc:author>
+<dc:author>Raigal Caño, A</dc:author>
+<dc:description xml:lang="en">INTRODUCTION To evaluate eosinopenia as an early marker of infection. DESIGN Retrospective cohort study. PATIENTS Medical-surgical ICU patients with high severity scores. MAIN VARIABLES Data on days 1-5: Demographic data, diagnosis, clinical repercussion, mechanical ventilation, clinical development, length of stay, APACHE II, leukocytes, SOFA and lactate. Patients divided into two groups: with and without infection. ROCs (receiver operator characteristic) curves were plotted and best point for discriminative values determined. RESULTS 244 patients were included: 22.5% with infection. 52.9% medical, 22.5% surgical and 24.6% polytrauma patients. APACHE II: 14.9+/-8.9. In a logistic regression model of infection (dependent variable infection), the independent variables were: APACHE II, SOFA, monocytes and eosinophils. The ROC curve for eosinophils on the first day: area of 0.72; the best cut off value is 10 eosinophils/microl, with sensitivity (S): 64.8% and specificity (Sp): 70.9%. In medical patients, the area under curve is 0.80, with ideal cut off value of 9 eosinophils/microl; in surgical patients is 0.53, with a cut off ideal value of 54. We combined eosinophils and monocytes: a cut-off value of 9 eosinophils/microl in medical patients with &gt;400 monocytes/microl, has: S: 86.7%, Sp: 74.7%, a positive predictive value (PPV) of 40.6% and a negative predictive value (NPV) 96.6%; in postsurgical patients with &lt;400 monocytes/microl and a cut-off value of 54 eosinophils: S: 100%, Sp: 20%, PPV: 52.9% and NPV: 100%. CONCLUSIONS In a medical-surgical ICU, the capacity to discriminate infection through examining eosinopenia is not high. It could be useful to rule out infection if we combined eosinopenia with monocytes count.</dc:description>
+<dc:type>English Abstract</dc:type>
+<dc:language>es</dc:language>
+<dc:date>2010 May </dc:date>
+<dc:title xml:lang="es">Evaluación de la eosinopenia como marcador de infección en pacientes ingresados en una Unidad de Cuidados Intensivos.</dc:title>
+<dc:title xml:lang="en">[Evaluation of eosinopenia as an infection marker in critical care patients].</dc:title>
+<dc:publisher>Medicina intensiva</dc:publisher>
+</metadata>
+</record>
+</pubmed-document>
