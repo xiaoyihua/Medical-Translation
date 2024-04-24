@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-122437</identifier>
+<setSpec>1135-7606</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Radiological and image analysis study to estimate the age in sternum and scapula of adult population</dc:title>
+<dc:description xml:lang="en">Nowadays, the studies to estimate the age in adult individuals do not give reliable information to forensic anthropology cases. For this reason, it is necessary to research in this area improving the current methods or designing new ones. The present study has been carried out using 226 scapulas and 98 sternums from current Spanish population individuals of known age and sex, which have been submitted to a standardized process of x-ray and digitalization. On the x-rays plaques, the medium grey values have been obtained, using Image J software, in a 1cm2 of surface, in the  glenoid cavity and acromion of the scapula, and in the manubrium and body of the sternum. The results calculated using the statistical software SPSS 15.0 have shown the best variable to predict the age in adult individuals has been the medium grey value in the manubrium of the sternum. It has given, for itself, a 63% of information in females and a 56% in males. The combination with the other three variables has not improved the percentage of reliability because it has only increased until a 69% in females and 64% in males (AU)</dc:description>
+<dc:creator>Sánchez Sánchez, J. A</dc:creator>
+<dc:creator>Benito Sánchez, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Actualmente, los estudios para estimar la edad en sujetos adultos no ofrecen buenos resultados en el estudio antropológico forense. Por esta razón, se hace necesaria la creación de nuevos métodos que ayuden a solventar este problema. El presente estudio se ha realizado en una muestra de 226 escápulas y 98 esternones, de individuos de sexo y edad conocidos, de población española actual, que han sido radiografiados y digitalizados, de manera estandarizada. Sobre las radiografías se han calculado los valores de densidad de gris, en una superficie de 1 cm2, en la cavidad glenoidea y el acromion de la escápula, así como en el manubrio y el cuerpo del esternón, utilizando el programa Image J. Los  resultados obtenidos, utilizando el programa estadístico SPSS 15.0, muestran que la variable que mejor actúa como predictora de la edad es la media de gris en el manubrio del esternón, que aporta un 63% de información en mujeres y un 56% en varones, por sí sola. La combinación de ésta con las otras tres variables no aumenta significativamente el porcentaje, llegando a alcanzar gracias a la suma de las cuatro variables un 69% en el caso femenino y un 64% en el masculino (AU)</dc:description>
+<dc:source>Cuad. med. forense;19(3/4): 87-94, jul.-dic. 2013. ilus, tab</dc:source>
+<dc:identifier>ibc-122437</dc:identifier>
+<dc:title xml:lang="es">Estimación de la edad en adultos mediante métodos radiológicos y de análisis de imagen en el esternón y la escápula</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d13635^s22058</dc:subject>
+<dc:subject>^d23151^s22045</dc:subject>
+<dc:subject>^d23437^s22045</dc:subject>
+<dc:subject>^d32245^s22045</dc:subject>
+<dc:subject>^d12922^s22058</dc:subject>
+<dc:subject>^d2136</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201312</dc:date>
+</metadata>
+</record>
+</ibecs-document>

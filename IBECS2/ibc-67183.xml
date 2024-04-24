@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-67183</identifier>
+<setSpec>1575-4723</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:description xml:lang="en">The potential targets of drugs are as varied as the molecular components that make up the organism or pathogen. These include proteins, nucleic acids, lipids and carbohydrates. The structural information of these targets or complex target-ligand can be obtained by several procedures, mainly Xray crystallography or nuclear magnetic resonance spectroscopy (NMR).The improvement of the related technologies has made possible the constant increase of the number of macromolecule-ligand complexes available in the Protein Data Bank. As consequence, the discovery of the new drugs is today based in the structure of the target, instead of the structure of others ligands (AU)</dc:description>
+<dc:creator>San Feliciano, Arturo</dc:creator>
+<dc:creator>Olmo Fernández, Esther del</dc:creator>
+<dc:creator>López Pérez, José L</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Las dianas de los fármacos comprenden una amplia variedad de componentes celulares que pueden estar presentes tanto en el hospedador como en el huésped en las enfermedades ocasionadas por un patógeno. Incluyen proteínas, ácidos nucleicos, lípidos o carbohidratos. La determinación estructural de estas dianas o de sus complejos con ligandos pueden llevarse a cabo por diversos procedimientos, fundamentalmente difracción de rayos-X y espectroscopia de RMN. La mejora de estas metodologías ha hecho que el número de complejos macromolécula-ligando resueltos y disponibles en la Base de Proteínas de Brookhaven aumente constantemente. Por esta razón, en la actualidad, el descubrimiento de nuevos fármacos se basa en la estructura de la diana en lugar de tomar como referencia la estructura de otros ligandos tal como se hacía en el pasado (AU)</dc:description>
+<dc:source>Enferm. emerg;7(1): 52-56, ene.-mar. 2005.</dc:source>
+<dc:identifier>ibc-67183</dc:identifier>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d37673^s22066</dc:subject>
+<dc:subject>^d22945</dc:subject>
+<dc:subject>^d24613</dc:subject>
+<dc:subject>^d30745^s22045</dc:subject>
+<dc:subject>^d23621</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4408^s22074</dc:subject>
+<dc:subject>^d1690</dc:subject>
+<dc:subject>^d4409</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200503</dc:date>
+</metadata>
+</record>
+</ibecs-document>

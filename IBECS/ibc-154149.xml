@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-154149</identifier>
+<setSpec>0034-9356</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Inserting epidural patient controlled analgesia into a peripheral venous line</dc:title>
+<dc:description xml:lang="en">A case is reported from the Safety Reporting System in Anaesthesia and Resuscitation database. The event occurred in a patient undergoing abdominal surgery in whom an epidural catheter was inserted for analgesia. After the intervention, the patient was transferred to the recovery unit where the patient controlled analgesia (PCA) is programmed. Due to an error, the PCA was connected to a peripheral venous line, which was detected early without harm to the patient. Communication and analysis of this incident served to introduce a new drug delivery protocol through PCA pumps, including the obligation to prescribe the PCA in the electronic system, a dual computerised check immediately before connecting PCA, labelling the medication bag as well as the proximal and distal lines, standardisation of daily visits to patients, and monthly monitoring of results (AU)</dc:description>
+<dc:creator>Sistema Español de Notificaciones en Seguridad en Anestesia y Reanimación (SENSAR)</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Se presenta un caso comunicado en la base de datos del Sistema de Notificación en Seguridad en Anestesia y Reanimación. El evento se produce en una paciente sometida a cirugía abdominal a la que se coloca preoperatoriamente un catéter epidural para analgesia. Al finalizar la intervención se traslada a la Unidad de Reanimación, donde se programa la analgesia controlada por el paciente (PCA). Por error, se conecta la PCA a una vía venosa periférica, detectándose precozmente sin que le produzca daño a la paciente. El análisis de este incidente permitió implantar un nuevo protocolo de administración de fármacos a través de PCA, lo que incluye la obligatoriedad de prescribir las PCA en el sistema electrónico, un sistema de doble chequeo antes de la conexión de la PCA, el etiquetado de las bolsas de medicación y las líneas tanto en el extremo proximal como en el distal, la estandarización de la visita diaria a los pacientes y el control mensual de los resultados obtenidos (AU)</dc:description>
+<dc:source>Rev Esp Anestesiol Reanim;63(7): e23-e28, ago.-sept. 2016. tab, ilus</dc:source>
+<dc:identifier>ibc-154149</dc:identifier>
+<dc:title xml:lang="es">Colocación de analgesia controlada por el paciente epidural por vía venosa periférica</dc:title>
+<dc:subject>^d22860^s22024</dc:subject>
+<dc:subject>^d28858^s22048</dc:subject>
+<dc:subject>^d28858^s22039</dc:subject>
+<dc:subject>^d22860^s22039</dc:subject>
+<dc:subject>^d7530^s22074</dc:subject>
+<dc:subject>^d21012</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d22603^s22021</dc:subject>
+<dc:subject>^d7530^s22048</dc:subject>
+<dc:subject>^d28858^s22066</dc:subject>
+<dc:subject>^d28858^s22045</dc:subject>
+<dc:subject>^d28858^s22024</dc:subject>
+<dc:subject>^d28858^s22074</dc:subject>
+<dc:subject>^d12825^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201609</dc:date>
+</metadata>
+</record>
+</ibecs-document>

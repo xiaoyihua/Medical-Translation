@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150012</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Marginal and conditional models in multivariate survival analysis</dc:title>
+<dc:description xml:lang="en">The fact that individuals can present more than one event (fail) in the observation period (multivariate survival analysis) demands a different methodology from that used in univariate survival analysis. The main problem of the Cox model with multivariate data is that the observations are not independent implying, among others, the violation of the proportionality hypothesis. The Andersen-Gill approximation to the Cox model (AG) overcomes in part this problem. The underlying hypotheses in the AG model, however, are very restrictive, in particular that of independent increments. Under this hypothesis the multiple observations of an individual are independent, although conditioned on the explanatory variables. In practice, this limitation could let us to biased and inefficient estimators that are usually overestimated because, in general, the observations of an individual use to be positively correlated. As a solution to this problem, marginal and conditional models turn up. The main difference between these models is the treatment that dependence receives. Whereas the first one estimates the model ignoring the dependence between recurrences and adjustes this at the end with jackknife, boostrap or «sandwich» estimates; the second one estimates the dependence specifying explicitly the probability distribution of the dependence and incorporating this into the model. Our objective in this paper is to illustrate these two approaches using nosocomial infection data (AU)</dc:description>
+<dc:creator>Barceló, MA</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El hecho de que los individuos puedan experimentar varios sucesos (fallos) durante el período de observación (análisis de supervivencia multivariante) hace que sea necesaria la aplicación de una metodología diferente de la empleada en el análisis de supervivencia estándar univariante. Al analizar medidas repetidas, el principal problema del modelo de Cox se debe a que las observaciones no son independientes, lo cual llevará al incumplimiento de la hipótesis de riesgos proporcionales. Con el propósito de solucionar este problema, así como otros que puedan darse debido a este tipo de datos, aparece el modelo de Andersen-Gill (AG), que no es más que una generalización del modelo de Cox. Sin embargo, la hipótesis clave de este modelo (hipótesis de incrementos independientes) supone que las múltiples observaciones de un mismo individuo son independientes, condicionados a las variables explicativas. En la práctica, esta limitación puede conducir a estimadores sesgados e ineficientes, sobrestimándose normalmente la precisión de los mismos ya que, por lo común, las observaciones de un mismo individuo suelen estar positivamente correlacionadas. Con el fin de hallar una solución a esto, aparecen los modelos marginales y los modelos condicionales. La principal diferencia entre estos modelos es el trato que recibe la dependencia. Mientras que los primeros estiman el modelo ignorando la dependencia entre observaciones, corrigiéndola posteriormente mediante estimadores jackknife, bootstrap o «sándwich», los segundos la estiman especificando explícitamente la distribución de probabilidad de la misma e incorporándola en el modelo. Nuestro objetivo en este artículo consiste en ilustrar estas dos aproximaciones utilizando una base de datos de infecciones nosocomiales (AU)</dc:description>
+<dc:source>Gac Sanit;16(supl.2): 59-68, dic. 2002. tab, graf</dc:source>
+<dc:identifier>ibc-150012</dc:identifier>
+<dc:title xml:lang="es">Modelos marginales y condicionales en el análisis de supervivencia multivariante</dc:title>
+<dc:subject>^d24890</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d32016</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24842</dc:subject>
+<dc:subject>^d28477^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200212</dc:date>
+</metadata>
+</record>
+</ibecs-document>

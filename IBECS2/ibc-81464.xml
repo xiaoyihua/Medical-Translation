@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-81464</identifier>
+<setSpec>1138-3593</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Logistic regression model for the calculation of dependence according to the Lawton and Brody scale</dc:title>
+<dc:description xml:lang="en">Objective. To calculate the association of dependence according to the Lawton and Brody scale in elderly subjects over 65 years of age and social-demographic variables using logistic regression. Material and methods. A cross-sectional study conducted in Primary Care in an urban health area of Badajoz in a sample of 125 elderly subjects over 65 years by stratification and random sampling by gender and age groups. The variables obtained are sociodemographic (gender and age groups), marital status, coexistence, housing, studies and social class. Subjects were classified as dependent by the Instrumental Activities of the Daily Living when they scored less than 8 points. Statistic analysis: binary logistic regression by backward step. Results. Gender: OR=1.267, risk of dependence is greater in men than in women. The 95% CI is very precise. Age groups: OR=0.155 and 0.231 from the fourth step indicates lower risk in the age groups 1 and 2 compared to those over 85 years. Results. Coexistence: its association with the dependence is significant (p=0.00). The categories &#147;with partner&#148; and &#147;he/she lives alone&#148; multiply by 0.086 and 0.367 the probabilities of dependence compared with &#147;Others.&#148; Social class: it is associated to dependence and with higher risk in class V. Housing, studies and marital status have been eliminated from the final model because there coefficients are non-significant. Conclusions. The final model includes gender, age groups, coexistence and social class, associated with dependence. We consider that the scale is useful in those over 65 years in order to detect dependence precociously (AU)</dc:description>
+<dc:creator>García Pérez, R</dc:creator>
+<dc:creator>García Moreno, R</dc:creator>
+<dc:creator>González Ballester, D</dc:creator>
+<dc:creator>García Pino, G</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Estimar mediante regresión logística la asociación de dependencia según escala de Lawton y Brody en mayores de 65 años y variables sociodemográficas. Material y métodos. Estudio transversal realizado en atención primaria en una zona de salud urbana de Badajoz, sobre una muestra de 125 personas mayores de 65 años mediante estratificación y muestreo aleatorio por sexo y grupos de edad. Las variables obtenidas son sociodemográficas (sexo y grupos de edad), estado civil, convivencia, vivienda, estudios y clase social. Clasificamos como dependientes para las actividades instrumentales de la vida diaria aquellos con menos de 8 puntos. Análisis estadístico: regresión logística multivariante por pasos hacia atrás. Resultados. Sexo: OR=1,276, el riesgo de dependencia en varones es mayor que en mujeres. El IC95% es muy preciso. Grupos de edad: OR=0,155&#150;0,231 del cuarto paso indican menor riesgo en grupos de edad 1 y 2 frente a los mayores de 85 años. Resultados. Convivencia: es significativa (p=0,00) su asociación con la dependencia. Las categorías «En pareja» y «Vive solo/a» multiplican por 0,086 y 0,367 la probabilidad de dependencia comparadas con «Otros». Clase social: asociada a la dependencia y con mayor riesgo en la clase V. Vivienda, estudios y estado civil son eliminadas del modelo definitivo porque tienen coeficientes no significativos. Conclusiones. El modelo final incluye sexo, grupos de edad, convivencia y clase social, asociadas con la dependencia. Consideramos útil la escala en mayores de 65 años para detectar precozmente la dependencia (AU)</dc:description>
+<dc:source>SEMERGEN, Soc. Esp. Med. Rural Gen. (Ed. Impr.);36(7): 365-371, ago.-sept. 2010. tab</dc:source>
+<dc:identifier>ibc-81464</dc:identifier>
+<dc:title xml:lang="es">Modelo de regresión logística para estimar la dependencia según la escala de Lawton y Brody</dc:title>
+<dc:subject>^d11756^s22083</dc:subject>
+<dc:subject>^d12006^s22083</dc:subject>
+<dc:subject>^d13305</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:subject>^d11756^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201009</dc:date>
+</metadata>
+</record>
+</ibecs-document>

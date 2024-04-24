@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-11081</identifier>
+<setSpec>1130-5665</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Myoelectric prostheses trainer for hand and arm amputees</dc:title>
+<dc:creator>Hornero Sánchez, R</dc:creator>
+<dc:creator>Rosa Steinz, de la</dc:creator>
+<dc:creator>Espino Hurtado, P</dc:creator>
+<dc:creator>Alonso Alonso, A</dc:creator>
+<dc:creator>Liptak, L</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Editorial Mapfre</dc:publisher>
+<dc:description xml:lang="es">Introducción: Los objetivos del entrenador mioeléctrico virtual son el evaluar la adecuación de una prótesis mioeléctrica para amputados de mano y posibilitar un aprendizaje previo de manejo de prótesis a bajo coste. Material y métodos: Se emplean equipos de adquisición de señales de electromiograma de desarrollo propio, un ordenador compatible convencional y un conjunto de programas que controlan el sistema, distinguen los patrones de electromiograma y representan una imagen en tres dimensiones de una prótesis de mano. El sistema puede hacerse funcionar sobre cualquier PC actual. Se define un protocolo de ensayos sobre pacientes. El programa registra datos sobre la evolución de los pacientes. Resultados preliminares y discusión: Se ha probado el sistema sobre dos personas sin amputación que han realizado entrenamientos con éxito, consiguiendo controlar apertura y cierre de la mano y giro de la muñeca en ambos sentidos. Se emplea tan sólo la señal de dos canales diferenciales de electromiograma registrados en dos músculos antagonistas del brazo. Las prestaciones de sistema pueden ampliarse. Conclusiones: Se han desarrollado equipos de bajo coste y programas que instalados sobre un ordenador compatible consiguen funcionar como un entrenador de prótesis mioeléctricas. Estos sistemas son adecuados para valorar la utilidad en un paciente de una prótesis mioeléctrica y realizar aprendizajes previos sobre su uso. El bajo coste y la sencillez del sistema permiten su posible utilización en el domicilio del paciente, facilitando y acortando el período de aprendizaje (AU)</dc:description>
+<dc:source>MAPFRE med;13(1): 11-19, ene. 2002. ilus</dc:source>
+<dc:identifier>ibc-11081</dc:identifier>
+<dc:title xml:lang="es">Entrenador mioeléctrico de prótesis para amputados de brazo y mano</dc:title>
+<dc:subject>^d1192</dc:subject>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d19402</dc:subject>
+<dc:subject>^d11239</dc:subject>
+<dc:subject>^d6378^s22009</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d686^s22061</dc:subject>
+<dc:subject>^d1136^s22009</dc:subject>
+<dc:subject>^d4648</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200201</dc:date>
+</metadata>
+</record>
+</ibecs-document>

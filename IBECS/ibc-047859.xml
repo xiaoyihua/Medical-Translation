@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-047859</identifier>
+<setSpec>0211-139X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Genetic implications in longevity: a multigenic analysis in males and females</dc:title>
+<dc:description xml:lang="en">Introduction: females live longer than males. We have traced the gender-associated advantage to the up-regulation of longevity-associated genes by oestrogens. However, we restricted our analysis to the well-known longevity-associated genes. A more general approach can be adopted through the use of Genechip analysis, which allows the expression of 9,000 genes to be studied. We studied the expression of these genes in the brains of male rats and compared the results with those in females. Material and method: genome-wide expression was studied using Affymetrix technology. Essentially, total ARN was extracted and double-stranded cDNA was obtained by reverse transcription. New biotinylated complementary ARN was obtained and purified. The sample was hybridised and introduced into an Affymetrix fluidics station. The results were scanned and analysed by a Microarray Suite 3.0. Results: we found 33 genes whose expression was significantly increased in males versus females and 53 genes that were over-expressed in females in comparison with males. In particular, we studied genes whose expression was twofold higher or more in males than in females and found that these genes were all related to ageing. Thus, we identified age-related genes that are over-expressed in females when compared with males and whose expression was not previously identified as being gender-specific. Conclusions: genome-wide analysis is a powerful tool to identify genes that are over-expressed in females versus males and to determine which of these genes are relevant to the study of ageing</dc:description>
+<dc:creator>Lloret Alcañiz, Ana</dc:creator>
+<dc:creator>Pallardó Calatayud, Federico V</dc:creator>
+<dc:creator>Viña Ribes, José</dc:creator>
+<dc:creator>Sastre Belloch, Juan</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: las hembras viven más que los machos. Hemos demostrado que los estrógenos son capaces de aumentar la expresión de genes asociados a la longevidad. Sin embargo, nos hemos centrado en el estudio de genes cuya relación con la longevidad está muy bien establecida. Por esto, nos planteamos el estudio de 9.000 genes mediante el método del Genechip. Estudiamos la expresión de estos genes en machos y los comparamos con la expresión en las hembras. Material y método: la expresión de los genes se estudió mediante la tecnología Affymetrix. En esencia, aislamos ARN total y lo pasamos a ADNc de doble cadena por retrotranscripción. Obtenemos ARN marcado con biotina a partir del ADNc y lo purificamos. La muestra se introduce en un bioarray U34A y se procesa en la estación de fluidos Affymetrix. Los resultados se escanean y analizan con el programa Microarray Suite 3.0. Resultados: encontramos 33 genes cuya expresión es significativamente mayor en el macho que en la hembra y 53 genes que se sobrexpresan en la hembra comparada con el macho. Estudiamos en particular los genes cuya expresión cambiaba más de 2 veces, y vemos que todos estos genes están relacionados con el envejecimiento. Por tanto, encontramos genes que se sobrexpresan en la hembra respecto del macho y previamente no habían sido identificados como relacionados con el sexo. Conclusiones: el análisis multigénico es una herramienta útil para identificar genes sobrexpresados en las hembras en relación con los machos y que sean relevantes en el proceso de envejecimiento</dc:description>
+<dc:source>Rev. esp. geriatr. gerontol. (Ed. impr.);41(4): 228-231, jul. 2006. tab, graf</dc:source>
+<dc:identifier>ibc-047859</dc:identifier>
+<dc:title xml:lang="es">Implicaciones genéticas en la longevidad: análisis multigénico en el macho y en la hembra</dc:title>
+<dc:subject>^d8311^s22033</dc:subject>
+<dc:subject>^d27830</dc:subject>
+<dc:subject>^d12345</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d22275^s22002</dc:subject>
+<dc:subject>^d24666^s22033</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200607</dc:date>
+</metadata>
+</record>
+</ibecs-document>

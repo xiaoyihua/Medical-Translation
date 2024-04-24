@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-129625</identifier>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Predictive factors for kidney damage in febrile urinary tract infection. Usefulness of procalcitonin</dc:title>
+<dc:description xml:lang="en">Objective: To establish the utility of procalcitonin (PCT) and other clinical and analytical parameters as markers of acute and permanent renal damage in children after a first febrile urinary tract infection (UTI). Methods: Retrospective multicentre study. Statistical study: descriptive, receiver operating characteristic (ROC) curves and multiple logistic regression. Results: 219 patients, aged between 1 week and 14 years (68% under 1 year). The mean PCT values were significantly higher in patients with acute pyelonephritis with respect to normal acute DMSA (4.8 vs 1.44; p=0.0001), without achieving that signification for late affected DMSA (6.5 vs 5.05; p=0.6). The area under the ROC curve for PCT was 0.64 (CI 95% 0.55-0.72) for acute renal damage, and 0.62 (CI 95% 0.44-0.80) for permanent damage, with optimum statistical cut-off values of 0.85 and 1.17ng/ml. Multivariate analysis for acute renal damage only found correlation with PCT (Odds Ratio [OR] 1.2 (CI 95% 1.06-1.4, p=0.005), and hours of fever (OR for less than 6 hours of fever 0.4 (CI 95% 0.2-1.02, p=0.05). In patients with renal scarring, PCT showed an OR 1.0 (CI 95% 0.9-1.1, p=0.6). Conclusions: PCT and the duration of fever were the only parameters statistically associated with early renal damage. PCT and renal scarring did not reach statistical significance (AU)</dc:description>
+<dc:creator>Lucas-Sáez, Elena</dc:creator>
+<dc:creator>Bou-Monterde, Ricardo</dc:creator>
+<dc:creator>Peris-Vidal, Amelia</dc:creator>
+<dc:creator>Ferrando-Monleón, Susana</dc:creator>
+<dc:creator>Marín-Serra, Juan</dc:creator>
+<dc:creator>Hervás-Andrés, Aurelio</dc:creator>
+<dc:creator>Fons-Moreno, Jaime</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Establecer la utilidad de la procalcitonina (PCT) y otros parámetros clínicos y analíticos como indicadores de daño renal agudo y permanente en niños tras una primera infección del tracto urinario (ITU) febril. Material y métodos: Estudio retrospectivo multicéntrico. Estudio estadístico: descriptivo, curvas ROC y regresión logística múltiple. Resultados: 219 pacientes, con edades entre 1 semana y 14 años (68 % menores de 1 año). Las medias de PCT fueron significativamente mayores en pacientes con pielonefritis aguda respecto a aquellos con DMSA agudo normal (4,8 frente a 1,44; p = 0,0001), sin alcanzar significación para DMSA tardío (6,5 frente a 5,05; p = 0,6). El área bajo la curva ROC de PCT fue 0,64 (IC 95 % 0,55-0,72) para daño renal agudo y 0,62 (IC 95 % 0,44-0,80) para permanente; con puntos de corte óptimos de 0,85 y 1,17 ng/ml. El análisis multivariante para daño renal agudo solo encontró correlación con PCT (odds ratio [OR] 1,2, IC 95 % 1,06-1,4; p = 0,005) y horas de fiebre (OR para &lt; 6 h 0,4, IC 95 % 0,2-1,02; p = 0,05). En los pacientes con cicatriz, la OR para PCT fue 1,0 (IC 95 % 0,9-1,1; p = 0,6). Conclusiones: La PCT y la duración de la fiebre fueron los únicos parámetros que se asociaron de forma significativa a daño parenquimatoso agudo. No se observó relación estadísticamente significativa entre la PCT y la cicatriz renal (AU)</dc:description>
+<dc:source>Nefrologia;34(4): 451-457, jul.-ago. 2014. ilus, tab</dc:source>
+<dc:identifier>ibc-129625</dc:identifier>
+<dc:title xml:lang="es">Factores predictivos de daño renal en la infección febril del tracto urinario. Utilidad de la procalcitonina</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d50497^s22032</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d53982^s22032</dc:subject>
+<dc:subject>^d29640</dc:subject>
+<dc:subject>^d14952^s22012</dc:subject>
+<dc:subject>^d32285</dc:subject>
+<dc:subject>^d22372^s32387</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201408</dc:date>
+</metadata>
+</record>
+</ibecs-document>

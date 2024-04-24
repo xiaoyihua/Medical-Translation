@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-145559</identifier>
+<setSpec>0212-1611</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Construction and expression of Dermatophagoides pteronyssinus group 1 major allergen T cell fusion epitope peptide vaccine vector based on the MHC II pathway</dc:title>
+<dc:description xml:lang="en">Backgound and aims: Dermatophagoides peteronyssinus is one of the important house dust mites responsible for allergic asthma that can be tentatively managed by specific immunotherapy. The present study was to construct a vector encoding T-cell epitopes of major allergen group 1 of Dermatophagoides pteronyssinus as a vaccine delivered by MHC class II pathway. Methods: the nucleotide sequences of the 3 target genes were synthesized, including TAT, IhC and the recombinant fragment of Der p 1 encoding 3 T-cell epitopes. After amplification of the 3 target fragments by PCR and digestion with corresponding restriction endonucleases, the recombinant gene TAT-IhC-Der p 1-3T was ligated using T4 DNA ligase and inserted into the prokaryotic expression vector pET28a(+) to construct the recombinant plasmid pET- 28a(+)-TAT-IhC-Der p 1-3T, which was confirmed by digestion with restriction endonucleases and sequencing. The recombinant vector was transformed into E. coli strain BL21 (DE3) and induced with IPTG, and the induced protein TAT-IhC-Der p1-3T was detected by SDS-PAGE. After purification, the recombinant protein was confirmed by Western blotting and its allergenicity tested using IgE-binding assay. Results: the recombinant plasmid pET-28a-TAT-IhCDer p1-3T was successfully constructed as confirmed by restriction endonuclease digestion and sequencing, and the expression of the recombinant protein TAT-IhC-Der p1-3T was induced in E. coli. Western blotting verified successfull purification of the target protein, which showed a stronger IgE-binding ability than Der p1. Conclusion: we successfully constructed the recombinant expression vector pET-28a-TAT-IhC-Der p1-3T expressing a T-cell epitope vaccine delivered by MHC II pathway with strong IgE-binding ability, which provides  a basis for further study on specific immunotherapy via MHC class II pathway (AU)</dc:description>
+<dc:creator>Li, Chaopin</dc:creator>
+<dc:creator>Lu, Wei</dc:creator>
+<dc:creator>Jiang, Yuxin</dc:creator>
+<dc:creator>Zhao, Beibei</dc:creator>
+<dc:creator>Li, Na</dc:creator>
+<dc:creator>Diao, Jidong</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Antecedentes y objetivo: el Dermatophagoides peteronyssinus es uno de los principales ácaros del polvo doméstico responsables del asma alérgica que se pueden administrar provisionalmente para una inmunoterapia específica. El presente estudio busca construir un vector que codifique epítopos de células T del grupo de alérgenos principal, el Grupo 1 de Dermatophagoides pteronyssinus como una vacuna suministrada mediante la vía MHC de clase II. Métodos: se sintetizaron las secuencias de nucleótidos de los 3 genes objetivo, incluyendo TAT, IhC y el fragmento recombinante de Der p 1 encargado de codificar 3 epítopos de célula T. Después de la amplificación de los 3 fragmentos objetivo por PCR y digestión con endonucleasas de restricción correspondientes, el gen recombinante TAT-IhC-Der p 1-3T se ligó usando T4 DNA ligasa y se insertó en el vector de expresión procariota pET28a (+) para construir el plásmido recombinante pET 28a (+)-TAT-IHC-Der p 1-3T, que se confirmó por digestión con endonucleasas de restricción y secuenciación. El vector recombinante se transformó en E. coli cepa BL21 (DE3) y se indujo con IPTG, y la proteína inducida TATIHC-Der p1-3T se detectó mediante SDS-PAGE. Después de la purificación, la proteina recombinante se confirmó por análisis de inmunotransferencia (Western blot) y se probó su alergenicidad usando el ensayo de unión a IgE. Resultados: el plásmido recombinante pET-28a-TATIHCDer p1-3T se construyó con éxito, se confirmó por digestión con endonucleasas de restricción y la secuenciación y la expresión de la proteína recombinante TAT-IHCDer p1-3T fue inducida en E. coli. Purificación con éxito verificada mediante Western blot de la proteína objetivo, que mostró una capacidad de unión a IgE más fuerte que Der p1. Conclusión: hemos construido con éxito el vector de expresión recombinante pET-28a-TAT-IHC-Der p1-3T que expresa una vacuna de epítopo de células T administrada por vía MHC II con fuerte capacidad de unión a IgE. Este trabajo proporciona una base para seguir estudiando la inmunoterapia específica mediante la vía MHC de clase II (AU)</dc:description>
+<dc:source>Nutr Hosp;32(5): 2274-2279, nov. 2015. ilus</dc:source>
+<dc:identifier>ibc-145559</dc:identifier>
+<dc:title xml:lang="es">Construcción y expresión de vector de vacuna de péptido epítopo de fusión de células t de alérgeno principal del grupo 1 dermatophagoides pteronyssinus basado en la vía MHC II</dc:title>
+<dc:subject>^d5955^s22073</dc:subject>
+<dc:subject>^d32756^s22038</dc:subject>
+<dc:subject>^d23123^s22078</dc:subject>
+<dc:subject>^d29373^s22045</dc:subject>
+<dc:subject>^d9114^s22052</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d11820^s22038</dc:subject>
+<dc:subject>^d7145^s22054</dc:subject>
+<dc:subject>^d35375^s22078</dc:subject>
+<dc:subject>^d36539^s22052</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201511</dc:date>
+</metadata>
+</record>
+</ibecs-document>

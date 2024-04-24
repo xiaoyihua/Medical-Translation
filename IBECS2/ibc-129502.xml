@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-129502</identifier>
+<setSpec>1137-6627</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Electromyographic signal processing and analysis methods</dc:title>
+<dc:description xml:lang="en">Clinical electromyography is a methodology for recording and analysing the bioelectrical activity of the skeletal muscle tissue in order to diagnose neuromuscular pathology. The possibilities of application and the diagnostic performance of electromyography have evolved parallel to a growing understanding of the properties of electricity and the development of electrical and electronic technology. The first commercially available electromyography equipment for medical use was introduced in the middle of the 20th century. It was based on analog electronic circuits. The subsequent development of digital technology made available more powerful and accurate systems, controlled by microprocessors, for recording, displaying, storing, analysing, and classifying the myoelectric signals. In the near future, it is likely that advances in the new information and communication technologies could result in the application of artificial intelligence systems to the automatic classification of signals as well as expert systems for electromyographic diagnosis support (AU)</dc:description>
+<dc:creator>Navallas, J</dc:creator>
+<dc:creator>Gila, L</dc:creator>
+<dc:creator>Rodríguez Carreño, I</dc:creator>
+<dc:creator>Malanda, A</dc:creator>
+<dc:creator>Rodríguez Falces, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La electromiografía clínica es una metodología de registro y análisis de la actividad bioeléctrica del músculo esquelético orientada al diagnóstico de las enfermedades neuromusculares. Las posibilidades de aplicación y el rendimiento diagnóstico de la electromiografía han evolucionado paralelamente al conocimiento de las propiedades de la energía eléctrica y al desarrollo de la tecnología eléctrica y electrónica. A mediados del siglo XX se introdujo el primer equipo comercial de electromiografía para uso médico basado en circuitos electrónicos analógicos. El desarrollo posterior de la tecnología digital ha permitido disponer de sistemas controlados por microprocesadores cada vez más fiables y potentes para captar, representar, almacenar, analizar y clasificar las señales mioeléctricas. Es esperable que el avance de las nuevas tecnologías de la información y la comunicación pueda conducir en un futuro próximo a la aplicación de desarrollos de inteligencia artificial que faciliten la clasificación automática de señales así como sistemas expertos de apoyo al diagnóstico electromiográfico (AU)</dc:description>
+<dc:source>An Sist Sanit Navar;32(supl.3): 27-43, sept.-dic. 2009. tab, ilus</dc:source>
+<dc:identifier>ibc-129502</dc:identifier>
+<dc:title xml:lang="es">Métodos de procesamiento y análisis de señales electromiográficas</dc:title>
+<dc:subject>^d29613</dc:subject>
+<dc:subject>^d9672^s22066</dc:subject>
+<dc:subject>^d52526^s22032</dc:subject>
+<dc:subject>^d9672^s22045</dc:subject>
+<dc:subject>^d1728^s22034</dc:subject>
+<dc:subject>^d1728^s22045</dc:subject>
+<dc:subject>^d30743^s22073</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4648^s22048</dc:subject>
+<dc:subject>^d9987^s22022</dc:subject>
+<dc:subject>^d4648^s22045</dc:subject>
+<dc:subject>^d9987^s22032</dc:subject>
+<dc:subject>^d19346^s22039</dc:subject>
+<dc:subject>^d9660^s22032</dc:subject>
+<dc:subject>^d9660^s29166</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d4648^s22039</dc:subject>
+<dc:subject>^d9987^s29166</dc:subject>
+<dc:subject>^d9660^s22059</dc:subject>
+<dc:subject>^d4648^s22022</dc:subject>
+<dc:subject>^d4648^s22066</dc:subject>
+<dc:subject>^d38889</dc:subject>
+<dc:subject>^d38885</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200912</dc:date>
+</metadata>
+</record>
+</ibecs-document>

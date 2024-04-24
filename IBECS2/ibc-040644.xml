@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-040644</identifier>
+<setSpec>0034-9356</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Comparison of the bispectral index and spectral entropy in gynecological surgery</dc:title>
+<dc:description xml:lang="en">OBJECTIVES: Spectral entropy quantifies variations    in cortical electrical activity measured by electroencephalography    and frontal activity measured by electromyography.    The aim of this study, in the context of    general anesthesia, was to compare bispectral index    values with the two components of spectral entropy:    state entropy and response entropy.    MATERIAL AND METHODS: Sixteen women (ASA I-II)    undergoing gynecological surgery were enrolled. The    bispectral index was maintained between 40 and 50 for    all patients. Both sensors, for monitoring the bispectral    index and spectral entropy, were placed on each patient.    Simultaneous readings were recorded at the following    moments: operating room arrival, induction, relaxation,    intubation, switching on the vaporizer, start of surgery,    traction of the intestinal mesenteries and maneuvering    of the electric scalpel, switching off the vaporizer, end of    surgery, during cough, extubation, and eye opening.    The data sets were subjected to analysis of variance, and    the intraclass correlation coefficient (ICC) was used to    analyze agreement.    RESULTS: Differences between mean values of the    bispectral index, state entropy and response entropy    were observed at operating room arrival, intubation,    and induction. Differences when the patient awakened    from anesthesia were observed only between the bispectral    index and response entropy, on the one hand,    and state entropy on the other. There was no agreement    (ICC&lt;0.7) upon operating room arrival, maneuvering    the electric scalpel, or awakening from anesthesia.    CONCLUSION: The bispectral index, state entropy, and    response entropy show good agreement during recordings    that reflect the effects of anesthesia. The differences    observed at baseline and upon awakening can be    attributed to frontal electromyographic activity. Distinguishing    cortical electrical activity from frontal electromyographic    activity may provide additional information    in these situations</dc:description>
+<dc:creator>Canet, J</dc:creator>
+<dc:creator>Espí, C</dc:creator>
+<dc:creator>Vila, P</dc:creator>
+<dc:creator>Mazo, V</dc:creator>
+<dc:creator>Muñoz, S</dc:creator>
+<dc:creator>Monerris, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">OBJETIVOS: La entropía espectral (EE) cuantifica    los cambios de la actividad eléctrica cortical (EEG) y    la electromiografía frontal (fEMG). El objetivo de este    estudio fue comparar los valores del índice biespectral    (BIS) con los de la EE en sus dos componentes, entropía    de estado (ES) y entropía de respuesta (ER),    durante la anestesia general.    MATERIAL Y MÉTODOS: Se incluyeron 16 mujeres, ASA    I-II, que se sometieron a intervenciones ginecológicas. Se    mantuvieron valores de BIS entre 40-50. Se colocaron    ambos sensores para monitorizar el BIS y la EE en cada    paciente. Se registraron valores de forma simultánea en    determinados momentos: entrada de quirófano, inducción,    relajación, intubación, apertura vaporizador, inicio    cirugía, tracción de mesos y funcionamiento del electrobisturí,    cierre vaporizador, fin de cirugía, al toser, extubación    y apertura de ojos. Los datos fueron analizados    mediante un ANOVA y el coeficiente de correlación    intraclase (CCI) para el análisis de concordancia.    RESULTADOS: Se observaron diferencias entre los    valores medios de BIS y ES y ER en los momentos:    entrada a quirófano, intubacion e inducción. Durante    el despertar de la anestesia sólo entre BIS y ER con    ES. En los momentos entrada a quirófano, electrobisturí,    y despertar de la anestesia no hubo concordancia    (CCI&lt;0,7).    CONCLUSIÓN: BIS, ES y ER presentan buena concordancia    durante los efectos de la anestesia. Las diferencias    observadas en el momento basal y en el despertar podrían    atribuirse a la actividad electromiográfica frontal. La    separación de las señales del EEG y fEMG podría dar una    información adicional en estas situaciones</dc:description>
+<dc:source>Rev Esp Anestesiol Reanim;52(8): 459-465, oct. 2005. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-040644</dc:identifier>
+<dc:title xml:lang="es">Estudio comparativo del índice biespectral y la entropía espectral en cirugía ginecológica</dc:title>
+<dc:subject>^d13890^s22020</dc:subject>
+<dc:subject>^d4641</dc:subject>
+<dc:subject>^d30912</dc:subject>
+<dc:subject>^d19062</dc:subject>
+<dc:subject>^d13890^s22045</dc:subject>
+<dc:subject>^d7225</dc:subject>
+<dc:subject>^d34369^s22036</dc:subject>
+<dc:subject>^d27977</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4648^s22045</dc:subject>
+<dc:subject>^d779^s22020</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d33181</dc:subject>
+<dc:subject>^d9315^s22020</dc:subject>
+<dc:subject>^d9315^s22000</dc:subject>
+<dc:subject>^d7168^s22020</dc:subject>
+<dc:subject>^d7593</dc:subject>
+<dc:subject>^d5083</dc:subject>
+<dc:subject>^d28998^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200510</dc:date>
+</metadata>
+</record>
+</ibecs-document>

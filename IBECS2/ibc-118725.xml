@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-118725</identifier>
+<setSpec>2253-654X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Monte Carlo simulation of the basic features of the GE Millennium MG single photon emission computed tomography gamma camera</dc:title>
+<dc:description xml:lang="en">Objective. To describe and validate the simulation of the basic features of GE Millennium MG gamma camera using the GATE Monte Carlo platform. Material and methods. Crystal size and thickness, parallel-hole collimation and a realistic energy acquisition window were simulated in the GATE platform. GATE results were compared to experimental data in the following imaging conditions: a point source of 99mTc at different positions during static imaging and tomographic acquisitions using two different energy windows. The accuracy between the events expected and detected by simulation was obtained with the Mann&#150;Whitney&#150;Wilcoxon test. Comparisons were made regarding the measurement of sensitivity and spatial resolution, static and tomographic. Simulated and experimental spatial resolutions for tomographic data were compared with the Kruskal&#150;Wallis test to assess simulation accuracy for this parameter. Results. There was good agreement between simulated and experimental data. The number of decays expected when compared with the number of decays registered, showed small deviation (&lt;=0.007%). The sensitivity comparisons between static acquisitions for different distances from source to collimator (1, 5, 10, 20, 30 cm) with energy windows of 126&#150;154 keV and 130&#150;158 keV showed differences of 4.4%, 5.5%, 4.2%, 5.5%, 4.5% and 5.4%, 6.3%, 6.3%, 5.8%, 5.3%, respectively. For the tomographic acquisitions, the mean differences were 7.5% and 9.8% for the energy window 126&#150;154 keV and 130&#150;158 keV. Comparison of simulated and experimental spatial resolutions for tomographic data showed no statistically significant differences with 95% confidence interval. Conclusions. Adequate simulation of the system basic features using GATE Monte Carlo simulation platform was achieved and validated (AU)</dc:description>
+<dc:creator>Costa, DC</dc:creator>
+<dc:creator>Vieira, L</dc:creator>
+<dc:creator>Vaz, TF</dc:creator>
+<dc:creator>Almeida, P</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objetivo. Describir y validar la simulación de características básicas de la cámara gamma GE Millennium MG utilizando la plataforma GATE Monte Carlo. Material y métodos. El tamaño y espesor del cristal, la colimación de agujeros paralelos y una ventana de adquisición de energía realista se simularon en la plataforma GATE. Los resultados GATE se compararon con los datos experimentales en las siguientes condiciones de formación de imágenes: fuente puntual 99mTc en diferentes posiciones durante la adquisición de imágenes estáticas y tomográficas utilizando 2 diferentes ventanas de energía. La precisión entre los eventos esperados y detectados por simulación se realizó utilizando la prueba de Mann-Whitney-Wilcoxon. Las comparaciones se hicieron con respecto a las medidas de los parámetros sensibilidad y resolución espacial, estáticas y tomográficas. Las resoluciones espaciales simulada y experimental de los datos tomográficos se compararon con la prueba de Kruskal-Wallis. Resultados. Hubo buena concordancia entre los datos simulados y experimentales. El número de decaimientos esperado en comparación con los registrados, ha revelado una pequeña desviación (&lt;=0,007%). Las comparaciones de sensibilidad entre las adquisiciones estáticas, para diferentes distancias desde la fuente al colimador (1, 5, 10, 20, 30 cm) con ventanas de energía de 126-154 keV y 130-158 keV, mostraron diferencias de 4,4; 5,5; 4,2; 5,5; 4,5 y 5,4; 6,3; 6,3; 5,8, y 5,3%, respectivamente. Las comparaciones entre sensibilidad tomográfica fueron 7,5 y 9,8% para la ventana de energía 126-154 keV y 130-158 eV. La comparación de resoluciones espaciales simuladas y experimentales para los datos tomográficos no ha mostrado diferencias estadísticamente significativas con un intervalo de confianza del 95%. Conclusiones. Se ha conseguido efectuar y validar una simulación Monte Carlo con la plataforma GATE de características básicas de funcionamiento de una cámara gamma GE Millennium MG (AU)</dc:description>
+<dc:source>Rev. esp. med. nucl. imagen mol. (Ed. impr.);33(1): 6-13, ene.-feb. 2014.</dc:source>
+<dc:identifier>ibc-118725</dc:identifier>
+<dc:title xml:lang="es">Simulación de Monte Carlo de los rasgos básicos de la cámara gamma SPECT GE Millennium MG</dc:title>
+<dc:subject>^d24895^s22045</dc:subject>
+<dc:subject>^d24895^s22039</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9871^s22048</dc:subject>
+<dc:subject>^d53211^s22039</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d53724^s22066</dc:subject>
+<dc:subject>^d53211^s22045</dc:subject>
+<dc:subject>^d53724^s22074</dc:subject>
+<dc:subject>^d9871^s22066</dc:subject>
+<dc:subject>^d9871^s22045</dc:subject>
+<dc:subject>^d53724^s22048</dc:subject>
+<dc:subject>^d35256</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201402</dc:date>
+</metadata>
+</record>
+</ibecs-document>

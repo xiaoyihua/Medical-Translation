@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-103999</identifier>
+<setSpec>1137-6821</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cost-effectiveness of using prothrombin complex concentrate to prevent complications related to overdoses of anticoagulants in the emergency department</dc:title>
+<dc:description xml:lang="en">Background and objective: Prothrombin complex concentrates (PCCs) are currently used principally for rapid reduction of the anticoagulant effects of administering vitamin K in cases where acute bleeding develops or during emergency surgery. PCCs are a better choice than fresh frozen plasma in these situations. These drugs have become essential for reducing the risk of hemorrhage thanks to their composition, safety, and rapid restoration of hemostasis, specifically of the international normalized ratio (INR). This study aimed to assess the efficacy, in terms of incremental cost-effectiveness, of PCC use in restoring the INR in routine emergency department practice. Study design: For the cost-effectiveness analysis we constructed a year-by-year decision-tree (Markov model) using spreadsheet software (Excel). The probabilistic simulation sampled 5% of all emergency department patients on oral anticoagulant therapy with antivitamin K and an elevated INR in each year for 10 years. Octaplex was the PCC used in the model. Results: Sensitivity analysis showed that PCC use had a more favorable incremental cost-effectiveness ratio than did other strategies for correcting the INR. Conclusions: Use of PCCs in the emergency department would be cost-effective (AU)</dc:description>
+<dc:creator>Borobia, A. M</dc:creator>
+<dc:creator>García Erce, J. A</dc:creator>
+<dc:creator>Pérez Cachafeiro, S</dc:creator>
+<dc:creator>Rodríguez, C</dc:creator>
+<dc:creator>Quintana Díaz, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: En la actualidad, los concentrados de complejos protrombínicos (CCP)son usados principalmente en la reducción rápida del efecto anticoagulante producido por la administración de antagonistas de la vitamina K (AVK) en los casos de aparición de hemorragia aguda o en cirugía de urgencia, y son la mejor elección frente al uso de plasma fresco congelado (PFC). Su composición, seguridad y acción rápida en la corrección de la hemostasia (ratio internacional normalizado-INR) y en la reducción del riesgo de hemorragia hacen de éste un fármaco esencial en la práctica de urgencias y en la cirugía hospitalaria. Este trabajo valora la eficacia (coste-efectividad incremental) del empleo de CCP para normalizar el INR en la práctica habitual de un servicio de urgencias. Método: Se ha realizado un análisis coste-efectividad para el que se utilizó un modelo de simulación de Markov en Excel®(año-año), basado en un árbol de decisiones. Para la simulación probabilística se tomó el 5% del total de una población de pacientes conterapia anticoagulante oral con antivitamina K (AVK) e INR elevado en un servicio de urgencias, en ciclos anuales, durante 10 años. El CCP utilizado para el análisis ha sido Octaplex®. Resultados: El análisis de sensibilidad ha demostrado que la razón coste-efectividad incremental (RCEI) de la administración de CCP frente al uso de otras terapias para la normalización del INR es favorable al uso del CCP. Conclusiones: El uso de CCP en urgencias sería coste-efectivo (AU)</dc:description>
+<dc:source>Emergencias (Sant Vicenç dels Horts);24(2): 113-120, abr. 2012. ilus, tab</dc:source>
+<dc:identifier>ibc-103999</dc:identifier>
+<dc:title xml:lang="es">Estudio de coste-efectividad del empleo de concentrado de complejo protrombínico en urgencias para evitar las complicaciones de la sobredosificación de anticoagulantes</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d4713^s22045</dc:subject>
+<dc:subject>^d54899^s22057</dc:subject>
+<dc:subject>^d15213^s22006</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d50303</dc:subject>
+<dc:subject>^d22270^s22073</dc:subject>
+<dc:subject>^d932^s22000</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201200</dc:date>
+</metadata>
+</record>
+</ibecs-document>

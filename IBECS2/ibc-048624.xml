@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-048624</identifier>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Serum uric acid and c-reactive protein levels in patients with chronic kidney disease</dc:title>
+<dc:description xml:lang="en">Either inflammation or hyperuricemia has been related with increased cardiovascularrisk and mortality. A hypothetical relationship between serum uric acid levels (SUA) and inflammatory markers has never been tested in chronic kidneydisease (CKD) patients. The purpose of this study was to determine the prevalenceof increased C-reactive protein (CRP) levels in CKD patients, and to test thehypothesis of a relationship between SUA and CRP levels.The study group consisted of 337 patients (174 males, mean age 63 ± 16 years)with advanced chronic renal failure not yet on dialysis. None of them had overtinflammatory or infectious diseases. High sensitivity CRP levels were analyzed asa binary (above or below median value), or continuous variable (log-transformedCRP), by multiple logistic or linear regression analysis, respectively. Demographics,clinical, and biochemical characteristics, including SUA levels, were the variablestested in these analysis. In a subset of 169 patients without diabetes, the sameanalysis were carried out, with the inclusion of fasting insulin levels and HOMAIRas independent variables.Median CRP level was 3.25 mg/L, and mean SUA level was 7.59 ± 1.94 mg/dl.Patients with CRP levels above the median had significantly higher mean SUA levelthan that of the rest of study patients (7.93 ± 1.79 vs 7.24 ± 2.03 mg/dl, p =0.001). SUA levels correlated significantly with log-transformed CRP levels (r =0.16, p = 0.0022). The relationship between SUA and CRP levels remained statisticallysignificant after adjustment for age, sex, comorbid index, obesity, residualrenal function, diuretic and allopurinol treatment, in the multivariate logistic andlinear regression models (OR: 1.296, p = 0.0003; and beta: 0.204, p = 0.0002).The significant association between SUA and CRP levels did not change whenHOMA-IR and fasting insulin levels were included as independent variables in thesubset of 169 patients without diabetes.In conclusion, SUA levels are related with CRP levels in CKD patients</dc:description>
+<dc:creator>Cancho, B</dc:creator>
+<dc:creator>Caravaca, F</dc:creator>
+<dc:creator>Barroso, S</dc:creator>
+<dc:creator>Sánchez-Casado, E</dc:creator>
+<dc:creator>Arrobas, M</dc:creator>
+<dc:creator>Luna, E</dc:creator>
+<dc:creator>Martín, M. V</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Tanto la inflamación como la hiperuricemia se relacionan con un aumento delriesgo cardiovascular y mortalidad en general. Una hipotética relación entre inflamacióne hiperuricemia no ha sido nunca analizada en pacientes con insuficienciarenal crónica (IRC). El objetivo de este estudio fue determinar la prevalenciade un incremento de los niveles de Proteína C Reactiva (PCR), y valorar la hipótesisde una relación entre los niveles de ácido úrico (AU) y PCR.Se estudiaron 337 pacientes (174 hombres, edad media 63 ± 16 años), conIRC prediálisis. Los niveles de PCR de alta sensibilidad fueron analizados comouna variable cualitativa o como una variable continua transformada en logaritmo(log-PCR). Las variables independientes incluidas en los análisis de regresión logísticay lineal fueron: demográficas, características clínicas y bioquímicas, incluyendolos niveles de AU. En un subgrupo de 169 pacientes sin diabetes se realizóel mismo estudio, incluyendo además como variables los niveles basales deinsulina y el parámetro de resistencia a la insulina HOMA-IR.La mediana de PCR fue 3,25 mg/L, y la media de AU de 7,59 ± 1,94 mg/dl.Los pacientes con PCR superior a la mediana tenían una concentración media deAU significativamente mayor a la del resto de los pacientes (7,93 ± 1,79 vs 7,24± 2,03 mg/dl, p = 0,001). Hubo una correlación significativa entre los niveles deAU y log-PCR (r = 0,16, p = 0,0022). La relación entre PCR y AU continuó siendoestadísticamente significativa tras ajuste con la edad, sexo, comorbilidad, obesidad,función renal residual, tratamiento con diuréticos o alopurinol (OR: 1,296,p = 0,0003; y beta: 0,204, p = 0,0002). La asociación significativa entre PCR yAU no cambió cuando se añadieron al modelo el HOMA-IR o los niveles de insulinabasal en el subgrupo de 169 pacientes no diabéticos.En conclusión, los niveles de AU se relacionan de forma independiente con losde PCR en pacientes con IRC</dc:description>
+<dc:source>Nefrologia;25(6): 645-654, nov.-dic. 2005. tab, graf</dc:source>
+<dc:identifier>ibc-048624</dc:identifier>
+<dc:title xml:lang="es">Niveles de ácido úrico y proteína C reactiva en pacientes con insuficiencia renal crónica</dc:title>
+<dc:subject>^d22124^s22002</dc:subject>
+<dc:subject>^d50497^s22062</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d14926^s22062</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200512</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-16790</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Analysis of admissions for chronic obstructive pulmonary disease in Andalusia in 2000</dc:title>
+<dc:creator>Lara Blanquera, A</dc:creator>
+<dc:creator>Perea Milla López, E</dc:creator>
+<dc:creator>López Campos Bodineau, J. L</dc:creator>
+<dc:creator>García Jiménez, J. M</dc:creator>
+<dc:creator>Moreno, L</dc:creator>
+<dc:creator>Cebrián Gallardo, J. J</dc:creator>
+<dc:creator>Fernández Guerra, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">OBJETIVO: Analizar el impacto que han tenido los ingresos por enfermedad pulmonar obstructiva crónica (EPOC) en Andalucía durante el año 2000. MÉTODOS: Se seleccionaron del Conjunto Mínimo Básico de Datos de Andalucía 2000 todos los pacientes con el código GRD 088 y aquellos con GRD 541 que tuvieran como causa de ingreso algunos de estos códigos CIE-9: 491, 492, 493.2, 494 y 496. Con estos datos se realizó un estudio descriptivo. Posteriormente, se realizó el cálculo del coste de una estancia en nuestro centro y se extrapoló al resto de Andalucía, calculando el coste mínimo generado. RESULTADOS: Durante el año 2000 hubo 10.386 ingresos por reagudización de EPOC, lo que generó 117.011 estancias. El 83 per cent de los ingresos fueron varones. La edad media fue de 70 ñ 12 años. La estancia media fue de 11 ñ 10 días. La provincia con la estancia menor fue Huelva con 9 días. La mortalidad fue del 6,7 per cent. El gasto sanitario mínimo generado fue de 27 millones de euros (4.500 millones de pesetas), sin contar con las estancias de UCI. CONCLUSIONES: Los ingresos por EPOC generan un gran impacto asistencial y económico en la sanidad andaluza. Son necesarios estudios que valoren otras alternativas al ingreso (AU)</dc:description>
+<dc:source>Arch Bronconeumol;38(10): 473-478, oct. 2002.</dc:source>
+<dc:identifier>ibc-16790</dc:identifier>
+<dc:title xml:lang="es">Análisis de los ingresos por enfermedad pulmonar obstructiva crónica en Andalucía, año 2000</dc:title>
+<dc:subject>^d28620</dc:subject>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d8079</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6916</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d36008</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d3380</dc:subject>
+<dc:subject>^d14384</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200210</dc:date>
+</metadata>
+</record>
+</ibecs-document>

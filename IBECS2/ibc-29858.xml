@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-29858</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The importance of the sample design effect</dc:title>
+<dc:creator>Ayuso, Mercedes</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">INTRODUCCIÓN: La selección de una muestra mediante un diseño complejo tiene consecuencias en el análisis estadístico posterior. MATERIAL Y MÉTODO: Las diferentes formas de selección muestral pueden acarrear la aparición de sesgo y de una mayor varianza de los estimadores y es el muestreo aleatorio simple el diseño de referencia.Se proporcionan diversos ejemplos ilustrativos en los que diferentes estrategias de muestreo conducen a situaciones de aparición de sesgo y de aumento de la varianza. RESULTADOS: La inclusión de ponderaciones conduce a la eliminación de sesgo. La evaluación del efecto del diseño permite medir el grado de distorsión que sufren las varianzas debido al diseño muestral empleado y, por lo tanto, proporciona una valoración directa de la alteración que sufren los intervalos de confianza estimados cuando el diseño muestral se aparta del caso aleatorio simple. CONCLUSIONES: Se recomienda emplear una medida del efecto del diseño en análisis de datos obtenidos por muestreo e incluir ponderaciones en los análisis estadísticos (AU)</dc:description>
+<dc:source>Med. clín (Ed. impr.);122(supl.1): 35-38, ene. 2004.</dc:source>
+<dc:identifier>ibc-29858</dc:identifier>
+<dc:title xml:lang="es">La importancia del efecto del diseño</dc:title>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28595</dc:subject>
+<dc:subject>^d24872</dc:subject>
+<dc:subject>^d28597</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200401</dc:date>
+</metadata>
+</record>
+</ibecs-document>

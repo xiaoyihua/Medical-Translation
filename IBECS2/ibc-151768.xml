@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-151768</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Design of a computer program for the registration of implantable medical device, field safety corrective action and advers events, as a tool for medical device surveillance</dc:title>
+<dc:description xml:lang="en">Objective: To describe the features of computer program to support the activity of the responsible for surveillance of medical devices. To evaluate their use after one year of implementation in a hospital. Method: The stages of the process were: description of the activities of medical devices surveillance and implant registration, definition of functionality and data processing, creation of databases, implementation in a private hospital which manages PS, validation of the program and analysis of their usefulness. Results: SIVIPS was developed using Acces®. Main variables were described for all the activities of the responsible for medical device surveillance (implants, alert, medical device incidents, including for in vitro diagnostics) and all the functionalities of the computer program. SIVIPS was introduced in a pharmacy service with one pharmacist for the management of medical devices. One year after its implementation we had registered 564 implants with a description by type of implant, 31 alerts and 6 incidents. SIVIPS allow monitoring of the actions taken in these cases. Conclusions: SIVIPS® is the first tool to support the activity of medical device surveillance. It is an easy tool that allows the registration of alerts and medical device related incidents, and registration of implants performed in the center, which will improve the traceability of the PS (AU)</dc:description>
+<dc:creator>Márquez-Peiró, Juan Francisco</dc:creator>
+<dc:creator>Selva-Otaolaurruchi,  Juan</dc:creator>
+<dc:creator>Jiménez-Torres, José</dc:creator>
+<dc:creator>Gaspar-Carreño, Marisa</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Describir las funcionalidades de un programa informático de soporte a la actividad del responsable de vigilancia de productos sanitarios (PS). Analizar su utilidad tras un año de implantación. Método: Las etapas del proceso fueron: descripción de actividades básicas del responsable de vigilancia, definir las funcionalidades y datos a procesar, crear los formularios de registro y opciones de la herramienta SIVIPS, implantación en un hospital privado que gestiona PS, validación del programa y análisis de su utilidad al año. Resultados: Se desarrolló la herramienta SIVIPS en Acces® por farmacéuticos. Se describieron las variables básicas para todas las actividades del responsable de vigilancia de PS (registro implantes, registro de alertas, registro de incidentes con PS, incluidos los de diagnóstico in vitro) y las funcionalidades del programa. Al año de su implantación se encontraron registros de 564 implantes con la posibilidad de desglose por tipo de implante, 31 alertas con PS y 6 incidentes con PS, permitiendo el seguimiento de las actuaciones realizadas en estos casos. Conclusiones: SIVIPS® es la primera herramienta de soporte a la actividad del responsable de vigilancia de PS. Es una herramienta sencilla que permite de forma ágil el registro de alertas e incidentes con PS, así como el registro de los implantes realizados en el centro, consiguiendo mejorar la trazabilidad del PS (AU)</dc:description>
+<dc:source>Farm Hosp;40(2): 118-123, mar.-abr. 2016. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-151768</dc:identifier>
+<dc:title xml:lang="es">Diseño de un aplicativo para el registro de implantes, gestión de alertas e incidentes relacionados con productos sanitarios como herramienta para el responsable de vigilancia de productos sanitarios</dc:title>
+<dc:subject>^d51354</dc:subject>
+<dc:subject>^d19349</dc:subject>
+<dc:subject>^d10797^s22049</dc:subject>
+<dc:subject>^d28096^s22048</dc:subject>
+<dc:subject>^d11792^s22048</dc:subject>
+<dc:subject>^d53400^s22054</dc:subject>
+<dc:subject>^d51317</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4943</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201604</dc:date>
+</metadata>
+</record>
+</ibecs-document>

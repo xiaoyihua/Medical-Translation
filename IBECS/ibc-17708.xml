@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-17708</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Odds ratio or prevalence ratio? Their use in cross-sectional studies</dc:title>
+<dc:creator>Borrell, C</dc:creator>
+<dc:creator>Rodríguez, M</dc:creator>
+<dc:creator>Schiaffino, A</dc:creator>
+<dc:creator>Pasarín, M. I</dc:creator>
+<dc:creator>Fernández, E</dc:creator>
+<dc:creator>Regidor, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Antecedentes: En los estudios transversales las medidas de asociación clásicamente descritas son la razón de odds (odds ratio, OR) y la razón de prevalencias (prevalence ratio, PR). Algunos estudios epidemiológicos con diseño transversal expresan sus resultados en forma de OR, pero utilizan la definición de PR. El objetivo principal de este trabajo es describir y comparar diferentes métodos de cálculo de la PR discutidos en la bibliografía reciente en dos escenarios (prevalencia 20 per cent). Material y métodos: Se realizó una búsqueda bibliográfica para conocer las técnicas más utilizadas para la estimación de la PR. Los 4 procedimientos más empleados fueron: a) seguir obteniendo OR mediante regresión logística no condicional, pero utilizando su definición correcta de OR; b) utilizar una regresión de Breslow-Cox; c) utilizar un modelo lineal generalizado con la transformación logaritmo y familia binomial, y d) utilizar una fórmula de conversión de una OR, obtenida mediante regresión logística tradicional, a una PR.Se han replicado para cada uno de los dos escenarios (prevalencia 20 per cent) los modelos hallados utilizando datos reales de la Encuesta de Salud de Catalunya de 1994. Resultados: No se observan grandes diferencias entre las estimaciones ni entre los errores estándar obtenidos al utilizar una u otra técnica cuando la prevalencia es baja. Cuando la prevalencia es alta existen diferencias entre los estimadores y entre los intervalos de confianza, aunque todas las medidas mantienen la significación estadística. Conclusión: Todos los métodos propuestos tienen sus pros y sus contras, y debe ser el propio investigador/a quien escoja la técnica que mejor se adapte a sus datos y ser coherente a la hora de utilizar un estimador y su interpretación (AU)</dc:description>
+<dc:source>Gac Sanit;17(1): 70-74, ene.  -feb. 2003.</dc:source>
+<dc:identifier>ibc-17708</dc:identifier>
+<dc:title xml:lang="es">¿Odds ratio o razón de proporciones? Su utilización en estudios transversales</dc:title>
+<dc:subject>^d24811</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200302</dc:date>
+</metadata>
+</record>
+</ibecs-document>

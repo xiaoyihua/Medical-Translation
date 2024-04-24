@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150116</identifier>
+<setSpec>1135-3074</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Biases and adjustments in nutritional assessments from dietary questionnaires</dc:title>
+<dc:description xml:lang="en">In nutritional epidemiology, it is essential to use Food Consumption Assessment Methods that have been validated and accepted by the international community for estimating food consumption of individuals and populations. This assessment must be made with the highest quality possible so as to avoid, as far as possible, sources of error and confusion in the processes. The qualities that are required in a measurement method are validity and accuracy; validity being the main factor. Lack of validity produces biases, or systematic errors. These can reside in the process of subject selection, or processes of information gathering where the lack of accuracy produces random errors. For many nutrients, the intra-individual variances are due to many factors such as day-of-the-week or season, and could create problems in the data analyses. Adjustments are needed to minimize these effects. Confounding factors may over- or under-state the real magnitude of the observed association, or even alter the direction of the real association. Total energy intake can be a confounding variable when studying a relationship between nutrient intake and disease risk. To control for this effect several approximations are proposed such as nutrient densities, standard multivariate models and thenutrient residual model (AU)</dc:description>
+<dc:creator>Ramón, Josep M</dc:creator>
+<dc:creator>Arija, Victoria</dc:creator>
+<dc:creator>Abellana, Rosa</dc:creator>
+<dc:creator>Ribot, Blanca</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En epidemiología nutricional es fundamental una correcta valoración del consumo alimentario de los individuos y grupos de población. Esta estimación debe hacerse con la mayor calidad posible, evitando las fuentes de error y confusión en su estimación. Las cualidades que otorgan calidad a un método de medida son la validez y la precisión, siendo la validez la principal característica. La falta de validez produce sesgos o errores sistemáticos, los cuales pueden aparecer en el proceso de selección de los sujetos o en el proceso de obtención de la información; y la falta de precisión produce los errores aleatorios. Para muchos nutrientes, las variaciones intra-individuales, debidas a muchos factores como el día de la semana o la estación del año valorada, podrían crear problemas en el análisis e interpretación de los resultados. Para minimizar estas fuentes de error se deben utilizar los métodos de ajustes en el proceso de análisis de datos. Los factores de confusión pueden exagerar o subestimar la verdadera magnitud de la asociación o incluso alterar su dirección. El consumo total de energía puede ser una variable de confusión en el estudio de la relación entre la ingesta de un nutriente y el riesgo de enfermedad. Para controlar este efecto se proponen varias aproximaciones: la densidad de nutrientes, el modelo multivariado estándar y el modelo residual de nutrientes (AU)</dc:description>
+<dc:source>Rev. esp. nutr. comunitaria;21(supl.1): 112-117, 2015. tab, graf</dc:source>
+<dc:identifier>ibc-150116</dc:identifier>
+<dc:title xml:lang="es">Sesgos y ajustes en la valoración nutricional de las encuestas alimentarias</dc:title>
+<dc:subject>^d50330</dc:subject>
+<dc:subject>^d16570^s22049</dc:subject>
+<dc:subject>^d28601</dc:subject>
+<dc:subject>^d24535</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24457^s22048</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d28222^s22045</dc:subject>
+<dc:subject>^d16573^s22045</dc:subject>
+<dc:subject>^d9936^s22031</dc:subject>
+<dc:subject>^d28222^s22083</dc:subject>
+<dc:subject>^d28222^s22039</dc:subject>
+<dc:subject>^d35256</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201500</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-056748</identifier>
+<setSpec>0212-6567</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Calculation of morbidity, use of resources and costs of patients treated with tiotropium bromide for COPD in a spanish population</dc:title>
+<dc:description xml:lang="en">Objective. To determine the co-morbidity and economic impact of treatment with tiotropium bromide (TB) for COPD, in a population cared for by Spanish primary care teams (PCTs) and specialist physicians, in the context of routine clinical practice.                 Design. Retrospective multi-centre study.                 Setting. Four PCTs and 2 urban hospitals.                 Participants. Patients with COPD receiving regular treatment with TB, during 2004.                 Main measurements. Age and sex, episodes of co-morbidity, clinical parameters, resource use, and pharmacological groups. The costs model was established by differentiating semi-fixed from variable costs (pharmacy, tests, referrals) in the PCTs, as well as the visits, emergencies and hospital admissions occurring in the hospitals. A logistical regression analysis was made to correct the model. The costs were contrasted by analysis of covariance (ANCOVA), with the estimation of marginal means (Bonferroni adjustment).                 Results. Of 900 patients with COPD, 14.3% (n=129) received treatment with TB (95% CI, 12.0%-16.6%). The mean episodes/patient/year was 2.1 (1.4) versus 1.8 (1.3) (NS), seriousness/severity 41.3% versus 26.3% (P =.001), defined daily dose (DDD) 5928.5 (9624.1) versus 6187.7 (12471.3) (NS) and number visits/patient/year 15.1 (9.4) versus 17.3(11.9) (P=.044). After adjustments for age and sex, TB use was associated with Diabetes Mellitus (OR=1.6; 95% CI, 1.0-2.5; P=.034) and severity of patients' illness (OR=1.8; 95% CI, 1.2-2.8; P=.004). Quantification of unit cost/year was 2793.16 (3166.30) euros (3359.27 [3423.25] euros versus 2703.09 [3113.75] euros; P=.001). The adjusted patient cost/year was 2831.23 euros (SE, 217.32) with TB versus 2786.86 euros (SE, 88.53) without TB (NS).                 Conclusions. TB is associated, as therapy complementing routine treatment, with the presence of Diabetes, and with the severity of the disease. The costs of COPD entail high resource consumption. The prescription of TB does not imply greater overall cost of the disease</dc:description>
+<dc:creator>Llopart-López, Josep Ramón</dc:creator>
+<dc:creator>Velasco-Velasco, Soledad</dc:creator>
+<dc:creator>Haro-Martí, Luis de</dc:creator>
+<dc:creator>Sicras-Mainar, Antoni</dc:creator>
+<dc:creator>Navarro-Artieda, Ruth</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Medir la comorbilidad, así como el impacto económico que presentan los sujetos en tratamiento con bromuro de tiotropio (BT) en la enfermedad pulmonar obstructiva crónica (EPOC), en la población atendida por equipos de atención primaria (EAP) y especializada españoles, en situación de práctica clínica habitual.                 Diseño. Estudio retrospectivo y multicéntrico.                 Emplazamiento. Cuatro EAP y 2 centros hospitalarios urbanos.                 Participantes. Pacientes con EPOC que siguieron tratamiento regular con BT, durante el año 2004.                 Mediciones principales. Edad-sexo, episodios/comorbilidad, parámetros clínicos, utilización de recursos y grupos farmacológicos. El modelo de costes se estableció diferenciando los costes semifijos de los variables (farmacia, pruebas, derivaciones) en los EAP, así como las consultas, urgencias y hospitalizaciones acontecidas en los centros hospitalarios de referencia. Se efectuó un análisis de regresión logística para la corrección del modelo. Los costes fueron contrastados mediante análisis multivariable de ANCOVA, con estimación de medias marginales (ajuste de Bonferroni).                 Resultados. De 900 sujetos con EPOC, el 14,3% (n = 129) siguió tratamiento con BT (intervalo de confianza [IC] del 95%, 12,0-16,6%). El promedio de episodios/paciente/año fue de 2,1 ± 1,4 frente a 1,8 ± 1,3 (NS), la gravedad/severidad del 41,3 frente al 26,3% (p = 0,001), la dosis farmacológica (DDD) de 5.928,5 ± 9.624,1 frente a 6.187,7 ± 12.471,3 (NS) y el número de visitas/paciente/año de 15,1 ± 9,4 frente a 17,3 ± 11,9 (0,044). Los factores asociados con la utilización de BT, corregidos por edad-sexo, fueron diabetes mellitus (odds ratio [OR] = 1,6; IC del 95%, 1,0-2,5; p = 0,034) y gravedad de los pacientes (OR = 1,8; IC del 95%, 1,2-2,8; p = 0,004). La cuantificación del coste unitario/año fue de 2.793,16 ± 3.166,30 euros (3.359,27 ± 3.423,25 frente a 2.703,09 ± 3.113,75 euros; p = 0,001). El coste paciente/año ajustado fue de 2.831,23 euros (error estándar [EE] = 217,32) con BT, frente a 2.786,86 euros (EE = 88,53) sin BT (NS).                 Conclusiones. El BT se asocia, como tratamiento complementario al habitual, con la presencia de diabetes y con la severidad de la enfermedad. Los costes de la EPOC ocasionan un elevado consumo de recursos y la utilización de BT no conlleva un mayor coste global de la enfermedad</dc:description>
+<dc:source>Aten Primaria;39(10): 547-555, oct. 2007. tab</dc:source>
+<dc:identifier>ibc-056748</dc:identifier>
+<dc:title xml:lang="es">Estimación de la morbilidad, el uso de recursos y los costes de los sujetos en tratamiento con bromuro de tiotropio para la enfermedad pulmonar obstructiva crónica en un ámbito poblacional español</dc:title>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d30769</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d36008^s22018</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29640</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d1994^s22073</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d36008^s22057</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d18001</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200710</dc:date>
+</metadata>
+</record>
+</ibecs-document>

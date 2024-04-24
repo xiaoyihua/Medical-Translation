@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-104014</identifier>
+<setSpec>1137-6821</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Rapid response to large-scale emergencies: a neural network model and a decision-tree algorithm</dc:title>
+<dc:description xml:lang="en">Objective: The greatest challenge to decision-making during the management of emergencies with multiple victims is uncertainty in an initially chaotic environment. Our objective was to develop a predictive model to improve response and early resource management in the early-phase environment of chaotic uncertainty during large-scale emergencies. Methods: A database of information on real incidents with multiple victims in Castile-La Mancha, Spain, in the last 5 years was used to study the weight of 10 categorical variables and their effect on the seriousness of the emergencies. A neural network was designed to learn about these real cases, and a decision tree was generated, to study which of the 2 approaches gave the best results. An important design limitation was that nearly all the incidents analyzed involved traffic accidents. Results: The model based on decision-tree analysis gave more information and greater variability. It proved superior to the neural network, identifying 6 homogeneous groups according to the following factors: number of initial victims, type of incident, and environment (P&lt;.05).Conclusions: A predictive model can be based on the considered variables in the interest of improving resource management during a large-scale emergency. However, development based on a larger number of real incidents of different types would be needed before such a model could be applied during real future incidents (AU)</dc:description>
+<dc:creator>Romero Sánchez,  S</dc:creator>
+<dc:creator>Jiménez Carrascosa, J. F</dc:creator>
+<dc:creator>Sanz Mata, P</dc:creator>
+<dc:creator>Habed Lobos, N</dc:creator>
+<dc:creator>Gil González, A. M</dc:creator>
+<dc:creator>Sánchez Losada,  J. A</dc:creator>
+<dc:creator>Touza Garma,  B</dc:creator>
+<dc:creator>Caamiña García, M</dc:creator>
+<dc:creator>Ramiro Moyano, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: En la gestión de recursos ante incidentes con múltiples víctimas (IMV), el factor incertidumbre en un entorno de caos inicial se convierte en el peor enemigo del decisor. El objetivo fue diseñar un modelo matemático predictivo en este entorno de decisiones para mejorar la fase inicial de la gestión de recursos ante una gran emergencia. Método: Se partió de una base de datos de incidentes reales con múltiples víctimas en Castilla-La Mancha en los últimos cinco años, sobre la que se trabajó con 10 variables categorizadas en función de su peso en la gravedad de la emergencia. Se diseñó una red neuronal, que aprende sobre los casos reales, y por otro lado se generó un árbol de decisión con el fin de buscar la mejor respuesta entre ambos modelos. Se ha encontrado una importante limitación metodológica, ya que prácticamente todos los IMV analizados son accidentes de tráfico. Resultados: El modelo basado en árboles de decisión da más información y mayor variabilidad que la red neuronal e identifica 6 grupos homogéneos en función del &#147;número de afectados iniciales&#148;, &#147;tipología del incidente&#148; y &#147;entorno&#148; (p &lt; 0,05).Conclusiones: Es posible crear un modelo matemático predictivo con las variables consideradas que permite una mejor gestión de recursos ante un IMV, pero se necesita un mayor número de casos reales pasados y con tipología más diversa, para ser aplicadas a casos reales futuros con la metodología propuesta (AU)</dc:description>
+<dc:source>Emergencias (Sant Vicenç dels Horts);24(3): 175-180, jun. 2012. ilus, tab</dc:source>
+<dc:identifier>ibc-104014</dc:identifier>
+<dc:title xml:lang="es">Respuesta inmediata ante grandes emergencias: modelo matemático basado en redes neuronales y árboles de decisión</dc:title>
+<dc:subject>^d33618^s22049</dc:subject>
+<dc:subject>^d34635</dc:subject>
+<dc:subject>^d22877</dc:subject>
+<dc:subject>^d555</dc:subject>
+<dc:subject>^d29935</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d32532</dc:subject>
+<dc:subject>^d4705</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201206</dc:date>
+</metadata>
+</record>
+</ibecs-document>

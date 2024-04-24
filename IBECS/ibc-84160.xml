@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-84160</identifier>
+<setSpec>1888-6116</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Electronic reports generator in orthopedic surgery</dc:title>
+<dc:description xml:lang="en">We presented the results of a grant of the Fundación Mapfre. It is an Information System which it permits introducing medical dates by &#147;clicks&#148; without typing the text in your PC. At this way, we can elaborate complete clinical reports in only 90 seconds (AU)</dc:description>
+<dc:creator>Laclériga Giménez, A. F</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Presentamos el resultado de una beca de investigación de FUNDACIÓN MAPFRE que nos ha facilitado diseñar un sistema de información que permite la introducción de la información médica de los pacientes mediante «clicks» y, por tanto, con un uso mínimo del teclado del ordenador. Con esta forma de trabajo se consigue la realización de informes clínicos completos en tan solo 90 segundos por paciente (AU)</dc:description>
+<dc:source>Trauma (Majadahonda);20(3): 181-183, jul.-sept. 2009. ilus</dc:source>
+<dc:identifier>ibc-84160</dc:identifier>
+<dc:title xml:lang="es">Generador de informes en COT</dc:title>
+<dc:subject>^d54358</dc:subject>
+<dc:subject>^d5703^s22066</dc:subject>
+<dc:subject>^d12530</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12530^s22045</dc:subject>
+<dc:subject>^d28219^s22048</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200909</dc:date>
+</metadata>
+</record>
+</ibecs-document>

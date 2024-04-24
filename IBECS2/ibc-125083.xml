@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-125083</identifier>
+<setSpec>1137-6821</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Development of a severity scale for acute exacerbation of chronic obstructive pulmonary disease in hospital emergency departments</dc:title>
+<dc:description xml:lang="en">Objectives: To develop and validate a simple scale for assessing the severity of acute exacerbation of chronic obstructive pulmonary disease (AECOPD).Methods: Prospective study of a cohort of consecutive patients who came to the hospital emergency department with symptoms consistent with AECOPD. Clinical and sociodemographic data were recorded. The main endpoint was poor clinical course, a composite that included 1) in-hospital exitus in hospitalized patients or death with 1 week of the visit in discharged patients; 2) admission to the intensive care unit; 3) need for invasive mechanical ventilation; 4)cardiorespiratory arrest; 5) use of noninvasive mechanical ventilation and/or admission to an intermediate respiratory care unit. Independent predictors of the endpoint were identified by logistic regression and incorporated into a clinical risk prediction scale. The scale was validated in a subsample and in bootstrap subsamples. Results: A total of 2487 patients with AECOPD were included. The mean (SD) age was 72.8 (9.7) years; 91.3% were men. The mean forced expiratory volume in 1 second was 45.2% (16.8%) of predicted; 61.8% of the patients were admitted and clinical course was poor in 7.8%. The 3 predictors of poor course were arterial blood pH, PaCO2, and paradoxical breathing (accessory muscle recruitment) on arrival in the department. The area under the receiver operating characteristics curve for the model was 0.8 (95% CI, 0.8-0.9); the model's ability to indentify cases of poor clinical course (discrimination) was excellent. Conclusion: This AECOPD severity scale predicts poor clinical course and could be used as an aid to decision-making when attending emergency patients (AU)</dc:description>
+<dc:creator>IRYSS COPD-Study</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Desarrollar y validar una escala simple para evaluar la gravedad de exacerbaciones agudas de enfermedad pulmonar obstructiva crónica (EA-EPOC) en los servicios de urgencias (SU).Método: Estudio de cohortes prospectivo en el que se reclutaron, consecutivamente, pacientes que acudían a los SU participantes con síntomas compatibles con EA-EPOC. Se recogieron datos clínicos y sociodemográficos. El resultado principal fue la "malaevolución", una variable combinada que incluía: 1) mortalidad hospitalaria de los pacientes ingresados o mortalidad durante la primera semana después de la visita para los pacientes dados de alta; 2) ingreso en una unidad de cuidados intensivos; 3) necesidad de ventilación mecánica invasiva; 3) parada cardiorrespiratoria; 4) uso de la ventilación mecánica no invasiva y/o admisión a una unidad de cuidados intermedios respiratorios. Los predictores independientes fueron identificados mediante regresión logística y se incorporan en una herramienta de predicción clínica. La validación se realizó mediante técnicas de muestras divididas y remuestreo. Resultados: 2.487 pacientes con EA-EPOC se incluyeron en los análisis. La edad media fue de 72,8 (9,7) años; el 91,3% eran hombres; la media de FEV1 fue 45,2 (16,8);61,8% fueron admitidos; 7,8% experimentó mala evolución. Los tres predictores de mala evolución fueron pH, PaCO2 y respiración paradójica o el uso de la musculatura accesoria a la llegada al SU. Este modelo logra un área bajo la curva COR de 0,82; elIC95% (0,8-0,9), que supone una excelente discriminación de mala evolución. Conclusiones: Esta escala de gravedad EA-EPOC predice la mala evolución y podría ser utilizada como una ayuda a la decisión en el contexto agudo (AU)</dc:description>
+<dc:source>Emergencias (Sant Vicenç dels Horts);26(4): 251-258, ago. 2014. ilus, tab</dc:source>
+<dc:identifier>ibc-125083</dc:identifier>
+<dc:title xml:lang="es">Creación de una escala para evaluar la gravedad de las exacerbaciones agudas de la enfermedad pulmonar obstructiva crónica (EA-EPOC) en los servicios de urgencias hospitalarios</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d4713^s22045</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d36008^s22012</dc:subject>
+<dc:subject>^d7530^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12428</dc:subject>
+<dc:subject>^d4707^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201408</dc:date>
+</metadata>
+</record>
+</ibecs-document>

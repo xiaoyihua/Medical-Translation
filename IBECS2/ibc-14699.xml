@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-14699</identifier>
+<setSpec>0212-4572</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Comparative study of serum digoxin results obtained by means two immunoassays: effects of the calibration materials</dc:title>
+<dc:creator>Tutor, J. C</dc:creator>
+<dc:creator>Hermida, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Safel Distribución</dc:publisher>
+<dc:description xml:lang="es">Se realizó un estudio comparativo entre dos métodos analíticos -inmunoanálisis de fluorescencia polarizada Abbott (FPIA) e inmunoturbidimetría Roche (INTB)- para la determinación de digoxina sérica. La precisión obtenida con ambas técnicas es análoga y la correlación entre los resultados es altamente significativa (r= 0.951, p&lt;0.001). Sin embargo, la sobreestimación media de los resultados de la técnica INTB con respecto al FPIA es aproximadamente del 20 por ciento. Esta diferencia es debida, al menos parcialmente, a los materiales de calibración utilizados, aunque no existiría una heterogeneidad del analito o un efecto matriz (AU)</dc:description>
+<dc:source>Anál. clín;25(3): 101-106, jul. 2000. tab, graf</dc:source>
+<dc:identifier>ibc-14699</dc:identifier>
+<dc:title xml:lang="es">Estudio comparativo de los resultados de digoxina sérica obtenidos mediante dos inmunoanálisis: efecto del material de calibración</dc:title>
+<dc:subject>^d4116^s22062</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d22512^s22045</dc:subject>
+<dc:subject>^d2171</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200007</dc:date>
+</metadata>
+</record>
+</ibecs-document>

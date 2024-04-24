@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-93312</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Drug expenditure in primary care: associated variables and allocation of drug budgets according to health district</dc:title>
+<dc:description xml:lang="en">Objectives: Identify factors explaining variability in prescribing costs after reviewing ecological data related to costs and socio-demographic characteristics of the health care zones in the autonomous region of Valencia, and explore the usefulness of using the model to set prescribing budgets in basic healthcare zones. Materials and methods: An ecological analysis of the value socio-demographic characteristics and use of healthcare services to explain prescribing costs in 1997. Development of a prediction model based on multiple linear regression in data for prescribing costs in 1997 and validation in data for1998.Results: Factors that correlated positively with prescribing costs were the percentage of inhabitants over the age of 80,the death rate, the percentage of inhabitants with only primary education or less, the percentage of inhabitants between the ages of 65 and 79 and the distance from the capital city. A multivariate model including the death rate, the percentage of inhabitants 80 years of age and older, the number of cars per 100 inhabitants and number of visits per inhabitant accounted for 44.5% of the variations in prescribing costs in 1997 and 32% in 1998.Conclusions: Socio-demographic factors and certain variables associated with health care utilization can be applied, with incertain limitations, to set prescribing budgets in basic health care zones (AU)</dc:description>
+<dc:creator>García-Sempere , A</dc:creator>
+<dc:creator>Peiró, S</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Identificar factores explicativos de la variabilidad en el gasto farmacéutico a partir de datos sobre gasto y características sociodemográficas de la población por zona de salud en la Comunidad Valenciana, obtenidas en el ámbito ecológico, así como explorar la utilidad del modelo para servir de base de asignación de presupuestos de farmacia en zona básica de salud. Material y métodos: Análisis ecológico de la capacidad explicativa de algunas variables censales y de utilización de servicios, sobre el gasto farmacéutico en 1997. Desarrollo de un modelo predictivo mediante análisis de regresión lineal múltiple y valoración de la capacidad explicativa del modelo en datos de gasto farmacéutico de 1998.Resultados: El porcentaje de mayores de 80 años, la tasa de defunciones, el porcentaje de personas sin estudios o con sólo estudios primarios, de personas de 65-79 años, así como la distancia a la capital, correlacionaron positivamente con el gasto farmacéutico. Un modelo multivariante con la tasa de defunciones, el porcentaje de habitantes de 80 y más años, los turismos por 100 habitantes y las visitas por habitante alcanzó a explicar un 44,5% de la variancia en gasto farmacéutico en 1997 y el 32% en 1998.Conclusiones: Los datos censales y algunas variables de utilización pueden ser usados, con determinadas limitaciones, para construir presupuestos de gasto farmacéutico por zonas básicas de salud  (AU)</dc:description>
+<dc:source>Gac Sanit;15(1): 32-40, ene. -dic. 2001. ilus, tab</dc:source>
+<dc:identifier>ibc-93312</dc:identifier>
+<dc:title xml:lang="es">Gasto farmacéutico en atención primaria: variables asociadasy asignación de presupuestos de farmacia por zonas de salud</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d11756^s22018</dc:subject>
+<dc:subject>^d24624</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d31495^s22049</dc:subject>
+<dc:subject>^d4422^s22018</dc:subject>
+<dc:subject>^d30152^s22083</dc:subject>
+<dc:subject>^d11742^s22018</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200100</dc:date>
+</metadata>
+</record>
+</ibecs-document>

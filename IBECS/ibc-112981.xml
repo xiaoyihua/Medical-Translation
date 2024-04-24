@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-112981</identifier>
+<setSpec>1137-6627</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">New geolocation system in Navarre to reduce urgent response times in mountainous and dispersed areas</dc:title>
+<dc:description xml:lang="en">Identification of all urgent home alerts in mountainous and dispersed areas through the 112 system is normally done using the name of the farmhouse or dwelling, which makes it impossible to localize them with normal GPS means. The aim of this article is to obtain a valid geolocation system in out-of-hospital emergencies that is adapted to the nomenclature and geography of the area, and that can be implanted in all mobile health devices. This will provide exact precision without any loss of time in journeys, so as to avoid an increase in morbidity and mortality due to delays in attention given by professionals, whether or not they know the area. It should be possible to extrapolate this system to other points in the geography of Navarre and Spain. A geolocation tool was created adapted to the orography and specific nomenclature of the chosen pilot area (the Baztan valley) and it was made compatible with the two possible modes of current navigational software, with and without mobile data coverage (on line and off line). This system was integrated into non-corporative health mobile phones using KML archives and applied to the 913 geolocated farmhouses, with its real utility verified in the urgent home alerts registered between the months of May and September 2012. It was possible to reach the farmhouse (routing) requiring urgent attention without getting lost on the road or forest route, irrespective of access characteristics, because the localization of the destination had been registered beforehand in these files (this is the great difference with current GPS systems) (AU)</dc:description>
+<dc:creator>Ablitas Muro, J. M</dc:creator>
+<dc:creator>González Lorente, P</dc:creator>
+<dc:creator>Biurrun,  J</dc:creator>
+<dc:creator>Goienetxe, A</dc:creator>
+<dc:creator>Pascual, M</dc:creator>
+<dc:creator>Casadamón, L</dc:creator>
+<dc:creator>Istúriz, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La identificación de todos los avisos urgentes a domicilio en zonas de montaña y dispersas a través del sistema 112 habitualmente se realiza por el nombre propio del caserío o vivienda, lo que hace imposible localizarlos con los medios GPS habituales. El objetivo que se persiguen en este trabajo es tener un sistema de geolocalización válido en urgencias extra-hospitalarias adaptado a la nomenclatura y geografía de la zona, que permita su implantación en todos los dispositivos móviles sanitarios, consiguiendo una precisión exacta sin pérdidas en el desplazamiento con el fin de evitar un aumento de la morbi-mortalidad por la demora en la atención realizada por profesionales conocedores o no de la zona y que sea extrapolable a otros puntos de la geografía de Navarra o nacional. Se ha conseguido crear una herramienta de geolocalización adaptada a la orografía y nomenclatura específica de la zona piloto elegida (el valle del Baztán) y se ha hecho compatible con los software de navegación actuales en las dos modalidades posibles, con y sin cobertura de datos móviles (on line y off line). Este sistema se ha integrado en los móviles sanitarios no corporativos mediante archivos KML y se ha aplicado a los 913 caseríos geolocalizados, verificando su utilidad real en los avisos domiciliarios urgentes registrados entre los meses de mayo y septiembre del 2012. Se ha conseguido llegar al caserío (encaminamiento o enrutamiento) demandante de la atención urgente sin pérdidas en carretera o camino forestal independientemente de las características de acceso a éste, porque previamente se tiene registrada la localización del destino en estos archivos (ésta es la gran diferencia con los sistemas GPS actuales) (AU)</dc:description>
+<dc:source>An Sist Sanit Navar;36(1): 47-58, ene.-abr. 2013. ilus, tab</dc:source>
+<dc:identifier>ibc-112981</dc:identifier>
+<dc:title xml:lang="es">Nuevo sistema de geolocalización en Navarra para disminuir los tiempos de respuesta en aviso urgente en zonas de montaña y de gran dispersión</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d51896^s22045</dc:subject>
+<dc:subject>^d4707^s22049</dc:subject>
+<dc:subject>^d5981</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4713^s22083</dc:subject>
+<dc:subject>^d50257</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201304</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-4590</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">T2-weighted MR imaging of liver lesions: a prospective evaluation comparing turbo spin-echo, breath-hold turbo spin-echo and half-Fourier turbo spin-echo (HASTE) sequences</dc:title>
+<dc:creator>Sentís, Melcior</dc:creator>
+<dc:creator>Villajos, Maite</dc:creator>
+<dc:creator>Veintemillas, Maite</dc:creator>
+<dc:creator>Martín, Julio</dc:creator>
+<dc:creator>Osés, M. Jesús</dc:creator>
+<dc:creator>Puig, Jordi</dc:creator>
+<dc:creator>Rué, Montse</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Comparar cuantitativa y cualitativamente las secuencias turbo eco del espín (TSE), TSE con respiración sostenida (TSERS) y 'half-Fourier single-shot turbo spin-echo' (HASTE) en los estudios hepáticos con secuencias potenciadas en T2.Material y métodos: Se evaluaron prospectivamente 89 lesiones hepáticas en 73 pacientes en un equipo de RM de 1 T usando secuencias TSE, TSERS y HASTE. Los parámetros cuantitativos comparados fueron: contraste lesión-hígado y contraste-ruido lesión-hígado. El análisis cualitativo se realizó por dos lectores en consenso valorando cuatro parámetros: artefactos respiratorios, definición de los contornos de las lesiónes, definición de los vasos intrahepáticos y calidad de las imágenes. Para comparar las variables cuantitativas se utilizó el análisis de la varianza para medidas repetidas y para las cualitativas la prueba no paramétrica de Friedman.Resultados: Cuantitativamente el contraste lesión-hígado fue similar en las secuencias TSE y TSERS [(2,45 ñ 1,44 frente a 2,6 ñ 1,66 ] y en ambas fue significativamente superior a la secuencia HASTE [(1,12 ñ 0,72 (p &lt; 0,001)]. El parámetro contraste ruido lesión-hígado fue significativamente superior en la secuencia TSE [(62,60 ñ 46,40 frente a 40,22 ñ 25,35 frente a 50,90 ñ 32,10 (p &lt; 0,001)] para TSE, TSERS y HASTE respectivamente.Cualitativamente la secuencia HASTE fue significativamente superior a las secuencias TSE y TSERS (p &lt; 0,001) para la presencia de artefactos, contornos de la lesión y definición de vasos intrahepáticos. La calidad de las imágenes fue significativamente superior en la secuencia HASTE (p &lt; 0,001). Conclusión: Cuantitativamente la secuencia TSE es superior a las secuencias TSERS y HASTE pero la secuencia HASTE carece de artefactos de movimiento y cualitativamente es significativamente superior a las secuencias TSE y TSERS, por lo que puede utilizarse para los estudios hepáticos en T2 (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);42(4): 231-236, mayo 2000. ilus</dc:source>
+<dc:identifier>ibc-4590</dc:identifier>
+<dc:title xml:lang="es">Estudio de lesiones hepáticas con imágenes de resonancia magnética potenciadas en T2: evaluación prospectiva comparando secuencias turbo eco del espín, turbo eco del espín con respiración sostenida y half-fourier turbo eco del espín (haste)</dc:title>
+<dc:subject>^d28620</dc:subject>
+<dc:subject>^d30744^s22045</dc:subject>
+<dc:subject>^d22878^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d8272^s29166</dc:subject>
+<dc:subject>^d24960</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d7144^s29166</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d25783</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d8272^s22042</dc:subject>
+<dc:subject>^d8272^s22053</dc:subject>
+<dc:subject>^d7144^s22016</dc:subject>
+<dc:subject>^d23405</dc:subject>
+<dc:subject>^d23405^s22045</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200005</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-18168</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Context constraints, prior vocabulary knowledge and on-line inferences in reading</dc:title>
+<dc:description xml:lang="en">This study investigated whether context constraints affect inference processing differently for high and low vocabulary readers. Participants named a target word representing an inference concept which followed an inducing context sentence. Evidence for inferences involved facilitation in naming latencies for the target word when it was predictable by the context. Constraints (reduced vs. normal vs. enhanced) were determined by manipulations of the inducing context that affected the extent to which a to-be-inferred concept was predictable. Results indicated that context constraints are more important for low than for high vocabulary readers: The former benefited from enhanced constraints (i.e., probability and speed of inference processing was increased) more than the latter; in addition, reduced constraints were detrimental for low but not for high vocabulary readers (AU)</dc:description>
+<dc:creator>Calvo, Manuel</dc:creator>
+<dc:creator>Estévez Monzó, Adelina</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">El presente estudio investiga el efecto del grado de predecibilidad contextual (baja vs. media vs. alta) sobre el procesamiento inferencia) en lectores con diferente nivel de conocimientos previos de vocabulario. Después de leer una frase de contexto inductora de una inferencia, los sujetos pronuncian una palabra que representa la inferencia. La facilitación (menor latencia) en el nombrado de esta palabra indica la activación de la inferencia. Los resultados indicaron que el contexto es más importante para los lectores con menor vocabulario que para los que poseen mayor vocabulario: los primeros se beneficiaron (incrementaron la probabilidad y rapidez de las inferencias) de la alta predecibilidad más que los segundos; además, la baja predecibilidad perjudicó a los primeros, pero no a los segundos (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);14(2): 357-362, mayo 2002. tab</dc:source>
+<dc:identifier>ibc-18168</dc:identifier>
+<dc:title xml:lang="es">Contexto, conocimientos de vocabulario e inferencias en tiempo real durante la lectura</dc:title>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d7985^s22083</dc:subject>
+<dc:subject>^d12364</dc:subject>
+<dc:subject>^d12366</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d37623</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200205</dc:date>
+</metadata>
+</record>
+</ibecs-document>

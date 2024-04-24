@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-054428</identifier>
+<setSpec>1695-4033</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Factors related to respiratory complications in very low birth weight infants with respiratory distress syndrome</dc:title>
+<dc:description xml:lang="en">Introduction: Very low birth weight (VLBW) infants, with a birth weight below 1500 g and a structurally immature lung, are at high risk for developing bronchopulmonary dysplasia. This risk is even higher if respiratory distress syndrome is present. Other acute lung diseases, such as air leak and pulmonary hemorrhage, can also be present. The aim of this study was to analyze the statistical relevance of several neonatal factors in the development of pulmonary complications in a sample of VLBW infants with respiratory distress syndrome.         Patients and methods: A total of 209 VLBW infants with respiratory distress syndrome were studied. The variables analyzed were delivery date, respiratory distress syndrome grade, sex, birth weight, gestational age, referral (from within the hospital or elsewhere), prenatal corticosteroid administration, type of gestation, type of delivery, amniorrhexis time, Apgar test at 1 and 5 minutes, surfactant administration, hours of life at which the first dose of surfactant was administered, and early sepsis. A multiple logistic regression analysis was developed using Hosmer-Lemeshow methodology.         Results: In the multivariate analysis, air leak was related to respiratory distress syndrome grade and surfactant administration. Pulmonary hemorrhage was related to lower birth weight and absence of prenatal corticosteroid administration. Bronchopulmonary dysplasia was related to single pregnancies, absence of prenatal corticosteroid administration, lower birth weight, lower Apgar score at 1 minute, and higher respiratory distress syndrome grade.         Conclusions: Respiratory morbidity in VLBW infants with respiratory distress syndrome could be influenced by several interrelated intrinsic and extrinsic variables</dc:description>
+<dc:creator>García Arias, M. B</dc:creator>
+<dc:creator>Arrabal Terán, M. C</dc:creator>
+<dc:creator>Zuluaga Arias, P</dc:creator>
+<dc:creator>Arizcun Pineda, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: Los recién nacidos de muy bajo peso (RNMBP), menor de 1.500 g al nacer, con un pulmón estructuralmente inmaduro, tienen un alto riesgo de desarrollar una displasia broncopulmonar (DBP), aún mayor si estuvieran afectados de enfermedad de membrana hialina (EMH). Además pueden presentar otras patologías pulmonares agudas como son el aire ectópico o la hemorragia pulmonar. Analizamos la importancia estadística de una serie de variables neonatales recogidas en una muestra de RNMBP con EMH que presentaron alguna de estas complicaciones.         Pacientes y métodos: En 209 RNMBP con EMH estudiamos las variables 'sexo', 'tipo de gestación', 'administración de corticoides prenatales', 'amniorrexis', 'semanas de gestación', 'tipo de parto', 'fecha de parto', 'procedencia', 'peso al nacimiento', 'puntuación Apgar al primer y quinto minuto de vida', 'EMH', 'administración de sustancia tensoactiva' y 'sepsis precoz'. Con la metodología de selección de variables de Hosmer-Lemeshow se realizó un análisis de regresión logística múltiple.         Resultados: En el análisis multivariante la aparición de aire ectópico se relacionó con el grado de EMH y con la administración de surfactante. El diagnóstico de hemorragia pulmonar se vinculó con la falta de administración de corticoides prenatales y con el menor peso del niño. En la DBP encontramos una relación estadística peyorativa cuando hubo una gestación única, carencia de administración prenatal de corticoides, menor peso al nacimiento, baja puntuación Apgar al primer minuto y mayor gravedad de EMH.         Conclusiones: En la aparición de morbilidad respiratoria en el RNMBP con EMH podrían influir interrelacionándose variables intrínsecas y extrínsecas al neonato</dc:description>
+<dc:source>An Pediatr (Barc);66(4): 375-381, abr. 2007. ilus, tab</dc:source>
+<dc:identifier>ibc-054428</dc:identifier>
+<dc:title xml:lang="es">Factores en la morbilidad respiratoria de los recién nacidos de muy bajo peso con membrana hialina</dc:title>
+<dc:subject>^d28631</dc:subject>
+<dc:subject>^d6622^s22012</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d308^s22073</dc:subject>
+<dc:subject>^d2024^s22080</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12541^s22045</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d32719^s22031</dc:subject>
+<dc:subject>^d2024^s22016</dc:subject>
+<dc:subject>^d6971^s22080</dc:subject>
+<dc:subject>^d22226</dc:subject>
+<dc:subject>^d6971^s22016</dc:subject>
+<dc:subject>^d6971^s22012</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200704</dc:date>
+</metadata>
+</record>
+</ibecs-document>

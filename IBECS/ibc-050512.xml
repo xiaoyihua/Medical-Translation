@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-050512</identifier>
+<setSpec>1130-5665</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Determining brain-connectivity patterns in presence of artefacts using EEG</dc:title>
+<dc:description xml:lang="en">The different brain states incite in the generation of temporalcortical circuits, whose experimental discriminationallows the study and characterization of behavioral responses.In this work, we summarize and illustrate in examplesthe needed steps for the determination of functional connectivitypatterns among cortical areas from EEG recordings.The firts step, different types of artifacts removal, istreated by means of independent component analysis thatallows the recovering of neural activity under the artifactand show the presence degree of the artifact over eachelectrode position. In the second steps we determine thefunctional connectivity from the preprocessed recordings.We employ statistical methods: Partial Spectral Coherenceand dDTF (direct Directed Transfer Function), that providethe connectivity patterns taking into account the synchronizationlevel among the signal. We demostrate and quantifythe differences in the cortical network topology usingas an example two subject states: open and close eyes. Tobe opened to the idea that two structures interact only when they are synchronized, we also consider the signal ina deterministic framework. We demostrate that the localdynamic in open eye state is more complex, due to theconnectivity pattern is more dense</dc:description>
+<dc:creator>Makarov, V. A</dc:creator>
+<dc:creator>Castellanos, N. P</dc:creator>
+<dc:creator>Sánchez-Ramos, C</dc:creator>
+<dc:creator>Panetsos, F</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Los diferentes estados del cerebro provocan la formacióntemporal de circuitos corticales cuya discriminación experimentalabre el camino al estudio y caracterización de respuestasde comportamiento. En este trabajo recogemos eilustramos en ejemplos los pasos necesarios para la determinaciónde patrones de conectividad funcional entre zonascorticales a partir de los registros EEG. El primer paso, lasupresión de artefactos de diferentes tipos, se realizamediante el análisis de componentes independientes quepermite reconstruir la actividad neuronal subyacente alartefacto e indica en qué grado está presente el artefactosobre cada electrodo. En el segundo paso determinamos laconectividad funcional a partir de registros preprocesados.Empleamos métodos estadísticos: la Coherencia EspectralParcial y dDTF (direct Directed Transfer Function) que proporcionanun patrón de conectividad teniendo en cuenta elnivel de sincronización entre señales de los electrodos.Demostramos y cuantificamos las diferencias el la topologíade la red cortical utilizando como ejemplo dos estados del sujeto: ojos abiertos y cerrados. Para no cerrarnos a la ideade que dos estructuras interactúan solo cuando están sincronizadas,también consideramos las señales registradasen un contexto determinista. Demostramos que la dinámicalocal en el estado de ojos abiertos es más compleja, debidoa que el patrón de conectividad es más denso</dc:description>
+<dc:source>MAPFRE med;17(4): 273-279, abr. 2006. ilus</dc:source>
+<dc:identifier>ibc-050512</dc:identifier>
+<dc:title xml:lang="es">Determinación del patrón de conectividad cerebral a partir de EEG en presencia de artefactos</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d4641^s22045</dc:subject>
+<dc:subject>^d14065^s22031</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9666^s22031</dc:subject>
+<dc:subject>^d2527^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200604</dc:date>
+</metadata>
+</record>
+</ibecs-document>

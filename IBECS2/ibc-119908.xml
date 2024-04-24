@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-119908</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Text Mining and Medicine: Usefulness in Respiratory Diseases</dc:title>
+<dc:description xml:lang="en">It is increasingly common to have medical information in electronic format. This includes scientific articles as well as clinical management reviews, and even records from health institutions with patient data. However, traditional instruments, both individual and institutional, are of little use for selecting the most appropriate information in each case, either in the clinical or research field. So-called text or data «mining» enables this huge amount of information to be managed, extracting it from various sources using processing systems (filtration and curation), integrating it and permitting the generation of new knowledge. This review aims to provide an overview of text and data mining, and of the potential usefulness of this bioinformatic technique in the exercise of care in respiratory medicine and in research in the same field (AU)</dc:description>
+<dc:creator>Gea, Joaquim</dc:creator>
+<dc:creator>Ferrer, Antoni</dc:creator>
+<dc:creator>Piedra, David</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Cada vez es más habitual disponer de información médica en formato electrónico. Esto incluye tanto artículos científicos como revisiones sobre el manejo clínico e incluso registros de instituciones sanitarias con datos de pacientes. Sin embargo, los instrumentos tradicionales, tanto individuales como institucionales, son poco útiles para seleccionar la información más apropiada en cada caso, sea en el ámbito clínico o en el de la investigación. La llamada «minería» de textos o de datos permite gestionar esa gran cantidad de información, extrayéndola de fuentes diversas mediante sistemas de procesamiento (filtrado y curado), integrándola y permitiendo la generación de nuevo conocimiento. La presente revisión pretende proporcionar una idea general sobre la minería de textos y datos, así como sobre la ayuda que esta técnica bioinformática puede suponer para el ejercicio asistencial de la medicina respiratoria y para la investigación en ese mismo campo (AU)</dc:description>
+<dc:source>Arch Bronconeumol;50(3): 113-119, mar. 2014. ilus, graf</dc:source>
+<dc:identifier>ibc-119908</dc:identifier>
+<dc:title xml:lang="es">Minería de textos y medicina: utilidad en las enfermedades respiratorias</dc:title>
+<dc:subject>^d^s22066</dc:subject>
+<dc:subject>^d53808^s22066</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d8352^s22080</dc:subject>
+<dc:subject>^d12560^s22080</dc:subject>
+<dc:subject>^d36008^s22080</dc:subject>
+<dc:subject>^d28994^s22045</dc:subject>
+<dc:subject>^d36354</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201403</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-123506</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:creator>Avanzas, Pablo</dc:creator>
+<dc:creator>Heras, Magda</dc:creator>
+<dc:creator>Pérez de Isla, Leopoldo</dc:creator>
+<dc:creator>Sanchis, Juan</dc:creator>
+<dc:creator>Bayes-Genis, Antoni</dc:creator>
+<dc:language>en</dc:language>
+<dc:source>Rev Esp Cardiol;64(5): 427-429, mayo 2011.</dc:source>
+<dc:identifier>ibc-123506</dc:identifier>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28895</dc:subject>
+<dc:subject>^d3243^s37748</dc:subject>
+<dc:subject>^d1325</dc:subject>
+<dc:subject>^d37706</dc:subject>
+<dc:subject>^d12077^s37748</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201105</dc:date>
+</metadata>
+</record>
+</ibecs-document>

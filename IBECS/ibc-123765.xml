@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-123765</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">No disponible</dc:title>
+<dc:description xml:lang="en">No disponible</dc:description>
+<dc:creator>Picó-Aracil, Francisco</dc:creator>
+<dc:creator>Consuegra, Luciano</dc:creator>
+<dc:creator>Cascón-Pérez, José D</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">No disponible</dc:description>
+<dc:source>Rev Esp Cardiol;62(6): 705-706, jun. 2009. ilus</dc:source>
+<dc:identifier>ibc-123765</dc:identifier>
+<dc:title xml:lang="es">Histología virtual de una lesión oclusiva trombótica aguda</dc:title>
+<dc:subject>^d19371</dc:subject>
+<dc:subject>^d29638</dc:subject>
+<dc:subject>^d29179^s22045</dc:subject>
+<dc:subject>^d52614^s29166</dc:subject>
+<dc:subject>^d21012</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30992^s22045</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200906</dc:date>
+</metadata>
+</record>
+</ibecs-document>

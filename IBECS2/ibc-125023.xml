@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-125023</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The heterogeneity of blood flow on magnetic resonance imaging: a biomarker for grading cerebral astrocytomas</dc:title>
+<dc:description xml:lang="en">Objectives: To study whether the histograms of quantitative parameters of perfusion in MRI obtained from tumor volume and peritumor volume make it possible to grade astrocytomas in vivo. Material and methods: We included 61 patients with histological diagnoses of grade II, III, or IV astrocytomas who underwent T2*-weighted perfusion MRI after intravenous contrast agent injection. We manually selected the tumor volume and peritumor volume and quantified the following perfusion parameters on a voxel-by-voxel basis: blood volume (BV), blood flow (BF),  mean transit time (TTM), transfer constant (Ktrans), washout coefficient, interstitial volume, and vascular volume. For each volume, we obtained the corresponding histogram with its mean, standard deviation, and kurtosis (using the standard deviation and kurtosis as measures of heterogeneity) and we compared the differences in each parameter between different grades of tumor. We also calculated the mean and standard deviation of the highest 10% of values. Finally, we performed a multiparametric discriminant analysis to improve the classification. Results: For tumor volume, we found statistically significant differences among the three grades of tumor for the means and standard deviations of BV, BF, and Ktrans, both for the entire distribution and for the highest 10% of values. For the peritumor volume, we found no significant differences for any parameters. The discriminant analysis improved the classification slightly. Conclusions: The quantification of the volume parameters of the entire region of the tumor  with BV, BF, and Ktrans is useful for grading astrocytomas. The heterogeneity represented by the standard deviation of BF is the most reliable diagnostic parameter for distinguishing between low grade and high grade lesions (AU)</dc:description>
+<dc:creator>Sanz Requena, R</dc:creator>
+<dc:creator>Gaspar, C</dc:creator>
+<dc:creator>Martí-Bonmatí, L</dc:creator>
+<dc:creator>Pallardó, Y</dc:creator>
+<dc:creator>Revert Ventura, A. J</dc:creator>
+<dc:creator>Jornet, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Estudiar si los histogramas de los parámetros cuantitativos de perfusión por RM obtenidos a partir de los volúmenes tumoral y peritumoral permiten clasificar in vivo el grado de los astrocitomas. Material y métodos: Se incluyen 61 pacientes diagnosticados histológicamente de astrocitoma grado II, III o IV, estudiados mediante RM de perfusión T2* con contraste intravenoso, seleccionando manualmente los volúmenes tumoral y peritumoral, cuantificándose vóxel a vóxel diferentes parámetros de perfusión: volumen sanguíneo (VS), flujo sanguíneo (FS), tiempo de tránsito medio (TTM), constante de transferencia (Ktrans), coeficiente de lavado, volumen intersticial y volumen vascular. Para cada volumen se obtuvo el histograma correspondiente con su media, desviación típica y curtosis, estas últimas como medidas de heterogeneidad, comparándose las diferencias por parámetro y grado tumoral. También se calcularon la media y desviación del 10% de los valores  máximos. Finalmente se realizó un análisis discriminante multiparamétrico para mejorar la clasificación. Resultados: En el volumen tumoral se obtuvieron diferencias estadísticamente significativas entre los 3 grados tumorales para la media y la desviación de VS, FS y Ktrans, tanto para la distribución completa, como para el 10% máximo. En la región peritumoral no se obtuvieron diferencias significativas para ningún parámetro. El análisis discriminante mejoró ligeramente la clasificación. Conclusiones: La cuantificación de parámetros del volumen total de la región tumoral con VS, FS y Ktrans es útil para establecer el grado de los astrocitomas. La heterogeneidad, representada  por la desviación típica del FS, es el parámetro con mayor fiabilidad diagnóstica para separar los tumores de bajo y alto grado (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);56(4): 328-338, jul.-ago. 2014. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-125023</dc:identifier>
+<dc:title xml:lang="es">La heterogeneidad del flujo sanguíneo en resonancia magnética, biomarcador para clasificar por grados los astrocitomas cerebrales</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d24373^s22002</dc:subject>
+<dc:subject>^d23405^s22045</dc:subject>
+<dc:subject>^d9560^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1958^s22040</dc:subject>
+<dc:subject>^d1262^s22040</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201408</dc:date>
+</metadata>
+</record>
+</ibecs-document>

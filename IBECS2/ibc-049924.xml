@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-049924</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Development of software for three-dimensional reconstruction and automatic quantification of intravascular ultrasound images. Initial experience</dc:title>
+<dc:description xml:lang="en">Introduction and objectives. Quantification of intravascular ultrasound (IVUS) images is essential in ischemic heart disease and interventional cardiology. Manual analysis is very slow and expensive. We describe an automated computerized method of analysis that requires only minimal initial input from a specialist. Methods. This study was carried out by interventional cardiologists and biomedical engineers working in close collaboration. We developed software in which it was necessary only to identify the media-adventitia boundary in a few images taken from the whole sequence. A three-dimensional reconstruction was then generated from each sequence, from which measurements of areas and volumes could be derived automatically. In total, 2300 randomly selected images from video sequences of 11 patients were analyzed. Results. Results obtained using the proposed method differed only minimally from those obtained with the manual method: for vessel area measurements, the variability was 0.08 (0.07) (mean absolute error [standard deviation] normalized to the actual value; this corresponds to an error of 0.08 mm² per mm² of vessel area); for lumen area, 0.11 (0.11) (normalized), and for plaque volume, 0.5 (0.3) (normalized). Regions with severe lesions (&lt;4 mm²) were correctly identified in more than 90% of cases. Specialist time needed for each reconstruction was 10 (8) minutes (vs 60 [10] minutes for manual analysis; P&lt;.0001). Conclusions. The computerized method used dramatically reduced the time and effort needed for IVUS sequence analysis, and the automated measurements obtained were very promising (AU)</dc:description>
+<dc:creator>Bodí, Vicente</dc:creator>
+<dc:creator>Yacer, Ángel</dc:creator>
+<dc:creator>Sanchís, Juan</dc:creator>
+<dc:creator>Sanchís, Juan M</dc:creator>
+<dc:creator>Chorro, Francisco J</dc:creator>
+<dc:creator>Núñez, Julio</dc:creator>
+<dc:creator>Sanz, Roberto</dc:creator>
+<dc:creator>David Moratal, David</dc:creator>
+<dc:creator>García, Diego</dc:creator>
+<dc:creator>Palau, Patricia</dc:creator>
+<dc:creator>Rieta, José J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos. La cuantificación de las imágenes de ultrasonido intravascular (IVUS) es esencial en el campo de la cardiopatía isquémica y la cardiología intervencionista. El análisis manual es muy lento y costoso. Se propone un método informático para automatizar el proceso a partir de una intervención inicial mínima del especialista. Métodos. Este estudio se realizó mediante la colaboración de cardiólogos intervencionistas e ingenieros en biomedicina. Se desarrolló un software en el que sólo debía especificarse el contorno media-adventicia de unas pocas imágenes de la secuencia. Se generó una reconstrucción tridimensional de cada secuencia sobre la que se podían realizar automáticamente medidas de área y volumen. Se analizó un total de 2.300 imágenes obtenidas aleatoriamente de secuencias de vídeo de 11 pacientes. Resultados. El método propuesto obtuvo una mínima variabilidad respecto al método manual de 0,08 ± 0,07 (error absoluto medio ± desviación estándar normalizado respecto al área real, esto es, por cada mm² de área se obtiene un error de 0,08 mm²) para medidas de área de vaso, 0,11 ± 0,11 (normalizado) para área de luz y 0,5 ± 0,3 (normalizado respecto al volumen real) para volumen de placa. Las regiones con lesión severa (&lt; 4 mm²) se detectaron correctamente en más del 90% de las ocasiones. El tiempo invertido por el especialista en las reconstrucciones fue de 10 ± 8 min (frente a 60 ± 10 min para el análisis manual; p &lt; 0,0001). Conclusiones. El método informático implementado redujo drásticamente el tiempo y el esfuerzo dedicados al análisis de secuencias IVUS y ofreció resultados muy prometedores en la obtención automática de medidas (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;59(9): 879-888, sept. 2006. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-049924</dc:identifier>
+<dc:title xml:lang="es">Desarrollo de software para la reconstrucción tridimensional y cuantificación automática de secuencias de ultrasonido intravascular. Experiencia inicial</dc:title>
+<dc:subject>^d19402</dc:subject>
+<dc:subject>^d33097^s22045</dc:subject>
+<dc:subject>^d35390</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d19139^s29166</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200609</dc:date>
+</metadata>
+</record>
+</ibecs-document>

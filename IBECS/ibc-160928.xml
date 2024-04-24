@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-160928</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Improvement in risk stratification in transcatheter aortic valve implantation using a combination of the tumor marker CA125 and the logistic EuroSCORE</dc:title>
+<dc:description xml:lang="en">Introduction and objectives: Conventional risk scores have not been accurate in predicting peri- and postprocedural risk of patients undergoing transcatheter aortic valve implantation (TAVI). Elevated levels of the tumor marker carbohydrate antigen 125 (CA125) have been linked to adverse outcomes after TAVI. We studied the additional value of CA125 to that of the EuroSCORE in predicting long-term mortality after TAVI. Methods and results:  During a median follow-up of 59 weeks, 115 of 422 patients (27%) died after TAVI. Mortality was higher with elevated CA125 (&gt; 30 U/mL) and EuroSCORE (&gt; median) (47% vs 20%, P &lt; .001 and 38% vs 16%, P &lt; .001, respectively). In the multivariable analysis, CA125 (&gt; 30 U/mL) remained an independent predictor of mortality (hazard ratio [HR], 2.16; 95% confidence interval [95%CI], 1.48-3.15; P &lt; .001) and improved the predictive capability of the model (C-statistic: 0.736 vs 0.731) and the net reclassification index (51% 95%CI, 33-73) with an integrated discriminative improvement of 3.5% (95%CI, 0.5-8.4). A new variable (CA125-EuroSCORE) was created, with the combinations of the 2 possible binary states of these variables (+, elevated, -, not elevated; C1: CA125- EuroSCORE-; C2: CA125+ EuroSCORE-; C3: CA125- EuroSCORE+; C4: CA125+ EuroSCORE+). Patients in C1 exhibited the lowest cumulative mortality rate (14% [26 of 181]). Mortality was intermediate for C2 (CA125 &gt; 30 U/mL and EuroSCORE &amp;#8804; median) and C3 (CA125 &amp;#8804; 30 U/mL and EuroSCORE &gt; median): 27% (8 of 30) and 28% (37 of 131), respectively. Patients in C4 (CA125 &gt; 30 U/mL and EuroSCORE &gt; median) exhibited the highest mortality (55% [44 of 80], P-value for trend &lt; .001). Conclusions: CA125 offers additional prognostic information beyond that obtained by the EuroSCORE. Elevation of both markers was associated with a poor prognosis (AU)</dc:description>
+<dc:creator>Kessler, Thorsten</dc:creator>
+<dc:creator>Lüscher, Thomas F</dc:creator>
+<dc:creator>Pellegrini, Costanza</dc:creator>
+<dc:creator>Husser, Oliver</dc:creator>
+<dc:creator>Schunkert, Heribert</dc:creator>
+<dc:creator>Kastrati, Adnan</dc:creator>
+<dc:creator>Maier, Lars S</dc:creator>
+<dc:creator>Holzamer, Andreas</dc:creator>
+<dc:creator>Templin, Christian</dc:creator>
+<dc:creator>Bodi, Vicente</dc:creator>
+<dc:creator>Núñez, Julio</dc:creator>
+<dc:creator>Luchner, Andreas</dc:creator>
+<dc:creator>Hilker, Michael</dc:creator>
+<dc:creator>Burgdorf, Christof</dc:creator>
+<dc:creator>Sanchis, Juan</dc:creator>
+<dc:creator>Schmid, Christof</dc:creator>
+<dc:creator>Hengstenberg, Christian</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos: El rendimiento de las puntuaciones de riesgo tradicionales para predecir el riesgo tras el implante percutáneo válvula aórtica (TAVI) no es adecuado. Las altas concentraciones plasmáticas de antígeno carbohidrato 125 (CA125) se han asociado a un aumento del riesgo de eventos adversos tras TAVI. En este trabajo se evalúa el valor pronóstico adicional del CA125 sobre la puntuación EuroSCORE para la predicción de riesgo a largo plazo. Métodos y resultados: Durante una mediana de seguimiento de 59 semanas, murieron 115 de 422 pacientes (27%) después de la TAVI. La mortalidad fue mayor entre aquellos con CA125 elevado (&gt; 30 U/ml) y EuroSCORE &amp;#8805; mediana (el 47 frente al 20%; p &lt; 0,001; y el 38 frente al 16%; p &lt; 0,001 respectivamente). En el análisis multivariable, el CA125 (&gt; 30 U/ml) seguía asociado con la mortalidad (hazard ratio [HR] = 2,16; intervalo de confianza del 95% [IC95%], 1,48-3,15; p &lt; 0,001), mejoró la capacidad discriminativa del modelo (estadístico C = 0,736 frente a C = 0,731), el índice neto de reclasificación (51%; IC95%, 33-73) y el índice de mejora de la reclasificación (3,5%; IC95%, 0,5-8,4). La combinación de CA125 y EuroSCORE permitió la creación de una variable de 4 categorias (+, elevado, -, no elevado; C1, CA125- EuroSCORE-; C2, CA125+ EuroSCORE-; C3, CA125- EuroSCORE+, y C4, CA125+ EuroSCORE+). Los pacientes pertenecientes a C1 presentaron la menor mortalidad (14%, 26/181); C2 y C3, intermedia (27% [8/30] y 28% [37/131] respectivamente). Los pertenecientes a C4 presentaron la mayor mortalidad (55% [44/80]; p para la tendencia &lt; 0,001). Conclusiones: El CA125 ofrece información pronóstica adicional a la proporcionada por la puntuación EuroSCORE. La elevación de ambos indicadores se asoció a peor pronóstico (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;70(3): 186-193, mar. 2017. tab, graf</dc:source>
+<dc:identifier>ibc-160928</dc:identifier>
+<dc:title xml:lang="es">Mejora en la estratificación del riesgo tras el implante percutáneo de válvula aórtica mediante una combinación de marcador tumoral CA125 y EuroSCORE logístico</dc:title>
+<dc:subject>^d55683^s22045</dc:subject>
+<dc:subject>^d1028^s22009</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d32327^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d18001</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201703</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-162397</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">When does post-ictal period start in temporal lobe epilepsy? A quantitative EEG perspective</dc:title>
+<dc:description xml:lang="en">Introduction. In partial seizures, from a clinical point of view or even from electroencephalography characterization of post-ictal period can be difficult. The spectral and complex network analysis could lead to a more accurate definition of its limits, as well as to a great understanding of the seizures. Patients and methods. Digital EEG recordings from scalp and foramen oval electrodes were used, 32 seizures, from 15 patients with drug-resistant mesial temporal lobe epilepsy (Engel I). We analyzed numerically: the spectral entropy, the different frequency bands and several variables used to characterize the cortical network, density of links, modularity, cluster coefficient and average path length. Variations of for post-ictal versus pre-ictal periods were quantified. Results. The cortical network density of links increased during the post-ictal period of complex seizures matching with an spectral entropy decrease, mainly due to an increase in Delta band activity. This variables reached extreme values around one minute after seizure end, defined by classical electroencephalography. Conclusions. Our results can be explained by the appearance of an «ending» mechanism that starts in the ictal period, classically defined, and reach their maximum effect during the post-ictal period. These results could be useful to define the post-ictal period start, as the moment with maximum synchrony, which has a highest density of links and a lowest spectral entropy (AU)</dc:description>
+<dc:creator>Vega-Zelaya, Lorena</dc:creator>
+<dc:creator>Sanz-García, Ancor</dc:creator>
+<dc:creator>Sola, Rafael G</dc:creator>
+<dc:creator>Pastor, Jesús</dc:creator>
+<dc:creator>Ortega, Guillermo J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. En las crisis parciales, el período postictal presenta grandes dificultades de caracterización, tanto desde el punto de vista clínico como en electroencefalografía. Un análisis espectral y de redes complejas permitiría una definición más precisa de sus límites y una comprensión más completa de las crisis. Pacientes y métodos. Se analizaron registros digitales de electroencefalografía de electrodos de scalp y foramen oval, 32 crisis, de 15 pacientes con epilepsia farmacorresistente del lóbulo temporal (Engel I). Numéricamente se estudió la entropía espectral, las distintas bandas de frecuencia y medidas de caracterización de la red cortical, la densidad de enlaces, la modularidad, el coeficiente de agrupamiento y la longitud de camino medio, y se cuantificó la variación del período postictal respecto al preictal. Resultados. Durante el período postictal de las crisis complejas existe un marcado aumento de la densidad de enlaces en la red cortical coincidente con un descenso en la entropía espectral, principalmente debido al aumento de la actividad en la banda delta. Los valores extremos de estas medidas se alcanzan aproximadamente un minuto después del fin de las crisis, definidas electroencefalográficamente usando métodos tradicionales. Conclusiones. Nuestros resultados pueden explicarse por la aparición de un mecanismo de «finalización» de las crisis que comienza dentro del período ictal definido clásicamente y que alcanzan su efecto máximo durante el período postictal. Estos resultados podrían emplearse para definir el inicio del período postictal como aquel donde la sincronización es máxima, esto es, donde la densidad de enlaces resulta mayor y la entropía espectral es mínima (AU)</dc:description>
+<dc:source>Rev Neurol;64(8): 337-346, 16 abr., 2017. tab, ilus, graf</dc:source>
+<dc:identifier>ibc-162397</dc:identifier>
+<dc:title xml:lang="es">¿Dónde comienza el período postictal en la epilepsia del lóbulo temporal? Hacia una definición cuantitativa</dc:title>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d4641^s22074</dc:subject>
+<dc:subject>^d19062</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d13024^s29166</dc:subject>
+<dc:subject>^d4912^s29166</dc:subject>
+<dc:subject>^d52517^s29166</dc:subject>
+<dc:subject>^d24895^s22074</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201704</dc:date>
+</metadata>
+</record>
+</ibecs-document>

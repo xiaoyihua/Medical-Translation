@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-161212</identifier>
+<setSpec>0211-2159</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Bayesian estimation of multidimensional item response models. A comparison of analytic and simulation algorithms</dc:title>
+<dc:description xml:lang="en">This study compares the performance of two estimation algorithms of new usage, the Metropolis-Hastings Robins-Monro (MHRM) and the Hamiltonian MCMC (HMC), with two consolidated algorithms in the psychometric literature, the marginal likelihood via EM algorithm (MMLEM) and the Markov chain Monte Carlo (MCMC), in the estimation of multidimensional item response models of various levels of complexity. This paper evaluates the performance of parameter recovery via three simulation studies from a Bayesian approach. The first simulation uses a very simple unidimensional model to evaluate the effect of diffuse and concentrated prior distributions on recovery. The second study compares the MHRM algorithm with MML-EM and MCMC in the estimation of an itemresponse model with a moderate number of correlated dimensions. The third simulation evaluates the performance of the MHRM, HMC, MML-EM and MCMC algorithms in the estimation of an item response model in a highdimensional latent space. The results showed that MML-EM loses precision with high-dimensional models whereas the other three algorithms recover the true parameters with similar precision. Apart from this, the main differences between algorithms are: 1) estimation time is much shorter for MHRM than for the other algorithms, 2) MHRM achieves the best precision in all conditions and is less affected by prior distributions, and 3) prior distributions for the slopes in the MCMC and HMC algorithms should be carefully defined in order to avoid problems of factor orientation. In summary, the new algorithms seem to overcome the difficulties of the traditional ones by converging faster and producing accurate results (AU)</dc:description>
+<dc:creator>Martin-Fernandez, Manuel</dc:creator>
+<dc:creator>Revuelta, Javier</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">El presente estudio compara el rendimiento de dos algoritmos de estimación de reciente implementación, Metropolis-Hastings Robins-Monro (MHRM) y Hamiltonian MCMC (HMC), con dos algoritmos consolidados en la literatura psicométrica, máxima verosimilitud marginal a través del algoritmo EM (MML-EM) y las cadenas de Markov de Monte Carlo (MCMC), en la estimación de modelos multidimensionales de respuesta al ítem de diferente complejidad. Para evaluar la recuperación de parámetros se plantearon tres estudios de simulación desde un acercamiento Bayesiano. El primer estudio utiliza un modelo unidimensional sencillo para evaluar el efecto de distribuciones previas informativas y no informativas. El segundo estudio compara el algoritmo MHRM con MML-EM y MCMC en la estimación de un modelo de respuesta al ítem con un número moderado de dimensiones correlacionadas. El tercer estudio evalúa el desempeño de los algoritmos MHRM, HMC, MML-EM y MCMC en la estimación de un modelo de respuesta al ítem de alta dimensionalidad. Los resultados ponen de manifiesto que MML-EM pierde precisión con modelos de alta dimensionalidad mientras que los otros tres algoritmos recuperan los parámetros verdaderos con una precisión similar. Además, las principales diferencias encontradas entre los algoritmos fueron: 1) MHRM tarda mucho menos en estimar el modelo que el resto de algoritmos; 2) MHRM se muestra más preciso y menos afectado por las distribuciones previas en sus estimaciones; y 3) las distribuciones previas para los parámetros a en los algoritmos MCMC y HMC deben definirse con cuidado para evitar problemas de orientación de los factores. En resumen, los nuevos algoritmos parecen superar las dificultades de los tradicionales, convergiendo más rápido y obteniendo resultados similares (AU)</dc:description>
+<dc:source>PsicolÔogica (Valencia, Ed. impr.);38(1): 25-55, 2017. tab, graf</dc:source>
+<dc:identifier>ibc-161212</dc:identifier>
+<dc:title xml:lang="es">Estimación Bayesiana de modelos multidimensionales de respuesta al ítem. Una comparación de algoritmos analíticos y de simulación</dc:title>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d28635</dc:subject>
+<dc:subject>^d12006^s22083</dc:subject>
+<dc:subject>^d19062</dc:subject>
+<dc:subject>^d12031^s22083</dc:subject>
+<dc:subject>^d28624</dc:subject>
+<dc:subject>^d9150</dc:subject>
+<dc:subject>^d28574^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201700</dc:date>
+</metadata>
+</record>
+</ibecs-document>

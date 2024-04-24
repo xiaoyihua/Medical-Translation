@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-28717</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Imputation of the date of HIV seroconversion in cohorts of haemophiliacs</dc:title>
+<dc:creator>Hernández-Aguado, I</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivos: Describir la técnica utilizada para imputar la fecha de seroconversión al virus de la inmunodeficiencia humana (VIH) en cohortes de hemofílicos y validar su utilización en sujetos con fecha de seroconversión datada dentro de un intervalo de las cohortes del proyecto GEMES (Grupo Español Multicéntrico para el Estudio de Seroconvertores al VIH).Método: Se dispone de 632 hemofílicos procedentes de tres unidades de hemofilia identificados como VIH+ entre 1983 y 1985 (fechas de las primeras pruebas VIH+) y 1.092 individuos procedentes de 5 cohortes del proyecto GEMES con una ventana de seroconversión (tiempo entre pruebas VIH- y VIH+) menor de 3 años en los que se asume el punto medio (PM) como fecha de seroconversión. Se imputa la fecha de seroconversión para los dos grupos a partir de la estimación de la distribución de probabilidad de seroconversión que se obtiene mediante el algoritmo EM. Se utilizan dos métodos de imputación: uno a partir del valor esperado de la distribución estimada y otro de la media geométrica de 5 muestras aleatorias de la distribución estimada. Las imputaciones se han validado en las cohortes de no hemofílicos al comparar con el PM y el tiempo libre de sida y la supervivencia con las diferentes estimaciones de seroconversión. Resultados: La mediana de la seroconversión se sitúa en mayo de 1993 para los no hemofílicos y en 1982 para los hemofílicos. En las cohortes de no hemofílicos no se observan grandes diferencias entre las fechas de la seroconversión estimada como el punto medio y las medianas estimadas a partir de los dos métodos de imputación. Lo mismo ocurre en el caso de las cohortes de hemofílicos. No se observan diferencias en las estimaciones del tiempo libre de sida y supervivencia en ambos grupos de cohortes. Conclusiones: La imputación de la media geométrica de varias muestras aleatorias y la imputación de valor esperado proporcionan una buena estimación de la fecha de seroconversión frente al VIH que puede ser utilizada para estimar el tiempo libre de sida y la supervivencia en una cohorte de hemofílicos para los que se desconoce la fecha de seroconversión (AU)</dc:description>
+<dc:source>Gac Sanit;17(6): 474-482, nov. 2003.</dc:source>
+<dc:identifier>ibc-28717</dc:identifier>
+<dc:title xml:lang="es">Imputación del instante de seroconversión al VIH en cohortes de hemofílicos</dc:title>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d8601</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6619</dc:subject>
+<dc:subject>^d29422</dc:subject>
+<dc:subject>^d14384</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200311</dc:date>
+</metadata>
+</record>
+</ibecs-document>

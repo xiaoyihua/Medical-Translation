@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-103442</identifier>
+<setSpec>0212-1611</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Confirming the validity of the CONUT system for early detection and monitoring of clinical undernutrition; comparison with two logistic regression models developed using SGA as the gold standard</dc:title>
+<dc:description xml:lang="en">Aim: To ratify previous validations of the CONUT nutritional screening tool by the development of two probabilistic models using the parameters included in the CONUT, to see if the CONUT´s effectiveness could be improved. Methods: It is a two step prospective study. In Step 1, 101 patients were randomly selected, and SGA and CONUT was made. With data obtained an unconditional logistic regression model was developed, and two variants of CONUT were constructed: Model 1 was made by a method of logistic regression. Model 2 was made by dividing the probabilities of undernutrition obtained in model 1 in seven regular intervals. In step 2, 60 patients were selected and underwent the SGA, the original CONUT and the new models developed. The diagnostic efficacy of the original CONUT and the new models was tested by means of ROC curves. Both samples 1 and 2 were put together to measure the agreement degree between the original CONUT and SGA, and diagnostic efficacy parameters were calculated. Results: No statistically significant differences were found between sample 1 and 2, regarding age, sex and medical/surgical distribution and undernutrition rates were similar (over 40%). The AUC for the ROC curves were 0.862 for the original CONUT, and 0.839 and 0.874, for model 1 and 2 respectively. The kappa index for the CONUT and SGA was 0.680. Conclusions: The CONUT, with the original scores assigned by the authors is equally good than mathematical models and thus is a valuable tool, highly useful and efficient for the purpose of Clinical Undernutrition screening (AU)</dc:description>
+<dc:creator>Mancha, A</dc:creator>
+<dc:creator>Culebras, J</dc:creator>
+<dc:creator>Rodríguez, FJ</dc:creator>
+<dc:creator>González-Madroño, A</dc:creator>
+<dc:creator>Ulibarri, JI de</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objetivo: Ratificar validaciones previas del sistema de cribado nutricional CONUT, mediante el desarrollo de dos modelos probabilísticos usando los parámetros incluidos en el CONUT, para ver si la efectividad del CONUT puede ser mejorada. Métodos: Estudio prospectivo en dos fases. En la fase I se seleccionaron 101 pacientes al azar, y se les hicieron SGA y CONUT. Con estos datos se fabricó un modelo de regresión logística incondicional, y se construyeron dos variantes del CONUT. El modelo 1 se hizo mediante regresión logística. El modelo 2 se hizo dividiendo las probabilidades de desnutrición obtenidas en el modelo 1 en siete intervalos regulares. En la fase 2, se seleccionaron 60 pacientes, y se les hizo el SGA, CONUT y los nuevos modelos desarrollados. La eficacia diagnóstica del CONUT original y de los nuevos modelos se estudió mediante curvas ROC. Se juntaron las muestras 1 y 2 para medir el grado de acuerdo entre el CONUT original y el SGA, y se calcularon los índices de eficacia. Resultados: No se encontraron diferencias significativas entre las muestras 1 y 2, en cuanto a la distribución de sexos y servicios, las tasas de desnutrición fueron similares (alrededor del 40%). El AUC para las curvas ROC fueron 0,862 para el CONUT original, y 0,839 y 0,874 para modelos 1 y 2 respectivamente. El índice kappa entre el CONUT y el SGA fue 0,680. Conclusión: El CONUT, con las puntuaciones asignadas originalmente por los autores, es tan bueno como los modelos matemáticos y por tanto, válido, muy útil y eficiente para el cribado de la desnutrición Clínica (AU)</dc:description>
+<dc:source>Nutr Hosp;27(2): 564-571, mar.-abr. 2012. tab</dc:source>
+<dc:identifier>ibc-103442</dc:identifier>
+<dc:title xml:lang="es">Confirmando la validez del sistema CONUT para la detección precoz de la desnutrición clínica. Comparación con dos modelos de regresión logística desarrollados usando el SGA como gold standard</dc:title>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d38061^s22080</dc:subject>
+<dc:subject>^d6916^s22083</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d25123</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201204</dc:date>
+</metadata>
+</record>
+</ibecs-document>

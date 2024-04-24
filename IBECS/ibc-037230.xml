@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-037230</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Root cause analysis. A useful tool for error prevention</dc:title>
+<dc:description xml:lang="en">Tools for causal analysis began to be used in industry in the 1970s in order to develop safer systems. These methods had a particular impact on the nuclear and aviation industries, among others. In the health sector, based on techniques already used in other fields, several associations have instigated well-structured methodologies for root cause analysis, inspired by the concepts developed by J. Reason. These concepts concern the use of a system approach rather than a person approach exclusively when an adverse event occurs in healthcare. To do this, so-called sentinel events were defined (adverse events of great clinical importance) with the aim of centering causal analysis on these events. Based on their detection and through multidisciplinary groups, all the possible root causes are reviewed and malfunctioning of barriers (protocols, alarms, supervision, etc.) are investigated when adverse events occur. Interventions to prevent the event are then sought. Root cause analysis is a sequential process involving structured questions to discover underlying latent errors in the sentinel event. Because it is process oriented, it entails an exhaustive review of the elements of which it is composed (persons, equipment, procedures, information, environments, external contingencies, etc.). Finally, some recommendations are made for error prevention. These recommendations are aimed at patients and focus on their active participation in the healthcare process</dc:description>
+<dc:creator>Ruiz-López, Pedro</dc:creator>
+<dc:creator>González Rodríguez-Salinas, Carmen</dc:creator>
+<dc:creator>Alcalde-Escribano, Juan</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En el mundo de la industria (década de los setenta) se comenzó a utilizar herramientas para el análisis de las causas que producían los errores con el objetivo de poder desarrollar sistemas más seguros. Estos métodos tuvieron especial impacto en la industria nuclear y en la aviación, entre otras. En el ámbito sanitario, basándose en técnicas ya utilizadas en otros campos, diversas asociaciones han promovido metodologías bien estructuradas para el análisis de las causas origen o raíz, inspiradas en conceptos de J. Reason sobre la orientación hacia los sistemas, en lugar de hacerlo exclusivamente hacia las personas cuando se produce un efecto adverso en la asistencia. Para ello, se definieron los llamados sucesos centinela (efectos adversos de gran trascendencia clínica) con el objetivo de centrar el análisis causal en ellos. A partir de su detección, y mediante trabajo de grupos multidisciplinarios, se revisan todas las posibles causas raíz y se investiga el mal funcionamiento de las barreras (protocolos, alarmas de equipos, supervisión, etc.) ante los fallos existentes, buscando a continuación acciones necesarias para la prevención del suceso. El análisis de causas raíz es un proceso secuencial de preguntas estructuradas para descubrir errores latentes subyacentes en un suceso centinela. Se orienta al proceso, por lo que supone una revisión exhaustiva de los elementos que lo integran (personas, equipos, procedimientos, información, entornos, contingencias externas, etc.)</dc:description>
+<dc:source>Rev. calid. asist;20(2): 71-78, mar. 2005. ilus, tab</dc:source>
+<dc:identifier>ibc-037230</dc:identifier>
+<dc:title xml:lang="es">Análisis de causas raíz. Una herramienta útil para la prevención de errores</dc:title>
+<dc:subject>^d31061^s22045</dc:subject>
+<dc:subject>^d28600</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d33121^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200503</dc:date>
+</metadata>
+</record>
+</ibecs-document>

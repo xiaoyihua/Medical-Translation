@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-163542</identifier>
+<setSpec>0211-2159</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The Psychometric Toolbox: an Excel package for use in measurement and psychometrics courses</dc:title>
+<dc:description xml:lang="en">The Psychometric Toolbox (PT) is a user-friendly, non-commercial package mainly intended to be used for instructional purposes in introductory courses of educational and psychological measurement, psychometrics and statistics. The PT package is organized in six separate modules or sub-programs: Data preprocessor (descriptive analyses and data transformations); Guttman scaling (item analysis and individual scoring based on Guttman's model); Classical Item Analysis (CTT-based item analysis and reliability estimation); Item Factor Analysis (FA-Based Item Analysis and omega reliability estimation); Scoring and Norming (linear and nonlinear score transformations and normative tables); and Item Response Theory-Basic analysis (item calibration and test scoring based on the one and two parameter logistic models). Because they have been designed for instructional use, these modules are intended to (a) be very easy to use, (b) provide clear and well explained results, and (c) make use of graphical displays whenever possible (AU)</dc:description>
+<dc:creator>Lorenzo-Seva, Urbano</dc:creator>
+<dc:creator>Ferrando, Pere J</dc:creator>
+<dc:creator>Masip-Cabrera, Antoni</dc:creator>
+<dc:creator>Navarro-González, David</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">El «Psychometric Toolbox» (PT) es un paquete no comercial de fácil utilización, diseñado principalmente para ser utilizado con fines educativos en cursos introductorios de medición educativa y psicológica, psicometría y estadística. El paquete PT está organizado en seis módulos o subprogramas separados: Data preprocessor (análisis descriptivos y transformaciones de datos); Guttman scaling (análisis de ítems y puntuación individual basada en el modelo de Guttman); Classical Item Analysis (análisis de ítems basados en la TCT y estimación de la fiabilidad); Item Factor Analysis (Análisis factorial de ítems y estimación del coeficiente de fiabilidad omega); Scoring and Norming (transformaciones lineales y no lineales y elaboración de tablas normativas); y Item Response Theory-Basic analysis (calibración de ítems y puntaciones basadas en los modelos logísticos de uno y dos parámetros). Debido a que han sido diseñados para uso educativo, estos módulos han sido desarrollados para (a) ser muy fáciles de usar, (b) proporcionar resultados claros y bien explicados, y (c) hacer uso de presentaciones gráficas siempre que sea posible (AU)</dc:description>
+<dc:source>PsicolÔogica (Valencia, Ed. impr.);38(2): 395-398, 2017.</dc:source>
+<dc:identifier>ibc-163542</dc:identifier>
+<dc:title xml:lang="es">Psychometric Toolbox: un paquete Excel diseñado para cursos en medida y psicometría</dc:title>
+<dc:subject>^d28633</dc:subject>
+<dc:subject>^d32016</dc:subject>
+<dc:subject>^d12031^s22083</dc:subject>
+<dc:subject>^d28624</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9150</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201700</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-043473</identifier>
+<setSpec>1139-6709</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Statistical optimization of a culture medium for biomass and poly(3-hydroxybutyrate) production by a recombinant Escherichia coli strain using agroindustrial byproducts</dc:title>
+<dc:creator>Nikel, Pablo I</dc:creator>
+<dc:creator>Galvagno, Miguel A</dc:creator>
+<dc:creator>Méndez, Beatriz S</dc:creator>
+<dc:creator>Pettinari, M Julia</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Un diseño estadístico de selección de Plackett-Burman identificó las concentraciones de suero de leche y de macerado de maíz, así como la fuerza iónica (dada por la concentración del tampón de fosfatos), como tres variables principales e independientes del medio de cultivo que, de forma significativa (p &lt; 0,05), influían en el crecimiento y la acumulación de biomasa y poli(3-hidroxibutirato) (PHB) en células recombinantes de Escherichia coli. Esta cepa lleva un plásmido que codifica los genes phb provenientes de un aislado natural de Azotobacter sp. Aplicando la metodología de superficies de respuesta, mediante un diseño central compuesto direccionable, se demostró que los valores óptimos de las variables del proceso para la máxima producción de biomasa y de PHB eran: 37,96 g/l de suero de leche desproteinizado en polvo, 29,39 g/l de macerado de maíz y 23,76 g/l de fosfatos (r2 = 0,957). En la validación del modelo, realizada utilizando los valores óptimos, se obtuvieron unas concentraciones de biomasa de 9,41 g/l y de PHB de 6,12 g/l en el medio. En los ensayos en lote en biorreactor se obtuvieron contenidos semejantes de PHB. Los resultados demostraron que el biopolímero puede producirse eficazmente con esta cepa recombinante a partir de fuentes de carbono y nitrógeno de bajo costo (AU)</dc:description>
+<dc:source>Int Microbiol;8(4): 243-250, dic. 2005. tab, graf</dc:source>
+<dc:identifier>ibc-043473</dc:identifier>
+<dc:title xml:lang="es">Optimización estadística de un medio para producción de biomasa y poli(3-hidroxibutirato) por una cepa recombinante de Escherichia coli utilizando subproductos agroindustriales</dc:title>
+<dc:subject>^d30766^s22002</dc:subject>
+<dc:subject>^d33795^s22002</dc:subject>
+<dc:subject>^d35423</dc:subject>
+<dc:subject>^d51846</dc:subject>
+<dc:subject>^d5016^s22038</dc:subject>
+<dc:subject>^d32340</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200512</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-87958</identifier>
+<setSpec>0034-0618</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:description xml:lang="en">Tumour cells generally become more susceptible to virus infection than normal cells due, in part, to a deficient interferon (IFN)-induced antiviral pathway. One of the key IFN-induced enzymes with potent antiviral action is the ds-RNA dependent protein kinase PKR, that once activated blocks protein synthesis, triggers apoptosis and prevents cell growth. Among viruses, vaccinia virus (VACV) lacking selected viral genes or armed with cytokines or tumour specific antigens has been used in preclinical and clinical studies as a therapeutic agent against different tumours. Here we showed in a mouse model of aggressive cancer by subcutaneous inoculation with prostateTRAMP-C1 cells, that a VACV recombinant expressing low levels of human PKR (VV-PKR) and lacking thymidine kinase (TK), is capable of reducing tumour burden when administered by a systemic route in immunocompetent C57/BL6 mice. In addition, expression of PKR was found to attenuate the virus, thus ensuring safety. A catalytically inactive enzyme PKR with a point mutation (K296R) induced similar oncolytic activity as the control virus lacking TK. These findings suggest that VACV recombinants expressing PKR are candidate vectors against cancer cells (AU)</dc:description>
+<dc:creator>Esteban, Mariano</dc:creator>
+<dc:creator>Krupa, Magdalena</dc:creator>
+<dc:creator>García, María Ángeles</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Las células tumorales son generalmente mas susceptibles a la infección viral que las células normales debido, en parte, a tener deficiencias en el sistema de señalización por los interferones (IFN). Uno de los enzimas clave inducidos por IFN es la proteína quinasa PKR dependiente de RNA bicatenario, que una vez activada fosforila el factor de iniciación eIF-2 alfa lo que conlleva a una inhibición generalizada en la síntesis de proteínas, inducción de la apoptosis y prevención del crecimiento celular. Como agente terapéutico frente a distintos tumores se está utilizando en preclínica y clínica el virus vaccinia que carece de ciertos genes virales, expresa ciertas citoquinas o antígenos tumorales. En esta investigación demostramos en un modelo agresivo de cáncer en ratón por inoculación ex vivo de células tumorales de próstata TRAMP-C1, que se reduce el crecimiento tumoral tras la infección a ratones inmunocompetentes C57/BL6 por vía sistémica de un virus recombinante de vaccinia que expresa bajos niveles de PKR. Además, la expresión de PKR conduce a la atenuación del virus en los tejidos. Un mutante catalíticamente inactivo de PKR produce niveles similares de actividad oncolítica, pero con replicación viral en tejidos. Estos resultados indican que vectores recombinants de vaccinia que expresan PKR son candidatos como vectores para luchar contra tumores (AU)</dc:description>
+<dc:source>An Real Acad Farm;76(3): 327-342, jun.-sept. 2010. ilus, graf</dc:source>
+<dc:identifier>ibc-87958</dc:identifier>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d8994</dc:subject>
+<dc:subject>^d11914^s22067</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d15017</dc:subject>
+<dc:subject>^d4255</dc:subject>
+<dc:subject>^d22279^s22002</dc:subject>
+<dc:subject>^d51216^s22045</dc:subject>
+<dc:subject>^d33472^s22002</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201009</dc:date>
+</metadata>
+</record>
+</ibecs-document>

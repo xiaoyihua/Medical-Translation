@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-60568</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Pharmacokinetics and interactions of raltegravir</dc:title>
+<dc:description xml:lang="en">Raltegravir is the first integrase inhibitor approved for the treatment of HIV-1 infection in pretreated adults with evidence of viral replication despite receiving antiretroviral therapy. Raltegravir is administered orally at a dose of 400 mg every 12 hours, with or without food. This drug is mainly eliminated through UGT1A1-mediated glucuronidation and is not an inhibitor or inducer of the main liver cytochrome P450 isoenzymes; consequently there is virtually no risk of pharmacological interactions with most commonly used drugs such as methadone, azole antifungal agents or drugs used to treat erectile dysfunction. Studies of interaction with other antiretroviral agents show that raltegravir can be used in combination with tenofovir, efavirenz, atazanavir, ritonavir or tipranavir/ritonavir without the need for dose adjustments. When combined with rifampicin, the dose of raltegravir should be increased to 800 mg/12 h. Proton pump inhibitors increase plasma levels of raltegravir (a 3- fold increase in exposure or AUC levels), and consequently their combined use should be avoided as far as posible. Raltegravir is well tolerated and does not require dose adjustments in patients with severe renal impairment or mild-to-moderate liver impairment. There are no studies in patients with severe liver impairment(AU)</dc:description>
+<dc:creator>Miró, José M</dc:creator>
+<dc:creator>Placeres Alsina, Maria Mercè</dc:creator>
+<dc:creator>Tuset Creus, Montse</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Raltegravir es el primer inhibidor de la integrasa aprobado para tratar la infección por el virus de la inmunodeficiencia humana de tipo 1 en pacientes adultos con evidencia de replicación viral a pesar de estar recibiendo terapia antirretroviral. Se administra por vía oral a una dosis de 400 mg cada 12 h, con o sin alimentos. Se elimina mayoritariamente por glucuronidación mediante la UGT1A1 y no tiene efecto inhibidor ni inductor en las principales isoenzimas del citocromo P450 hepático, por lo que presenta escaso riesgo de interacciones farmacológicas con la mayoría de los fármacos de uso habitual, como metadona, antifúngicos azólicos o fármacos para tratar la disfunción eréctil. Los estudios de interacción con otros antirretrovirales demuestran que raltegravir puede emplearse en combinación con tenofovir, efavirenz, atazanavir, ritonavir o tipranavir/ritonavir sin que se requiera ajuste de dosis. En combinación con rifampicina se recomienda valorar el aumento de dosis de raltegravir a 800 mg/12 h. Los inhibidores de la bomba de protones aumentan las concentraciones plasmáticas de raltegravir (exposición o área bajo la curva 3 veces mayor), por lo que se recomienda evitar, en lo posible, su uso combinado. Raltegravir es un fármaco bien tolerado y no requiere ajuste de dosis en pacientes con insuficiencia renal grave ni en pacientes con insuficiencia hepática leve a moderada. No hay estudios en pacientes con insuficiencia hepática grave(AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;26(supl.12): 23-28, nov. 2008. ilus, tab</dc:source>
+<dc:identifier>ibc-60568</dc:identifier>
+<dc:title xml:lang="es">Farmacocinética e interacciones del raltegravir</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d33016^s22079</dc:subject>
+<dc:subject>^d24718^s22057</dc:subject>
+<dc:subject>^d38332^s22079</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3595^s22021</dc:subject>
+<dc:subject>^d4409</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200811</dc:date>
+</metadata>
+</record>
+</ibecs-document>

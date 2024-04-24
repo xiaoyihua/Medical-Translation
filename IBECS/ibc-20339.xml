@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-20339</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Drg classification of patients with a diagnosis of pancreatitis</dc:title>
+<dc:creator>Martínez Reina, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">La clasificación de pacientes mediante los grupos relacionados con el diagnóstico (GRD) es la herramienta de más amplia utilización para la gestión clínica de los hospitales y de sus servicios. En los GRD los pacientes diagnosticados de procesos pancreáticos y especialmente de pancreatitis aguda están medidos de forma inadecuada. Se realiza una descripción de los GRD y de las necesidades de información necesarias para su construcción y se plantean las deficiencias en la clasificación de los pacientes diagnosticados de pancreatitis (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);27(2): 77-79, feb. 2003. tab</dc:source>
+<dc:identifier>ibc-20339</dc:identifier>
+<dc:title xml:lang="es">Clasificación mediante grupos relacionados con el diagnóstico de pacientes diagnosticados de pancreatitis</dc:title>
+<dc:subject>^d10554^s22011</dc:subject>
+<dc:subject>^d30327</dc:subject>
+<dc:subject>^d10382^s22011</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d10382^s22016</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d28561</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200302</dc:date>
+</metadata>
+</record>
+</ibecs-document>

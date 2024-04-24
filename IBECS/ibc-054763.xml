@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-054763</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">XS-DIF: program for analysis of Differential Item Functioning in Excel</dc:title>
+<dc:description xml:lang="en">XS-DIF is a program for detection of Differential Item Functioning (DIF) using Item Response Theory (IRT). It calculates Lords Chi-Square, Raju's Signed Area and Unsigned Area, and Kim and Cohens Closed-interval signed area and Closed-interval unsigned area. XS-DIF was designed to be executed in Excel 2000 and it has a capacity of analysis of up to 100 items. It is useful to support data analysis of research projects and in detection and teaching processes in DIF</dc:description>
+<dc:creator>Ordóñez, Xavier G</dc:creator>
+<dc:creator>Romero, Sonia J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El XS-DIF es un programa para analizar el Funcionamiento Diferencial de los Ítems (FDI) desde la Teoría de Respuesta al Ítem (TRI). Calcula los estadísticos de chi cuadrado de Lord, Área Con Signo (ACS) y Sin Signo (ASS) de Raju, y Área Cerrada Con Signo (ACCS) y Sin Signo (ACSS) de Kim y Cohen. XS-DIF ha sido diseñado para ser ejecutado en Excel 2000 y tiene una capacidad de análisis de hasta 100 ítems. Es útil para apoyar el análisis de datos de proyectos de investigación y para ser empleado en procesos de detección y enseñanza del FDI</dc:description>
+<dc:source>Psicothema (Oviedo);19(1): 171-172, feb. 2007.</dc:source>
+<dc:identifier>ibc-054763</dc:identifier>
+<dc:title xml:lang="es">XS-DIF: programa para el análisis del funcionamiento diferencial de los ítems en Excel</dc:title>
+<dc:subject>^d19402</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12031</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200702</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-147144</identifier>
+<setSpec>1139-8264</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Development of an interrelated datebase for clinical decisión making in a general surgery department</dc:title>
+<dc:description xml:lang="en">Introduction. In order to obtain structured monitoring and evaluation of clinical and management indicators that would serve to support clinical decision making, we have created an interrelated database (BDI) from existing hospital records. Methods. Prospective cohort of scheduled surgeries performed in the Department of General Surgery of a university hospital. A total of 4,572 records were recorded between January 1, 2011 and March 31, 2013. Each record was linked to information provided by different hospital databases: Minimum Basic Data Set (CMBD), the patient management system (HP-HIS) and information provided by a skilled surgeon as auditor, who established the main refined procedures obtained from the surgical and discharge reports. The procedures were grouped into nine surgical areas and classified into three complexity grades. Results and Conclusions. The BDI allows monitoring the activity of a surgical Department with a high volume of activity, high technical complexity, many surgeons and patients with several comorbidities, etc. In the immediate future, we intend to assess the reliability of the BDI data comparing the record of the main procedure in HP-HIS and CMBD to the medical record. In a second stage, we intend to assess several validated indicators that may serve, through a comparison with the standards, as support in the making of clinical decisions: adverse events, their severity and preventability, deviations from the trend, etc (AU)</dc:description>
+<dc:creator>Martin Vega, A</dc:creator>
+<dc:creator>Zarazaga, A</dc:creator>
+<dc:creator>Rodríguez Montes, JA</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. Con el fin de obtener datos estructurados para la monitorización y evaluación de indicadores clínicos y de gestión que sirviesen de apoyo en la toma de decisiones clínicas elaboramos una base de datos interrelacionada (BDI) a partir de registros hospitalarios existentes. Material y Métodos. Diseño prospectivo de una cohorte de intervenciones quirúrgicas programadas realizadas en el Servicio de Cirugía General de un hospital universitario de tercer nivel. Se obtuvieron un total de 4.572 registros entre el 1 de enero de 2011 y el 31 de marzo de 2013. A cada registro se le asoció información proporcionada por diferentes bases hospitalarias: Conjunto Mínimo Básico de Datos (CMBD), el sistema de gestión de pacientes (HP-HIS) e información aportada por un cirujano experto como auditor, que estableció el procedimiento principal depurado, deducido del informe quirúrgico y de alta del paciente. Los procedimientos se agruparon en 9 áreas quirúrgicas, y se clasificó su complejidad en tres grados. Resultados y Conclusiones. La BDI permite monitorizar la actividad de un servicio quirúrgico con un elevado volumen de actividad, alta complejidad técnica, gran número de cirujanos, y pacientes con variadas comorbilidades, etc. En un futuro inmediato se pretende evaluar la fiabilidad de los datos analizando el registro del procedimiento principal en HP-HIS y CMBD frente a la Historia Clínica. En una segunda etapa, se realizará la evaluación de diversos indicadores validados, que sirvan, mediante la comparación con los estándares, de apoyo en la toma de decisiones clínicas: eventos adversos, gravedad de estos, evitabilidad, desviaciones de la tendencia, etc (AU)</dc:description>
+<dc:source>Rev. esp. investig. quir;18(4): 151-156, 2015. tab</dc:source>
+<dc:identifier>ibc-147144</dc:identifier>
+<dc:title xml:lang="es">Desarrollo de una base de datos interrrelacionada para la toma de decisiones clínicas en un servicio de cirugía general</dc:title>
+<dc:subject>^d13883^s22045</dc:subject>
+<dc:subject>^d^s22045</dc:subject>
+<dc:subject>^d33619^s22049</dc:subject>
+<dc:subject>^d26566</dc:subject>
+<dc:subject>^d13883^s22049</dc:subject>
+<dc:subject>^d3675</dc:subject>
+<dc:subject>^d33619^s22066</dc:subject>
+<dc:subject>^d33196^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d5703</dc:subject>
+<dc:subject>^d33619^s22074</dc:subject>
+<dc:subject>^d^s22048</dc:subject>
+<dc:subject>^d33619^s22048</dc:subject>
+<dc:subject>^d8664^s22048</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d16765</dc:subject>
+<dc:subject>^d19145</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201500</dc:date>
+</metadata>
+</record>
+</ibecs-document>

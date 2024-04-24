@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-051038</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">CMV DNA detection in plasma using real-time PCR based on the SYBR-Green I dye method</dc:title>
+<dc:description xml:lang="en">Objective. The aim of this study is to assess a real-time PCR technique on the LightCycler 2.0 with SYBR-Green I detection as compared to another real-time PCR method based on detection with FRET (fluorescence resonance energy transfer) probes for the quantification of CMV DNA. Methods. The two real-time PCR methods were used to test plasma samples from immunocompromised patients with clinically suspected CMV disease, patients under follow-up without symptoms, and healthy adults. A standard curve for quantitative analysis by the SYBR-Green I method was performed with 10-fold diluted solutions of DNA from the CMV Towne strain (ATCC VR-977) cultured in MRC-5 monolayer. In addition, frozen samples from patients positive for CMV pp65 antigenemia were also analyzed and results compared using the two real time PCR methods. Results. The real-time PCR technique using SYBR-Green I on the LightCycler 2.0 was a highly specific, fast, simple and reliable test to quantify CMV; moreover, it was cost-effective. Conclusion. Quantification of CMV DNA in plasma using this sensitive, fast, low-cost method was advantageous for the diagnosis and follow up of patients with opportunistic CMV infection, which are increasingly more frequent in our daily hospital clinical practice (AU)</dc:description>
+<dc:creator>Prieto-Rodríguez, Elisabeth</dc:creator>
+<dc:creator>Varela-Ledo, Eduardo</dc:creator>
+<dc:creator>Romero-Yuste, Susana</dc:creator>
+<dc:creator>Ordóñez-Barbosa, Patricia</dc:creator>
+<dc:creator>Romero-Jung, Patricia</dc:creator>
+<dc:creator>Regueiro-García, Benito</dc:creator>
+<dc:creator>Aguilera-Guirao, Antonio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. El objetivo del presente estudio es evaluar una técnica rápida y sencilla de reacción en cadena de la polimerasa (PCR) en tiempo real en LightCycler 2.0 revelada con SYBR-Green I, comparándola con otra técnica de PCR en tiempo real que utiliza sondas FRET (fluorescence resonance energy transfer) para revelar la amplificación. Métodos. Los dos métodos de PCR en tiempo real se compararon utilizando muestras de plasma de pacientes inmunodeprimidos con sospecha clínica de enfermedad por citomegalovirus (CMV), de pacientes monitorizados sin sintomatología, y de adultos sanos. El estudio se completó con otras muestras de plasma congeladas de casos positivos por antigenemia pp65, y con ADN de CMV de la cepa Towne (ATCC VR-977) obtenido de cultivo en MRC-5, con el que elaboramos una curva estándar para su cuantificación. Resultados. La PCR revelada con SYBR-Green I resultó ser claramente la más rentable por su alta sensibilidad, rapidez y sencilla realización, además de su bajo coste. Conclusión. La determinación cuantitativa de ADN de CMV en plasma utilizando un método sensible, rápido y de bajo coste, como el que proponemos, supone una clara ventaja para el diagnóstico y seguimiento de estos cuadros, especialmente en hospitales como el nuestro, donde en los últimos años se ha incrementado sensiblemente el número de pacientes susceptibles de padecer esta infección oportunista (AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;24(9): 541-545, nov. 2006. tab, graf</dc:source>
+<dc:identifier>ibc-051038</dc:identifier>
+<dc:title xml:lang="es">Detección de ADN de CMV en plasma mediante PCR en tiempo real utilizando SYBR-Green I como señal de amplificación</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d22163^s22002</dc:subject>
+<dc:subject>^d19133^s22074</dc:subject>
+<dc:subject>^d35408^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28320^s22045</dc:subject>
+<dc:subject>^d3605^s22033</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d31818^s22062</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200611</dc:date>
+</metadata>
+</record>
+</ibecs-document>

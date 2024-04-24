@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-62922</identifier>
+<setSpec>0210-4806</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:description xml:lang="en">Introduction and objectives: It is usual to identify patients with a negative prostate biopsy who are still at risk of prostate cancer. We try to analyse if the classical variables used in the prostate cancer screening are useful for those patients with a previous negative prostate biopsy, and if there is a possibility for making a nomogram witch would help us in the decision to repeat the biopsy. Material and methods: We studied 179 patients with at least 1 initial negative biopsy. At each biopsy session we recorded: Patient age, serum prostate specific antigen (PSA), free PSA/total PSA, PSA slope, digital rectal examination, prostate volume, PSA density, cancer suspicion in previous transrectal ultrasounds findings, number of negative cores previously obtained, history of precarcinomatous lesions and time between biopsies. Through Logistic regression analysis we determined the association of each variable a positive biopsy. A nomogram was constructed using all variables and discrimination was calculated as the concordance index. Results: Overall 46% of patients had cancer at the repeated biopsy session. In the univariate analysis: Age, digital rectal examination, prostate volume, PSA density, cancer suspicion in ultrasounds findings, and precarcinomatous lesions were associated with repeat positive biopsy for cancer (all p &lt;0.05). In the multivariate study, age, digital rectal examination, prostate volume and history of precarcinomatous lesions were associated with repeat positive biopsy. Anomogram was constructed that had a concordance index of 0.80 (AU)</dc:description>
+<dc:creator>Ruiz-Cerdá, J. L</dc:creator>
+<dc:creator>Pontones Moreno, J. L</dc:creator>
+<dc:creator>Ramírez Backhaus, M</dc:creator>
+<dc:creator>Trassierra Villa, M</dc:creator>
+<dc:creator>Bahilo Mateu, P</dc:creator>
+<dc:creator>Jiménez Cruz, J. F</dc:creator>
+<dc:creator>Santamaría Navarro, C</dc:creator>
+<dc:creator>Vera Donoso, C. D</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Analizamos las variables clínicas e histopatológicas de los pacientes hombres a biopsiar por sospecha de cáncer de próstata y cuáles de ellos tienen carácter pronóstico para los pacientes con biopsia previa sin hallazgos de neoplasia. Pretendemos desarrollar un nomograma que nos ayude en la decisión de indicar la repetición de la prueba. Material y método: Incluimos 179 pacientes con, al menos una biopsia previa sin hallazgos neoplásicos. Registramos, antes de cada biopsia, edad del paciente, antígeno próstatico específico (PSA) total, PSA libre/total, densidad del PSA, velocidad del PSA, tacto rectal, volumen ecográfico, aparición de área sospechosa en la escala de grises durante la ecografía transrectal, número de cilindros biopsiados, lesiones histológicas premalignas en alguna de las biopsias previas, así como el tiempo transcurrido entre las biopsias. Mediante un modelo de regresión logística determinamos la asociación de cada variable con la presencia de cáncer (biopsia positiva). Construimos un nomograma con las variables estadísticamente más relevantes y averiguamos la capacidad de discriminación del modelo mediante el índice de concordancia. Resultados: Nuestras biopsias de repetición consiguen una tasa de detección de cáncer del 46%. En el estudio univariante la edad, el tacto rectal, el volumen prostático, la densidad del PSA, las zonas sospechosas en la escala de grises, y las lesiones histológicas premalignas se asocian a biopsia de repetición positiva para cáncer (p &lt;0.05). En el análisis multivariante, la edad, el tacto rectal, el volumen prostático y los antecedentes histológicos de una lesión preneoplásica se asociaron a biopsia positiva. Construimos un nomograma con un índice de concordancia de 0,80.Conclusión: A expensas de una validación prospectiva externa de nuestro modelo, el nomograma desarrollado podría ser de ayuda en la difícil de tarea de indicar una biopsia de repetición (AU)</dc:description>
+<dc:source>Actas Urol Esp;32(3): 281-287, mar. 2008. ilus, tab</dc:source>
+<dc:identifier>ibc-62922</dc:identifier>
+<dc:subject>^d11910^s22009</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d24008^s22073</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24245</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d32857^s22045</dc:subject>
+<dc:subject>^d11910^s29166</dc:subject>
+<dc:subject>^d11910^s22053</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d11914^s22009</dc:subject>
+<dc:subject>^d1731^s22045</dc:subject>
+<dc:subject>^d14419^s22073</dc:subject>
+<dc:subject>^d11914^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200803</dc:date>
+</metadata>
+</record>
+</ibecs-document>

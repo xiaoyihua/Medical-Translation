@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-19634</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Coronary Risk Estimation in Spain Using a Calibrated Framingham Function</dc:title>
+<dc:creator>Elosua, Roberto</dc:creator>
+<dc:creator>Kannel, William</dc:creator>
+<dc:creator>Ordovas, José</dc:creator>
+<dc:creator>Sullivan, Lisa</dc:creator>
+<dc:creator>Rohlfs, Izabella</dc:creator>
+<dc:creator>Cordón, Ferran</dc:creator>
+<dc:creator>Agostino, Ralph</dc:creator>
+<dc:creator>Marrugat, Jaume</dc:creator>
+<dc:creator>Ramos, Rafael</dc:creator>
+<dc:creator>Sala, Joan</dc:creator>
+<dc:creator>Solanas, Pascual</dc:creator>
+<dc:creator>Masià, Rafael</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Introducción y objetivos. Las ecuaciones de Framingham sobrestiman el riesgo de enfermedad coronaria en los países cuya incidencia es baja. En éstos, la ecuación debería adaptarse para la correcta prevención de la enfermedad coronaria. Se presentan las tablas de riesgo coronario global de Framingham calibradas para la población española. Pacientes y método. Se utilizó el procedimiento de calibración de la ecuación de Framingham, consistente en sustituir la prevalencia de factores de riesgo cardiovascular y la tasa de incidencia de acontecimientos coronarios de Framingham por las de nuestro medio. Se ha usado la ecuación de Framingham, que incluye el colesterol unido a lipoproteínas de alta densidad (cHDL). Se han calculado las probabilidades de acontecimiento a los 10 años y se han elaborado unas tablas con códigos de color y la probabilidad exacta en cada casilla correspondiente a las distintas combinaciones de los factores de riesgo clásicos, para una concentración de cHDL de 35-59 mg/dl. Resultados. Las tasas de acontecimientos coronarios y la prevalencia de factores de riesgo difieren considerablemente entre la población estudiada y Framingham. Valores de cHDL 60 mg/dl lo reducen en un 50 por ciento, aproximadamente. La proporción de casillas con una probabilidad de acontecimiento coronario a los 10 años superior al 9 por ciento es 2,3 veces menor, y la de casillas con una probabilidad &gt; 19 por ciento es 13 veces menor en las tablas calibradas que en las originales de Framingham. Conclusiones. La función de Framingham calibrada puede constituir un instrumento para estimar con más precisión el riesgo coronario global en la prevención primaria de esta enfermedad en España. Su uso debe acompañarse de una validación apropiada y se debe trabajar en la elaboración de ecuaciones propias españolas (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;56(3): 253-261, mar. 2003.</dc:source>
+<dc:identifier>ibc-19634</dc:identifier>
+<dc:title xml:lang="es">Estimación del riesgo coronario en España mediante la ecuación de Framingham calibrada</dc:title>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d27830</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d19062</dc:subject>
+<dc:subject>^d3343</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d32048</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d9395</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200303</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-042750</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Lung transplantation in cystic fibrosis: perioperative mortality</dc:title>
+<dc:description xml:lang="en">Objective: To determine the incidence and causes of perioperative mortality following lung transplant for cystic fibrosis.         Patients and Methods: We analyzed the cases of 57 patients. Fifty-five patients received double lung transplants, 1 received a heart-double lung transplant, and 1 received a combined double lung and liver transplant. Information related to the organ donor, recipient, lung graft, and early postoperative period was gathered. Perioperative mortality was defined as death resulting from anesthesia or surgery regardless of how many days had passed. The Kaplan-Meier method was used to analyze survival. A Cox logistic regression model was used to determine variables affecting mortality.                 Results: Survival was 83.7% at 1 year after transplantation, 77.3% at 2 years, and 66.9% at 5 years. Five (8.7%) patients died as a result of anesthesia or surgery. A ratio of PaO2 to inspired oxygen fraction (FiO2) less than 200 mm Hg in the early postoperative period was observed in 8 (14%) patients. Primary graft failure occurred in 4 patients, due to pneumonia in 2 and to biventricular dysfunction in 2. Three of those patients died. Two patients with PaO2/FiO2 greater than 200 mm Hg died after surgery, one from septic shock due to Pseudomonas cepacia and the other from massive cerebral infarction.                 PaO2/FiO2 upon admission to the recovery care unit was the only variable significantly associated with perioperative mortality in the logistic regression model (P=.0034).                 Conclusions: The only factor significantly related to perioperative mortality in patients receiving transplants for cystic fibrosis was PaO2/FiO2 upon admission to the recovery unit</dc:description>
+<dc:creator>Calvo, V</dc:creator>
+<dc:creator>Padilla, J</dc:creator>
+<dc:creator>Cerón, J</dc:creator>
+<dc:creator>Peñalver, J. C</dc:creator>
+<dc:creator>Pastor, J</dc:creator>
+<dc:creator>Escrivá, J</dc:creator>
+<dc:creator>Blasco, E</dc:creator>
+<dc:creator>Jordá, C</dc:creator>
+<dc:creator>García-Zarza, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Conocer la incidencia y las causas de mortalidad perioperatoria en el trasplante pulmonar por fibrosis quística.                 Pacientes y métodos: Se ha analizado a 57 pacientes. Se realizaron 55 trasplantes bipulmonares, uno cardiobipulmonar y uno hepatobipulmonar. Se recogieron una serie de datos del donante, del receptor, del injerto pulmonar y del postoperatorio inmediato. Se definió la mortalidad perioperatoria cuando el fallecimiento aconteció como consecuencia del acto anestésico-quirúrgico, independientemente de los días transcurridos. Para determinar qué variables la condicionaron se utilizó el modelo de regresión logística de Cox. La supervivencia se calculó mediante el método de Kaplan-Meier.                 Resultados: La supervivencia fue del 83,7% al año del trasplante, del 77,3% a los 2 años y del 66,9% a los 5 años. Cinco pacientes (8,7%) fallecieron en el perioperatorio. En 8 (14%) se objetivó un cociente de presión arterial de oxígeno (PaO2)/fracción inspiratoria de oxígeno (FiO2) inspirado 200 mmHg fallecieron en el perioperatorio, uno por un shock séptico por Pseudomonas cepacia y otro por un infarto cerebral masivo.                 Mediante el análisis de regresión logística, el cociente PaO2/FiO2 al ingresar en la unidad de reanimación fue la única variable que condicionó significativamente la mortalidad perioperatoria (p = 0,0034).                 Conclusiones: El cociente PaO2/FiO2 al ingresar en la unidad de reanimación fue la única variable que condicionó significativamente la mortalidad perioperatoria en los pacientes trasplantados por fibrosis quística</dc:description>
+<dc:source>Arch Bronconeumol;41(9): 489-492, sept. 2005. tab</dc:source>
+<dc:identifier>ibc-042750</dc:identifier>
+<dc:title xml:lang="es">Fibrosis quística y trasplante pulmonar. Mortalidad perioperatoria</dc:title>
+<dc:subject>^d24890</dc:subject>
+<dc:subject>^d3568^s22047</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24842</dc:subject>
+<dc:subject>^d29477^s22047</dc:subject>
+<dc:subject>^d3568^s22009</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200509</dc:date>
+</metadata>
+</record>
+</ibecs-document>

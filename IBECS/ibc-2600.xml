@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-2600</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Time trends in cancer incidence in Navarra and Zaragoza, Spain</dc:title>
+<dc:creator>Ruiz, M</dc:creator>
+<dc:creator>Moreno, C</dc:creator>
+<dc:creator>López Abente, G</dc:creator>
+<dc:creator>Pollán, M</dc:creator>
+<dc:creator>Moreo, P</dc:creator>
+<dc:creator>Vergara, A</dc:creator>
+<dc:creator>Ardanaz, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Conocer los cambios que se producen en los patrones de incidencia y mortalidad por cáncer con el paso del tiempo es un elemento básico para su control. En este trabajo se presentan los resultados sobre la evolución temporal de la incidencia de los tumores más importantes en Navarra y Zaragoza. Métodos: Se ha utilizado un modelo log-lineal para evaluar el efecto de la edad, el período de diagnóstico y la cohorte de nacimiento en las tendencias de la incidencia de cáncer empleando los datos de los registros de Navarra y Zaragoza. Los resultados se muestran en forma gráfica para los diferentes tumores, en cada registro y sexo. Resultados: En hombres, destaca el fuerte aumento de la incidencia en cáncer de pulmón (5 por ciento anual), próstata (&gt; 2 por ciento anual) y linfomas no hodgkinianos. En mujeres, los incrementos más altos se han producido en linfomas no hodgkinianos con aumentos superiores al 7 por ciento anual y en el cáncer de ovario (4 por ciento anual). El cáncer de mama en mujeres ha aumentado en ambas provincias (Navarra 3,5 por ciento y Zaragoza 0,9 por ciento), siendo una parte del incremento en Navarra derivado de una mayor detección de casos. En ambos registros y en los dos sexos se han producido incrementos de la incidencia superiores al 3 por ciento anual en cáncer colorrectal, de vejiga y de riñón. Para la mayor parte de los tumores el riesgo de padecer un cáncer se incrementa en las sucesivas generaciones, con la excepción del cáncer de estómago y del cáncer de hígado. Conclusiones: El importante incremento de la incidencia de cáncer pone de manifiesto la insuficiencia de las políticas de prevención primaria, la importancia de disponer de datos de incidencia en series prolongadas en el tiempo y la necesidad de aumentar la cobertura poblacional de los registros de cáncer en España (AU)</dc:description>
+<dc:source>Gac Sanit;14(2): 100-109, mar.-abr.  2000.</dc:source>
+<dc:identifier>ibc-2600</dc:identifier>
+<dc:title xml:lang="es">Tendencia temporal de la incidencia de cáncer en Navarra y Zaragoza</dc:title>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d27830</dc:subject>
+<dc:subject>^d28633</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d24838</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d9562</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200004</dc:date>
+</metadata>
+</record>
+</ibecs-document>

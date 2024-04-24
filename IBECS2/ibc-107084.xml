@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-107084</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Preliminary prediction model for identifying patients with the possibility of pharmacotherapy improvement</dc:title>
+<dc:description xml:lang="en">Objective To develop a prediction model for identifying patients with the possibility of improving pharmacotherapy during the process of pharmaceutical validation of the prescription. Method Cross-sectional study over two months, performed in the Internal Medicine and Infectious Disease divisions. Detecting opportunities for improving quality of pharmacotherapy is done by means of a pharmacist's validation of the prescription. Based on the information we obtained through this process, we performed a multivariate logistic regression analysis using as prognostic factors the demographic, pharmacotherapy and clinical variables related to identifying any drug-related problems (DRPs) in the patient. The model's prediction validity was assessed using the diagnostic performance curve and calculating the area under it. Results The final prediction model included the variables age, cardiovascular drugs (digoxin) and drugs for which a dosage adjustment is recommended in the case of organ failures. Analysis of the ROC curve showed an estimated area under the curve AUCROC) of 84.0% (95% CI: 80.5&#150;87.1), a sensitivity value of 28% (95% CI: 24.07&#150;32.19), a specificity value of 99.10% (95% CI: 97.80&#150;99.73), a positive predictive value of 77.78% and a negative predictive value of 92.41%.ConclusionThe resulting prediction model enables population-based detection of pharmacotherapy safety risks in adult patients admitted to the selected hospital units. The predictive variables used by the model are commonly used in daily practice (AU)</dc:description>
+<dc:creator>Vila Torres, E</dc:creator>
+<dc:creator>Pérez Anchordoqui, D</dc:creator>
+<dc:creator>Porta Oltra, B</dc:creator>
+<dc:creator>Jiménez Torres, N. V</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo Desarrollar un modelo predictivo para la identificación de pacientes con oportunidades de mejora en la farmacoterapia durante el proceso de validación farmacéutica de la prescripción. Método Estudio transversal de dos meses de duración realizado en los servicios de medicina interna y enfermedades infecciosas. La detección de oportunidades de mejora en la calidad de la farmacoterapia se efectuó mediante validación farmacéutica de la prescripción. A partir de la información obtenida en este proceso se realizó un análisis mediante regresión logística multivariante utilizando como factores pronóstico variables demográficas, farmacoterapéuticas y clínicas relacionadas con la identificación en el paciente de problemas relacionados con la medicación. La validez predictiva del modelo se evaluó mediante la curva de rendimiento diagnóstico y el cálculo de su área. Resultados El modelo predictivo final incluyó las variables edad, fármacos cardiovasculares (digoxina) y fármacos en los que se recomienda el ajuste posológico por insuficiencias orgánicas. El análisis de la curva ROC mostró un área bajo la curva estimada del 84,0% (IC95%: 80,5&#150;87,1), un valor de sensibilidad del 28% (IC95%: 24,07&#150;32,19), un valor de especificidad del 99,10% (IC95%: 97,80&#150;99,73), un valor predictivo para positivos del 77,78% y un valor predictivo para negativos del 92,41%.ConclusiónEl modelo predictivo obtenido permite la detección poblacional del riesgo de seguridad farmacoterapéutica en los pacientes adultos ingresados en los servicios hospitalarios seleccionados. Las variables predictoras manejadas por el modelo son habitualmente utilizadas en la práctica asistencial diaria (AU)</dc:description>
+<dc:source>Farm Hosp;34(6): 298-392, Nov. -dic. 2010. ilus, tab</dc:source>
+<dc:identifier>ibc-107084</dc:identifier>
+<dc:title xml:lang="es">Modelo predictivo preliminar para la identificación de pacientes con oportunidades de mejora farmacoterapéutica</dc:title>
+<dc:subject>^d9152</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d5678</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d4418</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d19333</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201012</dc:date>
+</metadata>
+</record>
+</ibecs-document>

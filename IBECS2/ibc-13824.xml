@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-13824</identifier>
+<setSpec>0378-4835</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Compensation technique using segments in the craniospinal treatment</dc:title>
+<dc:creator>Petschen Verdaguer, I</dc:creator>
+<dc:creator>Manzano Martínez, F</dc:creator>
+<dc:creator>Badal Iranzo, M. D</dc:creator>
+<dc:creator>Pérez Calatayud, J</dc:creator>
+<dc:creator>Carmona Meseguer, V</dc:creator>
+<dc:creator>Lliso Valverde, F</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Alpe Editores, S.A.</dc:publisher>
+<dc:description xml:lang="es">Propósito: Describir la técnica utilizada en la radioterapia del eje craneoespinal en el Servicio de Oncología Radioterápica del Hospital LA FE, en cuyos campos se utilizan segmentos adicionales para optimizar la distribución de dosis resultante. Material y método: Para todos los pacientes se lleva a cabo una simulación virtual que permite localizar las estructuras críticas y determinar con precisión las colindancias entre los campos. En la planificación dosimétrica tridimensional (3D) se homogeneiza la distribución de dosis en el plano sagital, añadiendo eventualmente segmentos (1 ó 2) que apantallen las zonas sobredosificadas, durante una determinada proporción de las unidades de monitor. Resultados y discusión: La técnica descrita permite una adecuada optimización en este complejo tipo de tratamientos sin variar apenas el tiempo de planificación basada en la simulación virtual (AU)</dc:description>
+<dc:source>Oncologia;25(6): 325-329, jun. 2002. ilus, graf</dc:source>
+<dc:identifier>ibc-13824</dc:identifier>
+<dc:title xml:lang="es">Técnica de compensación mediante uso de segmentos en el tratamiento craneoespinal</dc:title>
+<dc:subject>^d19314^s22045</dc:subject>
+<dc:subject>^d23405^s22045</dc:subject>
+<dc:subject>^d51846</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12311^s22045</dc:subject>
+<dc:subject>^d28574</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200206</dc:date>
+</metadata>
+</record>
+</ibecs-document>

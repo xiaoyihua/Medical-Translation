@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-72745</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Brain apparent diffusion coefficient: differences caused by age, sex, laterality, and distinct b value</dc:title>
+<dc:description xml:lang="en">Objective: To analyze the effects of age, sex, and b value on the apparent diffusion coefficient (ADC) in brain areas affected by neurodegenerative diseases. Material and methods: We studied the ADC of the genu and splenium of the corpus callosum and of the hippocampus in normal patients using diffusion magnetic resonance imaging (dMRI) with b1,000s/mm2 and b3,000s/mm2. We calculated the differences between the ADC (diffusion differential [DD]) with b1,000 and with b3,000 for each region. Patients were classified into the following age groups (&amp;#10877;30 years old, 31&#150;60 years old, &gt;60 years old). We used a Kruskal-Wallis one-way ANOVA and the Bonferroni correction to analyze the differences in ADC and DD between age groups and between sexes. Pearson's chi-square test was used to correlate the ADC and DD with age. Results: In the right hippocampus, we observed differences in ADC (b1,000, p=0.011; b3,000, p=0.024) and DD (p=0.006) with age. Differences in ADC were observed between the 31&#150;60 year-old age group and the &gt;60 year-old age group (p=0.009) for b1,000, and between the&lt;30 year-old age group and the 31&#150;60 year-old age group (p=0.036) for b3,000. The DD in the &gt;60 year-old age group was different from the rest. In the corpus callosum, there were significant differences between sexes in the DD of the genu (p=0.016). The DD was correlated with age in the right hippocampus (r=0.321, p=0.023). Conclusions: Our data indicate greater stability in mean ADC values with b3000 during aging. It might be useful to analyze the ADC with a higher b in patients with neurodegenerative diseases (AU)</dc:description>
+<dc:creator>García Santos, J. M</dc:creator>
+<dc:creator>Ordóñez González, C</dc:creator>
+<dc:creator>Torres del Río, S</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Analizar el efecto de la edad, el sexo y el valor b en el coeficiente de difusión aparente (CDA) de áreas cerebrales alteradas en las enfermedades neurodegenerativas. Material y métodos: Se estudió el CDA de hipocampo, rodilla y esplenio del cuerpo calloso en 50 pacientes normales, con difusión por resonancia magnética b1.000 y b3.000s/mm2. Para cada localización se calcularon las diferencias entre los CDA b1.000 y b3.000 (diferencial de difusión [DD]). Se separaron los pacientes en grupos de edad (&amp;#10877;30, 31&#150;60 y &gt;60 años). El análisis de las diferencias de CDA y DD entre grupos de edad y entre sexos se hizo con los tests de ANOVA y Kruskal-Wallis, y la corrección de Bonferroni. Para la correlación del CDA y el DD con la edad se utilizó el test de Pearson. Resultados: En el hipocampo derecho hubo diferencias de CDA (b1.000, p=0,011; b3.000, p=0,024) y DD (p=0,006) con la edad. Las diferencias del CDA se observaron entre los grupos de 31&#150;60 años y &gt;60 (p=0,009) para b 1.000, y entre&lt;30 y 31&#150;60 años (p=0,036) para b 3.000. El DD varió entre los &gt;60 años y el resto. En el cuerpo calloso hubo diferencias significativas entre sexos en el DD de la rodilla (p=0,016). El DD mostró correlación con la edad en el hipocampo derecho (r=0,321, p=0,023). Conclusiones: Nuestros datos indican mayor estabilidad de los valores de CDA medidos con b3.000 durante el envejecimiento. El análisis del CDA con valor b más alto puede ser de utilidad en las enfermedades neurodegenerativas (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);51(4): 385-395, jul.-ago. 2009.</dc:source>
+<dc:identifier>ibc-72745</dc:identifier>
+<dc:title xml:lang="es">Coeficiente de difusión aparente cerebral: diferencias por edad, sexo, lateralidad y diferente valor b</dc:title>
+<dc:subject>^d28620</dc:subject>
+<dc:subject>^d27977</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d33354^s22012</dc:subject>
+<dc:subject>^d3353^s29166</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d6783^s22053</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d6783^s29166</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d33354^s29166</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d22101^s22053</dc:subject>
+<dc:subject>^d22101^s22031</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200908</dc:date>
+</metadata>
+</record>
+</ibecs-document>

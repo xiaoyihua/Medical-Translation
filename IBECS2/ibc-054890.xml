@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-054890</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Application of the n * goodness-of-fit index to latent structure models</dc:title>
+<dc:description xml:lang="en">Testing model fit for latent structure models (latent trait models and latent class models) is difficult because of the lack of goodness-of-fit statistics with a known distribution. This paper describes the application of the n* goodness-of-fit statistic to latent structure models. The statistic n* is based on the concept of latent classes and has a natural interpretation when applied to these models. This statistic assumes that the population is made up of several classes that follow a parametric model, and a residual class outside the model. The value of n* is the population proportion in the residual class. This paper describes the estimation algorithms of n* for latent trait and latent class models and an empirical example with a scale of study habits. There are two latent classes in these data: bad and regular students, which are related to the student´s responsibility</dc:description>
+<dc:creator>Revuelta, Javier</dc:creator>
+<dc:creator>Kessel, Doiminique</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Existen pocos estadísticos de bondad de ajuste aplicables a modelos de estructura latente. En este artículo se describe la aplicación del estadístico n*, que se basa en el concepto de clases latentes, por lo que su interpretación resulta natural en este tipo de modelos. El estadístico n* asume que la población está dividida en varias clases que siguen un modelo paramétrico, más una clase residual fuera del modelo. Se define n* como la proporción de la población en la clase residual. En el artículo se describen los algoritmos de estimación de n* en modelos de rasgo y clase latente, y se muestra un ejemplo con datos reales procedentes de una escala de hábitos de estudio. Se ha encontrado que hay una clase de malos y otra de regulares estudiantes, las cuales se relacionan con un criterio de responsabilidad</dc:description>
+<dc:source>Psicothema (Oviedo);19(2): 322-328, mayo 2007.</dc:source>
+<dc:identifier>ibc-054890</dc:identifier>
+<dc:title xml:lang="es">Aplicación del estadístico * de bondad de ajuste a modelos de estructura latente</dc:title>
+<dc:subject>^d28401</dc:subject>
+<dc:subject>^d13721^s22011</dc:subject>
+<dc:subject>^d28633</dc:subject>
+<dc:subject>^d9234</dc:subject>
+<dc:subject>^d32016</dc:subject>
+<dc:subject>^d12031^s22083</dc:subject>
+<dc:subject>^d13325</dc:subject>
+<dc:subject>^d6335</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200705</dc:date>
+</metadata>
+</record>
+</ibecs-document>

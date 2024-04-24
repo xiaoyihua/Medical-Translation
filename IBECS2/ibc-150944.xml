@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150944</identifier>
+<setSpec>1887-8571</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Optimization of sanitary military deployments in operations using modeling and simulation techniques</dc:title>
+<dc:creator>Debán Blanco, J</dc:creator>
+<dc:creator>Castillo Chamorro,  JM</dc:creator>
+<dc:creator>García Luque, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Background: Simulation is one of the most useful techniques for decision making support. Unfortunately, there are very few software tools that support simulation techniques to evaluate sanitary military deployments. Objectives: The aim of this article is to show the possibilities of the simulation software tools to support the planning phase of a sanitary military deployment. Material and methods: We used the Monte Carlo method to simulate and evaluate the effectiveness of a sanitary military deployment. Results: The simulation results allow us to compare different deployment possibilities in order to decide which works better in a tactical maneuver. Conclusions: An 'ad hoc' based system simulation can help choose the most efficient sanitary military deployment (AU)</dc:description>
+<dc:source>Sanid. mil;72(1): 8-14, ene.-mar. 2016. ilus, tab</dc:source>
+<dc:identifier>ibc-150944</dc:identifier>
+<dc:title xml:lang="es">Optimización de despliegues militares sanitarios en operaciones mediante técnicas de modelado y simulación</dc:title>
+<dc:subject>^d6442</dc:subject>
+<dc:subject>^d9075^s22045</dc:subject>
+<dc:subject>^d9075^s22066</dc:subject>
+<dc:subject>^d9075^s22039</dc:subject>
+<dc:subject>^d3709^s22045</dc:subject>
+<dc:subject>^d3675</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28574^s22045</dc:subject>
+<dc:subject>^d28574^s22002</dc:subject>
+<dc:subject>^d3709^s22074</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d51708</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201603</dc:date>
+</metadata>
+</record>
+</ibecs-document>

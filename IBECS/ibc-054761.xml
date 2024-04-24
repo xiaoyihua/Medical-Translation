@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-054761</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">IQ heriability estimation: analyzing genetically-informative data with structural equation models</dc:title>
+<dc:description xml:lang="en">When analyzing genetic data, Structural Equations Modeling (SEM) provides a straightforward methodology to decompose phenotypic variance using a model-based approach. Furthermore, several models can be easily implemented, tested, and compared using SEM, allowing the researcher to obtain valuable information about the sources of variability. This methodology is briefly described and applied to re-analyze a Spanish set of IQ data using the biometric ACE model. In summary, we report heritability estimates that are consistent with those of previous studies and support substantial genetic contribution to phenotypic IQ; around 40% of the variance can be attributable to it. With regard to the environmental contribution, shared environment accounts for 50% of the variance, and non-shared environment accounts for the remaining10%. These results are discussed in the text</dc:description>
+<dc:creator>Andrés-Pueyo, Antonio</dc:creator>
+<dc:creator>Kramp, Uwe</dc:creator>
+<dc:creator>Maydeu-Olivares, Albert</dc:creator>
+<dc:creator>Gallardo Pujol, David</dc:creator>
+<dc:creator>García-Forero, Carlos</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Cuando se analizan datos genéticos, los Modelos de Ecuaciones Estructurales (SEM) proporcionan una metodología sencilla y directa para descomponer la varianza fenotípica utilizando una aproximación basada en diferentes modelos. Además, se pueden implementar, probar y comparar diversos modelos fácilmente utilizando SEM, permitiendo al investigador obtener información muy valiosa acerca de las fuentes de variabilidad. En este trabajo, se describe brevemente esta metodología y se reanalizan unos datos de CI españoles utilizando el modelo biométrico ACE. En resumen, aportamos estimaciones de la heredabilidad que son consistentes con las de estudios anteriores y que dan soporte a una contribución genética sustancial al CI fenotípico, alrededor del 40% de la varianza puede ser atribuida a la genética. Respecto a la contribución ambiental, el ambiente compartido da cuenta de un 50% de la varianza, y el ambiente no compartido explica el remanente 10%. Los resultados se discuten en el texto</dc:description>
+<dc:source>Psicothema (Oviedo);19(1): 156-162, feb. 2007.</dc:source>
+<dc:identifier>ibc-054761</dc:identifier>
+<dc:title xml:lang="es">Estimación de la heredabilidad del CI: analizando datos genéticamente informativos con Modelos de Ecuaciones Estructurales</dc:title>
+<dc:subject>^d10833</dc:subject>
+<dc:subject>^d7528</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d7529</dc:subject>
+<dc:subject>^d9151</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200702</dc:date>
+</metadata>
+</record>
+</ibecs-document>

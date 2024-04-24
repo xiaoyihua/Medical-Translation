@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150038</identifier>
+<setSpec>0014-2565</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prognostic value of analysing the bioimpedance vector for patients hospitalised for acute decompensated heart failure: a validation cohort</dc:title>
+<dc:description xml:lang="en">Objectives. To assess the prognostic impact of the bioimpedance vector (bioelectrical impedance vector analysis [BIVA]) for patients hospitalized for heart failure (HF). Material and methods. A prospective cohort of 105 patients hospitalized for HF. BIVA was performed prior to discharge, and the final sample was divided into 3 groups according to the value obtained: hyperhydration [hyperH] (&gt;74.3%), normal hydration [normoH] (72.7-74.3%) and dehydration [desH] (&lt;72.7%). In the follow-up, total mortality and readmissions for HF were considered adverse events. Results. A higher incidence of events was observed among the patients with hyperH and desH compared with those with normoH (Kaplan-Meier: log-rank, 2.1; p=.04), with an increase in independent risk in the multivariate analysis (HR, 2.6 [1.05&#150;6.44]; p=.039). Conclusions. BIVA helps stratify the risk of readmission for HF and total mortality in the long-term follow-up of patients hospitalized for HF (AU)</dc:description>
+<dc:creator>Morell, S</dc:creator>
+<dc:creator>Fácila, L</dc:creator>
+<dc:creator>Núñez, J</dc:creator>
+<dc:creator>Montagud, V</dc:creator>
+<dc:creator>Fabregat-Andrés, O</dc:creator>
+<dc:creator>Trejo-Velasco, B</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos. Evaluar el impacto pronóstico del análisis del vector de bioimpedancia (bioelectrical impedance vector analysis [BIVA]) en pacientes ingresados por insuficiencia cardiaca (IC). Material y métodos. Cohorte prospectiva de 105 pacientes ingresados por IC. El BIVA se realizó previo al alta, y la muestra final se dividió en 3 grupos según el valor obtenido: hiperhidratación [hiperH] (&gt;74,3%), normohidratación [normoH] (72,7-74,3%) y deshidratación [desH] (&lt;72,7%). En el seguimiento, se consideraron eventos adversos la mortalidad total y los reingresos por IC. Resultados. Se observó una mayor incidencia de eventos en los pacientes hiperH y desH respecto a los normoH (Kaplan-Meier: log rank 2,1; p=0,04), con un incremento de riesgo independiente en el análisis multivariado (HR 2,6 [1,05-6,44]; p=0,039). Conclusiones. El análisis BIVA en pacientes ingresados por IC permite estratificar el riesgo de reingreso por IC y mortalidad total en el seguimiento a largo plazo (AU)</dc:description>
+<dc:source>Rev Clin Esp;216(3): 121-125, abr. 2016. tab, graf</dc:source>
+<dc:identifier>ibc-150038</dc:identifier>
+<dc:title xml:lang="es">Valor pronóstico del análisis del vector de bioimpedancia en pacientes ingresados por descompensación aguda de insuficiencia cardiaca: cohorte de validación</dc:title>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d4634^s22045</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d52438</dc:subject>
+<dc:subject>^d2351^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d6486^s29166</dc:subject>
+<dc:subject>^d6486^s22080</dc:subject>
+<dc:subject>^d6486^s22054</dc:subject>
+<dc:subject>^d6486^s22032</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d35256</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201604</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-34645</identifier>
+<setSpec>1131-5768</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Computing development of information integration levels between different provision units from the Primary Health Care perspective</dc:title>
+<dc:creator>Custodi i Canosa, J</dc:creator>
+<dc:creator>Alonso López, F. A</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Arán Ediciones, S.A.</dc:publisher>
+<dc:description xml:lang="es">La informatización de la historia clínica es una realidad en Atención Primaria. En la medida en que mayor número de centros y personas disponen de registros informatizados, resulta una necesidad cada vez más acuciante el intercambio de información clínica entre distintos centros, ya sea entre centros de salud, entre éstos y hospitales, consultorios periféricos o unidades de apoyo. Esta necesidad viene determinada básicamente por garantizar la continuidad de la atención y la comunicación entre profesionales, habitualmente entre sistemas informáticos distintos. En este artículo se describen cuatro niveles posibles de intercambio de información y se aportan soluciones técnicamente sencillas y factibles de poner en práctica partiendo de unas mínimas condiciones: la propia existencia de registros informatizados, la existencia de una red de comunicaciones (tipo Intranet o Internet) y un identificador común, el código de identificación personal de la Tarjeta Sanitaria. Ésta se convierte así en un elemento clave y estratégico de primer orden para el Sistema Nacional de Salud (SNS) cuya integridad habría que salvaguardar ante las futuras transferencias del INSALUD a las Comunidades Autónomas y a ser posible avanzar hacia una tarjeta sanitaria para todo el SNS, ya sea única o habilitando mecanismos que hagan compatibles las actuales (AU)</dc:description>
+<dc:source>Medifam (Madr.);11(10): 606-613, dic. 2001. ilus</dc:source>
+<dc:identifier>ibc-34645</dc:identifier>
+<dc:title xml:lang="es">Desarrollo informático de los niveles de integración de información entre diferentes unidades de provisión desde una perspectiva de Atención Primaria</dc:title>
+<dc:subject>^d2529^s22074</dc:subject>
+<dc:subject>^d25987</dc:subject>
+<dc:subject>^d20208^s22049</dc:subject>
+<dc:subject>^d2529^s22066</dc:subject>
+<dc:subject>^d19129^s22049</dc:subject>
+<dc:subject>^d2529^s22049</dc:subject>
+<dc:subject>^d19244^s22074</dc:subject>
+<dc:subject>^d19244^s22055</dc:subject>
+<dc:subject>^d19129^s22074</dc:subject>
+<dc:subject>^d9508^s22074</dc:subject>
+<dc:subject>^d11756^s22049</dc:subject>
+<dc:subject>^d28219^s22048</dc:subject>
+<dc:subject>^d19243^s22011</dc:subject>
+<dc:subject>^d11756^s22045</dc:subject>
+<dc:subject>^d19243^s22045</dc:subject>
+<dc:subject>^d19245</dc:subject>
+<dc:subject>^d19244^s22048</dc:subject>
+<dc:subject>^d32011</dc:subject>
+<dc:subject>^d11756^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200112</dc:date>
+</metadata>
+</record>
+</ibecs-document>

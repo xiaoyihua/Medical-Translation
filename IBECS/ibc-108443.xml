@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-108443</identifier>
+<setSpec>0034-0618</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Molecular topology application in the search for new active compounds derived from 4-nitro-imidazol against Trypanosoma brucei</dc:title>
+<dc:description xml:lang="en">Human African Trypanosomiasis, caused by the protozoan parasite Trypanosoma brucei, is characterized by a disabling chronic infectious process affecting millions of people worldwide. The therapeutic arsenal against this disease usually requires intravenous suministración, hindering accessibility and adherence to therapy. It has developed a topological mathematical model aimed to finding new compounds derived from 1-aryl-4-nitro-1H-imidazol with potential anti-trypanosome activity. Using linear discriminant analysis (LDA) was obtained a model capable of predicting correctly the activity of 93% of the studied compounds. The model has been subjected to an internal validation using the jack-knife test or leave-one-out and an internal cross-validation. Following a virtual sweep or virtual screening ten new imidazole derivatives are proposed, with potential anti-trypanosome activity(AU)</dc:description>
+<dc:creator>Zanni, Riccardo</dc:creator>
+<dc:creator>Pellicer, Marina</dc:creator>
+<dc:creator>Galvez-­Llompart, Maria</dc:creator>
+<dc:creator>Guzmán Fernández, Boris</dc:creator>
+<dc:creator>Garcia-­&amp;#8208;Domenech, Ramón</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La Tripanosomiasis Humana Africana, causada por el parásito protozoario de la especie Trypanosoma brucei, está caracterizada por un proceso infectivo crónico discapacitante que afecta a millones de personas en todo el mundo. El arsenal terapéutico frente a esta enfermedad, requiere generalmente suministración por vía parenteral, lo que dificulta la adhesión y accesibilidad del paciente al tratamiento. Se ha desarrollado un modelo topológico-matemático encaminado a buscar nuevos compuestos derivados del 1-aril-4-nitro-1H-imidazol con potencial actividad anti-tripanosómica. Utilizando el análisis lineal discriminante se ha obtenido un modelo capaz de predecir correctamente la actividad del 93% de los compuestos estudiados. Se ha sometido al modelo a una validación interna por medio del test de Jack-knife y de una validación cruzada. Tras realizar un cribado molecular virtual se proponen diez nuevos derivados imidazólicos con potencial actividad anti-tripanosómica(AU)</dc:description>
+<dc:source>An Real Acad Farm;78(4): 447-462, oct.-dic. 2012. tab, graf, ilus</dc:source>
+<dc:identifier>ibc-108443</dc:identifier>
+<dc:title xml:lang="es">Aplicación de la topología molecular en la búsqueda de nuevos compuestos derivados del 4-nitro-imidazol activos frente al Tripanosoma brucei</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d14750^s22052</dc:subject>
+<dc:subject>^d23493^s22052</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d14755^s22057</dc:subject>
+<dc:subject>^d9779^s22078</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201212</dc:date>
+</metadata>
+</record>
+</ibecs-document>

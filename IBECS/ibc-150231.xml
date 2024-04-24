@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150231</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Segmenting markets with conjoint analysis</dc:title>
+<dc:description xml:lang="en">Segmenting markets with conjoint analysis. An application to tourism. Conjoint analysis has become one of the favorite tools for segmenting markets. The focus of conjoint analysis is squarely on the measurement of buyer preferences for product (or service) attribute levels and the buyer benefits that consumers derive from the attributes of a product or service, and these benefits have proved to be one of the most powerful segmentation bases. But the large numbers of conjoint segmentation procedures that are available may confuse researchers who seek to identify segments in a market on the basis of a conjoint study. The authors compare four different conjoint segmentation methods: a priori with background variables, post hoc with background variables, post hoc with utilities and post hoc with preferences. Although no single method can be designated as universally preferable, overall, the methods directly based on the preferences of the respondents seem to perform the best (AU)</dc:description>
+<dc:creator>Varela Mallou, Jesús</dc:creator>
+<dc:creator>Picón Prado, Eduardo</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En este trabajo se comparan cuatro de las técnicas de segmentación de mercados con Análisis Conjunto más utilizadas hoy día en contextos aplicados. La segmentación a priori resulta más sencilla de llevar a cabo y a menudo se ajusta mejor a los requerimientos de la estrategia comercial en que se inscribe, pero para que sea verdaderamente efectiva exige tener un conocimiento previo acerca de cuáles son los mejores criterios base y los segmentos más relevantes. Además, las segmentaciones basadas en variables descriptoras (sean a priori o post hoc) presentan el grave inconveniente de que al estar basadas en dos pasos no necesariamente relacionados (asignación de sujetos a grupos y estimación de las utilidades) dependen totalmente de la fuerza de las asociaciones que se establecen entre ellas. Por ello es preferible utilizar métodos que segmenten la muestra en función de la similaridad de las preferencias de los sujetos, tales como la Segmentación Post Hoc con Utilidades y la Segmentación Post Hoc con Preferencias. Aunque se recomienda éste último, son dos métodos tan similares que conviene ejecutar ambos con el fin de validar los segmentos obtenidos (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);12(supl.2): 453-458, 2000. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-150231</dc:identifier>
+<dc:title xml:lang="es">Segmentando mercados con análisis conjunto. Una aplicación al sector turístico</dc:title>
+<dc:subject>^d37696^s22083</dc:subject>
+<dc:subject>^d14587^s22083</dc:subject>
+<dc:subject>^d28408</dc:subject>
+<dc:subject>^d55691</dc:subject>
+<dc:subject>^d32037</dc:subject>
+<dc:subject>^d3277^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200000</dc:date>
+</metadata>
+</record>
+</ibecs-document>

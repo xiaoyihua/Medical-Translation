@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-85180</identifier>
+<setSpec>1888-4008</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Evaluation of a POCT (point of care testing) assay for haemoglobin A1c</dc:title>
+<dc:description xml:lang="en">Introduction. The HbA1c is related to the control and prevention of complications in diabetics. This parameter enables glucose control to be monitored in the three months previous to the determination. Introduction. Due to the significance of its determination, different measurement methods have been developed. The aim of this work is to evaluate the POCT (point of care testing) method used by the In2it BioRad. Material and methods. We report on a comparison between two methods: a HPLC (high&#150;performance liquid chromatography) (ADAMS-A1c HA-8160, Menarini) and the POCT test (In2it, BioRad). To determine the within and between day imprecision, 60 samples were analysed and compared. Results. Both methods showed good correlations (Y=0.4000+1.000 X). The 95% confidence intervals for the coordinate at the origin and the slope were (&amp;#8722;0.1500 to 0.6500) and (0.9565 to 1.0769), respectively. Within day imprecision was 2.5&#150;3% (2.20&#150;3.04%) and between day imprecision was 3.53% and 2.95% for high and low values, respectively. Discussion. The POCT test (BioRad System) has demonstrated that it fulfils all the technical requirements needed for its validation as an HbA1c analysis method as it has a similar performance to the HPLC method The POCT method has shown to be suitable for the follow-up of diabetic patients in primary care due its ease and simplicity of use (AU)</dc:description>
+<dc:creator>Fernández Ramos, Ana María</dc:creator>
+<dc:creator>Aguilera Castillo, Alejandra</dc:creator>
+<dc:creator>Enguíx Armada, Alfredo</dc:creator>
+<dc:creator>Cobos Muñoz, Gemma</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. La hemoglobina glucosilada (HbA1C) presenta un papel fundamental en el control y prevención de complicaciones en el paciente diabético, puesto que permite la monitorización de sus valores de glucemia en los 3 meses previos al análisis. Introducción. Debido a la importancia de su determinación han aparecido diferentes métodos de cuantificación. El objeto de este trabajo es evaluar el método POCT (point of care testing &#145;pruebas a la cabecera del paciente&#146;) mediante el aparato In2it de Bio-Rad. Material y métodos. Se realizó una comparación entre 2 métodos de cuantificación: el HPLC (high&#150;performance liquid chromatography &#145;cromatografía líquida de alta resolución o de alta presión&#146;) (ADAMS-A1c HA-8160, Menarini Diagnostics, Florencia, Italia) y el POCT (In2it, Bio-Rad, California, EE.UU.). Para esto, se compararon los resultados de 60 muestras, además de determinar la imprecisión intraserial y la imprecisión interdiaria de ambos aparatos. Resultados. La comparación entre ambos métodos mostró una buena correlación entre el HPLC y el POCT: Y=0,4000+1,000 X. Los intervalos de confianza del 95% para la coordenada en el origen y la pendiente fueron de &amp;#8722;0,1500 a 0,6500 y de 0,9565 a 1,0769, respectivamente. Resultados. La imprecisión intraserial se situó entre el 2,5 y el 3% (del 2,20 al 3,04%) y la imprecisión interdiaria se situó entre el 3,53 y el 2,95% para valores altos y bajos, respectivamente. Discusión. El método POCT ha demostrado cumplir todos los requisitos técnicos necesarios para su validación como método para la determinación de la HbA1C, ya que presenta igualdad de prestaciones analíticas con el método HPLC. Además, es apropiado para el seguimiento de pacientes diabéticos en atención primaria, dada su facilidad y sencillez de manejo (AU)</dc:description>
+<dc:source>Rev. lab. clín;2(3): 148-152, jul.-sept. 2009. tab, ilus</dc:source>
+<dc:identifier>ibc-85180</dc:identifier>
+<dc:title xml:lang="es">Evaluación de un método POCT (pruebas a la cabecera del paciente) para la determinación de hemoglobina glucosilada</dc:title>
+<dc:subject>^d7378^s22044</dc:subject>
+<dc:subject>^d7378^s22002</dc:subject>
+<dc:subject>^d22190^s29165</dc:subject>
+<dc:subject>^d22190</dc:subject>
+<dc:subject>^d32646^s22074</dc:subject>
+<dc:subject>^d22190^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d32646^s22049</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22190^s22007</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200909</dc:date>
+</metadata>
+</record>
+</ibecs-document>

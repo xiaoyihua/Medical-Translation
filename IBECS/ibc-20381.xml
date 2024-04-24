@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-20381</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The bereitschaftspotential. Concept and methodology for acquiring it</dc:title>
+<dc:creator>Conill, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>César Viguera</dc:publisher>
+<dc:description xml:lang="es">Introducción. El movimiento de extensión del dedo índice de forma esterotipada, sin reaccionar a ningún estímulo externo o interno, está precedida de una actividad EEG que representa la activación del área motora suplementaria y del córtex motor. Desarrollo. Mediante un procedimiento de promediación retrógrada de la actividad EEG previa al movimiento se obtiene el Bereitschaftspotential (BP), según la nomenclatura alemana de los primeros investigadores que la describieron, y sus componentes NS1 y NS2. Se adjunta una tabla con los valores normales conseguidos en un grupo de sujetos sanos. Conclusión. En nuestro trabajo mostramos la conveniencia de utilizar una metodología off-line y ajustar de forma manual el inicio de la actividad EMG para obtener un BP de mejor definición morfológica y voltajes más amplios; mientras que la adquisición continua con ajuste del trigger a un umbral prefijado (metodología on-line) determina la obtención de un BP menos amplio, sobre todo en los sujetos que manifiestan alguna dificultad en la organización del movimiento (AU)</dc:description>
+<dc:source>Rev Neurol;30(6): 532-535, mar. 2000.</dc:source>
+<dc:identifier>ibc-20381</dc:identifier>
+<dc:title xml:lang="es">El bereitschaftspotential. Concepto y metodología de adquisición</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d3284</dc:subject>
+<dc:subject>^d4641</dc:subject>
+<dc:subject>^d9262</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d4648</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200003</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-152221</identifier>
+<setSpec>1578-8423</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Ecological alternative in measuring long jump of paralimpics athletes</dc:title>
+<dc:description xml:lang="en">The Paralympic Games are the maximum exponent of worldwide competitive sport practiced by people with disabilities. In this paper we present the research conducted during 2012 London Paralympic Games, analysing the actions performed by blind athletes in the long jump, using four Exilim F1 (Casio, Japan) cameras for data collection. We used two of them to record at high speed (512x384 píxels at 300 Hz) and two at high definition (1280x720 pixels at 30 Hz), allowed us not to interfere in the competition. The analysis and extraction of the kinematic image data was performed using the Kinovea V0.8.15 software (available at http://www.kinovea.org). The variables analysed in the last step of the approach run were: Step speed, Vp (m / s); Resulting speed, Vr (m / s); Step frequency, Fp (Hz); Stride length, Lp (m); Contact time, Tc (s); Flight time, TV (s), Step time, Tp; BCM height h1 (m); take off angle, a1 (º) and take off duration, TC0 (s). It has been a positive influence in the Tc1, Tv1 and Vp1 and negative one in: a1, Lp1, TP1 and TC0 variables. The results have identified the variables that determine performance in horizontal jumping with existing athletes without disabilities and similar technical skills. The methodology has been showed reliable, valid and accurate being very useful in competitive areas not to interfere in the sports area (AU)</dc:description>
+<dc:creator>Torralba Jordán, Miguel Angel</dc:creator>
+<dc:creator>Losada López, José Luis</dc:creator>
+<dc:creator>López del Amo, José Luis</dc:creator>
+<dc:creator>Padullés Riu, José María</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Los Juegos Paralímpicos constituyen el máximo exponente a nivel mundial del deporte de competición practicado por personas con discapacidad. En este trabajo exponemos la investigación realizada en los Juegos Paralímpicos de Londres 2012, analizando las acciones de los atletas ciegos en el salto de longitud. Para la toma de datos se utilizaron 4 cámaras Exilim F1 (Casio, Japan), grabando 2 en alta velocidad (512x384 píxeles a 300 Hz) y 2 en alta definicón (1280x720 pixeles a 30 Hz), permitiendo no interferir en la competición. El tratamiento y extracción de datos cinemáticos de las imágenes se realizó con el programa Kinovea 0.8.15 (disponible en http:// kinovea.org). Las variables analizadas en el último paso de la carrera de aproximación fueron: velocidad de paso, Vp (m/s); velocidad resultante, Vr (m/s); frecuencia de paso, Fp (Hz); longitud de paso, Lp (m); tiempo de contacto, Tc (s); tiempo de vuelo, Tv (s), tiempo de paso, Tp; altura del centro de masas, BCM h1(m); ángulo de batida, a1(º); y la duración de la batida, Tc0 (s). Se ha observado una influencia positiva en las variables Tc1, Tv1 y Vp1 y negativas en a1, Lp1, Tp1 y Tc0. Los resultados obtenidos han permitido identificar las variables determinantes del rendimiento en salto de longitud de atletas ciegos y comparar éstas con los ya existentes de deportistas sin discapacidad y de similar habilidad técnica. La metodología utilizada se ha mostrado fiable, válida y precisa, siendo de gran utilidad en los ámbitos competitivos por no interferir en el espacio deportivo (AU)</dc:description>
+<dc:source>Cuad. psicol. deporte;16(1): 69-76, ene. 2016. tab, graf</dc:source>
+<dc:identifier>ibc-152221</dc:identifier>
+<dc:title xml:lang="es">Alternativa ecológica en la evaluación del salto de longitud de atletas paralímpicos</dc:title>
+<dc:subject>^d52940</dc:subject>
+<dc:subject>^d14532^s22056</dc:subject>
+<dc:subject>^d28259</dc:subject>
+<dc:subject>^d55433^s22056</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3194</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201601</dc:date>
+</metadata>
+</record>
+</ibecs-document>

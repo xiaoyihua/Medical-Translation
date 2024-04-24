@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-15587</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Clinical data capture with random verification: a new procedure for controlling and improving the data capture quality</dc:title>
+<dc:description xml:lang="en">This work contemplates the main difficulties related to the capture of clinical data into the computer. We have designed an experience that consists of capturing into the computer, in absence of automatic protections, 335 structured interviews coded on paper by trained interviewers. The general objective of this study consists of rating the efficiency of a new computerized system (based on the feedback principle) for controlling and improving the capture: the random verification (RV) of a percentage of questionnaires. To accomplish this objective, we have measured and classified the mistakes that professional operators commit during the data capture. The specific objectives are: 1) to rate the efficiency of the RV compared to double entry (DE) - this last strategy is the most commonly used for improving the quality of the capture - ; 2) to check the types of mistakes contained in the recorded data; and 3) to rate the operators&#146; efficiency for resolving the discrepancies that appeared during verification (through the measurement of the mistakes that persist in the fields with disagreements during the second capture of the RV and the DE). The principle results obtained indicate that the RV and the DE with different operators offer similar performance, while the simple entry and the DE with only one operator do not constitute effective systems for guaranteeing the quality of the capture. In the discussion we emphasize what aspects of the measurement and the data capture are improved using computerized controls, what minimum quality requirements should be present during the recording and what elements the computerized systems require for operating efficiently (AU)</dc:description>
+<dc:creator>Granero, Rosario</dc:creator>
+<dc:creator>Doménech, José</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Este trabajo plantea las principales dificultades de la grabación de datos clínicos. Se ha diseñado una experiencia que consiste en capturar en un ordenador, en ausencia de protecciones automáticas, 335 entrevistas estructuradas codificadas previamente a mano por entrevistadores entrenados. El objetivo general del estudio consiste en valorar la eficacia de un nuevo sistema para controlar y mejorar la grabación: la verificación aleatoria (VA) de un porcentaje de cuestionarios, basada en el principio de "feedback". Para ello se han medido y tipificado los errores que cometen operadores profesionales durante la captura. Los objetivos específicos son: 1) valorar la eficacia de la VA respecto a la doble entrada (DE) - esta última constituye la estrategia habitual utilizada para mejorar la calidad del registro-; 2) comprobar qué modalidades de error contienen los datos grabados; 3) valorara la eficacia de los operadores para resolver las discrepancias aparecidas durante la verificación (midiendo qué porcentaje de errores persiste en los campos con discordancias durante la segunda captura de la VA y la DE). Los resultados principales indican que la VA ofrece un rendimiento similar a la DE con distintos operadores, mientras que la entrada simple y la DE con un mismo operador no constituyen sistemas eficaces para garantizar la calidad del registro. En la discusión se destacan qué aspectos de la medición y de la captura de datos se mejoran usando controles informáticos, qué requisitos mínimos de calidad deben prevalecer durante la grabación y qué elementos requieren los sistemas informáticos para operar de forma eficiente (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);13(1): 166-172, feb. 2001. tab</dc:source>
+<dc:identifier>ibc-15587</dc:identifier>
+<dc:title xml:lang="es">Captura de datos clínicos con verificación aleatoria: una nueva técnica para controlar y mejorar la calidad del registro</dc:title>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d19350</dc:subject>
+<dc:subject>^d7569^s22045</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d28597^s22045</dc:subject>
+<dc:subject>^d36308^s22045</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d28410</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200102</dc:date>
+</metadata>
+</record>
+</ibecs-document>

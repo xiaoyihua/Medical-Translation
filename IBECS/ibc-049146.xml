@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-049146</identifier>
+<setSpec>0212-7199</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cost-effectiveness analysis of the use of atorvastatin in patients with type 2 diabetes mellitus: a pharmacoeconomic model of the CARDS study</dc:title>
+<dc:description xml:lang="en">Background and objective: To perform a cost-effectiveness analysis of the use of Atorvastatin 10 mg in the primary prevention of cardiovascular disease in patients with type 2 diabetes (DM2). Method: A deterministic and retrospective model by a decision analysis based on CARDS study (Collaborative Atorvastatin Diabetes Study) was performed. In the CARDS study, a significant reduction in cardiovascular morbimortality by the use of Atorvastatin 10 mg versus placebo (5.8 vs. 9.0%, p=0.001) in DM2 patients with an additional condition, had previously been demonstrated. In the present cost-effectiveness analysis, effectiveness units were life years gained (LYG) and quality adjusted life years (QALY), obtained from differences in morbimortality and life expectancy in DM2 patients, with and without previous cardiovascular events. Costs of the evaluated alternatives were obtained from the CARDS results. Results: Incremental cost-effectiveness ratio of using Atorvastin 10 mg versus placebo was 5,886 &#128; per LYG and 8,046 &#128; per QALY. Sensitivity analyses confirmed the model stability. Conclusions: In the primary prevention of the cardiovascular disease in type 2 diabetic patients, the use of Atorvastatin 10 mg is cost-effective, with a cost per LYG and per QALY below that of other alternatives widely used in the Spanish National Health System, and also below a value considered as a reasonable threshold for our country, which might unofficialy be around 30,000 &#128;/ QALY</dc:description>
+<dc:creator>Alonso Troncoso, I</dc:creator>
+<dc:creator>Rubio-Terrés, C</dc:creator>
+<dc:creator>Soto Álvarez, J</dc:creator>
+<dc:creator>López de Sa, E</dc:creator>
+<dc:creator>Moreno Gómez, R</dc:creator>
+<dc:creator>Fernández de Bobadilla, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamento y objetivo: Efectuar un análisis coste-efectividad del uso de Atorvastatina 10 mg en la prevención primaria de la enfermedad cardiovascular en el paciente con Diabetes Mellitus tipo 2 (DM2). Método: Se elaboró un modelo retrospectivo y determinístico basado en un análisis de decisión a partir del estudio CARDS (Collaborative Atorvastatin Diabetes Study). En el estudio CARDS se había demostrado que Atorvastatina 10 mg versus placebo en prevención primaria en pacientes con DM2 y alguna patología asociada, reduce la morbimortalidad cardiovascular (5,8 vs. 9,0%, p = 0,001). En el presente análisis coste-efectividad, las unidades de efectividad utilizadas fueron años de vida ganados (AVG) y años de vida ajustados por calidad (AVAC), obtenidos a partir de las diferencias de morbimortalidad y de la esperanza de vida de los diabéticos, con y sin eventos previos, obtenidos de la literatura. El consumo de recursos de las alternativas en evaluación se ha extraído del estudio CARDS aplicando costes españoles. Resultados: El cociente coste-efectividad incremental derivado de utilizar Atorvastatina 10 mg versus placebo fue 5.886 &#128; por AVG y de 8.046 &#128; por AVAC. Los análisis de sensibilidad confirmaron la estabilidad del modelo. Conclusiones: En la prevención primaria del riesgo cardiovascular en pacientes diabéticos tipo 2, el uso de Atorvastatina 10 mg es coste-efectivo, con un coste por AVG y por AVAC por debajo de otras alternativas empleadas ampliamente en el Sistema Nacional de Salud español, y también por debajo de un valor que podría considerarse como un umbral razonable para nuestro país, situado oficiosamente en torno a los 30.000 &#128; por AVAC</dc:description>
+<dc:source>An Med Interna;23(5): 213-219, mayo 2006. ilus, tab</dc:source>
+<dc:identifier>ibc-049146</dc:identifier>
+<dc:title xml:lang="es">Análisis coste-efectividad del uso de atorvastatina en pacientes diabéticos de tipo 2: modelo farmacoeconómico del estudio CARDS</dc:title>
+<dc:subject>^d28418</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d12225</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d33420^s22000</dc:subject>
+<dc:subject>^d3942^s22080</dc:subject>
+<dc:subject>^d31495^s22066</dc:subject>
+<dc:subject>^d33420^s22078</dc:subject>
+<dc:subject>^d30152^s22048</dc:subject>
+<dc:subject>^d33420^s22018</dc:subject>
+<dc:subject>^d30152^s22066</dc:subject>
+<dc:subject>^d31495^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d11758^s22045</dc:subject>
+<dc:subject>^d30313^s22045</dc:subject>
+<dc:subject>^d11758^s22049</dc:subject>
+<dc:subject>^d931^s22018</dc:subject>
+<dc:subject>^d30313^s22048</dc:subject>
+<dc:subject>^d30313^s22049</dc:subject>
+<dc:subject>^d31495^s22049</dc:subject>
+<dc:subject>^d33420^s22073</dc:subject>
+<dc:subject>^d33420^s22055</dc:subject>
+<dc:subject>^d31495^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200605</dc:date>
+</metadata>
+</record>
+</ibecs-document>

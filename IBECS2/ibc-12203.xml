@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-12203</identifier>
+<setSpec>0034-7973</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">New protocol of screening for microalbuminuria of diabetic patiens</dc:title>
+<dc:creator>Pinto, I</dc:creator>
+<dc:creator>García, L</dc:creator>
+<dc:creator>Hernández, M</dc:creator>
+<dc:creator>Enguix, A</dc:creator>
+<dc:creator>Zapico, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Editorial Siglo, S.L.</dc:publisher>
+<dc:description xml:lang="es">El objetivo del presente estudio fue el de establecer un protocolo de cribaje de peticiones de microalbuminuria (MA) en pacientes diabéticos.La cuantificación Inmunonefelométrica de la MA es costosa y por tanto el método elegido para cribaje debería ser: sencillo, rápido y económico. Se estudiaron 218 orinas de 24 horas, de pacientes diabéticos, y se cuantificó la MA y la proteinuria con un método colorimétrico automatizado (Rojo de Pirogalol) y una tira semicuantitativa de orina. Consideramos como positiva a MA cuando su cuantificación superaba los 30 mg/día.Resultados y conclusiones: 1º) La tira reactiva de orina no resultó buen método pues sólo detectó el 78.1 por ciento de las MA. 2°) El punto de corte óptimo para el método de Rojo de Pirogalol-Molibdato, fue de 170 mg/día, con una sensibilidad del 100 por ciento, especificidad del 70.3 por ciento y valor predictivo positivo (VPP) del 82.8 por ciento. Si consideramos que con cifras superiores a 678 mg/día el citado método tiene un VPP del 100 por ciento, y que existe buena correlación entre las concentraciones de microproteina y MA (r s= 0.965; y = 0.517x - 254) logramos reducir el número de cuantificaciones de MA en un 60.6 por ciento (AU)</dc:description>
+<dc:source>Rev. diagn. biol;49(2): 69-71, abr. 2000. tab, graf</dc:source>
+<dc:identifier>ibc-12203</dc:identifier>
+<dc:title xml:lang="es">Nuevo protocolo de cribado de microalbuminurias en pacientes diabéticos</dc:title>
+<dc:subject>^d12186</dc:subject>
+<dc:subject>^d422^s22016</dc:subject>
+<dc:subject>^d27977</dc:subject>
+<dc:subject>^d3942^s22050</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3942^s22012</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d25123</dc:subject>
+<dc:subject>^d11946^s22027</dc:subject>
+<dc:subject>^d11946^s22016</dc:subject>
+<dc:subject>^d3155^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200004</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-89436</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Genetic variants, cardiovascular risk and genome-wide association studies</dc:title>
+<dc:description xml:lang="en">Genome-wide association studies have shown an association between single nucleotide polymorphisms (SNPs) and coronary artery disease and myocardial infarction in new chromosomal regions: 1p13.1, 2q36.3, 9p21 and 10q11.21. The SNPs from the 9p21 region constitute a risk haplotype due to the strong linkage disequilibrium in this area. These SNPs have been extensively replicated in several European and Asian populations, and are associated with other pathologies such as abdominal aortic and intracranial aneurysms, and with intermediate phenotypes such as arterial stiffness and coronary calcium. The risk haplotype of 9p21 is located in a region without annotated genes, near CDKN2A and CDKN2B, known tumor suppressor genes encoding for inhibitors of cell cycle kinases. In the remaining regions the SNPs are located in genes with known roles in atherosclerosis as well as others with new roles. It has been shown that the incorporation of genetic information in the form of SNPs slightly improves the prediction of long-term cardiovascular risk estimated by the Framingham function, allowing the reclassification of individuals into more precise categories. Gene expression studies have found that expression levels of CDKN2A/CDKN2B/ANRIL are co-regulated and associated with the risk haplotype and atherosclerosis severity (AU)</dc:description>
+<dc:creator>Rodríguez Pérez, José Carlos</dc:creator>
+<dc:creator>Companioni, Osmel</dc:creator>
+<dc:creator>Medina Fernández-Aceituno, Alfonso</dc:creator>
+<dc:creator>Rodríguez Esparragón, Francisco</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Estudios de genoma completo han demostrado asociación entre polimorfismos de nucleótido simple (SNP) y enfermedad coronaria e infarto agudo de miocardio en diversas regiones cromosómicas: 1p13.1, 2q36.3, 9p21 y 10q11.21. Los SNP de 9p21 conforman un haplotipo de riesgo; las asociaciones detectadas en esta región han sido replicadas en diversas poblaciones y se los ha encontrado asociados con otras afecciones como aneurisma aórtico abdominal e intracraneal, rigidez arterial y calcio coronario. El haplotipo en 9p21 está localizado en una zona sin anotación génica, cercana a los genes reguladores del ciclo celular CDKN2A y CDKN2B. En las restantes regiones, los SNP asociados se encuentran en genes con funciones conocidas en la enfermedad aterosclerótica. Se ha demostrado que la incorporación de información genética de los SNP de riesgo de 9p21 mejora la predicción del riesgo cardiovascular a largo plazo estimado por medio del score de Framingham y permite la reclasificación de individuos en categorías más precisas. Se han realizado estudios de expresión de CDKN2A, CDKN2B y ANRIL que han demostrado que están corregulados y se asocian con SNP de 9p21, así como con la severidad aterosclerótica, lo que apunta a la relevancia de esta región en la enfermedad coronaria (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;64(6): 509-514, jun. 2011. tab</dc:source>
+<dc:identifier>ibc-89436</dc:identifier>
+<dc:title xml:lang="es">Variantes genéticas, riesgo cardiovascular y estudios de asociación de genoma completo</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d3343^s22033</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d2359^s22033</dc:subject>
+<dc:subject>^d34583^s22033</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d30083^s22031</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d30083^s22033</dc:subject>
+<dc:subject>^d19139^s22033</dc:subject>
+<dc:subject>^d9395^s22033</dc:subject>
+<dc:subject>^d24811</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201106</dc:date>
+</metadata>
+</record>
+</ibecs-document>

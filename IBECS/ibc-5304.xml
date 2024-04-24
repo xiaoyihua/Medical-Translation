@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-5304</identifier>
+<setSpec>0378-4835</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Fusion and correlation of multimodality images</dc:title>
+<dc:creator>Jiménez Cencerrado, P</dc:creator>
+<dc:creator>Salvador Gómez, F. J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Alpe Editores, S.A.</dc:publisher>
+<dc:description xml:lang="es">La fusión o integración de imágenes multimodalidad es una técnica que combina la información, a menudo complementaria, de diferentes imágenes en un único estudio coherente. El anglicismo modalidad hace referencia a las diferentes métodos de imagen medica.Desde el punto de vista técnico se pueden distinguir dos fases: a) El registro (anglicismo derivado de registration) en la que se proporciona una referencia geométrica común a partir de las imágenes originales del objeto, mediante una transformación de coordenadas que las hace coincidir. Para ello es preciso por un lado hacer una identificación de ciertos puntos correspondientes en cada una de las imágenes y por otro lado una reordenación de una de ellas mediante transformaciones geométricas más o menos complejas (globales, locales, rígidas, afines, proyectivas o curvas). Dentro de las transformaciones rígidas se proponen diversos métodos de resolución: método de coincidencia de puntos, coincidencia de líneas, de coincidencia de superficies (con el método particular de la técnica chamfer) y registro automático de imágenes.b) La segunda etapa de la integración es la superposición visual de imágenes. El algoritmo de superposición permite la presentación conjunta de los vóxeles/píxeles constituyentes de cada imagen. Existen métodos como el llamado &#147;lado a lado&#148;, el de la &#147;cortinilla móvil&#148;, estructuras segmentadas que se presentan superpuestas en color sobre el segundo estudio, etc (AU)</dc:description>
+<dc:source>Oncologia;25(2): 130-142, feb. 2002. ilus</dc:source>
+<dc:identifier>ibc-5304</dc:identifier>
+<dc:title xml:lang="es">Fusión y correlación de imágenes multimodalidad</dc:title>
+<dc:subject>^d3162</dc:subject>
+<dc:subject>^d23405</dc:subject>
+<dc:subject>^d19062</dc:subject>
+<dc:subject>^d28219</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24375</dc:subject>
+<dc:subject>^d19200</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200202</dc:date>
+</metadata>
+</record>
+</ibecs-document>

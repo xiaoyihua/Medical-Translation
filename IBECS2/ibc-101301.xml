@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-101301</identifier>
+<setSpec>0214-4840</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Alcohol consumption and ischemic heart disease mortality in Russia</dc:title>
+<dc:description xml:lang="en">It has been repeatedly emphasized that alcohol provides the most plausible explanation for both the high rate of cardiovascular mortality rate and its dramatic fluctuations in Russia over recent decades, while other traditional risk factors identified in epidemiological studies have little predictive value. The aim of this study was to examine the relation between alcohol consumption and ischemic heart disease (IHD) mortality rates in Russia. Age-standardized sex-specific male and female IHD mortality data for the period 1980-2005 and data on overall alcohol consumption were analyzed by means of ARIMA time series analysis. The results of the analysis showed that alcohol consumption was significantly associated with both male and female IHD mortality rates: a 1-liter increase in overall alcohol consumption would result in a 3.9%  increase in the male IHD mortality rate and a 2.7% increase in the female IHD mortality rate. As a conclusion, the results of this study provide indirect support for the hypothesis that the drastic fluctuations in IHD mortality in Russia over recent decades are related to alcohol, as indicated by the close temporal association between number of deaths from IHD and overall alcohol consumption per capita(AU)</dc:description>
+<dc:creator>Razvodovsky, Yury E</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Se ha insistido reiteradamente en que el alcohol proporciona la explicación más plausible, tanto para la alta frecuencia en la tasa de mortalidad cardiovascular de Rusia, como para las drásticas fluctuaciones que experimenta durante las últimas décadas. Parecería también que otros factores de riesgo tradicionales identificados en estudios epidemiológicos tendrían poco valor predictivo. El objetivo de este estudio consiste en analizar la relación entre el consumo de alcohol y las tasas de mortalidad por cardiopatía isquémica (CI) en Rusia. Para ello se utiliza el análisis de series temporales estandarizadas por edad y por sexo de los datos de mortalidad por CI masculina y femenina durante el período 1980-2005 en relación con el consumo global de alcohol. El análisis muestra como efectivamente el consumo de alcohol se asocia significativamente con las tasas tanto de mortalidad masculina como femenina por CI. Un aumento de 1 litro en el consumo de alcohol anual se traduciría en un aumento del 3,9% en la tasa de mortalidad por CI en hombres y un 2,7% en las mujeres. Como conclusión, este estudio proporcionan apoyo indirecto a la hipótesis de que las profundas fluctuaciones en Rusia en la mortalidad por CI durante las últimas décadas podría estar relacionado con el alcohol, como lo indica la estrecha relación temporal entre ambos fenómenos(AU)</dc:description>
+<dc:source>Adicciones (Palma de Mallorca);24(1): 23-30, ene.-mar. 2012. tab, graf</dc:source>
+<dc:identifier>ibc-101301</dc:identifier>
+<dc:title xml:lang="es">Consumo de alcohol y mortalidad por cardiopatía isquémica en Rusia</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d30888^s22080</dc:subject>
+<dc:subject>^d30650^s22047</dc:subject>
+<dc:subject>^d50271</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22102^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201203</dc:date>
+</metadata>
+</record>
+</ibecs-document>

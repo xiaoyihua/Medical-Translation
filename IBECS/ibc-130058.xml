@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-130058</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Sample size planning for multiple correlation: reply to shieh (2013)</dc:title>
+<dc:description xml:lang="en">Background: Bonett and Wright (2011) proposed a simple and accurate sample size planning formula for estimating a squared multiple correlation with desired relative precision. Shieh (2013) incorrectly evaluated the accuracy of the Bonett-Wright formula. Method: To address a criticism of Shieh that the Bonett-Wright formula was not examined under a wider range of conditions, the accuracy of the Bonett-Wright sample size formula is evaluated under the additional conditions proposed by Shieh. A simple 2-step sample size formula for desired absolute precision is proposed and its accuracy is evaluated under the conditions proposed by Shieh. Results: The analyses indicate that the Bonett-Wright sample size formula for relative prediction and the new 2-step sample size formula for absolute precision are remarkably accurate. Conclusions: Simple sample size planning formulas for a squared multiple correlation are important tools in designing a multiple regression analysis where the primary goal is to obtain an acceptably accurate estimate of the squared multiple correlation. The computationally intensive and simulation-based methods proposed by Shieh are not necessary (AU)</dc:description>
+<dc:creator>Bonett, Douglas</dc:creator>
+<dc:creator>Wright, Thomas</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Antecedentes: Bonett y Wright (2011) propusieron una fórmula simple y precisa para calcular el tamaño de muestra necesario cuando el objetivo es estimar, con una cierta precisión relativa, el cuadrado del coeficiente de correlación múltiple. Shieh (2013) incorrectamente evaluó la fórmula de Bonett-Wright. Método: para responder a la crítica hecha por Shieh de que la fórmula de Bonett-Wright no había sido examinada para una amplia gama de condiciones, la fórmula es ahora evaluada bajo las condiciones adicionales propuestas por Shieh. También se propone una fórmula simple, en dos etapas, para calcular el tamaño de muestra necesario y su exactitud es evaluada bajo las condiciones propuestas por Shieh. Resultados: el análisis indica que la fórmula de Bonett-Wright bajo el criterio de predicción relativa y la nueva fórmula de dos etapas bajo el criterio de precisión absoluta son muy precisas. Conclusiones: es muy útil tener fórmulas que permitan planificar el tamaño de muestra en el contexto del análisis de regresión múltiple cuando el objetivo es estimar el cuadrado del coeficiente de correlación múltiple con una precisión aceptable. Los métodos de cómputo intensivo y por simulación propuestos por Shieh no son necesarios (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);26(3): 391-394, jul.-sept. 2014. tab</dc:source>
+<dc:identifier>ibc-130058</dc:identifier>
+<dc:title xml:lang="es">Determinación del tamaño de muestra para la correlación múltiple: respuesta a Shieh (2013)</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d32016</dc:subject>
+<dc:subject>^d24811</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:subject>^d32037</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201409</dc:date>
+</metadata>
+</record>
+</ibecs-document>

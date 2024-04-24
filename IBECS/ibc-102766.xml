@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-102766</identifier>
+<setSpec>0001-6519</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Objective assessment of olfactory function using functional magnetic resonance imaging</dc:title>
+<dc:description xml:lang="en">Objective: To show the results of a device that generates automated olfactory stimuli suitable for functional magnetic resonance imaging (fMRI) experiments. Material and methods: Ten normal volunteers, 5 women and 5 men, were studied. The system allows the programming of several sequences, providing the capability to synchronise the onset of odour presentation with acquisition by a trigger signal of the MRI scanner. The olfactometer is a device that allows selection of the odour, the event paradigm, the time of stimuli and the odour concentration. The paradigm used during fMRI scanning consisted of 15-s blocks. The odorant event took 2s with butanol, mint and coffee. Results: We observed olfactory activity in the olfactory bulb, entorhinal cortex (4%), amygdala (2.5%) and temporo-parietal cortex, especially in the areas related to emotional integration. Conclusions: The device has demonstrated its effectiveness in stimulating olfactory areas and its capacity to adapt to fMRI equipment(AU)</dc:description>
+<dc:creator>Álvarez-linera, Juan</dc:creator>
+<dc:creator>Luna, Guillermo</dc:creator>
+<dc:creator>Borromeo, Susana</dc:creator>
+<dc:creator>Solana, Ana Beatriz</dc:creator>
+<dc:creator>García-Polo, Pablo</dc:creator>
+<dc:creator>Toledano, Adolfo</dc:creator>
+<dc:creator>Molina, Elena</dc:creator>
+<dc:creator>Hernández, Juan Antonio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Mostrar los resultados del olfatómetro capaz de generar tareas olfativas en un equipo de resonancia magnética funcional (fMRI). Material y métodos: Estudiamos 10 sujetos normales: 5 varones y 5 mujeres. El olfatómetro está diseñado para que el estímulo que produce se sincronice con el equipo de fMRI mediante la señal desencadenante que suministra el propio equipo. El olfatómetro es capaz de: seleccionar el olor, secuenciar los distintos olores, programar la frecuencia y duración de los olores y controlar la intensidad del olor. El paradigma utilizado responde a un diseño de activación asociada a eventos, en el que la duración del bloque de activación y de reposo es de 15s. La duración del estímulo olfativo (butanol, menta o café) es de 2 segundos, durante toda la serie que consta de 9 ciclos. Resultados: Se ha observado reactividad (contraste BOLD) en las diferentes áreas cerebrales involucradas en las tareas olfativas: bulbo olfatorio, córtex entorrinal (4%), amigdala (2,5%) y córtex temporoparietal. Las áreas relacionadas con integración de las emociones tienen una reactividad mayor. Conclusiones: El dispositivo propuesto nos permite controlar de forma automática y sincronizada los olores necesarios para estudiar la actividad de las áreas olfatorias cerebrales mediante fMRI(AU)</dc:description>
+<dc:source>Acta Otorrinolaringol Esp;63(4): 280-285, jul.-ago. 2012. ilus</dc:source>
+<dc:identifier>ibc-102766</dc:identifier>
+<dc:title xml:lang="es">Estudio objetivo del olfato mediante resonancia magnética funcional</dc:title>
+<dc:subject>^d10019^s29166</dc:subject>
+<dc:subject>^d26976</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d13284^s22022</dc:subject>
+<dc:subject>^d4667^s22066</dc:subject>
+<dc:subject>^d4667^s22045</dc:subject>
+<dc:subject>^d22935^s22045</dc:subject>
+<dc:subject>^d6590^s22022</dc:subject>
+<dc:subject>^d22935^s22039</dc:subject>
+<dc:subject>^d6590^s22021</dc:subject>
+<dc:subject>^d6590^s22031</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201208</dc:date>
+</metadata>
+</record>
+</ibecs-document>

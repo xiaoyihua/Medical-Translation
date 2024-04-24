@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-103709</identifier>
+<setSpec>0014-2565</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Description of hospital discharges in patients with systemic lupus erythematosus</dc:title>
+<dc:description xml:lang="en">Background. Systemic lupus erythematosus (SLE) is an autoimmune disease that mainly affects young women and whose mortality is increasing for this age group. Objectives. We used the national registry of Hospital discharges in Spain based on the study of the Minimum Basic Data Set (MBDS) to analyze hospital discharges of patients whose diagnosis included that of LES. Material and methods. A cross-sectional, descriptive study was performed of all episodes coded as having LES using ICD-9-MC coding system of the patients hospitalized within the period 2005-2008. Results. A total of 5,464 episodes were identified, 1,855 (33%) as main diagnosis and 3,609 (66%) as secondary diagnosis. Patients having LES the main diagnosis were younger (41.56±17.55 vs 56.07±19.01 years; P&lt;.001), had fewer elective admittances (62.5 vs 84.8%; P&lt;.001), lower comorbidity as measured by the Charlson's index (Charlson&gt;2; 18 vs 35%; P&lt;.001) and lower mortality (1.1 vs 5.4%; P&lt;.001). Conclusions. Patients admitted to internal medicine departments in Spain with a diagnosis of LES accounts for 0.3% of the total. Two different groups of patients are identified. The first group was younger, had lower comorbidity and were in the early phases of diagnosis and/or treatment. The second group was more numerous, older, with a higher comorbidity, with admittances frequently related to infections or cardiovascular complications and higher mortality rate(AU)</dc:description>
+<dc:creator>Zapatero-Gaviria, A</dc:creator>
+<dc:creator>Plaza-Cantelli, S</dc:creator>
+<dc:creator>Marco-Martínez, J</dc:creator>
+<dc:creator>Canora-Lebrato, J</dc:creator>
+<dc:creator>Perales-Fraile, I</dc:creator>
+<dc:creator>Barba-Martín, R</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Antecedentes. El lupus eritematoso sistémico (LES) es una enfermedad de naturaleza autoinmune que afecta fundamentalmente a mujeres jóvenes y cuya mortalidad está aumentada para estos grupos de edad. Objetivos. Mediante el registro de altas hospitalarias en España y el análisis del conjunto mínimo básico de datos (CMBD) facilitado por el Ministerio de Sanidad se han analizado las altas hospitalarias en cuyos diagnósticos se incluyera el de LES. Material y métodos. Estudio transversal descriptivo de todos los episodios codificados, según la CIE-9-MC, como LES de los pacientes hospitalizados durante 2005-2008 en todo el territorio español. Resultados. Se identificaron un total de 5.464 episodios, de los cuales 1.855 (33%) tenían lupus como diagnóstico principal y 3.609 (66%) como secundario. Los pacientes del grupo LES principal son más jóvenes (41,56±17,55 vs. 56,07±19,01 años; p&lt;0,001), tienen un menor porcentaje de ingresos urgentes (62,5 vs. 84,8%; p&lt;0,001) y una comorbilidad menor, medida por el índice de Charlson (Charlson&gt;2; 18 vs. 35%; p&lt;0,001), así como una menor mortalidad (1,1 vs. 5,4%; p&lt;0,001). Conclusiones. Los pacientes con LES que ingresan en los servicios de Medicina Interna en España suponen el 0,3% del total. Se identifican 2 grupos de pacientes, aquellos más jóvenes, con menor comorbilidad en proceso de diagnóstico y tratamiento inicial de la enfermedad y una segunda población de pacientes de más edad, con mayor comorbilidad y cuyos motivos de ingreso están relacionados con las infecciones y las complicaciones cardiovasculares. La mortalidad en este grupo es superior(AU)</dc:description>
+<dc:source>Rev Clin Esp;212(9): 432-439, oct. 2012. tab</dc:source>
+<dc:identifier>ibc-103709</dc:identifier>
+<dc:title xml:lang="es">Descripción de las altas hospitalarias en pacientes con lupus eritematoso sistémico</dc:title>
+<dc:subject>^d^s22066</dc:subject>
+<dc:subject>^d8356^s22080</dc:subject>
+<dc:subject>^d10545^s22018</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d24572</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d28596^s22045</dc:subject>
+<dc:subject>^d28596^s22066</dc:subject>
+<dc:subject>^d10545^s22066</dc:subject>
+<dc:subject>^d10545^s22048</dc:subject>
+<dc:subject>^d6916^s22083</dc:subject>
+<dc:subject>^d3380^s22083</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d10545^s22083</dc:subject>
+<dc:subject>^d6916^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201210</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-147145</identifier>
+<setSpec>1139-8264</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Reliability of the records in an interrelated database for clinical decisión making in a general surgery department</dc:title>
+<dc:description xml:lang="en">Introduction. Using data from an interrelated data base made up of records of scheduled surgeries (IQ) in a General Surgery Department of a university hospital, we evaluated the discrepancy in the main procedure between medical history records (HC), Basic Minimum Data Set (CMBD) and the HP-HIS (patient management system). In addition, we made proposals for improving the discrepancies found. Material and methods. Four degrees of discrepancy were established in the records (0,1,2,3). Grades were grouped into not discrepant (0 and 1) and discrepant (2 and 3). Frequency (n,%) of discrepant records for each procedure and surgical area was calculated. Cross discrepancy between HP-HIS and CMBD was analyzed. Surgical areas with greater discrepancies were identified. The association between the discrepancy and the complexity of the procedure was evaluated. Results. Discrepancies (grades 2 and 3) accounted for 27.7% of the records in CMBD and 25.2% in HP-HIS. Surgical areas with the highest percentage of discrepant records in CMBD and HP-HIS were rectum (25.3% and 21.4%) and colon (17.2% and 20.7%). There was significant association between complexity and discrepancy. Conclusions. The worst registered surgical areas were colon and rectum (both in HP-HIS and MDS). More complex IQ discrepancy showed higher values. A poor coding in HP-HIS would affect management information, and a deficient coding in CMBD would affect both the complexity index of the Department and the final GRD (AU)</dc:description>
+<dc:creator>Martín Vega, A</dc:creator>
+<dc:creator>Zarazaga, A</dc:creator>
+<dc:creator>Rodríguez Montes, JA</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. A partir de una base de datos interrelacionada elaborada con registros de las cirugías programadas del Servicio de Cirugía General de un hospital universitario de tercer nivel, evaluamos la discrepancia en el registro del procedimiento quirúrgico principal en la Historia Clínica (HC) comparándolo con el del Conjunto Mínimo Básico de Datos (CMBD) y el del sistema de gestión de pacientes (HP-HIS). Se elaboraron propuestas de mejora ante las discordancias encontradas. Material y Métodos. Se establecieron 4 grados de menor a mayor discrepancia en el registro (0,1,2,3). Se agruparon los grados en no discrepantes (0 y 1) y discrepantes (2 y 3). Se calculó la frecuencia (n, %) de registros discrepantes para cada procedimiento y área quirúrgica. Se analizó la discrepancia cruzada entre HP-HIS y CMBD. Se identificaron las áreas quirúrgicas con mayor grado de discrepancia. Se evaluó la asociación entre la discrepancia y la complejidad del procedimiento. Resultados. En CMBD las discrepancias (grados 2 y 3) supusieron el 27,7% de los registros y en HP-HIS el 25,2%. Las áreas quirúrgicas con mayor porcentaje de registros discrepantes en CMBD y HP-HIS fueron recto (25,3% y 21,4%) y colon (17,2% y 20,7%). Hubo asociación significativa entre complejidad y discrepancia. Conclusiones. Las áreas quirúrgicas peor registradas fueron colon y recto tanto en HP-HIS como en CMBD. Las IQ más complejas presentaron valores más altos de discrepancia. La deficiente codificación en HP-HIS repercutiría en la información de gestión, y en el CMBD repercutiría en el índice de complejidad del servicio y en el GRD final (AU)</dc:description>
+<dc:source>Rev. esp. investig. quir;18(4): 157-163, 2015. tab</dc:source>
+<dc:identifier>ibc-147145</dc:identifier>
+<dc:title xml:lang="es">Fiabilidad de un Base de Datos interrelacionada para la toma de decisiones clínicas en un servicio de cirugía general</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d33619^s22049</dc:subject>
+<dc:subject>^d^s22045</dc:subject>
+<dc:subject>^d33196^s22049</dc:subject>
+<dc:subject>^d53395^s22049</dc:subject>
+<dc:subject>^d53395^s22048</dc:subject>
+<dc:subject>^d13883^s22048</dc:subject>
+<dc:subject>^d3675</dc:subject>
+<dc:subject>^d13883^s22049</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d33619^s22074</dc:subject>
+<dc:subject>^d33196^s22048</dc:subject>
+<dc:subject>^d33619^s22048</dc:subject>
+<dc:subject>^d^s22048</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d16765</dc:subject>
+<dc:subject>^d10545^s22048</dc:subject>
+<dc:subject>^d10545^s22041</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201500</dc:date>
+</metadata>
+</record>
+</ibecs-document>

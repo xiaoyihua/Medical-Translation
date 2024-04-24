@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-93316</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Population attributable fraction: estimation and interpretation</dc:title>
+<dc:description xml:lang="en">The goal of this paper is to revise the concept, estimation methods, and interpretations of the population attributable fraction. From the usual formula of the population attributable fraction:(Ip &#150; I0) / Ip, where Ip is the cumulative incidence in the overall population, and I0 is the cumulative incidence in the non-exposed group, other formulae are presented for use in exposures with more than two levels, and in the presence of confounding factors. Differences in estimation methods between cohort and case control studies are discussed, and equations to estimate confidence intervals are displayed. Finally, some interpretations&#150;including the concepts of «etiologic case» and «case in excess», suggested by Greenland and Robbins&#150;, and some habitual errors are discussed  (AU)</dc:description>
+<dc:creator>Fariñas-Álvarez, C</dc:creator>
+<dc:creator>Delgado-Rodríguez, M</dc:creator>
+<dc:creator>Llorca, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El objetivo de este artículo es realizar una revisión de los métodos de cálculo de la fracción atribuible poblacional y discutirsus interpretaciones. A partir de la clásica fórmula de la fracción atribuible poblacional: (Ip &#150; I0) / Ip, donde Ip es la incidencia acumulada en la población e I0 es la incidencia acumulada en los no expuestos, se presentan otras fórmulas aplicables en análisis con más de dos niveles de exposición y en presencia de factores de confusión. Se discuten las diferencias de cálculo de la fracción atribuible poblacional en estudios de cohortes y de casos y controles, y se presentan fórmulas para la estimación de intervalos de confianza. Finalmente, se discuten algunas interpretaciones &#150;incluyendo los conceptos de caso etiológico y caso en exceso, propuestos por Greenland y Robbins&#150;y algunos de los errores más frecuentes  (AU)</dc:description>
+<dc:source>Gac Sanit;15(1): 61-67, ene. -dic. 2001. tab</dc:source>
+<dc:identifier>ibc-93316</dc:identifier>
+<dc:title xml:lang="es">Fracción atribuible poblacional: cálculo e interpretación</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d28422</dc:subject>
+<dc:subject>^d28565</dc:subject>
+<dc:subject>^d24517</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200100</dc:date>
+</metadata>
+</record>
+</ibecs-document>

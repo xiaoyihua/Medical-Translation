@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-118517</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Reproducibility and accuracy in the morphometric and mechanical quantification of trabecular bone from 3 Tesla magnetic resonance images</dc:title>
+<dc:description xml:lang="en">Objective: We used an animal model to analyze the reproducibility and accuracy of certain biomarkers of bone image quality in comparison to a gold standard of computed microtomography (mCT). Material and methods: We used magnetic resonance (MR) imaging and mCT to study the metaphyses of 5 sheep tibiae. The MR images (3 Teslas) were acquired with a T1-weighted gradient echo sequence and an isotropic spatial resolution of 180 mm. The mCT images were acquired using a scanner with a spatial resolution of 7.5 mm isotropic voxels. In the preparation of the images, we applied equalization, interpolation, and thresholding algorithms. In the quantitative analysis, we calculated the percentage of bone volume (BV/TV), the trabecular thickness (Tb.Th), the trabecular separation (Tb.Sp), the trabecular index (Tb.N), the 2 D fractal dimension (D2D), the 3 D fractal dimension (D3D), and the elastic module in the three spatial directions (Ex, Ey and Ez). Results: The morphometric and mechanical quantification of trabecular bone by MR was very reproducible, with percentages of variation below 9% for all the parameters. Its accuracy compared to the gold standard (mCT) was high, with errors less than 15% for BV/TV, D2D, D3D, and Eappx, Eappy and Eappz. Conclusions: Our experimental results in animals confirm that the parameters of BV/TV, D2D, D3D, and Eappx, Eappy and Eappz obtained by MR have excellent reproducibility and accuracy and can be used as imaging biomarkers for the quality of trabecular bone (AU)</dc:description>
+<dc:creator>Pérez, M. A</dc:creator>
+<dc:creator>Martí-Bonmatí, L</dc:creator>
+<dc:creator>García-Martí, G</dc:creator>
+<dc:creator>Sánchez-González, J</dc:creator>
+<dc:creator>Alberich-Bayarri, A</dc:creator>
+<dc:creator>Sanz-Requena, R</dc:creator>
+<dc:creator>Hervás Briz, V</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. En este trabajo se analizan en un modelo animal la reproducibilidad y la exactitud de ciertos biomarcadores de imagen de calidad ósea utilizando como patrón de referencia la microtomografía computarizada (mTC). Material y métodos. Se estudiaron con RM y mTC 5 metáfisis tibiales de oveja. Las imágenes de RM (3 Tesla) se adquirieron con una secuencia eco de gradiente potenciada en T1 y una resolución espacial isotrópica de 180 mm. Las imágenes de mTC se adquirieron en un escáner con una resolución espacial de 7,5 mm en vóxeles isotrópicos. En la preparación de las imágenes se aplicaron algoritmos de ecualización, interpolación y umbralización. En el análisis cuantitativo se calculó el porcentaje de volumen de hueso (BV/TV), el grosor trabecular (Tb.Th), la separación trabecular (Tb.Sp), el índice trabecular (Tb.N), la dimensión fractal en 2 D (D2D) y 3 D (D3D) y el módulo elástico en las 3 direcciones del espacio (Ex, Ey y Ez). Resultados. La cuantificación morfométrica y mecánica del hueso esponjoso con la RM fue muy reproducible, con porcentajes de variación por debajo del 9% para todos los parámetros. Su exactitud con respecto a la mTC fue alta, con errores inferiores al 15% para BV/TV, D2D, D3D y Eappx, Eappy y Eappz. Conclusiones. Los resultados experimentales en animales confirman que los parámetros de BV/TV, D2D, D3D y Eappx, Eappy y Eappz obtenidos a partir de RM tienen una excelente reproducibilidad y precisión, y pueden emplearse como biomarcadores de imagen de la calidad del hueso trabecular (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);56(1): 27-34, ene.-feb. 2014. tab, ilus</dc:source>
+<dc:identifier>ibc-118517</dc:identifier>
+<dc:title xml:lang="es">Reproducibilidad y exactitud en la cuantificación morfométrica y mecánica del hueso trabecular a partir de imágenes de resonancia magnética de Tesla</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d23568^s22002</dc:subject>
+<dc:subject>^d14522^s29166</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d10205^s29166</dc:subject>
+<dc:subject>^d22672</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d14364^s29166</dc:subject>
+<dc:subject>^d14522^s22032</dc:subject>
+<dc:subject>^d22935^s22045</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d22935^s22074</dc:subject>
+<dc:subject>^d22935^s22039</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201402</dc:date>
+</metadata>
+</record>
+</ibecs-document>

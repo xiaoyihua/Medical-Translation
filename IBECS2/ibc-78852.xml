@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-78852</identifier>
+<setSpec>0214-3429</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Evaluation of pharmacodynamic target attainment with vancomycin treatment of bacteremia due to Staphylococcus aureus methicillin resistant</dc:title>
+<dc:description xml:lang="en">Objective: The objective of the study is to evaluatethe ability of standard vancomycin dosing strategiesactually recommended to attain the pharmacodynamictarget of an area under the curve of vancomycin serumconcentration versus time from 0 to 24 hours (AUC24h)to minimum inhibitory concentration (MIC) ratio greaterthan 400:1 for patients with a suspected or documentedmethicillin-resistant Staphylococcus aureus(MRSA) bacteraemia by individual analysis and MonteCarlo simulation.Material and methods: The study included all patientsadmitted with suspected or proven MRSA infectionduring the years 2007-2008, and who were initiallytreated with vancomycin at a dose of 30mg/kg/day, and underwent pharmacokinetic monitoring.The area under the curve of vancomycin serumconcentration versus time from 0 to 24 hours (AUC24h)was calculated as daily dose/clearance total (D24h/CL).Additionally, we studied 45 isolates of MRSA obtainedfrom blood cultures in the period 2007-2008. The MICto vancomycin was determined using Epsilon-test®.The PK-PD parameter calculated was AUC24h/MIC. MicrosoftExcel was used to perform a 10.000 subjectMonte Carlo simulation. An AUC24h/MIC &amp;#8805; 400 was assumedas the target attainment. Results: In the individual study, the percentage of patientswith AUC24h/MIC50/90 &gt;= 400 was 50%. The probability(%) of attaining AUC24h/MIC ratio values &gt;= 400 by MonteCarlo simulation was of 66%. The vancomycin MIC valuefrom which the scenario would have to wait a suboptimaltreatment (target &lt;90%) was &gt;1 mg/L.Discussion: This study shows that in the populationstudied to achieve a vancomycin AUC24h/MIC &gt;= 400 isnot always attained with the standard dose. Therefore,one would expect a high probability of suboptimal vancomycinAUC24h/MIC ratios for patients infected with organismswith vancomycin MICs of &gt;1 mg/L treated withdoses of 30 mg/kg/day(AU)</dc:description>
+<dc:creator>Lepe, José A</dc:creator>
+<dc:creator>Santos-Rubio, M. Dolores</dc:creator>
+<dc:creator>Bautista, Javier</dc:creator>
+<dc:creator>Gil-Navarro, M. Victoria</dc:creator>
+<dc:creator>Aznar, Javier</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Evaluar la capacidad de la actual estrategia dedosificación de vancomicina de obtener un objetivo farmacocinético/farmacodinámico (FC/FD) de área bajo la curva CMImayor de 400 en pacientes con sospecha o bacteriemia documentadapor Staphylococcus aureus resistente a meticilina(SARM) mediante análisis individual de los pacientes y simulaciónde Monte Carlo.Material y métodos: El estudio incluyó a todos los pacientesingresados con sospecha o bacteriemia documentada porSARM durante los años 2007-2008 y que inicialmente fuerontratados con una dosis de vancomicina de 30 mg/kg/día y quefueron sometidos a seguimiento farmacocinético.El área bajo la curva de la concentración sérica de vancomicinafrente al tiempo de 0 a 24 horas (ABC24h) se calculó comola dosis diaria / aclaramiento total (D24h/CL). Además, se estudiaron45 cepas de SARM obtenidas de hemocultivospertenecientes a pacientes individuales. El CMI a vancomicinafue determinada por Epsilon-test®. Además se realizó una simulaciónde Monte Carlo sobre 10.000 individuos, un ABC24h/CMI &gt;=400 se asumió como objetivo.Resultados: en el estudio individual, el porcentaje de pacientescon ABC24h/CMI50/90 &gt;=400 fue del 50%. La probabilidad(%) de alcanzar ABC24h/CMI &gt;= 400 por simulación Monte Carloen la población estudiada fue de 66%. El valor de CMI a vancomicinaa partir del cual se podría inferir un escenario subóptimode tratamiento (objetivo &lt;90%) fue de &gt; 1 mg/L.Discusión: Este estudio muestra que en la población estudiadaconseguir un cociente ABC24h/CMI &gt;= 400 para vancomicinano es siempre posible con la dosis estándar especialmenteen pacientes infectados con microorganismos con CMI a vancomicina&gt; 1 mg/L y que son tratados con dosis de vancomicinade 30 mg/kg/día(AU)</dc:description>
+<dc:source>Rev Esp Quimioter;23(1): 43-47, mar.2010. ilus</dc:source>
+<dc:identifier>ibc-78852</dc:identifier>
+<dc:title xml:lang="es">Evaluación farmacocinética y farmacodinámica del tratamiento con vancomicina en la bacteriemia por Staphylococcus aureus resistente a meticilina</dc:title>
+<dc:subject>^d29045^s22031</dc:subject>
+<dc:subject>^d13596^s22052</dc:subject>
+<dc:subject>^d29045^s22021</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30241^s22012</dc:subject>
+<dc:subject>^d13596^s22001</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d23504^s22079</dc:subject>
+<dc:subject>^d23504^s22078</dc:subject>
+<dc:subject>^d30241^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201003</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-99681</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Heart failure in acute myocardial infarction: a comparison between patients with or without heart failure criteria from the FAST-MI registry</dc:title>
+<dc:description xml:lang="en">Introduction and objectives. To compare acute myocardial infarction patients with or without congestive heart failure in the French FAST-MI registry. Methods. The French FAST-MI registry included 374 centers and 3059 patients over a 1-month period at the end of 2005, with 1-year follow-up. Among this population, patients with at least one congestive heart failure criterion constituted group 1 (n=1149; 37.5%) and were compared to patients without congestive heart failure (group 2, n=1910; 62.5%). The congestive heart failure patients were further divided according to presence of both beta-blockers and antagonists of the renin-angiotensin-aldosterone system at hospital discharge (n=511) or not (n=498), in order to assess the real-world clinical importance of recommended medications. Results. Overall in-hospital and 1-year mortality rates were 3.4% and 13.2%, respectively. In hospital survivors, presence of congestive heart failure was associated with increased mortality (adjusted hazard ratio=1.55; 95% confidence interval, 1.10-2.17; P=.01). Survival was higher in patients without congestive heart failure, compared with congestive heart failure patients receiving or not recommended medications (P&lt;.001). Congestive heart failure patients receiving neither renin-angiotensin-aldosterone system blockers nor beta-blockers (adjusted hazard ratio=1.66; 95% confidence interval, 1.08-2.55; P=.02) had a significantly higher risk of death than patients receiving both classes of medications (adjusted hazard ratio=1.16; 95% confidence interval, 0.82-1.64; not statistically significant). Patients receiving only one of the recommended classes had an intermediate risk (adjusted hazard ratio=1.47; 95% confidence interval, 1.04-2.07; P=.03). Conclusions. Patients admitted for acute myocardial infarction with congestive heart failure criteria are still at very high risk of mortality. When receiving major recommended medications, they presented with significantly reduced mortality rates. Additional efforts should therefore be made to encourage the prescription of recommended medications in acute myocardial infarction patients with congestive heart failure (AU)</dc:description>
+<dc:creator>Gibelin, Pierre</dc:creator>
+<dc:creator>Simon, Tabassome</dc:creator>
+<dc:creator>Jean P. Cambou, Jean P</dc:creator>
+<dc:creator>Bataille, Vincent</dc:creator>
+<dc:creator>Méneveau, Nicolás</dc:creator>
+<dc:creator>Benamer, Hakim</dc:creator>
+<dc:creator>Tabone, Xavier</dc:creator>
+<dc:creator>Guillière, Yves</dc:creator>
+<dc:creator>Galinier, Michel</dc:creator>
+<dc:creator>Danchin, Nicolás</dc:creator>
+<dc:creator>Mulak, Geneviere</dc:creator>
+<dc:creator>Bouvaist, Helene</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos. El papel las lipoproteínas de alta densidad en la estratificación de riesgo en pacientes con dolor torácico no está bien definido. El objetivo de este estudio es conocer la contribución relativa del perfil lipídico al riesgo de padecer síndrome coronario agudo de los pacientes ingresados por dolor torácico en una planta de cardiología. Métodos. Incluimos todos los ingresos consecutivos no programados en planta de cardiología durante 15 meses y realizamos seguimiento al año. Resultados. Se incluyó a 959 pacientes, 457 (47,7%) diagnosticados de dolor torácico no isquémico, 355 (37%) de síndrome coronario agudo sin elevación del ST y 147 (15,3%) de síndrome coronario agudo con elevación del ST. El 54,6% de los pacientes presentaron cifras de lipoproteínas de alta densidad &lt; 40mg/dl y la prevalencia fue más elevada entre los pacientes con síndrome coronario agudo (el 69,4 frente al 30,6%; p&lt;0,01). Se observó mayor presencia de síndrome coronario agudo a menores cifras medias de lipoproteínas de alta densidad. Edad, tabaquismo activo, diabetes mellitus, glucemia basal &gt; 100mg/dl y concentraciones de lipoproteínas de alta densidad &lt; 40mg/dl se asociaron independientemente a la presencia de síndrome coronario agudo, el factor con mayor asociación (odds ratio=4,11; intervalo de confianza del 95%, 2,87-5,96). El análisis de supervivencia determinó que los pacientes con síndrome coronario agudo, frente a dolor torácico no isquémico, asociaron un riesgo significativamente superior de mortalidad por cualquier causa, así como por causa cardiovascular. Conclusiones. Las concentraciones bajas de colesterol unido a las lipoproteínas de alta densidad (&amp;#8804; 40mg/dl) se asociaron de manera independiente a diagnóstico de síndrome coronario agudo en pacientes ingresados por dolor torácico, con una relación inversa significativa entre los valores más bajos de lipoproteínas de alta densidad y el diagnóstico de síndrome coronario agudo (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;65(4): 326-333, abr. 2012. tab, ilus</dc:source>
+<dc:identifier>ibc-99681</dc:identifier>
+<dc:title xml:lang="es">Insuficiencia cardiaca en el infarto agudo de miocardio: comparación de pacientes con o sin criterios de insuficiencia cardiaca del registro FAST-MI</dc:title>
+<dc:subject>^d2355^s22012</dc:subject>
+<dc:subject>^d30047^s22066</dc:subject>
+<dc:subject>^d23771^s22066</dc:subject>
+<dc:subject>^d9395^s22012</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9395^s22016</dc:subject>
+<dc:subject>^d2355^s22016</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22832^s22073</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d22334^s22073</dc:subject>
+<dc:subject>^d9395^s29166</dc:subject>
+<dc:subject>^d10545^s22066</dc:subject>
+<dc:subject>^d9395^s22032</dc:subject>
+<dc:subject>^d6486^s22012</dc:subject>
+<dc:subject>^d6493^s22031</dc:subject>
+<dc:subject>^d23771^s22074</dc:subject>
+<dc:subject>^d10545^s22083</dc:subject>
+<dc:subject>^d6486^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201204</dc:date>
+</metadata>
+</record>
+</ibecs-document>

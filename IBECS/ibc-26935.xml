@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-26935</identifier>
+<setSpec>0214-3429</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">MDR efflux pumps and antimicrobial resistance</dc:title>
+<dc:creator>Sánchez Díaz, P</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>J.R. Prous, S.A.</dc:publisher>
+<dc:description xml:lang="es">Se denominan sistemas MDR (Multi Drug Resistance) a una serie de transportadores que son capaces de expulsar un amplio número de sustratos no relacionados estructuralmente entre sí. Este tipo de sistemas se describieron inicialmente en eucariotas a finales de los años 1980, pero cada vez se dispone de más ejemplos de sistemas MDR bacterianos implicados en la resistencia a los antimicrobianos. La expresión de estos sistemas MDR, al menos en condiciones de laboratorio, suele estar reprimida, aunque en ocasiones se permite una expresión inicial del sistema, causante en parte de la elevada resistencia intrínseca a los antimicrobianos de ciertos microorganismos. Además, la sobreexpresión de estos sistemas MDR, bien por la inducción de su expresión, bien como consecuencia de la aparición de mutaciones en sus elementos reguladores, también es importante en la resistencia adquirida. En esta revisión se han intentado resumir las características más importantes de los sistemas MDR descritos en bacterias gramnegativas, así como los mecanismos que regulan su expresión (AU)</dc:description>
+<dc:source>Rev Esp Quimioter;16(2): 172-187, jun. 2003.</dc:source>
+<dc:identifier>ibc-26935</dc:identifier>
+<dc:title xml:lang="es">Sistemas MDR y resistencia a los antimicrobianos</dc:title>
+<dc:subject>^d1449</dc:subject>
+<dc:subject>^d28070</dc:subject>
+<dc:subject>^d24667</dc:subject>
+<dc:subject>^d10730</dc:subject>
+<dc:subject>^d36323</dc:subject>
+<dc:subject>^d1717</dc:subject>
+<dc:subject>^d6241</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200306</dc:date>
+</metadata>
+</record>
+</ibecs-document>

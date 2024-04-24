@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-85290</identifier>
+<setSpec>0212-1972</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The usefulness of SNOMED CT in recording clinical information</dc:title>
+<dc:description xml:lang="en">SNOMED CT is a comprehensive and detailed clinical terminology, in Spanish, which can be used to represent clinically relevant information consistently. The Fuenlabrada University Hospital adopted SNOMED CT in their information systems; this paper describes the implementation process and results (AU) </dc:description>
+<dc:creator>Gómez Delgado, A</dc:creator>
+<dc:creator>Pereira Herrero, E</dc:creator>
+<dc:creator>Lechuga Suárez, L. A</dc:creator>
+<dc:creator>Serrano, Pablo</dc:creator>
+<dc:creator>Navalón Cebrián, R</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">SNOMED CT es una terminología clínica comprensiva y detallda, en español, que puede utilizar para repesentar información puede utlizar para representar información clínica relevante de forma constante. El Hospital Universitario de Fuenlabrada ha adoptado SNOMED CT en sus sitemas de información mediante dos métodos. Se han selecciondo conceptos prioritarios de  HCE: problemas, procedimientos, alertas y medicamentos, consturyéndose subconjuntos de los valoresposibles, que son implementados en interfce o como referenica con mapeos a los términos locales, dependiendo de las funcionalidades de las aplicaciones actuaes. Por otra parte, las especificaciones de datos clínicos detallados, como los formularios, se represenan mediante arquetipos y se enlazan con SNOMED CT (AU)</dc:description>
+<dc:source>Todo hosp;(258): 461-466, jul.-ago. 2009. ilus, tab</dc:source>
+<dc:identifier>ibc-85290</dc:identifier>
+<dc:title xml:lang="es">Utilidad de SNOMED CT en el registro de la información clínica</dc:title>
+<dc:subject>^d37718</dc:subject>
+<dc:subject>^d29453^s22048</dc:subject>
+<dc:subject>^d28219^s22048</dc:subject>
+<dc:subject>^d33196^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200908</dc:date>
+</metadata>
+</record>
+</ibecs-document>

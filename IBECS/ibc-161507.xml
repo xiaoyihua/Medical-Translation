@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-161507</identifier>
+<setSpec>0210-5705</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Comparison of the prognostic value of Chronic Liver Failure Consortium scores and traditional models for predicting mortality in patients with cirrhosis</dc:title>
+<dc:description xml:lang="en">Background and aim: Recently, the European Association for the Study of the Liver - Chronic Liver Failure (CLIF) Consortium defined two new prognostic scores, according to the presence or absence of acute-on-chronic liver failure (ACLF): the CLIF Consortium ACLF score (CLIF-C ACLFs) and the CLIF-C Acute Decompensation score (CLIF-C ADs). We sought to compare their accuracy in predicting 30- and 90-day mortality with some of the existing models: Child-Turcotte-Pugh (CTP), Model for End-Stage Liver Disease (MELD), MELD-Na, integrated MELD (iMELD), MELD to serum sodium ratio index (MESO), Refit MELD and Refit MELD-Na. Methods: Retrospective cohort study that evaluated all admissions due to decompensated cirrhosis in 2 centers between 2011 and 2014. At admission each score was assessed, and the discrimination ability was compared by measuring the area under the ROC curve (AUROC). Results: A total of 779 hospitalizations were evaluated. Two hundred and twenty-two patients met criteria for ACLF (25.9%). The 30- and 90-day mortality were respectively 17.7 and 37.3%. CLIF-C ACLFs presented an AUROC for predicting 30- and 90-day mortality of 0.684 (95% CI: 0.599-0.770) and 0.666 (95% CI: 0.588-0.744) respectively. No statistically significant differences were found when compared to traditional models. For patients without ACLF, CLIF-C ADs had an AUROC for predicting 30- and 90-day mortality of 0.689 (95% CI: 0.614-0.763) and 0.672 (95% CI: 0.624-0.720) respectively. When compared to other scores, it was only statistically superior to MELD for predicting 30-day mortality (p=0.0296). Conclusions: The new CLIF-C scores were not statistically superior to the traditional models, with the exception of CLIF-C ADs for predicting 30-day mortality (AU)</dc:description>
+<dc:creator>Gião Antunes, Artur</dc:creator>
+<dc:creator>Teixeira, Cristina</dc:creator>
+<dc:creator>Martins, Cláudio</dc:creator>
+<dc:creator>Velasco, Francisco</dc:creator>
+<dc:creator>Margarida Vaz, Ana</dc:creator>
+<dc:creator>Oliveira, Ana Paula</dc:creator>
+<dc:creator>Alves, Ana</dc:creator>
+<dc:creator>Guerreiro, Horácio</dc:creator>
+<dc:creator>Peixe, Bruno</dc:creator>
+<dc:creator>Queirós, Patrícia</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Antecedente y objetivos: Recientemente The European Association for the Study of the Liver-Chronic Liver Failure Consortium estableció 2 nuevos sistemas pronósticos considerando la existencia o no de Acute-on-chronic liver failure (ACLF): el score CLIF Consortium ACLF (CLIF-C ACLF) y el CLIF-C Acute Descompensation score (CLIF-C ADs). Pretendimos comparar su fiabilidad para predecir la mortalidad a los 30 y 90 días con la de algunos de los sistemas de puntuación existentes: Child-Turcotte-Pugh, Model for End-Stage Liver Disease (MELD), MELD-Na, integrated MELD, MELD to serum sodium ratio index, Refit MELD y Refit MELD-Na. Métodos: Estudio retrospectivo de cohortes incluyendo todos los pacientes con cirrosis ingresados en 2 centros entre 2011 y 2014 por descompensación de su enfermedad. En el momento de la admisión cada puntación fue calculada y fueron comparadas las áreas bajo la curva ROC (AUROC) para evaluar su capacidad de discriminación respecto a la mortalidad a los 30 y 90 días. Resultados: Fueron analizadas un total de 779 hospitalizaciones. Doscientos y veintidós pacientes cumplían criterios para ACLF (25,9%). La mortalidad a los 30 y 90 días fue de 17,7% y 37,3% respectivamente. En los pacientes con ACLF el AUROC del CLIF-C ACLF para predecir la mortalidad a los 30 y 90 días fue 0,684 (IC 95%: 0,599-0,770) y 0,666 (IC 95%: 0,588-0,744) respectivamente. No se encontraron diferencias significativas con los modelos tradicionales. En los pacientes sin ACLF, el AUROC del CLIF-C ADs para predecir la mortalidad a los 30 y 90 días fue 0,689 (IC 95%: 0,614-0,763) y 0,672 (IC 95%: 0,624-0,720) respectivamente. Únicamente fue estadísticamente superior al MELD para predecir la mortalidad a los 30 días (p=0,0296). Conclusiones: Los nuevos modelos CLIF-C no fueron superiores estadísticamente a los modelos tradicionales, con la excepción del CLIF-C ADs en la predicción de la mortalidad a los 30 días (AU)</dc:description>
+<dc:source>Gastroenterol Hepatol;40(4): 276-285, abr. 2017. tab</dc:source>
+<dc:identifier>ibc-161507</dc:identifier>
+<dc:title xml:lang="es">Comparación del valor pronóstico de los modelos del Chronic Liver Failure Consortium y modelos tradicionales para predecir la mortalidad en pacientes con cirrosis</dc:title>
+<dc:subject>^d24890</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d38622^s22047</dc:subject>
+<dc:subject>^d8285^s22083</dc:subject>
+<dc:subject>^d8276^s22047</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201704</dc:date>
+</metadata>
+</record>
+</ibecs-document>

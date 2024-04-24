@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-131342</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cost-utility analysis of triple therapy with telaprevir in treatment-naïve hepatitis C patients</dc:title>
+<dc:description xml:lang="en">Introduction: The prevalence of Hepatitis C (HCV) in Spain is 2,5%, with a high morbimortality rate. Triple therapy based on telaprevir plus peginterferon/ribavirin ([T/PR]) has demonstrated to be an effective approach in treatment-naïve G1-HCV patients. This analysis evaluated, through a Markov model, the incremental cost-effectiveness ratio of triple therapy compared to peginterferon/ribavirin ([PR]) alone in naive patients depending on fibrosis stage, from the Spanish Healthcare Authorities perspective. Methods: Efficacy results and adverse events incidence were based on the combined results of ADVANCE and OPTIMIZE studies. Adverse events and disease-related costs (&#128;, 2014) were built up from panel expert opinion except from transplant and post-transplant costs, taken from published data. Drug costs were obtained from national databases and adjusted for the mandatory deduction. Outcomes and costs were both discounted at 3%/year. Results: The analysis shows higher costs and improved outcomes associated with [TR/PR] relative to [PR] alone, resulting ln an incremental cost-effectiveness ratio (ICER) of &#128;18,288/ QALY for all the cohort, &#128;14,152QALY for moderate fibrosis, &#128;11,364QALY for bridging fibrosis, &#128;15,929/QALY for cirrhosis. Over a lifetime period, the use of [T/PR] could avoid 12 cirrhosis and 4 liver transplants per 1,000 patients compared to [PR] alone. The probabilistic analysis, following 10,000 Montecarlo simulations, demonstrated the probability of an ICER below a &#128;30,000/QALY gained threshold of 69%. At a willingness-to-pay of &#128;30,000/QALY, [T/PR] could be considered as an efficient option compared with [PR] alone for treatment-naíve genotype 1 HCV patients, over a lifetime horizon (AU)</dc:description>
+<dc:creator>Andrade, Raúl J</dc:creator>
+<dc:creator>Casado, Miguel A</dc:creator>
+<dc:creator>Gros, Blanca</dc:creator>
+<dc:creator>Buti, Maria</dc:creator>
+<dc:creator>Oyagüez, Itziar</dc:creator>
+<dc:creator>Serra, Miguel A</dc:creator>
+<dc:creator>Turnes, Juan</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: En España, con una prevalencia del 2,5%, la hepatitis C (VHC) se asocia a una elevada morbi-mortalidad. El tratamiento combinado de telaprevir y peginterferon/ribavirina([T/PR]) es eficaz en pacientes con VHC-G1. El objetivo primario de este estudio fue evaluar la relación coste-utilidad (RCUI) de [T/PR] versus peginterferon alfa 2a/ribavirina ([PR])en pacientes naïve VHC-G1, según el grado de fibrosis y bajo la perspectiva del sistema sanitario español. Metodología: La eficacia y la incidencia de efectos adversos (EAs) se obtuvieron de los estudios ADVANCE y OPTIMIZE. La estimación de los costes de monitorización, de manejo de EAs y de la enfermedad por estados de salud (&#128;, 2014) fueron proporcionados por el panel de expertos, según bases de costes nacionales, excepto el coste de trasplante y post-trasplante obtenido de publicaciones. Se aplicó la deducción obligatoria a los costes farmacológicos (precio de venta del laboratorio).La tasa de descuento considerada para los costes y beneficios fue 3% anual. Resultados: [T/PR] proporcionó mejores resultados en salud (0,96 Años de Vida Ajustados por Calidad, AVAC) y mayor coste (17.495&#128;) comparado con [PR], resultando una RCUI de [T/PR] versus [PR] de 18.288&#128;/AVAC para toda la cohorte,14.152&#128;/AVAC para fibrosis moderada, 11.364&#128;/AVAC parafibrosis en puentes y 15.929&#128;/AVAC para cirrosis. Considerando toda la vida del paciente, [T/PR] podría evitar 12 cirrosis y 4 trasplantes cada 1.000 pacientes. Con una RCUI inferior a 30.000&#128;/AVAC en el 69% de las simulaciones del análisis probabilístico [T/PR] sería eficiente versus [PR] en pacientes naïve, independientemente del grado de fibrosis (AU)</dc:description>
+<dc:source>Farm Hosp;38(5): 418-429, sept.-oct. 2014. ilus, tab</dc:source>
+<dc:identifier>ibc-131342</dc:identifier>
+<dc:title xml:lang="es">Análisis coste-utilidad de la triple terapia con telaprevir enpacientes con hepatitis C no tratados previamente</dc:title>
+<dc:subject>^d30313</dc:subject>
+<dc:subject>^d29469^s22073</dc:subject>
+<dc:subject>^d33344^s22057</dc:subject>
+<dc:subject>^d5974</dc:subject>
+<dc:subject>^d4400</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12663^s22073</dc:subject>
+<dc:subject>^d11924^s22073</dc:subject>
+<dc:subject>^d1002^s22073</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201410</dc:date>
+</metadata>
+</record>
+</ibecs-document>

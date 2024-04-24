@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-041034</identifier>
+<setSpec>0212-6982</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Influence of photon scattering on the quantification of relative changes in longitudinal brain PET studies with 18F-FDG</dc:title>
+<dc:description xml:lang="en">Aim: To study the effect of photon scattering on the quantification of relative changes of 18F-FDG uptake in longitudinal brain PET studies.         Materials and methods: Two studies from a numerical Zubal phantom were simulated. One of these was a basal reference study and the other was an activated study showing an increase or decrease in the uptake in a region of the anterior cingulated cortex. SimSET Monte Carlo code was used to simulate PET sinograms. Primary photons, which did not undergo interactions, and scattered photons, which underwent one or more interactions, were stored in separate files to assess the effect of scattering. Reconstruction was carried out using an iterative algorithm based on ordered subsets of projections (OSEM-2D). The relative changes in uptake were calculated from images reconstructed with all the photons (primary and scattered) and from images reconstructed with only primary photons.         Results: A linear relationship between the calculated and theoretical values was obtained both for the images reconstructed with all the photons and for those reconstructed with primary photons. Our findings show a relative change recovery of 79 % +- 0.4 % for all photons and 91 % +- 0.5 % for primary photons only.         Conclusions: Our results highlight subestimation of relative changes of 12 % +- 0.7 % when scattered photons are used. Thus the importance of correcting this degradation in order to improve quantification is shown</dc:description>
+<dc:creator>Crespo Vázquez, C</dc:creator>
+<dc:creator>Lomeña Caballero, F</dc:creator>
+<dc:creator>Cot Sanz, A</dc:creator>
+<dc:creator>Aguiar Fernández, P</dc:creator>
+<dc:creator>Falcón Falcón, C</dc:creator>
+<dc:creator>Pavía Segura, J</dc:creator>
+<dc:creator>Ros Puig, D</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Estudiar el efecto de la dispersión de fotones en la cuantificación de los cambios relativos en estudios longitudinales de tomografía por emisión de positrones (PET) cerebral utilizando 18F-FDG.         Material y métodos: Se utilizó un maniquí numérico de Zubal y se simularon dos estudios, uno de referencia (basal) y otro en el que había un aumento/disminución de la captación en una región situada en el córtex cingulado anterior. Para obtener los sinogramas se utilizó SimSET, un código Monte Carlo que permite la simulación de estudios de tomografía de emisión. Para evaluar el efecto de la dispersión se almacenaron en ficheros separados los fotones primarios que no sufren ningún tipo de interacción y los fotones dispersados después de producirse una o más interacciones. La reconstrucción se realizó utilizando un algoritmo iterativo basado en subconjuntos ordenados OSEM-2D. Se calcularon los cambios relativos de captación a partir de las imágenes reconstruidas con fotones totales (primarios y dispersados) y de las obtenidas únicamente con fotones primarios.         Resultados: Se obtuvo una relación lineal entre los valores de cambio relativo calculados y los teóricos, tanto para imágenes con fotones totales como con fotones primarios. En el caso en el que se consideraron sólo fotones primarios la recuperación del cambio relativo fue del 91 % +- 0,5 %, mientras que la presencia de fotones dispersados produce una recuperación del 79 % +- 0,4 %.         Conclusiones: Nuestros resultados muestran que la presencia de fotones dispersados producen una subestimación de los valores de captación relativa del 12 % +- 0,7 % y, en consecuencia, evidencian la importancia de la corrección de esta degradación para mejorar la exactitud de la cuantificación</dc:description>
+<dc:source>Rev Esp Med Nucl;24(6): 404-409, nov.-dic. 2005. ilus, graf</dc:source>
+<dc:identifier>ibc-041034</dc:identifier>
+<dc:title xml:lang="es">Influencia de la dispersión de fotones en la cuantificación de cambios relativos en estudios longitudinales de PET cerebral con 18F-FDG</dc:title>
+<dc:subject>^d24339</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d31183</dc:subject>
+<dc:subject>^d14065^s22058</dc:subject>
+<dc:subject>^d28176</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200511</dc:date>
+</metadata>
+</record>
+</ibecs-document>

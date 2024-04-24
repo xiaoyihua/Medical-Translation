@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-127044</identifier>
+<setSpec>0211-139X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Development of a risk-mortality index for elderly patients discharged from a Geriatric Acute Care Unit</dc:title>
+<dc:description xml:lang="en">Objectives. To identify predictive factors for 6 and 12-months mortality after discharge from a geriatric acute care unit, and from these, derive a mortality-risk index. Methods and analysis. Prospective cohort study will be conducted on patients over 70 years-old admitted to a geriatric acute care unit and survived to hospital discharge. The main outcome measure will be mortality at 6 months and 12 months after discharge. Independent variables include sociodemographics, functional status, comorbidities, and clinical and laboratory characteristics. Risk factors associated with mortality will be constructed using multivariate logistic regression models. To build the mortality index, points will be assigned to each risk factor by dividing each beta coefficient in the logistic model by the lowest beta coefficient. A score will be assigned to each subject by adding up the points for each risk factor present in the model. The predictive accuracy of the model will be determined by comparing the predicted versus observed mortality in the study population and calculating the area under the ROC curves in both populations. Conclusions. The risk-mortality index developed would allow an easy estimate to be made of individual risk of death at 6 months and 12 months after discharge from a geriatric acute care unit, with the purpose of establishing care plans and individualising treatment, according to real objectives (AU)</dc:description>
+<dc:creator>Soria, Selene</dc:creator>
+<dc:creator>Vidan, Maite</dc:creator>
+<dc:creator>Ortiz, Javier</dc:creator>
+<dc:creator>Gallego, Eva</dc:creator>
+<dc:creator>Serra-Rexach, José Antonio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Desarrollar un índice capaz de estimar el riesgo individual de muerte a los 6 meses y un año, de los pacientes dados de alta de una Unidad de Agudos de Geriatría. Metodología y análisis. Estudio cohorte, prospectivo. Pacientes mayores de 70 años que ingresaron en una Unidad de Agudos de Geriatría y sobrevivieron al alta hospitalaria. El índice se construirá con el 75% de la muestra obtenida de forma aleatorizada y se validará con el 25% restante. La variable dependiente es la mortalidad a los 6 y 12 meses del alta hospitalaria. Las variables independientes incluyen datos sociodemográficos, estado funcional, comorbilidades, características clínicas y de laboratorio. Se utiliza el modelo de regresión logística multivariante para analizar la relación entre los factores de riesgo y mortalidad. Para construir el índice, la puntuación de cada factor de riesgo se determinará dividiendo cada coeficiente beta por el menor, y la puntuación de riesgo de cada paciente se hará sumando los puntos de cada factor. La precisión de este modelo predictivo se analizará comparando la mortalidad predicha versus la observada en la población de validación y calculando el área bajo las curvas ROC tanto en la población de construcción del índice como en la validación. Conclusiones. El índice predictor de mortalidad desarrollado nos permitirá estimar de forma sencilla el riesgo individual de fallecer a los 6 y 12 meses siguientes al alta de una Unidad de Agudos de Geriatría, con la finalidad de establecer planes de cuidados e individualizar tratamientos, según los objetivos realistas (AU)</dc:description>
+<dc:source>Rev. esp. geriatr. gerontol. (Ed. impr.);49(5): 223-227, sept.-oct. 2014.</dc:source>
+<dc:identifier>ibc-127044</dc:identifier>
+<dc:title xml:lang="es">Elaboración de una herramienta para la estimación del riesgo de mortalidad a corto y medio plazo tras el alta de una Unidad de Hospitalización de Agudos de Geriatría</dc:title>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d50061</dc:subject>
+<dc:subject>^d28418</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d16836</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d28561^s22047</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d32048^s22074</dc:subject>
+<dc:subject>^d23933</dc:subject>
+<dc:subject>^d32048^s22066</dc:subject>
+<dc:subject>^d32048^s22045</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d28561^s22080</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d6916^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201410</dc:date>
+</metadata>
+</record>
+</ibecs-document>

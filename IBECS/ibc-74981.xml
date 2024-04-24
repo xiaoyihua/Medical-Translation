@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-74981</identifier>
+<setSpec>1132-9572</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">EEG and EKG frequency modification in obstructive apneas</dc:title>
+<dc:description xml:lang="en">Objective. This work studies the changes in heart rate (HR) (autonomical arousal) and in electroencephalogram activity (cortical arousal) related with Sleep Apnea-Hipopnea Syndrome (OSAS). Subjects and method. 30 polygraph recordings from patients suffering OSAS (apnea-hipopnea index &gt; 10) were analysed. Two detectors were developed: one to determine the temporal limits of the apnea episodes and another to obtain the hearth rhytme. The analysis of each event (n=2,455) was started twelve seconds previous ended until nine seconds after its termination. Results. The hearth rate (HR) and the mean frequency (FM) showed a similar change, a decrease during the apnea and an increase afeter the end, but the FM modifications are lowest and retarded than the HR modifications. Conclusion. According to the results obtained there are a relationship in both cortical and autonomic arousal, but the out of fhase between them may be expression the temporal hierarchy in both responses. More studies will be need for to better understand this phenomenon (AU)</dc:description>
+<dc:creator>Benetó, A</dc:creator>
+<dc:creator>Rosado, A</dc:creator>
+<dc:creator>Guerrero, J</dc:creator>
+<dc:creator>Rubio, P</dc:creator>
+<dc:creator>Bataller, M</dc:creator>
+<dc:creator>Gómez, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos. En este estudio se analizó la modificación en las frecuencias cardíaca (como índice de arousal autonómico) y electroencefalográfica (EEG) (como índice de arousal cortical) relacionadas con la apnea obstructiva del sueño (AOS), que pueda ayudar a un mejor reconocimiento y definición del arousal, así como a su implicación en los síntomas cardiovasculares y en la somnolencia diurna de los pacientes con síndrome de apnea obstructiva durante el sueño. Sujetos y método. Se estudiaron las modificaciones en la frecuencia cardíaca y en la actividad bioeléctrica cerebral relacionadas con la apnea obstructiva (AO) en 30 pacientes con índice de apnea/hipopnea &gt; 10. Para el procesado de la señal, se desarrollaron un detector de límites temporales de la apnea y otro del ritmo cardíaco (RC). Para cada apnea (n = 2.455) se analizó el RC y la frecuencia media (FM) del espectro EEG en los 12 últimos segundos previos al cese y los 9 s posteriores. Resultados. Ambos parámetros muestran un decremento durante los segundos finales de la apnea obstructiva, y un incremento tras el cese. Para la FM-EEG el incremento es más lento y de menor magnitud que para el RC, y alcanza el valor máximo entre 3 y 6 s después del cese de la apnea obstructiva. Conclusión. Los resultados obtenidos muestran una asociación de las respuestas autonómica y cortical en el cese de la apnea, con un desfase temporal entre ellas indicativo de una jerarquía en la aparición de ambas respuestas, que se beneficia de la detección automática, pero que requiere una validación más exhaustiva (AU)</dc:description>
+<dc:source>Vigilia sueño;19(1): 25-31, ene. 2007. tab, ilus</dc:source>
+<dc:identifier>ibc-74981</dc:identifier>
+<dc:title xml:lang="es">Modificación de la frecuencia del electroencefalograma y del ritmo cardíaco en apneas obstructivas</dc:title>
+<dc:subject>^d4641^s22074</dc:subject>
+<dc:subject>^d13440^s22045</dc:subject>
+<dc:subject>^d4641^s22066</dc:subject>
+<dc:subject>^d13440^s22066</dc:subject>
+<dc:subject>^d34202^s29166</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d34202^s22016</dc:subject>
+<dc:subject>^d34202^s22012</dc:subject>
+<dc:subject>^d30611^s22074</dc:subject>
+<dc:subject>^d2966^s22031</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d6493^s22031</dc:subject>
+<dc:subject>^d30611^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200701</dc:date>
+</metadata>
+</record>
+</ibecs-document>

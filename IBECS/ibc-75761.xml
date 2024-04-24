@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-75761</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Using information technology to improve drug safety in primary care</dc:title>
+<dc:description xml:lang="en">PurposeTo help family doctors to detect and prevent problems related to drug-drug interactions in order to attain a higher quality prescription and an improvement in patient safety.MethodsUncontrolled study of an intervention based on quality evaluation and improvement methods.SettingTwo health areas in Murcia Region (Spain).PatientsSubjects appointed to 139 family doctors regularly using electronic clinical records (including doctors who were producing over 100 electronic prescriptions per week: 188,953 subjects and 334.088 prescriptions at the start, and 202,988 subjects and 335.198 prescriptions at the end of study). Intervention: (1) A software able to collect patients who had clinically important drug-drug interactions those that should be avoided (BOT I+II) was designed. (2) A report on these interactions was drawn up and delivered periodically to every single doctor, including patient identification and information on the drugs involved, possible consequences, and recommendations about what to do. (3) Clinical and educative sessions given by a trained pharmacist were carried out in doctors&#146; health centre coinciding with their delivery.ResultsDrug-drug interactions pre-intervention: prevalence 1.29%; by patient at risk 6.57%; by doctor 20.2. Post-intervention: prevalence 1.06% (improvement 17.6%, P&lt;.000001), by patient at risk 5.17% (improvement 21.4%, P&lt;.000001), by doctor 17.7 (improvement 12.1, P&lt;.001).ConclusionsDeveloping this technology leads to progress in patient safety, therefore it should be extended to all our family doctors. Other technologies such as an electronic alert when prescribing should be considered, particularly for either higher frequency or important consequences interactions(AU)</dc:description>
+<dc:creator>López-Picazo, J. J</dc:creator>
+<dc:creator>Aguilera, B</dc:creator>
+<dc:creator>Lázaro, M. D</dc:creator>
+<dc:creator>Sánchez, J. F</dc:creator>
+<dc:creator>Sanz, G. R</dc:creator>
+<dc:creator>Ruiz,  J. C</dc:creator>
+<dc:creator>Ariza, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">ObjetivoAyudar a los médicos de familia a detectar y a prevenir problemas relacionados con interacciones medicamentosas para lograr una prescripción de más calidad y mejorar la seguridad de los pacientes.Material y métodosEstudio de intervención no controlado basado en metodología de evaluación y mejora de calidad. Emplazamiento: 2 áreas de salud de la Región de Murcia. Participantes: pacientes de 139 médicos de familia que utilizan habitualmente la historia clínica electrónica (más de 100 prescripciones electrónicas por semana: 188.353 individuos y 334.088 prescripciones al inicio del estudio y 202.988 individuos y 335.198 prescripciones al final del estudio). Intervención: 1) diseño de un programa informático detector de pacientes con interacciones clínicamente importantes que deberían evitarse (tipos 1 y 2 de la base de datos del Colegio Oficial de Farmacéuticos); 2) elaboración automatizada de un informe sobre éstas para cada médico, que incluye identificación del paciente, medicamentos, evidencias disponibles y recomendaciones de actuación, y 3) realización de sesiones clínicas por farmacéutico entrenado en el centro de salud coincidentes a su entrega.ResultadosInteracciones preintervención: prevalencia del 1,29%; por paciente en riesgo el 6,57% y por médico de familia el 20,2%. Postintervención: prevalencia del 1,06% (mejora del 17,6%; p&lt;0,000001); por paciente en riesgo el 5,17% (mejora del 21,4%; p&lt;0,000001) y por médico de familia el 17,7 (mejora del 12,1%; p&lt;0,001).ConclusionesImplantar este tipo de tecnología puede ser útil para la seguridad del paciente, por lo que debería extenderse a todos nuestros médicos. Deben valorarse otras tecnologías, como sistemas de alerta electrónica concurrentes con la prescripción para las interacciones de especial frecuencia o trascendencia(AU)</dc:description>
+<dc:source>Rev. calid. asist;25(1): 12-20, ene.-feb. 2010. ilus, tab</dc:source>
+<dc:identifier>ibc-75761</dc:identifier>
+<dc:title xml:lang="es">Uso de tecnologías de la información para mejorar la seguridad de la prescripción en Atención Primaria</dc:title>
+<dc:subject>^d34589^s22083</dc:subject>
+<dc:subject>^d50063</dc:subject>
+<dc:subject>^d4408^s22049</dc:subject>
+<dc:subject>^d^s22083</dc:subject>
+<dc:subject>^d34589^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22519^s22074</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d11253^s22074</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22519^s22066</dc:subject>
+<dc:subject>^d5298^s22049</dc:subject>
+<dc:subject>^d11756^s22083</dc:subject>
+<dc:subject>^d11253^s22066</dc:subject>
+<dc:subject>^d52955^s22083</dc:subject>
+<dc:subject>^d7432^s22049</dc:subject>
+<dc:subject>^d52955^s22049</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d11756^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201002</dc:date>
+</metadata>
+</record>
+</ibecs-document>

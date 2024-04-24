@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-26208</identifier>
+<setSpec>1699-8855</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Static telepathology</dc:title>
+<dc:creator>Reyes Casado,  Yolanda</dc:creator>
+<dc:creator>Alfaro Ferreres, Luis</dc:creator>
+<dc:creator>Poblet Martínez, Enrique</dc:creator>
+<dc:creator>Pascual Martín, Alejandro</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Sociedad Española de Anatomía Patológica</dc:publisher>
+<dc:description xml:lang="es">La telepatología es la transmisión de imágenes digitales de anatomía patológica por sistemas de telecomunicación, y con fines de consulta, diagnóstico, investigación, o docencia. La telepatología estática utiliza imágenes fijas, mientras que la dinámica se basa en el envió de imágenes obtenidas mediante videocámara. La telepatología estática comienza con la selección por un patólogo de las imágenes demostrativas de una lesión. Posteriormente las imágenes deben ser procesadas y comprimidas, lo que permite mejorar su calidad diagnóstica y, fundamentalmente su tamaño, para que puedan ser enviadas de forma efectiva por vías de comunicación con anchos de banda limitados. En este artículo se analizan todas estas etapas y sus aspectos técnicos. En la actualidad, la telepatología estática cuenta con un papel dentro de la patología diagnóstica, aunque este papel es todavía limitado. En otros campos, como la docencia, foros de discusión y consulta de imágenes de casos, la telepatología estática cuenta con una amplia aceptación (AU)</dc:description>
+<dc:source>Rev. esp. patol;36(3): 257-266, jul. 2003. ilus</dc:source>
+<dc:identifier>ibc-26208</dc:identifier>
+<dc:title xml:lang="es">Telepatología estática</dc:title>
+<dc:subject>^d33921^s22074</dc:subject>
+<dc:subject>^d19200^s22045</dc:subject>
+<dc:subject>^d22878^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d32595^s22045</dc:subject>
+<dc:subject>^d30481^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200307</dc:date>
+</metadata>
+</record>
+</ibecs-document>

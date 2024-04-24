@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-5258</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Pharmaceutical interventions (part II): validation of the methodology used to measure impact</dc:title>
+<dc:creator>Sala Esteban, M. L</dc:creator>
+<dc:creator>Clopés Estela, A</dc:creator>
+<dc:creator>Gámez Lechuga, M</dc:creator>
+<dc:creator>Ramos, J</dc:creator>
+<dc:creator>Farré Riba, R</dc:creator>
+<dc:creator>Castro Cells, L</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Arán Ediciones, S.A.</dc:publisher>
+<dc:description xml:lang="es">El objetivo del presente estudio es validar la metodología de evaluación y documentación de las intervenciones realizadas por el farmacéutico para definir un instrumento estandarizado y homogéneo aplicable en la práctica clínica diaria. Para llevar a cabo esta validación se seleccionaron aleatoriamente 15 intervenciones de las realizadas y codificadas previamente para su posterior recodificación por farmacéuticos adjuntos del propio hospital y de diferentes hospitales externos. La concordancia en la clasificación de las intervenciones se evaluó mediante la prueba kappa o mediante la prueba rho de Spearman. Los valores de kappa para el código de tipo de intervención y de impacto fueron 0,790 y 0,826 entre los farmacéuticos del servicio y 0,699 y 0,691 entre los externos, respectivamente. El valor del coeficiente de Spearman para el código de significación fue 0,480 (p &lt; 0,01) entre los farmacéuticos del servicio y 0,390 (p &lt; 0,01) entre los externos. La metodología validada presentada en este trabajo sirve de base para evaluar el impacto de las intervenciones del farmacéutico de forma continuada (AU)</dc:description>
+<dc:source>Farm Hosp;24(4): 215-220, jul. 2000. tab, graf</dc:source>
+<dc:identifier>ibc-5258</dc:identifier>
+<dc:title xml:lang="es">Intervenciones farmacéuticas (parte ii): validación de la metodología utilizada para medir el impacto</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d11016^s22048</dc:subject>
+<dc:subject>^d2990^s22045</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d29623</dc:subject>
+<dc:subject>^d32016</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200007</dc:date>
+</metadata>
+</record>
+</ibecs-document>

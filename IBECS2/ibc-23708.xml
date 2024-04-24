@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-23708</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Health services utilization according to gender in a cohort of intravenous drug users infected with HIV</dc:title>
+<dc:creator>Hernández Aguado, Ildefonso </dc:creator>
+<dc:creator>Pérez-Hoyos, Santiago</dc:creator>
+<dc:creator>Ruiz, Isabel</dc:creator>
+<dc:creator>García de la Hera, Manuela</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">FUNDAMENTO Y OBJETIVO: Se han descrito diferencias por sexo tanto en el uso de los servicios como en el acceso a los tratamientos antirretroviral y profiláctico en personas infectadas por el virus de la inmunodeficiencia humana (VIH). El objetivo de este estudio es determinar las características del uso de los servicios de salud según el sexo en usuarios de drogas por vía parenteral (UDVP) con infección por el VIH. PACIENTES Y MÉTODO: Cohorte prospectiva de UDVP que incluyó a 926 sujetos infectados por el VIH en su primera visita, entre enero de 1987 y diciembre de 1996. Generaron 3.429 visitas en distintos servicios sanitarios. Se ajustaron modelos de regresión logística utilizando métodos robustos para estimar las odds ratio (OR). RESULTADOS: De las 926 personas estudiadas, el 25,4 por ciento eran mujeres. Aunque no hubo diferencias relevantes por sexo en el uso de los distintos servicios sanitarios, desde la introducción de los tratamientos antirretrovirales de gran actividad, los varones han tenido menos ingresos hospitalarios que las mujeres (OR = 0,50; intervalo de confianza [IC] del 95 por ciento, 0,25-0,99). Desde la introducción de estos tratamientos se ha detectado una mayor prescripción a los varones de tratamiento antirretroviral (OR = 1,30; IC del 95 por ciento, 0,97-1,24), profilaxis de tuberculosis (OR = 2,22; IC del 95 por ciento, 1,24-4,16) y de Pneumocystis carinii (OR = 1,50; IC del 95 por ciento, 1,171,91). Estas asociaciones se atenuaron al ajustar por variables sociodemográficas y de estado clínico, excepto para la profilaxis de P. carinii. CONCLUSIÓN: No hay diferencias relevantes por sexo en el cuidado de la enfermedad por el VIH. Los beneficios de los antirretrovirales de gran actividad pueden tener un impacto menor a corto plazo en las mujeres, dependiendo de la prescripción y de otras variables que deben confirmarse en estudios de seguimiento a más largo plazo (AU)</dc:description>
+<dc:source>Med. clín (Ed. impr.);120(13): 489-493, abr. 2003.</dc:source>
+<dc:identifier>ibc-23708</dc:identifier>
+<dc:title xml:lang="es">Utilización de servicios sanitarios segúnel sexo en una cohorte de usuarios de drogas por vía parenteral infectados por el virus de la inmunodeficiencia humana</dc:title>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d27830</dc:subject>
+<dc:subject>^d6447</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6448</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24718</dc:subject>
+<dc:subject>^d35395</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d24888</dc:subject>
+<dc:subject>^d33075</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200304</dc:date>
+</metadata>
+</record>
+</ibecs-document>

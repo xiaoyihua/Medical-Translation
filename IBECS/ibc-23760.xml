@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-23760</identifier>
+<setSpec>0034-0618</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Differential insulin signaling involved in skeletal muscle development</dc:title>
+<dc:creator>Lorenzo, Margarita</dc:creator>
+<dc:creator>Conejo, Rubén</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Real Academia de Farmacia</dc:publisher>
+<dc:description xml:lang="es">En músculo esquelético, la expresión de proteínas codificadas por oncogenes virales y celulares, donde se incluyen ciertas tirosina quinasas (v-src), ciertos factores de transcripción (myc, fos, jun) y formas activas de mediadores de las rutas de señalización acopladas a las proteínas G (H-ras, N-ras), inhiben el proceso de diferenciación muscular. En la línea celular C2C12 transformada con Ras activo no se produce la activación de las rutas P13 quinasa/Akt/p70S6 quinasa y p38 MAP quinasa, necesarias para la activación del factor de transcripción NF-KB durante el proceso de diferenciación muscular. Además presenta una elevada actividad de p44/p42 MAP quinasa y del factor de transcripción AP-1, lo que impide la parada del ciclo celular. Esto hace que fracase el proceso de diferenciación muscular (no se produce la activación de la Creatina quinasa, la expresión de la Caveolina 3 y la formación de miotubos multinucleados). El tratamiento de esta línea celular, transformada por v-ras, con el PD098058, inhibidor de MEK-1, produce la parada del ciclo celular necesaria para el proceso de diferenciación muscular, pero provoca un efecto apoptótico que impide que los mioblastos diferencien. La adición de insulina junto con PD098058 impide dicho efecto apoptótico, se produce la parada del ciclo celular, se induce la activación de las rutas P13 quinasa/Akt/p70S6 quinasa y p38 MAP quinasa, que llevan a la activación del factor de transcripción NF-KB y se produce la formación de miotubos multinucleados. Al igual que en el proceso de diferenciación de la línea celular C2C12, la activación de las rutas de la P13 quinasa y de p38 MAP quinasa es necesaria para la miogénesis de la línea celular transformada por v-ras, como hemos observado mediante el uso de inhibidores específicos de ambas rutas. Finalmente, una construcción constitutivamente activa de Akt (siempre en presencia de PD) es capaz de imitar a la insulina induciendo la miogénesis de la línea celular transformada por v-ras. Además en estas condiciones Akt constitutivamente activo induce: las rutas p70S6 quinasa y p38 MAP quinasa. (AU)</dc:description>
+<dc:source>An Real Acad Farm;68(2): 231-250, abr. 2002. ilus</dc:source>
+<dc:identifier>ibc-23760</dc:identifier>
+<dc:title xml:lang="es">Señalización diferencial de la insulina en el desarrollo del músculo esquelético</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d2489^s22031</dc:subject>
+<dc:subject>^d34487^s22031</dc:subject>
+<dc:subject>^d32124^s22014</dc:subject>
+<dc:subject>^d^s22031</dc:subject>
+<dc:subject>^d14549^s22031</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d7500^s22079</dc:subject>
+<dc:subject>^d32603^s22031</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200204</dc:date>
+</metadata>
+</record>
+</ibecs-document>

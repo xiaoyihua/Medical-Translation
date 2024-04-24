@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-107806</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Failure modes and effects analysis in the prescription, validation and dispensing process</dc:title>
+<dc:description xml:lang="en">Objective To apply a failure modes and effects analysis to the prescription, validation and dispensing process for hospitalised patients. Methods A work group analysed all of the stages included in the process from prescription to dispensing, identifying the most critical errors and establishing potential failure modes which could produce a mistake. The possible causes, their potential effects, and the existing control systems were analysed to try and stop them from developing. The Hazard Score was calculated, choosing those that were ¡Ý 8, and a Severity Index = 4 was selected independently of the hazard Score value. Corrective measures and an implementation plan were proposed. Results A flow diagram that describes the whole process was obtained. A risk analysis was conducted of the chosen critical points, indicating: failure mode, cause, effect, severity, probability, Hazard Score, suggested preventative measure and strategy to achieve so. Failure modes chosen: Prescription on the nurse's form; progress or treatment order (paper); Prescription to incorrect patient; Transcription error by nursing staff and pharmacist; Error preparing the trolley. Conclusions By applying a failure modes and effects analysis to the prescription, validation and dispensing process, we have been able to identify critical aspects, the stages in which errors may occur and the causes. It has allowed us to analyse the effects on the safety of the process, and establish measures to prevent or reduce them (AU)</dc:description>
+<dc:creator>Delgado Silveira, E</dc:creator>
+<dc:creator>Álvarez Diaz, A</dc:creator>
+<dc:creator>Rodriguez Sagrado, M. A</dc:creator>
+<dc:creator>Perez Menendez-Conde, C</dc:creator>
+<dc:creator>Serna Perez, J</dc:creator>
+<dc:creator>Bermejo Vicedo, T</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo Aplicacion de un analisis modal de fallos y efectos al proceso de prescripcion, validacion y dispensacion de medicamentos en pacientes hospitalizados. Metodos Un grupo de trabajo analizo los pasos que componian el proceso desde la prescripcion medica hasta la dispensacion, identificandose los mas criticos y estableciendo los modos potenciales de fallo que podrian producir un error. Se analizaron posibles causas, sus efectos potenciales y los sistemas de control existentes para prevenir su aparicion. Se calculo el Hazard Score, seleccionandose los que tenian una puntuacion (..) (AU)</dc:description>
+<dc:source>Farm Hosp;36(1): 24-32, ene. -feb. 2012. ilus, tab</dc:source>
+<dc:identifier>ibc-107806</dc:identifier>
+<dc:title xml:lang="es">Analisis modal de fallos y efectos del proceso de prescripcion, validacion y dispensacion de medicamentos</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d51455</dc:subject>
+<dc:subject>^d4403^s22066</dc:subject>
+<dc:subject>^d51335</dc:subject>
+<dc:subject>^d8675^s22083</dc:subject>
+<dc:subject>^d31061</dc:subject>
+<dc:subject>^d12720</dc:subject>
+<dc:subject>^d11742</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d54219^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201202</dc:date>
+</metadata>
+</record>
+</ibecs-document>

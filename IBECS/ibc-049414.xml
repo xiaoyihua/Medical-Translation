@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-049414</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cognitive impairment: classification by proton magnetic resonance spectroscopy and the contributions of conventional magnetic resonance imaging</dc:title>
+<dc:description xml:lang="en">Objective. To analyze the diagnostic accuracy of proton magnetic resonance spectroscopy (1H MRS) in patients with cognitive impairment and to establish the usefulness of complementary information provided by conventional magnetic resonance imaging (MRI). Material and methods: 64 patients with cognitive impairment, including Alzheimer's disease (AD) (n=31), vascular dementia (n=6), mild cognitive impairment (MCI) (n=9), and major depression (n=18), were studied. All patients underwent cerebral MRI and single-volume 1H MRS using two echo times (TE, 31 and 136 ms) in the posterior cingulate gyrus and right temporal lobe. The metabolites analyzed were N-acetylaspartate (NAA), myo-Inositol (mI), choline (Ch), and creatine (Cr), and the ratios of Ch/Cr, mI/Cr, NAA/mI and NAA/Cr were calculated. In order to differentiate among the different types of cognitive impairment, the alterations in imaging and spectroscopy findings were graded from 0 to 4, as was the mean combination of the two, and then ROC curves were obtained. Results. Statistically significant differences were found between the spectra of patients with dementia (AD and vascular dementia) and those without dementia (MCI and depression) in the posterior cingulate gyrus. The NAA/mI ratio yielded the best area under the ROC curve, with the best sensitivity (82.5%) and specificity (72.7%) in the diagnosis of AD. The NAA/mI and mI/Cr quotients differentiated between the four degenerative pathologies causing the cognitive impairment. The combination of MRI and 1H MRS significantly improved the accuracy of the diagnosis of AD. Conclusions. The metabolic differences found among patients with cognitive impairment using 1H MRS can be useful for differentiating AD, vascular dementia, MCI, and depression. The combination of spectroscopy and MRI findings is useful in the diagnosis of AD</dc:description>
+<dc:creator>Martínez-Granados, B</dc:creator>
+<dc:creator>Martínez-Bisbal, M. C</dc:creator>
+<dc:creator>Martí-Bonmatí, L</dc:creator>
+<dc:creator>Celda, B</dc:creator>
+<dc:creator>Arana, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Analizar la eficacia diagnóstica de la espectroscopia de resonancia magnética de protón (1H ERM) en pacientes con deterioro cognitivo y establecer la complementariedad de la información de imagen de resonancia magnética (RM) mediante curvas ROC. Material y métodos. Se estudian 64 pacientes con deterioro cognitivo, incluyendo enfermedad de Alzheimer (EA) (N = 31), demencia vascular (N = 6), deterioro cognitivo leve (DCL) (N = 9) y depresión mayor (N = 18). Todos se exploraron con RM cerebral y 1H ERM usando dos tiempos de eco (TE, 31 y 136 ms) con volumen único en la circonvolución cingular posterior y lóbulo temporal derecho. Los metabolitos analizados fueron N-acetilaspartato (NAA), mio-Inositol (mI), colina (Co), y creatina (Cr) calculando las relaciones Co/Cr, mI/Cr, NAA/mI y NAA/Cr. Para diferenciar entre las distintas formas de deterioro cognitivo, las alteraciones en imagen y en espectroscopia fueron graduadas de 0 a 4, así como la combinación promedio de las mismas, obteniéndose posteriormente curvas ROC. Resultados. Se obtuvieron diferencias estadísticamente significativas entre los espectros de pacientes con demencia (EA y demencia vascular) y los que no presentaban demencia (DCL y depresión) en la circunvolución cingular posterior. La relación NAA/mI proporcionó la mejor área bajo la curva ROC con la mayor sensibilidad (82,5%) y especificidad (72,7%) en el diagnóstico de EA. Los cocientes NAA/mI y mI/Cr diferenciaron entre las cuatro patologías degenerativas de deterioro cognitivo. La combinación de imagen de RM y ERM mejoró significativamente el diagnóstico de la EA. Conclusiones. Las diferencias metabólicas encontradas mediante ERM entre pacientes con deterioro cognitivo pueden ser útiles para diferenciar la EA, demencia vascular, DCL y depresión. La combinación de espectroscopia e imagen de RM es útil para el diagnóstico de la EA</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);48(5): 301-307, sept. 2006. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-049414</dc:identifier>
+<dc:title xml:lang="es">Deterioro cognitivo: clasificación mediante espectroscopia de resonancia magnética de protón y contribución de la imagen convencional</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d23598^s22016</dc:subject>
+<dc:subject>^d3103^s22016</dc:subject>
+<dc:subject>^d23405^s22045</dc:subject>
+<dc:subject>^d22878^s22045</dc:subject>
+<dc:subject>^d545^s22016</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200609</dc:date>
+</metadata>
+</record>
+</ibecs-document>

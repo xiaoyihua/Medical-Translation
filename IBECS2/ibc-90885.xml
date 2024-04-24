@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-90885</identifier>
+<setSpec>1888-4008</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Development and assessment of a method for the determination of darunavir in plasma by LC-MS/MS</dc:title>
+<dc:description xml:lang="en">Introduction. Darunavir is a latest generation of protease inhibitors (PI) drugs used as a treatment of HIV infection owing to its improved efficacy and its better tolerance among other characteristics. Several studies have demonstrated a correlation between the dose and the effect of darunavir, although a therapeutic range for the drug concentrations has not yet been established. These factors, besides the high inter-individual variability and the adverse effects resulting from drug interactions, reinforce the need for having a sensitive method for monitoring its plasma concentrations in treated patients. Objective. Technical validation of a new method for darunavir plasma concentration monitoring by LC/MS/MS. Materials and methods. The method validation procedure was based on the recommendations published in the guidelines ICH Topic Q 2B Validation of Analytical Procedures: Methodology (CPMP/ICH/281/95). Darunavir was extracted from plasma samples by a protein precipitation procedure. The chromatographic separation was achieved with a gradient program (acetonitrile/buffer) on an X-BridgeTM C18 3.5&amp;#956;m 2.1×100mm (Waters®). Analytes quantification is performed by electrospray ionization in positive mode, a Quattro Micro triple quadrupole mass spectrometer. Results. Linearity (0.1-10&amp;#956;g/mL): y=18.85×-150.4 r2: 0.997. Precision: Intra-assay CV: 1.07-4.62%. Inter-assay CV: 2.72-4.70%. Accuracy: Intra-assay: 1-9%. Inter-assay: 2-7%. LOD: 0.05&amp;#956;g/mL, LLOQ: 0.15&amp;#956;g/mL. Conclusion. The developed method based on LC/MS/MS has an adequate sensibility and reproducibility for the determination of plasma concentrations of darunavir in treated patients (AU)</dc:description>
+<dc:creator>Guillén Tunica, David</dc:creator>
+<dc:creator>Brunet Serra, Mercè</dc:creator>
+<dc:creator>Pajares García, Sonia</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. Darunavir es uno de los fármacos inhibidores de la proteasa de última generación utilizado para el tratamiento de la inmunodeficiencia adquirida por VIH debido a su destacada eficacia terapéutica y su mejor tolerancia, entre otras peculiaridades. Varios estudios demuestran una correlación entre la dosis y el efecto de darunavir, aunque todavía no se ha establecido un intervalo terapéutico para las concentraciones del fármaco. Estos factores junto con una elevada variabilidad farmacocinética interindividual además de interacciones farmacológicas con otros fármacos, refuerzan la idea de la importancia de disponer de un método sensible para la monitorización de sus concentraciones plasmáticas en pacientes tratados. Objetivos. Validación técnica de un método para la determinación de las concentraciones plasmáticas de darunavir mediante LC/MS/MS. Materiales y métodos. El proceso de validación se desarrolló según el procedimiento descrito en la guía ICH Topic Q 2B Validation of Analytical Procedures: Methodology (CPMP/ICH/281/95). El darunavir se extrae del plasma mediante una precipitación de proteínas. La separación cromatográfica se consiguió utilizando una columna X-BridgeTM C18 3,5&amp;#956;m 2,1 × 100mm (Waters®) con un programa de elución en gradiente de acetonitrilo y tampón. Para la detección de los analitos, se utilizó un espectrómetro de masas de triple cuadrupolo Quattro micro con electroespray en modo de ionización positivo. Resultados. Linealidad (0,1-10&amp;#956;g/mL): y=18,85×-150,4 r2: 0,997. Precisión: CV intraensayo: 1,07-4,62%. CV interensayo: 2,72-4,70%. Exactitud: intra-ensayo: 1-9%; inter-ensayo: 2-7%; LD: 0,05&amp;#956;g/mL; LQ: 0,15&amp;#956;g/mL. Conclusiones. Este método desarrollado basado en LC/MS/MS, posee una adecuada sensibilidad y reproducibilidad para la determinación de darunavir en plasma de pacientes tratados (AU)</dc:description>
+<dc:source>Rev. lab. clín;4(3): 127-133, jul.-sept. 2011.</dc:source>
+<dc:identifier>ibc-90885</dc:identifier>
+<dc:title xml:lang="es">Desarrollo y validación de un método para la determinación de darunavir en plasma mediante LC-MS/MS</dc:title>
+<dc:subject>^d52226^s22021</dc:subject>
+<dc:subject>^d52226</dc:subject>
+<dc:subject>^d2894^s22074</dc:subject>
+<dc:subject>^d52317</dc:subject>
+<dc:subject>^d11383^s22021</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d11924</dc:subject>
+<dc:subject>^d52226^s22000</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d2894^s22039</dc:subject>
+<dc:subject>^d23555^s22045</dc:subject>
+<dc:subject>^d29364^s22016</dc:subject>
+<dc:subject>^d11924^s22000</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201109</dc:date>
+</metadata>
+</record>
+</ibecs-document>

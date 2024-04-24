@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-21437</identifier>
+<setSpec>1130-0523</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Fetal biometry: curves of normality</dc:title>
+<dc:creator>Mallafré, J</dc:creator>
+<dc:creator>Torrents, M</dc:creator>
+<dc:creator>Comas, C</dc:creator>
+<dc:creator>Echevarría, M</dc:creator>
+<dc:creator>Figueras, F</dc:creator>
+<dc:creator>Carrera, J. M</dc:creator>
+<dc:creator>Muñoz, A</dc:creator>
+<dc:creator>Antolín, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Establecer nomogramas en nuestra población de los parámetros biométricos fetales más utilizados: diámetro biparietal (DBP), perímetro cefálico (PC), perímetro abdominal (PA) y longitud femoral (LF). Material y métodos: Se han recogido de manera retrospectiva y transversal las ecobiometrías de 9.500 gestaciones únicas (500 para cada semana gestacional entre las 23 y 41 semanas) que acudieron a nuestra centro para control ecográfico de rutina. Resultados: El incremento semanal de las biometrías en el intervalo estudiado alcanzó su máximo a las 24 semanas para el PC, PA y LF, y a las 26 para el DBP. El 50 por ciento del incremento ocurrió a las 33 semanas para todas las biometrías. Conclusiones: Los nomogramas descritos en el presente estudio son válidos y pueden ser utilizados en poblaciones con características epidemiológicas y distribuciones de peso al nacer similares a la nuestra. (AU)</dc:description>
+<dc:source>Prog. diagn. prenat. (Ed. impr.);12(2): 50-57, mar. 2000. tab</dc:source>
+<dc:identifier>ibc-21437</dc:identifier>
+<dc:title xml:lang="es">Biometría fetal: curvas de normalidad</dc:title>
+<dc:subject>^d24560</dc:subject>
+<dc:subject>^d22261</dc:subject>
+<dc:subject>^d29142^s22045</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d24769</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28636^s22045</dc:subject>
+<dc:subject>^d12437</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200003</dc:date>
+</metadata>
+</record>
+</ibecs-document>

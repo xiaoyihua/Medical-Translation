@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-123213</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Epicardial Fat, Metabolic Dysregulation, and Cardiovascular Risk: Putting Things Together</dc:title>
+<dc:description xml:lang="en">No disponible</dc:description>
+<dc:creator>López-Jiménez, Francisco</dc:creator>
+<dc:creator>Sochor, Ondrej</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">No disponible</dc:description>
+<dc:source>Rev Esp Cardiol;67(6): 425-427, jun. 2014.</dc:source>
+<dc:identifier>ibc-123213</dc:identifier>
+<dc:title xml:lang="es">Grasa epicárdica, mala regulación metabólica y riesgo cardiovascular: cómo encajar las piezas</dc:title>
+<dc:subject>^d29633</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d2359^s22032</dc:subject>
+<dc:subject>^d36032^s22032</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d10686^s22032</dc:subject>
+<dc:subject>^d280^s22032</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201406</dc:date>
+</metadata>
+</record>
+</ibecs-document>

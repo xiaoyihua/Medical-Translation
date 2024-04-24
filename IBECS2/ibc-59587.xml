@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-59587</identifier>
+<setSpec>0001-6640</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Variability among infants admitted to the hospital with gastroenteritis</dc:title>
+<dc:description xml:lang="en">Background: The aim of this study was to analyze the variability of epidemiological and clinical findings in gastroenteritis in our setting. Methods: We studied 2,309 patients, aged between 0 and24 months, admitted with a diagnosis of acute gastroenteritis. Stools were cultured and examined for a variety of enteropathogens, which were classified as infectious, viral, bacterial and noninfectious (CIE-9-MC). We considered the following variables: sex (male/female), age (months), hospital stay (days),date of admission and mortality. A descriptive analysis was carried out, and the Kolmogorov-Smirnov test, Student&#146;s t test and the chi-square test with Fisher&#146;s exact test were applied. Rhythmicity was analyzed using fast Fourier transform, and variations in rhythm were assessed by the cosinor model, with different harmonics. Results: Overall, 18.9% of the hospital admissions were dueto gastroenteritis (35% of infectious etiology and 25.5% of viral etiology). The mean age of infants with viral gastroenteritis was10.84 months, whereas in cases produced by non viral pathogens, it was 11.74 months. Patients with viral gastroenteritis were hospitalized one day longer than those with gastroenteritis due to non viral agents. The cosinor analysis revealed the presence of a rhythmic component, with 12-month duration in overall cases of gastroenteritis, and in viral and non viral gastroenteritis. The acrophase was around the 12th week of the year. Conclusions: Gastroenteritis exhibits a seasonal pattern, with a 12-month circannual rhythm, which is more evident in viral gastroenteritis than in cases produced by non viral pathogens (AU)</dc:description>
+<dc:creator>Rellán Rodríguez, S</dc:creator>
+<dc:creator>Garmendia Leiza, J. R</dc:creator>
+<dc:creator>Andrés de Llano, J. M</dc:creator>
+<dc:creator>Ardura Fernández, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: El estudio tiene como objetivo analizar la variabilidad de presentación de las gastroenteritis agudas en nuestro medio. Pacientes y métodos: La población de estudio estuvo constituida por 2.309 pacientes menores de 24 meses de edad, ingresados con diagnóstico de gastroenteritis. Se realizó un cultivo de heces en todos los casos y fueron clasificados, según la etiología, mediante la CIE-9-MC, como infecciosas, víricas, bacterianas y no infecciosas. Se tuvieron en cuenta las siguientes variables: sexo (hombre/mujer), edad (meses), días de estancia, fecha de ingreso y fallecimiento. Se llevó a cabo un análisis descriptivo y, además, el test de Kolmogorov-Smirnov, la prueba de la t de Student y de la ji al cuadrado con prueba exacta de Fisher. El análisis ritmométrico se llevó a cabo mediante la transformada rápida de Fourier, con ajuste de modelos mediante método cosinor con varios armónicos. Resultados: Ingresaron por gastroenteritis el 18,9% de los pacientes; eran de tipo infecciosa el 35% y vírica el 25,5%.La edad media de presentación de las gastroenteritis víricas fue de 10,84 meses, mientras que en las no víricas fue de11,74 meses, con un día más de estancia hospitalaria en el primer grupo. El análisis cosinor muestra un componente rítmico con un periodo de 12 meses en el global de las gastroenteritis, subgrupo de víricas y no víricas, con acrofase a finales de marzo. Conclusiones: Las gastroenteritis presentan un patrón estacional, con ritmo circanual y periodo de 12 meses, más patente en las gastroenteritis víricas que en las no víricas(AU)</dc:description>
+<dc:source>Acta Pediatr Esp;66(10): 487-493, nov. 2008. graf</dc:source>
+<dc:identifier>ibc-59587</dc:identifier>
+<dc:title xml:lang="es">Variabilidad en la hospitalización de lactantes con gastroenteritis</dc:title>
+<dc:subject>^d12776^s22080</dc:subject>
+<dc:subject>^d12776^s22032</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d5900^s22080</dc:subject>
+<dc:subject>^d53361^s22038</dc:subject>
+<dc:subject>^d31778^s22001</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d53361^s22033</dc:subject>
+<dc:subject>^d2715</dc:subject>
+<dc:subject>^d53361^s22031</dc:subject>
+<dc:subject>^d5900^s22011</dc:subject>
+<dc:subject>^d12776^s22027</dc:subject>
+<dc:subject>^d5900^s22016</dc:subject>
+<dc:subject>^d5900^s22027</dc:subject>
+<dc:subject>^d6916^s22083</dc:subject>
+<dc:subject>^d6916^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200811</dc:date>
+</metadata>
+</record>
+</ibecs-document>

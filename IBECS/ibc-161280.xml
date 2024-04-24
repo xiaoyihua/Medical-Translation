@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-161280</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Comparison of the cost-utility of direct oral anticoagulants for the prevention of stroke in patients with atrial fibrillation in Spain</dc:title>
+<dc:description xml:lang="en">Introduction. Apixaban, dabigatran and rivaroxaban are three new direct oral anticoagulants (DOACs) used in the prevention of stroke and systemic embolism in patients with non-valvular atrial fibrillation (NVAF) in Spain. Aim. To assess the relative cost-utility of the three DOACs compared with vitamin K antagonists. Patients and methods. A Markov model with 3-month cycles was used to simulate NVAF patients starting with treatment and followed up for their lifetime from the perspective of the National Health System. The model included 36 health states including treatment combinations, disability and events history and considered a hypothetical cohort of 10,000 NVAF patients. Relative efficacy was calculated from a formal indirect treatment comparison using data from the pivotal trials of each DOAC. Results. Dabigatran was associated with the highest number of quality-adjusted life years (QALY) (8.40 QALY), followed by apixaban (8.33 QALY), rivaroxaban (8.15 QALY) and acenocoumarol (8.03 QALY). Patients taking acenocoumarol had the lowest total costs (&#128;22,230), followed by dabigatran (&#128;24,564), apixaban (&#128;24,655) and rivaroxaban (&#128;25,900). Incremental cost-utility ratios compared to vitamin K antagonists, were &#128;6,397, &#128;8,039 and &#128;29,957/QALY for dabigatran, apixaban and rivaroxaban, respectively. If compared together, dabigatran dominated apixaban and rivaroxaban. Sensitivity analyses confirmed the robustness of the baseline case. Conclusions. All three direct anticoagulants are cost-effective against acenocoumarol. Dabigatran is economically dominant over rivaroxaban and apixaban in the Spanish setting, as it is more effective and cheaper (AU)</dc:description>
+<dc:creator>Brand, Sarah</dc:creator>
+<dc:creator>Monreal-Bosch, Manuel</dc:creator>
+<dc:creator>Kansal, Anuraag</dc:creator>
+<dc:creator>Soulard, Stéphane</dc:creator>
+<dc:creator>Crespo, Carlos</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. El apixabán, el dabigatrán y el rivaroxabán son tres anticoagulantes orales de acción directa (ACOD) indicados para la prevención del ictus y la embolia sistémica en pacientes con fibrilación auricular no valvular (FANV) en España. Objetivo. Comparar el coste-utilidad de los tres ACOD frente a los antivitamina K. Pacientes y métodos. Se utilizó un modelo Markov con ciclos trimestrales para simular pacientes con FANV desde que inician su tratamiento hasta el resto de su vida desde la perspectiva del Sistema Nacional de Salud. El modelo incorporó 36 estados de salud, incluyendo combinaciones de tratamientos, discapacidad y antecedentes de eventos, y consideró una cohorte hipotética de 10.000 pacientes con FANV. La eficacia relativa se calculó a partir de una comparación indirecta formal de los tratamientos según los datos de los ensayos pivotales de cada ACOD. Resultados. El dabigatrán se asoció al valor máximo de años de vida ajustados por calidad (AVAC) (8,40 AVAC), seguido del apixabán (8,33 AVAC), el rivaroxabán (8,15 AVAC) y el acenocumarol (8,03 AVAC). Los costes totales fueron menores con el acenocumarol (22.230 &#128;), seguido del dabigatrán (24.564 &#128;), el apixabán (24.655 &#128;) y el rivaroxabán (25.900 &#128;). La ratio coste-utilidad incremental frente a los antivitamina K fue de 6.397, 8.039 y 29.957 &#128;/AVAC para el dabigatrán, el apixabán y el rivaroxabán, respectivamente. Comparados entre ellos, el dabigatrán dominó al apixabán y al rivaroxabán. Los análisis de sensibilidad confirmaron la robustez del caso base. Conclusiones. Los tres ACOD son coste-efectivos frente al acenocumarol. El dabigatrán es económicamente dominante frente al rivaroxabán y al apixabán en España, al ser más efectivo y menos costoso (AU)</dc:description>
+<dc:source>Rev Neurol;64(6): 247-256, 16 mar., 2017. tab, ilus, graf</dc:source>
+<dc:identifier>ibc-161280</dc:identifier>
+<dc:title xml:lang="es">Comparación del coste-utilidad de los anticoagulantes orales de acción directa en la prevención de ictus en la fibrilación auricular no valvular en España</dc:title>
+<dc:subject>^d1287^s22057</dc:subject>
+<dc:subject>^d34247^s22018</dc:subject>
+<dc:subject>^d55911^s22018</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d55927^s22073</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d55911^s22073</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d932^s22000</dc:subject>
+<dc:subject>^d16645</dc:subject>
+<dc:subject>^d28629</dc:subject>
+<dc:subject>^d34247^s22054</dc:subject>
+<dc:subject>^d34247^s22057</dc:subject>
+<dc:subject>^d55927^s22018</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201703</dc:date>
+</metadata>
+</record>
+</ibecs-document>

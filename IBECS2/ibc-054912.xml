@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-054912</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cost-effectiveness of the addition of acarbose to the treatment of patients with type-2 diabetes in Spain</dc:title>
+<dc:description xml:lang="en">Objectives: To assess the cost-effectiveness of the addition of acarbose to existing treatment in patients with type 2 diabetes mellitus (DM2) in Spain.                 Methods: The CORE Diabetes Model (a published and validated computer simulation model) was used to project long-term clinical and cost outcomes in DM2. Transition probabilities and risk adjustments were derived from published sources. Treatment effects and baseline cohort characteristics were based on a meta-analysis. Direct costs were retrieved from published sources and projected over patient lifetimes from the perspective of the Spanish National Health Service. Costs and clinical benefits were discounted at 3% per year. Sensitivity analyses were performed.                 Results: Acarbose treatment was associated with improved life expectancy (0.23 years) and quality-adjusted life years (QALY) (0.21 years). Direct costs were on average &#128; 468 per patient more expensive with acarbose than with placebo. The incremental cost-effectiveness ratios were &#128; 2,002 per life year gained and &#128; 2,199 per QALY gained. An acceptability curve showed that with a willingness to pay &#128; 20,000, which is generally accepted to represent very good value for money, acarbose treatment was associated with a 93.5% probability of being cost-effective.                 Conclusions: This long-term economic study showed that the addition of acarbose to existing therapy for DM2 was associated with improvements in life expectancy and QALYs in these patients</dc:description>
+<dc:creator>Valentine, William</dc:creator>
+<dc:creator>Evers, Thomas</dc:creator>
+<dc:creator>Piñol, Carme</dc:creator>
+<dc:creator>Roze, Stephane</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Evaluar el coste-efectividad de la adición de acarbosa al tratamiento de pacientes con diabetes mellitus tipo 2 (DM2) en España.                 Métodos: Se utilizó el CORE Diabetes Model (modelo de simulación informática publicado y validado) para proyectar a largo plazo los resultados clínicos y de costes de la DM2. Las probabilidades de transición y los riesgos se obtuvieron de distintas publicaciones. Los efectos del tratamiento y las características basales de la cohorte se obtuvieron de un metaanálisis. Los costes directos se extrajeron de diversas publicaciones y se proyectaron a lo largo de la vida de los pacientes bajo la perspectiva del Sistema Nacional de Salud de España. Los costes y beneficios fueron descontados en un 3% anual. Se realizaron análisis de sensibilidad.                 Resultados: El tratamiento con acarbosa se asoció con mejoras en la esperanza de vida (0,23 años) y en los años de vida ajustados por calidad (AVAC) (0,21 años). Los costes directos fueron en promedio, por paciente, de 468 &#128; más caros con acarbosa que con placebo. La razón de coste-efectividad incremental fue de 2.002 &#128;/año de vida ganado y de 2.199 &#128;/AVAC ganado. La curva de aceptabilidad mostró que con una disponibilidad a pagar de 20.000 &#128;, generalmente aceptada como muy buen valor monetario, el tratamiento con acarbosa se asoció con una probabilidad del 93,5% de ser coste-efectiva.                 Conclusiones: Este estudio económico a largo plazo mostró que la adición de acarbosa al tratamiento de pacientes con DM2 produjo mejoras en la esperanza de vida y en los AVAC de estos pacientes</dc:description>
+<dc:source>Gac Sanit;21(2): 97-104, mar.2007. ilus, tab</dc:source>
+<dc:identifier>ibc-054912</dc:identifier>
+<dc:title xml:lang="es">Coste-efectividad de la adición de acarbosa al tratamiento de pacientes con diabetes tipo 2 en España</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d3946^s22057</dc:subject>
+<dc:subject>^d30313^s22045</dc:subject>
+<dc:subject>^d12225</dc:subject>
+<dc:subject>^d34637</dc:subject>
+<dc:subject>^d11350^s22073</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28628</dc:subject>
+<dc:subject>^d34458^s22073</dc:subject>
+<dc:subject>^d3946^s22018</dc:subject>
+<dc:subject>^d30152^s22083</dc:subject>
+<dc:subject>^d34458^s22018</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200703</dc:date>
+</metadata>
+</record>
+</ibecs-document>

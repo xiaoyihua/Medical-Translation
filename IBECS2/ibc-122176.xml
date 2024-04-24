@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-122176</identifier>
+<setSpec>2253-654X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Deep Inspiration Breath Hold [18F]FDG PET-CT on 4-rings scanners in evaluating lung lesions: Evidences from a phantom and a clinical study</dc:title>
+<dc:description xml:lang="en">Objective: To investigate the clinical feasibility of a Deep Inspiration Breath Hold (DIBH) 18F-FDG PET-CT acquisition in apnea and compare the results obtained between these acts of acquisition in apnea and in Free Breathing in the evaluation of lung lesions. Material and methods: A pre-clinical phantom study was performed to evaluate the shortest simulated DIBH time according to the minimum detectable lesion that can be detected by our ultrasound scanner. This study was conducted by changing acquisition time and sphere-to-background activity ratio values and by using radioactivity densities similar to those generally found in clinical examinations. In the clinical study, 25 patients with pulmonary lesions underwent a standard whole body 18F-FDG PET-CT scan in free breathing followed by a 20 s single thorax acquisition PET/CT in DIBH acquisition. Results: The phantom study indicated that a 20-s acquisition time provides an accurate evaluation of smallest sphere shaped lesions. In the clinical study, PET-CT scans obtained in DIBH studies showed a significant reduction of misalignment between the PET and CT scan images and an increase of SUVmax compared to free breathing acquisitions. A correlation between the %BH-index and lesion displacement between PET and CT images in FB acquisition was demonstrated, significantly higher for lesions with a displacement &gt; 8 mm. Conclusion: The single 20 s acquisition of DIBH PET-CT is a feasible technique for lung lesion detection in the clinical setting. It only requires a minor increase in examination time without special patient training. 20 s DIBH scan provided a more precise measurement of SUVmax, especially for lesions in the lower lung lobes which usually show greater displacement between PET and CT scan images in FB acquisition (AU)</dc:description>
+<dc:creator>Caobelli, Federico</dc:creator>
+<dc:creator>Massetti, Valentina</dc:creator>
+<dc:creator>Puta, Erinda</dc:creator>
+<dc:creator>Andreoli, Michela</dc:creator>
+<dc:creator>Pizzocaro, Claudio</dc:creator>
+<dc:creator>Soffientni, Alberto</dc:creator>
+<dc:creator>Mostarda, Angelica</dc:creator>
+<dc:creator>Ren Kaiser, Stefano</dc:creator>
+<dc:creator>Paolo Guerra, Ugo</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objetivo: Estudiar la viabilidad clínica de la adquisición 18F-FDG PET-TC en apnea y comparar los resultados obtenidos entre las adquisiciones en apnea y en respiración libre en la valoración de lesiones pulmonares. Material y métodos: Se ha realizado un estudio preclínico en maniquí con objeto de establecer el tiempo mínimo de adquisición en apnea en función de la más pequeña lesión evidenciable con nuestro tomógrafo. Este estudio se obtuvo modificando los tiempos de adquisición y la relación de actividad entre esfera y fondo utilizando actividades parecidas a las encontradas en la práctica clínica. En el estudio clínico, 25 pacientes con lesiones pulmonares fueron evaluados mediante PET-TC con 18F-FDG en respiración libre y posteriormente en apnea de 20 segundos. Resultados: El estudio en maniquí indicó que una adquisición de 20 segundos es adecuada para la valoración de las esferas más pequeñas. En el estudio clínico, las adquisiciones PET-TC obtenidas en apnea mostraron una significativa reducción de la desalineación entre la imagen PET y la imagen TC y un incremento en el valor del SUVmax respecto a las adquisiciones en respiración libre. Hemos demostrado la existencia de correlación entre el %BH-index y la desalineación en respiración libre, significativamente mayor en las lesiones con desalineación superior a 8 mm. Conclusiones: La adquisición PET-TC de 20 segundos en apnea es una técnica viable para la detección de la lesión pulmonar en el entorno clínico y requiere solo un pequeño aumento en el tiempo de examen sin requerir especial entrenamiento del paciente. La adquisición en apnea aporta una medida más precisa del SUVmax, especialmente en las lesiones de los lóbulos inferiores que normalmente presentan una marcada desalineación entre las imágenes PET y TC (AU)</dc:description>
+<dc:source>Rev. esp. med. nucl. imagen mol. (Ed. impr.);33(3): 136-147, mayo-jun. 2014.</dc:source>
+<dc:identifier>ibc-122176</dc:identifier>
+<dc:title xml:lang="es">[18F]FDG PET/TC en ausencia de respiración utilizando escáneres de 4 anillos en la valoración de lesiones pulmonares: evidencias de un estudio clínico y con maniquí</dc:title>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1056</dc:subject>
+<dc:subject>^d33478</dc:subject>
+<dc:subject>^d8352^s22008</dc:subject>
+<dc:subject>^d38793^s22045</dc:subject>
+<dc:subject>^d27924^s22031</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201406</dc:date>
+</metadata>
+</record>
+</ibecs-document>

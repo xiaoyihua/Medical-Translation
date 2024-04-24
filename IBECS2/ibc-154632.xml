@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-154632</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Generalized eta squared for multiple comparisons on between-groups designs</dc:title>
+<dc:description xml:lang="en">Background: Psychological and educational researchers are experiencing many practical difficulties in following the guidelines of the American Psychological Association (APA) for their statistical analyses: one such difficulty is the reporting of an effect-size measure along with each test of statistical significance (APA, 2010). The problem is exacerbated when researchers focus on contrast analysis instead of omnibus tests and when the Type-I error rate per comparison has to be adjusted. Method: Several reasons for this problem are discussed, with emphasis on the facts that researchers may be presented with too many optional effect-size measures with varying degrees of adequacy in several designs, and common statistical packages fail to provide appropriate effect-size measures for contrast analysis. Results: This study proposes specific procedures (also implemented in spreadsheets) to compute generalized eta squared for various kinds of hypotheses, either general or specific, for one-factor and factorial between-group designs, and with manipulated and/or measured factors.Conclusions: Finally, conclusions are drawn concerning the need to take into account the kind of design and the kind of hypothesis in order to calculate comparable effect-size indexes across different types of studies and to prevent an overestimation of effect size (AU)</dc:description>
+<dc:creator>Trigo Sánchez, María Eva</dc:creator>
+<dc:creator>Martínez Cervantes, Rafael Jesús</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Antecedentes: los investigadores en Psicología y Educación están teniendo muchas dificultades prácticas para seguir la directriz de la Asociación Americana de Psicología (APA) de aportar una medida de tamaño de efecto junto con cada prueba de significación (APA, 2010). El problema se agrava cuando se realizan contrastes a priori en lugar de pruebas ómnibus y cuando la tasa de error de Tipo I por comparación tiene que ser ajustada. Método: se discuten diversas razones para ello, como la existencia de muchas medidas diferentes de tamaño de efecto y el hecho de que los paquetes estadísticos comunes como SPSS no proporcionan medidas apropiadas para las comparaciones múltiples. Resultados: se proponen procedimientos específicos (también implementados en hojas de cálculo) para calcular el índice eta cuadrado generalizado para diversos tipos de hipótesis, generales o específicas; tipos de diseños, univariables o factoriales; y con factores manipulados y/o medidos. Conclusiones: finalmente se concluye sobre la necesidad de tener en cuenta el tipo de diseño y el tipo de hipótesis para obtener índices de tamaño de efecto comparables entre diferentes tipos de investigaciones y que eviten una sobreestimación del mismo (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);28(3): 340-345, ago. 2016. tab</dc:source>
+<dc:identifier>ibc-154632</dc:identifier>
+<dc:title xml:lang="es">Eta cuadrado generalizado para comparaciones múltiples en diseños entre grupos</dc:title>
+<dc:subject>^d28401</dc:subject>
+<dc:subject>^d55694^s22045</dc:subject>
+<dc:subject>^d12528</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201608</dc:date>
+</metadata>
+</record>
+</ibecs-document>

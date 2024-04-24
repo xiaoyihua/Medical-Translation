@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-153665</identifier>
+<setSpec>2253-654X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Dual time-point 18F-FDG PET/CT to assess response to radiofrequency ablation of lung metastases</dc:title>
+<dc:description xml:lang="en">Objetivo. Establecer la utilidad de las imágenes PET/TC en 2 tiempos en la determinación de la respuesta a la ablación por radiofrecuencia (RFA) de las metástasis pulmonares de tumores digestivos. Material y métodos. Estudio prospectivo con 18 casos (3 mujeres, 15 varones) y edad media de 71 ± 15 años con metástasis pulmonar única de cáncer digestivo candidato a tratamiento mediante RFA. Se realizaron imágenes PET/CT 1 h tras inyección de 4,07 MBq/Kg de 18F-FDG (imagen estándar) basal, un mes y 3 meses después de la RFA y una imagen tardía 2 h tras la inyección centrada en tórax un mes después de la RFA. Se calculó el índice de retención (RI): RI = (SUVmáx imagen tardía &amp;#8722; SUVmáx imagen estándar/SUVmáx imagen estándar) * 100. La recurrencia local se confirmó con estudio histológico de la lesión tratada con RFA. Un resultado negativo en las pruebas de imagen durante el seguimiento se consideró como respuesta completa. Resultados. Se diagnosticó recidiva local en 6/18 lesiones y respuesta completa en 12/18. El cambio porcentual medio de SUVmáx al mes y a los 3 meses mostró una sensibilidad y especificidad para evaluar la respuesta a la RFA de 50% y 33% y 67% y 92%, respectivamente. El RI un mes posradiofrecuencia mostró una sensibilidad y especificidad del 83% y 92%. Conclusiones. Las imágenes en 2 tiempos con PET/TC un mes posradiofrecuencia pueden predecir el resultado de la RFA de las metástasis pulmonares de origen digestivo. El RI se puede utilizar para indicar la necesidad de otros procedimientos para descartar recurrencia tumoral debido a una RFA incompleta (AU)</dc:description>
+<dc:creator>Fuster, D</dc:creator>
+<dc:creator>Granados, U</dc:creator>
+<dc:creator>Sánchez, M</dc:creator>
+<dc:creator>Lafuente, S</dc:creator>
+<dc:creator>Lomeña, F</dc:creator>
+<dc:creator>Perlaza, P</dc:creator>
+<dc:creator>Arguis, P</dc:creator>
+<dc:creator>Vollmer, I</dc:creator>
+<dc:creator>Paredes, P</dc:creator>
+<dc:language>en</dc:language>
+<dc:source>Rev. esp. med. nucl. imagen mol. (Ed. impr.);35(4): 226-231, jul.-ago. 2016. tab, ilus, graf</dc:source>
+<dc:identifier>ibc-153665</dc:identifier>
+<dc:title xml:lang="es">Imágenes en 2 tiempos con 18F-FDG PET/TC para evaluar la ablación por radiofrecuencia de las metástasis pulmonares</dc:title>
+<dc:subject>^d54686^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d30797^s22045</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d4107^s29166</dc:subject>
+<dc:subject>^d8352^s22012</dc:subject>
+<dc:subject>^d38793^s22039</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d38793^s22074</dc:subject>
+<dc:subject>^d38793^s22045</dc:subject>
+<dc:subject>^d9555^s29166</dc:subject>
+<dc:subject>^d33478^s22002</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201608</dc:date>
+</metadata>
+</record>
+</ibecs-document>

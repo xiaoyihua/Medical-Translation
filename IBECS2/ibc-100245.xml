@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-100245</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cost-effectiveness analysis of maintenance therapy with rituximab in patients with follicular lymphoma responding to induction therapy at the first line</dc:title>
+<dc:description xml:lang="en">Background: Maintenance therapy with rituximab for follicular lymphoma (FL) responding to induction at the first-line, significantly increases progression-free survival compared with observation. To estimate the efficiency of this therapeutic option, we performed a cost-effectiveness analysis of maintenance therapy of the follicular lymphoma (FL) that responds to induction in first line, with rituximab, compared with the option of &#147;watch and wait&#148; strategy. Methods:We did a Markov model of the FL, with four health states (progression free survival in first or second line, progression and death). The transition probabilities between states were obtained from clinical trials PRIMA and EORTC 20981. Health state utilities were obtained from literature. The use of health resources, from the perspective of the National Health System was estimated by a panel of Spanish clinical experts. Unit costs (&#128; in 2011) were obtained from Spanish sources. Deterministic and probabilistic analyses were made. Results: In the deterministic base case analysis, for a time horizon of 30 years, the cost per life year gained (LYG) and quality-adjusted lifeyears (QALYs) gained, was &#128; 5,663 and &#128; 6,253 respectively. The sensitivity analyses confirmed the stability of the base case for time horizons of 10 and 20 years and various statistical distributions (Weibull, exponential, log-logistic, log-normal, Gompertz, and gamma) ranging between &#128; 4,222 and &#128; 8,766. Rituximab maintenance is cost-effective from a time horizon of 5.7 years (cost per QALY gained of &#128; 29,998). Conclusion: Compared with observation, rituximab maintenance treatment of the FL that responds to induction therapy in first line, is cost-effective according to the present model(AU)</dc:description>
+<dc:creator>Rubio-Terrés, Carlos</dc:creator>
+<dc:creator>López-Guillermo, Armando</dc:creator>
+<dc:creator>Varela Moreno, Cristina</dc:creator>
+<dc:creator>Rueda Domínguez, Antonio</dc:creator>
+<dc:creator>Castro Gómez, Antonio J</dc:creator>
+<dc:creator>Salar, Antonio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamentos: El tratamiento de mantenimiento con rituximab del linfoma folicular (LF) que responde a la inducción en primera línea, aumenta de manera significativa la supervivencia libre de progresión en comparación con la observación. Para evaluar económicamente esta opción terapéutica, se realizó un análisis de coste-efectividad del tratamiento de mantenimiento del LF tras la inducción en primera línea con rituximab frente a la observación de la enfermedad. Métodos: Se hizo un modelo de Markov del LF, con cuatro estados de salud (supervivencia libre de progresión en primera o segunda línea, progresión y muerte). Las probabilidades de transición entre los estados se obtuvieron de los ensayos clínicos PRIMA y EORTC 20981. Las utilidades de los estados se obtuvieron de la bibliografía. El uso de recursos sanitarios, desde la perspectiva del Sistema Nacional de Salud, fue estimado por un panel de expertos clínicos españoles. Los costes unitarios (&#128; del año 2011) se obtuvieron de fuentes españolas. Se efectuaron análisis determinísticos y probabilísticos. Resultados: En el caso base del análisis determinístico, para un horizonte temporal de 30 años, el coste por año de vida ganado (AVG) y por año de vida ajustado por calidad (AVAC) ganado, fue de 5.663 &#128; y 6.253 &#128;, respectivamente. Los análisis de sensibilidad confirmaron la estabilidad del caso base para horizontes temporales de 10 y 20 años y diversas distribuciones estadísticas (Weibull, exponencial, log-logística, log-normal, Gompertz y gamma) oscilando entre 4.222 y 8.766 &#128;. El mantenimiento con rituximab es coste-efectivo a partir de un horizonte temporal de 5,7 años (coste por AVAC ganado de 29.998 &#128;). Conclusión: En comparación con la observación, el tratamiento de mantenimiento con rituximab del LF que responde a la inducción en primera línea, es coste-efectivo de acuerdo con el presente modelo(AU)</dc:description>
+<dc:source>Rev Esp Salud Publica;86(2): 163-176, mar.-abr.2012. tab, ilus</dc:source>
+<dc:identifier>ibc-100245</dc:identifier>
+<dc:title xml:lang="es">Análisis coste-efectividad del tratamiento de mantenimiento con rituximab en pacientes con linfoma folicular que responde a la terapia de inducción en primera línea</dc:title>
+<dc:subject>^d31495^s22066</dc:subject>
+<dc:subject>^d54685^s22045</dc:subject>
+<dc:subject>^d54685^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d29265^s22080</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d29265^s22032</dc:subject>
+<dc:subject>^d29265^s22057</dc:subject>
+<dc:subject>^d28629</dc:subject>
+<dc:subject>^d50303</dc:subject>
+<dc:subject>^d50302</dc:subject>
+<dc:subject>^d31495^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201204</dc:date>
+</metadata>
+</record>
+</ibecs-document>

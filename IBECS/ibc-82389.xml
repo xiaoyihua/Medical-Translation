@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-82389</identifier>
+<setSpec>1575-0620</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Multi-centre study of the prevalence of latent tuberculosis infection amongst inmates in spanish prisons</dc:title>
+<dc:description xml:lang="en">Aims: To study the prevalence of latent tuberculosis infection (LTBI) amongst inmates in Spanish prisons. Materials and Methods: Multi-centre, cross-sectional study; two stage sampling. Socio-demographic, prison and clinical variables were gathered. A univariate, bivariate and multivariate analysis was carried out using logistic regression with the variables that showed statistical significance. The odds ratio was calculated with a confidence interval of 95%. Results: 378 patients. The Mantoux test (PPD) assessable in 90.2% was available. 91.2% men, 37.8% foreigners with average age of 35.9±10.3 years. Average stay in prison: 2 years, 28.7% had been &gt; 5 years in prison. 49.6% entered prison in 2006 or before. 24.5% had a history of intravenous drug use (IDU). 50.4% presented LTBI that was associated with: age &gt; 40 years (63.2 vs 43.8%; CI: 1.39-3.49; OR: 2.20; p=0.001); stay of &gt; 5 years in prison (71.2 vs 41.3%; CI: 2.13-5.75; OR: 3.50; p&lt;0.001); in prison since 2006 or before (58.1 vs 42.6%; CI: 1.22- 2.88; OR:1.87; p=0.004); infected with HCV+ (66.3 vs 45.3%; CI:1.40-4.0; OR: 2.37; p=0.001). The logistic regression model confirmed the independent association of LTBI with: a) age &gt; 40 years (OR: 1.76; CI: 1.08-2.87; p=0.024); and length of prison stay &gt; 5 years (OR: 2.50; CI: 1.41-4.43; p=0.002). Conclusions: The prevalence of LTBI in prison is very high, especially amongst inmates over 40 and those who have been in prison for more than five years. To prevent the risk of progression to tuberculosis, treatment is recommended for those who require it along with the maintenance of control programmes for this pathology(AU)</dc:description>
+<dc:creator>Vera-Remartínez, E. J</dc:creator>
+<dc:creator>Sáiz de la Hoya Zamácola, P</dc:creator>
+<dc:creator>Marco Mouriño, A</dc:creator>
+<dc:creator>García-Guerrero, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Estudiar la prevalencia de infección tuberculosa latente (ITL) entre los presos internados en las prisiones españolas. Material y Método: Estudio multicéntrico, observacional y transversal; muestreo por conglomerado bietápico. Se recogieron variables sociodemográficas, penitenciarias y clínico-serológicas. Se realizó análisis univariante, bivariante y multivariante mediante regresión logística con las variables que mostraron significación estadística. Se calculó la odds ratio con intervalo de confianza del 95%. Resultados: 378 pacientes. Se dispuso de intradermorreacción de Mantoux (IDRM) valorable en el 90,2%. 91,2% hombres, 37,8% extranjeros con edad media de 35,9±10,3 años. Mediana de estancia en prisión: 2 años y el 28,7% había estado &gt; 5 años en prisión. El 49,6% ingresó en prisión en 2006 o antes. El 24,5% tenía antecedentes de uso de drogas intravenosas (UDI). El 50,4% presentaba ITL que se asoció a: edad &gt; 40 años (63,2 vs 43,8%; IC: 1,39-3,49; OR: 2,20; p=0,001); haber estado &gt; 5 años en prisión (71,2 vs 41,3%; IC: 2,13-5,75; OR: 3,50; p&lt;0,001); estar en prisión desde 2006 o antes (58,1 vs 42,6%; IC: 1,22-2,88; OR:1,87; p=0,004); estar infectado por el VHC+ (66,3 vs 45,3%; IC:1,40-4,0; OR: 2,37; p=0,001). El modelo de regresión logística confirmó la asociación independiente de la ITL con: a) edad &gt; 40 años (OR:1,76; IC: 1,08-2,87; p=0,024); y b) estancia &gt; 5 años en prisión (OR: 2,50; IC: 1,41-4,43; p=0,002). Conclusiones: La prevalencia de ITL en prisión es muy alta, sobre todo en los mayores de 40 años y los que están más de cinco años en prisión. Para evitar el riesgo de progresión a tuberculosis, se recomienda tratar a los infectados que lo precisen y mantener los programas de control de esta patología(AU)</dc:description>
+<dc:source>Rev. esp. sanid. penit;12(3): 79-85, 2010. tab</dc:source>
+<dc:identifier>ibc-82389</dc:identifier>
+<dc:title xml:lang="es">Estudio multicéntrico de prevalencia de infección tuberculosa latente en los internados en prisiones españolas</dc:title>
+<dc:subject>^d14778^s22012</dc:subject>
+<dc:subject>^d14778^s22054</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d11765^s22049</dc:subject>
+<dc:subject>^d14778^s22080</dc:subject>
+<dc:subject>^d29640</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d11765^s22074</dc:subject>
+<dc:subject>^d11765^s22045</dc:subject>
+<dc:subject>^d22710^s22083</dc:subject>
+<dc:subject>^d24811</dc:subject>
+<dc:subject>^d22710^s22066</dc:subject>
+<dc:subject>^d28408</dc:subject>
+<dc:subject>^d14778^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201000</dc:date>
+</metadata>
+</record>
+</ibecs-document>

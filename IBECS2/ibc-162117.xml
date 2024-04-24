@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-162117</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Noninvasive hemoglobin monitoring in critically ill pediatric patients at risk of bleeding</dc:title>
+<dc:description xml:lang="en">Objective: To determine the accuracy and usefulness of noninvasive continuous hemoglobin (Hb) monitoring in critically ill patients at risk of bleeding. Design: An observational prospective study was made, comparing core laboratory Hb measurement (LabHb) as the gold standard versus transcutaneous hemoglobin monitoring (SpHb). Setting: Pediatric Intensive Care Unit of a tertiary University Hospital. Patients: Patients weighing &gt;3kg at risk of bleeding. Interventions: SpHb was measured using the Radical7 pulse co-oximeter (Masimo Corp., Irvine, CA, USA) each time a blood sample was drawn for core laboratory analysis (Siemens ADVIA 2120i). Variables: Sociodemographic characteristics, perfusion index (PI), pleth variability index, heart rate, SaO2, rectal temperature, low signal quality and other events that can interfere with measurement. Results: A total of 284 measurements were made (80 patients). Mean LabHb was 11.7±2.05g/dl. Mean SpHb was 12.32±2g/dl (Pearson 0.72, R2 0.52). The intra-class correlation coefficient was 0.69 (95%CI 0.55-0.78)(p&lt;0.001). Bland-Altman analysis showed a mean difference of 0.07 ±1.46g/dl. A lower PI and higher temperature independently increased the risk of low signal quality (OR 0.531 [95%CI 0.32-0.88] and 0.529 [95%CI 0.33-0.85], respectively). Conclusions: SpHb shows a good overall correlation to LabHb, though with wide limits of agreement. Its main advantage is continuous monitoring of patients at risk of bleeding. The reliability of the method is limited in cases with poor peripheral perfusion (AU)</dc:description>
+<dc:creator>Milano Manso, G</dc:creator>
+<dc:creator>González Gómez, JM</dc:creator>
+<dc:creator>Camacho Alonso, JM</dc:creator>
+<dc:creator>García Soler, P</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Determinar la validez y precisión de un método de medición continua transcutánea de la concentración de hemoglobina (Hb) en pacientes críticos con riesgo de sangrado. Diseño: Estudio observacional prospectivo comparando el estándar de referencia con la determinación transcutánea de hemoglobina (SpHb). Ámbito: Unidad de cuidados intensivos pediátricos de un hospital universitario de tercer nivel. Pacientes: Muestra consecutiva de pacientes con peso &gt;3kg y riesgo de sangrado. Intervenciones: Medición de SpHb mediante el cooxímetro de pulso Radical7 (Masimo Corp., Irvine, CA) en cada extracción sanguínea con determinación de Hb analizada con estándar de referencia (Siemens ADVIA 2120i). Variables: Variables epidemiológicas, índice de perfusión (IP), índice de variabilidad pletismográfica, frecuencia cardiaca, SaO2, temperatura rectal, baja calidad de señal, así como otros factores que pueden afectar a la medición. Resultados: Se realizaron 284 mediciones (80 pacientes). La media de Hb por el analizador central fue de 11,7±2,05g/dl. La media de SpHb fue de 12,32±2g/dl (Pearson 0,72, R2 0,52). El índice de correlación intraclase fue de 0,69 (IC95%: 0,55-0,78), p&lt;0,001. El diagrama de Bland-Altman mostró una diferencia media entre ambos métodos de 0,66±1,46g/dl. Un menor IP y una mayor temperatura rectal incrementaron de forma independiente el riesgo de baja calidad de la señal (OR 0,531 [IC95%: 0,32-0,88] y 0,529 [IC95%: 0,33-0,85], respectivamente). Conclusiones: La SpHb presenta buena correlación con la obtenida por el analizador central, aunque los límites de concordancia son amplios. Su principal ventaja es la posibilidad de monitorización continua en pacientes con riesgo de sangrado. La fiabilidad de este método es limitada en casos de mala perfusión periférica (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);41(4): 209-215, mayo 2017. tab, graf</dc:source>
+<dc:identifier>ibc-162117</dc:identifier>
+<dc:title xml:lang="es">Monitorización no invasiva transcutánea de la concentración de hemoglobina en pacientes críticos pediátricos con riesgo de sangrado</dc:title>
+<dc:subject>^d6622^s22054</dc:subject>
+<dc:subject>^d3439^s22045</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d33939^s22045</dc:subject>
+<dc:subject>^d30170</dc:subject>
+<dc:subject>^d22190^s22002</dc:subject>
+<dc:subject>^d22594^s22074</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d755^s22032</dc:subject>
+<dc:subject>^d23699^s22083</dc:subject>
+<dc:subject>^d9183^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201705</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-85208</identifier>
+<setSpec>1888-4008</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Implementation of biological variation on analytical goals in the clinical laboratory</dc:title>
+<dc:description xml:lang="en">Introduction. Various criteria have been developed to establish the quality that laboratories must achieve. At the Stockholm Conference a hierarchical model was established for analytical quality specifications. Introduction. The aim of this study was to evaluate the biological variability in multiple biochemical parameters over one year. Materials and methods. Every month, each parameter, was calculated for imprecision, systematic error (SE) and total error (TE), as well as calculating the relative variation coefficient (RVC). Results. A total of 29 parameters were evaluated for routine and 31 for emergencies. For routine, the imprecision criteria, SE and TE were fulfilled in 80%, 81% and 97%, respectively; and for emergencies in 84%, 90% and 100% respectively. The sodium ion was the only parameter that did not fulfil any of the three criteria. The worst results were registered by those parameters with low biological variability. For the relative variation coefficient (RVC), only the sodium ion did not conform. There were no significant differences found between the results when comparing the quality specifications obtained between routine and emergency analyses. Discusion. Even though the results obtained are acceptable, the analytical quality cannot be guaranteed for some parameters and should be reviewed. The best results were obtained using TE. Therefore, the Stockholm model for quality specifications should be implemented in both routine and emergencies laboratories (AU)</dc:description>
+<dc:creator>Esteve Poblador, Sara</dc:creator>
+<dc:creator>Bosch Pardo, Eunice</dc:creator>
+<dc:creator>Ortuño Alonso, Mario</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. Para establecer el nivel de la calidad que los laboratorios deben alcanzar se han desarrollado diversos criterios. En la Conferencia de Estocolmo se estableció un modelo jerárquico para las especificaciones de la calidad analítica. El objetivo de este trabajo ha sido evaluar durante un año para múltiples magnitudes bioquímicas, tanto en el área de rutina como urgencias, de las cinco propuestas de Estocolmo, la de la variabilidad biológica. Material y métodos. Se ha calculado mensualmente para cada magnitud la imprecisión, el error sistemático (ES) y el error total (ET), y por otra parte, se ha calculado el coeficiente de variación relativo (CVR). Resultados. Se han evaluado 29 magnitudes para rutina y 31 para urgencias. Para rutina los criterios de imprecisión, ES y ET fueron cumplidos en el 80%, 81% y 97%, respectivamente; y para urgencias en el 84%, 90% y 100%. El ión sodio fue la única magnitud que no cumplió ninguno de los tres criterios. Los peores resultados los registraron aquellas magnitudes con variabilidad biológica baja. Para el coeficiente de variación relativo (CVR), únicamente el ión sodio fue no conforme. No se han observado diferencias significativas al comparar las especificaciones de la calidad obtenidas para rutina y urgencias. Discusión. Aunque los resultados obtenidos son aceptables, la calidad analítica no está garantizada para algunas magnitudes y habría que revisarlas. Los mejores resultados se obtienen utilizando el ET. Por tanto, el modelo de Estocolmo de especificaciones de la calidad debe ser implementado tanto en el laboratorio de rutina como en el de urgencia (AU)</dc:description>
+<dc:source>Rev. lab. clín;3(4): 153-160, oct.-dic. 2010. tab, ilus</dc:source>
+<dc:identifier>ibc-85208</dc:identifier>
+<dc:title xml:lang="es">Implementación de la variabilidad biológica como objetivo de la calidad en un laboratorio clínico</dc:title>
+<dc:subject>^d^s22066</dc:subject>
+<dc:subject>^d29563^s22049</dc:subject>
+<dc:subject>^d7931^s22048</dc:subject>
+<dc:subject>^d29563^s22048</dc:subject>
+<dc:subject>^d7931^s22049</dc:subject>
+<dc:subject>^d^s22045</dc:subject>
+<dc:subject>^d33551^s22074</dc:subject>
+<dc:subject>^d33124^s22048</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d51308</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d12223</dc:subject>
+<dc:subject>^d34002</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201012</dc:date>
+</metadata>
+</record>
+</ibecs-document>

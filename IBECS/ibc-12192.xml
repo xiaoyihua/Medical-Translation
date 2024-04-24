@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-12192</identifier>
+<setSpec>0034-7973</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Evaluation an automatic system of antibacterial sensitivity to Staphylococcus sp isolated from environmental samples</dc:title>
+<dc:creator>Barbeyto, L</dc:creator>
+<dc:creator>Vivas, J</dc:creator>
+<dc:creator>Saá, A. I</dc:creator>
+<dc:creator>Rodríguez, L. A</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Editorial Siglo, S.L.</dc:publisher>
+<dc:description xml:lang="es">El sistema automático estudiado, contiene unos paneles (MIC PANELS) que son utilizados para medir cualitativamente la sensibilidad de los microorganismos frente a una batería de agentes antimicrobianos. Se determinó la sensibilidad a los agentes antimicrobianos utilizando antibiogramas en laboratorio, en especies del género Staphylococcus aisladas de muestras medioambientales. El porcentaje de correlación entre ambos métodos resultó ser un 73.98 por ciento. Los resultados muestran que es un sistema poco fiable en la determinación de un perfil de antibiograma para las muestras evaluadas. Una de las posibles causas de este bajo porcentaje de correlación puede ser debido a la incompleta solubilización de algunos sustratos. Además de un posible almacenamiento de los paneles en condiciones diferentes a las recomendadas, pueden producir la pérdida de potencia de los agentes antimicrobianos. Seria necesario realizar controles de calidad más exhaustivos, y controlar en todo momento las condiciones de almacenado de los paneles (AU)</dc:description>
+<dc:source>Rev. diagn. biol;49(1): 7-10, ene. 2000. tab</dc:source>
+<dc:identifier>ibc-12192</dc:identifier>
+<dc:title xml:lang="es">Valoración de un sistema automático de sensibilidad antimicrobiana en especies del género Staphylococcus sp. de muestras medioambientales</dc:title>
+<dc:subject>^d13596^s22052</dc:subject>
+<dc:subject>^d13597^s22021</dc:subject>
+<dc:subject>^d683^s22078</dc:subject>
+<dc:subject>^d23255^s22078</dc:subject>
+<dc:subject>^d13597^s22052</dc:subject>
+<dc:subject>^d24244^s22045</dc:subject>
+<dc:subject>^d8889^s22078</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d13596^s22021</dc:subject>
+<dc:subject>^d13590^s22057</dc:subject>
+<dc:subject>^d23504^s22078</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200001</dc:date>
+</metadata>
+</record>
+</ibecs-document>

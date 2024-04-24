@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-141796</identifier>
+<setSpec>1989-1342</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Macular pigment spatial distribution effects on glare disability</dc:title>
+<dc:description xml:lang="en">Purpose: This project explored the relationship of the macular pigment optical density (MPOD) spatial profile with measures of glare disability (GD) across the macula. Methods: A novel device was used to measure MPOD across the central 16° of retina along four radii using customized heterochromatic flicker photometry (cHFP)at eccentricities of 0°, 2°, 4°, 6° and 8°. MPOD was measured as discrete and integrated values at all measured retinal loci. GD was calculated as a difference in contrast sensitivity (CS) between no glare and glare conditions using identical stimuli presented at the same eccentricities. GD was defined as [(CSNo Glare&amp;#8722;CSGlare)/CSNo Glare] in order to isolate the glare attenuation effects of MPOD by controlling for CS variability among the subject sample. Correlations of the discrete and integrated MPOD with GD were compared. Results: The cHFP identified reliable MPOD spatial distribution maps demonstrating a 1st-order exponential decay as a function of increasing eccentricity. There was a significant negative correlation between both measures of foveal MPOD and GD using 6cycles per degree (cpd) and 9cpd stimuli. Significant correlations were found between corresponding parafoveal MPOD measures and GD at 2 and 4° of eccentricity using 9cpd stimuli with greater MPOD associated with less glare disability. Conclusions: These results are consistent with the glare attenuation effects of MP at higher spatial frequencies and support the hypothesis that discrete and integrated measures of MPOD have similar correlations with glare attenuation effects across the macula. Additionally, peak foveal MPOD appears to influence GD across the macula (AU)</dc:description>
+<dc:creator>Putnam, Christopher M</dc:creator>
+<dc:creator>Bassi, Carl J</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objetivo: Este estudio analizó el perfil espacial de la relación entre la densidad óptica del pigmento macular (MPOD) y las mediciones de deslumbramiento (glare) discapacitante (GD) a lo largo de la mácula. Métodos: Se utilizó un nuevo dispositivo para medir la MPOD a lo largo de los 16 grados centrales de la retina, distribuidos en 4 radios, utilizando un fotómetro intermitente heterocromático personalizado (cHFP) a excentricidades de 0, 2, 4, 6 y 8 grados. Se midió la MPOD como valores discretos e integrados, en todas las localizaciones retinianas medidas. Se calculó el GD como diferencia de sensibilidad al contraste (CS) entre las condiciones sin y con deslumbramiento, utilizando estímulos iguales, presentados en las mismas excentricidades. El GD se definió como [(CSNo Glare - CSGlare)/CSNo Glare] a fin de aislar los efectos de la MPOD en la atenuación del deslumbramiento mediante el control de la variabilidad de CS en la muestra de sujetos. Se compararon las mediciones de la MPOD discreta e integrada con GD. Resultados: El cHFP identificó unos mapas de distribución espacial fiables de la MPOD, que demostraron un deterioro exponencial de 1er orden, como función del incremento de la excentricidad. Se produjo una importante correlación negativa entre las mediciones de la MPOD foveal y el GD, utilizando estímulos de 6 ciclos por grado (cpd) y 9cpd. Se hallaron correlaciones significativas entre las mediciones correspondientes de la MPOD parafoveal y el GD a 2 y 4 grados de excentricidad, utilizando estímulos de 9cpd, siendo menor la discapacidad por deslumbramiento a mayor MPOD. Conclusiones: Estos resultados son consistentes con los efectos de del pigmento macular en la atenuación del deslumbramiento discapacitante para frecuencias espaciales altas, apoyando la hipótesis relativa a que las mediciones discretas e integradas de la MPOD tienen correlaciones similares con los efectos de atenuación del deslumbramiento a través de la mácula. Además, el pico foveal de MOPD parece influir en el GD macular (AU)</dc:description>
+<dc:source>J. optom. (Internet);8(4): 258-265, oct.-dic. 2015. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-141796</dc:identifier>
+<dc:title xml:lang="es">Efectos de la distribución espacial del pigmento macular en el nivel de discapacidad por deslumbramiento</dc:title>
+<dc:subject>^d33171</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12452^s22032</dc:subject>
+<dc:subject>^d24366^s22031</dc:subject>
+<dc:subject>^d52978^s22031</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201512</dc:date>
+</metadata>
+</record>
+</ibecs-document>

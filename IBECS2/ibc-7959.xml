@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-7959</identifier>
+<setSpec>0034-7973</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Phenytoin plasma levels monitoring</dc:title>
+<dc:creator>Varona, J</dc:creator>
+<dc:creator>Martín Calderón, J. L</dc:creator>
+<dc:creator>Espina, L. M</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Editorial Siglo, S.L.</dc:publisher>
+<dc:description xml:lang="es">La fenitoína es un fármaco utilizado ampliamente en la práctica clínica para el tratamiento de la epilepsia mayor, de las crisis convulsivas parciales y convulsiones tónico-clónicas generalizadas y menos frecuentemente para otros trastonos como las arritmias cardiacas o las neuralgias del trigémino. Es uno de los fármacos que más frecuentemente se monitorizan por el laboratorio clínico debido a varios motivos: 1. posee un margen terapeútico estrecho con un índice terapeútico bajo; 2. la relación entre la dosis y el nivel plasmático puede resultar impredecible debido a la gran variación interindividual; 3. la cinética de metabolismo es saturable dentro del rango terapeútico, lo que significa que pequeñas variaciones de la dosis pueden producir grandes aumentos de niveles plasmáticos. Las indicaciones de su monitorización son las sospechas de falta de cumplimiento terapéutico o de intoxicación y la presentación de convulsiones. En este trabajo revisamos las propiedades farmacológicas de la fenitoína estudiando especialmente la farmacocinética, las reacciones adversas debidas a sobredosis y los métodos analíticos empleados en el laboratorio para su medida (AU)</dc:description>
+<dc:source>Rev. diagn. biol;50(2): 65-69, abr. 2001. tab</dc:source>
+<dc:identifier>ibc-7959</dc:identifier>
+<dc:title xml:lang="es">Monitorización de niveles plasmáticos de fenitoína</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d934^s22079</dc:subject>
+<dc:subject>^d934^s22078</dc:subject>
+<dc:subject>^d54899</dc:subject>
+<dc:subject>^d10867^s22062</dc:subject>
+<dc:subject>^d10867^s22078</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d10867^s22068</dc:subject>
+<dc:subject>^d10867^s22079</dc:subject>
+<dc:subject>^d934^s22062</dc:subject>
+<dc:subject>^d4907^s22057</dc:subject>
+<dc:subject>^d22512^s22045</dc:subject>
+<dc:subject>^d1800</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200104</dc:date>
+</metadata>
+</record>
+</ibecs-document>

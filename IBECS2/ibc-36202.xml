@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-36202</identifier>
+<setSpec>0014-2565</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Distinguishing pleural transudates and exudates through the quantification of biochemical parameters</dc:title>
+<dc:creator>Márquez de Prado Urquía, M. M</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivos. 1) evaluar la capacidad de separación de trasudados y exudados pleurales mediante la determinación conjunta de 26 parámetros bioquímicos en líquido pleural y en plasma (incluyendo la determinación de proteínas de alto peso molecular, reactantes de fase aguda y citocinas proinflamatorias), y 2) formular una ecuación de regresión logística que optimice la eficiencia clasificadora, comparando la ecuación obtenida con los criterios de Light. Pacientes y métodos. Se estudiaron todas las toracocentesis diagnósticas realizadas en la Comunidad Autónoma de La Rioja durante un período de 22 meses. Las 245 historias clínicas fueron evaluadas periódicamente durante un mínimo de dos años tras el alta de los pacientes. Se cuantificaron en líquido pleural y plasma: proteínas totales, lacticodeshidrogenasa, glucosa, amilasa, colesterol, albúmina, colinesterasa, fosfatasa alcalina, urea, Beta2-microglobulina, inmunoglobulina g, inmunoglobulina M, alfa2-macroglobulina, proteína-C reactiva, transferrina, (alfa1-antitripsina, proteína amiloide sérica A, interleucina 1-Beta, interleucina 6, factor de necrosis tumoral-alfa y lisozima. En líquido pleural se evaluó adicionalmente la celularidad, elastasa polimorfonuclear y adenosín-deaminasa. Resultados. El cociente líquido pleural/plasma de lacticodeshidrasa fue el parámetro individual que mostró mayor área bajo la curva ROC en la separación de trasudados y exudados pleurales. La interleucina 6 y el factor de necrosis tumoral- mostraron cocientes líquido pleural/plasma superiores a la unidad, lo que sugiere una producción in situ de las citocinas. Se obtuvo una ecuación de regresión logística predictiva que incorpora únicamente los valores de los cocientes de lacticodeshidrasa y de colesterol, contemplando el tratamiento diurético del paciente en el momento de la toracocentesis, el cual no modificó las concentraciones proteicas en líquido pleural. Excepto para el caso del cociente de lacticodeshidrasa, la ecuación de regresión logística mostró un área bajo la curva ROC superior a la de todos los parámetros individuales evaluados, con una sensibilidad del 95 por ciento y una especificidad del 85 por ciento (70 por ciento para los criterios de Light). Conclusiones. El cociente de lacticodeshidrasa es el mejor parámetro individual en la diferenciación de trasudados y exudados pleurales. La evaluación adicional del cociente de colesterol y del estado diurético del paciente permiten mejorar la eficiencia clínica de dicha clasificación. La cuantificación de proteínas de alto peso molecular, reactantes de fase aguda y citocinas no aporta mejoras significativas adicionales (AU)</dc:description>
+<dc:source>Rev Clin Esp;204(10): 511-520, oct. 2004.</dc:source>
+<dc:identifier>ibc-36202</dc:identifier>
+<dc:title xml:lang="es">Separación de trasudados y exudados pleurales mediante la cuantificación de parámetros bioquímicos</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d11427</dc:subject>
+<dc:subject>^d28614</dc:subject>
+<dc:subject>^d5224</dc:subject>
+<dc:subject>^d1695</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200410</dc:date>
+</metadata>
+</record>
+</ibecs-document>

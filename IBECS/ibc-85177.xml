@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-85177</identifier>
+<setSpec>1888-4008</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Evaluation of the troponin I on the Pathfast(R) analyzer</dc:title>
+<dc:description xml:lang="en">Introduction. The Pathfast(R) (Mitsubishi Kagaku Iatron) is a compact chemiluminescent immunoassay analyser that is capable of processing either plasma or blood samples. Objectives. In this study we have evaluated some operational characteristics such as within assay variability, between-day variability, reference values, comparison with another method (Dimension® RxL, Dade Behring), analytical sensitivity, quantitation limits, endogenous interferences by triglycerides, haemoglobin and bilirubin, and false positives in other diseases. Materials and Methods. The evaluation of Troponin l was designed as a multicentre study in which the emergency laboratories of four Spanish Hospitals took part. Results. The within assay coefficient of variation (CV) was lower than 5% whereas the between-day CV did not exceed 10%. The overall analytical sensitivity for the four laboratories was between 0.003 and 0.008ng/ml. The quantitation limit was 0.025ng/ml. The regression obtained between plasma and blood was Troponin I (plasma)=&amp;#8722;0.0008+0.9499×Troponin I (blood), and between Pathfast (R) and the comparison method was Troponin I (Pathfast)=&amp;#8722;0.0019+0.2903×Troponin I (Dimension RxL). Tests of endogenous interferences showed that the results are not altered significantly in the presence of triglyceride, bilirubin or free haemoglobin. The study of other clinical diseases (Renal Impairment, Stroke, Multiple trauma) did not show any differences in the method comparison. Discussion. In summary, the Pathfast(R) analyser is reliable, precise and easy to handle, useful for laboratories of small and average size, or for emergency laboratories (AU)</dc:description>
+<dc:creator>Izquierdo, Fernando</dc:creator>
+<dc:creator>Paz Laporta, Paz</dc:creator>
+<dc:creator>Ekizoglou, Nikos</dc:creator>
+<dc:creator>Gómez Gerique, Juan Antonio</dc:creator>
+<dc:creator>Galán, Amparo</dc:creator>
+<dc:creator>Garnacho, Nuria</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. El Pathfast(R) (Mitsubishi Kagaku Iatron) es un analizador compacto de quimioinmunoluminiscencia que puede procesar indistintamente muestras de plasma y de sangre. Objetivos. En este estudio se han evaluado algunas características del procedimiento: repetibilidad, reproducibilidad, comparación con otro procedimiento (Dimension(R) RxL, Dade Behring), límite de detección, límite de cuantificación, interferentes endógenos por triglicérido, hemoglobina y bilirrubina, y tambien se ha estudiado la presencia de falsos positivos presentes en enfermedades sin isquemia miocárdica. Material y métodos. El diseño ha sido de un estudio multicéntrico en el que han participado los laboratorios de urgencias de 4 hospitales españoles. La magnitud biológica elegida para llevar a cabo esta evaluación ha sido la troponina I (TnI). Resultados. Los coeficientes de variación (CV) intradía fueron inferiores al 5%, mientras que los CV interdía no superaron el 10%. El límite de detección se situó entre 0,003 y 0,008ng/ml para los laboratorios participantes. El límite de cuantificación obtenido fue de 0,025ng/ml. La regresión obtenida entre suero y plasma fue de TnI (plasma)=&amp;#8722;0,0008+0,9499×TnI (sangre), y la regresión obtenida con el método de comparación fue de TnI (Pathfast(R))=&amp;#8722;0,0019+0,2903×TnI (Dimension(R) RxL). El estudio de interferencias endógenas muestra que los resultados no se alteran significativamente en presencia de triglicérido, bilirrubina o hemoglobina libre. El estudio de otras entidades clínicas (insuficiencia renal, accidente cerebrovascular y politraumatismo) no ha mostrado diferencias con el procedimiento de comparación. Discusión. En resumen, el analizador Pathfast® resulta un equipo fiable, preciso y fácil de manejar, útil para laboratorios de tamaño pequeño y medio, o para laboratorios de urgencias (AU)</dc:description>
+<dc:source>Rev. lab. clín;2(3): 131-138, jul.-sept. 2009.</dc:source>
+<dc:identifier>ibc-85177</dc:identifier>
+<dc:title xml:lang="es">Evaluación de la troponina I en el analizador Pathfast(R)</dc:title>
+<dc:subject>^d29203^s22045</dc:subject>
+<dc:subject>^d29203^s22074</dc:subject>
+<dc:subject>^d33046</dc:subject>
+<dc:subject>^d8338^s22066</dc:subject>
+<dc:subject>^d8338^s22045</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:subject>^d29640</dc:subject>
+<dc:subject>^d33046^s22002</dc:subject>
+<dc:subject>^d8338^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200909</dc:date>
+</metadata>
+</record>
+</ibecs-document>

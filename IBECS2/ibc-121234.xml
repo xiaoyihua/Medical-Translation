@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-121234</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Development of an excel spreadsheet for meta analysis of indirect and mixed treatment comparisons</dc:title>
+<dc:description xml:lang="en">Metaanalyses in clinical research usually aimed to evaluate treatment efficacy and safety in direct comparison with a unique comparator. Indirect comparisons, using the Bucher&#146;s method, can summarize primary data when information from direct comparisons is limited or nonexistent. Mixed comparisons allow combining estimates from direct and indirect comparisons, increasing statistical power. There is a need for simple applications for metaanalysis of indirect and mixed comparisons. These can easily be conducted using a Microsoft Office Excel spreadsheet.We developed a spreadsheet for indirect and mixed effects comparisons of friendly use for clinical researchers interested in systematic reviews, but nonfamiliarized with the use of more advanced statistical packages. The use of the proposed Excel spreadsheet for indirect and mixed comparisons can be of great use in clinical epidemiology to extend the knowledge provided by traditional metaanalysis when evidence from direct comparisons is limited or nonexistent (AU)</dc:description>
+<dc:creator>Roqué, Marta</dc:creator>
+<dc:creator>CataláLópez, Ferrán</dc:creator>
+<dc:creator>Tobías, Aurelio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En investigación clínica, el metaanálisis ha servido generalmente para evaluar la eficacia y la seguridad de un tratamiento a través de la comparación con un único comparador. Las comparaciones indirectas, a través del método de Bucher, permiten combinar datos procedentes de estudios primarios de una forma sencilla cuando la información para las comparaciones directas es limitada o inexistente. Las comparaciones mixtas permiten combinar las estimaciones procedentes de comparaciones directas e indirectas, aumentando el poder estadístico. En la actualidad, es necesario el desarrollo de aplicaciones informáticas para el cálculo de metaanálisis de comparaciones indirectas y mixtas. Por este motivo, se ha desarrollado una hoja de cálculo con Microsoft Office Excel para el cálculo de comparaciones indirectas y mixtas, de uso sencillo para investigadores clínicos interesados en revisiones sistemáticas con metaanálisis, pero no familiarizados con el uso de paquetes estadísticos más avanzados. La utilización de esta hoja de cálculo para las comparaciones indirectas y mixtas puede ser de gran utilidad en epidemiología clínica, con el fin de extender el conocimiento proporcionado por el metaanálisis tradicional cuando la evidencia de las comparaciones directas es limitada o inexistente (AU)</dc:description>
+<dc:source>Rev Esp Salud Publica;88(1): 5-15, ene.-feb. 2014. tab, ilus</dc:source>
+<dc:identifier>ibc-121234</dc:identifier>
+<dc:title xml:lang="es">Desarrollo de una hoja excel para metaanálisis de comparaciones indirectas y mixtas</dc:title>
+<dc:subject>^d28214</dc:subject>
+<dc:subject>^d53366^s22083</dc:subject>
+<dc:subject>^d28455^s22083</dc:subject>
+<dc:subject>^d22983</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d33150^s22083</dc:subject>
+<dc:subject>^d53366^s22048</dc:subject>
+<dc:subject>^d33150^s22045</dc:subject>
+<dc:subject>^d53366^s22049</dc:subject>
+<dc:subject>^d12527^s22083</dc:subject>
+<dc:subject>^d33150^s22049</dc:subject>
+<dc:subject>^d33150^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201402</dc:date>
+</metadata>
+</record>
+</ibecs-document>

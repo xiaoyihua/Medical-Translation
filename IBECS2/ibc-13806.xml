@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-13806</identifier>
+<setSpec>0378-4835</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:creator>Yáñez, J</dc:creator>
+<dc:creator>Alcaraz Baños, M</dc:creator>
+<dc:creator>Rodríguez, J</dc:creator>
+<dc:creator>Martínez, C</dc:creator>
+<dc:creator>Vicente, V</dc:creator>
+<dc:creator>Canteras, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Alpe Editores, S.A.</dc:publisher>
+<dc:description xml:lang="es">Propósito: Estudiamos la respuesta antiproliferativa de la línea celular de melanoma humano SK-MEL-1 al tratamiento con seis flavonoides y la relación con su estructura química. Material y métodos: Realizamos ensayos de viabilidad celular a 24 y 72 horas, mediante el test colorimétrico con 3-[4,5-Dimetiltiazol-2-il]-2,5-difeniltetrazolio (MTT).Resultados: A las 24 horas de exposición solo dos, tangeretina y luteolina, presentaban ligera inhibición a la máxima concentración utilizada, no observando respuesta con el resto de las sustancias. A las 72 horas, la tangeretina mostraba una clara inhibición del crecimiento y la 7,3`-dimetilhesperetina presentaba inhibición a la máxima concentración, mientras que con los restantes fue negativa. Conclusiones: Los resultados sugieren que la ausencia de doble enlace C2-C3 en flavonoides hidroxilados conlleva la pérdida de su actividad (hesperetina), y que la presencia de al menos tres grupos metoxilados adyacentes confiere un efecto antiproliferativo más potente (tangeretina) (AU)</dc:description>
+<dc:source>Oncologia;25(4): 208-214, abr. 2002. ilus, graf</dc:source>
+<dc:identifier>ibc-13806</dc:identifier>
+<dc:title xml:lang="es">Efecto de seis flavonoides sobre el crecimiento de la línea de melanoma humano SK-MEL-1</dc:title>
+<dc:subject>^d2183</dc:subject>
+<dc:subject>^d8714^s22057</dc:subject>
+<dc:subject>^d28620</dc:subject>
+<dc:subject>^d38672^s22073</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29770</dc:subject>
+<dc:subject>^d2505</dc:subject>
+<dc:subject>^d14384</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200204</dc:date>
+</metadata>
+</record>
+</ibecs-document>

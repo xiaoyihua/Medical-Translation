@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-120731</identifier>
+<setSpec>1137-6821</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Deaths in hospital emergency departments in Andalusia: patient characteristics</dc:title>
+<dc:description xml:lang="en">Objective: To describe the characteristics of patients who die in hospital emergency departments in Andalusia, Spain, in relation to patients who die after hospitalization. Methods: Deaths occurring in an emergency department or in other departments of Andalusian hospitals we reanalyzed; data were extracted from the hospitals&#146; minimum basic data sets. Age, marital status, province, and cause of death were recorded. From the data we constructed logistic regression models and estimated crude and adjusted odds ratios (ORs) and 95% CIs. Results: Of the 23 295 deaths registered, 2853 occurred in emergency departments; 47.7% of the deceased patients were females. More deaths occurred among widows or widowers and among patients with cancer or ischemic heart disease. After adjustment for confounders, the variables that remained associated with risk of death in the emergency department were older age and ischemic heart disease (OR, 1.56).Conclusion: Most deaths in Andalusian emergency departments are in elderly persons and the main cause of death is ischemic heart disease (AU)</dc:description>
+<dc:creator>García-León, F. J</dc:creator>
+<dc:creator>López-Campos, J. L</dc:creator>
+<dc:creator>Ruiz-Ramos, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Describir las características de los pacientes que fallecen en el servicio de urgencias y compararlas con las de aquellos que fallecen en las áreas de hospitalización. Método: A partir del Conjunto Mínimo Básico de Datos (CMBD) hospitalarios se analizaron las defunciones ocurridas en el área de hospitalización y en el área de urgencias de los hospitales públicos de Andalucía. De ellas se obtuvieron la edad, sexo, estado civil, provincia de defunción, causa básica de defunción. Con estos datos se construyeron modelos de regresión logística y se estimaron las Odds Ratios crudas (ORc) y ajustadas(ORa) y sus intervalos de confianza al 95%.Resultados: De 23.295 defunciones de las que se tenía constancia que se habían producido en el hospital, 2.853 ocurrieron en las áreas de urgencias (47,7% mujeres). Se produjeron más fallecimientos en los grupos de viudos, de enfermos con cáncer y enfermedades isquémicas del corazón. Tras ajustar por las variables confusoras, el mayor riesgo de morir en las áreas de urgencias se produjo con el incremento de la edad y padecer una enfermedad isquémica del corazón (ORa: 1,56).Conclusiones: En las áreas de urgencia de los hospitales públicos andaluces fallecen personas muy mayores principalmente debido a enfermedades isquémicas del corazón (AU)</dc:description>
+<dc:source>Emergencias (Sant Vicenç dels Horts);26(2): 109-113, abr. 2014. tab</dc:source>
+<dc:identifier>ibc-120731</dc:identifier>
+<dc:title xml:lang="es">Características demográficas de la mortalidad en los servicios de urgencias hospitalarios de Andalucía</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d30047</dc:subject>
+<dc:subject>^d28418</dc:subject>
+<dc:subject>^d4707^s22083</dc:subject>
+<dc:subject>^d28637</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201404</dc:date>
+</metadata>
+</record>
+</ibecs-document>

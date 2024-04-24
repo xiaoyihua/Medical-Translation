@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-83578</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Drug-induced lupus</dc:title>
+<dc:description xml:lang="en">Drug-induced lupus (DIL) is syndrome characterised by the occurrence of lupus-like symptoms and serological findings, following exposure to certain drugs. A substantial number of drugs can induce the positivity of antinuclear antibodies (ANA) but the diagnosis of DIL cannot be done in the absence of clinical features (AU)</dc:description>
+<dc:creator>Aguirre Zamorano, Mª Angeles</dc:creator>
+<dc:creator>López Pedrera, Rosario</dc:creator>
+<dc:creator>Cuadrado Lozano, Mª Jose</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El lupus inducido por fármacos (LIF) es un síndrome que comparte síntomas y características de laboratorio con el lupus eritematoso sistémico (LES) idiopático y que se presenta tras la exposición a ciertos fármacos (AU)</dc:description>
+<dc:source>Med. clín (Ed. impr.);135(3): 124-129, jun. 2010. tab</dc:source>
+<dc:identifier>ibc-83578</dc:identifier>
+<dc:title xml:lang="es">Lupus inducido por fármacos</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d32350^s22027</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d38737^s22020</dc:subject>
+<dc:subject>^d9099^s22020</dc:subject>
+<dc:subject>^d8356^s22016</dc:subject>
+<dc:subject>^d13195</dc:subject>
+<dc:subject>^d8356^s22036</dc:subject>
+<dc:subject>^d28231^s22020</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201006</dc:date>
+</metadata>
+</record>
+</ibecs-document>

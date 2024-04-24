@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-163477</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Evaluation of a dilution method for non-evaluable results in the detection of Chlamydia trachomatis and Neisseria gonorrhoeae with the Cobas 4800 platform</dc:title>
+<dc:description xml:lang="en">Introduction: A variable percentage of samples analysed using the Cobas 4800 assay can give an invalid result by PCR inhibition or erroneous due to incorrect DNA extraction with the Cobas 4800 CT/NG test. Method: An analysis was performed using the vortex agitation and dilution protocol on the original sample (swab or urine) for a total of 116 samples. In order to analyse the sensitivity of this method, 100 samples (swabs and urine) with known results were retested. Results: A total of 98.3% (114/116) of the samples analysed were resolved with this protocol with 100% agreement after reviewing clinical data, Gram stain, and other samples analysed in parallel from the same patient. Discussion: The data indicate no loss of sensitivity with this protocol; thus Cobas 4800 users could use this method without the need for alternative methods (AU)</dc:description>
+<dc:creator>Parra-Sánchez, Manuel</dc:creator>
+<dc:creator>García-Rey, Silvia</dc:creator>
+<dc:creator>Sierra-Atienza, Celestina</dc:creator>
+<dc:creator>Zakariya-Yousef Breval, Ismail</dc:creator>
+<dc:creator>Bernal-Martínez, Samuel</dc:creator>
+<dc:creator>Palomares-Folía, José Carlos</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: Un porcentaje variable de muestras analizadas por el equipo cobas 4800 pueden dar un resultado invalidado por inhibición de la PCR o erróneo al no extraerse el ADN correctamente con el test cobas 4800 CT/NG. Método: Valoración de un protocolo de agitación y dilución de la muestra original (exudado u orina) en un total de 116 muestras. Para analizar la sensibilidad de este método, 100 muestras (exudados y orinas) con resultado conocido fueron retestadas. Resultados: Un 98,3% (114/116) de las muestras se resolvieron con este protocolo con un 100% de concordancia al consultar con datos clínicos, tinción de Gram y otras muestras analizadas en paralelo del mismo paciente. Discusión: Los datos indican que no hay pérdida de sensibilidad con este protocolo, por lo que los usuarios de esta plataforma podrían usarlo sin necesidad de métodos alternativos (AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;35(6): 364-366, jun.-jul. 2017. tab</dc:source>
+<dc:identifier>ibc-163477</dc:identifier>
+<dc:title xml:lang="es">Valoración de un método de dilución para la resolución de resultados no valorables en la detección de Chlamydia trachomatis y Neisseria gonorrhoeae con la plataforma cobas 4800</dc:title>
+<dc:subject>^d23966^s22046</dc:subject>
+<dc:subject>^d24198^s22046</dc:subject>
+<dc:subject>^d9537^s22001</dc:subject>
+<dc:subject>^d29180^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28320^s22045</dc:subject>
+<dc:subject>^d2738^s22001</dc:subject>
+<dc:subject>^d24326^s22046</dc:subject>
+<dc:subject>^d3979^s22054</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201707</dc:date>
+</metadata>
+</record>
+</ibecs-document>

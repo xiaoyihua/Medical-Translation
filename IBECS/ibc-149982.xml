@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-149982</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Designs of small samples: Analysis by generalized least squares</dc:title>
+<dc:description xml:lang="en">The time series analysis (TSA) constitutes an appropriate procedure of analysis for interrupted time series designs (ITSD). The main disadvantage of this analysis technique is that it requires a high number of observations with object of identifying the corresponding ARIMA model (autoregressive Integrated Moving Averages). However, in applied behavioral investigation most of designs have small samples. As alternative to the TSA, it is possible to appeal to the aproaches of generalized least squares (GLS). The main problem for the aplication of GLS approach is the estimate of the residual variancie-covariance matrix. For this reason, in the present paper a new procedure of GLS is studied, it is proposed as alternative solution to the analysis of data of short time series with a single case and two phases (Arnau, en prensa). It is to apply the approach of ordinary least squares (OLS), transforming the original data and the design matrix by the square root or Cholesky factor of the inverse of the covariance matrix, under the assumption of first order autoregressive stationary model (Fox, 1997). In this study is presented, by a Monte Carlo simulation using the MATLAB program (version 5.2), the goodness of the proposed procedure (AU)</dc:description>
+<dc:creator>Arnau, Jaume</dc:creator>
+<dc:creator>Bono, Roser</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El análisis de series temporales (AST) constituye un procedimiento adecuado de análisis para diseños de series temporales interrumpidas (DSTI). La principal desventaja de esta técnica de análisis es que requiere un número elevado de observaciones con objeto de identificar el correspondiente modelo ARIMA (autorregresivo integrado de medias móviles). Sin embargo, en investigación conductual aplicada la mayoría de diseños tienen muestras pequeñas. Como alternativa al AST, cabe la posibilidad de recurrir a los enfoques de mínimos cuadrados generalizados (MCG). El principal inconveniente cuando se aplica el enfoque de MCG es la estimación de la matriz de variancias y covariancias de los residuales. Por este motivo, en el presente trabajo se estudia un nuevo procedimiento de MCG propuesto como solución alternativa al análisis de datos de series temporales cortas con una sola unidad y dos fases (Arnau, 1999). Se trata de aplicar el criterio de mínimos cuadrados ordinarios (MCO), transformando los datos originales y la matriz del diseño mediante la raíz cuadrada o factor Cholesky de la inversa de la matriz de covariancia, asumiendo que la serie sigue un modelo estacionario autorregresivo de primer orden (Fox, 1997). En este estudio se presenta, mediante simulación Monte Carlo con el programa MATLAB (versión 5.2), la bondad del procedimiento propuesto (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);12(supl.2): 87-90, 2000. tab</dc:source>
+<dc:identifier>ibc-149982</dc:identifier>
+<dc:title xml:lang="es">Diseños de muestras pequeñas: análisis por mínimos cuadrados generalizados</dc:title>
+<dc:subject>^d28633</dc:subject>
+<dc:subject>^d19132^s22074</dc:subject>
+<dc:subject>^d24766</dc:subject>
+<dc:subject>^d28419</dc:subject>
+<dc:subject>^d32037</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200000</dc:date>
+</metadata>
+</record>
+</ibecs-document>

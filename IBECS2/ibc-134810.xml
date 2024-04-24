@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-134810</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Critical reading of articles about diagnostic tests (part II): Analyzing results</dc:title>
+<dc:description xml:lang="en">A new diagnostic test needs to be validated through comparison with a reference standard in an appropriate spectrum of patients. Diagnostic tests are not perfectly accurate; on the contrary, there can be false-positive and false-negative findings. A good diagnostic test is that which provides an acceptable proportion of positive results when a determinate condition is present in patients and an acceptable proportion of negative results when it is absent. The best measure of the usefulness of a diagnostic test is the likelihood ratio, which inform: us to what degree a particular result is more likely in a person in whom a condition is present than in a person in whom the condition is absent. The present article discusses the fundamental statistical concepts necessary to interpret the results section of an article about a diagnostic test; however, the approach is clearly oriented toward clinical practice, with emphasis on concepts rather than mathematics (AU)</dc:description>
+<dc:creator>Moratalla Rodríguez, G</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Una nueva prueba diagnóstica debe validarse, mediante su comparación con un estándar de referencia en un espectro apropiado de pacientes. Las pruebas diagnósticas no son absolutamente exactas, sino que pueden existir falsos positivos y falsos negativos. Una buena prueba diagnóstica será la que ofrezca una aceptable proporción de resultados positivos en personas enfermas y una aceptable proporción de resultados negativos en personas sanas. La mejor medida de la utilidad de una prueba diagnóstica la constituyen los cocientes de probabilidad, que determinan cuánto más probable es el resultado de una prueba entre las personas enfermas que entre las sanas. En el presente artículo se abordan las nociones estadísticas fundamentales para interpretar tos resultados de un artículo de pruebas diagnósticas, pero con un planteamiento orientado a la clínica, dando prioridad a la comprensión de los conceptos frente a los elementos matemáticos (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);57(supl.1): 22-28, ene.-mar. 2015. tab, graf</dc:source>
+<dc:identifier>ibc-134810</dc:identifier>
+<dc:title xml:lang="es">Lectura crítica de articulas de pruebas diagnósticas II: análisis de resultados</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d12077^s22048</dc:subject>
+<dc:subject>^d12223</dc:subject>
+<dc:subject>^d53366^s22049</dc:subject>
+<dc:subject>^d19291</dc:subject>
+<dc:subject>^d22983</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28219^s22048</dc:subject>
+<dc:subject>^d29770</dc:subject>
+<dc:subject>^d33556^s22048</dc:subject>
+<dc:subject>^d50045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201503</dc:date>
+</metadata>
+</record>
+</ibecs-document>

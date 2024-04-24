@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-8768</identifier>
+<setSpec>0001-6640</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Strawberry hemangioma</dc:title>
+<dc:creator>González Beato Merino, M</dc:creator>
+<dc:creator>Hernanz Hermosa, J. M</dc:creator>
+<dc:creator>Perez Santos, S</dc:creator>
+<dc:creator>Pico Valimana, M</dc:creator>
+<dc:creator>Marengo Otero, R</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Mayo, S.A</dc:publisher>
+<dc:description xml:lang="es">Los hemangiomas son tumores vasculares en los que existe una proliferación de las células endoteliales. Son lesiones frecuentes que tienen una fase de crecimiento que puede llegar a durar más o menos un año, para después involucionar espontáneamente. Raramente requieren tratamiento (AU)</dc:description>
+<dc:source>Acta Pediatr Esp;58(1): 23-24, ene. 2000. ilus</dc:source>
+<dc:identifier>ibc-8768</dc:identifier>
+<dc:title xml:lang="es">Angioma fresa</dc:title>
+<dc:subject>^d22622^s22073</dc:subject>
+<dc:subject>^d^s22074</dc:subject>
+<dc:subject>^d21012</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d31536^s22074</dc:subject>
+<dc:subject>^d6542^s22067</dc:subject>
+<dc:subject>^d30033^s22073</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d6542^s22016</dc:subject>
+<dc:subject>^d2715</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200001</dc:date>
+</metadata>
+</record>
+</ibecs-document>

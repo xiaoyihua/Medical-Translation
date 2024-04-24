@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-61031</identifier>
+<setSpec>1699-8855</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Digital pathology. Quality control and information technology for pathology</dc:title>
+<dc:description xml:lang="en">As in other hospital departments, histopathology andmorbid anatomy require automation and quality control.Usually the PIS (Pathology information system) automatessamples, images and reports and progressively incorporatesPI (Pathology informatics), D-PATH (digital pathology), e-PATH (electronic pathology), PPH (Patho-pharmacology),virtual autopsy and in general all types of translational researchin the PMIS (pathology management informationsystem).Not subject to a specific standard, quality controlfollows ISO-13485:2003 on services and medical devices,ISO 17025:2005 on technical aspects and ISO-15198:2003for automatic and quantifiable procedures that, as medicalsoftware, is regulated by the new European directive onmedical devices.For non-standardized procedures, users&#146; requirementsfor testing and calibration are essential. In our opinion, qualitycontrol requirements for virtual slides are not fulfilledin the majority of commercial systems.Future innovations in «solo-pathology» should see automatedpathology laboratories, regulated by strict qualitycontrol, which include a telepathology backup to minimizediagnostic errors (AU)</dc:description>
+<dc:creator>Marcano, Francisco</dc:creator>
+<dc:creator>Ferrer-Roca, Olga</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Al igual que el resto de los servicios hospitalarios, el deanatomía patológica requiere un control de calidad y unagestión automatizada. Lo habitual es que dentro del PIS(pathology information system) se automaticen las muestras,imágenes e informes y que se incorpore la PI (patoinformática),D-AP (anatomía patológica digital), la e-AP(anatomía patológica electrónica), TP (tele-patología) , la FAPo fármaco-patología, la autopsia virtual y todo tipo deinvestigación translacional dentro del PMIS (pathologymanagement information system).Al no tener un estándar especifico de calidad, estaqueda a cargo de la ISO-13485:2003 para servicios y dispositivosmédicos y la ISO 17025:2005 en los aspectostécnicos; mientras que en los procesos automatizados ycuantificables, la normativa aplicable seria la UNE: ISO-15198:2003 ligada al PIS y a los dispositivos con software,que se ve directamente afectado por la nueva directivacomunitaria.En los procedimientos no estandarizados, el criterio delos usuarios sobre su finalidad es el que prevalece. Segúnnuestro criterio, los requerimientos de control de calidad deuna preparación virtual no se cumplen en la mayoría de lossistemas comerciales.Las innovaciones que se avecinan auguran la «anatomíapatológica en solitario» (solo-patología) en un entornorobotizado bajo un estricto control de calidad que incluya elsoporte diagnostico a distancia para minimizar el grado deerror diagnostico (AU)</dc:description>
+<dc:source>Rev. esp. patol;42(2): 85-95, Abr. -Jun. 2009. ilus, tab</dc:source>
+<dc:identifier>ibc-61031</dc:identifier>
+<dc:title xml:lang="es">Anatomía patológica digital. Control de calidady pato-informática</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d10530^s22045</dc:subject>
+<dc:subject>^d13431^s22048</dc:subject>
+<dc:subject>^d12223</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d^s22048</dc:subject>
+<dc:subject>^d10530^s22048</dc:subject>
+<dc:subject>^d72</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200906</dc:date>
+</metadata>
+</record>
+</ibecs-document>

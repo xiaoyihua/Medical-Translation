@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-89761</identifier>
+<setSpec>1130-0108</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Study of colorectal mortality in the Andalusian population</dc:title>
+<dc:description xml:lang="en">Objectives: to provide up-to-date information and to analyze recent changes in colorectal cancer mortality trends in Andalusia during the period of 1980-2008 using joinpoint regression models. Patients and methods: age- and sex-specific colorectal cancer deaths were taken from the official vital statistics published by the Instituto de Estadística de Andalucía for the years 1980 to 2008. We computed age-specific rates for each 5-year age group and calendar year and age-standardized mortality rates per 100,000 men and women. A joinpoint regression analysis was used for trend analysis of standardized rates. Joinpoint regression analysis was used to identify the years when a significant change in the linear slope of the temporal trend occurred. The best fitting points (the &#147;joinpoints&#148;) are chosen where the rate significantly changes. Results: mortality from colorectal cancer in Andalusia during the period studied has increased, from 277 deaths in 1980 to 1,227 in 2008 in men, and from 333 to 805 deaths in women. Adjusted overall colorectal cancer mortality rates increased from 7.7 to 17.0 deaths per 100,000 person-years in men and from 6.6 to 9.0 per 100,000 person-years in women Changes in mortality did not evolve similarly for men and women. Age-specific CRC mortality rates are lower in women than in men, which imply that women reach comparable levels of colorectal cancer mortality at higher ages than men. Conclusions: sex differences for colorectal cancer mortality have been widening in the last decade in Andalusia. In spite of the decreasing trends in age-adjusted mortality rates in women, incidence rates and the absolute numbers of deaths are still increasing, largely because of the aging of the population. Consequently, colorectal cancer still has a large impact on health care services, and this impact will continue to increase for many more years(AU)</dc:description>
+<dc:creator>Cayuela, Aurelio</dc:creator>
+<dc:creator>Giráldez-Gallego, Álvaro</dc:creator>
+<dc:creator>Garzón-Benavides, Marta</dc:creator>
+<dc:creator>Pizarro-Moreno, Ángeles</dc:creator>
+<dc:creator>Cordero-Fernández, Carmen</dc:creator>
+<dc:creator>Rodríguez-Domínguez, Susana</dc:creator>
+<dc:language>en</dc:language>
+<dc:source>Rev Esp Enferm Dig;103(6): 289-293, jun. 2011. tab, ilus</dc:source>
+<dc:identifier>ibc-89761</dc:identifier>
+<dc:title xml:lang="es">Estudio de mortalidad por cáncer colorrectal en la población andaluza</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d6447^s22083</dc:subject>
+<dc:subject>^d^s22045</dc:subject>
+<dc:subject>^d^s22083</dc:subject>
+<dc:subject>^d23595^s22080</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:subject>^d23595^s22047</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201106</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-80909</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Normal myocardial perfusion SPECT database for the spanish population</dc:title>
+<dc:description xml:lang="en">Introduction and objectives. The aims of this study were to create a Spanish database of normal myocardial perfusion SPECT (single-photon emission computed tomography) data, termed the normal Spanish database, and to compare it with a database of normal data from the North American population. Methods. We selected 104 healthy volunteers (45 female, mean age 42±14 years) who underwent SPECT during stress and at rest. The findings were analyzed using the 4DM-SPECT commercial software package. The resulting normal Spanish database for males and females was compared with the North American population database (from 70 men and 60 women) provided with the 4DM-SPECT software. Results. In the Spanish database, the highest percentage uptake during both stress and rest was observed in medial-lateral region and the lowest, in the basal-septal region. The percentage uptake in the anterior-medial region was significantly lower in women than men, while uptake in the inferior, medial-septal and apical regions was lower in men than women. Data values in the Spanish database were significantly lower for the majority of heart regions than those in the database with the 4DM-SPECT software. Conclusions. A Spanish database of normal myocardial perfusion SPECT data was created and included separate data for men and women. Significant differences were observed between this database and a commercial North American database that is commonly used in semiquantitative studies (AU)</dc:description>
+<dc:creator>Candell-Riera, Jaume</dc:creator>
+<dc:creator>Muxí-Pradas, María África</dc:creator>
+<dc:creator>Aliaga, Verónica</dc:creator>
+<dc:creator>García-Dorado, David</dc:creator>
+<dc:creator>Romero-Farina, Guillermo</dc:creator>
+<dc:creator>Castell-Conesa, Joan</dc:creator>
+<dc:creator>Aguadé-Bruix, Santiago</dc:creator>
+<dc:creator>Boronat-de Ferrater, María</dc:creator>
+<dc:creator>Cuberas-Borrós, Gemma</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos. El objetivo de este estudio ha sido crear una base de datos española (BDE) de normalidad de la SPECT ( single photon emission computed tomography) de perfusión miocárdica y compararla con una base de datos de normalidad de población norteamericana. Métodos. Se seleccionó a 104 voluntarios sanos (45 mujeres, media de edad, 42 ± 14 años) a los que se practicó una SPECT de estrés y reposo, procesándose los estudios en el programa comercial 4DM-SPECT. La BDE de normalidad generada para varones y mujeres se comparó con la base de datos de la población norteamericana (70 varones y 60 mujeres) que proporciona el programa 4DM-SPECT. Resultados. En la BDE el mayor porcentaje de captación correspondió a la región lateral-medial, y el menor, a la región septal-basal, tanto en estrés como en reposo. En las mujeres el porcentaje de captación de la región anterior-medial fue significativamente más bajo que en los varones, mientras que en éstos se observó una menor captación en las regiones inferiores, septal medial y apical con respecto a las mujeres. Los valores de la BDE fueron significativamente más bajos que los de la 4DMSPECT en la mayoría de las regiones. Conclusiones. Se ha creado una base de datos de normalidad española para mujeres y varones por separado de la SPECT de perfusión miocárdica, y se ha observado que hay diferencias significativas con una base de datos comercial de origen norteamericano que suele utilizarse en estudios semicuantitativos (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;63(8): 934-942, ago. 2010. tab, ilus</dc:source>
+<dc:identifier>ibc-80909</dc:identifier>
+<dc:title xml:lang="es">Base de datos de normalidad de la SPECT de perfusión miocárdica en la población española</dc:title>
+<dc:subject>^d24895^s22045</dc:subject>
+<dc:subject>^d7723</dc:subject>
+<dc:subject>^d50524^s22080</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29640</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d10669^s22083</dc:subject>
+<dc:subject>^d9871^s22045</dc:subject>
+<dc:subject>^d10669^s22045</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d24895^s22074</dc:subject>
+<dc:subject>^d24895^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201008</dc:date>
+</metadata>
+</record>
+</ibecs-document>

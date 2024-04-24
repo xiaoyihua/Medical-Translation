@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-044167</identifier>
+<setSpec>0214-2597</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Use of Internala sources channels: how to remain more efficiently up-to-date</dc:title>
+<dc:description xml:lang="en">In the World Wide Web, information is usually accessed    directly visiting websites, without previously knowing if    there are new contents available. In this article we describe    another way of accessing to information based on content    syndication through web feeds, and on the use of aggregators    to retrieve it. Most common aggregators are explained,    both desktop software and web-based services. Web    feeds related to Pediatrics, including news, scientific journals,    and bibliographic databases search systems like Pub-    Med. This technology, although still incipient, may already    be useful, and it probably will have much more applications    over the next years</dc:description>
+<dc:creator>Pérez Solís, D</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El acceso a la información en Internet suele realizarse    visitando directamente sitios web sin conocer de antemano    si hay nuevos contenidos. En este artículo se describe otro    sistema de acceso a la información basado en la distribución    de contenidos en documentos fuente (feeds) y el uso de agregadores    para su lectura. Se comentan los agregadores más    habituales, tanto software de escritorio como servicios basados    en páginas web. También se mencionan fuentes de información    de interés en Pediatría, incluyendo noticias, publicaciones    científicas y sistemas de búsqueda en bases de datos    bibliográficas como PubMed. Se concluye que esta tecnología,    aunque todavía incipiente, puede resultar ya de utilidad,    y probablemente verá multiplicadas sus aplicaciones    en los próximos años</dc:description>
+<dc:source>Bol. pediatr;46(195): 56-61, ene.-mar. 2006. ilus</dc:source>
+<dc:identifier>ibc-044167</dc:identifier>
+<dc:title xml:lang="es">Utilización de fuentes o canales en Internet: cómo mantenerse al día de manera más eficiente</dc:title>
+<dc:subject>^d33619^s22049</dc:subject>
+<dc:subject>^d33921^s22074</dc:subject>
+<dc:subject>^d19243^s22019</dc:subject>
+<dc:subject>^d10565^s22083</dc:subject>
+<dc:subject>^d33619^s22011</dc:subject>
+<dc:subject>^d33921^s22066</dc:subject>
+<dc:subject>^d33619^s22074</dc:subject>
+<dc:subject>^d33921^s22049</dc:subject>
+<dc:subject>^d37723^s22074</dc:subject>
+<dc:subject>^d10565^s22049</dc:subject>
+<dc:subject>^d10697^s22074</dc:subject>
+<dc:subject>^d10565^s22019</dc:subject>
+<dc:subject>^d33619^s22083</dc:subject>
+<dc:subject>^d33619^s22060</dc:subject>
+<dc:subject>^d19243^s22083</dc:subject>
+<dc:subject>^d10697^s22066</dc:subject>
+<dc:subject>^d19243^s22049</dc:subject>
+<dc:subject>^d19243^s22066</dc:subject>
+<dc:subject>^d10697^s22083</dc:subject>
+<dc:subject>^d19243^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200603</dc:date>
+</metadata>
+</record>
+</ibecs-document>

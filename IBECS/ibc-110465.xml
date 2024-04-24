@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-110465</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The spatial distribution of population exposure to outdoor air pollution in Valencia (Spain) and its association with a privation index</dc:title>
+<dc:description xml:lang="en">Objective: To evaluate spatial variation in exposure to nitrogen dioxide (NO2) air pollution in the city of Valencia, Spain, and its association with socioeconomic deprivation and age. Methods: Census tract population data were obtained from the National Statistics Institute of Spain. Outdoor NO2 was monitored in 100 sites in the study area, through the use of passive samplers, in three campaigns between 2002 and April 2004. Land use regression (LUR) was used to obtain a map of NO2 levels. The LUR predictions were compared with the NO2 level obtained by: a) the nearest sampler of the monitoring network, b) the nearest passive sampler, c) the mean distance-weighted levels of the samplers in the neighborhood, and d) the NO2 level obtained by using Kriging. For each census tract, the NO2 levels were obtained. The association of NO2 air pollution exposure with population age (&gt;65 years) and the 5-category deprivation index was analyzed. Results: The LUR models showed less error than the other prediction methods. The safety levels proposed by the World Health Organization were exceeded in more than 99% of the population. An inverse relationship was found between NO2 levels and the deprivation index (&amp;#946; = -2.01&amp;#956;g/m3 in the most deprived quintile compared with lower deprivation, 95%CI: -3.07; -0.95) and a direct relationship was found with age (&amp;#946; = 0.12&amp;#956;g/m3 per unit increase in percentage of the population &gt; 65 years, 95%CI: 0.08; 0.16). Conclusions: The method allowed pollution maps to be obtained and the association between NO2 levels and sociodemographic characteristics to be described (AU)</dc:description>
+<dc:creator>Iñiguez, Carmen</dc:creator>
+<dc:creator>Zurriaga, Òscar</dc:creator>
+<dc:creator>Esplugues, Ana</dc:creator>
+<dc:creator>Nolasco, Andreu</dc:creator>
+<dc:creator>Estarlich, Marisa</dc:creator>
+<dc:creator>Ballester, Ferran</dc:creator>
+<dc:creator>Mantilla, Enrique</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Evaluar la variación espacial de la exposición a dióxido de nitrógeno (NO2) en la ciudad de Valencia y su relación con la privación socioeconómica y la edad. Métodos: La población por sección censal (SC) procede del Instituto Nacional de Estadística. Los niveles de NO2 se midieron en 100 puntos del área de estudio, mediante captadores pasivos, en tres campañas entre 2002 y 2004. Se utilizó regresión por usos del suelo (LUR) para obtener el mapa de los niveles de NO2. Las predicciones del LUR se compararon con las proporcionadas por: a) el captador más cercano de la red de vigilancia, b) el captador pasivo más cercano, c) el conjunto de captadores en un entorno y d) kriging. Se asignaron niveles de contaminación para cada SC. Se analizó la relación entre los niveles de NO2, un índice de privación con cinco categorías y la edad (&gt;65 años). Resultados: El modelo LUR resultó el método más preciso. Más del 99% de la población superó los niveles de seguridad propuestos por la Organización Mundial de la Salud. Se encontró una relación inversa entre los niveles de NO2 y el índice de privación (&amp;#946; = -2,01&amp;#956;g/m3 en el quintil de mayor privación respecto al de menor, IC95%: -3,07 a -0,95), y una relación directa con la edad (&amp;#946; = 0,12&amp;#956;g/m3 por incremento en unidad porcentual de población &gt;65 años, IC95%: 0,08 a 0,16). Conclusiones: El método permitió obtener mapas de contaminación y describir la relación entre niveles de NO2 y características sociodemográficas (AU)</dc:description>
+<dc:source>Gac Sanit;27(2): 143-148, mar.-abr. 2013.</dc:source>
+<dc:identifier>ibc-110465</dc:identifier>
+<dc:title xml:lang="es">Variación espacial de la exposición a contaminación atmosférica en la ciudad de Valencia y su relación con un índice de privación</dc:title>
+<dc:subject>^d9770^s22001</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d13344</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4867^s22083</dc:subject>
+<dc:subject>^d4862^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201304</dc:date>
+</metadata>
+</record>
+</ibecs-document>

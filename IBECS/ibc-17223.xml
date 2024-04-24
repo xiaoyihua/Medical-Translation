@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-17223</identifier>
+<setSpec>0034-0618</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Apoptosis in Brown Adipocytes: Implication in Obesity and Cancer</dc:title>
+<dc:creator>Lorenzo, Margarita</dc:creator>
+<dc:creator>Navarro, Paloma</dc:creator>
+<dc:creator>Benito, Manuel</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Real Academia de Farmacia</dc:publisher>
+<dc:description xml:lang="es">El mantenimiento de la homeostasis tisular consiste en un complejo equilibrio entre los procesos de proliferación y muerte celular, aunque el balance resulta favorable a la apoptosis durante algunas etapas de la embriogénesis o durante la involución de tejidos adultos. La apoptosis es una muerte celular programada fisiológicamente que afecta a células individuales y no produce respuesta inflamatoria. Muchas enfermedades están asociadas con la inducción o inhibición de apoptosis, lo que conduce a una pérdida celular (desórdenes neurodegenerativos o daños isquémicos), o a la acumulación celular (cáncer o desórdenes autoinmunes). En nuestro laboratorio hemos desarrollado un modelo de células mesenquimales no fibroblásticas, los adipocitos marrones fetales de rata, que responden al IGF-I/insulina aumentando la proliferación y la diferencación celular. Los resultados muestran que la ausencia de suero en una línea celular de adipocitos marrones da lugar a la inducción de apoptosis. Hemos visto que la inhibición de caspasas rescata a estas células de apoptosis disminuyendo la expresión de Bcl-xs y aumentando la de BCL-2. La insulina y el IGF-I son factores de supervivencia para estas células a través de una ruta dependiente de PI 3-quinasa/Akt y de MAP-quinasa. (AU)</dc:description>
+<dc:source>An Real Acad Farm;66(3): 313-334, jul. 2000. ilus, graf</dc:source>
+<dc:identifier>ibc-17223</dc:identifier>
+<dc:title xml:lang="es">Apoptosis en Adipocitos Marrones: Implicación en Obesidad y Cáncer</dc:title>
+<dc:subject>^d9951^s22044</dc:subject>
+<dc:subject>^d280^s22026</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d12345</dc:subject>
+<dc:subject>^d9562^s22044</dc:subject>
+<dc:subject>^d33061^s22044</dc:subject>
+<dc:subject>^d33826^s22044</dc:subject>
+<dc:subject>^d32053^s22044</dc:subject>
+<dc:subject>^d33482^s22044</dc:subject>
+<dc:subject>^d30827^s22031</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200007</dc:date>
+</metadata>
+</record>
+</ibecs-document>

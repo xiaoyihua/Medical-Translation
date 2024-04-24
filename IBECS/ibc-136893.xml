@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-136893</identifier>
+<setSpec>0048-7120</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Robotic systems for gait rehabilitation in neurological disorders</dc:title>
+<dc:description xml:lang="en">Objective. To describe and classify the main characteristics of the various robotic systems used for functional rehabilitation of the lower limb. Search strategy. A systematic review was conducted in the following databases: BRAIN, IEEE, SCIENCE DIRECT, SPRINGER, JNER, Proquest and databases specifically for the field of engineering. Selection of the articles. The articles had to be written in English or Spanish with no limit on publication year. Summary of results. The information provided by the various databases showed that a total of 50 robotic devices have been designed to date. These devices were classified into several levels: a) prototypes or robots for clinical application; b) those with an exoskeleton-type structure, end-effector systems or hybrid systems. Conclusions. There is a wide variety of robotic devices for lower limb recovery. The development of these devices should be improved so that they become closer to the physiological movements made by humans when walking, taking into account factors other than those related to mobility. It is essential to promote the development of appropriately-designed studies with large sample sizes that could support the effects of this treatment modality (AU)</dc:description>
+<dc:creator>Calderón-Bernal, a. M</dc:creator>
+<dc:creator>Miangolarra-Page, J. C</dc:creator>
+<dc:creator>Molina-Rueda, F</dc:creator>
+<dc:creator>Alguacil-Diego, I. M</dc:creator>
+<dc:creator>Cano-de la Cuerda, R</dc:creator>
+<dc:creator>Cuesta-Gómez, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. El objetivo del presente trabajo es proporcionar una clasificación y descripción de las características principales de los distintos sistemas robóticos utilizados para la rehabilitación funcional del miembro inferior. Estrategia de búsqueda. Se realizó una revisión sistemática en las siguientes bases de datos: BRAIN, IEEE, SCIENCE DIRECT, SPRINGER, JNER, PROQUEST y específicas del ámbito de la ingeniería. Selección de los estudios. El idioma de los artículos incluidos debía ser el inglés o el español, sin límite en los años de búsqueda en las diferentes bases de datos. Síntesis de resultados. La información suministrada por las distintas bases de datos permitió distinguir un total de 50 dispositivos robóticos diseñados hasta la actualidad. Estos dispositivos se clasificaron en varios niveles: a) robots de aplicación clínica o prototipos; y b) aquellos que poseen una estructura tipo exoesqueleto, sistemas de efector final o sistemas híbridos. Conclusiones. Existe una amplia variedad de dispositivos robóticos para la recuperación funcional del miembro inferior. Se debe mejorar el desarrollo de estos dispositivos, aproximándose cada vez más a los movimientos fisiológicos que el ser humano realiza durante la marcha, teniendo en cuenta no solo aspectos relacionados con la movilidad. Por último, es fundamental fomentar la elaboración de estudios con adecuado diseño metodológico y con elevados tamaños muestrales que puedan respaldar los efectos de esta modalidad de tratamiento (AU)</dc:description>
+<dc:source>Rehabilitación (Madr., Ed. impr.);49(3): 177-192, jul.-sept. 2015. tab, ilus</dc:source>
+<dc:identifier>ibc-136893</dc:identifier>
+<dc:title xml:lang="es">Terapia robótica para la rehabilitación de la marcha en patología neurológica</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1723^s22066</dc:subject>
+<dc:subject>^d5823^s22031</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d36500^s22032</dc:subject>
+<dc:subject>^d19341^s22045</dc:subject>
+<dc:subject>^d34318^s22061</dc:subject>
+<dc:subject>^d34318^s22080</dc:subject>
+<dc:subject>^d34318^s22032</dc:subject>
+<dc:subject>^d55679^s22061</dc:subject>
+<dc:subject>^d19341^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201509</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-24317</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Evaluating health interventions without experiments</dc:title>
+<dc:description xml:lang="en">This paper summarizes recent literature on quantitative techniques for the evaluation of non experimental reforms. We closely look at the application of the methods to health economics and health management. The methods of matching and difference in differences combined with matching have been analysed in greatest detail. We have focused our attention on the estimation of the average treatment for the treated as the relevant parameter to be estimated. Along the paper, we have assumed that gains from the reform are heterogeneous in non observable variables across eligible individuals. The methods are described in a non technical manner to motivate further Reading  (AU)</dc:description>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">En el presente artículo se revisa la bibliografía reciente en evaluación cuantitativa de intervenciones no experimentales, poniendo especial énfasis en su aplicación a la economía y la gestión sanitarias. En particular, se han descrito las técnicas de matching y de doble diferencia combinada con matching. El parámetro elegido como objeto de la estimación es la ganancia media para los participantes en la intervención, bajo la hipótesis de heterogeneidad en las ganancias no observables que produce la intervención entre los individuos elegibles. Se ha llevado a cabo una exposición no técnica de las metodologías descritas con el espíritu de fomentar al lector una lectura más profunda de la bibliografía relevante (AU)</dc:description>
+<dc:source>Gac Sanit;17(3): 238-248, mayo 2003.</dc:source>
+<dc:title xml:lang="es">Evaluar intervenciones sanitarias sin experimentos</dc:title>
+<dc:type>article</dc:type>
+<dc:creator>Vera-Hernández, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:identifier>ibc-24317</dc:identifier>
+<dc:subject>^d6454</dc:subject>
+<dc:subject>^d29960</dc:subject>
+<dc:date>200305</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-144847</identifier>
+<setSpec>1575-0922</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Numerical and clinical precision of continuous glucose monitoring in Colombian patients treated with insulin infusion pump with automated suspension in hypoglycemia</dc:title>
+<dc:description xml:lang="en">Objective: Insulin pump therapy associated with continuous glucose monitoring has shown a positive clinical impact on diabetes control and reduction of hypoglycemia episodes. There are descriptions of the performance of this device in other populations, but its precision and accuracy in Colombia and Latin America are unknown, especially in the routine outpatient setting. Methods: Data from 33 type 1 and type 2 diabetes patients with sensor-augmented pump therapy with threshold suspend automation, MiniMed Paradigm® Veo&#153; (Medtronic, Northridge, California), managed at Hospital Universitario San Ignacio (Bogotá, Colombia) and receiving outpatient treatment, were analyzed. Simultaneous data from continuous glucose monitoring and capillary blood glucose were compared, and their precision and accuracy were calculating with different methods, including Clarke error grid  Results: Analyses included 2,262 continuous glucose monitoring -reference paired glucose values. A mean absolute relative difference of 20.1% was found for all measurements, with a value higher than 23% for glucose levels &amp;#8804;75 mg/dL. Global compliance with the ISO criteria was 64.9%. It was higher for values &gt;75 mg/dl (68.3%, 1,308 of 1,916 readings), than for those &amp;#8804; 75 mg/dl (49.4%, 171 of 346 readings). Clinical accuracy, as assessed by the Clarke error grid, showed that 91.77% of data were within the A and B zones (75.6% in hypoglycemia). Conclusions: A good numerical accuracy was found for continuous glucose monitoring in normo and hyperglycemia situations, with low precision in hypoglycemia. The clinical accuracy of the device was adequate, with no significant safety concerns for patients (AU)</dc:description>
+<dc:creator>Gómez, Ana M</dc:creator>
+<dc:creator>Marín Sánchez, Alejandro</dc:creator>
+<dc:creator>Muñoz, Oscar M</dc:creator>
+<dc:creator>Colón Peña, Christian Alejandro</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: La terapia con bomba de insulina asociada a monitorización continua de glucosa ha demostrado tener un impacto clínico positivo en el control de la diabetes y en la reducción de los episodios de hipoglucemia. Aunque existen descripciones del rendimiento del dispositivo en otras poblaciones, se desconoce su desempeño en Colombia y Latinoamérica en el contexto de la terapia ambulatoria usual. Métodos: Se analizaron los registros de 33 pacientes con diabetes mellitus tipo 1 y 2 en terapia con monitorización continua de glucosa integrada al infusor de insulina con suspensión automática en hipoglucemia (MiniMed Paradigm® Veo&#153;) utilizando el Sensor Sof-Sensor&#153; (Medtronic, Northridge, California) manejados en el Hospital Universitario San Ignacio (Bogotá, Colombia) y que venían recibiendo tratamiento ambulatorio. Se compararon datos simultáneos provenientes de glucometría capilar y monitorización continua de glucosa, calculando su validez por diferentes técnicas, incluyendo un análisis clínico utilizando la gradilla de error de Clarke. Resultados: Basados en 2.262 datos pareados se encontró una media de la diferencia absoluta relativa para todas las mediciones del 20,1%, siendo mayor a 23% en las mediciones &amp;#8804;75 mg/dl. El cumplimiento global de los criterios ISO fue de 64,9%, siendo mejor en las mediciones &gt;75 mg/dl (68,3%, 1.308 de 1.916 lecturas), que en aquellas &amp;#8804; 75 mg/dl (49,4%, 171 de 346 lecturas). El porcentaje combinado en zonas A y B de la gradilla de error de Clarke fue del 91,77% (75,6% para hipoglucemia). Conclusiones: Se observó un buen desempeño numérico para las determinaciones intersticiales en situaciones de normo- e hiperglucemia, persistiendo poca precisión en el rango de hipoglucemia. La precisión clínica del dispositivo es adecuada, sin comprometer de forma significativa la seguridad de los pacientes (AU)</dc:description>
+<dc:source>Endocrinol Nutr;62(10): 485-492, dic. 2015. ilus, tab</dc:source>
+<dc:identifier>ibc-144847</dc:identifier>
+<dc:title xml:lang="es">Precisión numérica y clínica de la monitorización continua de glucosa en pacientes colombianos en terapia con bomba de infusión de insulina con suspensión automática en hipoglucemia</dc:title>
+<dc:subject>^d22523^s22074</dc:subject>
+<dc:subject>^d37656^s22021</dc:subject>
+<dc:subject>^d7181^s22054</dc:subject>
+<dc:subject>^d1812^s22002</dc:subject>
+<dc:subject>^d23570^s22045</dc:subject>
+<dc:subject>^d30150^s22045</dc:subject>
+<dc:subject>^d3942^s22057</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201510</dc:date>
+</metadata>
+</record>
+</ibecs-document>

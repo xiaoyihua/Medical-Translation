@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-18342</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Quality indicators for monitoring single does in nulear medicine</dc:title>
+<dc:creator>Martínez, José Ramón</dc:creator>
+<dc:creator>Montserrat, Dolors</dc:creator>
+<dc:creator>Alonso, Margarita</dc:creator>
+<dc:creator>Ortiz Berrocal, José</dc:creator>
+<dc:creator>Ayuso, Begoña</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">En enero de 2000 se implantó en el Servicio de Medicina Nuclear del Hospital Puerta de Hierro un nuevo sistema de control de dosis administradas a los pacientes. Las modificaciones sobre el sistema primitivo afectaban a los programas de gestión de pacientes y de material radiactivo. El uso de esta información, que utiliza un número de dosis para cada paciente, es relativamente compleja y se realiza de forma manual en varios procesos. Esta situación puede dar origen a errores en su tratamiento, por lo que desde el principio se planteó mantener una mejora continua de la calidad con el uso de indicadores. El objetivo es realizar un estudio de calidad para cuantificar los errores cometidos en el banco de datos de información de pacientes al incluir la trazabilidad de las monodosis administradas. El uso de estos indicadores a lo largo del tiempo repercutirá lógicamente en una mejora de la calidad. El procedimiento seguido para el cálculo de indicadores se basa en el análisis informático de las dos bases de datos del Servicio: pacientes y material radiactivo. Para detectar los errores debidos al personal de enfermería o administrativo se ha realizado un muestreo de protocolos de entrada de datos con cuyos resultados se han obtenido los indicadores correspondientes. El estudio se ha realizado sobre un total de 7.352 pacientes que recibieron monodosis en el año 2000. El porcentaje de dosis desperdiciadas es similar en los dos períodos (7,65 y 7,56 por ciento), habiendo aumentado considerablemente el porcentaje de registro correctos (80,94 y 87,05 por ciento) y disminuido el de registros erróneos por cada causa registrada. Así pues, los resultados del primer y segundo semestres se concretan en 13,28 y 8,14 por ciento, para el número de los pacientes sin registro de dosis, y los errores de transcripción pasaron de un 5,36 por ciento a un 4,71 por ciento. Es inevitable la existencia de errores en el proceso general del registro de dosis en cada paciente. Se considera que los resultados obtenidos son bastante satisfactorios incluso en la primera etapa, cuya mejora fue ostensible en la segunda etapa de su funcionamiento. Consideramos que esta precisión es susceptible de mejorar con el uso de estos indicadores y la concienciación del personal involucrado sobre la importancia del proceso. Posteriormente, se ha puesto en marcha un programa de seguimiento mensual con la utilización de gráficos de control. En un futuro, alcanzada la estabilidad del proceso, se plantea definir unos estándares para fijar el error máximo admitido (AU)</dc:description>
+<dc:source>Rev. calid. asist;17(6): 358-363, ago. 2002. ilus</dc:source>
+<dc:identifier>ibc-18342</dc:identifier>
+<dc:title xml:lang="es">Indicadores de calidad para el control de uso de monodosis en Medicina Nuclear</dc:title>
+<dc:subject>^d12223</dc:subject>
+<dc:subject>^d9871^s22011</dc:subject>
+<dc:subject>^d9871^s22066</dc:subject>
+<dc:subject>^d12436</dc:subject>
+<dc:subject>^d9871^s22048</dc:subject>
+<dc:subject>^d9871^s22049</dc:subject>
+<dc:subject>^d9871^s22060</dc:subject>
+<dc:subject>^d9871^s22083</dc:subject>
+<dc:subject>^d31002^s22048</dc:subject>
+<dc:subject>^d27231</dc:subject>
+<dc:subject>^d31002^s22049</dc:subject>
+<dc:subject>^d26452</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200208</dc:date>
+</metadata>
+</record>
+</ibecs-document>

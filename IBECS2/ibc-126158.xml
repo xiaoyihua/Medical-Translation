@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-126158</identifier>
+<setSpec>0212-9728</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Exploratory Item Factor Analysis: Some additional considerations</dc:title>
+<dc:description xml:lang="en">This article can be considered to be an extension of a previous work by Lloret et al. (2014) in which we discuss in more depth two particularly relevant topics in item factor analysis: (a) how to chose the most appropriate correlation matrix, and (b) how to arrive at a realistic and interpretable semi-confirmatory solution by making use of the available information. The discussion of these topics strongly reflects the views of the authors. So, we encourage the interested reader to take it critically. For both topics we offer practical recommendations. However, the article is mainly intended for applied researchers with a certain methodological penchant and who want to go beyond standard recommendations (AU)</dc:description>
+<dc:creator>Lorenzo-Seva, Urbano</dc:creator>
+<dc:creator>Ferrando, Pere J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El presente artículo puede considerarse como una ampliación al trabajo de Lloret et al. (2014) en la que se discuten, de forma ampliada, dos tópicos de especial relevancia en análisis factorial de ítems: (a) la decisión acerca de la matriz de correlación más apropiada en cada caso, y (b) la determinación de soluciones finales semi-confirmatorias, que sean realistas, interpretables y que utilicen la información disponible por el investigador. La presentación de los dos tópicos no es neutral, sino que refleja las posiciones de los autores, por lo que debe ser también evaluada críticamente por parte del lector. En ambos casos se ofrecen recomendaciones prácticas. Sin embargo, el trabajo va especialmente dirigido a los investigadores aplicados con cierta orientación metodológica que quieren ir un poco más allá de las recomendaciones actualizadas propuestas anteriormente (AU)</dc:description>
+<dc:source>An. psicol;30(3): 1170-1175, sept.-dic. 2014.</dc:source>
+<dc:identifier>ibc-126158</dc:identifier>
+<dc:title xml:lang="es">El análisis factorial exploratorio de los ítems: algunas consideraciones adicionales</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d32016</dc:subject>
+<dc:subject>^d29636</dc:subject>
+<dc:subject>^d28624</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1252</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201412</dc:date>
+</metadata>
+</record>
+</ibecs-document>

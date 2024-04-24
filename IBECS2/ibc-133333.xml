@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-133333</identifier>
+<setSpec>1888-9891</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Space-time suicide clustering in the community of Antequera (Spain)</dc:title>
+<dc:description xml:lang="en">Introduction. Approximately 3,500 people commit suicide every year in Spain. The main aim of this study is to explore if a spatial and temporal clustering of suicide exists in the region of Antequera (Málaga, España). Methods. Sample and procedure: All suicides from January 1, 2004 to December 31, 2008 were identified using data from the Forensic Pathology Department of the Institute of Legal Medicine, Málaga (España). Geolocalisation. Google Earth was used to calculate the coordinates for each suicide decedent's address. Statistical analysis. A spatiotemporal permutation scan statistic and the Ripley's K function were used to explore spatiotemporal clustering. Pearson's chi-squared was used to determine whether there were differences between suicides inside and outside the spatiotemporal clusters. Results. A total of 120 individuals committed suicide within the region of Antequera, of which 96 (80%) were included in our analyses. Statistically significant evidence for 7 spatiotemporal suicide clusters emerged within critical limits for the 0-2.5 km distance and for the first and second semanas (P &lt; .05 in both cases) after suicide. There was not a single subject diagnosed with a current psychotic disorder, among suicides within clusters, whereas outside clusters, 20% had this diagnosis (X2 = 4.13; df = 1; P &lt; .05). Conclusions. There are spatiotemporal suicide clusters in the area surrounding Antequera. Patients diagnosed with current psychotic disorder are less likely to be influenced by the factors explaining suicide clustering (AU)</dc:description>
+<dc:creator>Hilario Blasco-Fontecilla, Hilario</dc:creator>
+<dc:creator>Lopez, Amalia</dc:creator>
+<dc:creator>Madrigal, Lucía</dc:creator>
+<dc:creator>Diego Otero, Yolanda de</dc:creator>
+<dc:creator>Comino, Raquel</dc:creator>
+<dc:creator>Pérez-Costillas, Lucía</dc:creator>
+<dc:creator>Alcalde, Javier</dc:creator>
+<dc:creator>Antón, José Miguel</dc:creator>
+<dc:creator>Palomo, José Luis</dc:creator>
+<dc:creator>León-Martínez, Victoria de</dc:creator>
+<dc:creator>Ramos-Medina, Valentín</dc:creator>
+<dc:creator>Benítez, Nicolás</dc:creator>
+<dc:creator>Perea-Millá, Emilio</dc:creator>
+<dc:creator>Artieda-Urrutia, Paula</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. En España, cada año consuman suicidio alrededor de 3.500 personas. El principal objetivo del presente estudio fue examinar si eran evidentes agrupaciones (clusters) espacio-temporales de suicidio en la región de Antequera (Málaga, España). Métodos. Muestra y procedimiento. Entre el 1 de enero de 2004 y el 31 de diciembre de 2008, se identificaron todos los casos de suicidio consumado (fuente: Servicio de Patología Forense del Instituto de Medicina Legal, Málaga, España). Geolocalización. Usamos Google Earth para calcular las coordenadas del domicilio de todos los casos de suicidio. Análisis estadístico. Usamos el programa SaTScan® espacio-temporal y la función K de Ripley para examinar la presencia de agrupaciones (clusters) espacio-temporales de los casos de suicidio. Acto seguido, utilizamos la prueba de la X2 de Pearson para determinar la presencia de diferencias estadísticamente significativas entre los casos de suicidio identificados dentro y fuera de las agrupaciones de suicidio. Resultados. En los análisis del presente estudio efectuado en el municipio de Antequera, de un total de 120 individuos que cometieron suicidio se incluyeron 96 (80%). Se identificaron pruebas estadísticamente significativas para 7 agrupaciones espacio-temporales de suicidio dentro de los límites críticos de 0-2,5 km de distancia y durante la primera y segunda semana después del caso de suicidio (p &lt; 0,05 en ambos casos). Entre los casos de suicidio dentro de agrupaciones (n = 17), no hubo ningún individuo en el que se hubiera establecido un diagnóstico de trastorno psicótico actual, mientras que, entre los casos de suicidio fuera de las agrupaciones espacio-temporales, en el 20%, se había establecido dicho diagnóstico (X2 = 4,13; gl = 1; p &lt; 0,05). Conclusiones. En la región circundante de Antequera están presentes agrupaciones (clusters) espacio-temporales de los casos de suicidio. Entre pacientes con un diagnóstico de trastorno psicótico actual hubo menos probabilidades de una influencia por los factores que determinan las agrupaciones espacio-temporales de los casos de suicidio consumado (AU)</dc:description>
+<dc:source>Rev. psiquiatr. salud ment. (Barc., Ed. impr.);8(1): 26-34, ene.-mar. 2015. tab, ilus</dc:source>
+<dc:identifier>ibc-133333</dc:identifier>
+<dc:title xml:lang="es">Clusters de casos de suicidio espacio-temporal en la comunidad de Antequera (España)</dc:title>
+<dc:subject>^d13791^s22083</dc:subject>
+<dc:subject>^d28441^s22066</dc:subject>
+<dc:subject>^d28638</dc:subject>
+<dc:subject>^d13791^s22054</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d13411^s22080</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d55057</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201503</dc:date>
+</metadata>
+</record>
+</ibecs-document>

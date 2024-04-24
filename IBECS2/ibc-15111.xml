@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-15111</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Congenital heart disease, heterotaxia and laterality</dc:title>
+<dc:creator>García Rincón, Juan Manuel</dc:creator>
+<dc:creator>Icardo, José Manuel</dc:creator>
+<dc:creator>Ros, María Ángeles</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Las malformaciones cardíacas ocurren en aproximadamente el 0,8 por ciento de todos los nacidos vivos. Muchas de estas malformaciones se presentan en grupos familiares y muestran un tremendo polimorfismo. El origen de la mayor parte de las malformaciones cardíacas se desconoce, estableciéndose lo que se ha llamado un origen multifactorial. Aunque este término implica la expresión anómala de genes y la intervención de factores epigenéticos, el desarrollo de las malformaciones cardíacas se asocia en algunos casos a anomalías cromosómicas o a defectos de un único gen. Curiosamente, defectos de un único gen pueden explicar gran parte de las presentaciones polimórficas si este gen controla procesos embrionarios básicos que afectan, en tiempo y espacio diferentes, a distintos órganos. Algunos de estos genes parecen estar implicados en el establecimiento de la lateralidad embrionaria. El establecimiento izquierda-derecha del eje embrionario comienza en el nódulo de Hensen donde se rompe la simetría inicial y se inducen cascadas de expresión génica que confieren a cada lado del embrión propiedades específicas. Aunque los desencadenantes de la ruptura inicial de la simetría varían entre las diferentes especies, existen patrones de expresión génica (Nodal, Pitx2) conservados a lo largo de la escala filogenética. La expresión anormal de estos genes induce la aparición del síndrome de heterotaxia, que se acompaña de malformaciones cardíacas. El desarrollo de estas malformaciones se ilustra con la mutante de ratón iv/iv, que constituye un modelo del síndrome de heterotaxia y las malformaciones cardíacas asociadas   (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;55(9): 962-974, sept. 2002.</dc:source>
+<dc:identifier>ibc-15111</dc:identifier>
+<dc:title xml:lang="es">Malformaciones cardíacas, heterotaxia y lateralidad</dc:title>
+<dc:subject>^d2918</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d4255</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6483</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200209</dc:date>
+</metadata>
+</record>
+</ibecs-document>

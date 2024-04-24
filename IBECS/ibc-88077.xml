@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-88077</identifier>
+<setSpec>1888-4008</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Equation for transforming HbA 1c values obtained by a method traceable to the IFCC reference method to values traceable to the Japanese and the United States standardization schemes</dc:title>
+<dc:description xml:lang="en">Introduction. HbA1c measurements are the cornerstone in monitoring the diabetic patient. Master equations have been published to transform values from the reference method to values traceable to national standardization systems. There are many disadvantages in these equations, such as the low sample number used and heterogeneity of methods used to develop equations. The aim of this study was to obtain two equations for reference method values transformation to values traceable to the Japanese and United States standardization schemes and compare them with the already published equations. Material and methods. HbA1c was measured in 3002 blood samples on two analyzers calibrated with traceably to the Japanese and the United States schemes and to the reference method. The equations for transforming the values were developed by simple linear regression methods and compared with the already published master equation. Results. The equations obtained were JDS/JSCC (%) = 1.0545*IFCC (%) + 1.129% (R2=0.9972) and NGSP (%) = 0.9293*IFCC (%) + 2.1054 (R2=0.9979). Statistically significant differences were found between results obtained with the previously published equations and the equations developed in this study and those obtained directly from the analyzers. Conclusions. These new developed master equations are useful tools, although only for use in our laboratory, to transform reference method values to the Japanese and United States schemes values. Despite them show statistically significant differences with real values directly obtained from the analyzer, they are considerably robust due to the high number of samples used to obtain them. The small differences in the values obtained with the equations developed in this study compared to the direct values from the analyzers will not affect clinical management of diabetes as the difference in medians between the values obtained from the analyzer and values obtained using the equations is less than 0.1% (AU)</dc:description>
+<dc:creator>Clot Silla, Eduardo</dc:creator>
+<dc:creator>Simon, Georgia</dc:creator>
+<dc:creator>Padró Miquel, Ariadna</dc:creator>
+<dc:creator>Vila Planas, Jordi</dc:creator>
+<dc:creator>Rosel Soria, Pilar</dc:creator>
+<dc:creator>Pérez Hernández, Emilia</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. Las mediciones de HbA1c se consideran la piedra angular en el control del paciente diabético. Se han publicado ecuaciones para la transformación de valores trazables desde el método de referencia hasta los sistemas de estandarización nacionales, sin embargo, existen diversos inconvenientes relacionados con su obtención como el bajo número de muestras empleado. El objetivo de este estudio ha sido desarrollar dos ecuaciones que permitan la transformación de resultados trazables al sistema de referencia a valores trazables a los sistemas de estandarización japonés y estadounidense y compararlas con las ecuaciones previamente publicadas. Material y métodos. Se midió la HbA1c en 6.002 muestras de sangre mediante dos analizadores, uno alineado al sistema de estandarización japonés y posteriormente al sistema de estandarización estadounidense y otro al método de referencia. Se obtuvieron las ecuaciones de transformación mediante regresión lineal simple y se efectuó una comparación estadística de los resultados obtenidos mediante las ecuaciones aquí desarrolladas y las anteriormente publicadas. Resultados. La ecuaciones obtenidas fueron JDS/JSCC (%) = 1,0545*IFCC (%) + 1,129% (R2=0,9972) y NGSP (%) = 0,9293*IFCC (%) + 2,1054 (R2=0,9979). Se observaron diferencias estadísticamente significativas entre los resultados obtenidos con el uso de las ecuaciones previamente publicadas, las desarrolladas en el presente estudio y los resultados obtenidos directamente del analizador. Conclusiones. Estas nuevas ecuaciones son útiles aunque sólo para ser empleadas en nuestro laboratorio con objeto de transformar resultados alineados con el método de referencia a resultados equivalentes a los del sistema de estandarización japonés y estadounidense y viceversa. Pese a que existen diferencias estadísticamente significativas respecto a los valores obtenidos directamente del analizador son unas ecuaciones considerablemente robustas debido al elevado número de muestras empleado para obtenerlas. Las pequeñas diferencias observadas no serían clínicamente significativas, ya que la diferencia entre las medianas de los resultados obtenidos directamente del analizador o obtenidos mediante ecuaciones es inferior a 0,1% (AU)</dc:description>
+<dc:source>Rev. lab. clín;4(2): 90-97, abr.-jun. 2011.</dc:source>
+<dc:identifier>ibc-88077</dc:identifier>
+<dc:title xml:lang="es">Ecuaciones de transformación de valores de HbA 1c obtenidos por un método trazable al método de referencia de la IFCC a valores trazables a los esquemas de estandarización japonés y norteamericano</dc:title>
+<dc:subject>^d28615^s22045</dc:subject>
+<dc:subject>^d22190</dc:subject>
+<dc:subject>^d22190^s22001</dc:subject>
+<dc:subject>^d1812^s22002</dc:subject>
+<dc:subject>^d22190^s22002</dc:subject>
+<dc:subject>^d1812^s22001</dc:subject>
+<dc:subject>^d3942^s22062</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22190^s29165</dc:subject>
+<dc:subject>^d37656</dc:subject>
+<dc:subject>^d3942^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201106</dc:date>
+</metadata>
+</record>
+</ibecs-document>

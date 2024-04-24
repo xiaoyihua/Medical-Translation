@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-6265</identifier>
+<setSpec>0214-4840</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Neural networks and social problems</dc:title>
+<dc:creator>Buscema, Massimo</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Socidrogalcohol</dc:publisher>
+<dc:description xml:lang="es">La Computación Natural (CN) es una nueva área de la investigación en el campo de Ciencias Artificiales. CN intenta simular los procesos naturales y culturales, considerado a la misma naturaleza como una escuela de herramientas, técnicas y de metodología implícita para resolver los problemas complejos. CN produce los Sistemas Adaptativos Artificiales (SAA). Estos sistemas artificiales difieren completamente de los sistemas artificiales clásicos. Difieren de los Sistemas Expertos (SE) desde muchos puntos de vista: los SAA son intrínsecamente dinámicos, aprenden de la experiencia y utilizan el tiempo para aprender y re-aprender. Los SAA computan naturalmente no linealmente, trabajan de forma analógica y en paralelo y tratan los datos borrosos, ruidosos e incompletos de la misma forma que en el comercio. Por consiguiente los SAA son muy convenientes para procesar datos, sobre todo cuando los datos vienen de procesos muy complejos y dinámicos. Los SAA, de hecho, descubren las reglas de los datos durante el proceso de aprendizaje basado en un feed back en espiral. La complejidad de los SAA surge espontáneamente desde el fondo a través de la interacción local de los componentes del sistema. En el Sistema Experto, en cambio, el modelo es estático y se impone por los expertos humanos. En las estadísticas clásicas el modelo se planifica antes de que los datos se procesen y la no linealidad es considerada como un problema o una excepción. Las Redes Neuronales Artificiales (RNAs) es parte de la familia de SAA: RNAs son sistemas artificiales capaces de evaluar todo tipo de función continua. En EE.UU. desde 1994 la aplicación de RNAs a muchos campos diferentes es bastante usual (economía, bolsa, medicina y biología, marketing y telecomunicaciones, campo militar,...). En Europa, con la excepción del Reino Unido, Holanda y Alemania, RNAs están considerándose una tecnología útil únicamente en los últimos 2 o 3 años. Este artículo intenta mostrar la situación de las RNAs, explicando las diferencias profundas entre los diferentes tipos de RNAs y cómo escoger el tipo de RNA según el problema. También tratamos de dar una visión global de la aplicación real y potencial de esta tecnología al campo social: drogas, alcohol y otros problemas sociales (AU)</dc:description>
+<dc:source>Adicciones (Palma de Mallorca);12(1): 99-126, ene. 2000. ilus, graf</dc:source>
+<dc:identifier>ibc-6265</dc:identifier>
+<dc:title xml:lang="es">Redes neuronales y problemas sociales</dc:title>
+<dc:subject>^d13323^s22083</dc:subject>
+<dc:subject>^d22347</dc:subject>
+<dc:subject>^d29935</dc:subject>
+<dc:subject>^d24459</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22729</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200001</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-158303</identifier>
+<setSpec>0213-4853</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Applicability of the SPAN-100 index in a prospective and contemporary cohort of patients treated with intravenous rtPA in Catalonia</dc:title>
+<dc:description xml:lang="en">Background. Prognostic scales can be helpful for selecting patients for reperfusion treatment. This study aims to assess the prognostic ability of the recently published SPAN-100 index in a large cohort of stroke patients treated with intravenous thrombolysis (IV rtPA). Methods. Using data from the prospective registery of all reperfusion treatments administered in Catalonia, we selected patients treated with IV rtPA alone between 2011 and 2012. The SPAN-100 index was calculated as the sum of age (years) and NIHSS score, and patients in the cohort were classified as SPAN-100 positive [&amp;#8805; 100] or SPAN-100 negative [&lt; 100]. We measured raw and adjusted rates of symptomatic intracerebral haemorrhage (SICH), mortality, and 3-month functional outcome (mRS 0-2) for each SPAN-100 category. Area under the ROC curve was calculated to predict the main outcome measures. Results. We studied 1685 rtPA-treated patients, of whom 1405 (83%) were SPAN-100 negative. The SICH rates adjusted for sex, pre-stroke mRS, hypertension, diabetes, dyslipidaemia, ischaemic heart disease, heart failure, atrial fibrillation, prior TIA/stroke and time to thrombolysis did not differ between groups, but likelihood of functional independence (mRS 0-2) at 3 months was nearly 8 times higher in the SPAN-100 negative group than in the positive group. Furthermore, the 3-month mortality rate was 5 times higher in the SPAN-100 positive group. ROC curve analysis showed high specificities for predicting both functional independence and 3-month mortality for a cut-off point of 100. Conclusion. The SPAN-100 index is a simple and straightforward method that may be useful for selecting candidates for rtPA treatment in doubtful cases, and for informing patients and their relatives about likely outcomes (AU)</dc:description>
+<dc:creator>Vargas, M</dc:creator>
+<dc:creator>Gallofré, M</dc:creator>
+<dc:creator>Gomis, M</dc:creator>
+<dc:creator>Purroy, F</dc:creator>
+<dc:creator>Garcés, M</dc:creator>
+<dc:creator>Ribera, A</dc:creator>
+<dc:creator>Quesada, H</dc:creator>
+<dc:creator>Krupinski, J</dc:creator>
+<dc:creator>Rubiera, M</dc:creator>
+<dc:creator>Gómez-Choco, M</dc:creator>
+<dc:creator>Giralt-Steinhauer, E</dc:creator>
+<dc:creator>Castellanos, M</dc:creator>
+<dc:creator>Pellisé, A</dc:creator>
+<dc:creator>Delgado-Mederos, R</dc:creator>
+<dc:creator>Abilleira, S</dc:creator>
+<dc:creator>Garcia, MC</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. Las escalas pronósticas pueden ayudar a seleccionar pacientes para tratamientos de reperfusión. Objetivo: aplicar el índice SPAN-100 en una cohorte de pacientes tratados con rtPA por vía intravenosa y evaluar su capacidad pronóstica. Métodos. Se utilizaron datos del registro prospectivo de reperfusión de Cataluña y se seleccionaron casos consecutivos que recibieron rtPA por vía intravenosa aislado en 2011-2012. A partir del sumatorio de edad y NIHSS se categorizó la cohorte en SPAN-100 positivos [&amp;#8805; 100] y SPAN-100 negativos [&lt; 100 puntos]. Se determinaron las tasas crudas y ajustadas de hemorragia sintomática (HICS), muerte e independencia funcional (ERm 0-2) a partir del índice SPAN-100 y se calculó la curva ROC para la predicción de las principales medidas de resultado. Resultados. De los 1.685 casos incluidos, 1.405 (83%) eran SPAN-100 negativos. La tasa de HICS ajustada por sexo, ERm preictus, hipertensión, diabetes, dislipemia, cardiopatía isquémica, insuficiencia cardíaca, fibrilación auricular, ictus/AIT previos y tiempo hasta la trombólisis no fue diferente según las dos categorías pero la probabilidad de tener una ERm 0-2 al 3.er mes fue hasta casi 8 veces mayor entre los SPAN-100 negativos. El riesgo de muerte al 3.er mes fue 5 veces superior en los SPAN-100 positivos. El análisis ROC mostró especificidades altas tanto en la predicción de independencia funcional como mortalidad al 3.er mes cuando el punto de corte era de 100. Conclusiones. El índice SPAN-100 es un índice sencillo y de fácil aplicación que puede guiar la selección de pacientes para trombólisis cuando existen dudas razonables y asesorar al paciente/familia acerca de los resultados esperables (AU)</dc:description>
+<dc:source>Neurologia;31(9): 592-598, nov.-dic. 2016. tab, graf</dc:source>
+<dc:identifier>ibc-158303</dc:identifier>
+<dc:title xml:lang="es">Aplicabilidad del índice SPAN-100 en una cohorte prospectiva y contemporánea de pacientes tratados con rtPA por vía intravenosa en Cataluña</dc:title>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d24892^s22074</dc:subject>
+<dc:subject>^d30438^s22073</dc:subject>
+<dc:subject>^d28614</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d34247^s22067</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d23812^s22045</dc:subject>
+<dc:subject>^d24892^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201612</dc:date>
+</metadata>
+</record>
+</ibecs-document>

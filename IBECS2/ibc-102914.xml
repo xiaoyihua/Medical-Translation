@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-102914</identifier>
+<setSpec>0210-5705</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Municipal distribution and trends in the incidence of colorectal cancer in the health area of Leon (1994-2008)</dc:title>
+<dc:description xml:lang="en">Background There is an excess incidence of colorectal cancer (CRC) and mortality from this disease in the health area of Leon. The aim of the present study was to determine trends in CRC and its geographical distribution. Methods Cases included in the Hospital Registry of Tumors of the Centro Asistencial Universitario de León from 1994-2008 and occurring in patients residing in the health area of Leon were studied. Time trends were evaluated with a Poisson regression model. To analyze geographical distribution, the smoothed relative risks (RR) of the municipalities adjusted by the Besag, York and Mollié model were calculated, and their subsequent probability of an RR&gt;1 (PP) was calculated using Bayesian methods. Results A total of 4,136 cases were included. Rates standardized to the European standard population ranged from 49.6 (1994-6) to 63.5 new cases per 100,000 inhabitants in men (2006-8) and from 29.6 to 33.8 in women. An annual 2% increase was found for all localizations, ranging from 1.8% in the rectum to 3.6% in the proximal colon. In all localizations, the increase was greater in men than in women. Several municipalities in the health area of Leon showed an excess risk. The geographical pattern observed was due especially to the distribution of colon cancer. Conclusions The incidence rates observed were high and were increasing. Special attention should be paid to CRC in the health area of Leon, mainly in the municipalities with excess risk (AU)</dc:description>
+<dc:creator>Muinelo Voces, María Isabel</dc:creator>
+<dc:creator>Tamames Gómez, Sonia</dc:creator>
+<dc:creator>Martín Sánchez, Vicente</dc:creator>
+<dc:creator>Abajo Olea, Serafín de</dc:creator>
+<dc:creator>López-Abente, Gonzalo</dc:creator>
+<dc:creator>Jorquera Plaza, Francisco</dc:creator>
+<dc:creator>Molina De La Torre, Antonio Jose</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamento Se ha puesto de manifiesto un exceso de incidencia y mortalidad por cáncer colorrectal (CCR) en el área de salud de León (ASL). El objeto del presente trabajo es conocer su tendencia y distribución geográfica. Métodos Fueron incluidos los casos del Registro Hospitalario de Tumores del Centro Asistencial Universitario de León, entre 1994-2008 y con residencia en el ASL. Las tendencias temporales se evaluaron con un modelo de regresión de Poisson. Para el análisis de la distribución espacial se estimaron los riesgos relativos (RR) municipales suavizados mediante el ajuste del modelo de Besag, York y Mollié y sus probabilidades posteriores de que los RR fuesen &gt; 1 (PP), utilizando métodos bayesianos. Resultados Se incluyeron 4.136 casos. Las tasas estandarizadas a población europea ascendieron de 49,6 (1994-1996) a 63,5 casos nuevos por 100.000 habitantes en los hombres (2006-2008) y de 29,6 a 33,8 en las mujeres. Se observó un incremento anual del 2% para todas las localizaciones, oscilando desde el 1,8% en el recto al 3,6% en el colon proximal. En todas las localizaciones el incremento fue mayor en hombres que en mujeres. Varios municipios del ASL presentaron un exceso de riesgo. El patrón geográfico observado obedecía sobre todo a la distribución del cáncer de colon. Conclusiones Las tasas de incidencia observadas son elevadas y en ascenso. Debe prestarse una especial atención al CCR en el ASL, principalmente a los municipios con exceso de riesgo (AU)</dc:description>
+<dc:source>Gastroenterol Hepatol;35(5): 299-308, May. 2012. ilus, tab</dc:source>
+<dc:identifier>ibc-102914</dc:identifier>
+<dc:title xml:lang="es">Tendencia y distribución municipal de la incidencia de cáncer colorrectal en el área de salud de León (1994-2008)</dc:title>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d23595^s22080</dc:subject>
+<dc:subject>^d53221^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201205</dc:date>
+</metadata>
+</record>
+</ibecs-document>

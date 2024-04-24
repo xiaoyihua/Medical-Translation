@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-18414</identifier>
+<setSpec>0365-6691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Development of an automatic discrimination system for glaucomatous visual fields based on neuro-fuzzy nets</dc:title>
+<dc:description xml:lang="en">Purpose: To provide a useful tool in the diagnosis of glaucoma by developing an automatic system for visual field classification based on neuro-fuzzy rules. Method: A total of 212 visual fields (OCTOPUS 123 program G1X), from 198 patients, were analysed: 61 normal (controls) and 151 with glaucomatous damage (49% with incipient damage, 29.1% with moderate damage, and 21.9% advanced). Inclusion criteria for glaucomatous patients were: Visual acuity &gt;0.5, IOP &lt; 20 mm Hg (with treatment), refraction &lt;5 Dp and previous perimetric experience. Exclusion criteria: miotics, other ocular pathologies which could interfere with visual field examination, and for control subjects: visual acuity &gt;0.5, no ocular pathologies and refraction &lt; 5 Dp. A neuro-fuzzy classifier (NEFCLASS) is a system consisting in a series of fuzzy rules, obtained after a learning process, which attempts to assign to each piece of data input its corresponding output. Initially, the characteristics of each data input are established (input units). Then, based on previous knowledge, a set of rules are defined, and finally, the learning process allows the optimisation of the classifier parameters to generate an output. Results: Input units were defined by using the mean defects calculated at specific areas of the visual field; five rules were then created which generated sensitivity and specificity values of 96.0% and 93.4% respectively. Conclusions: The use of neuro-fuzzy rules for visual field classification in normal vs glaucomatous can provide results which can match the quality of those obtained with other techniques such as discriminatory analysis or neural networks (Arch Soc Esp Oftalmol 2002; 77: 669-676) (AU)</dc:description>
+<dc:publisher>Audiovisual y Marketing, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Construir un sistema automático de clasificación del campo visual (CV), basado en reglas fuzzy, como herramienta de ayuda al diagnóstico de glaucoma. Método: Se analizaron 212 perimetrías blanco-blanco (OCTUPUS 123 programa G1X) correspondientes a 61 controles y 151 glaucomatosos (incipientes 49,0 por ciento, moderados 29,1 por ciento y avanzados 21,9 por ciento) de 198 pacientes. Criterios de inclusión (glaucomatosos): Agudeza visual &gt;0,5, PIO 0,5 sin patología ocular salvo defectos de refracción (refracción (5D). Un clasificador neuro-fuzzy (NEFCLASS) es un sistema formado por un conjunto de reglas fuzzy, obtenidas a partir de un proceso de aprendizaje, que pretende asignar a una entrada dada la clase de salida correspondiente. Inicialmente, se seleccionan las características de entrada, seguidamente, se construye una base de reglas a partir del conocimiento a priori existente y, finalmente, la etapa de aprendizaje, permite optimizar los parámetros del clasificador. Resultados: Utilizando como características de entrada los defectos medios, calculados en áreas específicas del CV, se obtuvieron cinco reglas que arrojaron unos valores de sensibilidad y especificidad del 96,0 por ciento y 93,4 por ciento, respectivamente. Conclusiones: La aplicación de técnicas neuro-fuzzy en la discriminación de campos visuales normales y glaucomatosos ofrece resultados muy competitivos frente a técnicas ya utilizadas en esta tarea (análisis discriminante y redes neuronales) (AU)</dc:description>
+<dc:source>Arch Soc Esp Oftalmol;77(12): 669-676, dic. 2002.</dc:source>
+<dc:title xml:lang="es">Desarrollo de un sistema automático de discriminación del campo visual glaucomatoso basado en un clasificador neuro-fuzzy</dc:title>
+<dc:type>article</dc:type>
+<dc:creator>García Sánchez, J</dc:creator>
+<dc:creator>González de la Rosa, M</dc:creator>
+<dc:creator>Mira Mira, J</dc:creator>
+<dc:creator>Carmona Suárez, E. J</dc:creator>
+<dc:creator>García Feijoó, J</dc:creator>
+<dc:creator>Fernández Vidal, A</dc:creator>
+<dc:creator>Gallardo, L. M</dc:creator>
+<dc:creator>González Hernández, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:identifier>ibc-18414</dc:identifier>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24367</dc:subject>
+<dc:subject>^d28053</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d24366</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d54195</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d15187</dc:subject>
+<dc:date>200212</dc:date>
+</metadata>
+</record>
+</ibecs-document>

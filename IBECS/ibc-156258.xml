@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-156258</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Antimicrobial susceptibility cumulative reports</dc:title>
+<dc:description xml:lang="en">Cumulative reports on antimicrobial susceptibility tests data are important for selecting empirical treatments, as an educational tool in programs on antimicrobial use, and for establishing breakpoints defining clinical categories. These reports should be based on data validated by clinical microbiologists using diagnostic samples (not surveillance samples). In order to avoid a bias derived from including several isolates obtained from the same patient, it is recommended that, for a defined period, only the first isolate is counted. A minimal number of isolates per species should be presented: a figure of &gt;=30 isolates is statistically acceptable. The report is usually presented in a table format where, for each cell, information on clinically relevant microorganisms-antimicrobial agents is presented. Depending on particular needs, multiple tables showing data related to patients, samples, services or special pathogens can be prepared (AU)</dc:description>
+<dc:creator>Canut-Blasco, Andrés</dc:creator>
+<dc:creator>Calvo, Jorge</dc:creator>
+<dc:creator>Martínez-Martínez, Luis</dc:creator>
+<dc:creator>Rodríguez-Díaz, Juan Carlos</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Los informes de datos acumulados de antibiograma son útiles para la selección del tratamiento empírico, como herramienta educativa en los programas de utilización de antimicrobianos y para la definición de puntos de corte de categorías clínicas. Estos informes deben basarse en los datos, verificados por el microbiólogo clínico, de aislamientos obtenidos de muestras diagnósticas (y no las de programas de vigilancia). Para intentar evitar los sesgos derivados de incluir varios aislamientos del mismo paciente, se aconseja considerar, para un marco temporal definido, solamente el primero de ellos. El informe debe incluir un número mínimo de aislados por especie, aceptándose estadísticamente adecuada una cifra &amp;#8805; 30. El informe suele presentarse en forma de tablas, en las que en cada celda se presenta la información de microorganismos-antimicrobianos de relevancia clínica. Dependiendo de las necesidades se prepararán múltiples tablas que consideren tipos de pacientes, muestras, servicios o patógenos especiales (AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;34(8): 524-530, oct. 2016. tab</dc:source>
+<dc:identifier>ibc-156258</dc:identifier>
+<dc:title xml:lang="es">Informes acumulados de sensibilidad a los antimicrobianos</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d24244^s22045</dc:subject>
+<dc:subject>^d28582^s22057</dc:subject>
+<dc:subject>^d911^s22073</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22165</dc:subject>
+<dc:subject>^d28441</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201610</dc:date>
+</metadata>
+</record>
+</ibecs-document>

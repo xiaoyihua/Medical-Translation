@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-9550</identifier>
+<setSpec>1139-6202</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Meta-analysis of clinical trials</dc:title>
+<dc:creator>Espallargues Carreras, Mireia</dc:creator>
+<dc:creator>Serra Prat, Mateu</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Saned, S.A.</dc:publisher>
+<dc:description xml:lang="es">Los metaanálisis son trabajos síntesis de la evidencia científica que hacen explícitas todas las decisiones que se toman en el proceso de revisión (desde los criterios de selección de los artículos originales a los métodos estadísticos para combinar los resultados), sistematizan el proceso de revisión con el objetivo de obtener resultados más exhaustivos y menos susceptibles a sesgos y, además, presentan los resultados de la síntesis de forma cuantitativa, lo que contribuye a una mayor objetividad en su interpretación. Su metodología permite revisar críticamente y combinar estadísticamente por métodos estadísticos formales los resultados de distintos estudios originales con objetivos y características similares o comparables, de modo que pueden dar una respuesta definitiva aún cuando ninguno de los estudios individuales ha podido aportar unos resultados concluyentes a una pregunta de investigación concreta. A estas ventajas se le añaden otras que se presentan en este artículo.También se discuten sus principales limitaciones, se presentan las etapas fundamentales de su metodología (con especial énfasis a la obtención de estimadores combinados del efecto, sus intervalos de confianza y sus pruebas de hipótesis), así como los principales elementos para su correcta interpretación (AU)</dc:description>
+<dc:source>Pharm. care Esp;2(2): 83-92, mar. 2000. ilus, tab</dc:source>
+<dc:identifier>ibc-9550</dc:identifier>
+<dc:title xml:lang="es">Metaanálisis de ensayos clínicos</dc:title>
+<dc:subject>^d28214</dc:subject>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d28622</dc:subject>
+<dc:subject>^d30967</dc:subject>
+<dc:subject>^d37673^s22045</dc:subject>
+<dc:subject>^d33150^s22066</dc:subject>
+<dc:subject>^d24613^s22048</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200003</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-112134</identifier>
+<setSpec>1130-0558</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Distortion in cone-beam computed tomography images</dc:title>
+<dc:description xml:lang="en">Objective. To quantify the distortion in Cone-Beam Computed Tomography images of different regions of the human skull and mandible. Methods. With the tracing of three horizontal and four vertical planes, fifteen quadrants were delimited in thirty dry human skulls with their articulated jaws. Stainless steel wires were placed in the sagittal, coronal and transverse (axial) planes in each of the quadrants. A cone-beam computerized tomography (CBCT) was taken of each correctly positioned specimen and the wire lengths were measured in the bone specimens (real measure) and in the images (tomographic measure), for comparison. The Concordance Correlation Coefficient (CCC) and the Mean Differences statistical tests were applied to the data. Results. Since the CCC found for all the quadrants was always above 0.80, the tomographic measurements can be considered statistically reliable. However, the values obtained in all the spatial measurements revealed that in all the quadrants some percentage of distortion was present, being magnification for some and minification for others. The maximum distortion was present in the vertical measurements of the quadrants located in the middle line or close to it, and the minimum percentage in the horizontal measurements. Conclusion. The distortion present in the different regions of the skull and mandible is not statistically significant, but it is advisable to take it into consideration to avoid errors that can occur in the clinical practice(AU)</dc:description>
+<dc:creator>Zúñiga, Janneth</dc:creator>
+<dc:creator>Baena, Gloria</dc:creator>
+<dc:creator>Peña, Elizabeth</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Cuantificar la distorsión presente en imágenes de diferentes regiones del cráneo y la mandíbula humanos obtenidas mediante tomografía computarizada de cono. Metodología. Mediante el trazo de 3 planos horizontales y 4 verticales se delimitaron 15 cuadrantes en 30 cráneos secos humanos con las mandíbulas articuladas y se colocaron en cada cuadrante alambres de acero inoxidable en los planos sagital, coronal y axial (transversal). A cada espécimen debidamente posicionado se le tomó una tomografía computarizada de cono (CBCT). Se midió la longitud de los alambres, tanto en los especímenes óseos (medida real), como en las imágenes (medida tomográfica), para compararlas entre sí. Como pruebas estadísticas se utilizaron el Coeficiente de Correlación de Concordancia (CCC) y la Media de las Diferencias. Resultados. Dado que el CCC encontrado en todos los cuadrantes fue siempre mayor de 0,80, las medidas tomográficas que se hagan en estos cuadrantes pueden ser consideradas estadísticamente confiables. Sin embargo, los valores obtenidos en todas las medidas espaciales revelan que en todos los cuadrantes se presenta algún porcentaje de distorsión, siendo este de magnificación para algunos o de minimización para otros. La mayor distorsión se presentó en las medidas verticales de los cuadrantes situados en la línea mediana o próximos a ella, y el menor porcentaje en las medidas horizontales. Conclusión. La distorsión presente en las diferentes regiones del cráneo y la mandíbula no es estadísticamente significativa, pero es aconsejable tenerla en cuenta para minimizar los errores que puedan presentarse en la práctica clínica(AU)</dc:description>
+<dc:source>Rev. esp. cir. oral maxilofac;35(2): 51-58, abr.-jun. 2013.</dc:source>
+<dc:identifier>ibc-112134</dc:identifier>
+<dc:title xml:lang="es">Distorsión en imágenes obtenidas mediante tomografía computarizada de cono</dc:title>
+<dc:subject>^d23436^s22045</dc:subject>
+<dc:subject>^d52853^s22074</dc:subject>
+<dc:subject>^d28264^s22045</dc:subject>
+<dc:subject>^d23436^s22048</dc:subject>
+<dc:subject>^d23436^s22074</dc:subject>
+<dc:subject>^d28264^s22039</dc:subject>
+<dc:subject>^d23436^s22066</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d52853^s22039</dc:subject>
+<dc:subject>^d52853^s22048</dc:subject>
+<dc:subject>^d28264^s22066</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d52853^s22045</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d28596^s22045</dc:subject>
+<dc:subject>^d13267^s29166</dc:subject>
+<dc:subject>^d14082^s29166</dc:subject>
+<dc:subject>^d23436^s22039</dc:subject>
+<dc:subject>^d8506^s29166</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201306</dc:date>
+</metadata>
+</record>
+</ibecs-document>

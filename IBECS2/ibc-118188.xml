@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-118188</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Nosocomial pneumonia</dc:title>
+<dc:description xml:lang="en">The hospital acquired pneumonia (HAP) is one of the most common infections acquired among hospitalised patients. Within the HAP, the ventilator-associated pneumonia (VAP) is the most common nosocomial infection complication among patients with acute respiratory failure. The VAP and HAP are associated with increased mortality and increased hospital costs. The rise in HAP due to antibiotic-resistant bacteria also causes an increase in the incidence of inappropriate empirical antibiotic therapy, with an associated increased risk of hospital mortality. It is very important to know the most common organisms responsible for these infections in each hospital and each Intensive Care Unit, as well as their antimicrobial susceptibility patterns, in order to reduce the incidence of inappropriate antibiotic therapy and improve the prognosis of patients. Additionally, clinical strategies aimed at the prevention of HAP and VAP should be employed in hospital settings caring for patients at risk for these infections (AU)</dc:description>
+<dc:creator>Vallés, Jordi</dc:creator>
+<dc:creator>Martín-Loeches, Ignacio</dc:creator>
+<dc:creator>Díaz, Emili</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La neumonía nosocomial (NN) es una de las infecciones más frecuentes que presentan los pacientes hospitalizados. Dentro de las NN, la neumonía asociada a la ventilación mecánica (NAV) es la complicación infecciosa nosocomial más frecuente entre los pacientes con insuficiencia respiratoria aguda. La NN y la NAV se asocian en algunos casos con un aumento de la mortalidad y con un incremento en los costes hospitalarios. El incremento en la incidencia de NN causada por microorganismos multirresistentes causa también un incremento en la incidencia de tratamiento antibiótico empírico inapropiado que se asocia a un incremento en el riesgo de mortalidad de los pacientes. Es muy importante conocer los microorganismos más frecuentemente responsables de estas infecciones en cada hospital y en cada unidad de cuidados intensivos y los patrones de sensibilidad antimicrobiana local para reducir la incidencia de tratamiento antibiótico inapropiado y mejorar el pronóstico de los pacientes. Además, deben utilizarse de forma rutinaria diferentes estrategias de prevención de la NN y de la NAV con el fin de reducir los factores de riesgo relacionados con la aparición de estas infecciones (AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;31(10): 692-698, dic. 2013. tab</dc:source>
+<dc:identifier>ibc-118188</dc:identifier>
+<dc:title xml:lang="es">Neumonía nosocomial</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d52093^s22080</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d11443^s22080</dc:subject>
+<dc:subject>^d29181^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d32824^s22074</dc:subject>
+<dc:subject>^d28477^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201312</dc:date>
+</metadata>
+</record>
+</ibecs-document>

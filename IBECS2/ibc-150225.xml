@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150225</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Categorization of schematic organized information by means of ROC curves</dc:title>
+<dc:description xml:lang="en">The information organized in knowledge schemes (scripts) needs to be studiet by techniques in which elements are categorized as test material: Letters, syllables, words, sentences, pictures, etcetera. One of these techniques considers subjective scaling of the stimulus by means of rating scales (v.g. Torgerson, 1958). Furthemore, the application of rating scales has been a very useful technique applied in signal detection theory (SDT). With this technique it is possible to get the receiver operating characteristic or ROC curve. That curves represents ordinal data. This technique constitutes a natural categorization for estimations of ROC curves. On the other had, the presentation of one model of categorization applied to events included in the scheme. The categorization represents a first level to escale the information. A second level is the suitable application of indices of sensitivity. The third level is the statistical modelling. We have carried out initial research at the first an second level (v.g. Pelegrina, Salvador y Buil, 1999). In the present work we are analized possibilities of modelling when the data are considered or analiyzed by means of ROC analysis. This technique has been largely used in biomedical research(radiology)unlike psychology (v.g. Zou y Hall, 1997). However, this is a model of data representation complementary between the scheme theory and the SDT (AU)</dc:description>
+<dc:creator>Pelegrina, Manuel</dc:creator>
+<dc:creator>Ortiz, Mercedes</dc:creator>
+<dc:creator>Salvador Beltrán, Francesc</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La información organizada en esquemas de conocimiento requiere la categorización del material de la prueba: letras, sílabas, palabras, frases, dibujos, etc., antes de ser sometida a tareas de atención, memoria, percepción, etc. Una de las técnicas ha consistido en el escalamiento subjetivo del estímulo mediante escalas de estimación (v.g. Torgerson, 1958). Por otra parte, la aplicación de escalas de estimación ha resultado ser una técnica muy útil en procedimientos aplicados en la teoría de la detección de señales (TDS) y en la obtención de curvas características operativas del receptor (ROC) que representa los datos mediante escalas ordinales. Esta técnica ha llegando a constituir una forma natural de categorización para la estimación de curvas ROC (Metz, Herman y Shen, 1998). Nuestro objetivo consiste en presentar un modelo de categorización aplicado en acciones organizadas de forma esquemática. Esta categorización representa un primer nivel para el escalamiento de la información. Un segundo nivel en el que se aplican índices de sensibilidad adecuados y un tercer nivel de representación y valoración de los modelos obtenidos. Ya que hemos realizado investigaciones iniciales en torno al primer y segundo nivel (v.g. Pelegrina, Salvador y Buil, 1997), en el presente trabajo trataremos sobre las posibilidades analíticas y de modelización cuando estos datos son considerados o analizados desde el análisis ROC. Este tipo de análisis se ha aplicado de una forma sistemática en contenidos biomédicos más que en psicología (v.g. Zou y Hall, 1997). No obstante, este procedimiento es un modelo de representación de los datos complementario entre las teorías del esquema y la TDS (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);12(supl.2): 423-426, 2000. ilus, tab</dc:source>
+<dc:identifier>ibc-150225</dc:identifier>
+<dc:title xml:lang="es">Categorización de información organizada de forma esquemática mediante curvas ROC</dc:title>
+<dc:subject>^d22519^s22049</dc:subject>
+<dc:subject>^d28633</dc:subject>
+<dc:subject>^d28614</dc:subject>
+<dc:subject>^d24858</dc:subject>
+<dc:subject>^d33196^s22045</dc:subject>
+<dc:subject>^d54395</dc:subject>
+<dc:subject>^d51835^s22011</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200000</dc:date>
+</metadata>
+</record>
+</ibecs-document>

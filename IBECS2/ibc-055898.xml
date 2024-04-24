@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-055898</identifier>
+<setSpec>0001-6519</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Vestibulo-oculomotor reflex recording using the scleral search coil technique. Review of peripheral vestibular disorders</dc:title>
+<dc:description xml:lang="en">Our goal is to review vestibulo-oculomotor reflex (VOR) studies on several peripheral vestibular disorders (Ménière's disease, vestibular neuritis, benign paroxysmal positional vertigo, superior canal dehiscence syndrome, and vestibular neuroma), using the scleral search coil (SSC) technique. Head movements are detected by vestibular receptors and the elicited VOR is responsible for compensatory 3 dimensional eye movements. Therefore, to study the VOR it is necessary to assess the direction and velocity of 3 dimensional head and eye movements. This can be achieved using the SCC technique. Interaction between a scleral search coil and an alternating magnetic field generates an electrical signal that is proportional to eye position. Ideally, eye rotation axis is aligned with head rotation axis and VOR gain (eye velocity/head velocity) for horizontal and vertical head rotations is almost 1. The VOR gain, however, for torsional head rotations is smaller and about 0.7</dc:description>
+<dc:creator>Boleas-Aguirre, Marisol</dc:creator>
+<dc:creator>Carey, John P</dc:creator>
+<dc:creator>Migliaccio, Amerio A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Se revisa la contribución del empleo de la técnica de la bobina escleral en campo magnético (BECM) o scleral search coil (SSC) en diversas afecciones vestibulares periféricas: enfermedad de Ménière, neuritis vestibular, vértigo posicional paroxístico benigno, síndrome de dehiscencia del conducto semicircular superior y neurinoma vestibular. Los movimientos cefálicos detectados por los receptores vestibulares desencadenan el reflejo vestibulooculomotor (RVO) que genera movimientos oculares compensatorios tridimensionales. Por tanto, para el estudio del RVO es necesario valorar la dirección y la velocidad de los movimientos cefálicos y oculares reflejos en tres dimensiones. La técnica de la BECM se basa en que la interacción de un campo magnético con una bobina escleral genera señales eléctricas en ésta que traducen las posiciones ocular y cefálica. El eje de rotación ocular está alineado con el eje de rotación cefálica y la ganancia del RVO (velocidad ocular/velocidad cefálica) en movimientos horizontales y verticales es casi 1, pero en los torsionales es menor (alrededor de 0,7)</dc:description>
+<dc:source>Acta Otorrinolaringol Esp;58(7): 321-326, ago.-sept. 2007. ilus</dc:source>
+<dc:identifier>ibc-055898</dc:identifier>
+<dc:title xml:lang="es">Registro del reflejo vestibulooculomotor con la técnica de la bobina corneal en campo magnético (scleral search coil). Revisión de afecciones vestibulares periféricas</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d24913^s22032</dc:subject>
+<dc:subject>^d8745</dc:subject>
+<dc:subject>^d27829^s22032</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d34203^s22016</dc:subject>
+<dc:subject>^d19332^s22031</dc:subject>
+<dc:subject>^d24913^s22016</dc:subject>
+<dc:subject>^d27888^s22016</dc:subject>
+<dc:subject>^d10214^s22039</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200709</dc:date>
+</metadata>
+</record>
+</ibecs-document>

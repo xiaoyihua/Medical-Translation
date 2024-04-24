@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150932</identifier>
+<setSpec>0214-3429</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Development of a web application for recording bacterial etiologic agents and their antimicrobial susceptibility to improve the treatment of urinary tract infections and monitor resistance to antibiotics</dc:title>
+<dc:description xml:lang="en">Introduction. We describe the development of a web platform that provides an updated record of the etiology and antimicrobial susceptibility of the different microorganisms responsible for urinary tract infections. Material and Methods. The MicrobDinamyc system (Francisco Soria Melguizo, SA, Madrid, Spain) is employed for the management of information derived from the urine culture results. The web application database automatically gathers the results of urine cultures conducted in the laboratory. Results. The user can consult the distribution of bacterial etiologies and antimicrobial susceptibilities in the different clinical settings during a specific time window. Conclusions. Using susceptibility data obtained in previous studies and stored on the web platform, it is possible to deduce the clinical activity of a given antibiotic in a specific setting (AU)</dc:description>
+<dc:creator>Navarro-Marí, José María</dc:creator>
+<dc:creator>Gómez-Palomo, Francisco</dc:creator>
+<dc:creator>Miranda-Casas, Consuelo</dc:creator>
+<dc:creator>Rodríguez-Rodríguez, José María</dc:creator>
+<dc:creator>Sorlózano-Puerto, Antonio</dc:creator>
+<dc:creator>Gutiérrez-Fernández, José</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Introducción. Describimos el desarrollo de una plataforma web que proporciona un registro actualizado de la etiología y sensibilidad a los antibióticos de los diferentes microorganismos responsables de infecciones del tracto urinario. Material y métodos. El sistema de MicrobDinamyc (Francisco Soria Melguizo, S.A., Madrid, España) se emplea para la gestión de la información derivada de los resultados del cultivo de orina. La base de datos de la aplicación web automáticamente recoge los resultados de los urocultivos realizados en el laboratorio. Resultados. El usuario puede consultar la distribución de etiologías bacterianas y sensibilidad a los antibióticos en los diferentes escenarios clínicos durante un período de tiempo específico. Conclusiones. Usando datos de susceptibilidad obtenidos en estudios previos y almacenados en la plataforma web, es posible deducir la actividad clínica de un determinado antibiótico en una configuración específica (AU)</dc:description>
+<dc:source>Rev Esp Quimioter;29(2): 99-104, abr. 2016. tab, ilus, graf</dc:source>
+<dc:identifier>ibc-150932</dc:identifier>
+<dc:title xml:lang="es">Desarrollo de una aplicación web para el registro de agentes etiológicos bacterianos y su sensibilidad a los antibióticos para mejorar el tratamiento de infecciones del tracto urinario y monitorización de las resistencias</dc:title>
+<dc:subject>^d14952^s22027</dc:subject>
+<dc:subject>^d22165^s22038</dc:subject>
+<dc:subject>^d1443^s22021</dc:subject>
+<dc:subject>^d14952^s22057</dc:subject>
+<dc:subject>^d14952^s22046</dc:subject>
+<dc:subject>^d33921^s22074</dc:subject>
+<dc:subject>^d55441^s22074</dc:subject>
+<dc:subject>^d53806^s22074</dc:subject>
+<dc:subject>^d22164^s22021</dc:subject>
+<dc:subject>^d22165^s22021</dc:subject>
+<dc:subject>^d1443^s22001</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d53806^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201604</dc:date>
+</metadata>
+</record>
+</ibecs-document>

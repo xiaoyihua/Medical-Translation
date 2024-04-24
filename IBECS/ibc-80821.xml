@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-80821</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prognostic value of the sTREM-1 plasma values in patients with sepsis: A cohort study</dc:title>
+<dc:description xml:lang="en">ObjectiveTo evaluate the association between plasma levels of soluble Triggering Receptor Expressed on Myeloid Cells-1 (sTREM-1) and mortality of patients with sepsis.DesignProspective cohort study.SettingTwo general Intensive Care Units.PatientsPatients with sepsis in whom sTREM-1 plasma levels were determined daily in the first 3 days of their presentation.Variables of interestMortality at 28 days.ResultsWe analyzed 121 patients (23% severe sepsis, 44% septic shock, 33% non-severe sepsis). Mortality at 28 days was 24.8%. The initial sTREM-1 levels were slightly higher in nonsurvivors than in survivors (median 366.9 versus 266.5pg/ml, p=0.2668). An increase in sTREM-1 levels higher than 90pg/ml within the first 3 days (delta-TREM) was associated with an excess of mortality (hazard ratio [HR] 2.68, p=0.0047), with a sensitivity of 47% and a specificity of 78%. This excess of mortality disappeared after adjusting for severity by Cox analysis (adjusted HR 1.07, p=0.8665).ConclusionsThe increase in the levels of sTREM-1 during the first 3 days of evolution is associated with an excess of mortality in critically ill patients with sepsis. This is explained by the greater initial severity of these patients. The discriminative capacity of this finding is insufficient to be clinically useful(AU)</dc:description>
+<dc:creator>Broch-Porcar, M. J</dc:creator>
+<dc:creator>Masiá-Canuto, M</dc:creator>
+<dc:creator>Latour-Pérez, J</dc:creator>
+<dc:creator>Alcalá-López, A</dc:creator>
+<dc:creator>González-Tejera ,  M</dc:creator>
+<dc:creator>Abad-Terrado, C</dc:creator>
+<dc:creator>Arizo-León, D</dc:creator>
+<dc:creator>García-García, M. A</dc:creator>
+<dc:creator>Gutiérrez, F</dc:creator>
+<dc:creator>Sánchez-Hernández, J. F</dc:creator>
+<dc:creator>Viedma-Contreras , J. A</dc:creator>
+<dc:creator>Bonilla-Rovira, F</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">ObjetivoEvaluar la asociación entre los niveles plasmáticos de soluble triggering receptor expressed on myeloid cells-1 (sTREM-1) y la mortalidad de los pacientes con sepsis.DiseñoEstudio de cohortes prospectivo.ÁmbitoDos unidades de cuidados intensivos generales.PacientesPacientes con sepsis en los que se determinaron los niveles plasmáticos de sTREM-1 durante los 3 primeros días de su presentación.Variables de interés principalesMortalidad a los 28 días.ResultadosSe analizaron 121 pacientes (el 23% sepsis grave, el 44% shock séptico y el 33% sepsis no grave). La mortalidad a los 28 días fue del 24,8%. Los niveles de sTREM-1 iniciales fueron ligeramente más elevados en los fallecidos que en los supervivientes (mediana de 366,9 frente a 266,5pg/ml; p=0,2668). Una elevación de los niveles de sTREM-1 a lo largo de los 3 primeros días (delta-TREM) superior a 90pg/ml se asoció con un exceso de mortalidad (hazard ratio: 2,68; p=0,0047), con una sensibilidad del 47% y una especificidad del 78%. Este exceso de mortalidad de los pacientes desapareció al ajustar para gravedad mediante análisis de Cox (hazard ratio ajustado de 1,07; p=0,8665).ConclusionesEn pacientes críticos con sepsis, el aumento de los niveles de sTREM-1 a lo largo de los 3 primeros días de evolución se asocia con un exceso de mortalidad, que se explica por la mayor gravedad inicial de estos pacientes. La capacidad discriminativa de este hallazgo es insuficiente para ser útil en la clínica(AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);34(4): 231-236, mayo 2010. graf, tab</dc:source>
+<dc:identifier>ibc-80821</dc:identifier>
+<dc:title xml:lang="es">Valor pronóstico de los niveles plasmáticos de sTREM-1 en pacientes con sepsis: un estudio de cohortes</dc:title>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d32031^s22062</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d28604</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d23448</dc:subject>
+<dc:subject>^d32031^s22047</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d22940^s22062</dc:subject>
+<dc:subject>^d14384</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201005</dc:date>
+</metadata>
+</record>
+</ibecs-document>

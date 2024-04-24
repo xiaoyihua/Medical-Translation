@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-16859</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Electronic evidence-based medicine (e-MBE): methodology, advantages and limitations</dc:title>
+<dc:creator>Carrasco, Genís</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">La evidence based medicine o medicina basada en la evidencia (MBE) es una estrategia para perfeccionar la toma de decisiones a partir de la aplicación de las mejores evidencias disponibles. Este enfoque de la medicina, nacido en la práctica clínica, se ha extendido progresivamente a otros niveles organizacionales de los servicios de salud como la gestión y la planificación, dando origen a la denominada atención sanitaria basada en la evidencia (ASBE). Su principal limitación es considerar como mejor evidencia aquella que proviene de ensayos clínicos controlados (ECC) que analizan la eficacia de las intervenciones o la que se apoya en revisiones explícitas de tipo cualitativo (revisiones sistemáticas) o cuantitativo (metaanálisis) de este tipo de estudios. La revolución en los sistemas de información debida a Internet permite la práctica eficiente de la revisión crítica de la evidencia desde cualquier ordenador personal, dando origen a lo que puede denominarse MBE "electrónica" (e-MBE). La práctica de la e-MBE requiere cuatro pasos consecutivos: 1. Identificación del problema y formulación precisa de una pregunta contestable a partir del problema. 2. Búsqueda de la mejor evidencia disponible en la bibliografía para responder la cuestión planteada. 3. Evaluación crítica de la evidencia disponible y 4. Aplicación de las conclusiones de esta evaluación a la práctica y evaluación de las decisiones tomadas. La búsqueda de bibliografía relevante respecto a la pregunta planteada puede hacerse a partir de fuentes secundarias (Cochrane Library, Bandolier, ACP Journal Club, Evidence-Based Medicine, EvidenceBased Nursing, Journal of Family Practice, Evidence-Based Purchasing, Journal of Evidence-Based Health Policy and Management) y fuentes primarias ( Medline, EMBASE o Índice Médico Español). La evaluación de los documentos encontrados debe determinar su validez (cercanía a la realidad) y utilidad (aplicabilidad clínica) con un método sencillo para filtrar los estudios encontrados de cinco pasos: 1. Observar el título: si no es interesante, puede rechazarse el artículo. 2. Leer el resumen: si no es correcto, desecharemos el trabajo. 3. Considerar el escenario clínico y si sus resultados son aplicables para el problema estudiado. 4. Contestar a una pregunta concreta sobre su diseño que dependerá de la intención del estudio (en caso de pruebas diagnósticas será responder si ha habido comparación independiente y ciega con el gold estándar; en los estudios pronósticos deberá haber una cohorte de comienzo, en los relativos a etiologías valoraremos la consistencia del método para establecer causalidad, y en los tratamientos observando si existió asignación aleatoria). 5. Trasladar el conocimiento adquirido a la práctica diaria. Este ejercicio debe ir acompañado de la experiencia necesaria para poder contrapesar los riesgos y los beneficios, así como contemplar las expectativas y preferencias del paciente. Conclusiones: La sociedad demanda cada vez más de los sistemas sanitarios que mejoren su equidad, eficiencia y calidad asistencial, lo cual implica mejorar los fundamentos científicos de los procesos de toma de decisiones. Sin duda alguna, decidir desde el rigor científico es mejor que hacerlo desde la incertidumbre, ya que los profesionales sanitarios somos administradores de recursos ajenos que debemos gestionar en beneficio de la sociedad a la que servimos (AU)</dc:description>
+<dc:source>Rev. calid. asist;17(2): 113-125, mar. 2002. tab</dc:source>
+<dc:identifier>ibc-16859</dc:identifier>
+<dc:title xml:lang="es">Medicina basada en la evidencia "electrónica" (e-MBE): metodología, ventajas y limitaciones*</dc:title>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d33150^s22083</dc:subject>
+<dc:subject>^d33150^s22045</dc:subject>
+<dc:subject>^d33150^s22011</dc:subject>
+<dc:subject>^d33150^s22066</dc:subject>
+<dc:subject>^d19129^s22074</dc:subject>
+<dc:subject>^d3675</dc:subject>
+<dc:subject>^d33150^s22049</dc:subject>
+<dc:subject>^d33150^s22048</dc:subject>
+<dc:subject>^d19129^s22048</dc:subject>
+<dc:subject>^d19129^s22049</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200203</dc:date>
+</metadata>
+</record>
+</ibecs-document>

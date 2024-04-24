@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-041978</identifier>
+<setSpec>1139-9287</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Replication of a computer model of auditory hallucinations in schizophrenia</dc:title>
+<dc:description xml:lang="en">Introduction. Abnormal synaptic pruning has been proposed by some authors as a theory to explain schizophrenia. It has been studied in different ways, some of which are computerized models. Methods. A PC computer with MATLAB version 5.3 and Neural Networks Toolbox programs were used. To reproduce the model we used Elman&#146;s network for neuronal unit and McGlashan and Hoffman&#146;s network. Results. The corrected percentage of detection improved as synapses were prunned. It increased from 68% to 91 %, reaching the highest detection level when 60% of the synapses were eliminated. Detection capacity was reduced when synaptic elimination continued and the program started detecting words in the absence of input. This was considered as a hallucination. When pruning reached from 80% to 95%, hallucinations occurred more frequently. Conclusions. The computer simulation model provides a symptom formation model, and also a way of understanding pruning&#146;s adaptative utility. When the neuronal units were eliminated (instead of connections), there was only progressive worsening in word perception. This confirms the hypothesis proposed that schizophrenia pathophysiology underlies neuronal connections, not the neurons</dc:description>
+<dc:creator>Fresán, A</dc:creator>
+<dc:creator>Fuente-Sandoval, C. de la</dc:creator>
+<dc:creator>Portillo, V</dc:creator>
+<dc:creator>Apiquian, R</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. El podado sináptico anormal ha sido propuesto por algunos autores como una teoría para explicar a la esquizofrenia y ha sido estudiado de diversas maneras. Entre las aproximaciones al estudio de este fenómeno se ha utilizado la simulación informática. Métodos. Se utilizó un ordenador PC y los programas informáticos MATLAB versión 5.3 y Neural Networks Toolbox. Para la reproducción del modelo se utilizó la red de Elman para la unidad neuronal y la red publicada por McGlashan y Hoffman. Resultados. A medida que se eliminaron las sinapsis el porcentaje correcto de detección aumentó del 68 al 91 %, llegando a la cima cuando hubo una eliminación aproximada del 60 %. Cuando se continuó con la eliminación disminuyó la capacidad de detección y se presentaron palabras en la ausencia de una entrada, lo cual se consideró como una alucinación. Éstas se presentaron con mayor frecuencia cuando el podado alcanzó entre el 80 y 95 %. Conclusiones. El modelo de simulación por ordenador no sólo provee un modelo para la formación de síntomas, sino también un entendimiento de la utilidad adaptativa del podado. Cuando las unidades neuronales, en vez de las conexiones, fueron eliminadas sólo se obtuvo un empeoramiento progresivo de la percepción. Esto confirma la hipótesis propuesta de que la fisiopatología de la esquizofrenia subyace en la conexión entre las neuronas y no en las neuronas mismas</dc:description>
+<dc:source>Actas Esp Psiquiatr;33(3): 141-146, mayo-jun. 2005. ilus</dc:source>
+<dc:identifier>ibc-041978</dc:identifier>
+<dc:title xml:lang="es">Reproducción de un modelo informático de las alucinaciones auditivas en la esquizofrenia</dc:title>
+<dc:subject>^d13949^s22031</dc:subject>
+<dc:subject>^d6365^s22027</dc:subject>
+<dc:subject>^d29935</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12940^s22012</dc:subject>
+<dc:subject>^d12940^s22032</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200506</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-114083</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Sample size requirements for interval estimation of the strength of association effect sizes in multiple regression analysis</dc:title>
+<dc:description xml:lang="en">Background: Effect size reporting and interpreting practices have been extensively recommended in academic journals when analyzing primary outcomes of all empirical studies. Accordingly, the sample squared multiple correlation coefficient is the commonly reported strength of association index in practical applications of multiple linear regression. Method: This paper examines the sample size procedures proposed by Bonett and Wright for precise interval estimation of the squared multiple correlation coefficient. Results: The simulation results showed that their simple method for attaining the desired precision of expected width provides satisfactory results only when sample sizes are large. Moreover, the suggested sample size formula for achieving the designated assurance probability is inaccurate and problematic. Conclusions: According to these findings, their sample size procedures are not recommended (AU)</dc:description>
+<dc:creator>Shieh, Gwowen</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Antecedentes: la práctica al presentar e interpretar el tamaño de efecto ha sido recomendada extensivamente en revistas académicas al analizar resultados primarios en estudios empíricos. En consecuencia, el coeficiente de correlación múltiple al cuadrado de la muestra es el índice de fuerzas de asociación que se presente con más frecuencia en aplicaciones prácticas de regresión lineal múltiple. Método: este trabajo examina el procedimiento del tamaño de la muestra que Bonett y Wright propusieron para una precisa estimación por intervalos de coeficiente de correlación múltiple al cuadrado. Resultados: el resultado de esta simulación señala que su método simple para alcanzar la deseada precisión de la amplitud esperada proporciona el resultado satisfactorio solamente cuando el tamaño de la muestra sea extensivo. Además, la fórmula del tamaño de la muestra sugerida para lograr la designada probabilidad garantizada es inexacta y problemática. Conclusiones: de acuerdo con estos descubrimientos, no se recomienda el procedimiento del tamaño de la muestra (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);25(3): 402-407, jul.-sept. 2013.</dc:source>
+<dc:identifier>ibc-114083</dc:identifier>
+<dc:title xml:lang="es">Requisitos del tamaño de la muestra para la estimación por intervalo de la fuerza de asociación de tamaños de efecto en análisis de regresión</dc:title>
+<dc:subject>^d28214</dc:subject>
+<dc:subject>^d28615^s22045</dc:subject>
+<dc:subject>^d12031^s22083</dc:subject>
+<dc:subject>^d28615^s37748</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12437</dc:subject>
+<dc:subject>^d28595</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d12031^s22039</dc:subject>
+<dc:subject>^d12031^s22048</dc:subject>
+<dc:subject>^d12031^s22049</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:subject>^d32037</dc:subject>
+<dc:subject>^d28615^s22039</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201309</dc:date>
+</metadata>
+</record>
+</ibecs-document>

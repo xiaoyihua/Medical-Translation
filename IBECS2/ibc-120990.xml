@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-120990</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Efficiency of initiation with ambrisentan versus bosentan in the treatment of pulmonary arterial hypertension</dc:title>
+<dc:description xml:lang="en">Objective: To evaluate the efficiency of initiation with endothelin receptor antagonists, ambrisentan or bosentan, followed by sequential combination with phosphodiesterase-5 inhibitors and prostanoids in the treatment of pulmonary arterial hypertension, from the Spanish National Health System perspective.Methods: A Markov model was developed based on the four New York Heart Association functional classes. A panel of three experts reached a consensus on patient management based on clinical practice. Patients revised their treatment every 12 weeks, based on their health status and previous medication records. Pharmacological treatment costs and costs associated with very frequent adverse events (AE) were considered in a horizon of 60 weeks. Outcomes were measured in quality-adjusted life years (QALY). A probabilistic sensitivity analysis was performed.Results: No clinically relevant differences in QALY per-patient and year were found for initiation with ambrisentan and bosentan: 0.6853 and 0.6902, respectively. Initiation with ambrisentan resulted in lower pharmacological treatment and AE management costs: &#128;35,550 and &#128; 117 versus &#128;40,224 and &#128; 171. In the sensitivity analysis, initiation with ambrisentan resulted in a negative significant cost difference: &#128;-4,982; CI95%[&#128;-8,014; &#128;-2,500]; while no significant differences in QALY were found: -0.0044; CI95%[-0.0189; 0.0101].Conclusions: Initiation with ambrisentan followed by sequential combination with phosphodiesterase-5 inhibitors and prostanoids yields comparable outcomes at lower costs than initiation with bosentan (AU)</dc:description>
+<dc:creator>Gii, Joan</dc:creator>
+<dc:creator>Morano, Raúl</dc:creator>
+<dc:creator>Villa, Guillermo</dc:creator>
+<dc:creator>Román, Antonio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Se pretende evaluar la eiciencia del tratamiento secuencial de combinación de la hipertensión arterial pulmonar iniciado con antagonistas del receptor de la endotelina, ambrisentan o bosentan, seguido de inhibidores de la fosfodiesterasa-5 y prostanoides, desde la perspectiva del Sistema Nacional de Salud. Métodos: Se desarrolló un modelo de Markov basado en las cuatro clases funcionales de la New York Heart Association. Un panel de tres expertos alcanzó un consenso sobre el manejo del paciente basado en la práctica clínica. Los pacientes revisaron su tratamiento cada 12 semanas, en función de su estado de salud y de la medicación recibida previamente. Se incluyeron costes farmacológicos y costes asociados al manejo de eventos adversos (EA) muy frecuentes, en un horizonte de 60 semanas. Los resultados se expresaron en términos de los años de vida ajustados por calidad (AVAC). Se realizó un análisis de sensibilidad probabilístico.Resultados: No se encontraron diferencias clínicamente relevantes en los AVAC por paciente y año para el inicio con ambrisentan y bosentan: 0,6853 y 0,6902, respectivamente. El inicio con ambrisentan resultó en un coste farmacológico y asociado al manejo de EA menor: 35.550 &#128; y 117 &#128; frente a 40.224 &#128; y 171 &#128;. En el análisis de sensibilidad, el inicio con ambrisentan presentó una diferencia de costes totales negativa y significativa: -4.982 &#128;; IC95%[-8.014 &#128;; -2.500 &#128;]; mientras que no se detectaron diferencias signiicativas en los AVAC: -0,0044; IC95%[-0,0189; 0,0101].Conclusiones: El tratamiento secuencial de combinación de la HAP iniciado con ambrisentan, seguido de inhibidores de la fosfodiesterasa-5 y prostanoides, proporciona resultados en salud comparables y menores costes que el tratamiento iniciado con bosentan (AU)</dc:description>
+<dc:source>Farm Hosp;37(5): 358-365, sept.-oct. 2013. ilus, tab</dc:source>
+<dc:identifier>ibc-120990</dc:identifier>
+<dc:title xml:lang="es">Eficiencia del inicio con ambrisentan frente a bosentan en el tratamiento de la hipertensión arterial pulmonar</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d31495^s22066</dc:subject>
+<dc:subject>^d30565^s22006</dc:subject>
+<dc:subject>^d7155^s22057</dc:subject>
+<dc:subject>^d4400</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d962^s22073</dc:subject>
+<dc:subject>^d10919^s22073</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201310</dc:date>
+</metadata>
+</record>
+</ibecs-document>

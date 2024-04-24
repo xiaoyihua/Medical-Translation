@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-20805</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">A proposal for a molecular genetic classification of the malformations of the nervous system</dc:title>
+<dc:creator>Sarnat, H. B</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>César Viguera</dc:publisher>
+<dc:description xml:lang="es">Objetivos. Esta propuesta es un primer intento para incorporar los datos recientes de genética molecular que explican la programación del desarrollo en un contexto etiológico. Desarrollo. Los esquemas tradicionales para clasificar las malformaciones del sistema nervioso se basan en la morfogénesis descriptiva como si fueran procesos aislados de la ontogenia, como la neurulación, la migración celular, el crecimiento axonal, etc. Estos esquemas anatómicos son inadecuados para incluir las disgenesias de etiologías múltiples con resultados anatómicos similares, por ejemplo la holoprosencefalia y la lisencefalia. Un esquema basado solamente en las mutaciones genéticas no es práctico porque pueden estar involucrados varios genes en forma secuencial o secundaria. Los mismos genes sirven para diferentes funciones en diferentes etapas y están relacionados con múltiples órganos y sistemas. Algunas malformaciones complejas, otra vez, como ejemplo, la holoprosencefalia, son causadas por varios genes defectuosos no relacionados. Además, una clasificación puramente genética sería muy inflexible para incorporar algunos criterios anatómicos o para incluir malformaciones focales secundarias a lesiones adquiridas en la vida fetal. Por lo tanto, la base para el esquema propuesto son los trastornos en los modelos de expresión genética: los gradientes de polaridad de los ejes del tubo neural (sobre regulación y baja regulación de influencias genéticas), la segmentación (deleciones de neurómeros específicos; expresión ectópica), mutaciones que causan cambios en la estirpe celular (gangliocitoma displásico del cerebelo; diferenciación de fibras musculares estriados en el cerebro), y genes o moléculas específicos que regulan la migración de los neuroblastos en su curso inicial (filamin-1), medio (LIS1; DCX) o tardío (reelin; L1-CAM). Conclusiones. Las clasificaciones de las disgenesias cerebrales que sirvieron bien para todo el siglo XX, ya no serán adecuadas para el siglo XXI. Sin duda este esquema va a tener muchas revisiones en el futuro, pero por lo menos es un punto de partida al utilizar los datos disponibles en la actualidad (AU)</dc:description>
+<dc:source>Rev Neurol;33(1): 68-75, jul. 2001.</dc:source>
+<dc:identifier>ibc-20805</dc:identifier>
+<dc:title xml:lang="es">Propuesta para una clasificación genética molecular de las malformaciones del sistema nervioso</dc:title>
+<dc:subject>^d9614</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200107</dc:date>
+</metadata>
+</record>
+</ibecs-document>

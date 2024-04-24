@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-18520</identifier>
+<setSpec>0210-1637</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Simplified cephalogram for evaluation of oropharynx</dc:title>
+<dc:creator>Mayoral Sanz, P</dc:creator>
+<dc:creator>Mayoral Herrero, P</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">El propósito de este estudio es facilitar el diagnóstico rutinario de la vía aérea superior; para ello se propone que tres de las cuatro medidas en sentido anteroposterior de la faringe sean tomadas directamente sobre la prolongación de los planos maxilar, oclusal, mandibular y una cuarta medida a nivel inferior, a la altura de la epiglotis. Método: se tomaron 60 historias clínicas de pacientes de ortodoncia de nuestra práctica privada, en edades comprendidas entre los 10 y los 12 años, divididos en dos grupos iguales según el sexo. Se realizó el análisis cefalométrico sugerido por los autores y se obtuvieron las cifras promedio de ancho de la faringe para la edad correspondiente. Se dan ejemplos de la utilización práctica de estas medidas (AU)</dc:description>
+<dc:source>Ortod. esp. (Ed. impr.);41(3): 219-227, sept. 2001. ilus, tab</dc:source>
+<dc:identifier>ibc-18520</dc:identifier>
+<dc:title xml:lang="es">Cefalograma simplificado para la valoración de la orofaringe</dc:title>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d28264^s22045</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d10138^s22004</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d8483</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200109</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-36707</identifier>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Obesity and mortality in advanced chronic renal failure patients</dc:title>
+<dc:creator>Sánchez-Casado, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Grupo Aula Médica, S.A.</dc:publisher>
+<dc:description xml:lang="es">Algunos estudios han sugerido que la obesidad podría ser un factor beneficioso para la supervivencia de los pacientes con insuficiencia renal crónica (IRC). La mayoría de estos estudios se han realizado en poblaciones prevalentes en diálisis, sin tener en cuenta la posibilidad de un sesgo de supervivencia. El objetivo del presente estudio fue determinar si la obesidad tiene alguna influencia sobre la supervivencia de los pacientes con IRC avanzada. Se estudiaron 376 pacientes (edad media 63 ñ 15 años) con IRC avanzada prediálisis. La obesidad fue definida como un índice de masa corporal (IMC) &gt;=30 kg/m2. Se cuantificó la comorbilidad por el método de Davies. El tiempo de supervivencia fue computado desde el momento en que los pacientes fueron remitidos a la consulta prediálisis hasta su fallecimiento, censurando el tiempo posterior al trasplante renal. Mediante el análisis de Kaplan-Meier se determinaron las diferencias en la supervivencia de los pacientes distribuidos en cuartiles del IMC, y entre obesos y no obesos. Se realizaron análisis adicionales, estratificando las curvas de supervivencia según edad, sexo, grado de comorbilidad, y porcentaje de masa magra corregida al peso ideal. Para determinar los mejores predictores de mortalidad y el papel de la obesidad ajustada a otras covariables, se utilizó el test de riesgo proporcional de Cox. La mediana del tiempo de supervivencia fue de 1.453 días. Durante el periodo de seguimiento fallecieron 158 pacientes (46 por ciento). La supervivencia fue significativamente diferente en los pacientes distribuidos por cuartiles de IMC (test Breslow = 10,7, p = 0,017). La supervivencia entre obesos y no obesos no fue significativamente diferente. Sin embargo, cuando los pacientes sin comorbilidad fueron estudiados aparte, los obesos tuvieron una peor supervivencia que los no obesos (log-rank = 7,42, p = 0,0064). La obesidad también se asoció con una menor supervivencia en los pacientes con bajo porcentaje de masa magra. Debido a que el efecto de la obesidad sobre la mortalidad no siguió un patrón proporcional de riesgo a lo largo del tiempo de seguimiento, el análisis de Cox fue estratificado por intervalos de 18 meses. Las variables que entraron a formar parte del mejor modelo predictivo de mortalidad fueron: la edad (Relación de Riesgo: 1,04), el índice de comorbilidad (RR: 2,17), la albúmina sérica (RR: 0,62), el filtrado glo- merular al inicio del estudio (RR: 0,91), el sexo masculino (RR: 1,48), y la obesidad (RR: 1,51). En conclusión, la obesidad no fue un factor beneficioso en la supervivencia de los pacientes estudiados. La obesidad tuvo un notable impacto negativo sobre la supervivencia de los pacientes sin comorbilidad (AU)</dc:description>
+<dc:source>Nefrologia;24(5): 453-462, sept. 2004.</dc:source>
+<dc:identifier>ibc-36707</dc:identifier>
+<dc:title xml:lang="es">Obesidad y mortalidad en pacientes con insuficiencia renal avanzada</dc:title>
+<dc:subject>^d24890</dc:subject>
+<dc:subject>^d9951</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24542</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d24572</dc:subject>
+<dc:subject>^d1800</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d50497</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200409</dc:date>
+</metadata>
+</record>
+</ibecs-document>

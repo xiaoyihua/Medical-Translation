@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-113596</identifier>
+<setSpec>1137-6821</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Implementation of the first Spanish population-based register for multiple-injury cases in Navarre</dc:title>
+<dc:description xml:lang="en">To describe the technical features of the first population-based register for multiple-injury cases to be developed in Spain. Description of the system architecture and technical features of this population-based register, including the variables in the database, the case-finding strategy used, data inputting and maintenance, and quality control. Between January 1,2010 and December 31, 2011, we found 243 cases. The system was supervised by a database administrator and allowed97 users in 7 different departments to enter data. The level of reporting of 63 variables was 90%. Mortality was 27%.Response times (emergency call to hospital arrival and hospital arrival to first computed tomography scan or first key intervention) were similar to those recorded in other European registers. The first Utstein-style register for multipleinjuries in Spain is now being used in Navarre. The system architecture allows us to collect information prospectively and retrospectively from all who treat multiple-injury patients no matter their position on the staff of various hospital departments. This register has helped us determine the characteristics of multiple-injury patients and the quality of care they receive. We have been able to compare our setting with others&#146; and have provided a source of data for researchers in the Navarre health service (AU)</dc:description>
+<dc:creator>Belzunegui Otano, T</dc:creator>
+<dc:creator>Reyero Díez, D</dc:creator>
+<dc:creator>Castro González, E</dc:creator>
+<dc:creator>Teijeira Álvarez, R</dc:creator>
+<dc:creator>Fortún Moral, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Se describen las características técnicas del primer registro de politraumatizados de base poblacional desarrollado en España (actualmente en fase de producción) así como la arquitectura informática, características técnicas, variables, estrategia de detección de casos, introducción y mantenimiento de los mismos y control de calidad de la base de datos. Entre el 1 de enero de 2010 y 31 de diciembre de 2011 se han recogido 243 casos. El sistema gestionado por un administrador ha soportado la entrada de 97 usuarios correspondientes a 7 servicios diferentes. El nivel de cumplimentación de las 63 variables fue del 90%. La mortalidad observada fue del 27%. Los tiempos de respuesta (llamada&#150;entrada en el hospital, entrada en el hospital&#150; realización de la primera tomografía computarizada, o primera intervención clave) son similares a los observados en otros registros europeos. En este momento tenemos operativo en Navarra el primer registro de politraumatizados español basado en el estilo Utstein. Su arquitectura informática nos permite introducir información de forma prospectiva y retrospectiva desde diferentes servicios con la participación de todos los escalones que atienden al paciente politraumatizado. Dicho registro nos ha permitido conocer las características de los politraumatizados, la calidad de la atención sanitaria, compararnos con otros sistemas y disponer de una base para que profesionales del Servicio Navarro de Salud dispongan de datos para sus investigaciones (AU)</dc:description>
+<dc:source>Emergencias (Sant Vicenç dels Horts);25(3): 196-200, jun. 2013. tab</dc:source>
+<dc:identifier>ibc-113596</dc:identifier>
+<dc:title xml:lang="es">Implantado en Navarra el primer registro de politraumatizados de base poblacional en España</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d22947^s22080</dc:subject>
+<dc:subject>^d12224^s22066</dc:subject>
+<dc:subject>^d28402^s22048</dc:subject>
+<dc:subject>^d29161</dc:subject>
+<dc:subject>^d4707^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4713^s22083</dc:subject>
+<dc:subject>^d33619</dc:subject>
+<dc:subject>^d29040^s22049</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201306</dc:date>
+</metadata>
+</record>
+</ibecs-document>

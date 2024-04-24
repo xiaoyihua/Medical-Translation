@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-3416</identifier>
+<setSpec>0034-9356</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Use of the electroencephalographic spectral edge frequency 90 to monitor sedation of chronically ill patients</dc:title>
+<dc:description xml:lang="en">No disponible</dc:description>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">INTRODUCCIÓN. La profundidad de la sedación requerida en los pacientes ingresados en unidades de cuidados críticos varía a lo largo del tiempo y debe ser controlable. Actualmente utilizamos escalas de valoración clínica que son insuficientes. En los últimos años se han empleado diferentes parámetros extraídos del electroencefalograma con la finalidad de cuantificar el nivel de sedación. Uno de estos parámetros es el 90 por ciento del límite de la frecuencia del espectro (LE90). OBJETIVOS. Establecer la correlación entre nivel de sedación según escala de Ramsay y LE90. Averiguar el poder discriminante del LE90 en predecir la profundidad de la sedación y también en prever la respuesta hemodinámica del paciente ante la maniobra de aspiración de secreciones a través del tubo orotraqueal. PACIENTES Y MÉTODOS. Pacientes ingresados en la unidad de cuidados intensivos quirúrgica. Mediante regresión logística buscamos la probabilidad de estar a un determinado nivel de la escala de sedación de Ramsay según el valor del LE90. También calculamos la probabilidad de predicción (Pk), según el valor del LE90, de aparición de respuestas hemodinámicas o de movimiento frente a la aspiración endotraqueal. RESULTADOS. A un valor de LE90 inferior a 16 Hz, la probabilidad de estar en un nivel igual o superior a 4 de la escala de Ramsay es igual o mayor al 90 por ciento (Pk = 0,91). Ni el LE90 ni la escala de Ramsay no predicen ninguna respuesta hemodinámica tras la aspiración orotraqueal. CONCLUSIONES. El LE90 permite discriminar entre sedación superficial y sedación profunda. El LE90 no permite precisar los diferentes grados de sedación ni la posibilidad de respuesta hemodinámica o movimiento frente a la aspiración (AU)</dc:description>
+<dc:source>Rev Esp Anestesiol Reanim;48(7): 314-320, ago. 2001.</dc:source>
+<dc:title xml:lang="es">Utilización del límite espectral 90 por ciento (le90) del electroencefalograma como sistema de control de la sedación en los pacientes críticos</dc:title>
+<dc:type>article</dc:type>
+<dc:creator>Gambús, P</dc:creator>
+<dc:creator>Fàbregas, N</dc:creator>
+<dc:creator>Guix, E</dc:creator>
+<dc:creator>Valero, R</dc:creator>
+<dc:creator>Trocóniz, I. F</dc:creator>
+<dc:creator>Zavala, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:identifier>ibc-3416</dc:identifier>
+<dc:subject>^d24609</dc:subject>
+<dc:subject>^d771</dc:subject>
+<dc:subject>^d30170</dc:subject>
+<dc:subject>^d4641</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9261</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d6590</dc:subject>
+<dc:date>200108</dc:date>
+</metadata>
+</record>
+</ibecs-document>

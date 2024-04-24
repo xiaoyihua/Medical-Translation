@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-046381</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Estimation of emergency department activity and its relationship with inhospital bed disposition</dc:title>
+<dc:description xml:lang="en">Background and objective: To find out if the daily emergency department (ED) census and daily ED admittances can accurately be foreseen based on the number of visits arrived on ED within the first shift hours. Patients and method: For 6 consecutively months, the number of ED visits from 6 AM to 10 AM (early visits), and from 10 AM to next day 6 AM (daily ED census) was recorded, along with the number of both daily hospital and ED admittances from 6 AM to 6 AM. The analysis was performed for the ED as a whole, and for each one of its sections. Results: A significant direct correlation was seen between the early visits and daily ED census. This relationship was even greater as considered the ED as a whole (R2 = 0.25; p &lt; 0.001). A direct correlation was also found between daily ED census and daily admittances (R2 = 0.19; p &lt; 0.001). Conclusions: The number of early ED visits is an important tool to accurately predict the daily ED census and the number of in-hospital beds needed for ED patients</dc:description>
+<dc:creator>Miró, Òscar</dc:creator>
+<dc:creator>Salgado, Emilio</dc:creator>
+<dc:creator>Junyent, Mireia</dc:creator>
+<dc:creator>Sánchez, Miquel</dc:creator>
+<dc:creator>Bragulat, Ernest</dc:creator>
+<dc:creator>Asenjo, Miguel A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamento y objetivo: Investigar si es posible predecir en urgencias el número de consultas e ingresos diarios a partir del número de consultas que se atienden a primera hora del día. Pacientes y método: Durante 6 meses consecutivos se contabilizó el número de visitas a primera hora (de 6 a 10 h) y durante el resto del día (de 10 a 6 h del día siguiente), así como el número de ingresos diarios (de 6 a 6 h) totales en el hospital y cuántos de éstos procedían de urgencias. Los cálculos se realizaron de forma global y de forma parcial para la sección de medicina de urgencias y para el resto de secciones de urgencias. Resultados: Se observó una relación directa y estadísticamente significativa entre el número de visitas a primera hora y el número total de visitas, que fue mayor cuando se consideró urgencias de forma global (R2 = 0,25; p &lt; 0,001). A mayor número de consultas en urgencias, mayor número de ingresos generados (R2 = 0,19; p &lt; 0,001). Conclusiones: La actividad realizada a primera hora en urgencias permite predecir la actividad de aquel día y las necesidades de camas para ingreso</dc:description>
+<dc:source>Med. clín (Ed. impr.);127(3): 86-89, jun. 2006. ilus</dc:source>
+<dc:identifier>ibc-046381</dc:identifier>
+<dc:title xml:lang="es">Estimación de la actividad en urgencias y su relación con la provisión de camas de hospitalización</dc:title>
+<dc:subject>^d6899^s22083</dc:subject>
+<dc:subject>^d4711^s22083</dc:subject>
+<dc:subject>^d6916^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d289^s22083</dc:subject>
+<dc:subject>^d6453^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200606</dc:date>
+</metadata>
+</record>
+</ibecs-document>

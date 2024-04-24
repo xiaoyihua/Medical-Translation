@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-5783</identifier>
+<setSpec>0212-6982</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Correction of movements in cardiac SPECT studies</dc:title>
+<dc:description xml:lang="en">Objectives: Patient movement during SPECT acquisition of images is a frequent cause of artefacts in myocardial perfusion SPECT studies. In this paper we propose an algorithm for the correction of longitudinal movements. Materials and methods: The method is based on the calculation of the correlation between unidimensional functions obtained from successive projections with a window obtained automatically to eliminate unwanted data points before calculating the correlation. The algorithm was assessed on studies obtained from a cardiac phantom and from those corresponding to ten patients. Seven of these patients had significant movement during SPECT acquisition and those corresponding to the other three studies, in which no movement was observed, were used as a control. Results: In the phantom studies obtained, the mean error of the calculated displacements was less than 0.5 pixels when the window proposed was employed. The error reached 2.8 pixels when the length of the window increased. In patient studies, the method succeeded in reducing the patient motion in all cases and the three control studies remained unchanged. When no window was used to limit the correlation, three out of the seven studies that originally presented movements did not improve and one control study got worse. Conclusion: The results obtained indicate the utility of the algorithm and demonstrate the need to window the data before calculating the correlation (AU)</dc:description>
+<dc:creator>Bullich Roig, S</dc:creator>
+<dc:creator>Martín Ordóñez, F</dc:creator>
+<dc:creator>Muxí Pradas, A</dc:creator>
+<dc:creator>Pavía Segura, J</dc:creator>
+<dc:creator>Ros Puig, D</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: El movimiento del paciente durante la adquisición de imágenes es causa frecuente de artefactos en estudios de SPECT miocárdica de perfusión. En este trabajo se propone un algoritmo para la corrección de movimientos longitudinales. Material y métodos: El método está basado en el cálculo de la correlación entre funciones unidimensionales obtenidas de proyecciones sucesivas, utilizando una ventana obtenida de forma automática para eliminar datos espúreos antes de calcular la correlación. El algoritmo fue evaluado sobre estudios obtenidos a partir de un maniquí cardíaco y sobre estudios correspondientes a diez pacientes, 7 de los cuales presentaban movimientos apreciables y 3 en los que no se apreciaba movimiento que se utilizaron como control. Resultados: En los estudios obtenidos con el maniquí, el error medio en el desplazamiento calculado utilizando la ventana propuesta fue inferior a 0,5 píxeles. Cuando se utilizaron ventanas de mayor tamaño los errores medios aumentaron hasta 2,8 píxeles. En los estudios de pacientes, el método consiguió reducir los movimientos observados en siete casos y mantuvo inalterados los tres controles. Cuando no se utilizó una ventana para restringir la correlación, 3 de los 7 casos que presentaban movimiento no mejoraron, e incluso uno de los controles, empeoró. Conclusiones: Los resultados obtenidos indican la utilidad del algoritmo y ponen de relieve la necesidad de utilizar una ventana para eliminar datos antes de calcular la correlación (AU)</dc:description>
+<dc:source>Rev Esp Med Nucl;19(1): 17-24, feb. 2000.</dc:source>
+<dc:identifier>ibc-5783</dc:identifier>
+<dc:title xml:lang="es">Corrección de movimientos en estudios de SPECT cardíaco</dc:title>
+<dc:subject>^d6473</dc:subject>
+<dc:subject>^d19062</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9261</dc:subject>
+<dc:subject>^d24895</dc:subject>
+<dc:subject>^d9144</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200002</dc:date>
+</metadata>
+</record>
+</ibecs-document>

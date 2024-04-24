@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-83630</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Value of serum free light chains assay in plasma cell disorders</dc:title>
+<dc:description xml:lang="en">The identification and quantification of the monoclonal immunoglobulin in Plasma Cell Disorders (PCD) is based on electrophoresis, immunofixation (IFE) and on immunoglobulins nephelometric measurement. Even though the combination of these techniques is highly sensitive, there are two entities which pose a diagnostic challenge: Non-secretory Multiple Myeloma (MM) and Amyloidosis (AL) patients. Furthermore, when it comes to the results, these techniques have a degree of subjective interpretation and the IFE does not provide quantitative results. Within these limitations a new assay capable of quantifying free light chains (FLC) in serum has been developed. This is a great improvement in PCD and its major indication is the diagnosis and monitoring of patients with AL and non-secretory MM. In addition, its use has been recommended in the screening of all gammopathies; in the prognostic evaluation of MM and other PCD; and the definition of the stringent complete response for patients who achieve a complete remission (CR) with negative IFE and a normalized FLC ratio (AU)</dc:description>
+<dc:creator>García Sanz, Ramón</dc:creator>
+<dc:creator>San Miguel, Jesús F</dc:creator>
+<dc:creator>Lóez Corral, Lucía</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La identificación y la cuantificación del componente monoclonal en las gammapatías monoclonales se basa en la electroforesis, la inmunofijación (IFE) y la dosificación de inmunoglobulinas por nefelometría. La combinación de estas técnicas tiene alta sensibilidad, pero hay 2 entidades en las que esta metodología tiene dificultades de diagnóstico: el mieloma múltiple (MM) no secretor (u oligosecretor) y la amiloidosis primaria. Además, estas técnicas están sujetas a un cierto grado de subjetividad en la interpretación de los resultados, y la IFE no permite obtener resultados cuantitativos. En el seno de estas limitaciones se ha desarrollado un test que cuantifica las cadenas ligeras libres en suero y que ha supuesto un gran avance. Por ello, aparte de ser obligado su uso en la monitorización de la amiloidosis primaria y el MM no secretor (u oligosecretor), se recomienda en el cribado de gammapatías,  en la evaluación pronóstica del MM y otras discrasias de células plasmáticas, y en los pacientes que alcanzan remisión completa (IFE negativa), puesto que la normalización de las cadenas ligeras libres define la llamada respuesta completa estricta, un estado que probablemente implica una respuesta de mayor calidad (AU)</dc:description>
+<dc:source>Med. clín (Ed. impr.);135(8): 368-374, sept. 2010. ilus, tab</dc:source>
+<dc:identifier>ibc-83630</dc:identifier>
+<dc:title xml:lang="es">Aplicaciones del test sérico de cadenas ligeras libres en las gammapatías monoclonales</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d10454^s22016</dc:subject>
+<dc:subject>^d4659^s22045</dc:subject>
+<dc:subject>^d9293^s22062</dc:subject>
+<dc:subject>^d30366</dc:subject>
+<dc:subject>^d30366^s22044</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d699^s22062</dc:subject>
+<dc:subject>^d9293^s22016</dc:subject>
+<dc:subject>^d10454^s22062</dc:subject>
+<dc:subject>^d9584^s22045</dc:subject>
+<dc:subject>^d699^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201009</dc:date>
+</metadata>
+</record>
+</ibecs-document>

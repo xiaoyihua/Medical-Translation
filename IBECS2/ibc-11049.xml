@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-11049</identifier>
+<setSpec>0009-739X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">First experiences with a new surgical technique performed without complications. Beginner's luck or mirage? A simple way to approach reality</dc:title>
+<dc:creator>Escrig Sos, V. J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">El cálculo de una probabilidad en situaciones extremas, como ocurre en el caso donde el numerador es cero, puede ser imposible, inválido u ofrecer resultados distorsionados con los métodos estadísticos convencionales. Esta situación puede aparecer en la práctica cuando se intenta conocer las probabilidades de un suceso determinado antes de que tal suceso haya aparecido por primera vez. En la rutina quirúrgica esta situación puede ser frecuente con respecto a la morbimortalidad de una nueva técnica quirúrgica al principio de su realización por un equipo quirúrgico.En el presente artículo se ofrece un método para resolver este problema basado en la estadística bayesiana más elemental, que se describe a través de un ejemplo apoyado en una hipotética situación concreta. También se describe la manera de implementarlo de forma simple en una hoja de cálculo para su uso habitual. Al final se discuten las ventajas e inconvenientes de esta forma de proceder. (AU)</dc:description>
+<dc:source>Cir. Esp. (Ed. impr.);71(3): 152-157, mar. 2002. ilus</dc:source>
+<dc:identifier>ibc-11049</dc:identifier>
+<dc:title xml:lang="es">Ante los primeros casos de una nueva técnica quirúrgica hechos sin complicaciones. ¿suerte del principiante o espejismo? una forma sencilla de aproximarse a la realidad</dc:title>
+<dc:subject>^d13906^s22083</dc:subject>
+<dc:subject>^d13906^s22048</dc:subject>
+<dc:subject>^d28418</dc:subject>
+<dc:subject>^d13886^s22045</dc:subject>
+<dc:subject>^d13906^s22011</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28141</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d33671^s22066</dc:subject>
+<dc:subject>^d13906^s22074</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d33671^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200203</dc:date>
+</metadata>
+</record>
+</ibecs-document>

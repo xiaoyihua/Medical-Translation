@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-91591</identifier>
+<setSpec>1888-4008</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Design of a simulator for calculating prenatal risk of chromosomal abnormalities for a combined screening program in the first trimester of pregnancy</dc:title>
+<dc:description xml:lang="en">Chromosomal abnormality screening programs require the use of computer software to calculate the prenatal risk in pregnancy. This software incorporates the different formulas and statistical parameters needed to calculate the risk in terms of probability. Here, we describe the application of a simulator for calculating the risk of chromosomal abnormalities in the first trimester of pregnancy, and the evaluation of the obtained performance by using different population statistical parameters (AU)</dc:description>
+<dc:creator>Prieto García, Belén</dc:creator>
+<dc:creator>Álvarez, Francisco V</dc:creator>
+<dc:creator>Martínez-Morillo, Eduardo</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Los programas de cribado de cromosomopatías requieren la utilización de una aplicación informática para calcular el riesgo prenatal en cada una de las gestaciones cribadas. Este software de cálculo incorpora las diferentes fórmulas y parámetros estadísticos necesarios para obtener el riesgo, en términos de probabilidad. A continuación, se describe la aplicación de un simulador de cálculo de riesgo de anomalías cromosómicas fetales en el primer trimestre de gestación, así como la evaluación del rendimiento obtenido con el mismo utilizando diferentes parámetros estadísticos poblacionales (AU)</dc:description>
+<dc:source>Rev. lab. clín;4(4): 201-206, oct.-dic. 2011.</dc:source>
+<dc:identifier>ibc-91591</dc:identifier>
+<dc:title xml:lang="es">Diseño de un simulador de cálculo de riesgo prenatal de anomalías cromosómicas para un programa de cribado combinado en el primer trimestre de gestación</dc:title>
+<dc:subject>^d11707^s22031</dc:subject>
+<dc:subject>^d22261</dc:subject>
+<dc:subject>^d25123^s22045</dc:subject>
+<dc:subject>^d11707^s22044</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d11732^s22066</dc:subject>
+<dc:subject>^d11732^s22045</dc:subject>
+<dc:subject>^d34293^s22080</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d11731^s22045</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d34293^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201112</dc:date>
+</metadata>
+</record>
+</ibecs-document>

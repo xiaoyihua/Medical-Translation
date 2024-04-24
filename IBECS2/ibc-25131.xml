@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-25131</identifier>
+<setSpec>0004-0614</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Bayesian methodology: and alternative to usual medical practice</dc:title>
+<dc:creator>Vírseda Chamorro, Miguel</dc:creator>
+<dc:creator>Hernández Lao, Antonio</dc:creator>
+<dc:creator>Salinas Casado, Jesús</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Iniestares, S. A.</dc:publisher>
+<dc:description xml:lang="es">El Teorema de Bayes proporciona una fórmula para calcular la probabilidad de que ocurra un suceso, condicionada a la ocurrencia de otro anterior (probabilidad condicionada). En medicina se ha aplicado para calcular la probabilidad de padecer una enfermedad, supuesto que se ha dado positivo en un determinado test. Esta fórmula pone de relieve la importancia de la prevalencia de una enfermedad o probabilidad a priori en el valor predictivo positivo de un test diagnóstico. La novedad de aplicar la metodología bayesiana en la práctica médica consiste en tener en cuenta información externa previa o "probabilidad a priori", y calcular cómo se modifica mediante la evidencia o "verosimilitud" proporcionada por determinadas pruebas empíricas, para obtener una nueva probabilidad condicionada por la evidencia empírica o "probabilidad a posteriori". También permite realizar análisis secuenciales (la observación repetida de determinado evento un número de veces no fijadas de antemano) e incorporar al razonamiento las probabilidades subjetivas. Algunos autores han propuesto el uso de la metodología bayesiana en los estudios de investigación, como son los ensayos clínicos. Sin embargo esta metodología no se adapta tan bien a este tipo de razonamiento que es hipotético-deductivo (AU)</dc:description>
+<dc:source>Arch Esp Urol;56(9): 977-982, nov. 2003.</dc:source>
+<dc:identifier>ibc-25131</dc:identifier>
+<dc:title xml:lang="es">Metodología bayesiana: una alternativa a la práctica médica habitual</dc:title>
+<dc:subject>^d28635</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24567</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200311</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-16874</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Information systems in the Spanish public health system</dc:title>
+<dc:creator>Custodi, Jordi</dc:creator>
+<dc:creator>García, Carlos</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Las organizaciones sanitarias se basan en la gestión del conocimiento, por lo que la información constituye un valor clave, tanto por la cantidad que genera el acceso a otras fuentes de conocimiento como por su necesidad para la toma de decisiones. Esto lleva a diseñar una serie de sistemas de información interrelacionados, apoyados en el desarrollo de tecnologías de la información y de la comunicación, y adecuados para atender las necesidades de los distintos componentes de la organización, tanto de los profesionales sanitarios como de los distintos niveles de dirección y gestión o de la población atendida. Este desarrollo, en el Insalud, se basa en la puesta en marcha de una serie de proyectos que abarcan la identificación de la población atendida (a través de la tarjeta sanitaria individual), herramientas precisas para la asistencia sanitaria y su gestión (renovación tecnológica de hospitales, informatización de centros de salud), gestión de prestaciones, presupuestos, etc., así como la habilitación de las infraestructuras necesarias como la red corporativa de comunicaciones, telemedicina, acceso a Internet y otros servicios como correo electrónico. Todos estos proyectos, funcionantes y consolidados, están diseñados para dar respuesta a las necesidades actuales y, a la vez con una visión de futuro, ya que permiten su evolución y redimensionamiento según las nuevas necesidades (AU)</dc:description>
+<dc:source>Rev. calid. asist;17(3): 166-176, mayo 2002. ilus, tab</dc:source>
+<dc:identifier>ibc-16874</dc:identifier>
+<dc:title xml:lang="es">Los sistemas de información en el INSALUD</dc:title>
+<dc:subject>^d13327^s22048</dc:subject>
+<dc:subject>^d25987</dc:subject>
+<dc:subject>^d19129^s22011</dc:subject>
+<dc:subject>^d19129^s22066</dc:subject>
+<dc:subject>^d30481^s22049</dc:subject>
+<dc:subject>^d30481^s22048</dc:subject>
+<dc:subject>^d19129^s22048</dc:subject>
+<dc:subject>^d19129^s22039</dc:subject>
+<dc:subject>^d30481^s22074</dc:subject>
+<dc:subject>^d19129^s22049</dc:subject>
+<dc:subject>^d30481^s22066</dc:subject>
+<dc:subject>^d23662^s22049</dc:subject>
+<dc:subject>^d23662^s22048</dc:subject>
+<dc:subject>^d13327^s22049</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200205</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-110097</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Impact of noninvasive ventilation failure upon patient prognosis. Subanalysis of a multicenter study</dc:title>
+<dc:description xml:lang="en">Objective: Noninvasive ventilation (NIV) constitutes first-line treatment for the exacerbation of obstructive pulmonary disease and cardiogenic lung edema. Several studies suggest that NIV failure could increase the risk of mortality, mainly due to the delay in tracheal intubation. We aimed to evaluate the negative impact of NIV failure in routine practice among Spanish ICUs. Patients: A subanalysis was made of the multicenter validation of the Sabadell Score study, extracting patients with acute respiratory failure requiring either invasive or noninvasive mechanical ventilation, with the exclusion of patients presenting "do not resuscitate and/or do not intubate" orders. Variables: We recorded demographic parameters, ICU-specific treatments and the development of acute renal failure or infections during ICU stay. Patients were followed-up on until hospital discharge or death. The statistic analysis included Cox multiple logistic regression. Results: We analyzed 4132 patients, of whom 1602 (39%) received only invasive mechanical ventilation (IMV), while 529 (13%) received NIV. The latter succeeded in 50% of the patients, but the other 50% required intubation. NIV failure was more common in neurological and postsurgical patients. Mortality was lower than predicted in NIV patients (22% vs. 33%) and similar to predicted in IMV patients (27% vs. 29%). Mortality was lower than predicted in patients in whom NIV proved successful (12% vs. 28%), and in those in whom NIV failed (32% vs. 38%). Conclusion: NIV failure and the need of intubation as routinely used do not seem to imply a poorer patient prognosis (AU)</dc:description>
+<dc:creator>Grupo de Estudio del Sabadell Score</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: La ventilación no invasiva (VNI) constituye la primera línea de tratamiento en las exacerbaciones de laenfermedad pulmonar obstructiva crónica y el edema cardiogénico. Algunos estudios sugieren que el fracaso de la VNI incrementaría el riesgo de mortalidad, principalmente debido al retraso en la intubación. Pretendemos analizar si el fracaso de la VNI se asocia con un peor pronóstico en condiciones de práctica clínica diaria. Pacientes: Subanálisis del estudio de validación multicéntrico Sabadell Score, analizando los pacientes con insuficiencia respiratoria aguda que requieren ventilación mecánica invasiva (VMI) o VNI, tras excluir los pacientes con limitación terapéutica. Variables: Estudio de cohortes prospectivo. Recogimos datos demográficos, tratamientos específicos y complicaciones (fracaso renal agudo e infecciones adquiridas en UCI). Los pacientes se siguieron hasta el alta hospitalaria o muerte. El análisis estadístico incluyó regresión logística múltiple de Cox. Resultados: Analizamos 4.132 pacientes, de los cuales 1.602 (39%) recibieron solo VMI y 529 (13%) VNI. La VNI fue exitosa en el 50%, y el otro 50% requirió intubación, siendo más frecuente en pacientes neurológicos y postoperados. La mortalidad real fue similar a la predicha en los pacientes tratados solo con VMI (27 vs 29%, p=NS), pero inferior en los pacientes tratados con VNI (22 vs 33%, p&lt;0,001), siendo muy inferior a la predicha en el grupo VNI-éxito (12 vs 28%, p&lt;0,001), y solo ligeramente inferior en el grupo VNI-fracaso (32 vs 38%, p=NS). Conclusiones: El fracaso de la VNI y la necesidad de intubación no parecen empeorar el pronóstico de los pacientes (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);36(9): 604-610, dic. 2012. ilus, tab</dc:source>
+<dc:identifier>ibc-110097</dc:identifier>
+<dc:title xml:lang="es">Impacto del fracaso de la ventilación no invasiva en el pronóstico de los pacientes. Subanálisis de un estudio multicéntrico</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d7603^s22074</dc:subject>
+<dc:subject>^d36008^s22067</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12541^s22045</dc:subject>
+<dc:subject>^d12549^s22067</dc:subject>
+<dc:subject>^d52093^s22054</dc:subject>
+<dc:subject>^d30472</dc:subject>
+<dc:subject>^d12091^s22067</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201212</dc:date>
+</metadata>
+</record>
+</ibecs-document>

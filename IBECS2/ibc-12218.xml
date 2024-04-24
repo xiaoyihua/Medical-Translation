@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-12218</identifier>
+<setSpec>0034-7973</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Assay of HDL cholesterol in the clinical laboratory: comparision of a new direct assay with two indurect methodos requiring precipitation</dc:title>
+<dc:creator>Gutiérrez, M. A</dc:creator>
+<dc:creator>Castillo, M</dc:creator>
+<dc:creator>Arauzo, M</dc:creator>
+<dc:creator>Cano, M. D</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Editorial Siglo, S.L.</dc:publisher>
+<dc:description xml:lang="es">Se ha demostrado que el colesterol circulante transportado por las lipoproteínas de alta densidad (HDL-C) es un factor negativo-de riesgo para sufrir cardiopatía- squémica. La medida de HDL-colesterol es demandada con frecuencia, siendo importante disponer de técnicas simples y fiables para su análisis. En el presente estudio se compara un nuevo método directo y automatizable para determinación de HDL-C con dos métodos indirectos ampliamente utilizados en la rutina clínica. El método directo se basa en el uso de las enzimas colesterol oxidasa y colesterol esterasa modificadas con PEG y a-ciclodextrina y dextrano. Los métodos indirectos se basan, respectivamente, en la precipitación de fracciones lipoprotéicas no-HDL mediante PEG y ácido fosfotungsténico MgCI2. El método directo y ambos métodos indirectos muestran un adecuado nivel de correlación. Al comparar el método directo con el método indirectoPEG, se obtiene una recta de regresión cuya ecuación es y(x)=0.96x-I.38, un coeficiente de regresión r=0.95 y un Error Total de 5.16. Al comparar el método directo con el método de precipitación que utiliza ácido fosfotungsténico MgCI2, la ecuación es y(x)=l.06x-8.32, r=0:97 y el Error Total=7.75. El método de precipitación con PEG ofrece un coeficiente de variación intra-ensayo de 2:I5 por ciento; el método de precipitación con ácido fosfotungsténico/Clmg2+ presenta un coeficiente de variación de 2.49 por ciento; la medida de HDL-C mediante el método directo presenta un coeficiente de variación de I.58 por ciento, una excelente recuperación y una sensibilidad de 3.45 mg/dl de HDL-C, esto último determinado mediante técnica de dilución sucesiva. El volumen de muestra requerido para el método directo es de solo 4ul, frente a los 400 o 500 ul que requieren los métodos indirectos (AU)</dc:description>
+<dc:source>Rev. diagn. biol;49(3): 165-169, jul. 2000. tab, graf</dc:source>
+<dc:identifier>ibc-12218</dc:identifier>
+<dc:title xml:lang="es">Determinación de HDL-colesterol en el laboratorio clínico: estudio comparativo entre el método directo automatizado y dos métodos indirectos</dc:title>
+<dc:subject>^d10969</dc:subject>
+<dc:subject>^d8250^s22002</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d2840</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29374</dc:subject>
+<dc:subject>^d3525</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d33124^s22074</dc:subject>
+<dc:subject>^d30650^s22016</dc:subject>
+<dc:subject>^d30650^s22027</dc:subject>
+<dc:subject>^d8250</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200007</dc:date>
+</metadata>
+</record>
+</ibecs-document>

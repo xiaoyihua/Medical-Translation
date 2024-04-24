@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-052745</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Serial dependence of a car&#146;s arrival time</dc:title>
+<dc:description xml:lang="en">We have studied the sequential structure of data in the arrival- time estimations. Forty participants estimated the arrival-time of a vehicle under two experimental conditions: real car and video-image. Various time series regression models were fit to our data, and residuals autocorrelations were computed. For each serial-dependence model, data were fit to three functions, namely, power, logarithmic, and linear. In both experimental conditions, the response magnitude (R) on a given trial in t was a function of the stimulus intensity (S) in such a trial (t) and of the S and R on t-1 and t-2. Assimilation effect to the previous responses and contrast effect to the previous stimuli has been found</dc:description>
+<dc:creator>Hernández Lloreda, M José</dc:creator>
+<dc:creator>Recarte Goldaracena, Miguel Ángel</dc:creator>
+<dc:creator>Ruiz Gallego-Largo, Trinidad</dc:creator>
+<dc:creator>Conchillo Jiménez, Ángela</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Se ha estudiado el efecto secuencial para la estimación del tiempo de llegada de un coche a una meta. Cuarenta sujetos realizaron las estimaciones en dos condiciones experimentales: coche real y vídeo. El efecto secuencial ha sido analizado a partir de las autocorrelaciones de los residuos del ajuste a varios modelos de dependencia serial. Para cada modelo los datos se ajustaron a tres funciones: potencial, logarítmica y lineal. Los modelos que explican, en las dos condiciones experimentales, las variaciones sistemáticas de los datos son aquellos en que la respuesta (R) en el tiempo t es función del estímulo (E) en t y de E y R en t-1 y t-2. Se ha encontrado efecto de asimilación a las respuestas precedentes y de contraste a los estímulos previos</dc:description>
+<dc:source>Psicothema (Oviedo);18(4): 738-742, nov. 2006. tab</dc:source>
+<dc:identifier>ibc-052745</dc:identifier>
+<dc:title xml:lang="es">Dependencia serial en la estimación del tiempo de llegada de un coche</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d15145</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9150</dc:subject>
+<dc:subject>^d1340</dc:subject>
+<dc:subject>^d14385</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200611</dc:date>
+</metadata>
+</record>
+</ibecs-document>

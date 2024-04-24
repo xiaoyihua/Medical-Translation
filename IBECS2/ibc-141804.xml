@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-141804</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Microbiological surveillance of measles and rubella in Spain. Laboratory network</dc:title>
+<dc:description xml:lang="en">The Laboratory is a fundamental component on the surveillance of measles and rubella. Cases need to be properly confirmed to ensure an accurate estimation of the incidence. Strains should be genetically characterized to know the transmission pattern of these viruses and frequently, outbreaks and transmission chains can be totally discriminated only after that. Finally, the susceptibility of the population is estimated on the basis of sero-prevalence surveys. Detection of specific IgM response is the base of the laboratory diagnosis of these diseases. It should be completed with genomic detection by RT-PCR to reach an optimal efficiency, especially when sampling is performed early in the course of the disease. Genotyping is performed by genomic sequencing according to reference protocols of the WHO. Laboratory surveillance of measles and rubella in Spain is organized as a net of regional laboratories with different capabilities. The National Center of Microbiology as National Reference Laboratory (NRL), supports regional laboratories ensuring the availability of all required techniques in the whole country and watching for the quality of the results. The NRL is currently working in the implementation of new molecular techniques based on the analysis of genomic hypervariable regions for the strain characterization at sub-genotypic levels and use them in the surveillance (AU)</dc:description>
+<dc:creator>Fernández García, Aurora</dc:creator>
+<dc:creator>Echevarría, Juan Emilio</dc:creator>
+<dc:creator>Ory, Fernando de</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El laboratorio es un elemento imprescindible en la vigilancia del sarampión y la rubéola, ya que los casos han de ser adecuadamente confirmados para poder estimar la incidencia de forma precisa, las cepas han de ser caracterizadas genéticamente para conocer el patrón de circulación de los virus y estudiar de forma completa los brotes y las cadenas de transmisión y la susceptibilidad de la población debe de ser determinada mediante encuestas de seroprevalencia. El diagnóstico de laboratorio de las infecciones agudas por estos agentes se basa en la detección de la respuesta inmune específica de clase IgM, que debe de complementarse con la detección del genoma del virus en exudado faríngeo y/u orina para poder alcanzar un rendimiento diagnóstico óptimo, especialmente si la recogida de las muestras es muy temprana. El genotipado de la cepa se realiza por secuenciación genómica de acuerdo a protocolos de referencia de la OMS. La vigilancia de laboratorio de sarampión y rubéola en España se estructura en forma de red, con laboratorios autonómicos de capacidades diferentes y un Laboratorio Nacional de Referencia (LNR), que es el Centro Nacional de Microbiología, que garantiza la disponibilidad de las técnicas en todo el territorio nacional, vela por la calidad de los resultados y representa a la Red Nacional en la Red Europea de laboratorios. El LNR está actualmente implantando nuevas herramientas de caracterización molecular basadas en regiones hipervariables del genoma para la caracterización de las cepas a nivel subgenotípico y su aplicación a la vigilancia (AU)</dc:description>
+<dc:source>Rev Esp Salud Publica;89(4): 381-391, jul.-sept. 2015. tab</dc:source>
+<dc:identifier>ibc-141804</dc:identifier>
+<dc:title xml:lang="es">Vigilancia microbiológica del sarampión y la rubéola en España. Red de laboratorios</dc:title>
+<dc:subject>^d24966^s22002</dc:subject>
+<dc:subject>^d12784^s22080</dc:subject>
+<dc:subject>^d24966^s22054</dc:subject>
+<dc:subject>^d12786^s22001</dc:subject>
+<dc:subject>^d24966^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d8626^s22080</dc:subject>
+<dc:subject>^d24874</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d16902^s22066</dc:subject>
+<dc:subject>^d31481^s22048</dc:subject>
+<dc:subject>^d31481^s22049</dc:subject>
+<dc:subject>^d12784^s22046</dc:subject>
+<dc:subject>^d8628^s22001</dc:subject>
+<dc:subject>^d28589^s22054</dc:subject>
+<dc:subject>^d8626^s22046</dc:subject>
+<dc:subject>^d28441^s22048</dc:subject>
+<dc:subject>^d28441^s22049</dc:subject>
+<dc:subject>^d28455^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201509</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-13448</identifier>
+<setSpec>0212-4572</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Methods for predicting phenytoin dosage</dc:title>
+<dc:creator>Calvo Malvar, M</dc:creator>
+<dc:creator>Benítez Estévez, A. J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Safel Distribución</dc:publisher>
+<dc:description xml:lang="es">La optimización del tratamiento con fenitoína es complicada, siendo frecuente la determinación de su concentración sérica. Sin embargo, la relación entre la dosis administrada y la concentración plasmática obtenida es difícil de predecir. Se han desarrollado un gran número de métodos para individualizar la dosis de fenitoína. La mayoría asumen que la fenitoína presenta una cinética de eliminación de Michaelis-Menten e intentan predecir los valores de Vmax y/o Km para un paciente concreto a partir de uno o más datos de concentración en estado estacionario. Estos valores se utilizan después para determinar la dosis necesaria para obtener una determinada concentración. (AU)</dc:description>
+<dc:source>Anál. clín;26(3): 95-103, jul. 2001.</dc:source>
+<dc:identifier>ibc-13448</dc:identifier>
+<dc:title xml:lang="es">Métodos para predecir la dosis de fenitoína</dc:title>
+<dc:subject>^d10867^s22062</dc:subject>
+<dc:subject>^d4365</dc:subject>
+<dc:subject>^d10867^s22000</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200107</dc:date>
+</metadata>
+</record>
+</ibecs-document>

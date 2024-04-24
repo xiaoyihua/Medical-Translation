@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-16867</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Implementation of a database for monitoring the results of quality objective agreed on by hospital servieces</dc:title>
+<dc:creator>Escuder, Cinta</dc:creator>
+<dc:creator>Cárdenas, Enrique</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: La fractura de cadera es una de las patologías quirúrgicas tratadas con más frecuencia en los diferentes centros hospitalarios de los países desarrollados y representa un elevado consumo de recursos sanitarios. Por este motivo se eligió esta patología para implantar la gestión de procesos clínicos en el contexto de un plan de calidad total llevado a cabo por la Fundación Hospital de Manacor a partir de 1999.Metodología: Se utilizó el sistema Plan Do Check Act (PDCA) para analizar el proceso actual fractura de cadera, con el fin de identificar posibles áreas de problemas, a través de la definición de 11 indicadores susceptibles de medición. Posteriormente, se creó un equipo de mejora encargado de analizar las áreas problemáticas e implantar las posibles soluciones.Resultados: Desde marzo a octubre de 2000 se analizó a 106 pacientes con fractura de cadera. La estancia global media fue de 6.5 días y la estancia preoperatoria de 1,2 días. El 89 per cent del total de pacientes eran capaces de deambular al alta hospitalaria. Se determinaron cinco áreas de posibles problemas que fueron la profilaxis antitrombótica, la reserva de hemoderivados preoperatoria, la ubicación de los pacientes en el área de urgencias, la planificación quirúrgica preoperatoria y la necesidad de informatización de la toma de datos. Se ha editado un manual en el que se han introducido todos los protocolos y formularios utilizados en el desarrollo del proceso, que se está actualizando de forma permanente.Conclusiones: La gestión por procesos en la fractura de cadera ha permitido unificar criterios entre los diferentes servicios implicados en el tratamiento de esta patología, disminuyendo la variabilidad en el manejo de estos pacientes y permitiendo un mejor y más racional aprovechamiento de los recursos sanitarios. Por otra parte, a través de la edición de un manual del proceso fractura de cadera, el personal sanitario puede familiarizarse con la metodología de trabajo y presenta asimismo potenciales ventajas desde el punto de vista docente (AU)</dc:description>
+<dc:source>Rev. calid. asist;17(2): 99-105, mar. 2002. ilus, tab</dc:source>
+<dc:identifier>ibc-16867</dc:identifier>
+<dc:title xml:lang="es">Implantación de la gestión de procesos en el tratamiento de la fractura de cadera</dc:title>
+<dc:subject>^d10221^s22066</dc:subject>
+<dc:subject>^d10221^s22074</dc:subject>
+<dc:subject>^d28417</dc:subject>
+<dc:subject>^d28416^s22049</dc:subject>
+<dc:subject>^d31002^s22049</dc:subject>
+<dc:subject>^d16665</dc:subject>
+<dc:subject>^d6778^s22080</dc:subject>
+<dc:subject>^d6446^s22018</dc:subject>
+<dc:subject>^d28416^s22060</dc:subject>
+<dc:subject>^d6446^s22049</dc:subject>
+<dc:subject>^d10221^s22049</dc:subject>
+<dc:subject>^d6446^s22066</dc:subject>
+<dc:subject>^d6446^s22011</dc:subject>
+<dc:subject>^d10221^s22048</dc:subject>
+<dc:subject>^d6446^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200203</dc:date>
+</metadata>
+</record>
+</ibecs-document>

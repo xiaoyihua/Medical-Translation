@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-84284</identifier>
+<setSpec>0003-3170</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Workstations in surgical and endovascular planning: digital vascular imaging made by and for vascular surgeons</dc:title>
+<dc:description xml:lang="en">Due to the advances in computer science and digital imaging, we are able to makethree-dimensional reconstructions from images obtained from techniques such as CT-Scan orMagnetic Resonance today, that not long ago had to be seen in two dimensions. However, notlong ago these reconstructions were only available for a few vascular surgeons because ofrestrictions on access to the studies or to the equipment. Today we have computer programsthat enable us perform those reconstruction methods (multiplanar reconstruction, volume rendering) which are very useful for making decisions in both open and endovascular surgery.     During the last year and based on OsiriX® software, we have developed a learning curve indigital imaging. In this article we show some examples of the usefulness of this software andhow it can be used to make decisions in an simple, fast and effective way after a basic trainingperiod(AU)</dc:description>
+<dc:creator>García Colodro, J. M</dc:creator>
+<dc:creator>Rielo Arias, F. J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Gracias a los avances en informática e imagen digital hoy es posible realizar reconstruccionestridimensionales de técnicas como la tomografía o la angiorresonancia que, antaño, el cirujanovascular visualizaba en dos dimensiones. Sin embargo, hasta hace poco estas reconstruccionesestaban al alcance de unos pocos debido a las restricciones en el acceso a los estudios o losaparatos. Hoy en día existen programas informáticos que permiten desarrollar estos métodos dereconstrucción (reconstrucción multiplanar, renderizado volumétrico) que son de gran utilidadpara la toma de decisiones tanto en cirugía abierta como endovascular.Durante este último año, hemos desarrollado una curva de aprendizaje en imagen digital tomandocomo base el software OsiriX®. En este artículo, exponemos algunos ejemplos de lafuncionalidad del software y de cómo este puede ser de utilidad para la toma de decisiones confacilidad, celeridad y eficacia tras un entrenamiento básico(AU)</dc:description>
+<dc:source>Angiologia;62(5): 176-182, sept.-oct. 2010. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-84284</dc:identifier>
+<dc:title xml:lang="es">Estaciones de trabajo en planifi cación quirúrgica y endovascular: imagen vascular digital hecha por y para cirujanos vasculares</dc:title>
+<dc:subject>^d19132^s22074</dc:subject>
+<dc:subject>^d19200^s22045</dc:subject>
+<dc:subject>^d19402^s22066</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d15058^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201010</dc:date>
+</metadata>
+</record>
+</ibecs-document>

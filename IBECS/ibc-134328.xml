@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-134328</identifier>
+<setSpec>1137-6821</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Automatic defibrillation in children</dc:title>
+<dc:description xml:lang="en">The American Heart Association (AHA) and the European Resuscitation Council (ERC) have recently accepted that automatic external defibrillators (AED) may be used on children aged between 1 and 8 years with no signs of circulation. Preferably, the device will discharge a paediatric dose, which may be achieved through dose attenuators placed in the connector or in the patch lead cables. The rhythm detection algorithms must evidence high sensitivity for the recognition of paediatric rhythms. There are at present no evidences available either for or against recommending the use of AEDs in patients less than 1 year old. Different to AED reanimation in the adult, and if only one rescuer is available, cardiopulmonary resuscitation will be carried out for one minute prior to any other action, such as activation of the emergency services or recourse to the AED (AU)</dc:description>
+<dc:creator>Rodríguez Núñez, A</dc:creator>
+<dc:creator>Iglesias Vázquez, J. A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Recientemente se ha admitido por la American Heart Association (AHA) y por el European Resuscitation Council (ERC) que los desfibriladores externos automáticos (DEA) pueden ser utilizados en niños entre 1 y 8 años de edad sin signos de circulación. Preferentemente el dispositivo descargará una dosis pediátrica que puede ser obtenida mediante atenuadores de dosis colocados en el conector o en el cable de los parches. Los algoritmos de detección de ritmos deben presentar una elevada sensibilidad para el reconocimiento de ritmos pediátricos. Por el momento no existen evidencias para recomendar o no el uso del DEA en menores de 1 año. Como diferencia con la reanimación con DEA en el adulto y en el caso de disponer de un solo rescatador se hará un minuto de reanimación cardiopulmonar (RCP) antes de cualquier otra acción, como la activación de los servicios de emergencia (SEM) o la colocación del DEA (AU)</dc:description>
+<dc:source>Emergencias (Sant Vicenç dels Horts);17(6): 263-266, dic. 2005. ilus</dc:source>
+<dc:identifier>ibc-134328</dc:identifier>
+<dc:title xml:lang="es">Desfibrilación automática en niños</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d7399</dc:subject>
+<dc:subject>^d6475^s22067</dc:subject>
+<dc:subject>^d4713^s22045</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d15100^s22067</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d2715</dc:subject>
+<dc:subject>^d21027^s22045</dc:subject>
+<dc:subject>^d30213^s22045</dc:subject>
+<dc:subject>^d4707^s22045</dc:subject>
+<dc:subject>^d38829^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200512</dc:date>
+</metadata>
+</record>
+</ibecs-document>

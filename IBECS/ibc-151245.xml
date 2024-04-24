@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-151245</identifier>
+<setSpec>0211-139X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Complexity and function. Review of case-mix systems in geriatrics</dc:title>
+<dc:description xml:lang="en">Case-mix classification systems aim to estimate each patient&#146;s care requirements, taking into account functional and clinical characteristics, with a view to allocating resources to healthcare services. Most case-mix systems do not take disability variables into account, thereby underestimating the impact of dependence on resource utilization. This is true of diagnosis-related groups (DRG), the main system used in acute-stay hospitals in Spain. Resource utilization groups (RUG) do include physical and mental disability variables in their classification, but are not universally implemented in Spain. Ambulatory and integral case-mix systems are not currently implemented, but could be very useful in identifying high-risk subpopulations (AU)</dc:description>
+<dc:creator>García Navarro, José Augusto</dc:creator>
+<dc:creator>Tomàs Cedó, Rosa María</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Los sistemas de clasificación de pacientes tratan de estimar las necesidades reales de atención de cada paciente, teniendo en cuenta características clínicas y funcionales, para permitir una adecuada utilización de recursos. La mayoría de los sistemas de clasificación de pacientes no tienen en cuenta la presencia de dependencia física o psíquica en el paciente, por lo que infravaloran el impacto que la dependencia tiene en la utilización de recursos sanitarios. Ésta es la situación de los Grupos Relacionados con el Diagnóstico, que es el principal sistema de clasificación de nuestros hospitales de agudos. El Resource Utilization Groups sí tiene en cuenta la situación funcional y mental del paciente, pero su uso en España no es generalizado. Los sistemas de clasificación para pacientes ambulatorios y los sistemas integrales no están implantados en este momento, aunque se adivinan como sistemas útiles en un futuro para la identificación de subgrupos de riesgo en la población (AU)</dc:description>
+<dc:source>Rev. esp. geriatr. gerontol. (Ed. impr.);41(supl.1): 50-58, nov. 2006. tab</dc:source>
+<dc:identifier>ibc-151245</dc:identifier>
+<dc:title xml:lang="es">Complejidad y función. Revisión de los sistemas de clasificación de pacientes en geriatría</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d555^s22045</dc:subject>
+<dc:subject>^d555^s22011</dc:subject>
+<dc:subject>^d5993^s37748</dc:subject>
+<dc:subject>^d8079</dc:subject>
+<dc:subject>^d555^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d10554^s22011</dc:subject>
+<dc:subject>^d10554^s22056</dc:subject>
+<dc:subject>^d28451^s22011</dc:subject>
+<dc:subject>^d5993^s22045</dc:subject>
+<dc:subject>^d5993^s22019</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d12006</dc:subject>
+<dc:subject>^d28451^s22019</dc:subject>
+<dc:subject>^d5993^s22060</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d555^s22048</dc:subject>
+<dc:subject>^d13411^s22028</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200611</dc:date>
+</metadata>
+</record>
+</ibecs-document>

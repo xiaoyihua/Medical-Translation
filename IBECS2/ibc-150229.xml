@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150229</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Construct validity: The use of factor analysis</dc:title>
+<dc:description xml:lang="en">The results of exploratory factor analysis (EFA) are usually used to deduce theoretical models (Arruda et. al., 1996) and then confirmatory factor analysis (CFA) is used to demonstrate the construct validity of those deductions. Therefore, models obtained from the former are ussually validated using latter. The object of this study is to demonstrate the redundancy of this procedure in construct validation. It will be shown that, usually, CFA will validate solutions obtained using EFA. This article emphasizes that this type of procedure does not offer definitive information about the construct validity of the solutions obtained using exploratory factor analysis. In this sense, the EFA-CFA binomial could be considered as a pseudo construct validation (AU)</dc:description>
+<dc:creator>Pérez-Gil, José Antonio</dc:creator>
+<dc:creator>Chacón Moscoso, Salvador</dc:creator>
+<dc:creator>Moreno Rodríguez, Rafael</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Una práctica habitual para obtener evidencia de validez de modelos teóricos basados en los resultados del Análisis Factorial Exploratorio -EFA-, (Arruda et. al., 1996), suele ser utilizar el Análisis Factorial Confirmatorio (CFA) para demostrar la validez de la estructura factorial previamente obtenida con EFA y por consiguiente la validez de las deducciones teóricas inferidas del mismo, es decir, los modelos obtenidos con EFA suelen ser validados con CFA. El objetivo de este artículo es incidir en la posible redundancia de este procedimiento usado en validez de constructo. Se intenta mostrar que generalmente CFA siempre validará las soluciones obtenidas previamente mediante EFA, dado que la estructura factorial resultante de EFA es una de las posibles soluciones que se derivan de la matriz de datos y, por consiguiente, es previsible que en otra muestra extraída de la misma población de referencia, se confirme la estructura obtenida en la anterior. En este sentido, el binomio EFA-CFA, puede ser considerado como un pseudoprocedimiento para la validación de constructo (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);12(supl.2): 442-446, 2000. tab</dc:source>
+<dc:identifier>ibc-150229</dc:identifier>
+<dc:title xml:lang="es">Validez de constructo: el uso de análisis factorial exploratorio-confirmatorio para obtener evidencias de validez</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d1544^s22083</dc:subject>
+<dc:subject>^d28624</dc:subject>
+<dc:subject>^d9152</dc:subject>
+<dc:subject>^d31198</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28575</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200000</dc:date>
+</metadata>
+</record>
+</ibecs-document>

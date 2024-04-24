@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-107853</identifier>
+<setSpec>1888-4008</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Quality control model for biochemical and ultrasound markers in prenatal screening for fetal aneuploidies with laboratory-centralized management</dc:title>
+<dc:description xml:lang="en">Introduction. First trimester combined fetal aneuploidy screening is the most widely implemented model at national level. Although it is well established to perform quality control of biochemical measurements, it has been seldom applied to ultrasound measures. The aim of this paper is to describe how to implement a model of quality control in the laboratory, which includes all markers in prenatal screening for aneuploidy. Methods. We have evaluated the precision and bias of biochemical markers. In the case of nuchal translucency (NT), the WIHRI method was employed to control quality, and CUSUM was applied to each ultrasound operator with the values extracted from the computer software database. Results. For the biochemical parameters CV was below 4%. The bias was within the specification for the analyte concentration levels, as was the case for MoMs, except for one month. Quality control of NT showed that 5 of the 8 ultrasound operators evaluated sdid not comply with the quality criteria when using the WIHRI method, and 6 when CUSUM was applied. Conclusions. After showing the difficulty in obtaining accurate NT measurements to the professionals involved, it was possible to reach a consensus on using the CUSUM method for quality control of NT. In this way, the laboratory will be responsible for sending a report to each ultrasound operatorin the cases where the deviation exceeds the established limit (AU)</dc:description>
+<dc:creator>Camacho Carretero, Andres</dc:creator>
+<dc:creator>Ulibarrena Estevez, Javier</dc:creator>
+<dc:creator>Valverde Cuesta, Susana</dc:creator>
+<dc:creator>Ramayo Barrio, Emilia</dc:creator>
+<dc:creator>Ramírez Garrido, Francisco Antonio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. El modelo de cribado combinado de primer trimestre de aneuploidías fetales es el más extendido a nivel nacional. Sin embargo, aunque está bien establecido que deben realizarse controles de calidad de las medidas bioquímicas, su implantación en las ecográficas es escasa. El objetivo de este artículo es describir cómo implantar desde el laboratorio un modelo de control de calidad que incluya todos los marcadores que se realizan en el cribado prenatal de aneuploidías. Material y métodos. Se valoró la precisión y el sesgo de los marcadores bioquímicos. En el caso de la TN se ha utilizado el método WIHRI como control de calidad y se ha aplicado el CUSUM a cada ecografista con los valores extraídos de la base de datos del software de cálculo. Resultados. Para los parámetros bioquímicos el CV se situó por debajo del 4%. El sesgo se situó dentro de especificaciones para las concentraciones de analito, tal y como ocurrió con los MoM excepto en una mensualidad. El control de calidad de la TN mostró que 5 de los 8 ecografistas evaluados no cumplieron con los criterios de calidad establecidos cuando se utilizó el método WIHRI y 6 cuando se aplicó el CUSUM. Conclusiones. Al mostrar desde el laboratorio a los profesionales implicados la dificultad de conseguir medidas veraces de la TN, se ha consensuado el método CUSUM como control de calidad para la misma. El laboratorio enviará un informe a cada ecografista en el momento en el que sobrepase el límite de desviación establecido (AU)</dc:description>
+<dc:source>Rev. lab. clín;5(4): 182-187, oct.-dic. 2012.</dc:source>
+<dc:identifier>ibc-107853</dc:identifier>
+<dc:title xml:lang="es">Modelo de control de calidad para marcadores bioquímicos y ecográficos del cribado prenatal de aneuploidías fetales centralizado en el laboratorio</dc:title>
+<dc:subject>^d11732^s22074</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d11732^s22045</dc:subject>
+<dc:subject>^d12223</dc:subject>
+<dc:subject>^d23568^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d11732^s22039</dc:subject>
+<dc:subject>^d23568^s29165</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d23568^s22044</dc:subject>
+<dc:subject>^d25123</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201212</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150230</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The effect of non differential and independent declassification bias towards the disease, the exposure and third variable</dc:title>
+<dc:description xml:lang="en">The objective of this study was the determination of the influence of the non-differential and independent declassification bias for the disease, the exposure and another variable in the association measure, and also, the obtained pattern. In order to do this, we did some simulations, manipulating the sensibility and specificity of the disease, the exposure and the other variable (0.7 to 1 with increases of 0.1). The results show that the generated declassification bias for the disease and the exposure implies a bias towards the null value in the relative risk, and for the third variable the pattern is more complicated, this bias could be towards or away the null value (AU)</dc:description>
+<dc:creator>Peró Cebollero, Maribel</dc:creator>
+<dc:creator>Guàrdia Olmos, Joan</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El objetivo del presente trabajo consiste en establecer la influencia del sesgo de desclasificación no diferencial e independiente para el trastorno, la exposición y una tercera variable en la medida de asociación a obtener, además del posible patrón que se puede generar. Para conseguir este objetivo se realizaron una serie de simulaciones en las que se generó el sesgo de desclasificación en las tres variables antes mencionadas a partir de la manipulación de la sensibilidad y especificidad de los instrumentos para clasificar a los sujetos en cada una de las tres variables (valores de 0.7 a 1 con incrementos de 0.1). Los resultados muestran que el sesgo de desclasificación generado para el trastorno y la exposición lleva a un sesgo hacia la hipótesis nula en el riesgo relativo, en tanto que en el caso de la tercera variable el patrón que se establece es más complicado, ya que el sesgo puede ser tanto hacia la hipótesis nula como lejos de ella (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);12(supl.2): 447-452, 2000. tab</dc:source>
+<dc:identifier>ibc-150230</dc:identifier>
+<dc:title xml:lang="es">Efecto del sesgo de desclasificación no diferencial e independiente sobre el trastorno, la exposición y una tercera variable</dc:title>
+<dc:subject>^d37733^s22083</dc:subject>
+<dc:subject>^d1544^s22083</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d28426</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24872</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200000</dc:date>
+</metadata>
+</record>
+</ibecs-document>

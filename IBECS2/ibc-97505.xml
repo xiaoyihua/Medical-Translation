@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-97505</identifier>
+<setSpec>1134-5934</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Disruption of white matter integrity in bipolar depression as a possible structural marker of illness</dc:title>
+<dc:description xml:lang="en">Background. Diffusion tensor imaging allows the study of integrity of white matter (WM) tracts. Literature suggests that WM integrity could be altered in bipolar disorder. Heterogeneity of brain imaging methods, the studied samples, and drug treatments make localization, nature, and severity of the WM abnormalities unclear. Methods. We applied tract-based spatial statistics of diffusion tensor imaging measures to compare fractional anisotropy (FA), mean, and radial diffusivity of the WM skeleton in a group of 40 consecutively admitted inpatients affected by a major depressive episode without psychotic features with a diagnosis of bipolar disorder type I and 21 unrelated healthy volunteers from the general population. Results. Compared with control subjects, patients showed lower FA in the genu of the corpus callosum and in anterior and right superior-posterior corona radiata and higher values of radial diffusivity in WM tracts of splenium, genu and body of corpus callosum, right mid-dorsal part of the cingulum bundle, left anterior and bilateral superior and posterior corona radiata, bilateral superior longitudinal fasciculus, and right posterior thalamic radiation. Patients had no brain areas with higher FA or lower diffusivity values than control subjects. Conclusions. Reduced FA with increased mean and radial diffusivity suggests significant demyelination and/or dysmyelination without axonal loss. Comparing our findings with other observations in homogeneous samples of euthymic and manic patients, it can be hypothesized that changes in measures of WM integrity might parallel illness phases of bipolar illness (AU)</dc:description>
+<dc:creator>Radaelli, Daniele</dc:creator>
+<dc:creator>Poletti, Sara</dc:creator>
+<dc:creator>Scotti, Giuseppe</dc:creator>
+<dc:creator>Dallaspezia, Sara</dc:creator>
+<dc:creator>Smeraldi, Enrico</dc:creator>
+<dc:creator>Brambilla, Paolo</dc:creator>
+<dc:creator>Falini, Andrea</dc:creator>
+<dc:creator>Soares, Jair C</dc:creator>
+<dc:creator>Yeh, Ping-Hong</dc:creator>
+<dc:creator>Nicoletti, Mark A</dc:creator>
+<dc:creator>Benedetti, Francesco</dc:creator>
+<dc:creator>Bellani, Marcella</dc:creator>
+<dc:creator>Colombo, Cristina</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamento. La resonancia magnética (RM) mediante tensor de difusión permite el estudio de la integridad de los tractos de sustancia blanca (SB). Los estudios publicados sugieren que en el trastorno bipolar podría estar alterada su integridad. La heterogeneidad de los métodos de diagnóstico por imagen cerebral, de las muestras estudiadas y de los tratamientos farmacológicos no contribuye a dilucidar la localización, la naturaleza y la gravedad de las anomalías de la SB. Métodos. Aplicamos el programa informático FSL con la herramienta tract-based spatial statistics (TASS) a los parámetros de RM mediante tensor de difusión para comparar la anisotropía fraccional (AF) y la difusividad media y radial de la estructura de SB en un grupo de 40 pacientes ingresados consecutivamente, afectados por un episodio depresivo mayor, sin características psicóticas, con un diagnóstico de trastorno bipolar de tipo I, y 21 individuos voluntarios, sanos, no emparentados, de la población general. Resultados. Comparado con los individuos de control, en los pacientes se identificó una menor AF en la rodilla del cuerpo calloso y en la parte anterior y supraposterior derecha de la corona radiada y mayores valores de difusividad radial en los tractos de SB del esplenio, rodilla y cuerpo del cuerpo calloso, parte mediodorsal derecha del haz del cíngulo, parte anterior izquierda y superior y posterior bilateral de la corona radiada, fascículo longitudinal superior bilateral y radiación talámica posterior derecha. En los pacientes no se detectaron áreas cerebrales con mayores valores de AF o menores valores de difusividad que en los individuos de control. Conclusiones. La disminución de la AF con un aumento de la difusividad media y radial sugiere una desmielinización y/o dismielinización significativa sin una pérdida axónica. Comparando nuestros hallazgos con otras observaciones de muestras homogéneas de pacientes eutímicos y maníacos, se puede formular la hipótesis de que los cambios en los parámetros de la integridad de la SB podrían ser comparables a las fases de la enfermedad en el trastorno bipolar (AU)</dc:description>
+<dc:source>Psiquiatr. biol. (Ed. impr);18(3): 79-88, jul.-sept. 2011.</dc:source>
+<dc:identifier>ibc-97505</dc:identifier>
+<dc:title xml:lang="es">Falta de integridad de la sustancia blanca en la depresión bipolar como posible marcador estructural de la enfermedad</dc:title>
+<dc:subject>^d6330^s22053</dc:subject>
+<dc:subject>^d^s22066</dc:subject>
+<dc:subject>^d^s22045</dc:subject>
+<dc:subject>^d^s22074</dc:subject>
+<dc:subject>^d6330^s29166</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3353^s29166</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d3353^s22053</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d1714^s22045</dc:subject>
+<dc:subject>^d^s22039</dc:subject>
+<dc:subject>^d1738^s29166</dc:subject>
+<dc:subject>^d22935^s22045</dc:subject>
+<dc:subject>^d1738^s22032</dc:subject>
+<dc:subject>^d22935^s22039</dc:subject>
+<dc:subject>^d1738^s22056</dc:subject>
+<dc:subject>^d1738^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201109</dc:date>
+</metadata>
+</record>
+</ibecs-document>

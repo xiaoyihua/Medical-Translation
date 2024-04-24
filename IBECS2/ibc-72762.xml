@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-72762</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">A comparison of two methods to adjust for non-response bias: field substitution and weighting non-response adjusments based on response propensity</dc:title>
+<dc:description xml:lang="en">Unit non-response is a growing problem in sample surveys that can bias survey estimates if respondents and non-respondents differ systematically.ObjetivesTo compare the results of two nonresponse adjustment methods: field substitution and weighting nonresponse adjustment based on response propensity.MethodsField substitution and response propensity weights are used to adjust for non-response and their effect on the prevalence of six survey outcomes is compared.ResultsAlthough significant differences are found between respondents and non-respondents, only slight changes on prevalence estimates are observed after adjustment, with both techniques showing similar results. In the sole case of smoking, substitution seems to have further biased survey estimates.ConclusionsOur results suggest that when there is information available for both respondents and non-respondents, or if a careful sample substitution process is performed, weighting adjustments based on response propensity and field substitution produce comparable results on prevalence estimates(AU)</dc:description>
+<dc:creator>Vives, Alejandra</dc:creator>
+<dc:creator>Ferreccio, Catterina</dc:creator>
+<dc:creator>Marshall, Guillermo</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La no respuesta es un problema creciente en encuestas poblacionales que puede ser causa de sesgo de no-respuesta cuando respondedores y no respondedores difieren sistemáticamente.ObjetivoComparar los resultados obtenidos mediante dos técnicas de corrección para el sesgo de no-respuesta: sustitución muestral y pesos de no respuesta obtenidos mediante propensión a responder.MétodosSe comparan los efectos de la sustitución muestral semicontrolada y el uso de pesos de ajuste obtenidos mediante la propensión a responder sobre seis resultados de una encuesta de salud.ResultadosA pesar de las diferencias significativas entre respondedores y no respondedores, mediante la corrección las prevalencias estimadas sólo cambian levemente, dando ambas técnicas de ajuste resultados similares. Sólo en el caso del tabaquismo, la sustitución muestral parece haber aumentado el sesgo de la estimación.ConclusionesNuestros resultados sugieren que tanto mediante un procedimiento de sustitución muestral semicontrolada, como a través del ajuste estadístico de la no respuesta mediante la propensión a responder, se obtienen estimaciones de prevalencias corregidas similares(AU)</dc:description>
+<dc:source>Gac Sanit;23(4): 266-271, jul.-ago. 2009. tab, graf</dc:source>
+<dc:identifier>ibc-72762</dc:identifier>
+<dc:title xml:lang="es">Comparación de dos métodos para corregir el sesgo de no respuesta a una encuesta: sustitución muestral y ajuste según propensión a responder</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d24517</dc:subject>
+<dc:subject>^d24535</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d32037</dc:subject>
+<dc:subject>^d28584</dc:subject>
+<dc:subject>^d28597^s22045</dc:subject>
+<dc:subject>^d28374</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200908</dc:date>
+</metadata>
+</record>
+</ibecs-document>

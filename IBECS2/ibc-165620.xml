@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-165620</identifier>
+<setSpec>0212-9728</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">How to merge observational and physiological data? A case study of motor skills patterns and heart rate in exercise programs for adult women</dc:title>
+<dc:description xml:lang="en">The present study analyzes individual and group heart rate responses in exercising adult women. The specific aim was to compare responses during routine workout sessions within a community exercise program with responses during a purpose-designed workout session targeting diverse motor skills. Sixty-seven adult women with a mean ± SD age of 65.1 ± 11.7 years participated in the study. Two representative sessions were analyzed: a standard workout session the women took at the local community center and an ad hoc session designed to build on a variety of motor skills and capabilities. Observational methodology was used to collect categorical data on motor skill performance during each session using the OSMOS-in context observation instrument. Continuous heart rate data were recorded for all participants during each session. A combined analysis of categorical and continuous data was undertaken using Hidden Markov Models. The results show that the session targeting a greater diversity of motor skills not only met the cardiovascular fitness recommendations of the American College of Sports Medicine, but resulted in greater individual variability and greater synchrony between participants than the routine session (AU)</dc:description>
+<dc:creator>Castañer, Marta</dc:creator>
+<dc:creator>Zurloni, Valentino</dc:creator>
+<dc:creator>Puigarnau, Sílvia</dc:creator>
+<dc:creator>Camerino, Oleguer</dc:creator>
+<dc:creator>Benítez, Raúl</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">El presente estudio analiza las respuestas individuales y de grupo de la frecuencia cardiaca de mujeres adultas mientras realizan actividad física. El interés de este estudio recae en comparar como estas respuestas varían entre sesiones de ejercicio rutinario y sesiones que incluyen variedad de habilidades motrices. Participaron 67 mujeres adultas (edad 65.1 ± 11.7) usuarias de programas de actividad física municipales. Analizamos dos sesiones representativas: una estándar de los propios programas de actividad física que realizan y otra diseñada ad hoc con variedad de diversos tipos de habilidades y capacidades motrices. Utilizamos la metodología observacional para obtener datos categóricos de las habilidades motrices realizadas en cada sesión a partir del instrumento de observación OSMOS-in context. Los datos continuos obtenidos de la frecuencia cardíaca individual de cada participante se midieron mediante monitorización en cada sesión. El análisis conjunto de ambos tipos de datos, categóricos y continuos, se realizó mediante la aplicación de Cadenas Ocultas de Markov (HMM). Los resultados obtenidos consideramos que son bastante relevantes puesto que indican que la sesión que aporta mayor riqueza motriz no solo muestra una mayor adecuación cardíaca a la intensidad del ejercicio (según las recomendaciones del American College of Sports Medicine) sino una mayor variabilidad individual, incluso una mayor sincronización entre todas las participantes con respecto a la sesión estándar propia de los programas de actividad física que realizan asiduamente (AU)</dc:description>
+<dc:source>An. psicol;33(3): 442-449, oct. 2017. tab, graf</dc:source>
+<dc:identifier>ibc-165620</dc:identifier>
+<dc:title xml:lang="es">¿Cómo combinar datos observacionales y fisiológicos? Un estudio de caso de patrones de habilidades motoras y frecuencia cardíaca en programas de ejercicio para mujeres adultas</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d23631^s22031</dc:subject>
+<dc:subject>^d50295^s22045</dc:subject>
+<dc:subject>^d28629</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9241^s22031</dc:subject>
+<dc:subject>^d6493^s22031</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201710</dc:date>
+</metadata>
+</record>
+</ibecs-document>

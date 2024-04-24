@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-3506</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Noninvasive monitorization of PaCO2 in critically ill ventilated patients</dc:title>
+<dc:creator>Cerdeño Impuesto, V</dc:creator>
+<dc:creator>Jiménez Lendínez, M</dc:creator>
+<dc:creator>Peláez Fernández, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Objetivo. Determinar la presión arterial de dióxido de carbono, en pacientes con soporte ventilatorio completo, mediante dos técnicas de monitorización no invasivas, la calorimetría indirecta (eliminación de CO2) y la capniografía (presión teleespiratoria de CO2). Comparar sus resultados frente a los obtenidos mediante la extracción de gasometrías arteriales. Métodos. Veinte pacientes en ventilación mecánica, sometidos a un cambio en el volumen ventilatorio, fueron monitorizados con un computador metabólico (Deltatrac) y un capniógrafo. Se determinaron las siguientes variables antes y después del cambio ventilatorio: eliminación de CO2 (VeCO2), consumo de oxígeno, PETCO2 y PaCO2 (gasometría arterial). Se calcularon los nuevos niveles de PaCO2 mediante calorimetría indirecta utilizando PaCO2-final = PaCO2-basal × VeCO2-basal/VeCO2-1 minuto, y mediante capniografía, utilizando PaCO2-final = PETCO2-final + Grad (PaCO2PETCO2). Resultados. Los niveles de PaCO2 obtenidos mediante calorimetría indirecta fueron de 37 (DE 5,2) mmHg y mediante la PETCO2 de 35,4 (8,3) mmHg; tras la extracción de gases arteriales los niveles fueron de 37,1 (6,4) mmHg y 37,2 (6,7) mmHg, respectivamente. La correlación entre la PaCO2 calculada y la medida mediante gasometrías arteriales fue de r = 0,93 (p &lt; 0,001) para la calorimetría indirecta y de r = 0,55 (p &lt; 0,05) para la PETCO2. En el análisis de concordancia de ambas técnicas frente a la gasometría arterial los límites de acuerdo fueron más estrechos para la calorimetría indirecta (-5,11/5,31 mmHg frente a -12,35/16,07 mmHg, margen de confianza del 95 por ciento). Conclusiones. En nuestro estudio se confirma la escasa utilidad de la PETCO2 para la determinación de los cambios sufridos por la PaCO2 en pacientes críticos en los que se han variado los parámetros ventilatorios (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);24(7): 293-299, oct. 2000.</dc:source>
+<dc:identifier>ibc-3506</dc:identifier>
+<dc:title xml:lang="es">Monitorización no invasiva de la PaCO2 en pacientes críticos con ventilación mecánica</dc:title>
+<dc:subject>^d1821^s22021</dc:subject>
+<dc:subject>^d33095^s22074</dc:subject>
+<dc:subject>^d2284^s22002</dc:subject>
+<dc:subject>^d2185^s22074</dc:subject>
+<dc:subject>^d33095^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d2185^s22045</dc:subject>
+<dc:subject>^d12541^s22045</dc:subject>
+<dc:subject>^d2183^s22039</dc:subject>
+<dc:subject>^d12552^s22032</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d12541^s22074</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d2183^s22048</dc:subject>
+<dc:subject>^d12552^s22012</dc:subject>
+<dc:subject>^d2183^s22066</dc:subject>
+<dc:subject>^d12552^s22016</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d3155^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200010</dc:date>
+</metadata>
+</record>
+</ibecs-document>

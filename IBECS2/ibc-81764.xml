@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-81764</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Effect of acute heart failure following discharge in patients with non-ST-elevation acute coronary syndrome on the subsequent risk of death or acute myocardial infarction</dc:title>
+<dc:description xml:lang="en">Introduction and objectives. Little is known about how prognosis is influenced by readmission for acute heart failure (AHF) following non-ST-segment elevation acute coronary syndrome (NSTEACS). The aim of this study was to determine the prognostic effect of a first admission for AHF on the risk of acute myocardial infarction (AMI) or death in patients who survived an episode of high-risk NSTEACS. Methods. The study involved 972 consecutive patients with high-risk NSTEACS who survived after hospital admission. Readmission for AHF was selected as the main exposure variable, and its association with subsequent AMI or all-cause death was assessed using Cox proportional hazards models for time-dependent covariates that also included adjustment for competing risks. Results. After a median follow-up period of 30 [interquartile range, 12-48] months, 82 patients (8.4%) were admitted for AHF, 146 (15%) had an AMI, and 202 (20.8%) died. The median time to readmission for AHF was 203 [56-336] days after NSTEACS. Patients readmitted for AHF had an increased risk of subsequent death (hazard ratio [HR]=1.67; 95% confidence interval [CI], 1.13-2.45; P=.009) or AMI (HR=2.15; 95% CI, 1.41-3.27; P &lt; .001), which was independent of baseline prognostic and time-dependent variables. Conclusions. Readmission for AHF after high-risk NSTEACS was associated with an increased risk of subsequent death or AMI (AU)</dc:description>
+<dc:creator>Miñana, Gema</dc:creator>
+<dc:creator>Merlos, Pilar</dc:creator>
+<dc:creator>Mainar, Luis</dc:creator>
+<dc:creator>Bodí, Vicent</dc:creator>
+<dc:creator>Rumiz, Eva</dc:creator>
+<dc:creator>Chorro, Francisco J</dc:creator>
+<dc:creator>Núñez, Julio</dc:creator>
+<dc:creator>Husser, Oliver</dc:creator>
+<dc:creator>Sanchis, Juan</dc:creator>
+<dc:creator>Núñez, Eduardo</dc:creator>
+<dc:creator>Palau, Patricia</dc:creator>
+<dc:creator>Llàcer, Ángel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos. La información disponible acerca del impacto pronóstico de un episodio de rehospitalización por insuficiencia cardiaca aguda (ICA) tras un síndrome coronario agudo sin elevación del segmento ST (SCASEST) es escasa. El objetivo de este trabajo fue evaluar el valor pronóstico atribuible a un primer ingreso por ICA en cuanto a riesgo de infarto agudo de miocardio (IAM) y mortalidad en pacientes supervivientes a un episodio de SCASEST de alto riesgo. Métodos. Analizamos consecutivamente a 972 pacientes supervivientes a la fase hospitalaria de un SCASEST de alto riesgo. El reingreso por ICA se consideró como la variable principal de estudio, y su asociación con IAM y mortalidad por cualquier causa se analizó mediante regresión de Cox para variables dependientes del tiempo y, además, se aplicó ajuste para episodios competitivos. Resultados. Tras una mediana de seguimiento de 30 [intervalo intercuartílico, 12-48] meses, 82 (8,4%) pacientes ingresaron por ICA, 146 (15%) presentaron un IAM y 202 (20,8%) fallecieron. El reingreso por ICA se produjo con una mediana de 203 [56-336] días tras el SCASEST. Los pacientes que reingresaron por ICA presentaron un mayor riesgo de muerte (hazard ratio [HR] = 1,67; intervalo de confianza [IC] del 95%, 1,13-2,45; p = 0,009) e IAM (HR = 2,15; IC del 95%, 1,41-3,27; p &lt; 0,001), independientemente de las variables pronósticas basales y las dependientes del tiempo. Conclusiones. Tras un SCASEST de alto riesgo, el reingreso por ICA se asocia con un mayor riesgo de IAM ulterior y muerte (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;63(9): 1035-1044, sept. 2010. tab, ilus</dc:source>
+<dc:identifier>ibc-81764</dc:identifier>
+<dc:title xml:lang="es">Insuficiencia cardiaca aguda post-alta hospitalaria tras un síndrome coronario agudo sin elevación del segmento-ST y riesgo de muerte e infarto agudo de miocardio subsiguiente</dc:title>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d52613^s22012</dc:subject>
+<dc:subject>^d52613^s29166</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d52613^s22016</dc:subject>
+<dc:subject>^d9395^s22047</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d6486^s29166</dc:subject>
+<dc:subject>^d22334^s22073</dc:subject>
+<dc:subject>^d9396^s22074</dc:subject>
+<dc:subject>^d9396^s22045</dc:subject>
+<dc:subject>^d9396^s22066</dc:subject>
+<dc:subject>^d6486^s22012</dc:subject>
+<dc:subject>^d6486^s22016</dc:subject>
+<dc:subject>^d9395^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201009</dc:date>
+</metadata>
+</record>
+</ibecs-document>

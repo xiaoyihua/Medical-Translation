@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-73330</identifier>
+<setSpec>1137-6627</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Radiotherapy of mobile tumors</dc:title>
+<dc:description xml:lang="en">In this article we detail some questions related to managing the treatment of mobile tumors, that is,those tumors that shift with respiratory movements,integrating movement into the plan of treatment. Thisfact complicates the administration of high doses of radiotherapysince, in such cases, the radiation marginmust be wider than that required by the tumor itself,representing a greater risk to surrounding healthy tissue.However, the new technologies offer an alternativein these cases, such as tracking and respiratory gatingin radiotherapy (RT), that is, the synchronization oftreatment with respiratory movement.In gating we capture the tumor and other organs atrisk at a specific moment in the breathing cycle, whilein tracking we trace the tumor and the organs at riskthroughout the breathing cycle. It is therefore essentialto obtain good images and to correlate them with eachphase of the breathing cycle.The tumors with which these strategies have beenmost employed are those of the lung, breast and lymphomas,and less frequently with some abdominal tumors such as pancreas, liver and prostate (AU)</dc:description>
+<dc:creator>Villafranca, E</dc:creator>
+<dc:creator>Sola, A</dc:creator>
+<dc:creator>Martínez López, E</dc:creator>
+<dc:creator>Romero, P</dc:creator>
+<dc:creator>Rico, M</dc:creator>
+<dc:creator>Vila, M. T</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En el presente trabajo, se detallan algunas cuestiones relacionadas con el manejo del tratamiento conradioterapia de los tumores móviles, es decir, aquellosque se desplazan con los movimientos respiratorios,integrando el movimiento en el plan de tratamiento.Este hecho complica la administración de dosis altasde radioterapia ya que, en estos casos, el margen deradiación debe ser más amplio de lo que el tumor en síexige, suponiendo un mayor riesgo para el tejido sanocircundante. Sin embargo, las nuevas tecnologías ofrecenuna alternativa en estos casos, como son el trakingy el gating respiratorio en radioterapia (RT), es decir,la sincronización del tratamiento con el movimientorespiratorio.En el gating capturamos el tumor y demás órganosde riesgo en un momento determinado del ciclo respiratorio,mientras que en el traking realizamos un &#147;rastreo&#148;del tumor y de los órganos de riesgo a lo largo del ciclorespiratorio, siendo entonces fundamental contar conuna buena adquisición de imágenes y una correlaciónde las mismas con cada fase del ciclo respiratorio.Los tumores en los que más se han utilizado estas estrategiasson los de pulmón, mama y linfomas y con menosfrecuencia en algunos abdominales como páncreas, hígado y próstata (AU)</dc:description>
+<dc:source>An Sist Sanit Navar;32(supl.2): 39-49, ago. 2009. graf, ilus</dc:source>
+<dc:identifier>ibc-73330</dc:identifier>
+<dc:title xml:lang="es">Radioterapia en tumores móviles</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d12540</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d14286^s22059</dc:subject>
+<dc:subject>^d26969</dc:subject>
+<dc:subject>^d12314^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200908</dc:date>
+</metadata>
+</record>
+</ibecs-document>

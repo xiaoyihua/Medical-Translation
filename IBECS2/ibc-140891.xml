@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-140891</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Health services utilization by the immigrant and native-born populations in the autonomous region of Murcia (Spain)</dc:title>
+<dc:description xml:lang="en">Objective: To analyze the patterns of utilisation for three types of public health services (outpatient specialist visits, emergency visits and hospitalisations) in the Comunidad Autónoma de la Región de Murcia. We examine the differences between the average rates of utilization of these services among natives and non-Spanish immigrants, and whether these differences are due to differences in demographic structure, or to different behaviour between these groups. Methods:  We use econometric models for utilisation to exploit administrative records on health care utilisation and the well established Oaxaca decomposition method. This splits average rates of utilisation and/or average health expenditure into two components: the first one stands for the part of the difference that can be attributed to differential patterns of behaviour among the two groups; the second one represents the part of the difference in average expenditure that can be attributed to the fact that average demographic characteristics among both groups differ. Results: The rates of use of outpatient specialist visits, emergencies and hospital nights by the native population are greater than the corresponding rates for the immigrant population. For individuals aged between 20 to 40 years old, the utilisation rates of African and Latin-American females are higher than those for native females. The average health expenditure of native males is greater than that of immigrants. The difference is mainly due to different demographic features among the native and immigrant populations, except for the «rest of Europe» group, whose individuals show a different behaviour. In fact, among the 20 to 40 age group, the average health expenditure of native females equals that of Latin-American women, which is in turn below that of African females. Conclusions: In this paper we show that the remarkable differences in the age-gender balance among different (in terms of nationality) groups of insured residents in Murcia has a considerable effect on consumption of health services and therefore on the average health care expenditure attributable to these groups (AU)</dc:description>
+<dc:creator>Ramos Parreño, José María</dc:creator>
+<dc:creator>López Nicolás, Ángel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Analizar los patrones de utilización de tres tipos de servicios sanitarios públicos en la Comunidad Autónoma de la Región de Murcia: consultas externas, visitas a urgencias y hospitalizaciones. Discernir si hay diferencias en la utilización media entre asegurados autóctonos e inmigrantes, y si éstas se deben a diferencias en la estructura demográfica o en el comportamiento del usuario. Métodos: Estimamos modelos econométricos con datos administrativos de uso de servicios sanitarios mediante la descomposición de Oaxaca, que permite desagregar las tasas de utilización medias y el gasto sanitario medio de cada grupo en dos componentes: el primero representa la parte de la diferencia en gasto medio que se puede atribuir a patrones diferenciales de consumo entre los dos grupos; el segundo representa la parte de la diferencia en gasto medio atribuible al hecho de que las características demográficas medias de los dos grupos pueden diferir. Resultados: Las tasas de utilización de las consultas externas y de urgencias, y la de hospitalizaciones, de los autóctonos superan las correspondientes tasas de los inmigrantes. Para individuos entre 20 y 40 años, las mujeres africanas y las latinoamericanas generan una tasa de utilización de urgencias y hospitalizaciones mayor que la de las españolas. El gasto sanitario medio de los titulares españoles es superior al del resto de los colectivos. La diferencia en el gasto sanitario medio respecto a los asegurados del resto de Europa se explica por el efecto comportamiento; con respecto al resto de los colectivos, se debe a las diferencias demográficas. Para individuos entre 20 y 40 años, el gasto sanitario medio de las mujeres españolas es igualado por el de las latinoamericanas y superado por el de las africanas y las de otros países. Conclusiones: Este trabajo pone de manifiesto las acusadas diferencias en la estructura por edades y el balance de sexos de las distintas subpoblaciones de asegurados según su origen, la incidencia sobre el consumo de los servicios sanitarios y la traducción a gasto sanitario (AU)</dc:description>
+<dc:source>Gac Sanit;23(supl.1): 12-18, dic. 2009. tab, graf, ilus</dc:source>
+<dc:identifier>ibc-140891</dc:identifier>
+<dc:title xml:lang="es">Utilización de servicios sanitarios por parte de las poblaciones inmigrante y nativa en la Comunidad Autónoma de la Región de Murcia</dc:title>
+<dc:subject>^d7399</dc:subject>
+<dc:subject>^d4711^s22074</dc:subject>
+<dc:subject>^d555^s22074</dc:subject>
+<dc:subject>^d8022^s22028</dc:subject>
+<dc:subject>^d30355^s22083</dc:subject>
+<dc:subject>^d354^s22028</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d4711^s22018</dc:subject>
+<dc:subject>^d6916^s22083</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d555^s22018</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d6916^s22018</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d28627</dc:subject>
+<dc:subject>^d52950^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d2715</dc:subject>
+<dc:subject>^d6447^s22018</dc:subject>
+<dc:subject>^d22226</dc:subject>
+<dc:subject>^d28905</dc:subject>
+<dc:subject>^d53386</dc:subject>
+<dc:subject>^d6447^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200912</dc:date>
+</metadata>
+</record>
+</ibecs-document>

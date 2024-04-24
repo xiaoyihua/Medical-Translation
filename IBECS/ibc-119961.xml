@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-119961</identifier>
+<setSpec>0034-9356</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Validation of APACHE II and SOFA scores in 2 cohorts of patients with suspected infection and sepsis, not admitted to critical care units</dc:title>
+<dc:description xml:lang="en">Objetive: To validate the APACHE II and SOFA scores in patients with suspected infection in clinical settings otrher than intensive care units. Materials and Methods: a secundary analisis was performed on 2,530 adult patiens participating in 2 cohort studies, with suspected infection as admission diagnosis within the first 24h of hospitalitation. The perfomance of both scoring systems was studied in order to set calibration and discrimination, respectively, on the outcomes such as mortality, admission to intensive Care Unit, development of septic shoch, or multiple organ dysfunctions. Results: The AUC-ROC values for mortality at discharge and day 28 in the first cohort were around 0.50 for APACHE II and SOFA scores, whereas for the second cohort the discrimination value was around 0.70.Calibration of both scoring systems for primary outcomes, according to the Hosmer-Lemeshow test showed a p-value&gt; 0.05 in the first cohort, while in the second cohort calibration it only showed a p-value&gt; 0.05 in the case of SOFA for mortality at hospital discharge. Conclusion: The validation study systems SOFA and APACHE II score in patients with suspected sepsis in the hospital setting outside the ICU showed poor performance calibration and discrimination, their application in emergency rooms and hospitalization is limited (AU)</dc:description>
+<dc:creator>Calle, P</dc:creator>
+<dc:creator>Jaimes, F</dc:creator>
+<dc:creator>Valencia, J</dc:creator>
+<dc:creator>Cerro, L</dc:creator>
+<dc:creator>León, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Validar los modelos pronósticos de las escalas APACHE II y SOFA en pacientes con sospecha de infección en escenarios diferentes de las unidades de cuidados intensivos. Materiales y métodos: Se realizó un análisis secundario de 2 estudios de cohortes que incluyó 2.530 pacientes adultos con sepsis o sospecha de la misma, atendidos en las primeras 24 h de su ingreso en salas de hospitalización o servicios de urgencias. Se evaluó el desempeño de ambos sistemas de puntuación para establecer calibración y discriminación, respectivamente, en los desenlaces primarios como la mortalidad intrahospitalaria y a los 28 días, y secundarios como la necesidad de ingreso en Unidad de Cuidados Intensivos, desarrollo de shock séptico y disfunción orgánica múltiple. Resultados: Los valores de AUC-ROC para mortalidad al alta hospitalaria y el día 28 en la primera cohorte estuvieron alrededor de 0,50 para SOFA y APACHE II, mientras que para la segunda cohorte el valor de discriminación fue de alrededor de 0,70. La calibración de ambos sistemas de puntuación para desenlaces primarios, según la prueba de Hosmer-Lemeshow, mostró un valor p &gt; 0,05 en la primera cohorte, mientras que en la segunda cohorte la calibración solo tuvo un valor p &gt; 0,05 en el caso del SOFA para mortalidad al alta hospitalaria. Conclusión: El estudio de validación de los sistemas de puntuación SOFA y APACHE II en los pacientes con sospecha de sepsis en el contexto hospitalario fuera de la Unidad de Cuidados Intensivos evidenció un rendimiento inadecuado para calibración y discriminación; su aplicación en salas de urgencias y hospitalización es limitada (AU)</dc:description>
+<dc:source>Rev Esp Anestesiol Reanim;61(3): 125-132, mar. 2014.</dc:source>
+<dc:identifier>ibc-119961</dc:identifier>
+<dc:title xml:lang="es">Validación de las escalas de APACHE II y SOFA en 2 cohortes de pacientes con sospecha de infección y sepsis, no ingresados en unidades de cuidados críticos</dc:title>
+<dc:subject>^d3439^s22045</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d32354</dc:subject>
+<dc:subject>^d7414^s22016</dc:subject>
+<dc:subject>^d32031^s22016</dc:subject>
+<dc:subject>^d2171</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201403</dc:date>
+</metadata>
+</record>
+</ibecs-document>

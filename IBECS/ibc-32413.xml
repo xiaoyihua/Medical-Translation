@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-32413</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">PCR techniques for molecular epidemiology of infectious diseases</dc:title>
+<dc:creator>Fernández-Cuenca, Felipe</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">En los últimos años se han desarrollo nuevas técnicas moleculares de tipificación basadas en la reacción en cadena de la polimerasa (PCR) que han supuesto un importante avance en el estudio de las enfermedades infecciosas. La PCR que utiliza cebadores arbitrarios (AP-PCR) y la PCR que utiliza cebadores que hibridan con secuencias de ADN repetidas (rep-PCR) son las técnicas de PCR más utilizadas para tipificar bacterias y hongos. Estas técnicas son sencillas de realizar, rápidas y poseen un elevado poder de discriminación. La AP-PCR es relativamente poco reproducible, por lo que tiene que ser validada o estandarizada en cada laboratorio. La digestión con enzimas de restricción de genes amplificados mediante PCR constituye la base de la PCR-RFLP. Esta técnica es sencilla y muy reproducible, pero suele ser menos discriminativa que la AP-PCR o la rep-PCR. El estudio del polimorfismo de la longitud de fragmentos amplificados (AFLP) se basa en la amplificación mediante PCR de fragmentos de ADN obtenidos por restricción enzimática del ADN cromosómico. Esta técnica de tipificación posee mayor poder de discriminación y reproducibilidad que las anteriores, pero es más laboriosa, más costosa y requiere personal especializado. La mayoría de las técnicas de tipificación basadas en la PCR son menos laboriosas, más rápidas y más fáciles de realizar e interpretar que la electroforesis en campo pulsante (PFGE; técnica de referencia para la mayoría de bacterias y hongos), pero suelen ser, por lo general, menos reproducibles y discriminativas que esta última, dependiendo de la especie estudiada y de la técnica de PCR empleada. En resumen, existen diversas técnicas moleculares basadas en la PCR que son muy útiles como método inicial de tipificación para estudiar la relación clonal entre aislados de una misma especie. La elección de la técnica depende de factores de tipo técnico (rapidez, poca laboriosidad, fácil de interpretar y con un elevado poder de discriminación y reproducibilidad) y económico (bajo coste) (AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;22(6): 355-360, jun. 2004.</dc:source>
+<dc:identifier>ibc-32413</dc:identifier>
+<dc:title xml:lang="es">Aplicaciones de las técnicas de PCR a la epidemiología molecular de las enfermedades infecciosas</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d29207</dc:subject>
+<dc:subject>^d32635</dc:subject>
+<dc:subject>^d29949</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28582</dc:subject>
+<dc:subject>^d28320</dc:subject>
+<dc:subject>^d19335</dc:subject>
+<dc:subject>^d31481</dc:subject>
+<dc:subject>^d30142</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200406</dc:date>
+</metadata>
+</record>
+</ibecs-document>

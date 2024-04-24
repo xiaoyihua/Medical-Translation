@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-122543</identifier>
+<setSpec>1699-8855</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Some basics concepts of queueing theory applicable in the planning of a pathology department</dc:title>
+<dc:description xml:lang="en">Introduction: The problem of the optimal number of pathologists required to provide a rapid response to the volume of studies requested is considered. Material and methods: The basic concepts of the queueing theory are applied and recommendations for their use are made. Results and discussion: Pathology departments (PD) work as a queuing system and adapt to infinite queue models with a (M/M1) or, preferably, multiple servers (M/M/m). The number of pathologists (m) must achieve: m » velocity of arrival of biopsies to the PD/velocity of completion of biopsy reports by pathologists.  Conclusions: Like a queueing system, a PD is viable only if its capacity of response is greater than the demand. The model of multiple resources (pathologists) better absorbs a sustained growth in demand (AU)</dc:description>
+<dc:creator>Martínez Barba, Enrique</dc:creator>
+<dc:creator>Sola Pérez, Joaquín</dc:creator>
+<dc:creator>Ferrando Marco, José</dc:creator>
+<dc:creator>Ruiz Maciá, José A</dc:creator>
+<dc:creator>Ribón Bornao, Fernando</dc:creator>
+<dc:creator>Ferri Ñiguez, Belén</dc:creator>
+<dc:creator>Andreu Sober, Luis</dc:creator>
+<dc:creator>Rodríguez Ruiz, Daniel</dc:creator>
+<dc:creator>Quiles Pérez, Francisco</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: Nos planteamos el problema: ¿cuál es el número adecuado de facultativos en un servicio de anatomía patológica (SAP) para responder sin demora al número de solicitudes de estudio que se reciben? Material y métodos: Aplicamos conceptos básicos de teoría de colas y motivamos al lector a introducirse en ellos.  Resultados y discusión: Un SAP funciona como un sistema de colas y se ajusta a los modelos de cola infinita con uno (M/M/1) y, todavía mejor, con múltiples recursos (M/M/m). El número de facultativos (m) ha de cumplir: m » velocidad de llegada de biopsias al SAP/velocidad de cierre de biopsias por facultativo Conclusiones: Como sistema de colas, un SAP solo es viable si su capacidad de respuesta es mayor que las necesidades planteadas por la demanda. El modelo de múltiples recursos (facultativos) amortigua mejor los aumentos sostenidos de la demanda (AU)</dc:description>
+<dc:source>Rev. esp. patol;47(2): 83-89, abr.-jun. 2014. ilus, tab</dc:source>
+<dc:identifier>ibc-122543</dc:identifier>
+<dc:title xml:lang="es">Algunos conceptos básicos de la teoría de colas aplicables en la planificación de un servicio de anatomía patológica</dc:title>
+<dc:subject>^d28842</dc:subject>
+<dc:subject>^d1731^s22083</dc:subject>
+<dc:subject>^d10530^s22060</dc:subject>
+<dc:subject>^d6913^s22049</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d55032^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201406</dc:date>
+</metadata>
+</record>
+</ibecs-document>

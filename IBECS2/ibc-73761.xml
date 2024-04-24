@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-73761</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Diagnostic accuracy and interobserver variability in the BI-RADS ultrasound system</dc:title>
+<dc:description xml:lang="en">Objectives: To determine the predictive values and the interobserver variability of the descriptors and diagnostic categories of the BI-RADS- Ultrasound system and its usefulness for predicting malignancy in solid breast nodules. Material and methods: We evaluated 601 consecutive solid nodules in 554 patients studied with ultrasound. All ultrasound examinations were performed by one of the three radiologists that participated in the study and the static images were reviewed by all three radiologists independently; radiologists were blind to the clinical history and to the findings at mammography and at histological study. Material and methods: The descriptors that best predicted benignity were circumscribed margins and oval shape (NPV, &gt; 96%), parallel orientation (NPV, 84%-91%), and abrupt interface (NPV, 81%-90%). The descriptors that best predicted malignancy were spiculated margins (PPV, 77%-85%), echogenic halo (PPV, 61%-71%), and nonparallel orientation (PPV, 53%-54%).Material and methods: Interobserver concordance was good for lesion shape (k=0.61), circumscribed margins (k=0.65), and calcifications (k=0.63).Material and methods The descriptors that presented the highest prognostic values for malignancy were spiculated margins (OR=14.68&#150;10.45) and nonparallel orientation (OR=3.95&#150;6.17) (AU)</dc:description>
+<dc:creator>Fuentes Pavón, R</dc:creator>
+<dc:creator>Limiñana Cañal, J. M</dc:creator>
+<dc:creator>Jorrín Moreno, A</dc:creator>
+<dc:creator>Alemán Flores, P</dc:creator>
+<dc:creator>Santana Montesdeoca, J. M</dc:creator>
+<dc:creator>Gómez Arnáiz, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Conocer los valores predictivos y la variabilidad interobservador de los descriptores y de las categorías diagnósticas del sistema BI-RADS- ecografía y su utilidad para predecir la malignidad de los nódulos sólidos mamarios. Material y métodos: Se seleccionaron consecutivamente 601 nódulos sólidos de 554 pacientes evaluados mediante ecografía. Todas las ecografías fueron realizadas por alguno de los 3 radiólogos participantes en el estudio y las imágenes estáticas revisadas independientemente por los 3, sin conocimiento de la historia clínica, de la mamografía ni de la anatomía patológica. Resultados: Los descriptores que mejor predijeron la benignidad fueron el margen circunscrito y la formal oval (valor predictivo negativo [VPN] &gt; 96%), la orientación paralela (VPN, 84&#150;91%) y la interfase abrupta (VPN, 81&#150;90%). Los que mejor predijeron la malignidad fueron el margen espiculado (valor predictivo positivo [VPP], 77&#150;85%), el halo ecogénico (VPP, 61&#150;71%) y la orientación antiparalela (VPP, 53&#150;54%). Resultados: La concordancia interobservador fue buena para la morfología (k=0,61), el margen circunscrito (k=0,65) y las calcificaciones (k=0,63). Resultados: Los descriptores que presentaron los valores pronósticos más altos para la malignidad fueron el margen espiculado (odds ratio [OR] =14,68&#150;10,45) y la orientación antiparalela (OR=3,95&#150;6,17). Resultados: La categoría 3 mostró un excelente VPN para los 3 radiólogos (99&#150;100%). La concordancia interobservador fue buena para las categorías 5 (k=0,77) y 3 (k=0,68) y moderada para la 4 (k=0,59). Conclusiones: El sistema BI-RADS-ecografía ayuda a diferenciar las lesiones mamarias benignas de las malignas con una concordancia interobservador buena o moderada. La categoría 3 mostró un excelente VPN, lo que permitiría evitar las biopsias de las lesiones incluidas en ésta (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);51(5): 477-486, sept.-oct. 2009. ilus, tab</dc:source>
+<dc:identifier>ibc-73761</dc:identifier>
+<dc:title xml:lang="es">Utilidad diagnóstica y variabilidad interobservador del sistema BI-RADS-ecografía</dc:title>
+<dc:subject>^d29304^s22074</dc:subject>
+<dc:subject>^d31270^s29166</dc:subject>
+<dc:subject>^d29304^s22083</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d31473^s29166</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d24807</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d31593^s29166</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d29304^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200910</dc:date>
+</metadata>
+</record>
+</ibecs-document>

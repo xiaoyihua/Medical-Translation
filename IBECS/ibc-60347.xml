@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-60347</identifier>
+<setSpec>0001-7310</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Electronic medical history: Experience in a dermatology departament</dc:title>
+<dc:description xml:lang="en">Computerization, with a change from paper to electronic format, represents an alternative to traditional information management. This model offers advantages in legibility, uniformity, accessibility, and use of the data. However, it is not easy to apply this process to clinical practice as it requires a suitable network, continuous application development, an implementation strategy, and the cooperation of all staff involved. We have reviewed our experience in the development and introduction of electronic health records and their adaptation to a pioneer dermatology department in Spain. Since our hospital was opened 1998, the model used is that of a single, centralized electronic health record, with supplementary departmental attributes. The electronic health record is conceived as an interactive database designed around the patient, with a procedure-based structure, and that obviates the need for hardcopies (paper or films) in practically all situations; it must comply with legal requirements. The system is installed on central servers maintained by the information technology department. The potential is unlimited; particularly important possibilities include clinical guideline-directed care, remote connection for general practitioners, and online activity, stock, and quality management. With the aim of realizing this potential, a technological change was started in 2003, moving towards what was to become the chosen system in the Community of Madrid to cope with the workload arising from new hospitals (AU)</dc:description>
+<dc:creator>López-Estebaranz, JL</dc:creator>
+<dc:creator>Castilla-Castellano, V</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La informatización consiste básicamente en una alternativa a la gestión clásica de la información, pasando del soporte en papel al electrónico. Este modelo aporta ventajas en la legibilidad, uniformidad, accesibilidad y explotación de los datos. Sin embargo, no es sencillo aplicar este proceso a la práctica clínica, pues requiere un adecuado soporte de equipos en red, el desarrollo continuo de las aplicaciones, una estrategia de implantación y la colaboración de todo el personal implicado. Revisamos nuestra experiencia en el desarrollo e implantación de una historia clínica (HC) en formato electrónico y su adaptación a un Servicio de Dermatología pionero en España. El modelo elegido en nuestro hospital desde su apertura en 1998 fue el de historia única centralizada electrónica de uso común (HCE) que se complementa con aplicaciones departamentales. La HCE se concibe como una base de datos relacional, centrada en el paciente y estructurada por procesos, que cumple los requisitos legales y permite prescindir del soporte físico (papel o placa) en la práctica totalidad de las situaciones. El sistema funciona en los servidores centrales bajo el mantenimiento del departamento de sistemas de información. Las potencialidades son ilimitadas, destacando: asistencia por guías de actuación clínica, conexión remota con Atención Primaria, gestión on-line de actividad, consumos y estándares de calidad. Buscando alcanzar estas potencialidades en 2003 se inició un cambio tecnológico hacia lo que después sería el sistema elegido en la Comunidad de Madrid para soportar el trabajo de los nuevos hospitales (AU)</dc:description>
+<dc:source>Actas Dermosifiliogr;100(5): 374-385, jun.-jul. 2009. tab, ilus</dc:source>
+<dc:identifier>ibc-60347</dc:identifier>
+<dc:title xml:lang="es">Historia clínica en soporte electrónico: experiencia de un servicio de Dermatología</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d8667^s22066</dc:subject>
+<dc:subject>^d8664^s22066</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d17140</dc:subject>
+<dc:subject>^d33196</dc:subject>
+<dc:subject>^d29040^s22049</dc:subject>
+<dc:subject>^d22347^s22045</dc:subject>
+<dc:subject>^d36354</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200907</dc:date>
+</metadata>
+</record>
+</ibecs-document>

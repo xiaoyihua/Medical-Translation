@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-039044</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Fisher´s transformation to determine confidence intervals for Pearson´s product-moment correlation coefficient</dc:title>
+<dc:description xml:lang="en">In this study we test the accuracy of Fisher&#146;s Z transformation for estimating confidence intervals for Pearson&#146;s product-moment correlation coefficient with several correlation values and sample sizes and under several conditions of normality and non normality of residuals. In conclusion, under normality of residuals and given a sufficiently large number of subjects, the determination of confidence intervals by means of such transformation is adequate</dc:description>
+<dc:creator>Sánchez-Bruno, Alfonso</dc:creator>
+<dc:creator>Borges del Rosal, África</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En el presente trabajo se pone a prueba la bondad de la transformación Z de Fisher para la estimación de intervalos de confianza para el coeficiente de correlación de Pearson con distintos valores de éste y tamaños muestrales y en condiciones de normalidad y no normalidad de los residuos. Se concluye que, asegurando la normalidad de los residuos y dado un número suficiente de sujetos, la determinación de los intervalos de confianza mediante dicha transformación resulta adecuada</dc:description>
+<dc:source>Psicothema (Oviedo);17(1): 148-153, feb. 2005. graf</dc:source>
+<dc:identifier>ibc-039044</dc:identifier>
+<dc:title xml:lang="es">Transformación Z de Fisher para la determinación de intervalos de confianza del coeficiente de correlación de Pearson</dc:title>
+<dc:subject>^d16136</dc:subject>
+<dc:subject>^d32016</dc:subject>
+<dc:subject>^d28613</dc:subject>
+<dc:subject>^d28640^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200502</dc:date>
+</metadata>
+</record>
+</ibecs-document>

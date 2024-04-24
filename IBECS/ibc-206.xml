@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-206</identifier>
+<setSpec>0212-7199</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Diagnosis of hemochromatosis by imaging resonance</dc:title>
+<dc:creator>Larrubia, J. R</dc:creator>
+<dc:creator>Méndez R</dc:creator>
+<dc:creator>Mendoza, J. L</dc:creator>
+<dc:creator>Ruiz de León, A</dc:creator>
+<dc:creator>Díaz-Rubio, M</dc:creator>
+<dc:creator>Pérez de la Sern, J.A</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Arán Ediciones, S.A.</dc:publisher>
+<dc:description xml:lang="es">La hemocromatosis se caracteriza por una sobrecarga parenquimatosa de hierro. El diagnóstico se basa en la clínica, hallazgos analíticos y en la concentración de hierro hepático. La resonancia magnética (RM) hepática muestra un descenso en la intensidad de señal. El valor aislado de este dato no ha sido aún claramente definido. Sin embargo, la razón entre las intensidades de señal hepática y del músculo paraespinal en densidad protónica (LD) muestra una excelente correlación con el hierro hepático. Un paciente con una cirrosis hepática de larga evolución, con datos sugerentes de hemocromatosis cuyo estudio de coagulación no permitía realizar la biopsia hepática fue diagnosticado con este método. Se realizó una RM hepática y se calculó la concentración de hierro mediante la ecuación: mg/g de hierro hepático = (-5174*LMPD)+9.932. La RM puede ser útil en la evaluación de pacientes con posible hemocromatosis que rechacen la biopsia hepática o tengan contraindicada su relización (AU)</dc:description>
+<dc:source>An Med Interna;17(8): 419-421, ago. 2000. ilus</dc:source>
+<dc:identifier>ibc-206</dc:identifier>
+<dc:title xml:lang="es">Diagnóstico de la hemocromatosis por resonancia magnética</dc:title>
+<dc:subject>^d22935</dc:subject>
+<dc:subject>^d6582^s22016</dc:subject>
+<dc:subject>^d8281^s22016</dc:subject>
+<dc:subject>^d21012</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d8281</dc:subject>
+<dc:subject>^d6582</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200008</dc:date>
+</metadata>
+</record>
+</ibecs-document>

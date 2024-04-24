@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-26212</identifier>
+<setSpec>1699-8855</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Can we expect an XML-based open standard for databases in Pathology?</dc:title>
+<dc:creator>Coma del Corral, M. JesÀs</dc:creator>
+<dc:creator>Sánchez-Ramos, Miguel</dc:creator>
+<dc:creator>Moro-Rodríguez, Ernesto</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Sociedad Española de Anatomía Patológica</dc:publisher>
+<dc:description xml:lang="es">XML es un nuevo estándar de almacenamiento semiestructurado en el que, a diferencia del HTML, se pueden definir etiquetas o marcas personales por medio de una DTD (las Definiciones de Tipo de Documento o Restricciones de Domino) o mediante el uso de Schema. En los últimos años ha proliferado su uso como formato eficaz de almacenamiento e intercambio de datos dada su gran flexibilidad para poder representar diferentes clases de información. Para acceder a ésta información, extraerla y manipularla se han desarrollado también de forma paralela distintos lenguajes de consulta para XML como pueden ser: Xquery, Xpath, XQL, XML-QL y otros.Responsabilidad última del patólogo es la producción y gestión de informes bajo los niveles adecuados de calidad, rapidez, fiabilidad y confidencialidad en base a adecuados medios de calidad e información. Para dar respuesta acertada a éstas obligaciones pensamos que en la actualidad existen soluciones entre las que se encontraría la de desarrollar un estándar de consenso en XML que pudiera servir para interconectar distintos gestores de bases de datos de patología con el que fueran posible, al menos, intercambiar un conjunto mínimo de datos al estilo del espíritu de los proyecto SIGNO pero desde la perspectiva actual que nos dan los tiempos (AU)</dc:description>
+<dc:source>Rev. esp. patol;36(3): 293-299, jul. 2003. ilus</dc:source>
+<dc:identifier>ibc-26212</dc:identifier>
+<dc:title xml:lang="es">¿Es posible un estándar abierto tipo XML para las bases de datos de Patología?</dc:title>
+<dc:subject>^d10530^s22066</dc:subject>
+<dc:subject>^d19303</dc:subject>
+<dc:subject>^d33619^s22066</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d10572</dc:subject>
+<dc:subject>^d19243^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200307</dc:date>
+</metadata>
+</record>
+</ibecs-document>

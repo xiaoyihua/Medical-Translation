@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-79007</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">PET/CT: protocol aspects and legal controversies</dc:title>
+<dc:description xml:lang="en">The combination of positron emission tomography (PET) and computed tomography (CT) in a single scanner (PET/CT) allows anatomic and metabolic images to be fused and correlated with a high degree of accuracy; this represents a very important landmark in the history of medicine and especially in the area of diagnostic imaging. Nevertheless, the implementation, startup, and operation of a PET/CT scanner presents particularly interesting challenges, because it involves the integration of two well-established and consolidated techniques (CT and PET, which provide complementary information) that have traditionally been carried out in the context of two different specialties (radiology and nuclear medicine). The rapid diffusion of this new integrated technology raises a series of questions related to the optimal protocols for image acquisition, the supervision of the examinations, image interpretation, and reporting, as well as questions related to the legal competence and responsibility of the specialists involved in a PET/CT study. The objective of this article is to approach these aspects from a constructive perspective and to stimulate the dialog between the specialties of radiology and nuclear medicine, with the aim of maximizing the diagnostic potential of PET/CT and thus of providing better care for patients (AU)</dc:description>
+<dc:creator>Jover Díaz, R</dc:creator>
+<dc:creator>Lourido García, D</dc:creator>
+<dc:creator>García Poza, J</dc:creator>
+<dc:creator>Gorospe Sarasúa, L</dc:creator>
+<dc:creator>Vicente Bártulos, A</dc:creator>
+<dc:creator>González Gordaliza, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La combinación de una tomografía por emisión de positrones (PET) y de una tomografía computarizada (TC) en un único equipo (PET/TC) permite fusionar y correlacionar con un elevado grado de precisión imágenes anatómicas y metabólicas, y ha supuesto un hito reciente muy importante en la historia de la Medicina, y especialmente en el área del diagnóstico por la imagen. No obstante, la implementación, puesta en marcha y desarrollo de un equipo de PET/TC presenta desafíos particularmente interesantes, ya que supone la integración de dos técnicas diagnósticas reconocidas y consolidadas (la TC y la PET, que proporcionan información complementaria), pero que se han desarrollado tradicionalmente al amparo de dos especialidades diferentes (Radiología y Medicina Nuclear). La rápida difusión de esta nueva tecnología integrada plantea una serie de cuestiones relacionadas con los protocolos óptimos de adquisición de las imágenes, supervisión de los estudios, interpretación de las mismas, elaboración de informes y, especialmente, con la competencia y responsabilidad de los especialistas responsables de un estudio de PET/TC. El objetivo de este artículo es abordar estos aspectos desde una perspectiva constructiva, y estimular el diálogo entre las especialidades de Radiología y Medicina Nuclear, en un intento de maximizar el potencial diagnóstico de la PET/TC y así ofrecer una mejor atención a los pacientes (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);50(3): 207-214, mayo 2008. ilus</dc:source>
+<dc:identifier>ibc-79007</dc:identifier>
+<dc:title xml:lang="es">PET/TC: aspectos de protocolo y controversias legales</dc:title>
+<dc:subject>^d13034^s22066</dc:subject>
+<dc:subject>^d24339^s22045</dc:subject>
+<dc:subject>^d13034^s22045</dc:subject>
+<dc:subject>^d24339^s22048</dc:subject>
+<dc:subject>^d27977</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9871^s22048</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d38793^s22039</dc:subject>
+<dc:subject>^d38793^s22074</dc:subject>
+<dc:subject>^d38793^s22066</dc:subject>
+<dc:subject>^d38793^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200805</dc:date>
+</metadata>
+</record>
+</ibecs-document>

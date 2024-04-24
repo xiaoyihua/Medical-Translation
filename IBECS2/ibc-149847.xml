@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-149847</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">An economic evaluation of two interventions for the prevention of post-surgical infections in cardiac surgery</dc:title>
+<dc:creator>Espín Balbino, J</dc:creator>
+<dc:creator>Orly de Labry Lima, A</dc:creator>
+<dc:creator>Diego Salas, J del</dc:creator>
+<dc:creator>Bermúdez Tamayo, C</dc:creator>
+<dc:creator>Fernández-Crehuet Navajas, J</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objetivo. Realizar un análisis de coste-efectividad que compare dos protocolos profilácticos para el tratamiento de infecciones posquirúrgicas en cirugía cardíaca. Métodos. El análisis de coste-efectividad se llevó a cabo mediante un árbol de decisiones para comparar dos protocolos sobre profilaxis de infecciones posquirúrgicas (en el protocolo A, los pacientes con resultado positivo por colonización de Staphylococcus aureus resistente a la meticilina (SARM) recibieron mupirocina (dos veces al día durante 2 semanas) sin verificación de seguimiento. Aquéllos con resultado negativo no recibieron profilaxis. En el protocolo B, todos los pacientes recibieron el tratamiento con mupirocina). La medida de la efectividad fue el número de infecciones posquirúrgicas que se habían evitado a los 30 días desde la perspectiva del sistema de salud. La incidencia de infecciones y complicaciones se obtuvo a partir de dos cohortes de pacientes a quienes se practicó cirugía cardíaca. Algunos expertos validaron los tiempos de aplicación de los dos protocolos. Los costes se calcularon a partir del sistema de contabilidad analítica del hospital y el Servicio de Farmacia. Sólo se tuvieron en cuenta los costes directos y no se aplicaron tasas de descuento. Se calculó la relación de coste-efectividad incremental (ICER) y se realizó un análisis de sensibilidad probabilístico. Resultados. se incluyó a 1.118 pacientes (721 en el protocolo A y 397 en el protocolo B). No hubo diferencias estadísticamente significativas en cuanto a edad, sexo, diabetes, muerte o duración de la estancia hospitalaria entre los dos protocolos. En el grupo control, la tasa de infección alcanzó el 15,3% y el 11,3% en el grupo de intervención. El protocolo B ha demostrado ser más eficaz y con menor coste, pues se ha obtenido un ICER de 32.506&#128;. Conclusión. la profilaxis universal con mupirocina frente a infecciones en el sitio quirúrgico (SSI) en cirugía cardíaca se muestra como una estrategia dominante ya que muestra menor incidencia de infecciones y un ahorro de costes que la estrategia para tratar selectivamente a los pacientes de acuerdo con los resultados obtenidos en la prueba de cribado previa (AU)</dc:description>
+<dc:source>Rev. calid. asist;31(1): 27-33, ene.-feb. 2016. tab, ilus</dc:source>
+<dc:identifier>ibc-149847</dc:identifier>
+<dc:title xml:lang="es">Evaluación económica de dos intervenciones de prevención de infecciones posquirúrgicas en cirugía cardíaca</dc:title>
+<dc:subject>^d14290^s22048</dc:subject>
+<dc:subject>^d28477^s22012</dc:subject>
+<dc:subject>^d14290^s22045</dc:subject>
+<dc:subject>^d29953</dc:subject>
+<dc:subject>^d28477^s22044</dc:subject>
+<dc:subject>^d31403^s22074</dc:subject>
+<dc:subject>^d28477^s22053</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d31403^s22011</dc:subject>
+<dc:subject>^d31403^s22066</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d29953^s22000</dc:subject>
+<dc:subject>^d29953^s22044</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d28477^s22016</dc:subject>
+<dc:subject>^d29953^s22078</dc:subject>
+<dc:subject>^d31403^s22048</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d3942^s22033</dc:subject>
+<dc:subject>^d3942^s22044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201602</dc:date>
+</metadata>
+</record>
+</ibecs-document>

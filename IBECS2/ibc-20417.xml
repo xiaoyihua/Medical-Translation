@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-20417</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Functional anatomy of the basal ganglia</dc:title>
+<dc:creator>Cammarota, A</dc:creator>
+<dc:creator>Merello, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>César Viguera</dc:publisher>
+<dc:description xml:lang="es">Introducción. La corteza cerebral de los mamíferos se encuentra masivamente interconectada con los ganglios basales. La manera en que los ganglios basales procesan la información se ha aceptado, desde su descripción en los años 80. Se trata de un modelo no definitivo, con numerosos puntos aún por aclarar. Desarrollo. El núcleo estriado (EST) constituye la entrada al circuito de los ganglios basales (GB) y recibe numerosas aferencias de la corteza cerebral. A su vez, el segmento interno del globo pálido (GPi) y la substancia nigra pars reticulata (SNpr) representan los principales núcleos de salida del circuito las cuales ejercen una influencia inhibitoria sobre las neuronas premotoras de la lamina ventral del tálamo. Entre el núcleo de entrada y las estructuras de salida existen dos sistemas paralelos de proyección denominados vía directa y vía indirecta. La vía directa proyecta monosinápticamente sobre el complejo GPi/SNpr. La vía indirecta proyecta polisinápticamente sobre el complejo GPi/SNpr, pasando previamente por el segmento externo del globo pálido (GPe) y núcleo subtalámico. El desequilibrio en la activación de ambos circuitos produciría alteraciones en la descarga del complejo GPi/SNpr, que darían lugar a la aparición de bradicinecia o hipercinesia. La bradicinecia o acinesia se produciría por la inhibición gabérgica aumentada de las neuronas premotoras talámicas resultantes de una excesiva descarga del complejo GPi/SNpr. Conclusión. La exploración actual de la electrofisiología de los ganglios basales y el cuidadoso análisis del resultado clínico de lesiones circunscritas a determinadas porciones del tálamo, subtálamo y globo pálido interno en pacientes con la enfermedades Parkinson ha dado lugar a la aparición de efectos que serían paradójicos, según el modelo actual de los ganglios basales (AU)</dc:description>
+<dc:source>Rev Neurol;30(11): 1055-1060, jun. 2000.</dc:source>
+<dc:identifier>ibc-20417</dc:identifier>
+<dc:title xml:lang="es">Anatomía funcional de los ganglios basales</dc:title>
+<dc:subject>^d1501</dc:subject>
+<dc:subject>^d6059</dc:subject>
+<dc:subject>^d9667</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3358</dc:subject>
+<dc:subject>^d9627</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200006</dc:date>
+</metadata>
+</record>
+</ibecs-document>

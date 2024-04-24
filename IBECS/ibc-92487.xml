@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-92487</identifier>
+<setSpec>0001-6519</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Stopping criteria for averaging the multiple auditory steady-state response</dc:title>
+<dc:description xml:lang="en">Introduction and objectives: The aim of this study was to examine the efficiency of the averaging technique for estimating multiple auditory steady state responses in normal hearing subjects and to provide quantifiable stopping criteria at near-threshold intensities. Methods: Multiple amplitude-modulated (89-115 Hz) tones (500, 1,000, 2,000 and 4,000 Hz) were simultaneously presented to both ears at a fixed intensity of 40 dB HL. A total of 128 data epochs were averaged (23.9 minutes).Results: The results showed that &#145;&#145;classic&#146;&#146; ensemble averaging, although accurate and time efficient in most cases, could not extract all near-threshold MSSR from noise, even after recording a considerable number of sweeps. The present study also proposed a different approach to evaluate the background noise based on evaluating the mean of the variance close to the signal. Conclusions: The study proposed quantitative parameters to establish stopping criteria during auditory steady-state recordings (AU)</dc:description>
+<dc:creator>Pérez Abalo, María C</dc:creator>
+<dc:creator>Rioja Rodríguez, Lilliam</dc:creator>
+<dc:creator>Eimil Suarez, Eduardo</dc:creator>
+<dc:creator>Sotero Díaz, Roberto C</dc:creator>
+<dc:creator>Rodríguez Dávila, Ernesto</dc:creator>
+<dc:creator>Torres Fortuny, Alejandro</dc:creator>
+<dc:creator>Galán García, Lidice</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos: El presente estudio pretende examinar la eficiencia de la técnica de promediación para obtener potenciales evocados auditivos de estado estable en sujetos normoyentes y proveer de un criterio de parada cuantitativo a intensidades cercanas al umbral de audibilidad. Métodos: Una mezcla de 4 tonos continuos (500, 1.000, 2.000 y 4.000 Hz) modulados en amplitud entre 89 y 115 Hz, fueron simultáneamente presentados a ambos oídos a una intensidad de 40 dB HL. Fueron promediados un total de 128 segmentos de registro (23,9 min). Resultados: La técnica de promediación aunque resultó eficiente en la mayoría de los casos, no siempre pudo extraer la señal, incluso después de promediarse durante un período prolongado de tiempo. Se propuso además un análisis del ruido de fondo basado en la evaluación de la varianza del ruido en la vecindad de la señal. Conclusiones: Se proponen parámetros cuantificables para ayudar a establecer un criterio deparada de la promediación durante el registro de los potenciales evocados auditivos de estado estable (AU)</dc:description>
+<dc:source>Acta Otorrinolaringol Esp;62(3): 173-180, mayo-jun. 2011. tab, ilus, graf</dc:source>
+<dc:identifier>ibc-92487</dc:identifier>
+<dc:title xml:lang="es">Criterio de parada de la promediación de la respuesta auditiva de estado estable</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d1306^s22045</dc:subject>
+<dc:subject>^d1315</dc:subject>
+<dc:subject>^d1305^s22045</dc:subject>
+<dc:subject>^d168</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12437</dc:subject>
+<dc:subject>^d53386</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d5169^s22031</dc:subject>
+<dc:subject>^d9808</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201106</dc:date>
+</metadata>
+</record>
+</ibecs-document>

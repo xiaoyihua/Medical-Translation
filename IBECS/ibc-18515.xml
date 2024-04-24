@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-18515</identifier>
+<setSpec>0210-1637</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">A canine-retraction spring in multistrand wire</dc:title>
+<dc:creator>Ferre Cabrero, F</dc:creator>
+<dc:creator>Navarro Garcia, M. J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Se presenta un nuevo seccional de cierre realizado en alambre de acero trenzado de sección rectangular de 0,016 × 0,022 pulgadas y con un asa en 'T'. Se expone el sistema de fuerzas que se necesita para que se consiga traslación pura o inclinación controlada de un canino y las características que debe reunir un seccional de cierre para llevar a cabo dicho movimiento. Se analizó el seccional en un dispositivo en el que se mantenía una distancia interbracket de 12 mm. Se realizaron activaciones entre 0,0 y 5,0 mm, aumentándose 0,5 mm cada activación. En nueve seccionales se midió la fuerza con cada activación y se calcularon los momentos antiinclinación. En otros nueve seccionales se calcularon los momentos antirrotación con cada activación. Se obtuvieron las medias y las desviaciones estándar, siendo estas últimas inferiores a un 12,6 por ciento de la media en todos los casos. La relación fuerza-deformación es aproximadamente lineal, siendo la fuerza de 114 gm cuando la activación es de 5,0 mm. Los momentos antiinclinación disminuyen desde 678 gm-mm a 5,0 mm de activación hasta 391 gm-mm a 0,0 mm de activación. La relación momento/fuerza antiinclinación es mayor de 10:1 mm hasta 2 mm de activación. Los momentos antirrotación disminuyen desde 356 gm-mm a 5,0 mm de activación hasta 190 gm-mm en la posición neutra (0,0 mm de activación). La relación momento/ fuerza antirrotación es mayor de 4:1 mm hasta 2,5 mm de activación. Estos resultados indican que este seccional desarrolla fuerzas de menos intensidad que los seccionales preexistentes. También que con activaciones de 3 mm desarrolla las relaciones momento/fuerza antiinclinación y antirrotación necesarias para producir un movimiento inicial de inclinación y rotación controladas, seguido de traslación y enderezamiento y desrotación del canino una vez que el seccional se ha desactivado 1,5 mm aproximadamente. Se expone la aplicación del seccional de cierre para el desplazamiento hacia distal de caninos o de premolares dentro de un tratamiento ortodóncico con extracciones, y se muestran dos casos clínicos (AU)</dc:description>
+<dc:source>Ortod. esp. (Ed. impr.);41(1): 72-86, mar. 2001. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-18515</dc:identifier>
+<dc:title xml:lang="es">Seccional de cierre de alambre trenzado</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d1721</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d33131^s22045</dc:subject>
+<dc:subject>^d10147</dc:subject>
+<dc:subject>^d21012</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d8483^s22061</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200103</dc:date>
+</metadata>
+</record>
+</ibecs-document>

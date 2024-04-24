@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-154542</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Medication reconciliation at hospital admission: results and identification of target patients</dc:title>
+<dc:description xml:lang="en">Objective. To quantify and to classify the discrepancies between the admission treatment and the usual patient treatment. To determine the variables that predict those patients that will have more benefit from medication reconciliation. Material and methods. A prospective medication reconciliation study was conducted in the Vascular Surgery Unit from March 2014 to December 2014. When the patients were admitted to the Vascular Surgery Unit, they were informed about the study and asked to prepare information about their chronic treatment. The pharmacist then checked their clinical records, outpatient prescriptions, and also interviewed the patient, obtaining the best pharmacotherapeutic history available. The discrepancies with the admission treatment were written into the patient electronic clinical records. Finally, the physician classified the discrepancies, and changed the treatment, if needed. The statistical analysis included a comparison between patients with and without a non-justified discrepancy (NJD). The statistically different characteristics were used to plot Receiver Operating Characteristic curves, in order to determine the sensitivity and the specificity of these variables to select patients with discrepancies. Results. A total of 380 patients were included. There were 845 non-justified, 600 justified non-documented, and 439 justified documented discrepancies. At least one NJD was identified in 293 patients (77%), with 65 patients (17%) having only justified discrepancies, and 22 patients (6%) having no discrepancies. NJD were: different dose, route or schedule (51%), omission (39%), wrong drug (8%) and commission (2%). The variables associated with discrepancies were number of chronic medications drugs and provider of information. Conclusions. In most studies, omission is the most frequent error. In contrast, in our study the most frequent error is different dose, route, or schedule. The variable that allows selecting patients at higher risk of discrepancies is the number of chronic drugs. This risk is also increased if the patients are not the manager of their own medication (AU)</dc:description>
+<dc:creator>Sebastián Leza, A</dc:creator>
+<dc:creator>López-Giménez, LR</dc:creator>
+<dc:creator>Baza Martínez, B</dc:creator>
+<dc:creator>San José Ruiz, B</dc:creator>
+<dc:creator>Serrano De Lucas, L</dc:creator>
+<dc:creator>Miguel Cascon, M de</dc:creator>
+<dc:creator>Sautua Larreategi, S</dc:creator>
+<dc:creator>Fonseca Legrand, JL</dc:creator>
+<dc:creator>Bustinza Txertudi, A</dc:creator>
+<dc:creator>Chirivella Ramón, MT</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Identificar y cuantificar las discrepancias entre el tratamiento prescrito al ingreso hospitalario y el tratamiento crónico del paciente. Identificar variables que puedan utilizarse en la selección de los pacientes más susceptibles de beneficiarse de un programa de conciliación de la medicación. Material y métodos. Se diseñó un estudio prospectivo de conciliación de la medicación al ingreso hospitalario en el servicio de cirugía vascular y angiología de marzo a diciembre de 2014. Al ingreso el personal de enfermería informaba al paciente del estudio y le solicitaban que recopilara información sobre su tratamiento crónico. Posteriormente, el personal farmacéutico revisaba el historial clínico, las prescripciones crónicas y entrevistaba al paciente para obtener la mejor historia farmacoterapéutica posible. Ésta se comparaba con la prescripción realizada al ingreso y las discrepancias se registraban en el evolutivo clínico. Finalmente, el personal médico clasificaba las discrepancias y modificaba la prescripción en caso necesario. Se compararon las características de los pacientes con y sin discrepancias no justificadas (DNJ) y se construyeron las curvas de característica operativa del receptor de aquellas con diferencias estadísticamente significativas, para determinar su sensibilidad y especificidad para seleccionar pacientes con DNJ. Resultados. Se incluyeron 380 pacientes, registrándose 845 DNJ, 600 justificadas no documentadas y 439 justificadas documentadas. Doscientos noventa y tres pacientes tuvieron al menos una DNJ (77%), 65 solo justificadas (17%) y 22 ninguna (6%). Las DNJ fueron: diferente dosis, vía o frecuencia (51%), omisión (39%), medicamento equivocado (8%) y comisión (2%). Las variables relacionadas con las discrepancias fueron número de medicamentos habituales y quién facilitaba la información. Conclusiones. En la mayoría de estudios la DNJ mayoritaria es la omisión, a diferencia de lo que ocurre en nuestro caso. La variable que permite seleccionar pacientes con mayor riesgo de presentar discrepancias es el número de medicamentos habituales. También aumenta el riesgo de sufrir DNJ cuando no es el propio paciente el que conoce y gestiona su tratamiento crónico (AU)</dc:description>
+<dc:source>Rev. calid. asist;31(supl.1): 36-44, jun. 2016. tab, ilus, graf</dc:source>
+<dc:identifier>ibc-154542</dc:identifier>
+<dc:title xml:lang="es">Conciliación de la medicación al ingreso: resultados e identificación de pacientes diana</dc:title>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d54220^s22074</dc:subject>
+<dc:subject>^d6916</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d54220^s22049</dc:subject>
+<dc:subject>^d54220^s22048</dc:subject>
+<dc:subject>^d54220^s22045</dc:subject>
+<dc:subject>^d54220^s22066</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d10221^s22049</dc:subject>
+<dc:subject>^d10221^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201606</dc:date>
+</metadata>
+</record>
+</ibecs-document>

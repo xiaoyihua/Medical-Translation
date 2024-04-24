@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-86187</identifier>
+<setSpec>0014-2565</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Place of death in Andalusia: influence of age, gender and cause of death</dc:title>
+<dc:description xml:lang="en">Aim. To know the place of death and its relationship to age, gender and causes of death. Material and methods. A cross-sectional analysis of national population data using 31,463 deaths derived from Official Statistics on Mortality in Andalusia for the year 2009 was carried out. The variables studied were place of death (hospital, home or care home), age, gender and cause of mortality. Odds ratio adjusted by gender, age and cause of mortality using a multinomial logistic regression model. Place of death was chosen as dependent variable and age, gender and cause of death as independent ones. Results. The place of death was hospital (61%), home (31%) and care home (8%). The higher the age, the higher the percentage of deaths at home and especially in care homes. Results. Deaths in care homes are related to age (OR: 1,054; 95%CI: 1,049-1,059) and central nervous system (OR: 2,221; 95%CI: 1,826-2,071) and endocrine diseases (OR: 1,391; 95%CI: 1,141-1,697). Results. There is a lower likelihood of dying at home due to digestive diseases (OR: 0,272; 95%CI: 0.23-0.32), genitourinary diseases (OR: 0.54; 95%CI: 0.44-0.65) and respiratory diseases (OR: 0.73; 95%CI: 0.64-0.82). Conclusions. Most Andalusians die in the hospital and increasing age has been found to be associated with higher probability of dying at home or in care homes. There are differences between death causes regarding place of death(AU)</dc:description>
+<dc:creator>García-León, f. Javier</dc:creator>
+<dc:creator>Méndez-Martínez, C</dc:creator>
+<dc:creator>Ruiz-Ramos, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Conocer el lugar de la muerte y su relación con la edad, sexo y causas de defunción. Material y método. Estudio transversal de base poblacional a partir de 31.463 defunciones procedentes de las estadísticas oficiales de mortalidad de Andalucía en el año 2009. Las variables estudiadas han sido: lugar donde ocurrió la muerte (hospital, domicilio o residencia socio-sanitaria), edad, sexo y causa de mortalidad. Se han calculado las odds ratio ajustadas por edad, sexo y causa de defunción mediante un modelo de regresión logística multinomial. Como variable dependiente se ha usado el lugar de fallecimiento y como independiente la edad, sexo y causa. Resultados. El lugar de fallecimiento fue: hospital (61%), domicilio (31%) y residencia socio-sanitaria (8%). A mayor edad aumenta el porcentaje de fallecidos en el domicilio y especialmente en las residencias respecto al hospital. Resultados. Las muertes en residencia se asocian con la edad (OR: 1,054; intervalo de confianza [IC] del 95%, 1,049-1,059) y las enfermedades del sistema nervioso central (OR: 2,221; IC del 95%, 1,826-2,701) y endocrinas (OR: 1,391; IC del 95%, 1,141-1,697). Resultados. Hay una menor probabilidad de morir en domicilio por las enfermedades digestivas (OR: 0,272; IC del 95%, 0,23-0,32), genitourinarias(OR: 0,54; IC del 95%, 0,44-0,65) y respiratorias (OR: 0,73; IC del 95%, 0,64-0,82). Conclusiones. La mayoría de los andaluces mueren en el hospital y a medida que aumenta la edad se incrementa la posibilidad de morir fuera del mismo. Hay diferencias significativas en la causa de defunción según el lugar de fallecimiento(AU)</dc:description>
+<dc:source>Rev Clin Esp;211(3): 127-132, mar.2011. tab</dc:source>
+<dc:identifier>ibc-86187</dc:identifier>
+<dc:title xml:lang="es">El lugar de la muerte en Andalucía: influencia de la edad, sexo y causa de defunción</dc:title>
+<dc:subject>^d28632^s22066</dc:subject>
+<dc:subject>^d30047^s22066</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:subject>^d24811</dc:subject>
+<dc:subject>^d28403^s22083</dc:subject>
+<dc:subject>^d28637^s22066</dc:subject>
+<dc:subject>^d28632^s22083</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d5688^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201103</dc:date>
+</metadata>
+</record>
+</ibecs-document>

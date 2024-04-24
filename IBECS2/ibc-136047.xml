@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-136047</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The genetics of thrombosis in cancer</dc:title>
+<dc:description xml:lang="en">Venous thromboembolism (VTE) is a multifactorial and complex disease in which the interaction of genetic factors (estimated at 60%) and environmental factors (e.g., the use of oral contraceptives, pregnancy, immobility and cancer) determine the risk of thrombosis for each individual. In particular, the association between thrombosis and cancer is well established. Approximately 20% of patients with cancer develop a thromboembolic event over the course of the natural history of the tumor process, with thrombosis being the second leading cause of death for these patients. One of the greatest challenges currently facing the field of oncology is the identification of patients at high risk of VTE who can benefit from thromboprophylaxis. Currently, there is a VTE risk prediction model for patients with cancer (the Khorana risk score); however, its ability to identify patients at high risk is very low. It is important to note that this score, which is based on five clinical parameters, ignores the genetic variability associated with VTE risk. In this article, we present the preliminary results of the Oncothromb study, whose objective is to develop an individual VTE risk prediction model for patients with cancer who are treated with outpatient chemotherapy. Our model includes the clinical and genetic data on each patient (Thrombo inCode®genetic profile). Only by integrating multiple layers of biological information (clinical, plasmatic and genetic) we could obtain models that provide accurate information as to which patients are at high risk of developing a thromboembolic event associated with cancer so as to take appropriate prophylactic measures (AU)</dc:description>
+<dc:creator>Soria, José Manuel</dc:creator>
+<dc:creator>López, Sonia</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La ETE venosa (ETEV) es una enfermedad multifactorial y compleja, donde la interacción de factores genéticos (estimados en un 60%) y ambientales (uso de anticonceptivos orales, embarazo, inmovilización o cáncer, entre otros) determinan en cada sujeto el riesgo de trombosis. Concretamente, la asociación entre trombosis y cáncer está bien establecida, donde alrededor de un 20% de los pacientes oncológicos desarrollarán un episodio tromboembólico a lo largo de la historia natural del proceso tumoral, y la trombosis es la segunda causa de muerte en estos pacientes. En este sentido, uno de los grandes retos actuales en el campo de la oncología es identificar a los pacientes de alto riesgo de ETEV que se beneficiarían de tromboprofilaxis. Actualmente, hay un modelo de predicción de riesgo de ETEV en pacientes con cáncer (score de Khorana), cuya capacidad de identificar a los pacientes de alto riesgo es muy baja. Sin embargo, es importante destacar que este score, basado en 5 parámetros clínicos, ignora la variabilidad genética asociada al riesgo de ETEV. En este artículo se presentan los resultados preliminares del estudio Oncothromb, cuyo objetivo es desarrollar un modelo de predicción de riesgo individual de ETEV en pacientes con cáncer que reciben quimioterapia ambulatoria. Nuestro modelo incluye datos clínicos y genéticos de cada paciente (perfil genético Thrombo inCode®). Solo si se integran múltiples capas de información biológica (clínica, plasmática y genética) se podrá disponer de modelos que aporten información precisa de qué pacientes están en alto riesgo de desarrollar un episodio tromboembólico asociado a cáncer para tomar medidas profilácticas adecuadas (AU)</dc:description>
+<dc:source>Med. clín (Ed. impr.);144(supl.1): 26-30, ene. 2015. tab</dc:source>
+<dc:identifier>ibc-136047</dc:identifier>
+<dc:title xml:lang="es">Genética de la trombosis en el cáncer</dc:title>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d33939^s22045</dc:subject>
+<dc:subject>^d9562^s22012</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d33779</dc:subject>
+<dc:subject>^d14312^s22033</dc:subject>
+<dc:subject>^d53692^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d52618^s22033</dc:subject>
+<dc:subject>^d24411</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201501</dc:date>
+</metadata>
+</record>
+</ibecs-document>

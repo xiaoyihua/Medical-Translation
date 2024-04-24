@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-18189</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Assumptions and considerations for detecting differential item functioning in empirical data</dc:title>
+<dc:description xml:lang="en">This paper examined three of the most common assumptions in DIF analysis, and the consequences of their violation. First, the samples used for DIF analysis are statistically representative samples of the specified populations. Second, the vast majority of items in the test are valid items. Third, the cost of making a type I error is greater than the cost of making a type II error. As well, the implications that for empirical DIF studies show the statistical and practical significance, the characteristics of items and populations, and finally, the coherence between complementary techniques, were examined. In short, some cautions are offered regarding the use of statistical DIF analysis with empirical data (AU)</dc:description>
+<dc:creator>Fidalgo Aliste, Ángel</dc:creator>
+<dc:creator>Ferreres Traver, Doris</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En este artículo se analizan tres de los supuestos más comunes en los estudios sobre el funcionamiento diferencial de los ítems (DIF), y las consecuencias de su incumplimiento. Primero, que las muestras utilizadas para evaluar el DIF son muestras estadísticamente representativas de las poblaciones de interés. Segundo, que la mayor parte de los ítems que componen el test son ítems válidos. Tercero, que el coste de cometer un error de Tipo I es mayor que el coste de cometer un error de Tipo II. También se analizan las implicaciones que la significación estadística y práctica, las características de los ítems y de las poblaciones, y, finalmente, la concordancia entre los procedimientos de detección, tienen en los estudios empíricos sobre DIF: En resumen, se indican algunas precauciones que hay que tener presentes al analizar estadísticamente el DIF en datos empíricos (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);14(2): 491-496, mayo 2002. tab</dc:source>
+<dc:identifier>ibc-18189</dc:identifier>
+<dc:title xml:lang="es">Supuestos y consideraciones en los estudios empíricos sobre el funcionamiento diferencial de los ítems</dc:title>
+<dc:subject>^d24807</dc:subject>
+<dc:subject>^d37676^s22045</dc:subject>
+<dc:subject>^d24811</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200205</dc:date>
+</metadata>
+</record>
+</ibecs-document>

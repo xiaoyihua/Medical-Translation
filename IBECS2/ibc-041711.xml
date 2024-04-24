@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-041711</identifier>
+<setSpec>1575-3409</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Theoretical explanation of Wagner linearized model to predict dosage of drugs obeying simple Michaelis-Menten elimination kinetics</dc:title>
+<dc:description xml:lang="en">Wagner proposed an empiric method for adjustingthe dosage of drugs that obey Michaelis-Menten elimination kinetics.The purpose of the current study is twice: thetheoretical explanation of the Wagner methodand the application of a mixed effects log-linearmodel for the estimation of the phenytoin pharmacokineticparameter elements by using theWagner linear model. For this, we analyze byNONMEN program the data used by Wagnerand the data from 25 patients whom where seenin some neurologic clinics.In theory, we show that Wagner&#146;s S slopecoincides with the derivative with respect to theneperian dose logarithm of the Michaelis-Mentenequation.The pharmacokinetic parameters show higherinterindividual than intraindividual variabilityand a relatively stable S.The relationships found between Wagner&#146;sparameters I and S and Michaelis-Menten&#146;s parametersjustify the use of the empirical adjustmentproposed by this author</dc:description>
+<dc:creator>Hemández Pérez, M. A</dc:creator>
+<dc:creator>Calvo Malvar, M</dc:creator>
+<dc:creator>Évora García, C. M </dc:creator>
+<dc:creator>Llabrés Martínez, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Wagner propuso un método empírico para elajuste de dosis de fármacos con una cinéticade eliminación de Michaelis-Menten.El objetivo de este trabajo es doble; por unlado se desarrolla una justificación matemáticadel método empírico de Wagner y por otra partese aplica un modelo lineal de efectos mixtos,basado en el método de Wagner, para estimarlos parámetros farmacocinéticos de la fenitoína.Para estimar estos parámetros, se analizarondos muestras de pacientes mediante el programaNONMEN: por un lado la muestra de pacientesque utilizó Wagner en su estudio y porotro los datos de 25 pacientes pertenecientesa la Consulta Externa de Neurología de nuestroHospital.Teóricamente, demostramos que la pendienteS de Wagner coincide con la derivada conrespecto al logaritmo neperiano de la dosis dela ecuación de Michaelis-Menten.Los parámetros farmacocinéticos muestranuna mayor variabilidad interindividual que intraindividualy un valor relativamente establepara el parámetro S.La relación matemática encontrada entre losparámetros I y S de Wagner y los parámetrosde Michaelis-Menten justifica el ajuste empíricopropuesto por dicho autor</dc:description>
+<dc:source>Cienc. tecnol. pharm;15(4): 177-182, oct.-dic. 2005. ilus, tab</dc:source>
+<dc:identifier>ibc-041711</dc:identifier>
+<dc:title xml:lang="es">Justificación teórica del modelo lineal de Wagner para predecir la dosis de fármacos con cinética de eliminación de Michaelis-Menten</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d27231^s22078</dc:subject>
+<dc:subject>^d11387^s22031</dc:subject>
+<dc:subject>^d10867</dc:subject>
+<dc:subject>^d10867^s22065</dc:subject>
+<dc:subject>^d10867^s22000</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22960</dc:subject>
+<dc:subject>^d35025</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200510</dc:date>
+</metadata>
+</record>
+</ibecs-document>

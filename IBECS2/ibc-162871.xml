@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-162871</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Creation of a virtual antidotes network between pharmacy departments of catalan hospitals</dc:title>
+<dc:description xml:lang="en">Objective: To design a virtual antidote network between hospitals that could help to locate on-line those hospitals that stocked those antidotes with the highest difficulty in terms of availability, and ensured that the medication was loaned in case of necessity. Methods: The application was developed by four hospital pharmacists and two clinical toxicologists with the support of a Healthcare Informatics Consultant Company. Results: The antidotes network in Catalonia, Spain, was launched in July 2015. It can be accessed through the platform: www.xarxaantidots.org. The application has an open area with overall information about the project and the option to ask toxicological questions of non-urgent nature. The private area is divided into four sections: 1) Antidotes: data of interest about the 15 antidotes included in the network and their recommended stock depending on the complexity of the hospital, 2) Antidote stock management: virtual formulary, 3) Loans: location of antidotes through the on-line map application Google Maps, and virtual loan request, and 4) Documentation: As of June, 2016, 40 public and private hospitals have joined the network, from all four provinces of Catalonia, which have accessed the private area 2102 times, requested two loans of silibinin, one of hydroxocobalamin, three of antiophidic serum and three of botulism antitoxin. Thirteen toxicological consultations have been received. Conclusions: The implementation of this network improves the communication between centers that manage poisoned patients, adapts and standardizes the stock of antidotes in hospitals, speeds up loans if necessary, and improves the quality of care for poisoned patients (AU)</dc:description>
+<dc:creator>Nogué Xarau, Santiago</dc:creator>
+<dc:creator>Martínez Sánchez, Lidia</dc:creator>
+<dc:creator>Aguilar Salmerón, Raquel</dc:creator>
+<dc:creator>Broto Sumalla, Antoni</dc:creator>
+<dc:creator>Fernández de Gamarra-Martínez, Edurne</dc:creator>
+<dc:creator>García Peláez, Milagros</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objetivo: Diseñar una red virtual de antídotos entre hospitales que permitiese localizar, de forma online, en qué hospitales están ubicados los antídotos con mayor dificultad de disponibilidad y facilitase el préstamo de la medicación en caso de necesidad. Método: La aplicación fue desarrollada por cuatro farmacéuticos de hospital, dos toxicólogos clínicos y el soporte de una empresa informática. Resultados: La red de antídotos de Cataluña entró en funcionamiento en julio de 2015. Puede accederse a través de la plataforma: www.xarxaantidots.org. La aplicación consta de una zona abierta con información general del proyecto y la posibilidad de realizar consultas toxicológicas de carácter no urgente. La zona privada se divide en cuatro secciones: 1) Antídotos: datos de interés de los 15 antídotos en red y dotación recomendada en función de la complejidad del hospital, 2) Gestión del stock de antídotos: botiquines virtuales, 3) Préstamos: localización de antídotos mediante el servidor de aplicaciones de mapas en la web, Google Maps, y solicitud de préstamo virtual y 4) Documentación: Hasta junio de 2016 son 40 los hospitales públicos y privados de las cuatro provincias de Cataluña adheridos; se han registrado 2.102 accesos a la zona privada, solicitado dos préstamos de silibinina, uno de hidroxocobalamina, tres de suero antiofídico y tres de suero antibotulínico. Se han recibido 13 consultas toxicológicas. Conclusiones: La puesta en marcha de la red mejora la comunicación entre centros que atienden a pacientes intoxicados, adecua y homogeneiza la dotación de antídotos de los hospitales, agiliza los préstamos en caso necesario y aumenta la calidad de la atención a los pacientes intoxicados (AU)</dc:description>
+<dc:source>Farm Hosp;41(3): 317-333, mayo-jun. 2017. ilus, tab, mapas</dc:source>
+<dc:identifier>ibc-162871</dc:identifier>
+<dc:title xml:lang="es">Creación de una red virtual de antídotos entre los servicios de farmacia de los hospitales de Cataluña</dc:title>
+<dc:subject>^d10797^s22049</dc:subject>
+<dc:subject>^d11471^s22080</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d11471^s22057</dc:subject>
+<dc:subject>^d6904^s22049</dc:subject>
+<dc:subject>^d938^s22055</dc:subject>
+<dc:subject>^d19129^s22049</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201706</dc:date>
+</metadata>
+</record>
+</ibecs-document>

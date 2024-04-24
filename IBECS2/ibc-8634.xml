@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-8634</identifier>
+<setSpec>1699-8855</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Expert system in pathological anatomy: A common future for medicine</dc:title>
+<dc:creator>Aporta, R</dc:creator>
+<dc:creator>Esquivias, J. J</dc:creator>
+<dc:creator>Moreno, I</dc:creator>
+<dc:creator>Molina, M. A</dc:creator>
+<dc:creator>Chamorro, C</dc:creator>
+<dc:creator>García, J. R</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Sociedad Española de Anatomía Patológica</dc:publisher>
+<dc:description xml:lang="es">Objetivos: Crear un sistema experto que sea abierto y cuya base de conocimiento esté representada por imágenes y pueda ser utilizada como vehículo de información relevante. Material y métodos: Uno de los autores actuó como ingeniero del conocimiento. Con un ordenador Pentium 133 MHz y en Visual Basic se ha creado SARA (Sistema Abierto de Razonamiento Artificial). Para su elaboración se ha construido la aplicación SEADLINH (Sistema Experto de Ayuda al Diagnóstico de Linfomas No Hodgkin). Resultados: El sistema ofrece imágenes con las que comparar la arquitectura microscópica y el aspecto citológico del caso problema. La selección de distintas imágenes (patrones) lleva a un diagnóstico indicando la probabilidad de certeza. El sistema permite acceder a su base de conocimiento y modificarla. Admite información complementaria en forma de imágenes o texto. Conclusiones: Se ha creado un sistema experto (SARA) de tipo abierto, que está disponible para llenar de contenidos su base de datos y su base de conocimientos. Su calidad ulterior dependerá de los recursos que se empleen en su confección, abriendo el campo de acción de los patólogos (AU)</dc:description>
+<dc:source>Rev. esp. patol;34(3): 233-241, jul. 2001. ilus</dc:source>
+<dc:identifier>ibc-8634</dc:identifier>
+<dc:title xml:lang="es">Sistemas expertos en Anatomía Patológica: un futuro común para la Medicina</dc:title>
+<dc:subject>^d2990^s22045</dc:subject>
+<dc:subject>^d19243^s22019</dc:subject>
+<dc:subject>^d28640^s22045</dc:subject>
+<dc:subject>^d8398^s22016</dc:subject>
+<dc:subject>^d9508^s22066</dc:subject>
+<dc:subject>^d24535</dc:subject>
+<dc:subject>^d3980^s22074</dc:subject>
+<dc:subject>^d22347^s22045</dc:subject>
+<dc:subject>^d30481^s22066</dc:subject>
+<dc:subject>^d727^s22019</dc:subject>
+<dc:subject>^d10530^s22019</dc:subject>
+<dc:subject>^d19243^s22066</dc:subject>
+<dc:subject>^d10530^s22066</dc:subject>
+<dc:subject>^d10530^s22045</dc:subject>
+<dc:subject>^d22519^s22074</dc:subject>
+<dc:subject>^d28141</dc:subject>
+<dc:subject>^d3980^s22066</dc:subject>
+<dc:subject>^d30481^s22045</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d22519^s22055</dc:subject>
+<dc:subject>^d727^s22066</dc:subject>
+<dc:subject>^d9041^s22045</dc:subject>
+<dc:subject>^d727^s22045</dc:subject>
+<dc:subject>^d19243^s22039</dc:subject>
+<dc:subject>^d19164</dc:subject>
+<dc:subject>^d22729</dc:subject>
+<dc:subject>^d19145</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200107</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-129922</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Left ventricular systolic function: How to understand it and analyze it</dc:title>
+<dc:description xml:lang="en">In cardiac magnetic resonance imaging studies, left ventricular systolic function is usually calculated automatically. To understand and interpret parameters of left ventricular systolic function correctly, it is fundamental to understand how each parameter is obtained and why values obtained with different techniques, for example, ultrasonography and magnetic resonance imaging, can differ. This article provides details about the usual analysis of systolic function from the quantitative and qualitative points of view; it also explains other methods that do not require specific software. Moreover, we provide a file that we designed for use with Microsoft Excel® to enable simple, intuitive analysis of systolic function. Readers can use this file freely (AU)</dc:description>
+<dc:creator>Encinas de la Iglesia, J</dc:creator>
+<dc:creator>Franco López, A</dc:creator>
+<dc:creator>Fernández-Pérez, G. C</dc:creator>
+<dc:creator>Corral de la Calle, M. A</dc:creator>
+<dc:creator>García Fernández, M. A</dc:creator>
+<dc:creator>Velasco Casares, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En los estudios de resonancia magnética cardíaca, la función sistólica del ventrículo izquierdo suele calcularse automáticamente. Entender cómo se obtiene cada parámetro de la función y el por qué de las diferencias que pueden existir entre los valores obtenidos con dos técnicas, por ejemplo ecografía y resonancia magnética, es fundamental para comprenderlas e interpretarlas adecuadamente. En este artículo se detalla el análisis habitual de la función sistólica desde un punto de vista cuantitativo y cualitativo, y se explican otros métodos que no requieren un software específico. Hemos diseñado (y lo aportamos para que pueda usarse libremente) un fichero que, empleando el programa Microsoft Excel®, permite analizar la función sistólica sencilla e intuitivamente (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);56(6): 505-514, nov.-dic. 2014.</dc:source>
+<dc:identifier>ibc-129922</dc:identifier>
+<dc:title xml:lang="es">Función sistólica del ventrículo izquierdo: cómo comprenderla y analizarla</dc:title>
+<dc:subject>^d1821^s22022</dc:subject>
+<dc:subject>^d52634^s29166</dc:subject>
+<dc:subject>^d29150^s22022</dc:subject>
+<dc:subject>^d22935</dc:subject>
+<dc:subject>^d23405^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d13706^s22022</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201412</dc:date>
+</metadata>
+</record>
+</ibecs-document>

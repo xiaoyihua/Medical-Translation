@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-117387</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Economic evaluation of Thrombopoietin Receptor Agonists in the treatment of chronic Primary Immune Thrombocytopenia</dc:title>
+<dc:description xml:lang="en">Purpose: To develop a tool to assist the decision-making for selection of Thrombopoyetin Receptor Agonists of adult patients with chronic immune primary thrombocytopenia (PTI). Methods: Stochastic cost-effectiveness analysis with a 6-Health-States Markov model: stable, bleeding type 2, 3 or 4, post-type 4 bleeding and death. Each simulation analyzes a randomly generated scenario that describes patients characteristics, results measured in quality adjusted life years (QALYs) and costs (in &#128;2011). Distributions were obtained from the Spanish data of the European health survey of 2009, the INE estimate of population for 2011 and the 6-months clinical studies for Eltrombopag and Romiplostim. Utility values were obtained from the literature and the costs from Spanish official rates lists. A set of 10.000 random scenarios were generated and the patients evolution of each scenario was simulated during a time horizon of five years (in 2-weeks cycles). National Health System Perspective was used and the annual discount rate was set at 3%. Results: Eltrombopag showed more effectiveness in 9.983 scenarios and there was no difference in 17. In 7.048 scenarios the alternative Eltombopag was dominant. It was cost-effective in another 19 (threshold 30,000 &#128; /AVAC). Conclusions: Eltrombopag was the most cost-effective alternative in 70,67% of the simulated scenarios and its use could produce lower costs to the NHS (AU)</dc:description>
+<dc:creator>Ibáñez, J</dc:creator>
+<dc:creator>Parrondo, J</dc:creator>
+<dc:creator>Grande, C</dc:creator>
+<dc:creator>Palau, J</dc:creator>
+<dc:creator>Villa, G</dc:creator>
+<dc:creator>Páramo, J. A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Desarrollar una herramienta de apoyo a la decisión en la selección de agonistas del receptor de trombopoyetina en el tratamiento de pacientes adultos con trombocitopenia inmune primaria crónica (PTI) refractaria. Métodos: Análisis coste-efectividad estocástico con un modelo de Markov de seis estados: estable, sangrado tipo 2, 3 ó 4, postsangrado 4 y muerte. Cada simulación analiza un escenario aleatoriamente generado que describe las características del paciente, los resultados medidos en años de vida ajustados a calidad (AVACs) y los costes (en &#128;2011). Se obtuvieron distribuciones a partir de los datos para España de la Encuesta Europea de Salud de 2009, de la estimación de población para 2011 del INE, de los estudios a 6 meses de Eltrombopag y Romiplostim, de las utilidades obtenidas de la bibliografía y de las tarifas oficiales en España para procesos y actividad. Se generaron 10.000 escenarios aleatorios y se simuló la evolución de los pacientes de cada escenario durante un horizonte temporal de cinco años (ciclos de dos semanas). Perspectiva del Sistema Nacional de Salud (SNS). Tasa de descuento anual del 3% para costes y efectos. Resultados: En 9.983 escenarios Eltrombopag mostró mayor efectividad y en 17 no hubo diferencias. Eltombopag fue la alternativa dominante en 7.048 escenarios y la más coste efectiva en otros 19 (umbral 30.000 &#128;/AVAC). Conclusiones: Eltrombopag es la alternativa más coste-efectiva en el 70,67% de los escenarios simulados, por lo que su uso podría producir menores costes al SNS (AU)</dc:description>
+<dc:source>Farm Hosp;37(3): 182-191, mayo-jun. 2013. tab, ilus</dc:source>
+<dc:identifier>ibc-117387</dc:identifier>
+<dc:title xml:lang="es">Evaluación económica del tratamiento de la trombocitopenia inmune primaria crónica refractaria con agonistas del receptor de la trombopoyetina</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d52383^s32387</dc:subject>
+<dc:subject>^d14306^s22057</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30152^s22083</dc:subject>
+<dc:subject>^d51451</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201306</dc:date>
+</metadata>
+</record>
+</ibecs-document>

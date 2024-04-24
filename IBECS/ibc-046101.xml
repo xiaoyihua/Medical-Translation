@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-046101</identifier>
+<setSpec>0009-739X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Gastric cancer: probability assessment after lymph node-negative staging and its consequences</dc:title>
+<dc:description xml:lang="en">Objective. To provide an approach to calculating the probability of error after lymph node-negative staging in gastric cancer.  Patients and method. Retrospective data of 75 gastric resections for cancer were used to calculate the probability of error in general, according to T staging of the TNM classification (6th edition) and according to the type of lymphadenectomy performed. A modification of a procedure based on Bayes' theorem was used.                 Results. For all tumors, at least 11 negative lymph nodes were required to ensure a true pN0. Two lymph nodes were required for T1 tumors, 11 for T2 tumors, and 14 for T3 tumors. A greater number of lymph nodes were required for a D2 lymphadenectomy than for a D1 lymphadenectomy. However, in D2 lymphadenectomy, pN0 stages were almost always reliable, while in D1 lymphadenectomy 24% of stagings were unreliable. Conclusions. The present study describes a simple and reproducible mathematical model that could help surgeons to determine the accuracy of lymph node-negative stages in a substantial group of patients with gastric cancer (AU)</dc:description>
+<dc:creator>Escrig-Sos, Javier</dc:creator>
+<dc:creator>Miralles-Tena, Juan Manuel</dc:creator>
+<dc:creator>Martínez-Ramos, David</dc:creator>
+<dc:creator>Ángel-Yepes, Vicente</dc:creator>
+<dc:creator>Senent-Vizcaíno, Vicente</dc:creator>
+<dc:creator>Salvador-Sanchís, José Luis</dc:creator>
+<dc:creator>Villegas-Cánovas, Carmen</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Aproximación al cálculo de la probabilidad de error tras un estadio ganglionar negativo en el cáncer gástrico.  Pacientes y método. A partir de los datos retrospectivos de 75 resecciones gástricas por cáncer, se calculan dichas probabilidades de forma general, según el estadio T de la clasificación TNM, 6.a edición, y según el tipo de linfadenectomía realizada. Se utiliza una modificación de un procedimiento basado en el teorema de Bayes. Resultados. De forma general, se precisan al menos 11 ganglios negativos para asegurar un verdadero pN0. Para los tumores T1 se precisan, al menos, 2 ganglios, 11 para los T2, y 14 para los T3. Una linfadenectomía D2 requiere más ganglios que una D1, pero sus estadios pN0 son casi siempre seguros, mientras que en las linfadenectomías D1 se produjo un 24% de estadificaciones inseguras. Conclusiones. Se ha descrito un modelo matemático sencillo y reproducible que puede ayudar al cirujano a conocer la calidad de las estadificaciones ganglionares negativas en un importante grupo de pacientes con cáncer gástrico (AU)</dc:description>
+<dc:source>Cir. Esp. (Ed. impr.);80(1): 32-37, jul. 2006. tab</dc:source>
+<dc:identifier>ibc-046101</dc:identifier>
+<dc:title xml:lang="es">Cáncer gástrico: valoración probabilística ante un estadio ganglionar negativo y sus consecuencias</dc:title>
+<dc:subject>^d8375^s22053</dc:subject>
+<dc:subject>^d13662^s22016</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d28635</dc:subject>
+<dc:subject>^d28605</dc:subject>
+<dc:subject>^d5865^s22053</dc:subject>
+<dc:subject>^d8374^s22045</dc:subject>
+<dc:subject>^d13662^s22012</dc:subject>
+<dc:subject>^d5884^s22045</dc:subject>
+<dc:subject>^d8375^s29166</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d5865^s22009</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d5865^s29166</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d8375^s22009</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200607</dc:date>
+</metadata>
+</record>
+</ibecs-document>

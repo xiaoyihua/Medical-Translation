@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-72744</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Dual-source CT coronary angiography: image quality and optimal reconstruction interval</dc:title>
+<dc:description xml:lang="en">Objective: To evaluate the effect of average heart rate on the quality of images of the coronary arteries and to determine the optimal reconstruction interval in nonselected patients undergoing DSCT coronary imaging. Materials and methods: We studied 28 consecutive subjects (26 men, 2 women; mean age 60±12 years) undergoing contrast-enhanced DSCT (Somatom Definition, Siemens) coronary angiography. Data sets were reconstructed in 5% steps from 30% to 80% of the R-R interval. Two blinded independent readers assessed the image quality of the whole coronary tree and of each coronary artery using a four-point scale (1: impossible to evaluate, 4: excellent quality). Results: Mean heart rate during scanning was 73.1±14.8bpm (range, 49&#150;107bpm). In the best reconstruction interval, excellent diagnostic image quality (score 4) was achieved for 98.8% (83/84) of coronary arteries. Very good interobserver agreement was observed for image quality rating (k=0.77) and for selection of the optimal reconstruction interval (k=0.86). Mean image quality score for the whole coronary tree was 2.84±0.31. No significant correlation was found between the average heart rate and the mean quality scores (r=0.108). No significant differences were found in the quality of images of the coronary arteries in systolic and diastolic reconstructions in each patient. Conclusions: DSCT makes it possible to obtain excellent coronary angiograms independent of the heart rate. Reconstructions can be obtained in either the diastolic or systolic phase without significant differences in image quality, even at high heart rates (AU)</dc:description>
+<dc:creator>Broncano, J</dc:creator>
+<dc:creator>García del Barrio, L</dc:creator>
+<dc:creator>Pueyo, J. C</dc:creator>
+<dc:creator>Zudaire, B</dc:creator>
+<dc:creator>Bastarrika, G</dc:creator>
+<dc:creator>Arias, J</dc:creator>
+<dc:creator>Arraiza, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: evaluar prospectivamente la relación entre frecuencia cardíaca y calidad de imagen, y determinar el intervalo de reconstrucción óptimo para las arterias coronarias en estudios de tomografía computarizada de doble fuente (TCDF). Material y métodos: se analizaron 28 sujetos consecutivos en que se realizó coronariografía mediante TCDF (Somatom Definition, Siemens). Las imágenes se reconstruyeron a lo largo del ciclo cardíaco en intervalos del 5% R-R. Dos observadores independientes evaluaron la calidad diagnóstica de las imágenes para las arterias coronarias (izquierda, circunfleja y derecha) (1=no evaluable; 4=calidad excelente). Resultados: la frecuencia cardíaca media de los pacientes fue 73,1±14,8lpm (rango, 49&#150;107lpm). En el mejor intervalo de reconstrucción se obtuvo excelente calidad de imagen (4 puntos) en el 98,8% (83/84) de las arterias coronarias. La concordancia interobservador para la puntuación de calidad de imagen y selección del intervalo de reconstrucción óptimo fue muy buena (k=0,77 y k=0,86). La puntuación media de calidad para todo el árbol coronario fue 2,84±0,31. No se observó correlación entre la frecuencia cardíaca media y la calidad de la imagen de las arterias coronarias (r=0,108). No hubo diferencias estadísticamente significativas al comparar la calidad de imagen obtenida en las reconstrucciones sistólicas y diastólicas en cada paciente. Conclusiones: la TCDF permite obtener coronariografías de excelente calidad diagnóstica independientemente de la frecuencia cardíaca. Las reconstrucciones se pueden realizar tanto en sístole como en diástole sin que hayan diferencias estadísticamente significativas en la calidad, incluso con frecuencias cardíacas elevadase (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);51(4): 376-384, jul.-ago. 2009. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-72744</dc:identifier>
+<dc:title xml:lang="es">Coronariografía mediante tomografía computarizada de doble fuente: calidad de imagen e intervalo de reconstrucción óptimo</dc:title>
+<dc:subject>^d27977</dc:subject>
+<dc:subject>^d7435</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d24339^s22074</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d7130^s22012</dc:subject>
+<dc:subject>^d7130^s29166</dc:subject>
+<dc:subject>^d3346^s29166</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d24339^s22039</dc:subject>
+<dc:subject>^d23232^s22074</dc:subject>
+<dc:subject>^d6493</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200908</dc:date>
+</metadata>
+</record>
+</ibecs-document>

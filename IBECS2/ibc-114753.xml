@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-114753</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Pressure versus volume controlled modes in invasive mechanical ventilation</dc:title>
+<dc:description xml:lang="en">The first generation of mechanical ventilators were controlled and cycled by pressure. Unfortunately, they did not allow control of the delivered tidal volume under changes in the dynamics of the respiratory system. This led to a second generation of ventilators that allowed volume control, hence favouring the ventilator strategy based on normalization of the arterial gases. Studies conducted in the 1980s which related lung injury to the high ventilator pressures utilized while treating acute respiratory distress syndrome patients renewed interest in pressure-controlled mechanical ventilation. In addition, new evidence became available, leading to the development of pulmonary protective strategies aiming at preventing the progression of ventilator-induced lung injury. This review provides a detailed description of the control of pressure or volume using certain ventilatory modes, and offers a general view of their advantages and disadvantages, based on the latest available evidence (AU)</dc:description>
+<dc:creator>Grupo de Insuficiencia Respiratoria Aguda de SEMICYUC</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En su primera generación los ventiladores fueron controlados y ciclados por presión. Lamentablemente no nos permitían asegurar el volumen suministrado ante variaciones de la impedancia respiratoria. Esto dio paso a una nueva generación que logró asegurar el volumen y favorecía la estrategia ventilatoria de normalización de los gases en sangre. Estudios realizados durante los años 80 hicieron renacer el interés en la ventilación controlada por presión en pacientes con síndrome de distrés respiratorio agudo al relacionar las altas presiones inspiratorias con la injuria pulmonar. Estos hallazgos, sumados a la aparición de una nueva evidencia, dieron paso al desarrollo de una nueva estrategia ventilatoria protectora del pulmón tendiente a evitar la progresión del daño pulmonar. Esta revisión pretende ofrecer una descripción detallada sobre cómo se realiza el control de la presión o el volumen en ciertos modos ventilatorios y brinda una visión general de sus ventajas y desventajas basadas en la última evidencia disponible (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);37(4): 292-298, mayo 2013.</dc:source>
+<dc:identifier>ibc-114753</dc:identifier>
+<dc:title xml:lang="es">Modos controlados por presión versus volumen en la ventilación mecánica invasiva</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d3439^s22045</dc:subject>
+<dc:subject>^d12552^s22067</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d29253^s22045</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d53505^s22067</dc:subject>
+<dc:subject>^d12541^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201305</dc:date>
+</metadata>
+</record>
+</ibecs-document>

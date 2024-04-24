@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-112205</identifier>
+<setSpec>0212-1611</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Intronic SNP rs3811647 of the human transferrin gene modulates its expression in hepatoma cells</dc:title>
+<dc:description xml:lang="en">Introduction: Transferrin (Tf) exerts a crucial function in the maintenance of systemic iron homeostasis. The expression of the Tf gene is controlled by transcriptional mechanism, although little is known about genetic factors influence. Objective: To study the role of rs3811647 in Tf expression using an in-vitro assay on hepatoma cells. Design and Methods: Hep3B cells were co-transfected with constructs containing A (VarA-Tf-luc) and G (VarG-Tf-luc) variants of rs3811647, using luciferase as a surrogate reporter of Tf expression. Results: Luciferase assays showed a higher intrinsic enhancer activity (p &lt; 0.05) in the A compared with the G variant. In silico analysis of SNP rs3811647 showed that the A allele might constitute a binding site for the transcription factor glucocorticoid receptor (GR). Conclusion: The A allele of SNP rs3811647 increases Tf expression in a manner that might underlie inter-individual variation in serum transferrin levels observed in different population groups (AU)</dc:description>
+<dc:creator>Blanco-Rojo, R</dc:creator>
+<dc:creator>Bayele, HK</dc:creator>
+<dc:creator>Vaquero, M Pilar</dc:creator>
+<dc:creator>Srai, SKS</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Introducción: La transferrina (Tf) ejerce una función crucial en el mantenimiento de la homeostasis sistémica del hierro. La expresión del gen de la transferrina es controlada a nivel transcripcional, aunque la posible influencia de factores genéticos todavía se desconoce. Objetivo: Estudiar el papel del rs3811647 en la expresión de la transferrina mediante un ensayo in-vitro en células de hepatoma. Diseño y métodos: Células Hep3B fueron co-transfectadas con vectores que contenían las variantes A (VarA-Tf-luc) y G (VarG-Tf-luc) del rs3811647, utilizándose la luciferasa como marcador de la expresión del gen Tf. Resultados: Los ensayos con la luciferasa mostraron un mayor aumento de la expresión del gen Tf en presencia de la variante A comparada con la G (p &lt; 0,05). El análisis in silico del SNP rs3811647 mostró que la presencia del alelo A puede constituir un sitio de unión del receptor de glucocorticoides (GR). Conclusión: El alelo A del SNP rs3811647 incrementa la expresión del gen Tf de modo que podría modular la variación interindividual en los niveles de transferrina sérica observados en diferentes poblaciones (AU)</dc:description>
+<dc:source>Nutr Hosp;27(6): 2142-2145, nov.-dic. 2012. ilus</dc:source>
+<dc:identifier>ibc-112205</dc:identifier>
+<dc:title xml:lang="es">El SNP intrónico rs3811647 del gen de la transferrina humano, modula su expresión en células hepáticas</dc:title>
+<dc:subject>^d22302^s22033</dc:subject>
+<dc:subject>^d7668^s22044</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24666</dc:subject>
+<dc:subject>^d34583</dc:subject>
+<dc:subject>^d35288^s22044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201212</dc:date>
+</metadata>
+</record>
+</ibecs-document>

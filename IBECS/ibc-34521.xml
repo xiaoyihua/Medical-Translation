@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-34521</identifier>
+<setSpec>1137-6627</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">State of cancer in Spain: incidence</dc:title>
+<dc:creator>López-Abente, G</dc:creator>
+<dc:creator>Pérez Gómez, B</dc:creator>
+<dc:creator>Suárez, B</dc:creator>
+<dc:creator>Lope, V</dc:creator>
+<dc:creator>Aragonés, N</dc:creator>
+<dc:creator>Pollán, M</dc:creator>
+<dc:creator>Hernández Barrera, V</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Departamento de Salud. Gobierno de Navarra</dc:publisher>
+<dc:description xml:lang="es">Se estima que actualmente se diagnostican en España unos 162.000 casos de cáncer al año (sin contar el cáncer de piel no-melanoma) de los que 25.600 corresponden a carcinomas colorrectales, que es el tumor más frecuente de todos en términos absolutos. El siguiente tumor en frecuencia es el cáncer de pulmón con 18.800 casos nuevos, seguido del cáncer de mama en mujeres con 15.979 casos. Cuando se compara la incidencia de cáncer con la de los países de nuestro entorno, en hombres España presenta unas tasas ajustadas superiores a las del promedio de la UE, ocupando el 5º lugar. Sin embargo, en mujeres, España muestra las tasas de incidencia más bajas junto con Grecia. Para el cáncer de vejiga en hombres, España ocupa el primer lugar, con tasas bastante superiores a las del resto de países. Es importante constatar el incremento que está sufriendo la incidencia de cáncer en España y el contraste que supone frente a la evolución de la mortalidad. Para muchas localizaciones tumorales importantes (pulmón, estómago, vejiga), los registros poblacionales no cubren las provincias con una mayor mortalidad (AU)</dc:description>
+<dc:source>An Sist Sanit Navar;27(2): 165-173, mayo 2004. tab</dc:source>
+<dc:identifier>ibc-34521</dc:identifier>
+<dc:title xml:lang="es">Situación del cáncer en España: incidencia</dc:title>
+<dc:subject>^d5703^s22049</dc:subject>
+<dc:subject>^d28640^s22045</dc:subject>
+<dc:subject>^d5703^s22048</dc:subject>
+<dc:subject>^d16128</dc:subject>
+<dc:subject>^d28640^s22048</dc:subject>
+<dc:subject>^d9562^s22047</dc:subject>
+<dc:subject>^d27794^s22048</dc:subject>
+<dc:subject>^d28632^s22083</dc:subject>
+<dc:subject>^d27794^s22083</dc:subject>
+<dc:subject>^d13411^s22080</dc:subject>
+<dc:subject>^d9562^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200405</dc:date>
+</metadata>
+</record>
+</ibecs-document>

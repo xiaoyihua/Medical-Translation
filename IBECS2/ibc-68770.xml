@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-68770</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:description xml:lang="en">The precision of estimates must be adequately reported in survey research, where ordinal and interval measurement scales are commonly used. Regarding mean estimate, absolute and relative errors exist as a function of the measurement scales. This manuscript discusses some assumptions underlying the development of the Measurement Scale Imprecision Factor -MSIF-, a tool to assess the degree of imprecision of estimates, regardless of the scale rank considered. Specifically, we propose a new method for determining the most unfavourable variance, which is consistent with the normal distribution assumption, unlike the original assumption based on the bimodal distribution. This method reduces the value of the most unfavourable variance, which is easily computed using the cumulative normal standard distribution function. In addition, we show the relationship between MSIF and other types of probabilistic sampling methods, such as stratified and cluster sampling (AU)</dc:description>
+<dc:creator>Martínez Caro, Laura</dc:creator>
+<dc:creator>Martínez García, José Antonio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La precisión de las estimaciones tiene que ser adecuadamente descrita en la investigación mediante encuesta, donde las escalas de medida ordinales y de intervalo son comúnmente utilizadas. En relación a la estimación de valores medios poblacionales, los errores absoluto y relativo están en función de esas escalas de medida. Este trabajo discute algunas de las asunciones en las que se fundamenta el «Factor de Imprecisión sobre la Escala de Medida -FIEM-». Este índice es una herramienta para evaluar el grado de imprecisión de las estimaciones, independientemente del rango de la escala de medida considerado. Específicamente, proponemos un nuevo método para determinar la varianza más desfavorable, el cual es consistente con la asunción de normalidad en la población, a diferencia del método original basado en una distribución bimodal. Este método reduce el valor de la varianza más desfavorable, y es fácilmente calculado a partir de la función de distribución normal estándar. Además, se muestra la relación de FIEM con otros tipos de muestreo probabilístico, como el muestreo estratificado y por conglomerados (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);20(2): 311-316, abr.-jun. 2008. ilus, tab</dc:source>
+<dc:identifier>ibc-68770</dc:identifier>
+<dc:subject>^d12031^s22039</dc:subject>
+<dc:subject>^d28620</dc:subject>
+<dc:subject>^d28411</dc:subject>
+<dc:subject>^d24535</dc:subject>
+<dc:subject>^d28408</dc:subject>
+<dc:subject>^d24884</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200806</dc:date>
+</metadata>
+</record>
+</ibecs-document>

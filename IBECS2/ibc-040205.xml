@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-040205</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Clinical assessment of acute lung injury</dc:title>
+<dc:creator>Fernández Mondéjar, E</dc:creator>
+<dc:creator>Domínguez Jiménez, R</dc:creator>
+<dc:creator>Martín López, J</dc:creator>
+<dc:creator>Pino Sánchez, F</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">No disponible</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);29(7): 389-392, oct. 2005.</dc:source>
+<dc:identifier>ibc-040205</dc:identifier>
+<dc:title xml:lang="es">Valoración clínica de la lesión pulmonar aguda</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d8345^s22042</dc:subject>
+<dc:subject>^d8348^s22016</dc:subject>
+<dc:subject>^d12091^s22016</dc:subject>
+<dc:subject>^d2231^s22031</dc:subject>
+<dc:subject>^d4479^s22027</dc:subject>
+<dc:subject>^d23481^s22074</dc:subject>
+<dc:subject>^d28903^s22002</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200510</dc:date>
+</metadata>
+</record>
+</ibecs-document>

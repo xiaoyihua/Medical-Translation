@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-26432</identifier>
+<setSpec>1130-1473</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Diagnosis of calvarial lesions. Feature selection by neural network and logistic regression</dc:title>
+<dc:creator>Martí-Bonmatí, L</dc:creator>
+<dc:creator>Arana, E</dc:creator>
+<dc:creator>Paredes, R </dc:creator>
+<dc:creator>Bautista, D</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Editorial Siglo, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivos. Establecer las variables mínimas para diagnósticar las lesiones de la bóveda craneal con tomografía computarizada (TC) y comprobar la precisión de la regresión logística (RL) y las redes neuronales artificiales (RN) en su diagnóstico. Material y Métodos. Estudiamos 167 pacientes con lesiones de bóveda craneal como única manifestación conocida de enfermedad. Los datos clínicos y de la TC se emplearon para los modelos de RL y RN, que se probaron con el método jacknife. Los resultados finales de cada modelo se compararon con el área bajo la curva ROC (A7). Resultados: Las lesiones fueron en un 73,1 benignas y 26,9 por ciento malignas. No hubo diferencia estadísticamente significativa entre la RL y la RN para diagnosticar las lesiones malignas. Para la caracterización de los diagnósticos histológicos, la RN fue estadísticamente superior a la RL. Las variables necesarias para el diagnóstico de lesión maligna fueron la edad y la definición de los bordes, y para los diagnósticos histológicos, matriz, esclerosis marginal y la edad. Conclusiones: Se necesitan cuatro mínimas variables para el diagnóstico de estas lesiones, no siendo importante el tipo de sintomatología. Las redes neuronales ofrecen grandes posibilidades sobre la estadística para las lesiones de la bóveda craneal además de un mejor rendimiento diagnóstico (AU)</dc:description>
+<dc:source>Neurocirugia (Astur);14(5): 377-384, oct. 2003.</dc:source>
+<dc:identifier>ibc-26432</dc:identifier>
+<dc:title xml:lang="es">Diagnóstico de las lesiones de la calota. Selección de variables por redes neuronales y regresión logística</dc:title>
+<dc:subject>^d7399</dc:subject>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d29935</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24375</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d2715</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d13269</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200310</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-106801</identifier>
+<setSpec>1575-0973</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Measurement of the technical efficiency of opioid substitution programs: Usefulness of the Data Envelopment Analysis (DEA) model</dc:title>
+<dc:description xml:lang="en">Aim. To assess the usefulness of the mathematical model Data Envelopment Analysis (DEA) to measure the efficiency of opioid substitution programs (OSP). Material and Methods. A simulation study was conducted based on a series of assumptions that are tested using non¿real data imputed from theoretical background. Fifteen hypothetical OSP are compared to estimate their relative efficiency. We obtained six variables from each program, three of which are considered input indices (therapists/patients ratio, number of treatment units and proportion of patients with adequate opioid doses), and the other three are considered output indices (number days of heroin abstinence in the last month, retention rates and degree of recovery from drug¿use related problems). The data set was subjected to DEA analyses. Results. The DEA model ranked the OSP as a function of their efficiency levels. Programs P8, P9, P11, P5 and P6 were considered inefficient and the magnitude of the input and output variables were far from optimal achievement. In these analyses, the output variable that yielding a greater efficiency was the number days of heroin abstinence in the last month and the input variable providing greater inefficiency was the proportion of patients with adequate opioid doses. Conclusion. The DEA model yields can be useful to measure the relative efficiency of the OSP. The information provided by the model may be used by OSPs managers to introduce changes in therapeutic processes with the aim of increasing their quality (AU)</dc:description>
+<dc:creator>González-Saiz, F</dc:creator>
+<dc:creator>García-Valderrama, T</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Valorar la utilidad del modelo matemático Data Envelopment Analysis (DEA) para medir la eficiencia de programas de tratamiento con opiáceos (PTO). Material y métodos. Se realiza un estudio de "simulación", es decir, se parte de un conjunto de supuestos y se manejan datos no reales pero fundamentados en la literatura. Se comparan 15 hipotéticos PTO y se mide la eficiencia de cada uno de ellos. De cada programa habríamos obtenido información sobre seis variables, tres de las cuales serían consideradas como indicadores de input (ratio terapeuta/paciente, unidades asistenciales en drogodependencias y porcentaje de pacientes con dosis adecuadas) y tres de output (días de abstinencia de heroína en el último mes, tasas de retención y grado de mejoría de los problemas relacionados con el consumo). La matriz de datos generada se somete a análisis mediante el DEA. Resultados. El modelo ordena los programas en función de su nivel de eficiencia. Los programas P8, P9, P11, P5 y P6 son considerados "ineficientes" y se estiman las magnitudes de las variables de input y output que distan de un rendimiento óptimo. En este análisis, la variable de output que añade más eficiencia a los programas es el "número de días de abstinencia de heroína en el último mes" y la variable de input que añade más ineficiencia a los mismos, es el "porcentaje de pacientes con dosis adecuadas". Conclusión. El modelo DEA tiene una utilidad potencial para la medida comparativa de la eficiencia de PTO. La información aportada por este modelo podría ser utilizada por los coordinadores de programas para introducir cambios en los procesos terapéuticos con el objetivo de mejorar la calidad asistencial (AU)</dc:description>
+<dc:source>Trastor. adict;14(3): 79-88, jul.-dic. 2012. ilus, tab</dc:source>
+<dc:identifier>ibc-106801</dc:identifier>
+<dc:title xml:lang="es">Medida de la eficiencia técnica de programas de tratamiento con opiáceos: utilidad del modelo Data Envelopment Analysis (DEA)</dc:title>
+<dc:subject>^d32532^s22045</dc:subject>
+<dc:subject>^d9488^s22080</dc:subject>
+<dc:subject>^d54222^s22045</dc:subject>
+<dc:subject>^d2079^s22073</dc:subject>
+<dc:subject>^d32532^s22054</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d32532^s22083</dc:subject>
+<dc:subject>^d17571^s22066</dc:subject>
+<dc:subject>^d9488^s22057</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d9488^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201212</dc:date>
+</metadata>
+</record>
+</ibecs-document>

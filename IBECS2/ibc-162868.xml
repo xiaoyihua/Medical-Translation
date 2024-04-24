@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-162868</identifier>
+<setSpec>2173-2345</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Identification of genetic variants associated with bone mineral density (BMD) in the FLJ42280 gene</dc:title>
+<dc:description xml:lang="en">FLJ42280 is a possible gene for susceptibility to osteoporosis. Different studies of GWAs have identified 4 non-coding SNPs in this gene associated with bone mineral density (BMD) and fracture risk. In order to ascertain the cause of the association between these SNPs and osteoporosis, we searched for genetic variants by resequencing the 28-kb gene, in a truncated selection of women with very low (n=50) or very high BMD (N=50) of the BARCOS cohort (Barcelona Cohort Osteoporosis, cohort of postmenopausal women in Barcelona). The variants found were filtered and their frequency analyzed in each group. The overlap of the variants with functional elements of the ENCODE project was calculated. Finally, an eQTL analysis of the 4 SNPs-coding was performed on the expression levels of FLJ42280 neighbor genes in lymphoblasts. In all, 110 variants were selected. The differences in their frequencies between the two groups were below the statistical power of the experimental design. However, three variants overlapped with possible enhancers and one overlapped with an active enhancer in osteoblasts (rs4613908). A strong linkage disequilibrium was observed between the 4 non-coding SNPs and the SNP rs4613908, which belong to a block spanning the gene almost completely. None of the non-coding SNPs showed association with the expression levels of FLJ42280 neighbor genes. In conclusion, the SNP rs4613908 could be involved functionally in determining BMD. Tangible experiments will be required to confirm this (AU)</dc:description>
+<dc:creator>Martínez-Gil, N</dc:creator>
+<dc:creator>Díez-Pérez, A</dc:creator>
+<dc:creator>Roca-Ayats, N</dc:creator>
+<dc:creator>García-Giralt, N</dc:creator>
+<dc:creator>Cozar Morillo, M</dc:creator>
+<dc:creator>Czwan, E</dc:creator>
+<dc:creator>Nogués, X</dc:creator>
+<dc:creator>Gerousi, M</dc:creator>
+<dc:creator>Urreizti, R</dc:creator>
+<dc:creator>Grinberg, D</dc:creator>
+<dc:creator>Mellibovsky, L</dc:creator>
+<dc:creator>Balcells, S</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">FLJ42280 es un posible gen de susceptibilidad a la osteoporosis. Distintos estudios de GWAs han identificado 4 SNPs no-codificantes en este gen que se asocian a la densidad mineral ósea (DMO) y el riesgo de fractura. Para descubrir la causa de la asociación entre estos SNPs y la osteoporosis, se realizó una búsqueda de variantes genéticas mediante resecuenciación de 28 kb que contienen el gen, en una selección truncada de mujeres con DMO muy baja (n=50) o muy alta (n=50) de la cohorte BARCOS (Barcelona Cohorte Osteoporosis, cohorte de mujeres postmenopáusicas de Barcelona). Las variantes encontradas se filtraron y se analizó su frecuencia en cada grupo. Se analizó el solapamiento de las variantes con elementos funcionales del proyecto ENCODE y también se calculó el desequilibrio de ligamiento entre los SNPs de la región. Finalmente, se hizo un análisis de eQTL de los 4 SNPs no-codificantes respecto a los niveles de expresión de genes cercanos a FLJ42280 en linfoblastos. Se seleccionaron 110 variantes. Las diferencias de sus frecuencias entre los dos grupos estuvieron por debajo del poder estadístico del diseño experimental. Sin embargo, 3 variantes solaparon con posibles enhancers y una solapó con un enhancer activo en osteoblastos (rs4613908). Se observó un fuerte desequilibrio de ligamiento entre los 4 SNPs no-codificantes y el SNP rs4613908, que pertenecen a un bloque que abarca el gen casi por completo. Ninguno de los SNPs no-codificantes mostró asociación con los niveles de expresión de genes cercanos a FLJ42280. En conclusión, el SNP rs4613908 podría estar implicado funcionalmente en la determinación de la DMO. Serán necesarios experimentos concretos para confirmarlo (AU)</dc:description>
+<dc:source>Rev. osteoporos. metab. miner. (Internet);9(1): 28-34, ene.-mar. 2017. tab, graf, ilus</dc:source>
+<dc:identifier>ibc-162868</dc:identifier>
+<dc:title xml:lang="es">Identificación de variantes genéticas asociadas con la densidad mineral ósea (DMO) en el gen FLJ42280</dc:title>
+<dc:subject>^d28087^s22074</dc:subject>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d24502^s22074</dc:subject>
+<dc:subject>^d22243^s22033</dc:subject>
+<dc:subject>^d33779^s22033</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d31161^s22033</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d24543^s22033</dc:subject>
+<dc:subject>^d50518^s22012</dc:subject>
+<dc:subject>^d35417^s22045</dc:subject>
+<dc:subject>^d50518^s22033</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d24666^s22033</dc:subject>
+<dc:subject>^d3732^s22074</dc:subject>
+<dc:subject>^d28320^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201703</dc:date>
+</metadata>
+</record>
+</ibecs-document>

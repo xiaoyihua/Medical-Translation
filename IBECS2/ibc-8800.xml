@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-8800</identifier>
+<setSpec>0001-6640</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Immunological reconstitution in HIV-infected children</dc:title>
+<dc:creator>Correa Rocha, R</dc:creator>
+<dc:creator>Muñoz Fernández, M. A</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Mayo, S.A</dc:publisher>
+<dc:description xml:lang="es">El objetivo era poner a punto una técnica de cuantificación en tiempo real del número de TRECs. Cuando se produce el reordenamiento de los genes que dan lugar al receptor del linfocito T (TCR), se produce la deleción de unos fragmentos denominados círculos de reordenamiento del TCR (TRECs) Cque son excelentes marcadores de las células T formadas recientemente en el timo. Mediante la cuantificación, por PCR en tiempo real, de estos marcadores se puede estudiar la producción de nuevas células T y, por tanto, la funcionalidad del timo. Dado que el timo conserva toda su funcionalidad en el niño, se realizó un estudio en 8 niños infectados verticalmente por el VIII-1 con el objetivo de estudiar el efecto de la infección por este virus en la producción de células T nuevas y analizar si la disminución de la carga viral por efecto de los tratamientos antirretrovirales conducía a una recuperación en la función del timo que permitiese la reconstitución inmunológica. Los resultados muestran que los niños infectados por el VIH-1 presentan una menor producción de células T nuevas que los niños no infectados, y que la disminución drástica de la carga viral por efecto del tratamiento conduce a una recuperación en la producción de estas células. Además, se ha comprobado que el aumento en el porcentaje de linfocitos CD4, que se produce tras el tratamiento, en los niños no se debe a una redistribución o expansión periférica, sino que responde a una mayor producción de células T nuevas por parte del timo. Estos datos sugieren claramente que la disminución de la carga viral en niños que conservan la funcionalidad del timo conduce a la reconstitución de la población de linfocitos T CD4. El trabajo en este laboratorio está subvencionado por ayudas del Fondos de Investigación Sanitaria (FIS-00/0207), Bristol-Myers Company, Fundación para la Investigación y Prevención del SIDA (FIPSE 3008/99), El Programa Nacional de Salud (SAF 99-0022) y La Comunidad de Madrid. R. Correa dispone de una BEFI del FIS 99/9176 (AU)</dc:description>
+<dc:source>Acta Pediatr Esp;58(11): 726-733, dic. 2000. ilus, graf</dc:source>
+<dc:identifier>ibc-8800</dc:identifier>
+<dc:title xml:lang="es">Reconstitución inmunológica en la infección pediátrica por VIH-1</dc:title>
+<dc:subject>^d29010^s22063</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d14338^s22038</dc:subject>
+<dc:subject>^d24718^s22038</dc:subject>
+<dc:subject>^d32319^s22045</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24551</dc:subject>
+<dc:subject>^d33601^s22038</dc:subject>
+<dc:subject>^d23473^s22063</dc:subject>
+<dc:subject>^d33123^s22074</dc:subject>
+<dc:subject>^d30260^s22002</dc:subject>
+<dc:subject>^d28320^s22045</dc:subject>
+<dc:subject>^d14321^s22002</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200012</dc:date>
+</metadata>
+</record>
+</ibecs-document>

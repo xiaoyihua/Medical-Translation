@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-10207</identifier>
+<setSpec>1135-7606</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Mitochondrial DNA Polymorphisms in individuals living in Andalusia (south of Spain) and Extremadura (western of Spain)</dc:title>
+<dc:creator>Sanz, P</dc:creator>
+<dc:creator>López Soto, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Asociación Andaluza de Médicos Forenses</dc:publisher>
+<dc:description xml:lang="es">En este estudio presentamos los resultados obtenidos de la variabilidad ADN mitocondrial observada en 50 individuos no relacionados residentes en Andalucía y Extremadura. La metodología seguida ha sido mediante amplificación por reacción en cadena con polimerasa (PCR) de las regiones HVI (HVRI) y HV2 (HVR2) de la región control o D-Loop del ADN mitocondrial y posterior detección de la secuencia de bases por secuenciación cíclica con terminadores marcados con d-Rodamina y electroforesis capilar en un equipo automático ABI PRISM 310. Los resultados se expresan como ambigüedades con respecto a la secuencia de referencia de Anderson. Se observa una diversidad genética de 0.979 y 0.961 para la HVRI y HVR2, respectivamente y una probabilidad de coincidencia de 0.04 para HVRI y de 0.058 para la HVR2, lo que supone un poder de discriminación de 0.96 para HVRI y de 0.942 para la HVR2, del orden de lo que ocurre en otras poblaciones europeas (AU)</dc:description>
+<dc:source>Cuad. med. forense;6(20): 17-24, abr. 2000. tab</dc:source>
+<dc:identifier>ibc-10207</dc:identifier>
+<dc:title xml:lang="es">Polimorfismos de ADN Mitocondrial en individuos residentes en Andalucía y Extremadura</dc:title>
+<dc:subject>^d15047</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d11547</dc:subject>
+<dc:subject>^d28605</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22156^s22033</dc:subject>
+<dc:subject>^d28320</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200004</dc:date>
+</metadata>
+</record>
+</ibecs-document>

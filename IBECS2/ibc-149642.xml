@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-149642</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Interhospital variability in drug prescription after acute coronary syndrome: insights from the acdc study</dc:title>
+<dc:description xml:lang="en">Introduction and objectives: To analyze the rate of patients admitted for acute coronary syndrome who concomitantly received acetylsalicylic acid, statins, and angiotensin-converting enzyme inhibitors at discharge, and to analyze interhospital variability in the prescription of these drugs and its potential prognostic impact. Methods: Interhospital variability in drug prescription was estimated using the intraclass correlation coefficient and median odds ratio (hierarchical analysis). Cox regression analysis was used to estimate the risk of death or myocardial infarction associated with prescription of all 3 agents at 2-years of follow-up. Results: In total, 489 (53.3%) of 917 patients were prescribed all 3 agents. The rate was similar in patients with hypertension and diabetes (56.8%). There was significant variability among centers in the prescription of the 3 drugs at discharge (from 23% to 77% of patients). Hypertension (odds ratio = 1.93; 95% confidence interval, 1.42-2.61), ejection fraction &lt; 45% (odds ratio = 2.2; 95% confidence interval, 1.44-3.37), being in a clinical trial (odds ratio = 1.89; 95% confidence interval, 1.24-2.88), and renal failure (odds ratio = 0.53; 95% confidence interval, 0.29-0.94) were associated with prescription of the 3 drugs. After adjustment for these factors, residual variability persisted (intraclass correlation coefficient 0.046 [95% credibility interval, 0.007 to 0.192]; median odds ratio = 1.46 [95% credibility interval, 1.16-2.32]). There was no clear association between the prescription of all 3 drugs and the risk of events during follow-up (hazard ratio = 0.81, 95% confidence interval, 0.55-1.18;P = .27). Conclusions: The prescription rate for acetylsalicylic acid, angiotensin-converting enzyme inhibitors, and statins after acute coronary syndrome is suboptimal, varies among centers, and is possibly related to different health care approaches (AU)</dc:description>
+<dc:creator>Carrillo, Xavier</dc:creator>
+<dc:creator>Cárdenas, Mérida</dc:creator>
+<dc:creator>Masotti, Mónica</dc:creator>
+<dc:creator>Ferreira-González, Ignacio</dc:creator>
+<dc:creator>Baz, José Antonio</dc:creator>
+<dc:creator>Torre Hernández, José M de la</dc:creator>
+<dc:creator>Manterola, Fernando Alfonso</dc:creator>
+<dc:creator>Martín, Victoria</dc:creator>
+<dc:creator>Navarro Manchón, Josep</dc:creator>
+<dc:creator>Cequier, Ángel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos: Analizar la tasa de pacientes ingresados por síndrome coronario agudo que recibieron al alta conjuntamente ácido acetilsalicílico, estatinas e inhibidores de la enzima de conversión de la angiotensina, la variabilidad entre hospitales en dicha prescripción y el pronóstico asociado a esta. Métodos: Se estimó la variabilidad entre hospitales en la prescripción con el coeficiente de correlación intraclase y la odds ratio mediana ajustada (análisis jerárquico). El riesgo de muerte o infarto a 2 años se estimó mediante modelos de Cox. Resultados: De un total de 917 pacientes, 489 (53,3%) tenían prescritos los 3 fármacos, sin apenas variación entre hipertensos y diabéticos (56,8%). Se observó una alta variabilidad entre centros en la prescripción (23-77% de los pacientes). La hipertensión (odds ratio = 1,93; intervalo de confianza del 95%, 1,42-2,61), la fracción de eyección &lt; 45% (odds ratio = 2,2; intervalo de confianza del 95%, 1,44-3,37), la inclusión en el ensayo clínico (odds ratio = 1,89; intervalo de confianza del 95%, 1,24-2,88) y la insuficiencia renal (odds ratio = 0,53; intervalo de confianza del 95%, 0,29-0,94) se asociaron con la prescripción. En el análisis ajustado persistió una variabilidad residual (coeficiente de correlación intraclase 0,046 [intervalo de credibilidad del 95%, 0,007 a 0,192]; odds ratio mediana =1,46 [intervalo credibilidad del 95%, 1,16-2,32]). No se verificó un mayor riesgo de eventos durante el seguimiento (hazard ratio = 0,81; intervalo de confianza del 95%, 0,55-1,18; p = 0,27). Conclusiones: Tras un síndrome coronario agudo, en casi la mitad de los pacientes no se prescribieron los tres fármacos al alta. La prescripción fue variable entre centros y posiblemente relacionada con hábitos asistenciales diferentes (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;69(2): 117-124, feb. 2016. graf, tab</dc:source>
+<dc:identifier>ibc-149642</dc:identifier>
+<dc:title xml:lang="es">Variabilidad interhospitalaria en la prescripción tras un síndrome coronario agudo: hallazgos del estudio ACDC</dc:title>
+<dc:subject>^d33014^s22073</dc:subject>
+<dc:subject>^d19291</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d52613^s22057</dc:subject>
+<dc:subject>^d11742^s22083</dc:subject>
+<dc:subject>^d27951^s22073</dc:subject>
+<dc:subject>^d10545^s22083</dc:subject>
+<dc:subject>^d22832^s22073</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201602</dc:date>
+</metadata>
+</record>
+</ibecs-document>

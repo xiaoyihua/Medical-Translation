@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-16535</identifier>
+<setSpec>1131-5768</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Treatment of peptic ulcer</dc:title>
+<dc:creator>Lima Rodríguez, E. M</dc:creator>
+<dc:creator>Calvo Romero, J. M</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Arán Ediciones, S.A.</dc:publisher>
+<dc:description xml:lang="es">La úlcera péptica (UP) tiene una alta prevalencia e incidencia. Se ha estimado que un 10 per cent de la población española padecerá una UP. La infección por Helicobacter pylori (HP) y el consumo de antiinflamatorios no esteroideos (AINE) son las principales causas de la UP. Erradicar la infección por HP casi siempre significa la curación de la UP no asociada al consumo de AINE y reduce muy significativamente la tasa de recurrencias, obviando generalmente el tratamiento antisecretor de mantenimiento. Los inhibidores de la bomba de protones son el tratamiento de elección de la UP asociada al consumo de AINE. No existe suficiente evidencia para recomendar o no la erradicación de la infección por HP en los pacientes con UP asociada al consumo de AINE (AU)</dc:description>
+<dc:source>Medifam (Madr.);12(5): 314-318, mayo 2002. tab</dc:source>
+<dc:identifier>ibc-16535</dc:identifier>
+<dc:title xml:lang="es">Tratamiento de la úlcera péptica</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d29157^s22012</dc:subject>
+<dc:subject>^d10633^s22027</dc:subject>
+<dc:subject>^d27938^s22020</dc:subject>
+<dc:subject>^d10633^s22057</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28584</dc:subject>
+<dc:subject>^d13411^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200205</dc:date>
+</metadata>
+</record>
+</ibecs-document>

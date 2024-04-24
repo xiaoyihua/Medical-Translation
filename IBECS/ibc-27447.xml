@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-27447</identifier>
+<setSpec>0212-6982</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Improvement of the imaging quality by a non-uniform attenuation correction system in cardiac spect</dc:title>
+<dc:creator>Ruano Pérez, R</dc:creator>
+<dc:creator>Sena Espinel, E. de</dc:creator>
+<dc:creator>García Talavera, J. R</dc:creator>
+<dc:creator>Melgar Pérez, J</dc:creator>
+<dc:creator>Berenguer Serrano, R</dc:creator>
+<dc:creator>Gómez García, V</dc:creator>
+<dc:creator>Fernández Bordes, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En el Servicio de Medicina Nuclear del Hospital Universitario de Salamanca recientemente se ha adquirido un sistema de corrección de atenuación no uniforme para una gammacámara modelo Picker Axis de doble cabezal el cual se basa en la generación de un mapa de atenuación de cada paciente a través de un scan de transmisión con y sin paciente con dos fuentes de Ba-133. Este sistema sólo está disponible, en la actualidad, para la disposición de los cabezales de la gammacámara en 102° con lo cual su uso está restringido a los estudios de tomografía computerizada de emisión de fotón único (SPECT) cardiaco. El objetivo de este trabajo ha sido el de comprobar la mejora en la calidad de imagen de este sistema de corrección de atenuación a través de tres pruebas distintas (evaluación del coeficiente de recuperación, relación de concentraciones de actividad y error residual de actividad). El resultado ha sido favorable para el sistema de corrección de atenuación no uniforme para esas tres pruebas frente al método convencional de corrección de atenuación utilizado en la práctica clínica (AU)</dc:description>
+<dc:source>Rev Esp Med Nucl;22(5): 306-315, sept. 2003.</dc:source>
+<dc:identifier>ibc-27447</dc:identifier>
+<dc:title xml:lang="es">Mejora de la calidad de imagen mediante un sistema de correcciónde atenuación no uniforme en SPECT cardíaco</dc:title>
+<dc:subject>^d8345</dc:subject>
+<dc:subject>^d1867</dc:subject>
+<dc:subject>^d6473</dc:subject>
+<dc:subject>^d22844</dc:subject>
+<dc:subject>^d33090</dc:subject>
+<dc:subject>^d10106</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24895</dc:subject>
+<dc:subject>^d4946</dc:subject>
+<dc:subject>^d24661</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d19200</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200309</dc:date>
+</metadata>
+</record>
+</ibecs-document>

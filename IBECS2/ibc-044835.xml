@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-044835</identifier>
+<setSpec>1139-6709</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Gene clusters for beta-lactam antibiotics and control of their expression: why have clusters evolved, and from where did they originate?</dc:title>
+<dc:description xml:lang="en">While &amp;#946;-lactam compounds were discovered in filamentous fungi, actinomycetes and gram-negative bacteria are also known to produce different types of &amp;#946;-lactams. All &amp;#946;-lactam compounds contain a four-membered &amp;#946;-lactam ring. The structure of their second ring allows these compounds to be classified into penicillins, cephalosporins, clavams, carbapenens or monobactams. Most &amp;#946;-lactams inhibits bacterial cell wall biosynthesis but others behave as &amp;#946;-lactamase inhibitors (e.g., clavulanic acid) and even as antifungal agents (e.g., some clavams). Due to the nature of the second ring in &amp;#946;-lactam molecules, the precursors and biosynthetic pathways of clavams, carbapenems and monobactams differ from those of penicillins and cephalosporins. These last two groups, including cephamycins and cephabacins, are formed from three precursor amino acids that are linked into the &amp;#945;-aminoadipyl-L-cysteinyl-D-valine tripeptide. The first two steps of their biosynthetic pathways are common. The intermediates of these pathways, the characteristics of the enzymes involved, the lack of introns in the genes and bioinformatic analysis suggest that all of them should have evolved from an ancestral gene cluster of bacterial origin, which was surely transferred horizontally in the soil from producer to non-producer microorganisms. The receptor strains acquired fragments of the original bacterial cluster and occasionally inserted new genes into the clusters, which once modified, acquired new functions and gave rise to the final compounds that we know. When the order of genes in the Streptomyces genome is analyzed, the antibiotic gene clusters are highlighted as gene islands in the genome. Nonetheless, the assemblage of the ancestral &amp;#946;-lactam gene cluster remains a matter of speculation (AU)</dc:description>
+<dc:creator>Martín, Juan F</dc:creator>
+<dc:creator>Liras, Paloma</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Las &amp;#946;-lactamas fueron descubiertas en hongos filamentosos, pero se sabe que los actinomicetos y algunas bacterias gram negativas también producen diferentes tipos de &amp;#946;-lactamas. Todas las &amp;#946;-lactamas contienen un anillo de cuatro miembros. La estructura del segundo anillo permite clasificarlas en penicilinas, cefalosporinas, clavamas, carbapenemas o monobactamas. La mayoría de estos compuestos inhiben la síntesis de la pared celular bacteriana, pero algunos se comportan como inhibidores de &amp;#946;-lactamasas (por ejemplo, el ácido clavulánico), o incluso como agentes antifúngicos (algunas clavamas). Debido a la naturaleza del segundo anillo en la molécula de las &amp;#946;-lactamas, los precursores y las vías biosintéticas de clavamas, carbapenemas y monobactamas son diferentes de los de penicilinas y cefalosporinas. Las moléculas de estos dos grupos, incluyendo cefamicinas y cefabacinas, están formadas por tres aminoácidos precursores que se unen para formar el tripéptido &amp;#945;-aminoadipil-L-cisteinil-D-valina. Las primeras dos etapas de la biosíntesis de las cefamicinas y las cefabacinas son comunes. Los intermediarios de estas vías, las características de las enzimas que intervienen en ellas, la falta de intrones en los genes y el análisis bioinformático sugieren que se originaron a partir de un complejo génico («cluster») ancestral de origen bacteriano, que fue transferido horizontalmente en el suelo desde los microorganismos productores a los no productores. Las cepas receptoras adquirieron fragmentos del complejo génico bacteriano original y ocasionalmente insertaron en él nuevos genes; dichos genes, una vez modificados, adquirieron funciones nuevas y dieron lugar a los nuevos compuestos finales que conocemos. Cuando se analiza el orden de los genes en el genoma de Streptomyces, los complejos génicos de la síntesis de antibióticos destacan como islas en el genoma. Sin embargo, la forma en que se ensambló el complejo génico ancestral para &amp;#946;-lactamas sigue siendo motivo de conjeturas (AU)</dc:description>
+<dc:source>Int Microbiol;9(1): 9-19, mar. 2006. ilus</dc:source>
+<dc:identifier>ibc-044835</dc:identifier>
+<dc:title xml:lang="es">Complejos génicos («clusters») de antibióticos &amp;#946;-lactámicos y control de su expresión: ¿por qué se han originado, y de dónde proceden?</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d7946^s22079</dc:subject>
+<dc:subject>^d1443^s22021</dc:subject>
+<dc:subject>^d911^s22007</dc:subject>
+<dc:subject>^d28070</dc:subject>
+<dc:subject>^d24667</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200603</dc:date>
+</metadata>
+</record>
+</ibecs-document>

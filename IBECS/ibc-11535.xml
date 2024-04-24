@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-11535</identifier>
+<setSpec>1130-0108</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Pre-endoscopic prognostic factors in non-varicose upper gastrointestinal bleeding. Development of a predictive algorithm</dc:title>
+<dc:creator>Llorente Melero, M. J</dc:creator>
+<dc:creator>Tenías Burillo, J. M</dc:creator>
+<dc:creator>Zaragoza Marcet, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Arán Ediciones, S.A.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: la hemorragia digestiva alta (HDA) es un problema frecuente, que precisa ingreso hospitalario, y conlleva una importante morbimortalidad. El objetivo de este estudio fue la identificación de factores clínicos y analíticos predictores de una evolución severa de las HDA no varicosas, construyendo con ellos un algoritmo de aplicación clínica sencilla. Métodos: estudio longitudinal de 803 pacientes ingresados por HDA no varicosa. En Urgencias se recogieron variables clínicas y analíticas, previas a la realización de la exploración endoscópica. Se construyó un primer modelo de regresión logística no condicional incluyendo aquellas variables con mayor capacidad predictiva de evolución severa. Posteriormente, este modelo se simplificó para facilitar su aplicación clínica. El rendimiento pronóstico se estimó mediante el cálculo del área bajo la curva ROC. R e s u l t a d o s : el primer modelo predictivo incluyó 11 variables, con un área bajo la curva ROC de 0,74 (IC 95 por ciento 0,710,77). En el segundo modelo, las mismas variables fueron dicotomizadas, con un área bajo la curva ROC de 0,74 (IC 95 por ciento 0,70-0,77). Según su coeficiente de regresión, las variables pronósticas se clasificaron en: a) mayores (shock, hepatopatía, tratamiento con anticoagulantes, ratio urea/creatinina &gt;62); y b) menores (hematocrito &lt;33 por ciento, insuficiencia renal, forma de presentación con hematemesis y melenas, tensión arterial sistólica inferior a 110 mmHg, consumo regular de alcohol, antecedentes de HDA y edad superior a 75 años. Se consideró que una HDA tendría una evolución desfavorable con un factor mayor o 2 factores menores. Conclusiones: El algoritmo construído en nuestro estudio incluye variables clínicas y analíticas pre-endoscópicas, y permite clasificar precozmente a los pacientes con HDA no varicosa según su posible evolución (AU)</dc:description>
+<dc:source>Rev Esp Enferm Dig;94(3): 139-148, mar. 2002.</dc:source>
+<dc:identifier>ibc-11535</dc:identifier>
+<dc:title xml:lang="es">Factores pronósticos pre-endoscópicos en las hemorragias digestivas altas no varicosas. Construcción de un algoritno predictivo</dc:title>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d19062</dc:subject>
+<dc:subject>^d6623</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29362</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d28630</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200203</dc:date>
+</metadata>
+</record>
+</ibecs-document>

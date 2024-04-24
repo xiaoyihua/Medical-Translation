@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-27896</identifier>
+<setSpec>1130-5665</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Clinical score for the diagnosis of deep vein thrombosis</dc:title>
+<dc:creator>Mohamed, O </dc:creator>
+<dc:creator>Rosa Jiménez, F</dc:creator>
+<dc:creator>Zambrana García, J. L</dc:creator>
+<dc:creator>Martín Barranco, M. J </dc:creator>
+<dc:creator>García Jiménez, R </dc:creator>
+<dc:creator>Polaina Rusillo, M </dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Editorial Mapfre</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Realizar un modelo clínico diagnóstico predictivo de trombosis venosa profunda (TVP) en pacientes que acuden al área de urgencias con sintomatología clínica compatible con dicho proceso. Procedimiento: Se ha estudiado de forma retrospectiva los datos clínicos, exploratorios y analíticos obtenidos de pacientes externos que fueron ingresados por sospecha clínica de TVP y en los que se confirmó o excluyó dicho diagnóstico mediante la realización de una ecografía o flebografía de miembros inferiores. Resultados: Se estudiaron 400 eventos, confirmándose el diagnóstico de TVP en 316 casos (79 por ciento). El 0,3 por ciento de los pacientes con TVP y el 15,5 por ciento de los pacientes sin TVP presentaban un dímero D negativo, un diámetro normal del muslo y no tenían edema. Conclusiones: Aunque el modelo no es suficientemente discriminativo para confirmar el diagnóstico, sí es útil para seleccionar un grupo de pacientes que no presentan trombosis venosa profunda y en los que se podría evitar un ingreso hospitalario innecesario (AU)</dc:description>
+<dc:source>MAPFRE med;14(3): 161-168, ene. 2003. tab</dc:source>
+<dc:identifier>ibc-27896</dc:identifier>
+<dc:title xml:lang="es">Modelo clínico para el diagnóstico de la trombosis venosa profunda</dc:title>
+<dc:subject>^d4707</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d33768^s22016</dc:subject>
+<dc:subject>^d6940</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d8044^s22040</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200301</dc:date>
+</metadata>
+</record>
+</ibecs-document>

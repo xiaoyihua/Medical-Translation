@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-139505</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Fixed-Altitude Stair-Climbing Test Replacing the Conventional Symptom-Limited Test. A Pilot Study</dc:title>
+<dc:description xml:lang="en">Introduction: The objective of this study was to investigate whether a patient&#146;s maximum capacity is comparable in 2 different stair-climbing tests, allowing the simplest to be used in clinical practice. Method: Prospective, observational study of repeated measures on 33 consecutive patients scheduled for lung resection. Stair-climbing tests were: the standard test (climb to 27 m) and the alternative fixedaltitude test (climb to 12 m). In both cases, heart rate and oxygen saturation were monitored before and after the test. The power output of stair-climbing for each test (Watt1 for the standard and Watt2 for the fixed-altitude test) was calculated using the following equation: Power (watt) = weight (kg)*9.8*height (m)/time (sec). Concordance between tests was evaluated using a regression model and the residuals were plotted against Watt1. Finally, power output values were analyzed using a Bland-Altman plot. Results: Twenty-one male and 12 female patients (mean age 63.2 ± 11.2) completed both tests. Only 12 patients finished the standard test, while all finished the fixed-altitude test. Mean power output values were Watt1: 184.1 ± 65 and Watt2: 214.5 ± 75.1. The coefficient of determination (R2) in the linear regression was 0.67. No fixed bias was detected after plotting the residuals. The Bland-Altman plot showed that 32 out of 33 values were within 2 standard deviations of the differences between methods Conclusions: The results ofthis study show a reasonable level of concordance between both stair-climbing tests. The standard test can be replaced by the fixed-altitude test up to 12 m (AU)</dc:description>
+<dc:creator>Rodríguez, María</dc:creator>
+<dc:creator>Novoa, Nuria M</dc:creator>
+<dc:creator>Jiménez, Marcelo F</dc:creator>
+<dc:creator>Vare, Gonzalo</dc:creator>
+<dc:creator>Gómez, M. Teresa</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: El objetivo de este estudio es conocer si en una prueba de subir escaleras en la que solo se asciende una altura fija de 12 m se desarrolla una potencia similar a la de la prueba estándar, lo que significaría que ambas son equivalentes. Método: Estudio prospectivo, observacional de medidas repetidas en 33 pacientes consecutivos valorados para resección pulmonar. Prueba estándar: límite de 27 m de altura; prueba altura fija: 12 m. Se monitorizaron saturación de oxígeno y frecuencia cardiaca al inicio y al final del ejercicio y se midió el tiempo de esfuerzo. La potencia desarrollada en cada prueba se calculó (Watt1: estándar y Watt2: altura fija) mediante: Potencia (Watt) = peso (kg)*9,8*altura (m)/tiempo(seg). Para evaluar la equivalencia entre potencias, se construyó un modelo de regresión lineal y se contrastaron gráficamente los residuos. Los valores de las potencias se analizaron mediante el método de Bland y Altman. Resultados: Veintiún varones y 12 mujeres realizaron ambas pruebas. Edad media 63,2 ± 11,2. Solo 12 pacientes terminaron la prueba estándar. Todos acabaron la prueba de 12 m. Los valores de potencia alcanzados fueron Watt1: 184,1 ± 65 y Watt2: 214,5 ± 75,1. En la regresión lineal, R2fue 0,67. No se encontró ningún sesgo en la distribución gráfica de los residuos. El análisis de Bland y Altman mostró que 32 de los 33 valores de potencia estaban dentro de las 2 desviaciones estándar de las diferencias entre métodos. Conclusión: Los resultados muestran un nivel razonable de concordancia entre ambas pruebas de subir escaleras por lo que la prueba corta podría sustituir a la estándar (AU)</dc:description>
+<dc:source>Arch Bronconeumol;51(6): 268-272, jun. 2015. tab, ilus, graf</dc:source>
+<dc:identifier>ibc-139505</dc:identifier>
+<dc:title xml:lang="es">La prueba de escaleras limitada por altura podría sustituir a la prueba estándar en la evaluación funcional previa a la resección pulmonar. Estudio piloto</dc:title>
+<dc:subject>^d36288^s22056</dc:subject>
+<dc:subject>^d55468</dc:subject>
+<dc:subject>^d36288^s22045</dc:subject>
+<dc:subject>^d8348^s22032</dc:subject>
+<dc:subject>^d8348^s22012</dc:subject>
+<dc:subject>^d8348^s22044</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d36288^s22039</dc:subject>
+<dc:subject>^d8348^s22016</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d9562^s22012</dc:subject>
+<dc:subject>^d9562^s22024</dc:subject>
+<dc:subject>^d9562^s22033</dc:subject>
+<dc:subject>^d9562^s22044</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d6493^s22031</dc:subject>
+<dc:subject>^d6493^s22033</dc:subject>
+<dc:subject>^d36288^s22060</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201506</dc:date>
+</metadata>
+</record>
+</ibecs-document>

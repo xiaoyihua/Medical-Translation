@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-133839</identifier>
+<setSpec>1130-0108</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Validity and reliability of the minimum basic data set in estimating nosocomial acute gastroenteritis caused by rotavirus</dc:title>
+<dc:description xml:lang="en">Introduction: Rotavirus is the principal cause of nosocomial acute gastroenteritis (NAGE) under 5 years of age. The objective is to evaluate the validity and reliability of the minimum basic data set (MBDS) in estimating the NAGE caused by rotavirus (NAGER) and to analyze any changes during the three years that the Rotarix® and Rotateq® vaccines were used in Spain. Material and methods: A descriptive, retrospective study was carried out in the University Hospital of Guadalajara (UHG) (Spain) between 2003-2009 using the MBDS, positive microbiological results for rotavirus (PMRs), and medical histories. Three methods of estimation were used: 1) An ICD-9-CM code 008.61 in the secondary diagnosis fields (DIAG2) of MBDS; 2) method 1 and/or PMRs with a current or recent hospitalization; and 3) the reference method or method 2 contrasted with patient medical histories. The validity of methods 1 and 2 was determined &#150;sensitivity, specificity, predictive values and likelihood ratios (LRs)&#150;, along with their agreement with method 3 (Kappa coefficient). In addition, the incidence rate ratio between the NAGER rate in 2007-2009 (commercialization period of both vaccines) was calculated with respect to 2003-2005 (pre-commercialization period). Results: Method 1 identified 65 records with a DIAG2 of 008.61. Method 2 found 62 probable cases, and the reference method, 49 true cases. The sensitivity of the MBDS was 67 %, the positive predictive value was 51 %, and both negative LR (LR-) and reliability were moderate (LR- 0.33, Kappa coefficient 0.58). During 2007-2009, the NARGE decreased by 5 cases per 103 hospitalizations and by 9 per 104 days of hospitalization. Method 2 overestimated both the decline in incidence by 2 per 103 hospitalizations and the decreased risk per day of stay by 10 %. The MBDS found no differences between the two three-year periods, but, like method 2, showed an excellent level of diagnostic evidence (LR+ 67). Conclusion: The MBDS taken together with microbiological results, is more exact, safer and more reliable than the MBDS alone in estimating NAGER; and more useful in ruling out it. Nevertheless, the MBDS alone may be used to estimate and compare such disease in contexts with different prevalences (AU)</dc:description>
+<dc:creator>Redondo González, Olga</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: la gastroenteritis aguda nosocomial por rotavirus (GEANOR) representa la principal causa de GEA nosocomial en menores de 5 años. El objetivo es evaluar la validez, fiabilidad y verosimilitud del conjunto mínimos básico de datos (CMBD) para estimarla y analizar posibles cambios en el primer trienio de comercialización de las vacunas Rotarix® y Rotateq® en España. Material y métodos: estudio descriptivo-retrospectivo en el Hospital Universitario de Guadalajara en 2003-2009 mediante el CMBD (altas neonatales y pediátricas), los resultados positivos para rotavirus de microbiología (RPM) y las historias clínicas. Los métodos de estimación fueron: 1 (CIE9-MC 008.61 en los campos de diagnóstico secundario del CMBD); 2 (método 1 y/o RPM con ingreso actual-reciente); y método 3 o referencia (método 2 contrastado con las historias clínicas). Se determinó la validez de los métodos 1 y 2 y su concordancia con el método 3 (índice kappa). También, las razones de verosimilitud (LHR) de estos métodos. Además, s e calculó la razón de tasas de incidencia de 2007-2009 respecto a 2003-2005. Resultados: se encontraron 65 registros con DIAG2 008.61 y 62 casos probablemente nosocomiales por el método 2, cuyas historias clínicas fueron revisadas junto con 11 registros posiblemente nosocomiales. La sensibilidad del CMBD resultó del 67 %, la seguridad del 51 % y su fiabilidad y LHR negativo moderados (índice kappa 0,58 y LHR- 0,33). En 2007-2009, respecto a 2003-2005, la enfermedad se redujo en 5 casos por 103 ingresos y en 9 por 104 días de estancia. El método 2 sobreestimó el descenso en 1 por 103 ingresos y el descenso de riesgo por día de estancia en un 10 %. El CMBD no encontró diferencias intertrienios pero presentó al igual que el método 2, un excelente nivel de evidencia diagnóstica (LHR+ 67). Conclusión: el CMBD junto a la microbiología es más exacto, seguro y consistente que el CMBD per se en la estimación de la GEANOR, y también más útil para descartarla. Sin embargo, el CMBD por sí mismo podría ser utilizado en la estimación de la infección nosocomial en contextos con diferentes prevalencias (AU)</dc:description>
+<dc:source>Rev Esp Enferm Dig;107(3): 152-161, mar. 2015. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-133839</dc:identifier>
+<dc:title xml:lang="es">Validez y fiabilidad del conjunto mínimo básico de datos en la estimación de la gastroenteritis aguda nosocomial por rotavirus</dc:title>
+<dc:subject>^d31778^s22052</dc:subject>
+<dc:subject>^d35386^s22000</dc:subject>
+<dc:subject>^d12776^s22016</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d28402</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d5900^s22080</dc:subject>
+<dc:subject>^d28477^s22080</dc:subject>
+<dc:subject>^d28575</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201503</dc:date>
+</metadata>
+</record>
+</ibecs-document>

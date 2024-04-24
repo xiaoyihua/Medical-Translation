@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-144804</identifier>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Risk of mortality associated to chronic kidney disease in patients with type 2 diabetes mellitus: A 13-year follow-up</dc:title>
+<dc:description xml:lang="en">Objective: Our aim was to assess the usefulness of glomerular filtration rate (GFR) and urinary albumin excretion (UAE) to predict the risk of mortality in patients with type 2 diabetes mellitus. Material and methods: This is a prospective cohort study in patients with type 2 diabetes mellitus. Clinical end-point was mortality rate. GFR was measured in ml/min/1.73 m2 and stratified in 3 categories (&amp;#8805;60; 45-59; &lt;45); UAE was measured in mg/24 hours and was also stratified in 3 categories (&lt;30; 30-300; &gt;300). Mortality rates were reported per 1000 patient years. Cox regression models were used to predict mortality risk associated with combined GFR and UAE. The predictive power was estimated with C-Harrell statistic. Results: A total of 453 patients (39.3% males), aged 64.9 (SD 9.3) years were included; mean diabetes duration was 10.4 (SD 7.5) years. Median follow-up was 13 years. Total mortality rate was 39.5/1000. The progressive increase in mortality in the successive categories of GFR and UAE was statistically significant (P&lt;.001). In a multivariable analysis, UAE (HR30- 300 = 1.02 and HR&gt; 300 = 2.83; X2 = 11.6; P =.003) and GFR (HR45-59 = 1.34 and HR&lt; 45=1.84; X2 = 6.4; P =.041) were independent predictors for mortality, with no significant interaction. Simultaneous inclusion of GFR and UAE improved the predictive power of models (C-Harrell 0.741 vs. 0.726; P =.045). Conclusions: GFR and UAE are independent predictors for mortality in type 2 diabetic patients and do not show a statistically significant interaction (AU)</dc:description>
+<dc:creator>Lou-Arnal, Luis Miguel</dc:creator>
+<dc:creator>Blanca García-García, Blanca</dc:creator>
+<dc:creator>Molinero-Herguedas, Edmundo</dc:creator>
+<dc:creator>Campos-Gutierrez, Belén</dc:creator>
+<dc:creator>Blasco-Lamarca, Yolanda</dc:creator>
+<dc:creator>Gimeno-Orna, José Antonio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Nuestro objetivo fue evaluar la influencia de la tasa de filtración glomerular (TFG) y de la excreción de albúmina urinaria (EAU) sobre el riesgo de mortalidad en pacientes con diabetes mellitus tipo 2 (DM2). Material y métodos: Estudio de cohortes prospectivo con inclusión de pacientes con DM2. El punto final clínico fue mortalidad total. La TFG se midió en ml/min/1,73 m2 con estratificación en 3 categorías (&amp;#8805;60; 45-59; &lt;45) y la EAU en mg/24h con estratificación también en 3 categorías (&lt;30; 30-300; &gt;300). Se evaluaron las tasas de mortalidad por cada 1.000 pacientes/año y, mediante regresión de Cox, el riesgo de mortalidad asociado con las categorías de TFG y EAU. El poder predictivo se midió con el estadístico C de Harrell. Resultados: Se incluyó a 453 pacientes (39,3% varones, edad 64,9 [DE 9,3] años y evolución de DM2 10,4 [DE 7,5] años). Durante una mediana de 13 años de seguimiento, la tasa de mortalidad total fue de 39,5/1.000, con incremento progresivo ante descenso de la TFG y aumento de la EAU (p &lt; 0,001). En análisis multivariante la EAU (HR30-300 = 1,02 y HR&gt;300 = 2,83; chi2 = 11,6; p = 0,003) y la TFG (HR45-59 = 1,34 y HR&lt;45= 1,84; chi2 = 6,4; p = 0,041) fueron predictores independientes de mortalidad sin interacción significativa. La inclusión de TFG y EAU mejoró la capacidad predictiva de los modelos (C de Harrell 0,741 vs. 0,726; p = 0,045). Conclusiones: La TFG y la EAU son predictores independientes de mortalidad en pacientes con DM2, sin interacción significativa (AU)</dc:description>
+<dc:source>Nefrologia;35(5): 487-492, sept.-oct. 2015. graf, tab</dc:source>
+<dc:identifier>ibc-144804</dc:identifier>
+<dc:title xml:lang="es">Riesgo de mortalidad asociado a enfermedad renal crónica en pacientes con diabetes tipo 2 durante un seguimiento de 13 años</dc:title>
+<dc:subject>^d3946^s22012</dc:subject>
+<dc:subject>^d422^s22016</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d28625</dc:subject>
+<dc:subject>^d50497^s22012</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6063</dc:subject>
+<dc:subject>^d3946^s22047</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201510</dc:date>
+</metadata>
+</record>
+</ibecs-document>

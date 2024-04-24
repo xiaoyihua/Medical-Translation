@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-102040</identifier>
+<setSpec>0212-1972</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">No disponible</dc:title>
+<dc:description xml:lang="en">No disponible</dc:description>
+<dc:creator>San José, J. F</dc:creator>
+<dc:creator>Santiago, P</dc:creator>
+<dc:creator>Villafruela, J. M</dc:creator>
+<dc:creator>Castro, F</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Con ayuda de la mecánica de fluidos computacional se analiza el flujo de aire y la transmisión aérea de  patógenos en una habitación de aislados infecciosos. La presencia de antesala con doble puerta de acceso y la presión negativa en cascada ayudan a evitar la propagación de la infección por el resto del hospital, mientras que un diseño eficiente del sistema de ventilación ayuda a proteger al personal que entra en la habitación. En este trabajo se analiza la influencia que tiene la  posición de los difusores de aire y de las rejillas de retorno en la dispersión aérea de patógenos activos exhalados por el paciente. Se cuantifica el riesgo relativo de que una persona que entra en la habitación  inhale aire contaminado. Así mismo se analiza la importancia que tiene, no solo la posición, sino también el tipo de difusor de aire en la forma de dispersar esos patógenos.  Los resultados muestran que con una elección y una colocación adecuada de los difusores y de las rejillas de retorno se puede disminuir significativamente el riesgo de contagio por vía aérea. La alternativa de  aumentar el caudal de ventilación por encima de los valores preconizados por las recomendaciones internacionales aumentaría los costes energéticos y perjudicaría  el confort en la habitación (AU)</dc:description>
+<dc:source>Todo hosp;(276): 11-16, jul. 2012. tab, ilus</dc:source>
+<dc:identifier>ibc-102040</dc:identifier>
+<dc:title xml:lang="es">Estudio de la ventilación en salas de paciente aislado</dc:title>
+<dc:subject>^d15097^s22045</dc:subject>
+<dc:subject>^d^s22045</dc:subject>
+<dc:subject>^d10550^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d10551^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201207</dc:date>
+</metadata>
+</record>
+</ibecs-document>

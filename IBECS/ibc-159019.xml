@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-159019</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Differences in the recognition of occupational disease by sex, occupation and business activity in Spain (1990-2009)</dc:title>
+<dc:description xml:lang="en">Background: According to official statistics, men suffer more occupational diseases (OD) than women. Nevertheless, the unequal distribution and participation in the labor markets between men and women should be kept in mind. The aim was to assess the gender impact in the recognition of OD in Spain, examining interaction and confounding factors. Methods: An incidence study of the occupational diseases declared through the official OD reporting forms from 1999 to 2009, provided by the General Subdirectorate of Social and Labor Statistics of the Ministry of Employment and Social Security, was conducted. The variables included were: reporting year, sex, age, occupation and economic activity of the company. Rates and crude relative risks (cRR) by these variables were calculated. Adjusted RR were also computed by using multivariate Poisson regression. Results: During the study period a total of 243,310 OD were reported in Spain, with a sex ratio of men to women of 1.07. Correlation existed between occupation and business activity, thus the OD rates and RR were computed by these variables separately. By occupation, men had a crude RR of 1.067 (95%CI:1.058 to 1.076) versus women, while wen the analysis was adjusted by all the variables, the RR was 0.507 (95%CI:0.502 to 0.512). By economic activity of the company, the sense of risk was reversed too in the adjusted analysis (cRR=1.065, 95%CI:1.056 to 1.074 versus 0.632, 95%CI:0.626 to 0.638). Conclusions: Although crude OD rates are lower in women than in men during the period 1999-2009 in Spain, when these rates are adjusted by company activity or worker occupation, age and year of OD declaration, RRs become almost 50% higher in women than in men for the majority of occupations and types of company activity (AU)</dc:description>
+<dc:creator>García Gómez, Montserrat</dc:creator>
+<dc:creator>Herrador Ortiz, Zaida</dc:creator>
+<dc:creator>Simón Soria, Fernando</dc:creator>
+<dc:creator>Castañeda López, Rosario</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Fundamentos: Según las estadísticas oficiales, los hombres sufren más enfermedades profesionales (EEPP) que las mujeres. No obstante, hay que tener presente su desigual distribución y participación en el mundo laboral. El objetivo de este estudio fue valorar cómo afecta el sexo al reconocimiento de EEPP en España, identificando posibles factores de interacción/confusión. Métodos: Se estudió la incidencia de las EEPP declaradas a través del Parte Oficial durante el período de 1999 al 2009, proporcionados por la Subdirección General de Estadísticas Sociales y Laborales del Ministerio de Empleo y Seguridad Social. Las variables incluidas fueron: año de declaración, sexo, edad, ocupación y actividad económica de la empresa. Se calcularon tasas y riesgos relativos (RR) crudos de EEPP por cada variable. Se estimaron los RR ajustados mediante análisis bivariable y multivariante de Poisson. Resultados: Durante 1999-2009 se notificaron en España 243.310 EEPP, con una razón de tasas hombres/mujeres de 1,07. Hubo correlación entre la ocupación y la actividad de la empresa, por lo que se analizaron las EEPP según estas variables por separado. Por ocupación, los hombres presentaron un RR crudo de 1,067 (IC95%:1,058-1,076) frente a las mujeres, mientras que al ajustar por todas las variables del modelo el RR fue de 0,507 (IC95%:0,502-0,512). Por actividad, el sentido del riesgo también se invirtió en el análisis ajustado para el sexo (RRc=1,065, IC95%:1,056-1,074 frente a 0,632, IC95%:0,626-0,638). Conclusiones: Aunque las tasas crudas de EEPP son inferiores en mujeres que en hombres durante el periodo 1999-2009 en España, al ajustar estas tasas por la actividad de la empresa o la ocupación del trabajador, la edad y el año de declaración, los RR pasan a ser casi un 50% superiores en mujeres que en hombres para la mayoría de ocupaciones y tipos de actividad de la empresa (AU)</dc:description>
+<dc:source>Rev Esp Salud Publica;91: 0-0, 2017. tab</dc:source>
+<dc:identifier>ibc-159019</dc:identifier>
+<dc:title xml:lang="es">Reconocimiento de enfermedades profesionales según sexo, ocupación y actividad de la empresa en España (1999-2009)</dc:title>
+<dc:subject>^d27830</dc:subject>
+<dc:subject>^d28567</dc:subject>
+<dc:subject>^d9967^s22054</dc:subject>
+<dc:subject>^d9975</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d28583</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d29064^s22048</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d29063^s22054</dc:subject>
+<dc:subject>^d9967^s22080</dc:subject>
+<dc:subject>^d29063^s22083</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:subject>^d28455^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201700</dc:date>
+</metadata>
+</record>
+</ibecs-document>

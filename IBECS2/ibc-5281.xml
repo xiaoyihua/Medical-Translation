@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-5281</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Medication utilization in patients admitted to a domiciliary hospitalization unit</dc:title>
+<dc:creator>Tordera, M,</dc:creator>
+<dc:creator>Fernández, M. J</dc:creator>
+<dc:creator>Magraner, J</dc:creator>
+<dc:creator>Gimeno, V</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Arán Ediciones, S.A.</dc:publisher>
+<dc:description xml:lang="es">La hospitalización domiciliaria (HD) constituye un sistema de atención sociosanitaria alternativa a la hospitalización tradicional que resulta coste-efectiva. El objetivo del presente trabajo es estudiar la utilización de medicamentos en la unidad de HD, tomando como unidad de medida el número de DDD/100 estancias, así como identificar los tipos de pacientes más frecuentemente atendidos y establecer una relación con el consumo de medicamentos y el coste de los mismos. Para ello se ha realizado un estudio prospectivo de los pacientes ingresados en esta unidad durante el período enero-marzo de 1999. Se utilizó con este fin una hoja de recogida de datos que fue completada a partir de las epicrisis de los pacientes a su ingreso en HD, y cuando fue necesario, a partir de la historia clínica. También se obtuvieron los consumos de medicamentos por paciente a partir del módulo de dosis unitarias Farmasyst-APD y los datos de consumo global y coste a partir del módulo de gestión. En total se analizaron 130 ingresos (correspondientes a 125 pacientes con una media de edad de setenta y tres años). La media de diagnósticos por ingreso fue de 2,4 y el número de estancias por ingreso de dieciocho días. El coste por ingreso fue de 11.542 pesetas y el coste por estancia de 641 pesetas. Las patologías de mayor frecuencia de presentación fueron neoplasias, enfermedades respiratorias (infecciones, síndromes obstructivos, insuficiencia respiratoria) y enfermedades cardiovascu¡ares (insuficiencia cardiaca y cardiorrespiratoria, accidentes cardiovasculares, etc.). El número de DDD/100 estancias por grupo terapéutico puede desglosarse de la siguiente forma, por orden de mayor a menor: grupo respiratorio: 33,4; grupo digestivo: 24,5; grupo terapia hormonal (corticoides): 21,1; grupo cardiovascular: 14,2; grupo sistema nervioso (incluyendo analgésicos): 10,0; grupo antiinfecciosos: 7,5; grupo sangre y órganos hematopoyéticos: 4,0, y grupo dietéticos: 0,55. (AU)</dc:description>
+<dc:source>Farm Hosp;24(6): 383-389, nov. 2000. tab, graf</dc:source>
+<dc:identifier>ibc-5281</dc:identifier>
+<dc:title xml:lang="es">Utilización de medicamentos en pacientes atendidos a través del servicio de hospitalización domiciliaria</dc:title>
+<dc:subject>^d4422</dc:subject>
+<dc:subject>^d4422^s22083</dc:subject>
+<dc:subject>^d32196^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d32196^s22083</dc:subject>
+<dc:subject>^d4422^s22018</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d32196^s22018</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200011</dc:date>
+</metadata>
+</record>
+</ibecs-document>

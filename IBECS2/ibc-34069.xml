@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-34069</identifier>
+<setSpec>0558-6291</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Quantification of human genomes by real time PCR and Taqman probes: applications to forensic and ancient DNA studies</dc:title>
+<dc:creator>Albarrán, Cristina</dc:creator>
+<dc:creator>García, Oscar</dc:creator>
+<dc:creator>Sancho, Manuel</dc:creator>
+<dc:creator>Fernández Piqueras, Jose</dc:creator>
+<dc:creator>Alonso, Antonio</dc:creator>
+<dc:creator>Martín, Pablo</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Facultad de Medicina. Universidad de Zaragoza</dc:publisher>
+<dc:description xml:lang="es">La Cuantificación de ADN humano se ha convertido en un análisis indispensable en los laboratorios de genética forense, en especial para evitar (o al menos advertir) la posible presencia de determinados artefactos de amplificación (perdida alélica al azar en sistemas nucleares autosomicos, incorporaciones de nucleótidos erróneas,...) que se producen cuando el número de moléculas con las que se inicia la PCR es muy bajo (Navidi et al. 1992, Handt et al. 1996 ). Esta es una situación (referida en ingles como LCN: Low Copy Number) (Gill 2001) a la que nos enfrentamos de manera muy frecuente tanto en el análisis de marcadores de ADN nuclear en ciertos casos forenses (mezclas desbalanceadas de fluidos, pelos telegénicos, restos óseos, objetos tocados,...) como en el análisis del ADN mitocondrial a partir de restos arqueológicos y paleontológicos (Hofreiter et al. 2001). En este trabajo se exploran distintos diseños de cuantificación de ADN mitocondrial y ADN nuclear humanos basados en la detección de la actividad 5'exonucleasa de la Taq polimerasa utilizando sondas TagMan MGB en un sistema ABI PRISM 7900HT de Real-Time PCR (AU)</dc:description>
+<dc:source>Arch. Fac. Med. Zaragoza;43(2): 64-67, ago. 2003.</dc:source>
+<dc:identifier>ibc-34069</dc:identifier>
+<dc:title xml:lang="es">Cuantificación de genomas humanos mediante PCR en tiempo real y sondas Taqman: aplicaciones en genética forense y ADN antiguo</dc:title>
+<dc:subject>^d24691</dc:subject>
+<dc:subject>^d13111</dc:subject>
+<dc:subject>^d22156^s22002</dc:subject>
+<dc:subject>^d5688</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30522^s22045</dc:subject>
+<dc:subject>^d28320</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200308</dc:date>
+</metadata>
+</record>
+</ibecs-document>

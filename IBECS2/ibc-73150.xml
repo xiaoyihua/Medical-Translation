@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-73150</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Pressure-Volume curves in acute pulmonary injury</dc:title>
+<dc:description xml:lang="en">Static pressure-volume curves of the respiratorysystem from patients with acute lung injuryhave been extensively studied as a marker ofaeration and recruitment phenomena and as atool to set mechanical ventilation. The inflectionpoints of these curves allow to identify both thepressures in which recruitment starts and finishesand those in which derecruitment starts. However,setting the ventilatory parameters based on thesecurves has some problems, derived from the factthat setting PEEP and plateau pressures in thesepatients must balance between the benefits of recruitmentand the risks of overstretching causedby high pressures. It remains to be determined ifnew data derived from these curves are useful tooptimize ventilatory settings or to predict theresponse of a patient to a change in the ventilatorysettings(AU)</dc:description>
+<dc:creator>Albaiceta, Guillermo M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Se ha estudiado ampliamente las curvas estáticasde presión-volumen del sistema respiratorioen pacientes con lesión pulmonar aguda como reflejode los fenómenos de aireación y reclutamientoalveolar y como herramienta para el ajuste de laventilación mecánica. Los puntos de inflexión dedichas curvas permiten identificar tanto las presionesen las que comienza y termina el reclutamientocomo aquellas en las que comienza el desreclutamiento.Sin embargo, la selección de parámetrosventilatorios basada en estas curvas presenta variosproblemas, derivados del hecho de que la selecciónde PEEP y presiones en meseta en estospacientes debe balancearse entre los beneficiosdel reclutamiento y los riesgos de la sobredistensiónproducida por presiones elevadas. Está porver si nuevos datos derivados de estas curvas permitenoptimizar los parámetros de ventilación mecánicao predecir la respuesta de un paciente a uncambio en los ajustes del ventilador(AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);33(5): 243-250, jul. 2009.</dc:source>
+<dc:identifier>ibc-73150</dc:identifier>
+<dc:title xml:lang="es">Curvas presión-volumen en la lesión pulmonar aguda</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d12549^s22032</dc:subject>
+<dc:subject>^d12541^s22020</dc:subject>
+<dc:subject>^d1969^s22074</dc:subject>
+<dc:subject>^d12549^s22080</dc:subject>
+<dc:subject>^d1969^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d24860</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d12549^s22012</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200907</dc:date>
+</metadata>
+</record>
+</ibecs-document>

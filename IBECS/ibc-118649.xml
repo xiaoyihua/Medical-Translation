@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-118649</identifier>
+<setSpec>1132-239X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Observational software, data quality control and data analysis</dc:title>
+<dc:description xml:lang="en">At present, researchers who wish to apply computerized observational procedures within the context of the observational methodology face numerous difficulties. These difficulties stem from the versatility of the data, the recording of images, and the lack of immediate results. This paper takes both a retrospective and forward look at the field, discussing the interconnectivity that has been achieved through observational software developed in recent years. Specifically, it examines progress in the way in which levels of behaviour are selected, changed and suppressed (criteria and categories/codes), the import and export of data records from one programme to another, and the inclusion of calculation processes(AU)</dc:description>
+<dc:creator>Anguera, M Teresa</dc:creator>
+<dc:creator>Blanco-Villaseñor, Ángel</dc:creator>
+<dc:creator>Hernández-Mendo, Antonio</dc:creator>
+<dc:creator>Jonsson, Gudberg</dc:creator>
+<dc:creator>Castellano, Julen</dc:creator>
+<dc:creator>Camerino, Oleguer</dc:creator>
+<dc:creator>Lopes, Antonio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Actualmente, para aplicar procedimientos de observación informatizados en metodología observacional hay que enfrentar numerosas dificultades derivadas de la versatilidad de los datos, del registro de imágenes y de la falta de inmediatez de los resultados. El objetivo de este artículo es presentar una visión retrospectiva y de futuro donde se informa de la interconectividad conseguida con los programas de observación generados en los últimos años. Se presentan los logros conseguidos agilizando la elección, cambio y supresión de los niveles de conducta (criterios y categorías/códigos), incrementando la importación y exportación de los datos del registro entre los programas y la inclusión procesos de cálculo (AU)</dc:description>
+<dc:source>Rev. psicol. deport;23(1): 111-121, ene.-jun. 2014.</dc:source>
+<dc:identifier>ibc-118649</dc:identifier>
+<dc:title xml:lang="es">Programas informáticos de registro, control de calidad del dato, y análisis de datos</dc:title>
+<dc:subject>^d19144^s22048</dc:subject>
+<dc:subject>^d13562^s22083</dc:subject>
+<dc:subject>^d51792^s22083</dc:subject>
+<dc:subject>^d13563^s22083</dc:subject>
+<dc:subject>^d22519^s22048</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d51792^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d19144^s22074</dc:subject>
+<dc:subject>^d22519^s22074</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d13563^s22019</dc:subject>
+<dc:subject>^d13562^s22019</dc:subject>
+<dc:subject>^d13562^s22048</dc:subject>
+<dc:subject>^d13563^s22049</dc:subject>
+<dc:subject>^d19245</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201406</dc:date>
+</metadata>
+</record>
+</ibecs-document>

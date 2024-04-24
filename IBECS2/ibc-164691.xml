@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-164691</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Assessment of smith algorithms for the diagnosis of acute myocardial infarction in the presence of left bundle branch block</dc:title>
+<dc:description xml:lang="en">Introduction and objectives: Recently, a new electrocardiography algorithm has shown promising results for the the diagnosis of acute myocardial infarction in the presence of left bundle branch block (LBBB). We aimed to assess these new electrocardiography rules in a cohort of patients referred for primary percutaneous coronary intervention (pPCI). Methods: Retrospective observational cohort study that included all patients with suspected myocardial infarction and LBBB on the presenting electrocardiogram, referred for pPCI to 4 tertiary hospitals in Barcelona, Spain. Results: A total of 145 patients were included. Fifty four (37%) had an ST-segment elevation myocardial infarction (STEMI) equivalent. Among patients with STEMI, 25 (46%) presented in Killip class III or IV, and in-hospital mortality was 15%. Smith I and II rules performed better than Sgarbossa algorithms and showed good specificity (90% and 97%, respectively) but their sensitivity was 67% and 54%, respectively. In a strategy guided by Smith I or Smith II rules, 18 (33%) or 25 (46%) patients with STEMI would have not received a pPCI, respectively. Moreover, the severity and prognosis of STEMI patients was similar regardless of the positivity of Smith rules. Cardiac biomarkers were positive in 54% of non-STEMI patients, limiting their usefulness for initial diagnostic screening. Conclusions: Diagnosis of STEMI in the presence of LBBB remains a challenge. Smith rules can be useful but are limited by suboptimal sensitivity. The search for new electrocardiography algorithms should be encouraged to avoid unnecessary aggressive treatments in the majority of patients, while providing timely reperfusion to a high-risk subgroup of patients (AU)</dc:description>
+<dc:creator>Dallaglio, Paolo</dc:creator>
+<dc:creator>Di Marco, Andrea</dc:creator>
+<dc:creator>Anguera, Ignasi</dc:creator>
+<dc:creator>Rodríguez, Jany</dc:creator>
+<dc:creator>Sionis, Alessandro</dc:creator>
+<dc:creator>Cequier, Ángel</dc:creator>
+<dc:creator>Gómez Hospital, Joan Antoni</dc:creator>
+<dc:creator>Rodríguez, Marcos</dc:creator>
+<dc:creator>Masotti, Mónica</dc:creator>
+<dc:creator>Ariza Solé, Albert</dc:creator>
+<dc:creator>Villuendas, Roger</dc:creator>
+<dc:creator>Bayes Genis, Antoni</dc:creator>
+<dc:creator>Díaz Nuila, Mario</dc:creator>
+<dc:creator>Sánchez Salado, José Carlos</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos: Recientemente, un nuevo algoritmo electrocardiográfico ha mostrado resultados esperanzadores para el diagnóstico del infarto agudo de miocardio (IAM) en presencia de bloqueo completo de rama izquierda del haz de His (BRIHH). Se decidió evaluar estos nuevos algoritmos en una cohorte de pacientes remitidos para intervención coronaria percutánea primaria (ICPp). Métodos: Estudio observacional de cohorte retrospectiva que incluyó a todos los pacientes con sospecha de IAM y BRIHH en el ecocardiograma inicial remitidos para ICPp a 4 hospitales terciarios de Barcelona, España. Resultados: Se incluyó a 145 pacientes; 54 (37%) tenían un cuadro clínico equivalente a un IAM con elevación del segmento ST (IAMCEST). Entre los pacientes con IAMCEST, 25 (46%) estaban en Killip III o IV y la mortalidad hospitalaria fue del 15%. Los algoritmos I y II de Smith presentaron mejores resultados que los algoritmos de Sgarbossa y tuvieron buena especificidad (el 90 y el 97% respectivamente); sin embargo, su sensibilidad fue del 67 y el 54% respectivamente. En una estrategia terapéutica guiada por los algoritmos de Smith, 18 (33%) o 25 (46%) pacientes con IAMCEST no habrían recibido ICPp. Por otra parte, la gravedad y el pronóstico de los pacientes con IAMCEST era similar independientemente de la positividad de los algoritmos de Smith. Los marcadores de daño miocárdico fueron positivos en un 54% de los pacientes sin IAMCEST, lo que limita su utilidad para el diagnóstico inicial. Conclusiones: El diagnóstico de IAMCEST en presencia de BRIHH sigue siendo un desafío. Los algoritmos de Smith pueden ser útiles, pero están limitados por una sensibilidad subóptima. Se tiene que promover la búsqueda de nuevos criterios electrocardiográficos para evitar tratamientos agresivos no necesarios a la mayoría de los pacientes y, al mismo tiempo, proporcionar reperfusión emergente a un subgrupo con alto riesgo (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;70(7): 559-566, jul. 2017. ilus, tab</dc:source>
+<dc:identifier>ibc-164691</dc:identifier>
+<dc:title xml:lang="es">Evaluación de los algoritmos de Smith para el diagnóstico de infarto agudo de miocardio en presencia de bloqueo de rama izquierda del haz de His</dc:title>
+<dc:subject>^d2069^s22032</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d19062</dc:subject>
+<dc:subject>^d2068^s22012</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d52613^s22016</dc:subject>
+<dc:subject>^d9395^s22016</dc:subject>
+<dc:subject>^d55037^s22083</dc:subject>
+<dc:subject>^d4634^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201707</dc:date>
+</metadata>
+</record>
+</ibecs-document>

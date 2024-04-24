@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150051</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Application of a design of multiple time series to a case of intervention in two classrooms of primary education</dc:title>
+<dc:description xml:lang="en">In the designs of interrupted time series carried out with a single subject, two main difficulties appear. The first one lies in the fact that it isn&#146;t quite clear whether the changes, which appear in the execution, are due to the circumstances introduced by the investigator (treatment) or to other circumstances that may occur at the same time. The second one consists in the difficult generalization of the results obtained from a single subject. In this work, we present a case to which we have applied the extension of the interrupted time series design analysis technique (ARIMA models) (Vallejo &amp; Escudero, 1998) with slight modifications, and extending it to the use of several answer variables registered during the treatment (AU)</dc:description>
+<dc:creator>Escudero García, José Ramón</dc:creator>
+<dc:creator>Vallejo Seco, Guillermo</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En los diseños de series temporales interrumpidas realizados con sujeto único, se presentan dos dificultades fundamentalmente: a) La primera estriba en que no aparece claro si los cambios aparecidos en la ejecución son debidos al conjunto de circunstancias introducidas por el experimentador (tratamiento), o a otro conjunto de circunstancias que puedan ocurrir al mismo tiempo. b) La segunda es la difícil generalización de los resultados obtenidos a partir de un único sujeto. Se presenta en este trabajo un caso al que se aplica la extensión de la técnica de análisis de los diseños de series temporales interrumpidas (modelos ARIMA) (Vallejo y Escudero, 1998) con ligeras modificaciones y se extiende a la utilización de varias variables respuesta registradas durante el tratamiento (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);12(supl.2): 203-210, 2000. ilus, graf</dc:source>
+<dc:identifier>ibc-150051</dc:identifier>
+<dc:title xml:lang="es">Aplicación del diseño de series temporales múltiples a un caso de intervención en dos clases de Enseñanza General Básica</dc:title>
+<dc:subject>^d35173</dc:subject>
+<dc:subject>^d4591^s22045</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28419</dc:subject>
+<dc:subject>^d50302</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200000</dc:date>
+</metadata>
+</record>
+</ibecs-document>

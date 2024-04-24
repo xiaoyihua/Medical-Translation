@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-154119</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Social security status and mortality in Belgian and Spanish male workers</dc:title>
+<dc:description xml:lang="en">Objective: To assess differences in mortality rates between social security statuses in two independent samples of Belgian and Spanish male workers. Methods: Study of two retrospective cohorts (Belgium, n=23,607; Spain, n=44,385) of 50&#150;60 year old male employees with 4 years of follow-up. Mortality rate ratios (MRR) were estimated using Poisson regression models. Results: Mortality for subjects with permanent disability was higher than for the employed, for both Belgium [MRR=4.56 (95% CI: 2.88&#150;7.21)] and Spain [MRR=7.15 (95% CI: 5.37&#150;9.51)]. For the unemployed/early retirees, mortality was higher in Spain [MRR=1.64 (95% CI: 1.24&#150;2.17)] than in Belgium [MRR=0.88 (95% CI: 0.46&#150;1.71)]. Conclusion: MRR differences between Belgium and Spain for unemployed workers could be partly explained because of differences between the two social security systems. Future studies should further explore mortality differences between countries with different social security systems (AU)</dc:description>
+<dc:creator>Benavides, Fernando G</dc:creator>
+<dc:creator>Deboosere, Patrick</dc:creator>
+<dc:creator>Duran, Xavier</dc:creator>
+<dc:creator>Vanroelen, Christophe</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objetivo: Evaluar diferencias en la mortalidad según el estado de afiliación a la seguridad social en dos muestras independientes de hombres trabajadores belgas y españoles. Métodos: Dos cohortes retrospectivas de hombres asalariados de 50-60 años de edad (23.607 belgas y 44.385 españoles) seguidos durante 4 años. Se estimaron razones de tasas de mortalidad (RTM) mediante modelos de regresión de Poisson. Resultados: La mortalidad para los incapacitados permanentes fue mayor que para los empleados en ambos países [RTM=4,56 (IC95%: 2,88-7,21) en España y RTM=7,15 (IC95%: 5,37-9,51) en Bélgica], pero para los desempleados/jubilados anticipadamente fue mayor en España [RTM=1,64 (IC95%: 1,24 - 2,17)] que en Bélgica [RTM=0,88 (IC95%: 0,46-1,71)]. Conclusión: Las diferencias encontradas entre los desempleados de Bélgica y España podrían ser parcialmente explicadas por las diferencias entre ambos sistemas de seguridad social. Futuros estudios deberían explorar estas diferencias entre países con distintos sistemas de seguridad social (AU)</dc:description>
+<dc:source>Gac Sanit;30(4): 293-295, jul.-ago. 2016. ilus</dc:source>
+<dc:identifier>ibc-154119</dc:identifier>
+<dc:title xml:lang="es">Afiliación a la seguridad social y mortalidad en trabajadores varones belgas y españoles</dc:title>
+<dc:subject>^d1549^s22080</dc:subject>
+<dc:subject>^d14877^s22083</dc:subject>
+<dc:subject>^d9967^s22047</dc:subject>
+<dc:subject>^d32711^s22083</dc:subject>
+<dc:subject>^d52953^s22083</dc:subject>
+<dc:subject>^d9971^s22049</dc:subject>
+<dc:subject>^d28632^s22066</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d10113^s22083</dc:subject>
+<dc:subject>^d13411^s22080</dc:subject>
+<dc:subject>^d13327^s22049</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201608</dc:date>
+</metadata>
+</record>
+</ibecs-document>

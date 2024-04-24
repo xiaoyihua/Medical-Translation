@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-110714</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Identification of doctors with high pharmaceutical expenditure</dc:title>
+<dc:description xml:lang="en">Objetive: To identify doctors with high pharmaceutical expenditure through multiple regression of variables not exclusively dependent on the doctor&#146;s decision. To compare the agreement with the method of the Spanish national health servicem which only considered the percentage of pensioners of the doctor&#146;s list. Methods: Cross-sectional, retrospective, descriptive study of the pharmaceutical expenditure of 220 general practitioners in the health district of Toledo (Spain) in 1999. The following variables were collected: pharmaceutical expenditure for policy-holder/month (PEP-H); age; sex; habitat; size of the list; percentage of pensioners; frequency of attendance (consults/policy-holder-year) and workload (consultations perday). A multiple regression model with backwards elimination was constructed, taking like PEP-H as the dependent variable and the remaining as the independent variables. The resultant equation enabled calculation of the expected PEP-Hfor each doctor and the deviation of their real expenditure (..) (AU)</dc:description>
+<dc:creator>López,  F</dc:creator>
+<dc:creator>Cordero, B</dc:creator>
+<dc:creator>Esteban,  M</dc:creator>
+<dc:creator>Montero,  M. J</dc:creator>
+<dc:creator>Rodríguez, F. J</dc:creator>
+<dc:creator>Modrego,  A</dc:creator>
+<dc:creator>Valles, N</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Identificar «médicos con gasto farmacéutico elevado» (MGE), mediante regresión múltiple, en función de aquellas variables no dependientes exclusivamente del facultativo. Comparar la concordancia con el método del Insalud, que sólo considera porcentaje de pensionistas del cupo. Métodos: Estudio descriptivo transversal, retrospectivo, delg asto farmacéutico de los 220 médicos de familia del Área de Toledo, durante 1999. Las variables recogidas fueron: gasto farmacéutico por asegurado/mes (GFA), edad, sexo, hábitat, tamaño del cupo, porcentaje de pensionistas, frecuentación (consultas/asegurado-año) y presión asistencial (consultas/día). Se construyó un modelo de regresión múltiple por eliminación (hacia atrás), tomando como variable dependiente el GFA y como independiente el resto. La ecuación resultante nos permitió calcular el GFA «esperado» por médico y la desviación de su gasto real sobre el esperado. Se consideró MGE cuando su desviación superaba la media más una desviación estándar de dicha distribución. Resultados: El GFA medio era 2.584,4 ptas. Encontramos diferencias significativas (F = 11,665; p &lt; 0,005) en el GFA (..) (AU)</dc:description>
+<dc:source>Gac Sanit;15(5): 441-446, sept.-oct. 2001. tab</dc:source>
+<dc:identifier>ibc-110714</dc:identifier>
+<dc:title xml:lang="es">Identificación de médicos con gasto farmacéutico elevado</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d11756^s22083</dc:subject>
+<dc:subject>^d4422^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d11742^s22083</dc:subject>
+<dc:subject>^d30355^s22083</dc:subject>
+<dc:subject>^d30152^s22083</dc:subject>
+<dc:subject>^d23662^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200110</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-052846</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Comparison of optimal cutoff points for single and multiple tests in personnel selection</dc:title>
+<dc:description xml:lang="en">This paper compares the determination of optimal cutoff points for single and multiple tests in the field of personnel selection. Decisional skills of predictor tests composing the multiple test are assumed to be endogenous variables that depend on the cutting points to be set. It is shown how the predictor cutoffs and the collective decision rule are determined dependently by maximizing the multiple test&#146;s common expected utility. Our main result specifies the condition that determines the relationship between the optimal cutoff points for single and multiple tests, given the number of predictor tests, the collective decision rule (aggregation procedure of predictor tests&#146; recommendations) and the function relating the tests&#146; decisional skills to the predictor cutoff points. The proposed dichotomous decision-making method is illustrated by an empirical example of selecting trainees by means of the Assessment Center method</dc:description>
+<dc:creator>Ben-Yashar, Ruth</dc:creator>
+<dc:creator>Nitzan, Shamuel</dc:creator>
+<dc:creator>Vos, Hans J</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">En este trabajo se compara el establecimiento de puntos óptimos de corte para uno o varios tests, en el campo de la selección de personal. La capacidad de decisión de los tests predictores, cuando se emplean varios tests, se asumen como variables endógenas que dependen de los puntos de corte que se establecen. Se muestra cómo los puntos de corte y las reglas colectivas de decisión vienen determinadas por la maximización de la utilidad esperada común de los tests múltiples. El principal resultado consiste en especificar la relación entre los puntos de corte óptimos (para tests simples y múltiples), dado el número de tests predictores, la regla de decisión colectiva (recomendaciones sobre el procedimiento para agregar los tests predictores) y la función que relaciona las capacidades de decisión con el punto de corte. El método de toma de decisiones dicotómica se ilustra con un ejemplo empírico de selección de aprendices por medio del método de «Assessment Center»</dc:description>
+<dc:source>Psicothema (Oviedo);18(3): 652-660, ago. 2006.</dc:source>
+<dc:identifier>ibc-052846</dc:identifier>
+<dc:title xml:lang="es">Comparación de puntos de corte óptimos para uno y múltiples tests en selección de personal</dc:title>
+<dc:subject>^d10752^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29199</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d12018^s22083</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200608</dc:date>
+</metadata>
+</record>
+</ibecs-document>

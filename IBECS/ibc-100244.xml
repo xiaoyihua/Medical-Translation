@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-100244</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Premature mortality excess related to influenza in Spain during an interpandemic period</dc:title>
+<dc:description xml:lang="en">Background: The indicator of Potential Years of Life Lost (PYLL) has been frequently used to analysis of premature mortality and recently has been used to estimate the impact of the last influenza A(H1N1)pdm09 pandemic. The aim of this study was to estimate the excess deaths from pneumonia and influenza (P&amp;I) in Spain and the PYLLduring the period 1980-2008, measuring the mortality attributable to influenza regarding the type/subtype of influenza dominant in each season. Methods: Monthly excess deaths were calculated with cyclical regression models. The PYLL calculation was performed as the product of the number of excess deaths and the difference between life expectancy at birth and years lived for each age group. The analysis of the variation between P&amp;I excess deaths and PYLL, depending on the predominant influenza virus type/subtype was carried out with a Poisson regression analysis. Results: In seasons dominated by influenza virus A(H3) the average P&amp;I excess deaths was estimated at 1,348, and for PYLL in 5.297, while in seasons dominated by A(H1) or B the average P&amp;I excess deaths was 648, and for PYLL 2.885. The adjusted rate ratios of excess (2.11, CI-95%=2.05-2.16) and PYLL (1.86, CI-95%=1.83-1.88) indicate that the relative frequencies for both indicators are significantly larger in seasons dominated by influenza virus A(H3). Conclusions: Excess deaths and PYLL doubled when comparing seasons predominantly subtype A(H3) and other influenza viruses(AU)</dc:description>
+<dc:creator>Simón Méndez, Lorena</dc:creator>
+<dc:creator>Mateo Ontañón, Salvador de</dc:creator>
+<dc:creator>López-Cuadrado, Teresa</dc:creator>
+<dc:creator>López Perea, Noemí</dc:creator>
+<dc:creator>Larrauri Cámara, Amparo</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamentos: El indicador Años Potenciales de Vida Perdidos (APVP) ha sido utilizado con frecuencia en análisis de mortalidad precoz, y recientemente ha servido para estimar el impacto de la última pandemia de gripe A(H1N1)pdm09. El objetivo de este estudio ha sido estimar los excesos de defunciones por gripe y neumonía (GyN) en España y los APVP durante el periodo 1980-2008, valorando la mortalidad atribuible a gripe en función del tipo/subtipo de virus predominante. Métodos: Los excesos de defunciones mensuales se calcularon con modelos de regresión cíclica. El cálculo de APVP se realizó como el producto del número de excesos de defunciones por la diferencia entre la esperanza de vida al nacer y los años vividos para cada grupo de edad. El análisis de la variación entre los excesos de defunciones por GyN y APVP, según el tipo/subtipo de virus de la gripe predominante, se llevó a cabo con un análisis de regresión de Poisson. Resultados: En las temporadas con predominio del virus de la gripe A(H3) el promedio de excesos de defunciones por GyN se estimó en 1.348 y de APVP en 5.297, mientras que en las temporadas con predominio de A(H1) o B el promedio de excesos por las mismas causas fue de 648 y de APVP de 2.885. Las razones de tasas ajustadas de excesos (2,11; IC-95%=2,05-2,16) y de APVP (1,86; IC-95%=1,83-1,88) señalaron que las frecuencias relativas de ambos indicadores son significativamente mayores en las temporadas con predominio de virus de la gripe A(H3). Conclusiones: Los excesos de defunciones y APVP se duplicaron al comparar las temporadas con predominio del subtipo A(H3) frente al resto de virus de la gripe(AU)</dc:description>
+<dc:source>Rev Esp Salud Publica;86(2): 153-161, mar.-abr.2012. tab, ilus</dc:source>
+<dc:identifier>ibc-100244</dc:identifier>
+<dc:title xml:lang="es">Exceso de mortalidad precoz relacionado con la gripe en España durante un período interpandémico</dc:title>
+<dc:subject>^d51281^s22047</dc:subject>
+<dc:subject>^d28632^s22066</dc:subject>
+<dc:subject>^d28418</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d13411^s22080</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d5719^s22047</dc:subject>
+<dc:subject>^d54399^s22054</dc:subject>
+<dc:subject>^d28632^s22083</dc:subject>
+<dc:subject>^d5719^s22080</dc:subject>
+<dc:subject>^d51281^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201204</dc:date>
+</metadata>
+</record>
+</ibecs-document>

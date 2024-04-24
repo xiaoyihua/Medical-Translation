@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-96600</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Magnetic resonance for evaluating the response to treatment for ovarian hyperstimulation syndrome: comparison of pharmokinetic models</dc:title>
+<dc:description xml:lang="en">ObjectiveTo evaluate the response to treatment with cabergoline for ovarian hyperstimulation syndrome (OHS) using mono- and bi-compartmental MRI models. Material and methodsWe studied 20 ovum donors with a high risk of developing OHS, divided in two groups (placebo vs. treatment). MRI perfusion studies were performed before and after the beginning of treatment. We compared the monocompartmental model, with the parameters vascular permeability (Ktrans), extraction ratio (kep), and extravascular extracellular space fraction (ve), against the bicompartmental model, with the same parameters as in the monocompartmental model and the additional parameter vascular space fraction (vp). The differences between groups (placebo vs. treatment) on the two MRI studies and for each pharmacokinetic model were analyzed using t-tests for independent samples. The intraclass correlation coefficient (ICC) was used to assess the variability of the measurements. ResultsIn the placebo group, a significant increase in Ktrans was observed with both models (p=0.021 for one compartment; and p&lt;0.001 for two compartments). In the treatment group, no statistically significant differences were found for any parameter in either model. Regarding differences between groups, in the bicompartmental model Ktrans increased 168.6%±151.9% in the placebo group versus 43.3%±54.5% in the treatment group, p=0.04). In the monocompartmental model, no differences were found between groups. In the variability analysis, the ICC was higher than 0.95 for all parameters except vp (ICC=0.89). ConclusionsCapillary permeability calculated with bicompartmental pharmacokinetic models after MRI contrast administration is a biomarker of the treatment effect in OHS patients (AU)</dc:description>
+<dc:creator>Pellicer, A</dc:creator>
+<dc:creator>Sanz Requena, R</dc:creator>
+<dc:creator>Moratal, D</dc:creator>
+<dc:creator>Alberich Bayarri, Á</dc:creator>
+<dc:creator>Martí Bonmatí, L</dc:creator>
+<dc:creator>Álvarez, C</dc:creator>
+<dc:creator>García, G</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo Valorar el efecto del tratamiento con cabergolina en el síndrome de hiperestimulación ovárica (SHO) mediante la aplicación de modelos mono y bicompartimentales en resonancia magnética (RM). Material y métodosSe estudiaron 20 mujeres donantes de óvulos con riesgo de desarrollar SHO, divididas en 2 grupos (placebo y tratamiento). Se realizaron 2 estudios de RM de perfusión, antes y tras el inicio del tratamiento. Se comparó el modelo monocompartimental, con parámetros de permeabilidad vascular (Ktrans), ratio de extracción (kep) y fracción de espacio extravascular extracelular (ve), y el bicompartimental, que añade la fracción de espacio intravascular (vp). El análisis de las diferencias entre grupos (placebo frente a tratamiento) para los 2 estudios de RM y para cada modelo farmacocinético se realizó con una prueba t para muestras independientes. El coeficiente de correlación intraclase (CCI) analizó la variabilidad de las medidas. ResultadosEn el grupo placebo se observó un incremento significativo de Ktrans para ambos modelos (p=0,021 para un compartimiento, y p&lt;0,001 para 2 compartimientos). En las pacientes tratadas no hubo diferencias en ningún parámetro para ninguno de los modelos. Por diferencias entre grupos, para 2 compartimentos Ktrans aumentó un 168,6±151,9% para placebo y un 43,3±54,5% para tratamiento (p=0,04). Para un único compartimiento no hubo diferencias significativas. En el análisis de variabilidad se obtuvo un CCI &gt;0,95 para todos los parámetros, excepto vp (CCI=0,89). ConclusionesLa permeabilidad capilar calculada empleando modelos farmacocinéticos bicompartimentales tras la administración de un contraste en RM es un biomarcador del efecto del tratamiento en pacientes con SHO (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);51(2): 176-182, mar.-abr. 2009. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-96600</dc:identifier>
+<dc:title xml:lang="es">Resonancia magnética en la respuesta al tratamiento del síndrome de hiperestimulación ovárica: comparación de modelos farmacocinéticos</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d32104^s22045</dc:subject>
+<dc:subject>^d10236^s22021</dc:subject>
+<dc:subject>^d29917^s22057</dc:subject>
+<dc:subject>^d23405^s22045</dc:subject>
+<dc:subject>^d14408^s22083</dc:subject>
+<dc:subject>^d4956^s22079</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d38336^s22045</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200904</dc:date>
+</metadata>
+</record>
+</ibecs-document>

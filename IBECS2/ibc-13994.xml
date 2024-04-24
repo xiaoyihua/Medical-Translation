@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-13994</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Empirical relationhips between classical test theory and item response theory statistics</dc:title>
+<dc:description xml:lang="en">The purpose of this paper was examine empirically: (1) the relationships between the item and person statistics from Item Response Theory (IRT) and Classical Test Theory (CTT) and, (2) the invariance of parameters in both measurement frameworks. In order to achieve these objectives, a simulation study was carry out where 30 samples with 500 subjects and 50 items were generated from the 3-PL model; 10 of these samples with low level of ability, 10 with medium and 10 with high level of ability. The items were calibrated by the 1-, 2-, and 3-PL models. Likewise, the person and item statistics in CTT was calculated in each sample. The findings indicate that the relationships between the statistics from both, IRT and CTT, were very strongs, with very high correlation indices, except in the discrimination parameters. The degree of invariance of parameters across the samples wasn&#146;t very high in both measurement frameworks (AU)</dc:description>
+<dc:creator>Barbero García, M. Isabel</dc:creator>
+<dc:creator>Prieto Marañón, Pedro</dc:creator>
+<dc:creator>Sna Luis Costas, Concepción</dc:creator>
+<dc:creator>Suárez Falcón, Juan Carlos</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En este trabajo se analiza empíricamente las relaciones entre las estimaciones de los parámetros de los ítems de la Teoría de la Respuesta al Ítem (TRI) y de la Teoría Clásica de los TEST (TCT). Asimismo, se analiza el grado de invarianza que presentan los parámetros de ambos marcos teóricos. Para ello se llevó a cabo un estudio de simulación Monte Carlo en el que se generaron las muestras a partir del modelo logístico de tres parámetros. A partir de estas muestras se formaron tres submuestras en función de nivel de aptitud: baja, media y alta aptitud, respectivamente. A continuación se estimaron los parámetros de los ítems en cada submuestra y en la muestra total con los modelos de uno, dos y tres parámetros de la TRI, así como con el modelo de la TCT. Los resultados mostraron, en general, correlaciones muy altas entre las estimaciones de la TRI y de la TCT en el parámetro de habilidad de los sujetos y la dificultad de los ítems, especialmente en los grupos aptitud media. Correlaciones más bajas se encontraron entre las estimaciones de la discriminación de los ítems en todos los grupos. Por último, en relación al segundo objetivo de este trabajo, los resultados no son todo lo buenos que cabría esperar salvo en lo referente al índice de dificultad (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);13(2): 324-329, mayo 2001. tab</dc:source>
+<dc:identifier>ibc-13994</dc:identifier>
+<dc:title xml:lang="es">Relaciones empíricas entre los estadísticos de la teoría clásica de los tests y los de la teoría de respuesta a los ítems</dc:title>
+<dc:subject>^d28620</dc:subject>
+<dc:subject>^d37676^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28597^s22045</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d12018^s22083</dc:subject>
+<dc:subject>^d28574</dc:subject>
+<dc:subject>^d1083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200105</dc:date>
+</metadata>
+</record>
+</ibecs-document>

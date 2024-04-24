@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-123314</identifier>
+<setSpec>1699-048X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:creator>Carral Maseda, A</dc:creator>
+<dc:creator>Alonso Curbera, G</dc:creator>
+<dc:creator>Dopico Vázquez, D</dc:creator>
+<dc:creator>Quindós Varela, M</dc:creator>
+<dc:creator>Antón Aparicio, L. M</dc:creator>
+<dc:creator>Gallegos Sancho, M. I</dc:creator>
+<dc:language>en</dc:language>
+<dc:source>Clin Transl Oncol;9(5): 329-331, mayo 2007. ilus</dc:source>
+<dc:identifier>ibc-123314</dc:identifier>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d21012</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24408^s22016</dc:subject>
+<dc:subject>^d24408^s22067</dc:subject>
+<dc:subject>^d9572^s22016</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d9572^s22067</dc:subject>
+<dc:subject>^d8650^s22053</dc:subject>
+<dc:subject>^d8647^s22016</dc:subject>
+<dc:subject>^d8647^s22067</dc:subject>
+<dc:subject>^d31880^s22067</dc:subject>
+<dc:subject>^d31880^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200705</dc:date>
+</metadata>
+</record>
+</ibecs-document>

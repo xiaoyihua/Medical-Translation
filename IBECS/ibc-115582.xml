@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-115582</identifier>
+<setSpec>1888-6116</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Validity of a photometric method of counting particles in air for control of operating rooms and clean rooms in hospitals</dc:title>
+<dc:description xml:lang="en">Objective: Validate a photometric on-air particle measurement system in order to perform ambient bio-security checks in operating rooms and other clean rooms within hospitals. Material and methods: A total of 144 coupled air samples were performed, 88 in 8 different operating rooms with conventional ventilation systems and 3-level filtering and 56 in 9 different rooms without specific ventilation systems. Particles were measured in size between 0,1 to 10 ¦Ìm with the photometric system in mg/m3. Simultaneously in the rooms are performed the sampling air method with impact on culture media. Incubation period is 5 days and count is performed in colony-forming units (CFU/1000L). Finally, optimal cut-points in particles measure were calculated using ROC curves in order to discriminate the three different contamination levels. Results: Spearma´s correlation coefficient was 0,779 p&lt;0,001. Sensitivity for cut-points in particle counting for the different contamination levels was 95,83% ,100% and 100% respectively, and the corresponding Kappa indexes were 0,51; 0,88 and 0,75. Conclusion: Correlation among measurements is notable. Particle measurement can be a worthy alternative for some of the routine bio-security checks (AU)</dc:description>
+<dc:creator>López Álvarez, S</dc:creator>
+<dc:creator>Alves Pérez, M. T</dc:creator>
+<dc:creator>Seoane Mato, D</dc:creator>
+<dc:creator>Fernández de Armas, L</dc:creator>
+<dc:creator>Méndez Diéguez, M. C</dc:creator>
+<dc:creator>García García, M. J</dc:creator>
+<dc:creator>Uriel Latorre, B</dc:creator>
+<dc:creator>Azuara García, M. J</dc:creator>
+<dc:creator>Blanco Rodríguez, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Validar un sistema de medici¨®n fotom¨¦trica de part¨ªculas en aire para realizar los controles de bioseguridad ambiental de quir¨®fanos y otras salas de ambiente controlado en los hospitales. Material y m¨¦todos: Se realizaron un total de 144 mediciones pareadas de aire, 88 en ocho quir¨®fanos con sistemas de ventilaci¨®n convencional y tres niveles de filtraci¨®n y 56 en nueve habitaciones sin instalaciones de ventilaci¨®n. Se midieron part¨ªculas de entre 0,1 a 10 ¦Ìm en mg/m3 por m¨¦todo fotom¨¦trico. Simult¨¢neamente, en cada sala se realiz¨® impacto de aire en placas de Petri con medio de cultivo mediante aparato aspirador de cabezal perforado, obteniendo tras cinco d¨ªas de incubaci¨®n recuento de unidades formadoras de colonias (UFC)/1000L. Finalmente se realiz¨® el c¨¢lculo de los puntos de corte ¨®ptimos para la medici¨®n de part¨ªculas mediante Curvas ROC para discriminar tres niveles de contaminaci¨®n. Resultados: El coeficiente de correlaci¨®n entre las dos mediciones fue 0,779 (p&lt;0,001). Los puntos de corte fueron para 0 UFC. 0,015, para &gt;=10 UFC, 0,037, y para &gt;=100 UFC, 0,053. La sensibilidad para estos puntos fue de 95,83%,100% y 100%, y los ¨ªndices Kappa registraron 0,51, 0,88 y 0,75 respectivamente. Conclusi¨®n: En nuestro estudio la correlaci¨®n entre las medidas es notable; la medici¨®n fotom¨¦trica de part¨ªculas puede ser una alternativa para llevar a cabo alguno de los controles rutinarios de bioseguridad (AU)</dc:description>
+<dc:source>Trauma (Majadahonda);24(3): 195-199, jul.-sept. 2013. tab, ilus</dc:source>
+<dc:identifier>ibc-115582</dc:identifier>
+<dc:title xml:lang="es">Validez de un método fotométrico de medición de partículas en aire para el control de quirófanos y otras salas de ambiente controlado en los hospitales</dc:title>
+<dc:subject>^d10981^s22074</dc:subject>
+<dc:subject>^d10055^s22074</dc:subject>
+<dc:subject>^d10981^s22045</dc:subject>
+<dc:subject>^d28477^s22054</dc:subject>
+<dc:subject>^d51876^s22002</dc:subject>
+<dc:subject>^d4867^s22002</dc:subject>
+<dc:subject>^d51876^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d51876^s22054</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d51876^s22083</dc:subject>
+<dc:subject>^d29530^s22048</dc:subject>
+<dc:subject>^d10055^s22048</dc:subject>
+<dc:subject>^d4867^s22054</dc:subject>
+<dc:subject>^d10055^s22049</dc:subject>
+<dc:subject>^d28477^s22080</dc:subject>
+<dc:subject>^d35256</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201309</dc:date>
+</metadata>
+</record>
+</ibecs-document>

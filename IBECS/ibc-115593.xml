@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-115593</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Helical structure of the cardiac ventricular anatomy assessed by diffusion tensor magnetic resonance imaging with multiresolution tractography</dc:title>
+<dc:description xml:lang="en">Introduction and objectives. Deeper understanding of the myocardial structure linking the morphology and function of the heart would unravel crucial knowledge for medical and surgical clinical procedures and studies. Several conceptual models of myocardial fiber organization have been proposed but the lack of an automatic and objective methodology prevented an agreement. We sought to deepen this knowledge through advanced computer graphical representations of the myocardial fiber architecture by diffusion tensor magnetic resonance imaging. Methods. We performed automatic tractography reconstruction of unsegmented diffusion tensor magnetic resonance imaging datasets of canine heart from the public database of the Johns Hopkins University. Full-scale tractographies have been built with 200 seeds and are composed by streamlines computed on the vector field of primary eigenvectors at the diffusion tensor volumes. We also introduced a novel multiscale visualization technique in order to obtain a simplified tractography. This methodology retains the main geometric features of the fiber tracts, making it easier to decipher the main properties of the architectural organization of the heart. Results. Output analysis of our tractographic representations showed exact correlation with low-level details of myocardial architecture, but also with the more abstract conceptualization of a continuous helical ventricular myocardial fiber array. Conclusions. Objective analysis of myocardial architecture by an automated method, including the entire myocardium and using several 3-dimensional levels of complexity, reveals a continuous helical myocardial fiber arrangement of both right and left ventricles, supporting the anatomical model of the helical ventricular myocardial band described by F. Torrent-Guasp  (AU)</dc:description>
+<dc:creator>Carreras, Frances</dc:creator>
+<dc:creator>Andaluz, Albert</dc:creator>
+<dc:creator>Ballester, Manel</dc:creator>
+<dc:creator>Gil, Debora</dc:creator>
+<dc:creator>Poveda, Ferran</dc:creator>
+<dc:creator>Martí, Enric</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos. La integración de la anatomía y la función del miocardio ventricular es fundamental para una completa comprensión de la fisiología cardiaca, lo que podría revelar conocimientos clave para futuros estudios experimentales y procedimientos clínicos. Se han propuesto varios modelos conceptuales de la organización de las fibras miocárdicas, pero la dificultad para automatizar y analizar objetivamente una estructura anatómica tan compleja ha impedido que se llegue a un acuerdo. El objetivo de nuestro estudio es analizar objetivamente la arquitectura de las fibras miocárdicas mediante métodos avanzados de procesamiento gráfico por computadora aplicados a imágenes de resonancia magnética por tensor de difusión. Métodos. Se han realizado reconstrucciones tractográficas automatizadas de datos de imágenes de resonancia magnética por tensor de difusión sin segmentar de corazones provenientes de la base de datos pública de la Johns Hopkins University. Las reconstrucciones a máxima resolución se han construido con 200 semillas y se componen de perfiles calculados sobre el volumen de vectores propios primarios obtenidos del tensor de difusión. También aportamos una nueva técnica de visualización multiescalar para obtener tractografías simplificadas. Esta metodología permite mantener las principales propiedades geométricas de las fibras y descifrar las principales propiedades de la organización arquitectónica del miocardio. Resultados. En el análisis de las tractografías de todo el espectro multiescalar, encontramos una correlación exacta en los detalles de bajo nivel, así como de la conceptualización abstracta de la disposición helicoidal continua de las fibras miocárdicas que conforman la arquitectura ventricular. Conclusiones. El análisis objetivo de la arquitectura miocárdica mediante un método automatizado que incluye el miocardio completo y utiliza diferentes niveles de complejidad tridimensional revela una organización de las fibras en forma de estructura helicoidal continua que conforma ambos ventrículos. Estos datos concuerdan con el modelo de banda ventricular miocárdica descrita por F. Torrent-Guasp (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;66(10): 782-790, oct. 2013. ilus</dc:source>
+<dc:identifier>ibc-115593</dc:identifier>
+<dc:title xml:lang="es">Estudio tractográfico de la anatomía helicoidal del miocardio ventricular mediante resonancia magnética por tensor de difusión</dc:title>
+<dc:subject>^d4345</dc:subject>
+<dc:subject>^d37549^s22074</dc:subject>
+<dc:subject>^d53674^s22074</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d53674^s22045</dc:subject>
+<dc:subject>^d53674^s22066</dc:subject>
+<dc:subject>^d53674^s22039</dc:subject>
+<dc:subject>^d22935^s22045</dc:subject>
+<dc:subject>^d53674^s22048</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d22935^s22039</dc:subject>
+<dc:subject>^d31983^s29166</dc:subject>
+<dc:subject>^d31983^s22075</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201310</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-80267</identifier>
+<setSpec>0211-5638</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Reliability generalization: A meta-analytic approach to reliability coefficients</dc:title>
+<dc:description xml:lang="en">Reliability is not a property inherent to the test, so that sentences such as &#147;the test reliability is 0.80&#148; are wrong. That is because reliability is a property of scores obtained in a given application o a test. Reliability generalization (RG) is a new kind of meta-analysis which enables to empirically examine the variability of the reliability estimates across different applications of a test. The RG studies are evidencing how unadvisable is the usual practice of researchers of inducing reliability from previous estimates. In this article an overview of the RG approach is presented, describing the required steps. Moreover, some of the most important statistical issues concerning RG studies are discussed, such as: (a) transforming procedures of the reliability coefficients, (b) weighting methods of the coefficients, and (c) statistical models that can be assumed (AU)</dc:description>
+<dc:creator>López-Pina, J. A</dc:creator>
+<dc:creator>Sánchez-Meca, J</dc:creator>
+<dc:creator>López López, J. A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La fiabilidad no es una propiedad inherente al test, por lo que frases del tipo &#147;la fiabilidad del test es de 0,80&#148; son incorrectas. Ello se debe a que la fiabilidad es una propiedad de las puntuaciones obtenidas por un test en una aplicación concreta de éste. La generalización de la fiabilidad (GF) es un nuevo tipo de metaanálisis que permite examinar empíricamente la variabilidad de las estimaciones de la fiabilidad en diferentes aplicaciones de un test. Los estudios de GF están poniendo en evidencia lo inadecuado que resulta esa práctica habitual de los investigadores de inducir la fiabilidad a partir de estimaciones previas de ésta. En este artículo se presenta una panorámica del enfoque de GF, describiendo cuáles son sus fases de realización. Además, se discuten algunos de los problemas estadísticos más importantes de los estudios GF, tales como: a) procedimientos de transformación de los coeficientes de fiabilidad; b) métodos de ponderación de los coeficientes, y c) modelos estadísticos asumibles (AU)</dc:description>
+<dc:source>Fisioterapia (Madr., Ed. impr.);31(6): 262-270, Nov. - dic. 2009.</dc:source>
+<dc:identifier>ibc-80267</dc:identifier>
+<dc:title xml:lang="es">Generalización de la fiabilidad: un enfoque metaanalítico aplicado a la fiabilidad</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200912</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-036171</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Detection of methicillin resistance and identification of Staphylococcus spp. from positive blood culture bottles using the mecA and nucA genes with the LightCycler System</dc:title>
+<dc:description xml:lang="en">INTRODUCTION. The aim of this study was to evaluate the feasibility of detecting Staphylococcus aureus and coagulase-negative staphylococci (CoNS) and of identifying methicillin resistance directly in positive BACTEC blood culture bottles using the LightCycler system. METHODS. One hundred thirty-one positive blood culture bottles in which Gram-positive cocci in cluster were observed after Gram staining and 40 positive bottles with microorganisms other than staphylococci were studied. A molecular assay based on an automated DNA extraction protocol with a MagNA Pure LC instrument was used. Oligonucleotide primers and fluorescence-labeled hybridization probes were designed for amplification and sequence-specific detection of both a 408-pb fragment within the mecA gene and a 279-pb fragment within the S. aureus-specific nucA gene. RESULTS. All the bottles that yielded methicillin-resistant S.aureus (MRSA), methicillin-sensitive S. aureus (MSSA) ormethicillin-resistant CoNS (MRCoNS) strains were correctly identified by the nucA and mecA PCR assays. One bottle that yielded a mixed culture of MSSA and MRCoNSgave positive results for both genes. In the 21 bottles with methicillin-susceptible CoNS (MSCoNS), nucA PCR were negative, but two of these bottles gave positive results forthe mecA gene. The sensitivity and specificity of the nucA gene assay were 100%. The sensitivity and specificity of the PCR assay for detection of methicillin resistance with the mecA gene were 100% and 97.5%, respectively. CONCLUSION. This is a sensitive and highly specific method for identifying staphylococci in positive blood cultures, allowing discrimination between methicillin-susceptible and &#150;resistant strains in less than 3 hours after Gramstain (AU)</dc:description>
+<dc:creator>Aznar-Martín, Javier</dc:creator>
+<dc:creator>Ruiz-Pérez de Pipaón, Maite</dc:creator>
+<dc:creator>Arroyo-Pedrero, Luis Antonio</dc:creator>
+<dc:creator>Palomares-Folía, José Carlos</dc:creator>
+<dc:creator>Torres-Sánchez, María José</dc:creator>
+<dc:creator>Prados-Blanco, Trinidad</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">INTRODUCCIÓN. El objetivo de este trabajo fue evaluarla eficacia del sistema LightCycler para la detección de Staphylococcus aureus y estafilococos coagulasa negativos(ECN), y la identificación de resistencia a meticilina directamente en botellas Bactec de hemocultivos positivos. MÉTODOS. Se procesaron 131 botellas de hemocultivos positivos en los que se observaron cocos grampositivos en racimos tras la tinción de Gram y 40 botellas con microorganismos diferentes a estafilococos. Para la extracción del ADN se utilizó el sistema automático MagNAPure LC (Roche Diagnostic). Los cebadores y las sondas dehibridación se diseñaron para la amplificación y detección de las secuencias específicas de un fragmento de 408 pb del gen mecA y de un fragmento de 279 pb del gen nucA. RESULTADOS. Todas las botellas con cepas de S. aureusresistente a meticilina (SARM), sensible a meticilina(SASM) o ECN resistentes a meticilina (ECNRM) fueron correctamente identificados mediante reacción en cadena de la polimerasa (PCR) de los genes nucA y mecA. Una botella con un cultivo mixto de SASM y ECNRM dio resultados positivos para ambos genes. Las 21 botellas con cepas de ECN sensible a meticilina (ECNSM) fueron correctamente identificadas con el gen nucA, pero dos de ellas fueron positivas para el gen mecA. La sensibilidad y la especificidad fueron del 100% para el gen nucA, y del 100 y 97,5%, respectivamente, para el gen mecA. CONCLUSIÓN. Este es un método sensible y específico para la identificación de estafilococos en hemocultivos, y permite también la identificación de cepas resistentes a meticilina en un tiempo máximo de 3 h a partir de la visualización de la tinción de Gram (AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;23(4): 208-212, abr. 2005. tab</dc:source>
+<dc:identifier>ibc-036171</dc:identifier>
+<dc:title xml:lang="es">Detección de la resistencia a meticilina e identificación de Staphylococcus spp. en hemocultivos positivos amplificando los genes mecA y nucA con el sistema Light Cycler</dc:title>
+<dc:subject>^d29168^s22039</dc:subject>
+<dc:subject>^d22153^s22033</dc:subject>
+<dc:subject>^d22153^s22001</dc:subject>
+<dc:subject>^d23957^s22039</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30241^s22046</dc:subject>
+<dc:subject>^d30241^s22057</dc:subject>
+<dc:subject>^d13590^s22046</dc:subject>
+<dc:subject>^d13596^s22021</dc:subject>
+<dc:subject>^d13590^s22057</dc:subject>
+<dc:subject>^d13596^s22033</dc:subject>
+<dc:subject>^d29045^s22033</dc:subject>
+<dc:subject>^d28320^s22039</dc:subject>
+<dc:subject>^d1337</dc:subject>
+<dc:subject>^d9025^s22033</dc:subject>
+<dc:subject>^d1449^s22033</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200504</dc:date>
+</metadata>
+</record>
+</ibecs-document>

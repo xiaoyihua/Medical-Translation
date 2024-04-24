@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-4400</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Magnetic resonance in musculoskeletal tumors: state of the art and recent advances</dc:title>
+<dc:creator>Johnston, James</dc:creator>
+<dc:creator>Lang, Phillip</dc:creator>
+<dc:creator>Arenal, Fabiola</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">La Resonancia magnética (RM) se ha convertido en la técnica diagnóstica más importante para: 1) la estadificación local de las neoplasias primarias musculoesqueléticas, 2) para monitorizar la respuesta a la quimioterapia y 3) para detectar la recidiva tumoral. La RM es capaz de diagnosticar con exactitud la extensión local del tumor, ayudando a determinar los márgenes tumorales de seguridad durante la cirugía. La RM poscontraste es útil para valorar la presencia o ausencia de necrosis tumoral tras la quimioterapia. Si la RM demuestra ausencia de necrosis tumoral (típicamente menos de un 90 por ciento de necrosis en el tejido tumoral) se considera que la respuesta a la quimioterapia es pobre y que el tratamiento es ineficaz, siendo necesario cambiar el protocolo quimioterápico. Los estudios dinámicos de RM tras la administración de contraste paramagnético i.v. en bolo son particularmente útiles para valorar la respuesta a la quimioterapia. Hasta el momento actual el cálculo de los valores de la pendiente de las curvas de realce por contraste-tiempo se realizaba mediante análisis del ROI (región de interés). Sin embargo, los nuevos ordenadores son capaces de generar la 'imagen del primer paso de contraste' o 'imagen de la tasa de realce' y calcular la tasa de realce tisular midiendo cada uno de los puntos de la imagen y utilizando un algoritmo lineal, lo cual facilita la interpretación. Estas 'imágenes del primer paso de contraste' o 'imágenes de la tasa de realce' pueden también ser útiles para diferenciar el edema perineoplásico de la lesión tumoral y para detectar áreas de tumor residual o recidiva tumoral después de la cirugía y/o radioterapia. La RM de difusión es una nueva técnica que es potencialmente capaz de detectar y cuantificar la cantidad de necrosis tumoral tras la quimioterapia o radioterapia (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);42(1): 1-1, ene. 2000. ilus</dc:source>
+<dc:identifier>ibc-4400</dc:identifier>
+<dc:title xml:lang="es">Rm de los tumores musculoesqueléticos, estado actual y últimos avances</dc:title>
+<dc:subject>^d22878^s22074</dc:subject>
+<dc:subject>^d27249</dc:subject>
+<dc:subject>^d9573^s29166</dc:subject>
+<dc:subject>^d24403^s29166</dc:subject>
+<dc:subject>^d8398^s22016</dc:subject>
+<dc:subject>^d9560^s22045</dc:subject>
+<dc:subject>^d31224^s22016</dc:subject>
+<dc:subject>^d2854^s29166</dc:subject>
+<dc:subject>^d24403^s22012</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24403^s22057</dc:subject>
+<dc:subject>^d24403^s22016</dc:subject>
+<dc:subject>^d5821^s22000</dc:subject>
+<dc:subject>^d9557^s22012</dc:subject>
+<dc:subject>^d23405</dc:subject>
+<dc:subject>^d9560^s22074</dc:subject>
+<dc:subject>^d41^s22027</dc:subject>
+<dc:subject>^d2854^s22016</dc:subject>
+<dc:subject>^d9557^s22016</dc:subject>
+<dc:subject>^d31224^s29166</dc:subject>
+<dc:subject>^d9557^s29166</dc:subject>
+<dc:subject>^d9555^s29166</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d1884^s29166</dc:subject>
+<dc:subject>^d9527</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d27977</dc:subject>
+<dc:subject>^d22878^s22045</dc:subject>
+<dc:subject>^d21012</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d5821</dc:subject>
+<dc:subject>^d3306^s22000</dc:subject>
+<dc:subject>^d30392^s22016</dc:subject>
+<dc:subject>^d30392^s22053</dc:subject>
+<dc:subject>^d30392^s22012</dc:subject>
+<dc:subject>^d41^s22012</dc:subject>
+<dc:subject>^d9573^s22016</dc:subject>
+<dc:subject>^d30392^s29166</dc:subject>
+<dc:subject>^d9334^s22053</dc:subject>
+<dc:subject>^d41^s22016</dc:subject>
+<dc:subject>^d23405^s22045</dc:subject>
+<dc:subject>^d1884^s22057</dc:subject>
+<dc:subject>^d1884^s22016</dc:subject>
+<dc:subject>^d9334^s29166</dc:subject>
+<dc:subject>^d8398^s29166</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200001</dc:date>
+</metadata>
+</record>
+</ibecs-document>

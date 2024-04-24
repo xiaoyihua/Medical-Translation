@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-97784</identifier>
+<setSpec>0211-5735</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Ten basic requirements for the implementation of quality information systems in mental health</dc:title>
+<dc:description xml:lang="en">A mental health information system, must meet the following minimum requirements if it is to be considered of good quality. The system must be patient centred, and the information must be longitudinal, accumulated, exhaustive and complete. This requires a unique universal identification code for each patient. The data recorded must comply with the guarantees of confidentiality and the minimum quality criteria to enable the drawing up of results that are useful for the scientific community, including clinicians, managers and researchers. For these information systems to be efficient, it is necessary for the clinicians to be involved in their development and to receive training for their correct use. Finally, these systems should receive institutional support and be considered a priority within the mental health care system(AU)</dc:description>
+<dc:creator>Moreno Kiistner, Berta</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Para que los sistemas de información en salud mental sean eficientes deberían cumplir los siguientes requisitos. (1) El sistema debe estar centrado en el paciente, (2) la recogida de la información debe ser longitudinal y acumulada; (3) el sistema debe ser integrado y exhaustivo. Para todo ello necesitamos contar con un código de identificación único y universal de cada paciente. (4) Debe definirse un conjunto mínimo básico de datos a recoger homogéneos y estandarizados, que cumplan normas de (5) confidencialidad y criterios mínimos de (6) calidad. Además, el sistema de información debe permitir (7) la explotación de resultados de forma ágil, rápida y flexible y que sea útil para la comunidad científica: profesionales clínicos, gestores e investigadores. Es necesario que (8) los profesionales clínicos estén involucrados en el desarrollo de los sistemas de información y reciban el asesoramiento necesario, (9) desde unidades intermedias, para su correcta utilización. Por último, y no por ello menos importante, (10) los sistemas de información en salud mental deben estar apoyados institucionalmente y ser considerados como una prioridad dentro del sistema de atención a la salud mental(AU)</dc:description>
+<dc:source>Rev. Asoc. Esp. Neuropsiquiatr;32(113): 29-38, ene.-mar. 2012.</dc:source>
+<dc:identifier>ibc-97784</dc:identifier>
+<dc:title xml:lang="es">¿Por qué no funcionan los sistemas de información en salud mental? Diez requisitos necesarios para su implementación</dc:title>
+<dc:subject>^d22519^s22049</dc:subject>
+<dc:subject>^d5703^s22049</dc:subject>
+<dc:subject>^d5703^s22048</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22519^s22074</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22519^s22066</dc:subject>
+<dc:subject>^d28451^s22066</dc:subject>
+<dc:subject>^d29453^s22049</dc:subject>
+<dc:subject>^d28219^s22048</dc:subject>
+<dc:subject>^d29453^s22066</dc:subject>
+<dc:subject>^d5703^s22074</dc:subject>
+<dc:subject>^d28451^s22048</dc:subject>
+<dc:subject>^d29453^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201203</dc:date>
+</metadata>
+</record>
+</ibecs-document>

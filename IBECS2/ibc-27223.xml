@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-27223</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Structure and function of the cerebellum</dc:title>
+<dc:creator>Delgado-García, J. M</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>César Viguera</dc:publisher>
+<dc:description xml:lang="es">Introducción. El cerebelo es una estructura nerviosa, de organización casi cristalina, presente en todos los vertebrados. Su crecimiento en tamaño, desde los peces a los mamíferos, y particularmente en los primates, ocurre con la repetición del esquema celular y conectividad original. Desarrollo. El cerebelo se organiza en folios que se colocan uno tras otro en el eje rostrocaudal y transversalmente sobre el tronco del encéfalo. La corteza del cerebelo consta de cinco tipos neuronales (células de Purkinje, estrelladas, en cesto, de Golgi y de los granos), todos de carácter inhibidor salvo la célula de los granos. Las vías aferentes a la corteza cerebelosa llegan en forma de fibras musgosas y trepadoras y aportan información de origen somatosensorial, vestibular, acústico y visual, así como de los planes motores de la corteza cerebral y de otros centros motores troncoencefálicos y espinales. La única vía de salida de la corteza cerebral son los axones de las células de Purkinje que proyectan sobre los núcleos profundos del cerebelo. Éstos, a su vez, proyectan sobre distintos centros motores del tronco del encéfalo y, a través del tálamo, sobre diversas zonas de la corteza cerebral. Desde el punto de vista funcional, el cerebelo se organiza en pequeños módulos, idénticos en estructura, que se diferencian en el origen de sus aferencias y en el destino final de sus vías eferentes. El cerebelo realiza funciones de tipo coordinador o integrador en relación con procesos motores y cognitivos. Conclusión. La lesión del cerebelo no produce parálisis motora, pérdida de percepción sensorial o un déficit marcado de las funciones cognitivas, pero su afectación altera el funcionamiento de los sistemas motores y, probablemente, de determinados procesos perceptivos y cognitivos (AU)</dc:description>
+<dc:source>Rev Neurol;33(7): 635-642, dic. 2001.</dc:source>
+<dc:identifier>ibc-27223</dc:identifier>
+<dc:title xml:lang="es">Estructura y función del cerebelo</dc:title>
+<dc:subject>^d9666</dc:subject>
+<dc:subject>^d9236</dc:subject>
+<dc:subject>^d4595</dc:subject>
+<dc:subject>^d24480</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d3102</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d10662</dc:subject>
+<dc:subject>^d2568</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200112</dc:date>
+</metadata>
+</record>
+</ibecs-document>

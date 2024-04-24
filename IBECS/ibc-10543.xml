@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-10543</identifier>
+<setSpec>0365-6691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Topographic classification of glaucomatous visual fields</dc:title>
+<dc:creator>González de la Rosa, M</dc:creator>
+<dc:creator>Abreu Reyes, A</dc:creator>
+<dc:creator>Pareja Ríos, A</dc:creator>
+<dc:creator>González Hernández, M</dc:creator>
+<dc:creator>Aguilar Estévez, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Audiovisual y Marketing, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Clasificar los campos visuales glaucomatosos, atendiendo al haz de axones de células ganglionares afectado en el momento de su transcurrir por la cabeza del nervio óptico. Métodos: Se analizaron 255 campos visuales de archivo de pacientes con sospecha de glaucoma o glaucoma establecido, realizados con el programa 32 del perímetro Octopus 1-2-3. Excluyendo la mancha ciega, se calculó el coeficiente de determinación (r2) utilizando regresión lineal, entre los umbrales de los 10 puntos situados en torno a la mancha ciega y los 73 puntos restantes. Resultados: Se alcanzaron correlaciones significativas (r2&gt;0,33) con la sensibilidad de puntos muy distantes pero relacionados con los situados junto a la papila a causa del trayecto de las fibras. De esta forma pudieron definirse 7 regiones: tres de ellas se afectan poco o tardíamente por la enfermedad: S1 e I1 correspondientes al haz papilo-macular superior e inferior y T situada temporalmente respecto a la mancha ciega. Las regiones S2 e I2 recogen la sensibilidad nasal y para-central superior e inferior. Las regiones S3 e I3 delimitan los campos supero-nasales e infero-nasales cuyos axones penetran por los polos apicales de la papila. Conclusiones: Existe una correspondencia entre la disposición anatómica de los axones de las células ganglionares al penetrar en el nervio óptico y la topografía de los defectos glaucomatosos, que permite su sistematización en la clasificación que se propone (AU)</dc:description>
+<dc:source>Arch Soc Esp Oftalmol;77(2): 87-94, feb. 2002.</dc:source>
+<dc:identifier>ibc-10543</dc:identifier>
+<dc:title xml:lang="es">Clasificación topográfica del campo visual glaucomatoso</dc:title>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d54195</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d24367</dc:subject>
+<dc:subject>^d28053</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d3969</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200202</dc:date>
+</metadata>
+</record>
+</ibecs-document>

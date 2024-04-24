@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-86203</identifier>
+<setSpec>0212-6982</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Dual time point 18F-FDOPA PET as a tool for characterizing brain tumors</dc:title>
+<dc:description xml:lang="en">18F-FDOPA is an amino acid analogue used to evaluate presynaptic dopaminergic activity, which has aroused great interest in neuro-oncology. We have evaluated five 18F-FDOPA PET studies of patients referred for study of parkinsonian syndrome. Two subjects had previously treated high-grade brain tumors, one nonspecific brain injury, and 2 subjects presented unexpected tumoral lesions. For all lesions SUVmax, time to SUVmax and tumor-to-normal grey matter SUVmax rate (T/N) were calculated, and 90minutes 18F-FDOPA kinetics were analyzed. Tumor lesions corresponded to three malignant neurocytomas, one meningioma, one pineocytoma and one intrasinusal hemangioma. Both malignant and benign tumors exhibited high uptake of 18F-FDOPA well above the normal cortex. However, the analysis of the curve uptake displayed characteristic patterns that facilitate the characterization of tumor lesions. A dual phase maximum uptake was observed, with an early 10minutes uptake in malignant lesions, and a late 60 to 90minutes uptake in benign or low grade lesions(AU)</dc:description>
+<dc:creator>Arbizu, J</dc:creator>
+<dc:creator>Domínguez, I</dc:creator>
+<dc:creator>Vigil, C</dc:creator>
+<dc:creator>Peñuelas, I</dc:creator>
+<dc:creator>González-Forero, M</dc:creator>
+<dc:creator>Prieto, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La 18F-FDOPA es un análogo de aminoácidos empleado en la evaluación de la función dopaminérgica presináptica, que ha despertado gran interés en neuro-oncología. Evaluamos 5 estudios PET con 18F-FDOPA de pacientes remitidos para estudio por síndrome parkinsoniano. Dos de ellos tuvieron tumores cerebrales de alto grado previamente tratados, uno una lesión cerebral inespecífica y dos tenían un hallazgo incidental de tumor cerebral. Para cada lesión se calculó el SUVmáx, el tiempo a SUVmáx y el índice SUVmáx entre la lesión y la sustancia gris (T/N), y se analizó el perfil de la cinética de captación. Las lesiones tumorales correspondieron a tres neurocitomas malignos, un meningioma, un pineocitoma y un hemangioma intrasinusal. Todas las lesiones tumorales mostraron una captación de 18F-FDOPA superior al córtex sano. El análisis de la curva cinética de la 18F-FDOPA mostró una doble fase de máxima captación que facilitó la caracterización tumoral: una fase inicial a los 10 minutos en lesiones malignas, y una fase tardía a los 60-90 minutos en las benignas o de bajo grado(AU)</dc:description>
+<dc:source>Rev Esp Med Nucl;30(2): 88-93, mar.-abr. 2011. tab, ilus</dc:source>
+<dc:identifier>ibc-86203</dc:identifier>
+<dc:title xml:lang="es">PET de doble fase con 18F-FDOPA como instrumento para la caracterización de tumores cerebrales</dc:title>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d9871^s22039</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3965</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d38793^s22039</dc:subject>
+<dc:subject>^d1958^s29166</dc:subject>
+<dc:subject>^d33090</dc:subject>
+<dc:subject>^d9871^s22045</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d33478</dc:subject>
+<dc:subject>^d33478^s22044</dc:subject>
+<dc:subject>^d38793^s22045</dc:subject>
+<dc:subject>^d9555^s29166</dc:subject>
+<dc:subject>^d11304^s29166</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201104</dc:date>
+</metadata>
+</record>
+</ibecs-document>

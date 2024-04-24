@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-040603</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Effects of HIV status and other variables on the outcome of tuberculosis treatment in Spain</dc:title>
+<dc:description xml:lang="en">Objective: To analyze the effect of human immunodeficiency virus (HIV) status and other variables on the outcome of tuberculosis treatment in Spain.         Patients and Methods: Multicenter retrospective cohort study in 6 autonomous communities of Spain (from May 1996 to April 1997). Data on treatment outcome were collected for new cases of tuberculosis in accordance with European guidelines. Follow up of patients continued for 3 months after scheduled end of treatment.                 Results: Of the 4899 patients included, 3417 (69.7%) had a satisfactory outcome, 438 (8.9%) died before or during treatment, and 1044 (21.4%) had a potentially unsatisfactory outcome. On stratification by HIV status, satisfactory outcome, mortality, and potentially unsatisfactory outcome were reported for 43.4%, 21.5%, and 35.1%, respectively, of HIV-positive patients; 71%, 6.2%, and 22.8%, respectively, of HIV-negative patients; and 74.3%, 7.5%, and 18.2%, respectively, of patients with no HIV status available. HIV modified the effect of several variables on the outcome of treatment, and so separate logistic regression models for each HIV category were constructed. Among HIV-positive patients, mortality increased in patients with neoplastic disease and in users of drugs by nonintravenous routes of administration, whereas potentially unsatisfactory outcomes increased in intravenous drug users and in women.                 Conclusions: In Spain, the outcome of tuberculosis treatment is much worse in HIV-positive patients. Drug use and presence of neoplastic disease substantially affect mortality</dc:description>
+<dc:creator>Díez Ruiz-Navarro, M</dc:creator>
+<dc:creator>Vázquez Fernández, M. F</dc:creator>
+<dc:creator>Hernández Espinosa, J. A</dc:creator>
+<dc:creator>Gayoso Diz, P</dc:creator>
+<dc:creator>Bleda Hernández, M. J</dc:creator>
+<dc:creator>Domínguez García, A</dc:creator>
+<dc:creator>López de Valdivielso, M. J</dc:creator>
+<dc:creator>Díaz Franco, A</dc:creator>
+<dc:creator>Castells Carrillo, C</dc:creator>
+<dc:creator>García Fulgueiras, A. M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Analizar el efecto del virus de la inmunodeficiencia humana (VIH) y otras variables sobre el resultado del tratamiento antituberculoso en España.                 Pacientes y métodos: Estudio multicéntrico de cohorte retrospectivo en 6 comunidades autónomas (de mayo de 1996 a abril de 1997). Se recogió información sobre el resultado del tratamiento en casos nuevos de tuberculosis siguiendo la normativa europea. Se realizó seguimiento de los casos hasta 3 meses después de la fecha prevista de finalización del tratamiento.                 Resultados: De los 4.899 pacientes incluidos, se observó un resultado satisfactorio en 3.417 (69,7%), 438 (8,9%) murieron antes o durante el tratamiento y 1.044 (21,4%) tuvieron un resultado potencialmente insatisfactorio. Estratificando por el estado de la infección por el VIH, las cifras fueron, respectivamente: para los que la presentaban, del 43,4, el 21,5 y el 35,1%; para los seronegativos, del 71, el 6,2 y el 22,8%, y para aquellos en quienes no constaba, del 74,3, el 7,5 y el 18,2%. El VIH modificaba el efecto de diversas variables sobre el resultado del tratamiento, por lo que se ajustaron modelos de regresión logística separados para cada categoría VIH. Entre los seropositivos, la mortalidad aumentó en enfermos con neoplasias y en usuarios de drogas por vías distintas de la parenteral, mientras que los resultados potencialmente insatisfactorios aumentaron en usuarios de drogas por vía intravenosa y en las mujeres.                 Conclusiones: En España, el resultado del tratamiento antituberculoso es mucho peor en enfermos infectados por el VIH. El uso de drogas y el hecho de padecer neoplasias tienen un papel importante sobre la mortalidad</dc:description>
+<dc:source>Arch Bronconeumol;41(7): 363-370, jul. 2005. tab</dc:source>
+<dc:identifier>ibc-040603</dc:identifier>
+<dc:title xml:lang="es">Efectos del VIH y otras variables sobre el resultado del tratamiento antituberculoso en España</dc:title>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d28604</dc:subject>
+<dc:subject>^d14798^s22057</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d14798^s22047</dc:subject>
+<dc:subject>^d29422^s22012</dc:subject>
+<dc:subject>^d29770</dc:subject>
+<dc:subject>^d29640</dc:subject>
+<dc:subject>^d13411^s22080</dc:subject>
+<dc:subject>^d999^s22073</dc:subject>
+<dc:subject>^d12530</dc:subject>
+<dc:subject>^d14798^s22012</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200507</dc:date>
+</metadata>
+</record>
+</ibecs-document>

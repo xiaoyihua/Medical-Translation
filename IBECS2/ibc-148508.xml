@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-148508</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Rapid antibiotic susceptibility test in Clinical Microbiology</dc:title>
+<dc:description xml:lang="en">The most widely used antibiotic susceptibility testing methods in Clinical Microbiology are based on the phenotypic detection of antibiotic resistance by measuring bacterial growth in the presence of the antibiotic being tested. These conventional methods take typically 24 hours to obtain results. A review is presented here of recently developed techniques for the rapid determination of antibiotic susceptibility. Data obtained with different methods such as molecular techniques, flow cytometry, chemiluminescence, mass spectrometry, commercial methods used in routine work, colorimetric methods, nephelometry, microarrays, microfluids, and methods based on cell disruption and sequencing, are analyzed and discussed in detail (AU)</dc:description>
+<dc:creator>Bratos Pérez, Miguel Ángel</dc:creator>
+<dc:creator>March Rosselló, Gabriel Alberto</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Los métodos más frecuentemente utilizados en Microbiología Clínica para la determinación de la sensibilidad de las bacterias a los antibióticos se basan en un estudio fenotípico, observando el crecimiento bacteriano de la cepa incubada en presencia del antibiótico a estudiar. Estos métodos requieren normalmente un tiempo de unas 24 h para la obtención de resultados. El objetivo de este trabajo es revisar el fundamento y los resultados de las principales técnicas instrumentales que proporcionan un antibiograma rápido. De manera pormenorizada se exponen datos relativos a técnicas moleculares, citometría de flujo, quimioluminiscencia, espectrometría de masas, métodos comerciales utilizados en el trabajo de rutina, métodos colorimétricos, nefelometría, microarrays, microfluidos y métodos de lisis bacteriana (AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;34(1): 61-68, ene. 2016. tab</dc:source>
+<dc:identifier>ibc-148508</dc:identifier>
+<dc:title xml:lang="es">Antibiograma rápido en Microbiología Clínica</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d22165^s22038</dc:subject>
+<dc:subject>^d24244^s22045</dc:subject>
+<dc:subject>^d29181^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d28575</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201601</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-32702</identifier>
+<setSpec>1139-6709</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Genetic basis of microbial carotenogenesis</dc:title>
+<dc:description xml:lang="en">The synthesis of carotenoids begins with the formation of a phytoene from geranylgeranyl pyrophosphate, a well conserved step in all carotenogenic organisms and catalyzed by a phytoene synthase, an enzyme encoded by the crtB ( spy) genes. The next step is the dehydrogenation of the phytoene, which is carried out by phytoene dehydrogenase. In organisms with oxygenic photosynthesis, this enzyme, which accomplishes two dehydrogenations, is encoded by the crtP genes. In organisms that lack oxygenic photosynthesis, dehydrogenation is carried out by an enzyme completely unrelated to the former one, which carries out four dehydrogenations and is encoded by the crtI genes. In organisms with oxygenic photosynthesis, dehydrogenation of the phytoene is accomplished by a zeta-carotene dehydrogenase encoded by the crtQ ( zds) genes. In many carotenogenic organisms, the process is completed with the cyclization of lycopene. In organisms exhibiting oxygenic photosynthesis, this step is performed by a lycopene cyclase encoded by the crtL genes. In contrast, anoxygenic photosynthetic and non-photosynthetic organisms use a different lycopene cyclase, encoded by the crtY ( lyc) genes. A third and unrelated type of lycopene beta-cyclase has been described in certain bacteria and archaea. Fungi differ from the rest of non-photosynthetic organisms in that they have a bifunctional enzyme that displays both phytoene synthase and lycopene cyclase activity. Carotenoids can be modified by oxygen-containing functional groups, thus originating xanthophylls. Only two enzymes are necessary for the conversion of beta-carotene into astaxanthin, using several ketocarotenoids as intermediates, in both prokaryotes and eukaryotes. These enzymes are a beta-carotene hydroxylase ( crtZ genes) and a beta-carotene ketolase, encoded by the crtW (bacteria) or bkt (algae) genes (AU)</dc:description>
+<dc:publisher>Springer-Verlag Ibérica</dc:publisher>
+<dc:description xml:lang="es">La síntetis de carotenoides se inicia con la formación de fitoeno a partir de GGPP, un paso muy conservado en todos los organismos carotenogénicos y catalizado por la fitoeno sintasa, una enzima codificada por los genes crtB (spy). El siguiente paso es la deshidrogenación del fitoeno, llevada a cabo por la fitoeno deshidrogenasa. En los organismos con fotosíntesis oxigénica, esta enzima, que realiza dos deshidrogenaciones, está codificada por los genes crtP. En los organismos sin fotosíntesis oxigénica, la deshidrogenación es llevada a cabo por una enzima nada relacionada con la anterior, que realiza cuatro deshidrogenaciones y está codificada por los genes crtI. En los organismos con fotosíntesis oxigénica, la deshidrogenación del fitoeno se completa con una gamma-caroteno deshidrogenasa codificada por los genes crtQ (zds). En muchos organismos carotenogénicos este proceso se completa con la ciclación del licopeno. En los organismos con fotosíntesis oxigénica, este paso lo realiza la licopeno ciclasa, codificada por los genes crtL. Por contra, los organismos con fotosíntesis anoxigénica y los no fotosintéticos utilizan una licopeno ciclasa distinta, codificada por los genes crtY (lyc). Un tercer tipo de licopeno beta-ciclasa no relacionada ha sido descrita en ciertas bacterias y arqueas. Los hongos difieren del resto de los organismos no fotosintéticos en que poseen una enzima bifuncional con actividad fitoeno sintasa y licopeno ciclasa. Los carotenoides pueden ser modificados añadiendo grupos funcionales que contengan oxígeno, convirtiéndose en xantofilas. Sólo son necesarias dos enzimas para la conversión de beta-caroteno en astaxantina en procariotas y eucariotas, teniendo como intermediarios varios cetocarotenoides. Estas enzimas son la beta-caroteno hidroxilasa (genes crtZ) y una beta-caroteno cetolasa codificada por los genes crtW (en bacterias) o bkt (en algas) (AU)</dc:description>
+<dc:source>Int Microbiol;6(1): 11-16, mar. 2003. graf, tab</dc:source>
+<dc:title xml:lang="es">Bases genéticas de la carotenogénesis microbiana</dc:title>
+<dc:type>article</dc:type>
+<dc:creator>Poza, M</dc:creator>
+<dc:creator>Villa, TG</dc:creator>
+<dc:creator>Miguel, T de</dc:creator>
+<dc:creator>Sieiro, C</dc:creator>
+<dc:language>en</dc:language>
+<dc:identifier>ibc-32702</dc:identifier>
+<dc:subject>^d1449</dc:subject>
+<dc:subject>^d53436</dc:subject>
+<dc:subject>^d5794</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d1443</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d2379</dc:subject>
+<dc:subject>^d10266</dc:subject>
+<dc:subject>^d36048</dc:subject>
+<dc:date>200303</dc:date>
+</metadata>
+</record>
+</ibecs-document>

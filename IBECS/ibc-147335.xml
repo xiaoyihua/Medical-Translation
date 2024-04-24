@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-147335</identifier>
+<setSpec>1137-6627</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Metal artifact reduction in post-operative spinal imaging using image acquisition protocol in multidetector computed tomography scans. Cohort study</dc:title>
+<dc:description xml:lang="en">Background. In postoperative patients with metallic implants, CT scans can become less effective due to metal-related artifacts. The purpose of our study was to evaluate the effectiveness of a specific metal artifact reduction image protocol, in order to reduce the metal artifact caused by titanium pedicular screws in patients undergoing lumbar pathology by lumbar fusion. This enables surgeons to make an accurate diagnosis of the exact placement of inserted pedicle screws, making this the preferred image modality for assessing screw position after surgery. Methods. In the first part of the study, CT scans were performed on 23 patients (103 titanium alloy pedicle screws) undergoing a lumbar instrumented fusion for treatment for degenerative disease with a standard image acquisition protocol evaluating the possible overdimension caused by the artifact. In the second part, a prospective study was performed using 64-slice multidetector-row computed tomography (MDCT) on 18 patients (104 titanium alloy pedicle screws) undergoing a lumbar instrumented fusion using a specific image acquisition protocol. Results. Our results show that in the sequential CT scan group, mean overdimension (on each side) due to brightness was 1.045 mm (SD 0.45). In the 64-slice multichannel CT group, mean overdimension (on each side) due to brightness was 0.005 mm at the proximal part of the screw and 0.025 mm at the distal part of the screw. Conclusions. The use of a specific metal artifact reduction image protocol in MDCT produces a minimal artifact following lumbar fusion with pedicle screws (AU)</dc:description>
+<dc:creator>Alfonso Olmos, M</dc:creator>
+<dc:creator>Romero Muñoz, LM</dc:creator>
+<dc:creator>Villas Tomé, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamento. Las imágenes obtenidas mediante estudios con TC pueden ser alteradas por la presencia de artefactos metálicos, induciendo en ocasiones a malinterpretación en la correcta ubicación de los tornillos pediculares en columna lumbar. El objetivo de este trabajo es desarrollar un protocolo de atenuación del artefacto metálico con el propósito de reducir el artefacto generado por los tornillos pediculares de titanio en aquellos pacientes a los que se ha requerido instrumentación lumbar, permitiendo a los cirujanos de columna realizar un diagnóstico preciso de la ubicación del tornillo pedicular instrumentado. Material y métodos. En la primera parte del trabajo se realizó un estudio observacional, analítico, longitudinal y retrospectivo en 23 pacientes (103 tornillos pediculares) a los que se requirió artrodesis lumbar por patología degenerativa. En el postoperatorio se les realizó un estudio con TC secuencial evaluando la sobredimensión generada por el artefacto del tornillo, aplicando un protocolo estándar de obtención de imágenes. En la segunda parte del estudio se diseñó un estudio observacional, analítico, longitudinal y prospectivo empleando un equipo de TCMC de 64 coronas aplicando un protocolo específico de adquisición de imagen sobre 18 pacientes (104 tornillos pediculares) intervenidos mediante artrodesis lumbar. Resultados. En la primera parte del estudio el artefacto medio a ambos lados del tornillo que se genera tras el estudio de TC es de 1,045 mm (DE: 0,45). En el grupo en el que se aplica el protocolo de atenuación del artefacto tras la TCMC la sobredimensión fue de 0,005 en la porción proximal del tornillo y de 0,025 en la parte distal del tornillo. Conclusiones. Los resultados obtenidos sugieren que tras la aplicación del protocolo de atenuación del artefacto en equipo de TCMC de 64 coronas el artefacto es reducido a unas dimensiones similares a la dimensión real del tornillo pedicular(AU)</dc:description>
+<dc:source>An Sist Sanit Navar;38(3): 417-424, sept.-dic. 2015. tab, ilus, graf</dc:source>
+<dc:identifier>ibc-147335</dc:identifier>
+<dc:title xml:lang="es">Atenuación del artefacto metálico post cirugía de columna lumbar mediante protocolo de obtención de imagen en tomografía computarizada multicorte. Estudio de cohortes</dc:title>
+<dc:subject>^d30248</dc:subject>
+<dc:subject>^d30665^s22016</dc:subject>
+<dc:subject>^d24375^s22048</dc:subject>
+<dc:subject>^d55468</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d24375^s22045</dc:subject>
+<dc:subject>^d30665^s22012</dc:subject>
+<dc:subject>^d30665^s22044</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30665^s22053</dc:subject>
+<dc:subject>^d27977^s22011</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24375^s22039</dc:subject>
+<dc:subject>^d27977^s22048</dc:subject>
+<dc:subject>^d1182^s22074</dc:subject>
+<dc:subject>^d1182^s22020</dc:subject>
+<dc:subject>^d1182^s22045</dc:subject>
+<dc:subject>^d1182^s22048</dc:subject>
+<dc:subject>^d24375^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201512</dc:date>
+</metadata>
+</record>
+</ibecs-document>

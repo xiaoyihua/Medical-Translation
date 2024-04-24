@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-133322</identifier>
+<setSpec>0212-7113</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cell-based models to predict human hepatotoxicity of drugs</dc:title>
+<dc:description xml:lang="en">Drug-induced liver injury is a significant leading cause of liver disease and post-market attrition of approved drugs. Several hepatic cell-based models have been used for early safety risk assessment during drug development. Their capacity to predict hepatotoxicity depends on cells' functional performance. Cultured hepatocytes have contributed to increase knowledge of the metabolic patterns and mechanisms involved in drug toxicity. A major limitation of monolayer hepatocytes is that they undergo rapid loss of hepatic functionality over time, particularly drug metabolising capability. The sandwich culture model promotes polarised cell surface and stabilises hepatocyte functionality, particularly transport systems, better than monolayer cultures. As 3D spatial organisation and complex heterotypic cell interactions are essential for the functional homeostasis of the liver, hepatocyte models (3D cultures, co-cultures with NPCs and microfluidic systems) that mimic cell-cell, cell- matrix interactions and nutrient flow characteristic of the liver microenvironment have been shown to improve the metabolic competency of hepatocytes and have been proposed for better in vitro predictions of drug hepatotoxicity. In addition to hepatocytes, other cell-based models have been proposed for hepatotoxicity studies. Hepatoma cell lines are metabolically poor compared to hepatocytes, but offer key advantages, such as unlimited life span, reproducibility, high availability and easy handling, which make them useful for screening purposes. Alternatively, hepatic cell lines engineered for stable or transient expression of key drug-metabolising enzymes have also been used. Finally, stem cell-derived hepatocytes are emerging in vitro systems that would provide a stable source of hepatocytes from individuals with highly valuable particular polymorphic characteristics for preclinical drug metabolism and toxicity prediction of new drugs (AU)</dc:description>
+<dc:creator>Gómez-Lechón, M. J</dc:creator>
+<dc:creator>Tolosa, L</dc:creator>
+<dc:creator>Donato, M. T</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La lesión del hígado por fármacos es una de las causas principales de enfermedad hepática y de retirada del mercado de fármacos autorizados. Son varios los modelos de células hepáticas utilizados durante el desarrollo de fármacos para la valoración temprana de su seguridad. Los estudios basados en hepatocitos cultivados han contribuido al conocimiento de los mecanismos implicados en la toxicidad por fármacos. Una limitación fundamental de los hepatocitos cultivados en monocapa es la pérdida temprana de funciones hepáticas, en particular la capacidad para metabolizar fármacos. El cultivo tipo sándwich mantiene la polaridad de los hepatocitos y los sistemas de transporte y estabiliza su funcionalidad mejor que el cultivo en monocapa. Puesto que la organización espacial 3D y las interacciones celulares heterotípicas son esenciales para la homeostasis funcional del hígado, los hepatocitos cultivados en sistemas que reproducen las interacciones entre células, célula-biomatriz y el flujo de nutrientes característicos del microambiente hepático (cultivos 3D, co-cultivos con células no parenquimales, sistemas microfluidicos) presentan mayor capacidad metabólica y han sido propuestos para mejorar la predicción in vitro de la hepatotoxicidad. Otras células hepáticas han sido propuestas como alternativa a los hepatocitos para evaluar la hepatotoxicidad. Si bien las líneas celulares de hepatoma tienen menor capacidad metabólica que los hepatocitos, presentan ventajas clave para el cribado de fármacos (vida ilimitada, reproducibilidad, gran disponibilidad, fácil manejo). También se utilizan células manipuladas para la expresión estable o transitoria de enzimas de biotransformación. Por último, los hepatocitos procedentes de células madre son sistemas in vitro emergentes que proporcionarían una fuente estable de hepatocitos, a partir de individuos con características polimórficas especiales, sumamente valiosa para la predicción preclínica de la toxicidad de nuevos fármacos (AU)</dc:description>
+<dc:source>Rev. toxicol;31(2): 149-156, jul.-dic. 2014. tab, ilus</dc:source>
+<dc:identifier>ibc-133322</dc:identifier>
+<dc:title xml:lang="es">Modelos celulares para predecir la hepatotoxicidad humana de fármacos</dc:title>
+<dc:subject>^d4421^s22012</dc:subject>
+<dc:subject>^d6862^s22021</dc:subject>
+<dc:subject>^d8272^s22021</dc:subject>
+<dc:subject>^d30827^s22021</dc:subject>
+<dc:subject>^d8272^s22042</dc:subject>
+<dc:subject>^d8272^s22031</dc:subject>
+<dc:subject>^d53500^s22016</dc:subject>
+<dc:subject>^d35288^s29165</dc:subject>
+<dc:subject>^d19042</dc:subject>
+<dc:subject>^d35288^s22021</dc:subject>
+<dc:subject>^d35288^s22044</dc:subject>
+<dc:subject>^d53500^s22012</dc:subject>
+<dc:subject>^d32606^s22021</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201412</dc:date>
+</metadata>
+</record>
+</ibecs-document>

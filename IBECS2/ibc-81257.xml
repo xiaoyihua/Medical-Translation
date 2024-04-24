@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-81257</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Hyperoxia induced pulmonary toxicity</dc:title>
+<dc:description xml:lang="en">Mechanical ventilation may cause and aggravate lung damage and contribute to the appearance of multiorgan failure. One of the mechanisms that has been described is alveolar hyperoxia. In experimental models, it has lead to the production of free oxygen radicals that exceed the cell defense capacity, giving rise to inflammation, cell damage and gene overexpression with necrosis and apoptosis phenomenon. However, these findings in humans are not as conclusive, although a functional alteration due to the exposure to high FiO2, and greater lung de-recruitment in patients with lung injury has been clearly demonstrated. Moreover, both the FiO2 used as well as the PaO2 achieved in the first 24h of admission are associated with mortality. Clinical trials are needed that assess the threshold of the safe oxygen level for FiO2 and oxygen saturation (AU)</dc:description>
+<dc:creator>Salinas-Gabiña, I</dc:creator>
+<dc:creator>Abella-Álvarez, A</dc:creator>
+<dc:creator>Calvo-Herranz, E</dc:creator>
+<dc:creator>Gordo-Vidal, F</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La ventilación mecánica es capaz de producir y agravar el daño pulmonar y contribuir a la aparición de fracaso multiorgánico. Uno de los mecanismos descritos es la hiperoxia alveolar que, en modelos experimentales, conlleva una producción de radicales libres de oxígeno (O2) que exceden las posibilidades de defensa celular, y dan lugar a inflamación, a sobreexpresión genética y a daño celular directo con fenómenos de necrosis y apoptosis. Los hallazgos en humanos no son tan concluyentes, sí está claramente demostrada una alteración funcional debida a la exposición a la fracción inspiratoria de O2 (FiO2) elevada y a un mayor desreclutamiento pulmonar en los pacientes con lesión pulmonar, y que tanto la FiO2 empleada como la presión arterial de oxígeno conseguida en las primeras 24h de ingreso están relacionadas con la mortalidad. Sería necesario realizar ensayos clínicos que evalúen cuál es el umbral de la FiO2 y de la saturación de O2 seguro (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);34(2): 134-138, mar. 2010.</dc:source>
+<dc:identifier>ibc-81257</dc:identifier>
+<dc:title xml:lang="es">Toxicidad pulmonar por hiperoxia</dc:title>
+<dc:subject>^d22480</dc:subject>
+<dc:subject>^d8994</dc:subject>
+<dc:subject>^d11443^s22027</dc:subject>
+<dc:subject>^d10269^s22020</dc:subject>
+<dc:subject>^d32184^s22012</dc:subject>
+<dc:subject>^d8348^s22054</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d8348^s22027</dc:subject>
+<dc:subject>^d30577^s22020</dc:subject>
+<dc:subject>^d10269^s22062</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d12345</dc:subject>
+<dc:subject>^d22944</dc:subject>
+<dc:subject>^d12091^s22027</dc:subject>
+<dc:subject>^d12091^s22054</dc:subject>
+<dc:subject>^d11443^s22054</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201003</dc:date>
+</metadata>
+</record>
+</ibecs-document>

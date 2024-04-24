@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-37798</identifier>
+<setSpec>0212-1972</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Classification of clinical documents</dc:title>
+<dc:description xml:lang="en">No disponible</dc:description>
+<dc:publisher>Puntex, S.A.</dc:publisher>
+<dc:description xml:lang="es">Los sistemas de clasificación de documentación dentro del hospital son una pieza importante en la correcta gestión de la documentación médica. La elección del sistema que mejor se adapte a la organización del hospital es clave en el diseño de los sistemas informáticos que gestionen la documentación clínica electrónica. El objetivo del presente artículo es el diseño de un sistema de clasificación de documentos que permita estructurar los documentos clínicos y clíno-administrativos en un único sistema (AU)</dc:description>
+<dc:source>Todo hosp;(169): 559-563, sept. 2000. tab</dc:source>
+<dc:title xml:lang="es">Sistema de clasificación de documentos clínicos</dc:title>
+<dc:type>article</dc:type>
+<dc:creator>Moreno González, A</dc:creator>
+<dc:creator>Ucar Corral, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:identifier>ibc-37798</dc:identifier>
+<dc:subject>^d2990^s22045</dc:subject>
+<dc:subject>^d28096^s22011</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28597^s22045</dc:subject>
+<dc:subject>^d28994^s22045</dc:subject>
+<dc:subject>^d22347^s22045</dc:subject>
+<dc:date>200009</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-73234</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Clinical usefulness of troponin I in acute pulmonary embolism</dc:title>
+<dc:creator>Alonso Martínez, José Luis</dc:creator>
+<dc:creator>Annicchérico Sánchez, Francisco Javier</dc:creator>
+<dc:creator>Ezcurra Ibáñez, Mercedes</dc:creator>
+<dc:creator>Lasa inchausti, Begoña</dc:creator>
+<dc:creator>García Sanchotena, José Luis</dc:creator>
+<dc:creator>Urbieta Echezarreta, Miren Aranzazu</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamento: La troponina cardíaca I (cTnI) se considera un marcador sensible de daño miocárdico en la tromboembolia pulmonar (TEP) aguda con implicaciones pronósticas, aunque los valores considerados patológicos son variables. Pacientes y método: En pacientes consecutivos con TEP objetivamente demostrada por angiografía pulmonar con tomografía computarizada (TC) helicoidal se midieron los valores de la cTnI. Los pacientes se clasificaron radiológicamente como TEP central o periférica y se clasificaron hemodinámicamente como TEP masiva, submasiva o no masiva (según las cifras de presión arterial sistólica y pro-B de péptido natriurético). Se constató el retraso diagnóstico (RD) desde el inicio de la clínica y la mortalidad a los 30 días. Resultados:  Se evaluaron 164 pacientes (edad media de 70 años [desviación estándar {DE} de 15] con 76 varones [46%]). El RD fue de 5 días (diferencia intercuartílica [DIQ] de 12) (mediana de la cTnI con RD superior a 5 días de 0,003¼g/l [DIQ de 0,103] y con RD inferior a 5 días de 0,05¼g/l [DIQ de 0,096]; p&lt; 0,05). Un valor de la cTnI superior o igual a 0,5 ocurrió en 11 pacientes (7%).Resultados:  Los valores de la cTnI superiores o iguales a 0,03¼g/l se asociaron a TEP central (AUC [area under the curve  área bajo la curva ] ROC [receiver operating characterisric  curva de eficacia diagnóstica ] de 0,7059; intervalo de confianza [IC] del 95%: 0,6643 a 0,7475; sensibilidad de 0,75; especificidad de 0,69; valor predictivo positivo [VPP] de 0,75, y valor predictivo negativo [VPP] de 0,69) y se asociaron a TEP masiva y submasiva (AUC ROC de 0,7685; sensibilidad de 0,86; especificidad de 0,66; VPP de 0,72, y VPN de 0,82), pero no a mortalidad (AUC ROC de 0,5394). Resultados:  En el análisis de regresión logística, los valores de la cTnI no fueron predictores independientes de TEP central, de TEP masiva o submasiva ni de muerte a los 30 días</dc:description>
+<dc:source>Med. clín (Ed. impr.);133(6): 201-205, jul. 2009. graf, tab</dc:source>
+<dc:identifier>ibc-73234</dc:identifier>
+<dc:title xml:lang="es">Utilidad clínica de la troponina I en la tromboembolia pulmonar</dc:title>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d23232^s22045</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d23568</dc:subject>
+<dc:subject>^d33046</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d12092^s22016</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200907</dc:date>
+</metadata>
+</record>
+</ibecs-document>

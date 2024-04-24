@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-107819</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Specific considerations on the prescription and therapeutic interchange of statins</dc:title>
+<dc:description xml:lang="en">Objective The pharmaceutical industry currently offers six different statins in Spain and there is one more soon to be available. Choosing the most appropriate drug and dose is determined by the therapeutic target (reduction in LDL-C levels). Statin doses that decrease LDL-C at the same percentage are considered equivalent. Evaluating the pharmacokinetic characteristics of each statin can be useful when setting selection criteria, helping to determine which statin may be more appropriate for a patient based on their individual characteristics and on the other co-administered drugs. Methods We reviewed the pharmacokinetics properties of each statin and its possible involvement in drug interactions.ResultsCYP3A4 was responsible for the metabolism of lovastatin, simvastatin and atorvastatin; fluvastatin depends on CYP2C9; P-glycoprotein is responsible for decreased atorvastatin, pravastatin, simvastatin and lovastatin concentrations. The OATPA1B1 transporter involved in all statins&#146; access to the hepatocyte, except for fluvastatin, is essential for rosuvastatin and pravastatin. These circumstances cause those drugs inhibiting or inducing isoenzymes or transporters&#146; activity not to have the same effect on the different statins. Conclusion The pharmacokinetics is important when choosing the best statin and could be a limitation in the use of interchange therapeutic programmes when other drugs are present (AU)</dc:description>
+<dc:creator>González-Juanatey, C</dc:creator>
+<dc:creator>Gulín-Dávila, J</dc:creator>
+<dc:creator>Sempere-Serrano, P</dc:creator>
+<dc:creator>Martínez-Pacheco, R</dc:creator>
+<dc:creator>García-Sabina, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo Actualmente existen seis estatinas comercializadas en España y una en proceso de comercialización. La elección de la más adecuada y de su dosis habitualmente viene determinada por el objetivo terapéutico; es decir, en el descenso de c-LDL. Se aceptan como dosis equivalentes de las distintas estatinas aquellas que consiguen el mismo porcentaje de descenso en c-LDL, sin embargo, se trata de fármacos que difieren no sólo en su potencia, sino también en sus propiedades farmacocinéticas. Una evaluación de las peculiaridades farmacocinéticas de cada estatina permite disponer de criterios para su elección, ayudando a determinar qué estatina puede ser más apropiada para un paciente en función de sus características individuales y de los medicamentos que son coadministrados. Métodos Se revisaron las características farmacocinéticas de cada estatina y las interacciones medicamentosas que de ello se derivan. Resultados El CYP3A4 es responsable del metabolismo de atorvastatina, simvastatina y lovastatina; el CYP2C9 de fluvastatina; la P-gp favorece la eliminación de atorvastina, pravastatina, simvastatina y lovastatina; y la actividad del transportador OATP1B1, que favorece el acceso al hepatocito de todas las estatinas excepto fluvastatina, es especialmente importante con rosuvastatina y pravastatina. Estas circunstancias son responsables de que aquellos fármacos que afectan a la actividad de estos isoenzimas o transportadores, bien por inhibición bien por inducción, no afecten por igual a la actividad de las diferentes estatinas. Conclusión A la hora de seleccionar una estatina o de intercambiar una por otra, deben tomarse en consideración las características farmacocinéticas de cada una de ellas(AU)</dc:description>
+<dc:source>Farm Hosp;36(2): 97-108, Mar. -Abr. 2012. ilus, tab</dc:source>
+<dc:identifier>ibc-107819</dc:identifier>
+<dc:title xml:lang="es">Consideraciones específicas en la prescripción e intercambio terapéutico de estatinas</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d51464</dc:subject>
+<dc:subject>^d33420^s22079</dc:subject>
+<dc:subject>^d33014^s22073</dc:subject>
+<dc:subject>^d4422^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d11742^s22083</dc:subject>
+<dc:subject>^d22932^s22079</dc:subject>
+<dc:subject>^d4409</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201204</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-402</identifier>
+<setSpec>0482-5985</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Extramedullary vs. intramedullary osteosynthesis in trochanteric hip fractures. Three-dimensional finite-element analysis</dc:title>
+<dc:creator>García, J. M</dc:creator>
+<dc:creator>Cegoñino, J</dc:creator>
+<dc:creator>Seral, B</dc:creator>
+<dc:creator>Palanca, D</dc:creator>
+<dc:creator>Doblaré, M</dc:creator>
+<dc:creator>Seral, F</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">El estudio mediante elementos finitos se ha convertido en un instrumento ampliamente aceptado y divulgado para el estudio del comportamiento biomecánico del hueso y el sistema hueso-implante. Desde su introducción en los años setenta, y en orden a resolver problemas complejos como la geometría, el patrón de cargas y el comportamiento de los materiales, se ha convertido en un método fundamental de investigación en biomecánica. La investigación en esta materia supone la realización de experimentos muy costosos con especímenes reales. De ahí el interés por encontrar modelos numéricos que simulen de forma suficientemente aproximada el comportamiento del fémur. Se ha realizado un estudio biomecánico del tratamiento de las fracturas trocantéreas de fémur, comparando dos sistemas, Gamma® (Howmedica) y DHS® (Synthes) mediante elementos finitos. Se han encontrado diferencias entre ambos sistemas en cuanto a los desplazamientos del foco de fractura, la distribución de cargas y la distribución de tensiones en los implantes. Tanto con el modelo extramedular como con el intramedular se producen distorsiones importantes en la transmisión de cargas con relación al patrón anatómico, por lo que desde un punto de vista biomecánico ambos sistemas tienen evidentes limitaciones (AU)</dc:description>
+<dc:source>Rev. ortop. traumatol. (Madr., Ed. impr.);45(2): 126-136, abr. 2001.</dc:source>
+<dc:identifier>ibc-402</dc:identifier>
+<dc:title xml:lang="es">Osteosíntesis extramedular vs. intramedular en las fracturas trocantéreas de cadera. Análisis 3D con elementos finitos</dc:title>
+<dc:subject>^d6778^s22009</dc:subject>
+<dc:subject>^d5729</dc:subject>
+<dc:subject>^d5728</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200104</dc:date>
+</metadata>
+</record>
+</ibecs-document>

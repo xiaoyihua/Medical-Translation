@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-6901</identifier>
+<setSpec>0014-2565</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Nosocomial diarrhoea in the adult population</dc:title>
+<dc:creator>Gomis Gavilán, M</dc:creator>
+<dc:creator>Sánchez Artola, B</dc:creator>
+<dc:creator>Barberán López, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">No disponible</dc:description>
+<dc:source>Rev Clin Esp;200(11): 617-618, nov. 2000.</dc:source>
+<dc:identifier>ibc-6901</dc:identifier>
+<dc:title xml:lang="es">Diarrea de origen nosocomial en la población adulta</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d28477</dc:subject>
+<dc:subject>^d30324</dc:subject>
+<dc:subject>^d3994</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28890</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200011</dc:date>
+</metadata>
+</record>
+</ibecs-document>

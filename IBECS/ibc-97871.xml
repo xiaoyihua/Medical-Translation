@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-97871</identifier>
+<setSpec>0004-0614</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">No disponible</dc:title>
+<dc:description xml:lang="en">OBJECTIVES: To review the various methods to predict the risk of having prostate cancer, or that localized disease may be cured or progress after a given treatment. METHODS: We performed a review of the various mathematic models known for the probability analysis of the event, with a critical analysis of weaknesses and strengths of each method. In a Medline update were Arch view the most relevant papers referred to diagnosis and management of localized prostate cancer in its diagnosis and management sides, as well as the probability of developing metastatic disease and to die. RESULTS: There are multiple methods and models to predict the various events in a patient candidate to diagnosis of prostate cancer, as well as to analyze the possibilities of success of a specific treatment, in many cases with an important exactness. We emphasize the heterogeneity in the methods, data and variables used for the analysis, basically about retrospective studies. Many of the most sophisticated methods, Neural Network or cart, do not present greater exactness than classic methods like logistic regression. CONCLUSIONS: Predictive models are an important element for decision making in usual clinical practice, favoring the decision of a diagnosis or certain treatment is not taken in a random manner and therefore it is taken following scientific criteria. Waiting for more precise methods, we have to know no method is perfect, and therefore it is an important tool, which should not by pass personal knowledge or the experience of a specific working group(AU)</dc:description>
+<dc:creator>Casas Nebra, Javier</dc:creator>
+<dc:creator>Chantada Abal, Venancio</dc:creator>
+<dc:creator>Zarraonaindia Andraca, Anton</dc:creator>
+<dc:creator>Pita Fernández, Salvador</dc:creator>
+<dc:creator>Ponce Díaz-Reixa, José</dc:creator>
+<dc:creator>Gómez Veiga, Francisco</dc:creator>
+<dc:creator>Gonzalez Dacal, Juan</dc:creator>
+<dc:creator>López García, Daniel</dc:creator>
+<dc:creator>Martínez Breijo, Sara</dc:creator>
+<dc:creator>Pértega Díaz, Sonia</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">OBJETIVO: Hacer una revisión de los diferentes métodos para predecir el riesgo de padecer un cáncer de próstata o que la enfermedad localizada pueda ser curada o progrese después de un tratamiento concreto. MÉTODOS: Realizamos una revisión de los diferentes modelos matemáticos conocidos para el análisis de probabilidad del evento, con un estudio crítico de debilidades y fortalezas de cada uno de estos métodos. En una actualización del Medline, revisamos los diferentes trabajos más relevantes referidos al diagnóstico y manejo del cáncer de próstata localizado en sus vertientes de diagnóstico y tratamiento, así como las posibilidades de desarrollar enfermedad metastásica o exitus. RESULTADOS: Existen múltiples métodos y modelos para predecir los diferentes eventos en pacientes candidatos a diagnóstico de cáncer de próstata, así como para analizar posibilidades de éxito de un tratamiento concreto, en muchos casos con una importante exactitud. Destaca la heterogeneidad en los métodos empleados, datos y variables utilizadas para los análisis, básicamente sobre estudios retrospectivos. Muchos de los métodos más sofisticados, Neural Network o Cart, no presentan exactitudes mayores que los métodos clásicos como la regresión logística. CONCLUSIONES: Los modelos predictivos son un elemento importante para la toma de decisiones en la práctica clínica habitual, favoreciendo que la decisión de un diagnóstico o un determinado tratamiento no se haga de forma aleatoria y por tanto siguiendo un criterio científico. En espera de desarrollo de métodos más precisos, hemos de saber que ningún modelo es perfecto y por tanto, es una herramienta importante, que no debe dejar de lado el conocimiento personal o la experiencia en un grupo de trabajo concreto(AU)</dc:description>
+<dc:source>Arch Esp Urol;64(8): 765-782, oct. 2011. tab</dc:source>
+<dc:identifier>ibc-97871</dc:identifier>
+<dc:title xml:lang="es">Impacto de los modelos predictivos y la toma de decisiones en cáncer de próstata: un debate integral</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d9555^s22054</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d3675</dc:subject>
+<dc:subject>^d9555^s22016</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d11914^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201110</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-058165</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Study of hospital activity through the use of multivariate statistical tecniques: the case of the Hospital Clínico de la Universidad de Chile</dc:title>
+<dc:description xml:lang="en">Objective: To obtain useful hospital management indicators, based on the technique of principal components analysis. Material and method: We analyzed information on the activity of medical-surgical services in the Hospital Clinico de la Universidad de Chile from January 2003 to December 2004. The following variables were analyzed: number of discharges, lethality rate, readmissions rate, number of outpatient consultations, number of hospital stays, and the surgical complexity index. The principal components analysis (PCA) technique was applied and the R correlation matrix was used. Results: The first two principal components for each year were selected, accounting cumulatively for 75.92% of the variability in the data: 47.02% for the first and 28.90% the second. The first component may be interpreted as a new index related to clinical complexity and the second related to healthcare demand. Conclusions: The use of these new indicators would aid classification of hospital services and performance monitoring, allowing appropriate corrective measures to be introduced</dc:description>
+<dc:creator>Carmona, Sergio</dc:creator>
+<dc:creator>Naranjo, Benjamín</dc:creator>
+<dc:creator>Albornoz, Jaime</dc:creator>
+<dc:creator>Erazo, Marcia</dc:creator>
+<dc:creator>Retamales, Beatriz</dc:creator>
+<dc:creator>Salinas, Hugo</dc:creator>
+<dc:creator>Almenara, José</dc:creator>
+<dc:creator>Carrasco, Benjamín</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Obtener indicadores útiles y dinámicos para la gestión hospitalaria mediante análisis de componentes principales. Material y método: Se analizó la información del Hospital Clínico de la Universidad de Chile correspondiente a la actividad de los servicios medicoquirúrgicos desde enero de 2003 a diciembre de 2004. Las variables analizadas fueron: número de altas, tasa de letalidad, tasa de reingresos, número de consultas externas, número de días de camas ocupadas e índice de complejidad quirúrgica. Aplicamos la técnica de análisis de componentes principales (ACP), y se utilizó la matriz de correlaciones R. Resultados: Se seleccionaron los primeros 2 componentes para cada año, que dieron cuenta del 75,92% de la variabilidad en los datos: el 47,02% el primero y el 28,9% el segundo. El primer componente se puede interpretar como un nuevo índice relacionado con la complejidad asistencial y el segundo, con la demanda asistencial. Conclusiones: La utilización de estos nuevos indicadores permitiría categorizar los servicios hospitalarios y supervisar su rendimiento, lo que facilitaría la implementación de medidas de corrección</dc:description>
+<dc:source>Rev. calid. asist;22(5): 256-261, sep.2007. ilus, tab</dc:source>
+<dc:identifier>ibc-058165</dc:identifier>
+<dc:title xml:lang="es">Estudio de la dinámica de servicios hospitalarios mediante la utilización de técnicas estadísticas multivariables: el caso del Hospital Clínico de la Universidad de Chile</dc:title>
+<dc:subject>^d36351</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d6905^s22049</dc:subject>
+<dc:subject>^d2722</dc:subject>
+<dc:subject>^d6940^s22049</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200709</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-131436</identifier>
+<setSpec>1989-7790</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prevalence of IgG antibodies to toxin tetanus in health workers</dc:title>
+<dc:description xml:lang="en">Introduction: In 2009 the Ministry of Health of Spain published a new guide for the vaccination of diphtheria and tetanus. There are discrepancies with the time of inoculation of the booster with other countries and medical societies. The objective of this study was to estimate the health worker prevanlencia antibody negative to tetanus toxoid and see to it associated factors. Material and Methods: A descriptive study. The variables analyzed were: IgG - Tetanus Toxin, time last dose of vaccination, total dose, age, sex, hospital, smoking history and body mass index. Logistic regression model was constructed. In order to identify areas of more sensitive and specific cut for temporary variables (time since last dose and age) ROC curves were calculated. Results: The variables, age O.R= 17,56 (1,840 - 167,760), inoculated vaccine doses to workers O.R= 0,064 (0,006 - 0,908) and the time of the last dose of vaccination O.R= 1,03 (1,017 - 1,047) are significant variables in the multivariate analysis. The cut-off points for age is 54 years (Sensitivity S= 0,72, Specificity SP=0,77) and 15 years after the last dose (S= 0,88, SP =0,86), above this cut the likelihood of having antibodies to tetanus is high. Conclusions: In a worker or documents referred to more than 15 years ago the last dose revaccination should ask, if this worker also reported not having more than 5 inoculated dose and has over 54 years would be highly recommended revaccination (AU)</dc:description>
+<dc:creator>Pérez Bermúdez, B</dc:creator>
+<dc:creator>Almodóvar Carretón, M. J</dc:creator>
+<dc:creator>Vila Duplá, Santiago</dc:creator>
+<dc:creator>Aranda Vizcaíno, A</dc:creator>
+<dc:creator>Ramón de Fata, Octavio</dc:creator>
+<dc:creator>Martínez López, Carmen</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: En el año 2009 el Ministerio de Sanidad y Consumo de España publica una nueva guía para la vacunación de la Difteria y Tétanos. Existen discrepancias con los tiempos de inoculación de las dosis de recuerdo con otros países y sociedades médicas. Material y métodos: Estudio descriptivo. Las variables analizadas fueron: IgG-Toxoide Tetánico, tiempo última dosis de vacunación, dosis totales, edad, sexo, hospital, habito tabáquico e índice de masa corporal. Se construyó un modelo de Regresión Logística. Con el fin de determinar los puntos de corte más sensibles y específicos para las variables temporales (tiempo desde la última dosis y edad) se calcularon las curvas R.O.C Resultados: Las variables, edad O,R= 17,56 (1,840 - 167,760), dosis de vacuna inoculadas al trabajador, O,R= 0,064 (0,006 - 0,908) y tiempo de la última dosis de vacunación, O,R= 1,03 (1,017 - 1,047), son las variables significativas en el análisis multivariante. Los puntos de cortes, para la edad son 54 años (Sensibilidad S= 0,72, Especificidad SP=0,77) y 15 años tras la última dosis años (S= 0,88, SP=0,86), por encima de este corte la probabilidad de no tener anticuerpos al Tétanos es alta. Conclusiones: Ante un trabajador que refiere o documenta que hace más de 15 años de la ultima dosis deberíamos plantearnos la revacunación, si además este trabajador refiere no tener más de 5 dosis inoculadas y tiene más de 54 años la revacunación sería muy recomendable (AU)</dc:description>
+<dc:source>Med. segur. trab;60(236): 480-488, jul.-sept. 2014. graf, tab</dc:source>
+<dc:identifier>ibc-131436</dc:identifier>
+<dc:title xml:lang="es">Prevalencia de anticuerpos IgG al toxoide tetánico en trabajadores sanitarios</dc:title>
+<dc:subject>^d14121^s22080</dc:subject>
+<dc:subject>^d29430^s22074</dc:subject>
+<dc:subject>^d916^s22001</dc:subject>
+<dc:subject>^d23121^s22000</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22206^s22038</dc:subject>
+<dc:subject>^d35364^s22000</dc:subject>
+<dc:subject>^d30349^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201409</dc:date>
+</metadata>
+</record>
+</ibecs-document>

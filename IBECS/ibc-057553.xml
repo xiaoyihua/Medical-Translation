@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-057553</identifier>
+<setSpec>0214-4603</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Efficiency of the automatic detection of multiple auditory steady state responses measured with ROC methodology</dc:title>
+<dc:description xml:lang="en">Here we evaluate comparatively using receiver operating characteristics (ROC) curves, the efficiency of the automatic detection of multiple auditory steady state responses (MSSR) with an established methodology such as click auditory brainstem responses (cABR). For the automatic detection of cABR two statistics were calculated: the standard deviation ratio (SDR) between the signal and the background noise and the correlation coefficient ratio (CCR) between two replicates, whereas for the MSSR the statistics in the frequency domain Hotelling T2 (HT2) and circular T2 (CT2) were used. The ROC curves were computed over 222 recordings (34 without response y 188 with response) obtained at a fixed intensity of 40 dB nHL. Although these evoked responses (cABR and MSSR) could be identified efficiently by the different statistics, the MSSR showed better efficiency with higher areas under the ROC curve (HT2: 0,91-0,95 and CT2: 0,90-0,91 for 0,5 and 2 KHz) compared to the cABR (0,60 for CCR and 0,87 for the SDR). However, the MSSR had lower time-efficiency than the cABR (MSSR: 5,4 +/-2,5 minutes, cABR: 2,5 +/-1,6 minutes). We conclude that the MSSR technique show significant advantages for the automated detection of near threshold responses over cABR and further improved could be valuable within a screening context</dc:description>
+<dc:creator>Lage Castellanos, A</dc:creator>
+<dc:creator>Pérez Abalo, M. C</dc:creator>
+<dc:creator>Mijares Nodarse, E</dc:creator>
+<dc:creator>Hernández Barros, D</dc:creator>
+<dc:creator>Savio López, G</dc:creator>
+<dc:creator>Vega Hernandez, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En este estudio se compara mediante curvas características de operación del receptor (ROC, siglas en inglés) la eficiencia de la detección automática de potenciales evocados auditivos de estado estable a múltiples frecuencias (PEAee a MF) con la de una técnica ya establecida como los potenciales evocados auditivos de tronco cerebral (PEATC) a click. Para la detección automática de los PEATC se utilizaron dos indicadores estadísticos: 1) cociente de desviación estándar (SDR, siglas en inglés) entre la señal y el ruido; 2) coeficiente de correlación (CCR) entre dos réplicas. La identificación de los PEAee a MF se realizó mediante los indicadores estadísticos T2 de Hotelling (T2H) y T2 circular (T2C) calculados en el dominio de la frecuencia. Las curvas ROC se computaron sobre una muestra de 222 registros (34 sin respuesta y 188 con respuesta) obtenidos a una intensidad fija de 40 dB nHL. Aunque ambas respuestas fueron identificadas eficientemente con estos indicadores estadísticos, la detectabilidad de los PEAee a MF fue mejor, con áreas bajo la curva ROC (T2H: 0,91-0,95 y T2C: 0,90-0,91 para 0,5 y 2 KHz) mayores que las del PEATC de 0,60 (CCR) y 0,87 (SDR). Por otra parte, la prueba de cribado con PEAee a MF fue de mayor duración (5,4 +/- 2,5 min) que la de PEATC (2,5 +/-1,6 min). Se concluye que la técnica de PEAee a MF muestra ventajas significativas para su automatización sobre los PEATC a click, facilitándose así la identificación objetiva de la respuesta umbral y perfeccionada pudiera resultar útil en un sistema de detección y diagnóstico temprano de pérdidas auditivas</dc:description>
+<dc:source>Rev. logop. foniatr. audiol. (Ed. impr.);27(1): 12-23, ene.-mar.2007. ilus, tab</dc:source>
+<dc:identifier>ibc-057553</dc:identifier>
+<dc:title xml:lang="es">Eficiencia de la detección automática de potenciales evocados auditivos de estado estable a múltiples frecuencias evaluada mediante la metodología ROC</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d7399</dc:subject>
+<dc:subject>^d28614</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6472^s22045</dc:subject>
+<dc:subject>^d1313^s22016</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d5169^s22031</dc:subject>
+<dc:subject>^d25123</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200703</dc:date>
+</metadata>
+</record>
+</ibecs-document>

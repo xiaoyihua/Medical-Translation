@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-5745</identifier>
+<setSpec>1130-8621</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Diagnosis related groups and intensity of nursing care: variability and homogeneity of nursing care</dc:title>
+<dc:creator>Ferrús, Lena</dc:creator>
+<dc:creator>Honrado, Gisela</dc:creator>
+<dc:creator>Pintado, Dolors</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivos: Determinar la variabilidad de la intensidad de los cuidados de enfermería en pacientes hospitalizados, en función del día de estancia, para cada grupo relacionado con el diagnóstico (GRD). Valorar si los GRD estudiados permiten distinguir grupos homogéneos en cuanto a la intensidad de los cuidados. Predecir la intensidad de los cuidados de enfermería que deben planificarse para un determinado paciente y día de estancia concreto para cada GRD. Relacionar la intensidad de los cuidados de enfermería y el peso relativo de cada GRD. Métodos: En una cohorte de pacientes ingresados entre los meses de febrero a julio del año 1997, se estudió la intensidad de cuidados de enfermería. La población de estudio fueron 600 pacientes ingresados en el Consorci de l'Hospital de la Creu Roja de l'Hospitalet de Llobregat (CHCRH), que al alta se clasificaron en uno de los 12 GRD más frecuentes. La información utilizada se obtuvo a partir de la historia clínica y de las hojas de registro del sistema PRN (Project Research in Nursing) para la medida de la intensidad de cuidados. Se recogieron datos de identificación del paciente, actividades de cuidados de enfermería y diagnóstico de enfermería. Para cada GRD, se calculó la media, la mediana, la desviación estándar y el coeficiente de variabilidad (CV) desviación estándar/media) de la intensidad de cuidados de enfermería correspondiente. Se aplicó un análisis de la variancia para medidas repetidas al estudio de la variabilidad del nivel de cuidados de enfermería en función del día de estancia. Se analizó la homogeneidad de cada GRD mediante un ANOVA para medidas repetidas, con un factor intergrupos (GRD considerados) y un factor intragrupo (día de estancia). Para la predicción de la intensidad de los cuidados de enfermería se presentan para los 7 o 10 primeros días de estancia, la desviación estándar, la media y el intervalo de confianza del 95 por ciento de la media de la intensidad de los cuidados de enfermería para cada GRD. Resultados: El GRD 014 (trastorno específico cerebrovascular) es el que presenta el CV más elevado en función del día de estancia y también es el GRD con una mayor variabilidad en la mayoría de los componentes de cuidados. El GRD 014 es el que tiene la intensidad de cuidados de enfermería más elevada (4.404 min) mientras que el peso relativo es similar al del GRD 122 (IAM) que tiene una intensidad de cuidados de casi la mitad. Discusión: Los elevados coeficientes de variabilidad de la intensidad de cuidados de enfermería según el día de estancia, que presentan la mayoría de los procesos estudiados, nos conduce a creer que la incorporación de trayectorias clínicas reduciría la variabilidad de la práctica clínica y permitiría planificar mejor la adjudicación de los recursos de enfermería. Al analizar la homogeneidad de la intensidad de cuidados de cada GRD para el total de cuidados o sus componentes, parece que los cuidados básicos (higiene, eliminación, alimentación, etc.) son los que tienen una mayor influencia sobre la variabilidad. La intensidad total de cuidados de cada GRD no tiene una relación directa con su peso relativo  (AU)</dc:description>
+<dc:source>Enferm. clín. (Ed. impr.);11(6): 239-246, nov. 2001. tab, graf</dc:source>
+<dc:identifier>ibc-5745</dc:identifier>
+<dc:title xml:lang="es">Grupos relacionados con el diagnóstico e intensidad de cuidados de enfermería: variabilidad y homogeneidad de los cuidados enfermeros</dc:title>
+<dc:subject>^d3439^s22045</dc:subject>
+<dc:subject>^d3439^s22083</dc:subject>
+<dc:subject>^d3980^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9918^s22045</dc:subject>
+<dc:subject>^d6925</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200111</dc:date>
+</metadata>
+</record>
+</ibecs-document>

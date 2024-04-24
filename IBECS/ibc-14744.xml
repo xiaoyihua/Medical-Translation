@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-14744</identifier>
+<setSpec>0212-1611</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">New procedure for the early detection and control of under-nourishment in hospitals</dc:title>
+<dc:description xml:lang="en">The serious problem of hospital undernutrition is still being underestimated by medical staff of modern hospitals, despite its impact on clinical evolution and hospitalisation costs. The actual system used to detec undernutrition in hospitals depends on doctor&#146;s sensitivity and not even the 10% of the cases that require intrervention are detected. The screening methods developed so far are not useful for daily clinical practice due to their low effectiveness/cost ratio. We present a screening method that allows an automatic daily assessment of nutritional status, of all inpatients that undergo routine analysis. The system is based on a computer application that compiles daily all patients&#146; information available in hospital databases, through the internal network. It automatically assesses the nutritional status of patients taking into account laboratory information concerning albumin, total cholesterol and total lymphocyte count. This tool also provides diagnostic and patients data for physicians&#146; usage. The screening method has been validated, obtaining a sensitivity of 92.3 and specificity of 85.0, considering only laboratory information. This is an efficient tool for early detection and permanent control of hospital undernutrition, with the suitable characteristics for these screening functions, such as its sensitivity, specificity, universality, economy and harmlessness, as well as a great versatility for undertaking a high number of studies regarding the hospital undernutrition problem. We trust that working with it we will obtain a remarkable welfare improvement as well as make aware to people in charge of Public Health of the magnitude of the undernutrition&#146;s derived consequences of hospital&#146;s in-patients, and after discharge (AU)</dc:description>
+<dc:publisher>Grupo Aula Médica, S.A.</dc:publisher>
+<dc:description xml:lang="es">El grave problema de la desnutrición hospitalaria sigue siendo infravalorado por los responsables de los hospitales modernos, pese a sus repercusiones sobre la evolución clínica y los costes de la hospitalización. El actual sistema de detección de la desnutrición en los hospitales depende de la sensibilidad de los médicos hospitalarios y no se detecta ni el 10 por ciento de los casos que requieren asistencia. Los procedimientos de filtro desarrollados hasta ahora no son útiles para la práctica diaria por su baja relación efectividad/costo. Presentamos un sistema de filtro que permite valorar a diario, de manera automática, la situación nutricional de la totalidad de los pacientes ingresados a los que se práctica análisis de rutina. Se basa en una aplicación informática que recopila a diario, a través de la red interna, aquellos datos de los pacientes ingresados que se consideran útiles para evaluar su estado nutricional y que están disponibles en bases de datos del hospital. Automáticamente determina la situación nutricional de los pacientes considerando los datos de laboratorio: albúmina, colesterol y linfocitos totales. También proporciona información referente a edad, estancia diagnóstico y procedimientos terapéuticos previstos. La herramienta de filtro ha sido validada, obteniendo una sensibilidad de 92,3 y especificidad de 85. Se trata de una herramienta eficiente para la detección precoz y control permanente de la desnutrición hospitalaria, con características idóneas para estas funciones, como son su sensibilidad, especificidad, universalidad, economía e inocuidad, además de una gran versatilidad para realizar multitud de estudios en torno al problema de la desnutrición hospitalaria. Confiamos en que, trabajando con ella, aparte de obtener una notable mejora asistencial, facilitaremos la toma de conciencia, por parte de los médicos y responsables de la Sanidad Pública, de la magnitud de las consecuencias derivadas de la desnutrición en el enfermo hospitalizado y después de su alta (AU)</dc:description>
+<dc:source>Nutr Hosp;17(4): 179-188, jul. 2002. graf, tab</dc:source>
+<dc:title xml:lang="es">Nuevo procedimiento para la detección precoz y control de la desnutrición hospitalaria</dc:title>
+<dc:type>article</dc:type>
+<dc:creator>Mancha Álvarez Estrada, A</dc:creator>
+<dc:creator>Rodríguez Salvanés, F</dc:creator>
+<dc:creator>González Pérez, P</dc:creator>
+<dc:creator>Díaz, A</dc:creator>
+<dc:creator>Ulíbarri Pérez, JI de</dc:creator>
+<dc:creator>Fernández, G</dc:creator>
+<dc:creator>González Madroño Giménez, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:identifier>ibc-14744</dc:identifier>
+<dc:subject>^d5661</dc:subject>
+<dc:subject>^d9933</dc:subject>
+<dc:subject>^d28162</dc:subject>
+<dc:subject>^d4645</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22288</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d6905</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d2834</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d29235</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d24806</dc:subject>
+<dc:subject>^d19129</dc:subject>
+<dc:subject>^d32161</dc:subject>
+<dc:subject>^d29040</dc:subject>
+<dc:subject>^d23568</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d28905</dc:subject>
+<dc:subject>^d7471</dc:subject>
+<dc:date>200207</dc:date>
+</metadata>
+</record>
+</ibecs-document>

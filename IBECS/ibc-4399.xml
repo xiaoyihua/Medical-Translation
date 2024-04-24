@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-4399</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Comparing two methods in the estimation of the uncertainty in laboratory quality</dc:title>
+<dc:creator>Dierssen, T</dc:creator>
+<dc:creator>Llorca, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Comparación de dos métodos para el cálculo de incertidumbres en el control de calidad de los laboratorios. Métodos: Mediante una simulación por ordenador, se comparan el método delta (propuesto por la International Organization for Standardization y por la Entidad Nacional de Acreditación) y un método basado en el bootstrap. La simulación incluye varias situaciones en las que las condiciones ambientes y la relación entre las variables medidas se van modificando. Resultados: El porcentaje medio de cobertura de los intervalos de confianza al 95 por ciento es ligeramente más alto y más próximo al nominal en el bootstrap que en el delta. Las mayores diferencias se aprecian en la distribución de los porcentajes de cobertura: mientras en el bootstrap un gran número de simulaciones tienen porcentajes de cobertura próximos al 95 por ciento, en el delta los porcentajes obtenidos ofrecen mucha mayor dispersión, llegando en ocasiones al 100 por ciento de cobertura o descendiendo hasta el 80 por ciento o incluso menores. El bootstrap ofrece resultados superponibles, incluso cuando intervienen variables desconocidas que no han podido ser medidas o cuando las variables consideradas están correlacionadas. En cambio, el método delta ofrece resultados más pobres en estas dos circunstancias. Conclusión: La incertidumbre en el control de calidad de los laboratorios puede ser obtenida por bootstrap con ventaja sobre el método delta (AU)</dc:description>
+<dc:source>Gac Sanit;14(6): 458-463, nov.-dic.  2000.</dc:source>
+<dc:identifier>ibc-4399</dc:identifier>
+<dc:title xml:lang="es">Comparación de dos métodos para el cálculo de la incertidumbre en los análisis de laboratorio</dc:title>
+<dc:subject>^d28605</dc:subject>
+<dc:subject>^d12436</dc:subject>
+<dc:subject>^d19132</dc:subject>
+<dc:subject>^d33124</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200012</dc:date>
+</metadata>
+</record>
+</ibecs-document>

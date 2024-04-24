@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-113432</identifier>
+<setSpec>0214-1582</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Preliminary study of automatic extraction of breast cancer staging from free text clinical reports</dc:title>
+<dc:description xml:lang="en">Objective. Staging of breast cancer is one of the most important prognostic factors. However, collecting data for staging manually from unstructured free text is variable and imprecise because of the complexity of the TNM classification, the existence of different versions over time, and variability in the source used to obtain data. The aim of this study was to develop an artificial intelligence tool to allow data on tumoral staging to be mined automatically. Patients and methods. The study included the reports of the first 100 patients with nonmetastatic breast cancer treated with surgery and radiotherapy in 2012. Data on postoperative tumor size (TNM seventh edition) were collected with a specially designed software tool and manually by a third-year resident physician in radiation oncology. Results. The software application detected 62% of cases when pathology reports were included, and 77% when radiation oncology reports were added. Non-detection was due to the information being stored in another section of the clinical station. When we compared the results of the software application and manual collection, we found a difference of 13% (10/77). In these 10 cases, the application was correct in 50%, while manual collection was correct in the remaining 50%. Conclusions. This innovative system allows automatic staging of tumoral size in breast cancer. The use of this tool would save time in data collection and prevent errors in tumoral classification and could also improve therapeutic decisions(AU)</dc:description>
+<dc:creator>Martínez García, Alicia</dc:creator>
+<dc:creator>Moreno Conde, Alberto</dc:creator>
+<dc:creator>Parra Calderón, Carlos Luis</dc:creator>
+<dc:creator>Ortiz Gordillo, María José</dc:creator>
+<dc:creator>Suárez Gironzini, Vladimir</dc:creator>
+<dc:creator>Praena-Fernández, Juan Manuel</dc:creator>
+<dc:creator>González-Otal, Ricardo</dc:creator>
+<dc:creator>López Guerra, José Luis</dc:creator>
+<dc:creator>Peinado Serrano, Javier</dc:creator>
+<dc:creator>González Cámpora, Ricardo</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. El estadio del cáncer de mama constituye uno de los factores pronósticos más relevantes. Sin embargo, la compleja clasificación TNM, la existencia de diferentes versiones y la variabilidad de la fuente de la información hacen que la recogida de datos sobre texto libre sea compleja. El objetivo de este trabajo es desarrollar una herramienta que permita ayudar a la estadificación de manera automática. Pacientes y métodos. El trabajo incluyó el estudio de los informes de 100 pacientes con cáncer de mama no metastásico tratadas con cirugía y radioterapia en 2012. La recogida del tamaño tumoral posquirúrgico (séptima edición TNM) se realizó con la herramienta desarrollada y manualmente por un médico en formación especializada de tercer año de oncología radioterápica. Resultados. La aplicación fue capaz de detectar el 62% de los casos tras examinar los informes de anatomía patológica, y el 77% al añadir el examen de los informes de oncología radioterápica. Los casos no detectados se debieron a que la información estaba almacenada en otra sección de la estación clínica. Comparando los resultados entre la aplicación y la recogida manual, hubo una diferencia del 13% (10/77). Se observó que en el 50% de los casos (5/10) la aplicación era correcta, mientras que en el otro 50% lo fue la recogida manual. Conclusiones. Esta herramienta innovadora permite recoger automáticamente el tamaño tumoral en el cáncer de mama, ahorrando tiempo en la recogida de datos y evitando errores en la clasificación tumoral, por lo que puede contribuir de modo notable en la decisión terapéutica(AU)</dc:description>
+<dc:source>Rev. senol. patol. mamar. (Ed. impr.);26(2): 41-46, abr.-jun. 2013.</dc:source>
+<dc:identifier>ibc-113432</dc:identifier>
+<dc:title xml:lang="es">Estudio preliminar sobre extracción automática del tamaño tumoral para la estadificación del cáncer de mama a partir de texto libre de informes clínicos</dc:title>
+<dc:subject>^d1968^s22017</dc:subject>
+<dc:subject>^d^s22066</dc:subject>
+<dc:subject>^d1968^s22016</dc:subject>
+<dc:subject>^d^s22045</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d1968^s22009</dc:subject>
+<dc:subject>^d^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d^s22048</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d^s22039</dc:subject>
+<dc:subject>^d1968^s29166</dc:subject>
+<dc:subject>^d28597^s22074</dc:subject>
+<dc:subject>^d1968^s22032</dc:subject>
+<dc:subject>^d28597^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201306</dc:date>
+</metadata>
+</record>
+</ibecs-document>

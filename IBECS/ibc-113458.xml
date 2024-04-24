@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-113458</identifier>
+<setSpec>0214-3429</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Mathematical modelling of the propagation of infectious diseases: where we came from, and where we are going</dc:title>
+<dc:description xml:lang="en">This work deals with the study of the use of mathematical models to simulate the spreading of infectious diseases. There is no doubt about the importance of the use of computational tools that allow the health staff to model and predict the spreading of an infectious disease. Using such tools one can establish and simulate disease control strategies. The development of such technologies is a multidisciplinary issue; in this sense, the mathematical algorithms &#150;that must be computationally implemented- play a central role. The main goal of this work is to highlight among health community the increasing importance of the use of mathematical models for epidemic disease spreading. Consequently, the main features of such models are introduced and their classification is stated taking into account the behavior, the basic population unit or the mathematical objects used. An exhaustive search of related papers through the most important databases (Medline and Web of Science) are performed. The main conclusion obtained from this work is the central role that mathematical models can play in the simulation of epidemic spreading; moreover, some ideas about the future research are stated(AU)</dc:description>
+<dc:creator>Fresnadillo-Martínez, María José</dc:creator>
+<dc:creator>García-Sánchez, Enrique</dc:creator>
+<dc:creator>García-Merino, Enrique</dc:creator>
+<dc:creator>Martín del Rey, Ángel</dc:creator>
+<dc:creator>García-Sánchez, José Elías</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Es de indudable importancia dotar al gestor sanitario de herramientas que permitan predecir el comportamiento de la propagación de una enfermedad infecciosa, de manera que a partir de las mismas se pueden establecer y simular estrategias de control. El desarrollo de tales herramientas es de carácter pluridisciplinar siendo la base de las mismas, algoritmos o modelos matemáticos que son implementados computacionalmente. En este trabajo se muestra el funcionamiento de estos modelos matemáticos y se detalla su clasificación atendiendo a diferentes factores. Además se lleva a cabo un estudio cuantitativo de los mismos haciendo uso de las principales bases de datos relacionadas con el tema de estudio (Medline y Web of Science). De este trabajo se concluye el importante papel que pueden jugar los modelos matemáticos a la hora de simular los procesos infecciosos y, asimismo, se proponen futuras y eficaces vías de investigación en la modelización matemática de enfermedades infecciosas(AU)</dc:description>
+<dc:source>Rev Esp Quimioter;26(2): 81-91, jun.2013.</dc:source>
+<dc:identifier>ibc-113458</dc:identifier>
+<dc:title xml:lang="es">Modelización matemática de la propagación de enfermedades infecciosas: de dónde venimos y hacia dónde vamos</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d11750^s22074</dc:subject>
+<dc:subject>^d28582^s22057</dc:subject>
+<dc:subject>^d8601^s22034</dc:subject>
+<dc:subject>^d8601^s22049</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d8601^s22048</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d28582^s22080</dc:subject>
+<dc:subject>^d32532^s22045</dc:subject>
+<dc:subject>^d32532^s22054</dc:subject>
+<dc:subject>^d28617</dc:subject>
+<dc:subject>^d28454^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201306</dc:date>
+</metadata>
+</record>
+</ibecs-document>

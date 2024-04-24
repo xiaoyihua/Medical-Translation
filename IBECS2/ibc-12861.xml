@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-12861</identifier>
+<setSpec>0214-3429</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Azole resistance in Candida albicans</dc:title>
+<dc:creator>Perea, S</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>J.R. Prous, S.A.</dc:publisher>
+<dc:description xml:lang="es">Los mecanismos de resistencia a fluconazol en Candida albicans incluyen alteraciones en la enzima diana (lanosterol 14-a-desmetilasa) y sobreexpresión de transportadores activos de membrana que disminuyen la concentración intracelular de los azoles. Aunque el porcentaje de resistencia al fluconazol en aislamientos de C. albicans procedentes de infecciones sistémicas se mantiene pequeño, en la candidiasis orofaríngea en pacientes con sida constituye un grave problema. Para poder establecer la prevalencia de la resistencia al fluconazol en este caso, se han investigado los mecanismos moleculares de resistencia a los azoles en aislamientos de C. albicans resistentes al fluconazol (CMI ³64 mg/l) procedentes de pacientes VIH positivos con candidiasis orofaríngea. Las pruebas de sensibilidad se llevaron a cabo según las normas del NCCLS. La identificación de los aislamientos se realizó empleando técnicas de tipificación de DNA. La sobreexpresión de los genes que codifican para la enzima lanosterol 14-a-desmetilasa (erg11) y para los transportadores de membrana (mdr1 y cdr) se monitorizó por comparación con aislamientos isogénicos sensibles. Asimismo, los genes erg11 fueron amplificados por PCR y secuenciados para la detección de mutaciones concretas. La resistencia al fluconazol en estos aislamientos se debía a la combinación de diferentes mecanismos moleculares de resistencia. El carácter multifactorial de la resistencia de C. albicans a los azoles existentes hace necesario adoptar nuevas estrategias para combatirla, como son el desarrollo de moléculas más potentes, la investigación de nuevos antifúngicos con nuevas dianas y mecanismos de acción, así como combinaciones con inhibidores de los transportadores activos de membrana (AU)</dc:description>
+<dc:source>Rev Esp Quimioter;13(3): 314-317, sept. 2000.</dc:source>
+<dc:identifier>ibc-12861</dc:identifier>
+<dc:title xml:lang="es">Resistencia de Candida albicans a los azoles</dc:title>
+<dc:subject>^d24718</dc:subject>
+<dc:subject>^d1414</dc:subject>
+<dc:subject>^d4871</dc:subject>
+<dc:subject>^d33872</dc:subject>
+<dc:subject>^d943</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d2208</dc:subject>
+<dc:subject>^d2209</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200009</dc:date>
+</metadata>
+</record>
+</ibecs-document>

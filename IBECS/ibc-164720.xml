@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-164720</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Predicting extracapsular involvement in prostate cancer through the tumor contact length and the apparent diffusion coefficient</dc:title>
+<dc:description xml:lang="en">Objective. To evaluate the diagnostic performance of the length of the tumor contact with the capsule (LTC) and the apparent diffusion coefficient (ADC) map in the prediction of microscopic extracapsular extension in patients with prostate cancer who are candidates for radical prostatectomy. Material and methods. We used receiver operating curves to retrospectively study the diagnostic performance of the ADC map and the LTC as predictors of microscopic extracapsular extension in 92 patients with prostate cancer and moderate to high risk who were examined between May 2011 and December 2013. Results. The optimal cutoff for the ADC map was 0.87× 10&amp;#8722;3 mm2/s, which yielded an area under the ROC curve of 72% (95% CI: 57%&#150;86%), corresponding to a sensitivity of 83% and a specificity of 61%. The optimal cutoff for the LTC was 17.5mm, which yielded an area under the ROC curve of 74% (95% CI: 61%&#150;87%), corresponding to a sensitivity of 91% and a specificity of 57%. Combining the two criteria improved the diagnostic performance, yielding an area under the ROC curve of 77% (95% CI: 62%&#150;92%), corresponding to a sensitivity of 77% and a specificity of 61%. We elaborated a logistic regression model, obtaining an area under the ROC curve of 82% (95% CI: 73%&#150;93%). Conclusions. Using quantitative measures improves the diagnostic accuracy of multiparametric magnetic resonance imaging in the staging of prostate cancer. The values of the ADC and LTC were predictors of microscopic extracapsular extension, and the best results were obtained when both values were used in combination (AU)</dc:description>
+<dc:creator>Flórez, DC</dc:creator>
+<dc:creator>Palau, MA</dc:creator>
+<dc:creator>Granja, MF</dc:creator>
+<dc:creator>Pedraza, CM</dc:creator>
+<dc:creator>Romero, JA</dc:creator>
+<dc:creator>Aguirre, DA</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Evaluar el rendimiento diagnóstico de la longitud del contacto tumoral con la cápsula (LCT) y la cuantificación del mapa del coeficiente de difusión aparente (ADC) en la predicción de la extensión extracapsular (EEC) microscópica en pacientes con cáncer de próstata candidatos a prostatectomía radical. Método. Se realizó un estudio retrospectivo de prueba diagnóstica con curvas receptor-operador (ROC) evaluando el rendimiento diagnóstico del valor de ADC y LCT como predictores de EEC microscópica en 92 pacientes con cáncer de próstata de moderado y alto riesgo, entre mayo de 2011 y diciembre de 2013. Resultados. El punto de corte óptimo para el valor del mapa de ADC fue de 0,87× 10&amp;#8722;3 mm2/s, con un área bajo la curva ROC del 72% (intervalo de confianza del 95% [IC95%]: 57-86%), una sensibilidad del 83% y una especificidad del 61%. Para la LCT, el punto de corte óptimo fue de 17,5mm, con un área bajo la curva ROC del 74% (IC95%: 61-87%), una sensibilidad del 91% y una especificidad del 57%. Empleando ambos criterios, el rendimiento diagnóstico mejoró con un área bajo la curva ROC del 77% (IC95%: 62-92%), una sensibilidad del 77% y una especificidad del 61%. Se calculó un modelo de regresión logística y se obtuvo un área bajo la curva ROC del 82% (IC95%: 73-93%). Conclusiones. El uso de criterios cuantitativos mejora la exactitud diagnóstica de la resonancia magnética multiparamétrica en la estadificación del cáncer de próstata. Se encontró que los valores de ADC y de LCT son predictores de EEC microscópica, y que se obtienen mejores resultados si se usan de manera conjunta (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);59(4): 313-320, jul.-ago. 2017. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-164720</dc:identifier>
+<dc:title xml:lang="es">Predicción de la extensión extracapsular en el cáncer de próstata mediante la longitud del contacto tumoral y el coeficiente de difusión aparente</dc:title>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d28614</dc:subject>
+<dc:subject>^d11914^s29166</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d9041^s22074</dc:subject>
+<dc:subject>^d22935^s22045</dc:subject>
+<dc:subject>^d23405^s22039</dc:subject>
+<dc:subject>^d9041^s22045</dc:subject>
+<dc:subject>^d11911^s22074</dc:subject>
+<dc:subject>^d24960^s22045</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201708</dc:date>
+</metadata>
+</record>
+</ibecs-document>

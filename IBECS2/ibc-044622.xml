@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-044622</identifier>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Biofeedback diacontrolTM module in the automatic programation of plasmatic conductivity ad ionic mass transfer</dc:title>
+<dc:description xml:lang="en">Programmed variable sodium in the dialysate can improve hypotension during        hemodialysis but may also alter sodium balance and thus resulting in a increase        of water intake and weight gain between dialysis sessions. The aim of        this study was to evaluate the changes on plasma volume (PV), Ionic Mass Transfer        (IMT) and plasma conductivity (PC) with two different hemodialysis techniques.        We studied 10 patients during a four-period protocol (one week each: PF1-DC1        -DC2PF2): 120 dialysis sessions. During periods PF1 and PF2, the dialysis procedure        was as usual, with exponential decrease of dialysate conductivity (DC) profile        (15.7 mS/cm at start, 14.4 mS/cm at middle and 13.8 mS/cm at the end of        the session) and UF profile (1.7 1/h at start and 0.1 1/h at the end). During periods        DC1 and DC2, DC was automatically determined by a biofeedback module        (DiacontroITM) in order to reach a plasma water conductivity fixed at 14 mS/cm. All hemodialysis parameters were the same for the four periods: duration, blood and dialysate flow rates, dialysis membrane. A lower reduction of PV was evident on PF1 and PF2 (104 +- 3.26% and -4.36 +- 2.7%) compared with DC 1 and DC2 (-6.53 +- 3.31% and -6.67 +- 3.12%) (p  0.001 PF1 and PF2 vs. DC1 and DC2). DiacontrolTM determines automatically an individualized DC profile for each patient, and accurately reaches the prescribed PC target. By reaching both the dry weight and PC settings, the water and sodium pool is mantained lower in the hemodialysis session using a biofeedback module. Clinical tolerance was similar in the two different dialysis procedures</dc:description>
+<dc:creator>Calvo, C</dc:creator>
+<dc:creator>Hernández-Jaras, J</dc:creator>
+<dc:creator>Torregrosa, E</dc:creator>
+<dc:creator>Cerrillo, V</dc:creator>
+<dc:creator>García-Pérez, H</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La utilización de perfiles descendentes de conductividad en el dializado (CD) ha disminuido el número de complicaciones intradiálisis. No obstante, la presencia        de una mayor concentración de sodio puede originar un balance positivo de este catión y favorecer los episodios de sed y el desarrollo de hipertensión arterial. El objetivo de este estudio fue comparar la tolerancia, así como la evolución de la Conductividad Plasmática (CP) y la Transferencia de Masa lónica (TMI), al pasar de un tipo se sesión con alto contenido en Na (perfiles de CI) y UF) a otro tipo de sesión que emplea un sistema de «biofeedback» (DiacontroITM ) y repetir el proceso inverso. Se han estudiado 120 sesiones de diálisis en 10 pacientes durante cuatro periodos de tratamiento (PF1-DC1-DC2-PF2). Durante los períodos PF1 y PF2 los pacientes se dializaban con perfiles logarítmicos descendentes de conductividad (C1) al inicio de la sesión 15,7 mS/cm, a la mitad 14,4 mS/cm y 13,8 mS/cm al final) y UF (1,7 I/h al inicio y 0,1 I/h al final) y en los períodos DC1 y DC2 se realizaron con el sistema DiacontroITM, fijando la CP final en 14 mS/cm. No se detectaron diferencias significativas en la TAS, TAM y TAD pre o postsesión        entre los cuatro períodos. El porcentaje de sesiones con al menos un episodio de hipotensión fue del 33,3% en PF1, 20% en DC1, 23,3% en DC2 y 26.6% en PF2 (ns). El descenso del VP fue de -4,04 +- 3,26% en PF1, -6,53 +- 3,31% en DC1, -6,67 +- 3,12% en DC2 y 4,36 +- 2,7% en PF2 (p &lt; 0,00l PF1 y PF2 vs DC1 y DC2). La CP fue significativamente superior tanto a los 30&#146;, mitad de sesión, post-HD, así como a lo largo de toda la sesión, en los períodos PF1 y PF2 vs DC1 y DC2 (p &lt; 0,001). En las sesiones con Diacontrol, la diferencia media entre la CP final conseguida y programada fue de 0,01 +- 0,07 mS/cm (intervalo de confianza al 95% -0,03-0,008). Asimismo se apreció una correlación inversa entre los        valores de CD media y los de la CP prediálisis (r: -0,42, p &lt; 0,05 en DC1 y r: - 0,65, p &lt; 0,001 en DC2). La TMI fue de 420,73 +- 126,9 mEq en PF1, 311,96 +- 161,75 en DCI, 278,34 +- 153,14 en DC2 y 417,66 +- 152,17 en PF2 (p &lt; 0,001 PF1 y PF2 vs DCI yDC2). Podemos concluir que el sistema «biofeedback» Diacontrol permite programar un valor de conductividad plasmática al final de la sesión de hemodiálisis, en lugar de programar los valores de conductividad en el dializado. Por tanto, permite        mantener una CP plasmática y una TMI inferior a aquellas logradas en las sesiones con perfiles descendentes de conductividad en el líquido de diálisis, manteniendo        una estabilidad hemodinámica similar</dc:description>
+<dc:source>Nefrologia;23(1): 62-70, ene.-feb. 2003. tab, graf</dc:source>
+<dc:identifier>ibc-044622</dc:identifier>
+<dc:title xml:lang="es">Utilidad del módulo de «Biofeedback» DiacontrolTM en la programación automática de la conductividad plasmática y la transferencia de masa iónica</dc:title>
+<dc:subject>^d7645</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3982^s22011</dc:subject>
+<dc:subject>^d3982^s22045</dc:subject>
+<dc:subject>^d11383^s22031</dc:subject>
+<dc:subject>^d4627</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d29407^s28898</dc:subject>
+<dc:subject>^d29407^s22045</dc:subject>
+<dc:subject>^d7202^s22012</dc:subject>
+<dc:subject>^d7645^s22073</dc:subject>
+<dc:subject>^d7202^s22016</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d11387</dc:subject>
+<dc:subject>^d4627^s22020</dc:subject>
+<dc:subject>^d4627^s22011</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200302</dc:date>
+</metadata>
+</record>
+</ibecs-document>

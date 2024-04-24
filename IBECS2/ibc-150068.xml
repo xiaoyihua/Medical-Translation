@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150068</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Analysis of multitrait-multiocassion data: additive and multiplicative models</dc:title>
+<dc:description xml:lang="en">The present study evaluates which kind of models, additive or multiplicative, can better conform to empirical multitrait-multioccasion data (MTMO, in which multiplicative method effects are expected, Three additive models (general CFA, CTUM and CTCU) and two versions of the multiplicative Direct product model (HDP and CDP) are tested. Conclusions derived from the models that showed satisfactory solutions are also compared A set of 18 MTMO matrices are analyzed by means of LISREL 8 (Jöreskog and Sörbom, 1993).Results show that both kinds of models, specially the CTCU and the CDP models, can fit the same data. Conclusions that can be inferred from the different models that fit the data are similar, specially for the stability of the measures and the discriminant validity (AU)</dc:description>
+<dc:creator>González Romá, Vicente</dc:creator>
+<dc:creator>Hernández Baeza, Ana</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En el presente estudio se ha evaluado la adecuación diferencial de ciertos modelos factoriales aditivos (AFC general, AFC-MI y AFC-UC) y multiplicativos (PD-H y PD-C) en el análisis de matrices multirrasgo-multiocasión (MRMO), en las que cabe esperar efectos de método multiplicativos. Para ello un total de 18 matrices MRMO han sido analizadas mediante el programa LISREL 8 (Jöreskog y Sörbom, 1993). Por otra parte se ha evaluado el grado de similitud o divergencia de las conclusiones derivadas de los distintos modelos que muestran soluciones satisfactorias. Los resultados han mostrado que ambos tipos de modelos, especialmente los modelos AFC-UC y PD-C suelen resultar adecuados, llegando a conclusiones similares, principalmente por lo que se refiere a la estabilidad temporal de las medidas y a la validez discriminante de los rasgos (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);12(supl.2): 283-287, 2000. tab</dc:source>
+<dc:identifier>ibc-150068</dc:identifier>
+<dc:title xml:lang="es">Evaluación de matrices multirrasgo-multiocasión a través de modelos factoriales aditivos y multiplicativos</dc:title>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d32016</dc:subject>
+<dc:subject>^d31198</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1544^s22066</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200000</dc:date>
+</metadata>
+</record>
+</ibecs-document>

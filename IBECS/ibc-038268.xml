@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-038268</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Automatic calculation of relative survival through the web. The WAERS project of the Catalan Institute of Oncology</dc:title>
+<dc:description xml:lang="en">The most commonly used measure to estimate cancer survivalis relative survival, defined as the ratio between observed and expected survival. Expected survival is computed on the basis of the mortality of a reference population. Mortality tables for the general population are not always available and their calculation requires specific software. For that purpose,the Catalan Institute of Oncology developed WAERS (Web-Assisted Estimation of Relative Survival), a web-based application that estimates the relative survival for a cohort of patients. The user prepares data in a specific format and sends them to a remote server located at the Catalan Institute of Oncology. This server computes relative survival and returns afile with the results to the electronic address supplied by theuser. By means of this application, hospital- and population-based Spanish cancer registries and registries of other diseases can estimate relative survival of their cohorts using their reference population (province or autonomous community). This application could also be useful for cohort mortality studies</dc:description>
+<dc:creator>Bosch, Francesc Xavier</dc:creator>
+<dc:creator>Ribes,  Josepa</dc:creator>
+<dc:creator>Melià, Àngels</dc:creator>
+<dc:creator>Gálvez, Jordi</dc:creator>
+<dc:creator>Clèries, Ramon</dc:creator>
+<dc:creator>Moreno, Víctor</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La medida utilizada habitualmente para estimar la supervivencia del cáncer es la supervivencia relativa, definida como el cociente entre la supervivencia observada y la esperada. La supervivencia esperada se calcula a partir de la mortalidad de una población de referencia. La disponibilidad y la preparación de tablas de mortalidad de la población general no es siempre posible y requiere software específico para su cálculo. A tal efecto, el Instituto Catalán de Oncología (ICO)ha desarrollado la aplicación WAERS, una aplicación web que proporciona la estimación de la supervivencia relativa para una cohorte de pacientes. El usuario debe preparar los datos en un formato específico y enviarlos a un servidor remoto que se encuentra en el ICO. Este servidor calcula la supervivencia relativa y devuelve los resultados en un fichero a una dirección que ha indicado el usuario. Mediante esta aplicación, los registros de cáncer de base hospitalaria y poblacional y los registros de otras enfermedades pueden estimar la supervivencia relativa de sus cohortes seleccionando a la población de referencia que consideren (provincia o comunidad autónoma). También puede ser útil para estudios de mortalidad en cohortes</dc:description>
+<dc:source>Gac Sanit;19(1): 71-75, ene. 2005. tab, graf</dc:source>
+<dc:identifier>ibc-038268</dc:identifier>
+<dc:title xml:lang="es">Cálculo automatizado de la supervivencia relativa vía web. El proyecto WAERS del Instituto Catalán de Oncología</dc:title>
+<dc:subject>^d28632</dc:subject>
+<dc:subject>^d28604</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9562</dc:subject>
+<dc:subject>^d19245</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200501</dc:date>
+</metadata>
+</record>
+</ibecs-document>

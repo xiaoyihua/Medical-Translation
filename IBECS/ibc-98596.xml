@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-98596</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">EICS (Extended Intensive Care Service): Looking outside the ICU</dc:title>
+<dc:description xml:lang="en">Early warning systems (EWS) identify patients at risk with a view to improving morbidity and mortality rates using early therapeutic and transfer actions. We have recently implemented an EWS that focuses on two main aspects: the guidance of care after discharge from the ICU, and recognition of the onset of deteriorating health among adult patients in general wards through physiologically based early warning scores (AU)</dc:description>
+<dc:creator>Lorda de los Ríos, M. I</dc:creator>
+<dc:creator>Ortiz Melón, F</dc:creator>
+<dc:creator>Domínguez Artiga, M. J</dc:creator>
+<dc:creator>Ots Ruiz, E</dc:creator>
+<dc:creator>Castellanos Ortega, A</dc:creator>
+<dc:creator>Holanda Peña, M. S</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El Servicio Extendido de Cuidados Intensivos (SECI) pretende mejorar la morbimortalidad mediante la detección precoz del paciente grave fuera del ámbito de la UCI y poner en práctica acciones precoces, terapéuticas y/o de traslado. En nuestro hospital se ha implantado un SECI con unas características específicas que trabaja en dos vertientes fundamentales: el seguimiento de los pacientes dados de alta de la UCI y la detección de los pacientes graves fuera del ámbito de la UCI en base a la puntuación de un Sistema de aviso temprano (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);35(6): 349-353, ago.-sept. 2011. ilus, tab</dc:source>
+<dc:identifier>ibc-98596</dc:identifier>
+<dc:title xml:lang="es">SECI (Servicio Extendido de Cuidados Intensivos): Mirando fuera de la UCI</dc:title>
+<dc:subject>^d3439^s22045</dc:subject>
+<dc:subject>^d7530</dc:subject>
+<dc:subject>^d19062</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3439^s22049</dc:subject>
+<dc:subject>^d3439^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201109</dc:date>
+</metadata>
+</record>
+</ibecs-document>

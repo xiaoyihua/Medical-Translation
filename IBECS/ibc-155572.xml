@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-155572</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Patient Outcome after Chronic Obstructive Pulmonary Disease Exacerbations Requiring Non-invasive Ventilation during Hospitalization</dc:title>
+<dc:description xml:lang="en">Introduction: Noninvasive ventilation (NIV) during hospitalization for acute hypercapnic exacerbations of chronic obstructive pulmonary disease (COPD) has been shown to be effective, but data on the prognosis of such patients is limited. The aim of this study was to investigate in-hospital and long-term outcome in patients with COPD exacerbations requiring NIV treatment during hospitalization. Methods: Between 2011 and 2013, hospitalized subjects with hypercapnic COPD exacerbations were included in this retrospective single-center cohort study. Subjects&#146; clinical and laboratory data and survival status after a median of 27 months were recorded. The predictive factors of in-hospital and long-term mortality were analyzed. Results: A total of 574 patients (357 men, mean age 68±11 years) were recorded. During hospitalization, 24 (4.1%) patients died. In-hospital mortality was negatively affected by lower baseline values of hematocrit, albumin, and pH, and by higher baseline leucocytes and higher 24h PaCO2. Median survival of the cohort was 27 months. Mortality at 3 and 6 months, and 1 year were 14.5%, 19.5%, and 30%, respectively. In the univariate analysis, reduction in long-term survival was found to be related to older age, higher Charlson score, lower baseline levels of hematocrit and albumin, and lower pH level after 24h. In the multivariate analysis, older age and lower albumin were identified as the strongest predictors of mortality. Conclusion: Life expectancy after a COPD exacerbation requiring NIV treatment is short. Baseline blood counts and day 2 arterial blood gases levels may predict in-hospital mortality. The strongest indicators of poorer long-term outcome were advanced age and lower albumin. Such patients may need closer follow-up (AU)</dc:description>
+<dc:creator>Yalcinsoy, Murat</dc:creator>
+<dc:creator>Sucu, Pakize</dc:creator>
+<dc:creator>Akyil, Mustafa</dc:creator>
+<dc:creator>Agca, Meltem</dc:creator>
+<dc:creator>Sevim, Tulin</dc:creator>
+<dc:creator>Tokgoz Akyil, Fatma</dc:creator>
+<dc:creator>Gunen, Hakan</dc:creator>
+<dc:creator>Gungor, Sinem</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: La introducción de la ventilación no invasiva (VNI) durante las exacerbaciones agudas hipercápnicas de la enfermedad pulmonar obstructiva crónica (EPOC) en plantas de hospitalización general ha demostrado ser eficaz, pero hay escasos datos sobre el pronóstico de estos pacientes. El objetivo de este estudio fue investigar la evolución intrahospitalaria y a largo plazo de pacientes con exacerbaciones de la EPOC que requirieron terapia VNI durante su ingreso en plantas de hospitalización general. Métodos: En este estudio de cohortes retrospectivo y unicéntrico se incluyó a pacientes con exacerbaciones hipercápnicas de la EPOC ingresados en planta entre los años 2011 y 2013. Se recabaron datos clínicos, analíticos y de supervivencia tras una mediana de 27 meses y se analizaron los factores predictivos de la mortalidad durante el ingreso y a largo plazo. Resultados: Se registraron datos de un total de 574pacientes (357varones, edad media 68±11 años). Durante el periodo de hospitalización fallecieron 24pacientes (4,1%). Se observó que la mortalidad durante la hospitalización era mayor en los pacientes que presentaban concentraciones de hematocrito y albúmina más bajas y recuentos leucocitarios más altos en el momento del ingreso, y en aquellos con pH bajo y PaCO2 alta 24h más tarde. La mediana de tiempo de supervivencia de esta cohorte fue de 27meses. Las tasas de mortalidad a los 3 y 6meses y a un año fueron del 14,5, 19,5 y 30%, respectivamente. En el análisis univariante, se observó que la menor supervivencia a largo plazo estaba relacionada con la edad avanzada, un índice de Charlson alto y concentraciones de hematocrito y albúmina bajas en el momento del ingreso, y un pH bajo al cabo de 24h. En el análisis multivariante, los factores de predicción de la mortalidad más sólidos fueron la edad avanzada y las bajas concentraciones de albúmina. Conclusión: Tras una exacerbación de la EPOC que haya requerido VNI, la esperanza de vida es corta. El hemograma inicial y los resultados de la gasometría arterial del segundo día pueden pronosticar la mortalidad durante la hospitalización. Los indicadores más sólidos de mala evolución a largo plazo son la edad avanzada y las bajas concentraciones de albúmina. Es posible que estos pacientes requieran un seguimiento más estrecho (AU)</dc:description>
+<dc:source>Arch Bronconeumol;52(9): 470-476, sept. 2016. tab, graf</dc:source>
+<dc:identifier>ibc-155572</dc:identifier>
+<dc:title xml:lang="es">Supervivencia en exacerbaciones de la enfermedad pulmonar obstructiva crónica que requirieron ventilación no invasiva en planta</dc:title>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d1811^s22074</dc:subject>
+<dc:subject>^d1811^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d55022^s22045</dc:subject>
+<dc:subject>^d32868^s22031</dc:subject>
+<dc:subject>^d12428</dc:subject>
+<dc:subject>^d55022^s22039</dc:subject>
+<dc:subject>^d12552^s22032</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d36008^s22054</dc:subject>
+<dc:subject>^d12552^s22012</dc:subject>
+<dc:subject>^d55022^s22074</dc:subject>
+<dc:subject>^d36008^s22067</dc:subject>
+<dc:subject>^d12552^s22016</dc:subject>
+<dc:subject>^d13915^s22031</dc:subject>
+<dc:subject>^d1811^s22048</dc:subject>
+<dc:subject>^d1811^s22039</dc:subject>
+<dc:subject>^d27866^s22031</dc:subject>
+<dc:subject>^d36008^s22080</dc:subject>
+<dc:subject>^d55850</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201609</dc:date>
+</metadata>
+</record>
+</ibecs-document>

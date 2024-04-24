@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-18425</identifier>
+<setSpec>0004-0614</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">New master arm for robotic assisted transurethral resection</dc:title>
+<dc:creator>Sánchez de Badajoz, Eduardo</dc:creator>
+<dc:creator>Muñoz Martínez, Víctor Fernando</dc:creator>
+<dc:creator>Jiménez Garrido, Adolfo</dc:creator>
+<dc:creator>Gómez de Gabriel, Jesús</dc:creator>
+<dc:creator>Fernández Lozano, Jesús</dc:creator>
+<dc:creator>García Cerezo, Alfonso</dc:creator>
+<dc:creator>García Vacas, Francisco</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Iniestares, S. A.</dc:publisher>
+<dc:description xml:lang="es">OBJETIVO: En 1998 diseñamos un robot para la resección transuretral que constaba de un brazo maestro y un brazo esclavo que reproducía los movimientos del primero. En este artículo describimos el nuevo brazo maestro que hemos creado, que ha pasado de ser un mero "joystick" para convertirse en un auténtico elemento de trabajo. MÉTODOS: El brazo maestro se ha elaborado a partir de un elemento de trabajo convencional, integrado en una estructura articulada de metal y con sensores angulares en cada una de ellas. Cada sensor, a través del computador, ordena al brazo esclavo la posición y movimiento del resector. De esta manera podemos definir el espacio de trabajo del resector, que viene determinado por los cuatro movimientos básicos; desplazamiento horizontal, vertical, de penetración y rotación, más un quinto, el de corte del asa. Mediante programas informáticos, se ha dotado a este elemento de trabajo de un sistema capaz de eliminar los posibles errores del cirujano, e impedir movimientos fuera de campo de trabajo. RESULTADO: Se ha obtenido una herramienta de morfología y funcionamiento similar al resector conven cional, de manejo sencillo y que facilita el entrenamiento en la utilización del elemento de trabajo. Al tiempo que se beneficia de la tecnología punta, reduciendo el número de errores, ya sea por mala utilización como por cansancio o inexperiencia del cirujano. CONCLUSIONES: La nueva herramienta tiene un manejo idéntico al instrumento convencional, que permite que esta nueva tecnología no cambie los procedimientos habituales del cirujano durante la intervención. Además si se produce un uso inadecuado, el robot lo detecta e incluso se anticipa y actúa evitando que el error transcienda al paciente (AU)</dc:description>
+<dc:source>Arch Esp Urol;55(10): 1247-1250, dic. 2002.</dc:source>
+<dc:identifier>ibc-18425</dc:identifier>
+<dc:title xml:lang="es">Nuevo brazo maestro para la resección transuretral mediante robot</dc:title>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d19341</dc:subject>
+<dc:subject>^d11911</dc:subject>
+<dc:subject>^d4946</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200212</dc:date>
+</metadata>
+</record>
+</ibecs-document>

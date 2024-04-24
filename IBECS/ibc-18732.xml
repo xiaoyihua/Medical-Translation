@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-18732</identifier>
+<setSpec>0214-3429</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Trans-gram gene transfer: The case of b-lactamases</dc:title>
+<dc:creator>Galán, J. C</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>J.R. Prous, S.A.</dc:publisher>
+<dc:description xml:lang="es">La transferencia horizontal de genes es un fenómeno que ha contribuido fuertemente en la evolución de los microorganismos. A pesar de la tendencia evolutiva al aislamiento genético, parece ser que la transferencia horizontal tiene lugar con una frecuencia relativamente alta, incluso entre especies muy separadas filogenéticamente. La adquisición de genes por las bacterias puede haberse acelerado en los últimos años debido a un incremento en sus necesidades adaptativas, particularmente por el uso de antibióticos. A la luz del análisis de las secuencias de aminoácidos se ha sugerido la transferencia de genes que codifican betalactamasas desde bacterias grampositivas a gramnegativas (transferencia trans-gram). Al realizar árboles filogenéticos con betalactamasas de diferentes orígenes encontramos que las BRO-1 y ACI-1, descritas en las bacterias gramnegativas Moraxella y Acidaminococcus, respectivamente, están anormalmente agrupadas con las betalactamasas de las bacterias grampositivas. En ambos casos la topología de la enzima (anclada a la membrana celular), la estructura del péptido señal y la región Shine-Dalgarno sugieren que esas enzimas tuvieron su origen en bacterias grampositivas. Por otra parte, los resultados siguen sin ser definitivos para la betalactamasa ROB-1 de Haemophilus. (AU)</dc:description>
+<dc:source>Rev Esp Quimioter;15(3): 215-223, sept. 2002.</dc:source>
+<dc:identifier>ibc-18732</dc:identifier>
+<dc:title xml:lang="es">Transferencia génica trans-gram: el caso de las betalactamasas</dc:title>
+<dc:subject>^d6244</dc:subject>
+<dc:subject>^d35423</dc:subject>
+<dc:subject>^d6241</dc:subject>
+<dc:subject>^d1639</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200209</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-118651</identifier>
+<setSpec>1132-239X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Application of the generalizability theory in sport to study the validity, reliability and estimation of smaples</dc:title>
+<dc:description xml:lang="en">The generalizability theory (G theory) is a multifaceted error theory that assumes that any measurement situation possesses infinite sources of variation. In the field of observation, it can therefore be applied to determine the influence of these sources of error on measurements. By way of an example, this paper describes three applications of the G theory in the initial stages of observational research: 1) to study validity; 2) to estimate the required sample size; and 3) to study reliability. Currently available software applications (such as GT, EduG or, recently, SAGT) make it easier to conduct this kind of analysis and they provide researchers with procedures for ensuring that the decisions they need to make during the research process are justified prior to being implemented; for instance, calculating the required sample size so as to ensure the accurate generalization of results, or constructing a valid reliable observational instrument that can meet the arduous task of coding and recording behaviour in natural contexts (AU)</dc:description>
+<dc:creator>Sánchez-López, Carmen Rosa</dc:creator>
+<dc:creator>Blanco-Villaseñor, Ángel</dc:creator>
+<dc:creator>Hernández-Mendo, Antonio</dc:creator>
+<dc:creator>Castellano, Julen</dc:creator>
+<dc:creator>Usabiaga, Oidui</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La Teoría de la Generalizabilidad (TG) es una teoría de los errores multifaceta que asume que cualquier situación de medida posee infinitas fuentes de variación. En este sentido esta teoría puede aplicarse en el ámbito de la observación con la intención de conocer lainfluencia de estas fuentes de error sobre la medida. De todas las posibilidades, en este trabajo se presentan, a modo de ejemplo, tres aplicaciones de la TG en las primeras fases de una investigación en el ámbito observacional: 1) para el estudio de la validez, 2) para la estimación de la muestra; y, 3) para el estudio de la fiabilidad. Actualmente existen aplicaciones informáticas (GT, EduG o, recientemente, SAGT) que facilitan la implementación de este tipo de análisis que permiten al investigador contar con recursos procedimentales para que las decisiones que tiene que tomar en el proceso de investigación puedan estar justificadas antes de ser implementadas como la muestra necesaria para poder generalizar con precisión o disponer de una herramienta de observación válida y fiable para afrontar el arduo proceso de codificación y registro de las conductas acontecidas en los contextos naturales donde se aplican (AU)</dc:description>
+<dc:source>Rev. psicol. deport;23(1): 131-137, ene.-jun. 2014. tab</dc:source>
+<dc:identifier>ibc-118651</dc:identifier>
+<dc:title xml:lang="es">Aplicación de la TG en el deporte para el estudio de la fiabilidad, validez y estimación de la muestra</dc:title>
+<dc:subject>^d19243^s22019</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12019</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d16136</dc:subject>
+<dc:subject>^d12527^s22049</dc:subject>
+<dc:subject>^d12528^s22048</dc:subject>
+<dc:subject>^d12527^s22048</dc:subject>
+<dc:subject>^d19243^s22048</dc:subject>
+<dc:subject>^d19243^s22049</dc:subject>
+<dc:subject>^d12528^s22066</dc:subject>
+<dc:subject>^d19243^s22066</dc:subject>
+<dc:subject>^d19243^s22045</dc:subject>
+<dc:subject>^d13195</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201406</dc:date>
+</metadata>
+</record>
+</ibecs-document>

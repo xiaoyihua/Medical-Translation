@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-3669</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Estimating forcec expiratory volume in one second (FEV1) based on time of breath holding in healthy subjects</dc:title>
+<dc:creator>Guerrero Romero, F</dc:creator>
+<dc:creator>Rodríguez Morán, M</dc:creator>
+<dc:creator>Nevarez Najera, A</dc:creator>
+<dc:creator>Hernández Campos, S</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Estudio transversal descriptivo cuyo objetivo fue evaluar un modelo de correlación lineal para calcular el volumen espiratorio forzado en un segundo (VEF1) a partir del tiempo de apnea voluntaria (TAV), en individuos sanos mayores de 16 años. Se consideró como TAV al tiempo máximo en segundos que una persona puede estar voluntariamente sin respirar, determinado entre el final de la inspiración máxima y el inicio de la espiración en la tercera de tres mediciones sucesivas. Para calcular el VEF1 a partir del TAV (VEF1-TAV) se utilizó la ecuación general de la recta (y = a + bx), en donde y representa el VEF1 y x es el logaritmo natural del TAV medido en segundos. Los valores de las constantes a y b se determinaron por género, con el método de regresión lineal múltiple, en el que se regresionó el VEF1 (medido por espirometría) frente a la edad y el logaritmo natural de la variable independiente (TAV). Con los valores de las constantes a y b obtenidos y a partir del TAV (valor de x en la ecuación de la recta) se calculó el VEF1-TAV para cada sujeto. Se integraron al estudio 197 sujetos, 97 mujeres (49,2 por ciento) y 100 varones (50,8 por ciento). Los valores promedio del VEF1 calculado con espirometría y el VEF1-TAV fueron similares en todos los grupos de edad y género. El valor de R2 de la correlación VEF1-TAV fue de 0,585 (IC del 95 por ciento: 0,213-0,753) y 0,702 (IC del 95 por ciento: 0,630-1,496) en mujeres y varones, respectivamente. La proporción VEF1-TAV/VEF1 esperada fue mayor al 80 por ciento en 96 mujeres (98,96 por ciento) y 98 varones (98,0 por ciento). La estimación del VEF1 a partir del TAV es un método que proporciona datos confiables sobre este parámetro de la función pulmonar (AU)</dc:description>
+<dc:source>Arch Bronconeumol;36(4): 197-200, abr. 2000.</dc:source>
+<dc:identifier>ibc-3669</dc:identifier>
+<dc:title xml:lang="es">Estimación del volumen espiratorio forzado en un segundo a partir del tiempo de apnea voluntaria en sujetos sanos</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d12540</dc:subject>
+<dc:subject>^d28041</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d14384</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200004</dc:date>
+</metadata>
+</record>
+</ibecs-document>

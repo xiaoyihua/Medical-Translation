@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-162400</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Training cortical signals by means of a BMI-EEG system, its evolution and intervention. A case report</dc:title>
+<dc:description xml:lang="en">Introduction. In the last years, new technologies such as the brain-machine interfaces (BMI) have been incorporated in the rehabilitation process of subjects with stroke. These systems are able to detect motion intention, analyzing the cortical signals using different techniques such as the electroencephalography (EEG). This information could guide different interfaces such as robotic devices, electrical stimulation or virtual reality. Case report. A 40 years-old man with stroke with two months from the injury participated in this study. We used a BMI based on EEG. The subject&#146;s motion intention was analyzed calculating the event-related desynchronization. The upper limb motor function was evaluated with the Fügl-Meyer Assessment and the participant&#146;s satisfaction was evaluated using the QUEST 2.0. The intervention using a physical therapist as an interface was carried out without difficulty. Conclusions. The BMI systems detect cortical changes in a subacute stroke subject. These changes are coherent with the evolution observed using the Fügl-Meyer Assessment (AU)</dc:description>
+<dc:creator>Monge-Pereira, Esther</dc:creator>
+<dc:creator>Casatorres Pérez-Higueras, Irene</dc:creator>
+<dc:creator>Fernández-González, Pilar</dc:creator>
+<dc:creator>Ibáñez-Pereda, Jaime</dc:creator>
+<dc:creator>Serrano, José Ignacio</dc:creator>
+<dc:creator>Molina-Rueda, Francisco</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. En los últimos años están incorporándose nuevas tecnologías en el tratamiento fisioterapéutico de pacientes con ictus, como las interfaces cerebro-máquina -brain-machine interface (BMI)-, capaces de detectar la intención de movimiento analizando las señales corticales por medio de diferentes técnicas, como la electroencefalografía (EEG). Estas señales se traducen en comandos con el fin de realizar una función. Caso clínico. Varón de 40 años con ictus de dos meses de evolución, en el cual se empleó un dispositivo BMI-EEG. La intención de movimiento del sujeto se analizó calculando la desincronización relacionada con el evento. La función motora del miembro superior fue evaluada con la escala de Fügl-Meyer, y el nivel de satisfacción del paciente, mediante el cuestionario QUEST 2.0. La intervención se llevó a cabo sin dificultad siendo el fisioterapeuta la interfaz. Conclusiones. Los sistemas BMI-EEG detectan cambios corticales en un sujeto con ictus subagudo. Estos cambios son coherentes con los cambios observados en escalas clínicas (AU)</dc:description>
+<dc:source>Rev Neurol;64(8): 362-366, 16 abr., 2017. tab, graf</dc:source>
+<dc:identifier>ibc-162400</dc:identifier>
+<dc:title xml:lang="es">Entrenamiento de las señales corticales a través de un sistema BMI-EEG, evolución e intervención. A propósito de un caso</dc:title>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d4641^s22074</dc:subject>
+<dc:subject>^d29902</dc:subject>
+<dc:subject>^d21012</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1721^s22031</dc:subject>
+<dc:subject>^d29507^s22074</dc:subject>
+<dc:subject>^d28608^s22074</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d35170^s22045</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d34247^s22067</dc:subject>
+<dc:subject>^d34247^s22061</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201704</dc:date>
+</metadata>
+</record>
+</ibecs-document>

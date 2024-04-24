@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-050739</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prognostic value of discharge hemoglobin level in patients hospitalized for acute heart failure</dc:title>
+<dc:description xml:lang="en">Introduction and objectives. Recent studies show that the prevalence of anemia in patients with heart failure is high and indicate that its presence leads to increased mortality and morbidity. Our aims were to determine the prevalence of anemia in patients hospitalized for heart failure and to study the long-term prognostic significance of anemia by evaluating its relationship with mortality (total and due to heart failure) and readmission for heart failure. Methods. The study included 242 consecutive patients admitted to our cardiology department and discharged with a diagnosis of congestive heart failure. The Kaplan-Meier technique and Cox regression modeling were used to determine whether anemia is an independent predictor of death or readmission for heart failure. Anemia was defined as a hemoglobin level &lt;12 g/dL. The mean follow-up period was 23.5 (10.9) months. Results. Overall, 79 patients (32.6%) were anemic. During follow-up, 77 died (53 due to heart disease) and 117 were readmitted for heart failure. Multivariate analysis showed that anemia was an independent predictor of death (hazard ratio [HR]=1.85, 95% confidence interval [CI], 1.12-3.06), death due to heart disease (HR=1.88, 95% CI, 1.03-3.45), and readmission for heart failure (HR=1.87, 95% CI, 1.28-2.74). Conclusions. The prevalence of anemia was high in patients hospitalized for heart failure. Moreover, a discharge hemoglobin level less than 12 g/dL was a predictor of all-cause death, cardiac death, and readmission for heart failure</dc:description>
+<dc:creator>Payá-Serrano, Rafael</dc:creator>
+<dc:creator>Sánchez-Torrijos, Jorge</dc:creator>
+<dc:creator>Jacas-Osborn, Victoria</dc:creator>
+<dc:creator>Giménez-Alcalá, Mónica</dc:creator>
+<dc:creator>Trigo-Bautista, Alberto</dc:creator>
+<dc:creator>Gudín-Uriel, Margarita</dc:creator>
+<dc:creator>Ridocci-Soriano, Francisco</dc:creator>
+<dc:creator>Nadal-Barangé, Mercedes</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos. Estudios recientes muestran una elevada prevalencia de anemia en pacientes con insuficiencia cardiaca y señalan que su presencia condiciona un aumento de la morbimortalidad. El objetivo de nuestro estudio fue determinar la prevalencia de anemia en pacientes dados de alta con diagnóstico de insuficiencia cardiaca, estudiar su valor pronóstico a largo plazo y evaluar la relación entre anemia y mortalidad (total y cardiaca) y reingresos por nueva descompensación. Métodos. Analizamos una serie de 242 pacientes ingresados en el servicio de cardiología y dados de alta con diagnóstico de insuficiencia cardiaca. Utilizamos el método de Kaplan-Meier y el modelo de regresión de Cox para el estudio de la anemia como predictor independiente de mortalidad y reingresos por insuficiencia cardiaca. Consideramos anemia una cifra de hemoglobina &lt; 12 g/dl. El tiempo medio de seguimiento fue de 23,5 ± 10,9 meses. Resultados. En total, 79 (32,6%) pacientes tenían anemia. Durante el seguimiento fallecieron 77 pacientes, 53 por causa cardiaca, y reingresaron por insuficiencia cardiaca 117 pacientes. En el análisis multivariable, la anemia resultó predictora de mortalidad total (hazard ratio [HR] = 1,85; intervalo de confianza [IC] del 95%, 1,12-3,06), mortalidad cardiaca (HR = 1,88; IC del 95%, 1,03-3,45) y reingreso por insuficiencia cardiaca (HR = 1,87; IC del 95%, 1,28-2,74). Conclusiones. En nuestra serie de pacientes hospitalizados por insuficiencia cardiaca observamos una elevada prevalencia de anemia. Además, una cifra de hemoglobina en el momento del alta &lt; 12 g/dl resultó predictora de mortalidad total, mortalidad cardiaca y reingreso por descompensación de la insuficiencia cardiaca</dc:description>
+<dc:source>Rev Esp Cardiol;59(12): 1276-1282, dic. 2006. tab, graf</dc:source>
+<dc:identifier>ibc-050739</dc:identifier>
+<dc:title xml:lang="es">Valor pronóstico de las cifras de hemoglobina en el momento del alta en pacientes hospitalizados por insuficiencia cardiaca</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d22189^s22002</dc:subject>
+<dc:subject>^d6486^s22062</dc:subject>
+<dc:subject>^d10545</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d755^s22012</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200612</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-041724</identifier>
+<setSpec>1699-048X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Molecular protocol for HER2/neu analysis in breast carcinoma</dc:title>
+<dc:description xml:lang="en">Background. The HER2/neu proto-oncogene is frequently over-expressed in breast cancer and serves as a biological target for trastuzumab therapy. However, there is no consensus regarding the technical aspects to be used to define HER2/neu status in clinical practice. Methods. The present study was conducted to address this critical issue by prospectively analysing a large cohort of breast cancer patients (n=222) and using a variety of methods. To define HER2/neu expression, detection of its encoded protein (p185) was performed by comparative immunohistochemical (IHC) analysis using two mouse monoclonal antibodies (mAb CB11 and mAb TAB250). To assess HER2/neu gene amplification, fluorescent in situ hybridisation (FISH) assays with gene-specific probes were conducted. All procedures were applied to de-paraffinised tissue sections of breast tumour samples. Results. Results showed that mAb CB11 had increased sensitivity and specificity (62.5% and 93.4%, respectively) compared to mAb TAB250 (40% and 76.4%, respectively) in defining HER2/neu amplification. We conclude that HER2/neu measurement by IHC using mAb CB11 is an appropriate strategy which provides a high negative predictive value (95.5%) for HER2/neu amplification in cases with low or undetectable p185 expression. Conversely, mAb CB11 has a high positive predictive value (96.2%) for HER2/neu amplification in cases with p185 overexpression. However, cases with moderate p185 expression need to be considered as inconclusive. In such cases, it is necessary to use FISH measurement to evaluate HER2/neu amplification. It is also advisable to conduct FISH if there is discordance between p185 expression and the histopathology classification of the lesion, or molecular profile of the tumour. Finally, even though the false positive rate of IHC assay is &lt;5%, the toxicity and cost of trastuzumab therapy suggest that FISH be used systematically prior to implementation of treatment. Conclusion. We suggest the use of a molecular protocol for HER2/neu analysis in this type of tumor</dc:description>
+<dc:creator>Puig Torrus, Xavier</dc:creator>
+<dc:creator>Verdú Artufel, Montse</dc:creator>
+<dc:creator>Moreno Carazo, Abelardo</dc:creator>
+<dc:creator>Erill Sagalés, Nadina</dc:creator>
+<dc:creator>Calvo Llorca, Miquel</dc:creator>
+<dc:creator>Colomer Valero, Anna</dc:creator>
+<dc:creator>Román Lladó, Ruth</dc:creator>
+<dc:creator>Cordón Cardó, Carlos</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Antecedentes. El oncogén HER2/neu es un determinante biológico predictivo esencial en el cáncer de mama por su papel como diana terapéutica del trastuzumab. No obstante, no se ha llegado aún a consensuar un método de referencia para su estudio. Métodos. En este trabajo, hemos aplicado y comparado, sobre 222 carcinomas de mama recopilados prospectivamente, los dos ensayos de uso más frecuente para determinar el estado de HER2/neu: inmunohistoquímica para expresión de la proteína p185 empleando dos anticuerpos monoclonales (CB11 y TAB250) e hibridación in situ fluorescente (FISH), utilizando secciones de tejido incluido en parafina. Resultados. Los resultados demuestran mayor sensibilidad y especificidad con CB11 (62,5% y 93,4% respectivamente) que con TAB250 (40% y 76,4% respectivamente). El estudio inmunohistoquímico con CB11 es adecuado como prueba inicial para predecir el estado del gen, proporciona un alto valor predictivo negativo (95,5%) en los casos de expresión débil o nula y positivo (96,2%) en los tumores con sobreexpresión. Si la expresión inmunohistoquímica es moderada debe considerarse no concluyente y es indispensable el estudio de FISH. También es recomendable aplicar FISH si hay discordancia entre la expresión de p185 y el perfil morfológico y/o molecular tumoral. Finalmente, aunque la tasa de falsos positivos producidos por estudios inmunohistoquímicos es inferior al 5%, debido a la toxicidad y coste de la terapia con trastuzumab es razonable considerar el empleo sistemático de FISH antes de indicar el tratamiento. Conclusión. En base a nuestros resultados proponemos un protocolo para el estudio molecular de HER2/neu</dc:description>
+<dc:source>Clin Transl Oncol;7(11): 504-511, dic. 2005. ilus, tab</dc:source>
+<dc:identifier>ibc-041724</dc:identifier>
+<dc:title xml:lang="es">Protocolo de estudio molecular del oncogén HER2/neu en el carcinoma de mama</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d24373^s22002</dc:subject>
+<dc:subject>^d2316^s22002</dc:subject>
+<dc:subject>^d32226</dc:subject>
+<dc:subject>^d22921^s22045</dc:subject>
+<dc:subject>^d27977</dc:subject>
+<dc:subject>^d1968^s22053</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d31593^s22053</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d32062^s22002</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200512</dc:date>
+</metadata>
+</record>
+</ibecs-document>

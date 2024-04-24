@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-24</identifier>
+<setSpec>0212-7199</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Late onset rheumatoid arthritis</dc:title>
+<dc:creator>Martínez Tamayo, C</dc:creator>
+<dc:creator>Bláquez Márquez, P.A</dc:creator>
+<dc:creator>González Cruz Cervellera, Mª.L</dc:creator>
+<dc:creator>Parra Ródenas, J.V</dc:creator>
+<dc:creator>Campos Fernández, C</dc:creator>
+<dc:creator>Calvo Catalá, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Arán Ediciones, S.A.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Pretendemos valorar las características de la artritis reumatoide de inicio en mayores de 60 años. Método: Se estudian retrospectivamente un grupo de 33 enfermos con artritis reumatoide de inicio en una edad igual o superior a los 60 años (inicio tardío o ARIT), comparado con otro grupo de 33 pacientes con artritis reumatoide diagnosticada antes de los 60 años (adulto joven o ARAJ), recogidos de forma sucesiva en los últimos tres años. Se valoran los siguientes parámetros: edad, sexo, rigidez matutina, forma de inicio, localización de la artritis, nódulos reumatoideos, hemoglobina, plaquetas, VSG, factor reumatoideo, anticuerpos antinucleares, capacidad funcional y alteraciones radiológicas. Resultados: Se obtuvieron diferencias estadísticamente significativas entre ambos grupos en: una mayor rigidez articular, mayor número de luxaciones articulares, más alteraciones radiológicas, peor capacidad funcional y más afectación de pequeñas articulaciones de las manos en el grupo ARAJ; y por otro lado se observa mayor afectación de hombros en el ARIT, manteniéndose esta diferencia cuando nos referimos al sexo masculino y también cuando el FR es positivo; cuando es negativo se superpone a una entidad característica como es la polimialgia reumática (PMR). Conclusiones: Según el momento de aparición de la Artritis Reumatoide (más o menos de 60 años), podemos encontrar unas diferencias propias de cada una, y una similitud con otro tipo de enfermedades como la PMR (AU)</dc:description>
+<dc:source>An Med Interna;16(3): 129-132, mar. 1999. tab</dc:source>
+<dc:identifier>ibc-24</dc:identifier>
+<dc:title xml:lang="es">Artritis reumatoide de inicio tardío</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d27830</dc:subject>
+<dc:subject>^d1178^s22016</dc:subject>
+<dc:subject>^d1178^s22027</dc:subject>
+<dc:subject>^d13163^s22032</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d29362</dc:subject>
+<dc:subject>^d12626</dc:subject>
+<dc:subject>^d11548^s22027</dc:subject>
+<dc:subject>^d28231</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>199903</dc:date>
+</metadata>
+</record>
+</ibecs-document>

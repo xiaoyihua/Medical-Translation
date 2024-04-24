@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-103843</identifier>
+<setSpec>0001-7310</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">New Therapeutic Targets in Melanoma</dc:title>
+<dc:description xml:lang="en">Research into molecular targets for drug development in melanoma is starting to bear fruit. Of the drugs tested to date in patients with metastatic melanoma, those that have yielded the best results are V600E BRAF inhibitors in melanomas carrying the V600E mutation; c-kit tyrosine kinase activity inhibitors in melanomas carrying c-kit mutations; and anti-cytotoxic T lymphocyte antigen 4 (CTLA-4) antibodies, which block the mechanisms involved in immune tolerance. Many problems have yet to be resolved in these areas, however, such as the rapid development of resistance to BRAF and c-kit inhibitors and the lack of biomarkers to predict treatment response in the case of CTLA-4 blockers. We review the results of targeted therapy with these and other drugs in metastatic melanoma and discuss what the future holds for this field (AU)</dc:description>
+<dc:creator>Martí, RM</dc:creator>
+<dc:creator>Sorolla, A</dc:creator>
+<dc:creator>Yeramian, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La investigación sobre dianas moleculares en el melanoma sobre las que se pueda actuar farmacológicamente está empezando a dar sus primeros frutos. De todos los fármacos ensayados hasta el momento en pacientes con melanoma diseminado, los que han conseguido mejores resultados son los inhibidores de la mutación V600E de BRAF en los melanomas portadores de la misma, los inhibidores de la actividad tirosin-cinasa de c-Kit en melanomas con mutaciones de este gen y los anticuerpos anti-CTLA-4, inhibidores de los mecanismos de inmunotolerancia. Sin embargo, aún quedan muchos problemas por resolver, como la rápida adquisición de resistencias frente a los dos primeros tipos de fármacos o la falta de biomarcadores predictivos de respuesta frente al último de ellos. En este artículo presentamos una revisión sobre los resultados de los tratamientos contra estas y otras dianas en el melanoma diseminado y lo que parece que podemos esperar del futuro (AU)</dc:description>
+<dc:source>Actas Dermosifiliogr;103(7): 579-590, sept. 2012. tab, ilus</dc:source>
+<dc:identifier>ibc-103843</dc:identifier>
+<dc:title xml:lang="es">Nuevas dianas terapéuticas en el melanoma</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d8714^s22067</dc:subject>
+<dc:subject>^d3626^s22073</dc:subject>
+<dc:subject>^d54634^s22073</dc:subject>
+<dc:subject>^d3626^s22078</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30151</dc:subject>
+<dc:subject>^d54634^s22006</dc:subject>
+<dc:subject>^d974</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d54634^s22002</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201209</dc:date>
+</metadata>
+</record>
+</ibecs-document>

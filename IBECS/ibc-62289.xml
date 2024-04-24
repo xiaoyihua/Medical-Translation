@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-62289</identifier>
+<setSpec>0034-9356</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:description xml:lang="en">OBJECTIVE: To assess the prognosis of cancer patients in an intensive care unit (ICU), to compare the capabilities of severity scoring systems to predict hospital death, and to improve prediction by adding new variables. PATIENTS AND METHODS: Cohort study in a medical&#150;surgical ICU of a university hospital. Demographic and oncologic characteristics were collected along with death records for all nonsurgical cancer patients admitted between January 1995 and June 2000. Severity scores and risk of death were calculated. RESULTS: In the cohort of 250 patients studied, the hospital mortality rate was 58% and the ICU mortality rate was 38.8%. The best predictions were made with the third version of the Acute Physiology and Chronic Health Evaluation (APACHE III), the total maximum Sequential Organ Failure Assessment (SOFA) score, and the total maximum Multiple Organ Dysfunction Score (MODS). The APACHE II and the Simplified Acute Physiology Score (SAPS), version II, were good predictors, whereas the systems of the International Council on Mining and Metals overestimated hospital mortality and the Modality Prediction Model at 0 and 24 hours (MPM0 and MPM24) and the Logistic Organ Dysfunction System underestimated it. The total maximum SOFA and MODS scores had the greatest discriminating capability and the SOFA0, the MODS0, MPM0, and MPM24 had the poorest. All assessment systems except the APACHE III improved when we added new mortality-associated variables: prior functional status, diabetes, radiographic lung infiltrates, mechanical ventilation, and vasoactive support. CONCLUSIONS: Medical oncology patients should not all be denied intensive care. None of the systems assessed offer clinically relevant advantages for predicting hospital mortality in nonsurgical oncology patients in the ICU, although we recommend the SAPS II because it includes oncologic variables, is easy to score, and has good prognostic capability (AU)</dc:description>
+<dc:creator>Irala, J. de</dc:creator>
+<dc:creator>Monedero, P</dc:creator>
+<dc:creator>González-Pérez, L</dc:creator>
+<dc:creator>Kadri, C</dc:creator>
+<dc:creator>Lushchenkov, D</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">OBJETIVO: Valorar el pronóstico de los pacientes oncológicosmédicos ingresados en Reanimación (UCI); comparardistintos sistemas de medida de gravedad en sucapacidad de predecir la muerte hospitalaria; y mejorarsu capacidad predictiva con nuevas variables.PACIENTES Y MÉTODOS: Estudio de cohorte en una UCImédico-quirúrgica de un hospital universitario. Se recogieronlas características demográficas y oncológicas, junto conla mortalidad de todos los pacientes oncológicos médicosingresados entre enero de 1995 y junio del 2000. Se calcularonlas puntuaciones de gravedad y el riesgo de muerte.RESULTADOS: Se estudiaron 250 pacientes, con una mortalidadhospitalaria del 58% e intra-UCI del 38,8%. Lamejor capacidad predictiva se obtuvo con APACHE III,SOFA total máximo (TMS) y MODS total máximo (TMM).APACHE II y SAPS II predecían bien, mientras que ICMMsobreestimaba y MPM0, MPM24 y LODS infraestimabanla mortalidad hospitalaria. La mejor discriminación seobtuvo con TMS y TMM, y la peor con SOFA0, MODS0,MPM0 y MPM24. Todos los sistemas de medida de gravedad,excepto APACHE III, mejoraron su discriminación alañadir nuevas variables asociadas con la mortalidad: elestado funcional previo, diabetes, infiltrados pulmonaresradiológicos, ventilación mecánica y soporte vasoactivo.CONCLUSIONES: No se debe privar de los cuidadosintensivos a todos los pacientes oncológicos médicos.Ninguno de los sistemas evaluados ofrece ventajas clínicamenterelevantes para la predicción de la mortalidadhospitalaria en pacientes oncológicos médicos en la UCI,aunque recomendamos el uso del SAPS II porque incluyevariables oncológicas, es fácil de calcular y tienecaracterísticas predictivas buenas (AU)</dc:description>
+<dc:source>Rev Esp Anestesiol Reanim;54(7): 405-413, ago.-sept. 2007. tab</dc:source>
+<dc:identifier>ibc-62289</dc:identifier>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d3439^s22045</dc:subject>
+<dc:subject>^d33939^s22045</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d30213^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d7530^s22066</dc:subject>
+<dc:subject>^d9562^s22080</dc:subject>
+<dc:subject>^d18001</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200709</dc:date>
+</metadata>
+</record>
+</ibecs-document>

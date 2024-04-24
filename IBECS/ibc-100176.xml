@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-100176</identifier>
+<setSpec>1888-4008</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Standardization of creatinine measurement methods: current status</dc:title>
+<dc:description xml:lang="en">The implementation of equations for estimating glomerular filtration rate (GFR) in clinical laboratory reports has placed the spotlight on the limitations of creatinine measurements and has promoted the establishment of an international program for standardisation. We have analysed the current state of implementation of this program with regard to traceability, commutability, imprecision, systematic error, as well as information on the type of equation to use and reference values, as well as the creatinine reagents commonly used in Spanish laboratories. Most of the measurement procedures have traceability to the reference method, and meet the requirements of imprecision. The available information available on the inaccuracy, the total error of measurement, verification of the commutability of calibration materials used, the glomerular filtration equation to use, and reference values in the paediatric population is unsatisfactory or non-existent in most commercial firms evaluated (AU)</dc:description>
+<dc:creator>Diez-De-Los-Ríos Carrasco, Maria José</dc:creator>
+<dc:creator>Gràcia Garcia, Sílvia</dc:creator>
+<dc:creator>Montañés Bermúdez, Rosario</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La implementación de las ecuaciones de estimación del filtrado glomerular (FG) en los informes del laboratorio clínico ha colocado en el punto de mira las limitaciones de la medida de creatinina y promovido la puesta en marcha de un programa internacional para su estandarización. Hemos analizado el estado actual de implementación de dicho programa respecto a la trazabilidad, la conmutabilidad, la imprecisión, el error sistemático, así como la información acerca del tipo de ecuación a utilizar y sobre los valores de referencia, de los reactivos de creatinina más utilizados en los laboratorios españoles. La mayoría de los procedimientos de medida presentan trazabilidad al método de referencia y satisfacen los requerimientos de imprecisión; sin embargo, la información disponible sobre la inexactitud, el error total de medida, la verificación de la conmutabilidad de los materiales de calibración utilizados, la ecuación de FG a utilizar y los valores de referencia en población pediátrica es insuficiente o inexistente en la mayoría de las firmas comerciales evaluadas (AU)</dc:description>
+<dc:source>Rev. lab. clín;5(2): 87-101, abr.-jun. 2012.</dc:source>
+<dc:identifier>ibc-100176</dc:identifier>
+<dc:title xml:lang="es">Estandarización de los procedimientos de medida de creatinina: estado actual</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d4871</dc:subject>
+<dc:subject>^d3421^s22065</dc:subject>
+<dc:subject>^d3421</dc:subject>
+<dc:subject>^d3421^s22001</dc:subject>
+<dc:subject>^d33124^s22048</dc:subject>
+<dc:subject>^d3421^s22003</dc:subject>
+<dc:subject>^d4876^s22045</dc:subject>
+<dc:subject>^d33124^s22039</dc:subject>
+<dc:subject>^d6063^s22031</dc:subject>
+<dc:subject>^d33124^s22083</dc:subject>
+<dc:subject>^d33124^s22045</dc:subject>
+<dc:subject>^d19042</dc:subject>
+<dc:subject>^d50369^s22044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201206</dc:date>
+</metadata>
+</record>
+</ibecs-document>

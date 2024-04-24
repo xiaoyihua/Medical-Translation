@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-047508</identifier>
+<setSpec>0211-2159</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Comparison among Effect-Size indices for dichotomized outcomes in Meta-analysis</dc:title>
+<dc:description xml:lang="en">The aim of this study was compare with information of a meta-analysis actually published, the performance of 7 different effect-size indices for estimating the population standardized mean difference from a 2 × 2 table (dp, d&amp;#966;, dasine, dHH, dCox, dprobit, dbis). Those indices were studied by Sánchez-Meca, Marín-Martínez and Chacón-Moscoso (2003) using Monte Carlo simulation. In the same line of that simulation, our results show that the choice of the index may have important consequences in the conclusions of the meta-analysis. We recommended the simultaneous use of dCox, dprobit and dHH</dc:description>
+<dc:creator>Botella, Juan</dc:creator>
+<dc:creator>González Ramírez, Mónica Teresa</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El objetivo principal del presente trabajo es comparar, con datos provenientes de un meta-análisis real, el comportamiento de 7 índices para calcular el tamaño del efecto en variables dicotomizadas: dp, d&amp;#966;, dasine, dHH, dCox, dprobit, dbis. Estos índices fueron estudiados por Sánchez-Meca, Marín-Martínez y Chacón-Moscoso (2003) a través de una simulación Monte Carlo. Considerando los resultados, se concluye que los 7 índices para calcular TE no son equivalentes; asimismo, se pone de manifiesto que el uso de uno u otro índice para calcular el tamaño del efecto puede tener consecuencias importantes en un meta-análisis, conduciendo incluso a conclusiones opuestas. Es por esto que se recomienda que para cálculos del tamaño del efecto para variables dependientes dicotomizadas se utilicen los índices dCox, dprobit y dHH para poder comparar sus resultados e incrementar la validez de las conclusiones de un meta-análisis. Estas conclusiones coinciden con las del estudio de simulación de Sánchez-Meca et al. (2003)</dc:description>
+<dc:source>PsicolÔogica (Valencia, Ed. impr.);27(2): 269-293, jul.-dic. 2006. tab</dc:source>
+<dc:identifier>ibc-047508</dc:identifier>
+<dc:title xml:lang="es">Comparación entre índices de tamaño del efecto para variables dicotomizadas en Meta-análisis</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d30967</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24884</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:subject>^d28640</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200612</dc:date>
+</metadata>
+</record>
+</ibecs-document>

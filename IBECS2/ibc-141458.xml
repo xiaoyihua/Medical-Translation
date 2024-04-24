@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-141458</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Standards for interoperability: new challenges</dc:title>
+<dc:description xml:lang="en">Strategies for implementation of information systems have mainly focused on the implementation of different models of electronic medical records systems and solutions for specific departments. The next step is to make these systems share and exchange information and assistance that generate accessible citizens. For it, must be structured in a coherent and give a semantic content to allow interoperability between systems. This can be done if it is based on the standards, since they ensure consistency, scientific support and critical mass. The Department of Health of the Generalitat of Catalonia, through the office of standards and interoperability TicSalut Foundation, carried out the deployment of standards that facilitate interoperability between the centers not only in Catalonia but also with a global vision (AU)</dc:description>
+<dc:creator>Manyach-Serra, Josep</dc:creator>
+<dc:creator>Cornet-Prat, Joan</dc:creator>
+<dc:creator>Gallego-Pérez, Carlos</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Las estrategias de implantación de los sistemas de información se han centrado principalmente en la implantación de diferentes modelos de historia clínica electrónica, así como sistemas específicos para soluciones departamentales. El siguiente paso es hacer que estos sistemas compartan e intercambien la información asistencial que generan y hacerla accesible al ciudadano. Para ello, se debe estructurar de una forma coherente y darle un contenido semántico que permita la interoperabilidad entre los sistemas. Esto se puede hacer si se fundamenta en los estándares, ya que garantizan una coherencia, respaldo científico y masa crítica. El Departamento de Salud de la Generalitat de Catalunya, a través de la oficina de estándares e interoperabilidad de la Fundación TicSalut, está llevando a cabo el despliegue de los estándares que facilitará la interoperabilidad no sólo entre los centros de Cataluña sino también con una visión global (AU)</dc:description>
+<dc:source>Med. clín (Ed. impr.);134(supl.1): 32-38, ene. 2010. ilus</dc:source>
+<dc:identifier>ibc-141458</dc:identifier>
+<dc:title xml:lang="es">Estándares para la interoperabilidad: nuevos retos</dc:title>
+<dc:subject>^d22519^s22048</dc:subject>
+<dc:subject>^d53713^s22048</dc:subject>
+<dc:subject>^d28167</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201001</dc:date>
+</metadata>
+</record>
+</ibecs-document>

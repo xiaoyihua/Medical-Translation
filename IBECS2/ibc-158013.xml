@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-158013</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The role of the Pharmacist in the design, development and implementation of Medication Prescription Support Systems</dc:title>
+<dc:description xml:lang="en">Clinical Decision Support Systems (CDSS) are computerized tools designed to help healthcare professionals to make clinical and therapeutic decisions, with the objective of improving patient care. Prescription-targeted CDSS have the highest impact in improving patient safety. Although there are different designs and functionalities, all these systems will combine clinical knowledge and patient information in a smart manner, in order to improve the prescription process. With the emergence of new technologies and advances in smart decision systems, the implementation of said systems can achieve an important improvement in terms of the prescription process and patient safety. The design and implementation of these systems should be performed by a multidisciplinary team of professionals, where Pharmacists will play an important role due to their technical knowledge about medications and the technologies associated to their use. This article aims to provide basic guidelines for the design and adequate implementation, monitoring and follow-up of Clinical Decision Support Systems within the setting of pharmacological prescription (AU)</dc:description>
+<dc:creator>Codina Jané, Carlos</dc:creator>
+<dc:creator>Álvarez Díaz, Ana María</dc:creator>
+<dc:creator>Solà Bonada, Núria</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Los sistemas de soporte a la decisión clínica son herramientas informáticas diseñadas para ayudar a los profesionales sanitarios en la toma de decisiones clínicas y terapéuticas, con la finalidad de mejorar la atención a los pacientes. Los sistemas dirigidos a la prescripción son los que mayor impacto tienen en la mejora de la seguridad de los pacientes. Aunque existen diferentes diseños y funcionalidades, estos sistemas coinciden en combinar de manera inteligente el conocimiento clínico y la información de los pacientes, para mejorar el proceso de prescripción. Con la aparición de las nuevas tecnologías y el avance de los sistemas inteligentes de decisión, la implantación de estos sistemas puede lograr una mejora importante en el proceso de prescripción y en la seguridad de los pacientes. El diseño e implantación de estos sistemas se debe llevar a cabo por un equipo multidisciplinar de profesionales, donde el farmacéutico tiene un papel destacado gracias a sus conocimientos técnicos sobre los medicamentos y sobre las tecnologías asociadas a la utilización de los mismos. Con este artículo se pretende aportar las directrices básicas para el diseño y la correcta implantación, monitorización y seguimientos de los Sistemas de Soporte a la Decisión Clínica en el ámbito de la prescripción farmacológica (AU)</dc:description>
+<dc:source>Farm Hosp;40(6): 457-476, nov.-dic. 2016. graf, tab, ilus</dc:source>
+<dc:identifier>ibc-158013</dc:identifier>
+<dc:title xml:lang="es">Papel del farmacéutico en el diseño, desarrollo e implantación de sistemas de soporte a la prescripción de medicamentos</dc:title>
+<dc:subject>^d33618^s22049</dc:subject>
+<dc:subject>^d51856^s22045</dc:subject>
+<dc:subject>^d4421^s22054</dc:subject>
+<dc:subject>^d54857</dc:subject>
+<dc:subject>^d11742</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d50249^s22045</dc:subject>
+<dc:subject>^d54850^s22049</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201612</dc:date>
+</metadata>
+</record>
+</ibecs-document>

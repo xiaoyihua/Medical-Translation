@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-155118</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">3&#146;UTR SNPS and haplotypes in the gata4 gene contribute to the genetic risk of congenital heart disease</dc:title>
+<dc:description xml:lang="en">Introduction and objectives: Single-nucleotide polymorphisms within a microRNA binding site can have different effects on gene expression, influencing the risk of disease. This study aimed to evaluate the association between single-nucleotide polymorphisms and haplotypes in the 3&#146;UTR of the GATA4 gene and congenital heart disease risk. Methods: Bioinformatics algorithms were used to analyze single-nucleotide polymorphisms in putative microRNA-binding sites of GATA4 3&#146;UTR and to calculate the difference in free energy of hybridization (&amp;#916;FE, kcal/mol) for each wild-type vs the variant allele. Results: The study population comprised 146 Caucasian patients (73 males; 6.68 ± 7.79 years) and a 265 healthy newborn participants (147 males). The sum of all &amp;#916;FE was considered to predict the biological importance of single-nucleotide polymorphisms binding more microRNAs. Next, the 4 polymorphisms (+1158 C &gt; T, +1256 A &gt; T, +1355 G &gt; A, +1521 C &gt; G) with the highest predicted &amp;#916;FEtot (9.91, 14.85, 11.03, 21.66 kcal/mol, respectively) were genotyped in a case-control study (146 patients and 250 controls). Applying a correction for multiple testing only the +1158 T allele was found to be associated with a reduced risk showing significant difference between patients and controls. Haplotype analysis showed that the T-T-G-C haplotype (more uncommon in congenital heart diseases than in controls) was associated with a significantly decreased risk (P = .03), while the rare C-A-A-C haplotype, which was very uncommon in controls (0.3%) compared with the disease (2.4%), was associated with a 4-fold increased risk of disease (P = .04). Conclusions: Common variants in 3&#146;UTR of the GATA4 gene jointly interact, affecting the congenital heart disease susceptibility, probably by altering microRNA post transcriptional regulation (AU)</dc:description>
+<dc:creator>Sabina, Saverio</dc:creator>
+<dc:creator>Ait-Ali, Lamia</dc:creator>
+<dc:creator>Andreassi, Maria Grazia</dc:creator>
+<dc:creator>Foffa, Ilenia</dc:creator>
+<dc:creator>Pulignani, Silvia</dc:creator>
+<dc:creator>Vecoli, Cecilia</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos: Los polimorfismos de nucleótido único situados en un lugar de unión de microácidos ribonucleicos (miARN) pueden tener diferentes efectos en la expresión génica, y ello puede influir en el riesgo de enfermedad. Este estudio tiene como objetivo evaluar la asociación existente entre los polimorfismos de nucleótido único y los haplotipos presentes en la región 3&#146;UTR del gen GATA4 y el riesgo de cardiopatía congénita. Métodos: Se utilizaron algoritmos de bioinformática para analizar los polimorfismos de nucleótido único en los presuntos lugares de unión de miARN en la región 3&#146;UTR del gen GATA4 y para calcular la diferencia de energía de hibridación libre (&amp;#916;FE, kcal/mol) para cada alelo de tipo natural(wild-type) en comparación con cada variante alélica. Resultados: Formaron la población de estudio 146 pacientes caucásicos (73 varones; edad, 6,68 ± 7,79 años) y 265 recién nacidos sanos (147 varones). Se consideró que la suma de todos los &amp;#916;FE predecía la importancia biológica de los polimorfismos de nucleótido único al unirse a más miARN. A continuación se determinó el genotipo de los 4 polimorfismos (+1158 C &gt; T, + 1256 A &gt; T, + 1355 G &gt; A, +1521 C &gt; G) que tenían el valor predicho de &amp;#916;FE total más alto (9,91, 14,85, 11,03 y 21,66 kcal/mol respectivamente) en un estudio de casos y controles (146 pacientes y 250 controles). Al aplicar una corrección por multiplicidad de pruebas, tan solo el alelo +1158 T mostró una diferencia significativa entre los pacientes y los controles. El análisis de los haplotipos puso de manifiesto que el haplotipo T-T-G-C (más infrecuente en los pacientes con cardiopatías congénitas que en los controles) se asociaba a una disminución del riesgo significativa (p = 0,03), mientras que el haplotipo muy infrecuente C-A-A-C, que se daba de manera muy poco común en los controles (0,3%) en comparación con los pacientes con la enfermedad (2,4%), se asociaba a un aumento de 4 veces en el riesgo de enfermedad (p = 0,04). Conclusiones: Las variantes frecuentes de la región 3&#146;UTR del gen GATA4 interaccionan de manera conjunta y con ello afectan a la susceptibilidad a la cardiopatía congénita, probablemente mediante la alteración de la regulación postranscripcional de los miARN (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;69(8): 760-765, ago. 2016. ilus, tab</dc:source>
+<dc:identifier>ibc-155118</dc:identifier>
+<dc:title xml:lang="es">Los polimorfismos de nucleótido único y los haplotipos de la región 3&#146;UTR del gen GATA4 contribuyen al riesgo genético de cardiopatía congénita</dc:title>
+<dc:subject>^d6483^s22033</dc:subject>
+<dc:subject>^d50992^s22033</dc:subject>
+<dc:subject>^d33779</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d19180^s22033</dc:subject>
+<dc:subject>^d24411</dc:subject>
+<dc:subject>^d34583^s22033</dc:subject>
+<dc:subject>^d33849^s22033</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201608</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-054424</identifier>
+<setSpec>1695-4033</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prognostic indexes of mortality in pediatric intensive care units</dc:title>
+<dc:description xml:lang="en">Objective: To assess the validity of the Pediatric Risk of Mortality score (PRISM), the Pediatric Index of Mortality (PIM) and the PIM 2 in two Spanish pediatric intensive care units.                 Patients and methods: We prospectively studied 241 critically ill children consecutively admitted over a 6-month period. The overall performance of the scoring systems was assessed by the Standardized Mortality Ratio (SMR), comparing observed deaths with expected deaths by each index. Discrimination (the ability of the model to distinguish between patients who live and those who die) was quantified by calculating the area under the receiver operating characteristic (ROC) curve. Calibration (the accuracy of mortality risk predictions) was calculated with the Hosmer-Lemeshow goodness-of-fit test, in which statistical calibration is evidenced by p &gt; 0.05.                 Results: The mortality rate was 4.1 %. PRISM overestimated mortality (SMR = 0.44). Discrimination was better for PRISM and PIM 2 than for PIM (areas under ROC curves: 0.883, 0.871, and 0.800 respectively), with no significant differences. Finally, calibration was acceptable for PIM 2 (x2 (8) = 4.8730, p 0.8461) and for PIM (x2 (8) = 8.0876, p 0.5174), but no statistical calibration was found for PRISM (x2 (8) = 15.0281, p 0.0133).                 Conclusions: PIM and PIM 2 showed better discrimination and calibration than PRISM in a heterogeneous group of children in Spanish critical care units. However, these results should be confirmed in a larger study</dc:description>
+<dc:creator>Martínez Camblor, P</dc:creator>
+<dc:creator>Prieto Espuñes, S</dc:creator>
+<dc:creator>Rey Galán, C</dc:creator>
+<dc:creator>Concha Torre, A</dc:creator>
+<dc:creator>López-Herce Cid, J</dc:creator>
+<dc:creator>Medina Villanueva, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Validar el Pediatric Risk of Mortality score (PRISM), el Pediatric Index of Mortality (PIM) y el PIM-2 en dos unidades de cuidados intensivos pediátricos españolas.                 Pacientes y métodos: Se incluyeron en el estudio 241 niños críticos ingresados consecutivamente durante 6 meses. El funcionamiento general de los índices se evaluó con la Razón de Mortalidad Estandarizada (RME), comparando la mortalidad observada con la esperada por cada índice. La discriminación o capacidad del modelo para diferenciar entre pacientes que sobreviven y pacientes que fallecen se estimó por el área bajo la curva de rendimiento diagnóstico (curva ROC). La calibración o exactitud de las predicciones de riesgo se calculó con la prueba de bondad de ajuste de Hosmer-Lemeshow, en la que la calibración se evidencia por una p &gt; 0,05.                 Resultados: La tasa de mortalidad fue del 4,1 %. El PRISM sobreestimó el número de muertes, con una RME de 0,44. La discriminación fue mejor para el PRISM y el PIM-2 que para el PIM (áreas bajo las curvas ROC: 0,883, 0,871 y 0,800, respectivamente), sin diferencias significativas. Finalmente, la calibración fue buena para el PIM-2 (x2(8)= 4,8730; p = 0,8461) y para el PIM (x2 (8) = 8,0876; p = 0,5174), no encontrándose calibración estadística para el PRISM (x2 (8) = 15,0281; p = 0,0133).                 Conclusiones: El PIM y el PIM-2 parecen ser más fiables, en términos de discriminación y calibración, que el PRISM en una muestra heterogénea de niños críticos españoles, aunque estos resultados deben ser confirmados en un estudio más amplio</dc:description>
+<dc:source>An Pediatr (Barc);66(4): 345-350, abr. 2007. ilus, tab</dc:source>
+<dc:identifier>ibc-054424</dc:identifier>
+<dc:title xml:lang="es">Índices pronósticos de mortalidad en cuidados intensivos pediátricos</dc:title>
+<dc:subject>^d28105</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d28632^s22048</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28105^s22066</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d3439^s22045</dc:subject>
+<dc:subject>^d3439^s22066</dc:subject>
+<dc:subject>^d3439^s22083</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d28403^s22083</dc:subject>
+<dc:subject>^d28632^s22083</dc:subject>
+<dc:subject>^d13195</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200704</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-756</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Functional magnetic resonance maps obtained by personal computer</dc:title>
+<dc:creator>Dosdá, Rosa</dc:creator>
+<dc:creator>Manjón, José Vicente</dc:creator>
+<dc:creator>Martí Bonmatí, Luis</dc:creator>
+<dc:creator>Gómez, Francisco José</dc:creator>
+<dc:creator>Robles, Montserrat</dc:creator>
+<dc:creator>Mollá, Enrique</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivos: El estudio de resonancia magnética funcional (RMf) tiene una especial relevancia en el análisis de diversas activaciones cerebrales. En este trabajo se describe el desarrollo de un programa informático para PC que analiza estas imágenes para obtener mapas de activación funcional de una forma sencilla. Material y Métodos: Los mapas de activación se basan en las diferencias temporales de oxihemoglobina en un plano tomográfico. Para detectar estas diferencias se comparan las intensidades registradas repetidamente durante dos estados distintos del cerebro, control y activación. Los experimentos se han realizado en un equipo de RM de 1,5 Teslas. Para comprobar el correcto funcionamiento del programa se han realizado estudios de RMf en cuatro sujetos sanos (12 cortes contiguos, 80 imágenes por corte cada 3,1 segundos, 960 imágenes totales).Todas las imágenes se transfirieron a un PC. El procesamiento de las imágenes se hizo píxel a píxel dentro de cada secuencia, obteniéndose una curva de intensidad/tiempo. El análisis mediante métodos estadísticos (t de Student y correlación cruzada) permite decidir la activación de cada píxel. En la preparación de las imágenes se usó filtrado espacial, filtrado temporal, corrección de la línea base, normalización y segmentación del parénquima. En el posprocesado del resultado se usó la eliminación de píxeles aislados, superposición de una imagen anatómica de mayor resolución espacial y el filtrado anti-aliasing. Resultados: La aplicación (Xfun 1.0, Valencia) se ha desarrollado en el entorno Microsoft Visual C++ 5.0 Developer Studio para Windows NT Workstation. En un ejemplo representativo el programa tardó 8,2 segundos para calcular y presentar los resultados de un estudio completo (12 mapas funcionales). En los experimentos de activación motora y visual se observó la activación correspondiente a regiones próximas al surco central del hemisferio contralateral a la mano que ejercía la acción y en la corteza occipital. Discusión: Si bien existen programas que calculan mapas de activación, el desarrollo de un programa para PC en entorno Windows tiene unas características clave para su utilización rutinaria: facilidad de manejo y alta capacidad de cómputo. La aplicación desarrollada es capaz de discriminar cuáles son las zonas del cerebro que se activan como respuesta a un estímulo de las que no se modifican (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);43(2): 55-61, mar. 2001. ilus</dc:source>
+<dc:identifier>ibc-756</dc:identifier>
+<dc:title xml:lang="es">Mapas de resonancia magnética funcional obtenidos con PC</dc:title>
+<dc:subject>^d29235^s22045</dc:subject>
+<dc:subject>^d22878^s22011</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d19244^s22066</dc:subject>
+<dc:subject>^d23405</dc:subject>
+<dc:subject>^d22317</dc:subject>
+<dc:subject>^d22935^s22074</dc:subject>
+<dc:subject>^d19402^s22066</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d1957^s22045</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d19133^s22074</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22878^s22066</dc:subject>
+<dc:subject>^d14065^s22071</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d33671^s22066</dc:subject>
+<dc:subject>^d33671^s22045</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d14065^s22032</dc:subject>
+<dc:subject>^d22935^s22045</dc:subject>
+<dc:subject>^d729^s22045</dc:subject>
+<dc:subject>^d22397^s22074</dc:subject>
+<dc:subject>^d23321^s22074</dc:subject>
+<dc:subject>^d14065^s22053</dc:subject>
+<dc:subject>^d19200^s22045</dc:subject>
+<dc:subject>^d23405^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200103</dc:date>
+</metadata>
+</record>
+</ibecs-document>

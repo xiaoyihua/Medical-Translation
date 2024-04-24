@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-104201</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Management of needed health care workers in primary care. Automating the calculation</dc:title>
+<dc:description xml:lang="en">The Santa Coloma de Gramenet Primary Care Service has designed a new tool to standardize and automate the process of planning the number of needed health care workers. The tool is divided in two parts: a calculator, which gives guidance on the foreseeable risk depending on the activity and the health care workers&#146; workload, and sentinel indicators; the main is the &#147;welfare basic level&#148;, that is the percentage structure of visited patients and their delay at 2, 3 and 7 calendar days, assessing the impact on the care of the population. The results of its use in the summer of 2010 have demonstrated its efficiency by lowering the needed workers with respect to 2009, achieving a better distribution according to the workload and improving the economic management. Given that the necessary data are accessible through computerized databases and its simple use, we believe it to be exportable to other fields (AU)</dc:description>
+<dc:creator>Serrat, Aureli</dc:creator>
+<dc:creator>Reina, M. Dolores</dc:creator>
+<dc:creator>Fabregat, Amèlia</dc:creator>
+<dc:creator>Moreno, Nemesio</dc:creator>
+<dc:creator>Martín, José Antonio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El Servicio de Atención Primaria de Santa Coloma de Gramenet ha diseñado un sistema que estandariza y automatiza la planificación de coberturas de personal sanitario. Está dividido en dos partes: una calculadora que en función de parámetros de actividad y presión asistencial orienta sobre el riesgo previsible derivado de nuestra planificación, y otra con indicadores centinela; el principal es el «nivel básico asistencial», definido como el porcentaje de usuarios atendidos a 2, 3 y 7 días naturales, y valora su repercusión en la asistencia a la población. Los resultados en el verano de 2010 muestran un aumento de la eficiencia al disminuir la plantilla presencial respecto al año 2009, conseguir una mejor distribución de ésta en el periodo acorde con la actividad realizada y mejorar la gestión presupuestaria. Puesto que los datos necesarios están disponibles y su cálculo es sencillo, puede ser exportable a todo nuestro ámbito (AU)</dc:description>
+<dc:source>Gac Sanit;25(5): 432-435, sep. - oct. 2011. ilus, tab</dc:source>
+<dc:identifier>ibc-104201</dc:identifier>
+<dc:title xml:lang="es">Gestión de coberturas de personal en atención primaria. Automatización del cálculo</dc:title>
+<dc:subject>^d6453^s22049</dc:subject>
+<dc:subject>^d32818^s22083</dc:subject>
+<dc:subject>^d11756^s22060</dc:subject>
+<dc:subject>^d16855</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29745^s22083</dc:subject>
+<dc:subject>^d30349^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201110</dc:date>
+</metadata>
+</record>
+</ibecs-document>

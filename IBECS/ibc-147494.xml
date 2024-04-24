@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-147494</identifier>
+<setSpec>0212-6567</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Patients with advanced cancer. Can survival be predicted?</dc:title>
+<dc:description xml:lang="en">When establishing a prognosis, two main considerations should be taken into account: the type of disease and the characteristics of the individual suffering from the disease. Numerous studies have analyzed the variables that best predict survival in patients with advanced-stage cancer. These studies indicate that there is no relationship between the histology of the tumor and survival in this phase of the disease. The parameters with possible predictive value that have been studied to date can be grouped into three distinct categories: clinical signs and symptoms, laboratory data, and the physician's clinical impression. Two prognostic indexes have also been published: the Palliative Prognostic Score (PaP) and the Palliative Prognostic Index (PPI), which are no more than models that integrate distinct variables belonging to these categories, with different specific weights. The utility of these indexes in daily clinical practice remains to be determined (AU)</dc:description>
+<dc:creator>López Romero, Andrés</dc:creator>
+<dc:creator>Miguel Sánchez, Cristina de</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">A la hora de establecer un pronóstico, es necesario tener en cuenta dos aspectos fundamentales: la naturaleza de la enfermedad y las peculiaridades propias del individuo que la presenta. Numerosos estudios han analizado las variables que mejor predicen el tiempo de supervivencia en el paciente oncológico en situación avanzada. Estos estudios indican que no hay relación entre la histología del tumor y la supervivencia en esta fase de la enfermedad. Los parámetros con posible valor predictivo que se han estudiado hasta la fecha se pueden agrupar en 3 bloques diferentes: signos y síntomas clínicos, datos analíticos e impresión clínica del profesional. Se han publicado también 2 índices pronósticos: Palliative Prognostic Score (PaP) y Palliative Prognostic Index (PPI), que no son más que modelos que integran distintas variables pertenecientes a estos bloques, con distinto peso específico, cuya utilidad en la práctica clínica diaria aún está por definir (AU)</dc:description>
+<dc:source>Aten Primaria;38(supl.2): 2-6, nov. 2006. tab</dc:source>
+<dc:identifier>ibc-147494</dc:identifier>
+<dc:title xml:lang="es">El paciente con cáncer avanzado. ¿Podemos predecir la supervivencia?</dc:title>
+<dc:subject>^d10353^s22074</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d28604</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28628</dc:subject>
+<dc:subject>^d9562^s22080</dc:subject>
+<dc:subject>^d14105^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200611</dc:date>
+</metadata>
+</record>
+</ibecs-document>

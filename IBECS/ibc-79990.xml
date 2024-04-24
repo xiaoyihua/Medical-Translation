@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-79990</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">In-hospital prognosis in non-ST-segment elevation acute coronary syndrome derived using a new risk score based on electrocardiographic parameters obtained at admission</dc:title>
+<dc:description xml:lang="en">Several electrocardiographic variables are of prognostic value in non-ST-segment elevation acute coronary syndrome (NSTEACS). From observations in 427 patients, we developed a new risk score (the ECG-RS) based on admission ECG findings that can be used to determine the likelihood of death or recurrent ischemia during hospitalization, which occurred in 36% of patients. Logistic regression analysis, which considered seven electrocardiographic variables and variables from the Thrombolysis in Myocardial Infarction (TIMI) risk score, identified the following significant predictors: corrected QT interval (QTc) &amp;#8805;450 ms (odds ratio 4.2, P &lt; .001), ST-segment depression &gt;0.5 mm (odds ratio 2.7, P &lt; .001), and left atrial enlargement (odds ratio 1.8, P=.005). After taking the odds ratios into consideration, we awarded 3 points for a QTc &amp;#8805;450 ms, 2 points for ST-segment depression &gt;0.5 mm, and 1 point for left atrial enlargement. When patients were divided into three groups on the basis of their ECG-RSs (i.e. &amp;#8804;1, 2-3 and &amp;#8805;4), the risk of death or recurrent ischemia was significantly different between the groups, at 11%, 27% and 58%, respectively (P &lt; .001). In conclusion, the new ECG-RS provides a simple, rapid and accurate means of determining prognosis in patients with NSTEACS (AU)</dc:description>
+<dc:creator>González Matas, José Manuel</dc:creator>
+<dc:creator>Jiménez-Candil, Javier</dc:creator>
+<dc:creator>Hernández Hernández, Jesús</dc:creator>
+<dc:creator>Martín, Francisco</dc:creator>
+<dc:creator>Martín-Luengo, Cándido</dc:creator>
+<dc:creator>Martín, Ana</dc:creator>
+<dc:creator>Cruz González, Ignacio</dc:creator>
+<dc:creator>Pabón, Pedro</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Diferentes variables electrocardiográficas tienen capacidad predictiva en el síndrome coronario agudo sin elevación del ST (SCASEST). Tras analizar a 427 pacientes, construimos una escala de riesgo (ER) basada en el ECG al ingreso (ER-ECG) para definir la probabilidad de muerte o isquemia recurrente (M-IsqR) durante la hospitalización, que fue del 36%. En un análisis de regresión logística que incluyó siete variables electrocardiográficas y las de la ER TIMI, alcanzaron la significación estadística: QTc &amp;#8805; 450 ms (odds ratio [OR] = 4,2; p &lt; 0,001); descenso del ST &gt; 0,5 (OR = 2,7; p &lt; 0,001) y crecimiento auricular izquierdo (OR = 1,8; p = 0,005). En función de la OR, se otorgó 3 puntos a QTc &amp;#8805; 450 ms, 2 a descenso del ST &gt; 0,5 mm y 1 a crecimiento auricular izquierdo. Agrupando a los pacientes según la ER-ECG en: &amp;#8804; 1, 2-3, &amp;#8805; 4, ésta discriminó adecuadamente la probabilidad de M-IsqR: el 11 frente al 27 frente al 58% (p &lt; 0,001). Por lo tanto, esta ER-ECG permite estratificar el pronóstico del SCASEST de una forma simple, rápida y precisa (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;63(7): 851-855, jul. 2010. tab, ilus</dc:source>
+<dc:identifier>ibc-79990</dc:identifier>
+<dc:title xml:lang="es">Pronóstico hospitalario del síndrome coronario agudo sin elevación del segmento ST determinado por una nueva escala de riesgo integrada por variables electrocardiográficas obtenidas al ingreso</dc:title>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d52613^s22012</dc:subject>
+<dc:subject>^d52613^s29166</dc:subject>
+<dc:subject>^d52613^s22032</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d52613^s22016</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24811</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d6493^s22031</dc:subject>
+<dc:subject>^d4634^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201007</dc:date>
+</metadata>
+</record>
+</ibecs-document>

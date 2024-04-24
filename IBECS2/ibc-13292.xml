@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-13292</identifier>
+<setSpec>0004-0614</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Comparison of prostate volume measurements by transrectal or abdominal ultrasound and its involvement in PSA density assessment for prostate cancer diagnosis</dc:title>
+<dc:creator>González Galán, Arturo</dc:creator>
+<dc:creator>Lennie Zucharino, Alberto</dc:creator>
+<dc:creator>Rodríguez Patrón Rodríguez, Rafael</dc:creator>
+<dc:creator>Mayayo Dehesa, Teodoro</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Iniestares, S. A.</dc:publisher>
+<dc:description xml:lang="es">OBJETIVO: En este trabajo se pretende comparar la densidad de PSA empleando el volumen obtenido por vía transrectal y por vía abdominal para el diagnóstico de cáncer prostático. MÉTODOS: De forma prospectiva se seleccionaron 420 pacientes consecutivos que en el momento de realizarse una biopsia prostática o una ecografía urológica tuvieran realizada la otra prueba en un plazo no superior a 6 meses y no hubieran sido sometidos a tratamiento quirúrgico, hormonal o de radioterapia. A partir de estos datos se ha obtenido la DPSA (PSA/volumen) con el volumen calculado según la fórmula V = diámetro anteroposterior²x diámetro transversal/2, empleando las medidas por vía abdominal y transrectal y se han comparado estos datos entre sí. RESULTADOS: Presentaban cáncer 140 pacientes (33,8 por ciento). Empleando la prueba t para comparación de medias se ha encontrado que la media de la diferencia para el diámetro anteroposterior es de 0,27 cm, 0,39 cm para el diámetro transversal, 3,36 cc para el volumen y 0,014 para la DPSA, siendo en todos los casos significativa (p&lt;0,0001). Al calcular las curvas ROC para la DPSA transrectal y DPSA abdominal se han obtenido áreas de 0,66 para la primera y 0,67 para la abdominal. Para puntos de corte de DPSA de 0,15 la sensibilidad es de, 0,77 para la obtenida por vía transrectal y 0,75 por vía abdominal y la especificidad de 0,40 y 0,49 respectivamente en pacientes con PSA entre 4 y 10 ng/ml. CONCLUSIONES: A pesar de encontrar diferencias significativas en todas las medidas entre la vía transrectal y abdominal, atribuible al elevado número de pacientes, estas diferencias tienen poca relevancia como apuntan el resto de resultados. En nuestra experiencia el cálculo de la densidad de PSA por vía abdominal tiene la misma utilidad que por vía transrectal y evita el mayor inconveniente atribuido a esta que es la realización de la ecografía transrectal (AU)</dc:description>
+<dc:source>Arch Esp Urol;55(7): 797-806, sept. 2002.</dc:source>
+<dc:identifier>ibc-13292</dc:identifier>
+<dc:title xml:lang="es">Comparación del volumen prostático medido por ecografía transrectal y abdominal y su implicación en la determinación de la densidad de PSA para el diagnóstico del cáncer prostático</dc:title>
+<dc:subject>^d24373</dc:subject>
+<dc:subject>^d28614</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d955</dc:subject>
+<dc:subject>^d11910</dc:subject>
+<dc:subject>^d12427</dc:subject>
+<dc:subject>^d238</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d11914</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d1731</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d33097</dc:subject>
+<dc:subject>^d30596</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200209</dc:date>
+</metadata>
+</record>
+</ibecs-document>

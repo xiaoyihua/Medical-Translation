@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150087</identifier>
+<setSpec>0009-739X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Usefulness of administrative databases for risk adjustment of adverse events in surgical patients</dc:title>
+<dc:description xml:lang="en">Purpose: The aim of this study was to assess the usefulness of clinical-administrative databases for the development of risk adjustment in the assessment of adverse events in surgical patients. Methods: The study was conducted at the Hospital of Navarra, a tertiary teaching hospital in northern Spain. We studied 1602 hospitalizations of surgical patients from 2008 to 2010. We analysed 40 comorbidity variables included in the National Surgical Quality Improvement (NSQIP) Program of the American College of Surgeons using 2 sources of information: The clinical and administrative database (CADB) and the data extracted from the complete clinical records (CR), which was considered the gold standard. Variables were catalogued according to compliance with the established criteria: sensitivity, positive predictive value and kappa coefficient &gt; 0.6. Results: The average number of comorbidities per study participant was 1.6 using the CR and 0.95 based on CADB (p &lt; .0001). Thirteen types of comorbidities (accounting for 8% of the comorbidities detected in the CR) were not identified when the CADB was the source of information. Five of the 27 remaining comorbidities complied with the 3 established criteria; 2 pathologies fulfilled 2 criteria, whereas 11 fulfilled 1, and 9 did not fulfil any criterion. Conclusion: CADB detected prevalent comorbidities such as comorbid hypertension and diabetes. However, the CABD did not provide enough information to assess the variables needed to perform the risk adjustment proposed by the NSQIP for the assessment of adverse events in surgical patients (AU)</dc:description>
+<dc:creator>Merino-Peralta, Asunción</dc:creator>
+<dc:creator>Martin-Vizcaíno, Marta P</dc:creator>
+<dc:creator>Zabalza-López, Pedro</dc:creator>
+<dc:creator>Tirapu-León, Belén</dc:creator>
+<dc:creator>Abad-Vicente, Francisco J</dc:creator>
+<dc:creator>Oteiza-Martínez, Fabiola</dc:creator>
+<dc:creator>Rodrigo-Rincón, Isabel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Conocer la validez de las bases de datos clínico-administrativas para realizar ajustes de riesgo en el estudio de los efectos adversos que pueden sufrir los pacientes intervenidos quirúrgicamente. Métodos: Se estudiaron 1.602 episodios de hospitalización de pacientes intervenidos quirúrgicamente durante los años 2008 y 2010 en un hospital terciario situado en el norte de España. Se analizaron 40 variables de comorbilidades que recoge el Colegio Americano de Cirujanos en el National Surgical Quality Improvement Program (NSQIP) a través de 2 fuentes de información: el conjunto mínimo básico de datos (CMBD) y los datos extraídos de la historia clínica completa (HC), considerada como patrón oro. Se catalogaron las variables en función de que los valores de sensibilidad (S), valor predictivo positivo (VPP) y kappa (K) fueran superiores a 0,6. Resultados: La media de comorbilidades por paciente fue de 1,6 mediante la HC y de 0,95 a través del CMBD (p &lt; 0,0001). El CMBD no detectó ningún caso en 13 comorbilidades (estas supusieron el 8% de las comorbilidades detectadas con la HC). De las 27 comorbilidades restantes, 5 cumplieron los 3 criterios establecidos (S, VPP y k &gt; 0,6), 2 enfermedades cumplieron 2 criterios, 12 cumplieron al menos uno y 8 no cumplieron ninguno. Conclusión: Las bases de datos clínico-administrativas detectaron comorbilidades como diabetes o hipertensión arterial pero no aportaron suficiente información para recoger las variables necesarias para hacer el ajuste de riesgo propuesto por el NSQIP para la medición de los efectos adversos en pacientes quirúrgicos (AU)</dc:description>
+<dc:source>Cir. Esp. (Ed. impr.);94(3): 165-174, mar. 2016. tab, ilus</dc:source>
+<dc:identifier>ibc-150087</dc:identifier>
+<dc:title xml:lang="es">Validez de las bases de datos administrativas para realizar ajustes de riesgo en el análisis de los efectos adversos producidos en pacientes quirúrgicos</dc:title>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d22519^s22048</dc:subject>
+<dc:subject>^d^s22083</dc:subject>
+<dc:subject>^d^s22020</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22519^s22074</dc:subject>
+<dc:subject>^d33619^s22074</dc:subject>
+<dc:subject>^d33619^s22048</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24572</dc:subject>
+<dc:subject>^d22519^s22066</dc:subject>
+<dc:subject>^d22519^s22083</dc:subject>
+<dc:subject>^d33619^s22083</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d35256</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201603</dc:date>
+</metadata>
+</record>
+</ibecs-document>

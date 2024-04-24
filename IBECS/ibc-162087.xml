@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-162087</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Analyzing recurrent events when the history of previous episodes is unknown or not taken into account: proceed with caution</dc:title>
+<dc:description xml:lang="en">Objetivo: A menudo los investigadores en salud pública están interesados en examinar el efecto de varias exposiciones en la incidencia de un evento recurrente. El objetivo de este estudio es evaluar el funcionamiento de los modelos de riesgo basal común al estimar el efecto de múltiples exposiciones sobre el riesgo de presentar un episodio de un evento recurrente, cuando existe dependencia del evento y los antecedentes de los episodios por sujeto son desconocidos o bien no se tienen en cuenta. Métodos: Mediante un estudio exhaustivo de simulación, utilizando modelos de riesgo basal específico como referencia, se evalúa el rendimiento de los modelos de riesgo basal común a través de diversos criterios: sesgo, error cuadrático medio, cobertura, longitud de los intervalos de confianza y compatibilidad con el supuesto de riesgos proporcionales. Resultados: El sesgo empeora a medida que aumenta la dependencia del evento, llevando a una sobreestimación considerable del efecto de la exposición; los niveles de cobertura y el cumplimiento del supuesto de riesgos proporcionales son bajos o muy bajos, lo que empeora con el aumento de la dependencia del evento, el efecto a estimar y el tamaño muestral. Conclusiones: El uso de modelos de riesgo basal común no puede recomendarse cuando analizamos eventos recurrentes en presencia de dependencia del evento. Es importante tener acceso a los antecedentes de episodios previos por sujeto, ya que ello puede permitir obtener mejores estimaciones de los efectos de las exposiciones (AU)</dc:description>
+<dc:creator>Navarro, Albert</dc:creator>
+<dc:creator>Casanovas, Georgina</dc:creator>
+<dc:creator>Moriña, David</dc:creator>
+<dc:creator>Alvarado, Sergio</dc:creator>
+<dc:language>en</dc:language>
+<dc:source>Gac Sanit;31(3): 227-234, mayo-jun. 2017. ilus, tab</dc:source>
+<dc:identifier>ibc-162087</dc:identifier>
+<dc:title xml:lang="es">Análisis de eventos recurrentes cuando la historia de episodios previos es desconocida o no se tiene en cuenta: proceder con cautela</dc:title>
+<dc:subject>^d24890</dc:subject>
+<dc:subject>^d28565</dc:subject>
+<dc:subject>^d33939^s22045</dc:subject>
+<dc:subject>^d55021^s22045</dc:subject>
+<dc:subject>^d12428</dc:subject>
+<dc:subject>^d55850</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201706</dc:date>
+</metadata>
+</record>
+</ibecs-document>

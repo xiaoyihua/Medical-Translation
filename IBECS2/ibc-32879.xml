@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-32879</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Longitudinal and growth trajectory data analysis. Traditional approach and current proposals</dc:title>
+<dc:description xml:lang="en">In this article, the main models for analysing longitudinal and growth trajectory data are examined. We start from a traditional approach that include univariate and multivariate analysis of variance for repeated measures, to continue with generalized MANOVA and with two stage-multilevel model, which constitutes the basis for the development of the general linear mixed model. Lastly, multilevel models for longitudinal and growth trajectory data are studied. The main characteristics as well as assumptions of each model are described, trying to make it clear the reasons why the successive models have appeared and to establish the main similarities and differences between them. It is concluded that hierarchical linear models for longitudinal data constitute an excellent strategy to do applied research in the realm of social and behavioural sciences (AU)</dc:description>
+<dc:creator>Arnau, Jaume</dc:creator>
+<dc:creator>Balluerka, Nekane</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En el presente trabajo se examinan los principales modelos de análisis aplicados a datos longitudinales y de curvas de crecimiento. Se parte de un enfoque clásico que abarca los modelos de análisis univariado y multivariado de la variancia de medidas repetidas, para proseguir con el MANOVA generalizado (GMANOVA) y con el modelo multinivel de dos estadíos, que constituye la base para el desarrollo del modelo general lineal mixto. Por último, se aborda el modelo multinivel para datos longitudinales y de curvas de crecimiento. Se describen las características y los supuestos esenciales de cada modelo, tratando de poner de manifiesto las razones por las que han ido emergiendo los sucesivos modelos y de establecer las principales similitudes y diferencias existentes entre ellos. Se concluye que los modelos lineales jerárquicos para datos longitudinales constituyen una excelente alternativa para realizar investigaciones aplicadas en el ámbito de las ciencias sociales y del comportamiento (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);16(1): 156-162, feb. 2004.</dc:source>
+<dc:identifier>ibc-32879</dc:identifier>
+<dc:title xml:lang="es">Análisis de datos longitudinales y de curvas de crecimiento. Enfoque clásico y propuestas actuales</dc:title>
+<dc:subject>^d12025^s22083</dc:subject>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d28620</dc:subject>
+<dc:subject>^d12024^s22083</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d19062</dc:subject>
+<dc:subject>^d24535</dc:subject>
+<dc:subject>^d28630</dc:subject>
+<dc:subject>^d29161</dc:subject>
+<dc:subject>^d12024^s22045</dc:subject>
+<dc:subject>^d28597^s22074</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:subject>^d12025^s22045</dc:subject>
+<dc:subject>^d28597^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200402</dc:date>
+</metadata>
+</record>
+</ibecs-document>

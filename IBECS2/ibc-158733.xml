@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-158733</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Economic impact of nosocomial bacteraemia. A comparison of three calculation methods</dc:title>
+<dc:description xml:lang="en">Introduction: The excess cost associated with nosocomial bacteraemia (NB) is used as a measurement of the impact of these infections. However, some authors have suggested that traditional methods overestimate the incremental cost due to the presence of various types of bias. The aim of this study was to compare three assessment methods of NB incremental cost to correct biases in previous analyses. Methods: Patients who experienced an episode of NB between 2005 and 2007 were compared with patients grouped within the same All Patient Refined-Diagnosis-Related Group (APR-DRG) without NB. The causative organisms were grouped according to the Gram stain, and whether bacteraemia was caused by a single or multiple microorganisms, or by a fungus. Three assessment methods are compared: stratification by disease; econometric multivariate adjustment using a generalised linear model (GLM); and propensity score matching (PSM) was performed to control for biases in the econometric model. Results: The analysis included 640 admissions with NB and 28,459 without NB. The observed mean cost was &#128;24,515 for admissions with NB and &#128;4,851.6 for controls (without NB). Mean incremental cost was estimated at &#128;14,735 in stratified analysis. Gram positive microorganism had the lowest mean incremental cost, &#128;10,051. In the GLM, mean incremental cost was estimated as &#128;20,922, and adjusting with PSM, the mean incremental cost was &#128;11,916. The three estimates showed important differences between groups of microorganisms. Conclusions:  Using enhanced methodologies improves the adjustment in this type of study and increases the value of the results (AU)</dc:description>
+<dc:creator>Riu, Marta</dc:creator>
+<dc:creator>Knobel, Hernando</dc:creator>
+<dc:creator>Castells, Xavier</dc:creator>
+<dc:creator>Cots, Francesc</dc:creator>
+<dc:creator>Sala, Maria</dc:creator>
+<dc:creator>Chiarello, Pietro</dc:creator>
+<dc:creator>Terradas, Roser</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: El coste incremental que comportan las bacteriemias nosocomiales (BN) se utiliza como medida del impacto de estas infecciones. Los métodos tradicionales de cálculo de coste sobrestiman este incremento al no contemplar variables confusoras. El objetivo de este trabajo es comparar 3 metodologías de cálculo del coste incremental de la BN para corregir los sesgos presentes en análisis previos. Métodos: Se compararon los pacientes que presentaron algún episodio de BN entre 2005 y 2007, con los pacientes con la misma patología sin BN. Los microorganismos causantes se agruparon según la tinción Gram y según si la bacteriemia era monomicrobiana o polimicrobiana, o producida por un hongo. Se compararon 3 métodos de cálculo: 1)estratificación por patología; 2)ajuste econométrico multivariante mediante un modelo lineal generalizado (MLG), y 3)un propensity score matching (PSM) antes del análisis multivariante para controlar los sesgos. Resultados: Se analizaron 640 hospitalizaciones con BN y 28.459 sin BN; el coste medio observado fue de 24.515&#128; y 4.851,6&#128;, respectivamente. En la estratificación por patología, el coste incremental medio estimado fue de 14.735&#128;; el grupo de microorganismos que ocasionó menor coste incremental fue el de grampositivos, con 10.051&#128;. En el MLG el coste incremental medio estimado fue de 20.922&#128;, mientras que utilizando PSM se estimó un coste incremental medio de 11.916&#128;. En las 3 estimaciones hay diferencias importantes según el grupo de microorganismos. Conclusiones: Utilizar metodologías más elaboradas mejora el ajuste en este tipo de estudios e incrementa el valor de los resultados obtenidos (AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;34(10): 620-625, dic. 2016. graf, tab</dc:source>
+<dc:identifier>ibc-158733</dc:identifier>
+<dc:title xml:lang="es">Impacto económico de las bacteriemias nosocomiales. Comparación de tres metodologías de cálculo</dc:title>
+<dc:subject>^d16648^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4537^s22066</dc:subject>
+<dc:subject>^d30241^s22080</dc:subject>
+<dc:subject>^d28477^s22080</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201612</dc:date>
+</metadata>
+</record>
+</ibecs-document>

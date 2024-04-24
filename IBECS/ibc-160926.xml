@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-160926</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Immunohistological analysis of intracoronary thrombus aspirate in STEMI patients: Clinical implications of pathological findings</dc:title>
+<dc:description xml:lang="en">Introduction and objectives: Thrombus aspiration allows analysis of intracoronary material in patients with ST&#150;segment elevation myocardial infarction. Our objective was to characterize this material by immunohistology and to study its possible association with patient progress. Methods: This study analyzed a prospective cohort of 142 patients undergoing primary angioplasty with positive coronary aspiration. Histological examination of aspirated samples included immunohistochemistry stains for the detection of plaque fragments. The statistical analysis comprised histological variables (thrombus age, degree of inflammation, presence of plaque), the patients&#146; clinical and angiographic features, estimation of survival curves, and logistic regression analysis. Results: Among the histological markers, only the presence of plaque (63% of samples) was associated with postinfarction clinical events. Factors associated with 5-year event&#150;free survival were the presence of plaque in the aspirate (82.2% vs 66.0%; P = .033), smoking (82.5% smokers vs 66.7% nonsmokers; P = .036), culprit coronary artery (83.3% circumflex or right coronary artery vs 68.5% anterior descending artery; P = .042), final angiographic flow (80.8% II-III vs 30.0% 0&#150;I; P &lt; .001) and left ventricular ejection fraction &amp;#8805; 35% at discharge (83.7% vs 26.7%; P &lt; .001). On multivariable Cox regression analysis with these variables, independent predictors of event-free survival were the presence of plaque (hazard ratio, 0.37; 95%CI, 0.18-0.77; P = .008), and left ventricular ejection fraction (hazard ratio, 0.92; 95%CI, 0.88-0.95; P &lt; .001). Conclusions: The presence of plaque in the coronary aspirate of patients with ST elevation myocardial infarction may be an independent prognostic marker. CD68 immunohistochemical stain is a good method for plaque detection (AU)</dc:description>
+<dc:creator>Bellas, Carmen</dc:creator>
+<dc:creator>Goicolea, Francisco Javier</dc:creator>
+<dc:creator>Muñiz, Ana</dc:creator>
+<dc:creator>García Touchard, Arturo</dc:creator>
+<dc:creator>Mingo, Susana</dc:creator>
+<dc:creator>Oteo, Juan Francisco</dc:creator>
+<dc:creator>Royuela, Ana</dc:creator>
+<dc:creator>Goicolea, Leyre</dc:creator>
+<dc:creator>Abraira, Víctor</dc:creator>
+<dc:creator>Blasco, Ana</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos: La tromboaspiración permite analizar el material intracoronario en pacientes con infarto agudo de miocardio con elevación del segmento ST. Nuestro objetivo fue caracterizar este material mediante inmunohistología y estudiar su posible relación con el pronóstico. Métodos: Cohorte prospectiva de 142 pacientes sometidos a angioplastia primaria con tromboaspiración positiva. El examen histológico del material aspirado incluyó técnicas de inmunohistoquímica para detectar fragmentos de placa. Se estudiaron variables histológicas (antigüedad del trombo, grado de inflamación, presencia de placa), clínicas y angiográficas de los pacientes. Se realizaron análisis de supervivencia y regresión logística. Resultados: De los marcadores histológicos, solo la presencia de placa (el 63% de las muestras) se relacionó con los eventos clínicos. Los factores asociados a la supervivencia libre de eventos a los 5 años fueron: presencia de placa (el 82,2 frente al 66,0%; p = 0,033), tabaquismo (el 82,5 frente al 66,7%; p = 0,036), arteria responsable del infarto (el 83,3% en infartos de circunfleja o coronaria derecha frente al 68,5% de descendente anterior; p = 0,042); flujo angiográfico final (el 80,8% de II&#150;III frente al 30,0% de 0&#150;I; p &lt; 0,001) y fracción de eyección &amp;#8805; 35% (el 83,7 frente al 26,7%; p &lt; 0,001). En el análisis multivariable de regresión (Cox) con dichas variables, se identificaron la presencia de placa (HR = 0,37; IC95%, 0,18&#150;0,77; p = 0,008) y la fracción de eyección (HR = 0,92; IC95%, 0,88-0,95; p &lt; 0,001) como predictores independientes de supervivencia libre de eventos. Conclusiones: La presencia de placa de ateroma en el aspirado coronario de los pacientes con infarto de miocardio transmural puede ser un marcador pronóstico independiente, y el análisis inmunohistoquímico con CD68 es un buen método para detectarlo (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;70(3): 170-177, mar. 2017. graf, ilus, tab</dc:source>
+<dc:identifier>ibc-160926</dc:identifier>
+<dc:title xml:lang="es">Análisis inmunohistológico del aspirado intracoronario en pacientes con IAMCEST: implicaciones clínicas de los hallazgos anatomopatológicos</dc:title>
+<dc:subject>^d30853^s22045</dc:subject>
+<dc:subject>^d54003^s22053</dc:subject>
+<dc:subject>^d9395^s22053</dc:subject>
+<dc:subject>^d3346^s22053</dc:subject>
+<dc:subject>^d14312^s22053</dc:subject>
+<dc:subject>^d22921^s22045</dc:subject>
+<dc:subject>^d29179^s22045</dc:subject>
+<dc:subject>^d13781^s22074</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201703</dc:date>
+</metadata>
+</record>
+</ibecs-document>

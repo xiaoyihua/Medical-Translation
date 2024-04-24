@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-104044</identifier>
+<setSpec>1137-6821</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Biological markers for predicting bacterial infection, bacteremia, and severity of infection in the emergency department</dc:title>
+<dc:description xml:lang="en">Objectives: To analyze the utility of using clinical and laboratory variables (C-reactive protein [CRP], procalcitonin [PCT], proadrenomedullin [proADM] and neopterin concentrations) as predictors in cases of bacterial infection in an emergency department. Methods: The patients were enrolled from the emergency department when blood was extracted for culture. Were corded age; sex; Charlson index, white blood cell count, presence of band cells, neutrophil count, microbiology findings and CRP, PCT, proADM, and neopterin concentrations. Severity of infection was defined by a patients admission to the intensive care unit, death, or emergency surgery. The data were analyzed by univariate and multivariate analyses; the area under the receiver operating characteristic curve and diagnostic yield were calculated for each variable. Results: We included 412 patients with bacterial infection confirmed by microbiology (28.3%), possible infection not confirmed by microbiology (39.3%), fever of unknown origin (9.9%), and no bacterial infection (22.3%). Blood cultures were positive in 53 (12.8%) and 34 infections (8.2%) were considered severe. The independent predictors of bacterial infection were CRP ¡Ý70 mg/L, PCT ¡Ý0.4 ng/mL, and presence of band cells, although diagnostic precision was limited. The independent variables that best predicted bacteremia were PCT &gt;1 ng/mL and proADM &gt;2 nmol/L; these variables had negative predictive values of 94% and 93%, respectively. The variables that predicted severity of infection were PCT&gt;1 ng/mL and proADM &gt;1.94 nmol/L, which both had negative predictive values around 96%. Conclusions: CRP and PCT concentrations and the presence of band cells can suggest bacterial infection in emergency patients, although the diagnostic value of these markers is limited. However, the diagnostic yields are high for PCT and proADM concentrations and these measurements can be useful for ruling out bacteremia and severity of infection (AU)</dc:description>
+<dc:creator>Tudela, P</dc:creator>
+<dc:creator>Gimenez, M</dc:creator>
+<dc:creator>Tor, J</dc:creator>
+<dc:creator>Lacoma, A</dc:creator>
+<dc:creator>Mudol, J. M</dc:creator>
+<dc:creator>Prat, C</dc:creator>
+<dc:creator>Dominguez, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Analizar la posible utilidad de algunas variables clínicas y de laboratorio, así como la proteina C reactiva (PCR), la procalcitonina (PCT), la proadrenomedulina (proADM) y la neopterina para predecir infección bacteriana (IB), bacteriemia y gravedad en el servicio de urgencias (SU). Método: Se incluyo a los pacientes atendidos en el SU en los que se tomaron muestras para hemocultivos, de quienes se registro: edad, sexo, índice de Charlson, leucocitosis, células en banda, neutropenia, resultados microbiologicos y niveles de PCR, PCT, proADM y neopterina. La existencia de gravedad se definio como un ingreso en la unidad de cuidados intensivos, fallecimiento o necesidad de cirugia urgente. Se realizo  el análisis univariado y multivariado, las curvas ROC y se calculo el rendimiento diagnostico. Resultados: Se incluyo a 412 pacientes, que fueron clasificados en cuatro grupos: (I)infecciones (..) (AU)</dc:description>
+<dc:source>Emergencias (Sant Vicenç dels Horts);24(5): 348-356, oct. 2012. tab</dc:source>
+<dc:identifier>ibc-104044</dc:identifier>
+<dc:title xml:lang="es">Biomarcadores para la prediccion en urgenciasde infeccion bacteriana, bacteriemia y gravedad</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d4713^s22045</dc:subject>
+<dc:subject>^d23568^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30241^s22080</dc:subject>
+<dc:subject>^d4707^s22045</dc:subject>
+<dc:subject>^d1447^s22080</dc:subject>
+<dc:subject>^d18001</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201210</dc:date>
+</metadata>
+</record>
+</ibecs-document>

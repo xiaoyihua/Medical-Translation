@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-046606</identifier>
+<setSpec>0034-0618</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Glutamatergic hypothesis of schizophrenia: molecular mechanisms of glycine transport in glutamatergic synapses</dc:title>
+<dc:description xml:lang="en">During the last few years, evidence has been obtained for a relationship between    hypofunction of the NMDA type of glutamate receptor and schizophrenia. The    glycine binding site on NMDAR and the glycine transporter GLYT1 represent some    of the most promising therapeutic targets for developing new anti-schizophrenic    drugs. Pharmacological inhibition of GLYT1 increases glycine levels in the    surrounding of NMDAR and stimulates its function. Previous studies performed    indicated that GLYT1 is physically associated with NMDAR, through the scaffolding    protein PSD-95, due to the common interaction of both GLYT1 and NMDAR with    PDZ domains of PSD-95. The objective of this research was centred on the study    of the interaction of GLYT1 with other PDZ proteins, in special those that also    interact with NMDAR. Particularly, we were interested the heteromeric tricomplex    Mint-MALS-CASK. We analyzed the structural basis of these interactions and    the functional consequence on GLYT1 in aspects such as the intracellular traffic,    the turnover on the cell surface and the inclusion in specific microdomains of the    membrane. In this way we analyzed the possible existence of common steps in    GLYT1 and NMDAR processing. To do that we used molecular and cellular biology    techniques, such as cotransfections in cellular systems of DNA constructs obtained    by site directed mutagenesis and immunoprecipitations</dc:description>
+<dc:creator>Giménez, Cecilio</dc:creator>
+<dc:creator>Cubelos, Beatriz</dc:creator>
+<dc:creator>Zafra, Francisco</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Durante los últimos años, se han obtenido evidencias que relacionan la hipofunción    del receptor de glutamato tipo NMDA (NMDAR) con la esquizofrenia. Los    receptores NMDA necesitan para su estimulación la unión conjunta tanto de glutamato    como de glicina, ya que ambos poseen en el receptor un sitio de unión    específico. Puesto que la inhibición farmacológica de GLYT1 aumenta los niveles    de glicina en los alrededores del receptor de glutamato tipo NMDA estimulando su    función, el transportador de glicina GLYT1 representa una de las dianas terapéuticas    más prometedoras para el desarrollo de nuevos fármacos antipsicóticos. Previamente    hemos demostrado que GLYT1 se encuentra físicamente asociado con    NMDAR a través de la proteína de adaptadora PSD-95 en neuronas glutamatérgicas.    El objetivo de este trabajo se centra en el estudio de la interacción de GLYT1    con otras proteínas, especialmente con aquellas que también interaccionan con el receptor de glutamato tipo NMDA. Hemos encontrado que GLYT1 interacciona con    el tricomplejo heterotrimérico Mint-MALS-CASK. Este complejo está implicado en    el transporte polarizado del receptor del glutamato tipo NMDA al terminal postsináptico.    Puesto que GLYT1 interacciona simultáneamente con NMDAR y con el    complejo Mint-MALS-CASK, proponemos que NMDAR y GLYT1 son cotransportados    al terminal sináptico, así en todo momento NMDAR puede ser regulado por    GLYT1. Estos resultados refuerzan la importancia de GLYT1 en la regulación de    NMDAR y su potencial como blanco de acción de fármacos antipsicóticos</dc:description>
+<dc:source>An Real Acad Farm;72(1): 5-25, ene. 2006. ilus</dc:source>
+<dc:identifier>ibc-046606</dc:identifier>
+<dc:title xml:lang="es">Hipótesis glutamatérgica de la esquizofrenia: mecanismos moleculares del transporte de glicina en las sinapsis glutamatérgicas</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d30561^s22015</dc:subject>
+<dc:subject>^d6126^s22007</dc:subject>
+<dc:subject>^d30889^s22015</dc:subject>
+<dc:subject>^d6141^s22007</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28224^s22074</dc:subject>
+<dc:subject>^d14542^s22079</dc:subject>
+<dc:subject>^d12940^s22032</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200601</dc:date>
+</metadata>
+</record>
+</ibecs-document>

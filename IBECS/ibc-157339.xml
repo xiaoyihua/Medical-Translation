@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-157339</identifier>
+<setSpec>1130-0558</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Precision in orbital reconstruction with preformed titanium meshes</dc:title>
+<dc:description xml:lang="en">Objectives. To assess reconstruction with preformed orbital titanium meshes in our patients. To evaluate the influence of surgical planning and intraoperative navigation in orbital reconstruction accuracy. Material and method. Patients with unilateral orbital floor fractures reconstructed with preformed titanium meshes between 2009 and 2014 were included. Computed tomographies (CT) were analyzed with iPlan 3.0 (BrainLab). Orbital mesh was imported as a Standard Tesellation Language (STL) object and it was placed in the best position over the mirror uninjured orbit. Difference of volume between healthy and reconstructed orbits (VD) and variables to measure contour adaptation of the orbital mesh were evaluated. Intraoperative navigation was done with the BrainLab Kolibrí navigation system. Results. A total of 17 patients were reconstructed, 10 with preoperative planning and intraoperative navigation. VD was statistically lower in the group that was reconstructed using navigation (0.24±0.13cc), P&lt;.01. In 9 patients the position of the mesh was not adequate in the preoperative CT: the mesh protruded 1.88±0.27mm below the infraorbital rim, and 3.23±1.3mm in the nose with an angle of 13±5.2°. Postoperative adaptation was statistically better in navigated patients (P&lt;.05). Conclusions. Preformed orbital meshes needed adjustments in about 50% of our patients. Preoperative planning and surgical navigation help identifying them, increasing accuracy in their reconstructions (AU)</dc:description>
+<dc:creator>Dean, Alicia</dc:creator>
+<dc:creator>Alamillos, Francisco</dc:creator>
+<dc:creator>Heredero, Susana</dc:creator>
+<dc:creator>San Juan, Alba</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos. Evaluar la adaptación de las mallas orbitarias preformadas industrialmente en nuestro entorno. Determinar la influencia de la planificación preoperatoria y la navegación en la precisión de la reconstrucción. Material y método. Se estudió a pacientes con fracturas unilaterales de suelo orbitario reconstruidos con mallas de titanio preformadas entre 2009 y 2014. Las tomografías computarizadas (TC) se analizaron con iPlan 3.0 (BrainLab). Se importó la malla preformada en formato Standard Tesellation Language (STL) y se posicionó en la órbita sana reflejada en espejo sobre la fracturada. Se cuantificó la diferencia de volumen entre órbitas reconstruida y sana (DV), así como la adaptación del contorno de la malla a las superficies orbitarias. La navegación se hizo con el sistema Kolibrí (BrainLab). Resultados. Se incluyeron 17 reconstrucciones, 10 realizadas previa planificación y con navegación intraoperatoria. La DV fue significativamente menor en el grupo reconstruido con navegación (0,24±0,13 cc), p&lt;0,01. En 9 pacientes la malla no se adaptaba adecuadamente en la TC preoperatoria, introduciéndose 1,88±0,27mm bajo el reborde infraorbitario y 3,23±1,3mm en la fosa nasal, con un ángulo medio de 13±5,2°. La adaptación postoperatoria fue significativamente mejor en los casos en los que se había utilizado la navegación (p&lt;0,05). Conclusiones. Las mallas orbitarias preformadas necesitan ajustes en un 50% de nuestros casos. Planificación preoperatoria y navegación permiten identificar las órbitas en las que la adaptación no es buena y corregirla, y así mejorar la precisión de la reconstrucción (AU)</dc:description>
+<dc:source>Rev. esp. cir. oral maxilofac;38(4): 193-198, oct.-dic. 2016. tab, ilus</dc:source>
+<dc:identifier>ibc-157339</dc:identifier>
+<dc:title xml:lang="es">Precisión en reconstrucción orbitaria con mallas de titanio preformadas</dc:title>
+<dc:subject>^d36296^s22074</dc:subject>
+<dc:subject>^d24339^s22045</dc:subject>
+<dc:subject>^d36296^s22061</dc:subject>
+<dc:subject>^d36296^s22045</dc:subject>
+<dc:subject>^d36296^s22066</dc:subject>
+<dc:subject>^d36296^s22039</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d33584^s22045</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d10095^s29166</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d10095^s22042</dc:subject>
+<dc:subject>^d19200^s22045</dc:subject>
+<dc:subject>^d14414^s22073</dc:subject>
+<dc:subject>^d10095^s22009</dc:subject>
+<dc:subject>^d13907^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201612</dc:date>
+</metadata>
+</record>
+</ibecs-document>

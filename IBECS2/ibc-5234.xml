@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-5234</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Pharmaceutical cabe of hospitalized patients in the clinical ward</dc:title>
+<dc:creator>Castillo Romera, I</dc:creator>
+<dc:creator>Suárez, M. L</dc:creator>
+<dc:creator>Martínez, H</dc:creator>
+<dc:creator>Requena Caturla, T</dc:creator>
+<dc:creator>Martínez Hernández, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Arán Ediciones, S.A.</dc:publisher>
+<dc:description xml:lang="es">El objetivo de este trabajo es evaluar un programa de atención farmacéutica dirigido a pacientes ingresados y realizado desde la unidad clínica por los residentes de farmacia durante su rotación por los servicios de medicina interna y cirugía. Este programa incluye un método sistemático de recogida de los datos clínicos relacionados con el tratamiento y un algoritmo para detectar los posibles problemas relacionados con la medicación (PRM). Las intervenciones se clasificaron en función del tipo de PRM abordado en las ocho categorías de Hepler y Strand, y en función del impacto clínico en tres niveles. Para evaluar esta actividad se definieron unos indicadores cuantitativos (número de intervenciones por cada 100 pacientes) y otros cualitativos (indicador de alto impacto clínico, de aceptación y de resolución). Los resultados de estos indicadores fueron 73, 23, 71 y 97 por ciento, respectivamente. Aunque la falta de estandarización de esta actividad farmacéutica hace difícil la comparación con otros estudios, la presencia física del farmacéutico amplía las posibilidades de ejercer la atención farmacéutica (AU)</dc:description>
+<dc:source>Farm Hosp;24(1): 27-31, ene. 2000. tab</dc:source>
+<dc:identifier>ibc-5234</dc:identifier>
+<dc:title xml:lang="es">Atención farmacéutica a pacientes ingresados desde la unidad clínica</dc:title>
+<dc:subject>^d5932</dc:subject>
+<dc:subject>^d11016</dc:subject>
+<dc:subject>^d10797^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d8675^s22054</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200001</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-6514</identifier>
+<setSpec>0365-6691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Perimetric probability maps for short wavelength automated perimetry</dc:title>
+<dc:description xml:lang="en">No disponible</dc:description>
+<dc:publisher>Audiovisual y Marketing, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Desarrollar un modelo de Análisis Estadístico de Campo Visual (ANESTCAV) aplicable a la PALOC, diseñando y calculando los Mapas Probabilísticos de Puntos Diferenciales (MPD) convencionalmente empleados en la interpretación de las pruebas perimétricas.Método: Se han analizado 128 ojos de 128 sujetos sanos con una exploración oftalmológica normal. Mediante un Analizador de Campo Humphrey modificado se realizó un estudio de PALOC. Para el desarrollo y cálculo de los MPD (1) se desarrolló un 'Campo Visual Normal de Referencia CVNR', corregido para la edad, (2) se establecieron las diferencias numéricas existentes en los umbrales de sensibilidad entre el 'CVNR' corregido para la edad, y el campo visual de cada uno de los sujetos incluidos en el análisis. (3) A partir de la distribución de las desviaciones se calculó el intervalo de confianza para cuatro niveles de significación (95, 98, 99 y 99,5 por ciento) en cada uno de los puntos del campo visual.Resultados: El análisis de regresión realizado nos permite obtener el 'Valor Normal de Refencia VNR'corregido para la edad, en cada uno de los puntos del campo visual. La representación de los 74 VNR para una edad determinada constituye el CVNR, corregido para la edad. A partir de este CVNR obtenemos la distribución de las desviaciones y calculamos el intervalo de confianza para cuatro niveles de significación, separadamente para cada punto del campo visual, que permite establecer el margen de probabilidad de normalidad de las desviaciones de los umbrales de sensibilidad.Conclusiones: El desarrollo y cálculo del ANESTCAV constituye un instrumento exacto y preciso en el análisis estadístico perimétrico, posibilitando el establecer los límites de la zona de indefinición diagnóstica existente entre la normalidad y la patología (AU)</dc:description>
+<dc:source>Arch Soc Esp Oftalmol;75(6): 403-408, jun. 2000.</dc:source>
+<dc:title xml:lang="es">Mapas probabilísticos de puntos diferenciales aplicables a la perimetría automatizada de longitud de onda corta</dc:title>
+<dc:type>article</dc:type>
+<dc:creator>Honrubia López, F. M</dc:creator>
+<dc:creator>Pablo Júlvez, L</dc:creator>
+<dc:creator>Polo Llorens, V</dc:creator>
+<dc:creator>Pinilla Lozano, I</dc:creator>
+<dc:creator>Larrosa Poves, J. M</dc:creator>
+<dc:language>es</dc:language>
+<dc:identifier>ibc-6514</dc:identifier>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d28633</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d54195</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:subject>^d24367</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:date>200006</dc:date>
+</metadata>
+</record>
+</ibecs-document>

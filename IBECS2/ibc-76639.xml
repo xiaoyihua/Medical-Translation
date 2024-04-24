@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-76639</identifier>
+<setSpec>0009-739X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Expected body mass index after bariatric surgery</dc:title>
+<dc:description xml:lang="en">Introduction The body mass index (BMI) is the most practical method to measure and compare obesity between individuals. The Percentage of Excess BMI Loss (PEBMIL) is used to present results in operated patients and is based on the premise that a BMI-25 is the final aim, on being the upper limit in normal subjects. It is possible to achieve a BMI-25 in morbid obese (MO) patients with initial low BMIs (&lt;50) but it is rare in overweight (OW) patients with a BMI &gt;50. Expected BMI (EBMI) would be that which should be reached by all subjects depending on their initial BMI. Objective The objective of this study is to search for, using statistical methods, a formula based on clinical evidence that can identify the EBMI depending on the initial BMI. Patients and method We analysed the initial and final BMI in a group of 135 MO patients, operated on using the duodenal switch procedure and with a follow up of over 3 years. A linear regression method has been used to obtain a formula that could calculate the EBMI of each patient operated on. Results We obtained an algorithm in which EBMI=Initial BMI×0.33+14. If we apply the individualised EBMI instead of the BMI-25, the median PEBMIL was 99.48 (range: 76.75&#150;110.46).Conclusion This result suggests that the application of an individual EBMI is a more reliable estimate of the success or failure of bariatric operations (AU)</dc:description>
+<dc:creator>Pérez, Nieves</dc:creator>
+<dc:creator>Bengochea, Marcelo</dc:creator>
+<dc:creator>Baltasar, Aniceto</dc:creator>
+<dc:creator>Borrás, Fernando</dc:creator>
+<dc:creator>Serra, Carlos</dc:creator>
+<dc:creator>Bou, Rafael</dc:creator>
+<dc:creator>Marceau, Picard</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El índice de masa corporal (IMC) es el método más práctico para medir y comparar la obesidad entre diferentes individuos. El porcentaje perdido del exceso de IMC (PPEIMC) se utiliza para presentar los resultados de los pacientes operados y se basa en la premisa de que un IMC de 25 es el objetivo final, al ser el límite superior de individuos normales. Alcanzar un IMC de 25 es posible en pacientes obesos mórbidos con IMC inicial bajo (&lt;50), pero es poco frecuente en pacientes superobesos con IMC superior a 50. El IMC esperable (IMCE) sería aquel que deberían alcanzar todos los individuos de acuerdo con su IMC inicial. Objetivo El objetivo de este trabajo es buscar por métodos estadísticos una fórmula, basada en hechos clínicos, que identifique el IMCE de acuerdo con el IMC inicial. Pacientes y método Sé ha analizado el IMC inicial y final de un grupo de 135 pacientes operados de obesidad mórbida con la técnica del cruce duodenal con un seguimiento superior a 3 años. Se ha utilizado un método estadístico de regresión lineal para obtener una fórmula que calcule el IMCE de cada paciente operado. Resultado Se ha obtenido un algoritmo en el que el IMCE=IMC inicial×0,33+14. Si se aplicaba el IMCE individualizado en vez de la constante del IMC de 25, el PPEIMC mediano era de 99,48 (rango: 76,75 a 110,46). Conclusión Este resultado evidencia que la aplicación individual del IMCE estima con mayor fiabilidad el éxito o fracaso de las operaciones bariátricas (AU)</dc:description>
+<dc:source>Cir. Esp. (Ed. impr.);86(5): 308-312, nov. 2009. ilus, tab</dc:source>
+<dc:identifier>ibc-76639</dc:identifier>
+<dc:title xml:lang="es">Índice de masa corporal esperable tras cirugía bariátrica</dc:title>
+<dc:subject>^d19272^s22009</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24542</dc:subject>
+<dc:subject>^d51221^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200911</dc:date>
+</metadata>
+</record>
+</ibecs-document>

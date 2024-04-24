@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-99789</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Design and validation of a questionnaire exploring risky-driving patterns in young drivers</dc:title>
+<dc:description xml:lang="en">Background: Traffic Injuries are a major public health problem, especially among young people. However, we have not found any useful questionnaire designed in our country for the epidemiological research in this field.. The objective of this study was to design and validate an easy and quickly-to-fill questionnaire aimed to collect information on how frequently university car drivers report to be involved in driving circumstances theoretically related to traffic crashes. Methods: Between 2007 and 2010, a total of 1597 young undergraduate students at the University of Granada answered a self-administered questionnaire collecting information about exposure, accidents and involvement in 28 different driving circumstances. For designing this questionnaire, an extensive literature review was carried out and the opinions of five experts in a panel were also taken into account. By applying the tetracoric correlation coefficient, we conducted a factor analysis. Internal consistency was assessed using Cronbach's alpha coefficient. Finally, we evaluated the crude and adjusted association of each identified factor with the odds for having suffered an accident. Results: After excluding 8 circumstances, the remaining ones were grouped into three factors: the first one included ten high-prevalence circumstances and explained 31.9%of the total variability.Meanwhile, the other two factors included five circumstances each one which respectively explained 15.2% and 12.5% of the variability. Cronbach's alpha coefficients ranged between 0.816 and 0.553.When adjustments according age, sex, years in possession of the driving license and intensity of exposure were made, the first factor obtained the score more strongly associated with the accident rate (OR = 1.51; CI95%: 1.25-1.85). Conclusions: The final version (20 circumstances) identified three factors related to higher accident rates among the young drivers. The first one integrated, among other circumstances, the excessive speed and driving while sleepy or tired and it was the most closely associated with the accident rate in the adjusted analysis. The second factor included, among others, the commission of driving offences, and the third one included driving under the influence of alcohol, not always wearing the seat belt and distractions(AU)</dc:description>
+<dc:creator>Luna del Castillo, Juan de Dios</dc:creator>
+<dc:creator>Lardelli Claret, Pablo</dc:creator>
+<dc:creator>Jiménez Mejías, Eladio</dc:creator>
+<dc:creator>Jiménez Moleón, José Juan</dc:creator>
+<dc:creator>Olvera Porcel, María Carmen</dc:creator>
+<dc:creator>Amezcua Prieto, Carmen</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamentos: Las Lesiones por Tráfico continúan siendo un importante problema de Salud Pública en población joven. A pesar de ello, no existen en nuestro país cuestionarios idóneos para la investigación epidemiológica de este problema. El objetivo del presente trabajo fue diseñar y validar un cuestionario orientado a explorar la frecuencia de implicación en circunstancias de conducción teóricamente asociadas con la accidentalidad por tráfico en población universitaria. Métodos: Se aplicó un cuestionario autoadministrado (MATCA: movilidad, accidentalidad por tráfico y circunstancias asociadas) a 1597 jóvenes alumnos de grado de la Universidad de Granada, entre los años 2007 y 2010, que recogía información, entre otras variables, sobre la exposición, la accidentalidad y la implicación en 28 circunstancias de conducción. Para su diseño se realizó una extensa revisión de la literatura al respecto y se contó con el juicio de un panel de cinco expertos. Aplicando el coeficiente de correlación tetracórico, se realizó un análisis factorial. La consistencia interna se valoró mediante el coeficiente alfa de Crombach. Finalmente, se valoró la asociación cruda y ajustada de cada factor identificado con la odds de haber sufrido un accidente. Resultados: Tras descartar 8 circunstancias, las restantes se agruparon en tres factores: el primero incluyó diez circunstancias de elevada prevalencia y explicó el 31,9% de la variabilidad total. Los otros dos factores, incluyeron cinco circunstancias cada uno que explicaron respectivamente, el 15,2% y el 12,5% de la variabilidad. Los coeficientes alfa de Crombach oscilaron entre 0,816 y 0,553. Cuando se ajustó por la edad, el sexo, los años de antigüedad del permiso y la intensidad de exposición, la puntuación más fuertemente asociada a la accidentalidad fue la del primer factor (OR=1,51: IC95% 1,25-1,85). Conclusiones: La versión final (20 circunstancias), identificó tres factores asociados a una mayor accidentalidad entre jóvenes conductores. El primero integró, entre otras, la velocidad excesiva y conducir con sueño o cansancio, y fue el más estrechamente asociado a la accidentalidad en el análisis ajustado. El segundo agrupó las circunstancias relacionadas con la comisión de infracciones y el tercero incluyó la conducción bajo los efectos del alcohol, el no uso siempre del cinturón y las distracciones(AU)</dc:description>
+<dc:source>Rev Esp Salud Publica;86(1): 71-84, ene.-mar.2012. tab</dc:source>
+<dc:identifier>ibc-99789</dc:identifier>
+<dc:title xml:lang="es">Diseño y validación de un cuestionario sobre patrones de conducción de riesgo en jóvenes</dc:title>
+<dc:subject>^d34859</dc:subject>
+<dc:subject>^d23893^s22083</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d23893^s22041</dc:subject>
+<dc:subject>^d1339^s22041</dc:subject>
+<dc:subject>^d23893^s22054</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12720^s22041</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d28608^s22074</dc:subject>
+<dc:subject>^d32466^s22054</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d32466^s22041</dc:subject>
+<dc:subject>^d1340^s22041</dc:subject>
+<dc:subject>^d12720^s22049</dc:subject>
+<dc:subject>^d12721</dc:subject>
+<dc:subject>^d1340^s22019</dc:subject>
+<dc:subject>^d23893^s22066</dc:subject>
+<dc:subject>^d53386</dc:subject>
+<dc:subject>^d1340^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201203</dc:date>
+</metadata>
+</record>
+</ibecs-document>

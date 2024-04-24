@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-166823</identifier>
+<setSpec>1130-0108</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Is it possible to predict the presence of colorectal cancer in a blood test? A probabilistic approach method</dc:title>
+<dc:description xml:lang="en">Introduction: The assessment of the state of immunosurveillance (the ability of the organism to prevent the development of neoplasias) in the blood has prognostic implications of interest in colorectal cancer. We evaluated and quantified a possible predictive character of the disease in a blood test using a mathematical interaction index of several blood parameters. The predictive capacity of the index to detect colorectal cancer was also assessed. Methods: We performed a retrospective case-control study of a comparative analysis of the distribution of blood parameters in 266 patients with colorectal cancer and 266 healthy patients during the period from 2009 to 2013. Results: Statistically significant differences (p &lt; 0.05) were observed between patients with colorectal cancer and the control group in terms of platelet counts, fibrinogen, total leukocytes, neutrophils, systemic immunovigilance indexes (neutrophil to lymphocyte ratio and platelet to lymphocyte ratio), hemoglobin, hematocrit and eosinophil levels. These differences allowed the design of a blood analytical profile that calculates the risk of colorectal cancer. This risk profile can be quantified via a mathematical formula with a probabilistic capacity to identify patients with the highest risk of the presence of colorectal cancer (area under the ROC curve = 0.85). Conclusions: We showed that a colorectal cancer predictive character exists in blood which can be quantified by an interaction index of several blood parameters. The design and development of interaction indexes of blood parameters constitutes an interesting research line for the development and improvement of programs for the screening of colorectal cancer (AU)</dc:description>
+<dc:creator>Ruiz Macia, José Antonio</dc:creator>
+<dc:creator>Gallego Plazas, Javier</dc:creator>
+<dc:creator>Morcillo Ródenas, Miguel Ángel</dc:creator>
+<dc:creator>Navarro Rodríguez, José Manuel</dc:creator>
+<dc:creator>Calpena Rico, Rafael</dc:creator>
+<dc:creator>Borrás Rocher, Fernando</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: la valoración del estado de inmunovigilancia (capacidad del organismo para evitar el desarrollo de neoplasias) en el análisis sanguíneo presenta connotaciones pronósticas de interés en el cáncer colorrectal. Evaluamos un posible carácter predictivo de la enfermedad en el análisis sanguíneo y su cuantificación mediante el diseño de un índice de interacción matemático entre varios parámetros sanguíneos, con capacidad predictiva probabilística de presencia de la enfermedad. Método: estudio casos y controles de análisis comparativo de la distribución de parámetros sanguíneos, sobre 266 pacientes con cáncer colorrectal y 266 pacientes sanos, durante el periodo comprendido entre 2009-2013. Resultados: los sujetos con cáncer colorrectal presentaron, con respecto a los controles, diferencias estadísticamente significativas (p &lt; 0,05) en los niveles de plaquetas, fibrinógeno, leucocitos totales, neutrófilos, índices de inmunovigilancia sistémica (ratio neutrófilo/linfocito y ratio plaqueta/linfocito), hemoglobina, hematocrito y eosinófilos. Estas diferencias permitieron el diseño de un perfil analítico sanguíneo de riesgo de enfermedad, cuantificable mediante la aplicación de una fórmula matemática con capacidad de identificación probabilística de los sujetos con mayor riesgo de presencia de enfermedad (área bajo la curva del espacio ROC = 0,85). Conclusiones: Ante la posible existencia de un carácter predictivo de presencia de cáncer colorrectal en el análisis sanguíneo, mostramos que es posible su cuantificación mediante el diseño de un índice de interacción entre varios parámetros sanguíneos. El diseño y desarrollo de índices de interacción entre parámetros sanguíneos constituye una línea de investigación de interés para el desarrollo y mejora de programas de cribado de la enfermedad (AU)</dc:description>
+<dc:source>Rev Esp Enferm Dig;109(10): 694-703, oct. 2017. tab, graf</dc:source>
+<dc:identifier>ibc-166823</dc:identifier>
+<dc:title xml:lang="es">¿Es posible predecir la presencia de cáncer colorrectal en el análisis sanguíneo? Método de aproximación probabilística</dc:title>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d55451^s22083</dc:subject>
+<dc:subject>^d23595^s22062</dc:subject>
+<dc:subject>^d25123^s22045</dc:subject>
+<dc:subject>^d38340</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23595^s22016</dc:subject>
+<dc:subject>^d23766^s22045</dc:subject>
+<dc:subject>^d1800^s22045</dc:subject>
+<dc:subject>^d24551</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201710</dc:date>
+</metadata>
+</record>
+</ibecs-document>

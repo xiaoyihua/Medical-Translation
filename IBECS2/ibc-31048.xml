@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-31048</identifier>
+<setSpec>0212-7113</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Molecular biomarkers of oxidative stress and environmental pollution</dc:title>
+<dc:creator>López Barea, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Asociación Española de Toxicología</dc:publisher>
+<dc:description xml:lang="es">Las especies reactivas de oxígeno (EROs) dañan distintas biomoléculas -glutatión, lípidos, proteínas, ADN- que sirven como biomarcadores de presencia y efectos biológicos de las EROs. Los daños oxidativos también responden a contaminantes ambientales que generan EROs -metales de transición, bifenilos, quinonas, compuestos nitroaromáticos y derivados de los hidrocarburos aromáticos policíclicos-. Las EROs y estos contamintantes también inducen diversas enzimas antioxidativas y alteran el estado redox del glutatión intracelular, que se mide mediante HPLC con detección electroquímica (EC). En bacterias deficientes en tiorredoxina y glutarredoxina expuestas a H2O2, el glutatión se oxida más rápidamente que en el tipo silvestre. El glutatión está también más oxidado en peces expuestos a Cu2+ o procedentes de zonas contaminadas que en los controles. Los daños oxidativos en protéinas se siguen por aparición de nuevas isoenzimas de Cu,Zn-superóxido dismutasa (SOD) o por inactivación de la aconitasa. En peces de zonas contaminadas o expuestos a contaminantes modelo aparecen nuevas isoenzimas Cu,Zn-SOD, similares a las fomadas al ncubar con H202 la enzima pura. Los daños oxidativos en ADN se detectan midiendo por HPLC-EC los niveles de 8-oxodG. Mutantes de Escherichia coli deficientes en catalasa o SOD tienen más 8-oxodG que el tipo silvestre cuando se someten a estrés oxidativo. Peces procedentes de zonas litorales contaminadas tiene más 8-oxodG en su ADN hepático que los animales control. El paraquat, herbicida que genera EROs mediante ciclado redox, induce en peces altos niveles de 8-oxodG en agallas, órganos muy susceptivles al O2 y con baja respuesta antioxidativa (AU)</dc:description>
+<dc:source>Rev. toxicol;17(1): 12-18, ene.-abr. 2000. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-31048</dc:identifier>
+<dc:title xml:lang="es">Biomarcadores moleculares de estrés oxidativo y contaminación ambiental</dc:title>
+<dc:subject>^d30577</dc:subject>
+<dc:subject>^d4281^s22020</dc:subject>
+<dc:subject>^d32101^s22031</dc:subject>
+<dc:subject>^d4867^s22002</dc:subject>
+<dc:subject>^d23568^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d7015^s22020</dc:subject>
+<dc:subject>^d10262</dc:subject>
+<dc:subject>^d6122^s22044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200004</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-16745</identifier>
+<setSpec>0302-4342</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prognostic value of the pediatric index of mortality (pim) score and lactate values in critically-ill children</dc:title>
+<dc:creator>López Herce Cid, J</dc:creator>
+<dc:creator>Garrido Cantarero, G</dc:creator>
+<dc:creator>Rupérez Lucas, M</dc:creator>
+<dc:creator>García Sanz, C</dc:creator>
+<dc:creator>Vigil Escribano, D</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Estudiar y comparar el valor pronóstico de la puntuación índice pediátrico de mortalidad (PIM) y el ácido láctico en el momento de ingreso en una unidad de cuidados intensivos pediátricos (UCIP). Pacientes y métodos: Se realizó un estudio prospectivo en 500 pacientes consecutivos, 237 niñas (47,4%) y 263 niños (52,6%), con una edad media de 51,5 59,7 meses (límites, 3 días-18 años) ingresados en una UCIP. A su ingreso se determinó la puntuación PIM y el ácido láctico en sangre. Se estudió la capacidad predictiva de ambos parámetros en relación a la mortalidad y a la duración de ingreso en la UCIP. Resultados: Fallecieron 36 pacientes (el 7,2%). La probabilidad media de muerte de los pacientes fallecidos según la fórmula PIM fue de 23,6% 28,9, significativamente superior a la de los supervivientes 3,4%  7,3 (p &lt; 0,001). El área bajo la curva ROC para el PIM fue de 0,81 0,03 (intervalo de confianza al 95% [IC 95%], 0,74-0,89). La concentración de ácido láctico en los pacientes fallecidos fue de 4,9 3,5 mmol/l, significativamente superior a la de los supervivientes, 1,9 1,5 mmol/l (p &lt; 0,001). El área bajo la curva ROC para el ácido láctico fue de 0,76 0,04 (IC 95%, 0,67-0,85), sin que existan diferencias estadísticamente significativas entre ambas curvas ROC. En los supervivientes se encontró relación entre la puntuación PIM y la duración del ingreso, mientras que en los pacientes fallecidos existió una relación inversa entre la concentración de ácido láctico y la duración del ingreso en la UCIP. Conclusiones: Tanto la puntuación PIM como el ácido láctico tienen un aceptable valor pronóstico al ingreso del niño críticamente en la UCIP. La capacidad predictiva de la puntuación PIM es mayor pero es más complicada de obtener, mientras que el ácido láctico es rápido y sencillo (AU)</dc:description>
+<dc:source>An Esp Pediatr;57(5): 394-400, nov. 2002.</dc:source>
+<dc:identifier>ibc-16745</dc:identifier>
+<dc:title xml:lang="es">Valor pronóstico de la puntuación PIM (índice pediátrico de mortalidad) y del ácido láctico en niños críticamente enfermos</dc:title>
+<dc:subject>^d7399</dc:subject>
+<dc:subject>^d8079</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d10537</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23699</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d2715</dc:subject>
+<dc:subject>^d30170</dc:subject>
+<dc:subject>^d22226</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d32981</dc:subject>
+<dc:subject>^d18001</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200211</dc:date>
+</metadata>
+</record>
+</ibecs-document>

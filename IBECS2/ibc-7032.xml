@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-7032</identifier>
+<setSpec>0014-2565</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Primary Health Care and hospital admissions due to Ambulatory Care Sensitive Conditions in Catalonia</dc:title>
+<dc:creator>Starfield, B</dc:creator>
+<dc:creator>Caminal Homar, J</dc:creator>
+<dc:creator>Martín Mateo, M</dc:creator>
+<dc:creator>Hermosilla Pérez, E</dc:creator>
+<dc:creator>Sánchez Ruiz, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Introducción. Los Ambulatory Care Sensitive Conditions (ACSC) son los códigos de diagnóstico de alta hospitalaria que pretenden servir de medida de hospitalizaciones que se consideran potencialmente evitables. La Atención Primaria podría evitar el ingreso de los ACSC mediante alguna de las siguientes intervenciones propias de este nivel asistencial: a) prevención primaria; b) prevención secundaria, o c) prevención terciaria y rehabilitación.Material y métodos. Estudio piloto observacional transversal de 248.174 altas hospitalarias, generadas por 2.248.704 habitantes de 161 Áreas Básicas de Salud (ABS) registradas en el conjunto mínimo básico de alta hospitalaria de Cataluña del año 1996. Se ha utilizado el listado completo de códigos de diagnóstico de ACSC identificados en la literatura. Se han calculado las tasas de hospitalización bruta y estandarizada. Para comparar las tasas de hospitalización entre ABS se ha calculado la razón de hospitalización estandarizada (RHE). El efecto de las variables asociadas a las tasas de hospitalización se ha estudiado mediante la regresión de Poisson. Resultados. Las hospitalizaciones por ACSC representan el 13 por ciento del total de las hospitalizaciones y el 16 por ciento de las estancias hospitalarias. Las enfermedades agudas y crónicas de las vías respiratorias bajas son la primera causa de hospitalización para los tres grupos de edad (&lt; 15, 15-64 y 65). Los grupos de diagnósticos más frecuentes para todas las edades son la patología respiratoria (enfermedades agudas y crónicas de las vías respiratorias bajas y neumonía) y la patología del tracto urinario (pielonefritis/infección del tracto urinario). La patología denominada autolimitada (las infecciones otorrinolaringológicas no graves/infecciones de vías respiratorias altas, las convulsiones febriles infantiles, los problemas dentales y las gastroenteritis) representa más del 10 por ciento del total de las hospitalizaciones por ACSC, el 45 por ciento de las cuales se presenta en niños. La tasa cruda de hospitalización por ACSC para el conjunto de las ABS estudiadas es de 146,9/10.000, siendo el intervalo de las tasas crudas observadas de 12,4 a 239,9/10.000. El intervalo de la RHE fue de 0,01 a 1,85. Conclusiones. Las hospitalizaciones por ACSC son un indicador que se considera válido para evaluar la capacidad de resolución global de la Atención Primaria e identifica un volumen de actividad hospitalaria susceptible de cuidados del primer nivel asistencial y, por tanto, potencialmente evitable (AU)</dc:description>
+<dc:source>Rev Clin Esp;201(9): 501-507, sept. 2001.</dc:source>
+<dc:identifier>ibc-7032</dc:identifier>
+<dc:title xml:lang="es">La atención primaria de Salud y las hospitalizaciones por Ambulatory Care Sensitive Conditions en Cataluña</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d11756</dc:subject>
+<dc:subject>^d555</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d6916</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d27771</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200109</dc:date>
+</metadata>
+</record>
+</ibecs-document>

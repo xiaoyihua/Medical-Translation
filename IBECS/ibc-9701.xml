@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-9701</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Efficiency in primary health care: a critical survey of the frontier approach</dc:title>
+<dc:creator>Puig Junoy, Jaume</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ministerio de Sanidad y Consumo</dc:publisher>
+<dc:description xml:lang="es">El objetivo de este trabajo consiste en realizar una revisión de la investigación empírica sobre la eficiencia de la atención primaria de salud en España, mediante la estimación de fronteras paramétricas y no paramétricas de producción y de costes. La revisión de las principales base de datos bibliográficos ha permitido detectar 12 estudios sobre eficiencia de la atención primaria en España. La mayoría de ellos utilizan el análisis envolvente de datos como técnica para estimar una función de producción. Unicamente en un caso se ha estimado una función de costes con técnicas estocásticas y paramétricas. Predominan las medidas de actividad para identificar el output y en muy pocos casos se analizan las causas de la ineficiencia. Existen importantes problemas metodológicos que limitan la utilidad práctica de estos estudios. La investigación futura debe mejorar la medida del output, realizar aplicaciones más rigurosas de los métodos y explorar las causas de la ineficiencia (AU)</dc:description>
+<dc:source>Rev Esp Salud Publica;74(5/6): 483-495, sept. 2000.</dc:source>
+<dc:identifier>ibc-9701</dc:identifier>
+<dc:title xml:lang="es">Eficiencia en la Atención Primaria de Salud: una revisión crítica de las medidas de frontera</dc:title>
+<dc:subject>^d6454</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d11756</dc:subject>
+<dc:subject>^d31493</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200009</dc:date>
+</metadata>
+</record>
+</ibecs-document>

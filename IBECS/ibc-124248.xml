@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-124248</identifier>
+<setSpec>2253-654X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">[18F]fluorothymidine-positron emission tomography in patients with locally advanced breast cancer under bevacizumab treatment: Usefulness of different quantitative methods of tumor proliferation</dc:title>
+<dc:description xml:lang="en">Objectives. To investigate quantitative methods of tumor proliferation using 3&amp;#8242;-[18F]fluoro-3&amp;#8242;-deoxythymidine ([18F]FLT) PET in patients with breast cancer (BC), studied before and after one bevacizumab administration, and to correlate the [18F]FLT-PET uptake with the Ki67 index. Material and methods. Thirty patients with newly diagnosed, untreated BC underwent a [18F]FLT-PET before and 14 days after bevacizumab treatment. A dynamic scan centered over the tumor began simultaneously with the injection of [18F]FLT (385 ± 56 MBq). Image derived input functions were obtained using regions of interest drawn on the left ventricle (LV) and descending aorta (DA). Metabolite corrected blood curves were used as input functions to obtain the kinetic Ki constant using the Patlak graphical analysis (time interval 10&#150;60 min after injection). Maximum SUV values were derived for the intervals 40&#150;60 min (SUV40) and 50&#150;60 min (SUV50). PET parameters were correlated with the Ki67 index obtained staining tumor biopsies. Results. [18F]FLT uptake parameters decreased significantly (p &lt; 0.001) after treatment: SUV50 = 3.09 ± 1.21 vs 2.22 ± 0.96; SUV40 = 3.00 ± 1.18 vs 2.14 ± 0.95, Ki_LV(10&#150;3) = 52[22&#150;116] vs 38[13&#150;80] and Ki_DA(10&#150;3) = 49[15&#150;129] vs 33[11&#150;98]. Consistency interclass correlation coefficients within SUV and within Ki were high. Changes of SUV50 and Ki_DA between baseline PET and after one bevacizumab dose PET correlated with changes in Ki67 index (r-Pearson = 0.35 and 0.26, p = 0.06 and 0.16, respectively). Conclusions. [18F]FLT-PET is useful to demonstrate proliferative changes after a dose of bevacizumab in patients with BC. Quantification of tumor proliferation by means of SUV and Ki has shown similar results, but SUV50 obtained better results. A correlation between [18F]FLT changes and Ki67 index was observed (AU)</dc:description>
+<dc:creator>Toledo, I</dc:creator>
+<dc:creator>Garcia-Velloso, MJ</dc:creator>
+<dc:creator>Peñuelas, I</dc:creator>
+<dc:creator>Marti-Climent, JM</dc:creator>
+<dc:creator>Dominguez-Prado, I</dc:creator>
+<dc:creator>Boni, V</dc:creator>
+<dc:creator>Richter, JA</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objetivos. Evaluar métodos cuantitativos de proliferación celular en PET con 3&amp;#8242;-[18F]fluoro-3&amp;#8242;-desoxitimidina ([18F]FLT), antes y después de una dosis de bevacizumab en pacientes con carcinoma de mama (CM), y correlacionar la captación de [18F]FLT con el índice Ki67. Material y métodos. Se incluyeron 30 mujeres con CM no tratado. Se realizó [18F]FLT-PET antes y 14 días después de una dosis de bevacizumab. La PET dinámica centrada en el tumor se inició simultáneamente con la infusión de [18F]FLT (385 ± 56 MBq). Se dibujaron regiones de interés en ventrículo izquierdo (VI) y aorta descendente (AD), obteniéndose funciones de entrada, que corregidas por metabolitos, se utilizaron para obtener la constante Ki de Patlak (intervalo: 10-60 min). Se calcularon valores máximos del SUV en los intervalos 40-60 min (SUV40) y 50-60 min (SUV50). Los parámetros PET se correlacionaron con el Ki67, obtenido en biopsias tumorales teñidas. Resultados. Los parámetros de la captación de [18F]FLT disminuyeron significativamente (p &lt; 0,001) tras el tratamiento: SUV50 = 3,09 ± 1,21 vs 2,22 ± 0,96; SUV40 = 3,00 ± 1,18 vs 2,14 ± 0,95, Ki_VI(10-3) = 52[22&#150;116] vs 38[13&#150;80] y Ki_AD(10-3) = 49[15&#150;129] vs 33[11&#150;98]. Los coeficientes de correlación intraclase fueron elevados en los SUV y en los Ki. Los cambios de SUV50 y Ki_AD entre la PET basal y la PET tras bevacizumab se correlacionaron con los cambios en el Ki67 (r-Pearson = 0,35 y 0,26, p = 0,06 y 0,16, respectivamente). Conclusiones. La [18F]FLT-PET refleja los cambios en la proliferación celular tras una dosis de bevacizumab en pacientes con CM. La cuantificación de la proliferación por medio del SUV y la Ki arrojó resultados similares, si bien fueron mejores con el SUV50. Los cambios en [18F]FLT se correlacionaron con los cambios en el índice Ki67 (AU)</dc:description>
+<dc:source>Rev. esp. med. nucl. imagen mol. (Ed. impr.);33(5): 280-285, sept.-oct. 2014.</dc:source>
+<dc:identifier>ibc-124248</dc:identifier>
+<dc:title xml:lang="es">[18F]fluortimidina-PET en pacientes con carcinoma de mama localmente avanzado en tratamiento con bevacizumab: utilidad de diferentes métodos de cuantificación de la proliferación celular</dc:title>
+<dc:subject>^d1968^s22008</dc:subject>
+<dc:subject>^d14324</dc:subject>
+<dc:subject>^d33060^s22002</dc:subject>
+<dc:subject>^d38846</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d920^s22073</dc:subject>
+<dc:subject>^d33478</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d54666^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201410</dc:date>
+</metadata>
+</record>
+</ibecs-document>

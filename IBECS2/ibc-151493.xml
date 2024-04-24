@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-151493</identifier>
+<setSpec>0003-3170</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Echo Johiliss (CSG-U). Simplified diagnostic test for carotid stenosis using doppler ultrasound</dc:title>
+<dc:description xml:lang="en">Introduction: Echo Johiliss (EJ) Carotid Stenosis Grading by Ultrasound (CSG-U) is a quick, inexpensive diagnostic test for carotid stenosis, designed for screening. EJ uses doppler ultrasound with a simplified chart that tests 2 parameters: Speed in the internal carotid and speed ratio between the internal and common carotids, supported by the presence of atheroma plaques. EJ can be performed by a nurse qualified to use doppler ultrasound. By means of EJ, patients will be classified into 4 possible groups, which will determine their needs of medical follow up. Objectives: To validate this new diagnostic test and to determine its execution time. Material and methods: Two complementary studies were made: A retrospective study, in order to determine the validity of EJ according to the verified results of 265 studies of supra-aortic trunks, and a prospective study with 76 patients for the determination of the time needed for the test. The statistical software «R» with the «Rcmdr» package was used. Results: The following values for EJ, with 95% CI were obtained: Sensitivity 0.817 (0.737&#150;0.877), specificity 0.993 (0.963&#150;0.999), PPV 98.9% (94.3&#150;99.8%) NPV 87.6% (81.9&#150;91.8%), execution time, 4 min 33 s (4:23&#150;6:02). Overweight did not significantly affect the time needed for the test (P=.4238) and the absence of lesions or scars reduces it (P=.0019). Conclusion: EJ is an effective diagnostic test for patient screening (AU)</dc:description>
+<dc:creator>Briones Estébanez,  JL</dc:creator>
+<dc:creator>Vilalta Doñate, E</dc:creator>
+<dc:creator>Sos Gallén, MJ</dc:creator>
+<dc:creator>Martínez Meléndez, S</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: El eco Johiliss/gradación de estenosis carotídea mediante ecografía (EJ/GEC-E) es una prueba rápida y económica para diagnóstico de estenosis carotídea, diseñada para cribado. El EJ emplea ecografía doppler utilizando para la valoración una tabla simplificada que evalúa 2 parámetros: velocidad en la carótida interna y ratio de velocidad entre la carótida interna y común, apoyados en la presencia de placas de ateroma. El EJ puede ser realizado por un enfermero con certificación para el uso de ecógrafo doppler. Mediante EJ el paciente se clasificará en 4 posibles grupos que determinarán sus necesidades de seguimiento. Objetivos: Validar esta nueva prueba diagnóstica y determinar el tiempo necesario para su realización. Material y métodos: Se realizaron 2 estudios complementarios: un estudio retrospectivo para determinar la validez de EJ según los resultados verificados de 265 estudios de troncos supraaórticos y un estudio prospectivo con 76 pacientes para la determinación del tiempo necesario para la prueba. Se utilizó el software estadístico «R» con el paquete «Rcmdr». Resultados: Se obtienen los siguientes valores para EJ, con IC al 95%: sensibilidad 0,817 (0,737&#150;0,877); especificidad 0,993 (0,963&#150;0,999); VPP 98,9% (94,3&#150;99,8%); VPN 87,6% (81,9&#150;91,8%), tiempo necesario para la prueba 4 min 33 s (4:23&#150;6:02). El sobrepeso no afecta significativamente al tiempo de realización de la prueba (p = 0,4238) y la ausencia de lesiones o cicatrices lo reduce (p = 0,0019). Conclusiones: La EJ es una prueba diagnóstica eficaz para cribado de pacientes (AU)</dc:description>
+<dc:source>Angiologia;68(3): 187-193, mayo-jun. 2016. tab, ilus</dc:source>
+<dc:identifier>ibc-151493</dc:identifier>
+<dc:title xml:lang="es">Eco Johiliss (GEC-E). Prueba simplificada para diagnóstico de estenosis carotídea mediante ecografía doppler</dc:title>
+<dc:subject>^d25123^s22045</dc:subject>
+<dc:subject>^d28575^s22039</dc:subject>
+<dc:subject>^d31994^s22039</dc:subject>
+<dc:subject>^d31992^s22039</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d31994^s22074</dc:subject>
+<dc:subject>^d31992^s22074</dc:subject>
+<dc:subject>^d2381^s29166</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d29304^s22039</dc:subject>
+<dc:subject>^d2381^s22054</dc:subject>
+<dc:subject>^d30211^s22054</dc:subject>
+<dc:subject>^d2380^s22031</dc:subject>
+<dc:subject>^d28575^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d38340</dc:subject>
+<dc:subject>^d30313^s22045</dc:subject>
+<dc:subject>^d30211^s29166</dc:subject>
+<dc:subject>^d31994^s22045</dc:subject>
+<dc:subject>^d31992^s22045</dc:subject>
+<dc:subject>^d29304^s22045</dc:subject>
+<dc:subject>^d35256</dc:subject>
+<dc:subject>^d30211^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201606</dc:date>
+</metadata>
+</record>
+</ibecs-document>

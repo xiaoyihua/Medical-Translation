@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150232</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Neural networks as statistical non-parametric classification tools</dc:title>
+<dc:description xml:lang="en">The relationships between neural networks and statistical methods have been recently analysized (see e.g. Cherkassky, Friedman and Wechler, 1994; Ripley, 1996). In general terms neural networks have shown and equal or greater capacity to classify than statistical tools. Morever they do not need to satisfy the parametric asumptions of the stistical techniques. Simulations about simulated and real data are shown: multi-layer perceptrons versus logistic regresion and discriminant analysis statistical models are compared in classifications tasks, manipulating the correlation patterns within input variables (predictors) and between the input variables with the output variable (criterion). Results show that neural networks classify better than statistical tools both in simulated data as in empirical data (González-Romá et al, 1999) (AU)</dc:description>
+<dc:creator>Francisco Roy, Juan</dc:creator>
+<dc:creator>Pitarque, Alfonso</dc:creator>
+<dc:creator>Ruiz, Juan Carlos</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Recientemente diversos trabajos (ver p.e. Cherkassky, Friedman y Wechsler, 1994; Ripley, 1996) han analizado las relaciones entre redes neurales y técnicas estadísticas convencionales. Aunque los resultados no son concluyentes, en general las redes neurales han mostrado una capacidad clasificatoria igual o superior que las técnicas estadísticas, con la ventaja de poderse utilizar independientemente del cumplimiento de los supuestos téoricos relativos a estas técnicas (de ahí que se haya hablado de ellas como de &#147;técnicas no paramétricas&#148;). Se presentan una serie de simulaciones y aplicaciones sobre datos reales que apoyan esta idea. En concreto contrastamos redes neurales del tipo perceptrón multi-capa contra modelos de regresión logística y análisis discriminante en tareas de clasificación, manipulando los patrones de correlación existentes entre los predictores (o variables de entrada) por un lado, y entre predictores con el criterio (variable de salida) por otro. Los resultados muestran que las redes neurales clasifican mejor que las técnicas estadísticas, incluso en la condición a priori más favorable a éstas, es decir, cuando existen altas correlaciones entre los predictores con el criterio pero bajas correlaciones entre los predictores. Un patrón de resultados similares aparece en tareas de clasificación con datos reales. Se discuten los resultados en el marco de la polémica redes neurales vs modelos estadísticos convencionales (ver p.e. Sarle, 1999), valorando si vale la pena ganar en capacidad clasificatoria a costa de incrementar el costo computacional y de recursos involucrados en el entrenamiento de las redes neurales (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);12(supl.2): 459-463, 2000. graf</dc:source>
+<dc:identifier>ibc-150232</dc:identifier>
+<dc:title xml:lang="es">Las redes neuronales como herramientas estadísticas no paramétricas de clasificación</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d32016</dc:subject>
+<dc:subject>^d29935</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28575</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200000</dc:date>
+</metadata>
+</record>
+</ibecs-document>

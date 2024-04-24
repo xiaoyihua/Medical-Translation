@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-102508</identifier>
+<setSpec>0304-5013</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cost-effectiveness analysis of conventional and liquid cervicovaginal cytology</dc:title>
+<dc:description xml:lang="en">Introduction. Cervical cancer is a major public health concern, causing approximately 10% of deaths from cancer in women worldwide. Objective. To determine the cost-effectiveness ratio of liquid-based cytology compared with the conventional cytological smear test for the detection of precancerous lesions of the cervix. Methods. A decision analysis model was constructed from the perspective of the public healthcare system. The alternatives compared were conventional and liquid-based cytology. The economic evaluation compared the short-term effectiveness and cost of testing. The measures of effectiveness used were the yield of the test (the proportion of correctly identified cases of cervical lesion in the population) and the «adjusted yield» (the proportion of cases identified minus false negatives). Data on diagnostic accuracy (sensitivity and specificity) and prevalence were obtained from a meta-analysis. Cost values were provided by the Virgen de las Nieves Hospital (Granada, Spain). To assess the uncertainty of the variables included in the model, several univariate and probabilistic sensitivity analyses were carried out. Results. The incremental cost of liquid-based cytology compared with conventional cytology was &#128;919.49 for each cervical intraepithelial neoplasia (CIN1) or higher-stage lesion found. When the adjusted yield was used as the measure of effectiveness, the incremental cost-effectiveness ratio increased to &#128;574 per lesion identified (AU)</dc:description>
+<dc:creator>Olry de Labry Lima, Antonio</dc:creator>
+<dc:creator>García Mochón, Leticia</dc:creator>
+<dc:creator>Ruiz Aragón, Jesús</dc:creator>
+<dc:creator>Epstein, David</dc:creator>
+<dc:creator>Espín Balbino, Jaime</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. El cáncer de cérvix es un importante problema de salud pública, ya que produce cerca del 10% de las defunciones femeninas por cáncer en el todo el mundo. Objetivo. Determinar el ratio coste-efectividad de la citología de base líquida frente a la citología convencional para la detección de lesiones precancerosas de cérvix. Metodología. Se ha realizado un modelo de análisis de decisión, desde la perspectiva del sistema sanitario público. Las alternativas de comparación han sido la citología convencional frente a la citología líquida. La evaluación económica comparó la efectividad a corto plazo y el coste de realización de la prueba. Las medidas de efectividad utilizadas han sido los casos encontrados y los casos efectivos (casos encontrados menos falsos negativos). Los valores de exactitud diagnóstica (sensibilidad y especificidad) y prevalencia se extrajeron de un metaanálisis y los costes fueron facilitados por el Hospital Virgen de las Nieves de Granada. Con objeto de evaluar la incertidumbre de las variables incluidas en el modelo, se realizaron diversos análisis de sensibilidad univariante y probabilístico. Resultados. El coste de la determinación de lesiones mediante citología líquida en lugar de citología convencional será de 919,49euros por cada lesión superior a CIN1 encontrada. De la misma manera, al utilizar como medida de efectividad los casos efectivos se observa una efectividad incremental de 0,0375, siendo el ratio coste-efectividad incremental de 574,33euros por lesión identificada (AU)</dc:description>
+<dc:source>Prog. obstet. ginecol. (Ed. impr.);55(7): 304-311, ago.-sept. 2012.</dc:source>
+<dc:identifier>ibc-102508</dc:identifier>
+<dc:title xml:lang="es">Análisis de coste-efectividad de la prueba de citología cervicovaginal</dc:title>
+<dc:subject>^d2617^s22018</dc:subject>
+<dc:subject>^d2617^s22016</dc:subject>
+<dc:subject>^d2623^s22018</dc:subject>
+<dc:subject>^d2623^s22016</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d50303</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d2624^s22010</dc:subject>
+<dc:subject>^d28455^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201209</dc:date>
+</metadata>
+</record>
+</ibecs-document>

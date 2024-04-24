@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-60566</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">How proviral DNA is integrated into the host cell DNA and how this process can be inhibited</dc:title>
+<dc:description xml:lang="en">The HIV replication cycle passes through a stage of integrating proviral DNA into the cell¿s DNA. In this process, the viral enzyme, integrase, catalyses two reactions. The first reaction, which seems to occur in the cytoplasm, involves 3¿-end processing, in which two nucleotides are removed from the 3¿ ends of the viral DNA by integrase. The second reaction, which occurs in the nucleus, involves the strand transfer reaction, catalyzed by integrase, in which the recessed 3¿ ends of the viral DNA are joined to the protruding 5¿ ends in the target DNA. Although this activity has not yet been completely defined and the structure of the active form of integrase, probably a tetramer, has not been resolved, drugs of the diketoacid (DKA) family have been found. These drugs are highly potent inhibitors of the second phase, the strand transfer reaction. Through a series of optimizations, a highly effective molecule for clinical use, raltegravir, has been achieved. The present article provides a summary of basic knowledge on integrase, as well as the activity and the modes of inhibition of this enzyme. Also discussed is the reduced, but nevertheless real, development of resistance to raltegravir, requiring second-generation integrase inhibitors to be designed(AU)</dc:description>
+<dc:creator>Mirambeau, Gilles</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El ciclo de replicación del virus de la inmunodeficiencia humana pasa por una etapa de integración de su ADN proviral dentro del ADN de la célula. Este proceso implica que la integrasa (IN), la enzima viral, se asocia a los extremos del ADN proviral para actuar en dos etapas. La primera fase que parece citoplásmica incumbe al ®procesado 3¿», donde la IN corta 2 nucleótidos en cada extremo 3¿ de la doble hélice viral. La segunda fase que ocurre en el núcleo corresponde a la transferencia de hebra que la IN cataliza, combinando 2 roturas monocatenarias del ADN celular con la unión de cada extremo 3¿ del ADN viral al extremo 5¿ del ADN celular. A pesar de que esta actividad todavía no se entiende perfectamente y que la estructura de la integrasa no está resuelta en su forma activa, que supone un estado de tetrámero, se ha encontrado fármacos de la familia del ácido diacetónico como inhibidores muy potentes de la segunda etapa, la transferencia de hebra, que han llegado por medio de una serie de optimización al encuentro de una molécula muy eficaz clínicamente: el raltegravir. Una síntesis del conocimiento básico sobre la integrasa, su actuación y los modos de inhibición de esta enzima se presenta en este capítulo con la perspectiva actual del encuentro de la segunda generación de inhibidores de integrasa, teniendo en cuenta la aparición reducida pero real de resistencia al raltegravir(AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;26(supl.12): 11-16, nov. 2008.</dc:source>
+<dc:identifier>ibc-60566</dc:identifier>
+<dc:title xml:lang="es">Cómo se integra el ADN proviral en el ADN de la célula del huésped y cómo se puede inhibir el proceso</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d24718^s22057</dc:subject>
+<dc:subject>^d38332^s22079</dc:subject>
+<dc:subject>^d33016^s22079</dc:subject>
+<dc:subject>^d29749</dc:subject>
+<dc:subject>^d22163^s22021</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d15181^s22021</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200811</dc:date>
+</metadata>
+</record>
+</ibecs-document>

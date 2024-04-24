@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-2403</identifier>
+<setSpec>0302-4342</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Bone maturity evaluation by automazed metric measurements</dc:title>
+<dc:creator>Suanes Cabello, A</dc:creator>
+<dc:creator>Cañete Estrada, R</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Objetivos : La precisión y rapidez de los procedimientos informáticos facilita la valoración de la maduración ósea por mediciones en las imágenes óseas. En este trabajo hemos analizado la adecuación de algunas de estas medidas para la valoración del crecimiento o la maduración ósea. Material y métodos: Se estudian 200 radiografías de mano y muñeca izquier das de niños y niñas de edades comprendidas entre 2 y 18 años por un procedimiento automatizado de análisis de imagen (IMAGO-2) determinando parámetros indicadores de crecimiento o maduración. Los niños fueron examinados semestralmente (18 a 36 meses) obteniéndose varios datos auxológicos (peso, talla, maduración ósea, método TW2, etc.). Se estudia (por análisis de correlación lineal y regresión múltiple) la relación entre los parámetros automatizados indicadores de maduración o crecimiento y los datos auxológicos. Resultados Todos los parámetros se correlacionan con la edad cronológica. El parámetro área presenta los mayores coeficientes de correlación respecto al peso y a la velocidad de crecimiento. El perímetro presenta la mejor correlación con la talla y la maduración ósea (TW2). Las variaciones en algunas de las mediciones de la separación de la forma circular se relacionan con los cambios en los datos auxológicos. Conclusiones Es difícil catalogar categóricamente a una medida como indicador exclusivo de maduración o de crecimiento. Los parámetros estudiados se correlacionan mejor con la maduración ósea (TW2) que con otros datos auxológicos (peso o talla), lo que podría indicar su utilidad para la valoración de la maduración ósea (AU)</dc:description>
+<dc:source>An Esp Pediatr;52(2): 123-131, feb. 2000.</dc:source>
+<dc:identifier>ibc-2403</dc:identifier>
+<dc:title xml:lang="es">Evaluación de la maduración ósea mediante mediciones métricas automatizadas</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d22347</dc:subject>
+<dc:subject>^d1871</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d27937</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d2715</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200002</dc:date>
+</metadata>
+</record>
+</ibecs-document>

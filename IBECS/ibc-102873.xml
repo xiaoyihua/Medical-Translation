@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-102873</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The number of authors in Gaceta Sanitaria</dc:title>
+<dc:creator>Álvarez-Dardet, Carlos</dc:creator>
+<dc:creator>Godoy, Pere</dc:creator>
+<dc:creator>Borrell, Carme</dc:creator>
+<dc:creator>Angel Negrín, Miguel</dc:creator>
+<dc:creator>Ruano, Alberto</dc:creator>
+<dc:language>es</dc:language>
+<dc:source>Gac Sanit;26(5): 492-493, sep-oct. 2012.</dc:source>
+<dc:identifier>ibc-102873</dc:identifier>
+<dc:title xml:lang="es">El número de autores en G aceta S anitaria</dc:title>
+<dc:subject>^d29625</dc:subject>
+<dc:subject>^d37728</dc:subject>
+<dc:subject>^d29638</dc:subject>
+<dc:subject>^d10697</dc:subject>
+<dc:subject>^d50117</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201210</dc:date>
+</metadata>
+</record>
+</ibecs-document>

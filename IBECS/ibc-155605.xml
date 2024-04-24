@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-155605</identifier>
+<setSpec>0213-4853</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Factors associated with in-hospital delays in treating acute stroke with intravenous thrombolysis in a tertiary centre</dc:title>
+<dc:description xml:lang="en">Objective: This study aims to determine which factors are associated with delays in door-to needle (DTN) time in our hospital. This will help us design future strategies to shorten time to treatment with intravenous thrombolysis (IVT). Methods: Retrospective analysis of a prospective cohort of patients with ischaemic stroke treated with IVT in our hospital between 2009 and 2012. We analysed the relationship between DTN time and the following variables: age, sex, personal medical history, onset-to-door time, pre-hospital stroke code activation, blood pressure and blood glucose level, National Institutes of Health Stroke Scale (NIHSS), computed tomography angiography (CTA) and/or doppler/duplex ultrasound (DUS) performed before IVT, time to hospital arrival, and day of the week and year of stroke. Results: Our hospital treated 239 patients. Median time to treatment in minutes (IQR): onset-to-door, 84 (60-120); door-to-CT, 17 (13-24.75); CT-to needle, 34 (26-47); door-to-needle, 52 (43-70); onset-to-needle, 145 (120-180). Door-to-needle time was significantly shorter when code stroke was activated, at 51 vs. 72min (P=0.008), and longer when CTA was performed, at 59 vs. 48.5min (P=0.004); it was also longer with an onset-to-door time&lt;90min, at 58 vs. 48min (P=0.003). The multivariate linear regression analysis detected 2 factors affecting DTN: code stroke activation (26.3% reduction; P&lt;0.001) and onset-to-door time (every 30min of onset-to-door delay corresponded to a 4.7min increase in DTN time [P=0.02]). On the other hand, CTA resulted in a 13.4% increase in DTN (P=0.03). No other factors had a significant influence on door-to-needle time. Conclusions: This study enabled us to identify CTA and the «3-hour effect» as the 2 factors that delay IVT in our hospital. In contrast, activating code stroke clearly reduces DTN. This information will be useful in our future attempts to reduce door-to-needle times (AU)</dc:description>
+<dc:creator>García Pastor, A</dc:creator>
+<dc:creator>Fernández Bullido, Y</dc:creator>
+<dc:creator>Sobrino García, P</dc:creator>
+<dc:creator>García Arratibel, A</dc:creator>
+<dc:creator>Domínguez Rubio, R</dc:creator>
+<dc:creator>Vázquez Alen, P</dc:creator>
+<dc:creator>Iglesias Mohedano, AM</dc:creator>
+<dc:creator>Villanueva Osorio, JA</dc:creator>
+<dc:creator>Muñoz González, A</dc:creator>
+<dc:creator>Romero Delgado, F</dc:creator>
+<dc:creator>Gil Núñez, A</dc:creator>
+<dc:creator>Díaz Otero, F</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Identificar los factores que influyen en el tiempo puerta-aguja (tiempo P-A) en la administración de trombólisis intravenosa (TIV) en un hospital terciario para diseñar futuras estrategias que acorten los tiempos. Métodos: Estudio retrospectivo de pacientes tratados con TIV entre 2009 y 2012. Analizamos la relación entre el tiempo P-A y los siguientes factores: edad, sexo, antecedentes personales, tiempo inicio-puerta, activación de código ictus extrahospitalario (CIE), glucemia y presión arterial basal, NIHSS basal, realización de angio-TC o estudio neurosonológico previo, hora de llegada al hospital, día de la semana y año del ictus. Resultados: Hubo un total de 239 pacientes tratados. Tiempos de actuación en min (mediana [rango intercuartílico]): tiempo inicio-puerta 84 (60-120); tiempo puerta-TC 17 (13-24,75) tiempo TC-aguja 34 (26-47); tiempo puerta-aguja 52 (43-70); tiempo inicio-aguja 145 (120-180). El tiempo P-A fue significativamente menor con la activación del CIE: 51 vs. 72 (p=0,008), y mayor con la realización de angio-TC: 59 vs. 48,5 (p=0,004) y con tiempo inicio-puerta &lt; 90 min: 58 vs. 48 (p=0,003). En el análisis de regresión lineal múltiple 2 factores redujeron significativamente el tiempo P-A: la activación de CIE (reducción=26,3%; p&lt;0,001) y el tiempo inicio-puerta (por cada 30 min de tiempo inicio-puerta, el tiempo P-A se acortó 4,7 min; p=0,02). Por el contrario realizar una angio-TC aumentó un 13,4% el tiempo P-A (p=0,03). Los demás factores no influyeron significativamente en el tiempo P-A. Conclusiones: La realización de angio-TC y el «efecto de las 3 h» son 2 factores que retrasan el inicio de la TIV en nuestro hospital. Por el contrario el CIE reduce claramente los tiempos P-A. Los resultados de este estudio nos han permitido identificar qué factores retrasan nuestra actuación y servirán en un futuro para intentar disminuir los tiempos P-A en nuestro hospital (AU)</dc:description>
+<dc:source>Neurologia;31(7): 452-458, sept. 2016. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-155605</dc:identifier>
+<dc:title xml:lang="es">Identificación de los factores que influyen en el retraso intrahospitalario del inicio de trombólisis intravenosa en el ictus agudo en un hospital terciario</dc:title>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d22261</dc:subject>
+<dc:subject>^d1287^s22012</dc:subject>
+<dc:subject>^d24892^s22074</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d1812^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d1287^s22016</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d55111^s22021</dc:subject>
+<dc:subject>^d55111^s22031</dc:subject>
+<dc:subject>^d24892^s22039</dc:subject>
+<dc:subject>^d24769</dc:subject>
+<dc:subject>^d50216</dc:subject>
+<dc:subject>^d24892^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201609</dc:date>
+</metadata>
+</record>
+</ibecs-document>

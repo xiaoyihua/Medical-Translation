@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-14684</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">An examination of the robustness of the modified Brown-Forsythe and the Welch-James tests in the multivariative Split-Plot design</dc:title>
+<dc:description xml:lang="en">The aim of this paper is to evaluate the robustness of the Welch-James multivariate solution given by Johansen (1980), and the improved multivariate Brown-Forsythe (1974) procedure when covariance matrices are heterogeneous. The results indicate that when design is unbalanced and the data are multivariate normally distributed, both approaches show a good control of error rates for the within-subjects main effect. When normality and homogeneity assumptions are jointly violated, none of the procedures was able to control the error rates in all of the investigated conditions. With regard to the test of the interaction effect, our results indicate that the modified Brown-Forsythe procedure can effectively control the rate of Type I errors when dispersion matrices are heterogeneous, and also when the data are sampled from a skewed distribution. This finding held even when the degree of heterogeneity of the covariance matrices was varied across the design. The Welch-James test is not a adequate solution, since the sample sizes required to achieve robustness could be unreasonably large, particularly when the multivariate normality assumption is violated (AU)</dc:description>
+<dc:creator>Escudero, J. Ramón</dc:creator>
+<dc:creator>Vallejo, Guillermo</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Un examen de la robustez de las pruebas de Welch-James y Brown-Forsythe modificada en diseños multivariados split-plot. Mediante el presente trabajo se pretende evaluar la robustez de la solución multivariada Welch-James dada por Johans en (1980) y la versión mejorada del enfoque multivariado de Brown y Forsythe (1974) cuando las matrices de dispersión son heterogéneas. Los resultados indican que cuando el diseño es desequilibrado y los datos son extraídos desde una distribución normal ambos enfoques controlan adecuadamente las tasas de error asociadas con el efecto principal de las ocasiones de medida. Sin embargo, cuando se incumplen los supuestos de normalidad y homogeneidad, ningún procedimiento es capaz de proporcionar un control estricto de las tasas de error. Por lo que respecta a la interacción, los resultados ponen de relieve que el procedimiento modificado de Brown-Forsy the ejerce un control muy satisfactorio de las tasas de error cuando los datos se obtienen desde distribuciones sesgadas. Este resultado también se mantiene cuando el grado de heterogeneidad de las matrices de covarianza se varía a lo largo del diseño. Bajo esta condición el procedimiento de Welch-James no constituye una solución adecuada, dado que los tamaños de muestra requeridos para lograr la robustez pueden llegar a ser exagerados, sobre manera, cuando los datos carecen de normalidad (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);12(4): 701-711, nov. 2000. tab, ilus</dc:source>
+<dc:identifier>ibc-14684</dc:identifier>
+<dc:title xml:lang="es">Un examen de la robustez de las pruebas Welch-James y Brown-Forsythe modificada en diseños multivariados Split-Plot</dc:title>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d24535</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d2715</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200011</dc:date>
+</metadata>
+</record>
+</ibecs-document>

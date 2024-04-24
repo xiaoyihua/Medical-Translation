@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-149993</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Multiple time series autorregresive models</dc:title>
+<dc:description xml:lang="en">The aim of this work is to explore the utilisation of vector autorregresive models to obtain a estimation of the generating mechanism of psychological processes. Two basis of data have been gathered, one of artificial data generated from a known model (Richardson&#146;s interaction model), and other consisting of real data obtained from an experiment on the "Prisoner&#146;s Dilemma". The results obtained from artificial data show that the estimated model fits quite well the true model, and the results obtained with real data show that the model explains a significative amount of data variation (AU)</dc:description>
+<dc:creator>Chorro Gascó, Juan Luis</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Este trabajo explora la posibilidad de utilizar modelos ateóricos como son los modelos vectoriales de series temporales múltiples con la finalidad de obtener una estimación del mecanismo generador del proceso psicológico. Para ello se ha generado dos bases de datos, una de ellas con datos artificiales a partir de un modelo conocido (el modelo de interacción de Richardson), y otra con datos reales obtenidos en un experimento sobre el «Dilema del Prisionero» en que se desconoce el mecanismo explicativo del proceso. Las resultados obtenidos con datos artificiales muestran que el modelo estimado se aproxima al modelo original que genera los datos, y los resultados obtenidos con datos reales muestra que el modelo explica un porcentaje importante de la variación de los datos (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);12(supl.2): 132-134, 2000.</dc:source>
+<dc:identifier>ibc-149993</dc:identifier>
+<dc:title xml:lang="es">Modelos autorregresivos de series temporales múltiples</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d28419</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:subject>^d28575</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200000</dc:date>
+</metadata>
+</record>
+</ibecs-document>

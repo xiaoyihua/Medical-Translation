@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-10068</identifier>
+<setSpec>1139-1375</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Measurement of peritoneal rsiudal volumen in CAPD</dc:title>
+<dc:creator>Baldayo, Berta</dc:creator>
+<dc:creator>Gil, Olga</dc:creator>
+<dc:creator>Corlabán, M. Jesús</dc:creator>
+<dc:creator>Cerrillo, Vicente</dc:creator>
+<dc:creator>Aícart, Carmen</dc:creator>
+<dc:creator>Carreras, Rosa</dc:creator>
+<dc:creator>Agramunt, Isabel</dc:creator>
+<dc:creator>Beltrán, María</dc:creator>
+<dc:creator>Carratalá, Jesús</dc:creator>
+<dc:creator>Muñoz, Joaquín</dc:creator>
+<dc:creator>Monferrer, Araceli</dc:creator>
+<dc:creator>Gozalbo, Rosa</dc:creator>
+<dc:creator>Oria, José</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>SEDEN. Sociedad Española de Enfermeria Nefrologica</dc:publisher>
+<dc:description xml:lang="es">Los objetivos del estudio fueron calcular el volumen residual peritoneal (VR) y analizar la relación de VR con el volumen de drenaje (VD).Se analizaron 22 determinaciones de VR, 12 a partir del drenaje de la noche y 10 a partir del drenaje del TER (Test de equilibrio peritoneal), realizado en nueve pacientes en diálisis peritoneal. Se calcula VR=Vinf*(S3-S2)/(SI-S3), donde Vinf es el volumen de infusión peritoneal, S1 las concentraciones de soluto en el drenaje nocturno o del TER, S2 en el baño "limpio" y S3 en el TEP=O (10 min) o infusión después del TEP. Se estudian los solutos urea, creatinina, glucosa, potasio y albúmina. Se analizan las concentraciones de solutos en las bolsas "limpias" de dializado del TEP y en la posterior, para detectar interferencias de la glucosa en las concentraciones de solutos.Los valores promedio de VR oscilaron entre 2,11 dl calculado para la creatinina y 3,41 dl para la albúmina, con una media de los cinco solutos de 2,66ñ1,09 dl. Se observa una correlación negativa entre VR y VD para la creatinina (r=0,49, p=0,019) y la media de los cinco solutos (r=0,53, p=0,020). Los valores de VD y los de VR para los cinco solutos no presentan diferencias entre los procedentes del inicio y del final del TEP. La distinta composición encontrada por otros autores de la bolsa de dializado del TER podría explicar las diferencias en los cálculos de VR respecto a los valores de este estudio. (AU)</dc:description>
+<dc:source>Rev. Soc. Esp. Enferm. Nefrol;3(2): 15-18, ene. 2000. tab, graf</dc:source>
+<dc:identifier>ibc-10068</dc:identifier>
+<dc:title xml:lang="es">Medida del volumen residual peritoneal en DPCA</dc:title>
+<dc:subject>^d421^s22002</dc:subject>
+<dc:subject>^d29504^s22045</dc:subject>
+<dc:subject>^d29504^s22024</dc:subject>
+<dc:subject>^d14907^s22002</dc:subject>
+<dc:subject>^d27796^s22031</dc:subject>
+<dc:subject>^d3421^s22002</dc:subject>
+<dc:subject>^d11626^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d7438</dc:subject>
+<dc:subject>^d23606^s29165</dc:subject>
+<dc:subject>^d6091^s22002</dc:subject>
+<dc:subject>^d10719</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200001</dc:date>
+</metadata>
+</record>
+</ibecs-document>

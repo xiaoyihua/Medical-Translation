@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-123965</identifier>
+<setSpec>1695-6141</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Body temperature linear models in postsurgical patients</dc:title>
+<dc:description xml:lang="en">Introduction and objectives: unintentional hypothermia is a situation in which nursing has to be  trained for recognition and control. Our objectives were to evaluate the proportion of patients arriving in  situations of hypothermia (temperature &lt;36 ° C) and to study the behavior of body temperature in the  post-anesthesia care unit. Methods: the measurement was carried out by infrared electronic tympanic thermometer. The contrast  arithmetic test was performed by T tests. When variables contained more than two categories, we used   the one-way ANOVA. Models were constructed with linear and logistic regression.    Results: 85.26% of patients had hypothermia. The average admission temperature of patients treated  with combined anesthesia was significantly lower than that of those treated with local or general. Both in  the univariate and in multivariate models using linear regression, the temperature measured at 90  minutes was the most correlated with the temperature at discharge (coefficient of determination R2 =  0.69, P &lt;0.001).   Discussion: we found a high proportion of patients with hypothermia (body temperature below 36 ° C)  on admission (85.26%). We found no predictor for arrival hypothermia despite combined anesthetized  patients were admitted with an average temperature measuring less than those treated with local or  general (one-way ANOVA p &lt;.05). We consider a minimum stay of 90 minutes for proper control of the  temperature variable in a non docketed empirical overheating (AU)</dc:description>
+<dc:creator>Izquierdo Monge, María Dolores</dc:creator>
+<dc:creator>Beltrán Guerra, Isabel</dc:creator>
+<dc:creator>Ortega Calvo, Manuel</dc:creator>
+<dc:creator>Manuel Santos, José</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos: La hipotermia no intencionada es una situación ante la cual la enfermería ha  de estar entrenada para su reconocimiento y control. Nuestros objetivos han sido: evaluar la proporción  de pacientes que llegaban en situación de hipotermia (temperatura &lt;36ºC) y estudiar el  comportamiento de la temperatura corporal en la Unidad de Recuperación Postanestésica (URPA).    Material y métodos: La medición se llevó a cabo mediante un termómetro timpánico electrónico   infrarrojo. El contraste de medias aritméticas se realizó mediante pruebas T. Cuando las variables  contenían más de dos categorías se empleó la ANOVA de un factor. Se construyeron modelos con  regresión lineal y logística.    Resultados: El 85,26% de los pacientes presentaron hipotermia. La temperatura media de ingreso de  los pacientes tratados con anestesia combinada fue significativamente más baja que la de los tratados  con local o general. Tanto en los modelos univariantes como en los multivariantes con regresión lineal,  la temperatura medida a los 90 minutos fue la que más se correlacionó con la temperatura al alta  (coeficiente de determinación R2 = 0.69; p&lt;0.001). Discusión: Hemos encontrado una proporción elevada de pacientes con hipotermia (temperatura  corporal menor de 36ºC) a su ingreso en la URPA (85,26%). No hemos encontrado ninguna variable  predictora para la hipotermia de llegada a pesar de que los pacientes anestesiados de manera  combinada ingresaban con una temperatura media menor que aquellos tratados con local o con  general (ANOVA de un factor p&lt;0.05). Consideramos una estancia mínima de 90 minutos para un  control adecuado de la variable temperatura en un entorno de recalentamiento empírico no   protocolizado (AU)</dc:description>
+<dc:source>Enferm. glob;13(35): 85-96, jul. 2014. tab, graf</dc:source>
+<dc:identifier>ibc-123965</dc:identifier>
+<dc:title xml:lang="es">Modelos lineales de temperatura corporal en el paciente postquirúrgico</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d55065^s22024</dc:subject>
+<dc:subject>^d11623</dc:subject>
+<dc:subject>^d11622^s22024</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d5444^s22080</dc:subject>
+<dc:subject>^d1856^s22031</dc:subject>
+<dc:subject>^d7215^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201407</dc:date>
+</metadata>
+</record>
+</ibecs-document>

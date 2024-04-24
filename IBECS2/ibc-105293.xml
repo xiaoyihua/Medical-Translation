@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-105293</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Quality of interaction database management systems</dc:title>
+<dc:description xml:lang="en">Objective: To identify drug interaction databases (DID) and assess the quality of their structures. Method: A search was made of the literature for DID and a series of exclusion and structural quality criteria were defined (at least four quality criteria: Classification according to severity, classification according to level of evidence, bibliographical reference data, description of clinical management and 11 criteria used for weighting). The level of compliance of every DID with the criteria defined was analysed, together with the level of compliance of each criteria in each DID. Results: A total of 54 DID were identified, 30 of which complied with exclusion criteria and 15 of which did not meet the minimum criteria. The rest of the criteria were evaluated in nine DID: Bot-plus and Medinteract (100 %), SEFH Guide, Lexi-interact and Medscape (89 %), Hansten (83 %), Micromedex and Stockley (78 %), Drug Interactions Facts (68 %). Ninety-two per cent of the DID describe the mechanism of action, 87 % classify the information according to the active ingredient, 75 % do not state they have any conflict of interest, classify according to level of severity, have electronic format and are easy to search. A total of 67 % are specific DID, 62 % are classified according to level of evidence, contain bibliographical references and describe clinical management. Conclusions: A third of the DID comply with the minimum criteria. Differences were observed in the level and compliance criteria among Spanish and foreign DID. Some of the main DID used as references in the bibliography have significant structural defects: no web presentation, no multi-check function and others (AU)</dc:description>
+<dc:creator>Palma, D</dc:creator>
+<dc:creator>Santos-Ramos, B</dc:creator>
+<dc:creator>Aguilar, A</dc:creator>
+<dc:creator>Rodríguez-Terol, A</dc:creator>
+<dc:creator>Caraballo, M. O</dc:creator>
+<dc:creator>Desongles, T</dc:creator>
+<dc:creator>Molina, T</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Identificar bases de datos de interacciones medicamentosas (BDIM) y valorar su calidad estructural. Método: Se realizó una búsqueda bibliográfica de BDIM y una definición de criterios de exclusión y calidad estructural (4 criterios de calidad mínima: estratificación según grado de gravedad, clasificación según nivel de evidencia, referencia bibliográfica de datos, descripción del manejo clínico, y 11 criterios que aportaban peso ponderal). Se analizó el grado de cumplimiento en cada BDIM de los criterios definidos y el grado de cumplimiento de cada criterio en todas las BDIM. Resultados: Se identificaron 54 BDIM de las que 30 cumplían criterios de exclusión y 15 no reunían criterios mínimos. Se valoró el resto de los criterios en 9 BSM: Bot-plus y Medinteract (100 %), Guía de la SEFH, Lexi-interact y Medscape (89 %), Hansten (83 %), Micromedex y Stockley (78 %), Drug Interactions Facts (68 %). El 92 % de las BDIM describen mecanismo de acción, el 87 % estructura la información por principio activo, el 75 % no declara tener conflicto de intereses, estratifica según grado de gravedad, tiene soporte informático y la búsqueda es ágil. El 67 % son BDIM específicas, el 62 % clasifica según nivel de evidencia, contiene referencias bibliográficas y describe el manejo clínico. Conclusiones: Un tercio de las BDIM cumplen criterios mínimos. Se encontraron diferencias en el grado y el criterio de cumplimiento entre las BDIM españolas y las de otros países. Algunas de las principales BDIM utilizadas como referentes en la bibliografía presentan importantes deficiencias estructurales: la falta de presentación web y de función multi-check y otras (AU)</dc:description>
+<dc:source>Farm Hosp;33(3): 134-146, May. -Jun. 2009. tab</dc:source>
+<dc:identifier>ibc-105293</dc:identifier>
+<dc:title xml:lang="es">Calidad estructural de las bases de datos de interacciones</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d^s22066</dc:subject>
+<dc:subject>^d12223</dc:subject>
+<dc:subject>^d33619^s22066</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4409</dc:subject>
+<dc:subject>^d^s22049</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200906</dc:date>
+</metadata>
+</record>
+</ibecs-document>

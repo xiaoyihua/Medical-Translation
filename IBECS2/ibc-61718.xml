@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-61718</identifier>
+<setSpec>1575-0922</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Food Intolerance</dc:title>
+<dc:description xml:lang="en">Adverse food reactions are common in the general population. Nevertheless, our knowledge of the structure of food allergens and of the mechanisms involved is poor. In 1995 the European Academy of Allergology and Clinical Immunology suggested a classification based on the causative pathogenic mechanism. According to this classification, non-toxic reactions can be divided into food allergies when they recognize immunological mechanisms and food intolerance when there are no immunological implications. The treatment of food intolerance is avoidance of the particular food. There are specific treatments for some food intolerance (betha-galatosidases for the management of lactose intolerance) (AU)</dc:description>
+<dc:creator>Zugasti Murillo, Ana</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Las reacciones adversas a los alimentos son episodios frecuentes en la población general. Sin embargo, el conocimiento exacto de los alérgenos alimentarios y los mecanismos implicados en estos procesos es pobre. En 1995 el Subcomité de Reacciones Adversas de la Academia Europea de Alergología e Inmunología Clínica propuso una clasificación de las reacciones adversas a los alimentos, basada más en los mecanismos fisiopatológicos que en las manifestaciones clínicas. De acuerdo con esta clasificación, las reacciones no tóxicas se pueden dividir en alergia alimentaria, cuando intervienen mecanismos inmunológicos, e intolerancia alimentaria, cuando no media un mecanismo inmunológico. El tratamiento principal de la intolerancia alimentaria consiste en la eliminación del alimento en cuestión de la dieta habitual. Por otro lado, hay tratamientos específicos para algunos tipos de intolerancias alimentarias (por ejemplo, betagalactosidasas en los casos de hipoabsorción de lactosa) (AU)</dc:description>
+<dc:source>Endocrinol Nutr;56(5): 241-250, mayo 2009. tab, graf</dc:source>
+<dc:identifier>ibc-61718</dc:identifier>
+<dc:title xml:lang="es">Intolerancia alimentaria</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d5639^s22020</dc:subject>
+<dc:subject>^d6795</dc:subject>
+<dc:subject>^d7964^s22016</dc:subject>
+<dc:subject>^d5651^s22016</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d5656^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200905</dc:date>
+</metadata>
+</record>
+</ibecs-document>

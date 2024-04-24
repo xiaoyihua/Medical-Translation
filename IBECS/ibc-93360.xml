@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-93360</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">No disponible</dc:title>
+<dc:creator>Naranjo, S</dc:creator>
+<dc:creator>Zurbano, F</dc:creator>
+<dc:creator>González-Castro, A</dc:creator>
+<dc:creator>González-Fernández, C</dc:creator>
+<dc:creator>Fernández-Rozas, S</dc:creator>
+<dc:creator>Mons, R</dc:creator>
+<dc:creator>Ballesteros, M. A</dc:creator>
+<dc:creator>Miñambres, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Analizar la supervivencia a corto (un mes), medio (un año) y largo plazo (cinco años)en todos los pacientes sometidos a un trasplante pulmonar (TP) cuyo donante tuviera al menos 55 años.Pacientes y métodos: Se incluyó a todos los pacientes sometidos a un TP cuyo donante tuviera55 años o más. Se analizó la asociación de las diferentes variables estudiadas con la mortalidad precoz, anual y al quinto año. Se utilizó la regresión logística en el estudio de factores de riesgo para mortalidad precoz y se utilizó la regresión de riesgos proporcionales de Cox en el estudio de factores de riesgo para la mortalidad al año y al quinto año, introduciendo las variables con un valor de p &lt; 0,2 en el análisis bivariante. Se efectuó un análisis de supervivencia mediante el método de Kaplan-Meier.Resultados: Se analizó un total de 33 pacientes sometidos a un TP con donantes de 55 años omás. La probabilidad de supervivencia fue del 90,9, el 78,5 y el 44,8% al mes, año y cinco años respectivamente. La edad elevada del receptor (p = 0,16) y la realización de un trasplante unipulmonar(p = 0,09) fueron las variables que se asociaron o mostraron tendencia a la asociación con la mortalidad.Conclusiones: La decisión final en la aceptación de un injerto pulmonar se debe basar en la evaluación individual de cada donante y receptor. Sin embargo, dada la escasez de injertos pulmonares, parece adecuado considerar de inicio para la donación pulmonar a los pacientes de 55 o más años (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);35(7): 403-409, oct. 2011. ilus, tab</dc:source>
+<dc:identifier>ibc-93360</dc:identifier>
+<dc:title xml:lang="es">Trasplante pulmonar con donantes de edad marginal (&amp;#8805; 55 años)</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d14411</dc:subject>
+<dc:subject>^d32281</dc:subject>
+<dc:subject>^d29477^s22083</dc:subject>
+<dc:subject>^d50293</dc:subject>
+<dc:subject>^d14408^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d29362</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201110</dc:date>
+</metadata>
+</record>
+</ibecs-document>

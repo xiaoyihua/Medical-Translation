@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-133357</identifier>
+<setSpec>0214-3429</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prevention of an outbreak of Acinetobacter baumannii in intensive care units: study of the efficacy of different mathematical methods</dc:title>
+<dc:description xml:lang="en">Introduction. Although in past decades, Acinetobacter baumanni infections have been sporadically identified in hospitals, nowadays the nosocomial infections due to this pathogen have notably increased. Its importance is due to its multidrug-resistance, morbidity and mortatility in healthcare settings. Consequently, it is important to predict the evolution of these outbreaks in order to stablish the most efficient control measures. There are several experimental studies shown that the compliance with hand and environmental hygiene and the efficient management of the healthcare work help to control the evolution of these outbreaks. The goal of this work is to formally proof these experimental results by means of the analysis of the results provided by the model. Methods. A stochastic mathematical model based on cellular automata was developed. The variables and parameters involved in it have been identified from the knowledge of the epidemiology and main characteristics of Acinetobacter infections. Results. The model provides several simulations from different initial conditions. The analysis of these results proofs in a formal way that the compliance with hand and environmental hygiene and an efficient plannification of the work of healtcare workers yield a decrease in the colonized patients. Moreover, this is the unique model proposed studying the dynamics of an outbreak of A. baumanni. Conclusions. The computational implementation of the model provides us an efficient tool in the management of outbreaks due to A. baumanni. The analysis of the simulations obtained allows us to obtain a formal proof of the behaviour of the measures for control and prevention (AU)</dc:description>
+<dc:creator>Fresnadillo-Martínez, María José</dc:creator>
+<dc:creator>Rodríguez-Sánchez, Gerardo</dc:creator>
+<dc:creator>Martín-del Rey, Ángel</dc:creator>
+<dc:creator>García-Sánchez, Enrique</dc:creator>
+<dc:creator>García-Merino, Enrique</dc:creator>
+<dc:creator>García-Sánchez, José Elías</dc:creator>
+<dc:creator>Rodríguez-Encinas, Ángel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. Las infecciones nosocomiales por Acinetobacter baumannii han pasado de ser un hecho poco representativo a habitual en muchos servicios de Medicina Intensiva por su frecuencia, mortalidad asociada y resistencia a los antimicrobianos. Cuando se produce un brote es importante poder predecir su evolución y el impacto global e individualizado de los diferentes métodos de control. Se ha demostrado experimentalmente que tomar determinadas medidas (lavado de manos, planificación del trabajo del personal sanitario, etc.) ayuda a controlar y prevenir tanto la aparición como la extensión de dichos brotes. El objetivo es demostrar de manera formal los resultados empíricos comentados anteriormente valiéndonos de un novedoso modelo matemático. Material y Métodos. Se desarrolló un modelo matemático estocástico basado en autómatas celulares. A partir del conocimiento de la epidemiología y de las características de A. baumanii se identificaron las variables y los parámetros del modelo. Resultados. El modelo proporciona múltiples simulaciones usando diferentes condiciones iniciales. Su análisis demuestra formalmente que el cumplimiento con las normas de higiene así como una correcta planificación del trabajo del personal sanitario reduce el número de pacientes colonizados. Asimismo, no existe en la literatura especializada otro modelo matemático que estudie la dinámica de un brote por A. baumannii. Conclusiones. La implementación computacional del modelo proporciona una herramienta de gran utilidad para la comunidad sanitaria en la gestión de brotes por A. baumanii en ambientes hospitalarios. Se prueba matemáticamente como unas eficientes medidas higiénicas y de planificación del trabajo del personal sanitario reducen el número de pacientes colonizados (AU)</dc:description>
+<dc:source>Rev Esp Quimioter;28(1): 10-20, feb. 2015. tab, ilus</dc:source>
+<dc:identifier>ibc-133357</dc:identifier>
+<dc:title xml:lang="es">Prevención de un brote de Acinetobacter baumannii en una unidad de cuidados intensivos: eficacia de diversos métodos matemáticos</dc:title>
+<dc:subject>^d28477^s22054</dc:subject>
+<dc:subject>^d36585^s22052</dc:subject>
+<dc:subject>^d28589^s22054</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d32532</dc:subject>
+<dc:subject>^d22165</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201502</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-041554</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Metaanalysis on the utility of multislice computed tomography to detect stenotic coronary lesions. Segmental coronary analysis</dc:title>
+<dc:description xml:lang="en">Objective: The multislice computed tomography (MSCT) permits visualization of the coronary arteries and thus the detection of stenotic arteriosclerotic lesions. This present study aimed to analyze the diagnostic capacity of the MSCT to detect stenotic coronary lesions. Material and methods: A metaanalysis was conducted through the search in the MEDLINE and EMBASE data bases of the works that analyzed sensitivity and specificity of MSCT for the diagnosis of coronary disease, using a division of the coronary tree by segments. Finally 10 studies were included, with a total of 498 patients and 5322 coronary segments. Results: The percentage of the correctly visualized segments ranged from 70% to 96%. After grouping the information provided by the individual studies, global estimation of sensitivity was 0.79 (95% CI: 0.77-0.81) and specificity 0.95 (95% CI: 0.94-0.96). The presence of significant heterogeneity was demonstrated between studies and an asymmetric summary ROC curve, that cuts the diagonal line for low specificity values (8%). The area under the curve-summary ROC curve-ranges from 0.82 to 0.89. Conclusions: The MSCT is an excellent test to detect stenotic coronary lesions in well visualized segments. However, the summary ROC curve is asymmetric and there is significant heterogeneity between studies, so that it is necessary to study diagnostic profitability of the test in greater depth before transferring the information it provides to the daily clinical practice</dc:description>
+<dc:creator>Rodríguez-García, Miguel A</dc:creator>
+<dc:creator>Jiménez-García de Marina, José M</dc:creator>
+<dc:creator>Iglesias-Garriz, Ignacio</dc:creator>
+<dc:creator>Garrote, Carmen</dc:creator>
+<dc:creator>González-Pastrana, Leticia</dc:creator>
+<dc:creator>Balboa, Oscar</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: La tomografía computarizada multicorte (TCMC) permite la visualización de las arterias coronarias, y por tanto la detección de lesiones arterioscleróticas estenóticas. El objetivo del presente trabajo fue analizar la capacidad diagnóstica de la TCMC para la detección de lesiones estenóticas coronarias. Material y métodos: Se realizó un metaanálisis mediante búsqueda en las bases de datos MEDLINE y EMBASE de los trabajos que analizaran la sensibilidad y especificidad de la TCMC para el diagnóstico de enfermedad coronaria, mediante una división del árbol coronario por segmentos. Se incluyeron finalmente 10 estudios, con un total de 498 pacientes y 5.332 segmentos coronarios. Resultados: El porcentaje de segmentos correctamente visualizados osciló entre el 70 y el 96%. Tras la agrupación de la información proporcionada por los estudios individuales, la estimación global de la sensibilidad fue del 0,79 (intervalo de confianza [IC] del 95%, 0,77-0,81) y de la especificidad del 0,95 (IC del 95%, 0,94-0,96). Se demuestra la presencia de heterogeneidad significativa entre estudios y una curva ROC-resumen asimétrica, que corta a la diagonal para valores bajos de especificidad (8%). El área bajo la curva ROC-resumen oscila entre 0,82 y 0,89. Conclusiones: La TCMC es una prueba excelente para la detección de lesiones coronarias estenóticas en segmentos bien visualizados. Sin embargo, la curva ROC-resumen es asimétrica y existe significativa heterogeneidad entre estudios, por lo que es necesario profundizar más en la rentabilidad diagnóstica de la prueba antes de trasladar la información que proporciona a la práctica clínica diaria</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);47(6): 335-339, nov. 2005. tab, graf</dc:source>
+<dc:identifier>ibc-041554</dc:identifier>
+<dc:title xml:lang="es">Metaanálisis sobre la utilidad de la tomografía computarizada multicorte para la deteccion de lesiones coronarias estenóticas. Análisis coronario segmentario</dc:title>
+<dc:subject>^d36020^s22016</dc:subject>
+<dc:subject>^d30967</dc:subject>
+<dc:subject>^d24375^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200511</dc:date>
+</metadata>
+</record>
+</ibecs-document>

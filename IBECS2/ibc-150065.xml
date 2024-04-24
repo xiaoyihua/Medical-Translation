@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150065</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Upper and lower bounds for the reaction-time distribution function in parallel processing models.</dc:title>
+<dc:description xml:lang="en">Colonius and co-workers proposed a terminology for stochastic models of information processing, in which a parallel system is called k th-terminating if it initiates a response as soon as the channel k finishes processing, having n active channels. The authors (Colonius, H. and Vorberg, D. (1994). Distribution Inequalities for Parallel Models with Unlimited Capacity. Journal of Mathematical Psychology, 38, 35-58; Colonius, H. and Ellermeier, W. (1997). Distribution Inequalities for Parallel Models of Reaction Time with an Application to Auditory Profile Analysis. Journal of Mathematical Psychology, 41, 19-27) also developed a methodology to evaluate the upper and lower bounds for the reaction-time distribution functions in a k th-terminating parallel system with an unlimited processing capacity assumption and k values equal to one, two or n. That work is extended here to the case of any k value, by using a similar methodology, considering the distribution functions of the reaction times as joint probabilities and using Bonferroni-type inequalities (AU)</dc:description>
+<dc:creator>Santisteban Requena, Carmen</dc:creator>
+<dc:creator>González Uriel, Aurora</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En los modelos estocásticos de procesamiento en paralelo, adoptando la terminología propuesta por Colonius y coautores, un sistema se denomina &#147;k th-terminating&#148; si inicia la respuesta en cuanto k de sus n canales activados han terminado el procesamiento. Estos autores también desarrollan una metodología para obtener las cotas superior e inferior para la función de distribución del tiempo de reacción en un sistema paralelo &#147;k th-terminating&#148; de capacidad ilimitada y n canales, para valores de k uno, dos y n (Colonius y Vorberg, 1994. Journal of Mathematical Psychology, 38, 35-58; Colonius y Ellermeier, 1997. Analysis. Journal of Mathematical Psychology, 41, 19-27). En el presente trabajo se utiliza una metodología análoga para extender la solución a cualquier valor de k. Las funciones de distribución de los tiempos de reacción se expresan como probabilidades conjuntas, y se utilizan desigualdades de tipo Bonferroni (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);12(supl.2): 271-274, 2000.</dc:source>
+<dc:identifier>ibc-150065</dc:identifier>
+<dc:title xml:lang="es">Cotas superior e inferior para la función de distribución del tiempo de reacción en modelos de procesamiento en paralelo</dc:title>
+<dc:subject>^d12364</dc:subject>
+<dc:subject>^d8776</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28617</dc:subject>
+<dc:subject>^d1544^s22066</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200000</dc:date>
+</metadata>
+</record>
+</ibecs-document>

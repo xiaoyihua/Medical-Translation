@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-70620</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:description xml:lang="en">Introduction and objectives. Many patients with acute coronary syndrome (ACS) suffer from anemia. The objective of this study was to determine the influence of the admission hemoglobin level and the post-admission fall in hemoglobin level on short-term prognosis during hospitalization. Methods. This retrospective study involved 542 high-risk ACS patients who were admitted during 2005. The hemoglobin level was recorded on admission and at least every 24 hours thereafter, with anemia being defined according to WHO criteria. Logistic regression modeling was used to assess the relationship of the admission hemoglobin level and the fall in hemoglobin level to all-cause mortality and cardiogenic shock during hospitalization. Results. During follow-up (median time, 7 days), the incidence of cardiogenic shock or mortality was 6.9% (37 patients). Anemia was present in 147 patients (27.1%) at admission, increasing to 266 patients (49.1%) during hospitalization (P&lt;.0001). After adjusting for a range of variables, independent associations were found between the occurrence of adverse events and both the admission hemoglobin level (odds ratio [OR]=1.4 for each 1 g/dL below normal; 95% confidence interval [CI], 1.1-1.8; P=.003) and a fall in hemoglobin level &gt;1.8 g/dL (OR=5.4; 95% CI, 1.5-18.8; P=.009). Conclusions. In high-risk ACS patients both the admission hemoglobin level and a subsequent fall in hemoglobin level &gt;1.8 g/dL were associated with an increased risk of all-cause mortality or cardiogenic shock (AU)</dc:description>
+<dc:creator>García-Rubira, Juan Carlos</dc:creator>
+<dc:creator>Carda Barrio, Rocío</dc:creator>
+<dc:creator>Vivas Balcones, David</dc:creator>
+<dc:creator>González-Ferrer, Juan José</dc:creator>
+<dc:creator>Núñez Gil, Iván</dc:creator>
+<dc:creator>Fernández-Ortiz, Antonio</dc:creator>
+<dc:creator>Macaya, Carlos</dc:creator>
+<dc:creator>Fuentes-Ferrer, Manuel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos. En pacientes con síndrome coronario agudo (SCA), la anemia es un hallazgo frecuente. Nuestro objetivo fue valorar el pronóstico intrahospitalario de las cifras de hemoglobina al ingreso y de su caída durante éste. Métodos. Estudio retrospectivo de 542 pacientes ingresados durante el año 2005 en la unidad coronaria por SCA de alto riesgo. Se registraron los valores de hemoglobina al ingreso y al menos cada 24 h después. Se definió anemia según criterios de la Organización Mundial de la Salud. Se evaluó la relación entre la hemoglobina al ingreso y su caída con la muerte por todas las causas o el shock cardiogénico durante el ingreso hospitalario mediante un análisis de regresión logística. Resultados. En el seguimiento (mediana, 7 días) la incidencia de shock o muerte fue del 6,9% (37 pacientes); 147 (27,1%) pacientes presentaron anemia al ingreso, que se incrementó a 266 (49,1%) pacientes durante la estancia en la unidad (p &lt; 0,0001). Tras ajustar por diversas variables, tanto la hemoglobina al ingreso (odds ratio [OR] = 1,4; intervalo de confianza [IC] del 95%, 1,1-1,8 [por cada g/dl de descenso de hemoglobina con respecto a las cifras normales]; p = 0,003) como una caída de la hemoglobina &gt; 1,8 g/dl (OR = 5,4; IC del 95%, 1,5-18,8; p = 0,009) se relacionaron de forma independiente con la incidencia de eventos adversos. Conclusiones. En pacientes con SCA de alto riesgo, tanto las cifras de hemoglobina al ingreso como el descenso de la hemoglobina &gt; 1,8 g/dl se asociaron con un mayor riesgo de muerte por todas las causas o de shock cardiogénico (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;61(9): 945-952, sept. 2008. ilus, tab</dc:source>
+<dc:identifier>ibc-70620</dc:identifier>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d13148^s22080</dc:subject>
+<dc:subject>^d3343^s22012</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d9395^s22012</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d755^s22012</dc:subject>
+<dc:subject>^d22198^s22002</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200809</dc:date>
+</metadata>
+</record>
+</ibecs-document>

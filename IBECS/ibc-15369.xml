@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-15369</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Structure and function of integrons</dc:title>
+<dc:creator>Prats, Guillem</dc:creator>
+<dc:creator>Sabaté, Montserrat</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Los integrones son unas piezas genéticas que han despertado gran interés porque algunos de ellos vehiculan genes de resistencia a los antimicrobianos. Desde el extremo 5´ al 3´ están formados por un fragmento que codifica una integrasa (intI) y a continuación una secuencia attI a la que se unen los genes de resistencia. Dentro de intI, en su extremo 3´ , hay una secuencia promotora Pant a partir de la cual se transcriben los genes de resistencia integrados, ya que estos genes carecen de promotor. En efecto, la integrasa reconoce en ciertos genes de resistencia (denominados genes casete) una secuencia específica denominada 59-be, que une, por recombinación, a la secuencia attI del integrón. El fragmento formado por intI-attI está altamente conservado en todos los integrones y se denomina 5 -CS. Los integrones se han clasificado según la secuencia de su integrasa. Los detectados con más frecuencia en cepas aisladas en clínica pertenecen a la clase 1. Los integrones de la clase 1 están formados por el 5 -CS y a continuación se sitúan los diferentes genes casetes captados, por lo que constituye una zona variable y, finalmente, hay una zona conservada denominada 3 -CS formada por 2 genes uno de resistencia a compuestos de amonio cuaternario (qacE I) y otro a sulfamidas (sul1); estos 2 genes, no son casetes y, por lo tanto, no son móviles sino fijos. La estructura de uno de estos integrones vendría representada por IntI-attI [R1 R2 ...]-qacE 1-sul1.Probablemente, los integrones no son móviles por sí mismos, pero con frecuencia se hallan en transposones que a su vez se encuentran en plásmidos conjugativos, por lo que su movilidad horizontal está asegurada, como se constata por su amplia difusión entre las bacterias (AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;20(7): 341-345, ago. 2002.</dc:source>
+<dc:identifier>ibc-15369</dc:identifier>
+<dc:title xml:lang="es">Estructura y función de los integrones</dc:title>
+<dc:subject>^d37651</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200208</dc:date>
+</metadata>
+</record>
+</ibecs-document>

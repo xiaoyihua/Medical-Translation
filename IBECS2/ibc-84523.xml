@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-84523</identifier>
+<setSpec>0210-4806</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Usefulness of PET scans in diagnosing recurrent prostate cancer. Prostate with PSA level &lt; 5 ng/ml</dc:title>
+<dc:description xml:lang="en">Introduction and objectives: We intend to evaluate the usefulness of PET scans in diagnosing recurrent prostate cancer after a curative attempt using radical treatment. Material and methods: 92 consecutive prostate cancer patients in biochemical progression following radical surgery (63) or radiation treatment (29) were studied with positron emission tomography (PET). In all cases two scans were performed in the same day (11C-cholineand 18F-FDG). PET efficacy was evaluated both globally (by employing the results achieved with both 11C-choline and 18F-FDG) and using both radiotracers independently to detect recurrence in patients with biochemical progression. For this purpose, we used comparison of means for k-independent samples, 2 × 2 and 2 × X contingency tables and ROC curves. Results: 1. Global PET: there is evidence of PET alteration regarding the PSA level (P=0.003): the clinical stage (P=0.01). There are no statistically significant PET alterations regarding the affected biopsy (uni or bilateral), surgical margins, pathological stage and time to progression. ROC curve PET-PSA is statistically significant (P&lt;0.0001) permitting calculation of different cut-off points, with a specificity of 91% (highest) for a PSA of 4.3 ng/ml. 2. PET18FDG: the area under the ROC curve is statistically significant (P&lt;0.0001) with a specificity of91% for a PSA of 6.51 ng/ml. 3. PET 11choline: the area under the ROC curve is statistically significant (P&lt;0.0001) with a specificity of 91% for a PSA of 5.15 ng/ml. Conclusions: PET is a useful tool for diagnosing prostate cancer recurrence after a curative attempt using radical treatment (AU)</dc:description>
+<dc:creator>Berián Polo, José María</dc:creator>
+<dc:creator>Rioja Zuazu, Jorge</dc:creator>
+<dc:creator>Rodríguez, Macarena</dc:creator>
+<dc:creator>Martínez-Monge, Rafael</dc:creator>
+<dc:creator>Saiz Sansi, Abel</dc:creator>
+<dc:creator>Zudaire Bergera, Juan Javier</dc:creator>
+<dc:creator>Rincón Mayans, Aníbal</dc:creator>
+<dc:creator>Richter, José Ángel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivo: Evaluamos la utilidad de la tomografía por emisión de positrones (PET) en el diagnóstico de la recurrencia del cáncer de próstata tras tratamiento con intención curativa. Material y métodos: Se sometió a 92 pacientes consecutivos en progresión bioquímica tras cirugía radical (63) o radioterapia (29) a una PET. En todos los casos, se realizaron dos escáneres PET en el mismo día (11C-colina y 18F-FDG). Se evalúa la eficacia de la PET de manera global (utilizando los resultados con 11C-colina y 18F-FDG) y de manera independiente para detectar recurrencia en pacientes con progresión bioquímica. Para ello, se utilizan la comparación de medias para k muestras independientes, tablas de contingencia 2 × 2 y 2× X y curvas ROC. Resultados: 1. PET global: hay evidencia de la alteración de la PET en función del antígeno prostático específico (PSA) (p = 0,003), estadio clínico (p = 0,01). No existe una alteración de la PET estadísticamente significativa en función de la afectación de la biopsia (unilateral o bilateral), los márgenes quirúrgicos, el estadio patológico y el tiempo a progresión. La curva ROC PET-PSA es significativa (p &lt; 0,0001) y permite calcular distintos puntos de corte; PSA = 4,3 ng/ml el que presenta una mayor especificidad (91%). 2. PET 18FDG: el área bajo la curva ROC es significativa (p &lt; 0,0001), con una especificidad del 91% para un PSA =6,51 ng/ml. 3. PET 11colina: el área bajo la curva ROC es significativa (p &lt; 0,0001), con una especificidad del 91% para un PSA = 5,15 ng/ml. Conclusiones: La PET es una herramienta útil en el diagnóstico de la recurrencia de cáncer de próstata tras tratamiento radical con intención curativa (AU)</dc:description>
+<dc:source>Actas Urol Esp;33(8): 844-852, sept. 2009. graf, tab, ilus</dc:source>
+<dc:identifier>ibc-84523</dc:identifier>
+<dc:title xml:lang="es">Valor de la PET en la recurrencia del cáncer de próstata con PSA &lt; 5 ng/ml</dc:title>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d28614</dc:subject>
+<dc:subject>^d11914^s29166</dc:subject>
+<dc:subject>^d11914^s22080</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d11911^s22074</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d38793^s22074</dc:subject>
+<dc:subject>^d11914^s22009</dc:subject>
+<dc:subject>^d11914^s22059</dc:subject>
+<dc:subject>^d38793^s22066</dc:subject>
+<dc:subject>^d33090^s22073</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200909</dc:date>
+</metadata>
+</record>
+</ibecs-document>

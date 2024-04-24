@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-88076</identifier>
+<setSpec>1888-4008</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Proposal to improve the sensitivity of the diagnostic algorithm for thyroid function evaluation</dc:title>
+<dc:description xml:lang="en">The measurement of thyrotropin and thyroxine concentrations in serum is the basis of the biochemical evaluation of thyroid function. The reference interval of thyrotropin is frequently used as an initial screening to assess the need for thyroxine measurement. This study was carried out to obtain a different and more adjusted interval of thyrotropin, in order to improve the diagnostic sensitivity. All of the results of thyrotropin and thyroxine requested at the same time on outpatients were selected: for the first part of the study, those from year 2008 (n=10,900), and for the second part, those from 2009 with no follow-up in the previous year (n=5,367). Two ROC curves were used to define the algorithm decision interval with a sensitivity of 90% and the number of false negative results was calculated. The thyrotropin intervals obtained in the first and second studies were (2.11-3.50) mIU/L and (2.04-3.41) mIU/L, respectively. In both studies, the sensitivity increased approximately from an average of 70% to 90% of the confidence interval using the algorithm interval. The number of false negatives was reduced from 75 to 30 in the first case, and from 37 to 13 in the second case. The application of a calculated thyrotropin interval to assess thyroid function in outpatients with or without prior monitoring, leads to an increase of the diagnostic sensitivity with regard to the use of the thyrotropin reference interval (AU)</dc:description>
+<dc:creator>Cano Corres, Ruth</dc:creator>
+<dc:creator>Alía Ramos, Pedro</dc:creator>
+<dc:creator>Sánchez Álvarez, Javier</dc:creator>
+<dc:creator>Padró Miquel, Ariadna</dc:creator>
+<dc:creator>Argudo Ramírez, Ana</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La medida en suero de la concentración de tirotropina y tiroxina es la base para la evaluación bioquímica de la función tiroidea. Con frecuencia, el intervalo de referencia de la tirotropina sirve como cribado inicial para valorar la necesidad de añadir la medida de tiroxina. Este trabajo se ha realizado con el objetivo de mejorar la sensibilidad diagnóstica del cribado. Se seleccionaron todos los resultados de tirotropina y tiroxina solicitados de manera simultánea a pacientes de consultas externas: para la primera parte del estudio se usaron los del año 2008 (n=10.900) y para la segunda parte, los de pacientes del año 2009 sin seguimiento en el año previo (n=5.367). Se realizaron dos curvas ROC para delimitar el intervalo de decisión del algoritmo con una sensibilidad del 90% y se contabilizó el número de resultados falsos negativos obtenidos. Los intervalos de tirotropina obtenidos en el primer y segundo estudio fueron (2,11-3,50) mint.u./L y (2,04-3,41) mint.u/L respectivamente. En ambos estudios la sensibilidad aumentó aproximadamente de un 70% de media con el intervalo de referencia a un 90% con el intervalo del algoritmo. El número de falsos negativos se redujo de 75 a 30 en el primer caso, y de 37 a 13 en el segundo. La aplicación de un intervalo de tirotropina calculado para la evaluación de la función tiroidea, en pacientes ambulatorios con o sin seguimiento previo, supone un aumento en la sensibilidad diagnóstica, respecto al empleo del intervalo de referencia de tirotropina (AU)</dc:description>
+<dc:source>Rev. lab. clín;4(2): 84-89, abr.-jun. 2011.</dc:source>
+<dc:identifier>ibc-88076</dc:identifier>
+<dc:title xml:lang="es">Propuesta para mejorar la sensibilidad del algoritmo diagnóstico de evaluación de la función tiroidea</dc:title>
+<dc:subject>^d25123^s22045</dc:subject>
+<dc:subject>^d28614</dc:subject>
+<dc:subject>^d14360^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d14348^s22066</dc:subject>
+<dc:subject>^d14348^s22045</dc:subject>
+<dc:subject>^d14348^s22074</dc:subject>
+<dc:subject>^d22697^s22002</dc:subject>
+<dc:subject>^d19329^s22002</dc:subject>
+<dc:subject>^d14360</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201106</dc:date>
+</metadata>
+</record>
+</ibecs-document>

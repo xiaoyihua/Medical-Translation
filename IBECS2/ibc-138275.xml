@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-138275</identifier>
+<setSpec>1887-8571</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Study and optical characterization of a Basal Cell Carcinoma by numerical laser simulation</dc:title>
+<dc:description xml:lang="en">Background: Monte Carlo simulations are one of the most used techniques in the context of modeling geometry such as human skin. One of the main challenges in biophotoncs is the simulation of light spread in biological tissues. Objectives: to analyze the optical response of the skin, and to contribute information for the diagnosis and treatment of possible alteration in the skin. Material and methods: A commercial, proven and reliable simulation program based on Monte Carlo techniques, which allow studying the behavior of the skin from optical radiation. The approximation to the path followed by the light in its interaction with the tissue is obtained from known-optical properties. Modeling and numerical simulation of skin. Results: The results presented are innovative data about radiation patterns in units of irradiance as reflectivity and transmissivity of the skin. Conclusions: This work provides a method to distinguish between &#145;healthy&#146; skin and skin with basal cell carcinoma, which could provide a method for identifying skin cancer, allowing state that can later be extrapolated to other types of cancers and skin diseases. Finally, it is shown that the simulations allow having information prior to experimentation, reducing the cost thereof (AU)</dc:description>
+<dc:creator>González-Marcos, A P</dc:creator>
+<dc:creator>Alcarria Garrido, R</dc:creator>
+<dc:creator>Vidal-Asensi, S</dc:creator>
+<dc:creator>Campoy Fernández, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Antecedentes: Las simulaciones de Monte Carlo son una de las técnicas más utilizadas en el contexto de modelación de geometrías de sistemas heterogéneos, como puede ser la piel humana. Además uno de los principales retos modernos en biofotónica es la simulación del comportamiento óptico y la propagación de la luz en tejidos. Objetivos: Analizar la respuesta óptica de la piel, y aportar información para el diagnóstico de posibles alteraciones en la piel con la presencia de un basalioma. Material y Método: Un programa comercial, contrastado y fiable de simulación basado en técnicas de Monte Carlo, que permite estudiar el comportamiento de la piel frente a una radiación óptica; la aproximación a la trayectoria que sigue la luz en su interacción con el tejido se obtiene a partir de las propiedades ópticas conocidas a priori. Piel modelada y simulación numérica. Resultados: Los resultados expuestos son datos innovadores, hasta donde conocen los autores, sobre patrones de radiación en unidades de irradiancia como de reflectividad y transmitividad de la piel. Conclusiones: Este trabajo ofrece un método para distinguir entre piel «sana» y piel con carcinoma basocelular, lo que podría facilitar un procedimiento de identificación de lesiones cancerosas de la piel (AU)</dc:description>
+<dc:source>Sanid. mil;71(2): 84-90, abr.-jun. 2015. tab, ilus, graf</dc:source>
+<dc:identifier>ibc-138275</dc:identifier>
+<dc:title xml:lang="es">Estudio y caracterización óptica de un Carcinoma Basocelular mediante simulación láser numérica</dc:title>
+<dc:subject>^d13859^s22012</dc:subject>
+<dc:subject>^d2323^s22053</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d53295</dc:subject>
+<dc:subject>^d53221^s22045</dc:subject>
+<dc:subject>^d31584^s22053</dc:subject>
+<dc:subject>^d13259^s22053</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201506</dc:date>
+</metadata>
+</record>
+</ibecs-document>

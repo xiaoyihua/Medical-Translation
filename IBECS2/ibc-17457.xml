@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-17457</identifier>
+<setSpec>0212-6982</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Semiquantitative analysis of diagnostic accuracy of positron emission tomography in radiologically indeterminated lung lesions</dc:title>
+<dc:creator>González, A</dc:creator>
+<dc:creator>Callol, L. M</dc:creator>
+<dc:creator>Suárez, M</dc:creator>
+<dc:creator>Montz, R</dc:creator>
+<dc:creator>Carreras Delgado, J. L</dc:creator>
+<dc:creator>Juan, R de</dc:creator>
+<dc:creator>Domper, M</dc:creator>
+<dc:creator>Ruiz Hernández, G</dc:creator>
+<dc:creator>Lapeña, L</dc:creator>
+<dc:creator>Verea, H</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: El objetivo de este trabajo ha sido estudiar el valor del 'Standardized Uptake Value' (SUV) en el diagnóstico diferencial de lesiones pulmonares radiológicamente indeterminadas mediante CURVAS ROC. Material y método: Se han estudiado mediante tomografía por emisión de positrones con 18-fluoro-2-desoxi-Dglucosa (PET- FDG) un total de 47 pacientes analizando el valor del SUV máximo. Los enfermos han sido agrupados de la siguiente forma: grupo 1 = pacientes sin antecedentes de neoplasia (PSAN) + pacientes con antecedentes de neoplasia (PCAN); grupo 2 = PSAN; grupo 3 = PCAN. Resultados: En los tres grupos analizados las CURVAS ROC muestran unos valores del Área Bajo la Curva (ABC) para los grupos 1, 2 y 3, de: 0,96, 0,98 y 0,91. Los puntos de corte de mayor exactitud diagnóstica fueron para el grupo 1, 2, y 3 de: 2,6; 3 y 2,4, con una exactitud diagnóstica (ED) del 93,6 per cent, 97 per cent y 92,3 per cent, respectivamente. Analizando globalmente todos los pacientes (grupo 1), sólo hemos obtenido un resultado falso positivo en un paciente con un hamartoma (SUV de 2,8) y dos resultados falsos negativos en dos casos de metástasis pulmonares secundarias a: fibrohistiocitoma maligno (SUV 0,7) y adenocarcinoma de origen desconocido (SUV 1,9). Conclusiones: La FDG-PET permite diferenciar lesiones pulmonares benignas de malignas mediante la obtención del SUV con una elevada exactitud diagnóstica. Las diferencias observadas entre los grupos analizados se atribuyen a la diferente prevalencia de enfermedad, identificándose en los enfermos con antecedentes de neoplasia primaria un menor valor predictivo negativo del SUV (AU)</dc:description>
+<dc:source>Rev Esp Med Nucl;21(6): 403-409, nov. 2002.</dc:source>
+<dc:identifier>ibc-17457</dc:identifier>
+<dc:title xml:lang="es">Exactitud diagnóstica del análisis semicuantitativo de la tomografía por emisión de positrones en lesiones pulmonares radiológicamente indeterminadas</dc:title>
+<dc:subject>^d6376</dc:subject>
+<dc:subject>^d28614</dc:subject>
+<dc:subject>^d31722</dc:subject>
+<dc:subject>^d8348</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3105</dc:subject>
+<dc:subject>^d3965</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d33090</dc:subject>
+<dc:subject>^d24339</dc:subject>
+<dc:subject>^d14777</dc:subject>
+<dc:subject>^d31583</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d11443</dc:subject>
+<dc:subject>^d33478</dc:subject>
+<dc:subject>^d8242</dc:subject>
+<dc:subject>^d8352</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200211</dc:date>
+</metadata>
+</record>
+</ibecs-document>

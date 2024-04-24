@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-60676</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Sequential designs and intermediate analysis in clinical research: size vs difficulty</dc:title>
+<dc:description xml:lang="en">Sequential design differs from other statistical designs used in clinical research in that the sample size is not fixed in advance but it varies depending on the results obtained. The intermediate analysis is defined as the treatment evaluation during an initial stage of the study and may lead to the termination of the study. Treatment effect with respect to control is evaluated across a series of pre-established time intervals. The study should be halted if there are significant differences in the level of overall significance, &amp;#945;. If this does not happen, then the study continues until reaching a maximum sample size, n, at which point the study ends and the hypothesis of equality is accepted. In general, sequential designs require fewer patients, although they make the study more complex because there is a need for continuous information about the patients&#146; status; this latter aspect requires greater effort in terms of both study monitoring and patient follow-up. The aim therefore is to find a balance between smaller sample size (n) and greater complexity (AU)</dc:description>
+<dc:creator>Monleón-Getino, Toni</dc:creator>
+<dc:creator>Roset-Gamisans, Montserrat</dc:creator>
+<dc:creator>Barnadas-Molins, Agustí</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">A diferencia de otros diseños estad&amp;#305;sticos utilizados en la investigación clínica, en el diseño secuencial no se fija el tamaño muestral previamente, sino que éste varía en función de los resultados que se van obteniendo. El análisis intermedio se define como la evaluación del tratamiento durante una etapa inicial del estudio y puede conducir a la finalización del estudio. El efecto del tratamiento respecto al control se evaluará durante una serie de intervalos de tiempo prefijados. Se deberá detener el estudio si hay diferencias estadísticamente significativas en el nivel designificación global a; en caso contrario se continuará con el estudio hasta llegar a un tamaño (...) (AU)</dc:description>
+<dc:source>Med. clín (Ed. impr.);132(11): 437-442, mar. 2009. tab, graf</dc:source>
+<dc:identifier>ibc-60676</dc:identifier>
+<dc:title xml:lang="es">Diseños secuenciales y análisis intermedio en la investigación clínica: tamaño frente a dificultad</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d37673^s22045</dc:subject>
+<dc:subject>^d32037</dc:subject>
+<dc:subject>^d12528</dc:subject>
+<dc:subject>^d24551</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200903</dc:date>
+</metadata>
+</record>
+</ibecs-document>

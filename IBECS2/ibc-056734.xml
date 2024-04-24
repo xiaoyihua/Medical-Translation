@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-056734</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">A clinical prediction rule for identifying short-term risk of adverse events in patients with pulmonary thromboembolism</dc:title>
+<dc:description xml:lang="en">Objective: To identify patients with a low short-term risk of complications following acute pulmonary thromboembolism.         Patients and methods: A prospective multicenter study was conducted in 8 Spanish hospitals; 681 consecutive outpatients diagnosed with pulmonary thromboembolism were enrolled. Clinically significant variables were weighted using coefficients derived from a logistic regression model in order to optimize the diagnostic performance of a clinical prediction rule to predict the following complications within 10 days of acute pulmonary thromboembolism: death, recurrent thromboembolism, and major or minor bleeding.                 Results: Forty-three patients (6.3%) had 51 complications. These included 33 deaths, 12 major bleeding episodes, and 6 minor bleeding episodes. The clinical variables used in the prediction rule were assigned the following scores: recent major bleeding episode and cancer with metastasis, 4 points each; creatinine levels of over 2 mg/dL, 3 points; cancer without metastasis and immobility due to a recent medical condition, 2 points each; and absence of surgery in the past 2 months and an age of over 60 years, 1 point each. A risk score of 2 or less, obtained by 47.8% of patients, indicated a low short-term risk of developing complications following pulmonary thromboembolism. The area under the receiver operating characteristic curve for the prediction rule was 0.75 (95% confidence interval [CI], 0.67-0.83). For this cutoff point, sensitivity was 82.9% (95% CI, 68.7-91.5) and the likelihood ratios for a positive and negative test result were 1.63 (95% CI, 1.39-1.92), and 0.35 (95% CI, 0.18-0.69), respectively.                 Conclusions: Our clinical prediction rule could be useful for identifying patients with a low risk of complications in the 10 days following acute pulmonary thromboembolism. Those patients would be eligible for consideration for outpatient treatment</dc:description>
+<dc:creator>Laserna, Elena</dc:creator>
+<dc:creator>Cayuela, Aurelio</dc:creator>
+<dc:creator>Cabezudo, Miguel Ángel</dc:creator>
+<dc:creator>Jiménez, David</dc:creator>
+<dc:creator>Nauffal, Dolores</dc:creator>
+<dc:creator>Oribe, Miquel</dc:creator>
+<dc:creator>Uresandi, Fernando</dc:creator>
+<dc:creator>Otero, Remedios</dc:creator>
+<dc:creator>Conget, Francisco</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Identificar a pacientes con riesgo bajo de complicaciones a corto plazo tras un episodio agudo de tromboembolia pulmonar (TEP).                 Pacientes y métodos: Se trata de un estudio multicéntrico y prospectivo, realizado en 8 hospitales españoles, en el que se incluyó a un total de 681 pacientes ambulatorios consecutivos con diagnóstico de TEP. Las variables con significación clínica se ponderaron a partir de los coeficientes del modelo logístico, con el objetivo de maximizar las características diagnósticas de la escala clínica de predicción de eventos a corto plazo: muertes, recidivas tromboembólicas o complicaciones hemorrágicas graves y no graves en los 10 primeros días.                 Resultados: Hubo 51 complicaciones en 43 pacientes (6,3%): un total de 33 fallecimientos, 12 hemorragias graves y 6 no graves. La puntuación clínica asignada a las variables de la escala de predicción fue la siguiente: hemorragia grave reciente y cáncer con metástasis, 4 puntos cada una; valores de creatinina mayores de 2 mg/dl, 3 puntos; cáncer sin metástasis e inmovilización por enfermedad médica reciente, 2 puntos cada una, y ausencia de cirugía en los últimos 2 meses y edad superior a 60 años, 1 punto cada una. Una puntuación de 2 o menor, que obtuvo el 47,8% de nuestros pacientes, indica un riesgo bajo de presentar complicaciones a corto plazo tras la TEP. El área bajo la curva de eficacia diagnóstica de la escala es de 0,75 (intervalo de confianza [IC] del 95%, 0,67-0,83). Para ese punto de corte la sensibilidad es del 82,9% (IC del 95%, 68,7-91,5), el cociente de probabilidad positiva del 1,63 (IC del 95%, 1,39-1,92) y el cociente de probabilidad negativa de 0,35 (IC del 95%, 0,18-0,69).                 Conclusiones: Nuestra escala clínica de puntuación podría ser útil para identificar a pacientes con riesgo bajo de presentar complicaciones durante los 10 primeros días tras un episodio de TEP aguda. Estos pacientes serían los candidatos sobre los que plantear un estudio que avale el tratamiento domiciliario de la TEP</dc:description>
+<dc:source>Arch Bronconeumol;43(11): 617-622, nov. 2007. ilus, tab</dc:source>
+<dc:identifier>ibc-056734</dc:identifier>
+<dc:title xml:lang="es">Escala de riesgo de eventos adversos a corto plazo en pacientes con tromboembolia pulmonar</dc:title>
+<dc:subject>^d11425^s22012</dc:subject>
+<dc:subject>^d24339^s22045</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d6622^s22012</dc:subject>
+<dc:subject>^d23232^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23481^s22045</dc:subject>
+<dc:subject>^d29640</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d6622^s22016</dc:subject>
+<dc:subject>^d32095</dc:subject>
+<dc:subject>^d30921^s22012</dc:subject>
+<dc:subject>^d12092^s22080</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d12092^s22032</dc:subject>
+<dc:subject>^d12092^s22012</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200711</dc:date>
+</metadata>
+</record>
+</ibecs-document>

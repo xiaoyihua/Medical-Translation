@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-18814</identifier>
+<setSpec>0304-4815</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">BIOBADASER: Spanish registry for adverse events of biological therapies in rheumatic diseases</dc:title>
+<dc:creator>Sociedad Española de Reumatología</dc:creator>
+<dc:creator>Comité Científico de BIOBADASER</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Antecedentes y objetivos: La reciente aprobación de fármacos obtenidos por biotecnología frente a moléculas proinflamatorias en procesos artríticos ha ampliado las expectativas de tratamiento de muchos pacientes. Sin embargo, son de esperar acontecimientos adversos a largo plazo que no han aparecido en los ensayos clínicos. La Sociedad Española de Reumatología (SER) ha establecido un registro nacional de pacientes en tratamiento con agentes biológicos, con el objetivo de analizar el riesgo de acontecimientos adversos a largo plazo. Métodos: Todos los socios de la SER han sido informados del registro y tienen a su disposición el protocolo y los materiales de notificación. Se registran todos los pacientes en terapia biológica y fuera de ensayos clínicos. Cada paciente es introducido con un código personal aleatorio en una base de datos relacional. Se recogen datos básicos del paciente y del tratamiento más todos los cambios en este último y acontecimientos adversos relevantes (cualquier suceso relacionado o no con el tratamiento que, independientemente de la dosis, produzca la muerte, ponga en peligro la vida, precise de ingreso hospitalario o lo prolongue, o produzca una discapacidad persistente o importante). Para analizar el riesgo asociado de un acontecimiento adverso concreto, se compara su frecuencia de aparición en este registro frente a una cohorte nacional de artritis reumatoide (EMECAR). Resultados: El 27 de diciembre de 2001, se registró a 1.309 pacientes en BIOBADASER procedentes de 65 centros, e información sobre 1.336 tratamientos con terapias biológicas. El tratamiento se suspendió en 165 (12,4 por ciento) ocasiones, principalmente como resultado de un acontecimiento adverso (95, 58 por ciento).La duración media del tratamiento fue de 343 ñ 201 días (P25-75, 181-495). Se comunicaron 201 acontecimientos adversos, de los cuales el más frecuente fue la infección, seguido de los trastornos cutáneos y las reacciones postinfusión. Conclusiones: Este registro permitirá conocer detalles de la supervivencia y de los efectos adversos que aparezcan a largo plazo con las nuevas terapias biológicas. (AU)</dc:description>
+<dc:source>Rev. esp. reumatol. (Ed. impr.);29(6): 292-299, jun. 2002. tab, graf</dc:source>
+<dc:identifier>ibc-18814</dc:identifier>
+<dc:title xml:lang="es">BIOBADASER: registro español de acontecimientos adversos de terapias biológicas en enfermedades reumáticas</dc:title>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d28219</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d13339</dc:subject>
+<dc:subject>^d1178^s22057</dc:subject>
+<dc:subject>^d1716^s22020</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200206</dc:date>
+</metadata>
+</record>
+</ibecs-document>

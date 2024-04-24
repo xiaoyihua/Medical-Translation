@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-102490</identifier>
+<setSpec>1699-8855</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Guidelines for biomarker testing in advanced colorectal carcinoma. A National Consensus of the Spanish Society of Pathology and the Spanish Society of Medical Oncology</dc:title>
+<dc:description xml:lang="en">This consensus is a joint initiative of the Spanish Society of Pathology (SEAP) and the Spanish Society of Medical Oncology (SEOM). Based on scientific evidence of the use of biomarkers, it recommends diagnostic and treatment guidelines for the management of patients with hereditary, localised and advanced colorectal carcinoma (CRC). The aim of the consensus is to improve healthcare and the use of resources, which will result in increased patient benefit. Taking into consideration data currently available, the group of experts recommends testing for microsatellite instability in patients with localised CRC, as this is a strong predictive factor useful in deciding the choice of adjuvant treatment. However, although the ColoPrint® and Oncotype Dx® gene expression signatures have been shown to have prognostic value, no consensus yet exists as to their clinical use. For advanced CRC, it is essential to test for KRAS mutation status before administering an anti-epidermal growth factor receptor (EGFR) treatment, such as cetuximab or panitumumab. However, at present, testing for other biomarkers, such as BRAF, EGFR, PI3K and PTEN mutations, is not indicated as a routine procedure as it does not influence choice of treatment. Other important issues addressed include organisational requirements, necessary quality controls for the correct testing of these biomarkers as well as the pertinent legal implications(AU)</dc:description>
+<dc:creator>Pérez-Segura, Pedro</dc:creator>
+<dc:creator>Salazar, Ramón</dc:creator>
+<dc:creator>García-Alfonso, Pilar</dc:creator>
+<dc:creator>García-Foncillas, Jesús</dc:creator>
+<dc:creator>Musulén Palet, Eva</dc:creator>
+<dc:creator>Navarro, Samuel</dc:creator>
+<dc:creator>Ramón y Cajal, Santiago</dc:creator>
+<dc:creator>Payá, Artemio</dc:creator>
+<dc:creator>García-Carbonero, Rocío</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Este documento de consenso nace como una iniciativa conjunta de la Sociedad Española de Anatomía Patológica (SEAP) y de la Sociedad Española de Oncología Médica (SEOM) y propone recomendaciones diagnósticas y terapéuticas para el manejo del paciente con cáncer colorrectal (CCR) hereditario, localizado y avanzado basadas en la evidencia científica que existe en la actualidad sobre el uso de biomarcadores. Por tanto, este documento supone una oportunidad para mejorar la eficiencia de la actividad asistencial y la utilización de recursos, lo que redundará en un beneficio para estos pacientes. Con los datos disponibles en la actualidad, este grupo de expertos recomienda que en los pacientes con CCR localizado se determine la inestabilidad de microsatélites, ya que es un factor predictivo relevante para decidir el tratamiento adyuvante. Sin embargo, aunque las firmas de expresión genética ColoPrint® y Oncotype Dx® han demostrado tener valor pronóstico, no existe todavía consenso sobre su uso en la práctica clínica. En cuanto al CCR avanzado, la determinación del estado mutacional de KRAS es indispensable antes de administrar un tratamiento con anti-receptor del factor de crecimiento epidérmico (EGFR), como cetuximab y panitumumab. Sin embargo, la determinación de otros biomarcadores, como las mutaciones de BRAF, EGFR, PI3K y PTEN, no debe llevarse a cabo de forma rutinaria, ya que hoy por hoy no influye en la planificación del tratamiento. Otros aspectos importantes que incluye son los requisitos organizativos y los controles de calidad que deben existir para la adecuada determinación de estos biomarcadores, así como las implicaciones legales que se deben tener en cuenta(AU)</dc:description>
+<dc:source>Rev. esp. patol;45(3): 130-144, jul.-sept.2012. tab, ilus</dc:source>
+<dc:identifier>ibc-102490</dc:identifier>
+<dc:title xml:lang="es">Recomendación para la determinación de biomarcadores en el carcinoma colorrectal. Consenso Nacional de la Sociedad Española de Anatomía Patológica y de la Sociedad Española de Oncología Médica</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d34543^s22066</dc:subject>
+<dc:subject>^d23595^s22080</dc:subject>
+<dc:subject>^d29627</dc:subject>
+<dc:subject>^d23568^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d52155^s22021</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d23568^s22044</dc:subject>
+<dc:subject>^d53061^s22080</dc:subject>
+<dc:subject>^d13339^s22074</dc:subject>
+<dc:subject>^d13339^s37748</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d23595^s22016</dc:subject>
+<dc:subject>^d13339^s22048</dc:subject>
+<dc:subject>^d24666^s22031</dc:subject>
+<dc:subject>^d13339^s22049</dc:subject>
+<dc:subject>^d23595^s22033</dc:subject>
+<dc:subject>^d13339^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201209</dc:date>
+</metadata>
+</record>
+</ibecs-document>

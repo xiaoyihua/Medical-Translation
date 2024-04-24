@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-039163</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prognostic value of white blood cell count in acute myocardial infarction: long-term mortality</dc:title>
+<dc:description xml:lang="en">Introduction and objectives. Although traditionally an elevated white blood cell count (WBC), an indicator of systemic inflammation, has been accepted as part of the healing response following acute myocardial infarction (AMI), it has frequently been shown to be a predictor of adverse cardiovascular events. The present study was designed to assess the association between WBC and long-term mortality in AMI patients either with ST-segment elevation (STEMI) or without ST-segment elevation (non-STEMI). Patients and method. The study included 1118 consecutive patients who were admitted with the diagnosis of AMI: 569 non-STEMI and 549 STEMI. The WBC was measured in the 24 hours following admission. Patients were divided into 3 groups: WBC1 (count, &lt;10x103 cells/mL), WBC2 (count, 10-14.9x10³ cells/mL), and WBC3 (count, &amp;#8805;15x10³ cells/mL). All-cause mortality was recorded during a median follow-up period of 10±2 months. The relationship between WBC and mortality was assessed by Cox regression analysis for both types of AMI. Results. Long-term mortality during follow-up was 18.5% in non-STEMI patients and 19.9% in STEMI patients. In non-STEMI patients, the adjusted hazard ratios for those in the WBC3 and WBC2 groups compared with those in the WBC1 group were 2.07 (1.08-3.94; P=.027) and 1.61 (1.03-2.51; P=.036), respectively. The corresponding figures in STEMI patients were 2.07 (1.13-3.76; P=.017) and 2.22 (1.35-3.63; P=.002), respectively. Conclusions. WBC on admission was an independent predictor of long-term mortality in both non-STEMI and STEMI patients</dc:description>
+<dc:creator>Blasco, María L</dc:creator>
+<dc:creator>Fácila, Lorenzo</dc:creator>
+<dc:creator>Sanchís, Juan</dc:creator>
+<dc:creator>Bodí, Vicent</dc:creator>
+<dc:creator>Chorro, Francisco J</dc:creator>
+<dc:creator>Bertomeu, Vicente</dc:creator>
+<dc:creator>Núñez, Julio</dc:creator>
+<dc:creator>Bosch, María J</dc:creator>
+<dc:creator>Sanjuán, Rafael</dc:creator>
+<dc:creator>Yacer, Àngel</dc:creator>
+<dc:creator>Consuegra, Luciano</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos. Publicaciones recientes respaldan el papel pronóstico del recuento leucocitario (RL) en pacientes con infarto agudo de miocardio (IAM). El objetivo de este trabajo fue determinar el valor predictivo atribuible al RL, con independencia de otras variables de contrastado valor pronóstico, para predecir mortalidad a largo plazo en pacientes con IAM sin elevación del segmento ST (IAMSEST) y con elevación del segmento ST (IAMEST). Pacientes y método. Analizamos a 1.118 pacientes admitidos de forma consecutiva con el diagnóstico de IAM (IAMSEST = 569; IAMEST = 549). El RL se obtuvo en la primera determinación analítica. Se utilizaron modelos de regresión de Cox para determinar el grado de asociación entre el RL y la mortalidad total para ambos tipos de IAM. La mediana de seguimiento fue de 10 ± 2 meses. El RL se incluyó en ambos modelos categorizado en los siguientes puntos de corte (x 10³ células/ml): &lt; 10 (RL1); 10-14,9 (RL2) y &amp;#8805; 15 (RL3). Resultados. Durante el seguimiento se registraron 105 muertes (18,5%) en pacientes con IAMSEST y 109 (19,9%) con IAMEST. Las hazard ratio ajustadas para las categorías RL2 y RL3 frente a RL1 en el grupo con IAMSEST fueron: 1,61 (1,03-2,51; p = 0,036) y 2,07 (1,08-3,94; p = 0,027), y en el IAMEST: 2,22 (1,35-3,63; p = 0,002) y 2,07 (1,13-3,76; p = 0,017), respectivamente. Conclusiones. El RL determinado en las primeras horas de un IAM demostró ser un predictor independiente de otras variables de contrastado valor pronóstico para predecir la mortalidad total a largo plazo en el IAMSEST y el IAMEST</dc:description>
+<dc:source>Rev Esp Cardiol;58(6): 631-639, jun. 2005. tab, graf</dc:source>
+<dc:identifier>ibc-039163</dc:identifier>
+<dc:title xml:lang="es">Valor pronóstico del recuento leucocitario en el infarto agudo de miocardio: mortalidad a largo plazo</dc:title>
+<dc:subject>^d9395^s22009</dc:subject>
+<dc:subject>^d24890</dc:subject>
+<dc:subject>^d8136^s22074</dc:subject>
+<dc:subject>^d28625</dc:subject>
+<dc:subject>^d30047^s22066</dc:subject>
+<dc:subject>^d9395^s22067</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24842</dc:subject>
+<dc:subject>^d9395^s22047</dc:subject>
+<dc:subject>^d9395^s22016</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d24519</dc:subject>
+<dc:subject>^d9396^s22074</dc:subject>
+<dc:subject>^d9395^s22062</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:subject>^d4634^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200506</dc:date>
+</metadata>
+</record>
+</ibecs-document>

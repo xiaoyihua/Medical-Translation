@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-051633</identifier>
+<setSpec>0009-739X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Confidence intervals: why use them?</dc:title>
+<dc:description xml:lang="en">We analyze the reasons why the use of confidence intervals is highly advisable. Among these reasons, confidence intervals provide an approach to knowledge of the real importance of a result, independently of statistical significance, as well as equivalence assessment between two variables (AU)</dc:description>
+<dc:creator>Martínez Ramos, David</dc:creator>
+<dc:creator>Escrig Sos, Javier</dc:creator>
+<dc:creator>Miralles Tena, Juan Manuel</dc:creator>
+<dc:creator>Rivadulla Serrano, Isabel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Se analizan las razones por las que el uso de los intervalos de confianza es altamente recomendable. Entre estas razones, destacan la aproximación al conocimiento de la importancia real de un resultado, independientemente de la significación estadística, y la valoración de equivalencia entre dos variables (AU)</dc:description>
+<dc:source>Cir. Esp. (Ed. impr.);81(3): 121-125, mar. 2007. ilus</dc:source>
+<dc:identifier>ibc-051633</dc:identifier>
+<dc:title xml:lang="es">Intervalos de confianza: por qué usarlos</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d24625</dc:subject>
+<dc:subject>^d23478</dc:subject>
+<dc:subject>^d24884</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200703</dc:date>
+</metadata>
+</record>
+</ibecs-document>

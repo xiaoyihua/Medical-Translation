@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-114842</identifier>
+<setSpec>0210-5705</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">To consider negative viral loads below the limit of quantification can lead to errors in the diagnosis and treatment of hepatitis C virus infection</dc:title>
+<dc:description xml:lang="en">Introduction For years many clinical laboratories have routinely classified undetectable and unquantifiable levels of hepatitis C virus RNA (HCV-RNA) determined by RT-PCR as below limit of quantification (BLOQ). This practice might result in erroneous clinical decisions. Aim To assess the frequency and clinical relevance of assuming that samples that are BLOQ are negative. Material and method We performed a retrospective analysis of RNA determinations performed between 2009 and 2011 (Cobas/Taqman, lower LOQ: 15 IU/ml). We distinguished between samples classified as «undetectable» and those classified as «&lt;1.50E + 01 IU/mL» (BLOQ). Results We analyzed 2.432 HCV-RNA measurements in 1.371 patients. RNA was BLOQ in 26 samples (1.07%) from 23 patients (1.68%). BLOQ results were highly prevalent among patients receiving Peg-Riba: 23 of 216 samples (10.6%) from 20 of 88 patients receiving treatment (22.7%). The clinical impact of BLOQ RNA samples was as follows: a) 2 patients initially considered to have negative results subsequently showed quantifiable RNA; b) 8 of 9 patients (88.9%) with BLOQ RNA at week 4 of treatment later showed sustained viral response; c) 3 patients with BLOQ RNA at weeks 12 and 48 of treatment relapsed; d) 4 patients with BLOQ RNA at week 24 and/or later had partial or breakthrough treatment responses, and e) in 5 patients the impact were null or could not be ascertained. Conclusions This study suggests that BLOQ HCV-RNA indicates viremia and that equating a BLOQ result with a negative result can lead to treatment errors. BLOQ results are highly prevalent in on-treatment patients. The results of HCV-RNA quantification should be classified clearly, distinguishing between undetectable levels and levels that are BLOQ(AU)</dc:description>
+<dc:creator>Ferri Iglesias, María José</dc:creator>
+<dc:creator>Louvrie Freire , René</dc:creator>
+<dc:creator>Acero Fernández, Doroteo</dc:creator>
+<dc:creator>López Nuñez, Carme</dc:creator>
+<dc:creator>Aldeguer Manté, Xavier</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción Durante años ha sido habitual, con técnicas de RT-PCR para el ARN-VHC, expresar como menores del límite inferior de cuantificación (&lt; LIC) tanto las cargas virales indetectables como las detectables &lt; LIC. Ello podría causar error en el manejo de algunos pacientes. Objetivo Analizar la frecuencia e impacto clínico de considerar negativos los ARN-VHC detectables pero no cuantificables. Métodos Análisis retrospectivo de las determinaciones de ARN-VHC del período 2009-2011 (Cobas/Taqman, LIC: 15 UI/ml) diferenciando las cargas indetectables de las &lt; LIC. Resultados Se analizaron 2.432 muestras de ARN-VHC en 1.371 pacientes encontrando 26 ARN &lt; 15 (1,07%) en 23 pacientes (1,68%). Los ARN &lt;15 predominaron en pacientes en tratamiento: 23 de 216 determinaciones de ARN-VHC (10,6%) y 20 de 88 pacientes (22,7%). El análisis del impacto clínico mostró: a) 2 pacientes informados de ARN-VHC &lt; 15 tuvieron ARN cuantificables posteriormente; b) 8 de 9 pacientes (88,9%) con ARN &lt; 15 solo en semana 4 de tratamiento alcanzaron RVS; c) los 3 pacientes con ARN &lt; 15 en semana 12 y 48 semanas de tratamiento recidivaron; d) los 4 pacientes con ARN &lt; 15 en semana 24 y/o posteriores fracasaron, y e) en 5 pacientes el impacto clínico fue nulo o no evaluable. Conclusiones El ARN &lt; LIC indica viremia y asimilarlo a ARN-VHC negativo puede inducir a error en el manejo de la infección. Los ARN &lt; LIC son especialmente prevalentes en pacientes en tratamiento. La edición de los resultados de la cuantificación del ARN-VHC debe ser clara, diferenciando la indetectabilidad de la positividad pero señalando esta cuando no sea cuantificable(AU)</dc:description>
+<dc:source>Gastroenterol Hepatol;36(7): 443-449, agos.-sept. 2013. tab</dc:source>
+<dc:identifier>ibc-114842</dc:identifier>
+<dc:title xml:lang="es">Considerar negativa una carga viral expresada como menor del límite inferior de cuantificación puede inducir a error en el diagnóstico y manejo terapéutico de la hepatitis C</dc:title>
+<dc:subject>^d33123^s22083</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d33344^s32386</dc:subject>
+<dc:subject>^d5289</dc:subject>
+<dc:subject>^d3979^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d31852^s22052</dc:subject>
+<dc:subject>^d22286^s22002</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201309</dc:date>
+</metadata>
+</record>
+</ibecs-document>

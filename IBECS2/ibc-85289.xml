@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-85289</identifier>
+<setSpec>0212-1972</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">UNE/EN/ISO 13606 Standards: a tool for ensuring the interoperability of clinical information in the European Union</dc:title>
+<dc:description xml:lang="en">The UNE/EN/ISO 13606 standard for transferring of medical records in an essential tool and facilitates the task of exchanging information between very different systems, without the need to prior agreement of either the content of the data structure, while protecting the system against future changes in knowledge of the domain (AU)</dc:description>
+<dc:creator>Muñoz Carrero, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La interoperabilidad semántica de los sitemas de inoramción clínica es una necesidad de los Sistemas Públicos de Salud para hacer frente a los nuevos retos que se les presenan (mayor movilidad de la población, ayor morbilidad de enfermedades crónicas..). La norma UNE/CEN/ISO 13606 para la transferencia de historias clínicas es una herramienta esencial para ayudar a conseguir ese objetivo. Gracias a su doble modelo, que separa la información del conocimiento, consigue fcilitar la tarea de intercambiar información entre sistemas muy diferentes, sin que sea necesario acordar a priori ni los contenidos ni la estructura de los datos al tiempo que protégé a los sistemas frente a futuros cambios del conocimiento del dominio (AU)</dc:description>
+<dc:source>Todo hosp;(258): 455-460, jul.-ago. 2009. ilus</dc:source>
+<dc:identifier>ibc-85289</dc:identifier>
+<dc:title xml:lang="es">Norma UNE/EN/ISO 13606. Un instrumento para garantizar la interoperabiidd de la información clínica en la Unión Europea</dc:title>
+<dc:subject>^d29453^s22048</dc:subject>
+<dc:subject>^d33196^s22045</dc:subject>
+<dc:subject>^d51308</dc:subject>
+<dc:subject>^d28219^s22048</dc:subject>
+<dc:subject>^d51784^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200908</dc:date>
+</metadata>
+</record>
+</ibecs-document>

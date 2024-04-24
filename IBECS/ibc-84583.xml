@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-84583</identifier>
+<setSpec>1888-4008</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Study of the processing time of a preanalytical system in a primary care laboratory</dc:title>
+<dc:description xml:lang="en">Objective: Adjustment of a Modular Preanalytics (MPA) and Modular Analytics System SWA (Roche Diagnostics) to our laboratory. A study was carried out in order to optimize the turnaround times of the process, changing the system configuration to reduce the number of aliquots. Material and methods: Description of the preanalytical system and its operational configuration. The study of turnaround times of the preanalytical process on the daily workload was compared with 2 theoretical models in which the serum destined for the immunoassay analyzers were grouped in 2 different ways. Results: There are comments about the changes in the initial design of the system. For an average workload of 1364 serum samples/day, the turnaround time of the current configuration was 255.9 min. The resulting rate was 319 samples/h with an average of 0.95 aliquots/sample. In the theoretical models, with the most favorable combination of aliquots, the reduction in turnaround time was 18.3%. Conclusions: The present design of the preanalytical system was adapted to the characteristics of our laboratory, with a large number of samples and with limited working hours, however, improvements should be made. Even the more favorable theoretical model does not allow us to make an aliquot for storage of serum in our work time. Additional studies are needed, including the total turnaround time of process in the immunoassay analyzers, to verify if a possible grouping of immunoassay analyzers and, in particular. which of them, will increase the efficiency of the overall analytical process(AU)</dc:description>
+<dc:creator>Ruiz Altarejos, J</dc:creator>
+<dc:creator>Ramis Fossas, J</dc:creator>
+<dc:creator>Bermejo López-Muñiz, M. P</dc:creator>
+<dc:creator>López Martínez, R</dc:creator>
+<dc:creator>Navarro Olivella, J. M</dc:creator>
+<dc:creator>Vilanova Navarro, C</dc:creator>
+<dc:creator>Bravo Ayuso, B. J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: adaptación del sistema preanalítico modular (MPA) conectado a un sistema modular analítico SWA (Roche Diagnostics) y estudio de la optimización del tiempo de procesamiento preanalítico basándose en cambios en el proceso de alicuotación. Material y métodos: descripción de la arquitectura y de la configuración funcional del sistema preanalítico. Estudio observacional basado en la carga de trabajo diaria, comparando los tiempos y las velocidades de procesamiento de las muestras tal y como está definido el sistema en la actualidad, con los que se obtendrían de 2 modelos teóricos basados en la agrupación de destinos correspondientes a los analizadores de inmunoquímica. Resultados: se comentan los cambios en el diseño inicial del sistema. El tiempo de procesamiento para una media de 1.364 especímenes/día es de 255,9 min. La velocidad de procesamiento resultante es de 319 especímenes/h para una media de 0,95 alícuotas/espécimen. El tiempo de procesamiento se reduce un 18,3% con la combinación más favorable de los modelos teóricos. Conclusiones: el diseño actual del sistema preanalítico se adecua a las características del laboratorio (volumen de muestras elevado y horario laboral limitado), aunque deben realizarse mejoras. Con el modelo teórico más favorable, no se disminuye suficientemente el tiempo de procesamiento como para permitir hacer una alícuota destinada al archivo de muestras. Se necesitan estudios suplementarios que incluyan el tiempo total de procesamiento de las muestras en los analizadores, para comprobar si una futura agrupación de analizadores de inmunoquímica y, en concreto, cuál de ellas aumentaría la eficiencia del proceso total(AU)</dc:description>
+<dc:source>Rev. lab. clín;1(3): 106-112, jul.-dic. 2008. tab</dc:source>
+<dc:identifier>ibc-84583</dc:identifier>
+<dc:title xml:lang="es">Estudio del tiempo de procesamiento de un sistema preanalítico en un laboratorio de atención primaria</dc:title>
+<dc:subject>^d13431^s22039</dc:subject>
+<dc:subject>^d26578</dc:subject>
+<dc:subject>^d13431^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d33124^s22039</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d11756^s22074</dc:subject>
+<dc:subject>^d33124^s22074</dc:subject>
+<dc:subject>^d33124^s22066</dc:subject>
+<dc:subject>^d11756^s22049</dc:subject>
+<dc:subject>^d11756^s22045</dc:subject>
+<dc:subject>^d11756^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200812</dc:date>
+</metadata>
+</record>
+</ibecs-document>

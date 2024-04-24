@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-11682</identifier>
+<setSpec>1131-5768</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">AUDIT test (Alcohol Use Disorders Identification Test) for the detection of alcohol related problems in Primary Health Care</dc:title>
+<dc:creator>Gallego Casado, P</dc:creator>
+<dc:creator>Latorre de la Cruz, C</dc:creator>
+<dc:creator>Álvarez Montero, S</dc:creator>
+<dc:creator>Bermejo Fernández , F</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Arán Ediciones, S.A.</dc:publisher>
+<dc:description xml:lang="es">El test AUDIT (considerándolo positivo si 8 puntos), para la detección de consumo excesivo de alcohol, presenta una sensibilidad de 57-59 por ciento; una especificidad de 91-96 por ciento, un cociente de probabilidad positivo de 6,3-14,7 y un cociente de probabilidad negativo de 0,47-0,42. Para una prevalencia estimada de pacientes con consumo excesivo de alcohol en torno al 10 por ciento, el valor predictivo positivo (si el test 8) es de 4162 por ciento y el valor predictivo negativo (si el test &lt; 8) es de 4,4-4,9 por ciento. En una consulta de Atención Primaria con la misma prevalencia estimada arriba, por cada 200 pacientes el test identificará a 12, perderá 8, y dará un falso positivo en unos 10 (AU)</dc:description>
+<dc:source>Medifam (Madr.);11(9): 553-557, oct. 2001. tab</dc:source>
+<dc:identifier>ibc-11682</dc:identifier>
+<dc:title xml:lang="es">Papel del test AUDIT (Alcohol Use Disorders Identification Test ) para la detección de consumo excesivo de alcohol en Atención Primaria</dc:title>
+<dc:subject>^d24887^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d28598^s22074</dc:subject>
+<dc:subject>^d11756^s22045</dc:subject>
+<dc:subject>^d28608^s22074</dc:subject>
+<dc:subject>^d34378^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200110</dc:date>
+</metadata>
+</record>
+</ibecs-document>

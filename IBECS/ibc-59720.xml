@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-59720</identifier>
+<setSpec>0212-1972</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Data and process integration in the health sector: the interface manager</dc:title>
+<dc:description xml:lang="en">In this article the authors present the practical case of the Hospital San Llátzer which has based its Digital Hospital strategy on an integration bus (AU)</dc:description>
+<dc:creator>Cabrer González, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El siguiente artículo demuestra la necesidad de utilización de un motor de integración en un entorno sanitario. Se detalla el caso práctico del Hospital Son Llátzer que ha basado su estrategia de Hospital Digital en un bus de integración. El uso del EAI supone un ahorro de costes de desarrollo y mantenimiento en tecnología y aporta beneficios claros. Permite desarrollar la Historia Clínica Electrónica Completa, así como la Historia de Salud, y conectar al Hospital con la red sanitaria, facilitando la continuidad asistencial. En la medida que las organizaciones sanitarias se mueven hacia una arquitectura tecnológica orientada a servicios, el objetivo real de crear procesos de negocio que unifican aplicaciones separadas en un todo coherente (HCE), se basa en la utilización de un EAI (AU)</dc:description>
+<dc:source>Todo hosp;(218): 417-425, jul.-ago. 2005. ilus</dc:source>
+<dc:identifier>ibc-59720</dc:identifier>
+<dc:title xml:lang="es">Integración de datos y procesos en el sector sanitario: el gesto de interfaces</dc:title>
+<dc:subject>^d10221^s22066</dc:subject>
+<dc:subject>^d19129^s22018</dc:subject>
+<dc:subject>^d29040^s22055</dc:subject>
+<dc:subject>^d5703^s22049</dc:subject>
+<dc:subject>^d3177^s22041</dc:subject>
+<dc:subject>^d28219</dc:subject>
+<dc:subject>^d19129^s22066</dc:subject>
+<dc:subject>^d29040^s22060</dc:subject>
+<dc:subject>^d19129^s22048</dc:subject>
+<dc:subject>^d19129^s22039</dc:subject>
+<dc:subject>^d19129^s22049</dc:subject>
+<dc:subject>^d22347^s22039</dc:subject>
+<dc:subject>^d22347^s22049</dc:subject>
+<dc:subject>^d19243^s22049</dc:subject>
+<dc:subject>^d6904^s22049</dc:subject>
+<dc:subject>^d19243^s22066</dc:subject>
+<dc:subject>^d29040^s22049</dc:subject>
+<dc:subject>^d32011</dc:subject>
+<dc:subject>^d29040^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200508</dc:date>
+</metadata>
+</record>
+</ibecs-document>

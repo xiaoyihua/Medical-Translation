@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-104803</identifier>
+<setSpec>0212-1611</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Animal model of undernutrition for the evaluation of drug pharmacokinetics</dc:title>
+<dc:creator>Miralles-Arnau, S</dc:creator>
+<dc:creator>Merino-Sanjuán, M</dc:creator>
+<dc:creator>Catalán-Latorre, A</dc:creator>
+<dc:creator>Nácher, A</dc:creator>
+<dc:creator>Jiménez-Torres, NV</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Antecedentes: La desnutrición calórico protéica es un problema de salud que afecta a un número de personas muy elevado. Las alteraciones fisiopatológicos originadas por la desnutrición tienen una repercusión elevada en el comportamiento farmacocinético de los fármacos. Objetivo: Desarrollar un modelo de desnutrición en ratas Wistar macho que pueda utilizarse para evaluar el impacto del estado nutricional sobre la biodisponibilidad oral y farmacocinética de los fármacos. Diseño: Los animales fueron asignados de forma aleatoria a uno de los dos grupos y alimentados con diferentes dietas durante 26 días: WN (dieta normo-nutrida/regular, N = 61) y UN (dieta restringida/calórico-proteica N = 72). La clasificación del estado nutricional de los animales se realizó teniendo en cuenta los niveles de albúmina sérica y colesterol total, y el peso corporal total. Se ha desarrollado un modelo cinético poblacional para analizar la evolución del peso corporal de los animales durante el periodo de adaptación. Resultados: Al final del periodo de adaptación los niveles de albúmina plasmática fueron inferiores a 2,3 g/dL en el 80% (60/72) de los animales desnutridos. Sin embargo, los valores de colesterol total en suero fueron similares en ambos grupos. El peso corporal total de los animales desnutridos fue inferior a 230 g y superior a 240 g para los animales alimentados en condiciones de normonutrición. El modelo de cinético de evolución del peso seleccionado se caracteriza por una cinética combinada lineal y exponencial. La fracción lineal representa el aumento de peso, y la fracción exponencial, que a su vez es función del tiempo, caracteriza la pérdida de peso del animal. La estabilidad del modelo seleccionado se ha realizado utilizando la técnica de remuestreo (bootstrap) y la validación mediante el test de predicción visual (visual predictive check, VPC). Conclusiones: El modelo animal desarrollado en este estudio puede ser de utilidad para evaluar el impacto del estado nutricional sobre la farmacocinética de los fármacos. El modelo matemático propuesto permite predecir el peso corporal de los animales, teniendo en cuenta la dieta la dieta administrada durante el período experimental (AU)</dc:description>
+<dc:source>Nutr Hosp;26(6): 1296-1304, nov.-dic. 2011. ilus, tab</dc:source>
+<dc:identifier>ibc-104803</dc:identifier>
+<dc:title xml:lang="es">Modelo de desnutrición animal para la evaluación de estudios de farmacocinética</dc:title>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d30409^s22032</dc:subject>
+<dc:subject>^d4255</dc:subject>
+<dc:subject>^d22960</dc:subject>
+<dc:subject>^d7571^s22031</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201112</dc:date>
+</metadata>
+</record>
+</ibecs-document>

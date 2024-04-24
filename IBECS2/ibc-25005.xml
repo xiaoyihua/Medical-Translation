@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-25005</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Characteristics of antiviral drugs</dc:title>
+<dc:creator>Ribas, Josep</dc:creator>
+<dc:creator>Alberdi, Aintzane</dc:creator>
+<dc:creator>Tuset, Montse</dc:creator>
+<dc:creator>Miró, José</dc:creator>
+<dc:creator>Codina, Carles</dc:creator>
+<dc:creator>Cacho, Elena del</dc:creator>
+<dc:creator>Martín-Conde, M. Teresa</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">En este artículo se resumen las principales características de los fármacos utilizados para tratar las infecciones virales, exceptuando la infección por el virus de la inmunodeficiencia humana (VIH). Se tratan los antivirales activos frente al virus del herpes, citomegalovirus (CMV), virus de la hepatitis B y C (VHB y VHC) y virus respiratorios como el de la gripe y el virus respiratorio sincitial (VRS). Se indica su dosificación en función de la indicación, el ajuste de dosis en caso de insuficiencia renal o hepática, sus características farmacocinéticas más relevantes, así como sus principales efectos secundarios e interacciones (AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;21(8): 433-458, oct. 2003.</dc:source>
+<dc:identifier>ibc-25005</dc:identifier>
+<dc:title xml:lang="es">Características de los fármacos antivirales</dc:title>
+<dc:subject>^d31856</dc:subject>
+<dc:subject>^d6676</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22431</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200310</dc:date>
+</metadata>
+</record>
+</ibecs-document>

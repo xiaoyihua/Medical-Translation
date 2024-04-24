@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-153734</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Costs and cost-effectiveness analysis of 2015 GESIDA/Spanish AIDS National Plan recommended guidelines for initial antiretroviral therapy in HIV-infected adults</dc:title>
+<dc:description xml:lang="en">Introduction: GESIDA and the AIDS National Plan panel of experts suggest a preferred (PR), alternative (AR) and other regimens (OR) for antiretroviral treatment (ART) as initial therapy in HIV-infected patients for 2015. The objective of this study is to evaluate the costs and the effectiveness of initiating treatment with these regimens. Methods: Economic assessment of costs and effectiveness (cost/effectiveness) based on decision tree analyses. Effectiveness was defined as the probability of reporting a viral load &lt;50 copies/mL at week 48, in an intention-to-treat analysis. Cost of initiating treatment with an ART regimen was defined as the costs of ART and its consequences (adverse effects, changes of ART regimen, and drug resistance studies) during the first 48 weeks. The payer perspective (National Health System) was applied, only taking into account differential direct costs: ART (official prices), management of adverse effects, studies of resistance, and HLA B*5701 testing. The setting is Spain and the costs correspond to those of 2015. A deterministic sensitivity analysis was conducted, building three scenarios for each regimen: base case, most favourable and least favourable. Results: In the base case scenario, the cost of initiating treatment ranges from 4663 Euros for 3TC + LPV/r (OR) to 10,902 Euros for TDF/FTC + RAL (PR). The effectiveness varies from 0.66 for ABC/3TC + ATV/r (AR) and ABC/3TC + LPV/r (OR), to 0.89 for TDF/FTC + DTG (PR) and TDF/FTC/EVG/COBI (AR). The efficiency, in terms of cost/effectiveness, ranges from 5280 to 12,836 Euros per responder at 48 weeks, for 3TC + LPV/r (OR) and RAL + DRV/r (OR), respectively. Conclusion: The most efficient regimen was 3TC + LPV/r (OR). Among the PR and AR, the most efficient regimen was TDF/FTC/RPV (AR). Among the PR regimes, the most efficient was ABC/3TC + DTG (AU)</dc:description>
+<dc:creator>Rivero, Antonio</dc:creator>
+<dc:creator>Knobel, Hernando</dc:creator>
+<dc:creator>Boix, Vicente</dc:creator>
+<dc:creator>Miró, José M</dc:creator>
+<dc:creator>Clotet, Bonaventura</dc:creator>
+<dc:creator>López, Juan Carlos</dc:creator>
+<dc:creator>Domingo, Pere</dc:creator>
+<dc:creator>Tuset, Montserrat</dc:creator>
+<dc:creator>Berenguer, Juan</dc:creator>
+<dc:creator>Llibre, Josep M</dc:creator>
+<dc:creator>Blasco,  Antonio Javier</dc:creator>
+<dc:creator>Arribas, José Ramón</dc:creator>
+<dc:creator>Lázaro, Pablo</dc:creator>
+<dc:creator>Lozano, Fernando</dc:creator>
+<dc:creator>Gatell, Josep M</dc:creator>
+<dc:creator>Podzamczer, Daniel</dc:creator>
+<dc:creator>González-García, Juan</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Introducción: El panel de expertos de GESIDA/Plan Nacional del Sida ha recomendado pautas preferentes (PP), pautas alternativas (PA) y otras pautas (OP) para el tratamiento antirretroviral como terapia de inicio en pacientes infectados por VIH para 2015. El objetivo de este estudio es evaluar los costes y la eficiencia de iniciar tratamiento con estas pautas. Métodos: Evaluación económica de costes y eficiencia (coste/eficacia) mediante construcción de árboles de decisión. Se definió eficacia como la probabilidad de tener carga viral &lt;50 copias/mL en la semana 48 en análisis por intención de tratar. Se definió coste de iniciar tratamiento con una pauta como los costes del tratamiento antirretroviral y de todas sus consecuencias (efectos adversos, cambios de pauta y estudio de resistencias) que se producen en las siguientes 48 semanas. Se utilizó la perspectiva del Sistema Nacional de Salud, considerando solo costes directos diferenciales: tratamiento antirretroviral (a precio oficial), manejo de efectos adversos, estudios de resistencias y determinación de HLA B*5701. El ámbito es España, con costes de 2015. Se realizó análisis de sensibilidad determinista construyendo 3 escenarios para cada pauta: basal, más favorable y más desfavorable. Resultados: En el escenario basal, los costes de iniciar tratamiento oscilaron entre 4.663 euros para 3TC + LPV/r (OP) y 10.902 euros para TDF/FTC + RAL (PP). La eficacia osciló entre 0,66 para ABC/3TC + ATV/r (PA) y ABC/3TC + LPV/r (OP), y 0,89 para TDF/FTC + DTG (PP) y TDF/FTC/EVG/COBI (PA). La eficiencia, en términos de coste/eficacia, osciló entre 5.280 y 12.836 euros por respondedor a las 48 semanas, para 3TC + LPV/r (OP) y RAL + DRV/r (OP), respectivamente. Conclusión: La pauta más eficiente fue 3TC + LPV/r (OP). Entre las PP o PA, la pauta más eficiente fue TDF/FTC/RPV (PA). De las PP, la más eficiente fue ABC/3TC + DTG (AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;34(6): 361-371, jun-jul. 2016. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-153734</dc:identifier>
+<dc:title xml:lang="es">Análisis de costes y de coste/eficacia de las pautas recomendadas por GESIDA/Plan Nacional sobre el Sida en 2015 para el tratamiento antirretroviral inicial en adultos infectados por el VIH</dc:title>
+<dc:subject>^d24718^s22057</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d35395^s22074</dc:subject>
+<dc:subject>^d38332^s22073</dc:subject>
+<dc:subject>^d33123^s22021</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30313^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201607</dc:date>
+</metadata>
+</record>
+</ibecs-document>

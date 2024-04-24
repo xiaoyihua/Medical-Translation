@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-042923</identifier>
+<setSpec>0214-3429</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Parmacokinetic/pharmacodynamic analysis to optimize antibacterial treatments: Prediction of efficacy by using Montecarlo simulation techniques</dc:title>
+<dc:description xml:lang="en">The aim of this work is to provide a methodology to predict the potential efficacy of standard dosage schedules established for antimicrobialswhen used in clinical practice and administered to patients with different demographic characteristics. It is based on the application ofpharmacokinetic and pharmacodynamic criteria (PK/PD analysis) to optimize dosification of this type of drug. Pharmacokinetic parameterssuch as the area under the plasma concentration-time curve (AUC) or maximum plasma concentration (Cmax) can be estimated from populationkinetic models for each type of patient. Microbiological information, such as the MIC value, is also required. Using the above mentionedinformation and applying the Montecarlo simulation technique the probability of achieving the recommended value of a substitutedvariable related to efficacy may be estimated. The proposed methodology has been applied to levofloxacin when reportedly administeredto patients showing different characteristics. The results reveal that this method allows us to know a priori whether or not the standard dosageis appropriate for a particular patient for whom the treatment is indicated. In summary, the proposed methodology provides us with astrategy for dosage individualization of antimicrobial agents that can be applied before initiating the treatment with no need for monitoringdrug concentration, leading to an increase of clinical efficacy as well as a decreased risk of resistance development</dc:description>
+<dc:creator>Sánchez Navarro, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El objetivo de este trabajo fue aportar una metodología que facilite la predicción de la eficacia de las pautas de dosificación estándar para losantibacterianos cuando se administran a pacientes con distintas características demográficas. Se basa en la aplicación de criterios farmacocinéticosy farmacodinámicos (análisis PK/PD) para optimizar las pautas posológicas de este tipo de fármacos. Utilizando los datos bibliográficos decinética poblacional se pueden estimar valores de parámetros cinéticos como el área bajo la curva de concentraciones plasmáticas-tiempo (ABC)o la concentración plasmática máxima (Cmax) en cada tipo de paciente. Como parámetro microbiológico se utiliza la CMI del patógeno causantede la infección. Con esta información, mediante simulación de Montecarlo se establece la probabilidad de alcanzar el valor recomendadode la variable subrogada de la respuesta que se relaciona con la eficacia terapéutica. La metodología propuesta se ha aplicado al caso concretode levofloxacino supuestamente administrado a pacientes con características diferentes. Los resultados obtenidos demuestran que estemétodo permite conocer a priori si la pauta estándar es la más indicada o sí, por el contrario, es recomendable individualizar la posología segúnlas características del paciente y la sensibilidad del patógeno al antibiótico. En definitiva, el método propuesto permite la individualización posológicade los agentes antibacterianos, antes de instaurar el tratamiento y sin necesidad de recurrir a la concentración sérica, facilitando así unaumento de la eficacia terapéutica y la disminución del riesgo de desarrollo de resistencias</dc:description>
+<dc:source>Rev Esp Quimioter;18(3): 230-235, jul.-sep. 2005. tab, graf</dc:source>
+<dc:identifier>ibc-042923</dc:identifier>
+<dc:title xml:lang="es">Optimización de la terapia antibacteriana mediante análisis farmacocinético/farmacodinámico: predicción de la eficacia con técnicas de simulación de Montecarlo</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d911^s22000</dc:subject>
+<dc:subject>^d911^s22079</dc:subject>
+<dc:subject>^d19042</dc:subject>
+<dc:subject>^d22960</dc:subject>
+<dc:subject>^d36322</dc:subject>
+<dc:subject>^d27231</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200509</dc:date>
+</metadata>
+</record>
+</ibecs-document>

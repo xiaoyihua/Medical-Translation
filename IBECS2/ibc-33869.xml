@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-33869</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The effect of age, sex, and experience on the risk of causing a car collision in drivers aged 18-24 years old</dc:title>
+<dc:creator>Gálvez-Vargas, Ramón</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Cuantificar el efecto independiente de la edad, el sexo y la experiencia de los conductores de 18 a 24 años sobre el riesgo de verse activamente involucrados en una colisión entre turismos en España, en un estudio realizado entre 1990 y 1999.Métodos: Se ha realizado un estudio de casos y controles emparejados a partir de la información contenida en el Registro de accidentes de tráfico con víctimas de la Dirección General de Tráfico. La población de estudio estuvo constituida por los conductores involucrados en aquellas colisiones entre turismos en las que sólo uno de los conductores implicados cometió alguna infracción. Los conductores infractores constituyeron el grupo de casos, y los no infractores implicados en la misma colisión, sus controles emparejados. Tras excluir los casos con información faltante o inconsistente, se dispuso de un total de 123.586 casos y 140.482 controles. Se calculó la odds ratio (OR) cruda y ajustada para cada combinación de la edad del conductor (entre 18 y 24 años), el sexo y los años de antigüedad del permiso (entre 0 y 7).Resultados: En general, las estimaciones de la OR de los varones fueron superiores a las de las mujeres de igual edad y antigüedad. En los varones se observa que, para cualquier edad, las OR crudas y ajustadas disminuyen significativamente a medida que aumenta el número de años de antigüedad del permiso. En las mujeres se apreció una tendencia similar, aunque con menor claridad. Tras ajustar por el efecto de la experiencia, la edad del conductor no parece estar asociada con el riesgo de verse activamente implicado en la colisión. Conclusiones: El presente estudio confirma la importancia que tiene la inexperiencia como factor responsable del exceso de accidentalidad en los conductores jóvenes, por encima del efecto atribuible a la edad en sí misma (AU)</dc:description>
+<dc:source>Gac Sanit;18(3): 166-176, mayo 2004.</dc:source>
+<dc:identifier>ibc-33869</dc:identifier>
+<dc:title xml:lang="es">Efecto de la edad, el sexo y la experiencia de los conductores de 18 a 24 años sobre el riesgo de provocar colisiones entre turismos</dc:title>
+<dc:subject>^d27830</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29362</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d23893</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24551</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d24811</dc:subject>
+<dc:subject>^d1340</dc:subject>
+<dc:subject>^d14384</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200405</dc:date>
+</metadata>
+</record>
+</ibecs-document>

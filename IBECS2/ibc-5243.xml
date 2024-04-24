@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-5243</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Clinical utility of gentamicin though plasma concentration after a single daily dose</dc:title>
+<dc:creator>Faus Felipe, V</dc:creator>
+<dc:creator>Bertolín Olmos, B</dc:creator>
+<dc:creator>Almela Tejedo, M</dc:creator>
+<dc:creator>Pastor Boix, E</dc:creator>
+<dc:creator>Cholvi Llovell, M</dc:creator>
+<dc:creator>Pérez Ruixo, J. J</dc:creator>
+<dc:creator>Jiménez Torres, N. V</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Arán Ediciones, S.A.</dc:publisher>
+<dc:description xml:lang="es">El objetivo del presente estudio es valorar los factores pronóstico que permiten predefinir la utilidad de la monitorización de la concentración plasmática valle de gentamicina tras su administración en dosis única diaria. Esta situación está relacionada íntimamente con el hecho de que a concentraciones plasmáticas valle inferiores a 1 mg/I las técnicas analíticas habitualmente utilizadas poseen una exactitud y precisión que limita su utilidad clínica. La utilidad de la monitorización de la concentración plasmática valle se valoró mediante el desarrollo de un modelo de regresión logística que permitió identificar los factores pronóstico (edad, peso, talla, sexo, creatinina sérica y aclaramiento de creatinina) que de forma independiente determinan valores &lt;1 mg/1 en una población de estudio formada por 1.250 pacientes simulados con las mismas características que los pacientes atendidos en nuestro hospital. El aclaramiento de creatinina (OR=1,077; p&lt; 0,0001) y el peso (OR = 0,978; p &lt; 0,0001) se identifican como factores pronóstico de alcanzar concentraciones valle de gentamicina &lt; 1 mg/I. Cuando se utiliza el modelo con el aclaramiento de creatinina como única covariable, el área bajo la curva de rendimiento diagnóstico es de 0,85 y el punto de corte óptimo corresponde a un aclaramiento de creatinina de 60 ml/min, en el cual se alcanza una sensibilidad del 79,48 por ciento y una especificidad de 73,21 por ciento. El área bajo la curva de rendimiento diagnóstico no mejora de forma significativa cuando el peso corporal es añadido como covariable a este modelo. En este sentido, la utilidad clínica de la determinación de la concentración valle de gentamicina para su individualización posológica es escasa cuando el paciente presenta un aclaramiento de creatinina superior a 60 ml/min (AU)</dc:description>
+<dc:source>Farm Hosp;24(2): 89-97, mar. 2000. tab, graf</dc:source>
+<dc:identifier>ibc-5243</dc:identifier>
+<dc:title xml:lang="es">Utilidad clínica de la concentración plasmatica valle de gentamicina tras su administración en dosis única diaria</dc:title>
+<dc:subject>^d23255^s22000</dc:subject>
+<dc:subject>^d911^s22000</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d911^s22062</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d30074^s22057</dc:subject>
+<dc:subject>^d23255^s22062</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200003</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-158433</identifier>
+<setSpec>1888-4008</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Verification and implementation of a serum index measurement system (haemolysis, icterus, and lipaemia) in a Dimension® EXLTM in an emergency laboratory</dc:title>
+<dc:description xml:lang="en">Introduction. Haemolysis, icterus (bilirubin) and lipaemia (triglycerides) (HIL) are the main interferences that can lead to analytical errors in the measurement of biological substances. Many analysers incorporate interference detection systems, which nonetheless are often not verified. The main objective is to verify the HIL measurement system of the Dimension® EXLTM analyser, and to check the correct assignment of the alert values by the supplier. Material and methods. The effect of the haemolysis, bilirubin and triglycerides on the results has been assessed by comparing the value of the quantity in a sample without interference with the values obtained in the same sample with increasing concentrations of interfering substances. The procedure recommended by the Comisión de Metrología y Sistemas Analíticos of the SEQC has been followed. An algorithm to inform of interferences, based on clinical and technical aspects, has been developed. Results. All haemolytic index results included the expected concentration of the interfering substance. Few errors were found for icterus, while for lipaemia the analyser gave results lower than expected. In the study of the HIL alert indexes, differences were found between the results obtained and the information provided by the supplier. Finally the algorithm followed in our laboratory to inform the presence of interfering substances is presented. Conclusions. The introduction of these alert indexes without a prior verification of them can lead to potential errors. Proper verification of these systems would enable detecting the lack of trueness in the measurement of the interfering substances or the inadequate establishment of some alert indexes (AU)</dc:description>
+<dc:creator>Bedini, José Luis</dc:creator>
+<dc:creator>Sandalinas, Silvia</dc:creator>
+<dc:creator>González de la Presa, Bernardino</dc:creator>
+<dc:creator>Fernández Galán, Esther</dc:creator>
+<dc:creator>Parra Robert, Marina</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. La hemólisis, ictericia y lipidemia son los principales interferentes que pueden producir errores analíticos en la medición de magnitudes bioquímicas. Muchos analizadores incorporan sistemas de detección de interferentes, sin embargo no suelen estar verificados. El objetivo del estudio es verificar el sistema de medición HIL del analizador Dimension® EXLTM y comprobar la adecuada asignación por el proveedor de los valores de alerta. Material y métodos. Se ha evaluado el efecto de la hemoglobina, bilirrubina y triglicéridos en los resultados, comparando el valor de la magnitud en la muestra sin interferente con los valores obtenidos en la misma muestra con concentraciones crecientes del mismo. Se ha seguido el procedimiento recomendado por la Comisión de Metrología y Sistemas Analíticos de la SEQC. Asimismo, se ha elaborado un algoritmo de cuándo informar la presencia de interferencias (criterios clínicos y técnicos). Resultados. Todos los resultados de los índices hemolíticos incluyeron la concentración esperada del interferente, para la ictericia hubo ligeras diferencias, mientras que para la lipidemia el analizador proporcionó resultados más bajos de los esperados. En el estudio de los índices de alerta HIL hubo diferencias entre los resultados obtenidos y la información del fabricante. Se presenta el algoritmo para informar la presencia de estas interferencias. Conclusiones. La incorporación de estos índices de alerta sin una previa verificación de los mismos puede llevar a cometer errores. Una correcta verificación de estos sistemas permitiría detectar la falta de veracidad en la medición de estos interferentes o el inadecuado establecimiento de algunos índices de alerta (AU)</dc:description>
+<dc:source>Rev. lab. clín;9(4): 166-172, oct.-dic. 2016. tab, graf</dc:source>
+<dc:identifier>ibc-158433</dc:identifier>
+<dc:title xml:lang="es">Verificación e implantación en un laboratorio de urgencias de un sistema de medición de los índices séricos (hemólisis, ictericia y lipidemia) en un Dimension® EXLTM</dc:title>
+<dc:subject>^d6613^s22031</dc:subject>
+<dc:subject>^d28626</dc:subject>
+<dc:subject>^d23568^s22002</dc:subject>
+<dc:subject>^d33124^s22048</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d14679^s22002</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d33124^s22039</dc:subject>
+<dc:subject>^d1686^s22002</dc:subject>
+<dc:subject>^d7734^s22016</dc:subject>
+<dc:subject>^d33124^s22045</dc:subject>
+<dc:subject>^d8245^s22002</dc:subject>
+<dc:subject>^d22198^s22002</dc:subject>
+<dc:subject>^d29197^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201612</dc:date>
+</metadata>
+</record>
+</ibecs-document>

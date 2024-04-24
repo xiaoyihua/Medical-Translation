@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-76306</identifier>
+<setSpec>0212-6567</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Tree decision analysis of the therapeutic alternatives for panic disorders in primary care</dc:title>
+<dc:description xml:lang="en">AimsTo analyse the different therapeutic alternatives for Panic Disorders to make it easier to make collaborative treatment decisions between patients and doctors in a Primary Care setting.DesignQuantitative analysis by a decision tree.Data SourcesTime period reviewed; 1990&#150;2008 in Med-line, Embase, Cochrane-plus Library and Tripdatabase. Terms used &#147;panic disorder&#148;, &#147;psychotherapy&#148; and &#147;drug therapy&#148;.MethodsI) A decision tree was prepared with only one therapeutic option in each arm; II) The same procedure with two sequential therapeutic options; III) Sensitivity analysis to test the robustness of the model.Study selectionEvidence summary, systematic reviews, meta-analysis and clinical guidelines.ResultsCognitive-Behavioural Therapy (CBT) obtains the highest usefulness (UME=0.58), followed by the Selective serotonin reuptake inhibitors (SSRI) (UME=0.53) and by the tricyclic antidepressants (UME=0.44). CBT followed by SSRI is the therapeutic sequence with the highest usefulness (0.62). The sensitivity analysis suggests the model is not robust enough.ConclusionsThe CBT in monotherapy or followed by SSRI in a sequential strategy would be the options with the highest usefulness. The results are not robust enough because they can clearly vary with changes in the most important variables in a reasonable range(AU9</dc:description>
+<dc:creator>Navarro-Mateu, Fernando</dc:creator>
+<dc:creator>Garriga-Puerto, Ascensión</dc:creator>
+<dc:creator>Sánchez-Sánchez, Juan Antonio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">ObjetivoAnalizar las diferentes estrategias terapéuticas para el trastorno de pánico, de forma que se facilite la toma de decisiones conjunta entre el profesional sanitario de atención primaria y el paciente.DiseñoAnálisis cuantitativo por árbol de decisión.Fuentes de datosRevisión del período de 1990 a 2008 en Medline, Embase, librería Cochrane Plus y Tripdatabase. Términos utilizados: &#147;panic disorder&#148;, &#147;psychotherapy&#148; y &#147;drug therapy&#148;.Selección de estudiosSumarios de pruebas, revisiones sistemáticas, metaanálisis y guías de práctica clínica.Extracción de datosa) Elaboración de un árbol de decisión con una única opción terapéutica; b) idéntico procedimiento con 2 opciones terapéuticas secuenciales, y c) análisis de sensibilidad para valorar la consistencia del modelo.ResultadosLa terapia cognitivo-conductual (TCC) obtiene la utilidad media esperada (UME) más elevada (UME = 0,58), seguida de los antidepresivos, inhibidores selectivos de la recaptación de serotonina (ISRS) (UME = 0,53) y de los antidepresivos tricíclicos (UME = 0,44). La secuencia TCC seguida de ISRS es la que obtiene una UME más alta (0,62). EL análisis de sensibilidad indica que el modelo no es suficientemente consistente..(AU)</dc:description>
+<dc:source>Aten Primaria;42(2): 86-94, feb. 2010. ilus, tab</dc:source>
+<dc:identifier>ibc-76306</dc:identifier>
+<dc:title xml:lang="es">Análisis de las alternativas terapéuticas del trastorno de pánico en atención primaria mediante un árbol de decisión</dc:title>
+<dc:subject>^d30967</dc:subject>
+<dc:subject>^d29912^s22067</dc:subject>
+<dc:subject>^d935^s22073</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d936^s22073</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d30515^s22073</dc:subject>
+<dc:subject>^d22877</dc:subject>
+<dc:subject>^d19609^s22066</dc:subject>
+<dc:subject>^d19609^s22074</dc:subject>
+<dc:subject>^d10387</dc:subject>
+<dc:subject>^d19609^s22083</dc:subject>
+<dc:subject>^d11756^s22045</dc:subject>
+<dc:subject>^d11756^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201002</dc:date>
+</metadata>
+</record>
+</ibecs-document>

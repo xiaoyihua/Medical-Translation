@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-059018</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Comparison of two methods to identify factors associated with the onset of cannabis use in a cohort study</dc:title>
+<dc:description xml:lang="en">Objective: To compare the utility of two multivariate analytic methods, case-control (CC) analysis and nested case-control (NCC) analysis in a cohort, to identify the factors associated with the onset of cannabis use.         Methods: A longitudinal cohort study of a sample of secondary school students (n = 1,056) in the first year of secondary school was carried out. Participating students were followed-up annually until the fourth year of secondary school. In the CC analysis, students in the fourth year who reported having consumed cannabis at some time were considered cases and those who had never consumed cannabis were considered controls. Logistic regression (LR) models were estimated. In the NCC analysis, cases in each year of follow-up were compared with a random sample of controls at risk in the same year and conditional LR models were estimated. I         Results: In the CC analysis, 6 variables in boys and 9 variables in girls in bivariate models and 3 variables in boys and 4variables in girls in multivariate models were identified. In the NCC analysis, 17 variables in univariate models and 4 in multivariate models were obtained in both boys and girls. The estimators of the CC analysis showed an average of 1.2-fold more variability.         Conclusions: A higher number of factors associated with cannabis use were identified in the NCC analysis and the estimators were more precise. NCC could be a more efficient option than CC analysis</dc:description>
+<dc:creator>Domingo-Salvany, Antonia</dc:creator>
+<dc:creator>Guxens, Mónica</dc:creator>
+<dc:creator>Nebot, Manel</dc:creator>
+<dc:creator>Ariza, Carles</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Comparar la utilidad de 2 métodos analíticos multivariados, el análisis como casos y controles (CC) y como casos y controles anidados (CCa) en una cohorte, para identificar los factores asociados al inicio del consumo de cannabis.         Métodos: Estudio longitudinal con una muestra de 1.056 alumnos de primer curso de Educación Secundaria Obligatoria (ESO), seguidos anualmente hasta cuarto de ESO. En el análisis como CC se consideraron casos los que declararon, en el cuarto año, haber consumido cannabis y controles los que no habían consumido nunca, estimando modelos de regresión logística (RL). En el análisis como CCa, se compararon los casos de cada año de seguimiento con una muestra aleatoria de controles de riesgo en ese mismo año, estimando modelos de RL condicional.         Resultados: En el análisis como CC, se identificaron 6 variables en los chicos y 9 en las chicas en los modelos bivariados, y 3 en los chicos y 4 en las chicas en los multivariados. En el análisis como CCa se obtuvieron 17 variables en los modelos bivariados y 4 en los multivariados, tanto en los chicos como en las chicas. Los estimadores del análisis como CC tenían 1,2 veces más variabilidad.         Conclusiones: El análisis como CCa permitió identificar un mayor número de factores asociados al consumo de cannabis y los estimadores fueron más precisos. El CCa puede ser una alternativa más eficiente frente al análisis como CC</dc:description>
+<dc:source>Gac Sanit;21(6): 515-524, nov.2007. ilus, tab</dc:source>
+<dc:identifier>ibc-059018</dc:identifier>
+<dc:title xml:lang="es">Comparación de dos métodos para identificar los factores asociados al inicio del consumo de cannabis en un estudio de cohortes</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d28235^s22080</dc:subject>
+<dc:subject>^d24624</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24551</dc:subject>
+<dc:subject>^d24887^s22039</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200711</dc:date>
+</metadata>
+</record>
+</ibecs-document>

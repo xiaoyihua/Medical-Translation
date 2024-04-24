@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-055933</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Development and validation of laboratory methods for antiretroviral quantitation using HPLC</dc:title>
+<dc:description xml:lang="en">Objective: Development, validation and error characterizationof three analytical methods, by high performance liquid chromatography(HPLC), for the quantitative analysis of ritonavir,saquinavir and abacavir in human plasma.Method: Reagents and instrumentation used, preparation ofdifferent standards, sample extraction procedure from biologicmatrix, and analytical conditions assayed were detailed to set upthree analytical methods. In addition, the validation and the determinationof analytical error were also described.Results: The analytical methods developed for ritonavir,saquinavir and abacavir in human plasma were selective, linear(r2 &gt; 0.99), precise (coefficients of variation &lt; 15%) and accurate(relative errors &lt; 15%) over the concentration range selected. Therecovery was more than 95% in all methods. Antiretroviral drugswere stable in the storage conditions assayed according to theroutine laboratory. The error function discriminated for each analyticalmethod validated was linear in saquinavir (SD = 4.84 +7.14·10-2C) and abacavir (SD = -1.072 + 3.70·10-2C), and nonlinearin ritonavir (SD = 39.98 + 2.40·10-5C2).Conclusions: Three analytical methods were developed andsubsequently validated, with validation parameters being withinthe specifications and attributes of quality established. The errorfunction characterized for each validated method can be used as aheteroscedastic weighting method in the parameter estimation bynon-linear regression analysis in clinical pharmacokinetic studiesof antiretroviral drugs assayed</dc:description>
+<dc:creator>Mariño, E. L</dc:creator>
+<dc:creator>Lastra, C. F</dc:creator>
+<dc:creator>Albert, V</dc:creator>
+<dc:creator>Ferrer, M. S. M. </dc:creator>
+<dc:creator>Modamio, P</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Desarrollo, validación y caracterización de la funcióndel error de tres métodos analíticos mediante la técnica decromatografía líquida de alta eficacia (HPLC) para el análisis cuantitativode ritonavir, saquinavir y abacavir en plasma humano.Método: Se han indicado los reactivos y aparatos empleados,la preparación de los diferentes estándares de referencia, el procedimientode extracción desde la matriz biológica y las condicionesde análisis ensayadas para la puesta a punto de los tres métodosanalíticos. Además, también se han descrito las metodologías devalidación y de obtención de la función del error analítico.Resultados: Los métodos analíticos desarrollados para ritonavir,saquinavir y abacavir en plasma humano fueron selectivos,lineales (r2 &gt; 0,99), precisos (coeficientes de variación &lt; 15%) yexactos (errores relativos &lt; 15%) en el rango de concentracionesseleccionado. La recuperación fue mayor del 95% en todos losmétodos. Los antirretrovirales estudiados fueron estables en lascondiciones ensayadas de acuerdo con la rutina del laboratorio.La función del error discriminada para cada uno de los métodosanalíticos validados resultó ser lineal en saquinavir (DE = 4,84 +7,14·10-2C) y abacavir (DE = -1,072 + 3,70·10-2C) y no lineal enel caso de ritonavir (DE = 39,98 + 2,40·10-5C2).Conclusiones: Se han desarrollado y posteriormente validadotres métodos analíticos, encontrándose los parámetros de validacióndentro de las especificaciones y atributos de calidad establecidos. Lafunción del error de cada uno de los métodos validados puedeemplearse como método de ponderación heteroscedástica en laestimación de parámetros mediante regresión no lineal en estudiosde farmacocinética clínica de los antirretrovirales ensayados</dc:description>
+<dc:source>Farm Hosp;30(6): 374-378, nov.-dic.2006. tab</dc:source>
+<dc:identifier>ibc-055933</dc:identifier>
+<dc:title xml:lang="es">Desarrollo y validación de métodos analíticos para la cuantificación de antirretrovirales por HPLC</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d38332^s22079</dc:subject>
+<dc:subject>^d4403^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d16704</dc:subject>
+<dc:subject>^d25105</dc:subject>
+<dc:subject>^d4415</dc:subject>
+<dc:subject>^d2900^s22045</dc:subject>
+<dc:subject>^d32994^s22079</dc:subject>
+<dc:subject>^d32996^s22079</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200612</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-101073</identifier>
+<setSpec>0367-2743</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">No disponible</dc:title>
+<dc:description xml:lang="en">No disponible</dc:description>
+<dc:creator>Kuruvilla Oommen, Puthenparambil</dc:creator>
+<dc:creator>Sekar, Balaraman</dc:creator>
+<dc:creator>Narayanan, Sujatha</dc:creator>
+<dc:creator>Menaka, Kandhaswami</dc:creator>
+<dc:creator>Arunagiri, Kamalanathan</dc:creator>
+<dc:creator>Nirmal Kumar, Balan</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: La técnica convencional para evaluar la susceptibilidad antimicrobiana de la multiterapia (MDT) recomendado por la OMS frente al Mycobacterium leprae en la almohadilla plantar del ratón (MFP) es laboriosa y larga (aproximadamente entre 6 y 12 meses). Actualmente se han definido dianas moleculares para distintos medicamentos para tratar la lepra. Se han estandarizado diversas técnicas moleculares para la rápida detección de estas resistencias. Este estudio ha comparado dichos métodos moleculares con la técnica MFP para determinar la susceptibilidad del M. leprae frente a los anti-microbianos. Métodos: Participaron en este estudio 40 pacientes con índice bacteriológico (IB) positivo, de entre ellos había 25 con característica clara de recaída, 11 nuevos casos y 4 incumplidores del tratamiento. Se obtuvo una biopsia cutánea de todos los casos que fue procesado para MFP y métodos moleculares. Se diseña primero PCR para amplificar fragmentos DNA de 388 bp del gen folP1 para la resistencia a la dapsona, de 305 bp del gen rpoB para la resistencia a la rifampicina y de 342 bp del gen gyrA para la resistencia a ofloxacino, seguida por la secuenciación DNA. Resultados: Solamente se obtuvo un crecimiento significativo con la técnica MPF en 28 de las 40 biopsias procesadas (70%). De entre ellas, 10 muestras resultaron ser dapsona resistentes, una muestra presentó resitencia frente a la dapsona, rifampicina y clofazimina. Se obtuvo amplificación de genes en 40 (100%) de las muestras. De entre los amplificados folP1 secuenciados, 6 cepas presentan mutaciones en posición 53 o 55 de los aminoácidos. Las cepas que resultaron muy resistentes con crecimiento dos log con la técnica MFP y/o crecimiento mediante pasaje presentaban mutaciones en el gen folP1. No se detectaron mutaciones en los amplificados rpoB y gyrA. No e detectaron pues resistencia frente a la rifampicina en el DNA aislado de las biopsias. Conclusión: Se puede aplicar la técnica PCR-secuenciación directa por su sensibilidad y rapidez para sustituir a la más laboriosa MFP para la detección de resistencia frente a dapsona, rifampicina y ofloxacino (AU)</dc:description>
+<dc:source>Fontilles, Rev. leprol;28(2): 123-133, mayo-ago. 2011. tab, ilus</dc:source>
+<dc:identifier>ibc-101073</dc:identifier>
+<dc:title xml:lang="es">Detección de mutaciones en los genes folp1, rpoB y gyrA de M. Leprae por secuenciación directa PCR-una técnica rápida para el cribaje de resistencias farmacológicas en la lepra</dc:title>
+<dc:subject>^d25123^s22045</dc:subject>
+<dc:subject>^d22164^s22033</dc:subject>
+<dc:subject>^d8095^s22079</dc:subject>
+<dc:subject>^d8096^s22033</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9346^s22033</dc:subject>
+<dc:subject>^d9359^s22033</dc:subject>
+<dc:subject>^d28320^s22074</dc:subject>
+<dc:subject>^d24244</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201108</dc:date>
+</metadata>
+</record>
+</ibecs-document>

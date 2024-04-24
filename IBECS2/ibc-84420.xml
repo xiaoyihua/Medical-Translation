@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-84420</identifier>
+<setSpec>1888-4008</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Biological variation in disease: data review and clinical consequences</dc:title>
+<dc:description xml:lang="en">Introduction. Biological variation (BV) refers to the natural fluctuation of a physiological constituent around the homeostatic set point within a person (CVI), as well as the natural variation between persons. The data derived from the components of BV are used to propose the reference change value (RCV) for monitoring patients. Objective. The aim of this review is to show the state of the art for biological variation data in non-healthy situations in order to have an indication of whether the data derived in specific pathological situations might be useful for clinical applications. Material and method. The information used in this study was retrieved from published articles referenced in electronic search systems, books and a doctoral thesis. The analytes studied were listed in alphabetical order. Results and conclusions. For the majority of quantities studied, CVI values are of the same order in disease and health: thus the use of RCV derived from healthy subjects for monitoring patients would be reasonable. However, for a small number of quantities considered to be disease specific markers, the CVI differed from those in health. This could mean that RCV derived from healthy CVI may not be appropriate for monitoring patients in certain diseases. Hence, disease specific RCV may be clinically useful(AU)</dc:description>
+<dc:creator>Biosca, Carmen</dc:creator>
+<dc:creator>Simón, Margarita</dc:creator>
+<dc:creator>Ricós, Carmen</dc:creator>
+<dc:creator>Cava, Fernando</dc:creator>
+<dc:creator>García-Larioa, José Vicente</dc:creator>
+<dc:creator>Hernández, Amparo</dc:creator>
+<dc:creator>Jiménez, Carlos Víctor</dc:creator>
+<dc:creator>Álvareza, Virtudes</dc:creator>
+<dc:creator>Doménech, M. Vicenta</dc:creator>
+<dc:creator>Minchinela, Joana</dc:creator>
+<dc:creator>Perich, Carmen</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. La variación biológica (VB) es la fluctuación fisiológica de los constituyentes de los fluidos humanos alrededor del punto homeostático, considerada de forma individual (CVI) o entre diferentes individuos. Los datos derivados de su estudio se usan como propuesta del valor de referencia de un cambio (VRC) entre resultados seriados de un mismo individuo. El VRC estimado a partir de individuos sanos se ha utilizado en el control de la evolución clínica de los pacientes con el fin de discriminar si se produce un cambio significativo en una serie de resultados analíticos. Objetivo. El objetivo del presente trabajo es revisar los datos de VB en situaciones patológicas para aplicarla al uso de la práctica clínica, especialmente en el seguimiento de pacientes. Material y método. El material usado en este estudio se recogió a partir de artículos referenciados en los buscadores electrónicos, libros y tesis doctorales. Se ha recopilado y ordenado alfabéticamente un total de 66 magnitudes biológicas en 34 situaciones patológicas. Resultados y conclusiones. Para la mayoría de las magnitudes estudiadas, los valores de CVI en estados patológicos son similares a los encontrados en individuos sanos. Sin embargo, para las magnitudes consideradas como marcadores específicos de órgano, los valores de CVI son muy diferentes (superiores o inferiores) a los obtenidos en personas sanas. Esto implica que los valores VRC procedentes de personas sanas pueden no ser adecuados para el seguimiento de los pacientes. Hay un riesgo de que se produzcan falsos positivos (o negativos) sobre cambios del estado de salud, con sus correspondientes implicaciones clínicas(AU)</dc:description>
+<dc:source>Rev. lab. clín;1(1): 17-23, mar. 2008. tab</dc:source>
+<dc:identifier>ibc-84420</dc:identifier>
+<dc:title xml:lang="es">Variación biológica en patologías: revisión de datos y consecuencias clínicas</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d32532^s22045</dc:subject>
+<dc:subject>^d33124^s22074</dc:subject>
+<dc:subject>^d28620</dc:subject>
+<dc:subject>^d33124^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12437</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d33124^s22039</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200803</dc:date>
+</metadata>
+</record>
+</ibecs-document>

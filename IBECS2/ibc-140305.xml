@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-140305</identifier>
+<setSpec>1134-3230</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cardiovascular risk scores in patients with diabetes. What are they and what are they worth?</dc:title>
+<dc:description xml:lang="en">Cardiovascular disease (CVD) remains the first cause of death in patients with diabetes mellitus. Cardiovascular mortality is between 2 and 4 times as high as the risk of matched controls in the general population. Although practice guidelines recommend calculating CVD risk in diabetes, few models for estimating cardiovascular risk have been developed specifically for diabetic patients. The first ones, taking into account HbA1c and diabetes duration plus classical risk factors, is not contemporary and perform sub-optimally in different populations with diabetes. Constructing updated population-derived and externally validated cardiovascular risk models will yield more aggressive patient-centered preventive interventions to curb the ongoing epidemic of CVD in patients with diabetes (AU)</dc:description>
+<dc:creator>Gonzalez-Carril, Fernando</dc:creator>
+<dc:creator>Piniés, José A</dc:creator>
+<dc:creator>Arteagoitia, José M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La enfermedad cardiovascular (ECV) representa la primera causa de mortalidad en las personas con diabetes mellitus, entre las cuales, el riesgo de mortalidad cardiovascular es 2-4 veces mayor que el de la población general. Las guías de práctica clínica recomiendan calcular el riesgo de ECV en la diabetes; sin embargo, se han desarrollado pocos modelos para estimar este riesgo en las personas con diabetes. Los primeros modelos de predicción de ECV en la diabetes mellitus tipo 2, que incluyeron junto a las variables de riesgo clásicas la HbA1c y los años de evolución, no son contemporáneos y no funcionan en poblaciones diferentes a las que participaron en su desarrollo. La creación de modelos de riesgo propios actuales y validados en diferentes poblaciones permitiría realizar intervenciones preventivas más agresivas y tempranas, y centradas en el paciente, con la finalidad de frenar la epidemia de ECV que padecen las personas con diabetes (AU)</dc:description>
+<dc:source>Av. diabetol;31(3): 102-112, mayo-jun. 2015.</dc:source>
+<dc:identifier>ibc-140305</dc:identifier>
+<dc:title xml:lang="es">Escalas de cálculo del riesgo cardiovascular para pacientes con diabetes. ¿Qué son y de qué nos sirven?</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d3946^s22044</dc:subject>
+<dc:subject>^d3946^s22033</dc:subject>
+<dc:subject>^d3946^s22053</dc:subject>
+<dc:subject>^d3343^s22012</dc:subject>
+<dc:subject>^d3343^s22044</dc:subject>
+<dc:subject>^d3343^s22033</dc:subject>
+<dc:subject>^d3946^s22062</dc:subject>
+<dc:subject>^d2171^s22048</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3343^s22013</dc:subject>
+<dc:subject>^d^s22048</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d12225^s22056</dc:subject>
+<dc:subject>^d12225</dc:subject>
+<dc:subject>^d32048^s22011</dc:subject>
+<dc:subject>^d32048^s22045</dc:subject>
+<dc:subject>^d32048^s37748</dc:subject>
+<dc:subject>^d32048^s22060</dc:subject>
+<dc:subject>^d13411^s22028</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201506</dc:date>
+</metadata>
+</record>
+</ibecs-document>

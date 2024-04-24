@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-151338</identifier>
+<setSpec>1130-0108</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Sensitivity and specificity of the Gastrointestinal Short Form Questionnaire in diagnosis of gastroesophageal reflux disease</dc:title>
+<dc:description xml:lang="en">Introduction: Gastrointestinal Short Form Questionnaire (GSFQ) is a questionnaire for gastroesophageal reflux disease (GERD) diagnosis, with a version in Spanish language, not yet compared to an objective test. Aims: To establish GSFQ diagnostic performance against 24-hour pH monitoring carried out in two tertiary care hospitals. Methods: Consecutive adult patients with typical GERD symptoms (heartburn, regurgitation) referred for pH monitoring fulfilled the GSFQ (score range 0-30, proportional to probability of GERD). Diagnosis of GERD was established when acid exposure time in distal esophagus was superior to 4.5% or symptom association probability was greater than 95%. Receiver-operator characteristic (ROC) curves were calculated and best cut-off score determined, with corresponding sensitivity, specificity and likelihood ratios (LR) (95% confidence interval for each). Results: One hundred and fifty-two patients were included (59.9% women, age 47.9 ± 13.9; 97.4% heartburn; 71.3% regurgitation). pH monitoring was abnormal in 65.8%. Mean GSFQ score was 11.2 ± 6. Area under ROC was 56.5% (47.0-65.9%). Optimal cut-off score was 13 or greater: sensitivity 40% (30.3-50.3%), specificity 71.2% (56.9-82.9%), positive LR 1.39 (0.85-2.26) and negative LR 0.84 (0.67-1.07). Exclusion of questions 1 and 3 of the original GSFQ, easily interpreted as referred to dyspepsia and not GERD, improved only marginally the diagnostic performance: AUROC 59.1%. Conclusion: The GSFQ does not predict results of pH monitoring in patients with typical symptoms in a tertiary care setting (AU)</dc:description>
+<dc:creator>Faro Leal, Vicenta</dc:creator>
+<dc:creator>Mañas Gallardo, Norberto</dc:creator>
+<dc:creator>Muriel García, Alfonso</dc:creator>
+<dc:creator>Teruel Sánchez-Vegazo, Carlos</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: el Cuestionario Gastrointestinal Corto (GSFQ) es un cuestionario diseñado para el diagnóstico de enfermedad por reflujo gastroesofágico (ERGE), con versión en español. No ha sido comparado con una prueba diagnóstica objetiva. Objetivos: determinar el poder diagnóstico del GSFQ usando como referencia la pH-metría de 24 horas en dos hospitales de tercer nivel. Métodos: pacientes adultos consecutivos con síntomas típicos de ERGE (pirosis, regurgitación), a los que se solicita pH-metría, rellenaron el GSFQ (rango puntuación 0-30, proporcional a probabilidad de ERGE). Se estableció el diagnóstico de ERGE cuando la exposición ácida del esófago distal fue superior a 4,5% o cuando la probabilidad de asociación sintomática fue superior al 95%. Se calcularon curvas ROC (receiver operator characteristic) y se determinó el mejor punto de corte, con sus correspondientes sensibilidad, especificidad y ratios de probabilidad (LR) (intervalo de confianza del 95% para cada determinación). Resultados: se incluyeron 152 pacientes (59,9% mujeres; edad 47,9 ± 13,9; 97,4% pirosis; 71,3% regurgitación). La pH-metría fue patológica en el 65,8%. La puntuación media del GSFQ fue 11,2 ± 6. El área bajo la curva ROC fue 56,5% (47- 65,9%). El punto de corte óptimo fue 13 o mayor: sensibilidad 40% (30,3-50,3%), especificidad 71,2% (56,9-82,9%), LR positiva 1,39 (0,85-2,26) y LR negativa 0,84 (0,67-1,07). Excluir las preguntas 1 y 3 del GSFQ, referidas a síntomas parecidos a los de la dispepsia, mejoró sólo marginalmente el poder diagnóstico (AUROC 59,1%). Conclusión: el GSFQ no predice los resultados de la pH-metría en pacientes con síntomas típicos de ERGE en un entorno de hospital terciario (AU)</dc:description>
+<dc:source>Rev Esp Enferm Dig;108(4): 174-180, abr. 2016. tab, ilus</dc:source>
+<dc:identifier>ibc-151338</dc:identifier>
+<dc:title xml:lang="es">Sensibilidad y especificidad del Cuestionario Gastrointestinal Corto en el diagnóstico de la enfermedad por reflujo gastroesofágico</dc:title>
+<dc:subject>^d51782^s22083</dc:subject>
+<dc:subject>^d28608^s22048</dc:subject>
+<dc:subject>^d51211^s22039</dc:subject>
+<dc:subject>^d51782^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d28608^s22074</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d6506^s22080</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d24004^s22016</dc:subject>
+<dc:subject>^d6506^s22016</dc:subject>
+<dc:subject>^d4805^s22045</dc:subject>
+<dc:subject>^d33556^s22083</dc:subject>
+<dc:subject>^d33556^s22074</dc:subject>
+<dc:subject>^d51211^s22045</dc:subject>
+<dc:subject>^d24004^s22080</dc:subject>
+<dc:subject>^d33556^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201604</dc:date>
+</metadata>
+</record>
+</ibecs-document>

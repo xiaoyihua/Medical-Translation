@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-68148</identifier>
+<setSpec>0212-1611</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:description xml:lang="en">Background and objective: To adjust the Impact Factor (IF) provided by the Institute for Scientific Information (ISI) is necessary for improving bibliometric analysis among the various areas of knowledge. Our objective was to evaluate two parameters (the maximum and the median value of each subject area) for IF adjustment using the original (not corrected) IF as the reference method in a tertiary hospital biomedical investigation model. Material and method: We retrieved articles from Hospital Universitario "Del Río Hortega" from Valladolid (Spain) for the period 1999-2004 as data source. We have describe the characteristics of the followed IF distributions: IF Corrected by the Maximum value (IFCORMAX), IF Corrected by the Median value (IFCORMED) and IF without adjustments (IF). Besides, we have analyzed both the inter-annual and the inter-subject differences obtained by the three methods. Results: The three analyzed IF series shown not normal distributions that are positively skewed. The IF adjusted by the median showed the highes coefficient of variation (CV = 357.3%). The IF adjusted by the Maximum value increased the "weight" of journals with the highest not corrected IF for each subject category. Inter-annual differences were similarly estimated by the three methods. The IF adjusted by the median increased the inter-subject difference from 7.3% to 12.4%. Conclusions: Our results suggests that IF adjusted by the maximum value of each discipline is the best method to correct the ISI-IF values, because journals with the high IF are always rewarded, while IF adjusted by the median infra-estimated most of them (AU)</dc:description>
+<dc:creator>Conde-Vicente, R</dc:creator>
+<dc:creator>Aller, R</dc:creator>
+<dc:creator>González-Sagrado, M</dc:creator>
+<dc:creator>Pérez-Castrillón, JL</dc:creator>
+<dc:creator>Luis Román, DA de</dc:creator>
+<dc:creator>Izaola, O</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamento y objetivo: La ponderación del Factor de Impacto (FI) publicado por el Institute for Scientific Information es una estrategia fundamental para mejorar el análisis bibliométrico entre áreas temáticas. Nuestro objetivo ha sido evaluar dos parámetros de corrección (el valor Máximo y la Mediana) utilizando el FI sin corregir como referencia en un modelo de investigación biomédica desarrollada en un Hospital terciario. Material y método: Se han utilizado las publicaciones del Hospital Universitario "Del Río Hortega" de Valladolid del periodo 1999-2004 como fuente de datos (artículos en MEDLINE). Se analizaron las características de las distribuciones de los FI corregidos por el Máximo (FICORMAX), por la Mediana (FICORMED) y sin corregir (FI), así como las diferencias interanuales e interservicios obtenidas por los tres métodos. Resultados: Las tres series de valores muestran distribuciones no normales con marcada asimetría positiva. La distribución con mayor dispersión corresponde a la corrección por la Mediana (CV% = 357,3%). La corrección por el Máximo aumenta el número de revistas con FI más altos en sus categorías. Las diferencias interanuales son estimadas de forma semejante por los tres métodos. Las diferencias entre áreas temáticas aumentan del 7,3 al 12,4% utilizando la corrección por la mediana. Conclusiones: La corrección del FI por el valor máximo de cada área temática es el método de ponderación más justo, puesto que premia a las revistas con mayor FI de cada categoría, independientemente de su valor absoluto. Además, al disponerse en una escala de 0 a 1, los resultados obtenidos con FICORMAX proporcionan una información más precisa sobre la posición del valor dentro de la serie temática (AU)</dc:description>
+<dc:source>Nutr Hosp;23(2): 111-118, mar.-abr. 2008. ilus, tab</dc:source>
+<dc:identifier>ibc-68148</dc:identifier>
+<dc:subject>^d37673^s22045</dc:subject>
+<dc:subject>^d24536</dc:subject>
+<dc:subject>^d33196^s22045</dc:subject>
+<dc:subject>^d10697^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200804</dc:date>
+</metadata>
+</record>
+</ibecs-document>

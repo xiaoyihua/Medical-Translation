@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-131812</identifier>
+<setSpec>0213-7615</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">No disponible</dc:title>
+<dc:description xml:lang="en">No disponible</dc:description>
+<dc:creator>Giner García, Ricardo</dc:creator>
+<dc:creator>López Briz, Eduardo</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El National Poison Data System (NPDS) estadounidense es la base de datos de la organización American Association of Poison Control Centers, estructura que se encarga de la información, vigilancia y control de las exposiciones a agentes tóxicos en este país. Desde 1983 el NPDS ha recogido más de 60 millones de exposiciones y posee datos de más de 390.000 productos. En 2010, como consecuencia de la creciente incidencia de casos, se añadieron las categorías de bebidas energizantes (BE) con fuente única o múltiple de cafeína, sin cafeína, con alcohol o de formulación desconocida. Seifert et al. (2013) revisan en la publicación que aquí se resume el primer año de datos de las exposiciones únicamente a BE conteniendo cafeína, tanto si contenían alcohol como si no. Se excluyeron el análisis aquellas bebidas con ingredientes desconocidos, así como las ingestas mixtas de BE junto con otras sustancias, medicamentos en sobredosis, sustancias ilegales u otros tóxicos. De acuerdo con la metodología del NPDS, la gravedad de los efectos adversos se agrupó en cinco categorías: sin efecto (sin signos ni síntomas debidos a la exposición), de gravedad menor (signos y síntomas mínimamente molestos que se resuelven rápidamente), de gravedad moderada (signos y síntomas más pronunciados o prolongados que requieren tratamiento pero que no amenazan la vida), de gravedad mayor (signos o síntomas que suponen amenaza para la vida o que pueden ocasionar incapacidad residual marcada) y por último con resultado de muerte (como resultado directo o complicación de la exposición al tóxico) (AU)</dc:description>
+<dc:source>Rev. esp. drogodepend;39(4): 88-93, oct.-dic. 2014.</dc:source>
+<dc:identifier>ibc-131812</dc:identifier>
+<dc:title xml:lang="es">Bebidas energizantes: ¿una amenaza silenciosa?</dc:title>
+<dc:subject>^d54831^s22083</dc:subject>
+<dc:subject>^d439^s22080</dc:subject>
+<dc:subject>^d54831^s22074</dc:subject>
+<dc:subject>^d29625</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d54831^s22068</dc:subject>
+<dc:subject>^d2143^s22020</dc:subject>
+<dc:subject>^d54831^s22048</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d54831^s22020</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d23660^s22068</dc:subject>
+<dc:subject>^d28441^s22066</dc:subject>
+<dc:subject>^d23660^s22020</dc:subject>
+<dc:subject>^d12721</dc:subject>
+<dc:subject>^d439^s22054</dc:subject>
+<dc:subject>^d32560</dc:subject>
+<dc:subject>^d50342</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201412</dc:date>
+</metadata>
+</record>
+</ibecs-document>

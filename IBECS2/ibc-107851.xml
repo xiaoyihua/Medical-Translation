@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-107851</identifier>
+<setSpec>1888-4008</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Importance of selecting an appropriate quality specification for the application of Six-Sigma model in the clinical laboratory</dc:title>
+<dc:description xml:lang="en">Introduction. The Six-Sigma model is a quality management tool based on the variability of a process in terms of defects per million (DPM). In the analytical phase, sigma value estimation is dependent of the allowable total error (TEa). Our goal is to demonstrate that the improper selection of quality specifications can lead to erroneous interpretations of the laboratory status. Material and methods. The Sigma value was estimated using the equation (TEa - bias)/coefficient of variation. We used different quality specifications based on biological variability (BV), the consensus of the SEQC/AEFA/AEBM, and the American and German legislative specifications. The laboratory imprecision and bias were estimated from the internal/external control quality. Results. Sigma values are inversely proportional to the requirement for quality specification. Specifications based on German and American laws or the consensus of the Spanish experts were proportionally correlated with higher Sigma values. The optimal and desirable BV was associated with high rates of determinations that did not exceed the minimum Sigma requirement. Conclusions. The selection of less demanding quality specifications involves elevations in Sigma values, which is not necessarily associated with an improvement in the detection of clinically significant errors. In order to avoid false elevations in performance reports and errors in the inter-laboratory comparison, we recommend indicating the sigma value and the TEa (AU)</dc:description>
+<dc:creator>Gómez-Serranillos Reus, Manuel</dc:creator>
+<dc:creator>Carretero Gómez, Julián</dc:creator>
+<dc:creator>Timón Zapata, Jesús</dc:creator>
+<dc:creator>Pineda Tenor, Daniel</dc:creator>
+<dc:creator>Olivan Esteban, Raquel</dc:creator>
+<dc:creator>Cabezas Martínez, Ángeles</dc:creator>
+<dc:creator>Laserna Mendieta, Emilio José</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. El modelo Seis-Sigma constituye una herramienta de gestión de calidad basada en la cuantificación de la variabilidad de un proceso en función del ratio de defectos por millón (DPM). Sin embargo, su estimación durante la fase analítica es dependiente del error total admisible (ETa). Nuestro objetivo es demostrar que la selección inadecuada de las especificaciones de calidad puede originar interpretaciones erróneas del rendimiento del laboratorio. Material y métodos. El cálculo del Sigma se realizó mediante la ecuación (ETa - sesgo)/coeficiente de variación. Se emplearon diferentes especificaciones de calidad, basadas en la variabilidad biológica (VB), el consenso de mínimos de SEQC/AEFA/AEBM y las especificaciones legislativas americanas y alemanas. La imprecisión y sesgo propios del laboratorio fueron estimados a partir del control interno/externo. Resultados. Los valores de Sigma obtenidos son inversamente proporcionales a la exigencia de la especificación de calidad escogida en todos los casos. Las especificaciones legislativas o recomendadas por expertos son las que proporcionalmente se correlacionan con Sigmas más elevados. El uso de la VB deseable y óptima se asocia a Sigmas inaceptables en el 44 y 94% de las determinaciones respectivamente. Conclusiones. La selección de especificaciones de calidad poco exigentes por parte del laboratorio supone elevaciones del Sigma, el cual no se asocia en todos los casos con una mejora en la detección de errores clínicamente significativos. Con objeto de evitar falsas elevaciones en informes de rendimiento y evitar comparaciones inter-laboratorio sesgadas, se recomienda informar el valor de Sigma en todo caso junto al ETa empleado en su estimación (AU)</dc:description>
+<dc:source>Rev. lab. clín;5(4): 170-176, oct.-dic. 2012.</dc:source>
+<dc:identifier>ibc-107851</dc:identifier>
+<dc:title xml:lang="es">Importancia de la selección de una especificación de calidad adecuada en la aplicación del modelo Seis-Sigma en el laboratorio clínico</dc:title>
+<dc:subject>^d51711^s22045</dc:subject>
+<dc:subject>^d^s22045</dc:subject>
+<dc:subject>^d12223</dc:subject>
+<dc:subject>^d33124^s22045</dc:subject>
+<dc:subject>^d33124^s22048</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29563^s22045</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d29563^s22066</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d51894^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201212</dc:date>
+</metadata>
+</record>
+</ibecs-document>

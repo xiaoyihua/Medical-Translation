@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-11283</identifier>
+<setSpec>0304-5013</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prediction of fetal maturity through sonographic lung characterization</dc:title>
+<dc:creator>Salamanca, A</dc:creator>
+<dc:creator>Carrillo, A</dc:creator>
+<dc:creator>Palomino, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Evaluar la utilidad del examen computarizado de la textura ecográfica del pulmón fetal en la determinación de la madurez fetal.Material y métodos: Mediante ecografía realizada en 230 fetos de edades gestacionales comprendidas entre las semanas 20 y 42, se obtuvo un histograma de frecuencias de pulmón e hígado fetales, así como la relación entre ambos órganos, analizándose el nivel medio de grises, la desviación estándar y la anchura del histograma. En 20 casos, los datos ecográficos se compararon con los bioquímicos obtenidos en líquido amniótico.Resultados: El hígado no presenta cambios en el patrón de reflexión en las diferentes edades gestacionales, mientras que a partir de la semana 33-34 la ecorrefringencia pulmonar se incrementa significativamente. Estas modificaciones también se manifiestan cuando analizamos la anchura del histograma (AHP/H), e igualmente se hacen patentes al relacionarse con datos biométricos fetales o estadios de desarrollo pulmonar. Se obtienen correlaciones significativas al comparar el nivel medio de grises pulmón/hígado (NMGP/H) y AHP/H con varios parámetros bioquímicos en el líquido amniótico, particularmente con el índice L/S y DO650.Conclusiones: El pulmón fetal está maduro cuando la ecogenicidad pulmonar es mayor que la hepática, siendo el NMGP/H superior a la unidad (1,04) y la AHP/H es de 2,2 (AU)</dc:description>
+<dc:source>Prog. obstet. ginecol. (Ed. impr.);45(3): 96-103, mar. 2002. ilus</dc:source>
+<dc:identifier>ibc-11283</dc:identifier>
+<dc:title xml:lang="es">Predicción de la madurez fetal mediante la caracterización ultrasónica del pulmón</dc:title>
+<dc:subject>^d3732^s22045</dc:subject>
+<dc:subject>^d22261</dc:subject>
+<dc:subject>^d8345^s29166</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d5678</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d29399</dc:subject>
+<dc:subject>^d5434^s22031</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d29142^s22045</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d664^s22045</dc:subject>
+<dc:subject>^d5434^s22022</dc:subject>
+<dc:subject>^d5432^s22045</dc:subject>
+<dc:subject>^d5443^s22058</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200203</dc:date>
+</metadata>
+</record>
+</ibecs-document>

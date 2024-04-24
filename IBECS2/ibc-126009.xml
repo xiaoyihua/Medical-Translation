@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-126009</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Comparison of Google and Yahoo Applications for Geocoding of Postal Addresses in Epidemiological Studies</dc:title>
+<dc:description xml:lang="en">Background: Geocoding is the assignment of geographic coordinates to spatial points, which often are postal addresses. The error made in applying this process can introduce bias in estimates of spatiotemporal models in epidemiological studies. No studies have been found to measure the error made in applying this process in Spanish cities. The objective is to evaluate the errors in magnitude and direction from two free sources (Google and Yahoo) with regard to a GPS in two Spanish cities. Method: 30 addresses were geocoded with those two sources and the GPS in Santa Pola (Alicante) and Alicante city. The distances were calculated in metres (median, CI95%) between the sources and the GPS, globally and according to the status reported by each source. The directionality of the error was evaluated by calculating the location quadrant and applying a Chi-Square test. The GPS error was evaluated by geocoding 11 addresses twice at 4 days interval. Results: The overall median in Google-GPS was 23,2 metres (16,0-32,1) for Santa Pola, and 21,4 meters (14,9-31,1) for Alicante. The overall median in Yahoo was 136,0 meters (19,2-318,5) for Santa Pola, and 23,8 meters (13,6- 29,2) for Alicante. Between the 73% and 90% were geocoded by status as "exact or interpolated" (minor error), where Goggle andYahoo had a median error between 19 and 23 metres in the two cities. The GPS had a median error of 13.8 meters (6,7-17,8). No error directionality was detected. Conclusions: Google error is acceptable and stable in the two cities, so that it is a reliable source for Para medir elgeocoding addresses in Spain in epidemiological studies (AU)</dc:description>
+<dc:creator>Nolasco, Andreu</dc:creator>
+<dc:creator>Moncho, Joaquin</dc:creator>
+<dc:creator>Quesada, José Antonio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamentos: Geocodificar es asignar coordenadas geográficas a puntos del espacio, frecuentemente direcciones postales. El error cometido al aplicar este proceso puede introducir un sesgo en las estimaciones de modelos espacio-temporales en estudios epidemiológicos. No se han encontrando estudios que midan este error en ciudades españolas. El objetivo es evaluar los errores en magnitud y direccionalidad de dos recursos gratuitos (Google y Yahoo) respecto a GPS en dos ciudades de España. Método: Se geocodificaron 30 direcciones aleatorias con los dos recursos citados y con GPS en Santa Pola (Alicante) y en Alicante. Se calculó la mediana y su IC95% del error en metros entre los recursos y GPS, para el total y por el status reportado. Se evaluó la direccionalidad del error calculando el cuadrante de localización y aplicando un test Chi-Cuadrado. Se evaluó el error del GPS midiendo 11 direcciones dos veces en un intervalo de 4 días. Resultados: La mediana del error total desde Google-GPS fue de 23,2 metros (16,0-32,2) para Santa Pola y 21,4 metros (14,9-31,1) en Alicante. Para Yahoo fue de 136,0 (19,2-318,5) para Santa Pola y 23,8 (13,6-29,2) para Alicante. Por status, se geocodificó entre un 73% y 90% como "exactas o interpoladas" (menor error), tanto Google como Yahoo tuvieron una mediana del error de entre 19 y 22 metros en las dos ciudades. El error del GPS fue de 13,8 (6,7-17,8) metros. No se detectó direccionalidad. Conclusiones: El error de Google es asumible y estable en las dos ciudades, siendo un recurso fiable para geocodificar direcciones postales en España en estudios epidemiológicos (AU)</dc:description>
+<dc:source>Rev Esp Salud Publica;87(2): 201-206, mar.-abr. 2013. tab</dc:source>
+<dc:identifier>ibc-126009</dc:identifier>
+<dc:title xml:lang="es">Comparación de las aplicaciones de Google y Yahoo para la geocodificación de direcciones postales con fines epidemiológicos</dc:title>
+<dc:subject>^d28565</dc:subject>
+<dc:subject>^d54744</dc:subject>
+<dc:subject>^d5703^s22048</dc:subject>
+<dc:subject>^d24535</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d37724^s22066</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d37724^s22074</dc:subject>
+<dc:subject>^d24517</dc:subject>
+<dc:subject>^d37724^s22048</dc:subject>
+<dc:subject>^d55055</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201304</dc:date>
+</metadata>
+</record>
+</ibecs-document>

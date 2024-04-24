@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-044312</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Analysis of mortality time trend using generalized linear models</dc:title>
+<dc:description xml:lang="en">In this work it is shown how generalized linear models allow one to describe different patterns of temporary evolution of mortality data, while at the same time allow for an easy interpretation. As a practical application, the evolution of the female breast cancer mortality in Catalonia from 1986 to 2000 is analyzed. Remarkably, the mortality from breast cancer first increases and then decreases for all age groups. Moreover, the year in which the cancer rate starts decreasing is more recent in the older age groups</dc:description>
+<dc:creator>Ginebra, Josep</dc:creator>
+<dc:creator>Puig, Xavi</dc:creator>
+<dc:creator>Gispert, Rosa</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En este trabajo se muestra cómo los modelos lineales generalizados permiten describir eficientemente diferentes patrones de evolución temporal de datos de mortalidad y, a su vez, llevar a cabo una fácil interpretación. Como aplicación práctica se analiza la evolución de la mortalidad por cáncer de mama en las mujeres de Cataluña entre 1986 y 2000. De los resultados destaca que la mortalidad por cáncer de mama experimenta un aumento y un posterior descenso para todos los grupos de edad. El año en que se inicia el descenso es más reciente en los grupos de edad mayor</dc:description>
+<dc:source>Gac Sanit;19(6): 481-485, nov. 2005. tab, graf</dc:source>
+<dc:identifier>ibc-044312</dc:identifier>
+<dc:title xml:lang="es">Análisis de la evolución temporal de la mortalidad mediante modelos lineales generalizados</dc:title>
+<dc:subject>^d28632^s22066</dc:subject>
+<dc:subject>^d24769</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d14384</dc:subject>
+<dc:subject>^d1968^s22047</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200511</dc:date>
+</metadata>
+</record>
+</ibecs-document>

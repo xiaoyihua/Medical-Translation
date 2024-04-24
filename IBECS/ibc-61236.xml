@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-61236</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Quality prescription indicators in defined daily doses. Are we getting it right</dc:title>
+<dc:description xml:lang="en">Quality prescription indicators of use potential level (UPLI)are defined as the proportion that represents consumption ofspecific active principles as opposed to the total consumptionof the anatomical therapeutic category. The UPLIs that havegradually been defined in Spain employ the defined daily dose(DDD) as the unit of measurement. Although the DDD is notnecessarily the same as the therapeutic equivalent dose (TED),some authors have argued that the DDD is a standard unit ofmeasurement and is therefore valid.However, this view may not be correct, given that the relationshipsbetween the TED and the DDD differ, depending onthe drug, even within the same anatomical therapeutic category.Therefore, the use of DDDs in UPLI s may lead to prescriptionof a medicine being encouraged or discouraged dependingon its TED/DDD ratio(AU)</dc:description>
+<dc:creator>Caamaño-Isorna, Francisco</dc:creator>
+<dc:creator>Álvarez-Gil, Rosa</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Los indicadores de la calidad de la prescripción de gradopotencial de uso (IGPU) se definen como la proporción querepresenta el consumo de determinados principios activos frenteal consumo total de su categoría anatómica terapéutica.En los últimos años, los IGPU que se han ido definiendo ennuestro país utilizan la dosis diaria definida (DDD) como unidadde medida. Y aunque la DDD no es necesariamente iguala la dosis terapéutica equivalente (DTE), se ha argumentadoque es una unidad de medida estándar y, por tanto, válida.Esto podría no ser correcto, ya que las relaciones entreDTE y DDD son distintas en los diferentes fármacos, inclusodentro de la misma categoría anatómica terapéutica. Por ello,la utilización de las DDD en los IGPU puede llevar a incentivaro desincentivar la prescripción de un fármaco en funciónde su relación DTE/DDD(AU)</dc:description>
+<dc:source>Gac Sanit;22(5): 498-499, oct. 2008.</dc:source>
+<dc:identifier>ibc-61236</dc:identifier>
+<dc:title xml:lang="es">Indicadores de calidad de la prescripción en dosis diarias definidas. ¿Lo estamos haciendo bien?</dc:title>
+<dc:subject>^d33551^s22083</dc:subject>
+<dc:subject>^d^s22083</dc:subject>
+<dc:subject>^d4365</dc:subject>
+<dc:subject>^d33551^s37748</dc:subject>
+<dc:subject>^d51811^s22083</dc:subject>
+<dc:subject>^d51811^s22082</dc:subject>
+<dc:subject>^d52955^s22083</dc:subject>
+<dc:subject>^d27231^s22083</dc:subject>
+<dc:subject>^d52955^s22049</dc:subject>
+<dc:subject>^d33551^s22011</dc:subject>
+<dc:subject>^d33551^s22066</dc:subject>
+<dc:subject>^d33551^s22048</dc:subject>
+<dc:subject>^d33551^s22049</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200810</dc:date>
+</metadata>
+</record>
+</ibecs-document>

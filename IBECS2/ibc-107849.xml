@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-107849</identifier>
+<setSpec>1888-4008</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Economic evaluation of N-terminal pro-B-type natriuretic peptide (NT-ProBNP) test in Spanish emergency department patients with dyspnea</dc:title>
+<dc:description xml:lang="en">Introduction. To assess the efficiency of adding the NT-proBNP test to the standard clinical evaluation (SCE) for the diagnosis of heart failure (HF) in Spanish emergency department (ED) patients with dyspnea. Material and methods. A decision-tree was developed to evaluate the clinical and economic outcomes of the two diagnostic alternatives 60 days after ED admission in hospitalized and non-hospitalized patients. Clinical parameters were mainly extracted from the PRIDE study and were validated by expert ED physicians and cardiologists. The cut-off point for the NT-proBNP test was 900pg/mL (sensitivity of 90% and specificity of 85%). We assumed that 65% of patients with dyspnea had HF, based on published Spanish data. Resource use was obtained by expert opinion and evaluated from the public payer perspective (Spanish National Health Service (NHS)). The analysis compared the final diagnosis with the ED diagnosis. Multiple sensitivity analyses were carried out to evaluate the uncertainty of the model. Results. The diagnosis using NT-proBNP testing was correct in 91.96% of patients (59.09% true positive and 32.87% true negative) vs. 85.53% using SCE alone (50.79% true positive and 34.74% true negative). Costs were lower in patients receiving NT-proBNP testing (&#128;3,720 versus &#128;5,188). The sensitivity analyses confirmed the results. Conclusions. The use of the NT-proBNP test for the assessment and management of Spanish emergency department patients with dyspnea is less costly and shows a higher percentage of correctly-diagnosed patients from the Spanish NHS perspective than SCE alone (AU)</dc:description>
+<dc:creator>Llorens, Pere</dc:creator>
+<dc:creator>Pérez-Alcántara, Ferran</dc:creator>
+<dc:creator>Rodríguez, José Manuel</dc:creator>
+<dc:creator>Moreu, José</dc:creator>
+<dc:creator>Crespo, Carlos</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. Analizar la eficiencia de añadir la determinación NT-proBNP al examen clínico convencional (ECC) para el diagnóstico de insuficiencia cardiaca (IC) en pacientes con disnea que acuden a servicios de urgencias (SU) españoles. Material y métodos. Se desarrolló un árbol de decisión para evaluar los resultados clínicos y económicos de ambas alternativas durante 60 días de seguimiento desde la visita al SU en pacientes hospitalizados y no hospitalizados. Los parámetros clínicos fueron principalmente obtenidos del estudio PRIDE y validados por médicos de SU y cardiólogos. El punto de corte de la determinación NT-proBNP fue de 900pg/mL (sensibilidad del 90% y especificidad del 85%). En base a datos españoles publicados, se asumió que el 65% de pacientes con disnea sufrían IC. El uso de recursos fue identificado mediante opinión de expertos y evaluado desde la perspectiva del Sistema Nacional de Salud (SNS). El análisis comparó el diagnóstico final del paciente con el diagnóstico realizado en el SU. Se realizaron diversos análisis de sensibilidad para evaluar la incertidumbre del modelo. Resultados. El diagnóstico incorporando la determinación NT-proBNP fue correcto en el 91,96% de los pacientes (59,09% verdaderos positivos y 32,87% verdaderos negativos) frente al 85,53% mediante ECC (50,79% verdaderos positivos y 34,74% verdaderos negativos). La incorporación de la determinación NT-proBNP resultó tener un coste menor (3.720&#128; versus 5.188&#128;). Los análisis de sensibilidad realizados confirmaron los resultados. Conclusiones. La incorporación de la determinación NT-proBNP en el diagnóstico del paciente con disnea en los SU españoles muestra un menor coste y un mayor porcentaje de pacientes correctamente diagnosticados comparado con el ECC desde la perspectiva del SNS (AU)</dc:description>
+<dc:source>Rev. lab. clín;5(4): 155-164, oct.-dic. 2012.</dc:source>
+<dc:identifier>ibc-107849</dc:identifier>
+<dc:title xml:lang="es">Evaluación económica de la determinación del propéptido natriurético cerebral n-terminal (NT-proBNP) en pacientes con disnea en los servicios de urgencias españoles</dc:title>
+<dc:subject>^d6486^s22018</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d33842</dc:subject>
+<dc:subject>^d23568^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d33842^s22002</dc:subject>
+<dc:subject>^d4479^s22016</dc:subject>
+<dc:subject>^d33842^s22018</dc:subject>
+<dc:subject>^d4710^s22018</dc:subject>
+<dc:subject>^d4705^s22018</dc:subject>
+<dc:subject>^d50303</dc:subject>
+<dc:subject>^d50302</dc:subject>
+<dc:subject>^d4667^s22018</dc:subject>
+<dc:subject>^d4479^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201212</dc:date>
+</metadata>
+</record>
+</ibecs-document>

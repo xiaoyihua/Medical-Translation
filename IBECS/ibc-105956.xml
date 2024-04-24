@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-105956</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Development and validation of a prediction model to identify HIV+ patients with drug-related problems. A prediction study</dc:title>
+<dc:description xml:lang="en">Objective: To develop and validate a prediction model for the detection of drug-related problems (DRP) in patients on antiretroviral treatment during their regular monitoring in Pharmaceutical Care Clinics before dispensing drugs. Method: Open multicentre prospective study. HIV patients with and without DRP were included. Demographic, clinical and pharmacotherapy variables (related and unrelated to antiretroviral treatment) were included in the model design. To &amp;#64257;nd prognostic factors for DRP, a binary logistic regression model was created after performing a univariate analysis that identi&amp;#64257;ed independent variables related to DRP these variables were introduced in the multivariate model for the &amp;#64257;nal selection. Model validity was determined by the shrinkage method and the discriminatory power by Harrell&#146;s C-index. Results: 733 patients were included. The variables &#145;&#145;adherence&#146;&#146;, &#145;&#145;prescription of drugs needing dosage adjustment&#146;&#146;, and &#145;&#145;total number of drugs prescribed (apart from the antiretroviral treatment)&#146;&#146; were independently related to the appearance of DRP. Probabilities predicted by the model, customising the coef&amp;#64257;cients using the uniform shrinkage method, showed aR2= 0.962 for the construction sample and a R2= 0.872 for the validation sample. The discriminatory capacity of the model was 0.816 for the construction sample and 0.779 for the validationsample. Conclusions: The developed and validated model enables detection of patients on antiretroviral treatment who are at a higher risk for experiencing a DRP. The prediction variables employed are commonly used in patient&#146;s pharmacotherapy record, allowing the model to be used in routine clinical practice (AU)</dc:description>
+<dc:creator>Moriel Sanchez, C</dc:creator>
+<dc:creator>Plata Paniagua, S</dc:creator>
+<dc:creator>Illaro Uranga, A</dc:creator>
+<dc:creator>Martín Conde, M. T</dc:creator>
+<dc:creator>Valverde Merino, M. P</dc:creator>
+<dc:creator>Ortega Valín, L</dc:creator>
+<dc:creator>Fernández Palacín, A</dc:creator>
+<dc:creator>Serrano López de las Hazas, J</dc:creator>
+<dc:creator>Morillo Verdugo, R</dc:creator>
+<dc:creator>Ibarra Barrueta, O</dc:creator>
+<dc:creator>Almeida González, C</dc:creator>
+<dc:creator>Ventura Cerdá, J. M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Desarrollar y validar un modelo predictivo para la detección de problemas relacionados con los medicamentos (PRM) en pacientes con tratamiento antirretroviral (TAR), durante su seguimiento periódico en consultas de atención farmacéutica (AF) y previamente a la dispensación. Método Para encontrar factores pronósticos de PRM, se realizó un modelo de regresión logística binaria tras un análisis univariante, el cual identificó variables independientes relacionadas con PRM que fueron introducidas en el modelo multivariante para la selección final. La validez del modelo se determinó por el método Shrinkage y la capacidad discriminatoria por el estadístico C-Harrell. Estudio multicéntrico, abierto, prospectivo. Se incluyeron pacientes infectados por el VIH con y sin PRM. Para el diseño del modelo se incluyeron variables demográficas, clínicas y farmacoterapéuticas (relacionadas o no con el TAR).Resultados Se incluyeron 733 pacientes. Las variables «adherencia», «prescripción de fármacos con necesidad de ajuste posológico» y «número de medicamentos totales prescritos (al margen del TAR)» se relacionaban de manera independiente con la aparición de PRM. Las probabilidades predichas por el modelo, personalizando los coeficientes por el método shrinkage uniforme mostraron un valor R2=0,962 para la muestra de construcción y R2=0,872 para la de validación. La capacidad discriminatoria del modelo fue de 0,816 para la muestra de construcción y 0,779 para la de validación. Conclusiones El modelo predictivo desarrollado y validado permite la detección de pacientes con tratamiento antirretroviral y con mayor riesgo de sufrir un PRM. Las variables predictoras utilizadas se corresponden con las manejadas habitualmente en la historia farmacoterapéutica del paciente, permitiendo su empleo sistemático en la práctica asistencial (AU)</dc:description>
+<dc:source>Farm Hosp;36(5): 343-350, sep. -oct. 2012. ilus, tab</dc:source>
+<dc:identifier>ibc-105956</dc:identifier>
+<dc:title xml:lang="es">Desarrollo y validación de un modelo predictivo para la identificación de pacientes infectados por el VIH con problemas relacionados con los medicamentos. Estudio predictor</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d24718^s22012</dc:subject>
+<dc:subject>^d^s22012</dc:subject>
+<dc:subject>^d38332^s22020</dc:subject>
+<dc:subject>^d^s22083</dc:subject>
+<dc:subject>^d^s22020</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201210</dc:date>
+</metadata>
+</record>
+</ibecs-document>

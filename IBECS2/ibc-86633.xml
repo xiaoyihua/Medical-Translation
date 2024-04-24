@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-86633</identifier>
+<setSpec>0213-4853</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Thrombolysis in Madrid: is there improvement in the 4 years temporal analysis?</dc:title>
+<dc:description xml:lang="en">Introduction. Thrombolysis in acute ischemic stroke (IS) islimited by the short time window. However, this can be improvedwith adequate coordination of all the professionals and proceduresinvolved in acute stroke treatment.Patients and methods. A multicenter, observational, prospectivestudy conducted in IS patients treated with intravenousrecombinant tissue plasminogen activator between January 2003and May 2007 was performed. A descriptive analysis of epidemiologicand clinical variables was conducted. Temporal analysisof safety, efficacy and quality parameters was carried out with theAuto-Regressive Integrated Moving Average (ARIMA) (p, d, q)models.Results. From January 2003 to 2007, 324 patients were included(56% males; median age: 65.6). A total of 53.6 % becameindependent at 3 months (score 0-2 on the Modified Rankin Scale).Mortality rate 3 months after treatment was 15.7% and 3.7%suffered symptomatic intracranial bleeding. The temporal analysisshowed a significant increase of thrombolysis, from a meanof 2 procedures per month to 20 (p&lt;0.0001). There was a significantincrease in the percentage of 3-month independent patients(0.83% [ARIMA] (1, 0, 1) p&lt;0.0001).Conclusions. Intravenous thrombolysis is a safe and effectiveprocedure for the treatment of IS in the clinical practice. Asthe experience of all the professionals involved in IS treatmentincreases, the number of patients who receive iv rtPA increases,with better outcome. Temporal analysis by ARIMA models is usefulin planning health policies</dc:description>
+<dc:creator>Simal, P</dc:creator>
+<dc:creator>Masjuán, J</dc:creator>
+<dc:creator>Alonso de Leciñana, M</dc:creator>
+<dc:creator>Fuentes, B</dc:creator>
+<dc:creator>Díez Tejedor, E</dc:creator>
+<dc:creator>García, A. M</dc:creator>
+<dc:creator>Gil Núñez, A</dc:creator>
+<dc:creator>Egido, J. A</dc:creator>
+<dc:creator>Díaz Otero, F</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. El tratamiento trombolítico en pacientes con ictus isquémico está limitado por la estrecha ventana terapéutica, aunque puede incrementarse con una adecuada coordinación de los diferenteseslabones de la cadena asistencial.Pacientes y métodos. Estudio observacional, prospectivo, multicéntricode pacientes con ictus isquémico que recibieron tratamiento con activador del plasminógeno tisular recombinante intravenoso entre enero de 2003 y mayo de 2007. Se realizó un análisis descriptivo de variables clínicas y epidemiológicas. Para valorar la tendencia en el tiempo de las relativas a seguridad, eficacia y calidad del procedimiento se llevó a cabo un análisis de series temporales mediantemodelos autorregresivos integrados con media móvil (ARIMA).Resultados. Se trataron 324 pacientes (56 % varones; edad media:65,6 años). Un 53,6 % de los pacientes era independiente a los 3 meses (puntuación: 0-2 en la escala de Rankin modificada). La mortalidad fue del 15,7% y un 3,7% sufrió una hemorragia intracraneal sintomática. El análisis de series temporales mostró un incrementosignificativo de 2 a 20  procedimientos/mes (p&lt;0,0001) y unaumento del porcentaje de pacientes con independencia funcional alos 3 meses (0,83% ARIMA [1, 0, 1] p&lt;0,0001).Conclusiones. La trombólisis intravenosa es un procedimientoseguro y eficaz en el tratamiento del ictus isquémico en la prácticaclínica habitual. A medida que aumenta la experiencia de los profesionalesse incrementa significativamente el número de pacientestratados, con un mayor porcentaje de pacientes que alcanzan la independenciafuncional. El análisis de series temporales es una herramientaútil en estudios de previsión en la gestión sanitaria (AU)</dc:description>
+<dc:source>Neurologia;24(9): 804-807, nov. 2009. tab, graf</dc:source>
+<dc:identifier>ibc-86633</dc:identifier>
+<dc:title xml:lang="es">Trombólisis en Madrid: ¿cada vez más y mejor? Análisis de series temporales durante 4 años</dc:title>
+<dc:subject>^d2586^s22057</dc:subject>
+<dc:subject>^d24892^s22074</dc:subject>
+<dc:subject>^d19210^s22074</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d34247^s22057</dc:subject>
+<dc:subject>^d23425^s22000</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200911</dc:date>
+</metadata>
+</record>
+</ibecs-document>

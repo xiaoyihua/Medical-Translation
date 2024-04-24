@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-039045</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Linear and non linear models explaining occupational safety</dc:title>
+<dc:description xml:lang="en">Empirical research on occupational accidents frequently analyzes counts data over a specific period of time. These variables are often treated as if they were continuous and are analyzed using a Linear Regression Model. When this model&#146;s assumptions are violated, the usual solution is to transform the criteria variable. A third possibility, theoretically more sound because it assumes a Poisson distribution for the counts variable, would be to use Non Linear Poisson Regression Models. This paper compares the results obtained using the three aforementioned methodological approaches with a sample of 483 workers, and discusses the practical implications of these findings</dc:description>
+<dc:creator>Tomás, José Manuel</dc:creator>
+<dc:creator>Oliver, Amparo</dc:creator>
+<dc:creator>Rodrigo, María F</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En la investigación empírica sobre siniestralidad laboral los datos son usualmente recogidos bajo la forma de recuentos de sucesos que ocurren durante un período de tiempo definido. A menudo estas variables de recuento son tratadas como si fueran de naturaleza continua y analizadas mediante el Modelo de Regresión Lineal. Ante el incumplimiento de los supuestos de este modelo, una solución usual es la aplicación de transformaciones sobre la variable criterio. Una solución alternativa a estas transformaciones, teóricamente más adecuada ya que asume una distribución de Poisson de la variable recuento, consiste en la aplicación de un modelo de regresión no lineal: el Modelo de Regresión de Poisson. En este trabajo se comparan los resultados obtenidos mediante las tres aproximaciones anteriores a partir de una muestra de 483 trabajadores, incidiendo en las implicaciones prácticas de estos resultados</dc:description>
+<dc:source>Psicothema (Oviedo);17(1): 154-163, feb. 2005. tab, graf</dc:source>
+<dc:identifier>ibc-039045</dc:identifier>
+<dc:title xml:lang="es">Modelos lineales y no lineales en la explicación de la siniestrabilidad laboral</dc:title>
+<dc:subject>^d28633</dc:subject>
+<dc:subject>^d32016</dc:subject>
+<dc:subject>^d24769</dc:subject>
+<dc:subject>^d28613</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:subject>^d23892^s22083</dc:subject>
+<dc:subject>^d28597^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200502</dc:date>
+</metadata>
+</record>
+</ibecs-document>

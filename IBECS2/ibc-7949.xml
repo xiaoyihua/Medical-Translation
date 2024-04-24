@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-7949</identifier>
+<setSpec>0034-7973</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Correlation sutdy of plasmatic homocysteine by ion-exchange chromatography and fluorescence</dc:title>
+<dc:creator>Martínez, A</dc:creator>
+<dc:creator>Gómez, P</dc:creator>
+<dc:creator>Fernández Miranda, C</dc:creator>
+<dc:creator>Navarro, T</dc:creator>
+<dc:creator>Latorre, A</dc:creator>
+<dc:creator>Díaz Rubio, P</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Editorial Siglo, S.L.</dc:publisher>
+<dc:description xml:lang="es">La determinación de Homocisteína plasmática tiene interés por ser un factor de riesgo independiente de padecer enfermedad cardiovascular. Los laboratorios clínicos deben ofrecer métodos para su determinación que sean rápidos y fiables, debido al importante papel que presentan los diferentes parámetros bioquímicos en el diagnóstico de la aterosclerosis. Nuestro laboratorio desarrolló un método de cromatografía de intercambio iónico utilizando un sistema de detección postcolumna de ninhidrina, el cual es lento y unido al aumento de la demanda de peticiones para la determinación de Homocisteína plasmática, nos llevó a evaluar un nuevo método de inmunoanálisis de fluorescencia polarizada completamente automatizado. Hemos evaluado y comparado ambos métodos. Los coeficientes de variación intra e interserie oscilaron entre 0,93 y 5,31 por ciento. La media de las recuperaciones obtenidas fue de 98,5 por ciento para ambos métodos. El límite de detección obtenido fue de 0,75 µmol/L y 0,79 µmol/L para el método cromatográfico y para el de inmunoanálisis de fluorescencia polarizada respectivamente. Encontramos una buena correlación entre el método de cromatografía de intercambio iónico y el de inmunoanálisis de fluorescencia polarizada (y = 0,81 + 1,65x; r = 0,98). En conclusión, el método de inmunoanálisis de fluorescencia polarizada es un procedimiento rápido y fiable que puede ser de gran utilidad para el análisis de rutina de los niveles de Homocisteína plasmática (AU)</dc:description>
+<dc:source>Rev. diagn. biol;50(1): 33-37, ene. 2001. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-7949</dc:identifier>
+<dc:title xml:lang="es">Estudio de correlación de Homocisteína plasmática por cromatografía de intercambio iónico e inmunoanálisis de fluorescencia polarizada</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d6866^s22062</dc:subject>
+<dc:subject>^d9740</dc:subject>
+<dc:subject>^d50504^s22016</dc:subject>
+<dc:subject>^d2359^s22054</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d2901^s22045</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d28938^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200101</dc:date>
+</metadata>
+</record>
+</ibecs-document>

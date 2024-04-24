@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-108272</identifier>
+<setSpec>0213-9626</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Plasmodium falciparum MSP-1 AND EBA-140 peptides prediction of binding to hla class II probability, combinatory and entropy applied to peptide sequences</dc:title>
+<dc:description xml:lang="en">The MSP-1 merozoite surface protein is related to the invasion phenomenon of malaria to red cells, while the EBA-140 antigen protein interacts with the sialoglycoproteins on the surface of erythrocytes. The identification of peptides from both proteins that bind to HLA class II has aparticular importance for the development of vaccines.In the present work, a predictive binding to HLA class II theory, basedon S/k proportion of entropy was applied, for the prediction of proteinsMSP-1 and EBA-140 binding phenomenon to the totality of 20 amino acidsequences of both molecules. The probability, combinatory and entropyvalues were calculated for 948 and 732 nonamer overlapping sequencesof MSP-1 and EBA-140, respectively. Three theoretical proteins of 500 aminoacids of lenght each were computationally built in order to apply thedeveloped binding theory to all their nonamer overlapping peptides.It was predicted that for the two studied merozoite proteins, 298sequences are related to the binding macrostate and 1409 to the not-binding macrostate. The developed theoretical prediction can facilitate theselection of peptides during the process of vaccine development.  For thethree theoretical proteins built, it was found that 111, 84 and 72 are predicted as included into the binding macrostate, while sequences 381, 408,and 420 are predicted as related to the not-binding macrostate. The predictions are an evidence of a physical and mathematical orderin antigen presentation, which can be useful to the development of vaccines (AU)</dc:description>
+<dc:creator>GRUPO INSIGHT</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La proteína de superficie del merozoíto MSP-1 está asociada al fenó-meno de invasión de la malaria al glóbulo rojo, mientras que la proteínadel antígeno EBA-140 interactúa con las sialo-glicoproteínas de la superficie de los eritrocitos. La identificación de péptidos de estas proteínas quese unan al HLA clase II es de vital importancia para el desarrollo de vacunas.En nuestro trabajo se aplicó una teoría predictiva de unión al HLA claseII basada en la proporción S/k de la entropía, para la predicción del fenó-meno de unión de péptidos de las proteínas MSP-1 y EBA-140 a la totalidad de secuencias de 20 aminoácidos de dichas moléculas. Se calcularonlos valores de probabilidad, combinatoria y entropía de 948 secuencias noná-meras sobrelapadas de las proteínas MSP-1 y 732 de EBA-140. Se construyeron computacionalmente tres proteínas teóricas de 500 aminoácidos delongitud cada una, para aplicar la teoría de unión desarrollada en todos lospéptidos nonámeros sobrelapados de las mismas.Se predijo que para las dos proteínas del merozoíto estudiadas, 298secuencias están asociadas al macroestado de unión y 1409 al macroestadode no unión. La predicción teórica desarrollada puede facilitar la selecciónde péptidos implicados en el desarrollo de vacunas. Para las tres proteínasconstruidas teóricamente se encontró que las secuencias 111, 84 y 72 sonpredichas como pertenecientes al macroestado de unión, mientras que lasrestantes, 381, 408 y 420 se predicen asociadas al macroestado de no unión. Las predicciones evidencian un orden físico y matemático en la presentación antigénica, útil en el desarrollo de vacunas (AU)</dc:description>
+<dc:source>Inmunología (1987);29(3): 91-99, jul.-sept. 2010. tab</dc:source>
+<dc:identifier>ibc-108272</dc:identifier>
+<dc:title xml:lang="es">Predicción de unión de péptidos de MSP-1 y EBA-140 de Plasmodium falciparum al HLA clase II Probabilidad, combinatoria y entropía aplicadas a secuencias peptídicas</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d33181</dc:subject>
+<dc:subject>^d24721^s22038</dc:subject>
+<dc:subject>^d9152</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d11773</dc:subject>
+<dc:subject>^d33844^s22038</dc:subject>
+<dc:subject>^d8462^s22038</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201009</dc:date>
+</metadata>
+</record>
+</ibecs-document>

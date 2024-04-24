@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-12775</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Some methodological aspects of age-period-cohort models. Application to cancer mortality trends</dc:title>
+<dc:description xml:lang="en">Age-period-cohort models are usually used in descriptive epidemiological studies to analyze time trends in incidence or mortality. The exact linear relationship between the three effects of these models has the effect of making the parameters of the full model impossible to estimate, which is called non-identifiability. In these notes two of the most frequently used methods to analyze age-period-cohort models will be explained. One is based on penalty functions and the other on estimable functions (drift and curvatures or deviation from linearity). Both methods will be illustrated with two examples in wich temporal trends of breast and lung cancer mortality in women from Catalonia in Spain will be studied. These examples show how the methods based on penalty functions tend to attribute the trend exclusively to a cohort effect. Consequently, the use of methods based on estimate functions is recommended (AU)</dc:description>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Los modelos edad-período-cohorte suelen utilizarse en estudios de epidemiología descriptiva para analizar las tendencias de la incidencia y de la mortalidad para valorar el efecto temporal de la ocurrencia de un evento. La relación lineal exacta existente entre estos tres efectos hace que los parámetros del modelo completo no puedan estimarse, lo que se denomina no identificabilidad. En estas notas se explicarán dos de los métodos más usados para analizar modelos edad-período-cohorte: uno se basa en funciones de penalización y otro en funciones estimables (tendencia lineal y curvaturas o desviaciones). Ambos métodos se ilustrarán con dos ejemplos en el que se analizan la tendencia temporal de la mortalidad por cáncer de pulmón y mama en las mujeres de Cataluña. Estos ejemplos ilustran que los métodos basados en funciones de penalización tienden a atribuir la tendencia a un efecto cohorte exclusivo, por lo que se aconseja utilizar los métodos basados en funciones estimables (AU)</dc:description>
+<dc:source>Gac Sanit;16(3): 267-273, mayo  -jun. 2002.</dc:source>
+<dc:title xml:lang="es">Algunos aspectos metodológicos sobre los modelos edad-período-cohorte. Aplicación a las tendencias de mortalidad por cáncer</dc:title>
+<dc:type>article</dc:type>
+<dc:creator>Llorca, F. J</dc:creator>
+<dc:creator>Moreno, V</dc:creator>
+<dc:creator>González, J. R</dc:creator>
+<dc:language>es</dc:language>
+<dc:identifier>ibc-12775</dc:identifier>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d28632</dc:subject>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d8352</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d9562</dc:subject>
+<dc:subject>^d14384</dc:subject>
+<dc:subject>^d31670</dc:subject>
+<dc:subject>^d1968</dc:subject>
+<dc:date>200206</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-046200</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Risk factors for increased cost of exacerbations of chronic bronchitis and Chronic Obstructive Pulmonary Disease</dc:title>
+<dc:description xml:lang="en">Objective: To identify what variables characterizing the patients, exacerbations, and treatment of chronic bronchitis and chronic obstructive pulmonary disease (COPD) are associated with a higher direct health cost.         Method: Observational pharmacoeconomic study of exacerbations of chronic bronchitis and COPD (of probable bacterial etiology, defined as Anthonisen types I or II). Direct health costs were assessed during 30 days of follow-up. Logistic regression was employed for statistical analysis, with calculation of the adjusted odds ratios (OR). An exacerbation cost greater than &#128;150 was defined as the dependent variable.                 Results: Data on 1164 patients were collected by 252 physicians. Pharmacoeconomic data were complete in 947 patients (82.6%). In the first 30 days, 206 sought medical attention because of unsatisfactory response to treatment (21.8%), 69 (7.3%) attended the emergency room, and 22 (2.3%) were admitted to hospital. Overall, 101 exacerbations (10.7%) were classified as high cost (&gt; &#128;150). Continuous oxygen therapy (OR=7.58) and previous hospitalization (OR=2.6) were associated with high-cost exacerbations, whereas diagnosis of chronic bronchitis (OR=0.41) and treatment of the exacerbation with moxifloxacin or amoxicillin­clavulanic acid as opposed to clarithromycin (OR=0.38) were associated with low-cost exacerbations.                 Conclusion: Treatment failure was reported for 21.8% of the patients with exacerbations of chronic bronchitis and COPD. Repeated medical visits and requests for complementary tests were the main factors responsible for increased cost. Variables associated with high-cost exacerbations were continuous oxygen therapy, previous hospitalization, and treatment with clarithromycin as opposed to moxifloxacin or amoxicillin- clavulanic acid</dc:description>
+<dc:creator>Cots, J. M</dc:creator>
+<dc:creator>Molina, J</dc:creator>
+<dc:creator>Naberan, K</dc:creator>
+<dc:creator>Llor, C</dc:creator>
+<dc:creator>Miravitlles, M</dc:creator>
+<dc:creator>Rose, F</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Identificar las variables de los pacientes, de las agudizaciones y del tratamiento de la bronquitis crónica (BC) y la enfermedad pulmonar obstructiva crónica (EPOC) que se asocian con un mayor coste sanitario directo.                 Método: Estudio observacional y farmacoeconómico en pacientes con BC y EPOC con agudización de probable etiología bacteriana, definida por presentar 2 o más de los criterios de Anthonisen. Se siguió a los pacientes durante 30 días y se evaluaron los costes directos derivados de su atención. El análisis estadístico se efectuó mediante regresión logística con cálculo de las odds ratio (OR) ajustadas, considerando variable dependiente un coste de agudización superior a los 150 &#128;.                 Resultados: Participaron 252 médicos que recabaron información sobre 1.164 pacientes. Se recogieron todos los parámetros farmacoeconómicos en 947 pacientes (82,6%). En los primeros 30 días, 206 acudieron por mala evolución (21,8%), 69 (7,3%) requirieron atención en urgencias y 22 (2,3%) precisaron ingreso. Se clasificaron como de coste elevado (&gt; 150 &#128;) 101 agudizaciones (10,7%). Las variables que se asociaron a un coste elevado fueron la oxigenoterapia continua (OR = 7,58) y la hospitalización previa (OR = 2,6), mientras que el diagnóstico de BC (OR = 0,41) y el tratamiento de la agudización con moxifloxacino o amoxicilina-ácido clavulánico, comparado con claritromicina (OR = 0,38), se asociaron a un coste bajo.                 Conclusión: Un 21,8% de los pacientes con agudización de la BC y EPOC fracasa, con lo que se genera un coste mayor, fundamentalmente por nuevas visitas médicas y solicitud de pruebas complementarias. Las variables que se asocian a una agudización de coste elevado son la oxigenoterapia continua, la hospitalización previa y el tratamiento con claritromicina comparada con moxifloxacino o amoxicilina-ácido clavulánico</dc:description>
+<dc:source>Arch Bronconeumol;42(4): 175-182, abr. 2006. tab</dc:source>
+<dc:identifier>ibc-046200</dc:identifier>
+<dc:title xml:lang="es">Factores de riesgo de elevado coste de las agudizaciones de la bronquitis crónica y la EPOC</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d10282^s22018</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d31495^s22066</dc:subject>
+<dc:subject>^d911^s22018</dc:subject>
+<dc:subject>^d36008^s22018</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28561^s22018</dc:subject>
+<dc:subject>^d36007^s22018</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200604</dc:date>
+</metadata>
+</record>
+</ibecs-document>

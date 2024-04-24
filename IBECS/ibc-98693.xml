@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-98693</identifier>
+<setSpec>0210-5705</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Genomic prognostic markers in hepatocellular carcinoma</dc:title>
+<dc:description xml:lang="en">Recently, interest in hepatocellular carcinoma (HCC) has grown due to its high mortality and increased incidence. Unlike other malignancies, HCC mainly arises in the context of chronic liver injury, complicating its management and the prediction of prognosis. The Barcelona Clinic Liver Cancer (BCLC) staging classification currently offers an efficient decision-making guide in these patients. However, preoperative identification of patients with a higher risk of recurrence after resection and of those who could benefit from liver transplantation despite not meeting the Milan criteria would be useful. New high-throughput genomic technologies that can be applied to paraffin-embedded tissue have facilitated the identification of gene signatures and other biomarkers able to predict prognosis in HCC patients. None of these biomarkers, based on transcriptome, microRNAs or metilome, has been incorporated into clinical practice, although in future they may be able to complement the prognostic value of clinical and pathologic variables (AU)</dc:description>
+<dc:creator>Villanueva, Augusto</dc:creator>
+<dc:creator>Alsinet, Clara</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Existe un interés creciente por el carcinoma hepatocelular (CHC) debido a su elevada mortalidad y aumento en su incidencia. A diferencia de otros cánceres, el CHC surge mayoritariamente en el contexto de daño hepático crónico, complicando tanto el manejo clínico como la estimación de su pronóstico. Actualmente la clasificación BCLC proporciona una guía eficiente para el manejo de estos pacientes. Sin embargo, sería útil poder identificar preoperatoriamente los pacientes con mayor riesgo de recurrencia después de la resección, o aquellos que se beneficiarían del trasplante hepático excediendo los Criterios de Milán. El avance en técnicas genómicas de alta densidad, aplicables a tejido parafinado, ha favorecido el desarrollo de múltiples firmas genéticas y otros biomarcadores con fines pronósticos. Ninguno de estos biomarcadores, basados en el transcriptoma, micro-RNAs o metiloma, son utilizados en la práctica clínica, aunque es previsible que en el futuro puedan complementar la capacidad pronóstica que proporcionan las variables clínico-patológicas (AU)</dc:description>
+<dc:source>Gastroenterol Hepatol;35(2): 94-101, feb.2012.</dc:source>
+<dc:identifier>ibc-98693</dc:identifier>
+<dc:title xml:lang="es">Pronóstico genómico en el carcinoma hepatocelular</dc:title>
+<dc:subject>^d53723^s22074</dc:subject>
+<dc:subject>^d8287^s22033</dc:subject>
+<dc:subject>^d31855^s22033</dc:subject>
+<dc:subject>^d33779</dc:subject>
+<dc:subject>^d35417</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24411</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201202</dc:date>
+</metadata>
+</record>
+</ibecs-document>

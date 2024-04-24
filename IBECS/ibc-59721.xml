@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-59721</identifier>
+<setSpec>0212-1972</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Clinical Bioinformatics: application in the health sector</dc:title>
+<dc:description xml:lang="en">Automatic data processing has been one of the essential goals of the Human Genome Project due to the large quantity of data which had to be collected. The authors explain that currently a large part of these breakthroughs are already being applied in nursing practice so that genomic data is obtained as part of the information of the Electronic Medical Record (AU)</dc:description>
+<dc:creator>Puig, A</dc:creator>
+<dc:creator>Arregui, M</dc:creator>
+<dc:creator>Coltell, Ó</dc:creator>
+<dc:creator>Falomir, Z</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Los últimos avances que se han producido en el conocimiento del genoma humano van a tener en los próximos años un gran impacto en biomedicina y en Salud Pública. La informática ha sido uno de los objetivos esenciales del Proyecto Genoma Humano, debido a la gigantesca cantidad de datos que había que recoger, analizar, comparar, interpretar y distribuir. En la actualidad, ya se aplican parte de estos avances  en la práctica asistencial, de forma que se obtienen datos genómicos como parte de la información de la historia clínica electrónica. Esto provoca una serie de nuevos problemas que demandan nuevos enfoques disciplinarios. Uno de ellos es la Bioinformática Clínica, como la evolución de la Bioinformática en el ámbito sanitario, pero incluyendo áreas de la informática Médica y la Informática Biomédica. En este trabajo se pretende caracterizar la nueva disciplina, tanto desde el punto de vista funcional como profesional (AU)</dc:description>
+<dc:source>Todo hosp;(218): 426-436, jul.-ago. 2005. tab</dc:source>
+<dc:identifier>ibc-59721</dc:identifier>
+<dc:title xml:lang="es">Bioinformática Clínica: aplicación en el ámbito de la sanidad</dc:title>
+<dc:subject>^d33149^s22066</dc:subject>
+<dc:subject>^d29040^s22055</dc:subject>
+<dc:subject>^d29040^s22066</dc:subject>
+<dc:subject>^d33149^s22045</dc:subject>
+<dc:subject>^d28455^s22083</dc:subject>
+<dc:subject>^d33149^s22048</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d35417^s22019</dc:subject>
+<dc:subject>^d28455^s22019</dc:subject>
+<dc:subject>^d35417^s22034</dc:subject>
+<dc:subject>^d35417^s22066</dc:subject>
+<dc:subject>^d33149^s22049</dc:subject>
+<dc:subject>^d28219^s22048</dc:subject>
+<dc:subject>^d35417^s22083</dc:subject>
+<dc:subject>^d19243^s22066</dc:subject>
+<dc:subject>^d19243^s22045</dc:subject>
+<dc:subject>^d29040^s22049</dc:subject>
+<dc:subject>^d29040^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200508</dc:date>
+</metadata>
+</record>
+</ibecs-document>

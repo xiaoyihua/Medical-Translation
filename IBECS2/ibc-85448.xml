@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-85448</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Mathematical models for economic evaluation: dynamic models based on differential equations</dc:title>
+<dc:description xml:lang="en">The joint utilization of both decision trees and epidemiological models based on differential equations is an appropriate method for the economic evaluation of preventative interventions applied to infectious diseases. These models can combine the dynamic pattern of the disease together with health resource consumption. To illustrate this type of model, we adjusted a dynamic system of differential equations to the epidemic behavior of influenza in Spain, with a view to projecting the epidemiologic impact of influenza vaccination. The results of the epidemic model are implemented in a diagram with the structure of a decision tree so that health resource consumption and the economic implications can be calculated (AU)</dc:description>
+<dc:creator>Pradas Velasco, Roberto</dc:creator>
+<dc:creator>Antoñanzas Villar, Fernando</dc:creator>
+<dc:creator>Mar, Javier</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La utilización conjunta de árboles de decisión y modelos epidemiológicos basados en ecuaciones diferenciales es un método apropiado para la evaluación económica de medidas profilácticas ante enfermedades infecciosas. Estos modelos permiten combinar el comportamiento dinámico de la enfermedad con el consumo de recursos sanitarios. Para ilustrar este tipo de modelos se ajusta un sistema dinámico de ecuaciones diferenciales al comportamiento epidémico de la gripe en España, con el fin de proyectar el impacto epidemiológico de la vacunación antigripal. Los resultados del modelo dinámico se implementan en un diagrama con estructura de árbol para medir el consumo de recursos sanitarios y su repercusión en términos monetarios (AU)</dc:description>
+<dc:source>Gac Sanit;23(5): 473-478, sep. -oct. 2009. tab, ilus</dc:source>
+<dc:identifier>ibc-85448</dc:identifier>
+<dc:title xml:lang="es">Modelos matemáticos para la evaluación económica: los modelos dinámicos basados en ecuaciones diferenciales</dc:title>
+<dc:subject>^d22877</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d29592^s22018</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23109^s22018</dc:subject>
+<dc:subject>^d32532</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200909</dc:date>
+</metadata>
+</record>
+</ibecs-document>

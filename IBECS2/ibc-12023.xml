@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-12023</identifier>
+<setSpec>0211-3465</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Statistical methodology: reliability of measurements and observations</dc:title>
+<dc:creator>Casanova Domingo, J. F</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Alpe Editores, S.A.</dc:publisher>
+<dc:description xml:lang="es">En este artículo, último de esta serie sobre metodología estadística, se expone la importancia de evaluar la calidad de los datos obtenidos que servirán de materia prima para el análisis del estudio. Se describen los métodos para analizar la fiabilidad, distinguiendo entre datos cualitativos, ordinales o propiamente cuantitativos. Se incluyen también dos aplicaciones específicas por su relevancia en el ámbito médico: el estudio de la consistencia interna de cuestionarios y los índices para la valoración de pruebas diagnósticas (AU)</dc:description>
+<dc:source>Pediátrika (Madr.);20(1): 1-7, ene. 2000. tab</dc:source>
+<dc:identifier>ibc-12023</dc:identifier>
+<dc:title xml:lang="es">Metodología estadística: fiabilidad de medidas y observaciones</dc:title>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d28633</dc:subject>
+<dc:subject>^d28614</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d51627</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d51780^s22045</dc:subject>
+<dc:subject>^d28608^s22074</dc:subject>
+<dc:subject>^d33671^s22045</dc:subject>
+<dc:subject>^d51780^s22048</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d24624</dc:subject>
+<dc:subject>^d28636^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200001</dc:date>
+</metadata>
+</record>
+</ibecs-document>

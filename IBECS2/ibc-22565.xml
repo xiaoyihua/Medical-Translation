@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-22565</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">A model to predict death after lung cancer resection: applicability to individual cases</dc:title>
+<dc:creator>Jiménez, M. F</dc:creator>
+<dc:creator>Novoa, N</dc:creator>
+<dc:creator>Varela, G</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">OBJETIVO: Evaluar la fiabilidad de un modelo de regresión logística para predecir el riesgo individual de muerte por resección de cáncer pulmonar (CP).MÉTODO: Estudio de 515 casos consecutivos sometidos a resección pulmonar anatómica (lobectomía o neumonectomía) por CP entre enero de 1994 y diciembre de 2001. La variable dependiente fue la mortalidad hospitalaria o extrahospitalaria en los 30 días siguientes a la intervención; las variables independientes continuas: la edad, el índice de masa corporal y el volumen espiratorio forzado en el primer segundo, en porcentaje del teórico (FEV1ppo), y las variables independientes binarias: cardiopatía isquémica, diabetes mellitus, arritmia preoperatoria, quimioterapia de inducción, tipo de resección realizada (lobectomía o neumonectomía), resección de pared torácica, extensión tumoral (tumor localizado o extendido) y transfusión sanguínea perioperatoria. Todas las variables han sido recogidas de forma prospectiva. Se ha realizado un análisis univariante utilizando tablas de contingencia para las variables binarias y ANOVA para las continuas; posteriormente, se ha efectuado un análisis de regresión logística por pasos hacia atrás y se ha calculado la probabilidad de muerte para cada caso individual. Con este valor se ha construido una curva ROC utilizando como variable de estado la aparición de muerte operatoria. RESULTADOS: En el análisis multivariante, las siguientes variables se han encontrado relacionadas de forma independiente con la mortalidad: edad (p &lt; 0,001; odds ratio [OR] = 1,11), extensión tumoral (p = 0,002; OR = 3,47) y transfusión perioperatoria (p = 0,004; OR = 3,87). El área bajo la curva ROC es de 0,77, pero esto es debido a una especificidad elevada, ya que ningún caso de complicación pudo ser predicho. CONCLUSIÓN: Aunque se encuentran algunas variables relacionadas con la muerte operatoria, el modelo descrito no es capaz de predecir la muerte operatoria. Por tanto, la aplicabilidad a la toma de decisiones individualizadas es de escasa utilidad (AU)</dc:description>
+<dc:source>Arch Bronconeumol;39(6): 249-252, jun. 2003.</dc:source>
+<dc:identifier>ibc-22565</dc:identifier>
+<dc:title xml:lang="es">Aplicabilidad de un modelo predictivo de muertepor resección de cáncer de pulmón a la tomade decisiones individualizadas</dc:title>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d28633</dc:subject>
+<dc:subject>^d28614</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d13891</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d8352</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200306</dc:date>
+</metadata>
+</record>
+</ibecs-document>

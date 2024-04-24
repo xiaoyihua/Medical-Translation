@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-148747</identifier>
+<setSpec>0213-4853</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Ability of procalcitonin to predict bacterial meningitis in the emergency department</dc:title>
+<dc:description xml:lang="en">Introduction: The aim of this study was to analyse and compare procalcitonin (PCT) and C-reactive protein (CRP) as tools for detecting bacterial meningitis and predicting bacteraemia. Methods: Prospective, observational, and descriptive analytical study of 98 consecutive patients aged &amp;#8805; 15 years and diagnosed with acute meningitis in an emergency department between August 2009 and July 2013. Results: We analysed 98 patients with AM (66 males [67%]); mean age was 44 ± 21 years. The diagnosis was bacterial meningitis in 38 patients (20 with bacteraemia); viral meningitis in 33; probable viral meningitis in 15; and presumptively diagnosed partially treated acute meningitis in 12. PCT had the highest area under the ROC curve (AUC) (0.996; 95% CI, 0.987-1; p &lt;  0 .001). With a cutoff of &amp;#8805; 0.74 ng/ml, PCT achieved 94.7% sensitivity, 100% specificity, negative predictive value (NPV) of 93.9%, and positive predictive value (PPV) of 100%. The mean levels for PCT were11.47 ± 7.76 ng/ml in bacterial meningitis vs. 0.10 ± 0.15 ng/ml in viral meningitis (p &lt;0.001). The AUC for CRP was 0.916 and a cutoff of &amp;#8805; 90 mg/L achieved 67.5% sensitivity, 86.3% specificity, PPV of 89.2%, and NPV of 90.4%. As a predictor of bacteraemia in bacterial meningitis, only PCT delivered a significant difference (14.7 ± 7.1 ng/mL vs. 4.68 ± 3.54 ng/mL, p &lt;  0 .001). A cutoff of &amp;#8805; 1.1 ng/mL achieved 94.6% sensitivity, 72.4% specificity, NPV of 95.4%, and PPV of 69.2%; the AUC was 0.965 (95% CI, 0.921-1; p &lt;  0 .001). Conclusions: PCT has a high diagnostic power for acute meningitis in emergency department patients. PCT outperforms CRP in the detection of bacterial aetiology and is a good predictor of bacteraemia in bacterial meningitis (AU)</dc:description>
+<dc:creator>Juárez Belaunde, AL</dc:creator>
+<dc:creator>Moreno Alonso, F</dc:creator>
+<dc:creator>Heredero Gálvez, E</dc:creator>
+<dc:creator>Morales Casado, MI</dc:creator>
+<dc:creator>Talavera Encinas, O</dc:creator>
+<dc:creator>Julián-Jiménez, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: El objetivo del estudio fue analizar y comparar la capacidad de la procalcitonina (PCT) y proteína C reactiva (PCR) para detectar meningitis bacteriana (MB) y para predecir la existencia de bacteriemia. Métodos: Estudio observacional, prospectivo, descriptivo y analítico de pacientes adultos (&amp;#8805; 15 años) diagnosticados de meningitis aguda (MA) en un servicio de urgencias (SU) desde agosto de 2009 hasta julio de 2013. Resultados: Se incluyeron 98 casos diagnosticados de MA con una edad media de 44 ± 21 años, el 67% varones (66). De ellos 38 fueron MB (20 con bacteriemia), 33 meningitis virales (MV), 15 probable MV y 12 posibles MA decapitadas. La PCT obtiene la mayor área bajo la curva ROC (ABC-ROC), de 0,996 (IC 95%:0,987-1, p &lt; 0,001) y con un punto de corte &amp;#8805; 0,74 ng/ml se consigue una sensibilidad del 94,7%, especificidad del 100%, un VPN de 93,9% y un VPP del 100%. Los valores medios al comparar la PCT en MB y MV fueron 11,47 ± 7,76 vs. 0,10 ± 0,15 ng/ml, p &lt; 0,001. La PCR consigue un ABC-ROC de 0,916 y con punto de corte &amp;#8805; 90 mg/L una sensibilidad de 67,5%, especificidad de 86,3%, VPP 89,2% y VPN: 90,4%. Para la predicción de bacteriemia en las MB solo la PCT consigue diferencias significativas (14,7 ± 7,1vs. 4,68 ± 3,54 ng/ml, p &lt; 0,001) y con un PC de 1,1 ng/ml una sensibilidad de 94,6%, especificidad 72,4%, VPN 95,4% y VPP 69,2% y un ABC de 0,965 (IC 95%: 0,921-1, p &lt; 0,001). Conclusiones: En los pacientes con MA en SU la PCT consigue un gran rendimiento diagnóstico para sospechar la etiología bacteriana, mayor que la PCR, y para predecir la existencia de bacteriemia en las MB (AU)</dc:description>
+<dc:source>Neurologia;31(1): 9-17, ene.-feb. 2016. tab, graf</dc:source>
+<dc:identifier>ibc-148747</dc:identifier>
+<dc:title xml:lang="es">Capacidad de la procalcitonina para predecir meningitis bacterianas en el servicio de urgencias</dc:title>
+<dc:subject>^d29989^s22016</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d23568^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22372</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d30241^s22016</dc:subject>
+<dc:subject>^d24572</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d53386</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d28320^s22074</dc:subject>
+<dc:subject>^d4707^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201602</dc:date>
+</metadata>
+</record>
+</ibecs-document>

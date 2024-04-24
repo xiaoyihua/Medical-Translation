@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-153289</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Interventional radiology neck procedures</dc:title>
+<dc:description xml:lang="en">Ultrasonography has become extremely useful in the evaluation of masses in the head and neck. It enables us to determine the anatomic location of the masses as well as the characteristics of the tissues that compose them, thus making it possible to orient the differential diagnosis toward inflammatory, neoplastic, congenital, traumatic, or vascular lesions, although it is necessary to use computed tomography or magnetic resonance imaging to determine the complete extension of certain lesions. The growing range of interventional procedures, mostly guided by ultrasonography, now includes biopsies, drainages, infiltrations, sclerosing treatments, and tumor ablation (AU)</dc:description>
+<dc:creator>Korta Gómez, I</dc:creator>
+<dc:creator>Cura Rodríguez, JL del</dc:creator>
+<dc:creator>Zabala Landa, RM</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La ecografía se ha convertido en una herramienta sumamente útil en la valoración de masas y lesiones en la cabeza y el cuello. Permite determinar la localización anatómica, así como las características del tejido que compone las lesiones en estudio. De esta manera conseguimos orientar el diagnóstico diferencial hacia lesiones inflamatorias, neoplásicas, congénitas, traumáticas o vasculares. Sí es cierto que para establecer la extensión completa de determinadas lesiones hay que apoyarse en el escáner o la resonancia. Los procedimientos intervencionistas, gracias a la guía ecográfica principalmente, han visto crecer sus indicaciones, por lo que actualmente pueden realizarse biopsias, drenajes, infiltraciones, tratamientos mediante esclerosis y ablaciones de tumores (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);58(supl.2): 2-14, mayo 2016. tab, ilus</dc:source>
+<dc:identifier>ibc-153289</dc:identifier>
+<dc:title xml:lang="es">Intervencionismo en el cuello</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d6641^s22022</dc:subject>
+<dc:subject>^d55010^s22045</dc:subject>
+<dc:subject>^d5246^s22009</dc:subject>
+<dc:subject>^d6642^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d5246^s29166</dc:subject>
+<dc:subject>^d3965</dc:subject>
+<dc:subject>^d33366^s29166</dc:subject>
+<dc:subject>^d712^s22074</dc:subject>
+<dc:subject>^d55010^s22039</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d30797^s22045</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d9524^s29166</dc:subject>
+<dc:subject>^d12979^s22067</dc:subject>
+<dc:subject>^d33366^s22009</dc:subject>
+<dc:subject>^d9524^s22009</dc:subject>
+<dc:subject>^d1731^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201605</dc:date>
+</metadata>
+</record>
+</ibecs-document>

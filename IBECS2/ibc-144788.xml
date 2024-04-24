@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-144788</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Patients treated with micafungin during their stay in intensive care unit</dc:title>
+<dc:description xml:lang="en">Objectives: To determine the reasons of prescription, the characteristics of patients and factors that affected the outcome of critically ill patients treated with micafungin (MCF) during their stay in Spanish ICUs. Material and methods: Observational, retrospective and multicenter study. Patients admitted to the ICU between March 2011 and October 2012 (20-month period) treated with MCF for any reason were included in the study. Severity of patients at the beginning of treatment was measured with the APACHE II, SOFA, Child-Pugh and MELD scores. Reasons for the use of MCF were classified as prophylaxis, preemptive treatment, empirical treatment and directed treatment. Continuous variables are expressed as mean and standard deviation or median, and categorical variables as percentages. A multivariate analysis was performed to identify variables related to intra-ICU mortality. Results: The study population included 139 patients admitted to 19 Spanish ICUs, with a mean age of 57.3 (17.1) years, 89 (64%) men, with surgical (53.2%) and/or medical (44.6%) conditions, APACHE II score of 20.6 (7.7) and SOFA score of 8.4 (4.3), with 84.2% of patients requiring mechanical ventilation, 59% parenteral nutrition, 37.4% extrarenal depuration procedures and 37.4% treatment with steroids. MCF was indicated as empirical treatment of a proven infection in 51 (36.7%) cases, pre-emptive treatment in 50 (36%) especially as a result of the application of the Candida score (32 cases), directed treatment of fungal infection in 23 (16.5%) and as prophylactic treatment in 15 (10.8%) cases. In 108 (77%) cases, a daily dose of 100 mg was administered, with a loading dose in only 9 cases (6.5%). The mean duration of treatment was 13.1 (13) days. A total of 59 (42.4%) patients died during their stay in the ICU and 16 after ICU discharge (hospital mortality 53.9%). Independent risk factors for intra-ICU mortality were the Child-Pugh score (OR 1.45, 95% CI 1.162-1.813; P = .001) and the MELD score (OR 1.05, 95% CI 1.011-1.099; P = .014). Conclusions: MCF is usually administered at a dose of 100 mg/day, without loading dose and in 72.7% of cases as pre-emptive or empirical treatment. Factors that better predicted mortality were indicators of liver insufficiency at the time of starting treatment (AU)</dc:description>
+<dc:creator>Trasmonte, MV</dc:creator>
+<dc:creator>Jiménez, JD</dc:creator>
+<dc:creator>Parra, G</dc:creator>
+<dc:creator>López, C</dc:creator>
+<dc:creator>Álvarez-Lerma, F</dc:creator>
+<dc:creator>Herrero, E</dc:creator>
+<dc:creator>Nieto, M</dc:creator>
+<dc:creator>Grau, S</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Determinar los motivos de prescripción, características de los pacientes y factores que influyeron en la evolución de pacientes críticos que utilizaron micafungina (MCF) durante su estancia en UCI españolas. Material y método: Estudio retrospectivo, observacional y multicéntrico. Se han incluido los pacientes ingresados en UCI entre marzo de 2011 y octubre de 2012 (20 meses) que recibieron MCF por cualquier motivo. La gravedad al inicio del tratamiento se midió con las escalas APACHE II, SOFA, Child-Pugh e índice MELD. Los motivos de utilización de MCF se clasificaron como profilaxis, tratamiento anticipado, tratamiento empírico y tratamiento dirigido. Las características de empleo valoradas fueron dosis de carga, dosis diaria y días de tratamiento. Los variables continúas se expresan como medias y desviación estándar o medianas y las categóricas como porcentajes. Se realizó análisis multivariante para identificar las variables relacionadas con mortalidad intra-UCI. Resultados: Se incluyeron 139 pacientes en 19 UCI españolas con edad de 57,3 (17,1) años, 89 (64%) hombres, con patología quirúrgica (53,2%) y/o médica (44,6%), APACHE II de 20,6 (7,7) y SOFA de 8,4 (4,3) que recibían ventilación mecánica (84,2%), nutrición parenteral (59%), depuración extrarrenal (37,4%) y esteroides (37,4%). MCF se indicó como tratamiento empírico de una infección probada en 51 (36,7%) casos, como tratamiento anticipado en 50 (36%), en especial por aplicación del Candida score (32 casos), como tratamiento dirigido de una infección documentada en 23 (16,5%) y finalmente como profilaxis en 15 (10,8%) casos. En 108 (77%) casos se administró una dosis/día de 100 mg y solo en 9 casos (6,5%) dosis de carga. La duración media del tratamiento fue de 13,1 (13) días. Fallecieron en UCI 59 (42,4%) pacientes y 16 después de alta (mortalidad hospitalaria del 53,9%). Los factores con riesgo independiente de mortalidad intra-UCI fueron el índice de Child-Pugh (OR 1,45: IC 95% 1,162-1,813; p = 0,001) y el índice MELD (OR 1,05; IC 95% 1,011-1,099; p = 0,014). Conclusiones: MCF se administra mayoritariamente a dosis de 100 mg/día, sin dosis de carga y en el 72,7% de los casos como tratamiento anticipado o tratamiento empírico. Los factores que mejor predicen la mortalidad fueron los indicadores de insuficiencia hepática en el momento de iniciar el tratamiento (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);39(8): 467-476, nov. 2015. tab</dc:source>
+<dc:identifier>ibc-144788</dc:identifier>
+<dc:title xml:lang="es">Micafungina en pacientes críticos ingresados en unidad de cuidados intensivos</dc:title>
+<dc:subject>^d3439^s22045</dc:subject>
+<dc:subject>^d52093^s22080</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d7530^s22083</dc:subject>
+<dc:subject>^d943^s22000</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30170^s22067</dc:subject>
+<dc:subject>^d29640</dc:subject>
+<dc:subject>^d9373^s22057</dc:subject>
+<dc:subject>^d13912^s22080</dc:subject>
+<dc:subject>^d24244^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201511</dc:date>
+</metadata>
+</record>
+</ibecs-document>

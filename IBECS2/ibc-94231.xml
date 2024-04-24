@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-94231</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Travel time and participation in breast cancer screening in a region with high population dispersion</dc:title>
+<dc:description xml:lang="en">Objective: To analyze the association between travel time and participation in a breast cancer screeningprogram adjusted for contextual variables in the province of Segovia (Spain).Methods: We performed an ecological study using the following data sources: the Breast Cancer EarlyDetection Program of the Primary Care Management of Segovia, the Population and Housing Census for2001 and the municipal register for 2006-2007. The study period comprised January 2006 to December2007. Dependent variables consisted of the municipal participation rate and the desired level of municipalparticipation (greater than or equal to 70%). The key independent variable was travel time from themunicipality to the mammography unit. Covariables consisted of the municipalities&#146; demographic andsocioeconomic factors. We performed univariate and multivariate Poisson regression analyses of theparticipation rate, and logistic regression of the desired participation level.Results: The sample was composed of 178 municipalities. The mean participation rate was 75.2%. Thedesired level of participation (&amp;#8805;70%) was achieved in 119 municipalities (67%). In the multivariate Poissonand logistic regression analyses, longer travel time was associated with a lower participation rate andwith lower participation after adjustment was made for geographic density, age, socioeconomic statusand dependency ratio, with a relative risk index of 0.88 (95% CI: 0.81-0.96) and an odds ratio of 0.22 (95%CI: 0.1-0.47), respectively.Conclusion: Travel time to the mammography unit may help to explain participation in breast cancerscreening programs (AU)</dc:description>
+<dc:creator>Blasco, Teresa</dc:creator>
+<dc:creator>García-Gómez, Francisco J</dc:creator>
+<dc:creator>Andrés, Fuencisla de</dc:creator>
+<dc:creator>Otero, Laura</dc:creator>
+<dc:creator>Borda, Alfredo</dc:creator>
+<dc:creator>Sanz, Belén</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Análisis de ámbito municipal de la asociación entre el tiempo de viaje y la participación en el programa de cribado del cáncer de mama ajustando por variables contextuales en la provincia de Segovia.MétodoEstudio ecológico utilizando como fuentes de datos el Programa de Detección Precoz de Cáncer de Mama de la Gerencia de Atención Primaria de Segovia, el Censo de Población y Vivienda de 2001, y el Padrón municipal de habitantes de 2006-2007. El periodo de estudio fue de enero de 2006 a diciembre de 2007. Como variables dependientes se consideraron la tasa de participación municipal y el nivel deseado de participación municipal (&amp;#8805;70%). La variable independiente principal fue el tiempo de viaje del municipio a la Unidad Mamográfica, y las covariables agregadas por municipio fueron las características sociodemográficas y socioeconómicas. Se realizó un análisis univariado y multivariado por regresión de Poisson de la tasa de participación municipal, y por regresión logística del nivel deseado de participación.ResultadosLa muestra estuvo formada por 178 municipios. La tasa de participación media fue del 75,2%. Ciento diecinueve (67%) municipios tuvieron la participación deseada (&amp;#8805;70%). En el análisis multivariado por regresión de Poisson y logística, el mayor tiempo de viaje se asoció tanto a una menor tasa de participación como a un menor nivel de participación, una vez ajustado por la densidad geográfica, la edad, el nivel socioeconómico y la razón de dependencia, con un índice de riesgo relativo de 0,88 (intervalo de confianza del 95% [IC95%]: 0,81-0,96) y una odds ratio de 0,22 (IC95%: 0,1-0,47), respectivamente.ConclusiónEl tiempo de viaje hasta la Unidad de Mamografía puede ayudar a explicar la participación poblacional en los programas de detección precoz del cáncer de mama (AU)</dc:description>
+<dc:source>Gac Sanit;25(2): 151-156, may. 2011. ilus, tab</dc:source>
+<dc:identifier>ibc-94231</dc:identifier>
+<dc:title xml:lang="es">Tiempo de viaje y participación en el cribado del cáncer de mama en una región de alta dispersión poblacional</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d23307^s22074</dc:subject>
+<dc:subject>^d28162^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1968^s22054</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d29499</dc:subject>
+<dc:subject>^d6448^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201105</dc:date>
+</metadata>
+</record>
+</ibecs-document>

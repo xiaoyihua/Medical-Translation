@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-153439</identifier>
+<setSpec>1888-4008</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Internal quality control vs external quality control</dc:title>
+<dc:description xml:lang="en">Internal quality control is the procedure used for monitoring the analytical process and to accept or reject the analytical run. There are two models: internal quality control that exclusively uses the control results from the own laboratory, and internal control externally managed, that also uses control data from other laboratories reported to an external organization. Both of them measure the analytical imprecision but are not adequate to estimate neither bias nor inaccuracy (total error). External quality control evaluates the laboratory performance by comparing with other laboratories, through an external organization. There are three models, external quality assessment and proficiency testing which are almost the same and are focused on the analytical process and external quality assurance that applies to all laboratory processes. The three models of external control measure total error, because the control sample (blind for the laboratory) is tested in singleton. At long-term, when all results for one cycle are available, laboratory bias may also been calculated. From the light of legal requirements, good laboraotry practices and papers from widely accepted authors, internal quality control is not and do not substitute external quality control (AU)</dc:description>
+<dc:creator>Ricós, Carmen</dc:creator>
+<dc:creator>Prada, Enrique</dc:creator>
+<dc:creator>Gutiérrez-Bassini, Gabriela</dc:creator>
+<dc:creator>Jou, Josep M</dc:creator>
+<dc:creator>Blazquez, Raquel</dc:creator>
+<dc:creator>Morancho, Jorge</dc:creator>
+<dc:creator>Salas, Ángel</dc:creator>
+<dc:creator>Ramón, Francisco</dc:creator>
+<dc:language>es</dc:language>
+<dc:source>Rev. lab. clín;9(2): 54-59, abr.-jun. 2016.</dc:source>
+<dc:identifier>ibc-153439</dc:identifier>
+<dc:title xml:lang="es">Control interno de la calidad vs control externo de la calidad</dc:title>
+<dc:subject>^d7931^s22048</dc:subject>
+<dc:subject>^d7931^s22049</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12756</dc:subject>
+<dc:subject>^d16902^s22048</dc:subject>
+<dc:subject>^d12222^s22049</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d12224^s22048</dc:subject>
+<dc:subject>^d12224^s22049</dc:subject>
+<dc:subject>^d12223</dc:subject>
+<dc:subject>^d16902^s22049</dc:subject>
+<dc:subject>^d7550</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201606</dc:date>
+</metadata>
+</record>
+</ibecs-document>

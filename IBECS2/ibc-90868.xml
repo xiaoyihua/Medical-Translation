@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-90868</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Performance measures for prediction models and markers: evaluation of predictions and classifications</dc:title>
+<dc:description xml:lang="en">Prediction models are becoming more and more important in medicine and cardiology. Nowadays, specific interest focuses on ways in which models can be improved using new prognostic markers. We aim to describe the similarities and differences between performance measures for prediction models. We analyzed data from 3264 subjects to predict 10-year risk of coronary heart disease according to age, systolic blood pressure, diabetes, and smoking. We specifically study the incremental value of adding high-density lipoprotein cholesterol to this model. We emphasize that we need to separate the evaluation of predictions, where traditional performance measures such as the area under the receiver operating characteristic curve and calibration are useful, from the evaluation of classifications, where various other statistics are now available, including the net reclassification index and net benefit (AU)</dc:description>
+<dc:creator>Pencina, Michael J</dc:creator>
+<dc:creator>Steyerberg, Ewout W</dc:creator>
+<dc:creator>Calster, Ben Van</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Los modelos de predicción están adquiriendo cada vez mayor importancia en medicina y en cardiología. En la actualidad, hay un interés específico que se centra en las formas de mejorar los modelos con el empleo de nuevos marcadores pronósticos. Nuestro objetivo es describir las semejanzas y diferencias entre las distintas medidas del rendimiento de los modelos de predicción. Hemos analizado los datos de 3.264 individuos para predecir el riesgo de enfermedad coronaria a 10 años, según la edad, la presión arterial sistólica, la diabetes y el tabaquismo. Estudiamos específicamente el valor incremental de la adición a este modelo del colesterol unido a lipoproteínas de alta densidad. Resaltamos que es preciso separar la evaluación de las predicciones &#151;en las que las medidas de rendimiento tradicionales, como el área bajo la curva receiver operating characteristic y la calibración, resultan útiles&#151; de la evaluación de las clasificaciones, para las que disponemos actualmente de otros parámetros estadísticos, como el net reclassification index y el beneficio neto (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;64(9): 788-794, sept. 2011.</dc:source>
+<dc:identifier>ibc-90868</dc:identifier>
+<dc:title xml:lang="es">Medidas del rendimiento de modelos de predicción y marcadores pronósticos: evaluación de las predicciones y clasificaciones</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d28614</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d28569^s22045</dc:subject>
+<dc:subject>^d29199</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d2171</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201109</dc:date>
+</metadata>
+</record>
+</ibecs-document>

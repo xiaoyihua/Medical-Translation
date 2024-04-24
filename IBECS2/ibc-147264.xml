@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-147264</identifier>
+<setSpec>1132-239X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Perception of effort in minibasketball during small side games</dc:title>
+<dc:description xml:lang="en">It was analyzed in what measurement the characteristics of the task in small side games influence the perception of effort (RPE) and his relation between the time of game and the RPE the type of tasks. Ten minibasketball players performed 50 tasks (10 training sessions, 450 records RPE, 5 with duration of 8, 10 or 12 minutes). Based on the description 7 variables were codified: Aim: (Assault / Defense / Compound), Duration: (8 minutes / more than 8 minutes), Space: (Track completes / 1/2 Track / 1/4 of Track), numerical Equality: (Without rival / numerical Inequality / numerical Equality), Transition: (If / Not), Player of support: (If / Not), Relation between players: (attackers[n] x defenders[n]). No parametric analysis and an analysis of the variable RPE in function of the characteristics of the task with logistic multinomial regression from the RPE were used. RPE's average in all the variables were 6.87 ± 1.76. Four variables contribute the model: Time of the task (X2 = 183.49; df= 8; p &lt; .001), Relation among players (X2 = 63.71; df= 10; p &lt; .001), Transition (X2 = 15.37; df= 2; p &lt; .01) and the Aim (X2 = 9.68; df= 4; p &lt; .05). The % of classification of the model for the group RPE (8-9), 90.1 % and for the group RPE (0-6), 71.6 %. The total percentage of classification predicted was 66.4. The tasks of 8 minutes in the group of RPE (0-6) have more possibilities of having RPE lower than those of any more 10 or 12 minutes. The tasks of attack have more possibilities of having a lower RPE. The characteristics of tasks influence the RPE. More than 8 minutes favor a very high RPE when the presence of attackers and defenders in 1x1 and 2x2 exist (AU)</dc:description>
+<dc:creator>Feu, Segastián</dc:creator>
+<dc:creator>Fuentes Azpiroz, Maite</dc:creator>
+<dc:creator>Refoy Román, Iñaki</dc:creator>
+<dc:creator>Carrillo, Antonio</dc:creator>
+<dc:creator>Calleja González, JulioP</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Con el objetivo de analizar en qué medida las características de las tareas en los juegos reducidos influyen en la percepción de esfuerzo (RPE), y su relación entre el tiempo de juego y la RPE de los diferentes tipos de tareas, diez jugadores de minibasket desarrollaron 50 tareas (10 sesiones de entrenamiento, 450 registros de RPE, 5 registros de 8, 10 o 12 minutos). Basado en la descripción de 7 variables codificadas: objetivo (ataque / defensa /transición), duración: (8 minutos / más de 8 minutos), espacio: (campo completo / medio campo, 1/4 de campo), igualdad numérica: (sin rival / igualdad numérica/ superioridad numérica), transición: (si / no), ayuda del jugador: (si /no), relación entre jugadores: (atacantes[n] x defensores[n]). El análisis no paramétrico y el análisis de la variable RPE en función de las características de la tarea, se aplicó con una regresión logística multinomial. La media de RPE en todas las variables fue de 6.87 ± 1.76. Cuatro de ellas, contribuyeron al modelo: El tiempo de la tarea (X2 = 183.49; df = 8; p &lt; .001), relación entre jugadores (X2 = 63.71; df = 10; p &lt; .001), transición (X2 = 15.37; df = 2; p &lt; .01) y el objetivo (X2 = 9.68; df= 4; p &lt; .05). El % de clasificación del modelo para el grupo RPE (8-9) fue del 90.1 % y para el grupo RPE (0-6), 71.6 %. El porcentaje total de clasificación fue un predictor del 66.4. Las tareas de 8 minutos tuvieron más posibilidades de presentar una RPE más baja que las de más de 10 o 12 minutos. Las tareas de ataque tuvieron más posibilidades de presentar una RPE más baja. Las características de las tares influyeron en la RPE. Más de 8 minutos favorecen una RPE más alta con presencia de atacantes y defensores en situaciones de 1x1 y 2x2 (AU)</dc:description>
+<dc:source>Rev. psicol. deport;24(supl.1): 21-25, 2015. tab</dc:source>
+<dc:identifier>ibc-147264</dc:identifier>
+<dc:title xml:lang="es">Percepcion de esfuerzo en baloncesto de formación durante juegos reducidos</dc:title>
+<dc:subject>^d19084^s22019</dc:subject>
+<dc:subject>^d5178^s22048</dc:subject>
+<dc:subject>^d5178^s22045</dc:subject>
+<dc:subject>^d19084^s22048</dc:subject>
+<dc:subject>^d5178^s22024</dc:subject>
+<dc:subject>^d5178^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d53725^s22045</dc:subject>
+<dc:subject>^d53725^s22011</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d53725^s22074</dc:subject>
+<dc:subject>^d19084^s22011</dc:subject>
+<dc:subject>^d53725^s22048</dc:subject>
+<dc:subject>^d19084^s22031</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201500</dc:date>
+</metadata>
+</record>
+</ibecs-document>

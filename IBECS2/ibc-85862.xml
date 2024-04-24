@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-85862</identifier>
+<setSpec>0365-6691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Automatic detection of vessels in color fundus images</dc:title>
+<dc:description xml:lang="en">Purpose: The main purpose of the paper is to evaluate an automated method for bloodvessels segmentation in color fundus images, due to its important role in the diagnosis ofseveral pathologies such as diabetes. The final objective is to introduce the algorithm intoa Computer Aided Diagnosis (CAD) tool that would be available in those local medicalcenters without specialists.Method: An automated method for blood vessels segmentation in color fundus images wasimplemented and tested. The algorithm starts with the extraction of vessel centerlines,which are used as guidelines for the subsequent vessel filling phase. The outputs of fourdirectional differential operators are processed in order to select connected sets ofcandidate points to be further classified as centerline pixels using vessel derived features.The final segmentation is obtained using an iterative region growing method thatintegrates the contents of several binary images, resulting from vessel width dependentmorphological filters. The method was evaluated using the images of two publicly availabledatabases (STARE and DRIVE) and a database with 24 images.Results: The algorithm outperforms other published algorithms and approximates theaverage accuracy of a human observer without a significant degradation of sensitivity andspecificity. In addition, results have been subject to the experts&#146; valuation that they thinkthat retinal vessels remain represented with valuable accuracy on having analyzed thetest&#146;s images.Conclusion: Due to the good segmentation results, the algorithm proposed could beimplemented as part of a complete CAD tool in the local medical centers. This wouldreduce cost and diagnosis time(AU)</dc:description>
+<dc:creator>Jiménez, S</dc:creator>
+<dc:creator>Foncubierta, A</dc:creator>
+<dc:creator>Fondón, I</dc:creator>
+<dc:creator>Acha, B</dc:creator>
+<dc:creator>Serrano, C</dc:creator>
+<dc:creator>Alemany, P</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Propósito: El propósito de este trabajo es la evaluación de un método automático para lasegmentación del árbol vascular en imágenes de retinografías, dado su importante papelen el diagnóstico de numerosas enfermedades, como la diabetes mellitus. El objetivo finales introducir el algoritmo en una herramienta de diagnóstico asistido por computadora(CAD, del inglés Computer Aided Diagnosis) que estaría disponible en los centros médicoslocales sin especialistas.Método: Se ha implementado y probado un método automático para la segmentación devasos. El algoritmo comienza con la extracción de las líneas centrales de los vasos, que seemplean como guías para la fase posterior de rellenado de vasos. Las salidas de 4 operadoresdireccionales se procesan para obtener conjuntos conexos de puntos candidatos que seclasificarán como píxeles pertenecientes a las líneas centrales mediante característicasderivadas de los vasos. La segmentación final se obtiene empleando un proceso iterativode crecimiento de regiones que integra los contenidos de varias imágenes binarias, resultadode aplicar determinados filtros morfológicos que dependen del ancho del vaso. Elmétodo se ha evaluado empleando las imágenes de 2 bases de datos públicas (STARE yDRIVE) y por una base de datos compuesta por 24 imágenes.Resultados: El algoritmo mejora otras soluciones y se aproxima en precisión a la obtenidapor un observador humano, sin por ello experimentar una degradación de la sensibilidady la especificidad. Asimismo, los resultados del algoritmo se han sometido a la valoraciónde expertos que consideran que los vasos quedan representados con apreciable exactitudal analizar las imágenes de prueba.Conclusión: Dados los buenos resultados obtenidos en la segmentación, el algoritmo propuestopodría implementarse e introducirse en una herramienta CAD disponible en los centrosmédicos locales. La reducción en coste y tiempo de exploración podría ser significativa(AU)</dc:description>
+<dc:source>Arch Soc Esp Oftalmol;85(3): 103-109, mar. 2010. tab, ilus</dc:source>
+<dc:identifier>ibc-85862</dc:identifier>
+<dc:title xml:lang="es">Detección automática de vasos en retinografías</dc:title>
+<dc:subject>^d29235^s22045</dc:subject>
+<dc:subject>^d3954^s22016</dc:subject>
+<dc:subject>^d12587</dc:subject>
+<dc:subject>^d23232^s22045</dc:subject>
+<dc:subject>^d19200^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23232^s22074</dc:subject>
+<dc:subject>^d19200^s22074</dc:subject>
+<dc:subject>^d29235^s22048</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201003</dc:date>
+</metadata>
+</record>
+</ibecs-document>

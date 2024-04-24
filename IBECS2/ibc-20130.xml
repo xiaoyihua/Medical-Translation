@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-20130</identifier>
+<setSpec>1132-8460</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Development of low bone mass risk- factors questionnaire</dc:title>
+<dc:creator>Garcés, M. V</dc:creator>
+<dc:creator>Díaz Curiel, M</dc:creator>
+<dc:creator>Rapado Errazti, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Introducción. La densitometría ósea es la mejor opción para detectar osteoporosis en mujeres postmenopáusicas, aunque su uso puede estar limitado por la disponibilidad del equipo y su coste. La intención de este estudio ha sido desarrollar un cuestionario simple para identificar los factores de riesgo de baja masa ósea y medir el carácter predictivo de osteoporosis de cada factor. Pacientes y métodos. Se realizó un estudio poblacional en forma de encuesta transversal a 105 mujeres postmenopáusicas con edades entre 41 y 86 años. El cuestionario incluía datos de edad, peso y talla de las pacientes, historia de toma de fármacos, años de menopausia, existencia de menopausia precoz, ooforectomía, fractura después de los 50 años, historia familiar de osteoporosis, actividad física, síntomas de demencia, consumo de tabaco, de alcohol y baja ingesta de calcio. La densidad mineral ósea (DMO) de la columna lumbar y cuello femoral se midió usando absorciometría radiológica de doble haz (DXA Hologic 4500), clasificando las mujeres como 'normales' o 'anormales' basado en los criterios de la Organización Mundial de la Salud (OMS). Se realizó análisis de regresión múltiple por el método de entrada de variables por pasos sucesivos (stepwise), usando los valores de DMO como variable dependiente, y como variables independientes, cada uno de los factores evaluados en el cuestionario, además de a edad, el peso, la talla y el índice de masa corporal (IMC), excluyéndose los factores que no mostraban relación con la DMO (p &gt; 0,05). Se desarrolló un sistema simple de puntuación basado en un modelo de regresión: más de diez años de menopausia (5), fractura previa (4), historia familiar de osteoporosis (2), peso ( 60kg:1) y edad (70 o &gt; 70 años:3; 60-69:2; 50-59:1). Resultados. El punto de corte para discriminar entre mujeres normales y con osteopenia fue 5: sensibilidad 59 por ciento; especificidad 71,4 por ciento en columna lumbar y 73,4 por ciento y 65,7 por ciento, respectivamente en cuello de fémur. El punto de corte para discriminar entre mujeres normales y con osteoporosis fue 8: sensibilidad 75,6 por ciento; especificidad 90,5 por ciento en columna lumbar; 86,7 por ciento y 84,6 por ciento, respectivamente en cuello femoral. Conclusiones. El uso de un cuestionario simple en mujeres postmenopáusicas que puntúe los factores de riesgo de masa ósea baja puede ser útil para facilitar el diagnóstico de osteopenia u osteoporosis. Este cuestionario debería ser validado posteriormente con una muestra mayor de mujeres postmenopáusicas y en varones (AU)</dc:description>
+<dc:source>Rev. esp. enferm. metab. óseas (Ed. impr.);12(1): 4-9, ene. 2003. tab</dc:source>
+<dc:identifier>ibc-20130</dc:identifier>
+<dc:title xml:lang="es">Desarrollo de un cuestionario de factores de riesgo de baja masa ósea</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d10205^s22054</dc:subject>
+<dc:subject>^d10205^s22016</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3732</dc:subject>
+<dc:subject>^d24543</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d28608</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200301</dc:date>
+</metadata>
+</record>
+</ibecs-document>

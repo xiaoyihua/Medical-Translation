@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-118110</identifier>
+<setSpec>1137-6821</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Impact of training in medical disaster management: a pilot study using a new tool for live simulation</dc:title>
+<dc:description xml:lang="en">Objectives: The aim of this study was to test a new disaster simulation suite (DSS), evaluating its application during the same type of full-scale exercise on 2 different occasions. Our hypothesis was that the system would allow us to detect differences between trained and no trained physicians during event management. Methods: Players (physicians) were classed as trained or nonrained based on their background in disaster medicine training. We simulated the collapse of a ceiling structure in a crowded room. Using the DSS, we electronically collected data relative to key prehospital and hospital times, triage accuracy, command-and-control and prehospital treatment accuracy. Results: No usability problems arose during either simulation. Trained physicians were (..) (AU)</dc:description>
+<dc:creator>Barra, F. L</dc:creator>
+<dc:creator>Franc, J</dc:creator>
+<dc:creator>Carenzo, L</dc:creator>
+<dc:creator>Colombo, D</dc:creator>
+<dc:creator>Della Corte, F</dc:creator>
+<dc:creator>Ingrassia, P. L</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Probar la nueva aplicación de simulación de desastres (ASD) y evaluar su utilización durante el mismo tipo de ejercicio a gran escala, reproducido en dos ocasiones diferentes. Método: Los jugadores (los médicos) fueron clasificados como entrenados (E) y no entrenados(NE), en base a su formación previa en medicina de desastres. La ASD es una herramienta informática basada en la web, diseñada para permitir una evaluación objetiva, sistemática, y cuantitativa del desempeño sanitario en diferentes entornos dinámicos, tales como ejercicios de atención a accidentes con múltiples víctimas. La hipótesis es que el sistema permite detectar diferencias entre los dos grupos durante la gestión de estos eventos. Hemos simulado el colapso de una estructura, el techo en una habitación llena de gente. El uso de la ASD, por vía electrónica recoge los datos relativos a los momentos clave prehospitalarios y hospitalarios, y a la precisión de triaje, del puesto de mando y control y del pretratamiento en el hospital. Resultados: No hubo problemas durante su uso en las dos simulaciones. Los E fueron más rápidos que los NE en el envío de las víctimas desde  (..) (AU)</dc:description>
+<dc:source>Emergencias (Sant Vicenç dels Horts);25(6): 459-466, dic. 2013. ilus, tab</dc:source>
+<dc:identifier>ibc-118110</dc:identifier>
+<dc:title xml:lang="es">Impacto de la formación en gestión médica de desastres: resultados de un estudio piloto utilizando una nueva herramienta para la simulación in vivo</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d52888^s22019</dc:subject>
+<dc:subject>^d24425^s22045</dc:subject>
+<dc:subject>^d34637</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d34609^s22045</dc:subject>
+<dc:subject>^d34691^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201312</dc:date>
+</metadata>
+</record>
+</ibecs-document>

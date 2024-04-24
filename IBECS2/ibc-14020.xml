@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-14020</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Quality assessment of clinical information: validity of the diagnosis related groups (DRGs)</dc:title>
+<dc:creator>Renau Tomás, Jorge</dc:creator>
+<dc:creator>Pérez Salinas, Isabel</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">OBJETIVOS: El objetivo del trabajo es el estudio de la validez de los GRD asignados a las altas del Servicio de Cirugía del Hospital General de Castellón durante el año 1998, mediante la estimación del porcentaje de errores producidos en la asignación de GRD, la determinación de la variación que ocasiona en el índice case-mix , y la descripción de las causas de los errores. MÉTODOS: Se ha obtenido una muestra de las altas del Servicio de Cirugía. Se ha elaborado un nuevo conjunto mínimo de datos básicos (CMBD) de la muestra mediante la revisión de las historias clínicas, sin conocer cómo fueron codificadas originalmente y se han comparado los resultados con el CMBD de las altas a estudio ya existente en la base de datos del hospital, se analizan las diferencias y las razones de las mismas. RESULTADOS: El análisis mostró un 27,4 por ciento (IC 95 por ciento: 19,3 por ciento a 35,4 por ciento) de GRD mal asignados que han ocasionado una disminución del 0,4 por ciento en el índice casemix del Servicio de Cirugía. CONCLUSIONES: Se describen los motivos responsables de los errores, distinguiendo los debidos al productor de información (clínico) de los ocasionados durante el procesamiento de la información (indización y codificación), al objeto de proponer medidas correctoras (AU)</dc:description>
+<dc:source>Rev. calid. asist;15(4): 230-234, abr. 2000.</dc:source>
+<dc:identifier>ibc-14020</dc:identifier>
+<dc:title xml:lang="es">Evaluacion de la calidad de la información clínica: validez en la asignación de los grupos de diagnosticos relacionados (GRD)</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d28219^s22083</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d13885^s22049</dc:subject>
+<dc:subject>^d25987</dc:subject>
+<dc:subject>^d51780^s22045</dc:subject>
+<dc:subject>^d28377</dc:subject>
+<dc:subject>^d51780^s22048</dc:subject>
+<dc:subject>^d13885^s22011</dc:subject>
+<dc:subject>^d13885^s22066</dc:subject>
+<dc:subject>^d13885^s22060</dc:subject>
+<dc:subject>^d13195</dc:subject>
+<dc:subject>^d35256</dc:subject>
+<dc:subject>^d13885^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200004</dc:date>
+</metadata>
+</record>
+</ibecs-document>

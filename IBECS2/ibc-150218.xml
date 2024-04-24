@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150218</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Multivariate exploratory data analysis: bias assessment</dc:title>
+<dc:description xml:lang="en">The objective of this investigation was to evaluate if the bias of the subjects varied during a stimulus classification task in relation to the presentation format (suns and stars) and to the way the variables were assigned (randomly, ordered according to their correlation in 360º or using a biplot: factorial suns or stars). It was found that there was a significant interaction between the presentation format and the method of assigning variables. In particular, it was found that the subjects made fewer mistakes classifying the factorial suns than the factorial stars. Likewise, they also classified better the ordered suns than the ordered stars. There were no significant differences between the suns and stars when no information regarding the correlation was included (random order) nor between the ordered suns and factorial suns. Lastly, it was also found that the subjects took longer to complete a task with random assignment than one with the factorial representation (AU)</dc:description>
+<dc:creator>López Domínguez, ML</dc:creator>
+<dc:creator>Jurado Muriel, T</dc:creator>
+<dc:creator>Morales Ortiz, Manuel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El objetivo de la presente investigación fue evaluar si el sesgo cometido por los sujetos en una tarea de clasificación de estímulos varió en función del formato de presentación (soles o estrellas) y la forma de asignar las variables (aleatoria, ordenadas según su correlación en 360 grados o representadas en el espacio mediante un biplot: soles o estrellas factoriales). Se encontró que hubo una interacción significativa entre el formato de presentación y la forma de asignar las variables. En concreto, se obtuvo que los sujetos cometieron menos errores cuando clasificaron los soles factoriales que las estrellas factoriales. Asimismo, también clasificaron mejor los soles ordenados que las estrellas ordenadas. Tampoco hubo diferencias significativas entre soles y estrellas cuando no se incluyó ningún tipo de información acerca de las correlaciones (asignación aleatoria), ni entre los soles factoriales y los soles ordenados. Por último, también se obtuvo que los sujetos tardaron más tiempo en completar la tarea en la condición de asignación aleatoria que en la representación factorial (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);12(supl.2): 393-395, 2000. tab</dc:source>
+<dc:identifier>ibc-150218</dc:identifier>
+<dc:title xml:lang="es">Evaluación del sesgo en el análisis exploratorio de datos multivariados</dc:title>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d14027</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24872</dc:subject>
+<dc:subject>^d5690</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200000</dc:date>
+</metadata>
+</record>
+</ibecs-document>

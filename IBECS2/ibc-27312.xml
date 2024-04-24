@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-27312</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Statistical analysis of repetitive nerve stimulation test</dc:title>
+<dc:creator>Pastor, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>César Viguera</dc:publisher>
+<dc:description xml:lang="es">Introducción. Se han estudiado las propiedades estadísticas de las variables más empleadas en el test de estimulación nerviosa repetitiva (cocientes de los potenciales cuarto y primero) junto con dos nuevas variables (tendencias de área y voltaje de las series de potenciales). Objetivo. Determinar qué medida presenta las mejores propiedades estadísticas y comprobar si las nuevas variables estudiadas (tendencias de las series de potenciales) pueden ser útiles en neurofisiología. Sujetos y métodos. Se han estudiado las propiedades de las medidas de voltaje (V4/V1(V)), área (V4/ V1(a)) y las pendientes de las rectas de regresión del área (m(a)) y voltaje (m(V)) para series de potenciales a 3, 10, 15 y 20 Hz, en 13 varones y 17 mujeres sanos. Resultados. 1. La muestra se ajusta bien a una población normal. 2. Las variables que miden tendencias pueden ajustarse bien a rectas de regresión. 3. No se han encontrado diferencias en cuanto al sexo ni la edad para ninguna de las variables. 4. Las variables más estables son las que miden tendencias, en especial m(a). 5. La variable con características más próximas a la normalidad es m(V). 6. Todas las variables tienen un comportamiento lineal en función de la frecuencia. Conclusiones. 1. La transmisión neuromuscular es extraordinariamente estable. 2. A pesar de ser la variable más utilizada, V4/ V1(V) presenta las peores propiedades estadísticas, presentando una considerable variabilidad. 3. Las medidas de tendencias (m(a) y m(V)) presentan propiedades estadísticas óptimas, y podrían ser de gran utilidad en el estudio de la transmisión neuromuscular (AU)</dc:description>
+<dc:source>Rev Neurol;33(12): 1136-1142, dic. 2001.</dc:source>
+<dc:identifier>ibc-27312</dc:identifier>
+<dc:title xml:lang="es">Análisis estadístico del test de estimulación nerviosa repetitiva</dc:title>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d4630</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d34335</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d9661</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200112</dc:date>
+</metadata>
+</record>
+</ibecs-document>

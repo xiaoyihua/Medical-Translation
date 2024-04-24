@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-9717</identifier>
+<setSpec>0001-6640</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Doppler echocardiography</dc:title>
+<dc:creator>Mortera, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Mayo, S.A</dc:publisher>
+<dc:description xml:lang="es">Los avances tecnológicos de los equipos de ultrasonidos permiten realizar en la actualidad estudios anatómicos y funcionales del corazón fetal y de la circulación fetoplacentaria. Se aportan datos sobre instrumentación y técnica, y se especifica la combinación de técnicas de ultrasonidos y Doppler. Se analizan la hemodinámica fetal normal .y su valoración cualitativa mediante Doppler, se describen características ultrasónicas y de Doppler en diversas situaciones patológicas y se comenta la seguridad diagnóstica en las cardiopatías congénitas y en la valoración de la hemodinámica (AU)</dc:description>
+<dc:source>Acta Pediatr Esp;58(3): 183-190, mar. 2000.</dc:source>
+<dc:identifier>ibc-9717</dc:identifier>
+<dc:title xml:lang="es">Ecocardiografía Doppler fetal</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d22261</dc:subject>
+<dc:subject>^d29142^s22045</dc:subject>
+<dc:subject>^d6483^s29166</dc:subject>
+<dc:subject>^d31994^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12437</dc:subject>
+<dc:subject>^d6590^s22031</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d38859^s22031</dc:subject>
+<dc:subject>^d1150^s29166</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200003</dc:date>
+</metadata>
+</record>
+</ibecs-document>

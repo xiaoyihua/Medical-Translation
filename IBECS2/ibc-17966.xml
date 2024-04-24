@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-17966</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Validation of triiodothynine sodium analysis method</dc:title>
+<dc:creator>Ramos Rodrigo, Y</dc:creator>
+<dc:creator>Méndez Fernández, M. J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Arán Ediciones, S.A.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Validar el método analítico por espectrofotometría ultravioleta de la triyodotironina sódica para poder utilizarlo en el control de calidad del polvo diluido de dicho principio activo con el que se elaborarán cápsulas con 25 µg del mismo principio. Material y métodos: Se realiza un análisis por espectrofotometría ultravioleta de la triyodotironina sódica para obtener su espectro. Posteriormente se elabora una solución madre de triyodotironina sódica a partir de la cual se preparan 5 diluciones de diferente concentración para obtener la recta de calibración y estudiar así la linealidad del método. A continuación se seleccionan 3 de las 5 diluciones para realizar los estudios de repititibilidad y reproducibilidad. Para el estudio de la exactitud se preparan 2 soluciones patrones de diferentes concentraciones. Con cada una de ellas se realizan 3 diluciones de diferente concentración. Se miden las absorbancias de los controles de ambas soluciones patrón para poder comparar los resultados obtenidos. Resultados: Se realiza un barrido entre 350 y 200 nm obteniéndose un máximo experimental a 319 nm. El método es lineal para el intervalo de concentraciones considerado (r2= 0,9985).Los coeficientes de variación son en torno al 2 per cent indicando una buena repetitibilidad y reproducibilidad del método. El porcentaje medio de recuperación en muestras de concentración conocida no difiere significativamente del 100 per cent teórico. Conclusión: El método analítico estudiado es suficientemente fiable para producir el resultado previsto dentro de intervalos definidos (AU)</dc:description>
+<dc:source>Farm Hosp;27(1): 26-30, ene. 2003. tab, graf</dc:source>
+<dc:identifier>ibc-17966</dc:identifier>
+<dc:title xml:lang="es">Validación del método analítico de la triyodotironina sódica</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d14683^s22002</dc:subject>
+<dc:subject>^d14683</dc:subject>
+<dc:subject>^d33518</dc:subject>
+<dc:subject>^d13439^s22045</dc:subject>
+<dc:subject>^d12223</dc:subject>
+<dc:subject>^d11646</dc:subject>
+<dc:subject>^d13439</dc:subject>
+<dc:subject>^d2249</dc:subject>
+<dc:subject>^d35256</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200301</dc:date>
+</metadata>
+</record>
+</ibecs-document>

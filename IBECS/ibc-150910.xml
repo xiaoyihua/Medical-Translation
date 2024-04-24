@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150910</identifier>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">ESHOL study reanalysis: All-cause mortality considered by competing risks and time-dependent covariates for renal transplantation</dc:title>
+<dc:description xml:lang="en">Background: The ESHOL study showed that post-dilution online haemodiafiltration (OL-HDF) reduces all-cause mortality versus haemodialysis. However, during the observation period, 355 patients prematurely completed the study and, according to the study design, these patients were censored at the time of premature termination. Methods: The aim of this study was to investigate the outcome of patients who discontinued the study. Results: During follow-up, 207 patients died while under treatment and 47 patients died after discontinuation of the study. Compared with patients maintained on haemodialysis, those randomised to OL-HDF had lower all-cause mortality (12.4 versus 9.46 per 100 patient-years, hazard ratio and 95%CI: 0.76; [0.59-0.98], P= 0.031). For all-cause mortality by time-dependent covariates and competing risks for transplantation, the time-dependent Cox analysis showed very similar results to the main analysis with a hazard ratio of 0.77 (0.60-0.99, P= 0.043). Conclusion: The results of this analysis of the ESHOL trial confirm that post-dilution OL-HDF reduces all-cause mortality versus haemodialysis in prevalent patients. The original results of the ESHOL study, which censored patients discontinuing the study for any reason, were confirmed in the present ITT population without censures and when all-cause mortality was considered by time-dependent and competing risks for transplantation (AU)</dc:description>
+<dc:creator>Torres,  Ferrán</dc:creator>
+<dc:creator>Carreras, Jordi</dc:creator>
+<dc:creator>Mora-Macià, Josep</dc:creator>
+<dc:creator>Maduell, Francisco</dc:creator>
+<dc:creator>Pons, Mercedes</dc:creator>
+<dc:creator>Soler, Jordi</dc:creator>
+<dc:creator>Moreso, Francesc</dc:creator>
+<dc:creator>Ramos, Rosa</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: El estudio ESHOL ha demostrado que la hemodiafiltraciónon line (HDF-OL) posdilución reduce la mortalidad por todas las causas respecto a la hemodiálisis (HD) en pacientes prevalentes. Sin embargo, durante el periodo de observación, 355 pacientes finalizaron prematuramente el estudio, de acuerdo con el diseño del mismo. Estos pacientes fueron censurados en el momento de la finalización prematura. Objetivos: El objetivo de este estudio fue investigar los eventos de los pacientes que abandonaron el estudio. Métodos: Reanalizar los datos de supervivencia utilizando la población por intención de tratar en los 3 años de seguimiento. Los datos fueron analizados considerando también el trasplante renal como evento competitivo de la muerte del paciente. Resultados: Durante el seguimiento, 207 pacientes fallecieron durante el tratamiento y 47 después de abandonar el estudio. Comparados con aquellos pacientes que se mantuvieron en HD, los que fueron aleatorizados a HDF-OL tuvieron una mortalidad total menor (12,4 vs. 9,46 por 100/pacientes/año, hazard ratio [HR] e IC 95%: 0,76 [0,59-0,98]; p=0,031). La mortalidad total por todas las causas, teniendo en consideración el riesgo competitivo del trasplante renal y tiempo-dependiente, mostró en el análisis de Cox tiempo-dependiente resultados similares al análisis principal con un HR de 0,77 (0,60-0,99; p=0,043). Conclusiones: Los resultados del reanálisis del estudio ESHOL se confirman cuando se aplica el análisis en la población por intención de tratar sin censurar ninguna observación y considerando la mortalidad por todas las causas dependiente del tiempo y del riesgo competitivo del trasplante renal (AU)</dc:description>
+<dc:source>Nefrologia;36(2): 156-163, mar.-abr. 2016. graf, tab</dc:source>
+<dc:identifier>ibc-150910</dc:identifier>
+<dc:title xml:lang="es">Reanálisis del estudio ESHOL: mortalidad por todas las causas considerando riesgos de competición y tiempo-dependientes para trasplante renal</dc:title>
+<dc:subject>^d24890</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d50497^s22047</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24842</dc:subject>
+<dc:subject>^d31418^s22047</dc:subject>
+<dc:subject>^d28637^s22066</dc:subject>
+<dc:subject>^d29407^s22047</dc:subject>
+<dc:subject>^d53823^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201604</dc:date>
+</metadata>
+</record>
+</ibecs-document>

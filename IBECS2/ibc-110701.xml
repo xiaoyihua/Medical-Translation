@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-110701</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The problem of repeated measurements. Longitudinal analysis in epidemiology</dc:title>
+<dc:description xml:lang="en">In longitudinal analyses subjects are repeatedly measured along time. They are mixed designs, characterised for their simultaneous consideration of two or more dimensions of analysis, in which time is one of the dimensions. Longitudinal analyses have important advantages with respect other designs. The most important is that they are more efficient, since they allow to distinguish between-individual and within-individual variation. Longitudinal analyses can be approached marginal and conditionally. Where as the former allows to draw poblational, or average, inferences, the latter permits to draw individual inferences. The statistical models to use depend on the type of response variable. If the dependent variable is normally distributed one will use linear mixed models. When the response is a count one will use mixed Poisson regressions. Mixed binomial or multinomial logistic regressions should be used when the response would be categorical (AU)</dc:description>
+<dc:creator>Sáez, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La característica peculiar de los estudios longitudinales es la medición repetida a lo largo del tiempo en cada individuo o sujeto de estudio. En este sentido, son diseños mixtos, caracterizados por considerar simultáneamente dos o más dimensiones de análisis, en los que el tiempo constituye una de ellas. El análisis longitudinal presenta importantes ventajas respecto a otros diseños. La más importante es que son más eficientes, al permitir distinguir variaciones inter e intraindividuales. Cuando se pretenden realizar inferencias promedio o poblaciones, los estudios longitudinales pueden aproximarse usando un enfoque marginal, y para realizar inferencias individualizadas se deben utilizar los enfoques condicionales. Los modelos estadísticos a utilizar dependen del tipo de variable-respuesta analizada. Si se trata de una variable distribuida normalmente, se utilizan modelos lineales mixtos. Cuando la variable-respuesta es cantitativa discreta se utilizan regresiones (mixtas) de Poisson, y regresiones (mixtas) logísticas binominales o multinominales, cuando la variable-respuesta es dicotómica o politómica, respectivamente (AU)</dc:description>
+<dc:source>Gac Sanit;15(4): 347-352, ene.-feb. 2001. ilus, tab</dc:source>
+<dc:identifier>ibc-110701</dc:identifier>
+<dc:title xml:lang="es">El problema de las medidas repetidas. Análisis longitudinal en epidemiología</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d28633</dc:subject>
+<dc:subject>^d28630^s22045</dc:subject>
+<dc:subject>^d24300</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200102</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-102865</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Access control management in electronic health records: a systematic literature review</dc:title>
+<dc:description xml:lang="en">Objective This study presents the results of a systematic literature review of aspects related to access control in electronic health records systems, wireless security and privacy and security training for users. Methods Information sources consisted of original articles found in Medline, ACM Digital Library, Wiley InterScience, IEEE Digital Library, Science@Direct, MetaPress, ERIC, CINAHL and Trip Database, published between January 2006 and January 2011. A total of 1,208 articles were extracted using a predefined search string and were reviewed by the authors. The final selection consisted of 24 articles. Results Of the selected articles, 21 dealt with access policies in electronic health records systems. Eleven articles discussed whether access to electronic health records should be granted by patients or by health organizations. Wireless environments were only considered in three articles. Finally, only four articles explicitly mentioned that technical training of staff and/or patients is required. Conclusion Role-based access control is the preferred mechanism to deploy access policy by the designers of electronic health records. In most systems, access control is managed by users and health professionals, which promotes patients&#146; right to control personal information. Finally, the security of wireless environments is not usually considered. However, one line of research is eHealth in mobile environments, called mHealth (AU)</dc:description>
+<dc:creator>Carrión Señor, Inmaculada</dc:creator>
+<dc:creator>Fernández Alemán, José Luis</dc:creator>
+<dc:creator>Toval, Ambrosio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo Este trabajo presenta los resultados de una revisión sistemática de la literatura relacionada con aspectos del control de acceso en sistemas de historias clínicas electrónicas, la seguridad en entornos inalámbricos y la formación de los usuarios de dichos sistemas en temas de privacidad y seguridad. Métodos Como fuente de información se utilizaron artículos originales encontrados en las bases de datos Medline, ACM Digital Library, Wiley InterScience, IEEE Digital Library, Science@Direct, MetaPress, ERIC, CINAHL y Trip Database, publicados entre enero de 2006 y enero de 2011. Se extrajeron 1208 artículos usando una cadena de búsqueda predefinida, y el resultado fue revisado por los autores. El resultado final de la selección fue de 24 artículos.Resultados21 de los artículos encontrados mencionaban las políticas de acceso a los sistemas de historias clínicas electrónicas. Once artículos discuten si deben ser las personas o las entidades quienes concedan los permisos en las historias clínicas electrónicas. Los entornos inalámbricos sólo se consideran en tres artículos. Finalmente, sólo cuatro citan expresamente que es necesaria la formación técnica de los usuarios. Conclusiones El control de acceso basado en roles es el mecanismo preferido para implementar la política de acceso por los diseñadores de historias clínicas electrónicas. El control de acceso es gestionado por usuarios y profesionales médicos en la mayoría de los sistemas, lo que promulga el derecho del paciente a controlar su información. Por último, la seguridad en entornos inalámbricos no es considerada en muchos casos, y sin embargo, una línea de investigación es la eSalud en entornos móviles, conocida como mHealth. (AU)</dc:description>
+<dc:source>Gac Sanit;26(5): 463-468, sep-oct. 2012. ilus, tab</dc:source>
+<dc:identifier>ibc-102865</dc:identifier>
+<dc:title xml:lang="es">Gestión del control de acceso en historiales clínicos electrónicos: revisión sistemática de la literatura</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d30180^s22074</dc:subject>
+<dc:subject>^d3243^s22048</dc:subject>
+<dc:subject>^d5703^s22049</dc:subject>
+<dc:subject>^d53712</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d19243^s22049</dc:subject>
+<dc:subject>^d36354</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201210</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-25820</identifier>
+<setSpec>0014-2565</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Recurrent tuberculosis in patients with coinfection by HIV</dc:title>
+<dc:creator>Martínez González, J</dc:creator>
+<dc:creator>García Ordóñez, M. Á</dc:creator>
+<dc:creator>Colmenero Castillo, J. D</dc:creator>
+<dc:creator>Jiménez Oñate, F</dc:creator>
+<dc:creator>Orihuela Cañadas, F</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivos. Analizar e identificar factores asociados a la recurrencia de la tuberculosis (TB) en pacientes infectados por el virus de la inmunodeficiencia humana (VIH). Pacientes y métodos. Se seleccionaron pacientes infectados por VIH diagnosticados de TB entre 1995-2000 y que completaron el tratamiento correctamente. Se compararon aquellos pacientes que presentaron una recurrencia de enfermedad tuberculosa con los que no lo hicieron. Se realizó análisis multivariante por regresión logística para identificar factores asociados a un nuevo episodio de TB. Resultados. De un total de 223 pacientes infectados por VIH diagnosticados de TB, 159 (71,3 por ciento) completaron adecuadamente el tratamiento y fueron considerados curados. El resto fueron excluidos por fallecer antes de completar el tratamiento (5,8 por ciento), perdidos en el seguimiento (11,7 por ciento), abandono terapéutico (9,4 por ciento) y fracaso terapéutico (1,8 por ciento). De los 159 pacientes evaluables, 14 (8,8 por ciento) presentaron posterior recurrencia. Los pacientes con TB recurrente presentaron un mayor grado de inmunodepresión, más eventos previos diagnósticos de sida y mayor frecuencia de TB extrapulmonar en el episodio inicial. Tras el análisis multivariante, un recuento de linfocitos CD4 inferior a 100/mm3 en el primer episodio de TB se asoció con enfermedad tuberculosa recurrente (odds ratio [OR]: 4,6; intervalo de confianza [IC] 95 por ciento:1,3-18,2). En los episodios recurrentes la mortalidad fue alta (35,7 por ciento).Conclusiones. La recurrencia de TB en pacientes coinfectados por VIH ocurre en individuos con inmunodepresión profunda y se asocia a una alta mortalidad (AU)</dc:description>
+<dc:source>Rev Clin Esp;203(6): 279-283, jul. 2003.</dc:source>
+<dc:identifier>ibc-25820</dc:identifier>
+<dc:title xml:lang="es">Tuberculosis recurrente en pacientes coinfectados por VIH</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d24718</dc:subject>
+<dc:subject>^d29415</dc:subject>
+<dc:subject>^d14798</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d999</dc:subject>
+<dc:subject>^d12428</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d30472</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200307</dc:date>
+</metadata>
+</record>
+</ibecs-document>

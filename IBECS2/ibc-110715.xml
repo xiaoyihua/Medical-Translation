@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-110715</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Negative binomial distribution versus Poisson in the analysis of recurrent phenomena</dc:title>
+<dc:description xml:lang="en">Objective: The aim is to unfold the difficulties likely to arise in risk calculations through aggregated database when the studied phenomenon is recurrent and to display the negative binomial distribution as a valid and simple alternative to analyse this kind of phenomenon. Methods: When the studied phenomenon is recurrent, the analysis by means of the Poisson regression can provoke overdispersion or extra-poisson variance, what leads to underestimating the standard errors in coefficients and may divert into the statistical significance of factors which as a matter of fact are not associated with the phenomenon beforehand. The negative binomial can grasp part of the variance which the Poissonis unable to identify. In order to check this out, the fit of both distributions were compared, based on the number of hospitalizations of individuals aged between 65 and 69, during (..) (AU)</dc:description>
+<dc:creator>Utzet, F</dc:creator>
+<dc:creator>Caminal, J</dc:creator>
+<dc:creator>Puig, P</dc:creator>
+<dc:creator>Navarro, A</dc:creator>
+<dc:creator>Martín, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Exponer la posible problemática en el cálculo de riesgos en bases de datos agregadas cuando el fenómeno estudiado es recurrente y presentar la distribución binomial negativa como una alternativa válida y sencilla para analiza reste tipo de fenómeno. Métodos: En el contexto de los fenómenos recurrentes, el análisis mediante la regresión de Poisson puede provocar sobredispersión o variancia extra-Poisson. Esto conduce a la subestimación de los errores estándares de los coeficientes, pudiendo derivar en la significación estadística de factores que realmente no estén asociados con el fenómeno. La binomial negativa puede captar parte de la variancia que no identifica la regresión de Poisson. Para comprobarlo se comparó ambas distribuciones sobre el número de hospitalizaciones que presentaron individuos, entre 65 y 69 años de edad, durante el (..) (AU)</dc:description>
+<dc:source>Gac Sanit;15(5): 447-452, sept.-oct. 2001. ilus, tab</dc:source>
+<dc:identifier>ibc-110715</dc:identifier>
+<dc:title xml:lang="es">La distribución binomial negativa frente a lade Poisson en el análisis de fenómenos recurrentes</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d24838</dc:subject>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d24538</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200110</dc:date>
+</metadata>
+</record>
+</ibecs-document>

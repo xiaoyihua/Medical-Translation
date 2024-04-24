@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-157884</identifier>
+<setSpec>1138-3593</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Use of multiple regression models in observational studies (1970-2013) and requirements of the STROBE guidelines in Spanish scientific journals</dc:title>
+<dc:description xml:lang="en">Background. In medicine and biomedical research, statistical techniques like logistic, linear, Cox and Poisson regression are widely known. The main objective is to describe the evolution of multivariate techniques used in observational studies indexed in PubMed (1970-2013), and to check the requirements of the STROBE guidelines in the author guidelines in Spanish journals indexed in PubMed. Methods. A targeted PubMed search was performed to identify papers that used logistic linear Cox and Poisson models. Furthermore, a review was also made of the author guidelines of journals published in Spain and indexed in PubMed and Web of Science. Results. Only 6.1% of the indexed manuscripts included a term related to multivariate analysis, increasing from 0.14% in 1980 to 12.3% in 2013. In 2013, 6.7, 2.5, 3.5, and 0.31% of the manuscripts contained terms related to logistic, linear, Cox and Poisson regression, respectively. On the other hand, 12.8% of journals author guidelines explicitly recommend to follow the STROBE guidelines, and 35.9% recommend the CONSORT guideline. Conclusions. A low percentage of Spanish scientific journals indexed in PubMed include the STROBE statement requirement in the author guidelines. Multivariate regression models in published observational studies such as logistic regression, linear, Cox and Poisson are increasingly used both at international level, as well as in journals published in Spanish (AU)</dc:description>
+<dc:creator>Martínez-Sánchez, JM</dc:creator>
+<dc:creator>Cleries, R</dc:creator>
+<dc:creator>Roso-Llorach, A</dc:creator>
+<dc:creator>Real, J</dc:creator>
+<dc:creator>Forné, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamentos. En el ámbito de la investigación médica los modelos de regresión logística, lineal, Cox y Poisson son técnicas estadísticas ampliamente conocidas. El objetivo de este trabajo es describir la evolución de estas técnicas de regresión en los artículos observacionales indexados en PubMed (1970-2013) y revisar los requerimientos de las normas de autor de revistas españolas para conocer si requieren el cumplimiento de la guía STROBE. Métodos. Se realizó una búsqueda dirigida en PubMed para identificar los artículos que utilizaron modelos de regresión logística, lineal, Cox y Poisson. Además, se revisaron las normas de autor de las revistas editadas en España indexadas en PubMed e incluidas en Web Of Science. Resultados. El 6,1% de los artículos de estudios observacionales contenían algún término relativo a los modelos seleccionados, pasando del 0,14% en 1980 hasta un 12,3% en 2013. Este último año, un 6,7% de los artículos contenían algún término referido a regresión logística, un 2,5% a lineal, un 3,5% a Cox y un 0,31% a Poisson. Por otro lado, el 12,8% de las normas de autor de las revistas revisadas recomendaban explícitamente seguir la guía STROBE, y el 35,9%, la guía CONSORT. Conclusiones. Los modelos de regresión multivariantes en estudios observacionales publicados, tales como la regresión logística, lineal, Cox y Poisson, son cada vez más utilizados tanto a nivel global como en revistas publicadas en lengua española. Además, un porcentaje bajo de las revistas científicas españolas indexadas en PubMed incluyen en las normas de autoría el requerimiento de la guía STROBE (AU)</dc:description>
+<dc:source>SEMERGEN, Soc. Esp. Med. Rural Gen. (Ed. Impr.);42(8): 523-529, nov.-dic. 2016. tab, graf</dc:source>
+<dc:identifier>ibc-157884</dc:identifier>
+<dc:title xml:lang="es">Utilización de los modelos de regresión múltiple en estudios observacionales (1970-2013) y requerimiento de la guía STROBE en revistas científicas españolas</dc:title>
+<dc:subject>^d24838</dc:subject>
+<dc:subject>^d38905^s22074</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d24769</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24842</dc:subject>
+<dc:subject>^d30706</dc:subject>
+<dc:subject>^d10697^s22048</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201612</dc:date>
+</metadata>
+</record>
+</ibecs-document>

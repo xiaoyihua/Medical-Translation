@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-31952</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Real time PCR</dc:title>
+<dc:creator>Costa, Josep</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Hoy en día, la reacción en cadena de la polimerasa (PCR) se utiliza normalmente en la rutina asistencial de la mayoría de nuestros laboratorios, pero su empleo se ha limitado, con pocas excepciones, al campo de la virología y en especial a un reducido grupo de virus con gran interés económico, para los que se dispone de ensayos comerciales bien estandarizados. Por diversas razones, la PCR convencional se ha implementado poco en el diagnóstico de otras muchas enfermedades infecciosas a pesar de aportar indudables ventajas. La PCR a tiempo real combinada con los nuevos sistemas automáticos para la purificación de ácidos nucleicos, ofrece una plataforma ideal para el desarrollo de una gran variedad de pruebas moleculares para la identificación y cuantificación de los agentes infecciosos de interés clínico. Debido a sus indudables ventajas, como la facilidad de empleo, la mayor rapidez o el menor riesgo de contaminación, la PCR a tiempo real, irá reemplazando la PCR convencional y se extenderá a un amplio abanico de aplicaciones microbiológicas (AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;22(5): 299-305, mayo 2004.</dc:source>
+<dc:identifier>ibc-31952</dc:identifier>
+<dc:title xml:lang="es">Reacción en cadena de la polimerasa (PCR) a tiempo real</dc:title>
+<dc:subject>^d23616</dc:subject>
+<dc:subject>^d7414</dc:subject>
+<dc:subject>^d29207</dc:subject>
+<dc:subject>^d5588</dc:subject>
+<dc:subject>^d19133</dc:subject>
+<dc:subject>^d29949</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d15175</dc:subject>
+<dc:subject>^d28320</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200405</dc:date>
+</metadata>
+</record>
+</ibecs-document>

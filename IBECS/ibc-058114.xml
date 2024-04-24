@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-058114</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Influence of recording mode (unipolar or bipolar) on the spectral characteristics of epicardial recordings in ventricular fibrillation. An experimental study</dc:title>
+<dc:description xml:lang="en">Introduction and objectives. The aim of this study was to examine the hypothesis that the recording mode (i.e., unipolar or bipolar) affects the information obtained using spectral analysis techniques during ventricular fibrillation by carrying out an experiment using epicardial electrodes. Methods. Recordings of ventricular fibrillation were obtained in 29 isolated rabbit hearts using a multiple-electrode probe located on the left ventricular free wall. The parameter values obtained in the frequency domain (by Fourier analysis) using unipolar or bipolar electrodes, different interelectrode distances, and different orientations (i.e., horizontal, vertical or diagonal) were compared. Results. Changing the recording mode (i.e., unipolar to bipolar) or the interelectrode distance significantly altered the mean frequency (P&lt;.0001) and the normalized energy of the spectrum (±1 Hz) around the dominant frequency (P&lt;.05), though the changes were small relative to the dominant frequency. Cross-spectral analysis showed that the coherence between unipolar recordings decreased as the interelectrode distance increased, while the opposite occurred with the coherence between unipolar and bipolar recordings. The two coherences were inversely correlated such that the greater the former coherence, the less the coherence between unipolar and bipolar recordings (r=0.29; P&lt;.0001; n=348). Conclusions. The recording mode (i.e., unipolar or bipolar) used influenced the information obtained using spectral analysis techniques from epicardial recordings of ventricular fibrillation. Differences were observed in the mean frequency and in the frequency distribution, but they were very small relative to the dominant frequency (AU)</dc:description>
+<dc:creator>Cánoves, Joaquín</dc:creator>
+<dc:creator>Such, Luis</dc:creator>
+<dc:creator>Mainar, Luis</dc:creator>
+<dc:creator>Chorro, Francisco J</dc:creator>
+<dc:creator>Ferrero, Ángel</dc:creator>
+<dc:creator>Guerrero, Juan</dc:creator>
+<dc:creator>García-Alberola, Arcadio</dc:creator>
+<dc:creator>Such-Miquel, Luis</dc:creator>
+<dc:creator>Trapero, Isabel</dc:creator>
+<dc:creator>Bodí, Vicente</dc:creator>
+<dc:creator>Sanchís, Juan</dc:creator>
+<dc:creator>Alberola, Antonio</dc:creator>
+<dc:creator>Pelechano, Francisca</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos. Se evalúa la hipótesis de que el tipo de registro (unipolar o bipolar) influye en la información obtenida mediante técnicas espectrales durante la fibrilación ventricular en un modelo experimental que utiliza electrodos epicárdicos. Métodos. En 29 corazones aislados de conejo se obtienen registros de la fibrilación ventricular con un electrodo múltiple situado en la pared libre del ventrículo izquierdo. Se comparan los parámetros obtenidos en el dominio de la frecuencia (análisis de Fourier) al utilizar electrodos unipolares o bipolares con varias separaciones entre los electrodos en distintas direcciones (horizontal, vertical o diagonales). Resultados. La modalidad de registro (unipolar o bipolar) y la separación entre los electrodos han introducido diferencias significativas en la frecuencia media (p &lt; 0,0001) y en la energía normalizada del espectro alrededor de la frecuencia dominante (± 1 Hz) (p &lt; 0,05), pero éstas han sido mínimas al considerar la frecuencia dominante. En el análisis espectral cruzado, se ha observado que la coherencia entre los registros unipolares disminuye al aumentar la separación entre los electrodos, mientras que ocurre lo contrario al analizar la coherencia entre los unipolares y los bipolares. Ambas coherencias se correlacionan inversamente, de tal modo que cuanto mayor es la primera menor es la de los unipolares respecto a los bipolares (r = 0,29; p &lt; 0,0001; n = 348). Conclusiones. El tipo de registro utilizado (unipolar o bipolar) introduce variaciones en la información obtenida mediante técnicas espectrales en los registros epicárdicos de la fibrilación ventricular. Estas diferencias se observan en la frecuencia media y en la distribución de frecuencias del espectro, pero son muy pequeñas al considerar la frecuencia dominante (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;60(10): 1059-1069, oct. 2007. ilus, tab</dc:source>
+<dc:identifier>ibc-058114</dc:identifier>
+<dc:title xml:lang="es">Influencia del tipo de registro (unipolar o bipolar) en las características espectrales de los registros epicárdicos de la fibrilación ventricular. Estudio experimental</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d12256</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d35411</dc:subject>
+<dc:subject>^d15100^s22016</dc:subject>
+<dc:subject>^d35391^s22045</dc:subject>
+<dc:subject>^d5717</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200710</dc:date>
+</metadata>
+</record>
+</ibecs-document>

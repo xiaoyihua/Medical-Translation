@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-105938</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Population pharmacokinetics of gemcitabine applied to personalize the dosage used in cancer patients</dc:title>
+<dc:description xml:lang="en">Objective: To develop and internally validate a population pharmacokinetic model for gemcitabine and its metabolite 2&#146;,2&#146;-di&amp;#64258;uorodeoxyuridine (dFdU); and to evaluate its predictive perfomance for personalizing the dosage used in cancer patients. Methods: Gemcitabine and dFdU plasma concentrations were determined in 18 cancer patients. A 2-compartment pharmacokinetic model was implemented in the NONMEN VI program to determine the appropriate pharmacokinetic parameters. The power to identify the parameters was assessed by parametric bootstrap, and the internal model validation was performed using nonparametric bootstrap and visual and numerical predictive check methods. The &amp;#64257;nal predictive performance of the model was assessed for accuracy and precision during the &amp;#64257;rst (a priori)and second (a posteriori) chemotherapy cycles. Results: The mean and interpatient variability of gemcitabine and dFdU clearance was2.70L/min (31.0%) and 0.0515L/min (35.8%), respectively. The estimated distribution volumeat steady state was 30L for gemcitabine and 238L for dFdU. Internal validation con&amp;#64257;rmed that the population pharmacokinetic model was appropriate for describing the plasma concentrations of gemcitabine and dFdU over time, as well as its variability in the study population. The accuracy and precision of a posteriori gemcitabine plasma concentrations improved by 67% and46%, respectively, compared to the a priori prediction. Conclusion: The population pharmacokinetic model adequately characterised the gemcitabine and dFdU plasma concentrations in the study population over time, and can be used to accurately and precisely optimise gemcitabine dosing regimens in cancer patients (AU)</dc:description>
+<dc:creator>Escudero-Ortiz, V</dc:creator>
+<dc:creator>Valenzuela, B</dc:creator>
+<dc:creator>Pérez-Ruixo, J. J</dc:creator>
+<dc:creator>Duart-Duart, M. J</dc:creator>
+<dc:creator>Ramón-López, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Desarrollar y validar internamente un modelo farmacocinético poblacional para gemcitabina y su metabolito 2&#146;,2&#146;-difluorodeoxiuridina (dFdU) y evaluar su capacidad predictiva en la personalización de la dosificación de gemcitabina en pacientes oncológicos. Métodos Las concentraciones plasmáticas de gemcitabina y dFdU se determinaron en 18 pacientes oncológicos. Se determinaron los parámetros farmacocinéticos correspondientes a un modelo farmacocinético bicompartimental mediante el programa NONMEN VI. La capacidad para identificar los parámetros se evaluó mediante bootstrap paramétrico. La validación interna del modelo se realizó mediante bootstrap no paramétrico, visual y numerical predictive check. La capacidad predictiva del modelo final se evaluó en términos de precisión y exactitud durante el primer (a priori) y segundo (a posteriori) ciclo de quimioterapia. Resultados El valor medio y la variabilidad interpaciente del aclaramiento de gemcitabina y de dFdU es de 2,70 l/min (31,0%) y 0,0515 l/min (35,8%), respectivamente. El volumen de distribución de gemcitabina y dFdU estimado en estado equilibrio estacionario es de 30 y 238 l, respectivamente. La validación interna confirma que el modelo farmacocinético poblacional resulta adecuado para describir la evolución temporal de las concentraciones plasmáticas de gemcitabina y dFdU, así como su variabilidad en la población de estudio. La exactitud y la precisión a posteriori de las concentraciones plasmáticas de gemcitabina mejoran un 67% y un 46%, respectivamente, respecto a la predicción a priori. Conclusión El modelo farmacocinético poblacional desarrollado caracteriza adecuadamente la evolución temporal de las concentraciones plasmáticas de gemcitabina y dFdU en la población de estudio y puede utilizarse de forma exacta y precisa para optimizar las pautas posológicas de gemcitabina en pacientes oncológicos (AU)</dc:description>
+<dc:source>Farm Hosp;36(4): 194-206, jul. -ago. 2012. ilus, tab</dc:source>
+<dc:identifier>ibc-105938</dc:identifier>
+<dc:title xml:lang="es">Farmacocinética poblacional de gemcitabina aplicada a la personalización de su dosificación en pacientes oncológicos</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28635</dc:subject>
+<dc:subject>^d974^s22079</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22431</dc:subject>
+<dc:subject>^d23224</dc:subject>
+<dc:subject>^d52841^s22002</dc:subject>
+<dc:subject>^d3578^s22079</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201208</dc:date>
+</metadata>
+</record>
+</ibecs-document>

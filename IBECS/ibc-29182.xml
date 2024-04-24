@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-29182</identifier>
+<setSpec>0212-1611</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The importance of data</dc:title>
+<dc:description xml:lang="en">Decisions have to be made about what data on patient characteristics and processes and outcome need to be collected, and standard definitions of these data items need to be developed to identify data quality concerns as promptly as possible and to establish ways to improve data quality. The usefulness of any clinical database depends atrongly on the quality of the collected data. If the data quality is poor, the results of studies using the database might be biased and unreliable. Furthermore, if the quality of the database has not been verified, the results might be given little credence, especially if they are unwelcome or unexpected. To assure the quality of clinical database is essential the clear definition of the uses to which the database is going to be put; the database should to be developed that is comprehensive in terms of its usefulness but limited in its size (AU)</dc:description>
+<dc:publisher>Grupo Aula Médica, S.A.</dc:publisher>
+<dc:description xml:lang="es">Las decisiones sobre características de pacientes, tratamientos y cuidados deben ser recogidas y para ello deben desarrollarse definiciones estándar que permitan recoger los datos en los llamados registros o bases de datos que permitirán, básicamente, identificar y mejorar la calidad de los servicios. La importancia de las bases de datos clínicas depende de la calidad de las mismas. Si éstas son pobres, los resultados de los estudios que las han utilizado pueden ser sesgados y de poca confianza. Además, si la calidad de los datos registrados no ha sido verificada, la credibilidad de los mismos puede verse minimizada. Para asegurar la calidad de los datos es esencial definir lo más explícitamente posible los usos que se pretenden del registro. El desarrollo del registro debe ser comprensible en relación a su uso pero limitado en su tamaño (AU)</dc:description>
+<dc:source>Nutr Hosp;19(1): 11-13, ene. 2004.</dc:source>
+<dc:title xml:lang="es">La importancia de los datos</dc:title>
+<dc:type>article</dc:type>
+<dc:creator>Planas, M</dc:creator>
+<dc:creator>Lecha, M</dc:creator>
+<dc:creator>Rodríguez, T</dc:creator>
+<dc:language>es</dc:language>
+<dc:identifier>ibc-29182</dc:identifier>
+<dc:subject>^d32108</dc:subject>
+<dc:subject>^d28219</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28905</dc:subject>
+<dc:subject>^d27794</dc:subject>
+<dc:date>200401</dc:date>
+</metadata>
+</record>
+</ibecs-document>

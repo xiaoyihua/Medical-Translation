@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-167510</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">A study of power and type I error rate to the likelihood ratio statistics in IRT</dc:title>
+<dc:description xml:lang="en">In this report we studied the power (and the type I error rate) of the likelihood ratio statistic used in BILOG (v. 3.04) to prove de fit of the model to the items. For this, we used a test size fixed (75 items) and four sample sizes (100, 250, 500 and 1000). Further, we used three ability distributions: one centered N(0,1) and another two noncentered: N(-1,1) and N(1,1). We also manipulated the mean discrimination in 25 of 75 items in six conditions (.3, .6, 1.0, 1.2, 1.5 and 1.8). The results showed that the power of the likelihood ratio statistic is low when the sample size was 100, although the discrimination parameter was .3 or 1.8. The power increased with the sample size, although this statistic cannot detect items that not follow the 1-p model, independently if the discrimination parameter was 1.0, 1.2 or 1.5. Finally, the type I error rate adjusted to the nominal levels, except when the sample size was high (AU)</dc:description>
+<dc:creator>Hidalgo Montesinos, M Dolores</dc:creator>
+<dc:creator>López Pina, José Antonio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En este estudio tratamos de probar la potencia (y tasa de error tipo I) del estadístico de razón de verosimilitud utilizado en BILOG (v. 3.04) para probar el ajuste de un modelo especificado a un ítem concreto. El modelo seleccionado es el modelo de 1-p. Para ello, utilizamos un tamaño de test fijo (75 ítems), y cuatro tamaños muestrales (100, 250, 500 y 1000). Además, utilizamos tres distribuciones de habilidad: una centrada N(0,1), y las otras dos no centradas: N(-1,1) y N(1,1). Para estudiar la potencia del estadístico de razón de verosimilitud hemos procedido a manipular el parámetro de discriminación en 25 ítems de los 75 que forman el test, de tal suerte que utilizamos seis niveles de discriminación media: (.3, .6, 1.0, 1.2, 1.5 y 1.8). Los resultados apuntan que la potencia del estadístico de razón de verosimilitud es muy baja cuando el tamaño muestral fue de sólo 100 sujetos, aun cuando el parámetro de discriminación fuera .3 ó 1.8. La potencia aumentó con el tamaño muestral apreciablemente, aunque el estadístico fue incapaz de detectar ítems cuyo parámetro de discriminación fue 1.0, 1.2 ó 1.5. Finalmente, la tasa de error tipo I se mantuvo dentro de los niveles nominales, excepto cuando el tamaño muestral fue elevado, tal como era de esperar (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);13(2): 330-334, mayo 2001. tab</dc:source>
+<dc:identifier>ibc-167510</dc:identifier>
+<dc:title xml:lang="es">Un estudio de potencia y tasa de error tipo I del estadístico de razón de verosimilitud en la TRI</dc:title>
+<dc:subject>^d12026^s22083</dc:subject>
+<dc:subject>^d12031^s22083</dc:subject>
+<dc:subject>^d24768</dc:subject>
+<dc:subject>^d24535</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9150</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200105</dc:date>
+</metadata>
+</record>
+</ibecs-document>

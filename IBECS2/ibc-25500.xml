@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-25500</identifier>
+<setSpec>1130-2399</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Accumulated fluid balance in patients admitted to the ICU: is it really reliable?</dc:title>
+<dc:creator>Mendoza Delgado, Dolores</dc:creator>
+<dc:creator>Gil Cama, Ana</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">En la mayoría de los libros de texto se considera que el balance calculado a partir de los ingresos y las pérdidas medidas y/o estimadas, es una forma inexacta de establecer el balance real, y por ello se recomienda la monitorización diaria de las variaciones ponderales como única alternativa posible. Por otro lado, existen pocos estudios que hayan estudiado con rigor la fiabilidad del balance hídrico calculado, y además, no hemos encontrado ningún estudio en enfermos críticos de media-larga estancia. Estas circunstancias nos han motivado para diseñar un estudio prospectivo observacional que nos permitiera conocer si el balance acumulado calculado a partir de ingresos y pérdidas refleja adecuadamente los cambios ponderales en enfermos de media-larga estancia. Incluimos 20 enfermos que se pesaron cada 48 h (al menos 3 veces cada uno) y contrastamos los cambios ponderales con los balances calculados. Encontramos que, sobre todo a partir del sexto día, el balance acumulado calculado reflejó adecuadamente los cambios ponderales (error medio/día &lt; 250 ml), independientemente de la presencia o no de fiebre, sudor, dieta oral, heces o ventilación mecánica. Cuando el peso al ingreso en UCI fue menor de 75 kg, los cambios en el balance calculado se ajustaron aún más al cambio ponderal, y sucedía lo contrario cuando el peso superaba los 75 kg. Estos hallazgos sugieren que el balance acumulado calculado representa una alternativa válida al pesaje diario de los enfermos, y que factores como la masa y/o la superficie corporal deben ser tenidos en cuenta para alcanzar estimaciones más exactas (AU)</dc:description>
+<dc:source>Enferm Intensiva;14(4): 148-155, oct. 2003.</dc:source>
+<dc:identifier>ibc-25500</dc:identifier>
+<dc:title xml:lang="es">Balance líquido acumulado en los enfermos ingresados en la UCI: ¿es realmente fiable?</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d7530</dc:subject>
+<dc:subject>^d1860</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d9183</dc:subject>
+<dc:subject>^d15271</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200310</dc:date>
+</metadata>
+</record>
+</ibecs-document>

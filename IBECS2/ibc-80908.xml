@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-80908</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Additive effect of multiple genetic variants on the risk of coronary artery disease</dc:title>
+<dc:description xml:lang="en">Introduction and objectives. Coronary artery disease (CAD) has a substantial genetic component and, in recent years, a number of genetic variants associated with the disease have been identified. The objective of this study was to evaluate the magnitude of the association between a genetic risk score, which is based on the accumulated number of risk alleles in all genetic variants of interest, and the presence of CAD. Methods. The study involved in silico data from the Wellcome Trust Case-Control Consortium on 1988 patients with CAD and 5380 controls. The association between the genetic risk score and CAD was assessed using logistic regression analysis. Results. Nine genetic variants independently associated with CAD irrespective of other cardiovascular risk factors were selected. There was a linear association between the number of risk alleles and the risk of presenting with CAD (odds ratio [OR] for an increase of one allele=1.18; 95% confidence interval [CI], 1.15-1.22; P=2 x 10 -16). The OR for CAD for the last quintile of the accumulated number of risk alleles relative to the first was 2.21 (95%CI, 1.87-2.61; P=5 x 10-21). Conclusions. A genetic risk score based on nine genetic variants independently associated with CAD irrespective of other cardiovascular risk factors was associated with the presence of the disease. Cohort studies are needed to determine whether this genetic risk score can improve the predictive capacity or the risk classification of classical risk functions (AU)</dc:description>
+<dc:creator>Lucas, Gavin</dc:creator>
+<dc:creator>Elosua, Roberto</dc:creator>
+<dc:creator>Lluís-Ganella, Carla</dc:creator>
+<dc:creator>Subirana, Isaac</dc:creator>
+<dc:creator>Marrugat, Jaume</dc:creator>
+<dc:creator>Sentí, Mariano</dc:creator>
+<dc:creator>Jimenez-Conde, Jordi</dc:creator>
+<dc:creator>Tomás, Marta</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos. La cardiopatía isquémica (CI) tiene un componente genético significativo y en los últimos años se han identificado variantes genéticas asociadas con ella. El objetivo de este estudio fue evaluar la magnitud de la asociación entre una puntuación individual de riesgo genético, basada en el número de alelos de riesgo acumulados en un conjunto de variantes genéticas de interés, y la presencia de CI. Métodos. Estudio de los datos in silico del consorcio de casos y controles del Wellcome Trust. Se incluyó a 1.988 pacientes con CI y 5.380 controles. Se analizó la asociación entre una puntuación de riesgo genética y CI mediante regresión logística. Resultados. Se seleccionaron nueve variantes genéticas asociadas con CI de forma independiente de los factores de riesgo. Existe una asociación lineal entre el número de alelos de riesgo y el riesgo de sufrir CI: odds ratio (OR) por incremento de alelo = 1,18 (intervalo de confianza [IC] del 95%, 1,15-1,22; p = 2 x 10-16). La OR de CI del último quintil del número de alelos de riesgo acumulados respecto al primero fue 2,21 (IC del 95%, 1,87-2,61; p = 5 x 10-21). Conclusiones. Las nueve variantes genéticas asociadas con CI independientemente de los factores de riesgo cardiovascular permiten crear una puntuación de riesgo genético de CI que se asocia con la presencia de la enfermedad. Es necesario realizar estudios de cohorte que analicen si esta puntuación genética puede mejorar la capacidad predictiva o la reclasificación de las funciones de riesgo clásicas (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;63(8): 925-933, ago. 2010. tab, ilus</dc:source>
+<dc:identifier>ibc-80908</dc:identifier>
+<dc:title xml:lang="es">Efecto aditivo de diferentes variantes genéticas en el riesgo de cardiopatía isquémica</dc:title>
+<dc:subject>^d30650^s29166</dc:subject>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d2356^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30650^s22033</dc:subject>
+<dc:subject>^d30650^s22012</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24551</dc:subject>
+<dc:subject>^d485</dc:subject>
+<dc:subject>^d30853^s22045</dc:subject>
+<dc:subject>^d24811</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201008</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-141579</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Evaluation and optimization of the Sysmex UF1000i system for the screening of urinary tract infection in primary health care elderly patients</dc:title>
+<dc:description xml:lang="en">Objective: Urinary tract infections (UTIs) are a common problem in the elderly population. Urine culture is still considered the &#147;gold standard&#148; to diagnose infection in this population. However, urine cultures are laborious and costly, and most samples will yield no growth. Methods: An evaluation was made of the Sysmex UF-1000i flow cytometer as a screening tool for UTI in an elderly population older than 65 years who lived in the community, using 346 urine samples submitted for culture. Results: The Receiver Operating Characteristic (ROC) analysis showed a significant difference (P &lt; 0.01) between 0.98 bacteria area under the curve value and 0.82 of white blood cells (WBC). The combination of both counts for screening did not show any improvement in specificity or sensitivity. According to our data, the use of a single cut-off point of 200 bacteria/&amp;#956;L is suggested, in which the sensitivity and specificity were 99.11% and 91.59%, respectively, with a NPV of 99.49%. Moreover, this cut-off value could avoid 60.24% of the samples to be cultured, with a minimal false negative results rate of 0.87%.ConclusionsThe stratification of age groups stratification helps in selecting a more adjusted Sysmex UF1000i cut-off limit, leading to an improvement in the screening parameters that would imply a better management of these infections, as well as a high reduction in the workload and cost savings (AU)</dc:description>
+<dc:creator>Martín-Gutiérrez, Guillermo</dc:creator>
+<dc:creator>Porras-González, Ana</dc:creator>
+<dc:creator>Lepe, Jose Antonio</dc:creator>
+<dc:creator>Martín-Pérez, Carlos</dc:creator>
+<dc:creator>Aznar, Javier</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objetivo: Evaluar y optimizar el uso del citómetro de flujo (Sysmex UF1000i®) como cribado para las infecciones urinarias (ITUs) en pacientes &amp;#8805;65 años procedentes de Atención Primaria. Métodos: Se estudiaron 346 orinas de pacientes &amp;#8805;65 años con sospecha de infección urinaria, enviadas al Hospital Universitario Virgen del Rocío, durante el periodo enero-mayo 2013. Las muestras se estudiaron mediante citometría de flujo y cultivo cuantitativo en medio cromogénico. Resultados: Se incluyeron 346 pacientes, cuya edad media fue de 76,70 ± 0,75 años. De las 346 muestras 113 (32,65%) fueron positivas, 214 (61,84%) negativas y 19 (5,49%) contaminadas. El área bajo la curva ROC utilizando el número de bacterias (0,98) fue mayor que para los leucocitos (0,82), existiendo diferencias significativas entre ellas (P &lt; 0.01). El estudio conjunto de bacterias y leucocitos no supuso ninguna mejora, por lo que se utilizaron distintos umbrales basados en el número de bacterias. De acuerdo con nuestros datos, proponemos un punto de corte de 200 bacterias/&amp;#956;l con el cual obtenemos una sensibilidad del 99,11% y especificidad del 91,59%, con un valour predictivo negativo del 99,49%. Además este punto de corte nos permitiría evitar el 60,24% de los cultivos, con una mínima tasa de falsos negativos (0,87%). Conclusiones: La categorización de la población según criterios de positividad para el diagnóstico de la ITU, así como en grupos etarios con las mismas condiciones clínicas, permite incrementar la exactitud de los resultados obtenidos, reduciendo la carga de trabajo sustancialmente así como los costes asociados (AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;33(5): 320-323, mayo 2015. ilus, tab</dc:source>
+<dc:identifier>ibc-141579</dc:identifier>
+<dc:title xml:lang="es">/ Evaluación y optimización del sistema Sysmex UF-1000i como método de cribaje para el estudio de infecciones urinarias en pacientes ancianos de Atención Primaria</dc:title>
+<dc:subject>^d32137^s22045</dc:subject>
+<dc:subject>^d25123^s22045</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d14952^s22080</dc:subject>
+<dc:subject>^d11756^s22049</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d5567^s22074</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201505</dc:date>
+</metadata>
+</record>
+</ibecs-document>

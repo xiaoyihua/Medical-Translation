@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-156779</identifier>
+<setSpec>0213-7615</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Driving with alcohol content above the legal limits: profile of the driver according to the type of road</dc:title>
+<dc:description xml:lang="en">A cross-sectional study of the alcohol breath tests carried out by police officers in Catalonia in 2013 is performed. The sample consists of 464,134 breath tests, of which 66% were held on interurban roads and 34% on urban roads. Method: We measure whether the driver exceeds the legal limit in milligrams of alcohol per litre of exhaled air. For novice or professional drivers the legal limit is 0.15 mg/l, while for other drivers it is 0.25 mg/l. First, a descriptive analysis of the percentage of drivers detected above the legally permitted limit on interurban and urban roads is performed. It takes into account the characteristics of the driver and the vehicle, the reason for the test, and the timeframe. Afterwards, two generalized linear models with binomial family and logarithmic link are adjusted, depending on whether the test is conducted on interurban or urban roads. Results: Driver age, nationality or timeframe affect the probability of exceeding the alcohol legal limit differently, depending on whether the test is conducted on interurban or urban roads. Conclusion: Designing road safety policies adapted to the type of road can help reduce alcohol-impaired driving and therefore accident rates (AU)</dc:description>
+<dc:creator>Alcañiz, Manuela</dc:creator>
+<dc:creator>Ramon, Lluís</dc:creator>
+<dc:creator>Santolino, Miguel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Se realiza un estudio transversal de los controles policiales para la medición de la tasa de alcohol en aire espirado (AAE) llevados a cabo en Cataluña en el año 2013. La muestra consta de 464.134 pruebas, de las cuales el 66% se realizaron en vías interurbanas y el 34% en vías urbanas. Método: Se mide si el conductor sobrepasa el límite legal en miligramos de alcohol por litro de aire espirado. En el caso de conductores noveles o profesionales el límite legal es de 0,15 mg/l y para el resto de conductores es de 0,25 mg/l. Se realiza un análisis descriptivo del porcentaje de conductores detectados por encima del límite legalmente permitido en vías interurbanas y en vías urbanas, según características del conductor y del vehículo, motivo de la prueba, y momento en que se lleva a cabo. En una segunda parte, se ajustan dos modelos lineales generalizados con vínculo logarítmico y familia binomial, según si la prueba se realiza en vía interurbana o en vía urbana. Resultados: La edad del conductor, la nacionalidad o la franja horaria en la que se realiza la prueba inciden de forma diferente en la probabilidad de sobrepasar el límite legal de alcohol, dependiendo de si la prueba se realiza en vía interurbana o urbana. Conclusión: Diseñar políticas de seguridad vial específicas según el tipo de vía puede ayudar a reducir la proporción de conductores que superan los límites legales de alcohol en aire espirado y, por tanto, la accidentalidad (AU)</dc:description>
+<dc:source>Rev. esp. drogodepend;41(3): 59-71, 2016. tab, graf</dc:source>
+<dc:identifier>ibc-156779</dc:identifier>
+<dc:title xml:lang="es">Circular con tasa de alcohol superior a la legal: caracterización del conductor según la vía de circulación</dc:title>
+<dc:subject>^d33535^s22080</dc:subject>
+<dc:subject>^d13018^s22041</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d440^s22080</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d12825^s22041</dc:subject>
+<dc:subject>^d28596^s22045</dc:subject>
+<dc:subject>^d28596^s22066</dc:subject>
+<dc:subject>^d24811</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201600</dc:date>
+</metadata>
+</record>
+</ibecs-document>

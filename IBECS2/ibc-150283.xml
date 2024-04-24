@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150283</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">No disponible</dc:title>
+<dc:description xml:lang="en">Predictions in a CTVA-2D model under normal and Laplace&#146;s distributions hypotheses. The CODE theory of Visual Attention introduced by Logan in 1996 (Psychological Review, 103, 603-649) assumes that the items location is not represented by points in the space whereas it is represented by one-dimensional Laplace distributions. This model has been extended to two dimensions by the CTVA-2D model (Alvarado, Santalla &amp; Santisteban, 1999, Acta Psychologica, 103, 239-255). The present work compares the results obtained assuming Laplace and normal distributions in the two-dimensional model (AU)</dc:description>
+<dc:creator>Santisteban Requena, Carmen</dc:creator>
+<dc:creator>Alvarado Izquierdo, Jesús M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La teoría CODE de Atención Visual que presenta Logan en 1996 (Psychological Review, 103, 603-649) considera que la posición que ocupan los elementos en una presentación visual, en lugar de representarse por puntos en el espacio, se representan por distribuciones de probabilidad. Logan desarrolla un modelo utilizando distribuciones Laplacianas unidimensionales. Este modelo se ha extendido a dos dimensiones generando el modelo CTVA-2D (Alvarado, Santalla y Santisteban, 1999, Acta Psychologica, 103, 239-255). En este trabajo se comparan los resultados bajo los supuestos de distribuciones gaussianas y de laplacianas en la citada extensión bidimensional del modelo (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);12(supl.2): 514-518, 2000. tab, graf</dc:source>
+<dc:identifier>ibc-150283</dc:identifier>
+<dc:title xml:lang="es">Predicciones bajo hipótesis de distribuciones gaussianas y laplacianas en un modelo CTVA-2D</dc:title>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d28633</dc:subject>
+<dc:subject>^d28426</dc:subject>
+<dc:subject>^d24801</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d15197</dc:subject>
+<dc:subject>^d1294</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200000</dc:date>
+</metadata>
+</record>
+</ibecs-document>

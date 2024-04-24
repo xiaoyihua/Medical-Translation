@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-128429</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Estimating the reliability coefficient of tests in presence of missing values</dc:title>
+<dc:description xml:lang="en">Background: The problem of missing values at the item level is common in studies using educational and psychological tests. The aim of the present work is to explore how the estimation of reliability is affected by missing values. Method: Using real data, we simulated missing values in accordance with a «missing at random mechanism». Four factors were manipulated with the aim of checking their effect on the estimation of the reliability of the instrument: missing data mechanism, percentage of missing data in the database, sample size, and procedure employed for the treatment of missing values. Results: The results show that the quality of estimations depends on the interaction of various factors. The general tendency is that the estimations are worse when the sample size is small and the percentage of missing values increases. Listwise is the worst procedure for treatment of the missing data in the simulated conditions. Conclusions: It is concluded that with a small percentage of missing values one can obtain estimations that are acceptable from a practical point of view with all the procedures employed, except Listwise (AU)</dc:description>
+<dc:creator>Fonseca Pedrero, Eduardo</dc:creator>
+<dc:creator>Cuesta Izquierdo, Marcelino</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Antecedentes: el problema de la presencia de valores perdidos a nivel de ítem es común en los estudios que emplean tests psicológicos o educativos. El objetivo de este trabajo es explorar cómo se ve afectada la estimación de la fiabilidad por la presencia de valores perdidos. Método: partiendo de datos reales se simularon valores perdidos de acuerdo a un mecanismo aleatorio. Se manipularon cuatro factores para comprobar su influencia en la estimación de la fiabilidad de la prueba: mecanismo de pérdida de datos, porcentaje de valores perdidos, tamaño de muestra y método empleado para el manejo de los datos perdidos. Resultados: los resultados muestran que la calidad de las estimaciones depende de la interacción de varios factores. La tendencia general es que las estimaciones son peores cuando el tamaño de muestra es pequeño y aumenta el porcentaje de valores perdidos. Listwise es el peor procedimiento de manejo de los valores perdidos en las condiciones simuladas. Conclusiones: cuando el porcentaje de valores perdidos es pequeño pueden obtenerse estimaciones aceptables, desde un punto de vista práctico, con todos los procedimientos empleados, excepto Listwise (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);26(4): 516-523, oct.-dic. 2014. tab</dc:source>
+<dc:identifier>ibc-128429</dc:identifier>
+<dc:title xml:lang="es">Estimación del coeficiente de fiabilidad en presencia de valores perdidos</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d28617</dc:subject>
+<dc:subject>^d7529^s22083</dc:subject>
+<dc:subject>^d51792</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201412</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-20152</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Implementation of a computerized outpatient appoiment system in a healthcare district</dc:title>
+<dc:creator>Hernández, M. A</dc:creator>
+<dc:creator>Vila Blanco, J. M</dc:creator>
+<dc:creator>Garrote, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Introducción: Las consultas externas son la "puerta de acceso a la atención especializada". Su buena gestión mejora la calidad de la atención y la satisfacción de pacientes y profesionales. Los objetivos para la implantación de un sistema on-line de citaciones son: mejorar la accesibilidad de los usuarios a las consultas externas de atención especializada, disminuir los trámites administrativos y los errores, fomentar el uso de la Tarjeta Sanitaria Individual y facilitar la libre elección de especialista. Material y método: Definición de 122 agendas de 23 especialidades, asignadas a médicos concretos; 97 utilizadas por los 16 Centros de Salud de Atención Primaria, con tramos horarios específicos para primeras consultas, tanto de atención primaria como especializada, teniendo cada centro de salud conexión informática en tiempo real y cita directa de primera consulta para cualquier especialidad, con el programa de citaciones de atención especializada. Resultados: Desde junio de 2000 hasta marzo de 2001 se realizaron 196.223 citas cargadas, el 35 por ciento efectuadas desde atención primaria. Un 75 por ciento de la actividad de consultas externas corresponde a citas procedentes de atención primaria, lo que permite mediante el sistema de cita directa la redistribución de la carga administrativa. Conclusiones: Ha mejorado la accesibilidad de los usuarios en el área de Talavera de la Reina, con un gran porcentaje de población rural y de edad avanzada, otorgándole mayor importancia. Se ha conseguido un sistema de registro fiable, que responde a las necesidades corporativas y permite hacer estudios de cargas de trabajo y equidad del sistema. Disminuye los trámites administrativos y los desplazamientos  (AU)</dc:description>
+<dc:source>Rev. calid. asist;18(1): 20-26, ene. 2003. tab</dc:source>
+<dc:identifier>ibc-20152</dc:identifier>
+<dc:title xml:lang="es">Implantación de un sistema informatizado para la citación de consultas externas en un área sanitaria</dc:title>
+<dc:subject>^d22519</dc:subject>
+<dc:subject>^d8678</dc:subject>
+<dc:subject>^d10004</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6448</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200301</dc:date>
+</metadata>
+</record>
+</ibecs-document>

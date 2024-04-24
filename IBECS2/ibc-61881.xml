@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-61881</identifier>
+<setSpec>0212-1972</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">CMBD as an instrument for detecting adverse effects in medicines</dc:title>
+<dc:description xml:lang="en">The objective of this work is to analyse the magnitude and importance of the adverse effects produced by antineoplasic and imnuosupressor medicine through the CMBD of the Complejo Hospitalario Torrecárdenas, using hospital discharge reports. To do so, a retrospective study of 2005 was conducted of those patients whose discharge code included the code of CIE-9MC, E933.1, related to the adverse effects of these medicines (AU)</dc:description>
+<dc:creator>Gamero González, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El objetivo de este trabajos es analizar la magnitud e importancia de los acontecimientos adversos producidos por los medicamentos antineoplásicos e inmunosupresores a través del CMBD del Complejo Hospitalario Torrecárdenas, mediante los informes de alta hospitalaria. Para ello, se realizó un estudio retrospectivo de 2005, de aquellos pacientes en cuya codificación de alta se incluye el código de la CIE-9MC, E933.1, (efecto adverso a antineoplásicos e inmunosupresores); como fuente para la extracción de datos se utilizó el Conjunto Mínimo Básico de Datos (CMBD) y la historia clínica del paciente. De las 23.663 altas del año 2005, 271 presentaron acontecimientos adversos a medicamentos (AAM) a antineoplásicos e inmunosupresores. El grupo se presentó mayor número de ingresos fueron hombres, y mayores de 60 años. El servicio con mayor número de ingresos fue Hematología, siendo las leucemias con un 46% las que motivaron mayor número de ingresos. Las manifestaciones clínicas de estos AAM a antineoplásicos e inmunosupresores han sido alteraciones hematológicas con un 70,49% (AU)</dc:description>
+<dc:source>Todo hosp;(235): 194-197, abr. 2007. ilus</dc:source>
+<dc:identifier>ibc-61881</dc:identifier>
+<dc:title xml:lang="es">CMBD como instrumento para la detención de acontecimientos adversos a medicamentos</dc:title>
+<dc:subject>^d50041</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d7344^s22018</dc:subject>
+<dc:subject>^d28597^s22083</dc:subject>
+<dc:subject>^d974^s22018</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23106^s22020</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d23106^s22018</dc:subject>
+<dc:subject>^d28597^s22048</dc:subject>
+<dc:subject>^d28597^s22018</dc:subject>
+<dc:subject>^d23802^s22045</dc:subject>
+<dc:subject>^d23802^s22066</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d28597^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200704</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-63759</identifier>
+<setSpec>1138-3593</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:description xml:lang="en">To carry out a research project it is necessary to obtain data from the target population, which is defined as the set of elements about which we aim to find out a certain aspect. In some studies, this aspect can be directly measured in each element of the population; however, this is only possible if the population is not very large and if all of the elements are accessible. In the vast majority of cases, it is not viable to study the entire population because the empirical work necessary is expensive and involves much time and resources. To obtain reliable results, it is not necessary to obtain all of the data from all of the elements of the population; it is sufficient to collect the variables in a subgroup of elements called the sample. Unless this subgroup is representative of the target population, the results of the study cannot be extrapolated and will not be valid or reliable for the target population as a whole. There are different techniques or procedures to select the sample, depending on the time and financial resources available, as well as the nature of the elements of the population. This set of techniques is called sampling. When designing a study, it is necessary to define the necessary sample size, which involves certain problems studied by Inferential Statistics and will enable scientifically valid conclusions to be reached regarding the population</dc:description>
+<dc:creator>Martín, J. L. R</dc:creator>
+<dc:creator>Seoane, T</dc:creator>
+<dc:creator>Martín-Sánchez, E</dc:creator>
+<dc:creator>Lurueña-Segovia, S</dc:creator>
+<dc:creator>Alonso Moreno, F. J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Para realizar un proyecto de investigación debemos obtener datos de la población objetivo, que se define como el conjunto de elementos del cual se quiere conocer cierto aspecto. En algunos estudios cada elemento de la población puede ser medido realmente, lo cual es posible solamente si la población no es muy numerosa y si todos los elementos son accesibles. Pero lo habitual es que el estudio completo de la población sea inviable, ya que el trabajo empírico necesario es costoso e implica mucho tiempo y recursos. Para obtener resultados confiables no es necesario obtener los datos de todos los elementos poblacionales, es suficiente recoger las variables de un subconjunto de elementos denominado muestra. El estudio tendrá la validez y la fiabilidad necesarias si este subconjunto es representativo de la población objetivo y los resultados obtenidos son extrapolables a la misma. Existen distintas técnicas o procedimientos para seleccionar la muestra, dependiendo del tiempo, de los recursos económicos y de la naturaleza de los elementos poblacionales. El conjunto de estas técnicas se denomina muestreo. En el diseño del estudio se debe definir el tamaño muestral necesario; su cálculo está relacionado con ciertos problemas que estudia la Inferencia Estadística y que permitirán extraer conclusiones científicamente válidas a la población</dc:description>
+<dc:source>SEMERGEN, Soc. Esp. Med. Rural Gen. (Ed. Impr.);33(7): 356-361, ago. 2007. tab</dc:source>
+<dc:identifier>ibc-63759</dc:identifier>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d28579</dc:subject>
+<dc:subject>^d32095</dc:subject>
+<dc:subject>^d37673^s22045</dc:subject>
+<dc:subject>^d12528^s22048</dc:subject>
+<dc:subject>^d32037</dc:subject>
+<dc:subject>^d28595</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200708</dc:date>
+</metadata>
+</record>
+</ibecs-document>

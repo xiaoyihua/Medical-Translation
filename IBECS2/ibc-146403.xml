@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-146403</identifier>
+<setSpec>1888-4008</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Study of an immunoturbidimetric method for quantifying procalcitonin and its ability to diagnose sepsis</dc:title>
+<dc:description xml:lang="en">Introduction. Procalcitonin (PCT) is a biochemical marker for the diagnosis of sepsis. Electrochemiluminescence is currently considered the reference method for quantifying PCT. The aim of this work is to study an immunoturbidimetric method to measure PCT, compare it with electrochemiluminescence method, and establish its capacity for diagnosis of bacterial sepsis. Material and methods. The immunoturbidimetric method was the Diazyme® Procalcitonin Assay (Diazyme Laboratories, Poway, CA, USA), and the electrochemiluminescence method was the Elecsys Brahms PCT. The comparative study was performed with patient plasma samples from different services of the Hospital Francesc de Borja. Samples were analysed in parallel on a Cobas 6000 modular. Results. A total of 97 samples were analysed. Intraclass correlation coefficient of 0.86 (95% CI: 0.80-0.91) was obtained. Comparing the two methods according to the ranges accepted in the literature, total agreement of 79.4% was observed, with an unweighted k coefficient of 0.72 (95% CI: 0.61 - 0.83) and 0.82 (95% CI: 0.74 - 0.90) after weighting with linear weights. An Area under the curve of 0.88 was obtained for the electrochemiluminescence method and 0.86 for the immunoturbidimetric method. The odds ratio for the PCT were 1.19 (95% CI: 1.06 - 1.33) and 1.06 (95% CI: 1.00 - 1.11) measured by electrochemiluminescence and immunoturbidimetry, respectively. Conclusions. Diazyme® immunoturbidimetric method seems to be as reliable a method for the diagnosis and management of patients with suspected sepsis as the current Brahms® electrochemiluminescence method (AU)</dc:description>
+<dc:creator>Boronat García, Miguel</dc:creator>
+<dc:creator>Gómez Pajares, Fernando</dc:creator>
+<dc:creator>Clarí Pons, María Ángeles</dc:creator>
+<dc:creator>Díaz Fernández, Julián</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. La procalcitonina (PCT) es un marcador bioquímico para el diagnóstico de sepsis. La electroquimioluminiscencia se considera actualmente el método de referencia para cuantificar PCT. El objetivo de este trabajo es estudiar un método inmunoturbidimétrico para cuantificar la PCT, comprobar su correlación analítica con el método electroquimioluminiscente y establecer su capacidad para el diagnóstico de sepsis bacteriana. Material y métodos. El método inmunoturbidimétrico fue el Diazyme® Procalcitonin Assay (Diazyme Laboratories, Poway, CA, EE. UU.) y el método electroquimioluminiscente fue el Elecsys Brahms PCT (Roche Diagnostics®). El estudio comparativo se realizó con muestras de plasma de pacientes provenientes de diferentes servicios del Hospital Francesc de Borja. Las muestras se analizaron en paralelo en un modular Cobas 6000 (Roche Diagnostics®). Resultados. Se analizaron 97 muestras. Se obtuvo un coeficiente de correlación intraclase de 0,86 (IC 95%: 0,80-0,91). Comparando los dos métodos según los rangos aceptados en la literatura, se observó un acuerdo total del 79,4%, con un coeficiente k no ponderado de 0,72 (IC 95%: 0,61-0,83) y de 0,82 (IC 95%: 0,74-0,90) tras ponderación con pesos lineales. Se obtuvo un área bajo la curva de 0,88 para el método electroquimioluminiscente y de 0,86 para el método inmunoturbidimétrico. Las odds ratio para la PCT fueron 1,19 (IC 95%: 1,06-1,33) y 1,06 (IC 95%: 1,00-1,11) medida por electroquimioluminiscencia y por inmunoturbidimetría, respectivamente. Conclusiones. El método inmunoturbidimétrico de Diazyme® es un método fiable para el diagnóstico y manejo de los pacientes con sospecha de sepsis tal y como lo es en la actualidad el método electroquimioluminiscente de Brahms® (AU)</dc:description>
+<dc:source>Rev. lab. clín;8(4): 173-178, oct.-dic. 2015. tab, ilus</dc:source>
+<dc:identifier>ibc-146403</dc:identifier>
+<dc:title xml:lang="es">Estudio de un método inmunoturbidimétrico para la cuantificación de procalcitonina y su capacidad para el diagnóstico de sepsis</dc:title>
+<dc:subject>^d28614</dc:subject>
+<dc:subject>^d23568^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9584^s22045</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d23568^s22044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d9584^s22074</dc:subject>
+<dc:subject>^d9584^s22048</dc:subject>
+<dc:subject>^d31136^s22002</dc:subject>
+<dc:subject>^d24769</dc:subject>
+<dc:subject>^d9584^s22039</dc:subject>
+<dc:subject>^d8338^s22039</dc:subject>
+<dc:subject>^d8338^s22066</dc:subject>
+<dc:subject>^d32031^s22016</dc:subject>
+<dc:subject>^d22372^s22002</dc:subject>
+<dc:subject>^d32031^s22012</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201512</dc:date>
+</metadata>
+</record>
+</ibecs-document>

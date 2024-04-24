@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-113971</identifier>
+<setSpec>1888-7546</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Center of pressure preprocessing methods to analyze complexity/performance relation in quiet standing</dc:title>
+<dc:description xml:lang="en">Objective. The aim of this study is to analyze the relationship between the complexity and postural balance in a standing balance task. In this way, this study assesses the effect of the sample frequency, the stationarity of center of pressure (COP) and the used of different analysis. Method. Twenty-one volunteers were asked to stand still for 30 s on a stable surface. Displacement of COP was measured. The performance was assessed through the standard deviation (SD) of COP. Complexity of COP was measured through Sample Entropy (SampEn) and Detrended Fluctuation Analysis (DFA). All variables were analyzed on three different frequencies (20,100 and 1000 Hz) and on two signal treatment (the original and detrended signal). Results. The sample frequency influences the values of SampEn and DFA. However, these values keep the trend shown between experimental conditions. SD values are negatively related with SampEn of COP data in both axes. Nevertheless, the relationship between SD and DFA varies by axis; this relationship is negative in the AP axis and positive in the ML axis. Conclusion. The sample frequency has a significant influence in the results, but frequencies close to the dynamics of COP enhance the differences. On the other hand, we suggest to detrend the signal to improve the analysis of dynamics of COP. The results support the direct relationship between performance and complexity of COP(AU)</dc:description>
+<dc:creator>Barbado, D</dc:creator>
+<dc:creator>Moreno, F. J</dc:creator>
+<dc:creator>Caballero, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Este estudio evalúa la relación entre complejidad y dispersión del centro de presiones (COP) en una tarea de equilibrio en bipedestación, observando cómo la frecuencia de registro, las características estacionarias y el uso de distintos análisis afectan a la misma. Método. Se registró el desplazamiento del COP de 21 voluntarios que se mantuvieron de pie durante 30 segundos sobre una superficie estable. Se analizó la desviación típica (DT) y la complejidad de las fluctuaciones del COP mediante SampleEntropy (SampEn) y Detrended Fluctuation Analysis (DFA), a diferentes frecuencias (1000,100 y 20 Hz) y en función de la eliminación de la tendencia de la señal. Resultados. La frecuencia de registro afecta a los valores de SampEn y DFA, disminuyendo y aumentando, respectivamente, al aumentar la frecuencia de registro. Sin embargo, el tratamiento del COP no muestra ninguna influencia. Existe una correlación negativa entre la DT y el SampEn en ambos ejes. No obstante, la relación entre la DT y el DFA se modifica en función del eje, siendo negativa en el eje AP y positiva en el ML. Conclusión. La frecuencia de registro no influye de manera determinante en las variables no lineales, pero las frecuencias cercanas a las de la dinámica del COP maximizan las diferencias existentes en el DFA. Por otro lado, se recomienda la eliminación de la tendencia de la señal para mejorar el análisis de la estructura de la variabilidad del desplazamiento del COP. Los resultados obtenidos respaldan la existencia de la relación entre el rendimiento y la complejidad del COP(AU)</dc:description>
+<dc:source>Rev. andal. med. deporte;6(3): 101-107, sept. 2013. tab, ilus</dc:source>
+<dc:identifier>ibc-113971</dc:identifier>
+<dc:title xml:lang="es">El procesado del desplazamiento del centro de presiones para el estudio de la relación complejidad/rendimiento observada en el control postural en bipedestación</dc:title>
+<dc:subject>^d28620</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1721^s22031</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d11926^s22048</dc:subject>
+<dc:subject>^d11625^s22031</dc:subject>
+<dc:subject>^d13563^s22048</dc:subject>
+<dc:subject>^d11926^s22074</dc:subject>
+<dc:subject>^d13563^s22039</dc:subject>
+<dc:subject>^d4936^s22031</dc:subject>
+<dc:subject>^d13563^s22049</dc:subject>
+<dc:subject>^d13563^s22066</dc:subject>
+<dc:subject>^d13563^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201309</dc:date>
+</metadata>
+</record>
+</ibecs-document>

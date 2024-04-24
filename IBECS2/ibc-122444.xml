@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-122444</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">RECIST and the radiologist</dc:title>
+<dc:description xml:lang="en">Biomedical imaging makes it possible not only to diagnose and stage cancer, but also to follow up patients and evaluate the response to treatment. RECIST (Response Evaluation Criteria In Solid Tumors) provides a method to monitor the response to treatment based on one dimensional measurements of tumors obtained with reproducible imaging techniques like CT, MRI, and PET. The metabolic changes induced by new treatments modify the biology and behavior of the tumor; occasionally, there is a discrepancy between the patient&#146;s clinical condition and the response measured by RECIST, which indicates that functional tests need to be included in the evaluation of the response to treatment. The objective is to review the RECIST criteria to include the contribution of functional imaging to enable the efficacy and effects of the treatment in patients with solid tumors (AU)</dc:description>
+<dc:creator>Cervera Deval, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Mediante las imágenes biomédicas podemos diagnosticar, estadificar, controlar y valorar la efectividad de los procedimientos terapéuticos a los que son sometidos los pacientes oncológicos. RECIST (Response Evaluation Criteria In Solid Tumors) es el método para monitorizar el tratamiento mediante medidas unidimensionales de los tumores, obtenidas con técnicas de imagen reproducibles como son la TC, la RM y la PET. Los cambios metabólicos inducidos por los nuevos tratamientos modifican la biología y comportamiento del tumor, con discordancia ocasional entre el estado clínico del paciente y la respuesta medida con RECIST, lo que apunta a la necesidad de incluir pruebas funcionales en la valoración de la respuesta al tratamiento. El objetivo es revisar los criterios RECIST conociendo la aportación de la imagen funcional para valorar correctamente la eficacia y la repercusión del tratamiento en los pacientes con  tumores sólidos (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);56(3): 193-205, mayo-jun. 2014. ilus, tab</dc:source>
+<dc:identifier>ibc-122444</dc:identifier>
+<dc:title xml:lang="es">RECIST y el radiólogo</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d32281</dc:subject>
+<dc:subject>^d23405</dc:subject>
+<dc:subject>^d9562^s22057</dc:subject>
+<dc:subject>^d52955</dc:subject>
+<dc:subject>^d30150^s22045</dc:subject>
+<dc:subject>^d22878^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29770</dc:subject>
+<dc:subject>^d38793^s22045</dc:subject>
+<dc:subject>^d^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201406</dc:date>
+</metadata>
+</record>
+</ibecs-document>

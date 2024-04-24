@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-048171</identifier>
+<setSpec>0210-4806</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prognostic factor and prediction tables for clinically localized prostate cancer</dc:title>
+<dc:description xml:lang="en">Introduction and objectives: To identify the independent prognostic factors of prostate cancer and to develop a table for predicting        the probabilities of not-localised prostate cancer occurrence, thus permitting to restrict the radical prostatectomy indication        to those patients who have greater probabilities of being cured by the procedure.        Methods: 1293 patients with clinically localised prostate cancer, with histories of neither hormone therapy nor prostate        radiation therapy, in whom radical prostatectomy was performed during the period 1990-2003, were retrospectively evaluated.        In order to analyse the prognostic factors, logistic regression was carried out by studying all the potential confusion and interaction        factors, and by introducing the independent variables in a forward fashion with the following criteria: BCON(0.0001)        LCON(0.00001) ITER(50) POUT(0.1). The prognostic variables were categorised, and the prediction table of the not-localised        prostate cancer probability was developed from them.        Results: Clinical stage, prostatic specific antigen and Gleason&#146;s 'grade' were identified as prognostic factors, taking into        account that the higher they are, the higher the probability of not-localised prostate cancer occurrence. Logistic regression enabled        us to develop a table to predict the probability of not-localised prostate cancer in which, taking a 50% probability as the        cutoff point, a 26.13% sensitivity and a 94.65% specificity are obtained. The pathological examination of the prostate and the        lymphadenectomy showed that, globally, 70% of the tumours were localised.        Conclusions: Application of tables to predicting the probability of having not-localised prostate cancer offers the possibility of improving the prognostic accuracy of the so-called 'risk groups', and enables to issue a therapeutic indication better adjusted        to the actual status of the disease</dc:description>
+<dc:creator>Palou Redorta, J</dc:creator>
+<dc:creator>Villavicencio Mavrich, H</dc:creator>
+<dc:creator>Millán Rodríguez, F</dc:creator>
+<dc:creator>Segarra Tomás, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos: Identificar los factores pronósticos independientes del cáncer de próstata y construir una tabla        predictiva de la probabilidad de cáncer de próstata no localizado que permitirá ajustar la indicación de prostatectomía radical        a aquellos pacientes con mas probabilidad de que ésta fuera curativa.        Métodos: Se analizaron retrospectivamente 1.293 pacientes con cáncer de próstata clínicamente localizado, sin antecedentes        de tratamiento hormonal ni de radioterapia prostática, a los que se practicó una prostatectomía radical en el periodo 1990-        2003. Para analizar los factores pronósticos se realizó una regresión logística estudiando los posibles factores de confusión e        interacción e introduciendo las variables independientes de forma 'forward' con los siguientes criterios: BCON(0,0001)        LCON(0,00001) ITER(50) POUT (0,1). Las variables pronosticas se categorizaron y a partir de éstas se construyó la tabla predictiva        de probabilidad de cáncer de próstata no localizado.        Resultados: Se identificaron como factores pronósticos independientes el estadio clínico, el antígeno prostático específico y el 'grado' de Gleason, observando que a medida que éstos aumentan también lo hacía la probabilidad de cáncer de próstata        no localizado. La regresión logística permitió la construcción de una tabla predictiva de la probabilidad de cáncer de próstata        no localizado, en la que tomando como punto de corte una probabilidad del 50% se obtiene una sensibilidad del 26,13% y una        especificidad del 94,65%. El estudio anatomopatológico de la próstata y la linfadenectomía demostró que globalmente el 70%        de los tumores estaban localizados.        Conclusiones: El uso de tablas predictivas de la probabilidad de cáncer de próstata no localizado permite mejorar la exactitud pronostica de los llamados 'grupos de riesgo' permitiendo una indicación terapéutica más acorde con la realidad de la        enfermedad</dc:description>
+<dc:source>Actas Urol Esp;30(6): 567-575, jun. 2006. tab</dc:source>
+<dc:identifier>ibc-048171</dc:identifier>
+<dc:title xml:lang="es">Factores pronósticos y tablas predictivas del cáncer de próstata clínicamente localizado</dc:title>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d8374^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d11911^s22083</dc:subject>
+<dc:subject>^d6885^s22073</dc:subject>
+<dc:subject>^d11911^s22045</dc:subject>
+<dc:subject>^d11911^s22066</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d11914^s22059</dc:subject>
+<dc:subject>^d11914^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200606</dc:date>
+</metadata>
+</record>
+</ibecs-document>

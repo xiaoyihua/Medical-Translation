@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-134325</identifier>
+<setSpec>0004-2927</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">High-performance liquid chromatography method for the quantifi cation of duloxetine in rat plasma</dc:title>
+<dc:description xml:lang="en">A sensitive and selective HPLC method was developed for quantification of duloxetine, in rat plasma. Trifluoperazine was used as an internal standard (IS). The present method used protein precipitation for extraction of the drug from rat plasma. Separation and quantification was carried using in isocratic mode using 25 mM phosphate buffer (pH 3.0)/acetonitrile (60:40, % v/v) as mobile phase and on reverse-phase C18 phenyl column (250 mm x 4.6 mm, 5µ) and the column effluent was monitored by UV detector at 217 nm. This method was linear over the range of 44 - 2816.00 ng/ml with regression coefficient greater than 0.99. The mean recovery of duloxetine and IS were 82.33 ± 2.10 and 75.37 ± 1.07, respectively and the method was found to be precise, accurate and specific during the study. This validated method is sensitive and reproducible and it can be used for pharmacokinetic studies (AU)</dc:description>
+<dc:creator>Karthik, A</dc:creator>
+<dc:creator>Shahnawaz, S</dc:creator>
+<dc:creator>Dinesh Kumar, C</dc:creator>
+<dc:creator>Lakshmana Prabu, S</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Se desarrolló un método HPLC selectivo y sensible para la cuantificación de duloxetina en plasma de ratas. Se utilizó trifluoperacina como estándar interno (IS). El presente método utilizó la precipitación de proteínas para la extracción del fármaco del plasma de las ratas. La separación y cuantificación se realizaron en modo isocrático utilizando como fase móvil tampón fosfato de 25 mM (pH 3,0)/acetonitrilo (60:40, % v/v) y en fase reversa una columna fenil C18 (250 mm x 4,6 mm, 5µ). El efluente de la columna se monitorizó con un detector UV a 217 nm. Este método fue lineal en el intervalo 44 &#150; 2816,00 ng/ml con un coeficiente de regresión superior a 0,99. La recuperación media de duloxetina e IS fue 82,33 ± 2,10 y 75,37 ± 1,07, respectivamente y el método fue exacto, preciso y específi co durante el estudio. Este método validado es sensible y reproducible y puede utilizarse para estudios farmacocinéticos (AU)</dc:description>
+<dc:source>Ars pharm;49(4): 283-292, oct.-dic. 2008. ilus, tab</dc:source>
+<dc:identifier>ibc-134325</dc:identifier>
+<dc:title xml:lang="es">Método de cromatografía líquida de alto rendimiento para la cuantificación de duloxetina en plasma de ratas</dc:title>
+<dc:subject>^d935^s22079</dc:subject>
+<dc:subject>^d24347^s22079</dc:subject>
+<dc:subject>^d714^s22079</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d12345</dc:subject>
+<dc:subject>^d14668</dc:subject>
+<dc:subject>^d30902^s22079</dc:subject>
+<dc:subject>^d32029^s22079</dc:subject>
+<dc:subject>^d23224</dc:subject>
+<dc:subject>^d2900^s22045</dc:subject>
+<dc:subject>^d35256</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200812</dc:date>
+</metadata>
+</record>
+</ibecs-document>

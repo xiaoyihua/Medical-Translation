@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-104200</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Statistical Analysis of Rates and Trends (SART): a web-based tool for statistical calculation of population indicators</dc:title>
+<dc:description xml:lang="en">We propose a web-based tool (SART: http://regstattools.net/sart.html) that automates calculations to obtain various population indicators that can be used for the control of diseases or health events. SART has four modules: a) a descriptive module that allows calculation of the number of cases and their percentage, the crude rate, the adjusted rate, the truncated rate and the cumulative rate; b) the estimated annual percentage change of rates; c) calculation of expected cases; and d) the standardized incidence of mortality ratio. SART requests a base file and input parameters from the user before processing the data. The data and the results obtained are processed and then sent by email to the user. The results are provided by sex and for each of the study variables (diseases, ethnic groups, geographic areas...) introduced into the base file (AU)</dc:description>
+<dc:creator>Pareja, Laura</dc:creator>
+<dc:creator>Escribà, Josep M</dc:creator>
+<dc:creator>Gálvez, Jordi</dc:creator>
+<dc:creator>Esteban, Laura</dc:creator>
+<dc:creator>Clèries, Ramon</dc:creator>
+<dc:creator>Ribes, Josepa</dc:creator>
+<dc:creator>Langohr, Klaus</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Se propone una herramienta vía web (SART: http://regstattools.net/sart.html) que automatiza los cálculos para la obtención de distintos indicadores poblacionales importantes para el control de enfermedades o eventos de la salud. Se estructura en cuatro módulos: a) una descriptiva que incluye el cálculo del porcentaje, el número de casos, la tasa cruda, la tasa ajustada, la tasa truncada y la tasa acumulada; b) la estimación del porcentaje de cambio anual de las tasas; c) el cálculo de casos esperados, y d) la razón de incidencia o mortalidad estandarizada. La aplicación solicita unos parámetros de entrada al usuario. Una vez procesados los datos y obtenidos los resultados, éstos se envían por correo electrónico al usuario. Los resultados se obtienen para cada una de las causas de estudio (enfermedades, etnias, zonas geográficas...) y cada uno de los sexos introducidos en el fichero base (AU)</dc:description>
+<dc:source>Gac Sanit;25(5): 427-431, sep. - oct. 2011. ilus, tab</dc:source>
+<dc:identifier>ibc-104200</dc:identifier>
+<dc:title xml:lang="es">SART ( Statistical Analysis of Rates and Trends): herramienta vía web para el cálculo estadístico de indicadores poblacionales</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d28605</dc:subject>
+<dc:subject>^d19402^s22055</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d53806</dc:subject>
+<dc:subject>^d28583</dc:subject>
+<dc:subject>^d28640</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201110</dc:date>
+</metadata>
+</record>
+</ibecs-document>

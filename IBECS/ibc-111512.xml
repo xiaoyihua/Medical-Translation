@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-111512</identifier>
+<setSpec>2254-2884</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Bioimpedance vector and spectroscopic analysis: assessing hydration status using both methods in haemodialysis</dc:title>
+<dc:description xml:lang="en">Bioimpedance analysis is a useful tool for determining the nutritional and hydration status of haemodialysis patients. The two most commonly used systems are bioimpedance vector single frequency analysis and bioimpedance spectroscopic multiple frequency analysis, which use different criteria to classify the hydration status of the dialysed patient. The single frequency bioimpedance vector system uses a scale of 7 points ranging from a value of 3 (most hydration) to a value of -3 (most dehydration), defi ning hyperhydration when the vector is on the hydration axis below the tolerance ellipse of 75% (values 3 and 2 on the scale). Multi-frequency spectroscopy uses two criteria to defi ne the pre-dialysis state of hyperhydration: OH more than 2.5 litres or more than 15% of the extracellular water volume. The aim of this study was to analyse the degree of concordance between the two systems of bioimpedance in defi ning the state of hyperhydration of haemodialysis patients. A transversal study was carried out on 54 patients undergoing haemodialysis, performing a bioimpedance analysis with single frequency vector and multi- frequency spectroscopic monitors immediately before a haemodialysis session. The degree of equivalence in the defi nition of hyperhydration between the two monitors was greater when the criterion of OH&gt;15% of extracellular water was used in the multi-frequency monitor (kappa index 0.81, excellent concordance) than when the criterion of OH&gt;2.5 litres was used (kappa index 0.71, acceptable concordance). Conclusions: There is a good relationship between the hydration vector scale and OH value (excess hydration). The criteria used by the single-frequency vector and multi-frequency spectroscopic monitors show acceptable equivalence and their results can be interchangeable(AU)</dc:description>
+<dc:creator>Palacios García, Gema</dc:creator>
+<dc:creator>Manso Gil, M. Teresa</dc:creator>
+<dc:creator>Rodríguez Peña, Jacoba</dc:creator>
+<dc:creator>Ros Nogales, Ruth</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El análisis de bioimpedancia es una herramienta útil para determinar el estado nutricional y de hidratación del enfermo en hemodiálisis. Los dos sistemas más utilizados son la bioimpedancia de monofrecuencia vectorial y la bioimpedancia multifrecuencia espectroscópica que utilizan diferentes criterios para clasifi car el estado de hidratación del enfermo dializado. El sistema de bioimpedancia de monofrecuencia vectorial utiliza una escala ordinal de 7 puntos que va desde el valor 3 (mayor hidratación) hasta el valor -3 (mayor deshidratación) definiendo la hiperhidratación cuando el vector está  en el eje de hidratación por debajo de la elipse de tolerancia del 75% (valores 3 y 2 de la escala ordinal). El sistema de bioimpedancia multifrecuencia espectroscópica emplea dos criterios para defi nir el estado de hiperhidratación prediálisis: OH superior a 2,5 litros o mayor del 15% del volumen de agua extracelular. El objetivo del presente trabajo fue analizar el grado de concordancia entre ambos sistemas de bioimpedancia para defi nir el estado de hiperhidratación en enfermos tratados con hemodiálisis. Se llevó a cabo un estudio transversal en 54 enfermos tratados con hemodiálisis a los que se les realizó un análisis de bioimpedancia con monitores de monofrecuencia vectorial y multifrecuencia espectroscópica inmediatamente antes de una sesión de hemodiálisis. El grado de equivalencia en la defi nición de hiperhidratación entre ambos monitores fue mejor cuando se utilizó, en el monitor de multifrecuencia, el criterio de OH&gt;15% del agua extracelular (índice kappa 0.81, concordancia excelente) que cuando se utilizó el criterio de OH&gt;2,5 litros (índice kappa 0.71, concordancia aceptable). Conclusiones: Hay una buena relación entre la escala vectorial de hidratación y el valor OH (exceso de hidratación). Los criterios utilizados por los monitores de monofrecuencia vectorial y multifrecuencia espectroscópica para defi nir los estados de hiperhidratación prediálisis tienen una equivalencia aceptable y sus resultados pueden ser intercambiables(AU)</dc:description>
+<dc:source>Enferm. nefrol;16(1): 7-14, ene.-mar. 2013. tab</dc:source>
+<dc:identifier>ibc-111512</dc:identifier>
+<dc:title xml:lang="es">Bioimpedancia vectorial y espectroscópica: valoración del estado de hidratación con ambos métodos en hemodiálisis</dc:title>
+<dc:subject>^d28466^s22031</dc:subject>
+<dc:subject>^d28620</dc:subject>
+<dc:subject>^d28466^s22022</dc:subject>
+<dc:subject>^d13440^s22066</dc:subject>
+<dc:subject>^d5574^s22024</dc:subject>
+<dc:subject>^d23663^s22000</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24542</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d13440^s22039</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d28596^s22045</dc:subject>
+<dc:subject>^d29407^s22024</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d28596^s22039</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201303</dc:date>
+</metadata>
+</record>
+</ibecs-document>

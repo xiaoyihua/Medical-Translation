@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-565</identifier>
+<setSpec>0048-7120</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Critical appraisal of scientific evidence</dc:title>
+<dc:creator>García González, C</dc:creator>
+<dc:creator>Arteaga Domínguez, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">La evaluación crítica es una forma estructurada de leer los artículos científicos, lo que permite extraer las características clave de los mismos. Constituye uno de los elementos centrales de la Medicina Basada en la Evidencia. Un grupo de expertos ha desarrollado las 'guías para usuarios de la literatura médica', en las que se emplean diferentes cuestionarios para los diferentes tipos de publicaciones; todos los cuestionarios están organizados alrededor de tres preguntas básicas: validez, importancia de los resultados y aplicabilidad. Sin embargo, estas guías no contemplan todos los posibles diseños de investigación clínica, entre ellos muchos de los diseños alternativos que existen para conocer la eficacia y efectividad del tratamiento rehabilitador. Además, en los artículos de rehabilitación las medidas de resultados son complejas y diversas, debiéndose comprobar que se han escogido las más relevantes de acuerdo con el objetivo del estudio y, sobre todo, que dichas medidas tengan una aceptable fiabilidad y validez (AU)</dc:description>
+<dc:source>Rehabilitación (Madr., Ed. impr.);35(6): 383-387, nov. 2001.</dc:source>
+<dc:identifier>ibc-565</dc:identifier>
+<dc:title xml:lang="es">Evaluación crítica de la evidencia científica</dc:title>
+<dc:subject>^d33150</dc:subject>
+<dc:subject>^d8684</dc:subject>
+<dc:subject>^d12467</dc:subject>
+<dc:subject>^d10697</dc:subject>
+<dc:subject>^d51780</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200111</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-5340</identifier>
+<setSpec>1135-4127</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:creator>Gutiérrez Muñoz, F </dc:creator>
+<dc:creator>Carpintero Redondo, J. L </dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: El propósito del estudio es conocer el tiempo empleado en la tramitación de los expedientes de nombramiento/cese (ENC) de coordinadores de los equipos de atención primaria de la provincia de Toledo, cuantificar las diferencias entre las distintas variables involucradas -área sanitaria, tipo de coordinador e institución implicada- y determinar el efecto de las modificaciones realizadas en el mismo a lo largo del período estudiado. A partir de los datos obtenidos proponemos una serie de medidas correctoras junto con la estimación de la agilización que supondría su implementación. Métodos: Se revisaron 188 expedientes tramitados durante el período comprendido entre enero de 1993 y marzo de 1999. Para conocer el tiempo empleado en la tramitación de los ENC, se han utilizado los datos correspondientes al año 1998 y, a fin de conocer la evolución y el impacto de las modificaciones introducidas en el procedimiento, todo el período. La medida es el tiempo en días empleado en la tramitación para cada una de las variables. Debido a la gran variabilidad de los datos, se han empleado como medidas resumen la mediana y el rango. En las comparaciones, por la ausencia de normalidad (test de Kolmogorov-Smirnov) y de homocedasticidad (test de Levene) en su distribución, se han usado las pruebas de contraste no paramétricas (U de Mann-Whitney y el test de Kruskal-Wallis). El grado de significación para las probabilidades asociadas se ha establecido en el 5 por ciento (p ó 0,05).Resultados: En 1998 la mediana del tiempo empleado en la tramitación de los ENC fue de 73 días (rango, 53-86). La tramitación de los ENC del Área Sanitaria de Talavera de la Reina emplea 23 días más que los del área de Toledo (p = 0,01), y la de los expedientes de coordinadores de enfermería 17 días más que la de los coordinadores médicos (p = 0,01). Globalmente, las modificaciones introducidas reducen el tiempo de tramitación de los expedientes en 31 días (p = 0,001). Con la simplificación del modelo actual mediante las medidas correctoras propuestas, consistentes en la delegación del nombramiento por los órganos de la Consejería en el Delegado Provincial y la comunicación directa con la Gerencia de Atención Primaria, se conseguiría una reducción adicional de 39 días (p = 0,000).Conclusiones: Aunque las modificaciones introducidas a lo largo del período estudiado han reducido la duración del ENC en un 30,5 por ciento entre 1993 y 1998 (de 105 a 73 días), su duración es excesivamente larga. La simplificación del proceso que los autores proponemos supondría reducir prácticamente a la mitad la duración actual del procedimiento (de 73 a 34 días) (AU)</dc:description>
+<dc:source>Cuad. gest. prof. aten. prim. (Ed. impr.);7(1): 44-53, ene. 2001.</dc:source>
+<dc:identifier>ibc-5340</dc:identifier>
+<dc:title xml:lang="es">Análisis del procedimiento actual de nombramiento/cese de coordinadores de equipos de atención primaria en el área sanitaria de toledo y talavera de la reina (período 1993-1999)</dc:title>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d32016</dc:subject>
+<dc:subject>^d7497^s22049</dc:subject>
+<dc:subject>^d11756^s22049</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d14384</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200101</dc:date>
+</metadata>
+</record>
+</ibecs-document>

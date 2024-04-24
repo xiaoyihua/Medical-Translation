@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-10312</identifier>
+<setSpec>0378-4835</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">New trasn-platinum compounds with asysmmetric aliphatic amines. Cytotoxicity, apoptosis induction, and inhinition of H-ras overexpresion</dc:title>
+<dc:creator>Pérez, J. M</dc:creator>
+<dc:creator>Alonso, C</dc:creator>
+<dc:creator>Fuertes, M. A</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Alpe Editores, S.A.</dc:publisher>
+<dc:description xml:lang="es">Hasta ahora el dogma central de la farmacología bioquímica de los complejos antitumorales de platino del tipo Pt(II)CI2X2 establecía que se necesitaba una configuración cis de los dos grupos salientes CI- para obtener compuestos biológicamente activos. Sin embargo, recientemente se han descubierto complejos de trans-platino que poseen actividad antitumoral tanto in vitro como in vivo. En este trabajo se presentan datos que muestran que ciertos compuestos de Trans-platino con aminas alifáticas asimétricas son activos no solo en células tumorales sensibles a cisplatino (Jurkat, Hela y Vero) sino también en células tumorales resistentes a dicho fármaco que sobreexpresan oncogenes ras (HL-60 y Pam 212-ras). Además, dichos compuestos de trans-platino inhiben la sobreexpresión de Hras e inducen apoptosis. Los resultados indican que los complejos de trans-platino con aminas alifáticas asimétricas pueden considerarse una nueva clase de derivados de platino con actividad citotóxica (AU)</dc:description>
+<dc:source>Oncologia;23(5): 223-231, mayo 2000. Tab, Graf, Ilus</dc:source>
+<dc:identifier>ibc-10312</dc:identifier>
+<dc:title xml:lang="es">Nuevos compuestos de Trans-platino con aminas alifáticas asimétricas. Citotoxicidad, inducción de apoptosis e inhibición de la sobreexpresión de H-ras</dc:title>
+<dc:subject>^d30827^s22021</dc:subject>
+<dc:subject>^d974^s22078</dc:subject>
+<dc:subject>^d10122^s22078</dc:subject>
+<dc:subject>^d29303^s22021</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200005</dc:date>
+</metadata>
+</record>
+</ibecs-document>

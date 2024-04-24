@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-5298</identifier>
+<setSpec>0378-4835</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Intensity-Modulated radiotherapy and inverse planning</dc:title>
+<dc:creator>Arrans Lara, R</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Alpe Editores, S.A.</dc:publisher>
+<dc:description xml:lang="es">Los nuevos avances que ha experimentado la radioterapia ofrecen nuevas y potentes herramientas para el tratamiento del cáncer. Entre ellos, la radioterapia con intensidad modulada (IMRT) es quizás uno de los más significativos. Desde sus comienzos, la obtención de la solución óptima para un tratamiento con IMRT se ha enfocado como un problema inverso, es decir, dadas unas limitaciones de dosis para blanco y órganos de riesgo, se trata de obtener la distribución de fluencia que haga mínima la llamada función objetivo que es, básicamente, la diferencia entre la dosis calculada y la prescrita. Este trabajo revisa los métodos más importantes para enfocar este problema (AU)</dc:description>
+<dc:source>Oncologia;25(2): 86-92, feb. 2002. ilus</dc:source>
+<dc:identifier>ibc-5298</dc:identifier>
+<dc:title xml:lang="es">Radioterapia con intensidad modulada y planificación inversa</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d19062</dc:subject>
+<dc:subject>^d51846</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9562^s22059</dc:subject>
+<dc:subject>^d12314^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200202</dc:date>
+</metadata>
+</record>
+</ibecs-document>

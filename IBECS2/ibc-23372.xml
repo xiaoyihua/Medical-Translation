@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-23372</identifier>
+<setSpec>0213-5434</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Influence of several analytical conditions on whole blood cholinesterase activity determination by Ellman method</dc:title>
+<dc:creator>Martínez Subiela, S</dc:creator>
+<dc:creator>Tecles, F</dc:creator>
+<dc:creator>Cerón, JJ</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Facultad de Veterinaria. Universidad de Murcia</dc:publisher>
+<dc:description xml:lang="es">En este trabajo se pretende estudiar y evaluar las principales fuentes de variación que pueden provocar variabilidad en la determinación de colinesterasa en sangre entera. Para este fin se analizaron alícuotas de sangre entera de perro bajo distintas condiciones analíticas. Se observó un aumento de la actividad colinesterasa conforme se incrementó la temperatura de reacción. La mayor actividad colinesterasa se encontró en un intervalo de pH entre 8.0 y 8.5; sin embargo, una fuerte elevación de la hidrólisis no enzimática del sustrato tiene lugar cuando el pH excede de 7.5, lo que haría recomendable el empleo de pH 7.5. Aunque los valores más elevados de actividad se alcanzaron con una concentración del sustrato acetiltiocolina iodada de 5x10-3 M y de butiriltiocolina iodada de 10x10-3 M, se describió un fuerte aumento de la hidrólisis no enzimática de los sustratos a estas concentraciones, por lo que se prefirió emplear una concentración de ambos sustratos de 1x10-3 M. El cromóforo ácido 5,5&#146;-ditiobis-2-nitrobenzoico, y los sustratos acetiltiocolina iodada y butiriltiocolina iodada, permanecieron estables al menos durante tres meses si eran conservados a una temperatura de -20ºC. Los datos aportados permitirán contribuir a un mejor conocimiento de las fuentes de variación que afectan a la determinación de colinesterasa en sangre entera, y a la estandarización de las condiciones analíticas utilizadas (AU)</dc:description>
+<dc:source>An. vet. Murcia;17: 67-80, ene. 2001. ilus, tab</dc:source>
+<dc:identifier>ibc-23372</dc:identifier>
+<dc:title xml:lang="es">Influencia de diversas condiciones analíticas en la determinación de colinesterasa en sangre entera mediante el método de Ellman</dc:title>
+<dc:subject>^d2125^s22002</dc:subject>
+<dc:subject>^d2126^s22002</dc:subject>
+<dc:subject>^d4290^s22002</dc:subject>
+<dc:subject>^d7014^s22021</dc:subject>
+<dc:subject>^d4345</dc:subject>
+<dc:subject>^d4869</dc:subject>
+<dc:subject>^d131^s22002</dc:subject>
+<dc:subject>^d2852^s22062</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d2852^s22002</dc:subject>
+<dc:subject>^d10121^s22002</dc:subject>
+<dc:subject>^d2255^s22002</dc:subject>
+<dc:subject>^d2255^s22068</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200101</dc:date>
+</metadata>
+</record>
+</ibecs-document>

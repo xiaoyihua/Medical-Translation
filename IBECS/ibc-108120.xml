@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-108120</identifier>
+<setSpec>0001-6519</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Role of genomic medicine in middle and inner ear diseases</dc:title>
+<dc:description xml:lang="en">Introduction and objectives: Genomic medicine investigates groups of genetic markers that determine susceptibility for complex diseases. The aim of this review was to introduce genomics to the clinical otorhinolaryngologist. Technological advances in genotyping and sequencing that have facilitated genome-wide association studies in common causes of hearing loss during the last years are summarised. Methods: A search strategy in PubMed was designed using the following keywords: (gene OR genomics OR GWAS OR high throughput) AND (hearing loss OR chronic otitis media OR age-related hearing loss OR otosclerosis OR Meniere's disease) during the last 5 years. A total of 1,846 references were obtained. After filtering by human studies and English as the language of publication, 1,295 summaries were evaluated, selecting 58 papers. Results: The impact of sequencing the human genome in the knowledge of genome architecture, DNA variability and the significance of structural variations in the sequence to cause diseases is presented. The evolution of sequencing technology has determined the design and performance of genetic association studies. Finally, we present genetic association studies performed in common causes of ear diseases(AU)</dc:description>
+<dc:creator>López-Escamez, José Antonio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos: La medicina genómica estudia la susceptibilidad que determinan grupos de marcadores genéticos para el desarrollo de las enfermedades genéticas complejas. El objetivo de esta revisión es introducir al otorrinolaringólogo clínico a la genómica. Se resumen los avances tecnológicos en genotipado y secuenciación que se han producido en los últimos años, y que han permitido el desarrollo de estudios de asociación genómica a gran escala en las causas más comunes de hipoacusia. Métodos: Se ha diseñado una estrategia de búsqueda en PubMed mediante los siguientes términos: (gene OR genomics OR GWAS OR high throughput) AND (hearing loss OR chronic otitis media OR age-related hearing loss OR otosclerosis OR Meniere&#145;s disease) durante los últimos 5 años. Se obtuvieron un total de 1.846 referencias, que se filtraron a los estudios en humanos y publicados en inglés. Se evaluaron 1.295 resúmenes, seleccionándose finalmente 58 trabajos. Resultados: Se describe el impacto de la secuenciación del genoma humano que ha permitido conocer la arquitectura del genoma, la variabilidad del ADN, y la relevancia de las variaciones estructurales en el desarrollo de las enfermedades. Se comenta la evolución de la tecnología de secuenciación, describiéndose los diversos tipos de estudios de asociación génética. Finalmente, se presentan los estudios de asociación genética que se han realizado en las enfermedades más comunes del oido(AU)</dc:description>
+<dc:source>Acta Otorrinolaringol Esp;63(6): 470-479, nov.-dic. 2012. tab</dc:source>
+<dc:identifier>ibc-108120</dc:identifier>
+<dc:title xml:lang="es">Papel de la medicina genómica en las enfermedades del oído medio e interno</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d10211^s22033</dc:subject>
+<dc:subject>^d10218^s22033</dc:subject>
+<dc:subject>^d8745^s22033</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6470^s22033</dc:subject>
+<dc:subject>^d22152^s22033</dc:subject>
+<dc:subject>^d24411^s22033</dc:subject>
+<dc:subject>^d7936^s22033</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201212</dc:date>
+</metadata>
+</record>
+</ibecs-document>

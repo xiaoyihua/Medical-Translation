@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-25075</identifier>
+<setSpec>0004-0614</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Urodynamics principles, flow curve, and urethral Doppler ultrasound. (Micturitional power and spectral power calculation)</dc:title>
+<dc:creator>Benítez Navío, Julio</dc:creator>
+<dc:creator>Delgado Elipe, Ildefonso</dc:creator>
+<dc:creator>Caballero Gómez, Pilar</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Iniestares, S. A.</dc:publisher>
+<dc:description xml:lang="es">OBJETIVOS: Presentamos aquí el cálculo de dos parámetros, que por su interés eminentemente práctico, nos ayudan a la comprensión de los fenómenos vesicales. Estos son, la potencia real (total) desarrollada durante la micción por el enfermo. Y la potencia espectral de la curva de flujo, considerando a ésta como una señal discreta de tiempo finito. MÉTODOS: Utilizamos el eco doppler para el cálculo de la potencia impulsora de la orina hacia el exterior.El cálculo de la potencia espectral, entra dentro de los métodos de cálculo auxiliares, que se emplean para el cálculo de la potencia contráctil en aquellos casos en los que la curva de flujo tiene varias "jorobas", y solo hemos podido calcular la potencia real en una de ellas, porque el doppler solo ha medido la velocidad en un bucle. RESULTADO: Presentamos un caso, con varios bucles en la curva de flujo y en el que solo pudimos tomar la velocidad en uno de ellos.El cálculo de la potencia espectral nos permite comparar bucles y así calcular la potencia total, simplemente sumando. CONCLUSIONES: Ambas "POTENCIAS", como expresión del mismo fenómeno, son distintas y reflejan el proceso de la micción, vista esta desde la curva de flujo, uno; y desde la contracción del detrusor, el otro. Creemos interesante su conocimiento, como elemento útil de trabajo. Igualmente queda demostrada la utilidad del ecodoppler para la obtención de los valores de la velocidad de la orina a su paso por la uretra. Imprescindible para el cálculo de la potencia contráctil de la vejiga (AU)</dc:description>
+<dc:source>Arch Esp Urol;56(5): 503-508, jun. 2003.</dc:source>
+<dc:identifier>ibc-25075</dc:identifier>
+<dc:title xml:lang="es">Fundamentos de urodinámica, la curva de flujo y el eco-doppler uretral.(Cálculo de la potencia miccional y de la potencia espectral)</dc:title>
+<dc:subject>^d14919</dc:subject>
+<dc:subject>^d14963</dc:subject>
+<dc:subject>^d31994</dc:subject>
+<dc:subject>^d19062</dc:subject>
+<dc:subject>^d14954</dc:subject>
+<dc:subject>^d12623</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9309</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200306</dc:date>
+</metadata>
+</record>
+</ibecs-document>

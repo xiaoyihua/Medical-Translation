@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-041223</identifier>
+<setSpec>1139-1375</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The experience of sledd in patients in intensive care</dc:title>
+<dc:description xml:lang="en">The use of mixed dialytic techniques such as SLEDD (Slowlow efficient daily dialysis) offers multiple benefits that maybe very useful in intensive care units, as they combine the advantages of conventional haemodialysis (intermittent) and continuous dialytic techniques. In the SLEDD technique, we will submit a patient to a &#147;haemodialysis&#148; where certain characteristics are altered, such as the duration of the procedure, the flow of the dialysis ant and the blood pumping speed. All of this is done to adapt the technique to the delicate haemodynamic situation of the patients and in order to achieve at shorter times than with continuous techniques, the same or greater purification of urea and creatinine and a larger volume of ultrafiltered liquid. This work describes an experimental implementation of SLEDD, comparing it with a continuous technique in an intensive care unit. It was shown that it gives benefits for the patient in physiological terms, advantages for nursing personnel and also economic advantages. The mean urea and creatinine clarification rates of SLEDD are better than those of continuous techniques, and the consequences of this mixed technique in haemodynamic terms for patients are similar and sometimes less decompensating than the continuous techniques, even in situations where there is amine support</dc:description>
+<dc:creator>Santos Caramelo, Nuno Joao dos</dc:creator>
+<dc:creator>Domínguez Fernández, Jesús</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El uso de técnicas dialíticas mixtas como la SLEDD (Slowlow efficient daily dialysis) ofrece numerosos beneficios que pueden ser muy útiles en las unidades de cuidados intensivos, dado que combinan las ventajas de la hemodiálisis convencional (intermitente) y las técnicas dialíticas continuas. En la técnica SLEDD sometemos a un paciente a una &#147;hemodiálisis&#148; en la que se alteran ciertas características, como son entre otras, la duración del procedimiento, el flujo del dializante y la velocidad de la bomba de sangre. Todo esto se hace con la pretensión de adaptar la técnica a la delicada situación hemodinámica de los pacientes y con el objetivo de alcanzar en un periodo de tiempo menor al de las técnicas continuas, una igual o mayor depuración de urea y creatinina, y un mayor volumen de líquido ultrafiltrado. Se describe en este trabajo una experiencia de implementación de SLEDD, comparándola con una técnica continua, en una unidad de cuidados intensivos. Se demostró que aporta beneficios para el paciente en términos fisiológicos, ventajas para el personal de enfermería y también ventajas de tipo económico. Las tasas medias de aclaramiento de urea y creatinina de la SLEDD son superiores a las de las técnicas continuas, y las consecuencias de esta técnica mixta en términos hemodinámicos para el paciente, son similares y a veces menos descompensadoras que las técnicas continuas, incluso en situaciones en las que existe soporte de aminas</dc:description>
+<dc:source>Rev. Soc. Esp. Enferm. Nefrol;8(2): 103-107, abr.-jun. 2005. tab, graf</dc:source>
+<dc:identifier>ibc-041223</dc:identifier>
+<dc:title xml:lang="es">Experiencia sobre sledd en cuidados intensivos</dc:title>
+<dc:subject>^d3439^s22045</dc:subject>
+<dc:subject>^d29407^s22045</dc:subject>
+<dc:subject>^d29407^s22024</dc:subject>
+<dc:subject>^d14907^s22002</dc:subject>
+<dc:subject>^d3421^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d6590</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200506</dc:date>
+</metadata>
+</record>
+</ibecs-document>

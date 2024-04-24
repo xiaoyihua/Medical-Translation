@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-104015</identifier>
+<setSpec>1137-6821</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Evaluation of time-series models for forecasting demand for emergency health care services</dc:title>
+<dc:description xml:lang="en">Objective: To evaluate a combined set of 6 time-series models for improving the management of short-term calls for emergency health services. Methods: The demand for emergency health services in the province of Malaga was analyzed between 2004 and 2008.Using standard software, we constructed and evaluated 3 decomposition models and 3 econometric models. The models considered summer months and atypical values, influenza cases, and number of overnight admissions as the exogenous inputs. We compared the models using the usual econometric tests, such as the root mean square error(RMSE), the mean absolute percentage error (MAPE), and the maximum absolute percentage error (MaxAPE) among others Results: The models had MAPEs under 5%. Autoregressive integrated moving average (ARIMA) modeling with intervention had the lowest RMSE. Harmonic analysis had the smallest difference between the MAPE and MaxAPE. In the validation phase, ARIMA with intervention had the poorest fit, and harmonic analysis and ARIMA with exogenous input had the best fits. Conclusions: A forecast of the demand for emergency calls can be generated using 2 models simultaneously to improve short-term planning. Decomposition models and ARIMA with intervention warn of unexpected changes, whereas ARIMA or other models with exogenous inputs and harmony component analysis can introduce alternative planning scenarios, improve our understanding of demand, and facilitate decision-making. Implementing these models with standard software decreases the cost of this approach in emergency services (AU)</dc:description>
+<dc:creator>Patón Arévalo,  J. M</dc:creator>
+<dc:creator>Varo González, C</dc:creator>
+<dc:creator>Díaz-Hierro, J</dc:creator>
+<dc:creator>Martín Martín, J. J</dc:creator>
+<dc:creator>López del Amo González, M. P</dc:creator>
+<dc:creator>Vilches Arenas, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Evaluar las ventajas de la utilización conjunta de 6 modelos de series temporales para mejorar la gestión de la demanda a corto plazo de llamadas de emergencias sanitarias. Método: Se ha analizado la demanda de emergencias sanitarias en el Servicio Provincial de Málaga entre 2004 y 2008 mediante 6 modelos desarrollados con software estándar, tres modelos de descomposición y tres econométricos, que consideran meses estivales y valores atípicos, casos de gripe y número de pernoctaciones como variables exógenas. La comparación de modelos se ha realizado mediante test econométricos habituales: la raíz cuadrada del error cuadrático medio (RMSE), el error absoluto porcentual medio (MAPE) y el máximo del error absoluto porcentual medio (MaxAPE) entre otros. Resultados: Los modelos presentan un MAPE inferior al 5%. En la fase de estimación, el modelo ARIMA con intervención presenta la menor RMSE. El modelo estructural armónico obtiene el menor recorrido entre el MAPE y MaxAPE. En la fase de validación, el modelo ARIMA con intervención muestra el peor ajuste, y el modelo estructural armónico y ARIMAX los mejores. Conclusiones: El empleo simultáneo de los modelos genera un intervalo de pronósticos de demanda de emergencias que mejora la planificación a corto plazo. Los modelos de des composición y ARIMA con intervención alertan ante cambios inesperados, mientras que los modelos que incorporan variables exógenas, ARIMAX y estructural armónico, introducen escenarios alternativos de planificación, mejoran el conocimiento de la demanda y apoyan la toma de decisiones. Su implementación con software estándar disminuye los costes de aplicación en centros de emergencias (AU)</dc:description>
+<dc:source>Emergencias (Sant Vicenç dels Horts);24(3): 181-188, jun. 2012. ilus, tab</dc:source>
+<dc:identifier>ibc-104015</dc:identifier>
+<dc:title xml:lang="es">Evaluación de modelos de series temporales para la previsión de la demanda de emergencias sanitarias</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d4707^s22049</dc:subject>
+<dc:subject>^d34704</dc:subject>
+<dc:subject>^d34635</dc:subject>
+<dc:subject>^d19291^s22074</dc:subject>
+<dc:subject>^d555</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28419</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201206</dc:date>
+</metadata>
+</record>
+</ibecs-document>

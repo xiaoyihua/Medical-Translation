@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-151193</identifier>
+<setSpec>1138-9672</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The application of causal diagrams to conceptualize mechanisms in occupational epidemiology</dc:title>
+<dc:description xml:lang="en">Although a goal of epidemiological research is to identify causal relationships between a risk factor and a health problem, the methodology employed often sacrifices internal validity to gain capacity to detect associations. There are new graphical and statistical methods that can help unravel the possible causal mechanisms and better understand this 'black box'. This paper presents causal diagrams, one of the most useful tools for mapping out, prior to analysis, whether a possible association is causal or just due to bias. To demonstrate its usefulness, we use occupational health examples, showing how associations may arise through non-causal pathways as a result of bias. In conclusion, we recommend the routine practice of using causal diagrams in epidemiological research (AU)</dc:description>
+<dc:creator>Benavides, Fernando G</dc:creator>
+<dc:creator>Forero, Carlos G</dc:creator>
+<dc:creator>Sánchez Niubò, Albert</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Pese a que un objetivo de la epidemiología es la identificación de relaciones de causalidad entre un factor de riesgo y un problema de salud, la metodología de investigación de esta disciplina sacrifica a menudo la validez interna a favor de la capacidad de detección de asociación. Existen métodos gráficos y estadísticos que pueden ayudar a desentrañar los posibles mecanismos causales y así conocer algo mejor la llamada 'caja negra'. En esta nota se presentan los diagramas causales, una de las herramientas más útiles para plantear, antes del análisis, si una posible asociación es causal o simplemente debida a un sesgo. Para mostrar su utilidad, se proponen varias situaciones en el ámbito de salud laboral, mostrando cómo puede surgir asociación en rutas no causales a consecuencia de un sesgo. En conclusión, se recomienda el uso de los diagramas causales como parte de la praxis habitual en la investigación epidemiológica (AU)</dc:description>
+<dc:source>Arch. prev. riesgos labor. (Ed. impr.);19(2): 103-106, abr.-jun. 2016. ilus</dc:source>
+<dc:identifier>ibc-151193</dc:identifier>
+<dc:title xml:lang="es">Utilidad de los diagramas causales para conceptualizar mecanismos en epidemiología laboral</dc:title>
+<dc:subject>^d19144^s22048</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d28615^s22045</dc:subject>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d28600</dc:subject>
+<dc:subject>^d28633</dc:subject>
+<dc:subject>^d16923^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d29063^s22002</dc:subject>
+<dc:subject>^d29064^s22048</dc:subject>
+<dc:subject>^d9971^s22049</dc:subject>
+<dc:subject>^d29063^s22054</dc:subject>
+<dc:subject>^d9967^s22080</dc:subject>
+<dc:subject>^d28615^s22039</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201606</dc:date>
+</metadata>
+</record>
+</ibecs-document>

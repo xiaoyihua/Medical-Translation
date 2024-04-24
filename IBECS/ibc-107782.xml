@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-107782</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Developing a Search Engine for Pharmacotherapeutic Information that is Not Published in Biomedical Journals</dc:title>
+<dc:description xml:lang="en">Objective To identify publishers of pharmacotherapeutic information not found in biomedical journals that focuses on evaluating and providing advice on medicines and to develop a search engine to access this information. Methods Compiling web sites that publish information on the rational use of medicines and have no commercial interests. Free-access web sites in Spanish, Galician, Catalan or English. Designing a search engine using the Google &#147;custom search&#148; application. Results Overall 159 Internet addresses were compiled and were classified into 9 labels. We were able to recover the information from the selected sources using a search engine, which is called &#147;AlquimiA&#148; and available from http://www.elcomprimido.com/FARHSD/AlquimiA.htmConclusionsThe main sources of pharmacotherapeutic information not published in biomedical journals were identified. The search engine is a useful tool for searching and accessing &#147;grey literature&#148; on the Internet (AU)</dc:description>
+<dc:creator>Do Pazo-Oubiña, F</dc:creator>
+<dc:creator>Calvo Pita, C</dc:creator>
+<dc:creator>Ventayol Bosch, P</dc:creator>
+<dc:creator>Puigventós Latorre, F</dc:creator>
+<dc:creator>Periañez-Párraga, L</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo Identificar productores de información farmacoterapéutica no publicada en revistas biomédicas orientada a la evaluación y posicionamiento terapéutico de los medicamentos y desarrollar un buscador para el acceso a dicha información. Métodos Recopilación de sitios web productores de información sobre uso racional de los medicamentos e independientes de los intereses promocionales. Páginas web de acceso libre, y en castellano, gallego, catalán o inglés. Diseño de un buscador mediante aplicación «búsqueda personalizada» de Google. Resultados Se han recopilado 159 direcciones de Internet y se han clasificado en 9 etiquetas. El buscador, denominado AlquimiA y accesible desde http://www.elcomprimido.com/FARHSD/AlquimiA.htm, permite recuperar información de las fuentes seleccionadas. Conclusiones Se han identificado las principales fuentes de información farmacoterapéutica no publicada en revistas biomédicas. El buscador constituye una herramienta útil para la búsqueda y acceso a las publicaciones de «evidencia gris» en Internet (AU)</dc:description>
+<dc:source>Farm Hosp;35(5): 254e1-254e5, Sep. -Oct. 2011. tab</dc:source>
+<dc:identifier>ibc-107782</dc:identifier>
+<dc:title xml:lang="es">Desarrollo de un buscador de información farmacoterapéutica no publicada en revistas biomédicas</dc:title>
+<dc:subject>^d28994</dc:subject>
+<dc:subject>^d4403^s22066</dc:subject>
+<dc:subject>^d4408^s22049</dc:subject>
+<dc:subject>^d52939^s22049</dc:subject>
+<dc:subject>^d53806</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201110</dc:date>
+</metadata>
+</record>
+</ibecs-document>

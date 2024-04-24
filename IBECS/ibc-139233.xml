@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-139233</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Diagnostic reference levels in interventional radiology</dc:title>
+<dc:description xml:lang="en">This article discusses the diagnostic reference levels for radiation exposure proposed by the International Commission on Radiological Protection (ICRP) to facilitate the application of the optimization criteria in diagnostic imaging and interventional procedures. These levels are normally established as the third quartile of the dose distributions to patients in an ample sample of centers and are supposed to be representative of good practice regarding patient exposure. In determining these levels, it is important to evaluate image quality as well to ensure that it is sufficient for diagnostic purposes. When the values for the dose received by patients are systematically higher or much lower than the reference levels, an investigation should determine whether corrective measures need to be applied. The European and Spanish regulations require the use of these reference values in quality assurance programs. For interventional procedures, the dose area product (or kerma area product) values are usually used as reference values together with the time under fluoroscopy and the total number of images acquired. The most modern imaging devices allow the value of the accumulated dose at the entrance to the patient to be calculated to optimize the distribution of the dose on the skin. The ICRP recommends that the complexity of interventional procedures be taken into account when establishing reference levels. In the future, diagnostic imaging departments will have automatic systems to manage patient dosimetric data; these systems will enable continuous dosage auditing and alerts about individual procedures that might involve doses several times above the reference values. This article also discusses aspects that need to be clarified to take better advantage of the reference levels in interventional procedures (AU)</dc:description>
+<dc:creator>Fernández Soto, J. M</dc:creator>
+<dc:creator>Ten Morón, J. I</dc:creator>
+<dc:creator>Sánchez Casanueva, R. M</dc:creator>
+<dc:creator>Vañó Carruana, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Se describe el concepto de los niveles de referencia de dosis para diagnóstico («diagnostic reference levels») propuestos por la Comisión Internacional de Protección Radiológica (ICRP) como ayuda para la aplicación del criterio de optimización en radiodiagnóstico y en procedimientos intervencionistas. Dichos niveles se establecen habitualmente como el tercer cuartil de las distribuciones de dosis a pacientes en una muestra amplia de centros y se supone que son valores representativos de buena práctica desde un punto de vista de la protección del paciente. Durante su determinación, se debe evaluar también la calidad de las imágenes para asegurar que es suficiente para el diagnóstico. Cuando los valores de las dosis a los pacientes resultan ser sistemáticamente mayores o mucho más bajos que los valores de referencia, procede realizar una investigación para la posible aplicación de medidas correctoras. Las normativas europea y española de protección del paciente obligan a utilizar los valores de referencia en los programas de calidad. Para los procedimientos intervencionistas se suelen utilizar como valores de referencia el producto dosis área (o producto kerma área) junto con el tiempo de fluoroscopia y el número total de imágenes adquiridas. En los equipos más modernos, se puede también utilizar el valor de la dosis acumulada a la entrada del paciente para optimizar la distribución de la dosis en la piel. La ICRP recomienda que se tenga en cuenta la complejidad de los procedimientos intervencionistas cuando se establecen los valores de referencia. Los servicios de diagnóstico por imagen dispondrán en el futuro de sistemas automáticos de gestión de datos dosimétricos a pacientes que permitirán la auditoría continua de las dosis y recibir alertas sobre procedimientos individuales que puedan registrar dosis varias veces por encima de los valores de referencia. Se presentan también los aspectos que requieren aclaraciones para el mejor aprovechamiento de los niveles de referencia en intervencionismo (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);55(supl.2): 17-24, dic. 2013. tab, ilus</dc:source>
+<dc:identifier>ibc-139233</dc:identifier>
+<dc:title xml:lang="es">Niveles de referencia de dosis en radiología intervencionista</dc:title>
+<dc:subject>^d12268</dc:subject>
+<dc:subject>^d24848^s22045</dc:subject>
+<dc:subject>^d24848^s22048</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12437</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201312</dc:date>
+</metadata>
+</record>
+</ibecs-document>

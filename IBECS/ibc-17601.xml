@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-17601</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Artificial neural networks applied to the survival analysis: a comparative study with Cox regression model in its predictive aspect</dc:title>
+<dc:description xml:lang="en">The purpose of this study was to compare the performance in prediction between the models of Artificial Neural Networks (ANN) and Cox proportional hazards models in the context of survival analysis. More specifically, we tried to verify: a) if the model of hierarchical neural networks is more accurate than Cox&#146;s model, and b) if the model of sequential neural networks signifies an improvement with respect to the hierarchical neural networks model. The accuracy was evaluated through resolution (the area under the ROC curve) and calibration (Hosmer-Lemeshow test) measures using survival data. Results showed that hierarchical neural networks outperform Cox&#146;s model in resolution while sequential neural networks do not suppose an improvement with respect to hierarchical neural networks. Finally, ANN models produced survival curves that were better adjusted to reality than Cox&#146;s model (AU)</dc:description>
+<dc:creator>Palmer Pol, Alfonso</dc:creator>
+<dc:creator>Montaño Moreno, Juan José</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El objetivo de este estudio fue comparar el rendimiento en predicción entre los modelos de Redes Neuronales Artificiales (RNA) y el modelo de riesgos proporcionales de Cox en el contexto del análisis de supervivencia. Más concretamente, se intentó comprobar: a) si el modelo de redes neuronales jerárquicas es más preciso que el modelo de Cox, y b) si el modelo de redes neuronales secuenciales supone una mejora respecto al modelo de redes neuronales jerárquicas. La precisión fue evaluada a partir de medidas de resolución (área bajo la curva ROC) y calibración (prueba de Hosmer-Lemeshow) usando un conjunto de datos de supervivencia. Los resultados mostraron que las redes neuronales jerárquicas tienen un mejor rendimiento en resolución que el modelo de Cox, mientras que las redes secuenciales no suponen una mejora respecto a las redes neuronales jerárquicas. Finalmente, los modelos de RNA proporcionan curvas de supervivencia más ajustadas a la realidad que el modelo de Cox (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);14(3): 630-636, ago. 2002. tab, graf</dc:source>
+<dc:identifier>ibc-17601</dc:identifier>
+<dc:title xml:lang="es">Redes neuronales artificiales aplicadas al análisis de supervivencia: un estudio comparativo con el modelo de regresión de Cox en su aspecto predictivo</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d24890</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d29935</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9150</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200208</dc:date>
+</metadata>
+</record>
+</ibecs-document>

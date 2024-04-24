@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-89622</identifier>
+<setSpec>0212-6982</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Interobserver agreement in the visual and semi-quantitative analysis of the 123I-FP-CIT SPECT images in the diagnosis of Parkinsonian syndrome</dc:title>
+<dc:description xml:lang="en">Aims. Using 123I-FP-CIT SPECT images makes it possible to identify presynaptic deterioration of the dopaminergic pathway by studying the dopamine transporter (DAT). A correct analysis of the SPECT images contributes to an adequate interpretation and diagnosis of movement disorders. Aims: 1. To compare visual and semiquantitative analysis of 123I-FP-CIT SPECT images in patients with movement disorders. 2. To evaluate interobserver agreement in visual and semiquantitative analysis. 3. To obtain a cut-off in the semiquantitative analysis to discriminate primary Parkinsonism Syndrome (PS) from non-primary PS. Methods. A 123I-FP-CIT SPECT was performed in 32 patients with movement disorders suggestive of primary PS. Visual and semiquantitative images analyses were performed independently by two nuclear medicine physicians. Visual analysis was based on the visual interpretation. Semiquantitative analysis was calculated as specific uptake (caudate, putamen and striatum) versus non-specific uptake (occipital). Sensitivity, specificity, PPV, and NPV were calculated. Data were compared using ANOVA test followed by Bonferroni post-hoc test. Interobserver agreement of the visual and semiquantitative analysis was assessed by intraclass correlation coefficient and Kappa statistics, respectively. ROC curve was generated with semiquantitative data. Results. Visual analysis showed 86% sensitivity and 100-88% specificity for the differential diagnosis of primary PS from non-primary PS. Semiquantitative analysis showed a gradual hypouptake proportional to the disease severity obtained in the visual analysis. Semiquantitative analysis did not provide any additional information to the visual analysis. Intraclass correlation coefficient and Kappa statistics showed 0.92 and 0.80 values, respectively. The Cut-off value to differentiate primary PS from non-primary PS was 1.9 on the putamen index(AU)</dc:description>
+<dc:creator>Mojal, S</dc:creator>
+<dc:creator>Balaguer, E</dc:creator>
+<dc:creator>Suárez-Piñera, M</dc:creator>
+<dc:creator>Prat, M. L</dc:creator>
+<dc:creator>Mestre-Fusco, A</dc:creator>
+<dc:creator>Fuertes, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos. El SPECT 123I-FP-CIT permiten identificar el deterioro presináptico de la vía dopaminérgica mediante el estudio de los transportadores de la dopamina (DAT). Un análisis correcto de las imágenes SPECT contribuye una adecuada interpretación y diagnóstico de los trastornos del movimiento. Objetivos: 1. Comparar el análisis visual y semicuantitativo del SPECT 123I-FP-CIT. 2. Evaluar el acuerdo interobservador en ambos análisis. 3. Buscar un punto de corte del análisis semicuantitativo que permita discriminar SP primarios de no SP primarios. Métodos. Se realizó un 123I-FP-CIT SPECT a 32 pacientes con sospecha clínica de SP primario de no SP primario. El análisis visual y semicuantitativo fueron realizados de forma independiente por dos médicos nucleares. El análisis visual se basó en la interpretación visual de las imágenes. El análisis semicuantitativo se determinó como la relación entre la actividad específica y la no específica. Se calcularon S, E, VPP y VPN. La comparación de los datos se realizó usando el test ANOVA seguido de la corrección de Bonferroni. El coeficiente de correlación intraclase y la Kappa estadística midieron el grado de acuerdo interobservador de ambos análisis respectivamente. Se generó una curva ROC del análisis semicuantitativo. Resultados. El análisis visual mostró una S de 86% y una E de 100-88% en el diagnóstico diferencial del SP primario del no SP primario. El análisis semicuantitativo mostró una hipocaptación gradual proporcional al grado de severidad objetivado en el análisis visual. El análisis semicuantitativo no mostró ninguna información adicional al visual. El coeficiente de correlación intraclase y la Kappa estadística mostraron unos valores de 0,92 y 0,80 respectivamente. El dintel para diferenciar SP primarios de no SP primarios fue de 1,9 como índice putaminal(AU)</dc:description>
+<dc:source>Rev Esp Med Nucl;30(4): 229-235, jul.-ago. 2011.</dc:source>
+<dc:identifier>ibc-89622</dc:identifier>
+<dc:title xml:lang="es">Concordancia interobservador en el análisis visual y semicuantitativo de las imágenes SPECT 123I-FP-CIT en el diagnóstico del síndrome parkinsoniano</dc:title>
+<dc:subject>^d24895^s22045</dc:subject>
+<dc:subject>^d28620</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d27977</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23620</dc:subject>
+<dc:subject>^d10489^s29166</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24895^s22074</dc:subject>
+<dc:subject>^d23620^s22044</dc:subject>
+<dc:subject>^d13195</dc:subject>
+<dc:subject>^d24895^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201108</dc:date>
+</metadata>
+</record>
+</ibecs-document>

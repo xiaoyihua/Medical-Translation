@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-20382</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Neurobiology of pain</dc:title>
+<dc:creator>Cerveró, F</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>César Viguera</dc:publisher>
+<dc:description xml:lang="es">Introducción y desarrollo. Las lesiones de la piel o de los órganos internos producen descargas en las fibras aferentes nociceptivas que inervan la zona dañada y, como consecuencia del proceso inflamatorio subsiguiente, sensibilizan las terminaciones nociceptivas. La actividad de los nociceptores sensibilizados produce dos altera ciones diferentes de la sensibilidad dolorosa: 1. Un cambio en la modalidad de las sensaciones evocadas por la activación de los mecanorreceptores de bajo umbral, que cambia de tacto a dolor (alodinia), y 2. Un aumento en la magnitud de las sensaciones dolorosas evocadas por los nociceptores mecanosensibles (hiperalgesia). La alodinia y la hiperalgesia demuestran la naturaleza dinámica de la sensación dolorosa, cuya presencia e intensidad dependen de la historia inmediata de las zonas afectadas y no sólo de la intensidad del estímulo. Mientras dure la lesión inicial y el proceso de reparación de la misma, existirá una actividad aumentada en los nociceptores que inervan esta zona. Estos aumentos de actividad nerviosa causan a su vez cambios centrales de excitabilidad como consecuencia de lazos de retroalimentación positiva entre la médula espinal y regiones supraespinales y de las acciones celulares de algunos neurotransmisores. Entre los posibles candidatos se han estudiado las acciones de los receptores NMDA y de las neurocininas como mediadores de los aumentos centrales de excitabilidad inducidas por estimulaciones nocivas. Conclusión. En su conjunto, el procesamiento central de la información nociceptiva combina los elementos clásicos de la vía nerviosa del dolor con la plasticidad dinámica característica de las acciones de los neurotransmisores no convencionales (AU)</dc:description>
+<dc:source>Rev Neurol;30(6): 551-555, mar. 2000.</dc:source>
+<dc:identifier>ibc-20382</dc:identifier>
+<dc:title xml:lang="es">Neurobiología del dolor</dc:title>
+<dc:subject>^d9666</dc:subject>
+<dc:subject>^d9665</dc:subject>
+<dc:subject>^d13499</dc:subject>
+<dc:subject>^d14677</dc:subject>
+<dc:subject>^d32115</dc:subject>
+<dc:subject>^d30624</dc:subject>
+<dc:subject>^d8634</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d10333</dc:subject>
+<dc:subject>^d20196</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200003</dc:date>
+</metadata>
+</record>
+</ibecs-document>

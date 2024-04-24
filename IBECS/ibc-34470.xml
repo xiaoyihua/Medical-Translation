@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-34470</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Gender-specific post-stimulus modulation in the alpha band during visual-spatial attention</dc:title>
+<dc:description xml:lang="en">Introduction. Previous studies of the spontaneous activity of the EEG indicate that women present bigger absolute spectral power in the alpha band than men, but few studies have been done during cognitive activity. Aim. To check possible gender differences in the EEG frequency domain during a visuo-spatial attentional task to understand better the temporary dynamics of alpha. Subjects and methods. A classic oddball paradigm was used whose stimuli (90% standard-10% objectives) were complex. In each block (10 with 100 trials) it was requested to the subjects (20, 10 of each gender) to attend to one of the visual fields (left and right, with random stimuli and identical probability). Power spectral density values were calculated applying the fast Fourier transform in the alpha band (9-11 Hz) in two overlapped windows (sliding windows): of 0-512 ms and of 412-924 ms. Results. The normalized data were analyzed by means of ANOVAs, with the following factors: gender, attention, hemisphere, visual field and electrodes. Conclusions. Different modulations were obtained attending to the gender variable: men showed smaller alpha or bigger suppression of the rhythm in posterior electrodes and women exhibited smaller power in anterior electrodes (AU)</dc:description>
+<dc:publisher>César Viguera</dc:publisher>
+<dc:description xml:lang="es">Introducción. Estudios previos de la actividad espontánea del EEG indican que las mujeres presentan mayor potencia espectral absoluta en la banda a que los hombres, pero existen escasos trabajos realizados durante actividad cognitiva. Objetivo. Comprobar posibles diferencias de género en el dominio de la frecuencia del EEG durante la realización de una tarea que requiere un procesamiento cognitivo de atención visuoespacial en dos intervalos sucesivos, desde la llegada del estímulo para comprender mejor la modulación y su dinámica temporal. Sujetos y métodos. Se utilizó un paradigma oddball clásico, cuyos estímulos (90 por ciento estándares-10 por ciento objetivos) eran complejos. En cada bloque (10 de 100 ensayos) se pidió al sujeto (20, 10 de cada género) que atendiera alternativamente a un solo campo visual (estímulos aleatorios y equiprobables). Al registro EEG se le aplicó la transformada rápida de Fourier para obtener la densidad de potencia espectral de la banda a (9-11 Hz) en dos ventanas solapadas (sliding windows): de 0-512 y de 412-924 ms. Resultados. Los datos normalizados se analizaron mediante ANOVA, con los factores: género, atención, hemisferio, campo visual y electrodos. Conclusiones. Se obtienen modulaciones de sentido opuesto en hombres y mujeres. Los hombres presentaron menos a o mayor supresión en electrodos posteriores y las mujeres presentaron menos en electrodos anteriores para la banda (AU)</dc:description>
+<dc:source>Rev Neurol;39(2): 109-114, jul. 2004.</dc:source>
+<dc:title xml:lang="es">Modulación postestímulo generoespecífica en la banda alfa durante la atención visuoespacial</dc:title>
+<dc:type>article</dc:type>
+<dc:creator>Cardoso Moreno, MJ</dc:creator>
+<dc:creator>Vázquez Marrufo, M</dc:creator>
+<dc:creator>Gómez González, CM</dc:creator>
+<dc:creator>Vaquero Casares, E</dc:creator>
+<dc:creator>González Rosa, JJ</dc:creator>
+<dc:language>es</dc:language>
+<dc:identifier>ibc-34470</dc:identifier>
+<dc:subject>^d27830</dc:subject>
+<dc:subject>^d4641</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d15197</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d1294</dc:subject>
+<dc:subject>^d13409</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:date>200407</dc:date>
+</metadata>
+</record>
+</ibecs-document>

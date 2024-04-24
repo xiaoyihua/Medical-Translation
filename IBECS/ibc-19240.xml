@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-19240</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Acronymus must always be defined when used for the first time: AMADEUS</dc:title>
+<dc:creator>Cheng, Tsung</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">No disponible</dc:description>
+<dc:source>Rev Esp Cardiol;55(12): 1341-1341, dic. 2002.</dc:source>
+<dc:identifier>ibc-19240</dc:identifier>
+<dc:title xml:lang="es">Los acrónimos deben definirse siempre cuando se usan por primera vez</dc:title>
+<dc:subject>^d33638</dc:subject>
+<dc:subject>^d37728</dc:subject>
+<dc:subject>^d10697</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200212</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-34567</identifier>
+<setSpec>0001-7310</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Skin reaction secondary to treatment with Iressa (ZA1839)</dc:title>
+<dc:creator>Alonso, Ignacio</dc:creator>
+<dc:creator>Venaclocha, Francisco</dc:creator>
+<dc:creator>Isarría, María José</dc:creator>
+<dc:creator>Segurado, Agustina</dc:creator>
+<dc:creator>Ortiz, Javier</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Iressa (gefitinib) es un nuevo agente antineoplásico utilizado en varios tumores sólidos. Actúa inhibiendo la actividad del receptor del factor de crecimiento epidérmico (EGFR), concretamente impidiendo la activación de la tirosinquinasa de dicho receptor. Presentamos un paciente varón de 78 años, diagnosticado de carcinoma epidermoide no microcítico de pulmón en estadio avanzado, que comenzó tratamiento con Iressa. A los pocos días de iniciar este tratamiento aparecieron lesiones pustulosas y papulosas localizadas en cara, nuca, tórax y axilas. La biopsia de una de ellas fue compatible con una foliculitis pustulosa. La suspensión temporal del tratamiento con Iressa indujo una rápida mejoría de las lesiones. Al reintroducir el fármaco las lesiones no volvieron a ser tan intensas, lo que permitió continuar con el tratamiento. Se desconoce el mecanismo por el que aparece una foliculitis pustulosa en pacientes tratados con Iressa (AU)</dc:description>
+<dc:source>Actas Dermosifiliogr;95(7): 459-461, sept. 2004. ilus</dc:source>
+<dc:identifier>ibc-34567</dc:identifier>
+<dc:title xml:lang="es">Reacción cutánea secundaria a tratamiento con Iressa (ZD1839)</dc:title>
+<dc:subject>^d5635^s22016</dc:subject>
+<dc:subject>^d14402^s22000</dc:subject>
+<dc:subject>^d5635^s22057</dc:subject>
+<dc:subject>^d30506^s22016</dc:subject>
+<dc:subject>^d5635^s22012</dc:subject>
+<dc:subject>^d13259^s22016</dc:subject>
+<dc:subject>^d21012</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d28884^s22000</dc:subject>
+<dc:subject>^d30506^s22057</dc:subject>
+<dc:subject>^d30506^s22012</dc:subject>
+<dc:subject>^d974^s22000</dc:subject>
+<dc:subject>^d28884^s22073</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d13259^s22057</dc:subject>
+<dc:subject>^d974^s22073</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200409</dc:date>
+</metadata>
+</record>
+</ibecs-document>

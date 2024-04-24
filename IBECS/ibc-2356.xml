@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-2356</identifier>
+<setSpec>0212-6567</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Information in Spanish for patients on the Internet</dc:title>
+<dc:creator>Blanco Pérez, A</dc:creator>
+<dc:creator>Gutiérrez Couto, U</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">No disponible</dc:description>
+<dc:source>Aten Primaria;28(4): 283-288, sept. 2001.</dc:source>
+<dc:identifier>ibc-2356</dc:identifier>
+<dc:title xml:lang="es">Información para pacientes en español en Internet</dc:title>
+<dc:subject>^d7980</dc:subject>
+<dc:subject>^d33921</dc:subject>
+<dc:subject>^d28483</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200109</dc:date>
+</metadata>
+</record>
+</ibecs-document>

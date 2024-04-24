@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-99443</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Chronic Cough With Limited Response to Treatment and Incidence of Gastroesophageal Reflux</dc:title>
+<dc:description xml:lang="en">Our objective was to evaluate the association between chronic cough and the variables that could influence the course of the cough in order to develop a profile for coughers with poor response to treatment. In our Chronic Cough Unit, 192 patients were prospectively followed up for 3 months, during which time all the variables that could influence the cough reflex were evaluated and treated. The improvement in cough was evaluated by the response of the patients to a visual analogical scale with scores from 0 to 4, considering 0 as «no changes» and an improvement as a score of 3 or 4. The cough was considered to have little response to treatment if it persisted without any improvement for more than 3 months. Using a multivariate logistic regression model, we input variables that were candidates for being associated with the improvement in cough 3 months later. In the final profile model of the cougher with poor prognosis, three variables remained: sex, typical gastroesophageal reflux and psychosocial disorder. Being male is associated with an improvement in cough 3 months later (OR=2.10, 95%CI 1.00-4.38). However, having gastroesophageal reflux is associated with a reduction in the improvement three months later in 55% (OR=0.45, 95%CI 0.24-0.84), and having a psychosocial disorder reduces the probability for improvement of the cough 3 months later in 70% (OR=0.30, 95%CI 0.09-1.03)(AU)</dc:description>
+<dc:creator>Cobeta, Ignacio</dc:creator>
+<dc:creator>Royuela, Ana</dc:creator>
+<dc:creator>Faro, Vicenta</dc:creator>
+<dc:creator>Pacheco, Adalberto</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Nuestro objetivo fue evaluar la asociación entre tos crónica y las variables que pudieran incidir en el curso de la tos, con objeto de extraer un perfil del tosedor de peor respuesta. En nuestra unidad de tos crónica 192 pacientes fueron seguidos prospectivamente durante 3 meses, durante los que se valoraron y trataron todas las variables que pudieran influir en el reflejo de la tos. La mejoría de la tos se evaluó por la respuesta del paciente ante una escala visual analógica con puntuaciones de 0 a 4, considerándose el valor 0 como «sin cambios», y como mejoría una puntuación en la escala de 3 o 4. Se consideró tos de escasa respuesta si persistía sin mejoría más allá de los 3 meses. Mediante un modelo de regresión logística multivariante se introdujeron variables candidatas a estar asociadas a la mejoría de la tos a los 3 meses. En el modelo final del perfil del tosedor de mal pronóstico permanecen 3 variables: sexo, reflujo gastroesofágico típico y trastorno psicosocial. Ser hombre está asociado con una mejoría de la tos a los 3 meses (OR=2,10, IC95%: 1,00-4,38). Sin embargo, presentar reflujo gastroesofágico está asociado con una reducción de la mejoría a los 3 meses en un 55% (OR=0,45, IC95%: 0,24-0,84), y padecer un trastorno psicosocial disminuye la probabilidad de mejoría de la tos a los 3 meses en un 70% (OR=0,30, IC95%: 0,09-1,03)(AU)</dc:description>
+<dc:source>Arch Bronconeumol;48(6): 197-201, jun. 2012. tab</dc:source>
+<dc:identifier>ibc-99443</dc:identifier>
+<dc:title xml:lang="es">Tos crónica de escasa respuesta al tratamiento e incidencia de reflujo gastroesofágico</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d3386^s22012</dc:subject>
+<dc:subject>^d1257^s22080</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d13530^s22074</dc:subject>
+<dc:subject>^d53499^s22012</dc:subject>
+<dc:subject>^d322^s22073</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24004^s22012</dc:subject>
+<dc:subject>^d28563^s22080</dc:subject>
+<dc:subject>^d23481^s22074</dc:subject>
+<dc:subject>^d22832^s22073</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201206</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-13948</identifier>
+<setSpec>0034-9356</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Computer applications in anesthesiology: graphic data displays of anesthesia</dc:title>
+<dc:creator>Pérez Cajaraville, J. J</dc:creator>
+<dc:creator>Ortiz Gómez, J. R</dc:creator>
+<dc:creator>Monedero Rodríguez, P</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">La introducción de la informática ha supuesto un cambio radical en la concepción de la Anestesiología. Supone mejoras en la calidad asistencial, gestión, control de gastos, docencia, investigación, seguridad y privacidad. Además permite optimizar el tiempo del anestesiólogo por quedar liberado de realizar tareas burocráticas repetitivas. La gráfica anestésica es sólo una de las posibilidades que ofrece la informática en Anestesiología, y es consecuencia de los avances en varios campos conectados entre sí, como en la monitorización, infusión continua de fármacos, sistemas y alarmas inteligentes, recogida y análisis automatizados de datos, monitorización en red y disponibilidad de material bibliográfico (conexión a Internet).La gráfica informatizada de anestesia es más precisa, legible, completa y fiable (en caso de incidentes críticos, sustituciones entre anestesiólogos o investigación) que la gráfica anestésica tradicional. Uno de sus mayores problemas hoy día, además del coste de su puesta en marcha, consiste en que al ser un documento médico-legal, habrá que especificar los artefactos de la monitorización (insertar comentarios en la gráfica anestésica) (AU)</dc:description>
+<dc:source>Rev Esp Anestesiol Reanim;49(3): 141-149, mar. 2002.</dc:source>
+<dc:identifier>ibc-13948</dc:identifier>
+<dc:title xml:lang="es">Aplicaciones de la informática en Anestesiología: gráfica anestésica</dc:title>
+<dc:subject>^d29040</dc:subject>
+<dc:subject>^d19243</dc:subject>
+<dc:subject>^d28904</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d787</dc:subject>
+<dc:subject>^d19164</dc:subject>
+<dc:subject>^d19130</dc:subject>
+<dc:subject>^d28905</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200203</dc:date>
+</metadata>
+</record>
+</ibecs-document>

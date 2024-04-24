@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-167494</identifier>
+<setSpec>1886-5887</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Big Data in Genomics: ethical challenges and risks</dc:title>
+<dc:description xml:lang="en">Genomic information is a class of Big Data in expanding use thanks to technological developments. Here, we review three categories of ethical risks and challenges associated with genomic information: privacy issues, the management of incidental findings, and challenges in data storage and sharing. First, we need to implement strong mechanisms to protect privacy, but genomic data faces specific risks and we need to acknowledge the possibility of re-identification. Proper usage of genomic information has to be regulated, including recommendations on incidental finding management. Also, clear policies for data sharing and explicit efforts to promote central repositories of genomic data should be established. However, technology and new applications of genetic information will develop fast and we should anticipate potential new risks (AU)</dc:description>
+<dc:creator>Via, Marc</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">La informació genòmica és un tipus de &#145;Big Data&#146; d&#146;ús creixent a causa de millores tecnològiques. En aquest treball, revisem tres grups de reptes i riscos ètics associats amb aquesta informació: riscos de privadesa, gestió de les troballes incidentals i reptes en l'emmagatzematge i compartició de dades. En primer lloc, hem d&#146;establir mecanismes sòlids per protegir la privadesa, però les dades genòmiques presenten riscos específics i hem d'admetre la possibilitat de reidentificació. Cal regular l'ús adequat de la informació genòmica incloent-hi recomanacions per a la gestió de les troballes incidentals. També cal establir polítiques clares per compartir dades i fomentar l'ús de repositoris de dades genòmiques. No obstant això, hem d'esperar desenvolupaments ràpids a la tecnologia i noves aplicacions de la informació genètica, i hem d'anticipar-nos als riscos potencials futurs (AU)</dc:description>
+<dc:source>Rev. bioét. derecho;(41): 33-45, nov. 2017. graf</dc:source>
+<dc:identifier>ibc-167494</dc:identifier>
+<dc:title xml:lang="es">'Big Data' en genòmica: reptes i riscos ètics</dc:title>
+<dc:subject>^d12720^s37748</dc:subject>
+<dc:subject>^d33921^s37748</dc:subject>
+<dc:subject>^d19062</dc:subject>
+<dc:subject>^d30083^s37748</dc:subject>
+<dc:subject>^d55691^s37748</dc:subject>
+<dc:subject>^d19133^s37748</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d5957^s37748</dc:subject>
+<dc:subject>^d37554</dc:subject>
+<dc:subject>^d35417^s37748</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201711</dc:date>
+</metadata>
+</record>
+</ibecs-document>

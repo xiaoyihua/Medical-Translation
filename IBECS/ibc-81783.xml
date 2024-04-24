@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-81783</identifier>
+<setSpec>0210-5020</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The pharmacokinetic process: is the drug getting to its site of action?: drug distribution (ADME)</dc:title>
+<dc:description xml:lang="en">Many drugs are bound to circulating proteins, usually albumin (acidic drugs), but also globulins (hormones), lipoproteins (basic drugs), and acid glycoproteins (basic drugs). Only the fraction of drug that is not protein-bound can bind to cellular receptors, pass across tissue membranes, and gain access to cellular enzymes, thus being distributed to body tissues, metabolized, and excreted (for example by the kidney). Changes in protein binding can therefore sometimes cause changes in drug distribution. For such changes to be important, the bound drug must constitute more than 90% of the total drug in the plasma and possess a reduced therapeutic window. Besides this, the extent of distribution of the drug to the tissues must be small (less than 0.15 L/kg). This is because if the drug is widely distributed to the body tissues, then even large increases in the amount of unbound drug in the plasma will be unimportant(AU)</dc:description>
+<dc:creator>Carrillo Norte, Juan Antonio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La mayoría de los fármacos son transportados en la sangre unidos a proteínas plasmáticas tales como la albúmina (ácidos débiles), globulinas (hormonas), lipoproteínas (bases débiles) y la ?-glucoproteína (bases débiles). Solamente la fracción libre del fármaco, no la que se encuentra unida a las proteínas del plasma, puede actuar en los receptores celulares, atravesar las membranas de las células en los tejidos, acceder a las enzimas y, de esta forma, distribuirse por todo el organismo además de experimentar procesos metabólicos y de excreción (principalmente renal). Las modificaciones acontecidas en la unión del fármaco a las proteínas plasmáticas pueden ocasionar cambios en la distribución farmacológica. Dichas modificaciones pueden tener relevancia clínica cuando el fármaco se encuentra unido a las proteínas plasmáticas en una proporción superior al 90% de la cantidad total de fármaco presente en el plasma y alcanza un intervalo terapéutico reducido. Además, se precisa que tenga un volumen de distribución pequeño (inferior a 0,15 L/kg), ya que si se encuentra ampliamente distribuido en los tejidos, incrementos (incluso importantes) en la fracción de fármaco libre, pueden carecer de significación clínica(AU)</dc:description>
+<dc:source>Rev Enferm;33(9): 602-608, sept. 2010. ilus, tab</dc:source>
+<dc:identifier>ibc-81783</dc:identifier>
+<dc:title xml:lang="es">El proceso farmacocinético: ¿llega el fármaco al sitio de acción?. Distribución de fármacos en el organismo (LADME)</dc:title>
+<dc:subject>^d8676^s22048</dc:subject>
+<dc:subject>^d8676^s22049</dc:subject>
+<dc:subject>^d51469</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23106^s22000</dc:subject>
+<dc:subject>^d4418^s22024</dc:subject>
+<dc:subject>^d22960</dc:subject>
+<dc:subject>^d1867^s22021</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d2525^s22021</dc:subject>
+<dc:subject>^d23132^s22078</dc:subject>
+<dc:subject>^d23132^s22044</dc:subject>
+<dc:subject>^d23132^s22079</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201009</dc:date>
+</metadata>
+</record>
+</ibecs-document>

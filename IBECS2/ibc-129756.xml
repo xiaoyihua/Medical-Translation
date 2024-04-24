@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-129756</identifier>
+<setSpec>2253-654X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Target volume segmentation of PET images by an iterative method based on threshold value</dc:title>
+<dc:description xml:lang="en">Objectives. An automatic segmentation method is presented for PET images based on an iterative approximation by threshold value that includes the influence of both lesion size and background present during the acquisition. Material and methods. Optimal threshold values that represent a correct segmentation of volumes were determined based on a PET phantom study that contained different sizes spheres and different known radiation environments. These optimal values were normalized to background and adjusted by regression techniques to a two-variable function: lesion volume and signal-to-background ratio (SBR). This adjustment function was used to build an iterative segmentation method and then, based in this mention, a procedure of automatic delineation was proposed. This procedure was validated on phantom images and its viability was confirmed by retrospectively applying it on two oncology patients. Results. The resulting adjustment function obtained had a linear dependence with the SBR and was inversely proportional and negative with the volume. During the validation of the proposed method, it was found that the volume deviations respect to its real value and CT volume were below 10% and 9%, respectively, except for lesions with a volume below 0.6 ml. Conclusions. The automatic segmentation method proposed can be applied in clinical practice to tumor radiotherapy treatment planning in a simple and reliable way with a precision close to the resolution of PET images (AU)</dc:description>
+<dc:creator>Castro, P</dc:creator>
+<dc:creator>Huerga, C</dc:creator>
+<dc:creator>Marín, MD</dc:creator>
+<dc:creator>Núñez, L</dc:creator>
+<dc:creator>Plaza, R</dc:creator>
+<dc:creator>Mañas, A</dc:creator>
+<dc:creator>Rodado, S</dc:creator>
+<dc:creator>Glaría, LA</dc:creator>
+<dc:creator>Serrada, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos. Se presenta un método de segmentación automático para imágenes de tomografía por emisión de positrones (PET) basado en una aproximación iterativa mediante valor umbral, que incluye la influencia tanto del tamaño de la lesión como del fondo presente durante la adquisición. Material y métodos. A partir de un estudio de imagen PET de un maniquí que contiene esferas de diversos tamaños y en diferentes entornos radiactivos conocidos, se determinan los valores umbral óptimos que suponen una correcta segmentación de volúmenes. Estos valores óptimos son normalizados al fondo y ajustados, mediante técnicas de regresión, a una función de 2 variables: volumen de la lesión y relación señal-fondo (RSF). Esta función de ajuste es usada para construir un método de segmentación iterativo, y, basándose en él, se propone un procedimiento de contorneo automático. Se valida dicho procedimiento sobre estudios en maniquí y se comprueba su viabilidad aplicándose, de manera retrospectiva, sobre 2 pacientes oncológicos. Resultados. La función de ajuste obtenida presenta una dependencia lineal con la RSF e inversamente proporcional y negativa con el volumen. Durante la validación del método iterativo propuesto se encuentra que las desviaciones de volumen respecto al valor real y al volumen TC están por debajo del 10 y del 9%, respectivamente, excepto para lesiones con un volumen por debajo de 0,6 ml. Conclusiones. El método automático de segmentación propuesto puede ser aplicado en la práctica clínica para la planificación de tratamientos de lesiones tumorales en radioterapia de manera sencilla y fiable con una precisión cercana a la resolución de la imagen PET (AU)</dc:description>
+<dc:source>Rev. esp. med. nucl. imagen mol. (Ed. impr.);33(6): 331-339, nov.-dic. 2014. ilus, tab</dc:source>
+<dc:identifier>ibc-129756</dc:identifier>
+<dc:title xml:lang="es">Segmentación de volúmenes tumorales en imágenes PET mediante un método iterativo basado en valor umbral</dc:title>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d38793^s22048</dc:subject>
+<dc:subject>^d38793^s22039</dc:subject>
+<dc:subject>^d9560^s22011</dc:subject>
+<dc:subject>^d9560^s22066</dc:subject>
+<dc:subject>^d38793^s22074</dc:subject>
+<dc:subject>^d9871</dc:subject>
+<dc:subject>^d38793^s22066</dc:subject>
+<dc:subject>^d38793^s22045</dc:subject>
+<dc:subject>^d2490</dc:subject>
+<dc:subject>^d9560</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201412</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-10806</identifier>
+<setSpec>1132-9483</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Spanish-language computer-assisted depression screening method</dc:title>
+<dc:creator>GonzáIez, Gerardo</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Fundación VECA</dc:publisher>
+<dc:description xml:lang="es">La literatura sugiere que la depresión clínica es uno de los principales problemas de salud pública. Los hispano parlantes que viven en los EE .UU tienen un riesgo significativo de desarrollar depresión y están necesitados de servicios de salud mental que sean sensibles a sus peculiaridades culturales Los métodos convencionales de autoinforme para evaluar la depresión muestran un poder de predicción limitado. Afortunadamente, los métodos de evaluación computarizados ofrecen alternativas para superar las limitaciones psicométricas y culturales de las medidas, de autoinforme. Lo más importante, el reconocimiento computarizado rizado del habla es un método prometedor para aumentar la prontitud y la exactitud de la detección de los síntomas y del estado de ánimo deprimido. El autor desarrolló, probó y evaluó vanos programas computarizados de reconocimiento del habla bilingües para la detección de la depresión, que entrevistaron verbalmente a angloparlantes e hispano parlantes usando la estafa de depresión del Centro de Estudios Epidemiológicos (CES-D; Center for Epidemiological Studies Depression Scale). Los estudios proporcionaron evidencia de que las aplicaciones de reconocimiento del habla la interactivas bilingües era por lo general factible administrarlas, eran fiables, válidas; equivalentes (medias y varianzas) a los métodos de entrevista estándar (cara a cara y papel y lápiz). Las muestras de hispanos y angloparlantes valoraron positivamente las entrevistas automatizadas Los hallazgos sugieren que las aplicaciones son cultural y lingüísticamente mientas viables para detectar la depresión. Se contenta el potencial del análisis de la conducta de habla y las características de la voz para la detección precisa de la depresión entre los hispano parlantes (AU)</dc:description>
+<dc:source>Psicol. conduct;8(3): 451-467, sept. 2000.</dc:source>
+<dc:identifier>ibc-10806</dc:identifier>
+<dc:title xml:lang="es">Sistema computarizado para la detección de la depresión en lengua española</dc:title>
+<dc:subject>^d7982</dc:subject>
+<dc:subject>^d3883^s22067</dc:subject>
+<dc:subject>^d7980</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d19133^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d19133^s22066</dc:subject>
+<dc:subject>^d3883^s22016</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d33194</dc:subject>
+<dc:subject>^d12031^s22049</dc:subject>
+<dc:subject>^d13323^s22056</dc:subject>
+<dc:subject>^d9150</dc:subject>
+<dc:subject>^d12031^s22066</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200009</dc:date>
+</metadata>
+</record>
+</ibecs-document>

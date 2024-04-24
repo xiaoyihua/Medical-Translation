@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-128568</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Interictal eeg coherence in patients with partial temporal lobe epilepsy</dc:title>
+<dc:description xml:lang="en">Aims. The purpose of this research was to study the spatio-temporal characteristics of the correlation that exists between two simultaneous EEG signals (coherence) in the interictal period in patients with partial epilepsy that is presumably symptomatic of the temporal lobe (ILAE). Patients and methods. A study of 13 patients, aged between 17-60 years, was conducted (53% females). A digital EEG was performed on each patient using the 10/20 system of electrode location. 24 artifact-free segments were selected from the recording made in a rest-waking state with the patient&#146;s eyes closed. Fourier&#146;s transformation was employed to obtain cross spectrum matrices, which were then used to calculate the intrahemispheric (Cohintra) and interhemispheric (Cohinter) coherences expressed by the Z transformation. These values were ordered by regions considering the known anatomical connections. Results. In both the overall and the individual analyses, we found greater alterations of the Cohintra and the Cohinter in the temporal regions, and there was a predominance of the left hemisphere. The individual analysis of coherence, unlike the visual interpretation of the EEG recording, showed significant alterations in all the patients in the sample. Conclusions. Incorporating this type of tool would enable us to reach a more accurate topographic diagnosis in cases of epilepsy of unknown aetiology. At the same time the possible means of medical and surgical treatment available would be widened (AU)</dc:description>
+<dc:creator>González Hernández, J. A</dc:creator>
+<dc:creator>Céspedes GArcía, Y</dc:creator>
+<dc:creator>García Fidalgo, J</dc:creator>
+<dc:creator>Beguería Santos, R. A</dc:creator>
+<dc:creator>Figueredo Rodríguez, P</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Estudiar las características espacio-temporales de la correlación que existe entre dos señales simultáneas del EEG (coherencia) en el período interictal en pacientes con epilepsia parcial presumiblemente sintomática del lóbulo temporal (ILAE). Pacientes y métodos. Se estudiaron 13 pacientes (53% del sexo femenino), con edades de 17-60 años. A cada paciente se le realizó un EEG digital, utilizando el sistema 10/20 de colocación de electrodos. Del trazado en vigilia con ojos cerrados, se seleccionaron 24 segmentos, libres de artefactos. Mediante la transformada de Fourier, se obtuvieron matrices de espectros cruzados, con las que se calcularon la coherencias intrahemisféricas (Cohintra) e interhemisféricas (Cohinter), expresadas mediante la transformación Z. Estos valores se ordenaron por regiones considerando las conexiones anatómicas conocidas. Resultados. Tanto en el análisis global como individual encontramos mayores alteraciones de la Cohintra y la Cohinter en las regiones temporales, y predominó el hemisferio izquierdo. El análisis individual de la coherencia, a diferencia de la interpretación visual del EEG, evidenció alteraciones significativas en todos los pacientes de la muestra. Conclusiones. La incorporación de este tipo de herramienta permitiría un diagnóstico topográfico más preciso en las epilepsias cuya etiología se desconoce, y ampliaría las posibilidades de tratamiento médico y quirúrgico (AU)</dc:description>
+<dc:source>Rev Neurol;37(12): 1107-1111, dic. 2003. ilus, tab</dc:source>
+<dc:identifier>ibc-128568</dc:identifier>
+<dc:title xml:lang="es">Coherencia cerebral interictal en pacientes con epilepsia parcial del lóbulo temporal</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d4641</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d4912^s22032</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200312</dc:date>
+</metadata>
+</record>
+</ibecs-document>

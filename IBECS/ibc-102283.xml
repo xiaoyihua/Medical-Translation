@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-102283</identifier>
+<setSpec>0213-4853</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">FOTOTRANS Study. Multicentre study on the validity of Fototest under clinical practice conditions</dc:title>
+<dc:description xml:lang="en">Objective: Fototest is a short simple test, applicable to illiterate subjects and not influenced by educational level. The purpose of this study is to assess its validity for cognitive impairment (CI) and dementia (DEM) under routine clinical practice conditions. Material and methods: A cross-sectional, multicentre and naturalistic study conducted in General Neurology clinics. The subjects were, over 60 years old, with a previously established diagnosis of no cognitive impairment (NoCI), cognitive impairment without dementia (CInoDEM), or dementia (DEM). The discriminant validity was assessed using the area under the ROC curve (AUC), sensitivity (Sn), specificity (Sp), and probability coefficients. Partial correlations were calculated, adjusted for age, sex and education level with Eurotest, verbal fluency test (VFT) and Global Deterioration Scale (GDS) score to evaluate the concurrent and construct validity.Results: Nineteen neurologists included a total of 589 subjects: 361 NoCI, 106 CINoDEM and 122 DEM. The discriminant value was better for DEM (AUC 0.94±0.02) than for CI (0.86±0.02). For DEM the best cut-off point was 26/27 (Sn=0.88 [95% CI, 0.93-0.97], Sp=0.87 [95% CI, 0.84-0.90]); and for CI, 28/29 (Sn=0.71 [95% CI, 0.65-0.77], Sp=0.84 [95% CI, 0.80-0.88]). Fototest showed a high and significant correlation with Eurotest (r=0.70±0.02), VFT (r=0.68±0.02) and the GDS score (r=-0.77±0.02).Conclusion: The Fototest showed adequate validity for CI and DEM in general Neurology clinics in an extensive and wide geographical area (AU)</dc:description>
+<dc:creator>Carnero Pardo, C</dc:creator>
+<dc:creator>Vega Cotarelo, R de la</dc:creator>
+<dc:creator>Gurpegui, M</dc:creator>
+<dc:creator>Sáez Zea, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: El Fototest es un test breve, fácil, aplicable a analfabetos y no influido por el nivel educativo. El objetivo de este estudio es evaluar su validez para deterioro cognitivo (DC) y demencia (DEM) en condiciones de práctica clínica habitual. Material y métodos: Estudio transversal multicéntrico y naturalístico realizado en consultas de neurología general. Se incluyó a sujetos mayores de 60 años con diagnóstico previamente establecido de no deterioro cognitivo (NoDC), deterioro cognitivo sin demencia (DCsD) o demencia (DEM). La validez discriminativa se evaluó mediante el área bajo la curva ROC (aROC), sensibilidad (S), especificidad (E) y cocientes de probabilidad. Se calcularon correlaciones parciales ajustadas por edad, sexo y nivel educativo con Eurotest, fluidez verbal semántica (FVS) y el estadio GDS para evaluar la validez concurrente y de constructo.Resultados: Diecinueve neurólogos incluyeron a un total de 589 sujetos: 361 NoDC, 106 DCsD y 122 DEM. La validez discriminativa es mejor para DEM (aROC 0,94±0,02) que para DC (0,86±0,02). Para DEM el mejor punto de corte es 26/27 (S=0,88 [IC del 95%, 0,93-0,97], E=0,87 [IC del 95%, 0,84-0,90]), y para DC, 28/29 (S=0,71 [IC del 95%, 0,65-0,77], E=0,84 [IC del 95%, 0,80-0,88]). El Fototest muestra una alta y significativa correlación con el Eurotest (r=0,70±0,02), la FVS (r=0,68±0,02) y el estadio GDS (r=&#150;0,77±0,02).Conclusión: El Fototest muestra una adecuada validez para DC y DEM, en consultas generales de neurología de un extenso y variado ámbito geográfico (AU)</dc:description>
+<dc:source>Neurologia;27(2): 68-75, mar. 2012. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-102283</dc:identifier>
+<dc:title xml:lang="es">Estudio FOTOTRANS: estudio multicéntrico sobre la validez del Fototest en condiciones de práctica clínica</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d12031^s22039</dc:subject>
+<dc:subject>^d25123^s22045</dc:subject>
+<dc:subject>^d3103^s22016</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9673</dc:subject>
+<dc:subject>^d3718^s22016</dc:subject>
+<dc:subject>^d28575</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201203</dc:date>
+</metadata>
+</record>
+</ibecs-document>

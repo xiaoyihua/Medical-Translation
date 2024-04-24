@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-61598</identifier>
+<setSpec>0214-9168</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:creator>Walhi, Walter</dc:creator>
+<dc:creator>Serrano, Lucía</dc:creator>
+<dc:creator>Michalik, Liliane</dc:creator>
+<dc:creator>Moullan, Norman</dc:creator>
+<dc:creator>Rodríguez-Calvo, Ricardo</dc:creator>
+<dc:creator>Vázquez-Carrera, Manuel</dc:creator>
+<dc:creator>Palomer, Xavier</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivo: La resistencia a la insulina se relaciona con la presencia de un proceso inflamatorio de baja intensidad, caracterizado por la activación crónica del factor nuclear kappa B (NF-kB) y la producción de citocinas proinflamatorias en tejido adiposo blanco. Recientemente, se ha propuesto que el receptor activado por proliferadores peroxisómicos  beta/d (PPAR beta/d) puede llegar a convertirse en una diana para el tratamiento de la resistencia a la insulina. Sin embargo, se desconoce si la activación de este receptor nuclear previene el proceso inflamatorio en adipocitos. Metodos y resultados: La activación de PPAR beta/d por un ligando específico, GW501516, evitó el aumento en la expresión y la secreción de interleucina (IL) 6 inducida por lipopolisacárido (LPS) en adipocitos 3T3-L1. Este efecto se asoció con la capacidad del agonista de PPAR beta/d para inhibir la activación del NF-kB inducida por LPS. Por otro lado, la expresión de IL-6 y la actividad del NF-?B estaban incrementadas en el tejido adiposo de ratones PPAR beta/d-/-, en comparación con ratones wild-type, hecho que indica que este receptor regula la activación de NF-?B y de sus genes diana. Puesto que se ha relacionado la activación de la vía ERK1/2 con la activación de NF-kB, determinamos el efecto de PPAR beta/d en la activación de esta vía. El tratamiento con GW501516 evitó la fosforilación de ERK1/2 inducida por LPS, mientras que el tejido adiposo blanco de ratones PPAR beta/d-/- mostró un incremento considerable en los valores de fosforilación de esta cinasa. Conclusiones: Estos resultados parecen indicar que la activación de PPAR beta/d bloquea el incremento de la producción de citocinas inflamatorias en adipocitos mediante la prevención de la activación de NF-kB por ERK1/2. Esta acción de PPAR beta/d puede contribuir a prevenir la resistencia a la insulina (AU)</dc:description>
+<dc:source>Clín. investig. arterioscler. (Ed. impr.);21(3): 97-105, mayo-jun. 2009. tab, graf, ilus</dc:source>
+<dc:identifier>ibc-61598</dc:identifier>
+<dc:subject>^d29061^s22002</dc:subject>
+<dc:subject>^d31672^s22031</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d7426^s22032</dc:subject>
+<dc:subject>^d19272^s22032</dc:subject>
+<dc:subject>^d28903^s22002</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200906</dc:date>
+</metadata>
+</record>
+</ibecs-document>

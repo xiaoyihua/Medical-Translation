@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-2622</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Setting maximum soil levels for health protection with the Lur model</dc:title>
+<dc:creator>Urzelai, A</dc:creator>
+<dc:creator>Cambra, K</dc:creator>
+<dc:creator>González de Galdeano, L</dc:creator>
+<dc:creator>Martínez Rueda, T</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivos: La contaminación ambiental puede ser origen de problemas de salud y, actualmente, es vivida por las poblaciones como una amenaza. Al establecer concentraciones máximas admisibles de contaminantes ambientales, debe garantizarse la protección de la salud pública y la creación de ambientes saludables. En la Comunidad Autónoma del País Vasco (CAPV) se han derivado valores máximos admisibles de contaminantes en suelo siguiendo el modelo denominado LUR, basado en la evaluación de riesgos. Estos valores representan niveles de contaminante en el suelo que no suponen un riesgo inaceptable para la población humana. Métodos: Los valores máximos admisibles de contaminantes en suelo se han derivado a partir de la definición de qué es un riesgo admisible y de la combinación de la información relativa a la valoración de la toxicidad del compuesto y a la exposición esperada de las personas según el uso que se haga del suelo. Se han considerado 5 usos o escenarios de exposición: área de juego infantil, residencial con huerta, residencial, parque público e industrial/comercial. Para el cálculo de la exposición estándar se han tenido en cuenta, como rutas de exposición, la ingestión de suelo, el consumo de hortalizas de producción propia, la inhalación de partículas y de compuestos volátiles, y la absorción por vía dérmica. Se han considerado menos robustos los valores máximos admisibles en cuyo cálculo tienen un peso importante la inhalación y la vía dérmica, debido a que el cálculo de la exposición por estas rutas tiene un nivel de incertidumbre mayor. Resultados y conclusiones: Se presentan los resultados de la aplicación de esta metodología en dos casos ilustrativos: el cadmio como contaminante inorgánico con efectos distintos al cáncer, y el del benzo(a)pireno como contaminante orgánico con acción cancerígena. Se discuten las limitaciones de la metodología empleada (AU)</dc:description>
+<dc:source>Gac Sanit;14(6): 449-457, nov.-dic.  2000.</dc:source>
+<dc:identifier>ibc-2622</dc:identifier>
+<dc:title xml:lang="es">Establecimiento de valores máximos admisibles en suelo para la protección de la salud con el Modelo Lur</dc:title>
+<dc:subject>^d8620</dc:subject>
+<dc:subject>^d28446</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d19062</dc:subject>
+<dc:subject>^d1587</dc:subject>
+<dc:subject>^d4862</dc:subject>
+<dc:subject>^d2138</dc:subject>
+<dc:subject>^d4867</dc:subject>
+<dc:subject>^d13370</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200012</dc:date>
+</metadata>
+</record>
+</ibecs-document>

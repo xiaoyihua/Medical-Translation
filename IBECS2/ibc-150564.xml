@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150564</identifier>
+<setSpec>1575-0922</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Baseline ALT levels as a marker of glycemic response to treatment with GLP-1 receptor agonists</dc:title>
+<dc:description xml:lang="en">Background and objectives: This study aimed to assess if ALT levels, as a marker of non-alcoholic fatty liver disease, may predict HbA1c response to treatment with GLP-1 receptor agonists (GLP-1 RAs). Patients and methods: A retrospective, longitudinal, analytical study was conducted including patients with type 2 diabetes mellitus continuously treated with GLP-1 agonists (85% with liraglutide) for one year. Patients were divided into two groups according to baseline ALT levels, with 24 U/L (the median of the distribution) as the cut-off point. The dependent variable was HbA1c change (one-year follow-up minus baseline). The predictive value of ALT levels above 24 U/L and ALT change was analyzed using multivariate linear regression adjusted to age, gender, diabetes duration, type and dose of GLP-1 RA, baseline HbA1c, baseline body mass index (BMI), and change in BMI. Results: A total of 117 patients (48% females) aged 58.6 (SD 9.6) years were enrolled into the study. Treatment was associated with a change in ALT of &amp;#8722;4.3 U/L (p = 0.041) and a change in HbA1c of &amp;#8722;1.1% (p &lt; 0.0001). Decreases in HbA1c (&amp;#8722;1.41% vs &amp;#8722;0.76%; p = 0.045) and ALT (&amp;#8722;9.25 vs 0.46 U/L; p = 0.002) were significantly higher in patients with ALT levels above the median. In the multivariate analysis, both ALT &gt; 24 U/L (b = &amp;#8722;0.74; 95% CI: &amp;#8722;1.31 to &amp;#8722;0.18; p = 0.011) and ALT change (b = 0.028; 95% CI: 0.010 to 0.046; p = 0.003), were significant response predictors. Conclusions: Elevated baseline transaminase values and decreased transaminase levels during follow-up are associated to a favorable glycemic response to GLP-1 RAs (AU)</dc:description>
+<dc:creator>Verdes-Sanz, Guayente</dc:creator>
+<dc:creator>Lardiés-Sánchez, Beatriz</dc:creator>
+<dc:creator>Campos-Fernández, Julia</dc:creator>
+<dc:creator>Borau-Maorad, Laura</dc:creator>
+<dc:creator>Monreal-Villanueva, Marta</dc:creator>
+<dc:creator>Gimeno-Orna, Jose A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Antecedentes y objetivo: Evaluar si los niveles de ALT, como marcador de esteatosis hepática no alcohólica, pueden determinar la respuesta hipoglucemiante al tratamiento con agonistas del receptor GLP-1 (AR-GLP1). Pacientes y métodos: Estudio analítico longitudinal retrospectivo. Se incluyeron pacientes con diabetes tipo 2 (DM2) tratados sin interrupción con AR-GLP1 (85% liraglutida) durante un año. Se clasificó a los pacientes en 2 grupos según niveles iniciales de ALT, con punto de corte en la mediana (24 U/l). La variable dependiente fue el cambio (final-inicial) de HbA1c. El valor predictivo de niveles de ALT &gt; 24 U/l y del cambio en ALT fue analizado con regresión lineal multivariante ajustada para edad, género, evolución de DM2, tipo y dosis de AR-GLP1, niveles iniciales de HbA1c, índice de masa corporal (IMC) y cambio de IMC. Resultados: Se incluyeron 117 pacientes (48% mujeres) con edad media de 58,6 (DE 9,6) años. El tratamiento estuvo asociado con un cambio en ALT de &amp;#8722;4,3 U/l (p = 0,041) y un cambio en HbA1c de &amp;#8722;1,1% (p &lt; 0,0001). Tanto el descenso de HbA1c (&amp;#8722;1,41% vs &amp;#8722;0,76%; p = 0,045) como el de ALT (&amp;#8722;9,25 vs 0,46 U/l; p = 0,002) fueron significativamente más marcados en pacientes con ALT por encima de la mediana. En análisis multivariante tanto niveles de ALT &gt; 24 U/l (b = &amp;#8722;0,74; IC 95%: &amp;#8722;1,31 a &amp;#8722;0,18; p = 0,011) como el cambio en ALT (b = 0,028; IC 95%: 0,010 a 0,046; p = 0,003) fueron factores predictivos de respuesta. Conclusiones: Niveles elevados de transaminasas y su descenso se asocian a una respuesta hipoglucemiante favorable a AR-GLP1 (AU)</dc:description>
+<dc:source>Endocrinol Nutr;63(4): 164-170, abr. 2016. tab, graf</dc:source>
+<dc:identifier>ibc-150564</dc:identifier>
+<dc:title xml:lang="es">Niveles de ALT y respuesta hipoglucemiante al tratamiento con agonistas del receptor de GLP-1</dc:title>
+<dc:subject>^d3946^s22057</dc:subject>
+<dc:subject>^d52205^s22079</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d3946^s22032</dc:subject>
+<dc:subject>^d7181^s22027</dc:subject>
+<dc:subject>^d5337^s22016</dc:subject>
+<dc:subject>^d413^s22062</dc:subject>
+<dc:subject>^d23568^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d650^s22062</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201604</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-97412</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">MRSA infection in emergency departments</dc:title>
+<dc:creator>Candel, Francisco Javier</dc:creator>
+<dc:creator>González del Castillo, Juan</dc:creator>
+<dc:creator>Martín-Sánchez, Francisco Javier</dc:creator>
+<dc:creator>Picazo, Juan</dc:creator>
+<dc:language>es</dc:language>
+<dc:source>Enferm Infecc Microbiol Clin;30(2): 111-112, feb. 2012. ilus</dc:source>
+<dc:identifier>ibc-97412</dc:identifier>
+<dc:title xml:lang="es">La infección por SAMR en urgencias</dc:title>
+<dc:subject>^d53002^s22052</dc:subject>
+<dc:subject>^d29638</dc:subject>
+<dc:subject>^d13590^s22080</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6450^s22083</dc:subject>
+<dc:subject>^d28940^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201202</dc:date>
+</metadata>
+</record>
+</ibecs-document>

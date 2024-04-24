@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-040323</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Comparison of coronary risk estimates derived using the Framingham and REGICOR equations</dc:title>
+<dc:description xml:lang="en">Introduction and objectives. To compare two equations for evaluating coronary risk, the Framingham-Wilson equation and the Framingham equation adjusted for the Spanish population (REGICOR), in a group of dyslipidemic patients in our healthcare area. In addition, the therapeutic implications of using the 2 methods were also evaluated. Patients and method. The study included 815 dyslipidemic patients, aged 35-74 years, from our healthcare area. Coronary risk was determined using the 2 equations and subjects were categorized as either low-risk (0%- 9%), moderate-risk (10%-19%), or high-risk (&amp;#8805;20%). To compare the application of the 2 equations, we evaluated differences in derived scores, coronary risk category, and the number of patients regarded as potentially treatable with hypolipidemic drugs. Results. The best correlation observed between the 2 methods was for quantitative scores (r=0.983; P&lt;.001). The correlation was poorer when coronary risk categories were compared (r=0.489; P&lt;.001). Overall, the concordance was poor (&amp;#954;=0.06), and was only acceptable for low-risk patients (&amp;#954;=0.53). The coronary risk estimates derived from the Wilson table were 2.4 times higher than those obtained using REGICOR. The main differences were for moderate and high-risk patients. In addition, the number of patients regarded as potentially treatable with hypolipidemic drugs was five times higher when the Wilson equation was used. Conclusions. The overestimate of coronary risk obtained using the Framingham-Wilson equation leads to a greater number of patients being regarded as candidates for hypolipidemic treatment. Our data show the importance of using tables adjusted for the Spanish population</dc:description>
+<dc:creator>Fuente, Javier de la</dc:creator>
+<dc:creator>Vázquez-Bellés, Pilar</dc:creator>
+<dc:creator>González-Juanatey, José R</dc:creator>
+<dc:creator>Cristóbal, Joan</dc:creator>
+<dc:creator>Vila, María</dc:creator>
+<dc:creator>Lago, Fernando</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos. Comparar dos ecuaciones de valoración del riesgo coronario (RC), Framingham de Wilson y REGICOR, en una muestra poblacional de sujetos dislipémicos de nuestra área sanitaria. Valorar las posibles repercusiones terapéuticas derivadas de las mediciones obtenidas por ambos métodos. Pacientes y método. La muestra poblacional estaba constituida por 815 pacientes dislipémicos de 35-74 años. Se determinó el RC mediante ambas ecuaciones y se compararon las puntuaciones obtenidas, la clasificación en las categorías de RC a los 10 años y el número de sujetos potencialmente tratables con medicación hipolipemiante en función de los resultados obtenidos con ambas escalas. Resultados. Se observó una óptima correlación entre ambas mediciones al tener en cuenta los valores cuantitativos (r = 0,983; p &lt; 0,001), aunque ésta disminuyó al valorar los resultados por categorías de RC (p = 0,489; p &lt; 0,001). La concordancia fue mala en su conjunto (&amp;#954; = 0,06) y sólo fue aceptable en el grupo de riesgo bajo (&amp;#954; = 0,53). La tabla de Wilson proporcionó unos valores de RC global 2,4 veces superiores a los obtenidos con la calibración de REGICOR, y las diferencias se presentaran principalmente en las categorías de RC moderado y alto. El número de candidatos a ser tratados con hipolipemiantes fue 5 veces superior según la ecuación de Wilson que con la de REGICOR. Conclusiones. La sobrevaloración que se obtiene al calcular el RC mediante la función de Framingham implica un mayor porcentaje de pacientes potencialmente tratables con fármacos hipolipemiantes. Este hecho apoya la necesidad de disponer de tablas de RC ajustadas para nuestra población</dc:description>
+<dc:source>Rev Esp Cardiol;58(8): 910-915, ago. 2005. tab, graf</dc:source>
+<dc:identifier>ibc-040323</dc:identifier>
+<dc:title xml:lang="es">Ecuación de Framingham de Wilson y ecuación de REGICOR. Estudio comparativo</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d3343^s22016</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d7130^s22057</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d963^s22073</dc:subject>
+<dc:subject>^d33939^s22045</dc:subject>
+<dc:subject>^d7130^s22012</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d3343^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200508</dc:date>
+</metadata>
+</record>
+</ibecs-document>

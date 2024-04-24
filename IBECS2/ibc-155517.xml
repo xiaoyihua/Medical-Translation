@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-155517</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cost-utility analysis of an integrated care model for multimorbid patients based on a clinical trial</dc:title>
+<dc:description xml:lang="en">Objective: To conduct a cost-utility analysis on an integrated healthcare model comprising an assigned internist and a hospital liaison nurse for patients with multimorbidity, compared to a conventional reactive healthcare system. Methods: A cluster randomised clinical trial was conducted. The model consisted of a reference internist and a liaison nurse, who aimed to improve coordination and communication between levels and to enhance continuity of care after hospitalisation. We recorded sociodemographic data, diagnoses and corresponding clinical categories, functional status, use of healthcare resources and quality of life. Data were collected by reviewing electronic medical records and administering questionnaires. We performed univariate and multivariate analyses both for utilities and total costs. Bootstrapping methods were applied to calculate the confidence ellipses of incremental costs and efficiency. Results: We recruited a total of 140 patients. The model assessed was not found to be efficient in general. We found an incremental cost of &#128;1,035.90 and an incremental benefit of &amp;#8722;0.0762 QALYs for the initiative compared to standard care after adjusting for the main variables. However, the subgroup of patients under 80 years of age with three or more clinical categories resulted in an 89% cost saving in the simulations. Conclusions: The integrated model was not suitable for all study patients. However, the subgroup analysis identified a narrow target population that should be analysed in future studies (AU)</dc:description>
+<dc:creator>Arrospide, Arantzazu</dc:creator>
+<dc:creator>Lanzeta, Itziar</dc:creator>
+<dc:creator>Mar, Javier</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objetivo: Evaluar en términos de coste-utilidad un modelo de atención integrada a pacientes pluripatológicos basado en el internista de referencia y la enfermera de enlace hospitalario, comparado con un sistema asistencial convencional reactivo por episodios. Métodos: Se realizó un ensayo clínico aleatorizado por conglomerados. La intervención se basó en un internista de referencia y una enfermera de enlace hospitalario. Ambos trabajaron en la coordinación y la comunicación entre niveles y en la mejora de la continuidad de cuidados después de un ingreso. Se recogieron datos sociodemográficos y los diagnósticos con sus correspondientes categorías clínicas, así como el estado funcional, la utilización de recursos y la calidad de vida. Se utilizaron los registros electrónicos médicos existentes y cuestionarios administrados. Se realizaron análisis univariados y multivariados tanto para las utilidades como para los costes totales. Mediante bootstrapping se calcularon las elipses de confianza de los costes incrementales y la eficiencia. Resultados: Se incluyeron en el estudio 140 pacientes. En general, la intervención no resultó eficiente. El coste incremental de la intervención frente al modelo convencional fue de 1035,90 &#128; y la efectividad incremental fue de &amp;#8722;0,0762 años de vida ajustados por calidad, al ajustar los datos por las variables más relevantes. Sin embargo, el subgrupo de pacientes menores de 80 años con tres o más categorías clínicas ahorró costes en el 89% de las simulaciones. Conclusiones: La intervención integrada no resultó adecuada para todos los pacientes objetivo; no obstante, el análisis de subgrupos permitió identificar una población objetivo más concreta que debería ser analizada en estudios futuros (AU)</dc:description>
+<dc:source>Gac Sanit;30(5): 352-358, sept.-oct. 2016. graf, tab</dc:source>
+<dc:identifier>ibc-155517</dc:identifier>
+<dc:title xml:lang="es">Análisis de coste-utilidad de un modelo de atención integrada a pacientes pluripatológicos basado en un ensayo clínico</dc:title>
+<dc:subject>^d32782^s22049</dc:subject>
+<dc:subject>^d29623</dc:subject>
+<dc:subject>^d30652</dc:subject>
+<dc:subject>^d24572^s22066</dc:subject>
+<dc:subject>^d10542^s22049</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d19291^s22049</dc:subject>
+<dc:subject>^d30313^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201610</dc:date>
+</metadata>
+</record>
+</ibecs-document>

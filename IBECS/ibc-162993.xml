@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-162993</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">A comparison of methods for modeling factors associated with hospital admissions in incident cases of heart failure</dc:title>
+<dc:description xml:lang="en">Background: Heart failure (HF) is an important public health problem due to its increasing prevalence, and the decompensation associated with hospital admission represents an increased risk of death. The objective of this study was to compare several methods to model the variable hospitalizations and to determine the effect of factors associated with hospital admissions in incident cases of HF. Methods: Study of a retrospective cohort of patients with information extracted from electronic medical records of PC was performed. Patients 24 year and older with at least 1 visit to PC in 2006 were included. Registered hospital admissions of HF incident cases between 2006 and 2010 or until death were analyzed and comparison of Poisson, Negative Binomial (NB), zero-inflated and Hurdle regression models were conducted to identify factors associated con hospitalizations. Results: 3,061 patients were identified in a cohort of 227,984. Regarding the factors associated with hospitalizations and according to the zero inflated NB regression model, patients who presented valvular disease (OR=2.01; CI95% 1.22-3.30), or were being treated with antithrombotics (OR=3.45; CI95%: 1.61-7.42) or diuretics (OR=2.28; CI95% 1.13-4.58) had a lower likelihood of hospitalization. Factors associated with a higher rate of hospital admissions were having valvular disease (IRR=1.37; CI95% 1.03-1.81) or diabetes mellitus (IRR=1.38; 1.07-1.78), and being treated with calcium antagonists (IRR=1.35; CI95% 1.05- 1.73) or ACE inhibitors (IRR=1.43; CI95% 1.06- 1.92). Having being referred to a cardiologist had a protective effect (IRR=0.86; CI95% 0.76- 0.97). Conclusion: The regression model that obtained the best adjustment was the zero inflated NB. According to this model, the factors associated with an increase in hospital admissions were valvulopathies, diabetes and treatment with calcium antagonists (AU)</dc:description>
+<dc:creator>del-Cura-González, Isabel</dc:creator>
+<dc:creator>Sánchez-Piedra, Carlos</dc:creator>
+<dc:creator>Garrido-Elustondo, Sofía</dc:creator>
+<dc:creator>Prado-Galbarro, Francisco Javier</dc:creator>
+<dc:creator>Sarría-Santamera, Antonio</dc:creator>
+<dc:creator>Gamiño-Arroyo, Ana Estela</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamento: La insuficiencia cardiaca (IC) es un importante problema de salud pública debido a su creciente prevalencia y la descompensación que conlleva un ingreso hospitalario representa un aumento del riesgo de muerte. El objetivo de este trabajo fue comparar varios métodos para modelizar la variable hospitalizaciones y determinar el efecto de los factores asociados con los ingresos hospitalarios en casos incidentes de IC. Método: Se realizó un estudio de cohortes restrospectivo con información extraída de la historia clínica electrónica de Atención Primaria (AP). Se incluyeron pacientes mayores de 24 años que habían realizado al menos 1 consulta en AP durante el año 2006. Se analizaron las hospitalizaciones registradas de casos incidentes de IC entre 2006 y 2010 o hasta su fallecimiento y se compararon modelos de regresión de Poisson, Binomial Negativa (BN), inflados con ceros y de Hurdle para identificar factores asociados a las hospitalizaciones. Resultados: Se identificó a 3.061 personas con IC en una cohorte de 227.984 pacientes. Respecto a los factores asociados con las hospitalizaciones y según el modelo de regresión BN inflado con ceros, los pacientes con valvulopatías (OR=2,01; IC95%: 1,22-3,30) o en tratamiento con antitrombóticos (OR=3,45; IC95%: 1,61-7,42) o diuréticos (OR=2,28; IC95%:1,13-4,58) tuvieron mayor probabilidad de hospitalización. Los factores asociados a una mayor tasa de ingresos fueron tener valvulopatías (IRR=1,37; IC95%: 1,03-1,81) o diabetes mellitus (IRR=1,38, 1,07-1,78) y estar en tratamiento con calcioantagonistas (IRR=1,35; IC95%: 1,05-1,73) o IECAS (IRR=1,43; IC95%:1,06- 1,92). Haber tenido derivaciones a cardiología tuvo efecto protector (IRR=0,86; IC95%: 0,76-0,97). Conclusión: El modelo de regresión que tiene mejor ajuste es el BN inflado con ceros. Según este modelo los factores asociados con un incremento en los ingresos hospitalarios son las valvulopatías, la diabetes mellitus y el tratamiento con calcioantagonistas (AU)</dc:description>
+<dc:source>Rev Esp Salud Publica;91: 0-0, 2017. tab, graf</dc:source>
+<dc:identifier>ibc-162993</dc:identifier>
+<dc:title xml:lang="es">Comparación de métodos para modelizar los factores asociados con los ingresos hospitalarios en casos incidentes de insuficiencia cardíaca</dc:title>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d7152^s22012</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22832^s22073</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d23177^s22073</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d24838</dc:subject>
+<dc:subject>^d6501^s22012</dc:subject>
+<dc:subject>^d6486^s22054</dc:subject>
+<dc:subject>^d28455^s22066</dc:subject>
+<dc:subject>^d6486^s22012</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:subject>^d11756^s22045</dc:subject>
+<dc:subject>^d6916^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201700</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-73332</identifier>
+<setSpec>1137-6627</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Stereotactic radiation therapy</dc:title>
+<dc:description xml:lang="en">Stereotactic radiotherapy is an external radiationmodality that uses a system of three dimensional referencesindependent of the patient to achive a preciselocation of the lesion. Stereotactic radiotherapy generatehighly conformal, precisely focused radiationbeams to administer very high doses of radiation withoutincreasing the radiation to healthy surroundingorgans or structures. When the procedure is carriedout in one treatment session the procedure is termedradiosurgery, and when the treatment is administeredin several fractions, the radiation modality is termedstereotactic radiotherapy. Special systems of patientimmobilization (guides or stereotactic frames) are requiredtogether with radiotherapy devices capable ofgenerating conformal beams (lineal accelerator, gammaknife,cyberknife, tomotherapy, cyclotrons). Modernstereotactic radiotherapy techniques employ intratumouralradio-opaque fiducials or CT image systemsincluded in the irradiation device, which make possiblea precise location of mobile lesions in each treatmentsession. Besides, technological advances permit breathingsynchronized radiation (gating and tracking) formaximum tightening of margins and excluding a greatervolume of healthy tissue.Radiosurgery is mainly indicated in benign or maligncerebral lesions less than 3-4 centimetres (arteriovenousmalformations, neurinomas, meningiomas,cerebral metastases) and stereotactic radiotherapy isbasically administered in tumours of extracraneal locationthat require high conformation and precision, suchas inoperable early lung cancer and liver metastasis(AU)</dc:description>
+<dc:creator>Arbea, L</dc:creator>
+<dc:creator>Ramos, L. I</dc:creator>
+<dc:creator>Aristu, J. J</dc:creator>
+<dc:creator>Guridi, J</dc:creator>
+<dc:creator>Azcona, J. D</dc:creator>
+<dc:creator>Moreno, M</dc:creator>
+<dc:creator>Ciérvide, R</dc:creator>
+<dc:creator>Zubieta, J. L</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La radioterapia con técnica estereotáctica es unamodalidad de radioterapia externa que utiliza un sistemade coordenadas tridimensionales independientes delpaciente para la localización precisa de la lesión. Tambiénse caracteriza porque los haces de irradiación sonaltamente conformados, precisos y convergentes sobrela lesión que hacen posible la administración de dosismuy altas de radioterapia sin incrementar la irradiaciónde los órganos o estructuras sanas adyacentes. Cuandoel procedimiento se realiza en una sesión de tratamientose denomina radiocirugía y si se administra en variassesiones se denomina radioterapia estereotáctica. Seprecisa de sistemas de fijación e inmovilización del pacienteespeciales (guías o marcos estereotácticos) y dispositivosde radioterapia capaces de generar haces muyconformados (acelerador lineal, gammaknife, cyberknife,tomoterapia, ciclotrones). La radioterapia estereotácticamoderna utiliza marcas radioopacas intratumorales osistemas de imágenes de TAC incluidos en el dispositivode irradiación, que permiten una precisa localizaciónde las lesiones móviles en cada sesión de tratamiento.Además, los avances tecnológicos hacen posible coordinarlos movimientos de la lesión en la respiración con launidad de radioterapia (gaiting y tracking) de forma quepueden estrecharse al máximo los márgenes y por lo tantoexcluir un mayor volumen de tejido sanoLa radiocirugía está indicada principalmente en lesionescerebrales benignas o malignas menores de 3-4centímetros (malformaciones arteriovenosas, neurinomas,meningiomas, metástasis cerebrales) y la radioterapiaestereotáctica se administra fundamentalmenteen tumores de localización extracraneal que requieranuna alta conformación y precisión como cáncer precozde pulmón inoperable y metástasis hepáticas(AU)</dc:description>
+<dc:source>An Sist Sanit Navar;32(supl.2): 61-71, ago. 2009. ilus</dc:source>
+<dc:identifier>ibc-73332</dc:identifier>
+<dc:title xml:lang="es">Radioterapia estereotáctica</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d29853^s22045</dc:subject>
+<dc:subject>^d1958^s22059</dc:subject>
+<dc:subject>^d29192</dc:subject>
+<dc:subject>^d9555^s22059</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d8352^s22059</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200908</dc:date>
+</metadata>
+</record>
+</ibecs-document>

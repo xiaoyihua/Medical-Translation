@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-159650</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cost-effectiveness of pemetrexed in combination with cisplatin as first line treatment for patients with advanced non-squamous non-small-cell lung cancer in Spain</dc:title>
+<dc:description xml:lang="en">Introduction: Lung cancer is the third most frequent neoplastic tumour in Spain, with around 27000 new cases diagnosed per year; 80-95% of these are non-small-cell cancer (NSCLC), and the majority of cases are diagnosed in advanced stages of the disease, and for this reason it is one of the oncologic conditions with higher mortality rates (21.4% mean survival at 5 years). The main treatment regimens used for first-line treatment of NSCLC are: cisplatin/pemetrexed (cis/pem), cisplatin/gemcitabine/bevacizumab (cis/gem/bev), and carboplatin/paclitaxel/ bevacizumab (carb/pac/bev). The objective of this study was to evaluate the cost-effectiveness ratio of antineoplastic 1st line NSCLC treatment regimens, from the point of view of hospital management. Methodology: A cost-efficacy mathematical model was prepared, based on a decision tree. The efficacy variable was Progression Free Survival, obtained from the PARAMOUNT, AVAIL and SAIL Phase III clinical trials. The study was conducted from the perspective of the hospital management, considering only the direct costs of drug acquisition. A deterministic sensitivity analysis was conducted to confirm the robustness of outcomes. Results: The PFS obtained in clinical trials with cis/pem, cis/ gem/bev and carb/pac/bev was: 6.9, 6.7 and 6.2 months, respectively. Based on our model, the mean cost of treatment per patient for these regimens was: 19942 &#128;, 15594 &#128; and 36095 &#128;, respectively. The incremental cost-effectiveness ratio per month of additional PFS between cis/pem and cis/gem/bev was 19303 &#128;. Estimating a 30% reduction in acquisition costs for pemetrexed (Alimta®Eli Lilly Nederland B.V.), due to the forthcoming launch of generic medications, the cis/pem treatment would become the predominant alternative for 1st line treatment of NSCLC patients, by offering the best health results at a lower cost (AU)</dc:description>
+<dc:creator>Batista López, José Norberto</dc:creator>
+<dc:creator>González García, Jonathan</dc:creator>
+<dc:creator>Valcárcel Nazco, Cristina</dc:creator>
+<dc:creator>Oramas Rodríguez, Juana</dc:creator>
+<dc:creator>Gutiérrez Nicolás, Fernando</dc:creator>
+<dc:creator>Nazco Casariego, Gloria Julia</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Introducción: El cáncer de pulmón es la tercera neoplasia tumoral más frecuente en España, con unos 27.000 nuevos casos/ año, de los que el 80-85% son de etiología no microcítica (NSCLC) y en la mayoría de los casos diagnosticados en estadíos avanzados de la enfermedad, razón por la que es uno de los procesos oncológicos con mayores tasas de mortalidad (supervivencia media a los 5 años del 21,4%). Los principales esquemas de primera línea utilizados en el tratamiento del NSCLC son: cisplatino/pemetrexed (cis/pem), cisplatino/gemcitabina/ bevacizumab (cis/gem/bev), y carboplatino/paclitaxel/bevacizumab (carbo/pac/Bev). El objetivo del presente trabajo consistirá en realizar un análisis para estimar el ratio coste-eficacia de los esquemas antineoplásicos de primera línea en el tratamiento del NSCLC, desde la perspectiva de la gerencia hospitalaria. Métodos: Se elaboró un modelo matemático de coste-eficacia basado en un árbol de decisiones. Como variable de eficacia se utilizó la supervivencia libre de progresión, obtenida de los ensayos clínicos fase III PARAMOUNT, AVAIL y SAIL. El estudio se efectuó desde la perspectiva de la gerencia hospitalaria considerando únicamente los costes directos de adquisición de los fármacos. Se realizó un análisis de sensibilidad determinístico para comprobar la robustez de los resultados. Resultados: La SLP obtenida en los ensayos clínicos de los tratamientos cis/pem, cis/gem/bev y carb/pac/bev fue de: 6,9, 6,7 y 6,2 meses, respectivamente. En base a nuestro modelo, el coste medio del tratamiento por paciente para estos esquemas fue de 19.942 &#128;, 15.594 &#128; y 36.095 &#128;, respectivamente. La razón coste-eficacia incremenal por mes de SLP adicional entre cis/pem y cis/gem/bev fue de 19.303 &#128;. Estimando una reducción del 30% de los costes de adquisición de pemetrexed (Alimta®Eli Lilly Nederland B.V) ante su próxima incorporación al mercado de medicamentos genéricos, el tratamiento cis/pem se convertiría en la alternativa dominante en el tratamiento de primera línea de los pacientes con NSCLC, al ofrecer los mejores resultados en salud a un menor coste (AU)</dc:description>
+<dc:source>Farm Hosp;41(1): 3-13, ene.-feb. 2017. graf, tab</dc:source>
+<dc:identifier>ibc-159650</dc:identifier>
+<dc:title xml:lang="es">Coste-eficacia del pemetrexed en combinación con cisplatino como tratamiento de primera línea en pacientes con cáncer de pulmón avanzado no microcítico ni escamoso en España</dc:title>
+<dc:subject>^d55935^s22079</dc:subject>
+<dc:subject>^d8352^s22057</dc:subject>
+<dc:subject>^d2971^s22079</dc:subject>
+<dc:subject>^d55974^s22079</dc:subject>
+<dc:subject>^d16645</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29770</dc:subject>
+<dc:subject>^d31722^s22057</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201702</dc:date>
+</metadata>
+</record>
+</ibecs-document>

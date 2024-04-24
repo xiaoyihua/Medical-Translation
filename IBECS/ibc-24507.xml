@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-24507</identifier>
+<setSpec>0009-739X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Understanding p-values</dc:title>
+<dc:creator>Rebasa, Pere</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">El objetivo de este trabajo es dar una orientación básica para el cirujano sobre términos como "grado de significación", "nivel de significación" y "valor de p". Se ofrece una pequeña introducción histórica que nos sitúa en lo que representa la p y para qué sirve. Más adelante explicamos las conclusiones que pueden obtenerse con una prueba de significación, y remarcamos especialmente las precauciones que deben tenerse en cuenta para interpretar correctamente el resultado de una prueba de significación. Finalmente, se dan unas recomendaciones prácticas para tener en cuenta antes y después de hacer una prueba de significación. A lo largo de todo el artículo procuramos evitar la terminología estadística en aras de una mayor claridad en la exposición (AU)</dc:description>
+<dc:source>Cir. Esp. (Ed. impr.);73(6): 361-365, jun. 2003.</dc:source>
+<dc:identifier>ibc-24507</dc:identifier>
+<dc:title xml:lang="es">Entendiendo la "p &lt; 0,001"</dc:title>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d28636</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12527</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200306</dc:date>
+</metadata>
+</record>
+</ibecs-document>

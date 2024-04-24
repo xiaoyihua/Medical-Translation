@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-87927</identifier>
+<setSpec>1134-3230</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Patient with type 2 diabetes and poor-controlled hypertension with two drugs</dc:title>
+<dc:creator>Medina Asensio, J</dc:creator>
+<dc:creator>Lahera, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:source>Av. diabetol;26(5): 361-369, sept.-oct. 2010. ilus, tab</dc:source>
+<dc:identifier>ibc-87927</dc:identifier>
+<dc:title xml:lang="es">Paciente con diabetes tipo 2 e hipertensión mal controlada con dos fármacos</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d3946^s22012</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d2359^s22054</dc:subject>
+<dc:subject>^d21012</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d7152^s22012</dc:subject>
+<dc:subject>^d7182^s22073</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d962^s22073</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201010</dc:date>
+</metadata>
+</record>
+</ibecs-document>

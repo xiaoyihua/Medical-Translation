@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-158695</identifier>
+<setSpec>1135-8831</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Usefulness of a C-reactive protein rapid test (QUIKREAD GO® CRP) in the management of infants with fever in the emergency room</dc:title>
+<dc:description xml:lang="en">Background. The C-reactive protein (CRP) is useful in the management of infants with fever without source (FWS) as it may help identify those at high risk of potentially serious bacterial infection (SBI). Methods for bedside CRP testing are now available. Objective. 1) To analyze the reproducibility of CRP values obtained by bedside testing methods (QuikRead go® CRP); and 2) To evaluate the optimal cutoff point value of CRP to identify those patients at high risk of SBI. Method. Well-appearing infants aged 1 to 24 months seen in the emergency room (ER) from 01/05/2013 to 31/12/2014 with FWS &lt;72h of evolution in whom blood tests were performed were included. CRP was determined using the QuikRead go® CRP after obtaining informed consent. For correlation analysis, only cases with QuikRead go® CRP values between 5 and 200mg/L were included. The reproducibility of the measurements was analyzed by the intraclass correlation consistency (ICCC). ROC curve was estimated, and the optimal cut-off was determined to identify SBI. Results. 235 patients (median age 2.9 months; P25-75:1.8-11.1 months) were included. A SBI was diagnosed in 32 (13.6%) cases. QuikRead go® CRP values ranged between 5 and 200 mg/L in 204 cases. CRP median values were not significantly different (F=0.146,df=1.203;p=0.146); the ICCC was 0.907 (IC95% 0.880-0.929;p&lt;0.001). The median CRP in patients with SBI was 72.1mg/L vs. 18.7mg/L in those without SBI(p&lt;0.001). The area under the ROC curve was 0.86 (95% 0.81 to 0.90), with an optimal cutoff &amp;#8805;10mg/L (sensitivity: 93.8%, specificity: 47.8%). Conclusions. The QuikRead go® CRP is an excellent estimator of the CRP. Having the QuikRead go® CRP in the ER would be useful to optimize the management of infants with FWS (AU)</dc:description>
+<dc:creator>Trenchs Sainz de la Maza, Victoria</dc:creator>
+<dc:creator>Luaces Cubells, Carles</dc:creator>
+<dc:creator>García Esteban, Carme</dc:creator>
+<dc:creator>Hernández Bou, Susanna</dc:creator>
+<dc:creator>Vanegas Grisales, María Isabel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamento. La proteína C reactiva (PCR) es útil en el manejo del lactante con fiebre sin foco (FSF) para identificar alto riesgo de infección bacteriana potencialmente grave (IBPG). Actualmente existen tests de determinación capilar rápida. Objetivo. 1) Analizar la reproducibilidad de los valores de PCR dados por la técnica habitual y por el test de determinación capilar rápida QuikRead go® CRP. 2) Evaluar el punto de corte óptimo para identificar alto riesgo de IBPG en lactantes con FSF. Método. Entre el 01/05/2013 y el 31/12/2014 se incluyen lactantes previamente sanos de 1 a 24 meses atendidos en urgencias por FSF de menos de 72 horas de evolución y buen estado general a los que se realiza analítica sanguínea. Simultáneamente se determina la PCR mediante la QuikRead go® CRP previo consentimiento informado. Para el análisis de correlación se incluyen los casos con QuikRead go® CRP entre 5 y 200 mg/L. Se analiza la reproducibilidad mediante el coeficiente de correlación intraclase de consistencia (ICCC). Se estima la curva ROC y se determina el punto de corte óptimo para identificar IBPG. Resultados. Se incluyen 235 pacientes; edad mediana 2,9 m (p25- 75:1,8-11,1). Se diagnostica IBPG a 32 (13,6%). En 204 la QuikRead go® CRP está entre 5 y 200 mg/L. Las medias de PCR no presentan diferencias significativas (F=0,146; df=1,203; p=0,146); el ICCC es 0,907 (IC 95%:0,880-0,929; p&lt;0,001). La media de PCR de los pacientes con IBPG es de 72,1 mg/L vs 18,7 mg/L de los pacientes sin IBPG (p&lt;0,001). El área bajo la curva ROC es 0,86 (IC 95%:0,81-0,90), con un punto de corte óptimo &amp;#8805;10 mg/L (sensibilidad: 93,8%, especificidad: 47,8%). Conclusiones. La QuikRead go® CRP es un excelente estimador de la PCR determinada por la técnica habitual. Disponer de ella en urgencias sería útil para optimizar el manejo del lactante febril (AU)</dc:description>
+<dc:source>Pediatr. catalan;76(3): 107-111, jul.-sept. 2016. tab, ilus</dc:source>
+<dc:identifier>ibc-158695</dc:identifier>
+<dc:title xml:lang="es">Utilidad de una prueba para la determinación de la PCR (QUIKREAD GO® CRP) para el manejo del lactante con fiebre sin foco en urgencias</dc:title>
+<dc:subject>^d7399</dc:subject>
+<dc:subject>^d28614</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22124^s22073</dc:subject>
+<dc:subject>^d28320^s22039</dc:subject>
+<dc:subject>^d24244^s22045</dc:subject>
+<dc:subject>^d28320^s22045</dc:subject>
+<dc:subject>^d7414^s22016</dc:subject>
+<dc:subject>^d4707^s22074</dc:subject>
+<dc:subject>^d5444^s22016</dc:subject>
+<dc:subject>^d5444^s22027</dc:subject>
+<dc:subject>^d28320^s22074</dc:subject>
+<dc:subject>^d4707^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201609</dc:date>
+</metadata>
+</record>
+</ibecs-document>

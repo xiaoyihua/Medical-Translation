@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-153072</identifier>
+<setSpec>0034-9356</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Hospital mortality in postoperative critically ill patients older than 80 years. Can we predict it at an early stage?</dc:title>
+<dc:description xml:lang="en">Objectives. To determine the incidence of in-hospital mortality throughout the post-surgical period of patients aged 80 or over who were admitted to the post-surgical critical care unit, as well as to assess the predictive capacity of those variables existing in the first 48 hours on the in-hospital mortality. Material and methods. An observational retrospective cohort study conducted on postsurgical patients up to 80 years old who were admitted to the unit between June 2011 and December 2013. Univariate and multivariate binary logistic regression was used to determine the association between mortality and the independent variables. Results. Of the 186 patients included, 9 (4.8%) died in the critical care unit, and 22 (11.8%) died in wards during hospital admission, giving a hospital mortality of 31 (16.7%). Among the 78 patients (42%) that underwent acute surgery, and the 108 who underwent elective surgery, there was a mortality rate of 19 (10.2%) and 12 (6.5%), respectively. As regards the variables analysed during the first 48 hours of admission that showed to be hospital mortality risk factor were the need for mechanical ventilation over 48 h, with an OR: 7.146 (95% CI: 1.563-32.664, P = .011) and the degree of the severity score on the APACHE II scale in the first 24 hours, with an OR: 1.102 (95% CI: 1.005-1.208, P = .039). Conclusion. The incidence of hospital mortality in very old patients found in our study is comparable to that reported by other authors. Patients who need mechanical ventilation over 48 h, and with higher scores in the APACHE II scale could be at a higher risk of in-hospital mortality (AU)</dc:description>
+<dc:creator>Aliaño Piña, M</dc:creator>
+<dc:creator>Velaz Domínguez, S</dc:creator>
+<dc:creator>Paz Martín, D</dc:creator>
+<dc:creator>Ávila Sánchez, FJ</dc:creator>
+<dc:creator>Vázquez Vicente, B</dc:creator>
+<dc:creator>Poza Hernández, P</dc:creator>
+<dc:creator>Pérez Martín, F</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos. Conocer la incidencia de mortalidad hospitalaria en el postoperatorio de los pacientes con edad igual o mayor de 80 años que ingresan en la Unidad de Reanimación (UR), así como evaluar la capacidad predictiva de las variables presentes en las primeras 48 h de ingreso sobre la mortalidad hospitalaria. Material y métodos. Estudio retrospectivo observacional de cohortes. Se incluyeron todos los pacientes de edad igual o mayor de 80 años ingresados en la UR tras intervenirse quirúrgicamente durante junio del 2011 a diciembre del 2013. Se realizó un modelo de regresión logística en base a un análisis uni y bivariado para conocer la posible asociación entre la mortalidad y las variables independientes. Resultados. De los 186 pacientes recogidos en el estudio, 9 (4,8%) fallecieron en la UR y 22 (11,8%) fallecieron una vez trasladados a planta de hospitalización, lo que se traduce en una mortalidad hospitalaria total de 31 (16,7%). De los 78 pacientes (42%) intervenidos de urgencia y de los 108 de forma programada se observó una mortalidad de 19 (10,2%) y 12 (6,5), respectivamente. Las únicas variables presentes en las primeras 48 h de ingreso en la UR que demostraron ser factor de riesgo para mortalidad hospitalaria fueron ventilación mecánica de más de 48 h (OR; 7,146; IC 95%: 1,563-32,664; p = 0,011) y el grado de severidad en la escala APACHE II en las primeras 24 h (OR: 1,102; IC 95%: 1,005-1,208; p = 0,039). Conclusión. La incidencia de mortalidad hospitalaria en pacientes ancianos encontrada en nuestro centro es equiparable a la de otras series publicadas. La ventilación mecánica prolongada de más de 48 h y el grado de severidad en la escala APACHE II identificarían aquellos pacientes con mayor riesgo de fallecer durante el ingreso hospitalario (AU)</dc:description>
+<dc:source>Rev Esp Anestesiol Reanim;63(6): 313-319, jun.-jul. 2016. tab, graf</dc:source>
+<dc:identifier>ibc-153072</dc:identifier>
+<dc:title xml:lang="es">Mortalidad hospitalaria en pacientes críticos postquirúrgicos mayores de 80 años. ¿Podemos predecirla de forma precoz?</dc:title>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d30047^s22066</dc:subject>
+<dc:subject>^d28614</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3439^s22049</dc:subject>
+<dc:subject>^d12541^s22045</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d3439^s22045</dc:subject>
+<dc:subject>^d12541^s22074</dc:subject>
+<dc:subject>^d11621^s22045</dc:subject>
+<dc:subject>^d6916^s22083</dc:subject>
+<dc:subject>^d56222</dc:subject>
+<dc:subject>^d32354</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201607</dc:date>
+</metadata>
+</record>
+</ibecs-document>

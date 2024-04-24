@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-97419</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Methods for determination of HIV tropism and their clinical use</dc:title>
+<dc:description xml:lang="en">Determination of HIV-1 tropism is mandatory before using CCR5 antagonists in clinical practice. One drug of this class, maraviroc, has been approved for the treatment of HIV infection. The phenotypic assay, TrofileTM, was clinically validated in the clinical development program of maraviroc and has been widely used to select candidates for maraviroc therapy. Phenotypic tests, however, have the disadvantage of being complex, are costly and time-consuming, and their accessibility is limited, which hampers their routine use in clinical diagnosis. Genotypic assays, based on sequencing the third hypervariable (V3 loop) of the viral gene env, interpreted according to various genotypic bioinformatic tools, such as geno2pheno and PSSM, are faster and cheaper than phenotypic assays, and are also more accessible. In retrospective analyses of the maraviroc pivotal trials, genotypic methods using either conventional (&#147;bulk&#148;) or deep-sequencing technology predicted virologic response to maraviroc similarly to phenotypic assays and are now included within several European recommendations to guide the clinical use of CCR5 antagonists (AU)</dc:description>
+<dc:creator>Poveda, Eva</dc:creator>
+<dc:creator>García, Federico</dc:creator>
+<dc:creator>Carlos Rodríguez, Juan</dc:creator>
+<dc:creator>Gutiérrez, Félix</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La necesidad de conocer previamente el tropismo constituye un requisito imprescindible para el uso de los fármacos antagonistas de los correceptores CCR5. Un fármaco de esta clase, maraviroc, está ya aprobado para el tratamiento de la infección por el virus de la inmunodeficiencia humana (VIH). Aunque en los ensayos de desarrollo de maraviroc, el tropismo se determinó mediante pruebas fenotípicas (Trofile®), la realización de éstas es compleja, tiene un coste elevado y su accesibilidad es limitada, lo que dificulta su utilización en la práctica clínica. Los métodos genotípicos basados en el análisis de la tercera región variable (V3) de la envuelta del VIH utilizando algoritmos de interpretación como geno2pheno y PSSM representan una alternativa rápida, barata y accesible en laboratorios diagnósticos para predecir el tropismo viral. En los análisis retrospectivos de los ensayos clínicos de maraviroc, las pruebas genotípicas realizadas mediante técnicas de genotipo convencional (o poblacional) o mediante las nuevas plataformas de secuenciación masiva (pirosecuenciación por 454) fueron capaces de predecir la respuesta virológica al fármaco con una exactitud similar a las pruebas fenotípicas y, actualmente, las recomendaciones españolas y europeas las incluyen como una alternativa aceptable para la determinación del tropismo viral en la práctica clínica (AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;29(supl.5): 45-50, Dic. 2011. ilus, tab</dc:source>
+<dc:identifier>ibc-97419</dc:identifier>
+<dc:title xml:lang="es">Tropismo del VIH. Técnicas disponibles y utilidad</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d53765^s22033</dc:subject>
+<dc:subject>^d29416^s22033</dc:subject>
+<dc:subject>^d38332^s22079</dc:subject>
+<dc:subject>^d24718^s22046</dc:subject>
+<dc:subject>^d5974</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201112</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-052624</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Maximum information stratification method for controlling item exposure in computerized adaptive testing</dc:title>
+<dc:description xml:lang="en">The proposal for increasing the security in Computerized Adaptive Tests that has received most attention in recent years is the a-stratified method (AS - Chang and Ying, 1999): at the beginning of the test only items with low discrimination parameters (a) can be administered, with the values of the a parameters increasing as the test goes on. With this method, distribution of the exposure rates of the items is less skewed, while efficiency is maintained in trait-level estimation. The pseudo-guessing parameter (c), present in the three-parameter logistic model, is considered irrelevant, and is not used in the AS method. The Maximum Information Stratified (MIS) model incorporates the c parameter in the stratification of the bank and in the item-selection rule, improving accuracy by comparison with the AS, for item banks with a and b parameters correlated and uncorrelated. For both kinds of banks, the blocking b methods (Chang, Qian and Ying, 2001) improve the security of the item bank</dc:description>
+<dc:creator>Barrada, Juan Ramón</dc:creator>
+<dc:creator>Mazuela, Paloma</dc:creator>
+<dc:creator>Olea, Julio</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">La propuesta para aumentar la seguridad en los tests adaptativos informatizados que ha recibido más atención en los últimos años ha sido el método a-estratificado (AE - Chang y Ying, 1999): en los momentos iniciales del test sólo pueden administrarse ítems con bajos parámetros de discriminación (a), incrementándose los valores del parámetro a admisibles según avanza el test. Con este método la distribución de las tasas de exposición de los ítems es más equilibrada, manteniendo una adecuada precisión en la medida. El parámetro de pseudoadivinación (c), presente en el modelo logístico de tres parámetros, se supone irrelevante y no se incorpora en el AE. El método de Estratificación por Máxima Información (EMI) incorpora el parámetro c a la estratificación del banco y a la regla de selección de ítems, mejorando la precisión en comparación con AE, tanto para bancos donde los parámetros a y b correlacionan como para bancos donde no. Para ambos tipos de bancos, los métodos de bloqueo de b (Chang, Qian y Ying, 2001) mejoran la seguridad del banco</dc:description>
+<dc:source>Psicothema (Oviedo);18(1): 156-159, feb. 2006. ilus, tab</dc:source>
+<dc:identifier>ibc-052624</dc:identifier>
+<dc:title xml:lang="es">Método de estratificación por máxima información para el control de la exposición en tests adaptativos informatizados (AU)</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d4252</dc:subject>
+<dc:subject>^d12018</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d19245</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200602</dc:date>
+</metadata>
+</record>
+</ibecs-document>

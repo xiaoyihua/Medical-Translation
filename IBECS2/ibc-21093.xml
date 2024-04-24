@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-21093</identifier>
+<setSpec>1695-4033</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Hospital management of pediatric patients referred from primary care centers</dc:title>
+<dc:creator>Domínguez Garrido, N</dc:creator>
+<dc:creator>Fernández Villalba, M. E</dc:creator>
+<dc:creator>Barajas Sánchez, M. V</dc:creator>
+<dc:creator>Escorihuela Esteban, R</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Dar a conocer la dinámica de trabajo en el hospital, con los pacientes que son enviados por primera vez para interconsulta por sus pediatras de atención primaria, así como los diagnósticos finales y algunos aspectos epidemiológicos. Pacientes y métodos: Estudio descriptivo de 737 pacientes de 0-14 años que acuden por primera vez a la consulta general hospitalaria enviados por los pediatras de 13 centros de atención primaria del Imsalud. Al finalizar la visita hospitalaria un médico rellenó para cada paciente una ficha con 20 ítems. El estudio estadístico que comprende medias, desviaciones estándar y test de chi cuadrado ( 2 ) para tendencias se realizó mediante un programa R-Sigma. Resultados: La edad media de los pacientes fue de 5,43 4,39 años. El 14 por ciento de los pacientes correspondieron a población inmigrante. Se realizó consulta a otras especialidades o subespecialidades pediátricas en el 53 por ciento de los pacientes y destacaron: cardiología (9 por ciento), endocrinología (8 por ciento) y cirugía infantil (5 por ciento). Los diagnósticos más frecuentes fueron soplo funcional (10 por ciento), asma (6,4 por ciento) y alergia alimentaria (5,5 por ciento), suponiendo los 30 más frecuentes el 71 por ciento del total. Los problemas psicosomáticos se registraron en el 20 por ciento de los pacientes. Al finalizar el estudio fueron dados de alta un 34 por ciento de los pacientes. La duración media del estudio fue de 23,9 21 días. Conclusiones: Aproximadamente la mitad de las consultas que llegan al hospital son derivadas a otros especialistas. Los aspectos formativos y docentes deberían orientarse a los 30 diagnósticos más frecuentes, delimitando el papel que el médico debe desempeñar en cada nivel de asistencia y que en el hospitalario incluye la docencia a pregrado y posgrado. La asistencia a la población de origen inmigrante conlleva una especial problemática que hay que delimitar. Los problemas psicosomáticos son frecuentes (AU)</dc:description>
+<dc:source>An Pediatr (Barc);58(4): 327-332, abr. 2003.</dc:source>
+<dc:identifier>ibc-21093</dc:identifier>
+<dc:title xml:lang="es">Actuación hospitalaria con las interconsultas procedentes de atención primaria</dc:title>
+<dc:subject>^d7564</dc:subject>
+<dc:subject>^d5298</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d8678</dc:subject>
+<dc:subject>^d10565</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12438</dc:subject>
+<dc:subject>^d6916</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200304</dc:date>
+</metadata>
+</record>
+</ibecs-document>

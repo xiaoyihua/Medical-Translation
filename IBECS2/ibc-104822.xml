@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-104822</identifier>
+<setSpec>0212-1611</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Design of a self-administered online food frequency questionnaire (FFQ) to assess dietary in take among university population</dc:title>
+<dc:description xml:lang="en">Objective: To introduce and describe a new tool called UPV-FFQ to evaluate dietary intake of the university population. The new tool consists principally in a selfadministered online food frequency questionnaire (FFQ). Materials and methods: The tool UPV-FFQ has been developed by means of web pages applying the technology ASP.NET 2.0 and using the database SQL Server 2005 as support. To develop the FFQ has been used as model the paper and pencil FFQ called "Dieta, salud y antropometría en la población universitaria". Results: The tool has three parts: (1) a homepage, (2) a general questionnaire and (3) a FFQ. The FFQ has a closed list of 84 food items commonly consumed in Valencia region. The respondents has to indicate the food items that they consume (2 possible options), the frequency of consumption (9 response options) and the quantity consumed (7 response options). The UPV-FFQ has approximately 250 color photographs that represents to three portion sizes. The photographs are useful to help the respondents to choose the portion sizes that more adjusts to their habitual portions. The new tool provides quantitative information of the habitual intake of 31 nutritional parameters and provides qualitative information of the general questionnaire. A pilot study was done for a total of 57 respondents. The media time spend to fill in was 15 minutes. Conclusions: The pilot study concluded that the questionnaire was ease-of-use, low cost and time-effectiveness questionnaire. The format and the sequence of the questions were easily understood (AU)</dc:description>
+<dc:creator>García Segovia, P</dc:creator>
+<dc:creator>González Carrascosa, R</dc:creator>
+<dc:creator>Meneu Barreira, T</dc:creator>
+<dc:creator>Bayo Montó, JL</dc:creator>
+<dc:creator>Martínez-Monzó, J</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objetivo: Introducir y describir una nueva herramienta llamada UPV-FFQ para evaluar la ingesta dietética de la población universitaria. Esta nueva herramienta consiste principalmente en un cuestionario de frecuencia de consumo de alimentos (CFCA) autoadministrado online. Materiales and métodos: La herramienta UPV-FFQ se ha desarrollado a través de páginas web aplicando la tecnología ASP.NET 2.0 y usando la base de datos SQL Server 2005 como soporte. Para desarrollar este FFQ se ha empleado como modelo el cuestionario en papel llamado &#145;Dieta, salud y antropometría en la población universitaria&#146;. Resultados: La herramienta consta de tres partes: 1) una página de introducción; 2) un cuestionario general y 3) un CFCA. El CFCA consta de una lista cerrada de 84 alimentos comúnmente consumidos en la región valenciana. Los encuestados deben indicar qué alimentos consumen (2 posibles opciones de respuesta), la frecuencia de ingesta (9 opciones de respuesta) y la cantidad ingerida (7 opciones de respuesta). El UPV-FFQ presenta aproximadamente 250 fotografías a color con tamaños de ración para cada alimento para ayudar a los encuestados a escoger el tamaño de ración que más se ajusta a su porción habitual. La herramienta proporciona información cuantitativa de la ingesta habitual de 31 parámetros nutricionales y también proporciona información cualitativa proveniente del cuestionario general. Se realizó un estudio piloto con un total de 57 participantes con características similares a la población de estudio. El tiempo medio que emplearon para rellenarlo fue de 15 minutos. Conclusiones: El estudio piloto concluyó que el UPVFFQ era fácil de manejar, de bajo coste y de gran eficacia. Además, entendieron fácilmente el formato y la secuencia de las preguntas (AU)</dc:description>
+<dc:source>Nutr Hosp;26(6): 1440-1446, nov.-dic. 2011. ilus</dc:source>
+<dc:identifier>ibc-104822</dc:identifier>
+<dc:title xml:lang="es">Diseño de un cuestionario de frecuencia de consumo de alimentos autoadministrado online para evaluar la ingesta dietetica de la población universitaria</dc:title>
+<dc:subject>^d28222^s22045</dc:subject>
+<dc:subject>^d24806</dc:subject>
+<dc:subject>^d22182</dc:subject>
+<dc:subject>^d13721^s22083</dc:subject>
+<dc:subject>^d19371</dc:subject>
+<dc:subject>^d5657</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28608^s22074</dc:subject>
+<dc:subject>^d5350</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201112</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-16870</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Integration of an emergency department module in a computer.-based patient record system: the experience of a primary care health district</dc:title>
+<dc:creator>Díaz, Julio</dc:creator>
+<dc:creator>Fernández, Manuel</dc:creator>
+<dc:creator>Dotor, María Isabel</dc:creator>
+<dc:creator>Agrela, Santos</dc:creator>
+<dc:creator>Pérez Montaut, Ignacio</dc:creator>
+<dc:creator>Cortes, Carmen</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Diseñar e implantar el módulo informático de urgencias, su posterior validación y puesta en marcha del mismo mediante su integración en la aplicación de la tarjeta sanitaria de la Seguridad Social (TASS). Resultados: La creación e incorporación del módulo de urgencias en la historia informática de la TASS ha permitido disponer de toda la información del paciente a todos los profesionales en cualquier momento. La calidad de los registros ha mejorado notablemente (la información es siempre legible, uniforme, la seguridad está garantizada, etc.). Al mismo tiempo, se ha conseguido información puntual sobre los episodios atendidos, los tiempos medios de respuesta, el grado de cumplimentación del informe de alta, la adecuación de procedimientos de enfermería, la adhesión a protocolos de tratamiento y la codificación diagnóstica en urgencias (AU)</dc:description>
+<dc:source>Rev. calid. asist;17(3): 138-142, mayo 2002. ilus</dc:source>
+<dc:identifier>ibc-16870</dc:identifier>
+<dc:title xml:lang="es">La integración del módulo de urgencias en la historia clínica informática de atención primaria: experiencia desde un distrito sanitario de atención primaria</dc:title>
+<dc:subject>^d4707^s22049</dc:subject>
+<dc:subject>^d7432^s22055</dc:subject>
+<dc:subject>^d7432^s22049</dc:subject>
+<dc:subject>^d28835</dc:subject>
+<dc:subject>^d7432^s22048</dc:subject>
+<dc:subject>^d11756^s22049</dc:subject>
+<dc:subject>^d4711^s22048</dc:subject>
+<dc:subject>^d4711^s22049</dc:subject>
+<dc:subject>^d19243^s22049</dc:subject>
+<dc:subject>^d11756^s22048</dc:subject>
+<dc:subject>^d19243^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200205</dc:date>
+</metadata>
+</record>
+</ibecs-document>

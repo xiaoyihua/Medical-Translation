@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-22713</identifier>
+<setSpec>1137-6627</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Computer communication between an ambulatory centre and its hospital of reference</dc:title>
+<dc:creator>Martínez-Berganza, A</dc:creator>
+<dc:creator>Sandúa, J. M</dc:creator>
+<dc:creator>Escolar, F</dc:creator>
+<dc:creator>Sangrós, F. J</dc:creator>
+<dc:creator>Fernández, L</dc:creator>
+<dc:creator>Elviro, T</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Departamento de Salud. Gobierno de Navarra</dc:publisher>
+<dc:description xml:lang="es">Fundamento. Analizar la demanda de información médica solicitada desde un equipo de atención primaria a su hospital de referencia, durante un periodo de 18 meses. Material y métodos. Pacientes asignados a 5 consultas de un equipo de atención primaria, que tenían abierta historia clínica informatizada en su hospital de referencia. En 1995 se estableció una comunicación informática vía módem, entre dicho equipo y la "Red de Área Local" de su hospital de referencia. Esta conexión permite a los miembros del equipo conocer en tiempo real la historia clínica hospitalaria de sus pacientes (informes, exploraciones complementarias&#133;) y los informes de laboratorio y radiología solicitados desde el equipo de atención primaria. Se analizaron las consultas efectuadas durante un periodo de 18 meses (Marzo 96-Agosto 97). Resultados. Se efectuaron 523 consultas (29,06 mensuales). Un 93,7 por ciento de los pacientes consultados tenían abierta historia clínica informatizada. Los servicios más consultados fueron: Radiología (28,7 por ciento), Laboratorio (25,2 por ciento) y Medicina Interna (16,3 por ciento). Las partes de la historia clínica más consultadas fueron las correspondientes al resultado de pruebas complementarias: radiología simple (27,3 por ciento), hematología y bioquímica (24,7 por ciento), otras exploraciones (23,7 por ciento). Un 67,5 por ciento de las búsquedas fueron consideradas como "resolutivas" por el médico consultante. Se empleó una media de 4 minutos y 13 segundos por consulta. Conclusiones. La información principalmente requerida por el médico de familia fue el resultado de pruebas complementarias y, en particular, de laboratorio y radiología. La comunicación informatizada entre atención primaria y atención especializada va a ser un sistema efectivo y probablemente eficiente para mejorar la comunicación entre ambos niveles (AU)</dc:description>
+<dc:source>An Sist Sanit Navar;24(2): 167-176, mayo 2001.</dc:source>
+<dc:identifier>ibc-22713</dc:identifier>
+<dc:title xml:lang="es">Comunicación informatizada entre un centro de salud y su hospital de referencia</dc:title>
+<dc:subject>^d6453</dc:subject>
+<dc:subject>^d7432^s22049</dc:subject>
+<dc:subject>^d29040</dc:subject>
+<dc:subject>^d11756^s22049</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d33124</dc:subject>
+<dc:subject>^d19243^s22045</dc:subject>
+<dc:subject>^d6904</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200105</dc:date>
+</metadata>
+</record>
+</ibecs-document>

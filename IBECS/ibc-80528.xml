@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-80528</identifier>
+<setSpec>0212-6982</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Utility of PET-CT on radiotherapy planning of head and neck cancer. Our initial experience</dc:title>
+<dc:description xml:lang="en">Objective. To describe the methods used for the incorporation of FDG-PET-CT on radiotherapy planning of patients with head and neck cancer and also to evaluate the impact of FDG-PET-CT on staging and tumor volume definition. Material and methods. A prospective study in which 20 patients with head and neck tumor submitted for radiotherapy treatment were included. All underwent a whole body PET- CT (GE DSTE 16) for staging and restaging, also acquiring an additional 3h delayed PET image with diagnostic CT parameters for planning. A CT scan with diagnostic protocol, tabletop available for radiotherapy treatment and the same personalized head-shoulder mask were used in the latter. Lymph node involvement and/or distant involvement were evaluated, considering the changes in staging. We also evaluated the differences in volumes obtained between the different techniques. The threshold value used for delineating PET gross tumor volume (GTV) was empirically established and ranged from 20&#150;40% of the maximum SUV. Results. Radiotherapy planning was performed with PET-CT in 20 patients between October 2007 to September 2008. A total of 29 lesions (18 primary lesions because 2 patients were excluded as no tumor was observed on the PET CT images, and 11 nodes). The most frequent location was oropharynx (5 patients). Mean maxSUV of the 29 lesions was 14.4 (range 5.0 and 26.4). No statistically significant differences were found between the GTV PET and GTV CT (mean 21.9cm3 and 19.3cm3, respectively). PET-CT modified the staging in 20% of the patients, with a diagnostic and therapeutic impact of 50 and 25%, respectively...(AU)</dc:description>
+<dc:creator>García Vicente, A. M</dc:creator>
+<dc:creator>Palomar Muñoz, A</dc:creator>
+<dc:creator>Poblete García, V. M</dc:creator>
+<dc:creator>Soriano Castrejón, A</dc:creator>
+<dc:creator>Talavera Rubio, M. P</dc:creator>
+<dc:creator>Pérez Romasanta, L</dc:creator>
+<dc:creator>Bellón Guardia, M. E</dc:creator>
+<dc:creator>González García, B</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Describir los métodos aplicados en la incorporación de la PET-TAC en la planificación de radioterapia (RT) en pacientes afectos de tumores de cabeza y cuello, así como valorar el impacto que induce en la estadificación y en la estimación de volúmenes para irradiar. Material y método. Estudio prospectivo en el que se incluyeron 20 pacientes afectos de un tumor localizado en el área de la cabeza y del cuello y candidatos a tratamiento radioterápico. Todos ellos se sometieron a un estudio PET-TAC (GEDSTE 16) de cuerpo completo para estadificar o reestadificar y a otro estudio selectivo cervical tardío (3h) para la planificación del tratamiento. En este último se utilizó la TAC con protocolo diagnóstico, una mesa réplica de la utilizada en RT y una máscara personalizada. Se evaluó la afectación ganglionar y/o a distancia, atendiendo a cambios en el estadio. También se compararon los volúmenes obtenidos entre las distintas técnicas. El valor umbral del standard uptake value (SUV) para definir el volumen tumoral de la PET se estableció de modo empírico y osciló entre un 20&#150;40% del SUV máximo. Resultados. Desde octubre de 2007 hasta agosto de 2008 se han realizado planificaciones de RT con PET-TAC en 20 pacientes. Se han analizado un total de 29 lesiones (18 lesiones primarias, ya que 2 pacientes fueron excluidos por no evidenciar tumor en el estudio PET o TAC, y 11 ganglios). La localización más frecuente del tumor primario ha sido la orofaringe (5 pacientes). El SUV máximo promedio de las lesiones ha sido de 14,4 (rango: 5,0&#150;26,4). Los valores promedio del volumen tumoral con PET y con TAC han sido 21,9 y 19,3cm3, respectivamente, no evidenciando diferencias estadísticamente significativas. La PET-TAC modificó la estadificación en el 20% de los casos, mostrando un impacto diagnóstico y terapéutico global del 50 y del 25%, respectivamente...(AU)</dc:description>
+<dc:source>Rev Esp Med Nucl;29(4): 157-164, jul.-ago. 2010. tab, ilus</dc:source>
+<dc:identifier>ibc-80528</dc:identifier>
+<dc:title xml:lang="es">Utilidad de la PET-TAC en la planificación radioterápica en el cáncer de cabeza y cuello. Nuestra experiencia inicial</dc:title>
+<dc:subject>^d23596^s22022</dc:subject>
+<dc:subject>^d24339^s22045</dc:subject>
+<dc:subject>^d29646</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6409^s29166</dc:subject>
+<dc:subject>^d12314^s22045</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d6409^s22059</dc:subject>
+<dc:subject>^d6409^s22016</dc:subject>
+<dc:subject>^d9560^s22074</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d38793^s22074</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d38793^s22066</dc:subject>
+<dc:subject>^d38793^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201008</dc:date>
+</metadata>
+</record>
+</ibecs-document>

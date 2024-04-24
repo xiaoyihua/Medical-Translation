@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-61541</identifier>
+<setSpec>0034-0618</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Mono and biexponential models in radioimmunoassay of Insulin</dc:title>
+<dc:description xml:lang="en">Radioimmunoassay (RIA) is a principal method for quantifyingserum Insulin concentration. We studied the influence of initial concentrationof 125I-labeled antigen (M) and unlabeled Insulin (Q), viscosityand temperature on the substitution reaction between Q andthe immunocomplex (PM) formed by M and the anti-Insulin antibody(P). The accuracy of this method is critically dependent on such factors.In addition, we propose a kinetic model for this reaction. Weused a commercially available RIA kit for Insulin, a gamma counter,and a viscosimeter to study the effect of initial concentration of M,ionic strength, viscosity, and temperature on the substitution reactionbetween M and Q. Data were analyzed using Statistica software. Theapparent rate constant for the reaction between PM and Q is dependenton the initial concentrations of M and Q, and the viscosity of thereaction medium, and temperature, and independent of the ionicstrength.A kinetic model for the displacement of the 125I-Insulin by theInsulin in its union to a specific antibody is proposed. Such modeladjusts satisfactorily to the results and shows the influence of the variablesstudied on the sensitivity of the method of RIA on which theanalytical determination of the Insulin is based(AU)</dc:description>
+<dc:creator>Salabert Salvador, M. Teresa</dc:creator>
+<dc:creator>Moreno Frigols, José Luis</dc:creator>
+<dc:creator>Díez Montoro, Ricardo</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">RESUMENModelos mono y biexponencial en Radioinmunoanálisis de InsulinaEl Radioinmunoanálisis (RIA) es uno de los principales métodospara la cuantificación de la concentración sérica de Insulina. Se haestudiado la influencia de la concentración inicial de 125I- Insulina(M) e Insulina no marcada (Q), viscosidad y temperatura en la reacciónde sustitución entre Q y el inmunocomplejo (PM) formado porM y el anticuerpo anti Insulina (P). La exactitud de este método escríticamente dependiente de dichos factores. Además se propone unmodelo cinético para esta reacción. Se utilizó un kit comercial deRIA para Insulina, un contador gamma y un viscosímetro para estudiarel efecto de las variables indicadas anteriormente sobre la reacciónde sustitución entre M y Q. Los datos se analizaron usando elprograma Statistica. La constante aparente de velocidad para la reacciónentre PM y Q depende de las concentraciones iniciales de M yQ, de la viscosidad del medio y de la temperatura. Es independientede la fuerza iónica.Se propone un modelo cinético para el desplazamiento de la 125IInsulinapor la Insulina en su unión a un anticuerpo específico.Dicho modelo se ajusta satisfactoriamente a los resultados y muestrala influencia de las variables estudiadas sobre la sensibilidad delmétodo de RIA en que se basa la determinación analítica de laInsulina(AU)</dc:description>
+<dc:source>An Real Acad Farm;75(1): 25-41, ene.-mar. 2009. tab, ilus</dc:source>
+<dc:identifier>ibc-61541</dc:identifier>
+<dc:title xml:lang="es">Modelos mono y biexponencial en Radioinmunoanálisis de Insulina</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d35052</dc:subject>
+<dc:subject>^d10171</dc:subject>
+<dc:subject>^d13093^s22016</dc:subject>
+<dc:subject>^d7500^s22062</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22633^s22045</dc:subject>
+<dc:subject>^d7501^s22002</dc:subject>
+<dc:subject>^d1837</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200903</dc:date>
+</metadata>
+</record>
+</ibecs-document>

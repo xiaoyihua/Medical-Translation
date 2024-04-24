@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-166849</identifier>
+<setSpec>1888-4008</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Evaluation of analytical quality indicators in a clinical laboratory</dc:title>
+<dc:description xml:lang="en">Introduction. Quality specifications need to be defined using indicators that are adapted to needs and current technology, as well as to establish the limits of acceptability based on national and international consensus. The aim of this study is to evaluate compliance with various quality indicators for different analytes. Materials and methods. The following statistical values were calculated monthly for each analyte: coefficient of variation ratio, standard deviation index, total error based on biological variability, sigma level and total analytical error (%). Results. Percentage compliance of imprecision indicator (coefficient of variation ratio) in serum was 97%, while the systematic error indicator (standard deviation index) was 98%. For urine, compliance of imprecision was 88%, and for systematic error it was 95%. As regards to compliance with ET based on biological variability, serum was 85%, urine was 93%, and troponin I (TpI) was 75%. As for sigma quality specifications, it was 72% for serum and for urine was 85%, and in the case of TpI was 57%. For total analytical error, the compliance rate was 97% for serum and 88% for urine. Conclusions. Specifications based on biological variability should be adopted whenever possible, and if not, the minimum consensus specifications. Goals based on the sigma level are far from being met with current technology (AU)</dc:description>
+<dc:creator>González Cantó, Julia</dc:creator>
+<dc:creator>Esteve Poblador, Sara</dc:creator>
+<dc:creator>Ortuño Alonso, Mario</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. Es necesario definir las especificaciones de la calidad utilizando indicadores que se adapten a las necesidades y tecnología disponible, así como, establecer los límites de aceptabilidad basándose en los consensos nacionales e internacionales. El objetivo de este estudio es evaluar el cumplimiento de diversos indicadores de la calidad para diferentes magnitudes biológicas. Material y métodos. Se han calculado mensualmente para cada magnitud los valores estadísticos siguientes: ratio de coeficientes de variación, índice de desviación estándar, error total basado en la variación biológica, nivel sigma y error total analítico (%). Resultados. El porcentaje de cumplimiento en suero del indicador de la imprecisión (ratio de coeficientes de variación) fue del 97%, mientras que el indicador de error sistemático (índice de desviación estándar) fue del 98%. Para orina, el cumplimiento para imprecisión fue del 88%, y para error sistemático del 95%. Respecto al cumplimiento del error total basado en la variación biológica, en suero fue del 85%, en orina del 93%, y para la troponina I (TpI) del 75%. En cuanto al cumplimiento del valor sigma, fue del 72% para suero y del 85% para orina; en el caso de la TpI, fue del 57%. Para el error total analítico fue del 97% para suero y del 88% para orina. Conclusiones. Se pueden adoptar las especificaciones basadas en la variación biológica para la mayoría de las magnitudes biológicas, y en su defecto, las especificaciones mínimas de consenso. Los objetivos basados en el nivel sigma están lejos de cumplirse con la tecnología actual (AU)</dc:description>
+<dc:source>Rev. lab. clín;10(4): 180-188, oct.-dic. 2017. tab</dc:source>
+<dc:identifier>ibc-166849</dc:identifier>
+<dc:title xml:lang="es">Evaluación de los indicadores de la calidad analítica en un laboratorio clínico</dc:title>
+<dc:subject>^d55455^s22049</dc:subject>
+<dc:subject>^d33551^s22083</dc:subject>
+<dc:subject>^d7931^s22048</dc:subject>
+<dc:subject>^d7931^s22049</dc:subject>
+<dc:subject>^d55455^s22048</dc:subject>
+<dc:subject>^d12223</dc:subject>
+<dc:subject>^d12436</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d33551^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201712</dc:date>
+</metadata>
+</record>
+</ibecs-document>

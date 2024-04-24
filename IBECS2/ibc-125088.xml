@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-125088</identifier>
+<setSpec>1137-6821</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The choice of pain assessment scale influences emergency department triage grading</dc:title>
+<dc:description xml:lang="en">Objectives: To evaluate agreement between visual analog scale (VAS) and verbal numeric scale (VNS) pain assessments and explore whether using one scale or the other affects triage grading. Method: Prospective descriptive observational study that included patients over the age of 14 years who came to the emergency department with pain. The patients assessed pain on both a VAS and a VNS. Information was input to a database for descriptive statistics (frequencies) and analysis (Levene test, analysis of variance, and the Lin correlation coefficient). Passing-Bablock regression was used; 95% CIs were calculated. Results: The mean (SD) VAS rating was 6.27 (2.02) (95% CI, 5.91-6.62). The mean VNS rating was 7.54 (1.94) (95% CI,7.20-7.88) (P&lt;0.001). The Lin correlation coefficient of 0.652 indicated a moderate-to-good level of agreement between scales. When the VAS pain rating was used as the basis for triage, a priority level 3 was assigned to 89 patients (69.5%)and a level 2 priority to 25 (19.5%). When the VNS pain rating was the basis for triage, 53 patients (41.4%) were assigned to level 3 priority and 70 (54.7%) to level 2 priority (P&lt;0.001).Conclusions: The VAS and VNS pain rating instruments are not interchangeable. Pain assessments are higher when the VNSis used. We advise use of the VAS in the ED for triage and until the patient is discharged (AU)</dc:description>
+<dc:creator>Paguina Martos, M</dc:creator>
+<dc:creator>Morató Lorente, I</dc:creator>
+<dc:creator>Ortells Abuye, N</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Valorar la concordancia entre la escala visual analógica (EVA) y la escala de valoración numérica (EVN) y comprobar si el utilizar una u otra puede modificar el nivel de triaje. Método: Estudio observacional, descriptivo y prospectivo, que incluyó a pacientes de edad superior a 14 años que consultaban por dolor en los que se utilizó tanto la escala EVA como la EVN. Los datos fueron insertados en una base de datos y se realizó una estadística descriptiva mediante análisis de frecuencias, una prueba de Levene y test ANOVA, el coeficiente de correlación de Lin, así como el método Passing y Bablok con un nivel de confianza del 95%.Resultados: La media de puntuación con la escala EVA fue 6,27 (desviación típica 2,02;IC 5,91-6,62), mientras que con la EVN fue 7,54 (desviación típica 1,94; IC 7,20-7,88(p &lt; 0,001). El coeficiente de correlación de Lin es 0,652, e indica que el acuerdo es entre regular y bueno. El nivel de triaje al utilizar la escala EVA fue III en el 69,5%(N = 89) y II en el 19,5% (N =25), mientras que al utilizar la escala EVN el nivel detriaje fue III en el 41,4% (N = 53) y II en el 54,7% (N = 70) (p &lt; 0,001).Conclusiones: Las escalas evaluadas no son intercambiables, pues la escala EVN muestra una tendencia a la sobrevaloración del dolor. Aconsejamos la utilización de la escala EVA en los servicios de urgencias desde el triaje hasta el alta del paciente (AU)</dc:description>
+<dc:source>Emergencias (Sant Vicenç dels Horts);26(4): 292-295, ago. 2014. ilus, tab</dc:source>
+<dc:identifier>ibc-125088</dc:identifier>
+<dc:title xml:lang="es">El nivel de triaje en urgencias cambia según la escala de valoración del dolor utilizada</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d54692^s22083</dc:subject>
+<dc:subject>^d28838^s22049</dc:subject>
+<dc:subject>^d19283^s22039</dc:subject>
+<dc:subject>^d4707^s22083</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4713^s22083</dc:subject>
+<dc:subject>^d10333^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201408</dc:date>
+</metadata>
+</record>
+</ibecs-document>

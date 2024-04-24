@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-14031</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Degree of fulfillment of the information in minimum basic data set (MBDS) of public hospitals in the country of Murcia</dc:title>
+<dc:creator>Saturno, Pedro</dc:creator>
+<dc:creator>Chiner, Juan</dc:creator>
+<dc:creator>Parra, Pedro</dc:creator>
+<dc:creator>Egea, M. Amparo</dc:creator>
+<dc:creator>Calle, José</dc:creator>
+<dc:creator>Fuensanta Aliaga, M</dc:creator>
+<dc:creator>Belda, Manuel</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: valorar el nivel de cumplimentación de la información recogida en el Conjunto Mínimo Básico de Datos (CMBD) de los ocho hospitales públicos de la Región de Murcia para conocer en qué debe ser mejorada. Métodos: se ha valorado, para el total de casos correspondientes al primer trimestre de 1996, el porcentaje de altas informadas sobre el total de altas, y el porcentaje de cumplimentación para las 11 primeras variables del CMBD (datos administrativos y diagnóstico principal). Por otro lado se realizó una recodificación de una muestra aleatoria de altas por una codificadora externa, utilizando las historias clínicas y comparando posteriormente la información obtenida con la contenida en las bases de datos CMBD que habían sido enviadas al Ministerio. La muestra de altas revisadas fue al menos de 96 por hospital (error tipo I= 0,05, precisión=0,10, para el caso más desfavorable 50 por ciento). En total fueron revisados 796 casos. Resultados: para el total de episodios de los ocho hospitales, el porcentaje de altas informadas sobre el total de altas fue del 86,6 por ciento, y en ellas las variables residencia y médico que da el alta se encontraban recogidas en el 81,2 y 91,2 por ciento de los casos. En relación a la muestra de altas seleccionadas, la media de diagnósticos secundarios, procedimientos diagnósticos y/o terapéuticos y procedimientos quirúrgicos secundarios por caso fue de 2,8, 0,8 y 0,27 en la historia clínica frente al 2,2, 0,77 y 0,28 del CMDB que fue enviado al Ministerio. Conclusiones: se observa una falta de exhaustividad en la cumplimentación global del Registro, unido a una pérdida de información en los episodios informados que afecta sobre todo a la residencia, médico que da el alta y a los diagnosticados secundarios. En consecuencia, la correcta utilización del CMBD (tanto directamente, como agrupando los datos a través de los sistemas de clasificación de pacientes) debe ser precedida de un esfuerzo para aumentar el número de altas registradas, disminuir el número de episodios con campos vacíos, y procurar que la información clínica sea más completa, acorde, al menos, con lo registrado en la historia clínica (AU)</dc:description>
+<dc:source>Rev. calid. asist;15(2): 93-97, feb. 2000.</dc:source>
+<dc:identifier>ibc-14031</dc:identifier>
+<dc:title xml:lang="es">Grado de cumplimentación de la información recogida en el Conjunto Mínimo Básico de Datos (CMBD) de los hospitales públicos de la Región de Murcia</dc:title>
+<dc:subject>^d6459^s22048</dc:subject>
+<dc:subject>^d51780^s22048</dc:subject>
+<dc:subject>^d16765</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d12223</dc:subject>
+<dc:subject>^d6935^s22074</dc:subject>
+<dc:subject>^d6935^s22066</dc:subject>
+<dc:subject>^d6929^s22049</dc:subject>
+<dc:subject>^d6935^s22045</dc:subject>
+<dc:subject>^d51780^s22045</dc:subject>
+<dc:subject>^d6935^s22049</dc:subject>
+<dc:subject>^d6459^s22049</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200002</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-126924</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Development and validation of an algorithm to identify cancer recurrences from hospital data bases</dc:title>
+<dc:description xml:lang="en">Objectives. Hospital cancer registries and hospital databases are valuable and efficient sources of information for research into cancer recurrences. The aim of this study was to develop and validate algorithms for the detection of breast cancer recurrence. Methods. A retrospective observational study was conducted on breast cancer cases from the cancer registry of a third level university hospital diagnosed between 2003 and 2009. Different probable cancer recurrence algorithms were obtained by linking the hospital databases and the construction of several operational definitions, with their corresponding sensitivity, specificity, positive predictive value and negative predictive value. Results. A total of 1,523 patients were diagnosed of breast cancer between 2003 and 2009. A request for bone gammagraphy after 6 months from the first oncological treatment showed the highest sensitivity (53.8%) and negative predictive value (93.8%), and a pathology test after 6 months after the diagnosis showed the highest specificity (93.8%) and negative predictive value (92.6%). The combination of different definitions increased the specificity and the positive predictive value, but decreased the sensitivity. Conclusions. Several diagnostic algorithms were obtained, and the different definitions could be useful depending on the interest and resources of the researcher. A higher positive predictive value could be interesting for a quick estimation of the number of cases, and a higher negative predictive value for a more exact estimation if more resources are available. It is a versatile and adaptable tool for other types of tumors, as well as for the needs of the researcher (AU)</dc:description>
+<dc:creator>Burón, A</dc:creator>
+<dc:creator>Servitja, S</dc:creator>
+<dc:creator>Murta-Nascimento, C</dc:creator>
+<dc:creator>Macià, F</dc:creator>
+<dc:creator>Manzanares-Laya, S</dc:creator>
+<dc:creator>Castells, X</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos. Los registros de tumores hospitalarios y las bases de datos hospitalarias son una fuente de información valiosa y eficiente para la investigación de recidivas de cáncer. El objetivo de este estudio fue desarrollar y validar algoritmos para identificar recidivas de cáncer de mama. Métodos. Estudio observacional retrospectivo de casos de cáncer de mama del registro de tumores de un centro hospitalario universitario de tercer nivel diagnosticados entre 2003 y 2009. A partir del cruce de bases de datos hospitalarias y la construcción de definiciones operativas se obtuvieron diferentes algoritmos de probable recidiva de cáncer con su correspondiente sensibilidad, especificidad, valor predictivo positivo y valor predictivo negativo. Resultados. Se identificaron 1.523 pacientes diagnosticados de cáncer entre 2003 y 2009. La solicitud de gammagrafía ósea tras 6 meses desde el primer tratamiento oncológico obtuvo la mayor sensibilidad (53,8%) y valor predictivo negativo (93,8%), y la realización de una prueba de anatomía patológica tras 6 meses desde el diagnóstico obtuvo la mayor especificidad (93,8%) y valor predictivo negativo (92,6%). La combinación de definiciones aumentó la especificidad y el valor predictivo positivo pero disminuyó la sensibilidad. Conclusiones. Se elaboraron diferentes algoritmos diagnósticos cuyas definiciones pueden ser útiles según los intereses y recursos del investigador. Un mayor valor predictivo positivo podría interesar para una estimación rápida del número de casos, y un mayor valor predictivo negativo para dar una estimación más exacta si se dispone de mayores recursos. Estos algoritmos se configuran como una herramienta versátil y adaptable a otros tumores y a las necesidades del investigador (AU)</dc:description>
+<dc:source>Rev. calid. asist;29(4): 237-244, jul.-ago. 2014.</dc:source>
+<dc:identifier>ibc-126924</dc:identifier>
+<dc:title xml:lang="es">Desarrollo y validación de un algoritmo para identificar recidivas de cáncer a partir de bases de datos hospitalarias</dc:title>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d9557^s22080</dc:subject>
+<dc:subject>^d5703^s22049</dc:subject>
+<dc:subject>^d27786^s22048</dc:subject>
+<dc:subject>^d5703^s22048</dc:subject>
+<dc:subject>^d19062</dc:subject>
+<dc:subject>^d28096^s22048</dc:subject>
+<dc:subject>^d33619^s22066</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12428</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d28096^s22083</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d33619^s22083</dc:subject>
+<dc:subject>^d35256</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201408</dc:date>
+</metadata>
+</record>
+</ibecs-document>

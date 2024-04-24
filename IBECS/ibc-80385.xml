@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-80385</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Confusion assessment method for diagnosing delirium in ICU patients (CAM-ICU): Cultural adaptation and validation of the Spanish version</dc:title>
+<dc:description xml:lang="en">ObjectiveTo adapt the Confusion Assessment Method for the Intensive Care Unit (CAM-ICU) for the diagnosis of delirium to the language and culture of Spain and to validate the adapted version.DesignPopulation validation.SettingIntensive care units in a 600-bed university hospital.PatientsWe studied 29 critical patients undergoing mechanical ventilation. Mean age was 70 years (range 58&#150;77 years), mean APACHE II score 16 (range 13&#150;21), and mean SOFA score 7 (range 4&#150;8).InterventionTwo independent operators applied the Spanish version of the CAM-ICU and a psychiatrist applied the Diagnostic and Statistical Manual of Mental Disorders Fourth Edition-Revised (DSM IV TR).Main outcome variablesConcordance (kappa index), internal consistency (Cronbach's alpha), and validity (sensitivity and specificity) of the Spanish version of the CAM-ICU were compared to the DSM IV TR, which is considered the current gold standard.ResultsThe translation and cultural adaptation was carried out in accordance with current international guidelines. A total of 65 assessments were performed in 29 patients. The interobserver concordance was high: kappa statistic 0.91 (95% CI: 0.86&#150;0.96). The internal consistence was adequate: Cronbach's alpha=0.84 (unilateral 95% CI: 0.77). For observer A (a physician), the sensitivity of the Spanish version of the CAM-ICU was 80% and the specificity was 96%. For observer B, (a nurse) the sensitivity was 83% and the specificity was 96%(AU)</dc:description>
+<dc:creator>Barrera, L. de la</dc:creator>
+<dc:creator>Fuentes, P</dc:creator>
+<dc:creator>Tobar, E</dc:creator>
+<dc:creator>Romero, C</dc:creator>
+<dc:creator>Cornejo, R</dc:creator>
+<dc:creator>Wesley Ely, E</dc:creator>
+<dc:creator>Morandi, A</dc:creator>
+<dc:creator>Lira, M. T</dc:creator>
+<dc:creator>Sánchez, J. E</dc:creator>
+<dc:creator>Bugedo, G</dc:creator>
+<dc:creator>Bozán, F</dc:creator>
+<dc:creator>Galleguillos, T</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">ObjetivoRealizar la adaptación cultural y la validación del CAM-ICU (Confusion Assessment Method for the Intensive Care Unit &#145;método para la evaluación de la confusión en la unidad de cuidados intensivos&#146;) al idioma español para el diagnóstico de delírium.DiseñoPoblación de validación.ÁmbitoLa unidad de cuidados intensivos de un hospital universitario de tercer nivel con 600 camas.PacientesVeintinueve pacientes críticos que reciben ventilación mecánica. Edad: 70 años (58&#150;77), APACHE II: 16 (13&#150;21) y SOFA: 7 (4&#150;8).IntervenciónAplicación del CAM-ICU en idioma español por 2 operadores independientes y del DSM IV TR (Diagnostic and Statistical Manual of Mental Disorders Fourth Edition-Revised) por un psiquiatra.Variables de interés principalesConcordancia (índice &amp;#954;), consistencia interna (alfa de Cronbach) y validez (sensibilidad y especificidad) del CAM-ICU en idioma español en relación con el estándar de referencia (DSM IV TR).ResultadosEl proceso de traducción y adaptación cultural se desarrolló de acuerdo con las recomendaciones internacionales actualmente vigentes. Se realizó un total de 65 evaluaciones en los 29 pacientes. La concordancia entre los observadores alcanzó un índice &amp;#954; de 0,91 (IC del 95%: 0,86 a 0,96). La consistencia interna del instrumento fue adecuada y alcanzó un alfa de Cronbach de 0,84 (IC del 95% unilateral: 0,77). La sensibilidad del CAM-ICU versión española para el observador A (médico) fue del 80%, con una especificidad del 96%. En tanto que para el observador B (enfermera), la sensibilidad fue del 83%, con una especificidad del 96%.ConclusionesEl CAM-ICU en idioma español es un instrumento válido, confiable y reproducible, que puede aplicarse satisfactoriamente para el diagnóstico de delírium en pacientes de habla hispana (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);34(1): 4-13, ene.-feb. 2010. tab, ilus</dc:source>
+<dc:identifier>ibc-80385</dc:identifier>
+<dc:title xml:lang="es">Método para la evaluación de la confusión en la unidad de cuidados intensivos para el diagnóstico de delírium: adaptación cultural y validación de la versión en idioma español</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d2722^s22080</dc:subject>
+<dc:subject>^d3707^s22016</dc:subject>
+<dc:subject>^d7530</dc:subject>
+<dc:subject>^d3707^s22056</dc:subject>
+<dc:subject>^d6940</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30170^s22056</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d10542</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d3490</dc:subject>
+<dc:subject>^d18001</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201002</dc:date>
+</metadata>
+</record>
+</ibecs-document>

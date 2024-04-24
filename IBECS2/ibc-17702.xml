@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-17702</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cost-effectiveness analysis of the use of celecoxib for the treatment of osteoarthritis</dc:title>
+<dc:creator>Vargas, E</dc:creator>
+<dc:creator>Soto, J</dc:creator>
+<dc:creator>Rejas, J</dc:creator>
+<dc:creator>Moreno, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Antecedentes: Los antiinflamatorios no esteroideos (AINE), utilizados en el tratamiento de la artrosis, pueden producir reacciones adversas gastrointestinales (GI) graves. Celecoxib, un inhibidor específico de la ciclooxigenasa 2 (COX-2), ha demostrado una eficacia equivalente a los AINE convencionales con un mejor perfil de tolerabilidad y seguridad. Objetivo: La finalidad de este estudio ha sido realizar un análisis coste-efectividad sobre el uso de celecoxib frente a los AINE clásicos en el tratamiento de la artrosis. Material y métodos: El análisis coste-efectividad se ha diseñado mediante un modelo farmacoeconómico, definiéndose como unidad de efectividad a cada año de vida ganado tras la toma de celecoxib o AINE. La probabilidad de que aparezcan los diferentes resultados clínicos se ha obtenido de artículos publicados y de asunciones incorporadas. Sólo se han valorado los costes directos médicos (medicación, hospitalización, pruebas complementarias, analíticas, visitas extras, etc.), sin haberse incluido otros costes.La perspectiva del estudio ha sido la del Sistema Nacional de Salud y el horizonte temporal elegido ha sido de 6 meses. Resultados: El coste adicional por cada año de vida ganado secundario al uso de celecoxib frente a los AINE clásicos asciende a 8.017 e (1.333.834 ptas.). El análisis de sensibilidad muestra cómo estos valores son sensibles a la modificación del coste de AINE y gastroprotector, así como a la inclusión de grupos poblacionales con edades más bajas. Conclusiones: Celecoxib puede ser considerado como una opción coste-efectiva en el tratamiento de la artrosis, ya que va a evitar muertes y a ganar años de vida para los pacientes con un coste adicional razonable y moderado, cuando se compara con los AINE. Su eficiencia aumenta a medida que se utiliza en poblaciones con menor edad media y, probablemente, en aquellas con mayor riesgo de desarrollar complicaciones GI (AU)</dc:description>
+<dc:source>Gac Sanit;17(1): 27-36, ene.  -feb. 2003.</dc:source>
+<dc:identifier>ibc-17702</dc:identifier>
+<dc:title xml:lang="es">Análisis coste-efectividad del empleo de celecoxib en el tratamiento de la artrosis</dc:title>
+<dc:subject>^d30313</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d13837</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d22877</dc:subject>
+<dc:subject>^d10179</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d27938</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200302</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-128768</identifier>
+<setSpec>1695-4033</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Clinical score to rule out pneumonia due to Mycoplasma pneumoniae</dc:title>
+<dc:description xml:lang="en">Introduction: The gold standard for the diagnosis of pneumonia secondary to Mycoplasma pneumoniae is the serial measurement of IgM, since an isolated test for IgM has a poor sensitivity of 31.8%. A pneumonia due to Mycoplasma pneumoniae could be of clinically different origins, thus it is possible to perform a clinical score for its early diagnosis. Objective: To develop a clinical score in order to rule out a pneumoniae secondary to Mycoplasma pneumoniae. Methodology: A total of 302 patients from 0 to 18 years-old, with a diagnosis of pneumonia were evaluated and divided into two groups: Mycoplasma positive and Mycoplasma negative. Using different variables in the medical records a clinical score was calculated. Results: Of the 302 cases studied, 34 were classified as Mycoplasma positive and 268 as Mycoplasma negative. The variables relevant to the calculation of the score were age, days with fever, and days with cough, thus providing the CAF (Cough, Age, Fever) score. Ranges were assigned for each variable and points were given for each range. A value greater than or equal to 5 meant a positive score. The CAF score was applied to the 302 cases, resulting in 164 cases of Mycoplasma positive and 138 cases of Mycoplasma negative. The CAF score had a sensitivity of 85% and specificity of 49%. Conclusion: The CAF score had better sensitivity than other clinical diagnostic tools. With a negative predictive value of 96% it is possible to rule out a pneumonia secondary to M. pneumoniae. The study requires a prospective study to verify the usefulness of our score (AU)</dc:description>
+<dc:creator>Paláu-Dávila, L</dc:creator>
+<dc:creator>Silva-Gburek, J. C</dc:creator>
+<dc:creator>Santos-Guzman, J</dc:creator>
+<dc:creator>Rodríguez de Ita, J</dc:creator>
+<dc:creator>Torres-Quintanilla, A</dc:creator>
+<dc:creator>Chávez Caraza, K. L</dc:creator>
+<dc:creator>Ortiz de Elguea-Lizarraga, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: La prueba de oro para el diagnóstico de la neumonía secundaria a Mycoplama pneumoniae es la detección de IgM en pruebas seriadas, ya que una prueba aislada para IgM tiene una sensibilidad del 31,8%. Al existir un cuadro clínico diferenciable de la neumonía por M. pneumoniae de otras etiologías es posible realizar un score clínico para su diagnóstico temprano. Objetivo: Elaboración de un score clínico para el descarte de neumonía secundaria a M. pneumoniae. Metodología: Se evaluaron 302 expedientes; población de 0 a 18 años con diagnóstico de neumonía. Se obtuvieron 2 grupos: Mycoplasma positivo y Mycoplasma negativo, y utilizando distintas variables en la historia clínica se elaboró un score clínico. Resultados: Treinta y cuatro casos se clasificaron en Mycoplasma positivo y 268 en Mycoplasma negativo. Las variables relevantes para la elaboración del score fueron edad, días con tos y días con fiebre, con lo que se conformó el score tos, edad, fiebre (TEF). Se asignaron rangos para cada variable y puntos para cada rango. Un valor de igual o mayor a 5 equivale a un score positivo. Se aplicó el score TEF a los 302 casos resultando ahora en 164 casos Mycoplasma positivo y 138 Mycoplasma negativo. Este score resultó en una sensibilidad del 85% y especificidad del 49%. Conclusión: El score TEF tuvo mejor sensibilidad que otras herramientas diagnósticas clínicas. Con un valor predictivo negativo del 96% es posible descartar anticipadamente una neumonía por M. pneumoniae. Se requiere realizar un estudio prospectivo para verificar la utilidad de nuestro score (AU)</dc:description>
+<dc:source>An Pediatr (Barc);81(4): 241-245, oct. 2014. tab, graf</dc:source>
+<dc:identifier>ibc-128768</dc:identifier>
+<dc:title xml:lang="es">Score clínico para el descarte de neumonía por Mycoplasma pneumoniae</dc:title>
+<dc:subject>^d22207^s22002</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d11454^s22016</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d3386^s22080</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9369^s22052</dc:subject>
+<dc:subject>^d22207^s22062</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d32073^s22053</dc:subject>
+<dc:subject>^d5444^s22053</dc:subject>
+<dc:subject>^d32073^s22012</dc:subject>
+<dc:subject>^d22207</dc:subject>
+<dc:subject>^d32073^s22016</dc:subject>
+<dc:subject>^d3386^s22053</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201410</dc:date>
+</metadata>
+</record>
+</ibecs-document>

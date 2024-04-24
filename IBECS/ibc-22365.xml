@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-22365</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Why so many synapses?</dc:title>
+<dc:creator>Ferrús, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>César Viguera</dc:publisher>
+<dc:description xml:lang="es">Introducción y desarrollo. La sinapsis es la estructura más abundante en el cuerpo de cualquier animal. Este número parece excesivamente grande al considerar su finalidad aparente: excitar o inhibir la célula postsináptica. Por otro lado, en los pocos casos de los que se dispone de datos, el número de sinapsis que dos células identificadas establecen entre sí suele ser razonablemente constante entre individuos, aunque varía durante el desarrollo. Observaciones procedentes de varios sistemas sensoriales y especies animales indican que el número de sinapsis es importante. En el sistema olfativo de Drosophila, si ese número aumenta tres veces, la sensibilidad de la percepción aumenta hasta tres órdenes de magnitud. Del mismo modo, la pérdida de sensibilidad de percepción olfativa a un determinado olor correlaciona con la pérdida de sinapsis sensoriales en determinadas neuronas. Esos cambios tienen lugar mediante la participación del AMPc y sus reguladores. Conclusiones. Parece lógico suponer que los efectos postsinápticos en el caso de N sinapsis con respecto al caso N' deben ser diferentes. Puesto que los parámetros del potencial de acción postsináptico en ambos casos son los mismos, cabe proponer, como hipótesis de trabajo, que la diferencia de significado biológico radica en la diferente dinámica del calcio a lo largo de la geometría de la célula postsináptica (AU)</dc:description>
+<dc:source>Rev Neurol;35(7): 661-667, oct. 2002.</dc:source>
+<dc:identifier>ibc-22365</dc:identifier>
+<dc:title xml:lang="es">¿Para qué tantas sinapsis?</dc:title>
+<dc:subject>^d13066</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d13949</dc:subject>
+<dc:subject>^d4392</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200210</dc:date>
+</metadata>
+</record>
+</ibecs-document>

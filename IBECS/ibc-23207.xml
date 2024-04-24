@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-23207</identifier>
+<setSpec>0212-8799</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Excretion rate of ammonia in long distance runners' sweat during exercise until fatigue</dc:title>
+<dc:creator>González-Gallego, Javier</dc:creator>
+<dc:creator>Joszef Flegner, Attila</dc:creator>
+<dc:creator>Alvear Ordenes, Ildefonso</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Federación Española de Medicina del Deporte</dc:publisher>
+<dc:description xml:lang="es">El amoníaco (NH3) se encuentra en sangre disociado como Nitrógeno amoniacal (N-NH3 + NH4+), producto del metabolismo normal de los aminoácidos. Sin embargo, durante ejercicio, su principal origen es la pérdida de nucleotidos de adenina por la desaminación de AMP ---&gt; IMP en el músculo, liberando NH 3. Presenta concentraciones máximas en fatiga, encontrándose en todo fluido corporal, incluido el sudor. En este trabajo se estudió la excreción de NH3 en el sudor durante ejercicio hasta la fatiga. Participaron 10 atletas varones experimentados, fondistas y maratonianos, que realizaron una prueba continua en tapiz rodante (85 por ciento-VO2 pico individual). El sudor se recogió en gasas estériles, se centrífugo y se analizó la concentración de NH3 por un método no enzimático (azul de indofenol). Se realizaron 4 recogidas de sudor de 24 cm2 cada una: después de 10 min de calentamiento (S 10min), al finalizar 40 min de carga continua (S40min), al aparecer la fatiga (Sxmin) y 5 min después de la recuperación (S5rec). Se aplicaron tres formas de expresión de la concentración de NH3: concentración, como valor acumulativo (pmol . 1-1= NH3-A) o corregido por el volumen de sudor y por la concentración de NH3 anterior (umol = NH3-B); y excreción, corrigiendo NH3-B por la superficie corporal y tiempo de recogida (pmol . m2 min-1' = ÍNH3). Se detectaron correlaciones significativas, tanto para concentración (A y B) como excreción de NH3, con variables tales como el tiempo de carrera, la distancia recorrida, la frecuencia cardíaca, el consumo de oxígeno y el esfuerzo percibido (Borg). NH3-B también presentó correlación con la edad, la densidad corporal, el porcentaje de tejido graso, la sudoración y la deshidratación. Las mejores correlaciones se obtuvieron para NH3-B, que fue la única forma de expresión de la eliminación de NH3 que se redujo durante el período de recuperación. Se concluye que el NH3 se excreta en sudor de manera progresiva v no exponencial durante ejercicio continuo y que la recogida de sudor en áreas pequeñas de la piel permite observar cambios importantes en la excreción de NH3 (AU)</dc:description>
+<dc:source>Arch. med. deporte;18(86): 593-599, nov. 2001. tab</dc:source>
+<dc:identifier>ibc-23207</dc:identifier>
+<dc:title xml:lang="es">Índice de excrecion de amoníaco en el sudor de atletas de fondo durante ejercicio hasta la fatiga</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d13562</dc:subject>
+<dc:subject>^d26971</dc:subject>
+<dc:subject>^d3155</dc:subject>
+<dc:subject>^d12793^s22031</dc:subject>
+<dc:subject>^d13923^s22063</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6493^s22031</dc:subject>
+<dc:subject>^d10281^s22031</dc:subject>
+<dc:subject>^d656</dc:subject>
+<dc:subject>^d656^s22044</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200111</dc:date>
+</metadata>
+</record>
+</ibecs-document>

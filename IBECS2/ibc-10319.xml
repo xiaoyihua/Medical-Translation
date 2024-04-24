@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-10319</identifier>
+<setSpec>0378-4835</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The dose fractionation effect on LD50/30 after total body irradiation in mice</dc:title>
+<dc:creator>Foro, P</dc:creator>
+<dc:creator>Reig, A</dc:creator>
+<dc:creator>Valls, A</dc:creator>
+<dc:creator>Kadar, E</dc:creator>
+<dc:creator>Sureda, A</dc:creator>
+<dc:creator>Lacruz, M</dc:creator>
+<dc:creator>Algara, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Alpe Editores, S.A.</dc:publisher>
+<dc:description xml:lang="es">Introducción: El efecto del fraccionamiento de la dosis sobre la eficacia biológica de las radiaciones es conocido. Sin embargo, su importancia sobre las células hemopoyéticas siempre ha sido considerada como poco relevante, en base a su escasa capacidad de reparación de daño subletal. Propósito: Evaluar la variación de la DL50/30 en un modelo murino, en función del intervalo entre dos fracciones de irradiación corporal total. Material y métodos: Hemos utilizado ratones hembra, de la cepa B6D2F1, de 8 semanas de edad y un peso medio de 20 g, que fueron mantenidas en ambiente estéril hasta el final de la experiencia, y sometidas a una irradiación corporal total mediante fotones gamma de Co-60, con una dosis total de 10 Gy en dos fracciones de 5 Gy, separadas por intervalos de tiempo crecientes, comprendidos entre 0 y 50 minutos. La curva de mortalidad se obtuvo con el porcentaje de animales fallecidos de cada grupo para cada intervalo, durante los 40 días siguientes al tratamiento. Resultados: A medida que el intervalo entre las dos fracciones aumenta, la mortalidad decrece: pasa del 78,89 por ciento para un intervalo entre fracciones de 0 minutos al 19,04 por ciento para un intervalo de 50 minutos. Conclusiones: Las células hemopoyéticas responsables de la mortalidad de los animales, tienen una capacidad de reparación del daño subletal, que se manifiesta cuando el intervalo entre fracciones aumenta (AU)</dc:description>
+<dc:source>Oncologia;23(5): 232-235, mayo 2000. Tab, Graf</dc:source>
+<dc:identifier>ibc-10319</dc:identifier>
+<dc:title xml:lang="es">Efecto del fraccionamiento de la dosis sobre la DL50/30 por irradiación corporal total en el ratón</dc:title>
+<dc:subject>^d8994</dc:subject>
+<dc:subject>^d29294^s22045</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d8106</dc:subject>
+<dc:subject>^d33564</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200005</dc:date>
+</metadata>
+</record>
+</ibecs-document>

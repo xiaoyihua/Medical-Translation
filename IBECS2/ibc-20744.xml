@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-20744</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Functional magnetic resonance and the motor cortex. II. Measurement of activity</dc:title>
+<dc:creator>Maestú, C</dc:creator>
+<dc:creator>Bardasano, J. L</dc:creator>
+<dc:creator>Matthews, P. M</dc:creator>
+<dc:creator>Piñeiro, R</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>César Viguera</dc:publisher>
+<dc:description xml:lang="es">Introducción. La resonancia magnética funcional (RMf) con contraste BOLD se está consolidando como una herramienta útil en la investigación clínica. Está por determinar cuál es la mejor forma de establecer las medidas de la activación para posteriores comparaciones, así como cuál es la significación fisiológica de las mismas. Objetivos. Explorar la activación expresada en función de varios parámetros. Sujetos y métodos. Realizamos RMf con contraste BOLD a 3 T y paradigma motor en 14 sujetos sanos. La activación se expresó como número de voxels activados dentro de cada área, porcentaje de los mismos en relación con el número total de voxels activados, valor z, índice de lateralidad, y velocidad y cuantía de la variación temporal de la señal en dichos voxels. Resultados. El área somatomotora (SM) activó un 121 por ciento más voxels que el área motora suplementaria (SMA), pero su variación expresada con su desviación estándar fue muy grande. El porcentaje de voxels activados fue un 163,6 por ciento superior en SM que en SMA. El índice de lateralidad aumenta a expensas de la activación fuera del SM. La variación de ambas medidas relativas fue menor que con el número total de voxels. El valor z no fue correlacionable con el grado de actividad. El curso temporal de la señal en SMA fue ligeramente diferente a SM. Conclusiones. La RMf de muy alto campo es muy sensible a los cambios de señal. El número de voxels activados es un valor muy variable, por lo que su uso como medida de activación debe ser limitado. Valores relativos como el índice de lateralidad o el porcentaje de voxels pueden ofrecer menor variabilidad. El centro de masas y el valor z son medidas estables pero el significado fisiológico del segundo es incierto. El estudio de la variación temporal de la señal se presenta como un parámetro potencialmente útil y con cierto significado fisiológico, aunque necesita de una mejor comprensión y análisis (AU)</dc:description>
+<dc:source>Rev Neurol;33(1): 1-6, jul. 2001.</dc:source>
+<dc:identifier>ibc-20744</dc:identifier>
+<dc:title xml:lang="es">Resonancia magnética funcional y el córtex motor. II. Cuantificación de la activación</dc:title>
+<dc:subject>^d9237</dc:subject>
+<dc:subject>^d8079</dc:subject>
+<dc:subject>^d11622</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29770</dc:subject>
+<dc:subject>^d24697</dc:subject>
+<dc:subject>^d3415</dc:subject>
+<dc:subject>^d2569</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d13906</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d22935</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d34044</dc:subject>
+<dc:subject>^d2380</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200107</dc:date>
+</metadata>
+</record>
+</ibecs-document>

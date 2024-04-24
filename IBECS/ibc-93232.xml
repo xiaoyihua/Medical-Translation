@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-93232</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Spatial pattern of legionellosis in Spain, 2003-2007</dc:title>
+<dc:description xml:lang="en">Objectives: To analyze the spatial pattern of legionellosis in Spain for men and women during the period2003-2007 and to identify spatial clustering of risk.Methods: We identified the spatial pattern of the distribution of legionellosis rates based on calculationof rates by municipality through the direct method. Smoothing of these rates was performed by theEmpirical Bayes method for studying the spatial pattern of disease for both sexes. We used Moran¢§©¥sindex to analyze spatial autocorrelation rates globally. To calculate local rates, the Local Moran¡¯s Index[known as local indicators of spatial association (LISA)], was used to analyze the clusters of municipalitieswith the highest risk.Results: After smoothing the risk, the highest rates (over 50 per 100,000 inhabitants) were grouped inthe eastern Mediterranean coastal areas and the north of the mainland, as well as in the Mediterraneanislands. Moran¡¯s index smoothed rates were 0.15 for men and 0.23 for women. The spatial clusters ofstatistically significant higher rates calculated by the LISA index were distributed in the north and eastfor both sexes.Conclusions: These methods of spatial analysis allow patterns of disease distribution to be identified. Allthe methods used yielded similar results. These techniques are a complementary tool for epidemiologicalsurveillance of infectious diseases (AU)</dc:description>
+<dc:creator>Pina,  Maria Fatima</dc:creator>
+<dc:creator>Cano, Rosa</dc:creator>
+<dc:creator>Simon, Fernando</dc:creator>
+<dc:creator>Del Barrio, Jose Luis</dc:creator>
+<dc:creator>Gomez-Barroso, Diana</dc:creator>
+<dc:creator>Nogareda, Francisco</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Analizar el patron espacial de la legionelosis en Espa&#152;na para hombres y mujeres durante elperiodo 2003-2007, e identificar agrupamientos espaciales del riesgo.Métodos: Se identifico el patron espacial de la distribucion de las tasas de legionelosis a partir del calculode las tasas por municipio por el metodo directo. Se realizo el suavizado de estas tasas por el metodoEmpirical Bayes para estudiar el patron espacial de la enfermedad, para ambos sexos. Se utilizo el indicede correlacion espacial de Moran para analizar la autocorrelacion global de las tasas. Localmente se utilizoel indice local de Moran (LISA) para analizar los agrupamientos (clusters) de municipios con mayor riesgo.Resultados: Una vez suavizado el riesgo, las mayores tasas (mas de 50 por 100.000 habitantes) se agrupanen las zonas costeras del Mediterraneo oriental y en el norte de la Peninsula, asi como en los territoriosinsulares del Mediterraneo. El indice de Moran de las tasas suavizadas es 0,15 para los hombres y 0,23 paralas mujeres. Las agrupaciones espaciales de las tasas mas altas estadisticamente significativas calculadasmediante el LISA se distribuyen en el eje norte-levante para ambos sexos.Conclusiones: Estos metodos de analisis espacial permiten identificar los patrones de distribucion de laenfermedad. Los metodos empleados presentan resultados similares. Estas tecnicas son una herramientacomplementaria para la vigilancia epidemiologica de las enfermedades infecciosas(AU)</dc:description>
+<dc:source>Gac Sanit;25(4): 290-295, jul. -ago. 2011. ilus</dc:source>
+<dc:identifier>ibc-93232</dc:identifier>
+<dc:title xml:lang="es">Patrón espacial de la legionelosis en España, 2003-2007</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d50294</dc:subject>
+<dc:subject>^d19226^s22080</dc:subject>
+<dc:subject>^d50271</dc:subject>
+<dc:subject>^d28635</dc:subject>
+<dc:subject>^d^s22083</dc:subject>
+<dc:subject>^d22538^s22052</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28441^s22049</dc:subject>
+<dc:subject>^d34930</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201108</dc:date>
+</metadata>
+</record>
+</ibecs-document>

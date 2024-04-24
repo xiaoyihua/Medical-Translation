@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-109914</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Infectious endocarditis in the intensive care unit</dc:title>
+<dc:description xml:lang="en">Objective: To study the characteristics, evolution and prognosis of patients with infectious endocarditis requiring treatment in the Intensive Care Unit. Design: A prospective, observational cohort study of patients admitted due to infectious endocarditis. Setting: Nuestra Señora de Candelaria University Hospital, a third - level center with a recruitment population of 493,145. Patients: All patients consecutively diagnosed with infectious endocarditis in our center according to the Duke criteria, between 1 January 2005 and 31 July 2011. Study variables: Demographic data, clinical severity scores, microbiological and echocardiographic data, hospital mortality and complications. Results: Out of 102 patients diagnosed with endocarditis, 38 (37%) were admitted to Intensive Care. Compared with those patients not admitted to the ICU, these subjects suffered more frequent mitral valve alterations (OR= 7.13; 95%CI: 2.12-24; p= 0.002) and cerebral embolism (OR= 3.89; 95%CI: 1.06-14.3; p= 0.041). In turn, mortality was greater (42.1% vs 18.8%, p= 0.011), as was the proportion of emergency surgeries (45.8% vs 5.9%, p&lt;0.001). The identified mortality predictors were Staphylococcus aureus infection (OR= 3.49; 95%CI 1.02-11.93; p=0.046), heart failure (OR=4.18; 95%CI: 1.17-14.94; p=0.028), cerebral embolism (OR= 8.45; 95%CI: 1.89-37.74; p=0.005) and the SAPS II upon admission (OR=1.09; 95%CI: 1.04-1.15; p&lt;0.001). Conclusions: A large proportion of patients with endocarditis require admission to the Intensive Care Unit, presenting a much poorer prognosis. Staphylococcus aureus infection, heart failure, cerebral embolism and SAPS II scores are independent predictors of hospital mortality (AU)</dc:description>
+<dc:creator>Pérez-Hernández, H</dc:creator>
+<dc:creator>Lubillo-Montenegro, S</dc:creator>
+<dc:creator>Rodríguez-Esteban, M</dc:creator>
+<dc:creator>Llorens-León, R</dc:creator>
+<dc:creator>Álvarez-Acosta, L</dc:creator>
+<dc:creator>Miranda-Montero, S</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Conocer las características, evolución y pronóstico de los pacientes con endocarditis infecciosa que requieren tratamiento en la Unidad de Medicina Intensiva. Diseño: Estudio observacional de cohortes prospectivo en pacientes ingresados por endocarditis infecciosa. Ámbito: Hospital Universitario Nuestra Señora de Candelaria, centro con 824 camas y población asignada de 493.145 personas. Pacientes: Todos los pacientes diagnosticados de endocarditis siguiendo los criterios de Duke entre el 1 de enero de 2005 y el 31 de julio de 2011. Variables de interés: Variables demográficas, clínicas, scores de gravedad, hallazgos microbiológicos y ecocardiográficos, mortalidad intrahospitalaria y complicaciones. Resultados: De 102 pacientes diagnosticados de endocarditis, 38 (37%) ingresaron en Medicina Intensiva. Comparándolos con los que no lo hicieron, sufrieron con más frecuencia afectación mitral (OR= 7,13; IC del 95%, 2,12-24; p= 0,002) y embolia cerebral (OR= 3,89; IC del 95%, 1,06-14,3; p= 0,041). La mortalidad fue mayor (42,1 vs 18,8%, p= 0,011), así como la proporción de cirugías urgentes (45,8 vs 5,9%, p&lt;0,001). Resultaron predictores de mortalidad la infección por Estafilococo aureus (OR= 3,49; IC 95%: 1,02-11,93; p=0,046), la insuficiencia cardiaca (OR=4,18; IC 95%: 1,17-14,94; p=0,028), el embolismo cerebral (OR= 8,45; IC 95%: 1,89-37,74; p=0,005) y la puntuación en el score SAPS II al ingreso (OR=1,09; IC 95% 1,04-1,15; p&lt;0,001). Conclusiones: Una elevada proporción de pacientes con endocarditis requieren ingreso en la Unidad de Medicina Intensiva, presentando un pronóstico mucho más desfavorable. La infección por E. aureus, la insuficiencia cardiaca, el embolismo cerebral y la puntuación SAPS II resultan predictores de mortalidad intrahospitalaria (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);36(7): 460-466, oct. 2012. tab</dc:source>
+<dc:identifier>ibc-109914</dc:identifier>
+<dc:title xml:lang="es">Endocarditis infecciosa en la Unidad de Medicina Intensiva</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d13596^s22052</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d30047^s22066</dc:subject>
+<dc:subject>^d7530^s22083</dc:subject>
+<dc:subject>^d4778^s22080</dc:subject>
+<dc:subject>^d23233^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6486^s22012</dc:subject>
+<dc:subject>^d33939^s22083</dc:subject>
+<dc:subject>^d13590^s22012</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201210</dc:date>
+</metadata>
+</record>
+</ibecs-document>

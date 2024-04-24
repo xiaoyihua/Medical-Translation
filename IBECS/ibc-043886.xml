@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-043886</identifier>
+<setSpec>0034-9356</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Risk factors for transfusion in primary knee arthroplasty</dc:title>
+<dc:description xml:lang="en">OBJECTIVE: Transfusion is becoming safer but is notfree of risk. It is important to establish a good approachto transfusion management and calculate real losses.Risk factors for transfusion should be identified.MATERIAL AND METHODS: This was a prospective studyof 102 patients who did not receive intraoperative autotransfusionof shed blood, selected from a group of 127who were undergoing primary knee arthroplasty. We initiallycalculated the amount of blood shed. Then, by multivariatelogistic regression analysis we identified the modelthat best predicted that a patient would require transfusion.Receiver operating characteristic curves were constructedand the area under the curves calculated.RESULTS: Mean (SD) blood loss was calculated to be1786 (710) mL. The best model considered initial hemoglobin(Hb), weight, height, and sex as predictive factors:Probability = 1/ (1+e-Z), where Z = 11.542 &#150; 1.074 xinitial Hb (g/dL) &#150; 0.039 x Weight (kg) + 0.031 x Height(cm) + 0.267 x (sex: male=1 or female=0). The areaunder the ROC curve was 0.805 (0.44).CONCLUSION: Initial Hb, which can be modified beforesurgery, is one of the factors that most affects whetheror not the patient will need a transfusion. Therefore, oneof our first objectives in the process of managing transfusionis to improve preoperative Hb values</dc:description>
+<dc:creator>Márquez Martínez, E</dc:creator>
+<dc:creator>Ciércoles Jiménez, E</dc:creator>
+<dc:creator>Biarnés Suñé, A</dc:creator>
+<dc:creator>Roigé Solé, J</dc:creator>
+<dc:creator>Medel Rebollo, J</dc:creator>
+<dc:creator>Godet Gimeno, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">OBJETIVO: La transfusión cada vez es más segura perono está exenta de riesgos. Es importante tener una buenaestrategia transfusional y calcular las pérdidas reales.Se deben buscar los factores que puedan predecir la probabilidadde que un paciente sea transfundido.MATERIAL Y MÉTODOS: Estudio prospectivo observacionalagrupando 127 pacientes intervenidos de artroplastiaprimaria de rodilla, seleccionando a los 102pacientes sin autotransfusión preoperatoria. Inicialmentecalculamos las pérdidas producidas en el grupo estudiado.Posteriormente, mediante regresión logística multivariantese combinaron las variables analizadas paraobtener el mejor modelo predictivo de que un pacientesea transfundido. Hemos obtenido las diferentes curvasROC y se ha calculado el área bajo la curva ROC.RESULTADOS: Las pérdidas calculadas fueron 1.786 mL± 710 mL. De todos los modelos predictivos, la asociaciónde la hemoglobina inicial, el peso, la talla y el sexo es laque dio mejor valor predictivo. El modelo es: Probabilidad(p) = 1/ (1+e-Z) en donde Z = 11,542 &#150; 1,074 x Hgb inicial(g/dl) &#150; 0,039 x Peso (Kg) + 0,031 x Talla (cm) + 0,267x (sexo, hombre1/ mujer 0); su área bajo la curva ROC esde 0,805 ± 0,44.CONCLUSIÓN: La hemoglobina inicial, modificablepreoperatoriamente, es uno de los factores que másinfluyen en que un paciente sea transfundido. Por lo tanto,en el algoritmo transfusional uno de nuestros objetivosiniciales es mejorar la hemoglobina preoperatoria</dc:description>
+<dc:source>Rev Esp Anestesiol Reanim;53(1): 18-24, ene. 2006. tab</dc:source>
+<dc:identifier>ibc-043886</dc:identifier>
+<dc:title xml:lang="es">Factores predictivos de transfusión en la artroplastia primaria de rodilla</dc:title>
+<dc:subject>^d28875</dc:subject>
+<dc:subject>^d28614</dc:subject>
+<dc:subject>^d19062</dc:subject>
+<dc:subject>^d14504</dc:subject>
+<dc:subject>^d31696^s22000</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d932^s22000</dc:subject>
+<dc:subject>^d1860</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d22198^s22002</dc:subject>
+<dc:subject>^d20180</dc:subject>
+<dc:subject>^d6550</dc:subject>
+<dc:subject>^d33578</dc:subject>
+<dc:subject>^d31485^s22000</dc:subject>
+<dc:subject>^d33119</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d1832</dc:subject>
+<dc:subject>^d1831</dc:subject>
+<dc:subject>^d1852</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d11664</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200601</dc:date>
+</metadata>
+</record>
+</ibecs-document>

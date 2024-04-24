@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-130708</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Comparison of methods for controlling maximum exposure rates in computerized adaptive testing</dc:title>
+<dc:description xml:lang="en">This paper has two objectives: (a) to provide a clear description of three methods for controlling the maximum exposure rate in computerized adaptive testing -the Symson-Hetter method, the restricted method, and the item-eligibility method- showing how all three can be interpreted as methods for constructing the variable sub-bank of items from which each examinee receives the items in his or her test; (b) to indicate the theoretical and empirical limitations of each method and to compare their performance. With the three methods, we obtained basically indistinguishable results in overlap rate and RMSE (differences in the third decimal place). The restricted method is the best method for controlling exposure rate, followed by the item-eligibility method. The worst method is the Sympson- Hetter method. The restricted method presents problems of sequential overlap rate. Our advice is to use the item-eligibility method, as it saves time and satisfies the goals of restricting maximum exposure (AU)</dc:description>
+<dc:creator>Veldkamp, Bernard P</dc:creator>
+<dc:creator>Barrada, Juan Ramón</dc:creator>
+<dc:creator>Abad, Francisco José</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Este artículo tiene dos objetivos: (a) ofrecer una descripción clara de tres métodos para el control de la tasa máxima en tests adaptativos informatizados, el método Symson-Hetter, el método restringido y el método de elegibilidad del ítem, mostrando cómo todos ellos pueden interpretarse como métodos para la construcción del subbanco de ítems variable, del cual cada examinado recibe los ítems de su test; (b) señalar las limitaciones teóricas y empíricas de cada método y comparar sus resultados. Se obtienenresultados básicamente indistinguibles en tasa de solapamiento y RMSE con los tres métodos (diferencias en la tercera posición decimal). El método restringido es el mejor en el control de la tasa de exposición, seguido por el método de elegibilidad del ítem. El peor es el método Sympson-Hetter. El método restringido presenta un problema de solapamiento secuencial. Nuestra recomendación sería utilizar el método de elegibilidad del ítem, puesto que ahorra tiempo y satisface los objetivos de limitar la tasa máxima de exposición (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);21(2): 313-320, abr.-jun. 2009. tab</dc:source>
+<dc:identifier>ibc-130708</dc:identifier>
+<dc:title xml:lang="es">Comparación de métodos para el control de tasa máxima en tests adaptativos informatizados</dc:title>
+<dc:subject>^d12031^s22039</dc:subject>
+<dc:subject>^d28608^s22011</dc:subject>
+<dc:subject>^d19371</dc:subject>
+<dc:subject>^d12018^s22048</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200906</dc:date>
+</metadata>
+</record>
+</ibecs-document>

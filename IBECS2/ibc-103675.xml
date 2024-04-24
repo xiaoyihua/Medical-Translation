@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-103675</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cost-effectiveness of dabigatran for stroke prevention in non-valvular atrial fibrillation in Spain</dc:title>
+<dc:description xml:lang="en">Introduction and objectives. Assessment of the cost-effectiveness of dabigatran for the prevention of stroke and systemic embolism in patients with non-valvular atrial fibrillation in Spain, from the perspective of the National Health System. Methods. Adaptation of a Markov chain model that simulates the natural history of the disease over the lifetime of a cohort of 10 000 patients with non-valvular atrial fibrillation. Model comparators were warfarin in a first scenario, and a real world prescribing pattern in a second scenario, in which 60% of the patients were treated with vitamin K antagonists, 30% with acetylsalicylic acid, and 10% received no treatment. Deterministic and probabilistic sensitivity analyses were performed. Results. Dabigatran reduced the occurrence of clinical events in both scenarios, providing gains in quantity and quality of life. The incremental cost-effectiveness ratio for dabigatran compared to warfarin was 17581 euros/quality-adjusted life year gained and 14118 euros/quality-adjusted life year gained when compared to the real world prescribing pattern. Efficiency in subgroups was demonstrated. When the social costs were incorporated into the analysis, dabigatran was found to be a dominant strategy (ie, more effective and less costly). The model proved to be robust. Conclusions. From the perspective of the Spanish National Health System, dabigatran is an efficient strategy for the prevention of stroke in patients with non-valvular atrial fibrillation compared to warfarin and to the real-world prescribing pattern; incremental cost-effectiveness ratios were below the 30 000 euros/quality-adjusted life year threshold in both scenarios. Dabigatran would also be a dominant strategy from the societal perspective, providing society with a more effective therapy at a lower cost compared to the other 2 alternatives (AU)</dc:description>
+<dc:creator>Becerra, Virginia</dc:creator>
+<dc:creator>González-Juanatey, José R</dc:creator>
+<dc:creator>Oyagüez, Itziar</dc:creator>
+<dc:creator>Lobos, José M</dc:creator>
+<dc:creator>Reverter, Joan C</dc:creator>
+<dc:creator>González-Rojas, Nuria</dc:creator>
+<dc:creator>Álvarez-Sabin, José</dc:creator>
+<dc:creator>Martínez-Rubio, Antoni</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos. Análisis coste-efectividad de dabigatrán para la prevención de ictus y embolia sistémica por fibrilación auricular no valvular en España, según la perspectiva del Sistema Nacional de Salud. Métodos. Adaptación de un modelo de Markov secuencial que simula la historia natural de la enfermedad para una cohorte de 10.000 pacientes con fibrilación auricular no valvular a lo largo de su vida. Los comparadores son warfarina en un primer escenario y el patrón de prescripción habitual (el 60% con antagonistas de la vitamina K, el 30% con ácido acetilsalicílico y el 10% no tratados) en el segundo. Se realizaron análisis de sensibilidad determinístico y probabilístico. Resultados. En ambos escenarios dabigatrán disminuyó los eventos sufridos y consiguió ganancias en cantidad y calidad de vida. La razón coste-efectividad incremental de dabigatrán comparado con warfarina fue de 17.581 euros/año de vida ajustado por calidad ganado y de 14.118 euros/año de vida ajustado por calidad ganado respecto al patrón de prescripción habitual. Se demostró eficiencia en subgrupos. Incorporando los costes sociales al análisis, dabigatrán es una estrategia dominante (más efectiva y de menor coste). El modelo demostró ser robusto. Conclusiones. Desde la perspectiva del Sistema Nacional de Salud, dabigatrán resulta una estrategia eficiente para la prevención de ictus en pacientes con fibrilación auricular no valvular en comparación con warfarina y con el patrón de prescripción habitual; en ambas comparaciones realizadas, los valores de la razón coste-efectividad incremental estuvieron por debajo del umbral de 30.000 euros/año de vida ajustado por calidad. Desde la perspectiva de la sociedad, dabigatrán sería además una estrategia dominante que aporta más efectividad y menores costes que las dos alternativas (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;65(10): 901-910, oct. 2012. tab, ilus</dc:source>
+<dc:identifier>ibc-103675</dc:identifier>
+<dc:title xml:lang="es">Análisis coste-efectividad de dabigatrán para la prevención de ictus y embolia sistémica en fibrilación auricular no valvular en España</dc:title>
+<dc:subject>^d23521^s22073</dc:subject>
+<dc:subject>^d34247^s22018</dc:subject>
+<dc:subject>^d15213^s22073</dc:subject>
+<dc:subject>^d15261^s22073</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d4691^s22054</dc:subject>
+<dc:subject>^d4691^s22057</dc:subject>
+<dc:subject>^d12225</dc:subject>
+<dc:subject>^d34247^s22054</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d34247^s22057</dc:subject>
+<dc:subject>^d50303</dc:subject>
+<dc:subject>^d50302</dc:subject>
+<dc:subject>^d27951^s22073</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d1287^s22057</dc:subject>
+<dc:subject>^d1287^s22054</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4691^s22018</dc:subject>
+<dc:subject>^d1287^s22018</dc:subject>
+<dc:subject>^d14302^s22066</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d28629</dc:subject>
+<dc:subject>^d23521^s22006</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201210</dc:date>
+</metadata>
+</record>
+</ibecs-document>

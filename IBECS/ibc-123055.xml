@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-123055</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Update on ischemic heart disease</dc:title>
+<dc:description xml:lang="en">This article contains a review of the main developments reported in 2011 on the pathophysiology, prevention, prognosis and treatment of chronic coronary artery disease and acute coronary syndrome, with or without ST-segment elevation. It also discusses the recommendations of the latest clinical practice guidelines (AU)</dc:description>
+<dc:creator>Bodí, Vicente</dc:creator>
+<dc:creator>Jiménez-Candil, Javier</dc:creator>
+<dc:creator>Barrabés, José A</dc:creator>
+<dc:creator>Fernández-Ortiz, Antonio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Este artículo revisa los principales avances publicados durante el año 2011 sobre fisiopatología, prevención, pronóstico y tratamiento en la cardiopatía isquémica crónica y los síndromes coronarios agudos con y sin elevación del ST, así como las últimas recomendaciones de práctica clínica (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;65(supl.1): 42-49, 2012. ilus, tab</dc:source>
+<dc:identifier>ibc-123055</dc:identifier>
+<dc:title xml:lang="es">Actualización en cardiopatía isquémica</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d52613^s22067</dc:subject>
+<dc:subject>^d30650^s22016</dc:subject>
+<dc:subject>^d5478^s22073</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d52613^s22016</dc:subject>
+<dc:subject>^d30650^s22067</dc:subject>
+<dc:subject>^d53393^s22045</dc:subject>
+<dc:subject>^d32285</dc:subject>
+<dc:subject>^d50504^s22032</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201200</dc:date>
+</metadata>
+</record>
+</ibecs-document>

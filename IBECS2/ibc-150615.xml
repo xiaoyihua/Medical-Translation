@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150615</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Magnetic resonance imaging of the prostate: usefulness of diffusion sequences in detecting postembolization ischemia in patients with benign prostatic hyperplasia</dc:title>
+<dc:description xml:lang="en">Objective. To analyze the usefulness of diffusion magnetic resonance (MR) sequences before and after prostatic artery embolization (PAE) in patients with benign prostatic hyperplasia (BPH). Material and methods. We analyzed MR studies done before (7-10 days) and after (30 days) PAE in 19 patients with BPH treated with PAE between June 2012 and December 2013. We used 1.5 Tesla scanners with body surface coils. In pre-PAE MR studies, we recorded mean b40 values and minimum (min) and maximum (max) apparent diffusion coefficient (ADC) values. In post-PAE MR studies, we recorded b40, b400, and b1000 values and min, mean, and max ADC values. We compared diffusion behavior/ADC before and after PAE and areas without ischemia. We correlated these with decreased prostatic volume (PV). Results. We identified ischemia with contrast in 8 (42.1%) patients. No significant difference was found in mean b40 (p= 0.1650) or in the b40 ratio (p= 0.8868) between patients with ischemia and those without before PAE. Min b40, b40 ratio, and min ADC values differed significantly between ischemic areas and nonischemic areas within patients [p= 0.048 (b40 min and ratio) and p= 0.002 (min ADC)]. No significant correlation was found between the percentage decrease in PV and mean b40 (p= 0.8490) or b40 ratio (p = 0.8573). Conclusion. Post-PAE ischemia generates objective changes in diffusion and ADC values that enable ischemic sectors to be differentiated from nonischemic sectors. Future studies should analyze whether it is possible to subjectively differentiate between these areas through the visualization of nonischemic sectors and the feasibility of replacing them with contrast to detect ischemia (AU)</dc:description>
+<dc:creator>Kohan, A</dc:creator>
+<dc:creator>García-Mónaco, R</dc:creator>
+<dc:creator>Serrano, E</dc:creator>
+<dc:creator>Napoli, N</dc:creator>
+<dc:creator>Kisilevsky, N</dc:creator>
+<dc:creator>Ocantos, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Analizar la utilidad de la difusión en resonancia magnética (RM) antes y después de la embolización de arterias prostáticas (EAP) en pacientes con hiperplasia prostática benigna (HPB). Material y método. Se analizaron RM pre-EAP (7-10 días) y post-EAP (30 días) en 19 pacientes con HPB tratados con EAP entre junio de 2012 y diciembre de 2013. Se utilizaron equipos de 1,5 Tesla y bobina corporal de superficie. En RM pre-EAP se registraron valores b40 media, coeficiente de difusión aparente (CDA) mínimo (mín) y máximo (máx). En RM post-EAP se determinaron b40, b400, b1000 y CDA mín, media y máx. Se comparó el comportamiento en difusión/CDA antes y después del procedimiento y en áreas sin isquemia. Se correlacionó con la disminución de volumen prostático (VP). Resultados. Se identificó isquemia con contraste en 8 pacientes (42,1%). Al comparar pacientes con isquemia vs. sin isquemia, la diferencia en b40 media (p = 0,1650) y b40 cociente (p = 0,8868) pre-EAP no fue significativa. Encontramos diferencia significativa entre valores b40 mín, b40 cociente y CDA mín de áreas isquémicas y no isquémicas del mismo paciente (p = 0,048 [b40 mín y cociente] y 0,002 para CDA mín). No se encontró una correlación significativa para b40 media (p = 0,8490) y b40 cociente (p = 0,8573) al compararla con el porcentaje de reducción de VP. Conclusión. La isquemia post-EAP genera cambios objetivos en difusión y CDA que permitirían diferenciarla de sectores no isquémicos. Futuros trabajos deberán analizar si es posible una diferenciación subjetiva mediante visualización de sectores no isquémicos y la factibilidad de reemplazar las secuencias con contraste para detectar isquemia (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);58(2): 129-135, mar.-abr. 2016. tab, ilus</dc:source>
+<dc:identifier>ibc-150615</dc:identifier>
+<dc:title xml:lang="es">Resonancia magnética de próstata: utilidad de la secuencia de difusión en la detección de isquemia postembolización en pacientes con hiperplasia prostática benigna</dc:title>
+<dc:subject>^d7678^s22012</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d11914^s29166</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d7678^s22016</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d11910^s29166</dc:subject>
+<dc:subject>^d28596^s22045</dc:subject>
+<dc:subject>^d22935^s22045</dc:subject>
+<dc:subject>^d27938^s22073</dc:subject>
+<dc:subject>^d4695^s22045</dc:subject>
+<dc:subject>^d28596^s22074</dc:subject>
+<dc:subject>^d11914^s22053</dc:subject>
+<dc:subject>^d7678^s29166</dc:subject>
+<dc:subject>^d11913^s29166</dc:subject>
+<dc:subject>^d23405^s22045</dc:subject>
+<dc:subject>^d11910^s22053</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201604</dc:date>
+</metadata>
+</record>
+</ibecs-document>

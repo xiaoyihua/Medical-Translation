@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-2787</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Geographical variability in the severity of traffic accidents in Spain</dc:title>
+<dc:creator>Lardelli Claret, P</dc:creator>
+<dc:creator>Dios Luna del Castillo, J de</dc:creator>
+<dc:creator>Redondo Calderón, J. L</dc:creator>
+<dc:creator>Jiménez Moleón, J. J</dc:creator>
+<dc:creator>Gálvez Vargas, R</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Cuantificar la variabilidad interprovincial de la gravedad de los accidentes de tráfico en España, en el período 1985-1994, y comparar la distribución de diversos indicadores de gravedad. Métodos: Para el período en estudio se han obtenido los valores provinciales medios de tres indicadores de severidad: el índice de mortalidad (defunciones por 1.000 accidentes), la tasa de lesividad (víctimas por 1.000 accidentes) y la tasa de letalidad (defunciones por 1.000 víctimas), así como el índice de motorización (vehículos por 1.000 habitantes) y la densidad de población. Para cada uno se obtuvieron sus correspondientes medidas de dispersión y se clasificaron las 50 provincias en terciles. Se calcularon los coeficientes de correlación entre las cinco variables y se obtuvieron modelos de regresión de Poisson, tomando los indicadores de gravedad como variables dependientes. Resultados y conclusiones: Se observa una importante variabilidad interprovincial en los valores del índice de mortalidad y de la tasa de letalidad. Para todos los indicadores de gravedad, los valores tienden a ser menores en las provincias con elevada densidad de población y grandes concentraciones urbanas. La lesividad y la letalidad aportan componentes explicativos diferentes a la magnitud del índice de mortalidad (AU)</dc:description>
+<dc:source>Gac Sanit;14(1): 16-22, ene.-feb.  2000.</dc:source>
+<dc:identifier>ibc-2787</dc:identifier>
+<dc:title xml:lang="es">Variabilidad geográfica de la gravedad de los accidentes de tráfico en España</dc:title>
+<dc:subject>^d24838</dc:subject>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d29548</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d14904</dc:subject>
+<dc:subject>^d23893</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200002</dc:date>
+</metadata>
+</record>
+</ibecs-document>

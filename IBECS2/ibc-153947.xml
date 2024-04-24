@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-153947</identifier>
+<setSpec>1130-1406</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The role of epidemiological cutoff values (ECVs/ECOFFs) in antifungal susceptibility testing and interpretation for uncommon yeasts and moulds</dc:title>
+<dc:description xml:lang="en">The role of antimicrobial susceptibility testing is to aid in selecting the best agent for the treatment of bacterial and fungal diseases. This has been best achieved by the setting of breakpoints by Clinical Laboratory Standards Institute (CLSI) for prevalent Candida spp. versus anidulafungin, caspofungin, micafungin, fluconazole, and voriconazole. The European Committee on Antimicrobial Susceptibility Testing (EUCAST) also has set breakpoints for prevalent and common Candida and Aspergillus species versus amphotericin B, itraconazole, and posaconazole. Recently, another interpretive category, the epidemiological cut off value, could aid in the early identification of strains with acquired resistance mechanisms. CLSI has postulated that epidemiological cut off values may, with due caution, aid physicians in managing mycosis by species where breakpoints are not available. This review provides (1) the criteria and statistical approach to establishing and estimating epidemiological cut off values (ECVs), (2) the role of the epidemiological cut off value in establishing breakpoints, (3) the potential role of epidemiological cut off values in clinical practice, (4) and the wide range of CLSI-based epidemiological cut off values reported in the literature as well as EUCAST and Sensititre Yeast One-ECVs. Additionally, we provide MIC/MEC (minimal inhibitory concentrations/minimum effective concentrations) ranges/modes of each pooled distribution used for epidemiological cut off value calculation. We focus on the epidemiological cut off value, the new interpretive endpoint that will identify the non-wild type strains (defined as potentially harboring resistance mechanisms). However, we emphasize that epidemiological cut off values will not categorize a fungal isolate as susceptible or resistant as breakpoints do, because the former do not account for the pharmacology of the antifungal agent or the findings from clinical outcome studies (AU)</dc:description>
+<dc:creator>Turnidge, John</dc:creator>
+<dc:creator>Espinel-Ingroff, Ana</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Las pruebas de sensibilidad a los antimicrobianos tienen como finalidad ayudar en la selección del mejor fármaco para el tratamiento de las infecciones fúngicas y bacterianas. El establecimiento de puntos de corte para la anidulafungina, la caspofungina, la micafungina, el fluconazol y el voriconazol en las especies de Candida más prevalentes por parte del Clinical and Laboratory Standards Institute (CLSI) permite alcanzar este objetivo. El European Committee on Antimicrobial Susceptibility Testing (EUCAST) también ha establecido puntos de corte para la anfotericina B, el itraconazol y el posaconazol en las especies más comunes de Candida y Aspergillus. En los últimos tiempos se ha propuesto una nueva categoría, la de los puntos de corte epidemiológicos, que puede ayudar a identificar de manera temprana los aislamientos que han adquirido mecanismos de resistencia. Según el CLSI los puntos de corte epidemiológicos podrían, con la debida cautela, ayudar a los médicos en la selección del tratamiento en aquellas micosis causadas por especies para las que no se han establecido puntos de corte. Esta revisión repasa: 1) los criterios y la aproximación estadística seguida para establecer y estimar los puntos de corte epidemiológicos, 2) el papel de los puntos de corte epidemiológicos para establecer los puntos de corte, 3) el papel de los puntos de corte epidemiológicos en la práctica clínica, y 4) el amplio rango de puntos de corte epidemiológicos que aparecen en la literatura establecidos mediante los métodos del CLSI, EUCAST o Sensititre® YeastOne®. Se muestran también los rangos de las concentraciones mínimas inhibitorias (CMI) y concentraciones mínimas efectivas (CME) utilizados para el cálculo de los puntos de corte epidemiológicos. Incidimos de manera especial sobre estos últimos por tratarse de una nueva interpretación de los CMI y los CME que permite identificar aquellos aislamientos que no son salvajes y potencialmente resistentes. No obstante, insistimos en que los puntos de corte epidemiológicos no pueden utilizarse para calificar como resistente o sensible a un determinado aislamiento, como lo hacen los puntos de corte, puesto que los puntos de corte epidemiológicos no se rigen por las características farmacológicas de los agentes antifúngicos ni por la evolución clínica de los pacientes (AU)</dc:description>
+<dc:source>Rev Iberoam Micol;33(2): 63-75, abr.-jun. 2016. tab, graf</dc:source>
+<dc:identifier>ibc-153947</dc:identifier>
+<dc:title xml:lang="es">Utilidad clínica de los puntos de corte epidemiológicos (ECVs/ECOFFs) para interpretar los datos de la sensibilidad antifúngica de los mohos y levaduras de poca prevalencia</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d24654^s22073</dc:subject>
+<dc:subject>^d5794^s22001</dc:subject>
+<dc:subject>^d10833</dc:subject>
+<dc:subject>^d5974</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d5794^s22021</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d36324^s22038</dc:subject>
+<dc:subject>^d36325^s22021</dc:subject>
+<dc:subject>^d24244^s22045</dc:subject>
+<dc:subject>^d36324^s22021</dc:subject>
+<dc:subject>^d2208^s22021</dc:subject>
+<dc:subject>^d24244^s22048</dc:subject>
+<dc:subject>^d2208^s22001</dc:subject>
+<dc:subject>^d54727^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201606</dc:date>
+</metadata>
+</record>
+</ibecs-document>

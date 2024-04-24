@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-5312</identifier>
+<setSpec>1135-4127</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:creator>Bolíbar Ribas, B</dc:creator>
+<dc:creator>Juncosa Font, S</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Los Ambulatory Care Groups (ACG) son un sistema de clasificación de pacientes en el ámbito de la atención ambulatoria, basado en la premisa que indica que midiendo la carga de morbilidad de la población es posible explicar las variaciones en el consumo de recursos sanitarios. Este sistema tiene una buena adaptación a las características de la atención primaria (AP), ya que se basa en la unidad paciente, agrupa a toda la población (tanto la atendida como la no atendida) y utiliza un reducido número de variables para su construcción (edad, sexo y problemas de salud atendidos). El comportamiento que tiene para agrupar pacientes en isorrecursos es satisfactorio: la mayoría de los coeficientes de variación de los ACG son menores que los de la población sin agrupar, evidenciando un aumento de la homogeneidad al agrupar; la variabilidad explicada de las variables dependientes utilizadas por los ACG, mediante modelos de regresión multivariante, es bastante alta. La aplicación de los ACG también evidencia unas potencialidades muy interesantes: en el área de la financiación, en el ajuste de distintas fórmulas de pago capitativo y en el área de la gestión de recursos sanitarios, en la gestión mediante el cálculo de los índices de riesgo y de eficiencia. En conclusión, la buena adaptación a las características de la AP, su comportamiento satisfactorio y el potencial de sus aplicaciones hacen de los ACG el sistema de clasificación de pacientes más idóneo para la AP (AU)</dc:description>
+<dc:source>Cuad. gest. prof. aten. prim. (Ed. impr.);6(1): 19-24, ene. 2000.</dc:source>
+<dc:identifier>ibc-5312</dc:identifier>
+<dc:title xml:lang="es">Los grupos de atención ambulatoria como sistema de clasificación de pacientes para la atención primaria</dc:title>
+<dc:subject>^d11756</dc:subject>
+<dc:subject>^d30327</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d10223</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d29345</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200001</dc:date>
+</metadata>
+</record>
+</ibecs-document>

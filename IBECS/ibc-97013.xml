@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-97013</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Use of different PCR-based techniques integrated into a non-tuberculous identification algorithm</dc:title>
+<dc:description xml:lang="en">Introduction The aim of the present work was to demonstrate the utility of a non-tuberculous mycobacteria (NTM) identification algorithm, which integrates different PCR-based techniques and basic phenotypic features. Moreover, the algorithm for pattern restriction analysis of hsp65 (hsp65 PRA) interpretation has been updated. Methods The workflow chosen consisted of the identification by a DNA hybridization probe method, followed by PCR-restriction enzyme analysis of hsp65 (hsp65 PRA) in those isolates that cannot be identified by hybridization probes. If necessary, 16S rRNA gene and hsp65 gene sequencing were used for speciation. Results A total of 236 NTM were collected, in which 102 (43.2%) isolates were identified by DNA specific probes and 76 (32.2%) isolates were identified with hsp65 PRA. Partial sequencing of the 16S rRNA gene was used for species identification of the remaining 58 (24.5%) isolates. Fifty-three (22.4%) were identified using this method. Five isolates (2.1%) were submitted for partial sequencing of hsp65 gene and one isolate was identified with this method. Four strains (1.7%) could not be identified at species level. Three new PRA patterns were found. Seven isolates tested positive with the AccuProbe Mycobacterium avium complex identification test but did not test positive with the M. avium or Mycobacterium intracellulare specific probes. Five and two of these isolates were identified as M. intracellulare and Mycobacterium colombiense, respectively. Conclusion This approach allowed us to identify almost all NTM isolates found in this study, including some recently described species(AU)</dc:description>
+<dc:creator>Esparcia, Óscar</dc:creator>
+<dc:creator>Navarro, Ferran</dc:creator>
+<dc:creator>Español, Montserrat</dc:creator>
+<dc:creator>Coll, Pere</dc:creator>
+<dc:creator>Montemayor, Michel</dc:creator>
+<dc:creator>Moreno, Carmen</dc:creator>
+<dc:creator>Garrigó, Montserrat</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción El objetivo del presente trabajo fue demostrar la utilidad de un algoritmo de identificación de micobacterias no tuberculosas (MNT) que integra diferentes técnicas de biología molecular y características fenotípicas básicas. Además se ha realizado una actualización del algoritmo de interpretación del análisis del patrón de restrición de hsp65 (PRA hsp65).Métodos La manera elegida de trabajar consistió en la identificación mediante hibridación con sondas de ADN seguido de PRA hsp65 en aquellos aislados que no pudieron ser identificados mediante hibridación con sondas de ADN. En caso necesario se realizó secuenciación del 16S rDNA y hsp65.ResultadosSe aislaron 236 MNT. De ellos, 102 (43,2%) aislados fueron identificados mediante hibridación con sondas de ADN y 76 (32,2%) mediante PRA hsp65. En los 58 (24,5%) aislados restantes se secuenció 16S rDNA, lo cual permitió la identificación de 53 (22,4%). Para 5 (2,1%) aislados se secuenció hsp65 y permitió la identificación de un aislado más. Cuatro (1,7%) aislados no pudieron ser identificados. Tres nuevos patrones de PRA hsp65 fueron encontrados. Siete aislamientos hibridaron con la sonda AccuProbe Mycobacterium avium complex Identification pero no lo hicieron con las sondas específicas de especie incluidas en el MAC. Cinco y 2 aislados fueron identificados como M. intracellulare y Mycobacterium colombiense, respectivamente. Conclusión Este esquema de trabajo nos permitió la identificación de casi todas las MNT encontradas en este estudio, incluyendo especies recientemente descritas(AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;30(1): 3-10, ene. 2012. ilus, tab</dc:source>
+<dc:identifier>ibc-97013</dc:identifier>
+<dc:title xml:lang="es">Utilización de diferentes técnicas de biología molecular integradas en un algoritmo de identificación de micobacterias no tuberculosas</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d34543^s22045</dc:subject>
+<dc:subject>^d35408^s22045</dc:subject>
+<dc:subject>^d29206^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9355^s22001</dc:subject>
+<dc:subject>^d23616^s22002</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201201</dc:date>
+</metadata>
+</record>
+</ibecs-document>

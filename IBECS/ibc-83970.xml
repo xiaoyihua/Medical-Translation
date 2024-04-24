@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-83970</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Effects of temperature extremes on daily mortality in Castile-La Mancha (Spain): trends from 1975 to 2003</dc:title>
+<dc:description xml:lang="en">ObjectivesTo determine time trends and the geographical distribution of mortality trigger temperature thresholds due to extreme temperatures in Castile-La Mancha (central Spain) between 1975 and 2003.MethodsThe analysis was divided into three periods (1975&#150;1984, 1985&#150;1994 and 1995&#150;2003) for each province of the region. Daily mortality due to organic causes (dependent variable) was modelled using autoregressive integrated moving average (ARIMA) procedures. The resulting residual series was related to the maximum temperature series grouped in 2°C intervals to obtain a threshold temperature for cold or heat when the residuals rose significantly (p&lt;0,05) above the mean residual mortality value of the corresponding study period.ResultsMortality trigger temperature thresholds decreased over time in Castile- La Mancha. In Toledo, the trigger temperature diminished from 40°C to 38°C. In Cuenca and Guadalajara, threshold temperatures for heat events were obtained in the last few decades but not in the first. These thresholds varied from the 92nd percentile in Cuenca to the 98th percentile in Albacete in the last decade. No threshold temperatures for cold spells were observed in any province or period.ConclusionsCastile-La Mancha registered an upward trend in the relationship between high temperatures and mortality, probably due to population aging. This trend could have been influenced by the increased frequency of extremely hot days. Prevention plans should be periodically reviewed(AU)</dc:description>
+<dc:creator>Díaz, Julio</dc:creator>
+<dc:creator>Mirón, Isidro J</dc:creator>
+<dc:creator>Criado-Álvarez, Juan José</dc:creator>
+<dc:creator>Montero, Juan Carlos</dc:creator>
+<dc:creator>Linares, Cristina</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">ObjetivosDeterminar la evolución y la distribución geográfica de la temperatura umbral de disparo de la mortalidad por extremos térmicos en Castilla-La Mancha entre 1975 y 2003.MétodosEl análisis se divide en tres periodos (1975&#150;1984, 1985&#150;1994 y 1995&#150;2003) para cada provincia de la región. Se modeliza la mortalidad diaria por causas orgánicas (variable dependiente) utilizando procedimientos ARIMA. Los residuos diarios de mortalidad resultantes se relacionan con las temperaturas máximas diarias agrupadas en intervalos de 2°C, obteniendo una temperatura umbral por frío o por calor si esos residuos aumentan de forma significativa (p&lt;0,05) respecto a la media de todos los residuos del periodo de estudio.ResultadosLas temperaturas umbral de disparo de la mortalidad por calor en Castilla-La Mancha han descendido en estos años. En Toledo disminuye de 40°C a 38°C. En Cuenca y Guadalajara no se obtenía temperatura umbral por calor en las primeras décadas y sí en las últimas. Los umbrales varían entre el percentil 92 de Cuenca y el percentil 98 de Albacete en la última década. No se observa temperatura umbral de disparo de la mortalidad por frío en ninguna provincia en ningún periodo de tiempo.ConclusionesSe ha producido una evolución creciente de la relación entre las altas temperaturas y la mortalidad en Castilla-La Mancha, probablemente atribuible al envejecimiento de la población. El aumento en la frecuencia de días muy calurosos puede haber influido en esta evolución. Los planes de prevención deben ser revisados periódicamente(AU)</dc:description>
+<dc:source>Gac Sanit;24(2): 117-122, abr. 2010. ilus, tab</dc:source>
+<dc:identifier>ibc-83970</dc:identifier>
+<dc:title xml:lang="es">Efectos de los extremos térmicos sobre la mortalidad diaria en Castilla-La Mancha: evolución temporal 1975&#150;2003</dc:title>
+<dc:subject>^d28632^s22066</dc:subject>
+<dc:subject>^d3111^s22020</dc:subject>
+<dc:subject>^d6508^s22020</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d13411^s22080</dc:subject>
+<dc:subject>^d14384</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201004</dc:date>
+</metadata>
+</record>
+</ibecs-document>

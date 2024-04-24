@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-117162</identifier>
+<setSpec>1578-8423</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Reliability and optimization of PROTODEBA v 1.0 software for the observation of the decision making in handball</dc:title>
+<dc:description xml:lang="en">The aim of this study was to development, and optimizes an observational tool call PROTODEBA v 1.0. This program helps video observation to analyze behavior in decision making in handball players assessing three dimensions (location, transfer and termination) at any time (lag between passing and passing) in different sequences of a game. The study evaluated five observers each one examined six players in eighteen plays of a game. The reliability of the study was conducted in two ways. On one hand, It was calculated the Kappa index of agreement among observers that show values higher than 0,70 for all pairs of observers. For another, it has been estimated generalizability coefficients for different types of decisions and different universes, obtaining values between 0,87 and 0,99. Results support the accuracy of PROTODEBA V1.0 as a tool of observation (AU)</dc:description>
+<dc:creator>González, Andrés</dc:creator>
+<dc:creator>Cavalcanti, Luiz Arthur</dc:creator>
+<dc:creator>Aguilar, Javier</dc:creator>
+<dc:creator>Chirosa, Luis Javier</dc:creator>
+<dc:creator>Martín, Ignacio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En esta investigación se ha realizado un estudio de fiabilidad para el desarrollo y optimización del programa PROTODEBA v 1.0. Este programa de observación de video estudia los comportamientos de la toma de decisión de los jugadores de balonmano valorando tres dimensiones (ubicación, traslado y finalización) en cada momento (que transcurre entre pase y pase) en secuencias de ataque posicional. Cinco observadores valoraron a seis jugadores en 18 momentos de un partido. El estudio de fiabilidad se realizó desde una doble perspectiva. Por un lado, se calcularon los índices Kappa de acuerdo entre observadores que muestran valores superiores a 0,7 para todas las parejas de observadores. Por otro, se han estimado coeficientes de generalizabilidad para distintos tipos de decisión y con diferentes universos, obteniéndose valores entre 0,87 y 0,99. Los resultados apoyan la precisión de PROTODEBA V1.0 como herramienta de observación (AU)</dc:description>
+<dc:source>Cuad. psicol. deporte;13(1): 63-70, ene.-jun. 2013. ilus, tab</dc:source>
+<dc:identifier>ibc-117162</dc:identifier>
+<dc:title xml:lang="es">Fiabilidad y optimización del programa PROTODEBA v 1.0 para la observación de la Toma de Decisiones en Balonmano</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d52940^s22056</dc:subject>
+<dc:subject>^d6276</dc:subject>
+<dc:subject>^d7244</dc:subject>
+<dc:subject>^d3675</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d13562^s22056</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201306</dc:date>
+</metadata>
+</record>
+</ibecs-document>

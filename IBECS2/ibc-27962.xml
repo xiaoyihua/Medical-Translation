@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-27962</identifier>
+<setSpec>0211-2159</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Type I error in the differential item functioning analysis based on the difficulty parameters difference</dc:title>
+<dc:creator>Zanelli, Marta</dc:creator>
+<dc:creator>Lozzia, Gabriela</dc:creator>
+<dc:creator>Attorresi, Horacio</dc:creator>
+<dc:creator>Aguerri, María Ester</dc:creator>
+<dc:creator>Galibert, María Silvia</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Departamento de Metodologia de las Ciencias del Comportamiento. Universitat de Valencia</dc:publisher>
+<dc:description xml:lang="es">Se estudia mediante simulación el Error de Tipo I cometido en el análisis del Funcionamiento Diferencial del Ítem (DIF) cuando se aplica la prueba normal para la diferencia de los parámetros de dificultad. En el diseño se consideraron diversas situaciones en cuanto al tamaño de muestra para los grupos focal y de referencia (iguales o diferentes), a la distribución de la habilidad en las respectivas poblaciones (iguales o en dos situaciones de discrepancia) y en cuanto a los parámetros de los ítemes que se eligieron combinando distintos niveles de discriminación y de dificultad. La proporción de DIF erróneamente detectado se mantuvo por debajo del nivel de significación de 0.05 en un 96 por ciento de los casos; las situaciones en las que lo superó corresponde a ítemes difíciles respondidos por sujetos de bajos niveles de habilidad. La prueba normal para la diferencia de los parámetros de dificultad es de sencilla implementación y permite mantener controlado el riesgo de descartar erróneamente ítemes por su DIF aunque el Error de Tipo II podría ser mayor que el esperado (AU)</dc:description>
+<dc:source>PsicolÔogica (Valencia, Ed. impr.);24(2): 289-306, jun. 2003. tab, graf</dc:source>
+<dc:identifier>ibc-27962</dc:identifier>
+<dc:title xml:lang="es">Error de Tipo I en el análisis del Funcionamiento Diferencial del Ítem basado en la diferencia de los parámetros de dificultad</dc:title>
+<dc:subject>^d19402</dc:subject>
+<dc:subject>^d12436</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d32532</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d28574</dc:subject>
+<dc:subject>^d1083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200306</dc:date>
+</metadata>
+</record>
+</ibecs-document>

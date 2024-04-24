@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-101582</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Factors associated with hospital admission for exacerbation of chronic obstructive pulmonary disease</dc:title>
+<dc:description xml:lang="en">Introduction: Exacerbations of Chronic Obstructive Pulmonary Disease (COPD) that require hospital admission have a major impact on the progression of disease and generate high health costs.  Method: A multi-center, cross-sectional, observational, study was conducted with the aim to identify factors associated with hospital admission in patients with COPD. We obtained data of socio-demographic and anthropometric characteristics, quality of life, respiratory symptoms, anxiety and depression, physical activity and pulmonary function tests. We analyzed their association with hospital admission with a multivariate analysis using a logistic regression model.                        Results: We analyzed 127 patients, 50 (39%) of whom had been hospitalized. 93.7% were men, mean age 67 years (SD=9) and a FEV1 of 41.9% (SD=15.3). In the first model obtained, the baseline SpO2, the BODE index and emergency room (ER) visits were associated with hospital admission and the area under the ROC curve (AUC) was 0.809. In a second model we included only variables readily available (without the 6 minutes walking test) and only the SpO2 and previous visits to the ER were significant with an AUC ROC 0.783.                                                      Conclusions: hospital admission for exacerbation of COPD is associated with poor SpO2, higher BODE index score and a greater number of visits to the ER. In case you do not have the 6 minutes walking test, the other two variables offer a similar discriminative ability(AU)</dc:description>
+<dc:creator>Herrejón, Alberto</dc:creator>
+<dc:creator>Ruiz, Luis Alberto</dc:creator>
+<dc:creator>García-Sidro, Patricia</dc:creator>
+<dc:creator>Mayoralas, Sagrario</dc:creator>
+<dc:creator>Alcázar, Bernardino</dc:creator>
+<dc:creator>García-Polo, Cayo</dc:creator>
+<dc:creator>Martínez, Carlos</dc:creator>
+<dc:creator>Tirado Conde, Gema</dc:creator>
+<dc:creator>López-Campos, José Luis</dc:creator>
+<dc:creator>Ros, José Antonio</dc:creator>
+<dc:creator>Costán, Joaquin</dc:creator>
+<dc:creator>Bonnin, Marc</dc:creator>
+<dc:creator>Miravitlles, Marc</dc:creator>
+<dc:creator>Miguel, Javier de</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: Las exacerbaciones de la enfermedad pulmonar obstructiva crónica (EPOC) que precisan ingreso hospitalario tienen un gran impacto en la progresión de la enfermedad y generan un alto gasto sanitario.                             Método: Se trata de un estudio observacional, multicéntrico y transversal, con el objetivo de identificar los factores asociados a las hospitalizaciones por exacerbaciones de la EPOC. Se obtuvieron variables sociodemográficas, antropométricas, de calidad de vida, síntomas respiratorios, presencia de ansiedad y depresión, actividad física y pruebas de función pulmonar. Se analizó su asociación con el ingreso hospitalario mediante análisis multivariante con un modelo de regresión logística.           Resultados: Se analizaron 127 pacientes, 50 (39%) de los cuales habían sido hospitalizados. El 93,7% fueron hombres, con una edad media de 67 años (DE=9) y un FEV1 del 41,9% (DE=15,3). En el primer modelo obtenido, la SpO2 basal, el índice BODE y las visitas a urgencias se asociaron con el ingreso, y el área bajo la curva (ABC) ROC fue de 0,809. En un segundo modelo incluimos solo variables de fácil obtención (sin la prueba de la marcha), y solo la SpO2 y las visitas previas a urgencias fueron significativas, con un ABC ROC de 0,783.                                Conclusiones: El ingreso hospitalario por exacerbación de la EPOC se asocia a peor SpO2, mayor puntuación del índice BODE y un mayor número de visitas al servicio de urgencias. En caso de no disponer de la prueba de caminar 6min, las otras dos variables ofrecen una capacidad discriminativa similar(AU)</dc:description>
+<dc:source>Arch Bronconeumol;48(3): 70-76, mar. 2012. tab, graf</dc:source>
+<dc:identifier>ibc-101582</dc:identifier>
+<dc:title xml:lang="es">Factores asociados a la hospitalización por exacerbación de la enfermedad pulmonar obstructiva crónica</dc:title>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24542</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d28596^s22045</dc:subject>
+<dc:subject>^d28596^s22066</dc:subject>
+<dc:subject>^d12428^s22054</dc:subject>
+<dc:subject>^d36008^s22012</dc:subject>
+<dc:subject>^d23233^s22074</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d6916^s22066</dc:subject>
+<dc:subject>^d36008^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201203</dc:date>
+</metadata>
+</record>
+</ibecs-document>

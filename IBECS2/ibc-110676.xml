@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-110676</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Real time information. A necessary tool in epidemiological surveillance</dc:title>
+<dc:description xml:lang="en">Since 2004 an electronic epidemiological surveillance system (AVE) has been developed and implemented for infectious diseases in the autonomous region of Valencia that allows data collection from notifiable diseases in real time concerning outbreaks and alerts, as well as analysis and dissemination of the information. Within the autonomous region of Valencia, the system is used by 17 epidemiology units, which act as the first level of specialized surveillance. The electronic surveillance system is used by all these units, as well as by physicians working in primary and specialized care, who can introduce information from the ambulatory information system while the patient is in the practice room. The system is able to capture the demographic data from the patient and the physician can add any other information that is considered important for the case detected. The system receives new laboratory test results overnight from the Microbiological Surveillance Network (RedMIVA). AVE can record outbreaks of notifiable diseases as well as any unusual clusters or changing patterns of any disease. The department of epidemiology has access to the whole system for analysis of the information and for quality control of the epidemiological surveillance. The system provides timely and comprehensive information to facilitate public health action in individual cases of infectious disease (AU)</dc:description>
+<dc:creator>Grupo de trabajo del Análisis de Vigilancia Epidemiológica (AVE)* de la Comunidad Valenciana</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Desde el año 2004 se está desarrollando un sistema electrónico para la vigilancia epidemiológica en la Comunidad Valenciana y su análisis (AVE), que permite recoger en tiempo real los datos de las enfermedades de declaración obligatoria (EDO), de los brotes, y de las alertas, su análisis y la difusión de la información a los usuarios de forma automatizada. Dentro del territorio de la Comunidad Valenciana, las actividades de vigilancia se llevan a cabo en 17 Unidades de Vigilancia, de acuerdo con la desagregación sanitaria de la comunidad, que actúan como primer nivel especializado de la vigilancia. El sistema de vigilancia electrónico es operativo para todas esas unidades e igualmente cubre a los facultativos de atención primaria y especializada, capacitándoles para completar la información clínica de los casos de enfermedades, que son detectados a partir de los datos sociodemográficos del Sistema de Información Ambulatoria (SIA). La incorporación de los resultados microbiológicos se realiza automáticamente, a través de la Red de Vigilancia Microbiológica de la Comunidad Valenciana. El análisis de los casos, los brotes y las alertas se lleva a cabo por medio de una serie de algoritmos que permite la creación de avisos dirigidos al epidemiólogo. Desde los servicios centrales se tiene acceso a todo el sistema para el análisis de la información y el control de la calidad del sistema de vigilancia epidemiológica. La aplicación ha conseguido disminuir el tiempo de declaración de los datos y aumentar la exhaustividad de esa declaración de manera significativa (AU)</dc:description>
+<dc:source>Gac Sanit;22(2): 162-167, mar.-abr. 2008. ilus</dc:source>
+<dc:identifier>ibc-110676</dc:identifier>
+<dc:title xml:lang="es">La información en tiempo real. Una herramienta necesaria en vigilancia epidemiológica</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d^s22045</dc:subject>
+<dc:subject>^d28402</dc:subject>
+<dc:subject>^d29453^s22049</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d50259</dc:subject>
+<dc:subject>^d6904^s22049</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200804</dc:date>
+</metadata>
+</record>
+</ibecs-document>

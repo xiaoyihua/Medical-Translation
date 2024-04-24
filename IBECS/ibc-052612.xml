@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-052612</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The Small Worlds and the Floyd&#146;s algorithm: a way to study the scientific collaboration</dc:title>
+<dc:description xml:lang="en">Many proposals from the analysis of social networks focused on the study of scientific collaboration have been made recently. The Small Worlds theory seems to be the most efficient to study the inner features of the scientific community. Those researches have demonstrated that small communities are based on some key individuals who connect some groups which, on the contrary, would be disconnected. One of the disadvantages from the prospective of the analysis of networks is the lack of researches of particular nodes. With the implementation of a pseudogical algorism of Floyd, we try to avoid this. To study how a small community is formed and, as a research of one case, we observe the invisible college which is formed when connecting the fifteen most productive authors of the Journal of Personality and Social Psychology</dc:description>
+<dc:creator>Peñaranda Ortega, María</dc:creator>
+<dc:creator>López García, Juan José</dc:creator>
+<dc:creator>Quiñones Vidal, Elena</dc:creator>
+<dc:creator>López Serrano, Rafael</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Desde el análisis de las redes sociales aplicadas al estudio de la colaboración científica se han realizado numerosas propuestas en los últimos años. La teoría Small Worlds parece ser la que obtiene un perfil más eficaz para estudiar las características propias de la comunidad científica. Lo que todos estos estudios han demostrado es que las comunidades pequeñas se basan en unos cuantos individuos clave que vinculan a unos grupos que, de lo contrario, estarían desconectados. Uno de los inconvenientes desde la perspectiva del análisis de redes es la falta de estudios sobre los nodos particulares. Con la implementación de un pseudocódigo algoritmo de Floyd tratamos de salvar esta carencia. También, y como estudio de un caso, observamos el colegio invisible que se conformaría al unir los 15 autores más productivos del Journal of Personality and Social Psychology, explicando de esta manera cómo se configura una comunidad pequeña</dc:description>
+<dc:source>Psicothema (Oviedo);18(1): 78-83, feb.2006. ilus, tab</dc:source>
+<dc:identifier>ibc-052612</dc:identifier>
+<dc:title xml:lang="es">Los "small worlds" y el algoritmo de Floyd: una manera de estudiar la colaboración científica</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d3320</dc:subject>
+<dc:subject>^d19062</dc:subject>
+<dc:subject>^d16689</dc:subject>
+<dc:subject>^d12527^s22049</dc:subject>
+<dc:subject>^d13342^s22049</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d32795^s22049</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200602</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-10970</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Evaluation of a program to reduce surgical waiting-lists according to change in the surgical center</dc:title>
+<dc:creator>Garbizu Esteban, Ignacio</dc:creator>
+<dc:creator>Lizán García, Máxima</dc:creator>
+<dc:creator>Planchuelo, J. Luis</dc:creator>
+<dc:creator>Lizán García, M. Luisa</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivos: Identificar las variables relacionadas con la aceptación a ser derivado a otro hospital dentro de un programa de reducción de la lista de espera quirúrgica en el Hospital General (HG).Métodos: El estudio se llevó a cabo durante el primer semestre del año 1997 en la provincia de Albacete, que cuenta con dos hospitales públicos, el Complejo Hospitalario de Albacete (CHA) y el Hospital Comarcal (HC) de Hellín situado a 60 Km de Albacete capital. En el programa se planteaba la derivación voluntaria al HC de Hellín de todos los pacientes con más de tres meses de espera para ser intervenidos de herniorrafia, colecistectomía, tiroidectomía y cataratas, ofertándoles ser intervenidos en los diez días siguientes. En este estudio descriptivo se analiza: la frecuencia de aceptación según sexo, distancia en Kms. desde lugar de residencia, residencia en Albacete, tiempo de permanencia en la lista de espera, y el procedimiento quirúrgico, del total de los pacientes incluidos en el programa. Se utiliza el test de la 2 y el de la T-Student en el análisis univariante y el análisis de regresión logística múltiple (ARL) en el multivariante, considerando la aceptación o no como variable dependiente, y transformando la variable procedimiento quirúrgico en una dummy variable. Con los coeficientes ajustados de las variables seleccionadas calculamos el Riesgo Relativo y su intervalo de confianza al 95 por ciento. Resultados: Trescientos treinta y siete usuarios son contactados, 152 (45 por ciento) aceptan ser intervenidos en el HC. Se aprecian diferencias estadísticamente significativas en la frecuencia de aceptación al cambio según la distancia en Kms., la residencia en Albacete y el procedimiento quirúrgico. Cuando ajustamos estas variables con el ARL, sólo el ser residente en Albacete y el ser intervenido de cataratas presentan desviaciones estándar estadísticamente significativas. Conclusiones: El programa consigue reducir la lista de espera en un 45 por ciento. Los residentes en Albacete son los más reticentes a ser derivados al otro hospital variando el grado de aceptación en función del procedimiento quirúrgico de que se trate. Otras estrategias, como que el médico del paciente sea el que plantee la derivación, habrían de ser valoradas si se quiere aumentar la adhesión al programa (AU)</dc:description>
+<dc:source>Rev. calid. asist;16(3): 195-198, abr. 2001. tab, ilus</dc:source>
+<dc:identifier>ibc-10970</dc:identifier>
+<dc:title xml:lang="es">Evaluación de un programa de reducción de las listas de espera quirúrgicas basado en la derivación de pacientes</dc:title>
+<dc:subject>^d28842</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d6935^s22011</dc:subject>
+<dc:subject>^d6935^s22066</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28571</dc:subject>
+<dc:subject>^d51780^s22045</dc:subject>
+<dc:subject>^d6935^s22048</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d6935^s22049</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d51780^s22048</dc:subject>
+<dc:subject>^d31002^s22045</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d6935^s22074</dc:subject>
+<dc:subject>^d31002^s22074</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200104</dc:date>
+</metadata>
+</record>
+</ibecs-document>

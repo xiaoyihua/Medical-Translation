@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-29861</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Repeated measures analysis</dc:title>
+<dc:creator>Ruiz de Villa, María del Carmen</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">En este trabajo se realiza una exposición de los métodos estadísticos que se utilizan más frecuentemente en el análisis de medidas repetidas, haciendo énfasis en el tipo de datos y las limitaciones de cada método. El objetivo principal consiste en dar una visión comparativa de los distintos métodos desde un punto de vista práctico en el entorno de aplicaciones médicas. Para cada una de las aproximaciones se plantea una breve introducción matemática, una discusión de las condiciones de aplicación que permiten tener una idea del tipo de diseños en los que se puede utilizar y, finalmente, el análisis de unos datos concretos con una breve discusión de resultados (AU)</dc:description>
+<dc:source>Med. clín (Ed. impr.);122(supl.1): 51-58, ene. 2004.</dc:source>
+<dc:identifier>ibc-29861</dc:identifier>
+<dc:title xml:lang="es">Análisis de medidas repetidas</dc:title>
+<dc:subject>^d28620</dc:subject>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d28633</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12528</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200401</dc:date>
+</metadata>
+</record>
+</ibecs-document>

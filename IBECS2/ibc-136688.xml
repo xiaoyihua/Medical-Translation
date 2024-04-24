@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-136688</identifier>
+<setSpec>0034-9356</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Reliability assessment of four ventilators used in critically-ill patients</dc:title>
+<dc:description xml:lang="en">OBJECTIVES: Mechanical ventilators are often used in critically-iII patients with acute respiratory insufficiency. We aimed to assess the reliability of four commonly used ventilators. METHODS: This experimental study assessed four Bio-Tek® VT-2 ventilators set for different levels of impedance and compliance in comparison with a tester. We gathered data on differences between the ventilators and the tester for volumes supplied and end-expiratory pressures. Statistical significance was determined using a Student-t test (95% confidence interval) and a coefficient of variation was calculated to study variation over time in parameters programed. Error margins were calculated and applied for each ventilator. RESULTS: For situations in which compliance and impedance are similar to those of patients with chronic obstructive pulmonary disease and acute respiratory distress syndrome, there were differences in tidal volumes measured by the ventilators monitors and those actually supplied at the end or the breathing circuits, although the differences are only slightly greater than the error margins. The coefficients of variation were not significant at any or the compliance and impedance levels studied. CONCLUSIONS: In situations of low compliance and/or high impedance, tidal volumes supplied by ventilators and volumes shown on the monitors are different, although the differences are small and hardly exceed the ventilators acceptable error margins. The coefficient of variation indicated that the parameters set remain highly stable over time (AU)</dc:description>
+<dc:creator>Bustamante Rodríguez, R</dc:creator>
+<dc:creator>Escós Orta, J</dc:creator>
+<dc:creator>Zalba Etayo, B</dc:creator>
+<dc:creator>Millastre Benito, A</dc:creator>
+<dc:creator>López Núñez, C</dc:creator>
+<dc:creator>Cuen Mermejo, J</dc:creator>
+<dc:creator>Virgós Señor, B</dc:creator>
+<dc:creator>Suárez Pinilla, MA</dc:creator>
+<dc:creator>León Cinto, C</dc:creator>
+<dc:creator>Nebra Puertas, AC</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">OBJETIVOS: Comprobar la fiabilidad de cuatro ventiladores empleados en la práctica diaria habitual con enfermos críticos con insuficiencia respiratoria aguda. MÉTODOS: Estudio experimental, realizado con 4 ventiladores y un comprobador de respiradores Bio-Tek® VT.2, ajustado con distintos valores de resistencia y compliancia. Se recogieron las diferencias entre los datos obtenidos por los respiradores y el comprobador, en los volúmenes entregados y la presión teleespiratoria. Se comprobó si las diferencias existentes entre los respiradores y el comprobador podrían ser significativas, y el coeficiente de variación para estudiar la posible desviación de los parámetros programados a lo largo del tiempo. Se calcularon y aplicaron los márgenes de error de los respiradores. RESULTADOS: En situaciones de compliancia y resistencia, parecidas a las que presentan los enfermos con enfermedad pulmonar obstructiva crónica y síndrome de distrés respiratorio agudo, hay diferencias entre los volúmenes corrientes medidos por la monitorización de los respiradores y los entregados al final de sus circuitos respiratorios, aunque apenas se superan los márgenes de error. El coeficiente de variación no fue significativo en ninguna de las situaciones de compliancia y resistencia aplicadas. CONCLUSIONES: Existen diferencias, frente a situaciones de baja compliancia y/o elevada resistencia, entre los volúmenes corrientes monitorizados y los entregados en algunos ventiladores, aunque dichas diferencias sean pequeñas y apenas superen los márgenes de error admitidos para los ventiladores. Los resultados del coeficiente de variación indican una alta capacidad de mantener constantes los parámetros programados a lo largo del tiempo (AU)</dc:description>
+<dc:source>Rev Esp Anestesiol Reanim;49(10): 522-528, dic. 2002. tab</dc:source>
+<dc:identifier>ibc-136688</dc:identifier>
+<dc:title xml:lang="es">Análisis de la fiabilidad de cuatro ventiladores empleados en pacientes críticos</dc:title>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d30170^s22067</dc:subject>
+<dc:subject>^d4946</dc:subject>
+<dc:subject>^d24402^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200212</dc:date>
+</metadata>
+</record>
+</ibecs-document>

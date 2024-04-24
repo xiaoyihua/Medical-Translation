@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-166016</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Factors Influencing Hospital Stay for Pulmonary Embolism. A Cohort Study</dc:title>
+<dc:description xml:lang="en">Introduction: The aim of this study was to identify factors influencing hospital stay due to pulmonary embolism. Methods: We performed a retrospective cohort study of patients hospitalized between 2010 and 2015. Patients were identified using information recorded in hospital discharge reports (ICD-9-CM codes 415.11 and 415.19). Results: We included 965 patients with a median stay of 8 days (IQR 6-13 days). Higher scores on the simplified Pulmonary Embolism Severity Index (sPESI) were associated with increased probability of longer hospital stay. The probability of a hospital stay longer than the median was 8.65 (95% CI 5.42-13.79) for patients referred to the Internal Medicine Department and 1.54 (95% CI 1.07-2.24) for patients hospitalized in other departments, compared to those referred to the Pneumology Department. Patients with grade 3 on the modified Medical Research Council dyspnea scale had an odds ratio of 1.63 (95% CI: 1.07-2.49). The likelihood of a longer than median hospital stay was 1.72 (95% CI: 0.85-3.48) when oral anticoagulation (OAC) was initiated 2-3 days after admission, and 2.43 (95% CI: 1.16-5.07) when initiated at 4-5 days, compared to OAC initiation at 0-1 days. Conclusions: sPESI grade, the department of referral from the Emergency Department, the grade of dyspnea and the time of initiating OAC were associated with a longer hospital stay (AU)</dc:description>
+<dc:creator>González-Barcala, Francisco J</dc:creator>
+<dc:creator>Valdés, Luis</dc:creator>
+<dc:creator>Ferreiro, Lucía</dc:creator>
+<dc:creator>Rodríguez-Núñez, Nuria</dc:creator>
+<dc:creator>Abelleira, Romina</dc:creator>
+<dc:creator>Álvarez-Dobaño, José M</dc:creator>
+<dc:creator>Golpe, Antonio</dc:creator>
+<dc:creator>Toubes, María E</dc:creator>
+<dc:creator>Ruano-Raviña, Alberto</dc:creator>
+<dc:creator>Lama, Adriana</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: El objetivo de este estudio fue analizar qué factores influyen en la estancia hospitalaria tras una embolia pulmonar. Métodos: Se diseñó un estudio retrospectivo de cohortes en pacientes ingresados entre 2010 y 2015 por embolia pulmonar. Los enfermos se identificaron utilizando los códigos de información registrados en los informes de alta hospitalaria (códigos CIE-9-CM 415.11 y 415.19). Resultados: Se incluyó a 965 pacientes. La mediana de la estancia fue 8 días (rango intercuartílico 6-13 días). Las puntuaciones más altas en el Pulmonary Embolism Severity Index simplificado (sPESI) se asociaron con mayor probabilidad de aumento de la estancia hospitalaria. En comparación con la derivación al Servicio de Neumología, la odds ratio (OR) de una estancia hospitalaria superior a la mediana fue de 8,65 (IC 95%: 5,42-13,79) para los pacientes derivados al Servicio de Medicina Interna y de 1,54 (95%CI: 1,07-2,24) para los pacientes hospitalizados en otros servicios. Los pacientes con grado 3 en la escala de disnea modificada de la Medical Research Council tenían una OR de 1,63 (IC 95%: 1,07-2,49). La probabilidad de una estancia hospitalaria más larga que la mediana fue de 1,72 (IC 95%: 0,85-3,48) cuando la anticoagulación oral se inició 2-3 días después del ingreso y 2,43 (IC 95%: 1,16-5,07) cuando se inició los días 4-5, en comparación con la iniciada los días 0-1 desde el ingreso. Conclusiones: El grado de sPESI, el servicio de derivación desde Urgencias, el grado de disnea y el momento de inicio de la anticoagulación oral se asociaron con una estancia hospitalaria más larga (AU)</dc:description>
+<dc:source>Arch Bronconeumol;53(8): 432-436, ago. 2017. tab</dc:source>
+<dc:identifier>ibc-166016</dc:identifier>
+<dc:title xml:lang="es">Factores que influyen en la estancia hospitalaria por embolia pulmonar. Un estudio de cohortes</dc:title>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d932^s22073</dc:subject>
+<dc:subject>^d12092^s22080</dc:subject>
+<dc:subject>^d8079^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4479^s22080</dc:subject>
+<dc:subject>^d18001</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201708</dc:date>
+</metadata>
+</record>
+</ibecs-document>

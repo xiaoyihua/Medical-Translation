@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-33180</identifier>
+<setSpec>0034-0618</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Drug - food interactions: an update</dc:title>
+<dc:creator>Martínez Hernández, Alfredo</dc:creator>
+<dc:creator>San Miguel Sámano, M. Teresa</dc:creator>
+<dc:creator>Vargas Castrillón, Emilio</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Real Academia de Farmacia</dc:publisher>
+<dc:description xml:lang="es">Las interacciones entre medicamentos y alimentos pueden producir efectos negativos en la seguridad y eficacia del tratamiento farmacológico y en el estado nutricional del paciente. Las interacciones pueden clasificarse en dos tipos, en función de cual de los dos sustratos (medicamento o alimento) se ve afectado por la presencia del otro. Asimismo, de acuerdo con el mecanismo por el que se producen, pueden ser físicoquímicas, farmacocinéticas y farmacodinámicas. Las interacciones pueden prevenirse mediante una actuación conjunta por parte del equipo de profesionales sanitarios (AU)</dc:description>
+<dc:source>An Real Acad Farm;70(1): 147-179, ene. 2004. tab</dc:source>
+<dc:identifier>ibc-33180</dc:identifier>
+<dc:title xml:lang="es">Interacciones entre medicamentos y alimentos: aspectos actuales</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d7705^s22073</dc:subject>
+<dc:subject>^d28466^s22031</dc:subject>
+<dc:subject>^d32247^s22031</dc:subject>
+<dc:subject>^d28466^s22021</dc:subject>
+<dc:subject>^d7231^s22080</dc:subject>
+<dc:subject>^d15206^s22057</dc:subject>
+<dc:subject>^d4409^s22031</dc:subject>
+<dc:subject>^d7231^s22054</dc:subject>
+<dc:subject>^d9187^s22021</dc:subject>
+<dc:subject>^d9187^s22020</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200401</dc:date>
+</metadata>
+</record>
+</ibecs-document>

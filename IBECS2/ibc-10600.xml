@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-10600</identifier>
+<setSpec>0210-9433</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:creator>Pérez del Molino Bernal, M. L</dc:creator>
+<dc:creator>García Ramos, M. R</dc:creator>
+<dc:creator>Túñez Bastida, V</dc:creator>
+<dc:creator>Lado Lado, F. L</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">La lucha farmacológica contra la tuberculosis se está desarrollando en distintos campos. Se están buscando sistemas que mejoren el cumplimiento terapéutico mediante el desarrollo de formas farmacéuticas de acción sostenida o implantables de medicamentos, ya empleados o nuevos, y de medicamentos que acorten el tratamiento y permitan la administración intermitente. Por otro lado, se están investigando nuevos mecanismos de acción para poder combatir las resistencias. En modelos animales se están probando nuevas moléculas oxazolidinonas que inhiben la síntesis proteica en fases tempranas, entre ellas el linelozid. Otro grupo es el de los nitroimidazopiranos, con una estructura similar al metronidazol. En la actualidad, con el conocimiento de la secuencia del genoma de Mycobacterium tuberculosis se está probablemente en mejor posición para el desarrollo de nuevos medicamentos (AU)</dc:description>
+<dc:source>Med. integral (Ed. impr.);39(5): 225-235, mar. 2002. ilus, tab</dc:source>
+<dc:identifier>ibc-10600</dc:identifier>
+<dc:title xml:lang="es">Aspectos actuales del tratamiento de la tuberculosis</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d22261</dc:subject>
+<dc:subject>^d30997^s22057</dc:subject>
+<dc:subject>^d22239</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d10546</dc:subject>
+<dc:subject>^d27977</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d999^s22073</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d999^s22020</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200203</dc:date>
+</metadata>
+</record>
+</ibecs-document>

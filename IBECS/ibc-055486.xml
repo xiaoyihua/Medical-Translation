@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-055486</identifier>
+<setSpec>0001-7310</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Protocol proposal for the histological report of the primary tumor in patients with cutaneous melanoma from the Task Force for Cutaneous Melanoma of the Valencian Community</dc:title>
+<dc:description xml:lang="en">This text compiles a histological protocol proposal for cutaneous melanoma agreed by the Task Force for Cutaneous Melanoma of the Valencian Community. It brings together the protocol itself and, in addition, includes a description of each of the proposed variables that has shown to have a greater prognostic impact in previous works</dc:description>
+<dc:creator>Grupo de Trabajo para el Melanoma Cutáneo de la Comunidad Valenciana</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En este texto se describe una propuesta de protocolo histológico para el melanoma cutáneo realizado de forma consensuada por el Grupo de Trabajo para el Melanoma Cutáneo de la Comunidad Valenciana. En él se recoge el propio protocolo y, además, incluye la descripción de cada una de las variables propuestas que ha demostrado tener un mayor impacto en el pronóstico en los trabajos previos</dc:description>
+<dc:source>Actas Dermosifiliogr;98(7): 459-465, sept. 2007. tab</dc:source>
+<dc:identifier>ibc-055486</dc:identifier>
+<dc:title xml:lang="es">Propuesta de protocolo para el informe histológico del tumor primario de los pacientes con un melanoma cutáneo del Grupo de Trabajo para el Melanoma Cutáneo de la Comunidad Valenciana</dc:title>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d8714^s22053</dc:subject>
+<dc:subject>^d27977</dc:subject>
+<dc:subject>^d29627</dc:subject>
+<dc:subject>^d29179^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d13259^s22053</dc:subject>
+<dc:subject>^d9560</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200709</dc:date>
+</metadata>
+</record>
+</ibecs-document>

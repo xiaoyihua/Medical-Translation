@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-30327</identifier>
+<setSpec>1137-6627</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Animal sting and bites</dc:title>
+<dc:creator>Blasco, R</dc:creator>
+<dc:creator>Erce, R</dc:creator>
+<dc:creator>Pinillos, M. A</dc:creator>
+<dc:creator>Pastrana, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Departamento de Salud. Gobierno de Navarra</dc:publisher>
+<dc:description xml:lang="es">En este tema tratamos las picaduras por artrópodos. Se hace referencia a las diferencias que existen entre las picaduras de avispas y abejas, comentando la composición de venenos y las diferentes reacciones locales y generales que provocan dichas picaduras. Se exponen además las picaduras-mordeduras producidas por escorpiones, arañas, garrapatas, y animales marinos con la clínica que provocan y el tratamiento que es necesario administrar. Por último, se incluyen las mordeduras por serpientes, haciendo referencia a los tipos de ofidios más frecuentes en Navarra, la forma de diferenciar la mordedura de culebras de las víboras, la diferente clínica que provocan, y el tratamiento a aplicar (AU)</dc:description>
+<dc:source>An Sist Sanit Navar;26(supl.1): 225-242, ene. 2003. ilus, tab</dc:source>
+<dc:identifier>ibc-30327</dc:identifier>
+<dc:title xml:lang="es">Picaduras y mordeduras de animales</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d13290^s22032</dc:subject>
+<dc:subject>^d15264^s22020</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30478^s22032</dc:subject>
+<dc:subject>^d1101^s22032</dc:subject>
+<dc:subject>^d1758^s22032</dc:subject>
+<dc:subject>^d12984^s22020</dc:subject>
+<dc:subject>^d3094^s22020</dc:subject>
+<dc:subject>^d1533^s22020</dc:subject>
+<dc:subject>^d7106^s22052</dc:subject>
+<dc:subject>^d1758^s22067</dc:subject>
+<dc:subject>^d1187^s22020</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200301</dc:date>
+</metadata>
+</record>
+</ibecs-document>

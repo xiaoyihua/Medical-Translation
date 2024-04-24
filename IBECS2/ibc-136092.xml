@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-136092</identifier>
+<setSpec>0001-6640</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Scientific communication (XXI). Basic knowledge to read (and write) a scientific paper (8): Checklists of diagnostic test</dc:title>
+<dc:description xml:lang="en">Before a new diagnostic test and before the use in clinical practice, it is necessary to know its validity. And to validate studies of diagnostic tests it is necessary they have methodological rigor in the design and applicability. In diagnostic tests we can consider two checklists: STARD for validity and QUADAS for quality. The STARD statement defines a list of 25 questions and one flowchart to be followed for an appropriate study design, given the inclusion of patients, the order of performing the test, the number of patients receiving the test and the selected reference. The QUADAS statement consists of four key areas including: selection of patients, test under study, reference standards, and patient flow and timetable (AU)</dc:description>
+<dc:creator>González Muñoz, M</dc:creator>
+<dc:creator>González de Dios, J</dc:creator>
+<dc:creator>Alonso Arroyo, A</dc:creator>
+<dc:creator>Aleixandre Benavent, R</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Ante una nueva prueba diagnóstica, y antes de utilizarla en la práctica clínica, es necesario conocer su validez. Y para que los estudios de pruebas diagnósticas sean válidos, es preciso que tengan rigor metodológico en cuanto a su diseño y aplicabilidad. En las pruebas diagnósticas podemos considerar dos listas guía de comprobación: STARD para la validez y QUADAS para la calidad. La declaración STARD define un listado de 25 preguntas y un diagrama de flujo que debería seguirse para que el diseño de un estudio sea adecuado, teniendo en cuenta la inclusión de los pacientes, el orden de la realización de la prueba, el número de pacientes que reciben la prueba y la prueba de referencia seleccionada. La declaración QUADAS está formada por cuatro áreas fundamentales: a) selección de los pacientes; b) prueba en estudio; c) estándares de referencia, y d) flujo de pacientes y cronograma (AU)</dc:description>
+<dc:source>Acta Pediatr Esp;73(3): 73-78, mar. 2015. tab</dc:source>
+<dc:identifier>ibc-136092</dc:identifier>
+<dc:title xml:lang="es">Comunicación científica (XXI). Conocimientos básicos para leer (y escribir) un artículo científico (8): Listas de comprobación de pruebas diagnósticas</dc:title>
+<dc:subject>^d50131</dc:subject>
+<dc:subject>^d50163</dc:subject>
+<dc:subject>^d10565^s22019</dc:subject>
+<dc:subject>^d54383</dc:subject>
+<dc:subject>^d19131</dc:subject>
+<dc:subject>^d28141</dc:subject>
+<dc:subject>^d10565^s22045</dc:subject>
+<dc:subject>^d19131^s22066</dc:subject>
+<dc:subject>^d19131^s22034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201503</dc:date>
+</metadata>
+</record>
+</ibecs-document>

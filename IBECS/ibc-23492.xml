@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-23492</identifier>
+<setSpec>0004-2927</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Stochastic Systems in Natural Sciences</dc:title>
+<dc:creator>Valderrama, M. J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Facultad de Farmacia. Universidad de Granada</dc:publisher>
+<dc:description xml:lang="es">En este artículo se formulan los modelos de espacio de estados como herramienta matemática para representar la evolución temporal de un fenómeno. El análisis se centra en los modelos lineales, describiéndose un algoritmo, denominado filtro de Kalman, que permite realizar predicciones de forma recursiva a medida que se van procesando nuevas observaciones. Finalmente se aborda el caso no lineal introduciendo un método aproximado de resolución (AU)</dc:description>
+<dc:source>Ars pharm;41(1): 47-57, ene. 2000. ilus, graf</dc:source>
+<dc:identifier>ibc-23492</dc:identifier>
+<dc:title xml:lang="es">Sistemas Estocásticos en las Ciencias Naturales</dc:title>
+<dc:subject>^d19062</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28617</dc:subject>
+<dc:subject>^d32532</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200001</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-79984</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Premature ventricular complexes as a trigger for ventricular fibrillation</dc:title>
+<dc:description xml:lang="en">Introduction and objectives. The mechanisms that trigger ventricular fibrillation (VF) are poorly understood. The aim of this study was to analyze the initiation of VF in electrograms stored in implantable cardioverterdefibrillators (ICDs). Methods. We analyzed ICD electrograms from patients who had suffered at least one episode of VF. Results. Of 250 patients with ICDs, 13 (10 male and 3 female, age 49±22 years) had at least one episode of VF. The diagnoses were Brugada syndrome (n=4), ischemic heart disease (n=3), dilated cardiomyopathy (n=2), hypertrophic cardiomyopathy (n=1), short-coupled variant of torsades de pointes (n=1), endocardial fibroelastosis (n=1) and idiopathic VF (n=1). In 7 patients, VF was the reason for ICD implantation. Overall, 31 episodes of VF were recorded, including three episodes of arrhythmic storm. In the 7 patients who had more than one episode of VF (within minutes or up to 3 years apart), all episodes started with premature ventricular complexes (PVCs) that had the same morphology and similar coupling intervals. A short-long-short cycle was observed in 2 patients. In 21 episodes, PVCs that did not trigger VF were observed during sinus rhythm. There was no significant difference between them and PVCs that did trigger VF in terms of morphology, coupling interval (409±121 ms vs. 411±123 ms) or the preceding sinus rhythm RR interval (801±233 ms vs. 793±230 ms). Conclusions. Spontaneous VF in the form of an arrhythmic storm or an isolated episode were triggered by PVCs. On occasions, PVCs preceded VF without triggering it (AU)</dc:description>
+<dc:creator>Caro-Martínez, César</dc:creator>
+<dc:creator>Sánchez Muñoz, Juan José</dc:creator>
+<dc:creator>Valdés Chávarri, Mariano</dc:creator>
+<dc:creator>Peñafiel-Verdú, Pablo</dc:creator>
+<dc:creator>Martínez-Sánchez, Juan</dc:creator>
+<dc:creator>García-Alberola, Arcadio</dc:creator>
+<dc:creator>Manzano-Fernández, Sergio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos. Los mecanismos de inicio de la fibrilación ventricular (FV) son poco conocidos. El objetivo de este estudio es analizar el inicio de la FV en los electrogramas almacenados en los desfibriladores automáticos implantables (DAI). Métodos. Hemos analizado los electrogramas de pacientes con DAI y al menos un episodio de FV. Resultados. De una población de 250 pacientes portadores de DAI, 13 tuvieron al menos un episodio de FV, 10 varones y 3 mujeres (edad, 49 ± 22 años), diagnosticados de síndrome de Brugada (n = 4), cardiopatía isquémica (n = 3), miocardiopatía dilatada (n = 2), miocardiopatía hipertrófica (n = 1), torsades de pointes por extrasístole ventricular (EV) con acoplamiento corto (n = 1), fibroelastosis cardiaca (n = 1) y FV idiopática (n = 1). En 7 pacientes la FV fue el motivo del implante. Se registraron 31 episodios de FV (3 tormentas arrítmicas). En cada paciente, todos los episodios comenzaron con una EV de la misma morfología y similar intervalo de acoplamiento en los 7 pacientes con más de un episodio (minutos-3 años). Se objetivó ciclo corto-largo-corto en 2 pacientes. En 21 episodios, se registraron EV en ritmo sinusal que no desencadenaron FV. La morfología, el intervalo de acoplamiento (409 ± 121 frente a 411 ± 123 ms) y el ciclo del latido sinusal precedente (801 ± 233 frente a 793 ± 230 ms) no presentaron diferencias significativas al compararlas con las EV inductoras de FV. Conclusiones. La FV espontánea se desencadena por EV en las tormentas arrítmicas y en episodios aislados. En ocasiones las EV preceden a la FV sin desencadenarla (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;63(7): 798-801, jul. 2010. ilus</dc:source>
+<dc:identifier>ibc-79984</dc:identifier>
+<dc:title xml:lang="es">Extrasistolia ventricular desencadenante de la fibrilación ventricular</dc:title>
+<dc:subject>^d15100^s22032</dc:subject>
+<dc:subject>^d3662^s22054</dc:subject>
+<dc:subject>^d4634^s22066</dc:subject>
+<dc:subject>^d15100^s22067</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d15100^s22016</dc:subject>
+<dc:subject>^d2355^s22016</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d52136^s22016</dc:subject>
+<dc:subject>^d30763^s22074</dc:subject>
+<dc:subject>^d30650^s22016</dc:subject>
+<dc:subject>^d15100^s29166</dc:subject>
+<dc:subject>^d3662^s22080</dc:subject>
+<dc:subject>^d19021^s22016</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d4634^s22074</dc:subject>
+<dc:subject>^d30763^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201007</dc:date>
+</metadata>
+</record>
+</ibecs-document>

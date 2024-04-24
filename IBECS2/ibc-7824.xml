@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-7824</identifier>
+<setSpec>0210-9433</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:creator>Sobrino Martínez, J</dc:creator>
+<dc:creator>Doménech Feriacarot, M</dc:creator>
+<dc:creator>Coca Payeras, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Los pacientes hipertensos con enfermedad coronaria presentan un riesgo particularmente elevado de morbilidad y mortalidad cardiovascular, habiéndose establecido claramente los beneficios y seguridad de una terapia antihipertensiva en dichos pacientes. Debe evitarse un descenso de la presión arterial excesivamente rápido, en particular cuando cause una taquicardia refleja y activación del sistema simpático. Los valores de presión arterial objetivo se sitúan por debajo de 140/90 mmHg, y si el ángor persiste deberían descenderse aún más dichos valores.Los bloqueadores beta y los antagonistas del calcio son especialmente útiles en los pacientes hipertensos con angina de pecho, aunque deben evitarse los calcioantagonistas de acción corta.Tras un infarto agudo de miocardio deben administrarse bloqueadores beta sin actividad simpática intrínseca, ya que reducen el riesgo de un posterior infarto de miocardio y de muerte súbita. Los inhibidores de la enzima de conversión de la angiotensina han demostrado su utilidad en el infarto agudo de miocardio, en especial cuando existe disfunción sistólica del ventrículo izquierdo al prevenir una posterior insuficiencia cardíaca y disminuir la mortalidad.Si los bloqueadores beta son ineficaces o están contraindicados pueden utlizarse verapamilo o diltiazem (AU)</dc:description>
+<dc:source>Med. integral (Ed. impr.);36(4): 146-151, sept. 2000. ilus, tab</dc:source>
+<dc:identifier>ibc-7824</dc:identifier>
+<dc:title xml:lang="es">El paciente hipertenso con cardiopatía isquémica</dc:title>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d7152^s22057</dc:subject>
+<dc:subject>^d30650^s22054</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d7152^s22012</dc:subject>
+<dc:subject>^d7398^s22067</dc:subject>
+<dc:subject>^d30650^s22067</dc:subject>
+<dc:subject>^d30650^s22012</dc:subject>
+<dc:subject>^d7152^s22054</dc:subject>
+<dc:subject>^d962^s22073</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200009</dc:date>
+</metadata>
+</record>
+</ibecs-document>

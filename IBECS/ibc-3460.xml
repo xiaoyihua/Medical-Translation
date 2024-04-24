@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-3460</identifier>
+<setSpec>1575-734X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Biologic standarization of the allergenic extract of Anisakis simplex</dc:title>
+<dc:creator>Rodero, M </dc:creator>
+<dc:creator>Esteban, M. I </dc:creator>
+<dc:creator>Cuéllar, C </dc:creator>
+<dc:creator>González, M. L </dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Saned, S.A.</dc:publisher>
+<dc:description xml:lang="es">Fundamento: Este trabajo tiene como objetivo la estandarización biológica del extracto alergénico de Anisakis simplex. Métodos: Se seleccionaron 21 pacientes específicamente sensibilizados a A. simplex, se realizó la determinación de IgE específica por ELISA y CAP System y prueba cutánea. Se obtuvo la potencia del extracto por inhibición de la IgE, mediante ELISA de competición y absorción y se calculó la concentración necesaria para producir el 50 por ciento de inhibición de los valores de IgE específica. Se realizó una prueba cutánea sobre los 21 pacientes y se calculó el valor SPT (Skin Prick Test) del extracto de A. simplex. Resultados: Mediante ELISA de competición y absorción con 1, 5, 10, 20 y 40 µg de antígeno se observó un descenso en los valores de IgE proporcional a la concentración de antígeno utilizada, que fue mayor en el caso de la absorción, en que se llegó al 100 por ciento con 40 µg. Al realizar el ELISA de absorción con los sueros de cada paciente con 1 y 5 µg de antígeno se observó un descenso en el 80 por ciento de los mismos. Con los valores obtenidos con una mezcla de todos los sueros se calculó la concentración necesaria para producir el 50 por ciento de inhibición (2,79 µg/absorción - 8,35 µg/inhibición). El valor SPT del extracto alergénico de A. simplex fue de 0,9. Conclusiones: Arbitrariamente se ha fijado que a un valor SPT de 1 mg/ml de alergeno se le asigna una actividad de 10.000 UBE (Unidades Biológicas Equivalentes), por lo que un SPT de extracto de A. simplex equivale a 9.000 UBE. (AU)</dc:description>
+<dc:source>Alergol. inmunol. clín. (Ed. impr.);15(5): 299-306, oct. 2000. tab, graf</dc:source>
+<dc:identifier>ibc-3460</dc:identifier>
+<dc:title xml:lang="es">Estandarización biológica del extracto alergénico de Anisakis simplex</dc:title>
+<dc:subject>^d22443^s22045</dc:subject>
+<dc:subject>^d22673^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30847^s22052</dc:subject>
+<dc:subject>^d30848^s22038</dc:subject>
+<dc:subject>^d23089</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d14409</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200010</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-23081</identifier>
+<setSpec>1139-6202</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Outcome is a health status change attributed to and antecedent in health care</dc:title>
+<dc:creator>Gérvas, Juan</dc:creator>
+<dc:creator>Pérez Fernández, Mercedes</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Saned, S.A.</dc:publisher>
+<dc:description xml:lang="es">No disponible</dc:description>
+<dc:source>Pharm. care Esp;4(2): 118-122, mar. 2002.</dc:source>
+<dc:identifier>ibc-23081</dc:identifier>
+<dc:title xml:lang="es">El resultado es un cambio del estado de salud atribuible al antecedente de la atención sanitaria</dc:title>
+<dc:subject>^d28449</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d10221</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200203</dc:date>
+</metadata>
+</record>
+</ibecs-document>

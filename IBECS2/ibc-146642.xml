@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-146642</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Risk of thromboembolism with thrombopoietin receptor agonists in adult patients with thrombocytopenia: Systematic review and meta-analysis of randomized controlled trials</dc:title>
+<dc:description xml:lang="en">Fundamento y objetivo: Los agonistas del receptor de la trombopoyetina (TPOr) (romiplostim y eltrombopag) promueven la diferenciación megacariocítica, la proliferación y la producción de plaquetas. En 2012, una revisión sistemática y metaanálisis informó de un aumento no estadísticamente significativo del riesgo tromboembólico para estos medicamentos, pero los análisis presentaban limitaciones por la falta de potencia estadística. El objetivo es actualizar el metaanálisis de 2012 examinando si los agonistas del TPOr afectan a la incidencia de tromboembolismos en los pacientes adultos con trombocitopenia. Material y métodos: Se llevó a cabo una revisión sistemática y metaanálisis de ensayos clínicos aleatorizados y controlados (ECA). Se actualizaron búsquedas llevadas a cabo en PubMed, Cochrane Central, y registros públicos (hasta Diciembre de 2014). Se incluyeron ECA en los que se administrara romiplostim o eltrombopag en al menos uno de los grupos de pacientes tratados. Se calcularon los riesgos relativos (RR), la diferencia absoluta de riesgo (ARR, por sus siglas en inglés) y el número necesario de pacientes para dañar (NNH). Se examinó la heterogeneidad estadística mediante la Q de Cochran y el estadístico I2. Resultados: Se incluyeron 15 estudios con 3026 pacientes adultos diagnosticados de trombocitopenia. Las frecuencias de acontecimientos tromboembólicos fueron de 3.69% ([intervalo de confianza] IC del 95%: 2,95&#150;4,61%) para los agonistas del TPOr y de 1,46% (IC95%: 0,89&#150;2,40%) para los controles. Los agonistas del TPOr se asociaron con un riesgo relativo de tromboembolismo de 1,81 (IC95%: 1,04&#150;3,14) y una ARR del 2,10% (IC95%: 0,03&#150;3,90%), que significa un NNH de 48. En general, no se encontró evidencia de heterogeneidad estadística (p = 0,43; I2 = 1,60%). Conclusiones: El metaanálisis actualizado sugiere que los agonistas del TPOr están asociados con un mayor riesgo de eventos thromboembólicos en comparación con los controles. Estos resultados apoyan las precauciones incluidas en la información del medicamento en la Unión Europea en relación con el riesgo tromboembólico (AU)</dc:description>
+<dc:creator>Montero, Dolores</dc:creator>
+<dc:creator>Fuente-Honrubia, César de la</dc:creator>
+<dc:creator>Macías Saint-Gerons, Diego</dc:creator>
+<dc:creator>Corrales, Inmaculada</dc:creator>
+<dc:creator>Martín-Serrano, Gloria</dc:creator>
+<dc:creator>González-Bermejo, Diana</dc:creator>
+<dc:creator>Catalá-López, Ferrán</dc:creator>
+<dc:language>en</dc:language>
+<dc:source>Med. clín (Ed. impr.);145(12): 511-519, dic. 2015.</dc:source>
+<dc:identifier>ibc-146642</dc:identifier>
+<dc:title xml:lang="es">Riesgo de tromboembolismo con agonistas del receptor de la trombopoyetina en pacientes adultos con trombocitopenia: revisión sistemática y metaanálisis de ensayos clínicos aleatorizados y controlados</dc:title>
+<dc:subject>^d14308^s22012</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d30967</dc:subject>
+<dc:subject>^d14306^s22016</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d52383^s22073</dc:subject>
+<dc:subject>^d14311^s22073</dc:subject>
+<dc:subject>^d52618^s22012</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d52618^s22016</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201512</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-154688</identifier>
+<setSpec>1130-1406</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Echinocandins: applied pharmacology</dc:title>
+<dc:description xml:lang="en">The echinocandins share pharmacodynamic properties, although there are some interesting differences in their pharmacokinetic behaviour in the clinical practice. They are not absorbed by the oral route. They have a somewhat special distribution in the organism, as some of them can reach high intracellular concentrations while, with some others, the concentration is reduced. They are highly bound to plasma proteins, thus it is recommended to administer a loading dose for anidulafungin and caspofungin, although this procedure is not yet clear with micafungin. Echinocandins are excreted via a non-microsomal metabolism, so the urinary concentration is very low. Some carrier proteins that take part in the biliary clearance process are probably involved in the interactions described with caspofungin and micafungin. These two drugs must be used with caution in patients with severely impaired hepatic function, while all of them can be used without special precautions when there is renal impairment or the patient requires renal replacement therapy (AU)</dc:description>
+<dc:creator>Azanza Perea, José Ramón</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Las equinocandinas comparten las propiedades farmacodinámicas pero presentan algunas diferencias en su comportamiento farmacocinético, cuestión de interés en la práctica asistencial. No se absorben por vía oral. Su distribución en el organismo es un tanto especial ya que alcanzan concentraciones intracelulares elevadas, aunque en alguno de los fármacos puede ser reducida. Se fijan en elevada proporción a proteínas plasmáticas, por lo que al menos en el caso de la anidulafungina y la caspofungina se recomienda la administración de una dosis de carga; es discutible que no se realice con la micafungina. Se eliminan a través del metabolismo no microsómico, por lo que la concentración urinaria es muy reducida. En el proceso de eliminación biliar participan algunas proteínas transportadoras que probablemente son el origen de las interacciones descritas con la caspofungina y la micafungina. Estos dos fármacos han de ser utilizados con precaución en pacientes con alteración grave de la función hepática, pero todos ellos pueden utilizarse sin precauciones especiales cuando existe insuficiencia renal o el paciente precisa la utilización de técnicas de depuración externa (AU)</dc:description>
+<dc:source>Rev Iberoam Micol;33(3): 140-144, jul.-sept. 2016. tab</dc:source>
+<dc:identifier>ibc-154688</dc:identifier>
+<dc:title xml:lang="es">Equinocandinas: aspectos aplicados de la farmacología</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d7438^s22066</dc:subject>
+<dc:subject>^d4421^s22054</dc:subject>
+<dc:subject>^d52786^s22078</dc:subject>
+<dc:subject>^d52786^s22079</dc:subject>
+<dc:subject>^d52786^s22002</dc:subject>
+<dc:subject>^d943^s22078</dc:subject>
+<dc:subject>^d943^s22079</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d943^s22073</dc:subject>
+<dc:subject>^d52786^s22073</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d52786^s29165</dc:subject>
+<dc:subject>^d4421^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201609</dc:date>
+</metadata>
+</record>
+</ibecs-document>

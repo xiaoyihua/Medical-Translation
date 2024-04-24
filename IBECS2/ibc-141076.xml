@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-141076</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Estimation of the number of individuals entitled to dependency benefits and of the associated cost of care in Spain for 2007-2045</dc:title>
+<dc:description xml:lang="en">Objective: To provide estimates of the number of dependent individuals per grade and level for the period 2007-2045 and the cost associated with the care of these individuals for the System for Promoting the Autonomy and Care of Dependent Persons [Sistema para la Autonomía y Atención a la Dependencia (SAAD)]. Methods: Based on the Disabilities, Independence and Dependency Situations Survey (2008) and the scale for the assessment of grades and levels of dependency, we applied a two-stage estimation procedure to project the number of dependent individuals. In the first stage, we calculated the probability of a person being dependent and entitled to benefits by using a logit model. In the second stage, using an ordered logit model, we calculated the probability of distinct grades and levels of dependency in dependent persons entitled to benefits. Subsequently, we calculated expenditure projections based on average cost per point scale by grade and level of dependency. Results: Our results suggest a higher incidence of situations of dependency in female beneficiaries than in male beneficiaries, with higher growth rates for almost all categories of grade and level between 2007 and 2045. We estimated that in 2045 there will be 1,592,798 beneficiaries of the SAAD (596,332 men and 996,466 women). Moreover, between 2007 and 2045 the cost of care for dependent people will be multiplied by 2.64 for male beneficiaries and by 2.89 for female beneficiaries, amounting to 41,926 million euros in 2045. Conclusions: The care of dependent persons is a major challenge for Spanish society both because of the number of persons that will require care and because of the greater economic cost involved. These findings should prompt a debate on how to fund services and benefits and how to ensure the sustainability of the system (AU)</dc:description>
+<dc:creator>Moral Arce, Ignacio</dc:creator>
+<dc:creator>Sosvilla Rivero, Simón</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Ofrecer una estimación de las personas dependientes por grado y nivel para el periodo 2007-2045 y del coste asociado a su atención en el Sistema para la Autonomía y Atención a la Dependencia (SAAD). Métodos: A partir de la Encuesta de Discapacidad, Autonomía personal y situaciones de Dependencia (2008), y del baremo de valoración de los grados y niveles de dependencia, aplicamos un procedimiento de estimación bietápico para las proyecciones de personas dependientes. En la primera etapa se calcula la probabilidad de que una persona sea o no dependiente con derecho a prestación mediante un modelo logit, mientras que en la segunda etapa se calcula (mediante un modelo logit ordenado) la probabilidad de que una persona, siendo dependiente con derecho a prestación, presente un determinado nivel y grado de dependencia. A continuación se ofrecen proyecciones de gasto en dependencia a partir de costes medios por punto de baremo según grado y nivel. Resultados: Se obtiene una mayor incidencia de las situaciones de dependencia en las beneficiarias mujeres que en los hombres, con tasas de crecimiento entre 2007 y 2045 más altas para casi todas las categorías de grado y nivel. Para 2045 estimamos que habrá 1.592.798 beneficiarios del SAAD (596.332 hombres y 996.466 mujeres). Asimismo, entre 2007 y 2045 el coste de atención a los beneficiarios hombres se multiplicaría por 2,64 y el de las mujeres dependientes por 2,89, ascendiendo en 2045 a 41.926 millones de euros. Conclusiones: La atención a las personas en situación de dependencia supone un importante reto para la sociedad española, por la cuantía de personas a cubrir y por el creciente esfuerzo económico que conlleva, lo cual debería abrir el debate sobre la manera más adecuada de financiar los servicios y prestaciones del SAAD y asegurar su sostenibilidad (AU)</dc:description>
+<dc:source>Gac Sanit;25(supl.2): 66-77, dic. 2011. tab, ilus, graf</dc:source>
+<dc:identifier>ibc-141076</dc:identifier>
+<dc:title xml:lang="es">Estimación de los beneficiarios de prestaciones de dependencia en España y del gasto asociado a su atención para 2007-2045</dc:title>
+<dc:subject>^d27830</dc:subject>
+<dc:subject>^d30935^s22083</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d212</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d13328</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d16648^s22066</dc:subject>
+<dc:subject>^d30935^s22011</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201112</dc:date>
+</metadata>
+</record>
+</ibecs-document>

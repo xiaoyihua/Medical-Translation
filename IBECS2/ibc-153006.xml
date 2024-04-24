@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-153006</identifier>
+<setSpec>1137-6821</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Inclusion of prehospital mortality statistics in severe trauma registries: a study of the influence of inclusion on trauma lethality rates and survival prediction</dc:title>
+<dc:description xml:lang="en">Objectives. To compare the frequency and characteristics of prehospital and hospital deaths and assess whether injury severity and age can predict mortality when prehospital deaths are included or excluded from total mortality. Methods. Descriptive analysis of a retrospective cohort of 918 patients with multiple injuries attended by emergency medical services in Navarre, Spain, in 2010&#150;2013. We analyzed prehospital and hospital deaths by cause of injuries and developed and compared the precision of logistic regression models to predict mortality. Results. Most deaths occurred before arrival at a hospital. Three quarters of prehospital deaths occurred in patients under the age of 65 years. When prehospital deaths were included in the analysis, the lethality rate after traffic accidents rose from 16% to 42%; lethality from firearm injuries rose from 13% to 70%. When the model using the new injury severity score and age as independent variables was asked to predict survival with and without data for deaths at the scene or during transfer to a hospital, the model&#146;s performance differed only slightly. Conclusions. Most deaths from injuries occur before patients reach a hospital. The main characteristics of prehospital and hospital deaths differ. Including data for prehospital deaths in regression models does not change survival prediction based on injury severity and age (AU)</dc:description>
+<dc:creator>Fortún Moral,  Mariano</dc:creator>
+<dc:creator>Ali Ali, Bismil</dc:creator>
+<dc:creator>Teijeira Álvarez, Rafael</dc:creator>
+<dc:creator>Montes Fernández, Luisa M</dc:creator>
+<dc:creator>Belzunegui Otano, Tomás</dc:creator>
+<dc:creator>Rey Pecharroman, José Miguel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Comparar la frecuencia y características de las muertes por traumatismo grave prehospitalarias y hospitalarias, así como conocer la capacidad de la gravedad de la lesión asociada a la edad para predecir la muerte y su variación según se incluyan o no las muertes prehospitalarias. Método. Estudio descriptivo, analítico de cohorte retrospectiva realizado en Navarra sobre 918 pacientes politraumatizados atendidos por los servicios médicos de emergencia durante 2010-2013. Se estudió la letalidad por causas y se modeló la predicción de la mortalidad a través de regresión logística para comparar la precisión de los modelos. Resultados. La mayoría de las muertes fueron prehospitalarias. Tres cuartas partes de las muertes ocurrieron en el ámbito prehospitalario en menores de 65 años. Al incorporar las muertes prehospitalarias las tasas de letalidad de los mecanismos relacionados con el tráfico pasaron del 16 al 42% y las producidas por armas del 13 al 70%. Al realizar la predicción del fallecimiento a través de la regresión logística tomando como variable independiente el NISS (New Injury Severity Score) y como variable de control la edad, existen mínimas variaciones si se compara el grupo de pacientes que llegan vivos al hospital con el de la suma de estos pacientes con los fallecidos in situ. Conclusión. Las muertes prehospitalarias constituyen la mayoría de las muertes por traumatismo y difieren en las características principales con los fallecimientos que se producen en el hospital. La incorporación de las muertes prehospitalarias no modifica la capacidad predictiva de mortalidad de un modelo de regresión logística que incluya la edad y el NISS (AU)</dc:description>
+<dc:source>Emergencias (Sant Vicenç dels Horts);28(3): 173-178, jun. 2016. tab, graf</dc:source>
+<dc:identifier>ibc-153006</dc:identifier>
+<dc:title xml:lang="es">La importancia de incluir las muertes prehospitalarias en los registros de traumatismo grave y su relación con la letalidad y la capacidad de predicción de la supervivencia</dc:title>
+<dc:subject>^d28632^s22066</dc:subject>
+<dc:subject>^d22947^s22047</dc:subject>
+<dc:subject>^d24901</dc:subject>
+<dc:subject>^d50246^s22083</dc:subject>
+<dc:subject>^d4707^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4713^s22083</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201606</dc:date>
+</metadata>
+</record>
+</ibecs-document>

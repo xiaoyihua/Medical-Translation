@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-102323</identifier>
+<setSpec>0212-1972</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The hospital as building</dc:title>
+<dc:description xml:lang="en">In buildings, we care about the comfort, spaces, lighting is no longer enough for a pleasant atmosphere in temperature, we do not smell bad, that does not contain harmful substances, ultimately that is healthy (AU)</dc:description>
+<dc:creator>López Ibor Jiménez, Miguel</dc:creator>
+<dc:creator>Pastor Pérez, Paulino</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En los edificios, nos preocupamos de la confortabilidad, de los espacios, de la iluminación, ya no es suficiente que un ambiente sea agradable en temperatura, queremos que no huela mal, que no contenga substancias nocivas, en definitiva que sea saludable (AU)</dc:description>
+<dc:source>Todo hosp;(266): 226-229, mayo-jun. 2010. ilus, tab</dc:source>
+<dc:identifier>ibc-102323</dc:identifier>
+<dc:title xml:lang="es">El hospital como edificio</dc:title>
+<dc:subject>^d6906^s22066</dc:subject>
+<dc:subject>^d8661^s22066</dc:subject>
+<dc:subject>^d1111</dc:subject>
+<dc:subject>^d1112^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201006</dc:date>
+</metadata>
+</record>
+</ibecs-document>

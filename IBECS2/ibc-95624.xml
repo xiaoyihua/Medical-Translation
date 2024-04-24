@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-95624</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Pharmaceutical expenditure among primary care physicians in the province of Cuenca (Spain)</dc:title>
+<dc:description xml:lang="en">Objective To determine the factors related to pharmaceutical expenditure per primary care physician in the province of Cuenca, which could allow public health authorities to take decisions to curb expenditure. Determining these factors could also be of interest to primary care physicians, specialists, health authorities, health economists, and health management researchers.Methods We performed a multiple linear regression analysis with three dependent variables to determine which factors explain variability in generic drug prescription, the referral rate, and pharmaceutical expenditure among primary care physicians.Results Not being a resident physician, practicing in a town with more than 10,000 people and having a large patient list had a negative impact on the percentage of generic drugs prescribed. Physicians using electronic medical records and with a high referral rate to specialized care prescribed fewer generic drugs. The two most important factors explaining pharmaceutical expenditure were having a large patient list and a high percentage of patients aged more than 65 years old. Expenditure was reduced by greater prescription of generic drugs and was increased by a larger proportion of elderly patients on the patient list.Conclusions After controlling for the size of the patient list, the proportion of elderly patients and other factors, the percentage of generic drugs prescribed was one of the most important factors explaining pharmaceutical expenditure in primary care physicians (AU)</dc:description>
+<dc:creator>Segura Benito, María Jesús</dc:creator>
+<dc:creator>Escribano Sotos, Francisco</dc:creator>
+<dc:creator>Moya Martínez, Pablo</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos El trabajo pretende determinar los elementos clave que definen el gasto farmacéutico por médico del Área de Salud de Cuenca (España). Conocerlos puede ser relevante para la política sanitaria, al tener información que permita tomar decisiones para incidir en la contención del gasto. También podría ser de interés para médicos de atención primaria, especialistas y autoridades sanitarias de Cuenca y de otras áreas de salud, y para investigadores en gestión sanitaria y economía de la salud. Métodos Se desarrolla un análisis de regresión lineal múltiple para tres variables dependientes con el fin de conocer qué características permiten explicar la variabilidad en la prescripción de genéricos, la tasa de derivación y el gasto farmacéutico de los médicos de atención primaria.Resultados No ser médico interno residente (MIR), ejercer en un municipio de más de 10.000 habitantes y con un cupo de gran tamaño, supuso un impacto negativo en el porcentaje de medicamentos genéricos prescritos. Los médicos que usan la historia clínica informatizada y derivan más a especializada, prescriben menos genéricos. Las dos variables más importantes para explicar el elevado gasto farmacéutico son el mayor tamaño del cupo y el alto porcentaje de pacientes mayores de 65 años. El mayor número de genéricos reducía el gasto, y el incremento en el porcentaje de pacientes mayores en el cupo lo aumentaba.Conclusiones Una de las variables que mejor explica el gasto farmacéutico es el porcentaje de genéricos prescritos, teniendo en cuenta que se controla por variables tan importantes como tamaño del cupo o porcentaje de pacientes de edad avanzada incluidos en él (AU)</dc:description>
+<dc:source>Gac Sanit;24(5): 391-396, sep. -oct. 2010. tab</dc:source>
+<dc:identifier>ibc-95624</dc:identifier>
+<dc:title xml:lang="es">Gasto farmacéutico de médicos de atención primaria del área de salud de Cuenca</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d11756^s22018</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4422^s22018</dc:subject>
+<dc:subject>^d30152^s22083</dc:subject>
+<dc:subject>^d11742^s22018</dc:subject>
+<dc:subject>^d30149^s22073</dc:subject>
+<dc:subject>^d6450^s22018</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201010</dc:date>
+</metadata>
+</record>
+</ibecs-document>

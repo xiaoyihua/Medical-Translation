@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-2340</identifier>
+<setSpec>0212-6567</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Validation of the Omron BF 300 monitor for measuring body fat by bioelectric impedance</dc:title>
+<dc:creator>Fernández Herranz, S</dc:creator>
+<dc:creator>Gómez de la Cámara, A</dc:creator>
+<dc:creator>Martín Moreno, V</dc:creator>
+<dc:creator>Gómez Gandoy, B</dc:creator>
+<dc:creator>Antoranz González, M. J</dc:creator>
+<dc:creator>Oya Otero, M. de E</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Objetivos. Valorar la precisión del monitor de grasa corporal por impedancia bioeléctrica OMRON BF 300 y validar su medición del porcentaje de grasa corporal ( por cientoGC) frente a la ecuación de Siri. Diseño. Estudio descriptivo, transversal. Emplazamiento. Atención primaria. Centros de Salud Coronel de Palma y San Fernando, Móstoles. Participantes. En la valoración de la precisión del monitor participaron 88 personas y 91 en la validación. Mediciones y resultados principales. Las determinaciones de por cientoGC se realizaron por triplicado, anotándose la media. La precisión se evaluó mediante el coeficiente de correlación intraclase (CCI) y el coeficiente de variación (CV). La validez, mediante el error técnico, el CCI y el método de BlandAltman. En la ecuación de Siri la densidad corporal se calculó con la ecuación de Durnin-Womersley. Precisión: el CCI fue de 0,999 y el CV de 0,4 ñ 0,03. Validación: la diferencia de por cientoGC monitor (26,6 ñ 9,1 por ciento) - ecuación de Siri (27,8 ñ 8,2 por ciento) fue de -1,27 por ciento (p 0,95 y CV bajo) y validación (error técnico excelente, CCI &gt; 0,75 y diferencias clínicamente aceptables) y supone una alternativa válida a los pliegues cutáneos en la valoración nutricional del paciente (AU)</dc:description>
+<dc:source>Aten Primaria;28(3): 174-181, jul. 2001.</dc:source>
+<dc:identifier>ibc-2340</dc:identifier>
+<dc:title xml:lang="es">Validación del monitor de medición de la grasa corporal por impedancia bioeléctrica Omron BF 300</dc:title>
+<dc:subject>^d30743</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d1848</dc:subject>
+<dc:subject>^d280</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200107</dc:date>
+</metadata>
+</record>
+</ibecs-document>

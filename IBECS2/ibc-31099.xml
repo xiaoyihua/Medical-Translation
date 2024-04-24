@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-31099</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">A pharmacoeconomic study of in-hospital treatment against community-acquired pneumonia</dc:title>
+<dc:creator>Rodríguez Morradan, B</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Arán Ediciones, S.A.</dc:publisher>
+<dc:description xml:lang="es">Introducción: El sistema informatizado de dispensación de medicamentos en dosis unitarias permite conocer el coste farmacéutico/GRD y Servicio Clínico,  realizar estudios farmacoeconómicos entre hospitales y analizar desviaciones. Métodos: Se realizó un estudio retrospectivo, de minimización de costes que analiza y compara la prescripción de diversos antibióticos y broncodilatadores y sus costes en los GRD's 89 y 90 y sus costes/estancia en pacientes ingresados en los Servicios de Medicina Interna de dos hospitales de las áreas 6 (HUPH) y 9 (SVO) en la CAM. El analisis estadístico se realiza utilizando el test de Kolmogorov-Smirnov, pruebas t de Student, Mann-Whitney y el método de mínimos cuadrados. Resultados y conclusiones: Las muestras de pacientes son similares, sin diferencias significativas en situación clínica al ingreso y porcentaje de curación. No hay diferencias significativas respecto a utilización de antibióticos, excepto claritromicina y ceftriaxona más utilizada en SVO (p= 0,001 y p= 0,003 respectivamente) y levofloxacino más prescrito en HUPH (p&lt; 0,001). El coste de la antibioterapia, para iguales resultados medidos por índice de curación y estancia media, fue significativamente mayor en HUPH (113,57 ) que en SVO (78,32 ), relacionándose con una mayor utilización de levofloxacino, no encontrarse ninguna relación estadística con la situación clínica que justifique su elección. No hay diferencias en el uso de broncoinhaladores; estos junto a antibióticos suponen el 82,6 por ciento del coste en HUPH y 72 por ciento en SVO (AU)</dc:description>
+<dc:source>Farm Hosp;28(1): 29-35, ene. 2004.</dc:source>
+<dc:identifier>ibc-31099</dc:identifier>
+<dc:title xml:lang="es">Estudio farmacoeconómico del tratamiento hospitalario de neumonía adquirida en la comunidad</dc:title>
+<dc:subject>^d31549</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d2021</dc:subject>
+<dc:subject>^d8677</dc:subject>
+<dc:subject>^d31403</dc:subject>
+<dc:subject>^d6940</dc:subject>
+<dc:subject>^d3378</dc:subject>
+<dc:subject>^d4422</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d911</dc:subject>
+<dc:subject>^d6916</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d4419</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d30152</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d11443</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200401</dc:date>
+</metadata>
+</record>
+</ibecs-document>

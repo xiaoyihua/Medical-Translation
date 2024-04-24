@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-148421</identifier>
+<setSpec>0009-739X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Hospital variability in postoperative mortality after rectal cancer surgery in the Spanish association of surgeons project: The impact of hospital volume</dc:title>
+<dc:description xml:lang="en">Objective: This multicentre observational study examines variation between hospitals in postoperative mortality after elective surgery in the Rectal Cancer Project of the Spanish Society of Surgeons and explores whether hospital volume and patient characteristics contribute to any variation between hospitals. Methods: Hospital variation was quantified using a multilevel approach on prospective data derived from the multicentre database of all rectal adenocarcinomas operated by an anterior resection or an abdominoperineal excision at 84 surgical departments from 2006 to 2013. The following variables were included in the analysis; demographics, American Society of Anaesthesiologists classification, tumour location and stage, administration of neoadjuvant treatment, and annual volume of surgical procedures. Results: A total of 9809 consecutive patients were included. The rate of 30-day postoperative mortality was 1.8% Stratified by annual surgical volume hospitals varied from 1.4 to 2.0 in 30-day mortality. In the multilevel regression analysis, male gender (OR 1.623 [1.143; 2.348]; P&lt;.008), increased age (OR: 5.811 [3.479; 10.087]; P&lt;.001), and ASA score (OR 10.046 [3.390; 43.185]; P&lt;.001) were associated with 30-day mortality. However, annual surgical volume was not associated with mortality (OR 1.309 [0.483; 4.238];P=.619). Besides, there was a statistically significant variation in mortality between all departments (MOR 1.588 [1.293; 2.015]; P&lt;.001). Conclusion: Postoperative mortality varies significantly among hospitals included in the project and this difference cannot be attributed to the annual surgical volume (AU)</dc:description>
+<dc:creator>Biondo, Sebastiano</dc:creator>
+<dc:creator>Codina, Antonio</dc:creator>
+<dc:creator>Roig, José Vicente</dc:creator>
+<dc:creator>Ciga, Miguel Á</dc:creator>
+<dc:creator>Espín, Eloy</dc:creator>
+<dc:creator>Ortiz, Héctor</dc:creator>
+<dc:creator>Enríquez-Navascués, José M</dc:creator>
+<dc:creator>o García-Granero, Eduard</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: El objetivo de este estudio observacional multicéntrico ha sido examinar la variación de la mortalidad postoperatoria de la cirugía electiva entre los hospitales que participan en el Proyecto del Cáncer de Recto de la Asociación Española de Cirujanos, y evaluar si el volumen quirúrgico anual del hospital y las características de los pacientes contribuyen a la variación entre los hospitales. Métodos: La variación interhospitalaria se cuantificó mediante un estudio multinivel realizado con una base de datos prospectiva de los pacientes operados por un adenocarcinoma de recto con una resección anterior y una amputación abdominoperineal en 84 hospitales, entre marzo de 2006 y diciembre de 2013. En los análisis se incluyeron: las variables demográficas, la clasificación ASA, la localización y el estadio del tumor, la administración de tratamiento neoadyuvante y el volumen quirúrgico anual del hospital. Resultados: Se analizó a 9.809 pacientes operados consecutivamente. La tasa de mortalidad operatoria fue 1,8%. Los porcentajes de mortalidad de los hospitales estratificados por el volumen quirúrgico anual variaron entre 1,4 y 2,0%. En el análisis de regresión multinivel, el sexo masculino (OR 1,623 [1,143; 2,348]; p &lt; 0,008), la edad avanzada (OR 5,811 [3,479; 10,087)]; p &lt; 0,001) y la puntuación del ASA (OR 10,046 [3,390; 43,185]; p &lt; 0,001) se asociaron con la mortalidad a los 30 días de la operación. Sin embargo, el volumen quirúrgico anual del hospital no se asoció con la mortalidad (OR 1,309 [0,483; 4,238]; p = 0,619). Además, se observó una variación significativa de la mortalidad entre los hospitales (MOR 1,588 [1,293; 2,015]; p &lt; 0,001). Conclusión:La mortalidad operatoria varía de forma estadísticamente significativa entre los hospitales incluidos en el proyecto, y esta diferencia no se puede atribuir al volumen quirúrgico anual (AU)</dc:description>
+<dc:source>Cir. Esp. (Ed. impr.);94(1): 22-30, ene. 2016. ilus, graf</dc:source>
+<dc:identifier>ibc-148421</dc:identifier>
+<dc:title xml:lang="es">Variabilidad interhospitalaria de la mortalidad postoperatoria en el proyecto del cáncer de recto de la Asociación Española de Cirujanos. La influencia del volumen quirúrgico</dc:title>
+<dc:subject>^d12424^s22047</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d30047</dc:subject>
+<dc:subject>^d11622^s22047</dc:subject>
+<dc:subject>^d13886^s22047</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29640</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201601</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-85111</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Variation in Protein Expression Depending on the Severity of Sleep Apnoea-Hypopnoea Syndrome</dc:title>
+<dc:description xml:lang="en">ObjectiveA prospective study with a consecutive sample and a control group to determine whether protein expression in patients with sleep apnoea-hypopnoea syndrome (SAHS) is different from that of the control group (IAH &amp;#8804;5).Patients and methodsA total of 32 patients aged between 35 and 60 years who had a polysomnograph performed were included. Patients with an acute or chronic were excluded. The first dimension of the proteomic study was carried out on IPG strips (18cm, pH 4&#150;7) and the second on SDS-PAGE gels in triplicate for each group. The gels were stained with SYPRO-Ruby (Bio-Rad®), the images obtained with an FX-Imager laser scanner and the spots were analysed using ProteomWeaver v. 4.0 (Bio-Rad®) software. Significant changes between the gels were analysed by replicates and separately, being considered a significant change if the relative intensity of the spots was three times higher or lower than that of the control and if it was observed in 2 of the 3 replicates of each group, with a coefficient of variation of &lt;20%.ResultsThe patients were divided into 8 subjects per group (control, mild, moderate and severe). The comparison of the gels showed significant differences between the control group and the 3 clinical groups, with significant over-expression being observed in 3 spots, and under-expression in 7 spots in the control group.ConclusionThere are significant changes in protein expression between a control group and patients in different stages of disease. The proteomic study can identify biomarkers associated with the diagnosis and severity of the SAHS(AU)</dc:description>
+<dc:creator>Gómez-Chaparro Moreno, José Luis</dc:creator>
+<dc:creator>López-Barea, Juan</dc:creator>
+<dc:creator>Jurado Gámez, Bernabé</dc:creator>
+<dc:creator>Ruiz Laguna, Julia</dc:creator>
+<dc:creator>Muñoz Cabrera, Luis</dc:creator>
+<dc:creator>Cosano Povedano, Andrés</dc:creator>
+<dc:creator>Muñoz Calero, María</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">ObjetivoEstudio prospectivo con muestreo consecutivo y grupo control para determinar si la expresión proteica en pacientes con SAHS es diferente a la de un grupo control (IAH &amp;#8804;5).Pacientes y métodosFueron incluidos 32 pacientes, entre 35 y 60 años, a los que se les realizó una polisomnografía. Fueron excluidos los sujetos con enfermedad aguda o crónica. La primera dimensión del estudio proteómico se realizó en tiras IPG (18cm, pH 4&#150;7) y, la segunda, en geles SDS-PAGE por triplicado para cada grupo. Los geles se tiñeron con SYPRO-Ruby (Bio-Rad®), se obtuvieron las imágenes con un escáner láser FX-Imager, y el análisis de los spots se realizó con el software ProteomWeaver v4.0 (Bio-Rad®). Se analizaron los cambios significativos entre los geles agrupados por réplicas y por separado, considerándose un cambio significativo si la intensidad relativa en los spots fue superior o inferior en 3 veces a la del control y se observó en 2 de las 3 réplicas de cada grupo con un coeficiente de variación &lt;20%.ResultadosLos pacientes fueron divididos en 8 sujetos por grupo (control, leve, moderado y grave). La comparación de los geles constató diferencias significativas entre el grupo control y los 3 grupos clínicos, observándose 3 spots con sobreexpresión significativa y 7 spots subexpresados respecto al grupo control.ConclusiónExisten cambios significativos en la expresión protéica entre un grupo control y pacientes en distintos estadios de enfermedad. El estudio proteómico puede identificar biomarcadores relacionados con el diagnóstico y gravedad del SAHS(AU)</dc:description>
+<dc:source>Arch Bronconeumol;46(6): 288-293, jun. 2010. tab, graf, ilus</dc:source>
+<dc:identifier>ibc-85111</dc:identifier>
+<dc:title xml:lang="es">Variación de la expresión proteica en función de la gravedad del síndrome de apnea-hipopnea del sueño</dc:title>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d1824^s22039</dc:subject>
+<dc:subject>^d37630^s22039</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d34202^s22016</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d37630^s22045</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d34202^s22053</dc:subject>
+<dc:subject>^d34202^s22067</dc:subject>
+<dc:subject>^d30611^s22074</dc:subject>
+<dc:subject>^d1824^s22074</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d30611^s22045</dc:subject>
+<dc:subject>^d1824^s22045</dc:subject>
+<dc:subject>^d30611^s22039</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201006</dc:date>
+</metadata>
+</record>
+</ibecs-document>

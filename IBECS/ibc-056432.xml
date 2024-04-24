@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-056432</identifier>
+<setSpec>1696-1641</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Establishing the milestones of e-Health: asynchronous telemedicine based on DACS or Store-and-Forward 2.0</dc:title>
+<dc:description xml:lang="en">Traditionally, telehealth services have been based on providing live teleconsultations among health professionals working from remote locations. This modality of telehealth not only requires a sophisticated infrastructure but also an elaborate scheduling system and appropriate funding mechanisms to entice busy specialist to shift their attention from their physically present patients to those who need them at a distance.         The most recent and extensive reviews of evidence have concluded that this technology is ineffective to reduce the demand of specialized consultations and they recommend against extending it.         In this article, we discuss the evolution of what is known as Store-and-Forward (S&amp;F) telehealth and outline ways in which new uses for an existing technology could yield a potential solution to the current challenges created by shortage of specialists and the lack of resources to meet the increasing demand for health services. We call this way asynchronous telemedicine or S&amp;F 2.0</dc:description>
+<dc:creator>Lorca Gómez, Julio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Tradicionalmente, los servicios de telesalud han estado basados en la provisión de teleconsultas a tiempo real entre profesionales de salud que trabajan desde posiciones remotas. Esta modalidad telemédica requiere no sólo una infraestructura sofisticada, sino también un complicado sistema de programación de citas y mecanismos de incentivación adecuados que motiven a especialistas muy ocupados con la atención física que prestan a sus pacientes, para atender además a aquellos otros que lo necesitan en la distancia.         Las revisiones más recientes y extensas de evidencia concluyen que esta tecnología es ineficaz para reducir la demanda de consultas especializadas y desaconsejan su extensión.         En este artículo discutiremos la evolución de lo que se conoce como telemedicina Store-and-Forward (S&amp;F) y otras formas asíncronas de atención en las que nuevos usos de tecnologías ya existentes podrían representar una solución potencial para los desafíos crecientes creados por la escasez de especialistas y la carencia de recursos suficientes para satisfacer la cada vez mayor demanda de atención. A este modelo lo llamamos telemedicina asíncrona o S&amp;F 2.0</dc:description>
+<dc:source>Rev. adm. sanit. siglo XXI;5(3): 459-479, jul. 2007. ilus</dc:source>
+<dc:identifier>ibc-056432</dc:identifier>
+<dc:title xml:lang="es">Asentando los pilares de la e-Salud: telemedicina asíncrona basada en DACS o Store-and-Forward 2.0</dc:title>
+<dc:subject>^d5932^s22045</dc:subject>
+<dc:subject>^d30481^s22049</dc:subject>
+<dc:subject>^d32630^s22066</dc:subject>
+<dc:subject>^d32630^s22045</dc:subject>
+<dc:subject>^d30481^s22048</dc:subject>
+<dc:subject>^d32594^s22066</dc:subject>
+<dc:subject>^d32594^s22045</dc:subject>
+<dc:subject>^d30481^s22074</dc:subject>
+<dc:subject>^d32594^s22048</dc:subject>
+<dc:subject>^d19243^s22041</dc:subject>
+<dc:subject>^d30481^s22066</dc:subject>
+<dc:subject>^d15145^s22039</dc:subject>
+<dc:subject>^d22412^s22066</dc:subject>
+<dc:subject>^d32594^s22074</dc:subject>
+<dc:subject>^d32594^s22041</dc:subject>
+<dc:subject>^d19243^s22048</dc:subject>
+<dc:subject>^d19243^s22049</dc:subject>
+<dc:subject>^d19243^s22066</dc:subject>
+<dc:subject>^d19243^s22045</dc:subject>
+<dc:subject>^d19245</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200707</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-134825</identifier>
+<setSpec>2254-2884</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Dose evaluation in dialysis through ionic dialysance</dc:title>
+<dc:description xml:lang="en">One of the main determinants of survival in patients undergoing chronic hemodialysis is the dialysis dose, the formulas commonly used are those based on the kinetic model of the urea, however due to the need for at least two blood samples, its applicability at all dialysis sessions is quite low. Currently almost all dialysis monitors are equipped with ionic dialysance sensors, allowing to indirectly and at real-time to get information about urea clearance in all dialysis sessions without obtaining blood samples. In order to evaluate the correlation between dialysis dose measured by ionic dialysance and those measured by urea kinetic equation by Kt/V second generation according to Daugirdas, we designed a crosssectional study involving 28 prevalent patients in our dialysis unit, we obtained affiliation data, dialysis dose (clearance, KT, KT/V) by ionic dialysance and KT/V by Daugirdas formula. Average KT/V by ionic dialysance was 0.29 ± 1.79 KT/ V and 0.35 ± 1.95 Daugirdas. The statistical analysis showed a significant correlation between both methods (R2 = 0.86 p &lt;0.001). With the results of this study we conclude that ionic dialysance is a useful tool to assess the dose of dialysis in our patients and it use should be generalized in all dialysis units is showed up by unwillingness among hypertensive patients refractory, rather than an information problem. For this reason, a nursing intervention focused on solving the problem, is necessary (AU)</dc:description>
+<dc:creator>Sánchez Rosario, Laura</dc:creator>
+<dc:creator>Hidalgo Moreno, Nuria</dc:creator>
+<dc:creator>García Collazos, Raquel</dc:creator>
+<dc:creator>Moreno Fernández, Lourdes</dc:creator>
+<dc:creator>Diago Reolid, Alba</dc:creator>
+<dc:creator>Reque Santivañez, Javier</dc:creator>
+<dc:creator>Carrasco Ándres, Sergio</dc:creator>
+<dc:creator>Caballero Barba, Rosa</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Uno de los principales determinantes de la supervivencia de los pacientes en hemodiálisis es la dosis de la misma, las fórmulas comúnmente utilizadas son aquellas basadas en el modelo cinético de la urea. Sin embargo, debido a la necesidad de al menos dos muestras sanguíneas, su aplicabilidad a todas las sesiones de diálisis es bastante escasa. Actualmente casi todos los monitores de diálisis están provistos de sensores de dialisancia iónica, lo que nos permite obtener de forma indirecta y en tiempo real, información acerca del aclaramiento de urea en todas las sesiones de diálisis y sin necesidad de obtener muestras sanguíneas. Con el objetivo de evaluar la correlación que existe entre la dosis de diálisis medida por dialisancia iónica y aquella medida por cinética de Urea mediante la ecuación de KT/V monocompartimental de segunda generación según Daugirdas, diseñamos un estudio transversal que incluye 28 pacientes prevalentes de nuestra unidad de diálisis, obtuvimos datos de dosis de diálisis (aclaramiento, KT, KT/V) por dialisancia iónica y el KT/V según fórmula de Daugirdas de segunda generación. La media de KT/V por dialisancia iónica fue de 1.79 ± 0.29 del KT/V según Daugirdas de 1.95 ± 0.35. En el análisis estadístico encontramos una importante correlación entre ambos métodos (R2 = 0.86 p&lt; 0.001). Con los resultados de este estudio concluimos que la dialisancia iónica es una técnica útil para valorar la dosis de diálisis en nuestros pacientes y su uso debería generalizarse en las distintas unidades de diálisis (AU)</dc:description>
+<dc:source>Enferm. nefrol;18(1): 19-22, ene.-mar. 2015. tab</dc:source>
+<dc:identifier>ibc-134825</dc:identifier>
+<dc:title xml:lang="es">Valoración de la dosis de diálisis mediante dialisancia iónica</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d29407^s22045</dc:subject>
+<dc:subject>^d7645^s22073</dc:subject>
+<dc:subject>^d50497^s22067</dc:subject>
+<dc:subject>^d6587</dc:subject>
+<dc:subject>^d23606^s22000</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d14907^s22050</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201503</dc:date>
+</metadata>
+</record>
+</ibecs-document>

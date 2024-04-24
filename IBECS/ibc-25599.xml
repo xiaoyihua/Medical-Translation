@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-25599</identifier>
+<setSpec>0213-4853</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Validation of the translation to Catalan and Spanish of cognitive evoked potential N400</dc:title>
+<dc:creator>Rigau, E</dc:creator>
+<dc:creator>Gironell, A</dc:creator>
+<dc:creator>Crusat, M</dc:creator>
+<dc:creator>Kulisevsky, J</dc:creator>
+<dc:creator>Velo, E</dc:creator>
+<dc:creator>García-Sánchez, C</dc:creator>
+<dc:creator>García-Nonell, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Grupo Ars XXI de Comunicación, S.A.</dc:publisher>
+<dc:description xml:lang="es">Introducción: El potencial evocado cognitivo N400 permite una valoración objetiva del procesamiento verbal semántico. Se ha postulado su utilidad en el estudio del deterioro cognitivo, habiéndose correlacionado con funciones atencionales, mnésicas y de dominancia hemisférica. El presente estudio intenta validar la traducción y adaptación a los idiomas catalán y castellano del paradigma original en inglés.Método: Participaron en el estudio 16 voluntarios sanos de sexo masculino con idioma materno catalán y 16 voluntarios con idioma materno castellano. Se administraron mediante auriculares 3 bloques de 50 frases (4-9 palabras). El 50 por ciento de las frases contenían la última palabra incongruente.El inicio de esta palabra era el marcador del promediado del electroencefalograma (EEG). Derivaciones EEG: Fz, Cz, Pz, C3, C4, T3, T4 con referencia biauricular. Se valoró la amplitud y latencia del potencial obtenido después de la sustracción del promediado EEG de las frases congruentes e incongruentes.Se aplicó un test de la t de Student para una sola muestra respecto al potencial original.Resultados: La amplitud y latencia del potencial obtenido para los idiomas catalán y castellano no resultaron significativamente diferentes respecto al potencial original. El potencial de mayor amplitud se obtuvo en Cz. Amplitud media: idioma catalán, 5,3 ñ 2,3 µV (intervalo de confianza [IC] 95 por ciento para la diferencia: -0,39 ñ2,12 µV); idioma castellano, 5,2 ñ 2,3 µV (IC 95 por ciento para la diferencia: -0,43 ñ2,32 µV).Conclusión: Las versiones catalana y castellana del potencial N400 ofrecen la posibilidad de usar un instrumento objetivo para el estudio del lenguaje en el campo de las neurociencias (AU)</dc:description>
+<dc:source>Neurologia;18(6): 310-317, jul. 2003.</dc:source>
+<dc:identifier>ibc-25599</dc:identifier>
+<dc:title xml:lang="es">Validación de la traducción a los idiomas catalán y castellano del potencial evocado cognitivo N400</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d7980</dc:subject>
+<dc:subject>^d4641</dc:subject>
+<dc:subject>^d5168</dc:subject>
+<dc:subject>^d3102</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200307</dc:date>
+</metadata>
+</record>
+</ibecs-document>

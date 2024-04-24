@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-63061</identifier>
+<setSpec>1695-4033</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:description xml:lang="en">Objective: To analyze the changes in respiratory parameters in a Servoi ventilator with heliox. Material and methods: In vitro study with a Servoi (Maquet) ventilator in volume controlled (VC), pressure controlled (PC) and volume control regulated by pressure (VCPR) modes connected to an artificial lung. A heliox tank with a fixed concentration of helium 70 % and oxygen 30 % was connected to the air inlet of the ventilator. The ventilator was set in VC mode with tidal volumes of 30, 50, 100, 250 and 500 ml; in PC mode with pressure of 20 and 30 cmH2O and in VCPR mode with tidal volume of 150 ml. In each case FiO2 of 21, 30, 40, 50, 60, 70, 80, 90 and 100 % was used. The FiO2, inspired and expired tidal volume and inspiratory pressure measured by the ventilator and a pitot spirometer (Datex_S5) were compared. Results: In VC and VCPR modes the increase in helium produced a progressive decrease in the pressure needed to administrate the set volume. Heliox also produced a decrease in the tidal volume measured by the spirometer and the tidal expired volume measured by the respirator. In PC mode, heliox produced a progressive increase in the inspired tidal volume, increasing the differences between inspired and expired tidal volumes. Conclusions: Heliox used with Servoi ventilator produces a decrease in inspiratory pressures in VC and VCPR modes, and an increase in inspiratory tidal volume in PC mode. In all modes heliox reduced the expired tidal volume measured by the ventilator and the spirometer. These changes should be borne in mind if heliox is used with this ventilator (AU)</dc:description>
+<dc:creator>Urbano Villaescusa, J</dc:creator>
+<dc:creator>Mencía Bartolomé, S</dc:creator>
+<dc:creator>Cidoncha Escobar, E</dc:creator>
+<dc:creator>Santiago Lozano, M. J</dc:creator>
+<dc:creator>Bellón Cano, J. M</dc:creator>
+<dc:creator>López-Herce Cid, J</dc:creator>
+<dc:creator>Castillo Peral, J. del</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Analizar las modificaciones de los parámetros en el respirador Servoi con distintas concentraciones de héliox. Material y métodos: Estudio experimental en el que se utilizó un respirador Servoi (Maquet) en modalidades de volumen control (VC), presión control (PC) y volumen controlado regulado por presión (VCRP) conectado a un pulmón de artificial. El héliox se administró mediante una bombona con el 70 % de helio y el 30 % de oxígeno conectada a la entrada de aire del respirador. Se programó el respirador en VC con volúmenes corrientes de 30, 50, 100, 250 y 500 ml, en PC con presión de 20 y 30 cmH2O, y en VCRP con volumen corriente de 150 ml. En cada modalidad se programó una FiO2 de 21, 30, 40, 50, 60, 70, 80, 90 y 100 % y se comparó el volumen corriente inspirado, el espirado y la presión inspiratoria pico medidas por el respirador y por un espirómetro colocado entre la tubuladura y el pulmón de prueba y conectado a un monitor Datex_S5. Resultados: En modalidad de VC y VCRP el aumento de la concentración de helio produjo una disminución progresiva del pico de presión necesario para administrar el volumen programado y una disminución en el volumen corriente medido por el espirómetro y el volumen espirado medido por el respirador. En modalidad de PC el héliox produjo un aumento progresivo del volumen corriente inspirado con incremento en las diferencias entre el volumen corriente inspirado y el espirado. Conclusiones: La administración de héliox en el respirador Servoi produce una disminución de las presiones inspiratorias en las modalidades de VC y VCRP y un aumento del volumen corriente inspirado en la modalidad de PC. En todas las modalidades produce una falsa disminución en el volumen corriente espirado medido por el respirador y el espirómetro. Es necesario tener en cuenta estas alteraciones si se utiliza héliox con este respirador (AU)</dc:description>
+<dc:source>An Pediatr (Barc);68(4): 336-341, abr. 2008. ilus, tab</dc:source>
+<dc:identifier>ibc-63061</dc:identifier>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d6520^s22079</dc:subject>
+<dc:subject>^d12552^s22067</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23699</dc:subject>
+<dc:subject>^d12541^s22045</dc:subject>
+<dc:subject>^d24402^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200804</dc:date>
+</metadata>
+</record>
+</ibecs-document>

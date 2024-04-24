@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-125559</identifier>
+<setSpec>1887-8571</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Validation in-house and uncertainty estimation by recovery assays in fat gravimetric determination in canned foods of combat rations  Spanish Army</dc:title>
+<dc:description xml:lang="en">Objectives: Validation in-house and estimation of the uncertainty through recovery assays in determination of fat in canned foods of combat rations by gravimetríc using the information generated in the validation process. Material and methods: Fat determination is carried out by gravimetríc, previously hydrolyzed with hydrochloric acid and extraction of fat with ether of petroleum 40-60 º, by means of Soxtec System Tecator. Representative matrix and concentrations of the future routine samples are analyzed (low, medium, high) by using a nested design of three factors. The trueness of the method is evaluated by estimating the proportional bias starting from the recovery assays. The uncertainty estimate is carried out by applying the propagation law of errors, that contains terms of uncertainty of precision, recovery and standard purity. The expanded uncertainty is obtained applying a coverage factor K=2 (confidence level of 95%). Results: The accuracy of the method can be considered good. Fat recoveries are obtained between 0,95 and 1,01 for the three concentration levels. The percentages of relative expanded uncertainty that are declared for each concentration level of fat in the samples of routines are the following ones: 0,50% (17,64%); 0,50-1,00% (13,09%); 1,00-16,55% (6,62%); 16,55-35,14% (6,00%); 35,14-50% (7,00%). Conclusions: The estimated uncertainty is carried out by using the information generated during the proportional bias estimate process, and it can be applied to the future routine samples analysis by this analytic method (AU)</dc:description>
+<dc:creator>Pérez Grana, R</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Validación in-house y estimación de la incertidumbre mediante ensayos de recuperación en la determinación de grasa en conservas de raciones de combate, utilizando la información generada en el proceso de validación. Material y métodos: La determinación de la grasa se realiza por gravimetría, previa hidrólisis con ácido clorhídrico y extracción de la grasa con éter de petróleo 40-60 º, mediante el sistema Soxtec System Tecator. Se analizan matrices y concentraciones (baja, media y alta) representativas de las muestras de rutina utilizando un diseño anidado de tres factores. La veracidad del método se evalúa estimando el sesgo proporcional  a partir de los ensayos de recuperación. La estimación de la incertidumbre se realiza aplicando la ley de propagación de la incertidumbre, agrupando términos relativos de incertidumbre de precisión, recuperación y pureza del estándar. La incertidumbre expandida se obtiene aplicando un factor de cobertura K=2 (nivel de confianza del 95%). Resultados: Se obtienen recuperaciones medias de grasa entre 0,95 y el 1,01 en tres niveles de concentración, por lo que la exactitud del método se considera buena. Los porcentajes de incertidumbre expandida relativa que se declaran para cada nivel de concentración de grasa son los siguientes: 0,50% (17,64%); 0,5-1,00% (13,09%); 1,00-16,55% (6,62%); 16,55-35,14% (6,00%); 35,14-50% (7,00%). Conclusiones: La incertidumbre se estima utilizando la información generada durante el proceso de estimación del sesgo proporcional y puede aplicarse al análisis de futuras muestras de rutina con este método analítico (AU)</dc:description>
+<dc:source>Sanid. mil;70(2): 88-94, abr.-jun. 2014. tab, graf</dc:source>
+<dc:identifier>ibc-125559</dc:identifier>
+<dc:title xml:lang="es">Validación in-house y determinación de grasa por gravimetría en conservas de raciones de combate del Ejército de Tierra</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d51882^s22045</dc:subject>
+<dc:subject>^d53802^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24468</dc:subject>
+<dc:subject>^d50323</dc:subject>
+<dc:subject>^d51708</dc:subject>
+<dc:subject>^d23101^s22002</dc:subject>
+<dc:subject>^d5641^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201406</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-93177</identifier>
+<setSpec>1575-0922</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Centile values for serum lipids in Colombian adolescents</dc:title>
+<dc:description xml:lang="en">Objective: To assess age- and sex-specific percentile baseline data for total cholesterol (TC),triglycerides (TG), and high-density lipoprotein cholesterol (HDL-C) in Colombian children and adolescents aged 10 to 17 years. Patients and Methods: A cross-sectional, descriptive study was conducted on 1,773 children and adolescents. Each participant underwent a fasting measurement to quantify TC, HDL-C, and TG levels using enzymatic-colorimetric methods. Smoothed age- and sex-specific 5th, 25th,50th, 75th, 90th and 95th percentile values where derived using LMS regression (Least MeanSquare) using the statistical package Growth Analyzer. Overall, males had lower serum TC and TG levels as compared to females. P95 of TG and TC was higher in males aged 10 to 14 years as compared to females, while HDL-C levels were similar in both sexes. Conclusions: Percentile values will help classify children and adolescents as compared to other populations based on this health indicator (AU)</dc:description>
+<dc:creator>Mosquera Escudero, Mildrey</dc:creator>
+<dc:creator>Ramírez-Vélez, Robinson</dc:creator>
+<dc:creator>Guillermo Ortega, José</dc:creator>
+<dc:creator>Aguilar de plata, Ana Cecilia</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo Determinar los valores por edad y sexo de los lípidos séricos colesterol total (CT), triglicéridos (TG), y colesterol de lipoproteínas de alta densidad (c-HDL) de niños y adolescentes de 10 a 17 años de Colombia. Material y métodos Estudio descriptivo de corte transversal en 1.773 niños y adolescentes. A cada participante se le realizó una medición en ayunas para cuantificar los niveles de CT, c-HDL y TG utilizando métodos enzimático-colorimétricos. Se calcularon centiles a partir de la regresión LMS por edad y sexo p5, p25, p50, p75, p90 y p95 con el método de los Least Mean squares (LMS, &#145;mínimos cuadrados&#146;) por curvas centiles que representan la asimetría, la mediana y la variabilidad utilizando el paquete estadístico Growth Analyzer.Resultados En general, los hombres presentan menores valores de CT y TG séricos que las mujeres. El p95 de los TG y CT en los hombres de las edades de 10 a 14 años fue mayor que en las mujeres, mientras que los niveles de c-HDL fueron similares en ambos sexos y edades. Conclusiones La obtención de valores centiles ayudará a clasificar los niños y adolescentes con respecto a otras poblaciones en función de este indicador de salud (AU)</dc:description>
+<dc:source>Endocrinol Nutr;58(8): 395-400, oct. 2011. ilus, tab</dc:source>
+<dc:identifier>ibc-93177</dc:identifier>
+<dc:title xml:lang="es">Centiles de lípidos séricos en adolescentes de Colombia</dc:title>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d8230^s22062</dc:subject>
+<dc:subject>^d22182</dc:subject>
+<dc:subject>^d50271</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d3137</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d23101</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d14679^s22062</dc:subject>
+<dc:subject>^d2834^s22062</dc:subject>
+<dc:subject>^d8250^s22062</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201110</dc:date>
+</metadata>
+</record>
+</ibecs-document>

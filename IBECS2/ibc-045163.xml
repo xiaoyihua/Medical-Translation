@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-045163</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Comparison of maximum likelihood and unweighted least squares estimation methods in confirmatory factor analysis by Monte Carlo simulation</dc:title>
+<dc:description xml:lang="en">This article examines the recovery of weak factors in the context of confirmatory factor analysis. Previous research only refers to exploratory factor analysis.The study is done by Monte Carlo simulation with the following conditions: comparison of maximum likelihood (ML) and unweighted least squares (ULS) estimation methods, sample size (100, 300, 500,1.000 and 2.000) and level of factor weakness (loadings of 0.25, 0.40 and 0.50). Results show that with small sample sizes ML failed to recover the weak factor while ULS succeed in many cases. This advantage is related to the occurrence of Heywood cases. Also the weak factor recovery improves as the level of factor weakness decreases and the number of factors in the model increases (AU)</dc:description>
+<dc:creator>García, Ana G</dc:creator>
+<dc:creator>Ximénez, M. Carmen</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En este artículo se investiga la recuperación de factores débiles en el contexto del análisis factorial confirmatorio. La investigación previa se limita al caso del análisis factorial exploratorio. El estudio se realiza mediante simulación Monte Carlo con las siguientes condiciones: comparación entre los métodos de estimación de máxima verosimilitud (ML) y mínimos cuadrados no ponderados (ULS), tamaño muestral (100, 300, 500, 1.000 y 2.000) y nivel de debilidad del factor (saturaciones de 0.25, 0.40y 0.50). Los resultados indican que con tamaños muestrales pequeños el método ULS recupera el factor débil en muchos de los casos en que ML falla. Esta ventaja está relacionada con la ocurrencia de casos Heywood. Asimismo, la recuperación del factor débil mejora a medida que el nivel de debilidades menor y que el modelo incluye mayor número de factores (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);17(3): 528-535, ago. 2005. tab, graf</dc:source>
+<dc:identifier>ibc-045163</dc:identifier>
+<dc:title xml:lang="es">Comparación de los métodos de estimación de máxima verosimilitud y mínimos cuadrados no ponderados en el análisis factorial confirmatorio mediante simulación Monte Carlo</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28624</dc:subject>
+<dc:subject>^d34637</dc:subject>
+<dc:subject>^d24768</dc:subject>
+<dc:subject>^d24766</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4093</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200508</dc:date>
+</metadata>
+</record>
+</ibecs-document>

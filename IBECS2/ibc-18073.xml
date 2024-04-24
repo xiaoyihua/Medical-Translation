@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-18073</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Intestinal anisakiasis</dc:title>
+<dc:creator>Reimunde, Elena</dc:creator>
+<dc:creator>Honrado, Emiliano</dc:creator>
+<dc:creator>Gutiérrez, Mónica</dc:creator>
+<dc:creator>Álvarez, Armando</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">El anisakis es una enfermedad parasitaria que se adquiere al ingerir pescados crudos o poco cocinados infestados por larvas de nematodos de la familia Anisakiadae. El diagnóstico de esta enfermedad parasitaria es difícil si no se tienen en cuenta los antecedentes epidemiológicos, ya que la clínica de presentación es muy inespecífica, por lo que en pacientes con un cuadro de abdomen agudo e historia reciente de ingesta de pescado crudo, la realización de una ecografía y/o TC abdominal podrían orientar el diagnóstico (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);44(5): 214-216, jul. 2002. ilus</dc:source>
+<dc:identifier>ibc-18073</dc:identifier>
+<dc:title xml:lang="es">Anisakiasis intestinal</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d6^s22016</dc:subject>
+<dc:subject>^d6622^s22012</dc:subject>
+<dc:subject>^d30848^s29166</dc:subject>
+<dc:subject>^d30847^s22071</dc:subject>
+<dc:subject>^d22878^s22045</dc:subject>
+<dc:subject>^d21012</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3306^s22000</dc:subject>
+<dc:subject>^d6622^s22016</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d6^s29166</dc:subject>
+<dc:subject>^d8141^s22016</dc:subject>
+<dc:subject>^d5^s29166</dc:subject>
+<dc:subject>^d8141^s22012</dc:subject>
+<dc:subject>^d7584^s22053</dc:subject>
+<dc:subject>^d5^s22053</dc:subject>
+<dc:subject>^d7584^s29166</dc:subject>
+<dc:subject>^d7584^s22051</dc:subject>
+<dc:subject>^d6^s22012</dc:subject>
+<dc:subject>^d30847^s22001</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200207</dc:date>
+</metadata>
+</record>
+</ibecs-document>

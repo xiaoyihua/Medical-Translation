@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-123760</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Biomarkers in Cardiovascular Medicine</dc:title>
+<dc:description xml:lang="en">Cardiovascular disease is the principal cause of death in developed countries. The underlying pathological process is arterial wall thickening due to the formation of atherosclerotic plaque, which is frequently complicated by thrombus, thereby giving rise to the possibility of acute coronary syndrome or stroke. One of the major challenges in cardiovascular medicine is to find a way of predicting the risk that an individual will suffer an acute thrombotic event. During the last few decades, there has been considerable interest in finding diagnostic and prognostic biomarkers that can be detected in blood. Of these, C-reactive (..) (AU)</dc:description>
+<dc:creator>Tuñón, José</dc:creator>
+<dc:creator>Moreno, Juan A</dc:creator>
+<dc:creator>Martín-Ventura, José L</dc:creator>
+<dc:creator>Egido, Jesús</dc:creator>
+<dc:creator>Madrigal-Matute, Julio</dc:creator>
+<dc:creator>Céniga, Melina Vega de</dc:creator>
+<dc:creator>Blanco-Colio, Luis M</dc:creator>
+<dc:creator>Muñoz-García, Begoña</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Las enfermedades cardiovasculares son la primera causa de muerte en el mundo occidental. El proceso patológico que subyace a ellas es un engrosamiento de la pared arterial debido a la formación de placas ateroscleróticas, las cuales se complican frecuentemente con un trombo y pueden dar lugar a síndrome coronario agudo o accidente cerebrovascular. Uno de los mayores retos de la medicina cardiovascular es encontrar la manera de predecir el riesgo de un sujeto de sufrir un evento trombótico agudo. En las últimas décadas, hay un gran interés en la búsqueda de biomarcadores diagnósticos y pronósticos que puedan ser identificados en sangre. Entre ellos, la proteína C reactiva es la más conocida. Otros, como el ligando de CD40 soluble, pueden predecir eventos cardiovasculares. En cambio, hasta el momento no hay un biomarcador aceptado en la práctica clínica. Actualmente, existen diversas técnicas de alto rendimiento como la proteómica, que permite la detección de múltiples biomarcadores potenciales. Estas aproximaciones pueden identificar en un futuro próximo nuevos biomarcadores que, junto con las técnicas de imagen, pueden ayudar a mejorar la predicción de eventos vasculares agudos (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;62(6): 677-688, jun. 2009. ilus, mapas</dc:source>
+<dc:identifier>ibc-123760</dc:identifier>
+<dc:title xml:lang="es">Biomarcadores en la medicina cardiovascular</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d54775</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d33939^s22045</dc:subject>
+<dc:subject>^d2359^s22032</dc:subject>
+<dc:subject>^d23568^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d7426^s22032</dc:subject>
+<dc:subject>^d32101</dc:subject>
+<dc:subject>^d50504^s22032</dc:subject>
+<dc:subject>^d32175^s22002</dc:subject>
+<dc:subject>^d37630^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200906</dc:date>
+</metadata>
+</record>
+</ibecs-document>

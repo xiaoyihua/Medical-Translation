@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-91439</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Psychological variables in the control of brain-computer interfaces</dc:title>
+<dc:description xml:lang="en">BCI (Brain-Computer Interface) is a system that allows interaction between the human brain and a computer. It is based on analyzing electroencephalographic signals (EEG) and processing them to generate control commands. The study analyzed the possible influence of psychological variables, such as the imaginative kinesthetic capacity and anxiety, in relation to performance in a BCI. All participants (4 male and 19 female students) completed the questionnaires and carried out a session of BCI to control their EEG signals in a virtual setting of a car along a straight road. The group was divided into two subgroups according to their EEG signals or differential responses obtained in the left-right discrimination. Study results showed no significant differences in cognitive variables of imagination or in anxiety. By comparing the degree of participants&#146; BCI control, a new quantitative parameter for comparing performances and making decisions in signal processing was found. The findings, the ongoing research process to refine the control of a BCI, and the interaction of psychological and computer procedures are discussed (AU)</dc:description>
+<dc:creator>Silva Sauer, Leandro da</dc:creator>
+<dc:creator>Velasco Álvarez, Francisco</dc:creator>
+<dc:creator>Ron Angevin, Ricardo</dc:creator>
+<dc:creator>Valero Aguayo, Luis</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">BCI (Brain Computer Interface) es un sistema que permite la interacción entre el cerebro humano y un ordenador. Se basa en el análisis de señales electroencefalográficas (EEG) y el procesado de éstas para generar comandos de control. En el estudio se analizó la posible influencia de variables psicológicas como la capacidad imaginativa sinestésica y la ansiedad en relación al desempeño en un BCI. Todos los participantes (4 hombres y 19 mujeres estudiantes) realizaron los cuestionarios y una sesión de BCI para controlar con sus señales EEG un entorno virtual de un coche por una carretera recta. El grupo se dividió en dos subgrupos en función de que sus señales EEG consiguieran o no respuestas diferenciales en esa discriminación izquierda-derecha. Los resultados del estudio no mostraron diferencias significativas en las variables cognitivas de imaginación, ni tampoco en ansiedad. Al comparar ese grado de control BCI de los participantes se encontró un nuevo parámetro cuantitativo que permite comparar ejecuciones y tomar decisiones en el procesado de señales. Se discuten los hallazgos, el proceso de investigación en marcha para refinar el control de un BCI y la interacción de procedimientos psicológicos e informáticos (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);23(4): 745-751, oct.-dic. 2011. ilus</dc:source>
+<dc:identifier>ibc-91439</dc:identifier>
+<dc:title xml:lang="es">Variables psicológicas en el control de interfaces cerebro-computadora</dc:title>
+<dc:subject>^d4641^s22074</dc:subject>
+<dc:subject>^d3484</dc:subject>
+<dc:subject>^d19371</dc:subject>
+<dc:subject>^d4641^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1012^s22012</dc:subject>
+<dc:subject>^d1012^s22056</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d28608^s22074</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d28894^s22074</dc:subject>
+<dc:subject>^d19244^s22074</dc:subject>
+<dc:subject>^d1014^s22056</dc:subject>
+<dc:subject>^d52519^s29166</dc:subject>
+<dc:subject>^d19243^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201112</dc:date>
+</metadata>
+</record>
+</ibecs-document>

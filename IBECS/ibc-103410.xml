@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-103410</identifier>
+<setSpec>0212-1611</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Linked Data as a tool in the nutrition domain</dc:title>
+<dc:description xml:lang="en">Currently, there is a huge amount of information available on Internet that can neither be interpreted nor used by software agents. This fact poses a serious drawback to the potential of tools that deal with data on the current Web. Nevertheless, in recent times, advances in the domain of Semantic Web make possible the development of a new generation of smart applications capable of creating added-value services for the final user. This work shows the technical challenges that must be faced in the area of nutrition in order to transform one or several old fashion sources of raw data into a web repository based on semantic technologies and linked with external and publicly available data on Internet. This approach makes possible for automatic tools to operate on the top of this information providing new functionalities highly interesting in the domain of public health, such as the automatic generation of menus for children or intelligent dietetic assistants, among others. This article explains the process to create such information support applying the guidelines of the Linked Data initiative and provides insights into the use of tools to make the most of this technology for its adoption in related use cases and environments (AU)</dc:description>
+<dc:creator>Santos Gago, JM</dc:creator>
+<dc:creator>Míguez Pérez, R</dc:creator>
+<dc:creator>Álvarez Sabucedo, LM</dc:creator>
+<dc:creator>Alonso Rorís, VM</dc:creator>
+<dc:creator>Mikic Fonte, FA</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En la actualidad existe una enorme cantidad de información en Internet que no puede ser interpretada y reutilizada por agentes software. Este hecho impone una importante limitación al potencial de las herramientas que es posible construir haciendo uso de los datos disponibles en la Web actual. Sin embargo, los recientes avances introducidos en el ámbito de la Web Semántica nos permiten crear una nueva generación de aplicaciones inteligentes capaces de ofrecer valor añadido al usuario. Este trabajo presenta los desafíos tecnológicos que es preciso abordar para, dentro del ámbito de la nutrición, partir de una o varias fuentes de datos convencionales y generar un repositorio web, basado en tecnologías semánticas, ligado con otras fuentes de datos públicas en Internet. Este enfoque permite que herramientas automáticas operen sobre esta información y presten nuevas funcionalidades altamente interesantes en el ámbito de la salud pública, como la generación automática de menús para escolares o asesores dietéticos inteligentes, entre otras. El presente artículo detalla el proceso para generar dicho soporte de información siguiendo las directrices de la iniciativa Linked Data e ilustra el uso de herramientas que sacan partido de este soporte para su adopción en otros casos de uso y entornos próximos (AU)</dc:description>
+<dc:source>Nutr Hosp;27(2): 323-332, mar.-abr. 2012. ilus</dc:source>
+<dc:identifier>ibc-103410</dc:identifier>
+<dc:title xml:lang="es">Linked Data como herramienta en el ámbito de la nutrición</dc:title>
+<dc:subject>^d52458^s22066</dc:subject>
+<dc:subject>^d33921^s22074</dc:subject>
+<dc:subject>^d33196^s22039</dc:subject>
+<dc:subject>^d22347^s22066</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d51868^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201204</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-105954</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Monitoring of intraperitoneal administration of vancomycin in patients on continuous ambulatory peritoneal dialysis</dc:title>
+<dc:description xml:lang="en">Objective: To validate a pharmacokinetic model of the treatments with intraperitoneal vancomycin applied to patients on continuous ambulatory peritoneal dialysis with bacterial peritonitis. Methods: To carry out a prospective study divided in 2 cohorts: the &amp;#64257;rst one including ten patients of 56 ± 14 years and 65 ± 5 kg, and the second one with 10 patients (12 episodes of peritonitis) aged 52 ± 13 years and 64 ± 8 kg. The treatment consists of administering and retaining for 6 h in the peritoneal cavity a solution containing 2 g of vancomycin and 1 g of ceftazidime into 2 l of &#145;&#145;dialysis solution&#146;&#146;. After the antibiotic administration, blood samples were obtained at 4, 6, 8, 10, 24, 48 and 168 h in the &amp;#64257;rst cohort and at 6 and 120 h (CVAN120) in the second. The pharmacokinetic model was developed from the parameters obtained from the &amp;#64257;rst cohort and was validated by the second cohort, calculating the mean error (ME) and the mean squared prediction error (MSPE) of the CVAN120.Results: Vancomycin serum concentrations fell from 39.63 ± 7.62 mcg/ml at 4 h to 8.55 ± 2.87mcg/ml at 168 h for the &amp;#64257;rst cohort, and from 37.65 ± 6.84 mcg/ml at 6 h to 10.82 ± 2.66 mcg/mlat 120 h (CVAN120) for the second cohort. The pharmacokinetics parameters were: C1 = 0.0061/h/kg and Vd: = 0.52 1/kg for the &amp;#64257;rst cohort, and C1 = 0.006 1/h/kg and Vd: = 0.53 1/kg for the second. The predictive ME and MSPE of the CVAN120. were 0.59 mcg/ml ([EM*100/CVAN120 = 5.5%)and 10.38 mcg2/ml2([MES*100/(CVAN120)2]) respectively. Conclusion: The presented model shows an adequate exactitude and precision for the monitoring of intraperitoneal vancomyc in in patients submitted to continuous ambulatory peritoneal dialysis with peritonitis (AU)</dc:description>
+<dc:creator>Casabó Alós, V. G</dc:creator>
+<dc:creator>Alós Almiñana, M</dc:creator>
+<dc:creator>García Pérez, H</dc:creator>
+<dc:creator>Montañés-Pauls, B</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Validar un modelo para la monitorización farmacocinética de los tratamientos con vancomicina intraperitoneal en pacientes sometidos a diálisis peritoneal continua ambulatoria con peritonitis bacteriana. Método Se realiza un estudio prospectivo, abierto, en 2 cohortes: la primera incluye a 10 pacientes de 56±14 años y 65±5kg y la segunda, otros 10 pacientes (12 episodios de peritonitis) de 52±13 años y 64±8kg. El tratamiento consiste en la instilación y retención durante 6h en la cavidad peritoneal de una solución conteniendo 2g de vancomicina y 1g de ceftazidima, en 2 l de dializante. Tras la instilación del antibiótico, se obtuvieron muestras de sangre a las 4, 6, 8, 10, 24, 48 y 168h, en la primera cohorte y a las 6 y 120h (CVAN120) en la segunda. El modelo farmacocinético se desarrolla a partir de los parámetros obtenidos en la primera cohorte y se valida en la segunda cohorte calculando el error medio (EM) y el error cuadrático medio de predicción (ECM) de la CVAN120.ResultadosLas concentraciones séricas de vancomicina decaen desde 39,63±7,62 mcg/ml a las 4h, hasta 8,55±2,87 mcg/ml a las 168h, en la primera cohorte, y desde 37,65±6,84 mcg/ml a las 6h, hasta 10,82±2,66 mcg/ml a las 120h (CVAN120), en la segunda. Los parámetros farmacocinéticos fueron: Cl=0,006 l/h/kg y Vd:=0,52 l/kg en la primera cohorte, y Cl=0,006 l/h/kg y Vd:=0,53 l/kg, en la segunda. El EM y el ECM de predicción de la CVAN120 fueron, respectivamente, 0,59 mcg/ml ([EM*100/CVAN120]=5,5%) y 10,38 mcg2/ml2 ([ECM*100/(CVAN120)2]=8,9%).Conclusión El modelo presentado muestra una exactitud y precisión adecuadas para la monitorización de la vancomicina intraperitoneal en pacientes sometidos a diálisis peritoneal continua ambulatoria con peritonitis bacteriana (AU)</dc:description>
+<dc:source>Farm Hosp;36(5): 328-335, sep. -oct. 2012. ilus, tab</dc:source>
+<dc:identifier>ibc-105954</dc:identifier>
+<dc:title xml:lang="es">Monitorización de la vacomicina en administración intraperitoneal en pacientes sometidos a diálisis peritoneal continua ambulatoria</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d29504^s22045</dc:subject>
+<dc:subject>^d10728^s22057</dc:subject>
+<dc:subject>^d50497^s22067</dc:subject>
+<dc:subject>^d30150^s22045</dc:subject>
+<dc:subject>^d23606^s22078</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23504^s22000</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201210</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-25395</identifier>
+<setSpec>0210-5020</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Proteins</dc:title>
+<dc:creator>Berdonces, Josep Lluis</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Rol</dc:publisher>
+<dc:description xml:lang="es">La proteína es el principio constructor o plástico del organismo. La formación de la sangre, los músculos, el tejido cerebral, las hormonas o los anticuerpos dependen de un aporte adecuado de proteínas. Partiendo de esta premisa en el artículo se analiza sus aspectos bioquímicos, su valor biológico, cuáles son los aminoácidos esenciales y los limitantes, para acabar comentando algunos de los aspectos dietéticos más importantes de la alimentación vegetariana, relacionados con el aporte de proteínas (AU)</dc:description>
+<dc:source>Rev Enferm;24(3): 171-174, mar. 2001. ilus, tab</dc:source>
+<dc:identifier>ibc-25395</dc:identifier>
+<dc:title xml:lang="es">Las proteínas</dc:title>
+<dc:subject>^d604^s22002</dc:subject>
+<dc:subject>^d9932^s22031</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d7279^s22002</dc:subject>
+<dc:subject>^d23923^s22007</dc:subject>
+<dc:subject>^d23103^s22002</dc:subject>
+<dc:subject>^d15077</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200103</dc:date>
+</metadata>
+</record>
+</ibecs-document>

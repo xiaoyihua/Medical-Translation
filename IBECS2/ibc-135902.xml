@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-135902</identifier>
+<setSpec>1138-9672</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The computerised individual workplace health record in the chemical and pharmaceutical industry</dc:title>
+<dc:description xml:lang="en">There are currently a wide range of models for computerised clinical records used by members of some companies&#146; Prevention Services healthcare staff. These working tools facilitate the day-to-day work of health units, but do not contain information on working conditions. This leads us to deduce that the computerised use of these information systems is severely limited, since medical data cannot be correlated with information on the hygienic environment and thus the systems are of no use in assessing the preventative activities of the company, nor do they help in taking correct decisions which assist the implementation of an acceptable policy for primary prevention of risks at work. Spain&#146;s Prevention of Risks at Work Act, Prevention Services Regulations and Royal Decree 374/2001, which brings Spanish legislation into line with EC Directive 98/24, on the protection of the health and safety of workers exposed to chemical agents, establish the minimum information which employers are required to record and store in each worker&#146;s documentation. Special emphasis is placed on the hygienic risks to which workers are exposed throughout their working life and upon the pathologies discovered whilst monitoring their health. In the aim of providing a solution to this important deficiency, a multidisciplinary group from the chemical and pharmaceutical industries (doctors, industrial hygienists, safety experts, human resources and IT professionals) has developed a simple yet original workplace hygiene and medicine database on the basis of the minimum requirements of current Spanish and European employment legislation. The group calls this a Computerised Individual Workplace Health Record: it is currently undergoing implementation in production centres, with epidemiological use being forecast from the end of 2003 on. It may, if wished, be used as a complement to the Workplace Clinical Record (computerised or not), and the group maintains that, using the same computer platform upon which it has been developed (SAP) or, indeed, another (Access, Excel, etc.) it may be adapted and used by the majority of chemical and pharmaceutical businesses, whatever their size. Its use guarantees compliance with current employment legislation, proper management of primary workplace prevention and the performance of prospective epidemiological studies of homogenous risk groups (AU)</dc:description>
+<dc:creator>Miguel, C</dc:creator>
+<dc:creator>Galván, P</dc:creator>
+<dc:creator>García, A</dc:creator>
+<dc:creator>Lopez, A</dc:creator>
+<dc:creator>Dies, J</dc:creator>
+<dc:creator>Lopez, C</dc:creator>
+<dc:creator>Molero, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En la actualidad existen diversos modelos de historias clínicas laborales informatizadas que son utilizadas por el personal sanitario de los servicios de prevención de algunas empresas. Estas herramientas de trabajo que facilitan la actividad diaria de las unidades de salud, no contienen sin embargo datos relacionados con las condiciones laborales. De esta carencia podemos deducir que la explotación informática de estos sistemas de información está coartada en su esencia, ya que no sirven para correlacionar los datos médicos con los higiénicos y medioambientales por lo que no son útiles para validar la actividad preventiva desarrollada en la empresa ni tampoco ayudan a tomar decisiones correctas que sirvan para llevar adelante una aceptable prevención laboral primaria. La Ley de Prevención de Riesgos Laborales, el Reglamento de los Servicios de Prevención y el Real Decreto 374/2001 que transpone a la legislación española la Directiva 98/24 CE relativa a la protección de la salud y la seguridad de los trabajadores expuestos a agentes químicos establecen aquellos datos mínimos necesarios que el empresario está obligado a registrar y archivar en la documentación de cada trabajador. En ella se hace especial hincapié en los riesgos higiénicos a los que ha estado expuesto el trabajador durante toda su vida laboral y en las patologías descubiertas durante la vigilancia de la salud. Con el ánimo de solucionar esta carencia, un grupo multidisciplinar de una industria química y farmacéutica (médicos, higienistas industriales, técnicos de seguridad, del área de recursos humanos e informáticos) ha consensuado y elaborado, en soporte informático, un banco de datos básico de higiene industrial y medicina laboral sobre la base de los mínimos datos exigidos por la legislación laboral vigente, nacional y europea. Este documento, denominado registro individual informatizado de salud y exposición laboral, está en fase de implantación en los centros de fabricación y se estima su explotación epidemiológica a partir de finales del año 2003. Puede ser o no complementario de la historia clínica laboral (informatizada o no) y se sostiene que en el mismo marco informático en el que se ha desarrollado (SAP) o en otros (Acces, Excel, etc.) puede ser adaptado y aplicado por la mayoría de las empresas químicas y farmacéuticas sin importar la envergadura de las mismas. Su uso garantiza el cumplimiento de la legislación laboral vigente, la gestión adecuada de la prevención laboral primaria y el desarrollo de estudios epidemiológicos prospectivos de grupos homogéneos de exposición (AU)</dc:description>
+<dc:source>Arch. prev. riesgos labor. (Ed. impr.);5(4): 159-164, oct.-dic. 2002. tab, ilus</dc:source>
+<dc:identifier>ibc-135902</dc:identifier>
+<dc:title xml:lang="es">Registro individual informatizado de salud y exposición laboral en la industria química y farmacéutica</dc:title>
+<dc:subject>^d9967^s22024</dc:subject>
+<dc:subject>^d9967^s22012</dc:subject>
+<dc:subject>^d38902^s22039</dc:subject>
+<dc:subject>^d9967^s22067</dc:subject>
+<dc:subject>^d9967^s22054</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d20201</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d29064^s22048</dc:subject>
+<dc:subject>^d29064^s22011</dc:subject>
+<dc:subject>^d29064^s22066</dc:subject>
+<dc:subject>^d38902^s22060</dc:subject>
+<dc:subject>^d29064^s22060</dc:subject>
+<dc:subject>^d38902^s22011</dc:subject>
+<dc:subject>^d38902^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200212</dc:date>
+</metadata>
+</record>
+</ibecs-document>

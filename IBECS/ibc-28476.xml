@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-28476</identifier>
+<setSpec>1135-4127</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:creator>Galiano Muñoz, L</dc:creator>
+<dc:creator>Blanquer Gregori, J. J</dc:creator>
+<dc:creator>Mira Sanz, E</dc:creator>
+<dc:creator>Ortuño López, J. L</dc:creator>
+<dc:creator>Montiel Higuero, I</dc:creator>
+<dc:creator>Fluixá Sendra, X</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">La gestión por procesos se ha revelado como una herramienta bastante útil de cara a los planteamientos de reingeniería y análisis organizativo de la realidad de los centros de atención primaria. En este artículo presentamos el proyecto de mejora de los circuitos administrativos repetidos, realizado en el Área de Salud 18 de Alicante, mediante la metodología de la gestión por procesos, que incluye las bajas autorizadas (BA) y las recetas repetidas (RR).La racionalización de esta actividad administrativa pasa por la modificación de los soportes operativos actuales, la optimización y la supresión de trámites, y su automatización. Para ello ha sido necesario analizar la situación real de estos circuitos, con el fin de establecer un abordaje global, garantizar la continuidad de estos circuitos en los distintos niveles profesionales implicados, lo que permite la cooperación profesional y la ubicación de los recursos donde realmente se requiera, así como valorar y mejorar los resultados. Siguiendo la metodología de la gestión por procesos, se ha designado y definido funcionalmente los procesos de BA y RR, y se han establecido los límites y usuarios de éstos. Se han documentado las actividades y las condiciones de calidad, la arquitectura de los procesos hasta el nivel 3, y los criterios e indicadores de evaluación de éstos en el momento actual, a los 6 meses de su implantación. Con la información aportada queremos ofrecer una alternativa a la mejora de las actividades administrativas previsibles que se realizan en los centros de atención primaria (AU)</dc:description>
+<dc:source>Cuad. gest. prof. aten. prim. (Ed. impr.);9(4): 192-210, oct. 2003. ilus, tab</dc:source>
+<dc:identifier>ibc-28476</dc:identifier>
+<dc:title xml:lang="es">Gestión por procesos de los circuitos administrativos repetidos: un paso hacia la desburocratización de las consultas de atención primaria</dc:title>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d23933</dc:subject>
+<dc:subject>^d12438^s22049</dc:subject>
+<dc:subject>^d11756^s22049</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d37678</dc:subject>
+<dc:subject>^d34002</dc:subject>
+<dc:subject>^d17099</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200310</dc:date>
+</metadata>
+</record>
+</ibecs-document>

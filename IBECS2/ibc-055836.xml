@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-055836</identifier>
+<setSpec>1139-6709</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Locus NMB0035 codes for a 47-kDa surface-accessible conserved antigen in Neisseria</dc:title>
+<dc:description xml:lang="en">A47 kDa neisserial outer-membrane antigenic protein (P47) was purified to homogeneity and used to prepare polyclonal anti-P47 antisera. Protein P47 was identified by MALDI-TOF fingerprinting analysis as the hypothetical lipoprotein NMB0035. Two-dimensional diagonal SDS-PAGE results suggested that, contrary to previous findings, P47 is not strongly associated with other proteins in membrane complexes. Western blotting with the polyclonal monospecific serum showed that linear P47 epitopes were expressed in similar amounts in the 27 Neisseria meningitidis strains tested and, to a lesser extent, in commensal Neisseria, particularly N. lactamica. However, dot-blotting assays with the same serum demonstrated binding variability between meningococcal strains, indicating differences in surface accessibility or steric hindrance by other surface structures. Specific anti-P47 antibodies were bactericidal against the homologous strain but had variable activity against heterologous strains, consistent with the results from dot-blotting experiments. An in-depth study of P47 is necessary to evaluate its potential as a candidate for new vaccine designs (AU)</dc:description>
+<dc:creator>Abel, Ana</dc:creator>
+<dc:creator>Sánchez, Sandra</dc:creator>
+<dc:creator>Alcalá, Belén</dc:creator>
+<dc:creator>Criado, María T</dc:creator>
+<dc:creator>Arenas, Jesús</dc:creator>
+<dc:creator>Ferreirós, Carlos M</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">El tratamiento con Triton X-114, seguido de la separación por SDS-PAGE permitió la purificación de una proteína antigénica de 47 kDa (P47) de la membrana externa de Neisseria de forma homogénea, lo que permitió la preparación de sueros policlonales anti-P47. La P47 se identificó como la lipoproteína (hipotética) NMB0035 mediante el análisis de la huella molecular realizado por MALDI-TOF. Los resultados obtenidos por SDS-PAGE diagonal bidimensional sugieren que, a diferencia de otros resultados previos, la P47 no parece estar fuertemente asociada a otras proteínas en complejos de membrana. Análisis de inmunoelectrotransferencia (Western blot) empleando el suero policlonal monoespecífico demostró que los epítopos lineales de la P47 se expresaron de forma similar en las 27 cepas de Neisseria meningitidis ensayadas y, aunque con menor intensidad, también lo hicieron en algunas Neisseria comensales, especialmente en N. lactamica. Sin embargo, resultados obtenidos por transferencia de mancha con el mismo suero demostraron que entre las cepas meningocócicas existe variabilidad en la capacidad de unión, lo que sugiere que o bien hay diferencias en la accesibilidad en superficie o bien una ocultación estérica producida por otras estructuras de superficie. Los anticuerpos específicos anti-P47 tenían efecto bactericida contra la cepa homóloga pero mostraron una actividad variable contra cepas heterólogas, lo cual concuerda con los resultados de la transferencia de mancha, y hace pensar que es necesario estudiar esta proteína más profundamente para evaluar su potencial como candidata para nuevos diseños de vacunas (AU)</dc:description>
+<dc:source>Int Microbiol;9(4): 273-280, dic. 2006. ilus, tab</dc:source>
+<dc:identifier>ibc-055836</dc:identifier>
+<dc:title xml:lang="es">El locus NMB0035 codifica un antígeno de superficie conservado de 47 kDa en Neisseria</dc:title>
+<dc:subject>^d9536^s22052</dc:subject>
+<dc:subject>^d927</dc:subject>
+<dc:subject>^d22407</dc:subject>
+<dc:subject>^d8735</dc:subject>
+<dc:subject>^d8248</dc:subject>
+<dc:subject>^d4664</dc:subject>
+<dc:subject>^d911</dc:subject>
+<dc:subject>^d957</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200612</dc:date>
+</metadata>
+</record>
+</ibecs-document>

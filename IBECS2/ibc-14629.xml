@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-14629</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Estimating ability from items isomorphs. Effects on the reliability of the test scores</dc:title>
+<dc:description xml:lang="en">This article focuses on the errors of the item parameter estimates and their effect on the reliability of the test scores. In particular we consider the errors introduced by the process of creating item isomorphs. The research is conducted by means of a Monte Carlo simulation. The simulation includes several conditions regarding the size of the errors and the number of isomorphs in the item pool of an adaptive test. The results show that the errors due to the isomorphing process do not compromise the psychometric status of the test scores except in the condition with highest errors (AU)</dc:description>
+<dc:creator>Revuelta, Javier</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En este artículo se aborda el problema de la imprecisión en los parámetros de los ítems y su efecto las puntuaciones de los sujetos en los tests adaptativos. En particular se considera la imprecisión introducida en el test por el proceso de incluir ítems isomorfos en el banco. La investigación se lleva a cabo mediante un estudio de Monte Carlo en el que la precisión se calcula bajo diferentes niveles de error en los parámetros de los ítems. Los resultados indican que el proceso de creación de isomorfos puede ser una alternativa viable, pero es necesario previamente obtener una estimación del error introducido por dicho proceso (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);12(2): 303-307, mayo 2000. tab, ilus</dc:source>
+<dc:identifier>ibc-14629</dc:identifier>
+<dc:title xml:lang="es">Estimación de habilidad mediante ítems isomorfos. Efectos en la fiabilidad de las puntuaciones</dc:title>
+<dc:subject>^d282^s22016</dc:subject>
+<dc:subject>^d231</dc:subject>
+<dc:subject>^d24807</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d1084^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200005</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-124546</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Potential selection bias in telephone surveys: landline and mobile phones</dc:title>
+<dc:description xml:lang="en">The increasing use of mobile phones in the last decade has decreased landline telephone coverage in Spanish households. This study aimed to analyze sociodemographic characteristics and health indicators by type of telephone service (mobile phone vs. landline or landline and mobile phone). Two telephone surveys were conducted in Spanish samples (February 2010 and February 2011). Multivariate logistic regression analyses were performed to analyze differences in the main sociodemographic characteristics and health indicators according to the type of telephone service available in Spanish households. We obtained 2027 valid responses (1627 landline telephones and 400 mobile phones). Persons contacted through a mobile phone were more likely to be a foreigner, to belong to the manual social class, to have a lower educational level, and to be a smoker than those contacted through a landline telephone. The profile of the population that has only a mobile phone differs from that with a landline telephone. Therefore, telephone surveys that exclude mobile phones could show a selection bias (AU)</dc:description>
+<dc:creator>López, María José</dc:creator>
+<dc:creator>Pérez-Giménez, Anna</dc:creator>
+<dc:creator>Nebot, Manel</dc:creator>
+<dc:creator>Garcia-Continente, Xavier</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La aparición del teléfono móvil en las últimas décadas ha hecho disminuir la cobertura de hogares españoles con teléfono fijo. Este estudio analiza características sociodemográficas e indicadores de salud según el tipo de teléfono disponible (sólo móvil frente a fijo o fijo y móvil). Se realizaron dos encuestas telefónicas en muestras españolas (febrero de 2010 y febrero de 2011). Se analizaron diferencias en las principales características sociodemográficas según el tipo de teléfono disponible en el hogar, mediante análisis de regresión logística multivariada. Entre las dos encuestas se obtuvieron 2027 respuestas válidas (1627 en fijos y 400 en móviles). La probabilidad de seleccionar individuos extranjeros, de clase social manual, de menor nivel de estudios y fumadores fue mayor en la población contactada mediante teléfono móvil que mediante fijo. El perfil de la población que sólo dispone de teléfono móvil es diferente al de la que dispone de fijo, por lo que la realización de encuestas telefónicas exclusivamente mediante teléfonos fijos puede conllevar un sesgo de selección (AU)</dc:description>
+<dc:source>Gac Sanit;28(2): 170-172, mar.-abr. 2014. tab</dc:source>
+<dc:identifier>ibc-124546</dc:identifier>
+<dc:title xml:lang="es">Potencial sesgo de selección en las encuestas telefónicas: teléfonos fijos y móviles</dc:title>
+<dc:subject>^d37717^s22074</dc:subject>
+<dc:subject>^d14067^s22074</dc:subject>
+<dc:subject>^d52950^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24872</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d28627^s22045</dc:subject>
+<dc:subject>^d28598^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201404</dc:date>
+</metadata>
+</record>
+</ibecs-document>

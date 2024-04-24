@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-120480</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Impact of using different SCORE tables for estimating cardiovascular risk</dc:title>
+<dc:description xml:lang="en">Introduction and objectives. In Spain, various SCORE tables are available to estimate cardiovascular risk: tables for low-risk countries, tables calibrated for the Spanish population, and tables that include high-density lipoprotein values. The aim of this study is to assess the impact of using one or another SCORE table in clinical practice. Methods. In a cross-sectional study carried out in two primary health care centers, individuals aged 40 to 65 years in whom blood pressure and total cholesterol levels were recorded between March 2010 and March 2012 were selected. Patients with diabetes or a history of cardiovascular disease were excluded. Cardiovascular risk was calculated using SCORE for low-risk countries, SCORE with high-density lipoprotein cholesterol, and the calibrated SCORE. Results. Cardiovascular risk was estimated in 3716 patients. The percentage of patients at high or very high risk was 1.24% with SCORE with high-density lipoprotein cholesterol, 4.73% with the low-risk SCORE, and 15.44% with the calibrated SCORE (P&lt;.01). Treatment with lipid-lowering drugs would be recommended in 10.23% of patients using the calibrated SCORE, 3.12% of patients using the low-risk SCORE, and 0.67% of patients using SCORE with high-density lipoprotein cholesterol. Conclusions. The calibrated SCORE table classifies a larger number of patients at high or very high risk than the SCORE for low-risk countries or the SCORE with high-density lipoprotein cholesterol. Therefore, its use would imply treating more patients with lipid-lowering medication. Validation studies are needed to assess the most appropriate SCORE table for use in our setting (AU)</dc:description>
+<dc:creator>Osorio, Dimelza</dc:creator>
+<dc:creator>Puig, Mireia</dc:creator>
+<dc:creator>Joaniquet, Xavier</dc:creator>
+<dc:creator>Moral, Irene</dc:creator>
+<dc:creator>Cuixart, Lluís</dc:creator>
+<dc:creator>Casasa, Albert</dc:creator>
+<dc:creator>Brotons, Carlos</dc:creator>
+<dc:creator>Bottaro, David</dc:creator>
+<dc:creator>Soriano, Nuria</dc:creator>
+<dc:creator>Marcos, Albert</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos. En España disponemos de tablas SCORE para el cálculo del riesgo cardiovascular en países de bajo riesgo, tablas calibradas para la población española, y unas tablas que permiten incluir el colesterol unido a lipoproteínas de alta densidad. Este estudio pretende evaluar el impacto de la utilización de una u otra tabla de riesgo en la práctica clínica. Métodos. Estudio transversal realizado en dos centros de salud. Se seleccionó a sujetos de entre 40 y 65 años de edad que contaran con un registro de presión arterial y colesterol total entre marzo de 2010 y marzo de 2012. Se excluyó a los sujetos con antecedente de diabetes mellitus o enfermedad cardiovascular. Se calculó el riesgo utilizando las tablas SCORE para países de bajo riesgo, tablas SCORE con colesterol unido a lipoproteínas de alta densidad y tablas SCORE calibrado. Resultados. Se calculó el riesgo cardiovascular a 3.716 pacientes. Los pacientes de alto o muy alto riesgo fueron el 1,24% con SCORE con colesterol unido a lipoproteínas de alta densidad, el 4,73% con SCORE para países de bajo riesgo y el 15,44% con SCORE calibrado (p &lt; 0,01). Utilizando el SCORE calibrado, deberíamos tratar con hipolipemiantes al 10,23% de los pacientes; con el SCORE para países de bajo riesgo, al 3,12%, y con el SCORE con colesterol unido a lipoproteínas de alta densidad, al 0,67%. Conclusiones. La tabla SCORE calibrado identifica a más pacientes de alto riesgo que las del SCORE de bajo riesgo y el SCORE con colesterol unido a lipoproteínas de alta densidad, por lo que su utilización implicaría tratar a más pacientes con estatinas. Son necesarios estudios de validación del SCORE para valorar la tabla más adecuada en nuestro medio (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;67(2): 94-100, feb. 2014. tab, ilus</dc:source>
+<dc:identifier>ibc-120480</dc:identifier>
+<dc:title xml:lang="es">Impacto de la utilización de las diferentes tablas SCORE en el cálculo del riesgo cardiovascular</dc:title>
+<dc:subject>^d28620</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d2359</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d3963^s22039</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d28596^s22045</dc:subject>
+<dc:subject>^d2359^s22080</dc:subject>
+<dc:subject>^d11756^s22083</dc:subject>
+<dc:subject>^d2359^s22054</dc:subject>
+<dc:subject>^d28596^s22074</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d3963^s22074</dc:subject>
+<dc:subject>^d11756^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201402</dc:date>
+</metadata>
+</record>
+</ibecs-document>

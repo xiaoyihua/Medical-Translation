@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-166623</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Infobarris: an interactive tool to monitor and disseminate information on health and its determinants in the neighbourhoods of Barcelona (Spain)</dc:title>
+<dc:description xml:lang="en">In order to know about the health of the population, it is necessary to perform a systematic and continuous analysis of their health status and social and economic health determinants. The objective of this paper is to describe the development and implementation of the Infobarris tool, which allows to visualize a wide battery of indicators and social determinants of health by neighbourhoods in the city of Barcelona (Spain). For the development of the Infobarris tool, we used an agile methodology that allows the development of a project in iterative and incremental stages, which are the following: selection of indicators, design of the prototype, development of the tool, data loading, and tool review and improvements. Infobarris displays 64 indicators of health and its determinants through graphics, maps and tables, in a friendly, interactive and attractive way, which facilitates health surveillance in the neighbourhoods of Barcelona (AU)</dc:description>
+<dc:creator>Novoa, Ana M</dc:creator>
+<dc:creator>Rodríguez Sanz, Maica</dc:creator>
+<dc:creator>Borrell, Carme</dc:creator>
+<dc:creator>Espelt, Albert</dc:creator>
+<dc:creator>Llimona, Pere</dc:creator>
+<dc:creator>García de Olalla, Patricia</dc:creator>
+<dc:creator>Pérez, Glòria</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Para conocer la salud de la población es necesario realizar un análisis conjunto y continuado de su estado de salud y de sus determinantes. El objetivo de esta nota de campo es describir el desarrollo y el funcionamiento de la herramienta Infobarris, que permite visualizar una amplia batería de indicadores y determinantes de la salud de la población de la ciudad de Barcelona según el barrio de residencia. Para el desarrollo de Infobarris se ha usado una metodología ágil que permite el desarrollo de un proyecto de forma iterativa e incremental en etapas: selección de indicadores, diseño del prototipo, desarrollo de la herramienta de visualización, carga de datos, revisión y mejora de la herramienta. Infobarris permite la visualización interactiva de 64 indicadores de salud y de sus determinantes, mediante gráficos, mapas y tablas, lo que facilita la vigilancia de la salud y de sus determinantes en los barrios de la ciudad de Barcelona (AU)</dc:description>
+<dc:source>Gac Sanit;31(5): 427-431, sept.-oct. 2017. tab, mapas, graf</dc:source>
+<dc:identifier>ibc-166623</dc:identifier>
+<dc:title xml:lang="es">Infobarris: una herramienta interactiva para monitorizar y divulgar información sobre la salud y sus determinantes en los barrios de Barcelona</dc:title>
+<dc:subject>^d36310^s22066</dc:subject>
+<dc:subject>^d50231</dc:subject>
+<dc:subject>^d28480^s22049</dc:subject>
+<dc:subject>^d3184^s22049</dc:subject>
+<dc:subject>^d33196^s22039</dc:subject>
+<dc:subject>^d28626</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d52939^s22049</dc:subject>
+<dc:subject>^d23927^s22066</dc:subject>
+<dc:subject>^d36354</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201710</dc:date>
+</metadata>
+</record>
+</ibecs-document>

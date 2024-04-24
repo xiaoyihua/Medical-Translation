@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-27397</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The contribution of magnetic resonance spectroscopy to the classification of high grade gliomas. The predictive value of macromolecules</dc:title>
+<dc:creator>Revert-Ventura, A. J</dc:creator>
+<dc:creator>Ferrer-Ripollés, P</dc:creator>
+<dc:creator>Arana-Fernández de Moya, E</dc:creator>
+<dc:creator>Piquer-Belloch, J </dc:creator>
+<dc:creator>Martínez-Bisbal, M. C</dc:creator>
+<dc:creator>Celda-Muñoz, B</dc:creator>
+<dc:creator>Martí-Bonmatí, L</dc:creator>
+<dc:creator>Dosdá-Muñoz, R</dc:creator>
+<dc:creator>Mollá-Olmos, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>César Viguera</dc:publisher>
+<dc:description xml:lang="es">Introducción. La 1H ERM permite estudiar los cambios en las concentraciones de metabolitos en los tumores intracraneales, relacionándolos con éxito variable con el tipo histológico y el grado tumoral. Objetivo. Analizar los patrones útiles en la gradación de gliomas cerebrales mediante diversos cocientes obtenidos con 1H ERM a dos tiempos de eco (TE), con y sin supresión del agua, con especial interés en la aportación de las macromoléculas. Pacientes y métodos. Se estudiaron ocho gliomas (1grado II, 2 grado III y 5 grado IV) con 1H ERM de volumen único a TE 31 ms (8/8) y 136 ms (7/8). Las intensidades de diversos metabolitos, incluyendo macromoléculas (MMA, 0,9 ppm; MMB, 1,3 ppm), se normalizaron al H2O para TE 31, a Cr para TE 31 y 136 ms y NAA/Co para ambos TE y la relación MMA/MMB para TE 31. Resultados. Existen diferencias significativas para los tres grados en los cocientes MMA/MMB (p=0,000), con un descenso del cociente MMA/MMB al aumentar el grado, y NAA/Co a TE 136 (p=0,018). Se observó una relación inversa entre la cantidad de mio-inositol (mI) y el aumento de grado, pero no se detectaron macromoléculas a TE 136 en ninguno de los tumores de grado II o III. Conclusiones. En los espectros de gliomas a TE 31 aparecen macromoléculas a 0,9 y 1,3 ppm con proporción relativa distinta para cada uno de los grados. Los espectros a TE medio informan del contenido de NAA y Co. Además del aumento de MMB (0,9 ppm), a TE corto, los grados más altos presentan una disminución del contenido de mI. El estudio de gliomas mediante 1H ERM con TE corto y medio contribuye al diagnóstico del grado tumoral (AU)</dc:description>
+<dc:source>Rev Neurol;34(4): 309-313, feb. 2002.</dc:source>
+<dc:identifier>ibc-27397</dc:identifier>
+<dc:title xml:lang="es">Contribución de la espectroscopía de resonancia magnética a la clasificación del glioma de alto grado.Valor predictivo de las macromoléculas</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d38682</dc:subject>
+<dc:subject>^d23405</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d1958</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d6053</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200202</dc:date>
+</metadata>
+</record>
+</ibecs-document>

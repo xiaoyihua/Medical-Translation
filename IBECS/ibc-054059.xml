@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-054059</identifier>
+<setSpec>0004-2927</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Optimization of gastroretentive system for oral controlled delivery of cinnarizine using response surface methodology</dc:title>
+<dc:description xml:lang="en">A controlled release effervescent fl oating system is proposed for gastroretentive delivery of cinnarizine. A 33 box-behnken        design was employed to produce controlled release fl oating tablets of cinnarizine by direct compression method. The        effect of the formulation variables such as levels of HPMC K4M (X1), sodium bicarbonate (X2) and citric acid (X3) on        the tablet fl oating characteristics and drug release was studied. The response parameters like total fl oating time (TFT),        release at the end of 10 h (Rel10), time taken for 50% of the drug to release (t50) and Korsemeyer and Peppas diffusion        exponent (n) were analyzed using response surface methodology. The parameters were analyzed using the F test and        mathematical models were generated for each response parameter using multiple linear regression analysis (MLRA)        and analysis of variance (ANOVA). All the three formulation variables studied had a signifi cant effect (P &lt; 0.05) on the        TFT whereas the levels of HPMC K4M and citric acid signifi cantly infl uenced the drug release. Numerical optimization        employing desirability approach was used to develop an optimized formulation by setting constraints on the dependent        and independent variables. The optimized formulation showed 82.37 % drug release during the TFT of 8.5 h in a zero        order fashion with a t50 of 5.30 h. The experimental values of the TFT, t50 and Rel10 were found to agree with those        predicted by the mathematical models confi rming the fore casting ability of MLRA and ANOVA</dc:description>
+<dc:creator>Patel, M</dc:creator>
+<dc:creator>Shivakumar, H. N</dc:creator>
+<dc:creator>Desai, B. G</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Se propone un sistema fl otante efervescente de liberación controlada para la administración gastrorretentiva de        cinarizina. Para producir comprimidos de cinarizina fl otantes de liberación controlada mediante compresión directa        se utilizó un diseño de Box-Behnken 33. Se estudiaron los efectos de variables de formulación como los niveles de        HPMC K4M (X1), bicarbonato sódico (X2) y ácido cítrico (X3) en las características de fl otabilidad del comprimido        y la liberación de fármaco. Los parámetros de respuesta como el tiempo de fl otabilidad total (TFT), la liberación        al cabo de 10 h (Rel10), el tiempo necesario para la liberación del 50% del fármaco (t50) y el exponente de difusión        de Korsemeyer y Peppas (n), se analizaron mediante la metodología de superfi cie de respuesta. Los parámetros se        analizaron mediante el test F, y se generaron modelos matemáticos para cada parámetro de respuesta mediante        análisis de regresión lineal múltiple (MLRA) y análisis de varianza (ANOVA). Las tres variables de formulación        estudiadas tuvieron un efecto signifi cativo (P &lt; 0,05) en el TFT, mientras que los niveles de HPMC K4M y ácido        cítrico infl uyeron signifi cativamente en la liberación de fármaco. Para desarrollar una formulación optimizada se        utilizó la optimización numérica con enfoque de deseabilidad, estableciendo restricciones en las variables dependientes        e independientes. La formulación optimizada presentó una liberación de fármaco del 82,37 % durante el TFT de 8,5        h en modo de orden cero un valor de t50 de 5,30 h. Los valores experimentales del TFT, t50 y Rel10 observados concordaban        con los predichos por los modelos matemáticos, confi rmando la predictabilidad de MLRA y ANOVA</dc:description>
+<dc:source>Ars pharm;48(1): 55-81, 2007. ilus, tab</dc:source>
+<dc:identifier>ibc-054059</dc:identifier>
+<dc:title xml:lang="es">Optimización del sistema gastrorretentivo para la administración oral controlada de cinarizina mediante la metodología de superficie de respuesta</dc:title>
+<dc:subject>^d28620</dc:subject>
+<dc:subject>^d2963^s22002</dc:subject>
+<dc:subject>^d3706^s22002</dc:subject>
+<dc:subject>^d23621</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d2963^s29165</dc:subject>
+<dc:subject>^d3706^s29165</dc:subject>
+<dc:subject>^d13990^s29165</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200700</dc:date>
+</metadata>
+</record>
+</ibecs-document>

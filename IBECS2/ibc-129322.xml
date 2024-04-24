@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-129322</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Predicting individual risk of high healthcare cost to identify complex chronic patients</dc:title>
+<dc:description xml:lang="en">Objective: To develop a predictive model for the risk of high consumption of healthcare resources, and assess the ability of the model to identify complex chronic patients. Methods: A cross-sectional study was performed within a healthcare management organization by using individual data from 2 consecutive years (88,795 people). The dependent variable consisted of healthcare costs above the 95th percentile (P95), including all services provided by the organization and pharmaceutical consumption outside of the institution. The predictive variables were age, sex, morbidity-based on clinical risk groups (CRG)-and selected data from previous utilization (use of hospitalization, use of high-cost drugs in ambulatory care, pharmaceutical expenditure). A univariate descriptive analysis was performed. We constructed a logistic regression model with a 95% confidence level and analyzed sensitivity, specificity, positive predictive values (PPV), and the area under the ROC curve (AUC). Results: Individuals incurring costs &gt;P95 accumulated 44% of total healthcare costs and were concentrated in ACRG3 (aggregated CRG level 3) categories related to multiple chronic diseases. All variables were statistically significant except for sex. The model had a sensitivity of 48.4% (CI: 46.9%-49.8%), specificity of 97.2% (CI: 97.0%-97.3%), PPV of 46.5% (CI: 45.0%-47.9%), and an AUC of 0.897 (CI: 0.892 to 0.902). Conclusions: High consumption of healthcare resources is associated with complex chronic morbidity. A model based on age, morbidity, and prior utilization is able to predict high-cost risk and identify a target population requiring proactive care (AU)</dc:description>
+<dc:creator>Coderch, Jordi</dc:creator>
+<dc:creator>Ibern, Pere</dc:creator>
+<dc:creator>Carreras, Marc</dc:creator>
+<dc:creator>Sánchez-Pérez, Inma</dc:creator>
+<dc:creator>Pérez-Berruezo, Xavier</dc:creator>
+<dc:creator>Inoriza, José M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Construir y validar un modelo predictivo del riesgo de consumo de recursos sanitarios elevado, y evaluar su capacidad para identificar pacientes crónicos complejos. Métodos: Estudio transversal realizado en una organización sanitaria integrada sobre datos individuales de residentes 2 años consecutivos (88.795 personas). Variable dependiente: coste sanitario real superior al percentil 95 (P95), incluyendo todos los servicios de la organización sanitaria integrada y las recetas de farmacia. Variables predictoras: edad, sexo, morbilidad (según los clinical risk groups [CRG]) y datos seleccionados de utilización previa (uso de hospitalización, uso de medicación hospitalaria ambulatoria, gasto en recetas de farmacia). Análisis univariado descriptivo. Construcción de un modelo de regresión logística con nivel de confianza del 95%; análisis de validez mediante sensibilidad, especificidad, valor predictivo positivo (VPP) y área bajo la curva ROC (AUC). Resultados: Las personas con coste &gt;P95 acumulan el 44% del coste sanitario total y se concentran en las categorías ACRG3 (aggregated CRG level 3) de enfermedades crónicas múltiples o graves. La carga de morbilidad aumenta con la edad. En el modelo, todas las variables fueron estadísticamente significativas excepto el sexo. Se obtuvo una sensibilidad del 48,4% (intervalo de confianza [IC]: 46,9%-49,8%), una especificidad del 97,2% (IC: 97,0%-97,3%), un VPP del 46,5% (IC: 45,0%-47,9%) y un AUC de 0,897 (IC: 0,892-0,902). Conclusiones: El consumo sanitario elevado se relaciona con la morbilidad crónica compleja. Un modelo basado en la edad, la morbilidad y la utilización previa es válido para predecir el riesgo de alto consumo, y así identificar la población diana de estrategias de atención proactiva para pacientes crónicos complejos (AU)</dc:description>
+<dc:source>Gac Sanit;28(4): 292-300, jul.-ago. 2014. ilus, tab</dc:source>
+<dc:identifier>ibc-129322</dc:identifier>
+<dc:title xml:lang="es">Predicción del riesgo individual de alto coste sanitario para la identificación de pacientes crónicos complejos</dc:title>
+<dc:subject>^d28940</dc:subject>
+<dc:subject>^d28631</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d32193</dc:subject>
+<dc:subject>^d33939^s22045</dc:subject>
+<dc:subject>^d30769</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d5678</dc:subject>
+<dc:subject>^d28563^s22080</dc:subject>
+<dc:subject>^d3222^s22018</dc:subject>
+<dc:subject>^d35256</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201408</dc:date>
+</metadata>
+</record>
+</ibecs-document>

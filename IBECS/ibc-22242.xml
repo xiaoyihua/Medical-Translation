@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-22242</identifier>
+<setSpec>0004-0614</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Localized prostate cancer</dc:title>
+<dc:creator>Rodríguez Duarte, Carlos</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Iniestares, S. A.</dc:publisher>
+<dc:description xml:lang="es">No disponible</dc:description>
+<dc:source>Arch Esp Urol;56(2): 103-110, mar. 2003.</dc:source>
+<dc:identifier>ibc-22242</dc:identifier>
+<dc:title xml:lang="es">Cáncer de próstata localizado</dc:title>
+<dc:subject>^d1944</dc:subject>
+<dc:subject>^d9554</dc:subject>
+<dc:subject>^d30411</dc:subject>
+<dc:subject>^d14864</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3469</dc:subject>
+<dc:subject>^d11911</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d11914</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200303</dc:date>
+</metadata>
+</record>
+</ibecs-document>

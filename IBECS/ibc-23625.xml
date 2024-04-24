@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-23625</identifier>
+<setSpec>1139-6709</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Comparative genomics of yeast species: new insights into their biology</dc:title>
+<dc:description xml:lang="en">The genomes of two hemiascomycetous yeasts (Saccharomyces cerevisiae and Candida albicans) and one archiascomycete (Schizosaccharomyces pombe) have been completely sequenced and the genes have been annotated. In addition, the genomes of 13 more Hemiascomycetes have been partially sequenced. The amount of data thus obtained provides information on the evolutionary relationships between yeast species. In addition, the differential genetic characteristics of the microorganisms explain a number of distinctive biological traits. Gene order conservation is observed between phylogenetically close species and is lost in distantly related species, probably due to rearrangements of short regions of DNA. However, gene function is much more conserved along evolution. Compared to S. cerevisiae and S. pombe, C. albicans has a larger number of specific genes, i.e., genes not found in other organisms, a fact that can account for the biological characteristics of this pathogenic dimorphic yeast which is able to colonize a large variety of environments (AU)</dc:description>
+<dc:publisher>Springer-Verlag Ibérica</dc:publisher>
+<dc:description xml:lang="es">Las secuencias genómicas de dos levaduras hemiascomicetes (Saccharomyces cerevisiae y Candida albicans) y un arquiascomicete (Schizosaccharomyces pombe) se han completado y sus genes se han caracterizado. Además, también se han obtenido secuencias parciales de otros 13 tipos de hemiascomicetes. La cantidad de datos obtenidos ha permitido obtener información de las relaciones evolutivas entre diferentes especies de levaduras y para explicar un determinado número de rasgos biológicos distintivos de las diferentes características genéticas de los microorganismos. Se ha observado conservación en el orden de los genes entre especies próximas filogenéticamente, así como su pérdida en especies distantes, probablemente debido a nuevos ordenamientos de pequeñas regiones del DNA. De cualquier modo, la función génica está mucho más conservada a lo largo de la evolución. C. albicans presenta un mayor número de genes específicos que no se encuentran en otros organismos como las otras dos levaduras, lo cual explica las características patogénicas dimórficas de esta levadura capaz de colonizar una gran variedad de ambientes (AU)</dc:description>
+<dc:source>Int Microbiol;6(3): 183-190, sept. 2003. graf, tab</dc:source>
+<dc:title xml:lang="es">Comparación genómica de algunas especies de levaduras: nueva percepción de su biología</dc:title>
+<dc:type>article</dc:type>
+<dc:creator>Herrero, Enrique</dc:creator>
+<dc:creator>Valentín, Eulogio</dc:creator>
+<dc:creator>Torre, M Angeles de la</dc:creator>
+<dc:language>en</dc:language>
+<dc:identifier>ibc-23625</dc:identifier>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d15401^s22033</dc:subject>
+<dc:subject>^d30081</dc:subject>
+<dc:subject>^d35417</dc:subject>
+<dc:subject>^d12815</dc:subject>
+<dc:subject>^d2208</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d12949</dc:subject>
+<dc:date>200309</dc:date>
+</metadata>
+</record>
+</ibecs-document>

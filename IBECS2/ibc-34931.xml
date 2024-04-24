@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-34931</identifier>
+<setSpec>1575-3409</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Estimation of population pharmacokinetics for valproic acid: influence of dose and comedication</dc:title>
+<dc:creator>Hernández Pérez, M. A</dc:creator>
+<dc:creator>Calvo Malvar, M</dc:creator>
+<dc:creator>Évora García, C. M</dc:creator>
+<dc:creator>Llabrés Martínez</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Alpe Editores, S.A.</dc:publisher>
+<dc:description xml:lang="es">Se analiza una muestra de 25 pacientes sometidos a tratamiento con valproato con el fin de estimar los parámetros farmacocinéticos de población de dicho fármaco. El análisis de datos se realiza mediante el NONMEM, un programa diseñado para el análisis farmacocinético de población. Para evaluar la variabilidad interindividual, la dosis y la politerapia sobre el valor medio de población del aclaramiento aparente del valproato se emplea un modelo de distribución log-normal. El logaritmo del aclaramiento aparente estimado fue de 2,92 mL/min, con una variabilidad interindividual estadísticamente significativa y no influenciado por la dosis diaria de fármaco. El valor del aclaramiento del fármaco es mayor cuando se asocia a otros antiepilépticos. El modelo log-lineal utilizado estima con bastante exactitud los parámetros farmacocinéticos y demuestra una variabilidad interindividual significativa (AU)</dc:description>
+<dc:source>Cienc. tecnol. pharm;14(3): 110-116, jul. 2004. tab, graf</dc:source>
+<dc:identifier>ibc-34931</dc:identifier>
+<dc:title xml:lang="es">Farmacocinética de la población del valproato: influencia de la dosis y la comedicación</dc:title>
+<dc:subject>^d934^s22079</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29291^s22079</dc:subject>
+<dc:subject>^d934^s22062</dc:subject>
+<dc:subject>^d10826^s22079</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d10826^s22062</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d4409</dc:subject>
+<dc:subject>^d934^s22000</dc:subject>
+<dc:subject>^d4419</dc:subject>
+<dc:subject>^d29291^s22062</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d29291^s22000</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d2256^s22079</dc:subject>
+<dc:subject>^d2256^s22062</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200407</dc:date>
+</metadata>
+</record>
+</ibecs-document>

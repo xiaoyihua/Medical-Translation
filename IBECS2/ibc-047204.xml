@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-047204</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Can primary care physicians use the ICD-9-MC? An evaluation of the quality of diagnosis coding in computerized medical records</dc:title>
+<dc:description xml:lang="en">Objectives: To determine the completeness and accuracy of ICD-9-CM codes allocated by primary health care physicians in their computerized medical records and evaluate the effects of improvement procedures. Methods: The codes of 87,806 patients assigned to 56 primary care physicians in the Basque National Health Service in Spain, were evaluated 3 times over a 1-year period according to the following criteria: correspondence to a valid ICD-9-CM code, agreement between diagnosis and code, and the percentage of visits with an unspecified reason for consultation. Finally, the mean number of unique diagnoses and rates of diagnostic groups in the 84,136 patients that remained with the same physician for a minimum of 6 months were contrasted with another previously registered morbidity database. Two interventions were performed to improve coding: detected errors were corrected centrally and physicians were assessed and given information on their individual results. Results: Diagnoses lacking an ICD-9-DIC code decreased from 59% in the first assessment to 2% at the end of the study period. The percentage of coding mistakes (discrepancies in episode diagnosis and ICD-9-CM code) decreased from 17% to 3%. The mean annual number of diagnoses per patient was slightly lower than that in the reference database (2.26 versus 2.43). The same result was observed in the rates of some diagnostic groups. Conclusions: Primary care doctors can achieve a high degree of quality in ICD-9-CM diagnosis coding. Implementing procedures for evaluating coding, rectifying mistakes, and providing information to physicians markedly improved the initial results</dc:description>
+<dc:creator>Urraca, Javier</dc:creator>
+<dc:creator>Berraondo, Iñaki</dc:creator>
+<dc:creator>Darpón, Jon</dc:creator>
+<dc:creator>Orueta, Juan F</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Determinar el grado de exhaustividad y precisión de los códigos CIE-9-MC asignados por los médicos de primaria en sus historias clínicas informatizadas; evaluar el impacto de actividades para su mejora. Métodos: Los códigos de 87.806 pacientes de 56 médicos de Osakidetza/Servicio Vasco de Salud fueron evaluados en 3 ocasiones en 1 año, según los siguientes criterios: correspondencia con un código CIE-9-MC válido; concordancia entre diagnóstico y código; porcentaje de consultas sin diagnóstico. Finalmente, se contrastaron, con un registro previo de morbilidad atendida, los promedios de diagnósticos únicos y tasas anuales de enfermedades de los 84.136 pacientes que permanecieron con el mismo médico al menos 6 meses. Se realizaron 2 intervenciones para mejorar la codificación: corrección central de errores detectados; asesoramiento e información a los médicos de sus resultados individuales. Resultados: En la primera evaluación, el 59% de los diagnósticos no contenía ningún código CIE-9-MC asociado, mientras que a la finalización este porcentaje descendió al 2%. El porcentaje de errores (discrepancia entre diagnóstico del episodio y código CIE9-MC) disminuyó del 17 al 3%. El promedio anual de diagnósticos por paciente fue ligeramente menor que en el archivo de referencia (2,26 frente a 2,43), así como las tasas de diversos grupos de enfermedades. Conclusiones: Es factible que los médicos de atención primaria alcancen un alto grado de calidad en la clasificación de diagnósticos mediante CIE-9-MC. La implantación de medidas de evaluación, corrección de errores e información a los clínicos permitió mejorar notablemente los resultados iniciales</dc:description>
+<dc:source>Gac Sanit;20(3): 194-201, may. 2006. tab</dc:source>
+<dc:identifier>ibc-047204</dc:identifier>
+<dc:title xml:lang="es">¿Es factible que los médicos de primaria utilicen CIE-9-MC? Calidad de la codificación de diagnósticos en las historias clínicas informatizadas</dc:title>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d28405</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d12224</dc:subject>
+<dc:subject>^d11756</dc:subject>
+<dc:subject>^d26426^s22011</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200605</dc:date>
+</metadata>
+</record>
+</ibecs-document>

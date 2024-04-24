@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-92926</identifier>
+<setSpec>0211-5638</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Discriminant analysis of the ultrasonographic textural pattern with co-occurrence matrices as a new tool for ultrasonographic of tendon</dc:title>
+<dc:description xml:lang="en">AbstractObjectiveThe aim of this study was to evaluate the classification power as the age and sex of discriminant models (DM) generated from the echo-texture of the Achilles tendon (AT).Materials and methodsThe design was an observational, cross-sectional study report on 103 subjects (49 females and 54 males) 18 to 53 years old (mean = 29.8, SD = 0.86). We took bilateral transverse ultrasonographies at 20 mm from the insertion of the AT. Sixty variables were obtained from grey level co-occurrence matrices (GLCM): contrast, homogeneity, uniformity, entropy and correlation for three scales (1, 5 and 10 pixels) and two orientations (0° and 90°) with ImageJ 1.43 software. Multidimensional discriminant models were performed with forced inclusion method (CI95%).ResultsThe global MD for classification by age group showed a sensitivity of 74% and a specificity of 91%. In the DM women's ultrasound pattern sensitivity increased to 90% and specificity 97%, while sensitivity and specificity of ultrasound pattern DM men were 96% and 99% respectively. When cross-validations were performed for models of women and men, the sensitivities of the models were reduced to 30%, suggesting that the AT echotextural behavior is different.ConclusionMultidimensional analysis of Achilles tendon echotexture with GLCM showed good sensitivity and specificity in the classification of subjects by age group that improved when the models were segmented by gender(AU)</dc:description>
+<dc:creator>de-Groot-Ferrando, A</dc:creator>
+<dc:creator>Ríos-Díaz, J</dc:creator>
+<dc:creator>Pérez-Llanes, R</dc:creator>
+<dc:creator>del-Baño-Aledo, M. E</dc:creator>
+<dc:creator>Martínez-Payá, J. J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">ObjetivoEvaluar el poder clasificatorio por grupo de edad y sexo de modelos discriminantes (MD) a partir de la ecotextura del tendón de Aquiles (TA).Material y métodosSe diseñó un estudio de observacional, transversal sobre 103 sujetos (49 mujeres y 54 hombres) con edades comprendidas entre los 18 y los 53 años (media = 29,8; desviación estándar = 0,86). Se tomaron ecografías transversales bilaterales a 20 mm de la inserción del TA con un ecógrafo Sonosite-Titan (L38 a 5-10 Hz). Se obtuvieron 60 variables texturales a partir de las matrices de concurrencia del nivel de gris (GLCM): contraste, homogeneidad, uniformidad, entropía y correlación para tres escalas (1, 5 y 10 píxeles) y dos orientaciones (0° y 90°) con el programa ImageJ 1.43. Se realizó un análisis multidimensional discriminante exploratorio con el método de inclusión forzosa con SPSS 15.0 (IC del 95%).ResultadosEn el MD global la sensibilidad fue del 74% y la especificidad del 91% para el grupo de edad. En el MD de mujeres la sensibilidad fue del 90% y la especificidad del 97%, mientras que en el MD de los hombres fueron del 96 y el 99%, respectivamente. Tras las validaciones cruzadas entre mujeres y hombres, las sensibilidades se redujeron a un 30%, lo que sugiere que el comportamiento ecotextural del TA en hombres y en mujeres es diferente.ConclusiónEl análisis multivariante de la ecotextura del TA con GLCM mostró una buena sensibilidad y especificidad en la clasificación de los sujetos según el grupo de edad, que mejoraron cuando los modelos se segmentaron según el sexo(AU)</dc:description>
+<dc:source>Fisioterapia (Madr., Ed. impr.);33(4): 157-165, jul. -ago. 2011.</dc:source>
+<dc:identifier>ibc-92926</dc:identifier>
+<dc:title xml:lang="es">Análisis discriminante del patrón textural ecográfico con matrices de concurrencia como nueva herramienta para el estudio del tendón</dc:title>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d50271</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d134^s29166</dc:subject>
+<dc:subject>^d12437</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d1862^s22045</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d53386</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201108</dc:date>
+</metadata>
+</record>
+</ibecs-document>

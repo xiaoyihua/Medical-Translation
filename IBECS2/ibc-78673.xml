@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-78673</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Comparative assessment of the Vitek 2 and Phoenix systems for detection of extended-spectrum beta-lactamases</dc:title>
+<dc:description xml:lang="en">Introduction and Purpose Detection of beta-lactam resistance in Escherichia coli and Klebsiella pneumoniae strains is clinically relevant. Moreover, it is important to differentiate between extended-spectrum beta-lactamase (ESBL) production and other mechanisms of resistance to avoid inadequate treatment of infection caused by these strains. The aim of this study was to compare the performance of the Vitek 2 and BD Phoenix automated systems for confirmatory testing of ESBL production. Material and Methods A total of 193 clinical isolates of phenotypically confirmed ESBL producers (174 E. coli and 19 K. pneumoniae) were assayed by the Vitek 2 and BD Phoenix systems using AST-N058 cards and UNMIC/ID-62 panels, respectively. The double-disk synergy test and the Etest were used as phenotype reference methods. Twelve strains characterized by genotyping were used as positive and negative controls. Results In the clinical isolates, the sensitivity of the tests was 99.5% for Vitek and 95.3% for Phoenix. There were no significant differences between the 2 systems in the control strains. Execution of the expert system raised the sensitivity of Phoenix to 100%. However, the Vitek 2 expert system considered the results obtained in 7 strains with ESBL-positive tests to be incoherent. Conclusion Confirmatory testing for ESBL production with the Vitek 2 system (AST-N058 card) showed higher sensitivity than the Phoenix (UNMIC-ID 62 panel) system. Nevertheless, the performance of the expert systems in the 2 automated tests was similar for ESBL detection in E. coli and K. pneumonia (AU)</dc:description>
+<dc:creator>Regueiro,  Benito J</dc:creator>
+<dc:creator>Moldes, Luz</dc:creator>
+<dc:creator>Romero-Jung,  Patricia</dc:creator>
+<dc:creator>Varón, Carlos</dc:creator>
+<dc:creator>Martínez-Lamas, Lucía</dc:creator>
+<dc:creator>Treviño, Mercedes</dc:creator>
+<dc:creator>García-Riestra, Carlos</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción La detección de la multirresistencia a betalactámicos en Escherichia coli y Klebsiella pneumoniae es una cuestión clínicamente relevante. Por otro lado, es interesante diferenciar entre la producción de betalactamasas de espectro extendido (BLEE) y otros mecanismos de resistencia para evitar el tratamiento inadecuado de infecciones causadas por este tipo de cepas. El objetivo del presente estudio fue comparar la capacidad de las pruebas confirmatorias de los sistemas automatizados Vitek 2 y Phoenix para detectar la producción de BLEE en E. coli y K. pneumoniae. Material y métodos Se ensayaron 193 aislamientos clínicos fenotípicamente productores de BLEE (174 E. coli y 19K. pneumoniae) por Vitek 2 y BD Phoenix System y se utilizaron las tarjetas AST-N058 y los paneles UNMIC/ID-62, respectivamente. Se consideraron métodos fenotípicos de referencia la prueba de sinergia con doble disco y Etest. Como controles positivos y negativos se ensayaron 12 cepas genotípicamente caracterizadas. Resultados En el caso de los aislamientos clínicos, la sensibilidad fue del 99,5% para Vitek 2 y del 95,3% para Phoenix. En las cepas control no hubo diferencias entre ambos sistemas. La ejecución del sistema experto elevó la sensibilidad del Phoenix al 100%. Sin embargo, el sistema experto de Vitek 2 consideró incoherentes los resultados obtenidos en 7 aislamientos con la prueba para BLEE positiva. Conclusión La sensibilidad de la prueba confirmatoria para la producción de BLEE es superior en las tarjetas N-058 de Vitek. No obstante, la actuación de los sistemas expertos sitúa a ambos sistemas a la misma altura en su capacidad de detección de BLEE en E. coli y K. pneumoniae (AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;27(10): 566-570, dic. 2009. ilus, tab</dc:source>
+<dc:identifier>ibc-78673</dc:identifier>
+<dc:title xml:lang="es">Comparación entre las pruebas para la detección de betalactamasas de espectro extendido de los sistemas Vitek 2 y Phoenix</dc:title>
+<dc:subject>^d5016^s22033</dc:subject>
+<dc:subject>^d1639^s22033</dc:subject>
+<dc:subject>^d5016^s22021</dc:subject>
+<dc:subject>^d1639^s22002</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d5016^s22026</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d24244^s22045</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d1337</dc:subject>
+<dc:subject>^d7887^s22026</dc:subject>
+<dc:subject>^d24244^s22039</dc:subject>
+<dc:subject>^d7887^s22021</dc:subject>
+<dc:subject>^d7887^s22033</dc:subject>
+<dc:subject>^d32344</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200912</dc:date>
+</metadata>
+</record>
+</ibecs-document>

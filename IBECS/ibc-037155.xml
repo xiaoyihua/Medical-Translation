@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-037155</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Analysis with the propensity score of the association between likelihood of treatment and event of interest in observational studies. An example with myocardial reperfusion</dc:title>
+<dc:description xml:lang="en">Introduction and objectives. Analysis of the effect of treatment in observational studies is complex due to differences between treated and non-treated patients. Calculating the probability of receiving treatment conditioned on relevant covariates (propensity score [PS]) has been proposed as a method to control for these differences. Were port an application of PS to assess the association between reperfusion treatment and 28-day case fatality in patients with acute myocardial infarction (AMI).Method. We describe the procedure used to calculate PS for receiving reperfusion treatment, and different strategies to analyze the association between PS and case fatality with regression modeling and matching. Data were from a population-based registry of 6307 patients with AMI in Spain during 1997-98.Results. The PS for reperfusion was calculated in 5622patients. In the multivariate analysis, reperfusion was associated with lower case fatality (OR = 0.59; 95% confidence interval [95% CI]: 0.46-0.77). When PS was included as a covariate, this association became non-significant (OR = 0.76; 95% CI: 0.57-1.01). In the subgroup of matched patients with a similar PS (n = 3138),treatment was not associated with case fatality (OR =0.95; 95% CI: 0.72-1.26). When the influence of cases with missing data on PS was controlled for, reperfusion treatment was associated with lower fatality (OR = 0.66;95% CI: 0.55-0.80).Conclusions. Calculating propensity score is a method that controls for differences between treated and non-treated patients. This score has limitations when matching is incomplete and when data are missing. Results of the present example suggest that reperfusion treatment reduces AMI case fatality</dc:description>
+<dc:creator>Tormo, María J</dc:creator>
+<dc:creator>Hurtado-de-Saracho, Iraida</dc:creator>
+<dc:creator>Segura, Antonio</dc:creator>
+<dc:creator>Arteagoitia, José M</dc:creator>
+<dc:creator>Turumbay, Javier</dc:creator>
+<dc:creator>Navarro, Carmen</dc:creator>
+<dc:creator>Cirera, Lluís</dc:creator>
+<dc:creator>Tomás, Carlos A</dc:creator>
+<dc:creator>Fiol, Miquel</dc:creator>
+<dc:creator>Arcos, Enrique de los</dc:creator>
+<dc:creator>Elosua, Roberto</dc:creator>
+<dc:creator>Vega, Gema</dc:creator>
+<dc:creator>Masiá, Rafael</dc:creator>
+<dc:creator>Martí, Helena</dc:creator>
+<dc:creator>Francés-Sempere, Mercedes</dc:creator>
+<dc:creator>Marrugat, Jaume</dc:creator>
+<dc:creator>Cabadés, Adolfo</dc:creator>
+<dc:creator>Pérez-Bárcena, Jon</dc:creator>
+<dc:creator>Aldasoro, Elena</dc:creator>
+<dc:creator>Sala, Joan</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos. Determinar el efecto de un tratamiento en estudios observacionales es problemático por las diferencias existentes entre tratados y no tratados. Un método propuesto para controlar estas diferenciases calcular la probabilidad condicionada por covariables de recibir el tratamiento, Propensity Score (PS).Presentamos una aplicación de este método analizándola asociación entre reperfusión y letalidad a 28 días en pacientes con infarto agudo de miocardio (IAM).Método. Se presenta cómo calcular la PS de recibir reperfusión y las diferentes estrategias para analizar posteriormente su asociación con la letalidad mediante modelos de regresión y apareamiento. Utilizamos datos de un registro poblacional de IAM realizado en España entre1997 y 1998 que incluyó 6.307 IAM. Resultados. Se calculó la PS de reperfusión en 5.622pacientes. En el análisis multivariado la reperfusión se asoció con menor letalidad (odds ratio [OR] = 0,59; intervalo de confianza [IC] del 95%, 0,46-0,77); al ajustara demás por la PS de reperfusión esta asociación no fue significativa (OR = 0,76; IC del 95%, 0,57-1,01). En el subgrupo de pacientes apareados, tratados y no tratados con PS de reperfusión similar (n = 3.138), este tratamiento no se asoció con letalidad (OR = 0,95; IC del95%, 0,72-1,26). Controlando el impacto de los casos con datos insuficientes en la PS de reperfusión, ésta se asoció con menor letalidad (OR = 0,66; IC del 95%,0,55-0,80).Conclusiones. El cálculo de la PS es un método para controlar las diferencias entre los grupos tratado y no tratado. Tiene limitaciones cuando el apareamiento es incompleto o hay datos insuficientes en la PS calculada. Los resultados del ejemplo presentado indican que la reperfusión reduce la letalidad del IAM</dc:description>
+<dc:source>Rev Esp Cardiol;58(2): 126-136, feb. 2005. tab, graf</dc:source>
+<dc:identifier>ibc-037155</dc:identifier>
+<dc:title xml:lang="es">Análisis de la asociación entre un tratamiento y un acontecimiento de interés en estudios observacionales utilizando la probabilidad de recibir el tratamiento (Propensity Score). Un ejemplo con la reperfusión miocárdica</dc:title>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d30047</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d9395^s22067</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21067</dc:subject>
+<dc:subject>^d9395^s22047</dc:subject>
+<dc:subject>^d13411^s22080</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d27794</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d24768</dc:subject>
+<dc:subject>^d24811</dc:subject>
+<dc:subject>^d23771^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200502</dc:date>
+</metadata>
+</record>
+</ibecs-document>

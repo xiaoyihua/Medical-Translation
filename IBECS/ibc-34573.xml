@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-34573</identifier>
+<setSpec>0212-6567</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Efficacy of time series analysis in health planning for cancer in Spain</dc:title>
+<dc:creator>Ocaña-Riola, R</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Objetivo. Evaluar la eficacia del modelo utilizado para predecir la mortalidad por cáncer en España para el año 2000, cuyas estimaciones aparecieron en la revista ATENCIÓN PRIMARIA en 1999.Diseño. Estudio descriptivo. Emplazamiento. Ámbito nacional. Participantes. Defunciones por cáncer ocurridas en España durante el año 2000.Mediciones principales. Las predicciones realizadas para el año 2000 para varones y mujeres se obtuvieron de la publicación aparecida en ATENCIÓN PRIMARIA en el año 1999.Los datos oficiales de mortalidad por cáncer para el año 2000 se tomaron de las defunciones según la causa de muerte publicadas por el Instituto Nacional de Estadística (INE) a comienzos de 2003.Resultados. En el año 2000, 59.212 varones y 35.860 mujeres murieron por cáncer, según las cifras oficiales publicadas por el INE. Las cifras predichas para ese año por los modelos de series temporales fueron de 60.561 varones y 36.183 mujeres. Las predicciones realizadas para el año 2000 dieron intervalos de confianza para la tasa bruta de mortalidad y el número de defunciones por cáncer en España que contenían las verdaderas cifras publicadas por el INE en 2003.Conclusiones. El error global cometido en las predicciones de la mortalidad por cáncer en España para el año 2000 es casi despreciable para el proceso de la planificación sanitaria, siendo métodos altamente eficaces para la toma de decisiones. El análisis de series temporales no sólo puede realizar importantes aportaciones en la planificación sanitaria del cáncer. También la gestión y política sanitaria pueden beneficiarse de la potencia de estos modelos (AU)</dc:description>
+<dc:source>Aten Primaria;34(1): 15-19, jun. 2004.</dc:source>
+<dc:identifier>ibc-34573</dc:identifier>
+<dc:title xml:lang="es">Eficacia del análisis de series temporales para la planificación sanitaria del cáncer en España</dc:title>
+<dc:subject>^d27830</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d6436</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d5678</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d9562</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200406</dc:date>
+</metadata>
+</record>
+</ibecs-document>

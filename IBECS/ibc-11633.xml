@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-11633</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Analysis of the causes and potential avoidability of readmissions in an acute patients' hospital</dc:title>
+<dc:creator>Hidalgo Rojas, Luis</dc:creator>
+<dc:creator>Lorenzo Nogueiras, Luisa</dc:creator>
+<dc:creator>Jiménez Puente, Alberto</dc:creator>
+<dc:creator>Gómez Aracena, Jorge</dc:creator>
+<dc:creator>García Alegría, Javier</dc:creator>
+<dc:creator>Fernández Crehuet Navajas, Joaquín</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">FUNDAMENTO: Las tasas de reingresos hospitalarios se utilizan como indicadores de calidad asistencial, aunque las causas de éstos no están suficientemente estudiadas ni existe una definición unificada del indicador. Nos planteamos determinar las causas y potencial evitabilidad de los reingresos en nuestro centro e identificar su definición más adecuada. PACIENTES Y MÉTODOS: Estudio observacional transversal. Ámbito: Hospital Costa del Sol (Marbella, Málaga). Sujetos de estudio: muestra aleatoria de reingresos en 6 meses del alta (n = 363).Instrumentalización: determinación de las causas y potencial evitabilidad de los reingresos mediante revisión de historias clínicas por pares de observadores. Análisis descriptivo y de regresión logística sobre las variables del Conjunto Mínimo Básico de Datos (CMBD) que se relacionan con la evitabilidad de los reingresos. RESULTADOS: El 19 por ciento (intervalo de confianza [IC] del 95 por ciento, 15,0-23,0) de los reingresos hospitalarios en 6 meses del alta se atribuyeron a situaciones potencialmente evitables de haberse modificado los cuidados aplicados durante el episodio previo. Este porcentaje alcanzó el 37 por ciento (IC del 95 por ciento, 27,4-47,3) para servicios quirúrgicos, el 13 por ciento (IC del 95 por ciento, 8,7-17,6) para servicios médicos y el 12 por ciento (IC del 95 por ciento, 2,9-20,6) para obstetricia. Las variables relacionadas con la potencial evitabilidad de los reingresos fueron, en el conjunto del hospital, la menor duración del plazo desde el alta previa y la diferencia de diagnóstico entre ambos episodios.CONCLUSIONES: La mayor parte de los reingresos hospitalarios se deben a situaciones no evitables mediante la modificación de los cuidados aplicados durante el ingreso previo. Las definiciones de tasas de reingresos deberían incluir solamente los reingresos tempranos y con un diagnóstico principal diferente al del ingreso previo, con el fin de detectar fundamentalmente situaciones potencialmente evitables (AU)</dc:description>
+<dc:source>Med. clín (Ed. impr.);118(13): 500-505, abr. 2002.</dc:source>
+<dc:identifier>ibc-11633</dc:identifier>
+<dc:title xml:lang="es">Análisis de las causas de los reingresos en un hospital de agudos y su evitabilidad potencial</dc:title>
+<dc:subject>^d28479</dc:subject>
+<dc:subject>^d1447</dc:subject>
+<dc:subject>^d19062</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d10553</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d2446</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d28561</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200204</dc:date>
+</metadata>
+</record>
+</ibecs-document>

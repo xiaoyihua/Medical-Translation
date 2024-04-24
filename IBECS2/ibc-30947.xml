@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-30947</identifier>
+<setSpec>0213-5434</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Equine stress</dc:title>
+<dc:creator>Martos, N</dc:creator>
+<dc:creator>Ayala, I</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Facultad de Veterinaria. Universidad de Murcia</dc:publisher>
+<dc:description xml:lang="es">Los caballos son una especie muy sensible al estrés, una respuesta aguda de estrés induce un aumento en las concentraciones de cortisol plasmático. A corto plazo, moviliza energía, pero la producción de cortisol mantenida crónicamente contribuye al agotamiento de los músculos, a la hipertensión y a la alteración del sistema inmune y fertilidad. Esta respuesta de estrés crónico varía las concentraciones de cortisol plasmático según el estímulo que lo origina y la especie animal que se ve afectada. En este trabajo se revisan las diversas aportaciones sobre el tema: cómo afecta el transporte al estrés de los équidos (según la distancia, condiciones climatológicas y de transporte). También se estudia la relación entre estrés y ejercicio considerando varias variables como la edad del caballo, esfuerzo realizado en el ejercicio y condiciones ambientales. Por último, se considera la relación que existe entre estrés y enfermedad, teniendo en cuenta cómo afecta cada patología y la influencia de la evolución clínica en la concentración de cortisol plasmático (AU)</dc:description>
+<dc:source>An. vet. Murcia;19: 121-128, 2003.</dc:source>
+<dc:identifier>ibc-30947</dc:identifier>
+<dc:title xml:lang="es">El estrés en los équidos</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d1540^s22031</dc:subject>
+<dc:subject>^d13700^s22012</dc:subject>
+<dc:subject>^d13700^s22067</dc:subject>
+<dc:subject>^d50337^s22066</dc:subject>
+<dc:subject>^d9324^s22032</dc:subject>
+<dc:subject>^d13700^s22016</dc:subject>
+<dc:subject>^d22498^s22002</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d23631^s22056</dc:subject>
+<dc:subject>^d834^s22056</dc:subject>
+<dc:subject>^d6891^s22056</dc:subject>
+<dc:subject>^d19637^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200300</dc:date>
+</metadata>
+</record>
+</ibecs-document>

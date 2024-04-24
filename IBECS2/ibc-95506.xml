@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-95506</identifier>
+<setSpec>0212-1611</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Chronic liver disease and cirrhosis mortality and social deprivation: a spatial analysis in small areas of Madrid region</dc:title>
+<dc:description xml:lang="en">Objectives: To study census-tract distribution of chronic liver disease and cirrhosis mortality in the Madrid Region and its association with socio-economic deprivation. Methods: Cross-sectional, ecological (3906 censustract) study, using mortality data for 1996-2003 and a deprivation index drawn up on the basis of 2001 census data. Standardised mortality ratios were calculated taking Spanish rates for 2001 as reference. Smoothed censustract relative risks were computed using the Besag-York-Mollie model. Relative risks (RRs) of dying and their 95% credibility intervals (95% CIs) were calculated according to quartiles of the deprivation index (with the fourth quartile -Q- of the indicator being the most unfavourable situation). Maps were plotted depicting the distribution of the posterior probability of RR &gt; 1. Results: Census tracts with a high risk of mortality were detected, mostly located in the centre and on the eastern, south-eastern and south-western fringes of the city of Madrid. Mortality increased with deprivation. RRs of mortality according to quartíles of the deprivation index were: Q2 = 1.5 (CI: 1.3-1.6), Q3 = 1.9 (CI:1.7-2.2) and Q4 = 2.5 (CI:2.2-2.8) for men; and Q2 = 1.3 (CI:1.1-1.5), Q3 = 1.5 (CI:1.3-1.7) and Q4 = 1.6 (CI:1.3-1.8) forwomen. Conclusions: This small-area study enabled census tracts with excess mortality eligible for a special public health intervention to be identified, and their association with socio-economic deprivation to be confirmed (AU)</dc:description>
+<dc:creator>Soto, MJ</dc:creator>
+<dc:creator>López, L</dc:creator>
+<dc:creator>Marta, I</dc:creator>
+<dc:creator>Abad, I</dc:creator>
+<dc:creator>Gandarillas, A</dc:creator>
+<dc:creator>Zorrilla, B</dc:creator>
+<dc:creator>Domínguez Berjón, F</dc:creator>
+<dc:creator>Segura del Pozo, J</dc:creator>
+<dc:creator>Duque, I</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objetivos: Estudiar la distribución por secciones censales de la mortalidad por cirrosis y hepatopatías crónicas de la Comunidad de Madrid y su asociación con la privación socioeconómica. Métodos: Estudio transversal y ecológico (3.906 secciones censales) utilizando los datos del registro de mortalidad de 1996-2003 y un índice de privación construido a partir de los datos del Censo de 2001. Se calcularon razones de mortalidad estandarizadas tomando como referencia las tasas de España del 2001. Los riesgos relativos suavizados de las secciones censales se calcularon siguiendo el modelo Besag-York-Molife. Se han estimado los riesgos relativos (RR) de morir, y su intervalo de credibilidad al 95% (ICI), según los cuartiles del índice de privación (siendo el cuarto cuartil -Q4- del indicador la situación más desfavorable). Se realizaron mapas representando la distribución de la probabilidad posterior de RR &gt; 1. Resultados: Se han detectado secciones censales con alto riesgo de mortalidad localizadas en su mayoría en el centro y la periferia este, sureste y suroeste de la ciudad de Madrid. La mortalidad se incrementa con la privación social: El RR de mortalidad según cuartiles del índice de privación fue: Q2 = 1,5 (CI: 1,3-1,6); Q3 = 1,9 (CI: 1,7-2,2); Q4 = 2,5 (CI: 2,2-2,8), para los hombres; y Q2 = 1,3 (CI: 1,1-1,5); Q3 = 1,5 (CI: 1,3-1,7); Q4 = 1,6 (CI: 1,3-1,8), para las mujeres. Conclusiones: El estudio de áreas pequeñas ha permitido identificar secciones censales con sobremortalidad subsidiarias de una intervención especial de salud pública, así como confirmar su asociación con la privación socioeconómica (AU)</dc:description>
+<dc:source>Nutr Hosp;25(4): 597-605, jul.-ago. 2010. mapas, tab</dc:source>
+<dc:identifier>ibc-95506</dc:identifier>
+<dc:title xml:lang="es">Mortalidad por cirrosis y otras hepatopatías crónicas y privación social: un análisis espacial por áreas pequeñas de la Comunidad de Madrid</dc:title>
+<dc:subject>^d37673^s22066</dc:subject>
+<dc:subject>^d8281^s22047</dc:subject>
+<dc:subject>^d50334^s22083</dc:subject>
+<dc:subject>^d13306^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d8276^s22047</dc:subject>
+<dc:subject>^d50277</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201008</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-156444</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Mortality prediction using TRISS methodology in the Spanish ICU Trauma Registry (RETRAUCI)</dc:title>
+<dc:description xml:lang="en">Objectives: To validate Trauma and Injury Severity Score (TRISS) methodology as an auditing tool in the Spanish ICU Trauma Registry (RETRAUCI). Design: A prospective, multicenter registry evaluation was carried out. Setting: Thirteen Spanish Intensive Care Units (ICUs). Patients: Individuals with traumatic disease and available data admitted to the participating ICUs. Interventions: Predicted mortality using TRISS methodology was compared with that observed in the pilot phase of the RETRAUCI from November 2012 to January 2015. Discrimination was evaluated using receiver operating characteristic (ROC) curves and the corresponding areas under the curves (AUCs) (95% CI), with calibration using the Hosmer&#150;Lemeshow (HL) goodness-of-fit test. A value of p&lt;0.05 was considered significant. Main variables of interest: Predicted and observed mortality. Results: A total of 1405 patients were analyzed. The observed mortality rate was 18% (253 patients), while the predicted mortality rate was 16.9%. The area under the ROC curve was 0.889 (95% CI: 0.867&#150;0.911). Patients with blunt trauma (n=1305) had an area under the ROC curve of 0.887 (95% CI: 0.864&#150;0.910), and those with penetrating trauma (n=100) presented an area under the curve of 0.919 (95% CI: 0.859&#150;0.979). In the global sample, the HL test yielded a value of 25.38 (p=0.001): 27.35 (p&lt;0.0001) in blunt trauma and 5.91 (p=0.658) in penetrating trauma. TRISS methodology underestimated mortality in patients with low predicted mortality and overestimated mortality in patients with high predicted mortality. Conclusions: TRISS methodology in the evaluation of severe trauma in Spanish ICUs showed good discrimination, with inadequate calibration &#150; particularly in blunt trauma (AU)</dc:description>
+<dc:creator>Fernández Ortega, JF</dc:creator>
+<dc:creator>Llompart Pou, JA</dc:creator>
+<dc:creator>Roldán Ramírez, J</dc:creator>
+<dc:creator>Egea Guerrero, JJ</dc:creator>
+<dc:creator>González Robledo, J</dc:creator>
+<dc:creator>Pino Sánchez, FI</dc:creator>
+<dc:creator>Chico Fernández, M</dc:creator>
+<dc:creator>Sánchez Casado, M</dc:creator>
+<dc:creator>Bueno González, A</dc:creator>
+<dc:creator>Mayor García, MD</dc:creator>
+<dc:creator>Ballesteros Sanz, MÁ</dc:creator>
+<dc:creator>Alberdi Odriozola, F</dc:creator>
+<dc:creator>Servià Goixart, L</dc:creator>
+<dc:creator>Guerrero López, F</dc:creator>
+<dc:creator>Tejerina Alvarez, E</dc:creator>
+<dc:creator>Homar Ramírez, J</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objetivos: Evaluar el Trauma and Injury Severity Score (TRISS) como instrumento de auditoría en el Registro Español de Trauma en UCI. Diseño: Evaluación prospectiva de un registro multicéntrico. Ámbito: Trece UCI españolas. Pacientes: Individuos con enfermedad traumática y datos completos ingresados en las UCI participantes. Intervenciones: Comparamos la mortalidad predicha por el TRISS con la observada en la fase piloto del Registro Español de Trauma en UCI desde noviembre de 2012 hasta enero de 2015. La discriminación se evaluó mediante curvas receiver operating characteristic y el valor bajo su área (IC 95%), y la calibración, mediante el test de bondad de ajuste de Hosmer-Lemeshow. Un valor de p&lt;0,05 se consideró significativo. Principales variables de interés: Mortalidad observada y predicha. Resultados: Analizamos 1.405 pacientes. La mortalidad observada fue del 18% (253 pacientes), mientras que la predicha fue del 16,9%. El área bajo la curva receiver operating characteristic fue de 0,889 (IC 95% 0,867-0,911). Los pacientes con trauma cerrado (n=1.305) presentaron un área bajo la curva receiver operating characteristic de 0,887 (IC 95% 0,864-0,910), y aquellos con traumatismo penetrante (n=100), de 0,919 (IC 95% 0,859-0,979). En la muestra global, el test de Hosmer-Lemeshow mostró un valor de 25,38 (p=0,001), siendo de 27,35 (p&lt;0,0001) en trauma cerrado y de 5,91 (p=0,658) en trauma penetrante. La metodología TRISS infraestimó la mortalidad en los pacientes con mortalidad predicha baja y la sobreestimó en pacientes con mortalidad predicha elevada. Conclusiones: La aplicación de la metodología TRISS en el trauma grave ingresado en las UCI españolas mostró buenos niveles de discriminación y una calibración inadecuada, especialmente en el traumatismo cerrado (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);40(7): 395-402, oct. 2016. graf, tab</dc:source>
+<dc:identifier>ibc-156444</dc:identifier>
+<dc:title xml:lang="es">Predicción de la mortalidad a través de la metodología TRISS en el Registro Español de Trauma en UCI (RETRAUCI)</dc:title>
+<dc:subject>^d3439^s22045</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d33939^s22045</dc:subject>
+<dc:subject>^d7530^s22083</dc:subject>
+<dc:subject>^d24901</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d15345^s22047</dc:subject>
+<dc:subject>^d29640</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201610</dc:date>
+</metadata>
+</record>
+</ibecs-document>

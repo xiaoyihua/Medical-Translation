@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-22221</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Physiology of the autonomic nervous system</dc:title>
+<dc:creator>Navarro, X</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>César Viguera</dc:publisher>
+<dc:description xml:lang="es">Introducción. El sistema nervioso autónomo (SNA) está constituido por un complejo conjunto de neuronas y vías que controlan la función de los diferentes sistemas viscerales del organismo. Su función global consiste en mantener la situación de homeostasis del organismo y efectuar las respuestas de adaptación ante cambios del medio ambiente externo e interno. Desarrollo. El SNA está integrado por vías aferentes viscerales, centros de integración a la altura del tronco del encéfalo, hipotálamo y córtex cerebral, así como vías eferentes simpáticas y parasimpáticas. Las vías eferentes inervan el músculo cardíaco, el músculo liso y las glándulas exocrinas y endocrinas, mientras que las aferentes están organizadas en dos patrones: circuitos paucisinápticos, que median respuestas reflejas de adaptación de sistemas viscerales, y circuitos complejos, con proyecciones a núcleos troncoencefálicos y cerebrales, donde se integra la información y se elaboran respuestas que afectan a múltiples sistemas. Las señales aferentes activan o inhiben los componentes eferentes del SNA mediante vías reflejas, independientes de la voluntad. Estos circuitos reflejos también se modulan a través de señales de estructuras centrales, y constituyen una red neuronal autonómica central, que integran las respuestas somáticas, autonómicas y afectivas. Conclusión. Las disfunciones del SNA se deben posiblemente a aumentos o disminuciones de la actividad autonómica del control, que pueden aparecer por lesiones cerebrales, medulares o de los nervios periféricos (AU)</dc:description>
+<dc:source>Rev Neurol;35(6): 553-562, sept. 2002.</dc:source>
+<dc:identifier>ibc-22221</dc:identifier>
+<dc:title xml:lang="es">Fisiología del sistema nervioso autónomo</dc:title>
+<dc:subject>^d1349</dc:subject>
+<dc:subject>^d31631</dc:subject>
+<dc:subject>^d32115</dc:subject>
+<dc:subject>^d31632</dc:subject>
+<dc:subject>^d31622</dc:subject>
+<dc:subject>^d30975</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d13944</dc:subject>
+<dc:subject>^d10464</dc:subject>
+<dc:subject>^d1350</dc:subject>
+<dc:subject>^d1858</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200209</dc:date>
+</metadata>
+</record>
+</ibecs-document>

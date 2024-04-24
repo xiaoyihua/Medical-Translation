@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-15585</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Analysis of the optimun number alternatives from the Item Response Theory</dc:title>
+<dc:description xml:lang="en">The optimum number of alternatives in multiple choice items is studied. The new procedure applied is based on Item Response Theory and only needs a single sample. Concretely, a 5-alternative 221 items English Vocabulary test was administered to 452 people. Their answers to the 1/2/3 worst alternatives were randomly reassigned to generate their hypothetical answers to items of 4/3/2 alternatives, respectively. Changes in item parameters, test information function and ability estimation were analysed. The worst results were provided by 2-alternative items. As the results in the 3- and 4-alternative items do hardly differ from those obtained in the original 5-alternative case, and in the 3-alternative case the role of partial knowledge is less important, 3-alternative items were considered the best choice. The effects of number of alternatives on ability estimation was also discussed (AU)</dc:description>
+<dc:creator>Olea, Julio</dc:creator>
+<dc:creator>Abad, Francisco J</dc:creator>
+<dc:creator>Ponsoda, Vicente</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Análisis del número óptimo de opciones desde la teoría de la respuesta al ítem. En este estudio se analiza el número óptimo de alternativas en tests de elección - múltiple desde la Teoría de la Respuesta al Ítem (TRI). Se estableció un nuevo procedimiento que permite el estudio de esta cuestión desde la TRI con una sola muestra. Concretamente se aplicó un Test de Vocabulario Inglés de 221 ítems de 5 alternativas a una muestra de 452 personas. Las respuestas de las 1/2/3 peores alternativas fueron reasignadas aleatoriamente para construir las respuestas a los ítems, en la información del test y en la estimación de la habilidad. Se obtuvieron los peores resultados con los ítems de 2 alternativas. La reducción a 3 o 4 alternativas no tuvo efectos prácticos relevantes. Se recomiendan los ítems de 3 alternativas por ser menos susceptibles a la presencia de conocimiento parcial. Se comentan los efectos del número de opciones para diferentes niveles de habilidad (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);13(1): 152-158, feb. 2001. tab, graf</dc:source>
+<dc:identifier>ibc-15585</dc:identifier>
+<dc:title xml:lang="es">Análisis del número óptimo de opciones desde la teoría de la respuesta al ítem</dc:title>
+<dc:subject>^d12364</dc:subject>
+<dc:subject>^d1084^s22083</dc:subject>
+<dc:subject>^d7897</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200102</dc:date>
+</metadata>
+</record>
+</ibecs-document>

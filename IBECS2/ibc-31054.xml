@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-31054</identifier>
+<setSpec>0212-7113</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Elisa methodology based in using magnetic particles applicated to analysis of atrazine in water</dc:title>
+<dc:creator>Almodóvar, S</dc:creator>
+<dc:creator>Lucena, M</dc:creator>
+<dc:creator>Méndez, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Asociación Española de Toxicología</dc:publisher>
+<dc:description xml:lang="es">El presente trabajo describe la validación de la metodlogía ELISA basada en la utilización de anticuerpos policlonales para el análisis de atrazina en muestras de agua. Para ello se han estudiado aspectos como la sensibilidad, la precisión, la exactitud, la especificidad, las interferencias debidas a pH, concentración salina de la muestra y la influencia de la concentración de disolventes orgánicos en el inmunoensayo. Para la realización de este estudio, se ha trabajado con muestras que contenían cantidades conocidad de atrazina de 0.05, 0.10, 0.t0, 1.0 y 5.0 mg/ en agua ultrapura. Se ha podido comprobar que en todos los casos el límite de detección para la atrazina ha sido de 0.047 mg/l (47 ppt), mientaras que la concentración necesaria para inhibir la absorbancia en un 50 por ciento (IC50) ha sido de 0.50 mg/l. En todos los análisis realizados el coeficiente de variación (CV) fue inferior al 10 por ciento y las recuperaciones de atrazina para las muestras ensayadas se mantuvieron en el intervalo 90-103 por ciento. Los resultados demuestran la idoneidad de esta técnica para la detección de atrazina en concentraciones inferiores a la lmáxima concentración permitida por la Directiva de la Comunidad Europea (Directiva 98/83/CE del 3/11798) relativa a la calidad de las aguas destinadas al cosumo humano que establece como valor paramétrico 0.1 mg/l para plaguicidas individuales (AU)</dc:description>
+<dc:source>Rev. toxicol;17(1): 46-52, ene.-abr. 2000. ilus, tab</dc:source>
+<dc:identifier>ibc-31054</dc:identifier>
+<dc:title xml:lang="es">Metodología ELISA basada en la utilización de partículas magnéticas aplicada al análisis de atrazina en agua</dc:title>
+<dc:subject>^d22443^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d13219^s22002</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d15280^s22002</dc:subject>
+<dc:subject>^d1286^s22002</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200004</dc:date>
+</metadata>
+</record>
+</ibecs-document>

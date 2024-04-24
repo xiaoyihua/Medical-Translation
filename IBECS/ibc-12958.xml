@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-12958</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Studying the image and positioning of retail shops with association data</dc:title>
+<dc:description xml:lang="en">Studying the brand image and positioning is nowadays an essential task of almost every commercial or services firm. Image and Positioning studies are usually carried out with the help of Principal Components Factorial Analysis. Metric profile data are necessary to apply this technique, which imply a hard job for the participants who have to evaluate many stimuli in different attributes. Faced with this data collection caveat, researchers commonly choose to reduce the number of entities and attributes although this option is not very recommended when the market is new or very dynamic. The objective of this paper is to offer a different procedure of data collection that minimize this type of problems. Specifically, the possibilities of the Correspondence Analysis (ANACOR) to study both the image and the positioning of retailers whenever association data are available will be shown. Association data reduce time and improve quality in data collection, and allow to do perceptual maps that show how attributes and stimuli are positioned (AU)</dc:description>
+<dc:creator>Rial Boubeta, Antonio</dc:creator>
+<dc:creator>Braña Tobío, Teresa</dc:creator>
+<dc:creator>Varela Mallou, Jesús</dc:creator>
+<dc:creator>García Carreira, Alberto</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Estudiar la imagen y el posicionamiento de una marca es una tarea imprescindible en cualquier empresa comercial o de servicios. En general las consultorías e institutos de investigación realizan sus estudios de Imagen y Posicionamiento a través del Análisis Factorial de Componentes Principales. Para poder aplicar esta técnica es preciso contar con datos de perfil métricos, con el inconveniente de que a menudo los sujetos se ven obligados a realizar una tarea ardua, ya que analizar el mercado competitivo obliga a evaluar muchos estímulos en otros tantos atributos. Ante este inconveniente de la recogida de datos, los investigadores suelen optar por reducir el número de entidades y atributos a estudiar, lo que no siempre resulta adecuado, sobre todo cuando el mercado es novedoso o muy dinámico. El objetivo de este trabajo consiste precisamente en ofrecer al investigador de mercados un procedimiento distinto de recogida de datos que subsane este tipo de problemas. Más concretamente, mostraremos las posibilidades del Análisis de Correspondencias (ANACOR) en el estudio de la imagen y posicionamiento de establecimientos minoristas, cuando disponemos de datos de asociación. Los datos de asociación, además de reducir el tiempo y aumentar la calidad en la recogida de datos, nos permiten elaborar igualmente mapas perceptuales que posibilitan analizar con detalle cómo se posicionan tanto los atributos como los estímulos considerados. (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);14(1): 92-99, ene. 2002. tab, ilus</dc:source>
+<dc:identifier>ibc-12958</dc:identifier>
+<dc:title xml:lang="es">Imagen y posicionamiento de establecimientos minoristas</dc:title>
+<dc:subject>^d3163</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28597^s22045</dc:subject>
+<dc:subject>^d37696^s22045</dc:subject>
+<dc:subject>^d332^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200201</dc:date>
+</metadata>
+</record>
+</ibecs-document>

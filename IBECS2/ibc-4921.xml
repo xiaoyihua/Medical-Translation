@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-4921</identifier>
+<setSpec>0048-7120</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Computer programs for the organization of medical bibliography</dc:title>
+<dc:creator>González Pascual, A. L</dc:creator>
+<dc:creator>Estrada Rodríguez, J. L</dc:creator>
+<dc:creator>Gozalo Reques, F</dc:creator>
+<dc:creator>Garcíanorro Herreros, F. J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">La búsqueda bibliográfica es una parte importante del trabajo del médico hoy en día. Por otra parte, la difusión del ordenador personal, el abaratamiento del módem y el acceso gratuito a bases de datos médicas (pe.la popular Medline) han hecho posible las búsquedas en tiempo real (online) tanto en el lugar de trabajo como en el propio hogar.Estas bases de datos son en nuestros días uno de los recursos más interesantes que ofrece la WWW al médico que investiga y publica o simplemente quiere estar al día. No obstante, el manejo de la información obtenida de esta manera frecuentemente conlleva muchas horas y esfuerzo. Para facilitar al médico esta tarea existen en el mercado diferentes aplicaciones de software de organización bibliográfica. En este artículo ofrecemos al médico prácticos consejos de organización bibliográfica 'bajada' desde Internet, y una valoración crítica del software de organización bibliográfica actualmente disponible en el mercado internacional (AU)</dc:description>
+<dc:source>Rehabilitación (Madr., Ed. impr.);34(5): 369-373, mayo 2000. ilus, tab</dc:source>
+<dc:identifier>ibc-4921</dc:identifier>
+<dc:title xml:lang="es">Programas informáticos para la organización de bibliografía médica</dc:title>
+<dc:subject>^d19402</dc:subject>
+<dc:subject>^d32699^s22049</dc:subject>
+<dc:subject>^d28904</dc:subject>
+<dc:subject>^d33921^s22039</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200005</dc:date>
+</metadata>
+</record>
+</ibecs-document>

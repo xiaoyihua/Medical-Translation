@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-22888</identifier>
+<setSpec>0212-8799</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Biomechanical validation of a method for estimating jumping height from flight time</dc:title>
+<dc:creator>Rodríguez Marroyo, José</dc:creator>
+<dc:creator>Morante, Juan</dc:creator>
+<dc:creator>Peleterio Lopes, Jose</dc:creator>
+<dc:creator>Villa Vicente, José</dc:creator>
+<dc:creator>García López, Juan</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Federación Española de Medicina del Deporte</dc:publisher>
+<dc:description xml:lang="es">Existen tres metodologías básicas para medir la altura del salto vertical: (l) Medición de la distancia entre dos marcas (mano, antebrazo, cintura, cabeza, CG); (2) Registros de fuerza-tiempo; (3) Tiempo de vuelo obtenido, mediante plataformas de contacto, plataformas de fuerza, sistemas láser, etc. Sé han estudiado las diferencias entre las tres (2-11 por ciento) pero no se ha validado la metodología del tiempo de vuelo con otros sistemas. El propósito del presente estudio es validar una nueva metodología de cálculo del salto vertical basada en el tiempo de vuelo y determinar el rango de error al ser comparada con el método de referencia (plataforma de fuerzas). En primer lugar se diseñó el sistema SportJump-v l.0, compuesto por una plataforma de contacto y un software; posteriormente se validó el sistema de cronometraje con 9 sujetos que realizaron 12 saltos verticales únicos y repetidos (108 tiempos de vuelo y 72 tiempos de contacto) que fueron medidos por: a-Sportlump-vl.0 a 1 000 Hz (SJ), b-Un diodo led filmado por una cámara de alta velocidad a 500Hz (LED) y c-Plataforma de fuerzas a 1000Hz (PF). Los resultados indican SJ y LED no presentan diferencias en la medición de tiempos de contacto y de vuelo, lo que justifica la validación del software SportJump-vl.0; sin embargo subestiman el tiempo de vuelo en 9 ms respecto a PF (p&lt;0.001), ocurriendo lo contrario en los tiempos de contacto, lo que se explica por la presión necesaria para cerrar el circuito mecánico. En todo caso las diferencias son constantes, puesto que las correlaciones entre los tres sistemas fueron son mayores de 0.98 (p&lt;0.001).En conclusión, se ha validado el sistema SportJump-v1.0 para una precisión de 500 Hz, aunque deben tenerse en cuenta las diferencias en los tiempos de contacto y de vuelo registrados sobre plataformas de contacto con respecto a las plataformas de fuerza. Igualmente el sistema SportJump-v1.0 es el único que registra toda la serie de saltos repetidos, aportando facilidades en la obtención y tratamiento de datos (AU)</dc:description>
+<dc:source>Arch. med. deporte;20(93): 28-34, ene. 2003.</dc:source>
+<dc:identifier>ibc-22888</dc:identifier>
+<dc:title xml:lang="es">Validación biomecánica de un metodo para estimar la altura de salto a partir del tiempo de vuelo</dc:title>
+<dc:subject>^d1721</dc:subject>
+<dc:subject>^d23631^s22031</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d11240^s22031</dc:subject>
+<dc:subject>^d31344</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200301</dc:date>
+</metadata>
+</record>
+</ibecs-document>

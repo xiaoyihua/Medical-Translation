@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-123502</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Chemotherapy and the Heart</dc:title>
+<dc:description xml:lang="en">The improvements in cancer detection and therapy have created a new cohort of patients who will experience sufficient survival to develop the cardiac complications of the cancer therapy. Three-dimensional echocardiography has been validated as the ultrasound modality with the best accuracy for the calculation of ejection fraction when compared to magnetic resonance imaging, the current gold standard, making it the tool of choice, when available, for the initial evaluation and follow up of the patient receiving chemotherapy.If three-dimensional echocardiography is not available, or if the quality of the images is inadequate, the use of ultrasound contrast can be useful for the definition of the endocardial border and identification of the true apex of the heart, enhancing the ability of the interpreter to accurately calculate volumes and ejection fraction.Two-dimensional strain appears promising as a tool to identify abnormalities in myocardial mechanics very early on during cardiotoxicity, allowing the prediction of later overt systolic dysfunction. This parameter may be useful in the detection of chemotherapy treated patients who could benefit from alternate therapies, thereby decreasing the incidence of cardiotoxicity and its associated morbidity and mortality (AU)</dc:description>
+<dc:creator>Plana,  Juan C</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Las mejoras que se han producido en la detección y el tratamiento del cáncer han dado origen a una nueva cohorte de pacientes que alcanzan una supervivencia suficiente para que puedan aparecer complicaciones cardiacas derivadas del tratamiento del cáncer. La ecografía tridimensional ha sido validada como la modalidad ecográfica que aporta mayor exactitud al cálculo de la fracción de eyección, en comparación con la resonancia magnética, que es el patrón de referencia actual a este respecto, y ello hace que sea el método de elección para la evaluación inicial y el seguimiento de los pacientes tratados con quimioterapia.Si no se dispone de ecocardiografía tridimensional o si la calidad de las imágenes es insuficiente, el uso de contraste ecográfico puede ser útil para definir el límite endocárdico e identificar el vértice cardiaco verdadero, con lo que se mejora la capacidad del evaluador para calcular con exactitud los volúmenes y la fracción de eyección.El strain bidimensional parece prometedor como instrumento para identificar anomalías en la mecánica miocárdica en una fase muy temprana de la cardiotoxicidad y permite predecir una posterior disfunción sistólica manifiesta. Este parámetro puede ser útil en la detección de los pacientes tratados con quimioterapia que pueden obtener beneficio con el empleo de otra alternativa terapéutica, con lo que se reduciría la incidencia de la cardiotoxicidad y la morbimortalidad asociada a ella (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;64(5): 409-415, mayo 2011. ilus, tab</dc:source>
+<dc:identifier>ibc-123502</dc:identifier>
+<dc:title xml:lang="es">La quimioterapia y el corazón</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d974^s22020</dc:subject>
+<dc:subject>^d33091^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d2359^s22036</dc:subject>
+<dc:subject>^d24851^s22045</dc:subject>
+<dc:subject>^d52850^s22020</dc:subject>
+<dc:subject>^d54578^s22020</dc:subject>
+<dc:subject>^d1968^s22057</dc:subject>
+<dc:subject>^d32861^s22020</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201105</dc:date>
+</metadata>
+</record>
+</ibecs-document>

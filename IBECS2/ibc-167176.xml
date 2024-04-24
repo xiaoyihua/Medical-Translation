@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-167176</identifier>
+<setSpec>0001-7310</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Novel Immunologic Approaches to Melanoma Treatment</dc:title>
+<dc:description xml:lang="en">Approaches to treating melanoma have changed radically since the introduction of immunotherapy, and survival figures are now higher than possible with earlier therapies. The immunomodulators currently available mainly block CTLA-4 (cytotoxicT lymphocyte-associated molecule-4) and PD-1 (programed cell death protein 1) translocated to the cell surface, where they inhibit the antitumor immune response. Treatments blocking these molecules are being more widely used. Research now seeks new molecular targets, the best combinations of available drugs, and biomarkers that can identify ideal candidates for each one (AU)</dc:description>
+<dc:creator>Escandell, I</dc:creator>
+<dc:creator>Martín, JM</dc:creator>
+<dc:creator>Jordá, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Desde la introducción de la inmunoterapia el tratamiento del melanoma ha sufrido una revolución, consiguiéndose cifras de supervivencia superiores a las que se alcanzaban con los tratamientos previos. Los fármacos inmunomoduladores disponibles actualmente van dirigidos principalmente frente a las moléculas de superficie CTLA-4 y PD-1, que ejercen un efecto inhibidor sobre la respuesta inmune antitumoral. Se trata de un tratamiento en pleno proceso de expansión, y la investigación se dirige hacia el descubrimiento de nuevas moléculas, las combinaciones de los fármacos disponibles o la identificación de biomarcadores que permitan seleccionar a los pacientes idóneos para cada terapia (AU)</dc:description>
+<dc:source>Actas Dermosifiliogr;108(8): 708-720, oct. 2017. ilus, tab</dc:source>
+<dc:identifier>ibc-167176</dc:identifier>
+<dc:title xml:lang="es">Novedades en inmunología del melanoma</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d7345^s22045</dc:subject>
+<dc:subject>^d920^s22079</dc:subject>
+<dc:subject>^d13259^s22038</dc:subject>
+<dc:subject>^d54634^s22038</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3626^s22079</dc:subject>
+<dc:subject>^d8714^s22038</dc:subject>
+<dc:subject>^d23444^s22038</dc:subject>
+<dc:subject>^d7336^s22079</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201710</dc:date>
+</metadata>
+</record>
+</ibecs-document>

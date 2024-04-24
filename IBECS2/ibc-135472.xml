@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-135472</identifier>
+<setSpec>1888-4008</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">NT-proBNP and procalcitonin request management using computerized rules based on clinical criteria</dc:title>
+<dc:description xml:lang="en">Background: Type B natriuretic peptide and its N-terminal fragment (NT-proBNP) are secreted in  response to an increase in blood pressure and volume overload. NT-proBNP shows a high negative predictive value for heart failure and correlates with the level of severity. Procalcitonin is a biomarker over-expressed in septic patients, which enables bacterial infections to be distinguished from other etiologies, as its concentration is proportional to sepsis severity. Both biomarkers are expensive, thus its indiscriminate use is not advisable. A request protocol based on clinical criteria is presented for both biomarkers, in order to filter the requests using the laboratory informatics system (LIS). Methods: The request forms were designed following the heart failure guidelines of European Society of Cardiology for NT-proBNP, and the guidelines of Society of Critical Care Medicine for procalcitonin, giving a score for each item. Using computerized rules, requests with a score lower than a specific cut-off value were excluded. In addition requests from clinical departments not involved in critical patient care were rejected. Results: A total of 140 requests were received for NT-proBNP, with 339 for procalcitonin. Of these 32 (9.43%) were rejected for procalcitonin, and 4 (2.8%) for NT-proBNP. It can be concluded that the design of a specific request form for NT-proBNP and procalcitonin is an efficient tool for the cost management (AU)</dc:description>
+<dc:creator>Varona Pérez, Julia</dc:creator>
+<dc:creator>Bustos Guadaño, Fernando</dc:creator>
+<dc:creator>Martín Calderón,  José Luis</dc:creator>
+<dc:creator>Juárez González, Ricardo</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: El péptido natriurético cerebral y su fragmento aminoterminal (NT-proBNP) se secretan en respuesta al incremento de la presión arterial y sobrecarga de volumen. Presenta un elevado valor predictivo negativo para el diagnostico de la insuficiencia cardiaca, correlacionándose con su grado de severidad. La procalcitonina es un biomarcador que aumenta su concentración en el plasma de pacientes sépticos, y permite diferenciar infecciones bacterianas frente a otras etiologías, siendo su concentración proporcional a la gravedad de la sepsis. Ambos biomarcadores presentan un elevado precio, que no hace aconsejable su uso indiscriminado. En el presente trabajo hemos propuesto un protocolo de petición para los 2 biomarcadores, basado en los criterios clínicos, con el fin de filtrar adecuadamente las peticiones a través del sistema informático del laboratorio (SIL). Método: Se diseñaron volantes de petición basados en la guía de la insuficiencia cardiaca de la European Society of Cardiology, para el NT-proBNP y en la guía de la Society of Critical Care Medicine para procalcitonina, puntuándose cada uno de los ítems considerados. Mediante reglas informáticas se excluyeron las peticiones cuya puntuación fuese inferior a un determinado valor. Para ambos biomarcadores se excluyeron aquellas peticiones que no procedían de los servicios clínicos implicados. Resultados: Se solicitaron un total de 140 peticiones para el NT-proBNP y 339 para la procalcitonina. Para la procalcitonina se excluyeron 32 peticiones (4,42%) y para el NT-proBNP 4 peticiones (9,43%). Conclusiones: El diseño de una petición específica para NT-proBNP y procalcitonina es una herramienta eficaz para controlar el gasto (AU)</dc:description>
+<dc:source>Rev. lab. clín;8(1): 39-45, ene.-mar. 2015. ilus, tab</dc:source>
+<dc:identifier>ibc-135472</dc:identifier>
+<dc:title xml:lang="es">Gestión de las peticiones de NT-proBNP y procalcitonina mediante reglas computarizadas basadas en criterios clínicos</dc:title>
+<dc:subject>^d8591^s37748</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d8591^s22060</dc:subject>
+<dc:subject>^d25665</dc:subject>
+<dc:subject>^d3378^s37748</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d8591^s22045</dc:subject>
+<dc:subject>^d8591^s22011</dc:subject>
+<dc:subject>^d3378^s22045</dc:subject>
+<dc:subject>^d8591^s22018</dc:subject>
+<dc:subject>^d6486^s22012</dc:subject>
+<dc:subject>^d3378^s22018</dc:subject>
+<dc:subject>^d6486^s22016</dc:subject>
+<dc:subject>^d3378^s22049</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201503</dc:date>
+</metadata>
+</record>
+</ibecs-document>

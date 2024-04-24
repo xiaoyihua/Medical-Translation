@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-135447</identifier>
+<setSpec>0367-2743</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">No disponible</dc:title>
+<dc:description xml:lang="en">Introduction. The ML Flow test is an immunochromatographic assay that detects IgM antibodies against M. leprae-specific anti-phenolic glycolipid I (PGL-I). In addition to slit skin smears stained by the Ziehl-Neelsen technique, it can be helpful in the operational classification of leprosy patients for treatment purposes. Objective. This work studied the relationship between antibody levels as detected by semi-quantitative ML Flow serologic test and bacterial load as quantified by slit skin smear. Patients and methods. 135 patients with newly detected leprosy at the reference service in Sanitary Dermatology in Brazil had slit skin smears (registered as bacillary index &#150; BI) and an ML Flow test (registered qualitatively and semi-quantitatively) performed at admission. A logistic regression and agreement measures (kappa index) were calculated. Results. Slit skin smears were positive in 35.9% of patients and 57% of patients were seropositive for PGL-1 antibodies. Among the seropositive patients, 41.6% had five or fewer skin lesions, and 65.8% had more than one peripheral nerve involved. Slit skin smears were positive in only three seronegative patients (5.6%), and negative in 41.9% of seropositive patients. Patients with a BI of 4&amp;#61666;&amp;#61472;had an OR of 3.3 for being seropositive in comparison to those with a low BI. Conclusions. There is a correlation between serologic test and slit skin smear results. Therefore, an ML Flow test may become a useful tool in the clinical classification of leprosy, besides slit skin smears, which require a proper laboratory infrastructure and experienced personnel (AU)</dc:description>
+<dc:creator>Aparecida de Faia Grossi, Maria</dc:creator>
+<dc:creator>Heleana Lyon,  Silvia</dc:creator>
+<dc:creator>Castorina da Silva, Rozana</dc:creator>
+<dc:creator>Bührer Sékula, Samira</dc:creator>
+<dc:creator>Lyon, Ana Claudia</dc:creator>
+<dc:creator>Rocha, Manoel O C</dc:creator>
+<dc:creator>Lyon, Sandra</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: La técnica ML Flow es un ensayo inmunocromatográfico que detecta anticuerpos de tipo IgM glicolípido fenólico-I (PGL-1) M. leprae específico. Además de los frotis cutáneos teñidos mediante Ziehl-Neelsen puede ser útil en la clasificación de los pacientes de lepra para administrar el correspondiente tratamiento farmacológico. Objetivo: Este estudio revisa la relación entre los niveles de anticuerpos detectables mediante la técnica serológica semi-cuantitativa ML Flow y la carga bacteriana cuantificada mediante frotis cutáneo. Pacientes y métodos: Se obtuvieron frotis cutáneos de 135 pacientes nuevos diagnosticados de lepra en un servicio dermatológico de referencia en Brasil (registrados como índice bacteriológico &#150; IB) y un resultado con el ML Flow (registrado cuantitativa y semi-cuantitativamente) en el momento de ser admitidos al estudio. Se calcularon la regresión logística y concordancia (índice kappa). Resultados: Los frotis cutáneos resultaron positivos en el 35.9% de los pacientes y el 57% de los pacientes eran seropositivos para el PGL-1. De entre los seropositivos, el 41.6% presentaban 5 o menos de 5 lesiones y el 65.8% presentaba la implicación de más de un nervio periférico. Los frotis resultaron positivos en sólo tres casos seronegativos (5.6%) y negativos en el 41.9% de pacientes seropositivos. Los pacientes con un IB+4 presentaban un OR de 3.3 de ser seropositivos en comparación con los de IB más bajo. Conclusiones: Hay una correlación entre el test serológico y los frotis cutáneos. Por tanto, un test ML Flow puede resultar útil para la clasificación clínica de la lepra, además de los frotis cutáneos que requieren una infraestructura de laboratorio y personal con experiencia (AU)</dc:description>
+<dc:source>Fontilles, Rev. leprol;26(6): 523-533, sept.-dic. 2008. tab, graf</dc:source>
+<dc:identifier>ibc-135447</dc:identifier>
+<dc:title xml:lang="es">Comparación de la técnica serológica ML flow y frotis cutáneas para evaluar la carga bacteriana en pacientes nuevos diagnosticados de Lepra</dc:title>
+<dc:subject>^d29168^s22039</dc:subject>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d22207^s22002</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d9359^s22001</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d22207^s22038</dc:subject>
+<dc:subject>^d9359^s22038</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29168^s22074</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d8096^s22016</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d2715</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d54716^s22039</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d13078^s22045</dc:subject>
+<dc:subject>^d53386</dc:subject>
+<dc:subject>^d54716^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200812</dc:date>
+</metadata>
+</record>
+</ibecs-document>

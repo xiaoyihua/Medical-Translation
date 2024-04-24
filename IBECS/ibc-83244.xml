@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-83244</identifier>
+<setSpec>1139-9287</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Brain Complexity analysis and mental disorders</dc:title>
+<dc:description xml:lang="en">The knowledge on the brain processes underlying mental disorders has significantly increased during the last decades, but in spite of this very important research effort a biological marker is not available for such disorders. For example, neurophysiological techniques (EEG and MEG), have been broadly utilized in the investigation of the most important psychiatric syndromes such us schizophrenia, major depression, bipolar disorder or obsessive/compulsive disorder. The outcomes of some of those neurophysiological studies allowed the building of statistical models with very high sensitivity and specificity, although those models did not reach a day to day clinical practice. A potential explanation for this situation is an inadequate analysis procedure which might be missing some important quantums of information contained in brain signals. In this vein, new methods of non-linear analysis have been proposed for the investigation of neurophysiological data. Particularly, the analysis of brain signals&#146; complexity have been broadly utilized in the investigation of psychiatric disorders. Parameters of EEG-MEG complexity usually estimate the predictability of brain oscillations and/or the number of independent oscillators underlying the observed signals. More importantly, complexity parameters seem to be sensitive to the temporal components of brain activity, and therefore might reflect the dynamical nature of psychiatric disorders. This paper reviews some of the most relevant studies within this field, especially those focusing on the diagnosis, follow-up and prediction of response to treatment (AU)</dc:description>
+<dc:creator>Fernández, M</dc:creator>
+<dc:creator>Andreina Méndez, M</dc:creator>
+<dc:creator>Hornero, R</dc:creator>
+<dc:creator>Ortiz, T</dc:creator>
+<dc:creator>López-Ibor, J. J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El conocimiento sobre los procesos cerebrales que subyacentras los trastornos mentales ha incrementado significativamente en las últimas décadas, pero a pesar del importante esfuerzo investigador no disponemos de ningún marcador biológico para estos trastornos. Por ejemplo, las técnicas neurofisiológicas (EEG o MEG) se han utilizado ampliamente en la investigación de los síndromes psiquiátricos más importantes como la esquizofrenia, la depresión mayor, el trastorno bipolar o el trastorno obsesivo/compulsivo. Los resultados de algunos de estos estudios permitieron la construcción de modelos estadísticos con alta sensibilidad y especificidad, aunque estos modelos no han alcanzado la práctica clínica diaria. Una posible explicación para está situación sería la utilización de procedimientos de análisis inadecuados que podrían perder elementos importantes de la información contenida en la señal cerebral. En este sentido se han propuesto nuevos métodos de análisis no lineal para los datos neurofisiológicos. De particular interés resulta el análisis de complejidad de la señal cerebral que se ha utilizado ampliamente en la investigación de trastornos psiquiátricos. Los parámetros de complejidad EEG o MEG generalmente estiman la predictibilidad de las oscilaciones cerebrales y/o el número de osciladores independientes que subyacen tras las señales observadas. Más importante aun, los parámetros de complejidad parecen ser sensibles a los componentes temporales de la actividad cerebral y por tanto podrían reflejar bien la naturaleza dinámica de los trastornos psiquiátricos. Este artículo revisa alguno de los estudios más importantes dentro de este campo, en especial aquellos que se centran en el diagnóstico, el seguimiento y la respuesta al tratamiento (AU)</dc:description>
+<dc:source>Actas Esp Psiquiatr;38(4): 229-238, jul.-ago. 2010. graf</dc:source>
+<dc:identifier>ibc-83244</dc:identifier>
+<dc:title xml:lang="es">Análisis de complejidad de la actividad cerebral y trastornos mentales</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d8771^s22032</dc:subject>
+<dc:subject>^d4641^s22074</dc:subject>
+<dc:subject>^d8776^s22031</dc:subject>
+<dc:subject>^d23568^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23748^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201008</dc:date>
+</metadata>
+</record>
+</ibecs-document>

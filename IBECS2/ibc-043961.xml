@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-043961</identifier>
+<setSpec>1699-8855</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Digital slides in Pathology Departments (I). A review of basic aspects in digital imaging</dc:title>
+<dc:description xml:lang="en">The development of complete slide digitization systemsin Pathology has become possible thanks to recent advancesin computing systems. The efficient use of these digital slidesystems can be achieved with a basic knowledge of digitalimaging. This article reviews the main concepts relatedto quality in Pathology virtual slide images, such as imagesize in pixels, spatial resolution, file size, compressionmethods, file formats, and dynamic range. It is concludedthat the efficient use of digital microscopy can offer importantbenefits to Pathology departments</dc:description>
+<dc:creator>García Rojo, Marcial</dc:creator>
+<dc:creator>Bueno García, Gloria</dc:creator>
+<dc:creator>González García, Jesús</dc:creator>
+<dc:creator>Carbajo Vicente, Manuel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La digitalización total de preparaciones microscópicasde citologías, biopsias y autopsias es una realidad hoy día,gracias a los avances en los sistemas informáticos. Esta evoluciónhacia la imagen digital conlleva la necesidad de disponerde conocimientos básicos de esta nueva forma de gestionarla imagen médica. Estos conocimientos permiten alpatólogo comprender mejor el funcionamiento de los llamadossistemas de microscopía virtual. En este artículo se revisanlos aspectos de imagen digital relacionados con la calidadde las preparaciones virtuales o digitales, como ladimensión en píxeles, resolución espacial, tamaño de ficheros,sistema de compresión, formatos de fichero y rangodinámico. Se concluye que el uso eficaz de la microscopíadigital tendrá importantes beneficios en los servicios deAnatomía Patológica</dc:description>
+<dc:source>Rev. esp. patol;38(2): 69-77, abr.-jun. 2005. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-043961</dc:identifier>
+<dc:title xml:lang="es">Preparaciones digitales en los servicios de Anatomía Patológica (I). Aspectos básicos de imagen digital</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d23315^s22045</dc:subject>
+<dc:subject>^d19371</dc:subject>
+<dc:subject>^d19200^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23321^s22045</dc:subject>
+<dc:subject>^d30050^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200506</dc:date>
+</metadata>
+</record>
+</ibecs-document>

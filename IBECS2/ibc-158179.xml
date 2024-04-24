@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-158179</identifier>
+<setSpec>1132-1296</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prediction of dependency in the elderly attended in primary health care</dc:title>
+<dc:description xml:lang="en">Objective: To identify the elderly population attended in primary health care with more risk of becoming dependent for activities of daily living. Methods: A longitudinal study, based on data recorded in the medical record of people from 75 years old. We constructed a Cox models to determine the risk of becoming dependent on the follow up. The discrimination capacity of the model was estimated with the concordance index. Results: The model showed as predictors of dependency: the mental impairment, according to the Pfeiffer test, severe (HR: 3,02; 95% CI 2,03-4,49) or moderate (HR: 1,35; 95% CI 1,08 to 1,68), homecare situation (HR: 1,82; 95% CI 1,44 to 2,31) and to have recorded history of falls (HR: 1,51; 95% CI 1,20 to 1,90). The C index of the derivation model was 0,72 (95% CI 0,68 to 0,76). Conclusions: The model accurately predicts patients most likely to be dependent (AU)</dc:description>
+<dc:creator>Ponjoan Thäns, Anna</dc:creator>
+<dc:creator>Puigvert Vilalta, Margarita</dc:creator>
+<dc:creator>Martí Lluch, Ruth</dc:creator>
+<dc:creator>Ramos Blane, Rafel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo principal: Identificar a la población anciana atendida en atención primaria con más riesgo de ser dependiente para las actividades de la vida diaria. Metodología: estudio longitudinal, basado en datos registrados en la historia clínica informatizada de personas a partir de 75 años. Se construyó un modelo de Cox para determinar el riesgo de devenir dependiente en el seguimiento y se estimó su capacidad de discriminación. Resultados principales: el modelo mostró como variables predictoras de dependencia el deterioro mental severo (HR: 3,02; 95% IC 2,03-4,49) o moderado (HR: 1,35; 95% IC 1,08-1,68) según el test de Pfeiffer, tener la condición de atención domiciliaria (HR: 1,82; 95% IC 1,44-2,31) y tener historia de caídas registradas (HR: 1,51; 95% IC 1,20-1,90). El índice C del modelo fue de 0,72 (95% IC 0,68-0,76). Conclusión principal: El modelo predice de forma precisa aquellos pacientes con más probabilidad de ser dependientes (AU)</dc:description>
+<dc:source>Index enferm;25(3): 146-150, jul.-sept. 2016. tab, graf</dc:source>
+<dc:identifier>ibc-158179</dc:identifier>
+<dc:title xml:lang="es">Predicción de dependencia en ancianos atendidos en atención primaria</dc:title>
+<dc:subject>^d11756^s22083</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d212</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d51255^s22083</dc:subject>
+<dc:subject>^d6450^s22083</dc:subject>
+<dc:subject>^d19050^s22083</dc:subject>
+<dc:subject>^d28940^s22083</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201609</dc:date>
+</metadata>
+</record>
+</ibecs-document>

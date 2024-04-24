@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-1377</identifier>
+<setSpec>0001-6519</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Can we computerize our case-histories archives?</dc:title>
+<dc:description xml:lang="en">Case-histories have unquestionable legal importance, as it is shown by High Court Jurisprudence. This is due to the fact that it must report all the patient's process and disease, being thus the relationship doctor-patient completely transcribed (or at least all its relevant issues). So, in case of accusation, the most important evidence deciding doctor's sentence or acquittal will be within case-history. That is why the sentence "Case-history can be doctor's best allied, but also doctor's worst enemy" has been coined. In this setting one can understand perfectly how important the issue posed by this work is, since nowadays computers development offers to us a great number of advantages when collecting case-histories. This has made many health workers- and hospitals-think about keeping them in software. Actually, many of them have already been doing it for quite a long time. For this reason we are going to analyse this topic from a legal point of view, since legal standards provided by Law must be followed: preserve citizens' right to privacy and confidentiality. Security guidelines provided also by Law must be observed, which will allow to guarantee who the author of the document is (authentication) and that there has not been any later manipulation of data (integrity) (AU)</dc:description>
+<dc:publisher>Sanidad y Ediciones (SANED, S.L.)</dc:publisher>
+<dc:description xml:lang="es">La historia clínica tiene una trascendencia jurídica fuera de toda duda, como demuestra la jurisprudencia del Tribunal Supremo. Ello se debe a que en ella se debe recoger todo el proceso del paciente y de su enfermedad, transcribiéndose en su totalidad la relación médico-paciente (o al menos todos sus hechos relevantes). Así pues, en caso de denuncia las principales pruebas que determinarán la condena o absolución del médico estarán contenidas en la historia clínica. Y es por ello que se ha acuñado la frase: La historia clínica puede ser el mejor aliado, pero también el peorenemigo del médico. En este marco se comprende perfectamente la importancia de la duda planteada en este trabajo, pues en la actualidad el desarrollo de la informática nos ofrece un gran número de ventajas a la hora de recoger las historias clínicas, lo que ha llevado a que muchos profesionales y centros hospitalarios se estén planteando guardar las mismas en soporte informático, y de hecho, muchos ya lo están haciendo desde hace tiempo. Por esta razón, analizaremos este tema desde el punto de vista jurídico, ya que se deben cumplir las normas legales previstas por la Ley: preservar el derecho a la intimidad y confidencialidad de todos los ciudadanos; y observar las normas de seguridad previstas por la Ley, que permitirán acreditar quién es el autor del documento (autentificación) y que no ha existido ninguna manipulación posterior de los datos (integridad) (AU)</dc:description>
+<dc:source>Acta Otorrinolaringol Esp;52(7): 636-638, oct. 2001.</dc:source>
+<dc:title xml:lang="es">¿Podemos informatizar nuestro archivo de historias clínicas?</dc:title>
+<dc:type>article</dc:type>
+<dc:creator>Castro Vilas, C</dc:creator>
+<dc:creator>Labella Caballero, T</dc:creator>
+<dc:creator>Cajade Frías, JM</dc:creator>
+<dc:creator>Cajade Bao, D</dc:creator>
+<dc:creator>Cabanas, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:identifier>ibc-1377</dc:identifier>
+<dc:subject>^d11250</dc:subject>
+<dc:subject>^d3243</dc:subject>
+<dc:subject>^d29040</dc:subject>
+<dc:subject>^d29638</dc:subject>
+<dc:subject>^d8491</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:date>200110</dc:date>
+</metadata>
+</record>
+</ibecs-document>

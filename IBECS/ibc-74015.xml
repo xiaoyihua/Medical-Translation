@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-74015</identifier>
+<setSpec>1130-0558</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Experimental Biomechanical Study of the Musculo-Skeletal Masticatory System. Applications to the Study of Osteosynthesis</dc:title>
+<dc:description xml:lang="en">The biomechanical behavior of the masticatory system isnot well known. The mathematical models that have been developedto date are limited and experimental studies have not yet solvedthe problem of reproducing muscular forces and stress distributionsin the internal mandibular structure. A static simulator of themasticatory system was developed in the present study and threedimensionalphotoelasticity was used to analyze stress distributionin several physiologic and pathologic situations. The results showedthat the simulator and 3D photoelasticity were useful for studyinginteractions and ostheosynthesis materials used in daily clinicalpractice(AU)</dc:description>
+<dc:creator>Ortiz de Artiñano, F</dc:creator>
+<dc:creator>Vincent Fraile, G</dc:creator>
+<dc:creator>Carrascal Morillo, M. T</dc:creator>
+<dc:creator>Cebrián Carretero, J. L</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El comportamiento biomecánico del sistema músculoesqueléticodista mucho de estar esclarecido. Los modelos matemáticos han mostradoimportantes limitaciones, y los ensayos biomecánicos se han visto frustradospor la dificultad de simular las cargas musculares y la distribución delas tensiones en el espesor mandibular. En el presente trabajo se desarrollaun simulador estático del sistema músculo esquelético masticatorio que reproducefielmente la situación fisiológica, empleándose la foto elasticidad tridimensionalpara el estudio de los cambios tensionales que ocurren en laestructura mandibular en diversas situaciones fisiopatológicas. Los resultadosde los ensayos demuestran que la fotoelasticidad 3D aplicada en el simuladorda resultados muy útiles para el análisis de la aplicación hueso-materialde osteosíntesis utilizado en la práctica clínica(AU)</dc:description>
+<dc:source>Rev. esp. cir. oral maxilofac;31(1): 39-45, ene.-feb. 2009. ilus</dc:source>
+<dc:identifier>ibc-74015</dc:identifier>
+<dc:title xml:lang="es">Estudio biomecánico experimental del sistema musculo-esquelético masticatorio. Aplicaciones para el estudio de la osteosíntesis</dc:title>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d19504^s22009</dc:subject>
+<dc:subject>^d8509^s22009</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d8510^s22009</dc:subject>
+<dc:subject>^d5728^s22045</dc:subject>
+<dc:subject>^d5728^s22066</dc:subject>
+<dc:subject>^d8506^s22009</dc:subject>
+<dc:subject>^d8509^s22080</dc:subject>
+<dc:subject>^d1721^s22045</dc:subject>
+<dc:subject>^d19504^s29166</dc:subject>
+<dc:subject>^d8506^s29166</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200902</dc:date>
+</metadata>
+</record>
+</ibecs-document>

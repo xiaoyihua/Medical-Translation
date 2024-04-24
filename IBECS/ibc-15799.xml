@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-15799</identifier>
+<setSpec>0210-9433</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:creator>García, N</dc:creator>
+<dc:creator>Calvet, X</dc:creator>
+<dc:creator>Gené, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">La curación de la infección es el tratamiento de elección en todos los pacientes con úlcera péptica, duodenitis erosiva, antritis erosiva o linfoma MALT infectados por Helicobacter pylori. La terapéutica de elección consiste en la combinación de un inhibidor de la bomba de protones, claritromicina y amoxicilina durante 7 días, sustituyendo esta última por metronidazol en pacientes con alergia a la penicilina. Tras la semana de tratamiento de erradicación no es necesario prolongar el tratamiento antisecretor, y en la mayoría de los pacientes puede ser suficiente realizar control sintomático. Por el contrario, resulta obligado valorar la erradicación mediante test del aliento en el caso de úlcera duodenal complicada. También está indicada la realización de endoscopia y biopsia en todos los pacientes con úlcera gástrica, en este último caso con el objetivo de descartar una neoplasia. Finalmente, se recomienda realizar un segundo tratamiento con una pauta cuádruple si el inicial fracasa (AU)</dc:description>
+<dc:source>Med. integral (Ed. impr.);38(1): 30-35, jun. 2001. ilus</dc:source>
+<dc:identifier>ibc-15799</dc:identifier>
+<dc:title xml:lang="es">La infección por helicobacter pylori</dc:title>
+<dc:subject>^d29157^s22057</dc:subject>
+<dc:subject>^d4478^s22046</dc:subject>
+<dc:subject>^d4478^s22057</dc:subject>
+<dc:subject>^d10633^s22046</dc:subject>
+<dc:subject>^d10633^s22057</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4443^s22046</dc:subject>
+<dc:subject>^d4443^s22057</dc:subject>
+<dc:subject>^d29156</dc:subject>
+<dc:subject>^d29157^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200106</dc:date>
+</metadata>
+</record>
+</ibecs-document>

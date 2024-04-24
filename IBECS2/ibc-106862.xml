@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-106862</identifier>
+<setSpec>1699-258X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Influence of the structure of mood in the assessment of rheumatoid arthritis through the visual analog scale for pain, HAQ and DAS28</dc:title>
+<dc:description xml:lang="en">Objective: To analyze the effect of the structure of mood over the following assessment tools for rheumatoid arthritis: visual analog scale (VAS) for pain, HAQ and DAS28. Patients and methods: We studied 86 patients with recent onset rheumatoid arthritis, of which 75.7% were female, with a mean age at disease onset of 55 years. All patients were administered the Spanish version of the PANAS questionnaire that evaluates the components of positive (PA) and negative mood (AN). Patients belonged to the registry of new-onset arthritis in our center so clinical information was available for 282 patients visits. To determine the effect of PA and AN on each of the dependent variables we performed three multivariate linear regression models using generalized linear models through the Stata glm command 10.1. Results: The mean score for PA and AN in our patients was similar to that described for the healthy Spanish population. The high scores on the subscale of AN were associated with worse scores in both the VAS for pain and the HAQ. By contrast, high scores on PA were associated with better outcomes of disease activity measured by DAS28. Conclusion: The structure of mood may influence the tools we use for evaluating patients with rheumatoid arthritis, so it might be advisable to include the PANAS questionnaire as part of that assessment(AU)</dc:description>
+<dc:creator>Ortiz, ana M</dc:creator>
+<dc:creator>Patiño, Esther</dc:creator>
+<dc:creator>Velasco, Teresa</dc:creator>
+<dc:creator>González-Alvaro, Isidoro</dc:creator>
+<dc:creator>García de Vicuña, Rosario</dc:creator>
+<dc:creator>Silva Luna, Karina</dc:creator>
+<dc:creator>Aguilera, Carmen</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Analizar el efecto de la estructura del afecto en las siguientes herramientas de evaluación de la artritis reumatoide: escala visual analógica (EVA) de dolor, HAQ y DAS28. Pacientes y métodos: Se estudiaron 86 pacientes con artritis reumatoide de reciente comienzo, de los que el 75,7% eran mujeres, con una mediana de edad al inicio de la enfermedad de 55 a&#152;nos. A todos los pacientes se les aplicó la versión adaptada a población espa&#152;nola del cuestionario PANAS que evalúa las componentes de afecto positivo (AP) y negativo (AN). Los pacientes pertenecían al registro de artritis de reciente comienzo de nuestro centro por lo que se disponía de información clínica de los enfermos en 282 visitas. Para determinar el efecto de AP y AN en cada una de nuestras variables dependientes se estimaron 3 modelos de regresión lineal multivariable mediante modelos lineales generalizados usando el comando glm del programa Stata 10.1. Resultados: El promedio de la puntuación de AP y AN en nuestros pacientes fue similar al descrito para la población espa&#152;nola sana. Las puntuaciones elevadas en la subescala de AN se asociaron a peores puntuaciones, tanto en la EVA de dolor, como en el HAQ. Por el contrario, puntuaciones elevadas en AP se asociaron con una mejor evolución de la actividad de la enfermedad medida por el DAS28. Conclusión: La estructura del afecto puede influir en las herramientas que utilizamos para la evaluación de los pacientes con artritis reumatoide, por lo que podría ser recomendable incluir la realización del PANAS como parte de dicha evaluación(AU)</dc:description>
+<dc:source>Reumatol. clín. (Barc.);8(6): 328-333, nov.-dic.2012.</dc:source>
+<dc:identifier>ibc-106862</dc:identifier>
+<dc:title xml:lang="es">Influencia de la estructura de los afectos en la evaluación de la artritis reumatoide mediante la escala visual analógica de dolor, el HAQ y el DAS28</dc:title>
+<dc:subject>^d1178^s22016</dc:subject>
+<dc:subject>^d^s22045</dc:subject>
+<dc:subject>^d28608^s22048</dc:subject>
+<dc:subject>^d^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d^s22048</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d28608^s22074</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d^s22039</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201212</dc:date>
+</metadata>
+</record>
+</ibecs-document>

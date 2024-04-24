@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-168423</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Effect of FiO2 in the measurement of VO2 and VCO2 using the E-COXV metabolic monitor</dc:title>
+<dc:description xml:lang="en">Objective: We evaluated the effect of changes in FiO2 on the bias and accuracy of the determination of oxygen consumption (V&amp;#729;O2) and carbon dioxide production (V&amp;#729;CO2) using the E-COVX monitor in patients with mechanical ventilation. Design: Descriptive of concordance. Setting: Intensive Care Unit. Patients or participants:  Patients with mechanical ventilation. Interventions: We measured V&amp;#729;O2 and V&amp;#729;CO2 using the E-COVX monitor. Values recorded were the average in 5min. Two groups of 30 patients. We analyzed: 1) the reproducibility in the measurement of V&amp;#729;O2 and V&amp;#729;CO2 at FiO2 0.4, and 2) the effect of the changes in FiO2 on the measurement of V&amp;#729;O2 and V&amp;#729;CO2. Statistical analysis was performed using Bland and Altman test. Variables of main interest: Bias and accuracy. Results: 1) FiO2 0.4 reproducibility: The bias in the measurement of V&amp;#729;O2 and V&amp;#729;CO2 was 1.6 and 2.1mL/min, respectively, and accuracy was 9.7 to &amp;#8722;8.3% and 7.2 to &amp;#8722;5.2%, respectively, and 2) effect of FiO2 on V&amp;#729;O2: The bias of V&amp;#729;O2 measured at FiO2 0.4 and 0.6 was &amp;#8722;4.0mL/min and FiO2 0.4 and 0.8 was 5.2mL/min. Accuracy between FiO2 0.4 and 0.6 was 11.9 to &amp;#8722;14.1%, and between FiO2 0.4 and 0.8 was 43.9 to &amp;#8722;39.7%. Conclusions: The E-COVX monitor evaluates V&amp;#729;O2 and V&amp;#729;CO2 in critical patients with mechanical ventilation with a clinically acceptable accuracy until FiO2 0.6 (AU)</dc:description>
+<dc:creator>Ferreruela, M</dc:creator>
+<dc:creator>Raurich, JM</dc:creator>
+<dc:creator>Ayestarán, I</dc:creator>
+<dc:creator>Llompart-Pou, JA</dc:creator>
+<dc:creator>Colomar, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Valorar el efecto de la FiO2 sobre el sesgo y la precisión en la medición del consumo de oxígeno (V&amp;#729;O2) y la producción de dióxido de carbono (V&amp;#729;CO2) con el monitor E-COVX en pacientes con ventilación mecánica. Diseño: Descriptivo de concordancia. Ámbito: Unidad de Cuidados Intensivos. Pacientes o participantes: Pacientes con ventilación mecánica. Intervenciones: Se midieron el V&amp;#729;O2 y la V&amp;#729;CO2 con el monitor E-COVX. Los valores de V&amp;#729;O2 y V&amp;#729;CO2 fueron el promedio de 5min. Dos grupos de 30 pacientes. Se analizó: 1) la reproducibilidad de la medición del V&amp;#729;O2 y la V&amp;#729;CO2 con una FiO2 de 0,4, y 2) el efecto de los cambios en la FiO2 sobre el V&amp;#729;O2 y la V&amp;#729;CO2. Análisis estadístico por el método de Bland y Altman. Variables de interés principales: Sesgo y precisión. Resultados: 1) Reproducibilidad a una FiO2 de 0,4: los sesgos en la medición del V&amp;#729;O2 y la V&amp;#729;CO2 fueron de 1,6 y 2,1mL/min, respectivamente, y los errores en la precisión fueron de 9,7 a &amp;#8722;8,3% y de 7,2 a &amp;#8722;5,2%, respectivamente, y 2) efecto de la FiO2 sobre el V&amp;#729;O2: el sesgo del V&amp;#729;O2 medido a una FiO2 de 0,4 y 0,6 fue de &amp;#8722;4,0mL/min y a FiO2 de 0,4 y 0,8, de 5,2mL/min. La precisión entre FiO2 de 0,4 y 0,6 fue de 11,9 a &amp;#8722;14,1%, y entre FiO2 de 0,4 y 0,8, de 43,9 a &amp;#8722;39,7%. Conclusiones: El monitor E-COVX mide el V&amp;#729;O2 y la V&amp;#729;CO2 en pacientes críticos con ventilación mecánica con un sesgo y una precisión clínicamente aceptables hasta una FiO2 de 0,6 (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);41(8): 461-467, nov. 2017. graf, tab</dc:source>
+<dc:identifier>ibc-168423</dc:identifier>
+<dc:title xml:lang="es">Efecto de la FiO2 sobre la medición del VO2 y la VCO2 con el monitor metabólico E-COVX</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d10281</dc:subject>
+<dc:subject>^d30324</dc:subject>
+<dc:subject>^d27977</dc:subject>
+<dc:subject>^d2185^s22074</dc:subject>
+<dc:subject>^d7530^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12541^s22045</dc:subject>
+<dc:subject>^d27780^s22021</dc:subject>
+<dc:subject>^d2284^s22073</dc:subject>
+<dc:subject>^d53684</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201711</dc:date>
+</metadata>
+</record>
+</ibecs-document>

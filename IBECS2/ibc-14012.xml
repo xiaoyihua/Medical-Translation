@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-14012</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Transfusion in intracraneal surgery</dc:title>
+<dc:creator>Pinto García, Vicente</dc:creator>
+<dc:creator>Rial Basalo, Juan</dc:creator>
+<dc:creator>Sanchez Friera, Juan</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Fundamentos: Analizar la transfusión en los pacientes de cirugía intracraneal a partir de los datos del Conjunto Mínimo Básico de Datos del paciente. Métodos: Informes de alta de los pacientes intervenidos durante 1996, codificados según la Clasificación Internacional de Enfermedades (CIE-9-MC), evaluando: edad, sexo, los códigos de diagnósticos, de procedimientos, incluidas las transfusiones, y los códigos de las intervenciones quirúrgicas. Resultados: Fueron operados 203 pacientes, de los que se transfundieron 19 (9.4 por ciento). El mayor riesgo de transfusión ocurre en los pacientes con fractura de cráneo (18.5 por ciento), hemorragias intracraneales (12.1 por ciento) y tumoraciones benignas (10.3 por ciento). Mediante análisis univariante, se detecta una asociación estadísticamente significativa de la transfusión con el diagnóstico (p: 0.049), número de diagnósticos codificados (p: 0.049) y de técnicas quirúrgicas codificadas (p: 0.018), posibles indicadores indirectos de la severidad clínica y quirúrgica. Sin embargo mediante el análisis multivariante de regresión logística no se detectó ninguna asociación ajustada de las variables estudiadas con el riesgo de transfusión. Conclusiones: 1º Aunque no hemos podido encontrar un modelo predictor del riesgo de transfusión, este es mayor en los pacientes con fractura de cráneo, hemorragias intracraneales y tumores benignos. 2º Es coste-efectivo el poder monitorizar las transfusiones a partir de los datos administrativos del hospital, dada su fácil disponibilidad y los beneficios del análisis de los mismos. 3º Son necesarios ulteriores estudios para intentar definir con exactitud el subgrupo de los pacientes con mayor riesgo a priori de ser transfundido en la cirugía intracraneal (AU)</dc:description>
+<dc:source>Rev. calid. asist;15(1): 9-14, ene. 2000. tab</dc:source>
+<dc:identifier>ibc-14012</dc:identifier>
+<dc:title xml:lang="es">Transfusión en la cirugía intracraneal</dc:title>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d6702^s22016</dc:subject>
+<dc:subject>^d6410^s22016</dc:subject>
+<dc:subject>^d3307^s22012</dc:subject>
+<dc:subject>^d6940^s22049</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d6410^s22009</dc:subject>
+<dc:subject>^d6622^s22012</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d1831^s22045</dc:subject>
+<dc:subject>^d1832^s22045</dc:subject>
+<dc:subject>^d1816^s22002</dc:subject>
+<dc:subject>^d21012</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d6410^s22062</dc:subject>
+<dc:subject>^d13267^s22009</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d14065^s22053</dc:subject>
+<dc:subject>^d10545^s22048</dc:subject>
+<dc:subject>^d13267^s22042</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200001</dc:date>
+</metadata>
+</record>
+</ibecs-document>

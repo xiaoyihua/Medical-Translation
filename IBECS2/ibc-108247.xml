@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-108247</identifier>
+<setSpec>0213-9626</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Application of the probability and entropy to the protein eba-140 mathematical characterization of high-binding peptides</dc:title>
+<dc:description xml:lang="en">One of the Plasmodium falciparum merozoite proteins, EBA-140, alsoknown as BAEBL or PfEBP-2, shares structural features and homologywith EBA-175 and EBA-181. Studies on the sub-cellular localization suggest a micronem localization.A probability space was built where the possibility of appearance byposition for each of the 20 amino acids in EBA-140 protein 20-mer peptides based on 6 high-binding previously described sequences was quantified. Then,  the probability, the addition of probability and the Entropyfor 61 EBA-140 protein 20-mer sequences were calculated to mathematically characterize the high-binding peptides and the non-high-bindingpeptides. Additionally, the same measures for theoretical peptide analogswere made, in which calculations were made after those amino acids tested experimentally as critical were substituted by Glycine.The probability values, probability summation and Entropy for theexperimentally verified high-binding sequences, vary between the ranges associated to the binding macrostate, while every value for the nonhigh-binding peptides are outside of the binding macrostate range. Theprobability values, probability summation and Entropy differentiate thehigh-binding peptides from the low-binding, making a right guess in 100%of the cases studied according to experimental studies. The binding phenomenon of the studied protein has an underlyingorder, which is objectively and reproductively characterizable startingfrom probability laws and Entropy (AU)</dc:description>
+<dc:creator>Prieto, Signed</dc:creator>
+<dc:creator>Soracipa, Yolanda</dc:creator>
+<dc:creator>Rodríguez, Javier</dc:creator>
+<dc:creator>Puerta, Germán</dc:creator>
+<dc:creator>Vitery, Sarith</dc:creator>
+<dc:creator>Correa, Catalina</dc:creator>
+<dc:creator>Bernal, Pedro</dc:creator>
+<dc:creator>Botero, David</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Una de las proteínas del merozoito de Plasmodium falciparum, la EBA-140, también conocida como BAEBL o PfEBP-2, comparte característicasestructurales y homología con EBA-175 y EBA-181. Estudios de la localización sub-celular sugieren que está localizada en los micronemas.Por medio de la construcción de un espacio de probabilidad, donde secuantificó la posibilidad de aparición por posición para los 20 aminoácidosen péptidos con tamaño de 20 residuos para 6 secuencias de alta unión dela proteína EBA-140, se calculó la probabilidad, sumatoria de probabilidady Entropía para las 61 secuencias de 20 residuos de la proteína EBA-140, paraposteriormente caracterizar matemáticamente los péptidos de alta unión ylos que no lo son. Adicionalmente se realizaron las mismas medidas parapéptidos teóricos análogos, donde se cambiaron por Glicinas aminoácidoscomprobados experimentalmente como críticos, y se efectuaron los cálculos.Los valores de probabilidad, Sumatoria de Probabilidad y Entropía paralas secuencias comprobadas experimentalmente de alta unión varían entrelos rangos asociados al macroestado unión, mientras que todos estos mismosvalores para los péptidos comprobados de baja unión se encuentran fuera delos rangos asociados al macroestado de unión. Los valores de probabilidad,sumatoria de probabilidad y Entropía diferencian los péptidos de alta uniónde los de baja unión, acertando en el 100% de los casos estudiados, segúnestudios experimentales. El fenómeno de unión de la proteína estudiada presenta un orden subyacente, que es caracterizable a partir de las leyes de la probabilidad y de laEntropía de forma objetiva y reproducible (AU)</dc:description>
+<dc:source>Inmunología (1987);28(2): 65-73, abr.-jun. 2009. tab</dc:source>
+<dc:identifier>ibc-108247</dc:identifier>
+<dc:title xml:lang="es">Aplicación de la probabilidad y la entropía a la proteína EBA-140. Caracterización matemática de péptidos de alta unión</dc:title>
+<dc:subject>^d33181</dc:subject>
+<dc:subject>^d34580^s22038</dc:subject>
+<dc:subject>^d33844^s22071</dc:subject>
+<dc:subject>^d11396^s22071</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200906</dc:date>
+</metadata>
+</record>
+</ibecs-document>

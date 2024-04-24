@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-10953</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Survival analysis of the claims answering time in an acute care hospital</dc:title>
+<dc:creator>Pérez Bermúdez, Brígido</dc:creator>
+<dc:creator>Fernández Martínez, Sergio</dc:creator>
+<dc:creator>Gómez Pajares, Fernando</dc:creator>
+<dc:creator>Zanón, Vicente Calixto</dc:creator>
+<dc:creator>Sanchis, Juan</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Fundamento: El estudio de las reclamaciones es un paso importante en el conocimiento de la opinión del usuario. En este trabajo se utilizó la metodología del análisis de supervivencia para estudiar los factores que influyen en el tiempo de respuesta. Material y métodos: Estudio observacional y analítico retrospectivo en el que se estudian los tiempos de respuesta de las reclamaciones generadas en un hospital de agudos entre 1994 y 1999. Se han recogido variables temporales, sociodemográficas y organizativas. La variable principal fue el tiempo de contestación de la reclamación. Se utilizó la metodología del análisis de supervivencia (Estimador de Kaplan-Meier y Regresión de Cox).Resultados: Se analizaron un total de 1.383 reclamaciones observando que la mediana del tiempo de contestación fue de 41 días. En el modelo ajustado las variables año, mes, área sanitaria, motivo y tipo de contestación influyen significativamente en el tiempo de respuesta. Conclusiones: El área urgencias, los motivos demora en la asistencia y hostelería producen un retraso en la contestación por parte de la Administración, mientras que los tipos de contestación solución y archivo lo acortan (AU)</dc:description>
+<dc:source>Rev. calid. asist;16(1): 10-14, ene. 2001. tab</dc:source>
+<dc:identifier>ibc-10953</dc:identifier>
+<dc:title xml:lang="es">Análisis de supervivencia y tiempos de respuesta de las reclamaciones en un hospital de agudos</dc:title>
+<dc:subject>^d24890</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d28604</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d29902^s22083</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d12224^s22048</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d12224^s22049</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d28561^s22080</dc:subject>
+<dc:subject>^d13195</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200101</dc:date>
+</metadata>
+</record>
+</ibecs-document>

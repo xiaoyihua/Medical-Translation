@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-17607</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">A program to calculate the empirical bias in autocorrelation estimators</dc:title>
+<dc:description xml:lang="en">The statistical analysis of short time series designs is influenced by the presence of serial dependence. Therefore, it is important to correctly estimate the first-order autocorrelation in behavioral data. The empirical bias is an indicator generally used to evaluate the adequacy degree of an estimator. This paper presents the Bias program, a Monte Carlo simulation program that generates first-order autoregressive processes and calculates the bias in three autocorrelation estimators (r1, r1+ and r1&#146;) for different values of the lag-one autocorrelation parameter and sample sizes. The program has been designed with MATLAB programming language and it runs on IBM-PC compatible computers with a 486 or later processor (AU)</dc:description>
+<dc:creator>Arnau, Jaume</dc:creator>
+<dc:creator>Bono, Roser</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">El análisis estadístico de los diseños de series temporales cortas está influido por la presencia de dependencia serial. De ahí la importancia de estimar correctamente la autocorrelación de primer orden en datos conductuales. El sesgo empírico es un indicador generalmente usado para evaluar el grado de precisión de un estimador. Este artículo presenta el programa Bias, un programa de simulación Monte Carlo que genera procesos autorregresivos de primer orden y calcula el sesgo de tres estimadores de autocorrelación (r1, r1+r1´) para diferentes valores del parámetro de autocorrelación de retardo uno y tamaños muestrales. El programa ha sifo diseñado mediante el lenguaje de programación MATLAB y funciona en ordenadores IBM-PC con un procesador 486 o superior (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);14(3): 669-672, ago. 2002. tab</dc:source>
+<dc:identifier>ibc-17607</dc:identifier>
+<dc:title xml:lang="es">Programa para el cálculo del sesgo empírico de estimadores de autocorrelación</dc:title>
+<dc:subject>^d32016</dc:subject>
+<dc:subject>^d24535</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:subject>^d32037</dc:subject>
+<dc:subject>^d1545^s22056</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200208</dc:date>
+</metadata>
+</record>
+</ibecs-document>

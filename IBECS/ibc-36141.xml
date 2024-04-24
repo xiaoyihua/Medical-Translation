@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-36141</identifier>
+<setSpec>0004-2927</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Evaluation and simultaneous optimization of papain entrapped in crosslinked alginate beads using 33 factorial design and the desirability function</dc:title>
+<dc:creator>Mashru, R. C</dc:creator>
+<dc:creator>Sankalia, M. G</dc:creator>
+<dc:creator>Sankalia, J. M</dc:creator>
+<dc:creator>Sutariya, V. B</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Facultad de Farmacia. Universidad de Granada</dc:publisher>
+<dc:description xml:lang="es">En este artículo se investiga el entrecruzamiento del alginato sódico con iones de calcio a través de la gelación ionotrópica para capturar la papaína mediante disolventes "benignos para el entorno". Se empleó un diseño factorial completo 3x3 para investigar el efecto de las tres variables del proceso, que son la concentración de alginato sódico, la concentración de cloruro cálcico y el tiempo de endurecimiento sobre el porcentaje de captura, el tiempo necesario para la liberación de un 50 por ciento (T50) y un 90 por ciento (T90) de la enzima, la distribución y el ángulo de reposo. Los gránulos se prepararon mediante el uso de un dispositivo de goteo para el vertido de gotas de solución de alginato sódico que contiene la enzima en la solución de cloruro cálcico agitada magnéticamente. Además, se empleó la función de deseabilidad para optimizar el proceso sometido a estudio. Se demostró que los valores óptimos de las respuestas se pueden obtener en los niveles inferiores de las tres variables del proceso. La caracterización topográfica se realizó mediante microscopía electrónica de barrido (SEM) y la captura se confirmó a través de una calorimetría diferencial de barrido (DSC). Se concluyó que la selección adecuada de concentración de alginato con control de la velocidad de liberación y su potencial interactivo para el entrecruzamiento es importante y determina el tamaño y la forma general de los gránulos, los perfiles de patrón de disolución y duración, la sensibilidad al pH y la capacidad de carga de la enzima (AU)</dc:description>
+<dc:source>Ars pharm;45(3): 253-279, 2004. tab</dc:source>
+<dc:identifier>ibc-36141</dc:identifier>
+<dc:title xml:lang="es">Evaluación y optimización simultánea de papaína inmovilizada en gránulos de alginato entrecruzado mediante un diseño factorial 3x3 y la función de deseabilidad</dc:title>
+<dc:subject>^d23412^s22078</dc:subject>
+<dc:subject>^d2157^s22078</dc:subject>
+<dc:subject>^d2408^s22078</dc:subject>
+<dc:subject>^d26500</dc:subject>
+<dc:subject>^d24936</dc:subject>
+<dc:subject>^d467^s22078</dc:subject>
+<dc:subject>^d23621</dc:subject>
+<dc:subject>^d14635^s22078</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200400</dc:date>
+</metadata>
+</record>
+</ibecs-document>

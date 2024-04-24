@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-136153</identifier>
+<setSpec>0376-7892</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Design study for correlating data from 3D reconstruction from magnetic resonance and computational simulation after plantar bearing area surgical reconstruction</dc:title>
+<dc:description xml:lang="en">The reconstruction of the foot is a broad and complex topic often studied from the clinical perspective, but rarely studied from the point of view of Bioengineering. This paper shows a method of computer simulation by finite elements based on magnetic resonance imaging of a surgically reconstructed foot. After the creation of 3D models of the foot in different evolutionary stages and the use of data provided by static podobarography, the calculations show differences in the increase of deformation occurred in each of the tissues involved in reconstruction. It is made into two different evolutionary surgical times, taking into account the load characteristics of the patient in each. This allows us a theoretical idea of the behavior of tissues participating in the reconstruction as deformable material. In results section, it´s shown that the global volume of tissue decreases and adapts to the contours, the muscle is the tissue that further increases its relative value of deformation and fat is the tissue that greater deformation suffers in terms of absolute values refer. The bone mechanical properties hardly undergoes deformations. Deformations distribution is compatible with the clinical and evolves with time over. The contact surface and the maximum pressures are similar in the theoretical model and the experimental. The use of Bioengineering implemented to Plastic Surgery provides a great source of information that can be both used for comparison within the same patient or between different patients (AU)</dc:description>
+<dc:creator>Jordán Palomar, EI</dc:creator>
+<dc:creator>Rey Vasalo, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La reconstrucción del pie es un tema amplio y complejo abordado frecuentemente desde el ámbito clínico, pero pocas veces desde el punto de vista de la Bioingeniería. Este artículo muestra un método de simulación computacional mediante elementos finitos partiendo de imágenes de resonancia magnética de un pie reconstruido quirúrgicamente. Tras la creación de los modelos en 3D del pie en diferentes momentos evolutivos y con la utilización de los datos aportados por la podobarografía estática, se realizan los cálculos que muestran las diferencias de incremento en las deformaciones ocurridas en cada uno de los tejidos implicados en la reconstrucción quirúrgica en dos momentos evolutivos diferentes, teniendo en cuenta las características de carga del paciente en cada uno de ellos. Esto permite hacernos una idea teórica del comportamiento de los tejidos participantes en una reconstrucción vistos como un material deformable. Como resultado vemos que el volumen global de los tejidos disminuye y se adapta a los contornos, que el músculo es el tejido que más aumenta su valor relativo de deformación, y que la grasa es el tejido que mayor deformación sufre en cuanto a valores absolutos se refiere. El hueso, por sus propiedades mecánicas, apenas sufre deformaciones. La distribución de las deformaciones es compatible con la clínica y va modificándose a lo largo del tiempo. La utilización de la Bioingeniería aplicada a la Cirugía Plástica aporta gran cantidad de información que puede usarse para la comparación tanto en el mismo paciente, como entre pacientes con diferentes características o para realizar previsiones (AU)</dc:description>
+<dc:source>Cir. plást. ibero-latinoam;41(1): 11-19, ene.-mar. 2015. ilus, tab</dc:source>
+<dc:identifier>ibc-136153</dc:identifier>
+<dc:title xml:lang="es">Diseño de estudio para la correlación de los datos de reconstrucción en 3D a partir de resonancia magnética y simulación computacional tras la reconstrucción plantar en zona de apoyo</dc:title>
+<dc:subject>^d53798^s22045</dc:subject>
+<dc:subject>^d11917</dc:subject>
+<dc:subject>^d19132^s22074</dc:subject>
+<dc:subject>^d35390^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9054^s22045</dc:subject>
+<dc:subject>^d22898^s22009</dc:subject>
+<dc:subject>^d13905^s22074</dc:subject>
+<dc:subject>^d33584^s22045</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201503</dc:date>
+</metadata>
+</record>
+</ibecs-document>

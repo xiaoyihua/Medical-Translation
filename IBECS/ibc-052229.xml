@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-052229</identifier>
+<setSpec>0004-0614</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Current value of positron emission tomography for prostate cancer follow-up</dc:title>
+<dc:description xml:lang="en">Positron emission tomography (PET) is a non-invasive nuclear medicine technology which uses radiotracers and cameras slightly different from the ones used in other nuclear medicine tests. Most current indications are for oncological diseases; in nephrology-urology its use has been reduced because of the characteristics of the most commonly used radiotracer,18F-fluor deoxiglucose (18F-FDG, a glucose analogue), which is excreted by the kidney, limiting the interpretation of the study in urologic malignancies. Currently, 18F-choline is a promisingradiotracer for both staging and restaging, especially if hybrid PET/CT scan devices are used. New radiotracers will be needed in the evolution of PET to obtain information about more specific aspects of prostate carcinoma that will modify therapy and follow-up</dc:description>
+<dc:creator>Sánchez-Salmón, Aida</dc:creator>
+<dc:creator>Ruibal, Álvaro</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La Tomografía por Emisión de Positrones (PET) es una técnica de medicina nuclear, no invasiva,que utiliza radiofármacos y cámaras de detecciónde radiaciones algo diferentes a las empleadas en otras exploraciones isotópicas. La mayoría de las indicaciones son oncológicas, si bien, en nefrourología su uso ha sido menor debido a las características del radiofármaco hasta ahora más comúnmente usado, la 18F-FlúorDeoxiGlucosa (18F-FDG), un análogo de la glucosa que se elimina por vía renal, lo que dificulta su interpretación en las patologías urológicas tumorales. Un fármaco prometedor en este momento es la 18F-colina, tanto en estadificación como reestadificación, especialmente si se usan equipos híbridos PET/TAC. La evolución de la PET en el carcinoma de próstata pasa por la utilización de otros radiofármacos que darán información sobre otros aspectos más específicos que modificarán las terapias y seguimiento del paciente</dc:description>
+<dc:source>Arch Esp Urol;59(10): 1021-1029, dic. 2006. ilus</dc:source>
+<dc:identifier>ibc-052229</dc:identifier>
+<dc:title xml:lang="es">Valor actual de la tomografía por emisión de positrones durante el seguimiento del cáncer de próstata</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d24339^s22045</dc:subject>
+<dc:subject>^d33090^s22000</dc:subject>
+<dc:subject>^d9555^s22016</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d33478^s22000</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d11914^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200612</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-105237</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Coauthorship networks and institutional collaboration in FARMACIA HOSPITALARIA</dc:title>
+<dc:description xml:lang="en">Background: Scientific collaboration is necessary for the advance of science. The purpose of this study is to analyse collaboration between authors and Spanish institutions in scientific studies published in FARMACIA HOSPITALARIA, applying methodology derived from the analysis of social networks. Methodology: The study identified pairs of authors and institutions co-authoring or co-signing the same works published in FARMACIAHOSPITALARIA between 1998 and 2007, building collaboration networks using the TextToPajek and Networks-PAJEK programs. Results: 448 articles were analysed, showing an average signature/article index of 4.79. Applying a collaboration threshold of 3 articles,26 clusters were formed with principal researchers being Jiménez Torres and Pérez Ruixo (n=16 co-authorships) and Ribas Sala and Codina Jané (n=15). Among the institutions, there was significant collaboration between the Complejo  Hospitalario Virgen del Rocío and the Complejo Hospitalario Nuestra Señora del Valme (n=4), both in Seville, and between Hospitals Vall d&#146;Hebrón (Barcelona), the Hospital de Navarra, and the Universitat de Barcelona (n=4). Discussion: Analysis of the collaboration networks in FARMACIA HOSPITALARIA has made it possible to identify the groups of authors and institutions in the area, as well as their relationships in terms of research and scientific publications. We propose to analyse the changes in these groups over a period of time, as well as to identify collaboration patterns in other national and international journals (AU)</dc:description>
+<dc:creator>Alonso-Arroyo, A</dc:creator>
+<dc:creator>González-Alcaide, G</dc:creator>
+<dc:creator>Aleixandre-Benavent, R</dc:creator>
+<dc:creator>Bolaños-Pizarro, M</dc:creator>
+<dc:creator>Castelló-Cogollos, L</dc:creator>
+<dc:creator>Valderrama-Zurián, JC</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: La cooperación científica es necesaria para el progreso de la ciencia. El objetivo de este estudio es analizar la colaboración entre los autores e instituciones españolas en los trabajos científicos publicados en FARMACIA HOSPITALARIA, para lo cual se han aplicado metodologías procedentes del análisis de redes sociales. Métodos: Se han identificado las coautorías o firmas conjuntas depares de autores e instituciones de un mismo trabajo publicado en FARMACIA HOSPITALARIA durante la década 1998-2007, construyendo las redes de colaboración mediante los programas TextToPajek y Networks-PAJEK. Resultados: Se han analizado 448 artículos en los que el valor medio del índice firmas/trabajo ha sido 4,79. Con un umbral de colaboración de 3 artículos, se conforman 26 grupos que tienen como investigadores centrales a Jiménez Torres y Pérez Ruixo (n = 16coautorías) y a Ribas Sala y Codina Jané (n = 15). En las instituciones destaca la colaboración entre el Complejo Hospitalario Virgen del Rocío y el Complejo Hospitalario Nuestra Señora de Valme (n = 4),ambas de Sevilla, y el Hospital Vall d&#146;Hebrón (Barcelona) con el Hospital de Navarra y la Universitat de Barcelona (n = 4). Discusión: El análisis de las redes de colaboración en FARMACIA HOSPITALARIA ha permitido identificar a los grupos de autores e instituciones del área y sus relaciones desde el punto de vista de la investigación y las publicaciones científicas. Se propone analizar los cambios en estos grupos a lo largo del tiempo, así como identificar los patrones de colaboración en otras revistas nacionales y extranjeras (AU)</dc:description>
+<dc:source>Farm Hosp;32(4): 226-233, jul. 2008. ilus, tab</dc:source>
+<dc:identifier>ibc-105237</dc:identifier>
+<dc:title xml:lang="es">Redes de coautorías y colaboración institucional en Farmacia Hospitalaria</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d50088</dc:subject>
+<dc:subject>^d3320</dc:subject>
+<dc:subject>^d50091</dc:subject>
+<dc:subject>^d10697</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d50117</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200806</dc:date>
+</metadata>
+</record>
+</ibecs-document>

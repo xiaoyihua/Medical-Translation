@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-26435</identifier>
+<setSpec>1130-1473</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">First steps in neuronavigation</dc:title>
+<dc:creator>Delgado, P</dc:creator>
+<dc:creator>Fernández-Arconada, O</dc:creator>
+<dc:creator>Rodríguez-Salazar, A</dc:creator>
+<dc:creator>Martín, V</dc:creator>
+<dc:creator>Castilla, J. M</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Editorial Siglo, S.L.</dc:publisher>
+<dc:description xml:lang="es">Introducción: Se pretende evaluar la introducción de un sistema de neuronavegación de uso ampliamente extendido en el funcionamiento de un Servicio de Neurocirugía. Material y método: Se analizan las intervenciones realizadas desde la introducción de la neuronavegación en nuestro hospital, las ventajas de su uso y los problemas aparecidos. Resultados: Entre el 21/12/00 y el 31/12/01 se han realizado en nuestro centro 64 intervenciones craneales y 5 de raquis con la ayuda del sistema de neuronavegación BrainLAB. Suponen el 19'38 por ciento de las cirugías programadas: 45'7 por ciento de las craneales y 2'8 por ciento de las de raquis. La precisión de registro fue 1'6 mm; el número medio de intentos para realizar el registro fue de 2'8 aunque en 3 casos éste no se pudo llevar a cabo; hubo desajustes durante el procedimiento en 9 cirugías, (dos de ellas tras alcanzar la lesión). Se emplearon: resonancia magnética (RM) en 54, tomografía computarizada (TC) en 5, fiuoroscopia (Rx) en 1, TC y RM en 8, TC y Rx en 1. Desde que se dispuso del sistema localizador Z-touch y su software se han empleado exclusivamente, prescindiendo de los fiduciales externos. Discusión y conclusiones: En nuestra experiencia, la neuronavegación requiere tiempo extra, pero facilita la elección de la posición idónea para el abordaje, acelera la planificación de la incisión y craniotomía, y es útil para la apertura dural y corticectomía. A medida que el procedimiento avanza, nos parece menos fiable y necesario. El sistema con Z-touch independiza la toma de la imagen de la cirugía. Su empleo en la columna en nuestros pacientes es más escasa y con resultados más limitados hasta ahora. Encontramos a la neuronavegación útil, empleándola de manera rutinaria en los procedimientos craneales de cualquier tipo siempre que esto es posible (AU)</dc:description>
+<dc:source>Neurocirugia (Astur);14(5): 398-408, oct. 2003.</dc:source>
+<dc:identifier>ibc-26435</dc:identifier>
+<dc:title xml:lang="es">Primeros pasos en neuronavegación</dc:title>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d37548</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200310</dc:date>
+</metadata>
+</record>
+</ibecs-document>

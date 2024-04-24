@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-039200</identifier>
+<setSpec>1130-8621</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Reliability of measurement instruments in the health sciences</dc:title>
+<dc:description xml:lang="en">This article presents the most frequent types of reliability that can be evaluated when using measurement instruments or procedures to perform research in the health sciences and provides examples for each case. The most frequently used statistical tests according to the type of reliability under evaluation and the type of variables measured are also discussed. Reliability provides information on the reproducibility of the results obtained by the procedure used for measurement; it is the degree of stability achieved in the results when a measurement is repeated under identical conditions. The four elements that must be considered when evaluating reliability are: a) interobserver reliability, which refers to the consistency between two distinct observers when they evaluate the same measurement in a single individual, b) intraobserver reliability, which evaluates the degree of consistency in the same observer when performing a measurement, c) test-retest reliability, which indicates the extent to which an instrument provides similar results when applied in a single individual on more than one occasion but under identical conditions, and d) internal consistency, which is the property that defines the level of agreement or conformity of a set of measurements within themselves. The most appropriate statistical tests described in the article according to the type of data to be measured are kappa index, the weighted kappa index, the intraclass correlation coefficient and Crohnbach's alpha</dc:description>
+<dc:creator>Hidalgo GarcÍa, Raquel</dc:creator>
+<dc:creator>Fuentelsaz Gallego, Carmen</dc:creator>
+<dc:creator>Moreno Casbas, M. Teresa</dc:creator>
+<dc:creator>Sánchez Fernández, Pedro</dc:creator>
+<dc:creator>Aguilar de Armas, Ignacio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En este artículo se presentan los tipos de fiabilidad más frecuentes que se pueden evaluar cuando se utilizan instrumentos o procedimientos de medición para investigar en ciencias de la salud, e incorpora ejemplos para cada caso, así como las pruebas estadísticas más utilizadas, según el tipo de fiabilidad que se desee evaluar y el tipo de variables medidas. La fiabilidad informa sobre la reproducibilidad de resultados obtenidos por un procedimiento de medición; es el grado de estabilidad conseguido en los resultados cuando se repite una medición en condiciones idénticas. Los 4 aspectos que hay que considerar para evaluarla son: a) la fiabilidad interobservador, que se refiere a la consistencia entre 2 observadores distintos cuando evalúan una misma medida en un mismo individuo; b) la fiabilidad intraobservador, que tiene como objetivo evaluar el grado de consistencia al efectuar la medición de un observador consigo mismo; c) la fiabilidad test-retest, que indica hasta qué punto un instrumento proporciona resultados similares cuando se aplica a una misma persona en más de una ocasión, pero en idénticas condiciones, y d) la consistencia interna, que es la propiedad que define el nivel de acuerdo o conformidad de un conjunto de mediciones consigo mismas. Las pruebas estadísticas más adecuadas que se describen en el artículo en función del tipo de datos a medir son el índice kappa, el índice kappa ponderado, el coeficiente de correlación intraclase y el alfa de Cronbach</dc:description>
+<dc:source>Enferm. clín. (Ed. impr.);15(4): 227-236, jul. 2005. ilus, tab</dc:source>
+<dc:identifier>ibc-039200</dc:identifier>
+<dc:title xml:lang="es">Fiabilidad de los instrumentos de medición en ciencias de la salud</dc:title>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d28640^s22045</dc:subject>
+<dc:subject>^d37673^s22039</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28597^s22045</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d37673^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200507</dc:date>
+</metadata>
+</record>
+</ibecs-document>

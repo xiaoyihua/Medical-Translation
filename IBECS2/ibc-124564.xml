@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-124564</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Definition of hospital discharge, serious injury and death from traffic injuries</dc:title>
+<dc:description xml:lang="en">Road traffic injury surveillance involves methodological difficulties due, among other reasons, to the lack of consensus criteria for case definition. Police records have usually been the main source of information for monitoring traffic injuries, while health system data has hardly been used. Police records usually include comprehensive information on the characteristics of the crash, but often underreport injury cases and do not collect reliable information on the severity of injuries. However, statistics on severe traffic injuries have been based almost exclusively on police data. The aim of this paper is to propose criteria based on medical records to define: a) &#147;Hospital discharge for traffic injuries&#148;, b) &#147;Person with severe traffic injury&#148;, and c) &#147;Death from traffic injuries&#148; in order to homogenize the use of these sources (AU)</dc:description>
+<dc:creator>Grupo de trabajo de la Sociedad Española de Epidemiología sobre la medida del impacto en salud de las lesiones en España</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La vigilancia de las lesiones producidas por tráfico comporta numerosas dificultades metodológicas debido, entre otras razones, a la falta de criterios consensuados de definición de caso. Para monitorizar las lesiones por tráfico, habitualmente se han utilizado los registros policiales como fuente principal de información, y en cambio apenas se han utilizado fuentes sanitarias. La fuente de origen policial suele disponer de información exhaustiva sobre las características de la colisión, pero en general infranotifica casos y no recoge información fiable sobre la gravedad de las lesiones. Aun así, las estadísticas de heridos graves se han basado casi exclusivamente en criterios policiales. Esta nota tiene como objetivo proponer criterios para definir, a partir de fuentes sanitarias: a) «Alta hospitalaria por lesiones por tráfico», b) «Persona con lesión grave por tráfico», y c) «Muerte por lesiones por tráfico», con la finalidad de homogeneizar el uso de estas fuentes (AU)</dc:description>
+<dc:source>Gac Sanit;28(3): 242-245, mayo-jun. 2014. tab</dc:source>
+<dc:identifier>ibc-124564</dc:identifier>
+<dc:title xml:lang="es">Definición de alta hospitalaria, lesión grave y muerte por lesiones por tráfico</dc:title>
+<dc:subject>^d23893^s22083</dc:subject>
+<dc:subject>^d22947^s22016</dc:subject>
+<dc:subject>^d10545^s22048</dc:subject>
+<dc:subject>^d28637</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d15345^s22016</dc:subject>
+<dc:subject>^d28397</dc:subject>
+<dc:subject>^d55139^s22049</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201406</dc:date>
+</metadata>
+</record>
+</ibecs-document>

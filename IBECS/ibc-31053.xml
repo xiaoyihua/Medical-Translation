@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-31053</identifier>
+<setSpec>0212-7113</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Miniaturized ecotoxicity assay with Chlorella vulgaris using differents endpoints</dc:title>
+<dc:creator>Aguayo, S</dc:creator>
+<dc:creator>Torre, A. I. de la</dc:creator>
+<dc:creator>Roset, J</dc:creator>
+<dc:creator>Cuéllar, M. L</dc:creator>
+<dc:creator>Muñoz, M. J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Asociación Española de Toxicología</dc:publisher>
+<dc:description xml:lang="es">La exigencia actual de valoraciones medioambientales, requiere la utilización de métodos con relación coste/beneficio adecuado. En este trabajo presentamos el desarrollo y utilización de la Fluorescencia como medida de la inhibición del crecimiento, utilizando un monocultivo de Chlorella vulgaris var. Viridis. Se estimó las CI50 48 h de los siguientes compuestos: Glifosato, Amitrol, paraquat, Sulfato de Cobre, 3,4-Dicloroanilina y Cloruro de Cadmio, utilizando la Fluorescencia, la Densidad Celular y la Absorbancia, como parámetros de expresión. Los resultados aportan información sobre efectos fitotóxicos para los herbicidas Glifosato, Amitrol y Paraquat, con CI50 48 h de 100,85, 13, 82 y 0,04 mg/mL respectivamente, que ofrecen CI50 48 h en el mismo orden de magnitud, en cada uno de los compuestos ensayados para Densidad Celular, Absorbancia y Fluorescencia. Se discuten las ventajas que la Fluorescencia tendría frente a los otros parámetros de expresión, en ensayos de ecotoxicidad (AU)</dc:description>
+<dc:source>Rev. toxicol;17(1): 41-45, ene.-abr. 2000. tab</dc:source>
+<dc:identifier>ibc-31053</dc:identifier>
+<dc:title xml:lang="es">Ensayo de ecotoxicidad miniaturizado en Chlorella vulgaris utilizando diferentes parámetros de expresión</dc:title>
+<dc:subject>^d32968^s22068</dc:subject>
+<dc:subject>^d5585</dc:subject>
+<dc:subject>^d28017^s22045</dc:subject>
+<dc:subject>^d31999^s22045</dc:subject>
+<dc:subject>^d2753^s22021</dc:subject>
+<dc:subject>^d32964^s22068</dc:subject>
+<dc:subject>^d19042</dc:subject>
+<dc:subject>^d653^s22068</dc:subject>
+<dc:subject>^d2487^s22045</dc:subject>
+<dc:subject>^d10458^s22068</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200004</dc:date>
+</metadata>
+</record>
+</ibecs-document>

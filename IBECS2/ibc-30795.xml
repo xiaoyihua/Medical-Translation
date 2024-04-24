@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-30795</identifier>
+<setSpec>0048-7120</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Assessment of body damage in the spinal cord injuries: differences between tetraplegics and paraplegics</dc:title>
+<dc:creator>Muñoz Langa, J</dc:creator>
+<dc:creator>Forner Cordero, A</dc:creator>
+<dc:creator>Gisbert Grifo, M</dc:creator>
+<dc:creator>Delgado Calvo, M</dc:creator>
+<dc:creator>forner Cordero, I</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Introducción. La valoración del lesionado medular se realiza con la escala de la American Spinal Injury Association (ASIA) para medir el déficit, la Medida de la Independencia Funcional (MIF) (Functional Independence Measure, FIM) para medir discapacidad, el Baremo de la Ley 30/95 para indemnizar las secuelas y las tablas de minusvalía. El objetivo de este estudio fue analizar las diferencias existentes en la valoración entre un grupo de pacientes con lesión medular cervical y otro dorsal, mediante estas cuatro escalas de valoración. Pacientes y método. Se incluyeron 19 pacientes varones con lesión medular completa traumática, 7 tetrapléjicos C6 y 12 parapléjicos entre D2-D11, con una media de edad de 23,2 años. Se evaluaron con las 4 escalas y se definió un modelo matemático, el "grado de diferencia relativa", para cuantificar objetivamente el grado de diferencia que presentan las escalas entre tetrapléjicos y parapléjicos. Resultado. Todas las escalas presentan diferencias en la puntuación entre tetrapléjicos y parapléjicos (p &lt; 0,0001) y todas mantienen una asociación lineal entre sí y con la puntuación motora de la escala ASIA, siendo la MIF (R de Pearson: 0,924) y el baremo de tráfico (R: -0,887) las que presentan un mayor índice de correlación. Al calcular el grado de diferencia relativa, la MIF detecta una diferencia del 42 por ciento entre tetrapléjicos y parapléjicos; la escala ASIA un 29,8 por ciento, el baremo el 13,1 por ciento y las tablas de minusvalía sólo el 2,4 por ciento. Conclusiones. Las diferencias encontradas en el baremo y en las tablas de minusvalía entre tetrapléjicos y parapléjicos no se ajustan a las diferencias clínicas y funcionales existentes entre ellos (AU)</dc:description>
+<dc:source>Rehabilitación (Madr., Ed. impr.);38(2): 51-58, mar. 2004. tab, graf</dc:source>
+<dc:identifier>ibc-30795</dc:identifier>
+<dc:title xml:lang="es">Valoración del daño corporal en la lesión medular: diferencias entre tetrapléjicos y parapléjicos</dc:title>
+<dc:subject>^d12219^s22027</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d10453^s22027</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d24901</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30935</dc:subject>
+<dc:subject>^d13502^s22012</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200403</dc:date>
+</metadata>
+</record>
+</ibecs-document>

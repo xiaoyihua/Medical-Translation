@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-34086</identifier>
+<setSpec>0558-6291</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Nine loci microsatellite study in human resident population in Basque Country</dc:title>
+<dc:creator>Castro, A</dc:creator>
+<dc:creator>Rodríguez-Filgueira, J. L</dc:creator>
+<dc:creator>Pancorbo, M. M. de</dc:creator>
+<dc:creator>Fernández-Fernández, I</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Facultad de Medicina. Universidad de Zaragoza</dc:publisher>
+<dc:description xml:lang="es">Se han analizado 9 loci STRs tetranucleotídicos D3S1358, VWA, FGA, D8S1179, D21S11, D18S51, D5S818, D13S317 y D7S820 en la población residente en el País Vasco para poder aplicarlos a la Identificación Genética. Se han analizado 179 individuos y se han calculado sus frecuencias alélicas, el estado de equilibrio según la ley de H-W y la falta de ligamiento entre los loci estudiados, para así poder calcular los parámetros genético-forenses de probabilidad de exclusión "a priori" (Pex) y poder de discriminación (PD). Además se ha realizado la comparación con otras poblaciones previamente estudiadas (AU)</dc:description>
+<dc:source>Arch. Fac. Med. Zaragoza;43(2): 105-108, ago. 2003. tab, graf</dc:source>
+<dc:identifier>ibc-34086</dc:identifier>
+<dc:title xml:lang="es">Estudio de 9 loci microsatélite en población residente en el País Vasco</dc:title>
+<dc:subject>^d485</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d22160^s22001</dc:subject>
+<dc:subject>^d22160^s22033</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d5964</dc:subject>
+<dc:subject>^d11002</dc:subject>
+<dc:subject>^d12838</dc:subject>
+<dc:subject>^d32686^s22033</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200308</dc:date>
+</metadata>
+</record>
+</ibecs-document>

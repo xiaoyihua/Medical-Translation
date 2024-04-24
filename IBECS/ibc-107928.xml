@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-107928</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Analyzing the impact of decisions in the scope of long term care by fuzzy cognitive maps, Spain</dc:title>
+<dc:description xml:lang="en">System for Autonomy and Care for Dependency (Spanish acronym SAAD) was created to provide a framework for the protection of dependent people. The priority established by law on benefits in kind over cash benefits, together with the efficient management of public resources provided economic returns for the SAAD, such as employment generation. The variables that influence the implementation of the SAAD are extremely complex and dynamic, and there are multiple relationships between them. The aim of this paper is to analyze the problem of satisfying a growing demand for protection, at minimum cost, and reaps the economic returns using fuzzy logic (fuzzy cognitive map). This technique is designed as a tool for decision-making in this area, to analyze the evolution of causal variables to a state of equilibrium. To do this, we have developed 4 scenarios (E1: Ageing, E2: Ageing and benefits in kind, E3: Ageing and cash benefits, E4: Ageing and cash benefit for care in the family), to analyze the evolution of variables, especially public expenditure and employment. Among the main results are: ageing is critical for the increased spending in all scenarios, but only in E1 and E2 is generated employment, residential care is not altered, even in E2; Telecare increases in all scenarios, and the cash benefit for personal attendant increases in E1 and E2(AU)</dc:description>
+<dc:creator>Gutiérrez Moya, Ester</dc:creator>
+<dc:creator>Salmerón Silvera, José Luis</dc:creator>
+<dc:creator>González Camacho, M. Carmen</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El Sistema para la Autonomía y Atención a la Dependencia (SAAD) fue creado con el fin de proporcionar un marco de protección a las personas en situación de dependencia. La prioridad de las prestaciones en servicios frente a las económicas, según la Ley, y la gestión eficiente de los recursos públicos destinados al SAAD hacían prever retornos económicos, como la generación de empleo. Las variables que influyen en la implantación del SAAD son extremadamente complejas y dinámicas, existiendo múltiples relaciones entre las mismas. El objetivo de este trabajo es analizar la problemática de satisfacer una demanda creciente de protección al mínimo coste y aprovechar los retornos económicos mediante la lógica borrosa (mapa cognitivo borroso). Esta técnica se configura como una herramienta para la toma de decisiones en este ámbito, porque permite analizar la evolución de las variables causales hasta un estado de equilibrio. Para ello, se han ideado 4 escenarios (E1:Envejecimiento, E2: Envejecimiento y prestaciones en servicios, E3: Envejecimiento y prestaciones económicas, E4: Envejecimiento y prestación económica para cuidados en el entorno familiar), con el fin de analizar la evolución de las variables, especialmente el gasto público y el empleo. Entre los principales resultados obtenidos destacan: el envejecimiento es determinante en el incremento del gasto en todos los escenarios, pero solamente en E1 y E2 se genera empleo. La prestación residencial no se altera, ni siquiera en E2. La teleasistencia aumenta en todos los escenarios y la prestación económica por asistente personal aumenta en E1 y E2(AU)</dc:description>
+<dc:source>Rev Esp Salud Publica;86(6): 565-574, nov.-dic.2012. tab, ^ilus</dc:source>
+<dc:identifier>ibc-107928</dc:identifier>
+<dc:title xml:lang="es">Uso de mapas cognitivos borrosos para conocer el impacto económico de las prestaciones del sistema para la autonomía y atención a la dependencia</dc:title>
+<dc:subject>^d^s22045</dc:subject>
+<dc:subject>^d50095</dc:subject>
+<dc:subject>^d^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d13328</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d13308^s22011</dc:subject>
+<dc:subject>^d13308^s22045</dc:subject>
+<dc:subject>^d12075^s22041</dc:subject>
+<dc:subject>^d5516^s22018</dc:subject>
+<dc:subject>^d12075^s22066</dc:subject>
+<dc:subject>^d35160</dc:subject>
+<dc:subject>^d5516^s22045</dc:subject>
+<dc:subject>^d22101^s22031</dc:subject>
+<dc:subject>^d30585^s22018</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201212</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-32326</identifier>
+<setSpec>1137-6627</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Protocol for the treatment of haemangiomas and/or vascular malformations</dc:title>
+<dc:creator>Fernández, M</dc:creator>
+<dc:creator>Redondo, P</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Departamento de Salud. Gobierno de Navarra</dc:publisher>
+<dc:description xml:lang="es">Ante toda lesión vascular presente en los primeros momentos de la vida, es preciso discriminar si se trata de un tumor o una malformación vascular dada la diferente evolución de ambos procesos y, por tanto, el distinto tratamiento que precisan.El diagnóstico es fundamentalmente clínico, basado en una correcta anamnesis y una minuciosa exploración física. Lo primero es saber si la lesión no estaba presente en el nacimiento y ha cambiado de forma llamativa de tamaño, lo que llevaría a pensar en un hemangioma o, por el contrario, es congénita y de crecimiento muy lento como son las malformaciones vasculares. Ante lesiones dudosas, está indicado realizar una biopsia con inmunohistoquímica para el anticuerpo GLUT-1, específico de hemangiomas.Entre las pruebas de imagen, de primera elección suele utilizarse la ecografía-Doppler que permite diferenciar si la lesión es de alto o bajo flujo y distinguir si se trata de un hemangioma o una malformación vascular. En función del tipo de lesión, localización y grado de afectación puede ser preciso realizar una radiografía, resonancia magnética, flebografía, angio-resonancia, arteriografía o linfoescintigrafía para completar el estudio.En casos más particulares, como la hemangiomatosis múltiple, es necesario realizar una ecografía hepática, sangre oculta en heces, gastroscopia y colonoscopia, así como una determinación de hormonas tiroideas; y en las malformaciones venosas o combinadas extensas, un hemograma y pruebas de coagulación.Por otro lado, las posibles repercusiones en otros órganos hacen imprescindible un abordaje multidisciplinar con la participación de diferentes especialistas.Debido al amplio espectro que abarcan las anomalías vasculares, el tratamiento debe ser individualizado (AU)</dc:description>
+<dc:source>An Sist Sanit Navar;27(supl.1): 133-140, ene. 2004.</dc:source>
+<dc:identifier>ibc-32326</dc:identifier>
+<dc:title xml:lang="es">Protocolo de actuación ante hemangiomas y/o malformaciones vasculares</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d27977</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6542^s22067</dc:subject>
+<dc:subject>^d29897^s22067</dc:subject>
+<dc:subject>^d3965</dc:subject>
+<dc:subject>^d6542^s22016</dc:subject>
+<dc:subject>^d29897^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200401</dc:date>
+</metadata>
+</record>
+</ibecs-document>

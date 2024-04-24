@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-75320</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Age as time-scale: an application to the survival analysis of chronic diseases</dc:title>
+<dc:description xml:lang="en">Background: Cohort study survival analysis does not take intoaccount the age at which an individual dies, but rather the agethroughout which the individual has been included in the follow-up.This study is aimed at assessing the resulting differences in the calculationof the relative risk (RR) when the age is used instead offollow-up as a timescale in the chronic diseases survival analysis.Methods: The five-year cohort follow-up data for the CatalanHealth Interview Survey (COHESCA) is analyzed. Cox models areadjusted to the follow-up time («standard» approach) and the age(«alternative» approach) as the timescale. The main covariable usedis the comorbility index, which is adjusted by demographics, lifestylesand self-perceived health.Results: Among men in the 40-64 age range, using the «standard» approach, no significant increase in the RR of death wasfound. Among women within the 40-64 age range with a 3-4 score onthe index, there was a significant increase in the RR. Among thoseover age 64, a significant increase in the risk was found for the 3-4score (RRmen= 2.1(1.3-2.5); RRwomen=2.1(1.2-3.7)) and &gt;=5 onthe index (RRmen= 3.4(1.7-6.9); RRwomen=4.0(2.1-7.7)). Usingthe «alternative» approach, the RR was 1.0 (0.7-1.4) among menwith a score of 1-2, 1.5 (1.0-2.3) for those with a score of 3-4 and 2.6(1.4-4.9) for those with a score of &gt;=5. Among women, the RR wererespectively 0.8 (0.5-1.2), 1.7 (1.1-2.7) and 2.6 (1.5-4.8).Conclusions: Both approaches showed an increase in the RRaccording to the comorbility index. However, in the «alternative»approach, it is adjusted by the confounding effect of age(AU)</dc:description>
+<dc:creator>Rius Gibert, Cristina</dc:creator>
+<dc:creator>Pérez Albarracín, Gloria</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamento: El análisis de supervivencia de estudios de cohortesno tiene en cuenta la edad a la que un individuo muere sino duranteel cual ha estado siendo incluido en el seguimiento. El objetivo deeste trabajo es valorar las diferencias que resultan en el cálculo delriesgo relativo cuando se utiliza la edad en lugar de seguimientocomo escala de tiempo en el análisis de supervivencia de los trastornoscrónicos.Métodos: Se analizan los datos de la cohorte de seguimiento de5 años de la encuesta de salud de Cataluña (COHESCA). Se ajustanmodelos de Cox con el tiempo de seguimiento (enfoque «habitual»)y la edad (enfoque «alternativo») como escala de tiempo. Comoprincipal covariable se usa el índice de comorbilidad y se ajusta porvariables demográficas, estilos de vida y salud auto-percibida.Resultados: En los hombres de 40-64 años en el enfoque "habitual"no se observa aumento significativo del riesgo relativo de morir.En las mujeres de 40-64 años con puntuación 3-4 del índice hay unincremento significativo del riesgo relativo. En las personas mayoresde 64 años se observa un aumento significativo del riesgo para la puntuación3-4 [RRhombres=2,1 (1,3-2,5); RRmujeres=2,1 (1,2-3,7)] y&gt;=5 del índice (RRhombres=3,4 (1,7-6,9); RRmujeres=4,0 (2,1-7,7).En el enfoque «alternativo», el riesgo relativo fue de 1,0 (0,7-1,4) enlos hombres con una puntuación de 1-2, 1,5 (1,0-2,3) para los de 3-4y 2,6 (1,4-4,9) para los de &gt;=5. En las mujeres, los RR fueron respectivamente0,8 (0,5-1,2), 1,7 (1,1-2,7) y 2,6 (1,5-4,8).Conclusiones: Ambos enfoques muestran un aumento del riesgorelativo según el índice de comorbilidad. Sin embargo, en el enfoque«alternativo», se ajusta por el efecto confundidor de la edad(AU)</dc:description>
+<dc:source>Rev Esp Salud Publica;80(6): 657-664, nov.-dic.2006. tab, ilus</dc:source>
+<dc:identifier>ibc-75320</dc:identifier>
+<dc:title xml:lang="es">La edad como escala de tiempo en el análisis de la supervivencia por trastornos crónicos</dc:title>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d28423</dc:subject>
+<dc:subject>^d28601</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29362</dc:subject>
+<dc:subject>^d28604^s22066</dc:subject>
+<dc:subject>^d28563^s22080</dc:subject>
+<dc:subject>^d24572</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200612</dc:date>
+</metadata>
+</record>
+</ibecs-document>

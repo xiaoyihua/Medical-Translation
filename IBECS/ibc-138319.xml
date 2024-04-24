@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-138319</identifier>
+<setSpec>1578-8423</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Using Voronoi diagrams to describe tactical behaviour in invasive team sports: an application in basketball</dc:title>
+<dc:description xml:lang="en">Team sports are recognized as dynamic systems of interaction, where individual and collective patterns of behaviour emerge from a confluence of multiple constraints on the players. Players&#146; distribution on the field is often associated with tactical options, strategic decisions, and principles. Hence, the analysis of positional data has gained relevance and is now a hot topic in sport science research, feeding the interests of researchers, analysts and coaches. Recent studies tried to characterize teams&#146; and players&#146; tactical behaviour using variables derived from their spatial distribution (e.g., the area of the convex hull). The Voronoi diagrams (VD) have been introduced for the analysis of the spatial organization in team sports as it allows, unlike other models, defining the dominant region of both players and teams. This study considered the application of VD to describe offensive tactical behaviour in basketball. For this purpose, a formal game between two teams of Austrian basketball talents was observed, from where 19 offensive sequences were selected for analysis. The results indicate that the percentage of area occupied by each team, at each instant, can be considered to describe teams&#146; patterns of spatial organization during a positional attack, allowing to classify and distinguish transition phase and organized phase. This approach may also help to reduce the time spent in video analysis by coaches, giving them more time to prepare training plans and sessions in order to improve the tactical and strategic performance of their teams (AU)</dc:description>
+<dc:creator>Fonseca, Sofia</dc:creator>
+<dc:creator>Baca, Arnold</dc:creator>
+<dc:creator>Lopes, António</dc:creator>
+<dc:creator>Lese, Roland</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Los deportes de equipo son reconocidos como sistemas dinámicos de interacción, donde patrones individuales y colectivos de comportamiento surgen de la confluencia de múltiples condicionantes sobre los jugadores. La distribución de los jugadores en el campo se asocia con opciones tácticas, decisiones estratégicas y principios de juego. Por lo tanto, el análisis de los datos de posición se ha ganado relevancia y ahora es un tema importante en la investigación, correspondiendo a las necesidades de los investigadores, analistas y entrenadores. Estudios recientes trataron de caracterizar el comportamiento táctico de equipos y jugadores usando variables derivadas de su distribución espacial (e.g., el área de la envolvente convexa). Los diagramas de Voronoi (DV) se han introducido para el análisis de la organización espacial en deportes de equipo ya que permite definir, a diferencia de otros modelos, la región dominante dos jugadores y dos equipos. Este estudio examinó la aplicación de DV para describir lo comportamiento táctico ofensivo en baloncesto. Con este fin, un juego informal entre dos equipos de talentos Austriacos fue considerado de donde 19 secuencias ofensivas fueron seleccionados para análisis. Los resultados indican que el porcentaje de superficie ocupada por cada equipo, se puede considerar para describir patrones de comportamiento de los equipos durante un ataque posicional, en particular, clasificar y distinguir la fase de transición y la fase organizada. La aplicación práctica de estos resultados puede ayudar a reducir el tiempo empleado en el análisis de vídeo por los entrenadores, dándoles más tiempo para preparar los planes de formación y sesiones con el fin de mejorar el rendimiento táctico y estratégico de sus equipos (AU)</dc:description>
+<dc:source>Cuad. psicol. deporte;15(1): 123-130, ene.-jun. 2015. ilus, tab</dc:source>
+<dc:identifier>ibc-138319</dc:identifier>
+<dc:title xml:lang="es">Aplicación de diagramas de Voronoi para describir el comportamiento ta&amp;#769;ctico en deportes de equipo de invasio&amp;#769;n: una aplicacio&amp;#769;n en el baloncesto</dc:title>
+<dc:subject>^d13562^s22083</dc:subject>
+<dc:subject>^d50295^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d19084^s22083</dc:subject>
+<dc:subject>^d52940^s22083</dc:subject>
+<dc:subject>^d13409</dc:subject>
+<dc:subject>^d3194</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201506</dc:date>
+</metadata>
+</record>
+</ibecs-document>

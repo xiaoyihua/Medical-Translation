@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-36219</identifier>
+<setSpec>0014-2565</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Pharmacoeconomic analysis of patients with acute exacerbation of chronic bronchitis treated with telithromycin or cefuroxime-axetil</dc:title>
+<dc:creator>Trilla, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Introducción. Se hizo un análisis farmacoeconómico para comparar la eficiencia de dos tratamientos en la exacerbación aguda de la bronquitis crónica: telitromicina y cefuroxima-axetil. Métodos. Análisis retrospectivo, modelizado mediante un árbol de decisiones. La eficacia de los tratamientos se estimó a partir de un ensayo clínico, aleatorizado y doble ciego en el que se compararon 800 mg/día (5 días) de telitromicina con 1.000 mg/día (10 días) de cefuroxima-axetilo en pacientes con exacerbación aguda de la bronquitis crónica (140 y 142, respectivamente).La utilización de recursos se estimó a partir del ensayo clínico y de fuentes españolas y los costes unitarios mediante una base de datos de costes sanitarios. El modelo fue validado por un panel de expertos clínicos españoles. Resultados. Debido a que el ensayo clínico se diseñó para demostrar equivalencia, no hubo diferencias significativas de eficacia entre los tratamientos (con una tasa de curación clínica del 86,4 por ciento y el 83,1 por ciento, respectivamente), por lo que se hizo un análisis de minimización de costes. En el caso básico, el coste medio de la enfermedad por paciente fue de 174,83 euros con telitromicina y de 194,68 euros con cefuroxima-axetilo (diferencia de 19,85 euros). Los resultados fueron estables en el análisis de sensibilidad, con diferencias favorables a telitromicina que oscilaron entre 18,04 y 22,25 euros. Conclusiones. Con telitromicina se podrían ahorrar hasta 22 euros por paciente con exacerbación aguda de la bronquitis crónica (AU)</dc:description>
+<dc:source>Rev Clin Esp;204(11): 567-573, nov. 2004.</dc:source>
+<dc:identifier>ibc-36219</dc:identifier>
+<dc:title xml:lang="es">Análisis farmacoeconómico del tratamiento de pacientes con exacerbación aguda de la bronquitis crónica con telitromicina o cefuroxima-axetilo</dc:title>
+<dc:subject>^d30313</dc:subject>
+<dc:subject>^d19062</dc:subject>
+<dc:subject>^d36007</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d911</dc:subject>
+<dc:subject>^d22431</dc:subject>
+<dc:subject>^d2479</dc:subject>
+<dc:subject>^d32697</dc:subject>
+<dc:subject>^d28561</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200411</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-112902</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Association between blood pressure and mortality in a Spanish cohort of persons aged 65 years or over: a dynamic model</dc:title>
+<dc:description xml:lang="en">Introduction and objectives. Few studies have used time-dependent correction to analyze the relationship between blood pressure and all-cause mortality, and to our knowledge none has been performed in older people from the Mediterranean area. This study aimed to estimate the relationship between baseline blood pressure and blood pressure as a time-dependent covariate with the risk of all-cause mortality in a population cohort of persons aged 65 or older in Spain. Methods. Data were taken from the population-based study &#147;Aging in Leganés&#148; with 17 years of follow-up, launched in 1993 in a random sample (n=1560) of persons aged &gt;=65 years. Mortality was assessed in 2010. Cox proportional hazards models were fitted to examine the effects on mortality of blood pressure at baseline and of blood pressure as a time-dependent covariate. Results. The lowest mortality was observed at baseline systolic blood pressure of 136mmHg and time-dependent covariate value of 147mmHg. The highest risk of mortality for time-dependent covariates occurred with systolic blood pressure&lt;115 mmHg and &gt;93mmHg and diastolic blood pressure&lt;80mmHg. Diastolic blood pressure over 85mmHg did not increase the risk of death. Conclusions. Based on the dynamic association between blood pressure and mortality, a U-shaped relationship was found for systolic blood pressure and a negative relationship for diastolic blood pressure and all-cause mortality. The lowest mortality corresponded to a systolic blood pressure level slightly over the diagnostic hypertension value and suggests that a value of 140mmHg is not adequate as a diagnostic and therapeutic threshold in an elderly population(AU)</dc:description>
+<dc:creator>Gutiérrez-Misis, Alicia</dc:creator>
+<dc:creator>Banegasa, José R</dc:creator>
+<dc:creator>Oteroa, Ángel</dc:creator>
+<dc:creator>Castella, María V</dc:creator>
+<dc:creator>Sánchez-Martínez, Mercedes</dc:creator>
+<dc:creator>Zunzunegui, Maria V</dc:creator>
+<dc:creator>Sánchez-Santosa, María T</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos. Son pocos los estudios que han utilizado una corrección dependiente del tiempo para analizar la relación entre presión arterial y mortalidad por cualquier causa, y hasta donde sabemos no se ha realizado ninguno en ancianos del área mediterránea. El objetivo de este estudio es estimar la relación que la presión arterial basal y la presión arterial como variable dependiente del tiempo tienen con el riesgo de mortalidad por cualquier causa en una cohorte poblacional en España de personas de 65 o más años. Métodos. Los datos se obtuvieron del estudio de base poblacional «Envejecer en Leganés», con un seguimiento de 17 años, que se puso en marcha en 1993 en una muestra aleatoria (n = 1.560) de personas de 65 o más años. Se evaluó la mortalidad en 2010. Se ajustaron modelos de riesgos proporcionales de Cox para analizar los efectos de la presión arterial basal y la presión arterial como covariable dependiente del tiempo en la mortalidad. Resultados. El valor mínimo de mortalidad se observó con una presión arterial sistólica basal de 136 mmHg y un valor de presión arterial sistólica como covariable dependiente del tiempo de 147 mmHg. El riesgo de mortalidad más alto para la presión arterial sistólica como covariable dependiente del tiempo se produjo con valores de presión arterial sistólica &lt; 115 y &gt; 193 mmHg y presión arterial diastólica &lt; 80 mmHg. Valores de presión arterial diastólica &gt; 85 mmHg no aumentaron el riesgo de muerte. Conclusiones. Teniendo en cuenta la relación dinámica entre la presión arterial y la mortalidad, nuestros datos muestran una relación en forma de U para la presión arterial sistólica y una relación negativa para la presión arterial diastólica y mortalidad por todas las causas. La menor mortalidad correspondió a un valor de presión arterial sistólica ligeramente superior al valor diagnóstico de hipertensión, lo que indica que 140 mmHg podría no ser adecuado como valor diagnóstico y objetivo terapéutico en la población anciana (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;66(6): 464-471, jun. 2013.</dc:source>
+<dc:identifier>ibc-112902</dc:identifier>
+<dc:title xml:lang="es">Asociación entre presión arterial y mortalidad en una cohorte de individuos de edad igual o superior a 65 años de España: un modelo dinámico</dc:title>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d27977</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d7152^s22012</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d24572</dc:subject>
+<dc:subject>^d55111^s22021</dc:subject>
+<dc:subject>^d55111^s22031</dc:subject>
+<dc:subject>^d9236^s22031</dc:subject>
+<dc:subject>^d7152^s22047</dc:subject>
+<dc:subject>^d28628</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d14417^s22020</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201306</dc:date>
+</metadata>
+</record>
+</ibecs-document>

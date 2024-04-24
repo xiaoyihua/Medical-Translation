@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-045041</identifier>
+<setSpec>0003-3170</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">How many patients should I select for my study?</dc:title>
+<dc:description xml:lang="en">INTRODUCTION. After working for a number of years in a research support unit in a large hospital, one of the authors came to the conclusion that this question, and its variants, is probably one of the most frequent reasons behind the consultations carried out among clinical researchers and can sometimes even lead to anxiety. DEVELOPMENT. In this paper we are going to offer some brief reflections to aid clinical researchers on how to approach the calculation of the sample size to be used in a study. These considerations will attempt to reproduce the line of argument that works in the authors&#146; non-mathematical component and to go through the solutions it gives to the problems being dealt with by other colleagues so that this makes some kind of sense. Detailed mathematical formulae will therefore be avoided, but we will deal with the different elements that play a role in the calculation of a sample size. The reason for this is that sample size needs to be considered in many different contexts, depending on the type of study, the point of interest or objective of the study, and so forth. Sample size must be taken into account in many different contexts, and will depend on the type of study, the point of interest or objective of the study, and so forth. A specific formula has to be applied in each of these different contexts and this makes it very difficult to remember the formulae. Fortunately this is no longer necessary, since there are many programs on the Internet to assist in the process of estimating the sample size that is needed. CONCLUSION. In this article we approach the issue of calculating sample size through three main points: 1) attempt to understand why it makes sense and why it is necessary to estimate a sample size; 2) what we have to bear in mind when we want to do so; and 3) presentation of a tool that can be used to help us in the process</dc:description>
+<dc:creator>Santiago Pérez, María Isolina</dc:creator>
+<dc:creator>Muñiz García, Javier</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. Después de haber trabajado uno de los autores durante años en una unidad de apoyo a la investigación en un hospital grande, llegó al convencimiento de que esta pregunta, y sus variantes, es, probablemente, una de las causas más frecuentes de consulta entre los investigadores clínicos y, en ocasiones, motivo de ansiedad. Desarrollo. Vamos a dedicar unas breves reflexiones para ayudar a los investigadores clínicos a abordar el cálculo del tamaño muestral para un estudio. La orientación de las mismas intentará reproducir la línea argumental que le funciona al componente no matemático de los autores, e ir a través de las soluciones que le ha dado a los mismos problemas que afrontan otros compañeros para intentar que esto tenga sentido. Así, se huirá de fórmulas matemáticas en detalle, pero se abordarán los diferentes elementos que desempeñan un papel a la hora de calcular un tamaño muestral. La razón de esto es que existen muchos contextos diferentes en los que plantearse un tamaño muestral, en función del tipo de estudio, el interés u objetivo de la investigación, etc. En cada uno de estos contextos diferentes es de aplicación una fórmula específica, lo que hace muy difícil recordar las fórmulas. Por suerte, esto no es necesario, ya que existen múltiples programas disponibles en la red para ayudarnos en el proceso de estimar el tamaño muestral necesario. Conclusión. En el presente artículo se aborda la cuestión del cálculo del tamaño muestral a través de tres cuestiones: 1) intentar entender por qué tiene sentido y es necesario estimar un tamaño muestral; 2) en qué pensar cuando deseamos hacerlo; y 3) presentación de alguna herramienta disponible para ayudarnos en el proceso</dc:description>
+<dc:source>Angiologia;58(2): 145-150, mar.-abr. 2006.</dc:source>
+<dc:identifier>ibc-045041</dc:identifier>
+<dc:title xml:lang="es">¿Cuántos pacientes selecciono para mi estudio?</dc:title>
+<dc:subject>^d32095</dc:subject>
+<dc:subject>^d37673^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d32037</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200604</dc:date>
+</metadata>
+</record>
+</ibecs-document>

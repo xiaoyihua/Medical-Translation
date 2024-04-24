@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-23749</identifier>
+<setSpec>0034-0618</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Liposomal Amphotericin: A physical-chemistry approach to the knowledge of its mechanism of action</dc:title>
+<dc:creator>Miñones Conde, José</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Real Academia de Farmacia</dc:publisher>
+<dc:description xml:lang="es">El análisis de las isotermas presión superficial (pi) - área molecular (A), así como el de las curvas del módulo de compresibilidad (Cs-1) en función de la presión superficial correspondientes a monocapas mixtas de anfotericina B (AmB) y dipalmitoil fosfatidil serina (DPPS) extendidas sobre subfases de diferentes pH, muestra la existencia de importantes interacciones entre ambos componentes, sugiriendo la formación de complejos estables en la interfase aire/agua constituidos por dos moléculas de AmB orientadas horizontalmente y una de DPPS en posición vertical. Las atracciones de tipo iónico y el establecimiento de enlaces de hidrógeno entre los grupos polares de los componentes son los responsables de las interacciones mutuas, las cuales dependen del pH de la subfase como consecuencia del diferente estado de ionización de los grupos implicados en la interacción (grupos carboxílico y amino de la AmB y fosfato, carboxílico y amino del DPPS). La aplicación de la regla de las fases a las transiciones de fase de las monocapas mixtas permite conocer la miscibilidad del complejo con el componente en exceso (AmB o DPPS) cuando la proporción de éste en la mezcla excede a la requerida para la formación del complejo de estequiometria 2:1. La existencia de interacciones AmB/fosfolípido permite formular una interpretación acerca del mecanismo de acción de la AmB sobre la membrana celular de los hongos, así como de su menor toxicidad sobre el huésped cuando se administra en forma de liposomas (AU)</dc:description>
+<dc:source>An Real Acad Farm;68(1): 5-7, ene. 2002. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-23749</dc:identifier>
+<dc:title xml:lang="es">Anfotericina Liposomal: Una aproximación fisicoquímica al conocimiento de su mecanismo de acción</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d27953^s22079</dc:subject>
+<dc:subject>^d19153^s22079</dc:subject>
+<dc:subject>^d8255^s22000</dc:subject>
+<dc:subject>^d34700</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d10936^s22000</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200201</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-125339</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Design of a risk matrix to assess sterile formulations at health care facilities</dc:title>
+<dc:description xml:lang="en">Objective: To design a matrix allowing classifying sterile formulations prepared at the hospital with different risk levels. Material and methods: i) Literature search and critical appraisal of the model proposed by the European Resolution CM/ResAp(2011)1, ii) Identification of the risk associated to the elaboration process by means of the AMFE methodology (Modal Analysis of Failures and Effects), iii) estimation of the severity associated to the risks detected. After initially trying a model ofnumeric scoring, the classification matrix was changed to analphabetical classification, grading each criterion from A to D.Each preparation assessed is given a 6-letter combination with three possible risk levels: low, intermediate, and high. This model was easier for risk assignment, and more reproducible. Results: The final model designed analyzes 6 criteria: formulation process, administration route, the drug&#146;s safety profile, amount prepared, distribution, and susceptibility for microbiological contamination. The risk level obtained will condition the requirements of the formulation area, validity time, and storing conditions. Conclusions: The matrix model proposed may help health care institutions to better assess the risk of sterile formulations prepared, and provides information about the acceptable validity time according to the storing conditions and the manufacturing area. Its use will increase the safety level of this procedure as well as help in resources planning and distribution (AU)</dc:description>
+<dc:creator>López Cabezas, C</dc:creator>
+<dc:creator>García Salom, P</dc:creator>
+<dc:creator>Martín de Rosales Cabrera, A. M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Diseñar una matriz que permita la clasificación de los preparados estériles que se elaboran en el hospital en diferentes niveles de riesgo. Material y métodos: i) Revisión bibliográfica y lectura crítica del modelo propuesto por la resolución europea CM/ResAp(2011)1, ii)Identificación de los riesgos asociados al proceso de elaboración, mediante metodología AMFE (Análisis Modal de Fallos y Efectos),iii) estimación de la gravedad asociada a los riesgos detectados. Tras probar inicialmente un modelo de puntuación numérica, se modificó la matriz a una clasificación alfabética, graduando cada criterio de la A a la D. Cada preparación evaluada obtiene una combinación de 6 letras, que lleva a tres posibles niveles de riesgo: bajo, medio y alto. Este modelo presentó menor dificultad a la horade asignar riesgos, así como mayor reproducibilidad. Resultados: El modelo final diseñado analiza 6 criterios: proceso de preparación, vía de administración, perfil de seguridad del medicamento, cantidad preparada, distribución y susceptibilidad de contaminación microbiológica. El nivel de riesgo obtenido condicionará los requerimientos de la zona de elaboración, plazo de validez y las condiciones de conservación. Conclusiones: El modelo de matriz propuesta puede ayudar a las instituciones sanitarias a discernir el riesgo de las preparaciones estériles que se realizan, aportando información sobre el plazo de validez aceptable en función de las condiciones de conservación yel lugar de fabricación. Su aplicación conllevará un incremento enla seguridad de este proceso, a la vez que puede ayudar a la planificación y distribución de recursos (AU)</dc:description>
+<dc:source>Farm Hosp;38(3): 202-210, mayo-jun. 2014. ilus, tab</dc:source>
+<dc:identifier>ibc-125339</dc:identifier>
+<dc:title xml:lang="es">Diseño de una matriz de riesgo para la valoración de los preparados estériles en los centros sanitarios</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d33939^s22045</dc:subject>
+<dc:subject>^d4403^s22045</dc:subject>
+<dc:subject>^d11016^s22049</dc:subject>
+<dc:subject>^d54857</dc:subject>
+<dc:subject>^d24939^s22045</dc:subject>
+<dc:subject>^d28478^s22054</dc:subject>
+<dc:subject>^d4401^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d32048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201406</dc:date>
+</metadata>
+</record>
+</ibecs-document>

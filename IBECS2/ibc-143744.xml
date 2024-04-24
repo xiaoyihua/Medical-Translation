@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-143744</identifier>
+<setSpec>0212-1611</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Genome-wide screen of promoter methylation identifies novel markers in diet-induced obese mice</dc:title>
+<dc:description xml:lang="en">Objective: To investigate the genome-wide promoter methylation and gene expression for the identification of methylation markers in obesity. Methods: Using a high-fat, diet-induced obese mouse model, we performed comprehensive DNA methylation profiling of gene promoters to determine the differentially methylated genes using methylated DNA immunoprecipitation followed by hybridization to the NimbleGen MM8 CpG plus Promoter Microarray. We further integrated epigenomics data with gene expression profiling to identify promoters exhibiting an association between methylation status and the expression of downstream genes. Results: A total of 24 hypermethylated promoters and 42 hypomethylated promoters in epididymal fat were selected as methylation markers, which were associated with downregulated and upregulated gene expression, respectively. The promoter methylation and differential gene expression of three markers (Mmp2, Foxj3 and Ube2q2) in the fat were validated by sequencing bisulfitemodified DNA and real-time reverse transcriptase PCR. The genes with these differentially methylated promoters and the associated transcriptional expression in the fat were primarily involved in biological activities in lipid metabolism and storage, cellular differentiation, immunity and the pathogenesis of obesity-related complications. Conclusions: This study represents the first effort to determine methylation markers in obese mice that may regulate gene transcription in obesity. Our approach has potential relevance for clinical applications by identifying markers useful in elucidating the mechanisms of obesity pathogenesis and its complications (AU)</dc:description>
+<dc:creator>Dong, Hua</dc:creator>
+<dc:creator>Yan, Kesong</dc:creator>
+<dc:creator>Shen, Wenwen</dc:creator>
+<dc:creator>Fan, Chaonan</dc:creator>
+<dc:creator>Zhan, Dawei</dc:creator>
+<dc:creator>Xia, Lulu</dc:creator>
+<dc:creator>Qi, Kemin</dc:creator>
+<dc:creator>Wang, Cui</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objetivo: Investigar la metilación pangenómica del promotor y la expresión génica para la identificación de los marcadores de metilación en la obesidad. Métodos: Empleando un modelo de ratón con obesidad inducida por la dieta con alto contenido en grasa, realizamos un perfil exhaustivo de la metilación del ADN de los genes promotores para determinar los genes metilados diferencialmente utilizando la inmunoprecipitación del ADN metilado seguida de la hibridación del NimbleGen MM8 CpG y el Promoter Microarray. Posteriormente, integramos los datos de la epigenómica con el perfil de expresión génica para identificar los promotores que mostraban una asociación entre el estado de metilación y la expresión de los genes sucesivos. Resultados: Se seleccionó un total de 24 promotores hipermetilados y 42 promotores hipometilados en la grasa epididimaria como marcadores de la metilación, que se asociaron con la expresión génica regulada al alza y a la baja, respectivamente. La metilación del promotor y la expresión génica diferencial de tres marcadores (Mmp2, Foxj3 y Ube2q2) de la grasa se validaron mediante secuenciación del ADN modificado por bisulfito y por PCR de la transcriptasa reversa en tiempo real. Los genes con estos promotores metilados de forma diferencial y la expresión transcripcional asociada en la grasa estaban implicados primariamente en las actividades biológicas del metabolismo y almacenamiento de los lípidos, la diferenciación celular, la inmunidad y la patogenia de las complicaciones relacionadas con la obesidad. Conclusiones: Este estudio representa el primer intento por determinar los marcadores de la metilación en los ratones obesos que pueden regular la transcripción génica en la obesidad. Nuestro abordaje tiene una relevancia potencial por sus aplicaciones clínicas al identificar marcadores útiles en la dilucidación de los mecanismos de la patogenia de la obesidad y sus complicaciones (AU)</dc:description>
+<dc:source>Nutr Hosp;30(1): 42-52, jul. 2014. tab, graf</dc:source>
+<dc:identifier>ibc-143744</dc:identifier>
+<dc:title xml:lang="es">El cribado pangenómico de la metilación del promotor identifica marcadores nuevos en ratones con obesidad inducida por la dieta</dc:title>
+<dc:subject>^d54806^s22074</dc:subject>
+<dc:subject>^d9951^s22033</dc:subject>
+<dc:subject>^d9880^s22033</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d12345</dc:subject>
+<dc:subject>^d24411</dc:subject>
+<dc:subject>^d33163</dc:subject>
+<dc:subject>^d24666^s22033</dc:subject>
+<dc:subject>^d52885^s22045</dc:subject>
+<dc:subject>^d38827^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201407</dc:date>
+</metadata>
+</record>
+</ibecs-document>

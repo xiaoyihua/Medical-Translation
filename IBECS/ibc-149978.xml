@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-149978</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">A procedure for detecting DIF in polythomous and dichotomous items.</dc:title>
+<dc:description xml:lang="en">In the present paper a modification of a DIF detection procedure is presented. The DIF procedure was proposed by Linn and Harnisch (1981) and used in applied settings by Barbero, Sánchez Bruno, Prieto and San Luis (1995), Prieto and Barbero (1996), Prieto, Barbero and San Luis (1997), Barbero and Prieto (1997), among others. The purpose of this modification was to be able to detect adequately the DIF when some items from the test don&#146;t fit to the data in the reference group. Basically, the procedure consists in several steps: first, to check the fit of the model to the subject responses in the focal group. Second, to estimate the item parameters in the reference group and to check the fit of these parameters in the focal group and, lastly, to calculate the difference between both fit indices in each item and to compare with a critical value obtained throught a simulation procedure. This procedure can be used with both polythomous and dichotomous items. In this stimulation study, the procedure was applied to polythomous items and four factors were manipulated: percent of DIF presented in each item, type of DIF, percent of the items with DIF and significance level. The results indicates that the proposed procedure is effective in the detection of DIF, mainly when the DIF is non-uniform and mixed. Likewise, the rates of false alarms was very low, specially if it is compared with the rates from other simulation studies with similar features (AU)</dc:description>
+<dc:creator>Prieto, Pedro</dc:creator>
+<dc:creator>Barbero García, M Isabel</dc:creator>
+<dc:creator>San Luis, Concepción</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En el presente trabajo se expone una variación del procedimiento de detección del funcionamiento diferencial de los ítems (FDI), que dentro del marco de la TRI, y siguiendo la propuesta de Linn y Harnisch (1981) ha sido utilizado por Barbero, Sánchez Bruno, Prieto y San Luís (1995), Prieto y Barbero (1996), Prieto, Barbero y San Luis (1997), Barbero y Prieto (1997), entre otros. El objetivo de esta variación es el de solucionar el problema que se puede plantear con aquellos ítems que de entrada no presentan un buen ajuste en el grupo de referencia y sin embargo se aceptan como ítems que no presentan FDI en base a un buen ajuste con las respuestas de los sujetos en el grupo focal, cuando quizás la conclusión debería ser que si el ítem se ajusta correctamente a las respuestas de uno de los grupos pero no a las del otro, estamos en presencia de un ítem con FDI entre los grupos. Básicamente el procedimiento consiste en determinar el ajuste de las respuestas de los sujetos en el grupo focal, para luego comprobar el ajuste de los mismos datos pero con los parámetros previamente estimados en el grupo de referencia. La diferencia entre los dos índices de ajuste obtenidos se compara con un valor crítico obtenido mediante un procedimiento de simulación. En este estudio se ha aplicado el procedimiento a ítems de respuesta politómica, aunque es igualmente válido en ítems con respuesta dicotómica. Las condiciones manipuladas fueron tamaño y tipo del FDI, porcentaje de ítems con FDI y nivel de significación. Los resultados indican que el procedimiento propuesto es bastante eficaz en la detección del FDI, especialmente en el caso de FDI no uniforme y mixto, siendo la tasa de falsos positivos bastante baja, sobre todo cuando se compara con otros estudios de características similares (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);12(supl.2): 69-73, 2000. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-149978</dc:identifier>
+<dc:title xml:lang="es">Procedimiento para la detección del FDI tanto en ítems politómicos como dicotómicos</dc:title>
+<dc:subject>^d12031^s22039</dc:subject>
+<dc:subject>^d28624</dc:subject>
+<dc:subject>^d24624</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d37677</dc:subject>
+<dc:subject>^d30727^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200000</dc:date>
+</metadata>
+</record>
+</ibecs-document>

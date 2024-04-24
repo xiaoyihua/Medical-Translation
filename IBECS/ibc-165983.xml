@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-165983</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The N-terminal pro brain natriuretic peptide is the best predictor of mortality during hospitalization in patients with low risk of sepsis-related organ failure</dc:title>
+<dc:description xml:lang="en">Introduction: The purpose of this study was to investigate the value of N-terminal pro brain natriuretic peptide (NT-proBNP), C-reactive protein (CRP) and procalcitonin (PCT) in predicting mortality in septic patients during hospitalization with mortality risk&lt;10% evaluated by Sepsis-related Organ Failure Assessment (SOFA). Material and methods: Prospective, observational study performed in sepsis patients with SOFA risk&lt;10%. We obtained levels of biomarkers in the first 72h after admission in hospital. All patients were monitored during hospitalization or until death. We used ROC curves to determine area under curve (AUC) and identify the best cutoff concentrations to predict mortality. Results: A total of 174 patients were analyzed. Seventeen (9.8%) patients died during hospitalization. The AUC of NT-proBNP was 0.793 (95% CI 0.686-0.9; P&lt;.0005) compared to AUC of CRP (0.728; 95% CI 0.617-0.839; P=.004) and AUC of PCT (0.684; 95% CI 0.557-0.811; P=.019). Factors independently associated with in-hospital mortality were NT-proBNP&gt;1,330pg/ml (OR=23.23; 95% CI 2.92-182.25; P=.003) and to have predisposing factors (OR=3.05; 95% CI 1.3-9.3; P=.044). Conclusions: In patients with low mortality risk according to SOFA score, NT-proBNP obtained in the first 72h after admission prove to be a powerful predictor of mortality. Their implementations in clinical practice would improve the predictive ability of clinical severity scores (AU)</dc:description>
+<dc:creator>Gomez Verdu, José Miguel</dc:creator>
+<dc:creator>Egea, Mari Paz</dc:creator>
+<dc:creator>Marín, Irene</dc:creator>
+<dc:creator>Muñoz, Ángeles</dc:creator>
+<dc:creator>Martínez, Mónica</dc:creator>
+<dc:creator>Alcaraz García, Antonia</dc:creator>
+<dc:creator>Vera, Mari Carmen</dc:creator>
+<dc:creator>García Villalba, Eva</dc:creator>
+<dc:creator>Callejo Hurtado, Victoria</dc:creator>
+<dc:creator>Cano Sanchez, Alfredo</dc:creator>
+<dc:creator>Bernal Morell, Enrique</dc:creator>
+<dc:creator>Santo, Ángela</dc:creator>
+<dc:creator>Valero, Salvador</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: El objetivo de este estudio fue investigar el valor del fragmento N-terminal del propéptido natriurético cerebral (NT-proBNP), proteína C reactiva (PCR) y procalcitonina (PCT) para predecir la mortalidad en pacientes sépticos durante la hospitalización con un riesgo de mortalidad&lt;10% evaluado por el Sepsis-related Organ Failure Assessment (SOFA). Material y métodos: Estudio observacional prospectivo realizado en pacientes hospitalizados con sepsis y riesgo SOFA&lt;10%. Los biomarcadores se obtuvieron en las primeras 72h después del ingreso en el hospital. Todos fueron monitorizados durante la hospitalización o hasta la muerte. Se utilizaron las curvas ROC para determinar el área bajo la curva (ABC) e identificar las mejores concentraciones de corte para predecir la mortalidad. Resultados: Se analizaron un total de 174 pacientes. Diecisiete (9,8%) pacientes murieron durante la hospitalización. El ABC de NT-proBNP fue 0,793 (IC 95% 0,686-0,9; p&lt;0,0005) en comparación con el ABC de la PCR (0,728; IC 95% 0,617-0,839; p=0,004) y el ABC del PCT (0,684; IC 95% 0,557-0,811; p=0,019). Los factores asociados a la mortalidad hospitalaria fueron: tener un NT-proBNP&gt;1.330pg/ml (OR=23,23; IC 95% 2,92-182,25; p=0,003) y tener factores predisponentes para presentar sepsis (OR=3,05; IC 95% 1,3-9,3; p=0,044). Conclusiones: En pacientes con bajo riesgo de mortalidad según la puntuación SOFA, los niveles de NT-proBNP obtenidos en las primeras 72h después del ingreso son un poderoso predictor de mortalidad. Su implementación en la práctica clínica podría mejorar la capacidad predictiva de la puntuación de gravedad clínica en estos pacientes (AU)</dc:description>
+<dc:source>Med. clín (Ed. impr.);149(5): 189-195, sept. 2017. tab, graf</dc:source>
+<dc:identifier>ibc-165983</dc:identifier>
+<dc:title xml:lang="es">El fragmento N-terminal del propéptido natriurético cerebral es el mejor predictor de mortalidad intrahospitalaria en pacientes con sepsis y bajo riesgo de lesión orgánica</dc:title>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d30047</dc:subject>
+<dc:subject>^d22124^s22002</dc:subject>
+<dc:subject>^d13150^s22054</dc:subject>
+<dc:subject>^d32031^s22047</dc:subject>
+<dc:subject>^d23568^s22002</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9294^s22054</dc:subject>
+<dc:subject>^d33842^s22002</dc:subject>
+<dc:subject>^d22372^s22002</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201709</dc:date>
+</metadata>
+</record>
+</ibecs-document>

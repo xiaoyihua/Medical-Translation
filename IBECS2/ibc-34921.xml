@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-34921</identifier>
+<setSpec>0034-7973</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Evaluation of a new automated system for measuring erythrocyte sedimentation rate (Test 1)</dc:title>
+<dc:creator>Valls, M</dc:creator>
+<dc:creator>Vayá, A</dc:creator>
+<dc:creator>Mira, Y</dc:creator>
+<dc:creator>Aznar, J</dc:creator>
+<dc:creator>Monreal, B</dc:creator>
+<dc:creator>Wangensteen, O. S</dc:creator>
+<dc:creator>Ferrando, F</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Editorial Siglo, S.L.</dc:publisher>
+<dc:description xml:lang="es">La determinación de la velocidad de eritrosedimentación (VS) es una de las pruebas más utilizadas en la práctica clínica, útil para indicar la presencia de enfermedad, seguir el curso evolutivo de procesos inflamatorios y comprobar la respuesta a tratamientos. La determinación de la VS conlleva la extracción de un tubo exclusivo de sangre con citrato, seguida de un ensayo de laboratorio que precisa de un tiempo prolongado. Sería deseable la aparición de un nuevo test de medición de la VS que posibilitara la integración de la medida de VS con la hematología automatizada, empleando microvolúmenes de sangre anticoagulada con EDTA, y que permitiera una determinación rápida y de forma continua. El objetivo de este estudio es valorar la aplicabilidad del nuevo analizador Test 1 (Sire Analytical Systems, Udine, Italia), que emplea una tecnología basada en la fotometría capilar cuantitativa, evaluando su reproducibilidad y estabilidad y comparando los resutados obtenidos para la VS con los obtenidos mediante el analizador Ves-MAtic (Diesse, Milán, Italia) y con los valores de las medidas de viscosidad plasmática. Para ello, se determinaron las VS de 375 pacientes, emplando muestras anticoagulantes con K3-EDTA para el Test 1 y con citrato sódico para el Ves-Matic. Además, se ha valorado la viscosidad plasmática en 39 de los 375 pacientes. La reproducibilidad intra-ensayo del Test 1 fue satisfactoria y su estabilidad fue aceptable durante las primeras 24 horas, manteniendo las muestras a 4ºC. Sin embargo, al comparar los valores de VS obtenidos mediante el analizador Test 1 y el sistema Ves-MAtic, mediante el coeficiente de correlación de Pearson y el análisis de Bland-Altman, se llegó a la conclusión de que los dos métodos presentan diferencias significativas, por lo que no son intercambiables. Por otra parte, las medidas de viscosidad plasmática se correlacionan mejor con las determinaciones del VS obtenidad con el Test 1 que con las obtenidas con el Ves-Matic. El Test 1 tiene numerosas ventajas operativas evidentes. Sin embargo, al basarse en principios físicos completamente diferentes a los sistemas habituales de medida de la VS, la variable física que se determina no es completamente equivalente a ésta. Serían necesarios estudios más profundos acerca del significado clínico de las determinaciones realizadas mediante el analizador Test 1, antes de su introducción en el laboratorio clínico como sustituto de los actuales analizadores de VS (AU)</dc:description>
+<dc:source>Rev. diagn. biol;52(2): 84-90, abr. 2003. tab, graf, ilus</dc:source>
+<dc:identifier>ibc-34921</dc:identifier>
+<dc:title xml:lang="es">Evaluación de un nuevo sistema automático para la determinación de la velocidad de eritrosedimentación (test 1)</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d22347</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1826</dc:subject>
+<dc:subject>^d1837</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200304</dc:date>
+</metadata>
+</record>
+</ibecs-document>

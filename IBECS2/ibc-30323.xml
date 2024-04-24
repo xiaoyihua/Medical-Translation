@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-30323</identifier>
+<setSpec>1137-6627</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Gas poisoning</dc:title>
+<dc:creator>Santiago, I</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Departamento de Salud. Gobierno de Navarra</dc:publisher>
+<dc:description xml:lang="es">La intoxicación por gases en nuestro medio es un problema importante debido a su alta incidencia. En el caso concreto de la intoxicación por monóxido de carbono, es la principal causa de muerte por intoxicación involuntaria en nuestro medio, muchas veces coexistiendo con una intoxicación por cianuro. Ambas intoxicaciones pueden ser de carácter grave, basándose su diagnóstico en la mera sospecha del médico. Además, su importancia radica en que ambas intoxicaciones tienen un tratamiento concreto. La oxigenoterapia normo o hiperbárica es el tratamiento de elección de la intoxicación por monóxido de carbono. En el caso de la intoxicación por cianuro, la hidroxocobalamina es hoy día el tratamiento de elección, ya que ha demostrado ser un eficaz antídoto (AU)</dc:description>
+<dc:source>An Sist Sanit Navar;26(supl.1): 173-180, ene. 2003. tab</dc:source>
+<dc:identifier>ibc-30323</dc:identifier>
+<dc:title xml:lang="es">Intoxicación por gases</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d2288^s22016</dc:subject>
+<dc:subject>^d3506^s22025</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d2288^s22067</dc:subject>
+<dc:subject>^d7033^s22073</dc:subject>
+<dc:subject>^d938^s22000</dc:subject>
+<dc:subject>^d10282^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200301</dc:date>
+</metadata>
+</record>
+</ibecs-document>

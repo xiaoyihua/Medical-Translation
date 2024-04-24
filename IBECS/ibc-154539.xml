@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-154539</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Compliance with the surgical safety checklist and surgical events detected by the Global Trigger Tool</dc:title>
+<dc:description xml:lang="en">Introduction. The implementing of the WHO Surgical Safety Checklist (SSC) has helped to improve patient safety. The aim of this study was to assess the level of compliance of the SSC, and incorporating the non-compliances as «triggers» in the Global Trigger Tool (GTT). Material and methods. Setting: Acute Geriatric Hospital (200 beds). Retrospective study, study period: 2011-2014. The SSC formulary and the methodology of the GTT were used for the analysis of electronic medical records and the compliance with the SSC. The NCCP MERP categories were used to assess the severity of the harm. Results. Out of all the electronic medical records (EMR), a total of 227 (23.6%) discharged patients (1.7% of interventions in the four year study period) were analysed. All (100%) of the EMR included the SSC, with 94.4% of the items being completed, and 28.2% of SSC had all items completed in the 3 phases of the process. Surgical adverse events decreased from 16.3% in 2011 to 9.4% in 2014 (P=.2838, not significant), and compliance with all items of SSC was increased from 18.6% to 39.1% (P=.0246, significant). Conclusions. The GTT systematises and evaluates, at low cost, the triggers and incidents/ AEs found in the EMR in order to assess the compliance with the SSC and consider non-compliance of SSC as «triggers» for further analysis. This strategy has never been referred to in the GTT or in the SCC formulary (AU)</dc:description>
+<dc:creator>Menéndez Fraga, MD</dc:creator>
+<dc:creator>Cueva Álvarez, MA</dc:creator>
+<dc:creator>Castro del Río, MP</dc:creator>
+<dc:creator>Vázquez Valdés, F</dc:creator>
+<dc:creator>Franco Castellanos, MR</dc:creator>
+<dc:creator>Fernández Moral, V</dc:creator>
+<dc:creator>Arias Pérez, JI</dc:creator>
+<dc:creator>Fernández León, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. La implantación del listado de verificación quirúrgica (LVQ) por la OMS ha permitido mejorar la seguridad de los pacientes. El objetivo ha sido evaluar el grado de cumplimiento del LVQ incorporando los no cumplimientos como triggers o pistas en la herramienta Global Trigger Tool (GTT). Material y métodos. Ámbito: hospital geriátrico de agudos con 200 camas. Estudio retrospectivo. Periodo de estudio: 2011-2014. Se utilizó el formulario del LVQ y la metodología del GTT para el análisis de historias clínicas y el cumplimiento del LVQ desde el año 2011 hasta el año 2014. Para el grado del daño se usaron las categorías del National Coordinating Council for Medication Error Reporting and Prevention (NCC MERP). Resultados. Se analizaron 227 historias de pacientes dados de alta (23,6%) de todas las historias electrónicas (1,7% de las intervenciones en los 4 años). El 100% de las historias contenían el LVQ, el 94,4% de los ítems estaban cubiertos y 28,2% de los LVQ tenían todos los ítems cumplimentados en las 3 fases del proceso. Los efectos adversos quirúrgicos disminuyeron del 16,3% en el año 2011 al 9,4% en el año 2014 (p=0,2838, no significativo) y el cumplimiento de todos los ítems del LVQ aumentó del 18,6 al 39,1% (p=0,0246, significativo). Conclusiones. La herramienta GTT permite sistematizar con un menor coste de tiempo la búsqueda de historias clínicas al azar para evaluar el cumplimiento del LVQ y considerar a los no cumplimientos del LVQ como triggers para su análisis posterior. Esta estrategia no ha sido nunca contemplada en el GTT ni en la sistemática del LVQ (AU)</dc:description>
+<dc:source>Rev. calid. asist;31(supl.1): 20-23, jun. 2016. tab</dc:source>
+<dc:identifier>ibc-154539</dc:identifier>
+<dc:title xml:lang="es">Cumplimiento del listado de verificación quirúrgica y los eventos quirúrgicos detectados mediante la herramienta del Global Trigger Tool</dc:title>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d5704^s22048</dc:subject>
+<dc:subject>^d28219^s22041</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d5707^s22048</dc:subject>
+<dc:subject>^d5703^s22048</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d12224^s22048</dc:subject>
+<dc:subject>^d12224^s22049</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d54857^s22041</dc:subject>
+<dc:subject>^d12224^s22074</dc:subject>
+<dc:subject>^d28219^s22048</dc:subject>
+<dc:subject>^d54857^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201606</dc:date>
+</metadata>
+</record>
+</ibecs-document>

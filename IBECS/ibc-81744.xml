@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-81744</identifier>
+<setSpec>0210-4806</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Relational database for urinary stone ambulatory consultation. Assessment of initial outcomes</dc:title>
+<dc:description xml:lang="en">Objectives: To create a relational database for monitoring lithiasic patients. We describe the architectural details and the initial results of the statistical analysis. Methods and materials: For a reliability analysis of the database the number of correctly stored data was gathered. To evaluate the performance of the database, a prospective analysis was conducted, from May 2004 to August 2009, on 171 stone free patients after treatment (EWSL, surgery or medical) from a total of 511 patients stored in the database. Lithiasic status (stone free or stone relapse) was used as primary end point, while demographic factors (age, gender), lithiasic history, upper urinary tract alterations and characteristics of the stone (side, location, composition and size) were considered as predictive factors. An univariate analysis was conducted initially by chi square test and supplemented by Kaplan Meier estimates for time to stone recurrence. A multiple Cox proportional hazards regression model was generated to jointly assess the prognostic value of the demographyc factors and the predictive value of stones characteristics. Results: For the reliability analysis 22,084 data were available corresponding to 702 consultations on 511 patients. Analysis of data showed a recurrence rate of 85.4% (146/171, median time to recurrence 608 days, range 70&#150;1758). In the univariate and multivariate analysis, none of the factors under consideration had a significant effect on recurrence rate (p=ns). Conclusions: The relational database is useful for monitoring patients with urolithiasis. It allows easy control and update, as well as data storage for later use. The analysis conducted for its evaluation showed no influence of demographyc factors and stone features on stone recurrence (AU)</dc:description>
+<dc:creator>Páez Borda, A</dc:creator>
+<dc:creator>Barrado, C</dc:creator>
+<dc:creator>Crespo Martinez, L</dc:creator>
+<dc:creator>Durán Poveda, M</dc:creator>
+<dc:creator>Gómez Dos Santos, V</dc:creator>
+<dc:creator>Sáenz Medina, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Crear una base de datos relacional orientada al seguimiento de la litiasis urinaria. Se presentan los detalles del diseño y los resultados iniciales de su explotación. Material y métodos: Se realiza base de datos desarrollada en el entorno de Microsoft Access® 2002, cuya información se ha distribuido en 4 tablas interrelacionadas: una tabla inicial donde se recogen los datos demográficos, una tabla de consulta, una tabla litiasis y una tabla procedimientos. Para la evaluación de la base de datos se realiza estudio observacional prospectivo desde mayo de 2004 hasta agosto de 2009 sobre 171 enfermos libres de litiasis tras tratamiento (médico, quirúrgico o LEOC), de un total de 511 introducidos en la base de datos. Se utilizó como variable indicadora la presencia o ausencia de recidiva litiasica. Se realizó análisis univariante para el estudio de la influencia de los factores demográficos (edad y sexo), aspectos relativos a la historia personal (antecedentes personales de litiasis o alteraciones de la vía urinaria) y características del cálculo (lateralidad, localización, tamaño y composición), mediante el test de la chi cuadrado, completándose con el cálculo de la probabilidad de recidiva litiásica en función del tiempo, mediante el método de Kaplan Meier. Posteriormente se realizó análisis multivariante mediante la regresión de Cox para estudiar la influencia cada una de las variables en presencia del resto de covariables. Resultados: Desde la puesta en marcha de la aplicación informática (septiembre de 2007), se han recogido datos de 702 consultas correspondientes a 511 enfermos. El análisis de los 171 enfermos disponibles para el análisis de supervivencia demostró una probabilidad de recidiva litiásica del 85,38% (146/171) con una mediana de tiempo a la recidiva de 608 días (rango 70&#150;1.758). En el análisis univariante ningún factor estudiado resultó ser predictivo. El análisis multivariante tampoco confirmó ningún factor predictivo independiente para la recidiva litiásica. Conclusiones: La base de datos relacional es útil para el seguimiento de los enfermos con litiasis urinaria. Permite un control fácil y actualizado de los enfermos, así como un almacenamiento de datos para su posterior explotación. El estudio realizado para la evaluación de la misma no demostró influencia estadísticamente significativa de ninguno de los factores predictivos estudiados en la recidiva litiásica (AU)</dc:description>
+<dc:source>Actas Urol Esp;34(5): 467-472, mayo 2010. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-81744</dc:identifier>
+<dc:title xml:lang="es">Una base de datos relacional para consulta de litiasis urinaria. Evaluación inicial de resultados</dc:title>
+<dc:subject>^d28905^s22074</dc:subject>
+<dc:subject>^d28402</dc:subject>
+<dc:subject>^d27249^s22045</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24256^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201005</dc:date>
+</metadata>
+</record>
+</ibecs-document>

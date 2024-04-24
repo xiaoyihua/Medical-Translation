@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-32627</identifier>
+<setSpec>0212-7199</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">CA 19.9 and HDL-cholesterol behaviour in a sporadic colorectal carcinoma sample</dc:title>
+<dc:creator>Cantillana-Martínez, J</dc:creator>
+<dc:creator>Villadiego-sánchez, J. M</dc:creator>
+<dc:creator>Ortega-Calvo, M</dc:creator>
+<dc:creator>Méndez-Mora, J. L</dc:creator>
+<dc:creator>Barros-Pérez, M. M</dc:creator>
+<dc:creator>Cayuela-Domínguez, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Arán Ediciones, S.A.</dc:publisher>
+<dc:description xml:lang="es">Fundamento y objetivo: Hemos realizado un estudio comparativo del valor de predicción diagnóstica en el carcinoma colorrectal esporádico (CCRE) de los diferentes lípidos plasmáticos y de los marcadores tumorales utilizados comúnmente para esta neoplasia (antígeno cárcinoembrionario, CA 19.9 y ácido siálico). Pacientes y métodos: Estudio transversal hospitalario de casos y controles no pareados. Se recogieron un total de 53 casos incidentes de CCRE (90 por ciento de ellos en estadío A y B de Dukes) y 40 controles con patología no neoplásica en el mismo servicio. Realizamos un análisis con regresión logística no condicionada (RL) multivariante. Los intervalos de confianza (IC) estimados fueron del 95 por ciento. La sensibilidad (S) y la especificidad (E) del modelo final se calcularon con un punto de corte del 50 por ciento. Realizamos también un estudio de posibles interacciones. Resultados: Los tres marcadores tumorales utilizados estuvieron elevados en los casos con respecto a los controles (p&lt;0,01). El modelo multivariante ajustado mediante RL incluía las siguientes variables: colesterol total (CT) (OR = 0,69; IC: 0,50 - 0,96), fracción de lipoproteína de alta densidad (HDL) (OR = 0,30; IC: 0,11 - 0,83 ) fracción de lipoproteína de muy baja densidad (VLDL) (OR = 2,21; IC: 1,07 - 4,55) edad en años (OR = 1,11; IC: 0,98 - 1,26 ) CA 19.9 (OR = 1,20; IC: 1,02 - 1,42) y fosfatasa alcalina (FA) (OR = 1,09; IC = 1,01 - 1,19). No se detectaron interacciones. La sensibilidad de este modelo fuel 96,23 por ciento y la especificidad del 92,50 por ciento. Conclusiones: La HDL se expresó en esta muestra con una fuerza de predicción diagnóstica semejante a la del marcador tumoral CA 19.9 pero con una OR inversa. El modelo multivariante sobre el que se basa esta afirmación está pendiente de ser validado (AU)</dc:description>
+<dc:source>An Med Interna;21(5): 227-230, mayo 2004.</dc:source>
+<dc:identifier>ibc-32627</dc:identifier>
+<dc:title xml:lang="es">Comportamiento del CA 19.9 y de la fracción HDL-colesterol en una muestra de pacientes con carcinoma colorrectal esporádico</dc:title>
+<dc:subject>^d24373</dc:subject>
+<dc:subject>^d32325</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d8250</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d23595</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200405</dc:date>
+</metadata>
+</record>
+</ibecs-document>

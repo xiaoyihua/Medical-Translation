@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-058974</identifier>
+<setSpec>0214-3429</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Epidemiology of genotypic resistance of HIV-1 in Valencia. A 4-year study</dc:title>
+<dc:description xml:lang="en">HIV resistance to antiretroviral drugs was studied in 348 samples taken from patients at the Molecular Biology Unit of the Microbiology        Department of the Hospital La Fe, from January 2003 to July 2007. Once the viral load in plasma was determined, resistance was detected        using complete gene sequencing for protease up to position 3464 of the HIV-1 reverse transcriptase gene. The results were analyzed using        the Omiga 1.2 (Oxford Molecular Group) and HIV db Genotypic Resistance Interpretation Algorithm Version 4.3.0 (Stanford University) programs.        The drugs least affected by the presence of mutations leading to resistance were the protease inhibitors darunavir, tripanavir and lopinavir        (sensitivity &gt;80%), the nucleoside reverse transcriptase inhibitors tenofovir and lamivudine (sensitivity &gt;90%) and the non-nucleoside        reverse transcriptase inhibitor TMC125 (sensitivity &gt;80%)</dc:description>
+<dc:creator>Gil, A</dc:creator>
+<dc:creator>Córdoba, J</dc:creator>
+<dc:creator>Molina, J. M</dc:creator>
+<dc:creator>Gobernado, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Se estudió la resistencia a los antirretrovirales del VIH-1 en 348 muestras de enfermos remitidas a la Unidad de Biología Molecular del Servicio        de Microbiología del Hospital La Fe, desde enero de 2003 hasta julio de 2007. Previa determinación de la carga viral en plasma, las resistencias        se detectaron mediante secuenciación del gen completo de la proteasa hasta la posición 3464 del gen de la transcriptasa inversa del VIH-1.        El resultado se analizó en los programas Omiga 1.2 (Oxford Molecular Group) y HIV db program Genotypic Resistance Interpretation Algorithm        Version 4.3.0 (Stanford University). Los inhibidores de la proteasa menos afectados por la presencia de mutaciones que les confieren resistencia        fueron el darunavir, el tripanavir y el lopinavir (sensibilidad &gt;80%), y entre los inhibidores de la transcriptasa inversa destacan el tenofovir        y la lamivudina dentro de los análogos de nucleósidos (sensibilidad &gt;90%), y el TMC125 entre los no análogos de nucleósidos (sensibilidad        &gt;80%)</dc:description>
+<dc:source>Rev Esp Quimioter;20(3): 346-353, sep.2007. ilus, tab</dc:source>
+<dc:identifier>ibc-058974</dc:identifier>
+<dc:title xml:lang="es">Epidemiología de las resistencias genotípicas del VIH-1 en Valencia. Estudio de cuatro años</dc:title>
+<dc:subject>^d24718^s22057</dc:subject>
+<dc:subject>^d9346</dc:subject>
+<dc:subject>^d24718^s32386</dc:subject>
+<dc:subject>^d5974</dc:subject>
+<dc:subject>^d33075^s22073</dc:subject>
+<dc:subject>^d33123</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22286^s22033</dc:subject>
+<dc:subject>^d24718^s22080</dc:subject>
+<dc:subject>^d13411^s22080</dc:subject>
+<dc:subject>^d36323</dc:subject>
+<dc:subject>^d29415^s22033</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200709</dc:date>
+</metadata>
+</record>
+</ibecs-document>

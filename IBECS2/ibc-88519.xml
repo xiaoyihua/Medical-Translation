@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-88519</identifier>
+<setSpec>1695-4033</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Environment and paediatric cancer in the Region of Murcia (Spain): integrating clinical and environmental history in a geographic information system</dc:title>
+<dc:description xml:lang="en">Introduction: Environment and Paediatric Cancer (PC) in the Region of Murcia (RM) is an ongoing research project that has the following aims: to collect a careful paediatric environmental history (PEH) and to use geographical information systems (GIS) to map the incidence and analyze the geographic distribution of the PC incidence in the RM. The objectives are to present the methodology used for the collection and processing of data and disseminate initial results on the spatial and temporal incidence of PC in the RM (Spain). Material and methods: A descriptive and georeference study of all PC cases under 15 years, diagnosed from 1 January 1998 to December 31, 2009. Three postal addresses were assigned to each case, residence during pregnancy, postnatal, and at the time of diagnosis. Other variables such as sex, date of birth, date of diagnosis, and histopathology classification were collected. Results: No increase was observed in the trend of incidence of PC. The crude annual incidence rate was 14.3 cases per 100,000 children under 15 years. The standardised incidence ratio was higher in the north-west of the RM. Before diagnosis, 30% of cases had a different postal address than during the pregnancy. Conclusions: Integrating the spatial and temporal information through the PEH in a GIS should allow the identification and study of space-time clusters through an environmental monitoring system in order to know the importance of associated risk factors (AU)</dc:description>
+<dc:creator>Fuster-Soler, J. L</dc:creator>
+<dc:creator>Ortega-García, J. A</dc:creator>
+<dc:creator>Sobrino-Najul, E</dc:creator>
+<dc:creator>Febo, I</dc:creator>
+<dc:creator>López-Hernández, F. A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: Medio Ambiente y Cáncer Pediátrico (CP) en la Región de Murcia (RM) es un proyecto de investigación, cuya principal meta es el desarrollo de una cuidadosa historia ambiental pediátrica (HAP) y el uso de sistemas de información geográfica (SIG) para crear mapas de incidencia y analizar la distribución geográfica del CP en la RM. El objetivo es presentar la metodología, el estudio descriptivo y los primeros resultados sobre la incidencia espacial  y temporal del CP en la RM (España). Material y métodos: Estudio descriptivo y de georreferenciación de todos los casos de CP menores de 15 años, diagnosticados entre el 1 de enero de 1998 y el 31 de diciembre de 2009. Se han asociado a cada caso tres direcciones postales, durante el embarazo, en el período posnatal y en el momento del diagnóstico. También se han utilizado las siguientes variables: sexo, fechas de nacimiento y diagnóstico y el diagnóstico patológico. Resultados: No se observa un incremento en la tendencia de la incidencia del CP. La tasa cruda de incidencia fue de 14,3 casos por 100.000 niños menores de 15 años. La razón de incidencia estandarizada es más elevada en el noroeste de la RM. El 30% tienen un domicilio previo al diagnóstico distinto al del embarazo. Conclusiones: La integración de la información temporal y espacial de la HAP en un SIG permitirá la identificación y el estudio de conglomerados espacio-temporales a través de un sistema de vigilancia medioambiental que ayude a ponderar la importancia de los factores de riesgo asociados (AU)</dc:description>
+<dc:source>An Pediatr (Barc);74(4): 255-260, abr. 2011. tab, mapa</dc:source>
+<dc:identifier>ibc-88519</dc:identifier>
+<dc:title xml:lang="es">Medio ambiente y cáncer pediátrico en la Región de Murcia (España): integrando la historia clínica medioambiental en un sistema de información geográfica</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d28017^s22048</dc:subject>
+<dc:subject>^d24625</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d50259</dc:subject>
+<dc:subject>^d4862^s22020</dc:subject>
+<dc:subject>^d37724^s22074</dc:subject>
+<dc:subject>^d9562^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201104</dc:date>
+</metadata>
+</record>
+</ibecs-document>

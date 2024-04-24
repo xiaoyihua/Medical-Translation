@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-158889</identifier>
+<setSpec>1130-1406</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Standardisation and validation of an HPLC method for determining serum posaconazole levels in Colombia</dc:title>
+<dc:description xml:lang="en">Background. Colombia currently does not have a specialised service for measuring antifungal levels in serum, which is of prime importance for the proper treatment and correct management of invasive fungal infections. Aims. To standardise and validate a simple, sensitive, and specific protocol, based on high performance liquid chromatography, complying with the parameters recommended by the Food and Drug Administration, to detect, identify, and quantify serum concentrations of posaconazole. Methods. A high performance liquid chromatography Agilent series-1 200 equipment was used with ultraviolet diode array detector and analytical column-Eclipse XDB-C18. Posaconazole-SCH56592 (batch IRQ-PAZ-10-X-103) was used as the primary control and itraconazole (batch ZR051211PUC921) was used as an internal control. The validation was performed taking into account all criteria recommended by the Food and Drug Administration (selectivity, calibration curves, recovery, accuracy, precision, sensitivity, reproducibility, and stability of the sample). Results. The most suitable chromatographic conditions were the following: column temperature 25°C, ultraviolet detection at 261nm, 50&amp;#956;l injection volume, flow volume 0.8ml/min, 10min running time, mobile phase of acetonitrile:water (70:30), and final retention times of 3.4 and 7.2min for posaconazole and itraconazole, respectively, with a wide and reliable quantification range (0.125&amp;#956;g/ml to 16&amp;#956;g/ml). Using these parameters, the method was selective, R2 in the calibration curves was&amp;#8805;0.99, and the percentage recovery was 98.7%, with a coefficient of variation less than 10%. The relative error for accuracy and the coefficient of variation for precision were less than 15%, all meeting the acceptance criteria recommended by the Food and Drug Administration. Conclusions. The selectivity and chromatographic purity of the obtained signal, as well as the standardised limits of detection and quantification, make this method an excellent tool for therapeutic monitoring of patients treated with posaconazole (AU)</dc:description>
+<dc:creator>Cáceres, Diego H</dc:creator>
+<dc:creator>Zapata, Juan David</dc:creator>
+<dc:creator>Granada, Sinar D</dc:creator>
+<dc:creator>Naranjo, Tonny W</dc:creator>
+<dc:creator>Cano, Luz E</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Antecedentes. Hasta la fecha, Colombia no cuenta con un servicio especializado de medición de concentraciones séricas de antifúngicos, procedimiento esencial para el adecuado manejo del tratamiento de las infecciones invasivas por hongos. Objetivos. Estandarizar y validar un protocolo simple, sensible y específico, basado en la cromotografía líquida de alta eficiencia, que, cumpliendo con los parámetros recomendados por la Food and Drug Administration, permita detectar y cuantificar concentraciones séricas de posaconazol. Métodos. Se usó un equipo de cromotografía líquida de alta eficiencia Agilent, serie 1200, con detector ultravioleta de matriz de diodos y columna analítica Eclipse-XDB-C18. Como estándar primario se utilizó posaconazol SCH56592 (lote IRQ-PAZ-10-X-103), y como control interno, itraconazol (lote ZR051211PUC921). La validación se hizo teniendo en cuenta los parámetros recomendados por la Food and Drug Administration (selectividad, curvas de calibración, recuperación, exactitud, precisión, sensibilidad, reproducibilidad y estabilidad de la muestra) para este tipo de métodos. Resultados. Los parámetros cromatográficos más adecuados fueron los siguientes: temperatura de la columna, 25°C; detección ultravioleta, 261nm; volumen de inyección, 50&amp;#956;l; flujo, 0,8ml/min; tiempo de migración, 10min; fase móvil, acetonitrilo:agua (70:30). Los tiempos de retención finales fueron de 3,4 y 7,2min para posaconazol e itraconazol, respectivamente, con un rango de cuantificación amplio y confiable, desde 0,125 hasta 16&amp;#956;g/ml. Bajo estas condiciones el método fue selectivo, el R2 de las curvas de calibración fue&amp;#8805;0,99 y el porcentaje de recuperación fue del 98,7%, con un porcentaje del coeficiente de variación inferior al 10%. El porcentaje de error relativo en la exactitud, así como el porcentaje del coeficiente de variación en la precisión, fueron inferiores al 15%, cumpliendo así con los criterios de aceptación recomendados por la Food and Drug Administration. Conclusiones. La selectividad y pureza de la señal cromatográfica obtenida, así como los límites de detección y cuantificación estandarizados, hacen de esta metodología una excelente herramienta para el seguimiento terapéutico de los pacientes bajo tratamiento con posaconazol (AU)</dc:description>
+<dc:source>Rev Iberoam Micol;33(4): 230-236, oct.-dic. 2016. tab, graf</dc:source>
+<dc:identifier>ibc-158889</dc:identifier>
+<dc:title xml:lang="es">Estandarización y validación en Colombia de una metodología basada en HPLC para la determinación de la concentración sérica de posaconazol</dc:title>
+<dc:subject>^d30150^s22048</dc:subject>
+<dc:subject>^d2900^s22039</dc:subject>
+<dc:subject>^d30150^s22045</dc:subject>
+<dc:subject>^d51459</dc:subject>
+<dc:subject>^d30150^s22066</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d30150^s22039</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d1414^s22002</dc:subject>
+<dc:subject>^d12225</dc:subject>
+<dc:subject>^d1414^s22001</dc:subject>
+<dc:subject>^d24244^s22039</dc:subject>
+<dc:subject>^d2900^s22074</dc:subject>
+<dc:subject>^d30150^s22074</dc:subject>
+<dc:subject>^d2900^s22045</dc:subject>
+<dc:subject>^d35256</dc:subject>
+<dc:subject>^d2171</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201612</dc:date>
+</metadata>
+</record>
+</ibecs-document>

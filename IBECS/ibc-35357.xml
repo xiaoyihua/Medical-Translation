@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-35357</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Compensation of endotracheal tube: pressure-support ventilation versus proportional assisted ventilation</dc:title>
+<dc:creator>Fernández Fernández, R</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Objetivo. Comparar la eficacia de la presión de soporte (PSV) y de la ventilación asistida proporcional (PAV) para compensar la resistencia del tubo endotraqueal y ante cambios en la mecánica pulmonar y del patrón respiratorio. Diseño. Estudio comparativo no enmascarado sobre simulador respiratorio. Ámbito. Laboratorio de investigación. Intervenciones. En un modelo de pulmón ventilado en PSV y PAV, se utilizaron tubos endotraqueales de diferentes diámetros (6 a 9 mm), con diferentes flujos inspiratorios (0,5 a 1,5 l/s) y diferentes tiempos inspiratorios. También se analizó el efecto de cambios en la compliancia pulmonar y en la resistencia de vías aéreas, así como de diferentes tiempos de aceleración en PSV. Variables de interés principales. Nivel de presión (en PSV) y de regulación (en PAV) para conseguir mantener el mismo volumen corriente. Resultados. El nivel de presión de soporte necesario para la compensación fue exponencial en relación al flujo, mientras que con PAV la relación fue lineal. El efecto del tiempo inspiratorio fue sólo importante en el rango bajo (0,5 s), para el que fue necesario un nivel superior de soporte y que se magnificó al emplear tiempos de aceleración lentos con PSV. El aumento de la resistencia de vías aéreas requirió un aumento en el nivel de PSV, pero no en el de PAV. El empeoramiento de la compliancia necesitó un aumento del nivel de PAV, pero no en el de PSV. Conclusiones. Tanto PSV como PAV son útiles para compensar el exceso de trabajo respiratorio inducido por el tubo traqueal. No obstante, PAV resultó menos influida que PSV por cambios en el patrón respiratorio, principalmente del flujo inspiratorio y del tiempo inspiratorio (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);28(7): 356-361, oct. 2004. graf</dc:source>
+<dc:identifier>ibc-35357</dc:identifier>
+<dc:title xml:lang="es">Compensación del tubo endotraqueal: presión de soporte frente a ventilación asistida proporcional</dc:title>
+<dc:subject>^d27907^s22031</dc:subject>
+<dc:subject>^d28107^s22031</dc:subject>
+<dc:subject>^d27977</dc:subject>
+<dc:subject>^d7603^s22039</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12541^s22045</dc:subject>
+<dc:subject>^d8350^s22067</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200410</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-154012</identifier>
+<setSpec>0211-139X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Clinical profile and 90-day mortality in centenarian patients attended in emergency departments</dc:title>
+<dc:description xml:lang="en">Objectives. To determine the clinical profile and to develop a model to predict 90-day mortality in centenarian patients attended in emergency departments (ED). Methodology. This was an observational, retrospective, multicentre cohort study including patients &gt; 99 years attended in 5 ED in the Community of Madrid from January to December 2012. Demographic variables were recorded, as well as, comorbidities, cognitive, functional, social basal status, geriatric syndromes, acute episode, and hospital and social resources use, and 90-day mortality. Results. The study included 209 patients aged 101 years (SD 1.7) of whom 161 (77.0%) were female. Sixty four (32.5%) had severe comorbidity (Charlson index &amp;#8805; 3), 101 (49.8%) on multiple medication, 100 (52.6%) had cognitive impairment, 82 (42.3%) had severe functional dependence, 85 (40.7%) were institutionalised, and 190 (94.5%) had a geriatric syndrome. Dyspnoea (26.8%), followed by falls (12.4%) were the most common causes of attendance. One hundred and eighteen (56.5%) were admitted, and 58 out of 174 (33.3%) died in the first 90 days. The model to predict 90-day overall mortality included male sex (OR 2.42 95% CI = 0.97-6.04; P = .059), emergency care in the previous 3 months (OR 4.08 95% CI = 1.26-13.16; P = .019) and the hospitalization by index event (OR 8.63 95% CI = 3.25-22.9; P &lt; .001) and this model had an area under ROC curve of 0.776 (95% CI = 0.70-0.85; P &lt; .001). Conclusions. Centenarian patients attended in ED had a significant frailty and one in three cases died in the first 90 days after being attended, and this was associated with male sex, emergency care in the previous 3 months, and hospitalisation (AU)</dc:description>
+<dc:creator>Roiz, Honan</dc:creator>
+<dc:creator>Hormigo, Ana Isabel</dc:creator>
+<dc:creator>Martín-Sánchez, Francisco Javier</dc:creator>
+<dc:creator>Bermejo-Boixareu, Cristina</dc:creator>
+<dc:creator>Fernández-Alonso, Cesáreo</dc:creator>
+<dc:creator>Fernández Pérez, Cristina</dc:creator>
+<dc:creator>Gil-Gregorio, Pedro</dc:creator>
+<dc:creator>Jiménez-Díaz, Gregorio</dc:creator>
+<dc:creator>Rodríguez-Salazar, Jaime</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos. Determinar el perfil clínico de los pacientes centenarios y desarrollar un modelo predictivo de muerte a los 90 días tras ser atendidos en un servicio de urgencias hospitalario (SUH). Metodología. Estudio observacional de cohortes retrospectivo multicéntrico que incluyó a pacientes &gt; 99 años atendidos en 5 SUH de la Comunidad de Madrid, de enero a diciembre de 2012. Se recogieron variables demográficas, comorbilidad, situación basal cognitiva, funcional y social, síndromes geriátricos, datos del episodio agudo y del consumo de recursos hospitalarios y sociales, y la mortalidad global a los 90 días. Resultados. Se incluyeron 209 pacientes con una edad media de 101 años (DE 1,7), 161 (77,0%) de los cuales fueron mujeres. Sesenta y cuatro (32,5%) tenían comorbilidad grave (índice de Charlson &amp;#8805; 3); 101 (49,8%) &amp;#8805; 5 fármacos; 100 (52,6%) deterioro cognitivo; 82 (42,3%) dependencia grave; 85 (40,7%) estaban institucionalizados y 190 (94,5%) presentaron algún síndrome geriátrico. Los motivos de consulta más frecuentes fueron la disnea (26,8%) seguido de las caídas (12,4%). Ciento dieciocho (56,5%) ingresaron y 58 de 174 (33,3%) fallecieron a los 90 días. El modelo predictivo de mortalidad global a 90 días incluyó: sexo hombre (OR 2,42 IC 95% = 0,97-6,04; p = 0,059), visita a urgencias en 3 meses previos (OR 4,08 IC 95% = 1,26-13,16; p = 0,019) y la toma de decisión de ingreso (OR 8,63 IC 95% = 3,25-22,9; p &lt; 0,001), y tuvo un área bajo la curva de 0,776 (IC 95% = 0,70-0,85; p &lt; 0,001). Conclusiones. Los pacientes centenarios atendidos en los SUH presentan una importante fragilidad, falleciendo 1 de cada 3 a los 90 días, lo cual está asociado con el sexo, la atención en urgencias en los 3 meses previos y la hospitalización (AU)</dc:description>
+<dc:source>Rev. esp. geriatr. gerontol. (Ed. impr.);51(4): 196-200, jul.-ago. 2016. tab</dc:source>
+<dc:identifier>ibc-154012</dc:identifier>
+<dc:title xml:lang="es">Perfil clínico y mortalidad a 90 días de los pacientes centenarios atendidos en servicios de urgencias hospitalarios</dc:title>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d16859</dc:subject>
+<dc:subject>^d4705^s22080</dc:subject>
+<dc:subject>^d29640</dc:subject>
+<dc:subject>^d6916</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24572</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d4707^s22045</dc:subject>
+<dc:subject>^d4707^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201608</dc:date>
+</metadata>
+</record>
+</ibecs-document>

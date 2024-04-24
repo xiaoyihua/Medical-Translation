@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-052055</identifier>
+<setSpec>0212-1972</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Implementation and development of assisted electronic prescription: story of an organisational change</dc:title>
+<dc:description xml:lang="en">No disponible</dc:description>
+<dc:creator>Planells, C</dc:creator>
+<dc:creator>Ferrer, E</dc:creator>
+<dc:creator>Poveda, J. L</dc:creator>
+<dc:creator>Gil Suay, V</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El Hospital Universitari La Fe decidió acometer la implementación de la prescripción electrónica y las dosis unitarias como medida para disminuir los errores de medicación a todos los niveles y favorecer la protocolización de la farmacoterapia. En este artículo se describe la metodología empleada en el desarrollo e implementación de la prescripción electrónica asistida (PEA) (fase de análisis, definición de misión y valores, tipos de grupos de trabajo, planes de necesidades, gestión del conocimiento), los productos y servicios generados (aplicación PRISMA, base de datos de farmacoterapia SPAF) y los resultados en la organización (580 camas con PEA, adhesión médica 100%, cambio de cultura). Los resultados obtenidos demuestran la viabilidad de la PEA en un hospital público de tercer nivel con la incorporación de las nuevas tecnologías contribuyendo a un modelo asistencial con una farmacoterapia segura y eficiente, basado en la información y el conocimiento1</dc:description>
+<dc:source>Todo hosp;(229): 452-460, sept. 2006. ilus, tab</dc:source>
+<dc:identifier>ibc-052055</dc:identifier>
+<dc:title xml:lang="es">Implementación y desarrollo de la prescripción electrónica asistida. Historia de un cambio organizativo</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d4422^s22083</dc:subject>
+<dc:subject>^d10114</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d17212</dc:subject>
+<dc:subject>^d29040^s22049</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200609</dc:date>
+</metadata>
+</record>
+</ibecs-document>

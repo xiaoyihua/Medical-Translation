@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-052424</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Association of income with use of and access to health services in Spain at the beginning of the XXI century</dc:title>
+<dc:description xml:lang="en">Objective: To estimate the association of household income and provincial income with visits to general practitioners and specialists and with hospitalization and to determine whether waiting times to access these services vary with both economic variables. Method: Data from the 2001 National Health Survey were used. The association was estimated by sex- and age-adjusted odds ratios; in the case of per capita income, odds ratios were also adjusted for household income. Percentiles and the geometric mean of waiting times in each health service were estimated and the statistical significance of their association with both economic variables was evaluated. Results: Subjects with the lowest household income showed the highest frequency of visits to general practitioners and hospitalization, although they waited longer for hospital admission. Subjects with the lowest household income also showed the lowest frequency of specialist visits: the odds ratio in the lowest income quartile with respect to the highest income quartile was 0.73 (95% CI: 0.62-0.87). However, when only visits to specialists working in the public system were analyzed, the lowest frequency of visits was observed in subjects with the highest household income. No differences were found in health services utilization or in waiting times according to provincial income. Conclusions: The frequency of specialist visits according to household income shows a different pattern from that observed for visits to general practitioners and hospitalizations. The longest waiting times for admission to hospital were observed in subjects with the lowest household income</dc:description>
+<dc:creator>Astasio, Paloma</dc:creator>
+<dc:creator>Regidor, Enrique</dc:creator>
+<dc:creator>Domínguez, Vicente</dc:creator>
+<dc:creator>Martínez, David</dc:creator>
+<dc:creator>Ortega, Paloma</dc:creator>
+<dc:creator>Elisa Calle, María</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Estimar la asociación de los ingresos económicos del hogar y de la renta provincial con las consultas al médico general y al especialista y con la hospitalización. Estimar si el tiempo de espera para acceder a esos servicios varía con esas características. Método: Datos de la Encuesta Nacional de Salud de 2001. La asociación se estimó mediante la odds ratio, ajustada por edad y sexo, y en el caso de la renta per cápita se ajustó también por los ingresos económicos del hogar. Se estimaron los percentiles y la media geométrica de los tiempos de espera en cada servicio sanitario y se evaluó la significación estadística de su asociación con ambas variables económicas. Resultados: Los sujetos con menores ingresos económicos presentan la mayor frecuencia de consultas al médico general y hospitalización, aunque esperan más tiempo para ser hospitalizados. Estos sujetos presentan la menor frecuencia de consultas al especialista: la odds ratio en el cuartil más bajo de ingresos frente al más alto fue 0,73 (intervalo de confianza del 95%, 0,62-0,87), aunque en las consultas financiadas públicamente la menor frecuencia se observa en los sujetos con mayores ingresos. No se han encontrado diferencias en la utilización y en los tiempos de espera según la renta provincial. Conclusiones: La frecuencia de consultas al especialista según los ingresos económicos del hogar muestra un patrón distinto al observado en las consultas al médico general y en la hospitalización. El mayor tiempo de espera para hospitalización se observa en los sujetos con menores ingresos económicos</dc:description>
+<dc:source>Gac Sanit;20(5): 352-359, sep. 2006. tab</dc:source>
+<dc:identifier>ibc-052424</dc:identifier>
+<dc:title xml:lang="es">Asociación de los ingresos económicos con la utilización y la accesibilidad de los servicios sanitarios en España al inicio del siglo XXI</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d33118</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d6448^s22018</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d6448^s22083</dc:subject>
+<dc:subject>^d14384</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200609</dc:date>
+</metadata>
+</record>
+</ibecs-document>

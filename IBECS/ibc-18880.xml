@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-18880</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Surveillance for antimicrobial resistance: VIRA Study</dc:title>
+<dc:creator>Picazo, Juan J</dc:creator>
+<dc:creator>Azahares, Enrique</dc:creator>
+<dc:creator>"Grupo VIRA"</dc:creator>
+<dc:creator>Ali Sánchez, Blas</dc:creator>
+<dc:creator>Betriu, Carmen</dc:creator>
+<dc:creator>Rodríguez Avial, Iciar</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">INTRODUCCIÓN. El objetivo de este estudio multicéntrico ha sido conocer la situación actual en España de los patrones de resistencia a los antimicrobianos de los agentes infecciosos más frecuentes, y cuya resistencia a los antibióticos se ha incrementado en los últimos años. MATERIAL Y MÉTODOS. Se han estudiado 1.475 cepas procedentes de 38 hospitales y correspondientes a aislamientos efectuados en octubre de 2001 distribuidos de la siguiente forma: Staphylococcus aureus resistente a meticilina (SARM) (294), estafilococos coagulasa negativos (ECN) clínicamente significativos (149), Enterococcus faecium (96) y Enterococcus faecalis (1) resistentes a ampicilina, Streptococcus pneumoniae resistente a penicilina (204), Haemophilus influenzae resistente a ampicilina (100), Escherichia coli resistente a ciprofloxacino (361), Pseudomonas aeruginosa (160), y Acinetobacter baumannii (110). Mediante un método de microdilución en caldo se estudió la sensibilidad a diferentes antibióticos. También se llevó a cabo una encuesta epidemiológica en los hospitales participantes sobre la incidencia de estos microorganismos multirresistentes. RESULTADOS. La incidencia global de aislamientos de E. coli resistentes a ciprofloxacino y de SARM fue del 24 por ciento en ambos casos. Los neumococos presentaron resistencia a múltiples antibióticos. Telitromicina mostró excelente actividad frente a todos los neumococos, incluyendo los resistentes a macrólidos. Todos los estafilococos fueron sensibles a linezolida y quinupristina-dalfopristina. (AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;20(10): 503-510, dic. 2002.</dc:source>
+<dc:identifier>ibc-18880</dc:identifier>
+<dc:title xml:lang="es">Vigilancia de resistencias a los antimicrobianos: estudio VIRA</dc:title>
+<dc:subject>^d30127</dc:subject>
+<dc:subject>^d30421</dc:subject>
+<dc:subject>^d28319</dc:subject>
+<dc:subject>^d5016</dc:subject>
+<dc:subject>^d911</dc:subject>
+<dc:subject>^d11988</dc:subject>
+<dc:subject>^d29045</dc:subject>
+<dc:subject>^d22254</dc:subject>
+<dc:subject>^d24244</dc:subject>
+<dc:subject>^d13683</dc:subject>
+<dc:subject>^d13596</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d1443</dc:subject>
+<dc:subject>^d24008</dc:subject>
+<dc:subject>^d36323</dc:subject>
+<dc:subject>^d11792</dc:subject>
+<dc:subject>^d36585</dc:subject>
+<dc:subject>^d22829</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200212</dc:date>
+</metadata>
+</record>
+</ibecs-document>

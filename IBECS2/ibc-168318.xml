@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-168318</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Bloodstream amyloid-beta (1-40) peptide, cognition, and outcomes in heart failure</dc:title>
+<dc:description xml:lang="en">Introduction and objectives: In the brain, amyloid-beta generation participates in the pathophysiology of cognitive disorders; in the bloodstream, the role of amyloid-beta is uncertain but may be linked to sterile inflammation and senescence. We explored the relationship between blood levels of amyloid-beta 1-40 peptide (A&amp;#946;40), cognition, and mortality (all-cause, cardiovascular, and heart failure [HF]-related) in ambulatory patients with HF. Methods: Bloodstream A&amp;#946;40 was measured in 939 consecutive patients with HF. Cognition was evaluated with the Pfeiffer questionnaire (adjusted for educational level) at baseline and during follow-up. Multivariate Cox regression analyses and measurements of performance (discrimination, calibration, and reclassification) were used, with competing risk for specific causes of death. Results: Over 5.1 ± 2.9 years, 471 patients died (all-cause): 250 from cardiovascular causes and 131 HF-related. The median A&amp;#946;40 concentration was 519.1 pg/mL [Q1-Q3: 361.8-749.9 pg/mL]. The A&amp;#946;40 concentration correlated with age, body mass index, renal dysfunction, and New York Heart Association functional class (all P &lt; .001). There were no differences in A&amp;#946;40 in patients with and without cognitive impairment at baseline (P = .97) or during follow-up (P = .20). In multivariable analysis, including relevant clinical predictors and N-terminal pro-B-type natriuretic peptide, A&amp;#946;40 remained significantly associated with all-cause death (HR, 1.22; 95%CI, 1.10-1.35; P &lt; .001) and cardiovascular death (HR, 1.18; 95%CI, 1.03-1.36; P = .02), but not with HF-related death (HR, 1.13; 95%CI, 0.93-1.37; P = .22). Circulating A&amp;#946;40 improved calibration and patient reclassification. Conclusions: Blood levels of A&amp;#946;40 are not associated with cognitive decline in HF. Circulating A&amp;#946;40 was predictive of mortality and may indicate systemic aging (AU)</dc:description>
+<dc:creator>Antonio, Marta de</dc:creator>
+<dc:creator>Domingo, Mar</dc:creator>
+<dc:creator>Zamora, Elisabet</dc:creator>
+<dc:creator>Subirana, Isaac</dc:creator>
+<dc:creator>Vila, Joan</dc:creator>
+<dc:creator>Gastelurrutia, Paloma</dc:creator>
+<dc:creator>Cruz Pastor, M</dc:creator>
+<dc:creator>Lupón, Josep</dc:creator>
+<dc:creator>Bayes-Genis, Antoni</dc:creator>
+<dc:creator>Januzzi, James L</dc:creator>
+<dc:creator>Barallat, Jaume</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos: A nivel cerebral, el amiloide-beta participa en la fisiopatología de trastornos cognitivos; en la circulación, el papel del amiloide-beta es incierto pero podría estar relacionado con procesos de inflamación estéril y senescencia. Se ha analizado la relación entre concentraciones circulantes de amiloide-beta 1-40 (A&amp;#946;40), cognición y mortalidad (global, cardiovascular y por insuficiencia cardiaca [IC]) en pacientes ambulatorios con IC. Métodos: El A&amp;#946;40 circulante se midió en 939 pacientes consecutivos con IC. El estado cognitivo se evaluó con el cuestionario de Pfeiffer (ajustado al nivel educacional) en condiciones basales y durante el seguimiento. Se utilizaron análisis de regresión múltiple de Cox y medidas de función (discriminación, calibración y reclasificación), ajustando por riesgos competitivos para causas de muerte específicas. Resultados: Durante 5.1 ± 2.9 años, 471 pacientes murieron: 250 de causa cardiovascular y 131 por IC. La mediana de A&amp;#946;40 circulante fue de 519,1 pg/ml [Q1-Q3: 361,8-749,9 pg/ml]. La concentración de A&amp;#946;40 correlacionó con la edad, índice de masa corporal, insuficiencia renal y clase funcional de la New York Heart Association (todas p &lt; 0,001). No hubo diferencias en A&amp;#946;40 en pacientes con y sin trastorno cognitivo a nivel basal (p = 0,97) o durante el seguimiento (p = 0,20). En el análisis multivariado, que incluye predictores clínicos relevantes y la fracción aminoterminal del propéptido natriurético cerebral, A&amp;#946;40 permaneció asociado a mortalidad global (HR = 1,22; IC95%, 1,10-1,35; p &lt; 0,001) y cardiovascular (HR = 1,18; IC95%, 1,03-1,36; p = 0,02), pero no con mortalidad por IC (HR = 1,13; IC95%, 0,93-1,37; p = 0,22). El A&amp;#946;40 circulante mejoró la calibración y reclasificación de los pacientes. Conclusiones: Las concentraciones circulantes de A&amp;#946;40 no se asocian a trastorno cognitivo en la IC. A&amp;#946;40 fue predictor de mortalidad y podría indicar envejecimiento sistémico (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;70(11): 924-932, nov. 2017. graf, tab</dc:source>
+<dc:identifier>ibc-168318</dc:identifier>
+<dc:title xml:lang="es">Amiloide beta (1-40) en sangre, cognición y pronóstico en insuficiencia cardiaca</dc:title>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d28856^s22002</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22512^s22045</dc:subject>
+<dc:subject>^d6063^s22021</dc:subject>
+<dc:subject>^d6486^s22062</dc:subject>
+<dc:subject>^d555</dc:subject>
+<dc:subject>^d23568</dc:subject>
+<dc:subject>^d23757^s22073</dc:subject>
+<dc:subject>^d28856^s22062</dc:subject>
+<dc:subject>^d3103^s22032</dc:subject>
+<dc:subject>^d6486^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201711</dc:date>
+</metadata>
+</record>
+</ibecs-document>

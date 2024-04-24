@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-154958</identifier>
+<setSpec>1888-4008</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Performance characteristics of the electrochemiluminiscence method for human epidimary protein (HE4) on the e411 Cobas analyzer (Roche Diagnostics®)</dc:title>
+<dc:description xml:lang="en">Introduction. Human epididymis protein 4 (HE4) is an emerging tumor marker in diagnosis of ovarian cancer. Together with the cancer antigen CA 125 it can improve sensitivity and specificity by calculating the risk of ovarian malignancy algorithm (ROMA) score. Our purpose is to validate performance characteristics of the electrochemiluminiscent Cobas e411 assay for HE4, including the endogenous interference study. Material and methods. Two different levels of commercial control were analyzed for imprecision and trueness study during 20 days. Limit of blank and limit of detection was assessed with 20 replicates of a sample lacking HE4. Linearity was assessed by regression analysis mixing specimens, with high HE4 concentration and a devoid analyte one. In addition carry-over assay and endogenous interference study were conducted. Results. The imprecision obtained for each level were 1.7 and 2.8% for within run, 2.59 and 1.28%, for between run and 4.67 and 4.47% for total imprecision. The relative biases were 6.11 and 1.54% for each level. The limit of blank was 1.25 pmol/L and the limit of detection 2.21 pmol/L. The linearity study yielded the following regression equation y=-18.22+0.98x, demonstrating a linear behavior. There was not significant carry-over. The method was not affected by hemolysis, bilirrubin, neither lipemia. Conclusions. Electrochemiluminiscence method for HE4 showed an excellent imprecision and trueness. The limit of detection resulted lower than the declared by the manufacturer. Linearity was verified within the limits studied. In addition the assay is devoid of carry-over and free of significant endogenous interferences (AU)</dc:description>
+<dc:creator>Martín Calderón, José Luis</dc:creator>
+<dc:creator>Bustos Guadaño, Fernando</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. La proteína epididimaria humana (HE4) es un nuevo marcador para el diagnóstico del cáncer de ovario. Junto con el CA125 mejora el rendimiento diagnóstico a través del algoritmo de riesgo de malignidad (ROMA) especialmente en mujeres posmenopáusicas. Nuestro objetivo es verificar las prestaciones analíticas del ensayo de electroquimioluminscencia del HE4 en el analizador Cobas e411. Material y métodos. Para el estudio de la imprecisión y la veracidad se analizaron dos niveles de controles comerciales durante 20 días. El límite de blanco y límite de detección se evaluaron haciendo 20 repeticiones de un espécimen sin analito. La linealidad se evalúo mediante un análisis de regresión lineal mezclando un espécimen con elevada concentración de HE4 y otro desprovisto de analito. Además se evaluaron el arrastre y la influencia de interferencias endógenas. Resultados. Las imprecisiones obtenidas para cada nivel fueron 1,7 y 2,8% para la intraserial, 2,59 y 1,28% para la interserial y 4,67 y 4,47% para la total. Los errores relativos fueron 6,11 y 1,54% para cada nivel. El límite de blanco fue de 1,25 pmol/L y límite de detección 2,21 pmol/L. El estudio de linealidad produjo la siguiente ecuación de regresión y=-18,22+0,98 x demostrando un comportamiento lineal. No hubo arrastre significativo. El método no resultó afectado por la hemólisis, ictericia ni lipidemia. Conclusiones. El método de electroquimioluminiscencia para HE4 mostró una imprecisión y veracidad excelentes. El límite de detección resultó ser más bajo que el declarado por el fabricante. El comportamiento del método fue lineal dentro del intervalo estudiado. Además el ensayo no mostró arrastre ni interferencias endógenas significativas (AU)</dc:description>
+<dc:source>Rev. lab. clín;9(3): 108-114, jul.-sept. 2016. tab</dc:source>
+<dc:identifier>ibc-154958</dc:identifier>
+<dc:title xml:lang="es">Características operativas del método de electroquimioluminiscencia para la medida de la proteína epididimaria humana (HE4) en el analizador Cobas e411 (Roche Diagnostics®)</dc:title>
+<dc:subject>^d24373^s22002</dc:subject>
+<dc:subject>^d1329^s22002</dc:subject>
+<dc:subject>^d32327^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d8338^s22048</dc:subject>
+<dc:subject>^d24769</dc:subject>
+<dc:subject>^d33556^s22074</dc:subject>
+<dc:subject>^d8338^s22045</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:subject>^d23923^s22044</dc:subject>
+<dc:subject>^d33556^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201609</dc:date>
+</metadata>
+</record>
+</ibecs-document>

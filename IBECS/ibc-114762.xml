@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-114762</identifier>
+<setSpec>1137-6821</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prognostic value of markers identifiable in the emergency department in pneumonia patients infected with the human immunodeficiency virus</dc:title>
+<dc:description xml:lang="en">Objective: To evaluate the predictive value of clinical and analytical markers that can be assessed in the emergency department (ED) for patients with community-acquired pneumonia (CAP) who are also infected with the human immunodeficiency virus (HIV).Patients and methods: Prospective 3-year study including all HIV-infected patients with CAP of onset more than 24-hours earlier who were admitted to hospital from the ED. We assessed C-reactive protein (CRP) level, heart rate, systolic blood pressure, PaO2, and the Acute Physiology and Chronic Health Evaluation II (APACHE II) score. The primary outcome measures were admission to an intensive care unit (ICU), requirement for mechanical ventilation, and 30-daymortality. These endpoints were also analyzed in combination. The predictive power of the variables was assessed by calculating the area under the receiver operating characteristic curve. Results: We included 159 patients. The following variables were significant predictors of ICU admission in the group overall: heart rate, APACHE II score, PaO2, CRP level, and white blood cell count. The first 3 variables were also significant predictors of prognosis in the subgroup of patients with pneumococcal pneumonia. The following variables predicted requirement for mechanical ventilation in the series overall: APACHE II score, PaO2, CRP level, hepatitis C virus infection, and age. The first 2 variables plus white blood cell count were significant predictors in patients with pneumococcal pneumonia. The following variables were predictors of death within 30 days: APACHE II score, PaO2, and hepatitis C virus infection. None were significant prognostic predictors in the patients with pneumococcal pneumonia. Conclusion: Hypoxemia, tachypnea, and APACHE II score were the most useful predictors which can be identified in the ED of poor prognosis in HIV-infected patients who are admited in hospital with CAP (AU)</dc:description>
+<dc:creator>Sánchez, M</dc:creator>
+<dc:creator>Miró, J. M</dc:creator>
+<dc:creator>Marcos, M. A</dc:creator>
+<dc:creator>Perelló, R</dc:creator>
+<dc:creator>Camón, S</dc:creator>
+<dc:creator>Miró, O</dc:creator>
+<dc:creator>Moreno, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Evaluar el pronóstico de pacientes VIH afectados de neumonía adquirida en la comunidad (NAC) en relación a marcadores clínicos y analíticos disponibles en un servicio de urgencias (SU).Método: Estudio prospectivo de 3 años. Se incluyeron todos los pacientes VIH, diagnosticados de NAC que acudieron a un SU, con más de 24 horas de evolución clínica y que requirieron ingreso. Se analizaron diversas variables clínicas y analíticas entre ellas la proteína C reactiva (PCR), la frecuencia respiratoria (FR), la presión arterial sistólica (PAS), la presión parcial arterial de oxígeno (pO2), y la puntuación en la escala de APACHE II. El ingreso en una unidad de cuidados intensivos (UCI), la necesidad de ventilación mecánica(VM) y la mortalidad a 30 días se consideraron los objetivos de resultado primarios, que también fueron analizados de forma combinada. El poder discriminativo de estas variables se analizó mediante el cálculo del área bajo la curva (AUC) ROC. Resultados: Se incluyeron 159 pacientes. Las variables con poder discriminativo estadísticamente significativo para ingreso en UCI, para el global de la serie, fueron la Frei índice APACHE II, la pO2, la PCR y los leucocitos, y los tres primeros también lo fueron en la neumonía neumológica. Para la VM, fueron el índice APACHE II, la pO2, PCR, el VHC y la edad para el global de la serie, los dos primeros junto con el número de leucocitos también lo fueron para la neumonía neumocócica. Para la mortalidad, el índice de APACHE II, la pO2 y el VHC, lo fueron para el global de la serie y ninguno lo fue en la neumonía neumocócica. Conclusión: La hipoxemia, la taquipnea y la escala de APACHE II son las variables detectables que han mostrado el mayor poder discriminativo de mal pronóstico en los pacientes infectados por el VIH que ingresan en el hospital por NAC (AU)</dc:description>
+<dc:source>Emergencias (Sant Vicenç dels Horts);25(4): 268-272, ago. 2013. tab</dc:source>
+<dc:identifier>ibc-114762</dc:identifier>
+<dc:title xml:lang="es">Aproximación al valor pronóstico de diferentes marcadores identificables en urgencias en pacientes VIH con neumonía: valor de la PCR</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d24718^s22012</dc:subject>
+<dc:subject>^d11443^s22080</dc:subject>
+<dc:subject>^d22124^s22002</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d874^s22080</dc:subject>
+<dc:subject>^d3439^s22083</dc:subject>
+<dc:subject>^d23568^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d54500^s22080</dc:subject>
+<dc:subject>^d32354</dc:subject>
+<dc:subject>^d30862^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201308</dc:date>
+</metadata>
+</record>
+</ibecs-document>

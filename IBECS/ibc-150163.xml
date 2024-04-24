@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150163</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Reliability among observers when the data are categorical</dc:title>
+<dc:description xml:lang="en">The study of the human behavior requires, in most of the cases, instruments created for the situation study object (ad hoc). In the Observational Methodology, to study the observer&#146;s reliability it should be assumed that each measure is divided in two parts: a well-known or true part, and an unknown part or error. When the data are quantitative the tests on the biases between observers and the measures of agreements among them, are obtained starting from the pattern standard mixed ANOVA or through the aleatory models. In these cases the correlation intra is the used index of reliability. When the data are categorical, or when the answer variable is classified of agreement with a nominal scale or multinomial, an agreement measure among observers, similar to the correlation intra, it is the index Kappa of Cohen (1960). The present communication outlines the study of the reliability among observers by means of the index Kappa with the procedure of the ANOVA. If it is verified that bias, the application of an ANOVA unidimensional doesn&#146;t exist it is enough for the estimate of the coefficient. If, on the contrary, exists bias among the observers, they will be considered as alternative the two-dimensional ANOVA of aleatory effects, or the mixed pattern of two dimensions (AU)</dc:description>
+<dc:creator>Arnau, Jaime</dc:creator>
+<dc:creator>Losada, José Luis</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El estudio de la conducta humana requiere, en la mayoría de los casos, instrumentos creados para la situación objeto de estudio (ad hoc). Una característica importante que deben cumplir estos instrumentos es tener alta fiabilidad. En la Metodología Observacional para estudiar la fiabilidad del observador se debe asumir que cada medida se divide en dos partes: una parte conocida o verdadera, y una parte desconocida o error. Cuando los datos son cuantitativos las pruebas sobre los sesgos entre observadores y las medidas de acuerdos entre ellos, se obtienen a partir del modelo ANOVA mixto estándar o a través de los modelos aleatorios. En estos casos la correlación intraclase es el índice de fiabilidad más utilizado. Por ejemplo cuando tenemos varios observadores y se quiere conocer su fiabilidad, generalmente se utiliza el coeficiente intraclase de Berck (1979), que detecta la concordancia y el error sistemático de unos observadores respecto a otros (&amp;#961;2). Existen numerosas versiones de la correlación intraclase, y para cada situación específica hay una forma apropiada, aunque conceptualmente todas se centran en el estudio de la fiabilidad. Cuando los datos son categóricos, o cuando la variable de respuesta se clasifica de acuerdo con una escala nominal o multinomial, una medida de acuerdo entre observadores, similar a la correlación intraclase, es el índice kappa de Cohen (1960). La presente comunicación plantea el estudio de la fiabilidad entre observadores mediante el índice de Kappa con el procedimiento del ANOVA. Si se verifica que no existe sesgo, la aplicación de un ANOVA unidimensional es suficiente para la estimación del coeficiente. Si, por el contrario, existiese sesgo entre los observadores, se deberán considerar como alternativas el ANOVA bidimensional de efectos aleatorios, o el modelo mixto de dos dimensiones (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);12(supl.2): 335-339, 2000. tab</dc:source>
+<dc:identifier>ibc-150163</dc:identifier>
+<dc:title xml:lang="es">Fiabilidad entre observadores con datos categóricos mediante el Anova</dc:title>
+<dc:subject>^d24807</dc:subject>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d1544^s22083</dc:subject>
+<dc:subject>^d50295^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28575</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200000</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-34493</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Design of a method to classify and analyze patients´ suggestions</dc:title>
+<dc:creator>Arencibia-Jiménez, Mercedes</dc:creator>
+<dc:creator>Moliner, Javier</dc:creator>
+<dc:creator>Escribano, María Teresa</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivos: Crear un sistema eficiente para clasificar las sugerencias de los pacientes y analizar los comentarios recibidos entre junio de 2002 y octubre de 2003.Material y métodos: Se obtienen las sugerencias de una pregunta abierta. Inicialmente, se agrupan los comentarios en 3 tipos: queja, agradecimiento o sugerencia. Posteriormente, se los clasifica en 4 categorías: a) estructura; b) organización y tiempos de espera; c) información y práctica clínica, y d) atención recibida y trato del personal, diferenciando códigos específicos para cada categoría. En el estudio de concordancia se cuantificó el índice kappa y su significación estadística. Posteriormente se analizaron los comentarios de las encuestas recibidas durante 15 meses. Resultados: Se seleccionaron aleatoriamente 200 encuestas, que recogieron 122 comentarios. La concordancia en la clasificación del tipo de sugerencia fue evaluada en 101 casos, con una incidencia de casos coincidentes del 77,2 por ciento, y un índice kappa de 0,664 (p &lt; 0,0001). Para la concordancia entre categorías, se evaluaron 89 casos, con una coincidencia del 84,3 por ciento y un índice kappa de 0,782 (p &lt; 0,0001). En el análisis, descubrimos que el principal motivo de comentario hace referencia al trato recibido por el paciente. Según el tipo, la queja más frecuente fue la falta de información; el motivo de agradecimiento, el trato recibido, y la sugerencia, la comodidad del paciente. Conclusiones: Este sistema de clasificación es consistente, y observadores diferentes lo realizan de forma similar. La codificación de las sugerencias facilita su análisis para captar qué necesita el ciudadano del sistema sanitario que le atiende (AU)</dc:description>
+<dc:source>Rev. calid. asist;19(5): 323-328, ago. 2004. tab</dc:source>
+<dc:identifier>ibc-34493</dc:identifier>
+<dc:title xml:lang="es">Elaboración de un método para clasificar y analizar las sugerencias de los pacientes</dc:title>
+<dc:subject>^d29902</dc:subject>
+<dc:subject>^d28417</dc:subject>
+<dc:subject>^d12224^s22018</dc:subject>
+<dc:subject>^d20208^s22049</dc:subject>
+<dc:subject>^d12224^s22048</dc:subject>
+<dc:subject>^d12224^s22049</dc:subject>
+<dc:subject>^d32094^s22049</dc:subject>
+<dc:subject>^d10552^s22074</dc:subject>
+<dc:subject>^d32094^s22048</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d12224^s22083</dc:subject>
+<dc:subject>^d6447^s22049</dc:subject>
+<dc:subject>^d6447^s22048</dc:subject>
+<dc:subject>^d28597^s22074</dc:subject>
+<dc:subject>^d12074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200408</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-80104</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cost-utility analysis of concomitant atrial fibrillation management in Spain</dc:title>
+<dc:description xml:lang="en">ObjectivesAtrial fibrillation (AF) is the most common arrhythmia in clinical practice; this disorder is a risk factor for stroke and is associated with substantial morbidity and mortality. Our objective was to develop a cost-utility analysis of the different treatment alternatives in patients aged 40 years old or more with concomitant AF with valve disease in Spain, from the National Health System perspective.MethodsAn economic evaluation through a Markov model with four health states (sinus rhythm, AF, dependent stroke, death) was developed to simulate the evolution of a cohort of 1,000 patients receiving each treatment alternative in addition to mitral valve surgery (drug therapy, surgical ablation and catheter ablation). The time horizon was 5 years, with a cycle length of 3 months. Data on costs and effects were obtained from the published literature and expert opinion and were discounted at 3.5%. A sensitivity analysis was developed to determine the robustness of the results.ResultsThe quality-adjusted life years (QALY) gained were 3.29, 3.89, and 3.83, respectively, for the alternatives of no ablation, surgical ablation and catheter ablation. The costs per patient were 5,770&#128;, 10,034&#128; and 11,289&#128;, respectively. The surgical ablation cost/QALY rate compared with no ablation was 7,145&#128;. Surgical ablation was dominant versus catheter ablation. The probabilistic sensitivity analysis showed that the results were robust.ConclusionsSurgical ablation is a cost-effective treatment option in patients with concomitant AF, with a cost-effectiveness ratio under the efficiency threshold commonly accepted in Spain(AU)</dc:description>
+<dc:creator>Rodríguez Bezos, Desiré</dc:creator>
+<dc:creator>López Gude, María Jesús</dc:creator>
+<dc:creator>Rodríguez Barrios, José Manuel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">ObjetivosLa fibrilación auricular (FA) es la arritmia más común en la práctica clínica; es un factor de riesgo de accidente cerebrovascular (ACV), y está asociada a una importante morbilidad y mortalidad. Nuestro objetivo fue realizar un análisis de coste-utilidad de las diferentes opciones de tratamiento en pacientes &gt;40 años con FA concomitante con valvulopatía mitral en España, desde la perspectiva del Sistema Nacional de Salud.MétodosSe realizó una evaluación económica mediante un modelo de Markov con cuatro estados de salud (ritmo sinusal, FA, ACV dependiente, muerte) simulando una cohorte de 1.000 pacientes en cada opción de tratamiento más cirugía de válvula mitral (tratamiento farmacológico, ablación quirúrgica y ablación por catéter). El horizonte temporal fue de 5 años, con ciclos de 3 meses. Los datos de costes y efectos se obtuvieron de la revisión de la literatura y de la opinión de expertos clínicos, descontados al 3,5% anual. Se realizó un análisis de sensibilidad probabilístico para determinar la robustez de nuestros resultados.ResultadosLos años de vida ajustados por calidad (AVAC) ganados fueron 3,29, 3,89 y 3,83, respectivamente, para las alternativas de no ablación, ablación quirúrgica y ablación por catéter. Los costes por paciente fueron de 5.770&#128;, 10.034&#128; y 11.289&#128;, respectivamente. La razón coste/AVAC de ablación quirúrgica frente a no ablación fue de 7.145&#128;. La ablación quirúrgica resultó dominante frente a la ablación por catéter. El análisis probabilístico de sensibilidad mostró que los resultados del modelo fueron robustos.ConclusionesLa ablación quirúrgica es una opción de tratamiento coste-efectiva en los pacientes con FA concomitante, con una razón coste-efectividad por debajo del umbral de eficiencia comúnmente aceptado en España(AU)</dc:description>
+<dc:source>Gac Sanit;24(1): 59-65, ener. 2010. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-80104</dc:identifier>
+<dc:title xml:lang="es">Análisis de coste-utilidad del manejo de la fibrilación auricular concomitante en España</dc:title>
+<dc:subject>^d1287^s22057</dc:subject>
+<dc:subject>^d30313</dc:subject>
+<dc:subject>^d14290^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1287^s22009</dc:subject>
+<dc:subject>^d1287^s22018</dc:subject>
+<dc:subject>^d22488^s22018</dc:subject>
+<dc:subject>^d13411^s22080</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d1287^s22027</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d902^s22018</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d1287^s22080</dc:subject>
+<dc:subject>^d902^s22073</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d14290^s22018</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201001</dc:date>
+</metadata>
+</record>
+</ibecs-document>

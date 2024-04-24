@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-042590</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Quality of care indicators related to premature readmission and death after hospitalization for heart failure</dc:title>
+<dc:description xml:lang="en">Background and objective: To determine wether the quality of care criteria applied and the treatment provided to patients hospitalized after congestive heart failure were appropriate to reduce rates of premature readmission and death. Patients and method: We analyzed the epidemiologic, clinical and quality of care data proposed by 3 international organizations: JCAHO, AHA/ACC and ACOVE Project. The dependent variable was defined as readmission or death during the 30 days after discharge. A multivariate analysis was made using multiple binary logistic regression of the parameters of quality of care and treatment appropriateness. Results: 225 hospital discharge records were analyzed. There were 21 readmissions and 3 deaths (i.e., 24 cases [10.7%] with a positive dependent variable). 162 records (72%) corresponded to patients aged 65 years and over, who presented a total of 18 (8%) readmissions or premature deaths. A positive association between readmission or premature death was found with regard to 2 variables: appropriate treatment with ß-blockers (odds ratio [OR] = 0.34) and the Charlson index (OR = 3,79 for score of 3 or more vs. score of 2 or less). In the case of patients aged 65 years and over the same 2 variables were positively associated, with OR similar to those cited (OR = 0.31 and 3.21, respectively). No association was found between premature readmission or death and the overall evaluation of the criteria referred to by AHA/ACC, JCAHO or the ACOVE Project. Conclusions: Premature readmission or death of patients with heart failure is more determined by the characteristics of the clinical state of patients (the Charlson comorbidity index) and by the appropriateness of the treatment applied (treatment with ß-blockers) than by the accomplishment of quality of care criteria as proposed by the cited scientific organizations</dc:description>
+<dc:creator>Jiménez-Puente, Alberto</dc:creator>
+<dc:creator>Trujillo-Santos, A. Javier</dc:creator>
+<dc:creator>García-Alegría, Javier</dc:creator>
+<dc:creator>Gonzalo-Blanquer, Jerónimo</dc:creator>
+<dc:creator>Perea-Milla, Emilio</dc:creator>
+<dc:creator>Domingo-González, Soraya</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamento y objetivo: Determinar si los criterios de calidad de cuidados y el tratamiento aplicados a los pacientes hospitalizados por insuficiencia cardíaca congestiva son apropiados para reducir la tasa de reingreso y muerte precoces. Pacientes y método: Analizamos los datos epidemiológicos, clínicos y de calidad de cuidados propuestos por 3 organizaciones internacionales: JCAHO, AHA/ACC y Proyecto ACOVE. La variable dependiente se definió como el reingreso o el fallecimiento en los 30 días siguientes al alta. Se realizó un análisis multivariante mediante regresión logística con los parámetros de calidad de cuidados y lo apropiado del tratamiento. Resultados: Se registraron 225 altas hospitalarias. Se produjeron 21 reingresos y 3 fallecimientos (24 casos de variable dependiente positiva; 10,7%). Un total de 162 altas (72%) correspondían a pacientes mayores de 65 años, que presentaron 18 (8%) reingresos o muertes precoces. Se halló una asociación de la variable dependiente con 2 variables: lo apropiado del tratamiento con bloqueadores beta (odds ratio [OR] = 0,34) y el índice de Charlson (OR = 3,79 para puntuaciones de 3 o superiores frente a 2 o inferiores). En el caso de pacientes mayores de 65 años, las mismas 2 variables se comportaron como predictores independientes, con OR similares a las anteriores (OR = 0,31 y 3,21, respectivamente). No se halló relación con la valoración global de los criterios indicados por JCAHO, AHA/ACC y el Proyecto ACOVE. Conclusiones: El reingreso y la muerte precoces de los pacientes con insuficiencia cardíaca están más determinados por las características de la situación clínica de los pacientes (índice de comorbilidad de Charlson) y lo apropiado del tratamiento aplicado (bloqueadores beta) que por el cumplimiento de los criterios de calidad de cuidados propuestos por diferentes organizaciones científicas</dc:description>
+<dc:source>Med. clín (Ed. impr.);126(5): 165-169, feb. 2006. tab</dc:source>
+<dc:identifier>ibc-042590</dc:identifier>
+<dc:title xml:lang="es">Indicadores de calidad relacionados con el reingreso y la muerte precoces tras la hospitalización por insuficiencia cardíaca</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d6486^s22080</dc:subject>
+<dc:subject>^d10553^s22083</dc:subject>
+<dc:subject>^d322^s22073</dc:subject>
+<dc:subject>^d33551^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6486^s22012</dc:subject>
+<dc:subject>^d12428</dc:subject>
+<dc:subject>^d10545^s22083</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24572</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200602</dc:date>
+</metadata>
+</record>
+</ibecs-document>

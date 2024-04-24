@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-16866</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Implementation of a database for monitoring the results of quality objectives agreed on by hospital services</dc:title>
+<dc:creator>Martínez, José Ramón</dc:creator>
+<dc:creator>Franco, Ana</dc:creator>
+<dc:creator>Montserrat, Dolors</dc:creator>
+<dc:creator>Alonso, Margarita</dc:creator>
+<dc:creator>Meirás, Olga</dc:creator>
+<dc:creator>García, Isabel</dc:creator>
+<dc:creator>García, Alfredo</dc:creator>
+<dc:creator>Vilanova, Francisco</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">El objetivo del presente trabajo es establecer el seguimiento adecuado de los objetivos pactados anualmente por los servicios del hospital. Para ello se prevé la realización del cuadro de mando de los objetivos de calidad que permita una actualización inmediata de las evaluaciones correspondientes y el seguimiento continuo de objetivos por parte de los servicios que se pone de manifiesto con el envío periódico de informes. Estos objetivos de calidad se basan en el programa institucional del INSALUD y los propios de cada servicio/unidad del hospital. El cuadro de mando se estructura como un libro de Excel que consta de una serie de hojas básicas que recogen la información de cada capítulo contemplado en los objetivos de calidad. La información de estas hojas se diseña como entrada procedente de fuentes diversas y se estructura de manera que su presentación ofrezca el análisis completo de cada uno de los grupos de información descrito, con la previsión de informes periódicos para cada servicio que incluya un tratamiento estadístico adecuado que permita realizar comparaciones dentro y entre cada servicio. Los resultados de salida se materializan en 59 hojas del libro que muestran los resultados provisionales de los objetivos de calidad de cada servicio hospitalario. Los resultados se concretan en el cuadro de mando que ha sido utilizado en nuestro hospital en el año 2000. Se ha comprobado que la implantación de este modelo de seguimiento de los datos de calidad pactados ha propiciado su cumplimiento e incrementado el interés y el conocimiento de estas materias por parte de los componentes de los servicios hospitalarios. La puesta en marcha de este procedimiento permite un seguimiento exhaustivo de los objetivos a efectos de incentivación y resuelve ciertos problemas detectados anteriormente en la evaluación anual (AU)</dc:description>
+<dc:source>Rev. calid. asist;17(2): 93-98, mar. 2002. ilus</dc:source>
+<dc:identifier>ibc-16866</dc:identifier>
+<dc:title xml:lang="es">Implantación de un cuadro de mando para seguimiento de los resultados de calidad pactados por los servicios hospitalarios</dc:title>
+<dc:subject>^d51780^s22048</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d6447^s22049</dc:subject>
+<dc:subject>^d6447^s22048</dc:subject>
+<dc:subject>^d12222^s22066</dc:subject>
+<dc:subject>^d6447^s22066</dc:subject>
+<dc:subject>^d12222^s22049</dc:subject>
+<dc:subject>^d51780^s22045</dc:subject>
+<dc:subject>^d12222^s22048</dc:subject>
+<dc:subject>^d12224^s22048</dc:subject>
+<dc:subject>^d31002^s22049</dc:subject>
+<dc:subject>^d6447^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200203</dc:date>
+</metadata>
+</record>
+</ibecs-document>

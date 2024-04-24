@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-159654</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Intelligent MONitoring System for antiviral pharmacotherapy in patients with chronic hepatitis C (SiMON-VC)</dc:title>
+<dc:description xml:lang="en">Two out of six strategic axes of pharmaceutical care in our hospital are quality and safety of care, and the incorporation of information technologies. Based on this, an information system was developed in the outpatient setting for pharmaceutical care of patients with chronic hepatitis C, SiMON-VC, which would improve the quality and safety of their pharmacotherapy. The objective of this paper is to describe requirements, structure and features of SiMON-VC. Requirements demanded were that the information system would enter automatically all critical data from electronic clinical records at each of the visits to the Outpatient Pharmacy Unit, allowing the generation of events and alerts, documenting the pharmaceutical care provided, and allowing the use of data for research purposes. In order to meet these requirements, 5 sections were structured for each patient in SiMON-VC: Main Record, Events, Notes, Monitoring Graphs and Tables, and Follow-up. Each section presents a number of tabs with those coded data needed to monitor patients in the outpatient unit. The system automatically generates alerts for assisted prescription validation, efficacy and safety of using antivirals for the treatment of this disease. It features a completely versatile Indicator Control Panel, where temporary monitoring standards and alerts can be set. It allows the generation of reports, and their export to the electronic clinical record. It also allows data to be exported to the usual operating systems, through Big Data and Business Intelligence. Summing up, we can state that SiMON-VC improves the quality of pharmaceutical care provided in the outpatient pharmacy unit to patients with chronic hepatitis C, increasing the safety of antiviral therapy (AU)</dc:description>
+<dc:creator>Castro Castro, José Antonio</dc:creator>
+<dc:creator>Martín-Herranz, Isabel</dc:creator>
+<dc:creator>Mena-de-Cea, Álvaro</dc:creator>
+<dc:creator>Margusino Framiñán, Luis</dc:creator>
+<dc:creator>Cid Silva, Purificación</dc:creator>
+<dc:creator>Vázquez González, Guillermo</dc:creator>
+<dc:creator>Sanclaudio Luhía, Ana Isabel</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Dos ejes estratégicos de la atención farmacéutica en nuestro hospital son la calidad y seguridad asistencial y la incorporación de tecnologías de la información. En base a ellos, en el ámbito de pacientes externos, se desarrolló un sistema de información para la atención farmacéutica de pacientes con hepatitis C cró- nica, SiMON-VC, que mejorase la calidad y seguridad de su farmacoterapia. El objetivo de este trabajo es describir requisitos, estructura y prestaciones de SiMON-VC. Los requisitos exigidos fueron que el sistema de información incorpore automáticamente datos críticos desde la historia clínica electrónica en cada una de las visitas a consulta externa de Farmacia, que permita la generación de eventos y alertas, que documente la atención farmacéutica proporcionada y que posibilite la explotación de los datos con fines de investigación. Para cumplir estos requisitos SiMON-VC se estructuraron 5 apartados para cada paciente: Registro Principal, Eventos, Notas, Gráfica y Tablas de Seguimiento y Seguimientos. Cada apartado dispone de una serie de pestañas con datos codificados necesarios para el seguimiento del paciente en consulta externa. El sistema genera automáticamente alertas de efectividad y seguridad de la utilización de antivirales para el tratamiento de esta patología y como sistema de ayuda a la validación farmacéutica de la prescripción médica. Incorpora un Cuadro de Mando de Indicadores totalmente versátil, para el que se pueden definir estándares y alertas de seguimiento temporales. Permite la generación de informes y su exportación hacia la historia clínica electrónica. Posibilita la exportación de los datos a los sistemas de explotación habituales, con fines de investigación a través de Big-Data y Business Intelligence. Como conclusión se puede indicar que SiMON-VC mejora la calidad de la atención farmacéutica proporcionada en consulta externa de Farmacia a pacientes con hepatitis C crónica, incrementando la seguridad del tratamiento antiviral (AU)</dc:description>
+<dc:source>Farm Hosp;41(1): 68-88, ene.-feb. 2017. ilus, tab</dc:source>
+<dc:identifier>ibc-159654</dc:identifier>
+<dc:title xml:lang="es">Sistema inteligente de MONitorización de la farmacoterapia antiviral en pacientes con hepatitis C crónica (SiMON-VC)</dc:title>
+<dc:subject>^d50249^s22049</dc:subject>
+<dc:subject>^d33343^s22057</dc:subject>
+<dc:subject>^d54857</dc:subject>
+<dc:subject>^d12224</dc:subject>
+<dc:subject>^d30150^s22045</dc:subject>
+<dc:subject>^d51868</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1002^s22000</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201702</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-160461</identifier>
+<setSpec>0212-6567</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Pneumococcal disease in adults: risk levels and vaccine recommendations</dc:title>
+<dc:description xml:lang="en">There are currently two anti-pneumococcal vaccines available for use in adults: the classical 23-valent polysaccharide pneumococcal vaccine (PPV23) and the new 13-valent pneumococcal conjugate vaccine (PCV13). The main advantage of the PCV13 is the potentially better immunogenicity, with its major disadvantages being the higher cost and the lower serotype-coverage than the PPV23. The currently available scientific evidence supports the following basic recommendations: (i)among adults with greatest risk (basically asplenia and immunocompromised), a dual vaccination (PCV13+PPV23) is recommended; (ii)among adults with increased risk (basically persons &gt;65years-old and patients 15-64years with chronic pulmonary or heart disease, diabetes and/or alcoholism), a single vaccination with PPV23 is recommended (single dose in primo-vaccinated &gt;65years; re-vaccination at 5-10years in those primo-vaccinated &lt;65years-old); and (iii) in the rest of adults (risk normal/low) vaccination is not recommended (AU)</dc:description>
+<dc:creator>Vila-Córcoles, Ángel</dc:creator>
+<dc:creator>Ochoa-Gondar, Olga</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Actualmente 2 vacunas antineumocócicas están disponibles para uso en adultos: la «clásica» vacuna neumocócica polisacárida tricosavalente (VNP23) y la «nueva» vacuna neumocócica conjugada tridecavalente (VNC13). La principal ventaja de la VNC13 sería su potencial mejor inmunogenicidad, siendo sus principales inconvenientes el elevado coste y la baja cobertura de serotipos en comparación con la VNP23. Las evidencias actualmente disponibles apoyan las siguientes recomendaciones básicas: a)en los adultos con más alto riesgo (básicamente inmunocompromiso y/o asplenia) se recomienda la vacunación dual con ambas vacunas; b)en los sujetos con riesgo elevado (básicamente personas &gt;65 años y pacientes de 15-64años con enfermedad pulmonar o cardiaca crónica, diabetes y/o alcoholismo) se recomienda la vacunación simple con VNP23 (dosis única en primovacunados &amp;#8805;65años; revacunación a los 5-10años en el caso de primovacunados antes de los 65años), y c)en el resto de adultos (riesgo normal/bajo) no se recomienda la vacunación (AU)</dc:description>
+<dc:source>Aten Primaria;49(2): 111-117, feb. 2017. tab, ilus</dc:source>
+<dc:identifier>ibc-160461</dc:identifier>
+<dc:title xml:lang="es">Enfermedad neumocócica en el adulto: niveles de riesgo y recomendaciones de vacunación</dc:title>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d35368^s22000</dc:subject>
+<dc:subject>^d28418</dc:subject>
+<dc:subject>^d35368^s22073</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d11437^s22080</dc:subject>
+<dc:subject>^d11447^s22038</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d11437^s22054</dc:subject>
+<dc:subject>^d53386</dc:subject>
+<dc:subject>^d11437^s22038</dc:subject>
+<dc:subject>^d35368^s22038</dc:subject>
+<dc:subject>^d35368^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201702</dc:date>
+</metadata>
+</record>
+</ibecs-document>

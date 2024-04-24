@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-9563</identifier>
+<setSpec>1139-6202</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Antibiotic Therapy Optimization (II): methodology for dual posologic individualization in clinical practice</dc:title>
+<dc:creator>Sánchez Navarro, Amparo</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Saned, S.A.</dc:publisher>
+<dc:description xml:lang="es">La individualización de la posología antimicrobiana debe realizarse en la práctica clínica en base a la optimización del índice de eficacia mejor correlacionado con la respuesta. De forma general se acepta que Cmaxss /CMI es el índice óptimo para aminoglucósidos, fluoroquinolonas y aquellos antimicrobianos que presentan un efecto postantibiótico (EPA) marcado, siendo el tsupraCMI el recomendado para los antibióticos sin EPA, como es el caso de los beta-lactámicos; sin embargo, existen otros índices dependientes del área bajo la curva cuya correlación con la respuesta a distintos tratamientos antibacterianos también ha sido probada. En base a esto resulta aconsejable establecer, en cada ámbito sanitario, el grado de correlación entre distintos índices de eficacia y la respuesta clínica observada mediante la realización del correspondiente análisis de correlación. Este tipo de análisis puede plantearse con carácter retrospectivo o prospectivo y en base a modelos de respuesta lineales o de efecto máximo; en cualquier caso, la simulación de las curvas de concentraciones plasmáticas correspondientes al régimen posológico administrado proporciona una metodología de fácil aplicación que aporta la información farmacocinética necesaria para calcular los índices de eficacia definidos y la evaluación a priori de la potencial eficacia del tratamiento propuesto. Información adicional sobre la susceptibilidad del patógeno causante de la infección y sobre la respuesta al tratamiento administrado es necesaria para llevar a cabo el análisis que determine cuál de los índices presenta mayor correlación con la eficacia y, por tanto, cuál debe optimizarse para individualizar la posología antibacteriana en cada situación clínica considerada. (AU)</dc:description>
+<dc:source>Pharm. care Esp;2(3): 153-159, mayo 2000. graf</dc:source>
+<dc:identifier>ibc-9563</dc:identifier>
+<dc:title xml:lang="es">Optimización de la posología antibacteriana (II): metodología para la individualización posológica dual en la práctica clínica</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d911^s22000</dc:subject>
+<dc:subject>^d911^s22079</dc:subject>
+<dc:subject>^d19291</dc:subject>
+<dc:subject>^d51846</dc:subject>
+<dc:subject>^d9152</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1447^s22057</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200005</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-37782</identifier>
+<setSpec>0212-1972</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Basic knowledge about information systems</dc:title>
+<dc:creator>Mérida de la Torre, Fco. Javier</dc:creator>
+<dc:creator>García Orteca, Cesáreo</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Puntex, S.A.</dc:publisher>
+<dc:description xml:lang="es">Mucho se ha hablado acerca de los sistemas de información, Si tenemos en cuenta que en los distintos Planes Estratégicos de los Servicios de Salud de las distintas Comunidades Autónomas e INSALUD, los sistemas de información pasan a ser un tema prioritario, lógico es de suponer que aún se hable todavía más de ellos. Sin embargo, parece conveniente recordar algunos conceptos básicos sobre qué es un sistema de información, en qué se basa y para qué sirve. En nuestro medio, el hospital puede ser concebido como un sistema. Por sistema se debe entender el conjunto de partes correlacionadas y coordinadas, tendentes a alcanzar una determinada finalidad1,2. La función del hospital estará definida, por tanto, en base a sus partes constituyentes así como a las interrelaciones existentes entre ellas (AU)</dc:description>
+<dc:source>Todo hosp;(163): 29-33, ene. 2000.</dc:source>
+<dc:identifier>ibc-37782</dc:identifier>
+<dc:title xml:lang="es">Nociones básicas acerca de los sistemas de información</dc:title>
+<dc:subject>^d6446^s22049</dc:subject>
+<dc:subject>^d29453^s22049</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d10112</dc:subject>
+<dc:subject>^d32011</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200001</dc:date>
+</metadata>
+</record>
+</ibecs-document>

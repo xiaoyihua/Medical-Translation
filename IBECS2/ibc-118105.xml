@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-118105</identifier>
+<setSpec>1137-6821</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Development and validation of a poisoning surveillance program with automatic case detection in a tertiary care hospital (SAT-HULP)</dc:title>
+<dc:description xml:lang="en">Objective: The aim was to develop and validate a tool for automatic, systematic recording of acute poisoning cases attended in the emergency department of our tertiary care teaching hospital and to analyze the system&#146;s performance during the first 7 months of active surveillance. Methods: The active poisoning surveillance system performs a daily search for cases in the hospital&#146;s computerized case records. The tool uses a truncated keyword list to systematically find the reasons patients come to the emergency department and the clinical decisions made. Found cases are entered into a database for recording of type of poisoning episode, reasons for exposure, causative agent, signs and symptoms, and treatment. To validate the system we carried out a cross-sectional analysis of a type used to validate tests; specifically, we calculated appropriate statistics to compare the results against a gold standard (review of the medical records by a trained human reader).Results: The validation study was based on a random sample of 1632 patients of the 22 845 attended during the first 4months the surveillance system was operating (April-July 2011). The sensitivity of the system was 80.4% (95% CI, 68.5-92.3) and specificity 99.5% (95% CI, 99.1-99.9). Validity was reflected by a rate of correct answers of 98.9%. The positive and  (..) (AU)</dc:description>
+<dc:creator>Borobia, A. M</dc:creator>
+<dc:creator>Frías, J</dc:creator>
+<dc:creator>Quintana, M</dc:creator>
+<dc:creator>Muñoz, R</dc:creator>
+<dc:creator>Carcas,  A. J</dc:creator>
+<dc:creator>Martínez-Virto, A. M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Desarrollar y validar una herramienta de búsqueda automatizada y sistemática de los casos de intoxicaciones agudas atendidas en un servicio de urgencias de un hospital universitario de tercer nivel, así como el análisis de los primeros 7 meses de funcionamiento de este sistema de toxicovigilancia activa. Método: El sistema de toxico vigilancia activa consiste en explotar los registros informatizados del sistema de gestión de historias clínicas, realizar a diario una búsqueda sistemática por motivos de consulta y juicios clínicos y utilizar una estrategia con palabras clave truncadas. Los casos encontrados son introducidos en una base de datos que incluyen el tipo de intoxicación, la finalidad, el agente causal, las manifestaciones clínicas y el tipo de tratamiento instaurado. Para la validación del procedimiento se realizó un estudio de tipo transversal para la validación de un test o prueba, comparando con el patrón oro (revisión literal de las historias clínicas por un observador entrenado) para la obtención de los índices más adecuados. Resultados: Para el procedimiento de validación se obtuvo una muestra simple aleatoria de 1.632 pacientes de los 22.845 atendidos durante los primeros 4 meses de funcionamiento del programa (abril-julio de 2011). Los valores de sensibilidad y especificidad calculados tras la validación fueron de 80,4% (intervalo: 68,5-92,3) y 99,5%(intervalo: 99,1-99,9). El índice de validez fue de 98,9%. Los valores predictivos positivo y negativo fueron 83,7% (intervalo: 72,3-95,0) y 99,4 (intervalo: 98,9-99,8), respectivamente. En el análisis epidemiológico se han detectado 1.033 casos  (..) (AU)</dc:description>
+<dc:source>Emergencias (Sant Vicenç dels Horts);25(6): 423-429, dic. 2013. tab</dc:source>
+<dc:identifier>ibc-118105</dc:identifier>
+<dc:title xml:lang="es">Desarrollo y validación de un programa de toxicovigilancia con detección automatizadade casos en un hopital terciario (SAT-HULP)</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d^s22054</dc:subject>
+<dc:subject>^d4713^s22045</dc:subject>
+<dc:subject>^d50260</dc:subject>
+<dc:subject>^d11471^s22080</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d51672^s22054</dc:subject>
+<dc:subject>^d^s22049</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201312</dc:date>
+</metadata>
+</record>
+</ibecs-document>

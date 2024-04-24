@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-053201</identifier>
+<setSpec>0214-9168</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Monocytes/macrophages as therapeutic targets in atherosclerosis</dc:title>
+<dc:creator>Pou, Jordi</dc:creator>
+<dc:creator>Alegret, Marta</dc:creator>
+<dc:creator>Rebollo, alba</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Monocitos y macrófagos son células que desempeñan un papel clave en todas las etapas del desarrollo de la aterosclerosis. Uno de los fenómenos iniciales en este proceso es la unión de monocitos circulantes al endotelio arterial mediante las moléculas de adhesión (MA), y la subsiguiente transmigración hacia la capa íntima bajo la influencia de quimiocinas como la proteína quimiotáctica de monocitos (MCP-1). En fases posteriores, los monocitos reclutados se diferencian a macrófagos, proceso que comporta el incremento de la expresión de receptores toll-like (TLR), implicados en la respuesta inmune innata, y receptores scavenger (SR). Los TLR activan la respuesta inflamatoria en los macrófagos, induciendo la expresión de citocinas como IL-6, IL-1b y factor de necrosis tumoral (TNF). Por otra parte, los SR (principalmente SR-A y CD36) captan lipoproteínas modificadas de forma no regulada por los valores intracelulares de esteroles. El colesterol que el macrófago ha captado a través de estos receptores es almacenado en forma de ésteres de colesterol tras su esterificación por la enzima acil-CoA:colesterol aciltransferasa (ACAT), conduciendo a la formación de células espumosas. Para mantener la homeostasis lipídica, el macrófago depende de la existencia de mecanismos de exportación de colesterol al espacio extracelular, incluyendo el transporte hacia las HDL maduras mediado por el receptor scavenger BI (SR-BI) y la transferencia de colesterol hacia la apolipoproteína AI a través del transportador ATP-binding cassette A1 (ABCA1). La modulación farmacológica de estas dianas (MA, quimiocinas, TLR, SR, ACAT y proteínas relacionadas con la exportación de colesterol), directa o indirectamente a través de factores de transcripción que controlan la expresión génica (receptor hepático X, factor nuclear kB), puede limitar el desarrollo de la aterosclerosis (AU)</dc:description>
+<dc:source>Clín. investig. arterioscler. (Ed. impr.);19(2): 92-108, mar. 2007. ilus</dc:source>
+<dc:identifier>ibc-053201</dc:identifier>
+<dc:title xml:lang="es">El monocito/macrófago como diana terapéutica en la aterosclerosis</dc:title>
+<dc:subject>^d8436^s22063</dc:subject>
+<dc:subject>^d24555^s22002</dc:subject>
+<dc:subject>^d23396^s22063</dc:subject>
+<dc:subject>^d29472^s22031</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1166^s22016</dc:subject>
+<dc:subject>^d29487^s22031</dc:subject>
+<dc:subject>^d32682^s22002</dc:subject>
+<dc:subject>^d29591^s22031</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200703</dc:date>
+</metadata>
+</record>
+</ibecs-document>

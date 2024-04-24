@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-162171</identifier>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Glomerular filtration rate estimation in people older than 85: Comparison between CKD-EPI, MDRD-IDMS and BIS1 equations</dc:title>
+<dc:description xml:lang="en">Background: The evidence of glomerular filtration rate (GFR) estimating with serum creatinine based formulae in the elderly population is scarce. The purpose of this study is to compare CKD-EPI, MRD4-IDMS and BIS1 equations to analyse correlation and concordance in a population older than 85 years old. Patients and methods: We designed a retrospective cross-sectional study, which included data from 600 patients older than 85 years. GFR was estimated by the following equations: CKD-EPI, MDR4-IDMS and BIS1, using as variables sex, age and serum creatinine concentration. Statistics analysis included Wilcoxon test, Bland-Altman plot, non-parametric Passing-Bablok method and kappa statistic (simple and weighted). Results: The patients&#146; median (range) age was 87 (interval 85-98). The median GFR (range) was 42.4 (5.2-127.4) mL/min/1.73 m2, when it was estimated with MDRD-IDMS, 40.0 (4.5-93.1) for CKD-EPI and 36.9 (7.6-83.7) for BIS1. The comparison of BIS1 and CKD-EPI and MDRD-IDMS using the Wilcoxon test was significant (P&lt;.001). The regression analysis yielded the following equations: MDRD-IDMS= 1,025×CKD-EPI+1.360; BIS1= 0.688×CKD-EPI+9.074 and BIS1= 0.666×MDRD-IDMS+8.401. The weighted coefficient was 0.958 for the concordance between MDRD-IDMS and CKD-EPI, 0.812 for the concordance between MDRD-IDMS and BIS1 and 0.846 for CKD-EPI and BIS1. Conclusions: The GFR estimations obtained with BS1 equation are not interchangeable with MDRD-IDMS or CKD-EPI equations. BIS1 estimates lower GFR values than MDRD-IDMS and CKD-EPI and tends to classify the patients in a more advanced chronic kidney disease stage, especially for estimated GFR higher than 29mL/min/1.73 m2 (AU)</dc:description>
+<dc:creator>Mena Moreno, María Concepción</dc:creator>
+<dc:creator>Muñoz Jara, Raquel</dc:creator>
+<dc:creator>Bustos Guadaño, Fernando</dc:creator>
+<dc:creator>Martín Calderón, José Luis</dc:creator>
+<dc:creator>Criado Álvarez, Juan José</dc:creator>
+<dc:creator>Cantalejo Gutiérrez, Adolfo</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Antecedentes: La estimación del filtrado glomerular (FG) en el anciano con las fórmulas basadas en la creatinina es limitada. El objetivo del estudio es comparar las ecuaciones CKD-EPI, MDRD-IDMS y BIS1 y analizar la correlación y la concordancia en una población mayor de 85 años. Pacientes y métodos: Realizamos un estudio transversal retrospectivo y se recogieron datos de 600 pacientes mayores de 85 años. Se estimó el FG por las ecuaciones CKD-EPI, MDRD-IDMS y BIS1 a partir de datos de sexo, edad y creatinina. El estudio estadístico incluyó el test de Wilcoxon, análisis de Bland-Altman, rectas de regresión de Passing-Bablok, concordancia bruta e índice ponderado. Resultados: La mediana (intervalo) de edad de los pacientes fue 87 (85-98). Las medianas del filtrado glomerular estimado por MDRD-IDMS fueron 42,4 (5,2-127,4) mL/min/1,73 m2, según CKD-EPI 40,0 (4,5-93,1) mL/min/1,73 m2 y por BIS1 36,9 (7,6-83,7) mL/min/1,73 m2. La comparación mediante test de Wilcoxon de BIS1 con CKD-EPI y MDRD-IDMS fue significativa (p&lt;0,001). El análisis de regresión dio lugar a las siguientes ecuaciones: MDRD-IDMS = 1,025×CKD-EPI+1,36; BIS1=0,688×CKD-EPI+9,074 y BIS1=0,666×MDRD-IDMS+8,401. La concordancia ponderada entre MDRD-IDMS y CKD-EPI fue &amp;#954;=0,598; entre MDRD-IDMS y BIS1: &amp;#954;=0,812 y entre CKD-EPI y BIS1: &amp;#954;=0,846. Conclusiones: Las estimaciones de FG obtenidas con la ecuación BIS1 no son intercambiables ni con MDRD-IDMS ni con CKD-EPI. La ecuación BIS1 presenta valores más bajos que MDRD-IDMS y CKD-EPI, y tiende a clasificar en un estadio mayor de ERC a los pacientes, sobre todo a partir de un FG estimado de 29mL/min/1,73 m2 (AU)</dc:description>
+<dc:source>Nefrologia;37(2): 172-180, mar.-abr. 2017. tab, graf</dc:source>
+<dc:identifier>ibc-162171</dc:identifier>
+<dc:title xml:lang="es">Estimación del filtrado glomerular en personas mayores de 85 años: comparación de las ecuaciones CKD-EPI, MDRD-IDMS y BIS1</dc:title>
+<dc:subject>^d7852^s22045</dc:subject>
+<dc:subject>^d6063^s22031</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d3421^s22002</dc:subject>
+<dc:subject>^d50497^s22032</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d50497^s22080</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201704</dc:date>
+</metadata>
+</record>
+</ibecs-document>

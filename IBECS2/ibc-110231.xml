@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-110231</identifier>
+<setSpec>0213-4853</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Assessing the diagnostic accuracy (DA) of the spanish version of the informant-based AD8 questionnaire</dc:title>
+<dc:description xml:lang="en">Introduction: The AD8 is a brief informant-based questionnaire that may also be selfadministered, and which aids in identifying cognitive impairment (CI). Our goal is to assess the diagnostic accuracy (DA) of a Spanish version of that questionnaire. Material and methods: Cross-sectional study of a clinical sample of patient/informant dyads including 330 subjects with suspected CI or dementia (DEM) and 71 controls. We evaluated internal consistency (Cronbach&#146;s alpha) and validity (partial correlations with GDS stage, Fototest results and functional index measure [FIM]). We assessed DA for CI vs no CI (GDS stage 3-4)  using the area under the ROC curve (AUC), and the cut-off with the highest Youden index was determined to be optimal. Results: In the sample, 105 subjects had no CI, 99 had CI without DEM and 203 had DEM. Internal consistency was high (  0.90, 95% confidence interval: 0.89-0.92), as were correlations with the GDS score (r=0.72, P&lt;.001), Fototest results (r=&amp;#8722;0.61, P&lt;.001) and FIM (r=0.59, P&lt;.001). The AUC for AD8 was 0.90 (95% confidence interval: 0.86-0.93), which was not significantly different from that of the Fototest (AUC 0.93, 95% confidence interval: 0.89-0.96). The optimal cut-off point was 3/4 with a sensitivity of 0.93 (95% confidence interval: 0.88-0.96) and a specificity of 0.81 (95% confidence interval: 0.72-0.88); 88.8% of the classifications were correct. Combined  use of AD8 and the Fototest significantly improved the DA of both (AUC 0.96, 95% confidence interval: 0.93-0.98, P&lt;.05). Conclusions: The Spanish version of the AD8 questionnaire preserves the psychometric qualities  and DA of the original. Using this test in combination with the Fototest significantly increases the DA of both tests (AU)</dc:description>
+<dc:creator>Carnero Pardo, C</dc:creator>
+<dc:creator>Vega Cotarelo, R de la</dc:creator>
+<dc:creator>López Alcalde, S</dc:creator>
+<dc:creator>Martos Aparicio, C</dc:creator>
+<dc:creator>Galvin, J. E</dc:creator>
+<dc:creator>vilchez Carrillo, R</dc:creator>
+<dc:creator>Mora Gavilán, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: El AD8 es un cuestionario al informador breve que puede ser autoaplicado y facilita la identificación de deterioro cognitivo (DC); nuestro objetivo es evaluar la utilidad diagnóstica (UD) de una versión espa&#152;nola. Material y métodos: Estudio transversal en una muestra clínica de díadas paciente/ informador, 330 sujetos con sospecha de DC o demencia (DEM) y 71 controles. Se ha evaluado la consistencia interna (  de Cronbach) y la validez (correlaciones parciales con estadio GDS, Fototest e índice funcional [IF]). La UD se ha evaluado para no DC vs DC (GDS 3-4) por medio del área bajo la curva ROC (aROC) y se ha considerado mejor punto de corte aquel que hacía máximo el índice de Youden. Resultados: En la muestra, 105 no tenían DC, 99 tenían DC sin DEM y 203 DEM. La consistencia  interna es alta (  0,90, IC del 95%, 0,89-0,92), al igual que las correlaciones con GDS (r = 0,72, p &lt; 0,001), Fototest (r = &#151;0,61, p &lt; 0,001) e IF (r = 0,59, p &lt; 0,001). El aROC del AD8 es 0,90 (IC del 95%, 0,86-0,93), sin diferencia significativa con la del Fototest (aROC 0,93, IC del 95%, 0,89-0,96); el mejor punto de corte es 3/4 con sensibilidad de 0,93 (IC del 95%, 0,88-0,96), especificidad de 0,81 (IC del 95%, 0,72-0,88) y el 88,8% de las clasificaciones correctas. El uso conjunto de AD8 y Fototest mejora de forma significativa la UD de ambos (aROC 0,96, IC del 95%, 0,93-0,98, p &lt; 0,05).  Conclusiones: La versión espa&#152;nola del AD8 conserva las cualidades psicométricas y la UD de la versión original; su uso combinado con el Fototest mejora de forma significativa la UD de ambos (AU)</dc:description>
+<dc:source>Neurologia;28(2): 88-94, mar. 2013. tab, ilus</dc:source>
+<dc:identifier>ibc-110231</dc:identifier>
+<dc:title xml:lang="es">Evaluación de la utilidad diagnóstica de la versión española del cuestionario al informador «AD8»</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d12031^s22039</dc:subject>
+<dc:subject>^d3103^s22016</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28608</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d9673</dc:subject>
+<dc:subject>^d3718^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201303</dc:date>
+</metadata>
+</record>
+</ibecs-document>

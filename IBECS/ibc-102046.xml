@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-102046</identifier>
+<setSpec>1576-9895</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Patient¿ventilator interaction</dc:title>
+<dc:description xml:lang="en">Mechanical ventilation is a standard therapy in patients admitted to the ICU in a situation of severe acute respiratory failure. Addition to the disruption of gas exchange, the main indication to start is the presence of signs of respiratory muscle fatigue. For mechanical ventilation is essential to succeed and patient ventilator are synchronized, ie the effort that the patient does the inspiration to start being recognized by the fan and it quickly delivers a gas flow, the flow contributed by the fan will need to adapt to patient flow during the delivery of gas and that the fan recognize the termination of inspiratory activity of the patient, complete the delivery of gas and expiratory valve opens to allow the expiration of the patient. This sequence of events that seem so logical, almost never achieved in clinical practice, still common in ventilated patients see some kind of asynchrony. The presence of mismatch or patient­ventilator asynchrony invariably leads to an increased work of breathing, which will defeat the fundamental objective of ventilatory support which is none other than the decrease of the patient work of breathing (AU)</dc:description>
+<dc:creator>Artacho, B</dc:creator>
+<dc:creator>Artacho, R</dc:creator>
+<dc:creator>López, M</dc:creator>
+<dc:creator>López, S</dc:creator>
+<dc:creator>García, F</dc:creator>
+<dc:creator>Guzmán, J. A</dc:creator>
+<dc:creator>Caballero, F</dc:creator>
+<dc:creator>Campo, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La ventilación mecánica es una terapia estándar en pacientes ingresados &amp;#8203;&amp;#8203;en la UCI en una situación de insuficiencia respiratoria aguda grave. Además de los trastornos del intercambio gaseoso, la principal indicación para comenzar es la presencia de signos de la fatiga muscular respiratoria. Para la ventilación mecánica es esencial para tener éxito y ventilación del paciente están sincronizadas, es decir, el esfuerzo que hace el paciente de la fuente de inspiración para comenzar a ser reconocido por el ventilador y se entrega rápidamente un flujo de gas, el caudal aportado por el ventilador tendrá que adaptarse al flujo de pacientes durante la entrega de gas y que el ventilador reconocer el cese de la actividad inspiratorio del paciente, completar la entrega de gas y la válvula de espiración se abre para permitir la expiración del paciente. Esta secuencia de acontecimientos que parecen tan lógicas, casi nunca alcanzados en la práctica clínica, siendo comunes en los pacientes ventilados ver algún tipo de asincronía. La presencia de asincronía o desfase patientventilator conduce invariablemente a un aumento del trabajo respiratorio, lo que frustraría el objetivo fundamental de la asistencia respiratoria que no es otro que la disminución del trabajo paciente de la respiración (AU)</dc:description>
+<dc:source>Rev. patol. respir;15(2): 54-60, abr.-jun. 2012. ilus</dc:source>
+<dc:identifier>ibc-102046</dc:identifier>
+<dc:title xml:lang="es">Interacción paciente¿ventilador</dc:title>
+<dc:subject>^d3439^s22045</dc:subject>
+<dc:subject>^d12552^s22067</dc:subject>
+<dc:subject>^d36008^s22067</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12541^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201206</dc:date>
+</metadata>
+</record>
+</ibecs-document>

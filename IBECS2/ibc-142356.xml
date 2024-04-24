@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-142356</identifier>
+<setSpec>0212-6567</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Risk factors for mortality in patients with chronic obstructive pulmonary disease</dc:title>
+<dc:description xml:lang="en">Objective: To identify risk factors of mortality in patients with chronic obstructive pulmonary disease (COPD). Design: A retrospective cohort study. Location: Primary care setting in Lleida, Spain. Participants: 2.501 patients older than 40 years with at least a spirometry in the 24 months prior to the beginning of the study were followed for 3 years. Main measurements: The dependent variable was the overall mortality in the period 11/01/2010&#150;10/31/2013; and the independents: spirometric parameters, severity (GOLD) and clinical variables. Their association with mortality was analyzed by calculating the adjusted odds ratio using a non-conditional logistic regression model. Results: The average age of 2.501 patients at the beginning of the study was 68.4 years (SD = 11.6). 75.0% were males. 50.8% had a mild severity COPD, followed by moderate (35.3%), severe (9.4%) and very severe (4.4%). Mortality rate for the all period was 12.55%. The variables of the predictive model were: age, male sex, previous exacerbations, number of visits to primary care, comorbidity, smoking, severity of COPD (GOLD) and not receiving influenza vaccination, with an area under the ROC curve of 0.76. Conclusions: This model, easy and quick to apply, would identify those patients at increased risk of mortality and who could benefit from preventive strategies to improve their survival (AU)</dc:description>
+<dc:creator>Godoy, Pere</dc:creator>
+<dc:creator>Montserrat-Capdevila, Josep</dc:creator>
+<dc:creator>Barbé-Illa, Ferran</dc:creator>
+<dc:creator>Marsal, Josep Ramon</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Identificar los factores predictores de mortalidad en los pacientes con enfermedad pulmonar obstructiva crónica (EPOC). Diseño: Estudio de cohortes retrospectivas. Emplazamiento: Atención Primaria de Lleida, España. Participantes: Se incluyó a los 2.501 pacientes mayores de 40 años diagnosticados de EPOC seguidos en Atención Primaria y con al menos una espirometría compatible con EPOC en los 24 meses previos al inicio del estudio (2010). Mediciones principales: La variable dependiente fue la mortalidad global en el periodo 01/11/2010-31/10/2013 (por todas las causas) y las independientes: parámetros espirométricos, gravedad (GOLD) y variables clínicas. Se analizó su asociación con la mortalidad mediante el cálculo de las odds ratio ajustadas mediante un modelo de regresión logística no condicional. Resultados: La edad media ± desviación estándar de los 2.501 pacientes al inicio del estudio fue de 68,4 ± 11,6 años. El 75,0% eran varones. El 50,8% presentaba un nivel de gravedad leve, seguido por el moderado (35,3%), grave (9,4%) y muy grave (4,4%). La mortalidad a los 3 años fue del 12,55%. Los factores asociados a la mortalidad en la EPOC fueron: edad, género masculino, exacerbaciones previas, comorbilidad asociada, tabaquismo, gravedad (GOLD) y no haber recibido la vacunación antigripal estacional, con un área bajo la curva ROC de 0,76. Conclusiones: La aplicación de estas variables, fáciles y factibles de recoger en la práctica clínica, permitiría identificar a aquellos pacientes con mayor riesgo de mortalidad y que podrían beneficiarse de estrategias preventivas/terapéuticas para conseguir aumentar la supervivencia (AU)</dc:description>
+<dc:source>Aten Primaria;47(8): 498-504, oct. 2015. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-142356</dc:identifier>
+<dc:title xml:lang="es">Factores asociados a la mortalidad global en los pacientes diagnosticados de enfermedad pulmonar obstructiva crónica</dc:title>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d13915</dc:subject>
+<dc:subject>^d13530^s22066</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d36008^s22047</dc:subject>
+<dc:subject>^d28460^s22048</dc:subject>
+<dc:subject>^d24811</dc:subject>
+<dc:subject>^d11756^s22049</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d11756^s22048</dc:subject>
+<dc:subject>^d11756^s22045</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d36008^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201510</dc:date>
+</metadata>
+</record>
+</ibecs-document>

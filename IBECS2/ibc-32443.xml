@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-32443</identifier>
+<setSpec>1137-6821</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Long QT and Torsade de Pointes Syndrome</dc:title>
+<dc:creator>Muñoz Castellano, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Saned, S.A.</dc:publisher>
+<dc:description xml:lang="es">El síndrome del QT largo (SQTL) es un desorden causado por el alargamiento de la fase de repolarización del potencial de acción ventricular. Los pacientes que lo padecen tienen tendencia a sufrir arritmias graves como taquicardia ventricular y torsade de pointes. Se han identificado siete tipos de SQTL congénito y otros secundarios a múltiples causas. Es fundamental la medición correcta del intervalo QT, que se discute en esta revisión, lo mismo que la epidemiología, características clínicas y diagnóstico del SQTl. El tratamiento incluye la retirada de los factores que pueden originar arritmias graves, la administración de magnesio y eventualmente potasio, la implantación de un marcapaso endovenoso transitorio y la utilización de isoproterenol en el SQTL adquirido (AU)</dc:description>
+<dc:source>Emergencias (Sant Vicenç dels Horts);16(2): 85-92, abr. 2004. tab, graf</dc:source>
+<dc:identifier>ibc-32443</dc:identifier>
+<dc:title xml:lang="es">Síndrome de QT largo y Torsade de Pointes</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d7713^s22073</dc:subject>
+<dc:subject>^d4713^s22045</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d29136^s22016</dc:subject>
+<dc:subject>^d10326^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d8448^s22073</dc:subject>
+<dc:subject>^d11626^s22073</dc:subject>
+<dc:subject>^d19558^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200404</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-038897</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The EMECAS project: spanish multicentre study on short-term health effects of air pollution</dc:title>
+<dc:description xml:lang="en">The EMECAM Project demonstrated the short-term effect of airpollution on the death rate in 14 cities in Spain throughout the 1990-1995 period. The Spanish Multicentre Study on Health Effects of AirPollution (EMECAS) is broadening these objectives by incorporatingmore recent data, information on hospital disease admissionsand totaling 16 Spanish cities. This is an ecological time series studyin which the response variables are the daily deaths and the emergencyhospitalizations due to circulatory system diseases and respiratorydiseases among the residents in each city. Pollutants analyses:suspended particles, SO2, NO2, CO and O3. Control variables:meteorological, calendar, seasonality and influenza trend and incidence.Statistical analysis: estimate of the association in each city bymeans of the construction of generalized additive Poisson regressionmodels and metanalysis for obtaining combined estimators. TheEMECAS Project began with the creation of three working groups(Exposure, Epidemiology and Analysis Methodology) which definedthe protocol. The average levels of pollutants were below thoseestablished under the current regulations for sulfur dioxide, carbonmonoxide and ozone. The NO2 and PM10 values were around thoseestablished under the regulations (40 mg/m3). This is the first studyof the relationship between air pollution and disease rate among onegroup of Spanish cities. The pollution levels studied are moderate forsome pollutants, although for others, especially NO2 and particles,these levels could entail a problem with regard to complying with theregulations in force</dc:description>
+<dc:creator>Taracido, Margarita</dc:creator>
+<dc:creator>Barceló, María Antonia</dc:creator>
+<dc:creator>Daponte, Antonio</dc:creator>
+<dc:creator>Bellido, Juan B</dc:creator>
+<dc:creator>Aránguez, Emiliano</dc:creator>
+<dc:creator>Ballester, Ferrán</dc:creator>
+<dc:creator>López, Elena</dc:creator>
+<dc:creator>Iñiguez, Carmen</dc:creator>
+<dc:creator>Saez, Marc</dc:creator>
+<dc:creator>Ordóñez, Jose María</dc:creator>
+<dc:creator>Arribas, Federico</dc:creator>
+<dc:creator>Rodríguez, Paz</dc:creator>
+<dc:creator>Ocaña, Ricardo</dc:creator>
+<dc:creator>Cambra, Koldo</dc:creator>
+<dc:creator>Aguinaga, Inés</dc:creator>
+<dc:creator>Pérez-Hoyos, Santiago</dc:creator>
+<dc:creator>Cañada, Álvaro</dc:creator>
+<dc:creator>Guillén, Jesús J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El proyecto EMECAM constató el efecto a corto plazo de la contaminación atmosférica sobre la mortalidad en 14 ciudades españolasentre 1990 y 1995. El Estudio Multicéntrico Español de Contaminación Atmosférica y Salud (EMECAS) amplía estos objetivosincorporando al análisis datos de morbilidad hospitalaria, utilizainformación más reciente y suma un total de 16 ciudades. Se trata deun estudio ecológico de series temporales, siendo las variables respuestalas defunciones diarias y los ingresos hospitalarios urgentespor enfermedades del aparato circulatorio y enfermedades respiratoriasen los residentes de cada ciudad. Contaminantes analizados: partículas en suspensión, SO2, NO2, CO y O3. Variables de control:meteorológicas, de calendario, estacionalidad y tendencia e incidenciade gripe. Análisis estadístico: estimación de la asociación en cadaciudad mediante la construcción de modelos de regresión de Poissonaditivos generalizados, y meta-análisis para la obtención de estimadoresconjuntos. Los niveles medios de contaminantes se situaronpor debajo de los establecidos por la normativa actual para el dióxidode azufre, el monóxido de carbono y el ozono. Los valores de NO2y PM10 se situaron alrededor de los establecidos en la normativa (40mg/m3). Se trata del primer estudio de la relación entre contaminación atmosférica y morbilidad en un conjunto de ciudades españolas.Los niveles de contaminantes estudiados son moderados para algunoscontaminantes, aunque en otros, especialmente NO2 y partículas,podrían representar un problema para el cumplimiento de la normativavigente</dc:description>
+<dc:source>Rev Esp Salud Publica;79(2): 229-242, mar.-abr. 2005. tab, graf</dc:source>
+<dc:identifier>ibc-038897</dc:identifier>
+<dc:title xml:lang="es">El Proyecto EMECAS: protocolo del estudio multicéntrico en España de los efectos a corto plazo de la contaminación atmosférica sobre la salud</dc:title>
+<dc:subject>^d28455</dc:subject>
+<dc:subject>^d28017^s22045</dc:subject>
+<dc:subject>^d400^s22002</dc:subject>
+<dc:subject>^d4862^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29640</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200504</dc:date>
+</metadata>
+</record>
+</ibecs-document>

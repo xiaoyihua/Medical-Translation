@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-32582</identifier>
+<setSpec>0034-0618</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Hepatic cellular models to investigate Hepatotoxicity and Metabolism of drugs</dc:title>
+<dc:creator>Gómez-Lechón Moliner, María José</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Real Academia de Farmacia</dc:publisher>
+<dc:description xml:lang="es">Aspectos clave en el desarrollo de todo nuevo fármaco son el conocimiento de las rutas metabólicas y la potencial toxicidad factores determinantes de su eficacia terapeútica y para la evaluación de su seguridad en su administración al hombre. Los modelos celulares hepáticos que se pueden utilizar para realizar in vitro estos estudios, se clasifican en tres grandes categorias: 1) cultivos primarios de hepatocitos, 2) células manipuladas genéticamente que expresan un solo enzima de biotransformación, es decir una sola isoenzima del citocromo P450 (CYP) y 3) lineas celulares derivadas de hepatomas o de hepatocitos inmortalizados. Los cultivos de hepatocitos humanos son el modelo mas próximo al higado y solamente ellos son capaces de producir el perfil metabólico de un compuesto muy similar al que se obtiene in vivo. Sin embargo, el acceso tan limitado a muestras de tejido hepático humano ha promovido el desarrollo de modelos alternativos a los hepatocitos humanos. De los otros modelos celulares hepáticos de que se dispone, tanto las células de hepatomas, como los hepatocitos inmoralizados muestran, en general, una muy limitada expresión de las actividades de biotransformación. Sin embargo, la reexpresión de ciertos factores de transcripción hepáticos en estas lineas celulares constituye una nueva estrategia experimental para conseguir una eficiente transcripción de las isoenzimas del CYP y la recuperación de su competencia metabólica. Hoy en día, los modelos in vitro hepáticos de origen humano representan la mejor herramienta para abordar los estudios de toxicidad hepática y predecir el metabolismo de nuevas moléculas en el hombre, dada su simplicidad, disponibilidad, bajo coste y el fácil control de múltiples factores y variables (AU)</dc:description>
+<dc:source>An Real Acad Farm;68(4): 671-692, oct. 2002. tab</dc:source>
+<dc:identifier>ibc-32582</dc:identifier>
+<dc:title xml:lang="es">Modelos celulares hepáticos para estudios de Hepatotoxicidad y Metabolismo de fármacos</dc:title>
+<dc:subject>^d3595^s22079</dc:subject>
+<dc:subject>^d3595^s22078</dc:subject>
+<dc:subject>^d31855^s22057</dc:subject>
+<dc:subject>^d23106^s22044</dc:subject>
+<dc:subject>^d8272^s22044</dc:subject>
+<dc:subject>^d23169^s22021</dc:subject>
+<dc:subject>^d23106^s22068</dc:subject>
+<dc:subject>^d30701^s22079</dc:subject>
+<dc:subject>^d30313^s22066</dc:subject>
+<dc:subject>^d8272^s22021</dc:subject>
+<dc:subject>^d30313^s22048</dc:subject>
+<dc:subject>^d33013^s22079</dc:subject>
+<dc:subject>^d33013^s22078</dc:subject>
+<dc:subject>^d30701^s22078</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200210</dc:date>
+</metadata>
+</record>
+</ibecs-document>

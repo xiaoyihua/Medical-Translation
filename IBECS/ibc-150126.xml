@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150126</identifier>
+<setSpec>1135-3074</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Physical activity assessment in the general population; instruments methods and new technologies</dc:title>
+<dc:description xml:lang="en">Physical activity measurement is as important as complex. It is complex because it is a human behaviour and it is important because the relationship between physical activity and health depends mainly upon the accuracy of its measurement. The objective measurement of human movement and the quantification of energy expenditure due to physical activity is an identified need in both, research and the clinical setting. Validated and well-defined reference methods (double labelled water, direct calorimetry, indirect calorimetry) are expensive and mostly limited to the laboratory setting. Therefore, in the last years, several objective measurement devices have been developed which are appropriate for field studies and clinical settings. There is no gold standard among them, as all of them have their limitations. Pedometers are small, nonexpensive, count the steps taken and give information on total physical activity, but not about physical activity patterns and behaviour. Accelerometers are expensive, record information about frequency, duration and intensity of physical activity, but not about type of physical activity. Both pedometers and accelerometers are not good at recording upper body movement, and the reliability about the estimation of energy expenditure is limited. Heart rate monitoring relates intensity to energy expenditure, but gives no information about any other dimension of physical activity. GPS watches are portable, relatively inexpensive, non-invasive and provide distance, speed, and profile with exact time and location, but are limited for the assessment of brief higher speed movement and energy expenditure. Combined motion sensors combine accelerometry with the measurement of physiological variables, and share advantages of single devices and are more precise. Manufacturer software, which applies activity-specific algorithms for the calculation of energy expenditure, can affect energy expenditure results. Most of the devices estimate energy expenditure more accurately at light to moderate intensities; underestimation increases at very light and extremely high intensity activities (AU)</dc:description>
+<dc:creator>Mielgo-Ayuso, Juan</dc:creator>
+<dc:creator>Pedrero-Chamizo, Raquel</dc:creator>
+<dc:creator>González-Gross, Marcela</dc:creator>
+<dc:creator>Ignacio Ara, Ignacio</dc:creator>
+<dc:creator>Aparicio-Ugarriza, Raquel</dc:creator>
+<dc:creator>Aznar, S</dc:creator>
+<dc:creator>Pedro J. Benito, Pedro J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La cuantificación de la actividad Física (AF) es tan importante como compleja. Compleja porque es un comportamiento humano, e importante porque la relación de la actividad física y la salud depende en gran medida de la precisión de la medición de la misma. La medición objetiva del movimiento humano y la cuantificación del gasto energético debido a la actividad física es una necesidad identificada tanto en la investigación como en la clínica. Los métodos de referencia validados y bien definidos (el agua doblemente marcada, la calorimetría directa, la calorimetría indirecta) son caros y prácticamente se limitan a la investigación en el laboratorio. Por lo tanto, en los últimos años, se han desarrollado diferentes dispositivos de medición objetiva que son apropiados para los estudios de campo y clínicos. No hay ningún método de referencia (&#147;gold standard&#148;) entre ellos, ya que todos tienen sus limitaciones. Los podómetros son ligeros, poco costosos, cuentan los pasos y aportan información sobre la actividad física total, pero no sobre el comportamiento y los patrones de actividad física. Los acelerómetros son más caros, aportan información sobre patrón, frecuencia, duración e intensidad de la actividad física, pero no sobre el tipo de actividad física. Los podómetros y acelerómetros únicamente recogen información sobre el movimiento del movimiento corporal, pero la validez en la estimación del gasto energético es limitada. La monitorización de la frecuencia cardíaca relaciona intensidad del ejercicio con gasto de energía, pero no aporta información sobre otras dimensiones de la actividad física. Los dispositivos GPS son portátiles, relativamente asequibles, no invasivos y recogen distancia, velocidad y perfil con hora y lugar exactos, pero quizás estén limitados para la evaluación de movimientos cortos a alta intensidad y elevado gasto energético. Los dispositivos de última generación combinan acelerometría con la medición de variables fisiológicas, comparten las ventajas de los dispositivos individuales y son más precisos. Para el cálculo del gasto energético se aplican algoritmos específicos de la actividad incluidos en el software del fabricante que pueden afectar a los resultados. La mayoría de los dispositivos estiman con mayor precisión el gasto energético a intensidades ligeras y moderadas, pero subestiman el gasto a intensidades muy ligeras y de intensidad extrema (AU)</dc:description>
+<dc:source>Rev. esp. nutr. comunitaria;21(supl.1): 215-224, 2015. tab, ilus</dc:source>
+<dc:identifier>ibc-150126</dc:identifier>
+<dc:title xml:lang="es">Estimación de la actividad física en población general: métodos instrumentales y nuevas tecnologías</dc:title>
+<dc:subject>^d28579</dc:subject>
+<dc:subject>^d36288^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d55045^s22074</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d55045^s22039</dc:subject>
+<dc:subject>^d9236^s22031</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d55045^s22048</dc:subject>
+<dc:subject>^d16128</dc:subject>
+<dc:subject>^d55045^s22045</dc:subject>
+<dc:subject>^d4813^s22031</dc:subject>
+<dc:subject>^d55045^s22066</dc:subject>
+<dc:subject>^d36288^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201500</dc:date>
+</metadata>
+</record>
+</ibecs-document>

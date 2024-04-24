@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-135203</identifier>
+<setSpec>0034-0618</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">T cell receptor nanocomplexes: cooperating clusters</dc:title>
+<dc:description xml:lang="en">The T cell antigen receptor (TCR·CD3) is a multi-subunit complex responsible for triggering an adaptive immune response. It shows high specificity and sensitivity while having a low affinity for the ligand. Furthermore, T cells respond to antigen over a wide concentration range. The stoichiometry and architecture of TCR·CD3 in the membrane have been under intense scrutiny because they might be key to explaining its paradoxical properties. This review highlights new evidence that TCR·CD3 is found on intact, unstimulated T cells in monovalent (one ligand-binding site per receptor) as well as in several distinct multivalent forms. This is in contrast to the TCR·CD3 stoichiometries determined by several biochemical means, but these data can be explained by the effects of different detergents on the integrity of the receptor. Here, we discuss a model in which the multivalent receptors are important for the detection of low concentrations of ligand, and therefore confer sensitivity, whereas the co-expressed  monovalent TCR·CD3s allow a wide dynamic range (AU)</dc:description>
+<dc:creator>Schamel, Wolfgang</dc:creator>
+<dc:creator>Alarcón, Balbino</dc:creator>
+<dc:creator>Van Santen, Hisse</dc:creator>
+<dc:creator>Swamy, Mahima</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El receptor para antígeno de los linfocitos T (TCR) es un complejo multiproteíco responsable de la activación y regulación de la respuesta inmune adaptativa. Este receptor muestra una gran especificidad y sensibilidad, a la vez que tiene una baja afinidad por su ligando. El ligando del TCR es un complejo formado por el péptido antigénico y una molécula del complejo principal de histocompatibilidad (MHC). Es más, los linfocitos T responden a antígeno en un rango muy amplio de concentraciones. Esto es, los linfocitos T continúan dando una respuesta aumentada a concentraciones de antígeno que exceden en varios órdenes de magnitud la concentración activadora mínima. La estequiometría y organización del TCR en la membrana han estado bajo intenso escrutinio porque pueden ser clave para explicar sus propiedades paradójicas. Esta revisión subraya la existencia de nuevos datos que indican que el TCR se presenta en linfocitos T intactos y en reposo como una mezcla variable de  formas monovalentes (con sólo un sitio de unión para el ligando) y formas multivalentes de distinto grado. Estos resultados contrastan con datos anteriores de estequiometría del TCR obtenidos por procedimientos bioquímicos. No obstante, la mayor parte de estas discrepancias pueden deberse al efecto de distintos detergentes en la integridad del receptor. Aquí discutimos un modelo donde los complejos multivalentes del TCR son los responsables de dotar a los linfocitos T de sensibilidad a antígeno porque son activados  por bajas concentraciones de antígeno, mientras que los complejos monovalentes son los responsables del amplio rango dinámico (AU)</dc:description>
+<dc:source>An Real Acad Farm;74(4): 1-16, oct.-dic. 2008. ilus</dc:source>
+<dc:identifier>ibc-135203</dc:identifier>
+<dc:title xml:lang="es">Nanocomplejos del receptor para el antígeno de linfocitos T: agruparse para cooperar</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d31647</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d31647^s22065</dc:subject>
+<dc:subject>^d31647^s22011</dc:subject>
+<dc:subject>^d31647^s22078</dc:subject>
+<dc:subject>^d22202^s22078</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d3922^s29165</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22202^s22000</dc:subject>
+<dc:subject>^d22202^s22044</dc:subject>
+<dc:subject>^d22202^s22011</dc:subject>
+<dc:subject>^d3922^s22002</dc:subject>
+<dc:subject>^d2834^s22044</dc:subject>
+<dc:subject>^d2834^s22055</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200812</dc:date>
+</metadata>
+</record>
+</ibecs-document>

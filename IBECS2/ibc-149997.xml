@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-149997</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Performance in real traffic environments</dc:title>
+<dc:description xml:lang="en">Previous studies on speed estimation in traffic have been performed in very different scenarios, varying from the complexity of real traffic situations to the simpler and more controlled simulated conditions. The aim of this research was to compare the performance in real traffic environments (road and highway) with a closed track used in some recent experimental studies (Recarte and Nunes, 1996), and to analyze the effect of sex and driving experience on speed estimation. Thirty-six participants (18 male and 18 female, half of each group being drivers and half non-drivers) estimated the speed of the car in which they traveled as passengers. The actual speed values varied in the range of 40 to 100 kph. for road, and 70 to 120 kph. for the highway condition. Linear, logarithmic and power functions have been fitted, but linear fit was the best in most cases. Accounted variances by linear fit were: r2= . 86 and r2= . 81, for closed track and open road, respectively; r2= . 87 and r2= . 83, for drivers and non-drivers, respectively; and r2= . 85, for both sexes. Results obtained on the closed track by Recarte and Nunes (1996) were replicated in the same condition and also verified for the conventional road scenario. However, a different pattern of errors was found on the highway. From the viewpoint of psychophysics, the participants were more accurate on the closed track than in real traffic conditions considered as a whole. The differences found between road and highway and the effects of the participant variables are discussed (AU)</dc:description>
+<dc:creator>Hernández, MJ</dc:creator>
+<dc:creator>Ruiz, T</dc:creator>
+<dc:creator>Recarte, MA</dc:creator>
+<dc:creator>Conchillo, Ángela</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En la investigación presente se ha estudiado la psicofísica de la velocidad en un contexto de conducción real de vehículos, teniendo en cuenta si los sujetos tenían o no experiencia como conductores, y si la conducción se realizaba en un escenario natural con tráfico o en un circuito sin tráfico, con el objeto de comparar los resultados con los de otra investigación reciente (Recarte and Nunes, 1996). Treinta y seis sujetos, divididos en cuatro grupos por sexo y experiencia de nueve sujetos cada uno, estimaron la velocidad de un coche en el que viajaban como acompañantes del conductor en dos escenarios: un circuito cerrado con ausencia de tráfico y una carretera/autovía con una densidad media de tráfico. El rango de velocidades utilizadas fue de 40 a 140 Km./h. en el circuito y de 40 a 120 Km./h. en la carretera/autovía. Se han ajustado tres funciones: lineal, logarítmica y potencial. El valor de r2 de los tres ajustes es muy similar en todos casos, pero generalmente mayor para la función línea. Considerando el escenario el ajuste lineal en el circuito fue mayor que en la autovía/carretera, r2= 0,86 y r2=0,81, respectivamente. También el ajuste lineal para el grupo de los sujetos con experiencia de conducir es mejor que en el de no conductores, r2= 0,87 y r2=0,83, respectivamente. En cambio, no se observa diferencia alguna entre los varones y las mujeres, r2= 0,85 para los dos grupos. Analizando la tendencia de los errores en cada velocidad se observa un patrón diferente para ambos escenarios: los resultados en el circuito son similares a los encontrados por Recarte and Nunes (1996), a saber, disminución de la infraestimación con el aumento de la velocidad; sin embargo en autovía la infraestimación aumenta con la velocidad. Se discuten las implicaciones de los resultados con respecto a la normativa de limitación de velocidad (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);12(supl.2): 152-156, 2000. tab, graf</dc:source>
+<dc:identifier>ibc-149997</dc:identifier>
+<dc:title xml:lang="es">La psicofísica de la velocidad en el contexto de la conducción real de automóviles</dc:title>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d25369</dc:subject>
+<dc:subject>^d15197</dc:subject>
+<dc:subject>^d12037^s22045</dc:subject>
+<dc:subject>^d9231</dc:subject>
+<dc:subject>^d1340^s22056</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200000</dc:date>
+</metadata>
+</record>
+</ibecs-document>

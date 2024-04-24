@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-83625</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Validation of the ABCDI and ABCD2I scales in the registry of patients with transient ischemic attacks from Lleida (REGITELL) Spain</dc:title>
+<dc:description xml:lang="en">Background and objectives: A new radiological-clinical score (ABCDI) has been recently described to predict the risk of stroke recurrence after a transient ischemic attack (TIA). We validated this score in a cohort of patients with TIA (REGITELL). Patients and methods: We studied 310 consecutive patients with TIA. Clinical scales (ABCD and ABCD2) and radiological-clinical scales (ABCDI and ABCD2I) were quantified. Radiological clinical scales were calculated by adding one point for the presence of ischemic brain injury in CT scan to its eponymous clinical score. We established its relationship with the risk of recurrence at 7 and 90 days, and the presence of an atheromatous etiology (AE). Results: During the first week of follow-up, 18 (5.8%) patients suffered a recurrence, whereas 24 (7.7%) had a recurrence at 90 days. The multivariate study (Cox regression) identified the recurrence of episodes (hazard ratio [HR] 2.92, 95% CI 1.11 to 7.64, p=0.029) and AE (HR 3.13 95% CI: 1.17 to 8.36, p=0.023) as independent predictors of new stroke at 7 days and only AE for stroke at three months (RR 3.33, 95% CI: 1,42&#150;7,77, p=0.006). The predictors (logistic regression) of AE were recurrence of episodes (odds ratio [OR] 3.12, 95% CI 1.58&#150;6.14, p=0.001) and presence of ischemic lesions on CT scan (OR 2.69, 1.38&#150;5.28, p=0.004).conclusions: The ABCDI and ABCD2I scales are not useful in our population. The risk of recurrence after a TIA cannot only be established by clinical scores or CT scan findings (AU)</dc:description>
+<dc:creator>Piñol Ripoll, Gerard</dc:creator>
+<dc:creator>Purroy, Francisco</dc:creator>
+<dc:creator>Quilez, Alejandro</dc:creator>
+<dc:creator>Sanahuja, Jordi</dc:creator>
+<dc:creator>Brieva, Luis</dc:creator>
+<dc:creator>Suárez Luis, Idalmis</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamento y objetivo: Recientemente se ha descrito una escala clinicorradiológica (ABCDI) de riesgo de recurrencia tras un ataque isquémico transitorio. Validamos esta escala en una cohorte de pacientes prospectivos (REGITELL). Pacientes y método: Se estudió a 310 pacientes con ataques isquémicos transitorios consecutivos. Se cuantificaron escalas clínicas (ABCD y ABCD2) y escalas clinicorradiológicas (ABCDI y ABCD2I). Las escalas clinicorradiológicas se calcularon sumando a su homónima clínica un punto por la presencia de lesiones isquémicas cerebrales en la tomografía computarizada (TC) craneal. Se estableció su relación con el riesgo de recurrencia a los 7 y a los 90 días y con la presencia de etiología ateromatosa (EA). Resultados: Durante la primera semana de seguimiento, 18 pacientes (5,8%) presentaron una recurrencia, mientras que a los 90 días esta ocurrió en 24 pacientes (7,7%). El estudio multivariante (regresión de Cox) identificó la recurrencia de los episodios transitorios (razón de riesgos [RR]: 2,92; intervalo de confianza [IC] del 95%: 1,11&#150;7,64; p=0,029) y la EA (RR: 3,13; IC del 95%: 1,17&#150;8,36; p=0,023) como predictores independientes de nuevos ictus a los 7 días, y solo la EA a los 3 meses (RR: 3,33; IC del 95%: 1,42&#150;7,77; p=0,006). Los predictores (regresión logística) de EA fueron la recurrencia en los episodios (odds ratio: 3,12; IC del 95%: 1,58&#150;6,14; p=0,001) y la presencia de lesiones isquémicas en la TC craneal (odds ratio: 2,69; IC del 95%: 1,38&#150;5,28; p=0,004).Conclusiones: Las escalas clinicorradiológicas ABCDI y ABCD2I no son útiles en nuestra población. El riesgo de recurrencia no se puede establecer únicamente con variables clínicas o radiológicas mediante TC craneal (AU)</dc:description>
+<dc:source>Med. clín (Ed. impr.);135(8): 351-356, sept. 2010. tab</dc:source>
+<dc:identifier>ibc-83625</dc:identifier>
+<dc:title xml:lang="es">Validación de las escalas ABCDI y ABCD2I en el registro de pacientes con ataque isquémico transitorio de Lleida (REGITELL)</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d2586^s22054</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d12428</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d2586^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201009</dc:date>
+</metadata>
+</record>
+</ibecs-document>

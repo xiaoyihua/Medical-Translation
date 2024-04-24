@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-039845</identifier>
+<setSpec>0214-9168</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Development and validation of an HPLC method for the measurement of atorvastatin in an experimental model of atherosclerosis in chickens</dc:title>
+<dc:description xml:lang="en">Introduction. Atorvastatin is a hydroxy-methyl-glutaryl coenzyme A (HMG-CoA) reductase inhibitor that has shown to be efficacious in reducing both cholesterol and triglycerides in patients with primary hyperlipidemia or combined hyperlipidemia. An erroneous extrapolation of human doses to animal arteriosclerosis biomodels is often employed. This practice can be avoided through pharmacokinetics studies aimed to designing correct dosing regimens. Therefore, it is necessary to develop methods of drug analysis in plasma. In our study, atorvastatin was used in a biomodel of atherosclerosis in chickens. It is essential for these methods to have optimum precision and accuracy.  Methods. We used a High Performance Liquid Chromatography (HPLC) method with fluorescence detection for atorvastatin analysis and quantification. Previously, a fluorescence study of atorvastatin molecule in order to establish excitation and emission wavelengths was conducted. The method was used to determine the steady-state concentrations of this drug in the chicken atherosclerosis biomodel.  Results. After processing of plasma samples and injection in the HPLC system, the peak corresponding to atorvastatin appeared at 16.3 min. Plasma atorvastatin concentrations were lineal (r &gt; 0.999) for the range of concentrations used. Recovery obtained in our study showed the present method to be easy, low-cost and with acceptable precision.  Conclusions. Our present data show a technical procedure providing good results regarding its easiness, low cost and good reproducibility (AU)</dc:description>
+<dc:creator>García-Pérez, B</dc:creator>
+<dc:creator>Cárceles, C</dc:creator>
+<dc:creator>Ayala, I</dc:creator>
+<dc:creator>Fernández-Varón, E</dc:creator>
+<dc:creator>Bermejo, R</dc:creator>
+<dc:creator>Tvarijonaviciütè, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. La atorvastatina es un inhibidor de la HMG-CoA reductasa que ha mostrado una gran eficacia en la reducción de las concentraciones de colesterol y triglicéridos en los pacientes con hiperlipidemia primaria o hiperlipidemia combinada. Cuando se utilizan biomodelos animales de arteriosclerosis con frecuencia se extrapolan erróneamente dosis de humanos a los animales de experimentación, lo que puede evitarse mediante estudios farmacocinéticos previos que permitan diseñar regímenes de dosificación adecuados. Para ello, es preciso disponer de técnicas que nos permitan detectar el fármaco en cuestión en plasma --en nuestro estudio la atorvastatina en un biomodelo de arteriosclerosis en el pollo-- y que la cromatografía líquida de alta resolución (HPLC) utilizada tenga una buena reproducibilidad y exactitud.  Métodos. La técnica utilizada para detectar y cuantificar las concentraciones de atorvastatina en plasma fue la HPLC con detector de fluorescencia. Previamente se realizó un estudio de fluorescencia de la molécula con el fin de determinar las longitudes de onda utilizadas, tanto de excitación como de emisión. Una vez puesta a punto la técnica, se utilizó para la determinación de las concentraciones en el estado estacionario del fármaco en el biomodelo de arteriosclerosis en el pollo.  Resultados. Tras el procesamiento de las muestras correspondientes y la inyección en el sistema HPLC, se obtuvo un pico correspondiente a la atorvastatina a los 16,3 min. La concentración de atorvastatina en plasma fue lineal (r &gt; 0,999) en el rango de concentraciones utilizadas. El porcentaje de recuperación de la técnica estuvo en el rango comprendido entre el 88 y el 96%.  Conclusiones. Los datos obtenidos en nuestro estudio han mostrado unos buenos resultados en cuanto a su facilidad, bajo coste y buena reproducibilidad de la técnica (AU)</dc:description>
+<dc:source>Clín. investig. arterioscler. (Ed. impr.);17(5): 223-227, sept.-oct. 2005. tab</dc:source>
+<dc:identifier>ibc-039845</dc:identifier>
+<dc:title xml:lang="es">Desarrollo y validación de una técnica de cromatografía líquida de alta resolución para la determinación de atorvastatina en plasma en un biomodelo experimental de arteriosclerosis en pollo</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d33014^s22000</dc:subject>
+<dc:subject>^d2691</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d33014^s22062</dc:subject>
+<dc:subject>^d1166^s22032</dc:subject>
+<dc:subject>^d35411</dc:subject>
+<dc:subject>^d7130^s22057</dc:subject>
+<dc:subject>^d7117^s22057</dc:subject>
+<dc:subject>^d2900^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200510</dc:date>
+</metadata>
+</record>
+</ibecs-document>

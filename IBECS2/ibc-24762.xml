@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-24762</identifier>
+<setSpec>1130-2399</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Selective digestive decontamination</dc:title>
+<dc:creator>Ruiz de Escudero García, Nuria</dc:creator>
+<dc:creator>Capillas Echevarria, Begoña</dc:creator>
+<dc:creator>Manzabal González, Cristina</dc:creator>
+<dc:creator>Montial Fernández, Elena</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivo. Dar a conocer nuestro protocolo de descontaminación digestiva selectiva (DDS). Conocer la carga de trabajo que supone. Comparar la repercusión sobre la incidencia de neumonía asociada a ventilación mecánica (NAVM).Pacientes y método. Diseño: Estudio prospectivo descriptivo, para la medición de tiempos y comparativo no randomizado para la incidencia de NAVM. Se presentan medias de tiempos con intervalos de confianza (IC) del 95 por ciento. Calculamos el riesgo relativo (RR) de NAVM y el número necesario de pacientes a tratar (NNT). Ámbito: Unidad de cuidados intensivos (UCI) de trece camas, referencia de neurocríticos. Período: Grupo control (GC) -62 pacientes- de noviembre de 2001 a abril de 2002; grupo DDS -60 pacientes- de mayo a noviembre de 2002. Sujetos. Pacientes consecutivos ingresados en UCI que precisaron ventilación mecánica durante más de 48 h. Resultados. Se realizaron 136 registros de tiempos de administración de DDS y 16 de obtención de cultivos de vigilancia. Tiempo medio para la administración de DDS: 8,11 min (IC del 95 por ciento, 7,59-8,63). El turno de mañana fue el que consumió más tiempo, media 10,7 min (IC del 95 por ciento, 9,47-11,89) (p &lt; 0,05), frente a 8,1 min (IC del 95 por ciento, 7,20-9,08) el turno de tarde y 6,9 min (IC del 95 por ciento, 6,39-7,46) el de noche. Hubo diferencia significativa entre el tiempo empleado en enfermos médicos respecto a traumáticos (p &lt; 0,05): 8,71 min (IC del 95 por ciento, 8,41-9,01) frente a 7,45 min (IC del 95 por ciento, 6,63-8,27), respectivamente. En la toma de cultivos invertimos una media de 9 min (IC del 95 por ciento, 8-10). Para la incidencia de NAVM: RR del GDDS respecto al del GC fue de 0,28 (IC del 95 por ciento, 0,13-0,63) con un NNT de 4 (IC del 95 por ciento, 3-8).Conclusiones. En nuestros pacientes la DDS consume el 2,5 por ciento de nuestro tiempo asistencial y disminuye el riesgo de NAVM (AU)</dc:description>
+<dc:source>Enferm Intensiva;14(3): 80-87, jul. 2003.</dc:source>
+<dc:identifier>ibc-24762</dc:identifier>
+<dc:title xml:lang="es">Descontaminación digestiva selectiva</dc:title>
+<dc:subject>^d32857</dc:subject>
+<dc:subject>^d28567</dc:subject>
+<dc:subject>^d4104</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d28583</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d4419</dc:subject>
+<dc:subject>^d287</dc:subject>
+<dc:subject>^d12541</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d11443</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200307</dc:date>
+</metadata>
+</record>
+</ibecs-document>

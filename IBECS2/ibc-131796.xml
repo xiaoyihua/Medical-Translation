@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-131796</identifier>
+<setSpec>0001-6519</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Design and experimental analysis of a new malleovestibulopexy prosthesis using a finite element model of the human middle ear</dc:title>
+<dc:description xml:lang="en">Introduction and Objective: Many designs of prostheses are available for middle ear surgery. In this study we propose a design for a new prosthesis, which optimises mechanical performance in the human middle ear and improves some deficiencies in the prostheses currently available. Our objective was to design and assess the theoretical acoustic-mechanical behaviour of this new total ossicular replacement prosthesis. Methods: The design of this new prosthesis was based on an animal model (an iguana). For the modelling and mechanical analysis of the new prosthesis, we used a dynamic 3D computer model of the human middle ear, based on the finite elements method (FEM). Results: The new malleovestibulopexy prosthesis design demonstrates an acoustical-mechanical performance similar to that of the healthy human middle ear. This new design also has additional advantages, such as ease of implantation and stability in the middle ear. Conclusions: This study shows that computer simulation can be used to design and optimise the vibroacoustic characteristics of middle ear implants and demonstrates the effectiveness of a new malleovestibulopexy prosthesis in reconstructing the ossicular chain (AU)</dc:description>
+<dc:creator>Vallejo Valdezate, Luis A</dc:creator>
+<dc:creator>Gil-Carcedo Sañudo, Elisa</dc:creator>
+<dc:creator>Gil-Carcedo García, Luis M</dc:creator>
+<dc:creator>Hernández, Alberto</dc:creator>
+<dc:creator>Lobo, Fernando</dc:creator>
+<dc:creator>Hidalgo Otamendi, Antonio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: Existen numerosas prótesis diseñadas con el fin de sustituir elementos osiculares en el oído medio. En este trabajo presentamos el diseño de una nueva prótesis de sustitución osicular total anclada en el mango del martillo y analizamos su comportamiento mecanoacústico teórico. Métodos: Para el diseño de la prótesis hemos utilizado el método de los elementos finitos (FEM) basándonos en un modelo computarizado 3D dinámico del oído medio humano, analizando su comportamiento mecánico. Resultados: La prótesis resultante presenta un comportamiento mecanoacústico teórico superponible al del oído humano sano. Posee, además, otras ventajas biológicas como son estabilidad y la facilidad de implantación. Conclusiones: La simulación computarizada puede ser utilizada para diseñar y optimizar las características vibroacústicas de prótesis implantables en el oído medio. Mostramos la eficiencia mecanoacústica de un nuevo diseño de prótesis de maleovestibulopexia útil en la reconstrucción de la cadena osicular (AU)</dc:description>
+<dc:source>Acta Otorrinolaringol Esp;66(1): 16-27, ene.-feb. 2015. ilus, tab</dc:source>
+<dc:identifier>ibc-131796</dc:identifier>
+<dc:title xml:lang="es">Nueva prótesis de maleovestibulopexia. Diseño y análisis experimental en un modelo computarizado 3D basado en elementos finitos</dc:title>
+<dc:subject>^d4493^s22031</dc:subject>
+<dc:subject>^d7259</dc:subject>
+<dc:subject>^d33597^s22074</dc:subject>
+<dc:subject>^d19281^s22075</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d33597^s22075</dc:subject>
+<dc:subject>^d19281^s22074</dc:subject>
+<dc:subject>^d19244^s22074</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d11916^s22074</dc:subject>
+<dc:subject>^d14414</dc:subject>
+<dc:subject>^d35411</dc:subject>
+<dc:subject>^d165^s22045</dc:subject>
+<dc:subject>^d37575</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201502</dc:date>
+</metadata>
+</record>
+</ibecs-document>

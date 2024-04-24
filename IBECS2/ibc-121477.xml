@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-121477</identifier>
+<setSpec>1888-4008</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Stability of 27 biochemical parameters in serum samples stored in the refrigerator</dc:title>
+<dc:description xml:lang="en">Introduction: To ensure the reliability of the results of biochemical parameters in samples stored for several days, it is advisable to carry out stability studies according to the storage conditions employed. The limits of stability of 27 biochemical parameters under the storage conditions used in our laboratory were determined. Material and method: Twenty samples were collected in serum tubes with gel separator and stored at 4&amp;#9702;C. The biochemical parameters were measured twice daily at an interval of 6 h for5 days. The change in the concentration of parameters at each of the times (Xt) compared to the initial value (X0) was expressed as a percentage change (Xt%) = (Xt/X0)*100 and the mean percentage change (Xmt%) was calculated. The stability was evaluated according to 3 criteria. Metrology criteria according to within-day analytical variation (CVa), by which Xmt % could not exceed the minimum significant change (MSC = ±1.65*CVa). Biological criteria based on intra-individual biological variation (CVb), by which Xmt % could not exceed the desirable significant change (DSC = ±0.5*CVb). And the criteria based on the combination of both, by which Xmt % could not exceed the total limit of change (TLC = ±&amp;#8730; (1.65*CVa) 2+ (0.5*CVb)2). Results: The 20 parameters were considered stable according to MSC and 14 were according to DSC. In the end, nine parameters were considered stable according to the TLC criteria. Conclusion: MSC and DSC criteria are too restrictive. The TLC criteria is better suited to the needs of our laboratory. Each laboratory should investigate the stability of samples with their own storage conditions (AU)</dc:description>
+<dc:creator>Alcaraz Quiles, José</dc:creator>
+<dc:creator>Bedini Chesa, Josep Lluis</dc:creator>
+<dc:creator>Rico Santana, Naira</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: Para asegurar la fiabilidad de los resultados de las magnitudes bioquímicas en muestras conservadas durante varios días, se aconseja realizar estudios de estabilidad según las condiciones de conservación empleadas. Con el presente estudio queremos conocer los límites de estabilidad de 27 magnitudes bioquímicas bajo las condiciones de conservación utilizadas en nuestro laboratorio. Material y métodos: Se recogieron 20 muestras de suero en tubos con gel separador y se conservaron a 4 &amp;#9702;C. Las magnitudes bioquímicas se midieron 2 veces al día, con un intervalo de 6 h, durante 5 días. El cambio de concentración de las magnitudes a cada uno de los tiempos (Xt) respecto al valor inicial (X0) se expresó como cambio porcentual (Xt%) = (Xt/X0)*100 y se calculó la media de dicho cambio (Xmt%). La estabilidad se evaluó según 3 criterios. Criterio metrológico según la variación analítica interdía (CVa), por el que la Xmt% no podría superar al cambio significativo mínimo (CSM = ±1,65*CVa). Criterio biológico basado en la variación biológica intraindividual (CVb), por el que la Xmt% no podría superar al cambio significativo deseable (CSD = ±0,5*CVb). Y criterio combinado de ambos, por el que la Xmt% no podría superar el límite de cambio total (LCT = ± &amp;#8730; (1,65*CVa)2 + (0,5*CVb)2). Resultados: Veinte magnitudes se consideraron no estables según CSM y 14 según CSD. Al final del estudio, 9 magnitudes se consideraron no estables según el criterio LCT. Conclusión: Los criterios CSM y CSD resultan demasiados restrictivos. La combinación de ambos se ajusta más a las necesidades de nuestro laboratorio. Cada laboratorio debería estudiar la estabilidad de sus muestras con sus propias condiciones de conservación (AU)</dc:description>
+<dc:source>Rev. lab. clín;7(1): 9-16, ene.-mar. 2014. tab, ilus</dc:source>
+<dc:identifier>ibc-121477</dc:identifier>
+<dc:title xml:lang="es">Estabilidad de 27 magnitudes bioquímicas en muestras de suero conservadas en refrigeración</dc:title>
+<dc:subject>^d1800</dc:subject>
+<dc:subject>^d12456^s22074</dc:subject>
+<dc:subject>^d13431^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d25468^s22045</dc:subject>
+<dc:subject>^d1820^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201403</dc:date>
+</metadata>
+</record>
+</ibecs-document>

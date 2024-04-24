@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-89984</identifier>
+<setSpec>1888-6116</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Development, implementation and evaluation of an electronic drug prescribing program in a hospital</dc:title>
+<dc:description xml:lang="en">Objetive: Develop and implement safe and effective tools for computer provider order entry to serve as clinical decision support. Material and methods: A literature review was performed for each drug included in the Hospital's pharmaceutical guide for collecting information on clinically relevant drug interactions and dose adjustments in renal failure Results: A database with 62 clinically relevant interactions was developed and integrated into the hospital information program. When an interaction is detected at the time of prescribing an alert is generated to report on its consequences and alternatives. Another database with 531 drugs with dosing or monitoring recommendations specific to the degree of renal failure in each patient was developed and integrated into the hospital information system, so that from the Pharmacy Department we can select patients with impaired renal function who have been prescribed drugs that require dose adjustment and advise on the dosage recommendations for each patient. Conclusion: Due to the development and implementation of these tools, we have improved our computer provider order entry with a clinical decision support system (AU)</dc:description>
+<dc:creator>Sáez de la Fuente, J</dc:creator>
+<dc:creator>Barrueco Fernández, N</dc:creator>
+<dc:creator>Such Díaz, A</dc:creator>
+<dc:creator>Esteva Jiménez, L</dc:creator>
+<dc:creator>Escobar Rodríguez, I</dc:creator>
+<dc:creator>Esteban Alba, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Desarrollar e implantar herramientas seguras y eficaces para la prescripción electrónica de los tratamientos farmacológicos. Material y método: Se realizó una revisión bibliográfica para cada medicamento o principio activo incluido en la Guía Farmacoterapéutica del Hospital para recoger información acerca de sus interacciones y ajustes posológicos en insuficiencia renal. Se elaboró una base de datos con 62 interacciones clínicamente relevantes y otra de 531 fármacos con recomendaciones posológicas o de monitorización en función del grado de insuficiencia renal (IR). Resultados: La integración de la base de datos de IR permite que desde el Servicio de Farmacia se pueda seleccionar a los pacientes con alteración en la función renal que tienen prescritos medicamentos que requieren ajuste posológico y asesorar sobre las recomendaciones individualizadamente, incorporando esta información a la historia clínica electrónica. Conclusión: esta herramienta, ha mejorado el programa de prescripción electrónica, convirtiéndolo en una prescripción electrónica asistida (AU)</dc:description>
+<dc:source>Trauma (Majadahonda);22(2): 137-142, abr.-jun. 2011. tab</dc:source>
+<dc:identifier>ibc-89984</dc:identifier>
+<dc:title xml:lang="es">Desarrollo, implantación y evaluación de un programa de prescripción electrónica asistida de medicamentos en un hospital</dc:title>
+<dc:subject>^d^s22066</dc:subject>
+<dc:subject>^d50495^s22057</dc:subject>
+<dc:subject>^d53392^s22083</dc:subject>
+<dc:subject>^d^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d28889^s22049</dc:subject>
+<dc:subject>^d28889^s22048</dc:subject>
+<dc:subject>^d19156^s22066</dc:subject>
+<dc:subject>^d53392^s22018</dc:subject>
+<dc:subject>^d19156^s22074</dc:subject>
+<dc:subject>^d53392^s22048</dc:subject>
+<dc:subject>^d19156^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201106</dc:date>
+</metadata>
+</record>
+</ibecs-document>

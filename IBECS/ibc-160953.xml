@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-160953</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Implementation of an e-Interconsultation system between a Hospital Pharmacy Service and Primary Care Pharmacy Units in a health area</dc:title>
+<dc:description xml:lang="en">Purpose: To present the requirements, development, structure and results of an electronic interconsultation platform (e-Interconsultation) for communication between primary and hospital care. Method: A working group was created and set out its purposes, working schedule, software requirements, the structure of the electronic platform, validation procedure, and its implementation. Once the software had been developed and validated and training sessions were conducted, the electronic platform was launched in June 2015. Results: After 1 year of operation, a total of 321 electronic interconsultations had been made, 110 of which were referrals from hospital care to primary care in addition to 211 from primary to hospital care. The validation of prescriptions and the need for drug monitoring in primary care are among main reasons for consultation. Conclusions: The e-Interconsultation platform is a valid, efficient and user-friendly mean of consultation or patient referrals between both healthcare levels (AU)</dc:description>
+<dc:creator>Güeto Rial, Xosé</dc:creator>
+<dc:creator>Martín Herranz, Isabel</dc:creator>
+<dc:creator>Margusino Framiñán, Luis</dc:creator>
+<dc:creator>Silva Tojo, Alfredo</dc:creator>
+<dc:creator>García Queiruga, Marta</dc:creator>
+<dc:creator>Gutiérrez Estoa, Miguel</dc:creator>
+<dc:creator>Capitán Guarnizo, Judith</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objetivo: Presentar los requisitos, desarrollo, estructura y resultados de una plataforma de e-Interconsulta de comunicación entre farmacéuticos de atención primaria y hospitalaria. Método: Se creó un grupo de trabajo y se definieron los objetivos, el cronograma de trabajo, los requisitos del programa informático, la estructura de la plataforma electrónica, la validación de la misma y la implantación. Tras su desarrollo informático y su validación, se realizaron sesiones formativas y se puso en marcha en junio de 2015. Resultados: Tras un año de funcionamiento, el número total de e-interconsultas realizadas fue de 321, de las cuales 110 fueron derivaciones de atención hospitalaria hacia atención primaria y 211 en el sentido inverso. La homologación sanitaria de recetas y la necesidad de seguimiento farmacoterapéutico en atención primaria, destacan entre las causas motivadas de consulta. Conclusiones: La plataforma e-Interconsulta, es un sistema válido, eficaz y de sencillo manejo para la derivación de consultas o pacientes entre ambos niveles asistenciales (AU)</dc:description>
+<dc:source>Farm Hosp;41(2): 270-282, mar.-abr. 2017. ilus, tab</dc:source>
+<dc:identifier>ibc-160953</dc:identifier>
+<dc:title xml:lang="es">Implantación de un sistema de e-Interconsulta entre un Servicio de Farmacia hospitalaria y unidades de farmacia de atención primaria del área sanitaria</dc:title>
+<dc:subject>^d19349</dc:subject>
+<dc:subject>^d3189^s22049</dc:subject>
+<dc:subject>^d10797^s22049</dc:subject>
+<dc:subject>^d32630^s22049</dc:subject>
+<dc:subject>^d31061^s22074</dc:subject>
+<dc:subject>^d12224^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201704</dc:date>
+</metadata>
+</record>
+</ibecs-document>

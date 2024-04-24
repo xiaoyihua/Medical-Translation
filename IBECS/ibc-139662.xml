@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-139662</identifier>
+<setSpec>1139-6202</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Patient with polypharmacy and poorly controlled diabetes</dc:title>
+<dc:description xml:lang="en">No disponible</dc:description>
+<dc:creator>Andrés, J</dc:creator>
+<dc:creator>Luque, R</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">No disponible</dc:description>
+<dc:source>Pharm. care Esp;17(2): 331-333, 2015.</dc:source>
+<dc:identifier>ibc-139662</dc:identifier>
+<dc:title xml:lang="es">Paciente polimedicada con descompensaciones diabéticas</dc:title>
+<dc:subject>^d8862^s22020</dc:subject>
+<dc:subject>^d3942^s22057</dc:subject>
+<dc:subject>^d21012</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d50249</dc:subject>
+<dc:subject>^d38644</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d53982^s22036</dc:subject>
+<dc:subject>^d54217^s22074</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d4419</dc:subject>
+<dc:subject>^d24572</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201500</dc:date>
+</metadata>
+</record>
+</ibecs-document>

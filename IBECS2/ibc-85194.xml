@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-85194</identifier>
+<setSpec>1888-4008</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Mathematical approach to correct the influence of hemolysis in common clinical laboratory tests</dc:title>
+<dc:description xml:lang="en">Introduction. Haemolysis is the most common and undesirable occurrence in clinical laboratories and represents the main reason for specimen rejection. The aim of this study is to propose a mathematical equation to estimate and correct for the haemolysis interference in six common laboratory tests. Materials and methods. A toat of 100 fresh samples from healthy people were used. They were haemolysed and analysed following the instructions from the Interferences and Drug effects Commission (SEQC). Every analysis was carried out using an Modular analytics D/P/ISE (Roche Diagnostics) autoanalyser and SPSS (V15.0; SPSS Inc., Chicago, IL) statistical analysis software was used. Results. Haemolysis effect leads to overestimation of K, AST, ALT and LDH. On the other hand, haemolysis leads to an underestimation of GGT and BT. A statistically significant and positive linear correlation between the increase in free serum haemoglobin and the increase of the analyte were only observed in K, AST and LDH. When the real % variation of each analyte obtained in the experimental step of this study was equal to the previously calculated % variation using the regression equation, the correction equation shown was obtained. A 95% confidence interval was used to obtain the calculated results. Conclusions. The proposed mathematical equation is useful to the correction of K, AST and LDH in clinical laboratories. The haemolysis range depends on the tests analysed (AU)</dc:description>
+<dc:creator>Fernández Rodríguez, Ernesto</dc:creator>
+<dc:creator>Pineda Tenor, Daniel</dc:creator>
+<dc:creator>Martínez Laborde, Carlos</dc:creator>
+<dc:creator>Menchén Herreros, Antonio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. La hemólisis constituye una de las incidencias más frecuentes en el laboratorio clínico, y se erige como una de las principales causas del rechazo de muestras. El presente estudio tiene como objetivo el diseño de una ecuación matemática que permita estimar y corregir las posibles interferencias producidas por la hemólisis en 6 analitos de uso frecuente en el laboratorio clínico. Material y métodos. Se emplearon sueros procedentes de 100 pacientes sanos, que se hemolizaron y se procesaron de acuerdo con las recomendaciones de la Comisión de Interferencias y Efectos de los Medicamentos de la Sociedad Española de Química Clínica. Las determinaciones se realizaron en el autoanalizador Modular Analytics D/P/ISE (Roche Diagnostics) y los datos obtenidos se trataron estadísticamente con la aplicación SPSS versión 15.0 (SPSS Inc., Chicago, IL, EE. UU.). Resultados. La hemólisis induce una sobreestimación en la determinación de potasio (K), aspartato aminotransferasa (AST), alanina aminotransferasa y lactato deshidrogenasa (LDH), mientras que se traduce en una infravaloración de gamma-glutamiltransferasa y bilirrubina total. La existencia de una correlación estadísticamente significativa entre el grado de hemólisis y el porcentaje de variación en la concentración de los analitos sólo se ha observado en el caso del K, el AST y la LDH. La ecuación de corrección surge del establecimiento de una igualdad entre el porcentaje de variación empírico que muestran los analitos en sueros hemolizados y el porcentaje de variación teórico obtenido a partir de análisis de regresión. Las estimaciones se enmarcaron dentro de un intervalo de confianza del 95% definido por el error analíticamente permisible. Conclusiones. Proponemos que la ecuación matemática puede ser de utilidad para la corrección de los valores de K, AST y LDH en el laboratorio clínico, y el rango de hemólisis susceptible de corrección es dependiente del analito analizado (AU)</dc:description>
+<dc:source>Rev. lab. clín;3(1): 25-30, ene.-mar. 2010. tab</dc:source>
+<dc:identifier>ibc-85194</dc:identifier>
+<dc:title xml:lang="es">Aproximación matemática para la corrección de la influencia de la hemólisis en pruebas frecuentes del laboratorio clínico</dc:title>
+<dc:subject>^d32532^s22045</dc:subject>
+<dc:subject>^d6613^s22031</dc:subject>
+<dc:subject>^d33124^s22074</dc:subject>
+<dc:subject>^d6613^s22021</dc:subject>
+<dc:subject>^d33124^s22066</dc:subject>
+<dc:subject>^d33124^s22045</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:subject>^d19042</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201003</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-79952</identifier>
+<setSpec>1138-3593</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Hansen's disease</dc:title>
+<dc:description xml:lang="en">Leprosy (Hansen's disease) is a chronic granulomatous disease affecting the skin and nerves that is mainly produced by Mycobacterium leprae. It is considered a pre-eradicated condition in Spain, with a prevalence rate of 0.1 cases per 10,000 inhabitants. A slight increase has been observed due to the phenomenon of immigration from countries with higher prevalence of this condition. Current treatments used share a common base made up of several combined drugs, particularly rifampicin, dapsone, and clofazimin (AU)</dc:description>
+<dc:creator>Peral-Rubio, F</dc:creator>
+<dc:creator>Chaves-Alvarez, A. J</dc:creator>
+<dc:creator>Rodríguez-Nevado, I. M</dc:creator>
+<dc:creator>Catalina-Fernández, I</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La lepra (enfermedad de Hansen) es una enfermedad granulomatosa crónica que afecta a la piel y a los nervios, fundamentalmente, producida por Mycobacterium leprae. Se considera un proceso preerradicado en España, con una prevalencia de 0,1 casos por 10.000 habitantes. Se ha visto un discreto incremento debido al fenómeno de inmigración desde países con mayor prevalencia de este proceso. El tratamiento que se emplea es una combinación de fármacos como rifampicina, dapsona y clofazimina (AU)</dc:description>
+<dc:source>SEMERGEN, Soc. Esp. Med. Rural Gen. (Ed. Impr.);36(5): 299-301, mayo 2010. tab, ilus</dc:source>
+<dc:identifier>ibc-79952</dc:identifier>
+<dc:title xml:lang="es">Enfermedad de Hansen</dc:title>
+<dc:subject>^d52950</dc:subject>
+<dc:subject>^d9359^s22001</dc:subject>
+<dc:subject>^d911^s22073</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d8096^s22057</dc:subject>
+<dc:subject>^d8096^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201005</dc:date>
+</metadata>
+</record>
+</ibecs-document>

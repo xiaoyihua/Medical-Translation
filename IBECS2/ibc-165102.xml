@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-165102</identifier>
+<setSpec>1135-3074</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">An approach to integrate carbon footprint and nutritional aspects for sustainable food consumption</dc:title>
+<dc:description xml:lang="en">Background: Food consumption has a large influence on global warming. Although we must not forget that the main role of food is nutrient provision. This study develops an indicator to integrate the carbon footprint (CFP) and nutritional values of diets to facilitate sustainable food consumption. Methods: To provide a non-subjective weighting, the nonparametric technique 'Data Envelopment Analysis' (DEA) was used to define the eco-nutritional-efficiency (ENE). The ENE, defined as the ratio 'nutritional performance/environmental impact', ranges between 0 and 1, with 1 being efficient. Two DEA models are presented: model 1 focuses on the macronutrient content, whereas model 2 takes the recommended daily intake into account. They were tested through a case study consisting of 256 daily menus. Results: The case study showed that the vegetarian lunch was in all efficient menus. Western menus performed the worst due to a high CFP from meat. Both models led to ENEs between 0.42 and 1, therefore showing a potential CFP reduction of up to 58%. Model 2 is preferred because it focuses on nutritional recommendations. Conclusions: The ENE succeeds in aggregating the CFP and nutritional aspects to create a unique value that can support decision-making. Further investigation is needed to include micronutrients and other environmental impacts (AU)</dc:description>
+<dc:creator>Haupt, Melanie</dc:creator>
+<dc:creator>Sanjuan Pellicer, Neus</dc:creator>
+<dc:creator>Ribal Sanchis, Javier</dc:creator>
+<dc:creator>García-Segovia, Purificación</dc:creator>
+<dc:creator>Clemente Polo, Gabriela</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamentos: El consumo de alimentos influye sobre el calentamiento global. Pero no hay que olvidar que los alimentos son una fuente de nutrientes. Para apoyar un consumo sostenible, se ha desarrollado un indicador que integra la huella de carbono (HC) y el valor nutricional de los alimentos. Métodos: Con el fin de proporcionar una ponderación objetiva, se utilizó la técnica no paramétrica 'Análisis Envolvente de Datos' (DEA) para definir la eficiencia-eco-nutricional (ENE). La ENE, definida como 'rendimiento nutricional/impacto ambiental', varía entre 0 y 1, significando 1 que el menú es eficiente. Se presentan dos modelos DEA: el primero basado en el contenido en macronutrientes, mientras que el segundo considera la ingesta diaria recomendada. Los modelos se probaron en un caso de estudio de 256 menús diarios. Resultados: Ambos modelos mostraron valores de ENE entre 0.42 y 1, lo que supone un potencial de reducción de la HC de hasta un 58%. El modelo 2 es preferible porque se basa en recomendaciones nutricionales. Conclusiones: La ENE permite agregar la HC y los aspectos nutricionales en un valor único para apoyar la toma de decisiones. Se proponen mejoras como la introducción de micronutrientes y otros impactos ambientales (AU)</dc:description>
+<dc:source>Rev. esp. nutr. comunitaria;22(1): 0-0, ene.-mar. 2016. tab, graf</dc:source>
+<dc:identifier>ibc-165102</dc:identifier>
+<dc:title xml:lang="es">Aproximación a la integración de la huella de carbono y aspectos nutricionales para un consumo sostenible de alimentos</dc:title>
+<dc:subject>^d28466^s22031</dc:subject>
+<dc:subject>^d54351^s22083</dc:subject>
+<dc:subject>^d51714</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d56120</dc:subject>
+<dc:subject>^d54351^s22048</dc:subject>
+<dc:subject>^d8781^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201603</dc:date>
+</metadata>
+</record>
+</ibecs-document>

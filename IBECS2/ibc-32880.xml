@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-32880</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Serial autocorrelation equal to zero. Precision for the estimation</dc:title>
+<dc:description xml:lang="en">The precision of nine procedures for the calculation of the autocorrelation was evaluated in a Groups x Occasions design. Whe have used six different structures of dispersion matrices (&amp;#931;) that have absence of serial autocorrelation. These were: Compound Symmetric, Huynh-Feldt, Unstructured (&amp;#949;= .56 y &amp;#949;= .75) and of Random Coefficients (&amp;#949;= .56 y &amp;#949;= .75). The results show that the Hearne, Clark &amp; Hatch (1983) procedure reaches a right estimation independently of the sample size and of the number of series points (q) except when &amp;#931; is of Compound Symmetric or Huynh-Feldt. The rest of the procedures depend on q and on &amp;#931;, and only the Jones (1985) and Pantula &amp; Pollock (1985) procedures depend significantly on sample size. The procedures of Wilson, Hebel &amp; Sherwin (1981), Gill (1992) and Pantula &amp; Pollock (1985), in this order, are the most affected by the marriage absence of autocorrelation-absence of sphericity (AU)</dc:description>
+<dc:creator>Herrero, Javier</dc:creator>
+<dc:creator>Fernández, Paula</dc:creator>
+<dc:creator>Vallejo, Guillermo</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La precisión de nueve procedimientos para el cálculo de la autocorrelación ha sido evaluada en un diseño de Grupos x Ocasiones. Utilizamos seis estucturas de matrices de dispersión (Épsilon) con ausencia de autocorrelación serial: Simetría Combinada, Huynh-Feldt, No Estructurada (épsilon = .56 y épsilon = .75) y de Coeficientes Aleatorios (épsilon = .56 y épsilon = .75). Los resultados indican que el procedimiento de Hearne, Clark y Hatch (1983) realiza una estimación ajustada independientemente del tamaño de la muestra y del número de puntos de serie salvo cuando la matriz subyacente es de Simetría Combinada o Huynh-Feldt. El resto de los estimadores dependen de q y de Épsilon y sólo los procedimientos de Jones (1985) y de Pantula y Pollock (1985) dependen significativamente del tamaño de la muestra. Los procedimientos de Wilson, Hebel y Sherwin (1981), Gill (1992) y Pantula y Pollock (1985), en este orden, son los más afectados por el maridaje ausencia de autocorrelación-ausencia de esfericidad (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);16(1): 163-169, feb. 2004. ilus, tab</dc:source>
+<dc:identifier>ibc-32880</dc:identifier>
+<dc:title xml:lang="es">Autocorrelacion serial igual a cero. Precisión para la estimación</dc:title>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d28620</dc:subject>
+<dc:subject>^d28579</dc:subject>
+<dc:subject>^d28426</dc:subject>
+<dc:subject>^d19062</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:subject>^d24872</dc:subject>
+<dc:subject>^d33671^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200402</dc:date>
+</metadata>
+</record>
+</ibecs-document>

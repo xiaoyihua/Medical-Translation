@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-105456</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Carbohydrate Antigen 125 Serial Measurements after an Admission for Acute Heart Failure and Risk of Early Readmission</dc:title>
+<dc:description xml:lang="en">Fundament and objectives: The early readmission after a hospitalization for acute heart failure (AHF) is frequent; however, factors associated are not clearly established. Plasma levels of carbohydrate antigen 125 (CA125) have shown to be associated with the presence of systemic congestion and increased risk of death in patients with AHF. The aim of this study was to assess the relationship between CA125 levels (during hospitalization, at the first outpatient visit or their changes) and readmission for AHF at 6 months follow up. Patients and method: We analyzed 293 consecutive patients hospitalized for AHF in which CA125 was determined during the index hospitalization (T1) and the first outpatient visit after discharge (T2) (median 31 days). We examined the relationship between CA125 levels, both isolated determinations as their serial changes (absolute, relative or categorical) and readmission for AHF by Cox regression analysis adjusted for competing events. The reclassification technique integrated discrimination improvement (IDI) index was used to assess the additional discriminative power of this biomarker over the final multivariate model. Results: At 6 months follow up, we identified 32 (10.9%) and 54 (18.4%) deaths and readmissions for AHF, respectively. CA125 categorical changes [decrease and normalization (C1, n=153), decrease but no normalization at T2 (C2, n=72) and increase, with high levels at T2 (&gt;35 U/ml) (C3, n=68)], followed by the isolated determination of CA125 at T2, showed the best discriminative accuracy. Thus, with respect to patients in the C1 category, patients in categories C2 and C3 showed a higher risk of readmission for AHF: C2 vs. C1: HR=3.48, 95% CI:1.84-6.59, p&lt;0.001; C3 vs. C1: HR=3.18, 95% CI:1.62-6.21, p=0.001 (AU)</dc:description>
+<dc:creator>Chorro, Francisco J</dc:creator>
+<dc:creator>Bodi, Vicent</dc:creator>
+<dc:creator>Llàcer, Angel</dc:creator>
+<dc:creator>Núñez, Julio</dc:creator>
+<dc:creator>Miñana Escrivá, Gema</dc:creator>
+<dc:creator>Sanchis, Juan</dc:creator>
+<dc:creator>Núñez, Eduardo</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamento y objetivos: El reingreso precoz tras una hospitalización por insuficiencia cardiaca aguda (ICA) es frecuente, sin embargo, los factores asociados a este no están claramente establecidos. Los valores plasmáticos del antígeno carbohidrato 125 (CA125) han mostrado asociarse con la presencia de congestión sistémica y aumento del riesgo de muerte en pacientes con ICA. El objetivo de este trabajo fue determinar la relación entre los valores de CA125 (durante el ingreso, en la primera visita ambulatoria o sus cambios) y el reingreso por ICA a 6 meses de seguimiento. Pacientes y método: Analizamos 293 pacientes consecutivos ingresados por ICA en los que se determinó el CA125 durante la hospitalización índice (T1) y en la primera visita ambulatoria (T2) tras el alta (mediana 31 días). Evaluamos la relación entre el CA125, tanto sus determinaciones aisladas como sus cambios seriados (absolutos, relativos o categóricos), y el reingreso precoz por ICA mediante análisis de regresión de Cox adaptado para episodios competitivos. La técnica de reclasificación «integrated discrimination improvement index» se utilizó para evaluar la capacidad discriminativa adicional de este biomarcador sobre el modelo  multivariante final. Resultados: A 6 meses de seguimiento, se identificaron 32 (10,9%) y 54 (18,4%) muertes y reingresos por ICA, respectivamente. Los cambios categóricos de CA125 (descenso y normalización en T2 [C1, n=153], descenso pero no normalización en T2 [C2, n=72] e incremento con valores elevados en T2 [&gt;35U/ml] [C3, n=68]), seguidos de su determinación aislada en T2, mostraron la mejor capacidad discriminativa sobre el modelo basal (AU)</dc:description>
+<dc:source>Med. clín (Ed. impr.);139(11): 479-486, nov. 2012.</dc:source>
+<dc:identifier>ibc-105456</dc:identifier>
+<dc:title xml:lang="es">Mediciones seriadas de antígeno carbohidrato 125 tras un ingreso por insuficiencia cardiaca aguda y riesgo de reingreso precoz</dc:title>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d28625</dc:subject>
+<dc:subject>^d^s22083</dc:subject>
+<dc:subject>^d32327^s22002</dc:subject>
+<dc:subject>^d6486^s22032</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201211</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-31593</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Validation of the Pneumonia Severity Index for admission decision in patients with community-acquired pneumonia</dc:title>
+<dc:creator>Grupo NAC</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">FUNDAMENTO Y OBJETIVO: El objetivo del estudio ha sido evaluar la utilidad del Pneumonia Severity Index (PSI) o escala pronóstica de Fine para decidir la hospitalización de los pacientes con neumonía adquirida en la comunidad. PACIENTES Y MÉTODO: Se incluyó a todos los pacientes con neumonía adquirida en la comunidad atendidos en el Servicio de Urgencias de nuestro hospital durante el año 2000. Para decidir el sitio de tratamiento aplicamos un protocolo basado en el PSI con criterios de ingreso adicionales aplicados a las clases I, II y III. Las variables analizadas fueron la mortalidad a los 30 días, la aparición de complicaciones durante la evolución y la tasa de reingresos. La validación de la escala PSI para predecir la mortalidad o la aparición de complicaciones durante la evolución se realizó mediante el cálculo del área bajo la curva ROC (receiver operating characterisitcs). RESULTADOS: Se incluyó a 243 pacientes, 124 (51 por ciento) pertenecientes a clases I-III, y 119 (49 por ciento) a las clases IV y V. Ingresaron 156 (64 por ciento), de los que 39 (25 por ciento) pertenecían a clases de bajo riesgo. Fallecieron 15 pacientes (6,2 por ciento) y 43 (18 por ciento) presentaron complicaciones durante la evolución. Sólo un paciente remitido a domicilio inicialmente precisó ingreso hospitalario por complicaciones. El valor pronóstico de la escala PSI como predictor de mortalidad fue bueno (ROC = 0,92; intervalo de confianza del 95 por ciento, 0,88-0,95). CONCLUSIONES: La escala PSI es útil como índice pronóstico para predecir la mortalidad por neumonía adquirida en la comunidad. A fin de utilizarla en la práctica diaria para decidir el lugar del tratamiento de los pacientes con esta enfermedad, la adición de criterios de ingreso adicionales podría mejorar su seguridad y disminuir la tasa de reingresos (AU)</dc:description>
+<dc:source>Med. clín (Ed. impr.);122(13): 481-486, abr. 2004.</dc:source>
+<dc:identifier>ibc-31593</dc:identifier>
+<dc:title xml:lang="es">Validación del Pneumonia Severity Index en la hospitalización de los pacientes con neumonía adquirida en la comunidad</dc:title>
+<dc:subject>^d31549</dc:subject>
+<dc:subject>^d30785</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d8985</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d911</dc:subject>
+<dc:subject>^d6916</dc:subject>
+<dc:subject>^d29156</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d24244</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d29157</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d32073</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d36322</dc:subject>
+<dc:subject>^d18001</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200404</dc:date>
+</metadata>
+</record>
+</ibecs-document>

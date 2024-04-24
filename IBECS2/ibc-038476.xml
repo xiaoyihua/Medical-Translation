@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-038476</identifier>
+<setSpec>0365-6691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Nomogram for ocular hypertension progression risk based on the Ocular Hypertension Treatment study</dc:title>
+<dc:description xml:lang="en">Introduction: A practical nomogram has been designed in order to present the results obtained from the Ocular Hypertension Study (Gordon et al. Arch Ophthalmol 2002; 120: 714-720), where the relation between intraocular pressure (IOP) and corneal thickness becomes apparent, involving the risk of evolution from ocular hypertension into glaucoma within a 6 year period.Material and Methods: We used a multiple logarithmic regression for the nine parameters shown in figure 1 of the above mentioned paper.Results: A correlation coefficient of 0.91 (p&lt;0.001) permits to establish the following equation:Probability of evolution (%) = 13539.5 x (1.1385 IOP) x (0.9818 CORNEAL THICKNESS)This implies that a variation of 10 microns on corneal thickness leads to an IOP&#146;s modification of 1.5 mmHg in the same sense. From these data, we designed the nomogram included in this paper.Conclusions: IOP and pachymetry together allow an estimation of the risk of evolution from ocular hypertension into glaucoma in a graphical practical way. From this indirect estimation, the influence of corneal thickness on IOP&#146;s measure seems to be much higher than previously estimated</dc:description>
+<dc:creator>García Somalo, M</dc:creator>
+<dc:creator>González de la Rosa, M</dc:creator>
+<dc:creator>Díaz Alemán, V. T</dc:creator>
+<dc:creator>Lozano López, V</dc:creator>
+<dc:creator>Perera Sanz, D</dc:creator>
+<dc:creator>Fernánez-Baca Vaca, G </dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: Se ha construido un nomograma práctico para representar los resultados del Ocular Hipertensión Study (Gordon et al. Arch Ophthalmol 2002;120: 714-720) que relacionan la presión intraocular y el espesor corneal con el riesgo de evolucionar de hipertensión ocular a glaucoma en un plazo de 6 años.Material y Métodos: Se ha aplicado una regresión logarítmica múltiple a los 9 datos mostrados en la figura 1 del trabajo señalado anteriormente.Resultados: Un coeficiente de correlación de 0,91 (p&lt;0,001) permite definir la siguiente ecuación:Probabilidad de evolución (%) = 13539,5 x (1,1385 PIO) x (0,9818 espesor corneal)Esto significa que una variación de 10 micras en el espesor corneal equivale a una variación de 1,5 mmHg en el mismo sentido de la presión intraocular. Con estos datos se ha construido un nomograma que se incluye en el trabajo.Conclusiones: La PIO y la paquimetría permiten estimar el riesgo de evolución de hipertensión ocular a glaucoma de una manera gráfica práctica. Estimada de esta manera indirecta, la influencia del espesor corneal sobre la medida de la presión intraocular parece muy superior a la que se había estimado hasta el momento</dc:description>
+<dc:source>Arch Soc Esp Oftalmol;80(3): 151-154, mar. 2005. ilus, tab</dc:source>
+<dc:identifier>ibc-038476</dc:identifier>
+<dc:title xml:lang="es">Nomograma de riesgo de progreso de hipertensión ocular basado en el Ocular Hypertension Treatmetn Study</dc:title>
+<dc:subject>^d7591^s22031</dc:subject>
+<dc:subject>^d14455</dc:subject>
+<dc:subject>^d28567</dc:subject>
+<dc:subject>^d28204^s22016</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d32285</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200503</dc:date>
+</metadata>
+</record>
+</ibecs-document>

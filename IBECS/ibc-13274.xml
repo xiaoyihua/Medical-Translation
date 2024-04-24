@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-13274</identifier>
+<setSpec>0004-0614</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Robotics, Telesurgery and Telementoring - their position in modern urological laparoscopy</dc:title>
+<dc:creator>Frede, Thomas</dc:creator>
+<dc:creator>Rassweiler, Jens</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Iniestares, S. A.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: En general, la cirugía laparoscópica está limitada por la reducción del rango de movimiento de seis a cuatro grados de libertad. Este hecho tiene un gran impacto en procedimientos técnicamente difíciles como la prostatectomía radical laparoscópica. Las soluciones para estos problemas incluyen el entendimiento de la geometría de la laparoscopia mediante sofisticados programas de entrenamiento, y también en el desarrollo reciente de robots quirúrgicos, simuladores computadorizados y de la supervisión a distancia . El objetivo de este artículo es evaluar, a través de nuestra experiencia personal y del análisis de la literatura actual, el valor de estas alternativas. Métodos: Nuestra experiencia personal en cirugía asistida por robots incluye 406 prostatectomías radicales utilizando un brazo robótico controlado por la voz para la cámara (AESOP) así como 6 intervenciones telequirúrgicas con el sistema Da Vinci. Además, se han desarrollado importantes estudios experimentales enfocados en la geometría de la cirugía laparoscópica y en nuevos conceptos como "pelvitrainers" con perfusión y simulación por ordenador. Por otra parte, se ha revisado la literatura de los últimos 10 años sobre telecirugía y supervisión a distancia. Resultados: La geometría de la laparoscopia incluye los ángulos entre los instrumentos, que tienen que estar en un rango entre 25º y 45º; el ángulo entre los instrumentos y el campo de trabajo, que no debe superar los 55º; y el ángulo entre el porta y la aguja que se tiene que adaptar de acuerdo con la situación anatómica en un rango entre 90º y 110º. Los sistemas de 3-D todavía no han demostrado ser eficaces debido a problemas de manejo como la gafas obturadoras, video-cascos o disminución de la luminosidad. Por el momento, solamente hay dos sistemas de robot quirúrgico (ZEUS, Da Vinci) en uso clínico para telecirugía, de ellos sólo el Da Vinci ofrece visión en estereoscópica y los 6 grados de libertad. Mientras tanto, se han realizado más de 200 prostatectomías radicales laparoscópicas con este sistema, sin embargo, hasta ahora no hay evidencia de ninguna ventaja sobre el abordaje convencional laparoscópico. El ZEUS en comunicación con el sistema de telecomunicación SOKRATES es el único aparato que permite la realización de telemanipulación y telesupervisión a larga distancia (por ejemplo, transatlántica).Conclusiones: La cirugía robótica supone un punto de inflexión en la investigación quirúrgica. Sin embargo, la utilización amplia de los sistemas robotizados está limitada principalmente por la gran inversión y el costo de su utilización. Mientras que existirá un claro papel de la enseñanza/supervisión audiovisual a distancia entre los conceptos de enseñanza futuros, la necesidad de la telemanipulación/telecirugía no está clara todavía. Los nuevos conceptos tecnológicos promueven el desarrollo de instrumentos de manipulación mecánica manuales (por ejemplo portas con 6 grados de libertad) utilizados en combinación con robots computadorizados monotarea (por ejemplo AESOP) dando como resultado una reducción significativa del coste) (AU)</dc:description>
+<dc:source>Arch Esp Urol;55(6): 610-628, jul. 2002.</dc:source>
+<dc:identifier>ibc-13274</dc:identifier>
+<dc:title xml:lang="es">Robótica, Tellecirugía y Supervisión a distancia- papel en la laparoscopia urológica moderna</dc:title>
+<dc:subject>^d19371</dc:subject>
+<dc:subject>^d30912</dc:subject>
+<dc:subject>^d8501</dc:subject>
+<dc:subject>^d33669</dc:subject>
+<dc:subject>^d34526</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29770</dc:subject>
+<dc:subject>^d11911</dc:subject>
+<dc:subject>^d4569</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d15233</dc:subject>
+<dc:subject>^d35390</dc:subject>
+<dc:subject>^d19341</dc:subject>
+<dc:subject>^d30481</dc:subject>
+<dc:subject>^d19132</dc:subject>
+<dc:subject>^d32630</dc:subject>
+<dc:subject>^d5240</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200207</dc:date>
+</metadata>
+</record>
+</ibecs-document>

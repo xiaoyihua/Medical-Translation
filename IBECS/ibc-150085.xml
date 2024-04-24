@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150085</identifier>
+<setSpec>0009-739X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Relationship between volume and in-hospital mortality in digestive oncological surgery</dc:title>
+<dc:description xml:lang="en">Introduction: The results previously obtained in Spain in the study of the relationship between surgical caseload and in-hospital mortality are inconclusive. The aim of this study is to evaluate the volume-outcome association in Spain in the setting of digestive oncological surgery. Methods: An analytical, cross-sectional study was conducted with data from patients who underwent surgical procedures with curative intent of esophageal, gastric, colorectal and pancreatic neoplasms between 2006-2009 with data from the Spanish MBDS. In-hospital mortality was used as outcome variable. Control variables were patient, health care and hospital characteristics. Exposure variable was the number of interventions for each disease, dividing the hospitals in 3 categories: high volume (HV), mid volume (MV) and low volume (LV) according to the number of procedures. Results: An inverse, statistically significant relationship between procedure volume and in-hospital mortality was observed for both volume categories in both gastric (LV: OR = 1,50 [IC 95%: 1,28-1,76]; MV: OR = 1,49 (IC 95%: 1,28-1,74)) and colorectal (LV: OR = 1,44 [IC 95%: 1,33-1,55]; MV: OR = 1,24 [IC 95%: 1,15-1,33]) cancer surgery. In pancreatic procedures, this difference was only statistically significant between LV and HV categories (LV: OR = 1,89 [IC 95%: 1,29-2,75]; MV: OR = 1,21 [IC 95%: 0,82-1,79]). Esophageal surgery also showed an inverse relationship, which was not statistically significant (LV: OR = 1,89 [IC 95%: 0,98-3,64]; MV: OR = 1,05 [IC 95%: 0,50-2,21]). Conclusions: The results of this study suggest the existence in Spain of an inverse relationship between caseload and in-hospital mortality in digestive oncological surgery for the procedures analyze (AU)</dc:description>
+<dc:creator>Sarría-Santamera, Antonio</dc:creator>
+<dc:creator>Pérez-López, Paloma</dc:creator>
+<dc:creator>Baré, Marisa</dc:creator>
+<dc:creator>Touma-Fernández, Ángel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: Los resultados de estudios realizados en España sobre la relación inversa entre el número de intervenciones quirúrgicas y la mortalidad intrahospitalaria no han sido concluyentes. El objetivo de este trabajo ha sido analizar la relación entre número de intervenciones quirúrgicas y mortalidad en la cirugía del cáncer digestivo en España. Métodos: Estudio analítico, transversal con datos procedentes del CMBD, de los pacientes tratados con cirugía con intención curativa de neoplasias esofágicas, gástricas, colorrectales y pancreáticas entre 2006 y 2009. Se utilizó la mortalidad intrahospitalaria como variable de resultados. Las variables de control fueron características de los pacientes, la asistencia sanitaria y los hospitales. La variable de exposición fue el número de intervenciones para cada enfermedad, dividiendo los hospitales en 3 categorías: volumen alto (VA), volumen medio (VM) y volumen bajo (VB) en función del número de intervenciones quirúrgicas realizadas. Resultados: Se observó una relación inversa, estadísticamente significativa en ambas categorías, de volumen tanto en cirugía gástrica (VB: OR = 1,50 [IC 95%: 1,28-1,76]; VM: OR = 1,49 [IC 95%: 1,28-1,74]) como en cirugía colorrectal (VB: OR = 1,44 [IC 95%: 1,33-1,55]; VM: OR = 1,24 [(IC 95%: 1,15-1,33]). En cirugía pancreática, la diferencia solo fue estadísticamente significativa entre las categorías de menor y mayor volumen (VB: OR = 1,89 [IC 95%: 1,29-2,75]; VM: OR = 1,21 [IC 95%: 0,82-1,79]). La cirugía de esófago también mostró una relación inversa entre el volumen de intervenciones quirúrgicas y la mortalidad, pero no fue estadísticamente significativa (VB: OR = 1,89 [IC 95%: 0,98-3,64]; VM: OR = 1,05 [IC 95%: 0,50-2,21]). Conclusiones: Estos resultados indican que en España existe una relación inversa entre número de intervenciones quirúrgicas y mortalidad intrahospitalaria en la cirugía del cáncer digestivo (AU)</dc:description>
+<dc:source>Cir. Esp. (Ed. impr.);94(3): 151-158, mar. 2016. tab, graf</dc:source>
+<dc:identifier>ibc-150085</dc:identifier>
+<dc:title xml:lang="es">Relación entre volumen de casos y mortalidad intrahospitalaria en la cirugía del cáncer digestivo</dc:title>
+<dc:subject>^d13662^s22047</dc:subject>
+<dc:subject>^d4107^s22009</dc:subject>
+<dc:subject>^d10378^s22009</dc:subject>
+<dc:subject>^d30047^s22066</dc:subject>
+<dc:subject>^d13662^s22012</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4107^s22012</dc:subject>
+<dc:subject>^d3139</dc:subject>
+<dc:subject>^d4107^s22047</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d13662^s22009</dc:subject>
+<dc:subject>^d28596^s22045</dc:subject>
+<dc:subject>^d28596^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201603</dc:date>
+</metadata>
+</record>
+</ibecs-document>

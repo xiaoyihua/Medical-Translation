@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-157890</identifier>
+<setSpec>1138-3593</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Assessment method for mobile health applications in Spanish: the iSYScore index</dc:title>
+<dc:description xml:lang="en">The widespread of mobile smartphones among the population has resulted in a growing range of mobile applications in health using iOS and Android devices. The level of confidence that such applications deserve and the health information available online to the general population is a widely debated issue. The main objective of this work was to develop a tool &#150;a scale&#150;, for evaluating the reliability of health apps. The scale was developed using a systematic evidence-based approach, and with an expert consensus, built with a Delphi process. This was followed by a health app catalogue, which was used to test and validate our method that helps to recommend the best apps for non-medical experts across 3 different user interest axes: 1) popularity and interest; 2) trust and quality; and 3) usefulness (AU)</dc:description>
+<dc:creator>Grajales III, F</dc:creator>
+<dc:creator>Sisó-Almirall, A</dc:creator>
+<dc:creator>Kostov, B</dc:creator>
+<dc:creator>Gallego, JA</dc:creator>
+<dc:creator>Fernández-Luque, L</dc:creator>
+<dc:creator>Grau, I</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La adopción generalizada de los teléfonos móviles inteligentes entre la población lleva consigo una creciente oferta de aplicaciones móviles de salud para dispositivos iOS y Android. El nivel de confianza que merecen dichas aplicaciones, así como la información sanitaria disponible en Internet dirigida a los ciudadanos, es un tema ampliamente debatido El objetivo principal de este trabajo fue desarrollar una herramienta &#150;una escala&#150; para evaluar la fiabilidad de las aplicaciones de salud. La escala fue desarrollada con un enfoque sistemático basado en la evidencia, y gracias al consenso de expertos, construida mediante un proceso Delphi. Seguidamente se desarrolló un catálogo de aplicaciones de salud, que fue utilizado para probar y validar nuestro método, que ayuda a recomendar las mejores aplicaciones para usuarios no sanitarios a través de 3 dimensiones diferentes: 1) popularidad e interés; 2) confianza y calidad, y 3) utilidad (AU)</dc:description>
+<dc:source>SEMERGEN, Soc. Esp. Med. Rural Gen. (Ed. Impr.);42(8): 575-583, nov.-dic. 2016. tab, graf</dc:source>
+<dc:identifier>ibc-157890</dc:identifier>
+<dc:title xml:lang="es">Método de valoración de aplicaciones móviles de salud en español: el índice iSYScore</dc:title>
+<dc:subject>^d37717^s22074</dc:subject>
+<dc:subject>^d14051^s22048</dc:subject>
+<dc:subject>^d50063</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d37717^s22048</dc:subject>
+<dc:subject>^d55440^s22074</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d55440^s22048</dc:subject>
+<dc:subject>^d37622</dc:subject>
+<dc:subject>^d11756^s22045</dc:subject>
+<dc:subject>^d19245</dc:subject>
+<dc:subject>^d11756^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201612</dc:date>
+</metadata>
+</record>
+</ibecs-document>

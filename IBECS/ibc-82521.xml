@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-82521</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The role of animacy in European Portuguese relative clause attachment: evidence from production and comprehension tasks</dc:title>
+<dc:description xml:lang="en">This work presents an analysis of the role of animacy in attachment preferences of relative clauses to complex noun phrases in European Portuguese (EP). The study of how the human parser solves this kind of syntactic ambiguities has been focus of extensive research. However, what is known about EP is both limited and puzzling. Additionally, as recent studies have stressed the importance of extra-syntactic variables in this process, two experiments were carried out to assess EP attachment preferences considering four animacy conditions: Study 1 used a sentence-completion-task, and Study 2 a self-paced reading task. Both studies indicate a significant preference for high attachment in EP. Furthermore, they showed that this preference was modulated by the animacy of the host NP: if the first host was inanimate and the second one was animate, the parser&#146;s preference changed to low attachment preference. These findings shed light on previous results regarding EP and strengthen the idea that, even in early stages of processing, the parser seems to be sensitive to extra-syntactic information (AU)</dc:description>
+<dc:creator>Fraga, Isabel</dc:creator>
+<dc:creator>Comesaña, Montserrat</dc:creator>
+<dc:creator>Piñeiro, Ana</dc:creator>
+<dc:creator>Soares, Ana Paula</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En este trabajo se evaluó el papel de la animacidad en la desambiguación de cláusulas de relativo con doble antecedente en portugués europeo (PE). El estudio de cómo resuelve el procesador este tipo de ambigüedades ha sido objeto de gran interés en la investigación; sin embargo, en PE ésta ha sido escasa y poco consistente. Además, dado que la literatura más reciente ha destacado la relevancia de variables extrasintácticas en este proceso, se realizaron dos estudios con el objetivo de evaluar las estrategias de adjunción en PE manipulando la animacidad de los nombres del sintagma nominal complejo. En el estudio 1 se empleó una tarea de compleción de frases y en el estudio 2 una tarea de lectura autoadministrada. En ambos, los resultados revelaron una preferencia significativa por la estrategia de adjunción alta. No obstante, el tipo de estrategia fue modulado por la animacidad de los nombres, de manera que se prefirió la estrategia de adjunción baja cuando el primer nombre era inanimado y el segundo animado. Estos resultados arrojan luz sobre el uso de estas estrategias en PE y parecen apoyar la idea de que, en fases relativamente tempranas del procesamiento, el procesador atiende a información no exclusivamente sintáctica (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);22(4): 691-696, 2010. tab, ilus</dc:source>
+<dc:identifier>ibc-82521</dc:identifier>
+<dc:title xml:lang="es">El papel de la animacidad en la resolución de ambigüedades sintácticas en portugués europeo: evidencia en tareas de producción y comprensión</dc:title>
+<dc:subject>^d12015^s22019</dc:subject>
+<dc:subject>^d12010</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d12015^s22039</dc:subject>
+<dc:subject>^d35416</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d13041^s22048</dc:subject>
+<dc:subject>^d5857</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d28608^s22074</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201000</dc:date>
+</metadata>
+</record>
+</ibecs-document>

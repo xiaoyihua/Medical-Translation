@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-61255</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Population-based versus hospital-based controls: are they comparable?</dc:title>
+<dc:description xml:lang="en">Objective: To compare whether there are differences amonghospital and population controls.Methods: Two case-control studies were conducted on lungcancer risk factors in the Santiago de Compostela PublicHealth District. Whereas one used randomly chosen censusbasedpopulation controls, the other used consecutive hospitalcontrols that went to the reference hospital for non-smoking-related trivial interventions. The differences were analyzedusing logistic regression. The dependent variable was type ofcontrol (hospital or population).Results: Hospital controls had a similar tobacco habit thanpopulation controls, but consumed more alcohol. For those consumingmore than 50 ml daily, the risk of being a hospital controlwas 4.83 (95%CI: 2.55-9.14).Conclusions: There may be some differences between hospitaland population-based controls, which must be taken intoaccount in the design of case-control studies. It is necessaryto ascertain whether such differences are reproduced at othergeographic locations and whether they can affect estimationof exposure-disease(AU)</dc:description>
+<dc:creator>Ruano-Ravina, Alberto</dc:creator>
+<dc:creator>Barros-Dios, Juan Miguel</dc:creator>
+<dc:creator>Pérez-Ríos, Mónica</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objetivo: Comparar si hay diferencias entre los controles poblacionalesy los hospitalarios.Métodos: Se llevaron a cabo dos estudios de casos y controlessobre factores de riesgo de cáncer de pulmón en el ÁreaSanitaria de Santiago de Compostela. En uno de los estudioslos controles fueron seleccionados aleatoriamente entre la poblacióngeneral, y en el otro los controles hospitalarios fueronincluidos de manera consecutiva entre los individuos queacudían al hospital por intervenciones quirúrgicas banales norelacionadas con el consumo de tabaco. Las diferencias fueronanalizadas mediante regresión logística. La variable dependientefue el tipo de control (hospitalario o poblacional).Resultados: Los controles hospitalarios y los poblacionalestenían un hábito tabáquico similar, pero los controles hospitalariosconsumían más alcohol. Para los que consumían másde 50 ml al día, el riesgo de ser un control hospitalario fuede 4,83 (intervalo de confianza del 95%: 2,55-9,14).Conclusiones: Podría haber algunas diferencias entre los controlespoblacionales y los hospitalarios que deberían tenerseen cuenta cuando se diseñe un estudio de casos y controles.Es necesario saber si esas diferencias son similares enotras áreas geográficas y si podrían afectar a la estimaciónde las medidas de efecto entre exposición y enfermedad(AU)</dc:description>
+<dc:source>Gac Sanit;22(6): 609-613, nov.-dic. 2008. tab</dc:source>
+<dc:identifier>ibc-61255</dc:identifier>
+<dc:title xml:lang="es">Controles poblaciones frente a controles hospitalarios: ¿son comparables?</dc:title>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d24535</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23925^s22080</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d28572</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24551</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d440^s22080</dc:subject>
+<dc:subject>^d28441^s22083</dc:subject>
+<dc:subject>^d28441^s22066</dc:subject>
+<dc:subject>^d28441^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200812</dc:date>
+</metadata>
+</record>
+</ibecs-document>

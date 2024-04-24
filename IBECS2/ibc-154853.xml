@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-154853</identifier>
+<setSpec>2173-2345</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Comparison between two automated chemiluminescence immunoassays for quantifying 25 (OH) vitamin D</dc:title>
+<dc:description xml:lang="en">Introduction: Quantifying total blood 25 (OH) vitamin D is the most accurate marker of an individual&#146;s vitamin D status. The gold standard technique for measurement is liquid chromatography tandem mass spectrometry (LC-MS/MS), although currently clinical laboratories tend to use chemiluminescence techniques. The objective of this study was to compare 25 (OH) vitamin D concentrations obtained by two commercially-produced automated methods and study the correlation of these methods with the LC-MS/MS reference technique. Material and methods: The 25(OH) vitamin D levels were quantified in 1,000 serum samples from the Jimenez Diaz Biochemistry Foundation Laboratory using 2 automated methods for chemiluminescence detection: ADVIA CENTAURO® (SIEMENS) and LUMIPULSE® G1200 (Fujirebio). Among all the samples tested, the 50 most discordant to each other were sent to be evaluated by LC-MS/MS reference technique. Results: The results indicate that there is good correlation between the two methods: CCI=0.923 (0.914-0.932), with the G1200 LUMIPULSE® values 10% being higher than CENTAURO®. Regarding the 50 samples selected, we can see that there is a good correlation between the two immunoassays with LC-MS/MS, although both methods significantly underestimate 25 (OH) vitamin D results with respect to the gold standard. Discussion: Although both techniques are suitable for use, it is worth considering whether the worldwide vitamin D deficiency epidemic is due to the analysis methodology used. This variability between immunoassays could be solved by standardizing the different commercial techniques in line with NIST produced reference materials (AU)</dc:description>
+<dc:creator>Alonso, I</dc:creator>
+<dc:creator>Piedra, C de la</dc:creator>
+<dc:creator>Torrubia, B</dc:creator>
+<dc:creator>Mahillo, I</dc:creator>
+<dc:creator>López-Ramiro, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: La cuantificación de 25(OH) vitamina D total en sangre es el marcador más preciso del estado de vitamina D en un individuo. La técnica patrón-oro para su medición es la cromatografía líquida/ espectrometría de masas en tándem (LC-MS/MS), aunque actualmente los laboratorios clínicos utilizan de rutina técnicas de quimioluminiscencia. El objetivo del estudio fue comparar las concentraciones de 25(OH) vitamina D obtenidas mediante dos métodos automatizados comerciales y estudiar la correlación de dichos métodos con la técnica de referencia LC-MS/MS.  Material y método: Se cuantificaron los niveles de 25(OH) vitamina D en 1.000 muestras de suero del laboratorio de Bioquímica de la Fundación Jiménez Díaz mediante 2 métodos automatizados comerciales por detección de quimioluminiscencia: ADVIA CENTAURO® (SIEMENS) y LUMIPULSE® G1200 (FUJIREBIO). Entre todas las muestras analizadas, las 50 más discordantes entre sí se enviaron para ser evaluadas por la técnica de referencia LC-MS/MS. Resultados: Los resultados obtenidos indican que existe una buena correlación entre los dos métodos: CCI=0,923 (0,914-0,932), siendo los valores de LUMIPULSE® G1200 un 10% superiores a los de CENTAURO ®. Con respecto a las 50 muestras seleccionadas, podemos observar que existe una buena correlación entre los dos inmunoensayos con la técnica LC-MS/MS, aunque ambos métodos infraestiman considerablemente los resultados de 25(OH) vitamina D con respecto al patrón-oro.  Discusión: Aunque ambas técnicas son adecuadas para su utilización, habría que plantearse si la «epidemia» mundial de hipovitaminosis D se debe a la metodología de análisis utilizada. Esta variabilidad entre inmunoensayos se solucionaría estandarizando las diferentes técnicas comerciales con los materiales de referencia elaborados por el NIST (AU)</dc:description>
+<dc:source>Rev. osteoporos. metab. miner. (Internet);8(2): 70-74, abr.-jun. 2016. graf</dc:source>
+<dc:identifier>ibc-154853</dc:identifier>
+<dc:title xml:lang="es">Comparación entre dos inmunoensayos automatizados por quimioluminiscencia para la cuantificación de 25(OH) vitamina D</dc:title>
+<dc:subject>^d15208^s22073</dc:subject>
+<dc:subject>^d33124^s22074</dc:subject>
+<dc:subject>^d33124^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d2902^s22045</dc:subject>
+<dc:subject>^d8338^s22045</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d2902^s22074</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d8338^s22074</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201606</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-36332</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The biophysical foundations of the localisation of encephalogram generators in the brain. The application of a distribution-type model to the localisation of epileptic foci</dc:title>
+<dc:description xml:lang="en">Introduction. The brain electrical activity measured as the EEG signal is a powerful tool for the understanding of normal and pathological brain function. The EEG presents a high temporal resolution but a low spatial resolution. The latter can be improved solving the so-called inverse problem, if some a priori physiological and anatomical information is included. Development. The present review presents the biophysical bases that allows brain source localization in realistic head models, as well as the two basic source models used: dipolar models and distributed source models. Finally, an example of practical application for the localization of epileptic focus using the distributed solution EPIFOCUS will be presented (AU)</dc:description>
+<dc:publisher>César Viguera</dc:publisher>
+<dc:description xml:lang="es">Introducción. La actividad eléctrica del cerebro, medida como señal de electroencefalograma (EEG) es todavía una herramienta valiosa para la comprensión del funcionamiento cerebral en situación normal y patológica. El EEG presenta una alta resolución temporal y una relativamente baja resolución espacial. Esta última puede mejorarse notablemente a partir de una solución al problema inverso con la inclusión de información a priori de origen anatómico y fisiológico. Desarrollo. El presente artículo de revisión presenta las bases biofísicas que permiten la localización de fuentes cerebrales basadas en modelos realistas de la cabeza, así como la descripción de los dos modelos de fuentes usados: modelos dipolares y modelos de soluciones distribuidas. Finalmente, se presenta un ejemplo de la aplicación de la técnica de solución distribuida denominada EPIFOCUS a la localización de focos epilépticos (AU)</dc:description>
+<dc:source>Rev Neurol;39(8): 748-756, oct. 2004. ilus</dc:source>
+<dc:title xml:lang="es">Bases biofísicas de la localización de los generadores cerebrales del electroencefalograma. Aplicación de un modelo de tipo distribuido a la localización de focos epilépticos</dc:title>
+<dc:type>article</dc:type>
+<dc:creator>González Andino, S</dc:creator>
+<dc:creator>Gómez González, CM</dc:creator>
+<dc:creator>Grave de Peralta, R</dc:creator>
+<dc:language>es</dc:language>
+<dc:identifier>ibc-36332</dc:identifier>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d9149</dc:subject>
+<dc:subject>^d4907</dc:subject>
+<dc:subject>^d4641</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9143</dc:subject>
+<dc:subject>^d14065</dc:subject>
+<dc:subject>^d1957</dc:subject>
+<dc:date>200410</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-165627</identifier>
+<setSpec>0212-9728</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">An investigation of enhancement of ability evaluation by using a nested logit model for multiple-choice items</dc:title>
+<dc:description xml:lang="en">Multiple-choice items are wildly used in psychological and educational test. The present study investigated that if a multiple-choice item have an advantage over a dichotomous item on ability or latent trait evaluation. An item response model, 2-parameter logistic nested logit model (2PL-NLM), was used to fit the multiple-choice data. Both simulation study and empirical study indicated that the accuracy and the stability of ability estimation were enhanced by using multiple-choice model rather than dichotomous model, because more information was included in multiple-choice items&#146; distractors. But the accuracy of ability estimation showed little differences in four-choice items, five-choice items and sixchoice items. Moreover, 2PL-NLM could extract more information from low-level respondents than from high-level ones, because they had more distractor chosen behaviors. In the empirical study, respondents at different trait levels would be attracted by different distractors from the Chinese Vocabulary Test for Grade 1 by using the changing traces of distractor probabilities calculated from 2PL-NLM. It is suggested that the responses of students at different levels could reflect the students&#146; vocabulary development process (AU)</dc:description>
+<dc:creator>Tao, Xin</dc:creator>
+<dc:creator>Tour, Liu</dc:creator>
+<dc:creator>Mengcheng, Wang</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Los items de elección múltiple se han usado ampliamente en tests psicológicos y educativos. Este estudio investiga si los items de elección múltiple tiene ventajas sobre los items dicotómicos o sobre la evaluación de rasgo latente. Un modelo de respuesta al item, con un modelo logit anidado, logístico 2-parámetros (2PL-NKM), fue usado para ajustar los datos de elección múltiple. Los estudios de simulación y empíricos indicaron que la precisión y la estabilidad de la estimación de capacidad mejoró usando el modelo de elección múltiple en contraposición al modelo dicotómico, debido a la mayor información incluida en los items distractores de la elección múltiple. Pero la precisión y la capacidad de estimación mostró peque- ñas diferencias en items de cuatro elecciones, cinco y seis elecciones. Además, el modelo 2PL-NLM puede extraer más información respondientes de bajo nivel que de los de alto nivel, debido a que tienen conductas de elección con más distractores. En el estudio empírico, los respondientes en diferentes niveles de rasgo fueron atraídos por diferentes distractrores del Test de Vocabulario chino en el primer grado, usando trazos cambiantes en la probabilidad de distractor a partir de 2PL-NLM. Esto sugiere que las respuestas de los estudiantes a diferentes niveles puede reflejar un proceso evolutivo de vocabulario en los estudiantes (AU)</dc:description>
+<dc:source>An. psicol;33(3): 530-537, oct. 2017. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-165627</dc:identifier>
+<dc:title xml:lang="es">Una investigación de la mejora de la capacidad de evaluación mediante el uso de un modelo logit anidado para items de elección múltiple</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28575</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:subject>^d12018^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201710</dc:date>
+</metadata>
+</record>
+</ibecs-document>

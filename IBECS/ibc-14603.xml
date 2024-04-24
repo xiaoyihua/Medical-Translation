@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-14603</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Regression toward the mean associated with extreme groups and the evaluation of improvement</dc:title>
+<dc:description xml:lang="en">Regression toward the mean effect (tendency of extreme data to resemble their mean when measurements are repeated) threatened internal validity when, in a group of extreme subjects, we attempted to test whether pre/post difference in values is due to our intervention. We are still unaware how and how much it affects: a) as a function of selection value, and b) statistical testing. This study demonstrates detection, measurement and correction of the effect. Its objective was achieved through a simulation of extreme groups, measured before and after a null treatment. The effect was measured by comparing simulated with assumed sample distribution. Correction was made by calculating the value of the alpha of the testing of the null hypothesis needed to cancel out the effect (AU)</dc:description>
+<dc:creator>León, Orfelio</dc:creator>
+<dc:creator>Suero, Manuel</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">El efecto de regresión a la media (tendencia de los datos extremos a parecerse a su media cuando se repiten las mediaciones) se convierte en una amenaza a la validez interna cuando, en un grupo de sujetos extremos, tratamos de probar que la diferencia entre valores pre y post se debe nuestra intervención. Hasta ahora no sabemos cómo y cuánto afecta, en función de la selección del grupo y sobre el contraste estadístico. En el presente trabajo se muestra cómo se puede detectar, medir y corregir. El objetivo se llevó a cabo mediante simulación de grupos extremos, medidos antes y después de una intervención nula. La medición del efecto se hizo comparando la distribución muestral simulada con la supuesta. La corrección se hizo calculando cuánto debía valer el alfa del contraste de la hipótesis nula para anular el efecto (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);12(1): 145-149, feb. 2000. tab, graf</dc:source>
+<dc:identifier>ibc-14603</dc:identifier>
+<dc:title xml:lang="es">Regresión a la media en la selección de grupos extremos y la valoración del cambio</dc:title>
+<dc:subject>^d16843</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:subject>^d24872</dc:subject>
+<dc:subject>^d10572</dc:subject>
+<dc:subject>^d24551</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200002</dc:date>
+</metadata>
+</record>
+</ibecs-document>

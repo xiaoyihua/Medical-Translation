@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-60553</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Resistance to darunavir</dc:title>
+<dc:description xml:lang="en">The resistance profile of darunavir (DRV) was initiallyexplored using pooled week 24 data from POWER 1, 2, and3 at the recommended dose of DRV (n=467) with thesubsequent addition of data from the placebo arm withoutetravirine (ETR) of DUET 1 and 2 (n=604). The twostrongest predictors of virological response were firstlybaseline phenotype expressed as the darunavir foldchange in 50% effective concentration (EC50), withphenotypic clinical cut-offs of 10 and 40 being establishedfor diminished response and loss of response, respectively,and secondly, the DRV score 2006 of 11 mutations in 10positions: V11I, V32I, L33F, I47V, I50V, I54L, I54M, G73S,L76V, I84V and L89V, recently revised (DRV score 2007)with removal of G73S and addition of T74P. The presenceof three or more mutations was associated with adiminished virological response in both the 2006 and 2007lists but slightly better prediction was observed with the2007 list. Each of the above-mentioned mutations wasassociated with a mean of at least 10 mutations of theInternational AIDS Society&#146;s (IAS) list. Moreover, goodgenophenotypic correlation was found, corroborating aprogressive reduction in fold change with the progressiveaccumulation of mutations from both lists. Inmultiresistant patients in the POWER and DUET studies,the most commonly selected mutations upon DRV failurewere those in the DRV score, especially V32I and I54L.Similar mutations were selected by patients from TITAN,who showed a much lower level of resistance; however,these mutations were selected much less frequently in thefew virological failures described. Furthermore, virologicalfailure and mutations were much less frequent in the DRVarm than in the lopinavir arm. Lastly, no proteasemutations were found upon DRV failure in treatment-naivepatients in the ARTEMIS study, an effect already known inenhanced proteases, but also more accentuated in DRVthan in lopinavir(AU)</dc:description>
+<dc:creator>García Deltoro, Miguel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En cuanto a las mutaciones seleccionadas al fallo a DRV, en los pacientes multirresistentes de los estudios POWER y DUET se describen también mayoritariamente las del DRV score sobre todo la pareja V32I e I54L; comparativamente los pacientes del estudio TITAN con un menor nivel de resistencia seleccionan mutaciones similares pero de manera muy escasa en los pocos fallos virológicos descritos, muchos menos fallos y menos mutaciones que la rama de lopinavir (LPV); por último, no aparece ninguna mutación en la proteasa de fracasos a DRV en pacientes naïve (estudio ARTEMIS), efecto ya conocido del grupo de inhibidores de la proteasa potenciados, pero también más acentuado para DRV frente a LPV(AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;26(supl.10): 51-60, oct. 2008. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-60553</dc:identifier>
+<dc:title xml:lang="es">Resistencias a darunavir</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d38332^s22079</dc:subject>
+<dc:subject>^d24718^s22057</dc:subject>
+<dc:subject>^d11924^s22079</dc:subject>
+<dc:subject>^d29416^s22021</dc:subject>
+<dc:subject>^d9346</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d36326</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200810</dc:date>
+</metadata>
+</record>
+</ibecs-document>

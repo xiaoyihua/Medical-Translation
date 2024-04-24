@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-159576</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prediction of severe course in infants with RSV Bronchiolitis under 6 months. Spain</dc:title>
+<dc:description xml:lang="en">Background. The need for mechanical ventilation (MV) in acute bronchiolitis (AB) by respiratory syncytial virus (RSV) varies depending on the series (6-18%). Our goal is to determine the admissions to PICU for MV in patients under 6 months with AB and define the risk factors for building a prediction model. Methods. Retrospective study of patients younger than 6 months admitted by BA-VRS between the periods April 1, 2010 and March 31, 2015 was made. The primary variable was the admission to PICU for MV. Related addition, to find risk factors in a model of binary logistic regression clinical variables were collected. A ROC curve model was developed and optimal cutoff point was identified. Results. In 695 cases, the need of MV in the PICU was 56 (8.1%). Risk factors included in the equation were: 1. male sex (OR 4.27) 2. postmenstrual age (OR: 0.76) 3. Weight income &lt;p3 (OR: 5.53) 4. intake &lt;50% (OR: 12.4) 5. Severity by scale (OR: 1.58) 6. apneas before admission (OR: 25.5) 7. bacterial superinfection (OR 5.03) and 8. gestational age&gt; 37 weeks OR (0.32). The area under the curve, sensitivity and specificity were 0.943, 0.84 and 0.93 respectively. Conclusions. The PICU admission for MV was 8.1 in every 100 healthy infants hospitalized for AB and year. The prediction model equation can help to predict patients at increased risk of severe evolution (AU)</dc:description>
+<dc:creator>Ramos-Fernández, José Miguel</dc:creator>
+<dc:creator>Moreno-Pérez, David</dc:creator>
+<dc:creator>Milano-Manso, Guillermo</dc:creator>
+<dc:creator>Gutiérrez-Bedmar, Mario</dc:creator>
+<dc:creator>Cordón-Martínez, Ana María</dc:creator>
+<dc:creator>Urda-Cardona, Antonio</dc:creator>
+<dc:creator>Hernández-Yuste, Alexandra</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamentos. La necesidad de ventilación mecánica (VM) en la bronquiolitis aguda por el virus respiratorio sincitial (VRS) varía según las series entre el 6 y el 18 %. Nuestro objetivo fue conocer los ingresos en la unidad de cuidados intensivos para VM de pacientes con bronquiolitis aguda menores de 6 meses y definir los factores de riesgo con el fin de construir un modelo de predicción. Método. Estudio retrospectivo de pacientes menores de 6 meses ingresados por bronquiolitis aguda por VRS entre los periodos 1 de abril de 2010 y 31 de marzo de 2015. La variable principal fue el ingreso en la unidad de cuidados intensivos pediátricos para ventilación mecánica. Además, se recogieron variables clínicas relacionadas para hallar factores de riesgo en un modelo de regresión logística binaria. Con el modelo se elaboró una curva ROC y se identificó un punto óptimo de corte. Resultados. De 695 casos, precisaron VM en unidad pediátrica de cuidados intensivos 56 (8,1%). Los factores de riesgo) incluidos en la ecuación fueron: 1. Sexo varón (OR: 4,27) 2. Edad postmenstrual (OR:0,76) 3. Peso al ingreso &lt;p3(OR: 5,53) 4. Ingesta &lt;50% (OR:12,4), 5. Gravedad por escala (OR:1,58), 6. Apneas antes del ingreso (OR:25,5) 7. Sobreinfección bacteriana (OR: 5,03) y 8. Edad gestacional &gt;37 semanas OR (0,32). El área bajo la curva, sensibilidad y especificidad fueron 0,943; 0,84 y 0,93 respectivamente. Conclusiones. Los ingresos en UCIP para VM fueron 8,1 por cada 100 lactantes sanos hospitalizados por BA y año. La ecuación elaborada del modelo de predicción puede ser de ayuda para predecir los pacientes con mayor riesgo de evolución grave (AU)</dc:description>
+<dc:source>Rev Esp Salud Publica;91: 0-0, 2017. tab, graf</dc:source>
+<dc:identifier>ibc-159576</dc:identifier>
+<dc:title xml:lang="es">Predicción de la evolución de la bronquiolitis por virus respiratorio sincitial en lactantes menores de 6 meses</dc:title>
+<dc:subject>^d7399</dc:subject>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d12556^s22001</dc:subject>
+<dc:subject>^d31081^s22038</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d5678</dc:subject>
+<dc:subject>^d31081^s22001</dc:subject>
+<dc:subject>^d35385^s22038</dc:subject>
+<dc:subject>^d12541^s22039</dc:subject>
+<dc:subject>^d12541^s22045</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22851^s22080</dc:subject>
+<dc:subject>^d23844^s22080</dc:subject>
+<dc:subject>^d12556^s22038</dc:subject>
+<dc:subject>^d22851^s22054</dc:subject>
+<dc:subject>^d23844^s22012</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201700</dc:date>
+</metadata>
+</record>
+</ibecs-document>

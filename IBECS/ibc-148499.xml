@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-148499</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Diagnostic usefulness of procalcitonin and C-reactive protein in the Emergency Department for predicting bacterial meningitis in the elderly</dc:title>
+<dc:description xml:lang="en">Objectives: To analyse and compare procalcitonin (PCT) and C-reactive protein (CRP) as tools for detecting bacterial meningitis (BM) in the elderly (&gt; 74 years of age). Methods: A prospective, observational, descriptive, analytical study of 220 consecutive patients aged &amp;#8805; 1 year and diagnosed with acute meningitis in an emergency department between September 2009 and July 2014. Results: A total of 220 patients (136 [62%] male) were studied. The mean age was 30 ± 26 years, with BM being diagnosed in 17/83 patients from 1 to 14 years of age, 32/111 from 15 to 74 years of age, and 17/26 patients &amp;#8805; 75 years of age. PCT had the highest area under the receiver operating characteristic curve (AUC) (0.972; 95% CI, 0.946-0,998; P &lt; .001) to predict bacterial meningitis. With a cut-off of &amp;#8805; 0.52 ng/mL, PCT achieved 93% sensitivity and 86% specificity, and for patients over 75 years of age 96% sensitivity and 75% specificity, with the same AUC (0.972). The AUC for CRP was 0.888, and a &amp;#8805; 54,4 mg/L cut-off achieved 91% sensitivity and 78% specificity, and for patients over 75 years of age an AUC of only 0.514 achieved with 97% sensitivity and 43% specificity. Conclusions: For all patients with acute meningitis in the emergency department, PCT has a high diagnostic power, outperforming CRP and Leukocytes for detection of bacterial etiology, but CPR is of not useful in the elderly (AU)</dc:description>
+<dc:creator>Valente-Rodríguez, Eder</dc:creator>
+<dc:creator>Morales-Casado, María Isabel</dc:creator>
+<dc:creator>Moreno-Alonso, Fernando</dc:creator>
+<dc:creator>López-Muñoz, Diego</dc:creator>
+<dc:creator>Saura-Montalbán, José</dc:creator>
+<dc:creator>Cuena-Boy, Rafael</dc:creator>
+<dc:creator>Julián-Jiménez, Agustín</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Analizar y comparar la capacidad de la procalcitonina (PCT) y la proteína C reactiva (PCR) para detectar meningitis bacteriana (MB) en los ancianos (mayores de 74 años). Métodos: Estudio observacional, prospectivo, descriptivo y analítico de pacientes &amp;#8805; 1 año diagnosticados de meningitis aguda (MA) en un servicio de urgencias (SU) desde septiembre de 2009 hasta julio de 2014. Resultados: Se incluyeron 220 casos diagnosticados de MA con una edad media de 30 ± 26 años, el 62% varones (136). De ellos, 83 pacientes de 1-14 años (17 con MB), 111 pacientes de 15-74 años (32 con MB) y 26 casos &amp;#8805; 75 años (17 con MB). Para predecir MB la PCT obtiene la mayor área bajo la curva ROC (ABC-ROC), de 0,972 (IC 95%: 0,946-0,998, p &lt; 0,001), y con un punto de corte &amp;#8805; 0,52 ng/ml se consigue una sensibilidad del 93% y una especificidad del 86%, y para los pacientes &amp;#8805; 75 años una sensibilidad del 96% y una especificidad del 75% con el mismo ABC-ROC de 0,972. La PCR consigue un ABC-ROC de 0,888 y con punto de corte &amp;#8805; 54,4 mg/l una sensibilidad de 91% y una especificidad de 78%, y para los pacientes &amp;#8805; 75 años solo un ABC-ROC de 0,514 con una sensibilidad de 97% y una especificidad del 43%. Conclusiones: En todos los pacientes con MA en SU la PCT consigue un gran rendimiento diagnóstico para sospechar la etiología bacteriana, mayor que la PCR y leucocitos. Además, en los pacientes ancianos la PCR no tiene utilidad (AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;34(1): 8-16, ene. 2016. tab, graf</dc:source>
+<dc:identifier>ibc-148499</dc:identifier>
+<dc:title xml:lang="es">Rendimiento diagnóstico de la procalcitonina y la proteína C reactiva para predecir meningitis bacteriana en los ancianos en urgencias</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d29989^s22016</dc:subject>
+<dc:subject>^d23568^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d28575</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d22124^s22002</dc:subject>
+<dc:subject>^d4707^s22083</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d29989^s22032</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d22372^s22002</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201601</dc:date>
+</metadata>
+</record>
+</ibecs-document>

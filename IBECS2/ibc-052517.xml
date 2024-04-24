@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-052517</identifier>
+<setSpec>1575-0922</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Comparison of genotype frequencies deviating from Hardy-Weinberg equilibrium</dc:title>
+<dc:description xml:lang="en">Biomolecular epidemiology studies are becoming increasingly common, both in case series and populations. However, not all these studies use appropriate methodology to confirm the results. This occurs, for example, with the use of Hardy-Weinberg equilibrium of polymorphic distribution, an evaluation which is required before starting any type of genetic study. Little consideration has been given to this question. In this article we discuss the use of Hardy-Weinberg equilibrium and suggest guidelines that should be followed for correct data interpretation and beneficial use of this tool for verifying equilibrium (AU)</dc:description>
+<dc:creator>Soriguer, Federico</dc:creator>
+<dc:creator>Morcillo, Sonsoles</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La epidemiología biomolecular es un instrumento utilizado con creciente frecuencia tanto en los estudios de series de casos como en los estudios de poblaciones. Sin embargo, el uso adecuado de la metodología de este tipo de estudios dista mucho de haberse generalizado, y no es infrecuente la publicación de trabajos en los que el rigor metodológico es escaso, como ocurre con el uso del ajuste al equilibrio de Hardy-Weinberg de una distribución polimórfica cuya evaluación es una condición necesaria previa a cualquier tipo de estudio genético. La reflexión sobre esta cuestión en la literatura médica es escasa, por lo que nos ha parecido interesante reflexionar sobre este tema a la vez que sugerimos algunas pautas a seguir para una correcta interpretación de los datos y un buen uso de herramientas como el cálculo del equilibrio de Hardy-Weinberg (AU)</dc:description>
+<dc:source>Endocrinol Nutr;54(3): 169-173, mar. 2007.</dc:source>
+<dc:identifier>ibc-052517</dc:identifier>
+<dc:title xml:lang="es">¿Qué hacer cuando en los estudios de epidemiología biomolecular la distribución genotípica no se ajusta al equilibrio de Hardy-Weinberg?</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d5928</dc:subject>
+<dc:subject>^d9147</dc:subject>
+<dc:subject>^d11547</dc:subject>
+<dc:subject>^d5974</dc:subject>
+<dc:subject>^d31481^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200703</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-142035</identifier>
+<setSpec>1138-3593</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Mortality among the sulphonylureas</dc:title>
+<dc:description xml:lang="en">No disponible</dc:description>
+<dc:creator>Seguí Díaz, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamento: Las sulfonilureas (SU) son una opción terapéutica en segunda intención (cuando la metformina [MET] no se puede utilizar), o en el segundo nivel, en asociación con MET. Sin embargo, estos antidiabéticos orales (ADO) están asociados con un alto riesgo de eventos cardiovasculares (ECV) en comparación con otros ADO. La sensibilidad tisular y el riesgo de hipoglucemia son distintos según la SU, por ello esta revisión en forma de metaanálisis intenta evaluar si la mortalidad y el riesgo cardiovascular son diferentes según la molécula. Métodos: Para ello se buscó en Medline y en Embase, hasta el 11 de junio de 2014, estudios controlados que evaluaran el riesgo de muerte por cualquier causa (MCC), de muerte cardiovascular (MCV), o por infarto agudo de miocardio (IAM) entre al menos 2 SU. Se examinaron las diferencias entre el riesgo de ECV y SU utilizando modelos de efectos aleatorios con comparación directa por pares en una red de metaanálisis que incorporara datos directos e indirectos. Resultados: En 18 estudios evaluados, con un total de 167.327 pacientes, 14.970 murieron (9%); 841 (4%) de 19.334 que utilizaban gliclazida, 5.482 (11%) de 49.389 con glimepirida, 2.106 (15%) de 14.464 con glipizida; 5.296 (7%) de 77.169 con glibenclamida; 1.066 (17%) de 6.187 con tolbutamida y, por último, 179 (23%) de 784 con clorpropamida. Hubo una baja inconsistencia en la red de metaanálisis referente a la MCC y al riesgo relativo (RR) de muerte en relación con glibenclamida, que fue de 0,65 (IC 95% 0,53-0,79) para gliclazida, de 0,83 (IC 95% 0,68-1,00) para glimepirida, de 0,98 (IC 95% 0,80-1,19) para glipizida, de 1,13 (IC 95% 0,90-1·,42) para tolbutamida, y de 1,34 (IC 95% 0,98-1,86) para clorpropamida. Parecidas asociaciones se dieron en la MCV, de tal manera que el RR en comparación con glibenclamida fue de 0,60 (IC 95% 0,45-0,84) para gliclazida; de 0,79 (IC 95% 0,57-1,11) para glimepirida, de 1,01 (IC 95% 0,72-1,43) para glipizida, de 1,11 (IC 95%0,79-1,55) para tolbutamida, y de 1,45 (IC 95% 0,88-2,44) para clorpropamida. Conclusión: Concluyen que gliclazida y glimepirida se asociaron con un menor riesgo de MCC y MCV en comparación con glibenclamida. Con ello, se aconseja que los médicos consideren las diferencias en el riesgo de mortalidad entre las SU para seleccionar cuál deben prescribir (AU)</dc:description>
+<dc:source>SEMERGEN, Soc. Esp. Med. Rural Gen. (Ed. Impr.);41(7): 393-394, oct. 2015.</dc:source>
+<dc:identifier>ibc-142035</dc:identifier>
+<dc:title xml:lang="es">La mortalidad entre las sulfonilureas</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28632^s22066</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d2359^s22047</dc:subject>
+<dc:subject>^d30338^s22073</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d13841^s22079</dc:subject>
+<dc:subject>^d13841^s22044</dc:subject>
+<dc:subject>^d13841^s22073</dc:subject>
+<dc:subject>^d14433^s22073</dc:subject>
+<dc:subject>^d55320^s22021</dc:subject>
+<dc:subject>^d6056^s22073</dc:subject>
+<dc:subject>^d6049^s22073</dc:subject>
+<dc:subject>^d2799^s22073</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201510</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-165605</identifier>
+<setSpec>0211-139X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Predictive factors of functional decline at hospital discharge in elderly patients hospitalised due to acute illness</dc:title>
+<dc:description xml:lang="en">Objective: To compare baseline characteristics and those found during hospitalisation as predictors of functional decline at discharge (FDd) in elderly patients hospitalised due to acute illness. Material and method: A review was made of the computerized records of patients admitted to a Geriatric Acute Unit of a tertiary hospital over a 10 year period. A record was made of demographic, clinical, functional and health-care variables. Functional decline at discharge (FDd) was defined by the difference between the previous Barthel Index (pBI) and the discharge Barthel Index (dBI). The percentage of FDd (%FDd=(pBI&amp;#8722;dBI/pBI)×100) was calculated. The variables associated with greater %FDd in the bivariate analysis were included in multivariate logistic regression models. The predictive capacity of each model was assessed using the area under the ROC curve. Results: The factors associated with greater %FDd were advanced age, female gender, to live in a nursing home, cognitive impairment, better baseline functional status and worse functional status at admission, number of diagnoses, and prolonged stay. The area under the ROC curve for the predictive models of %FDd was 0.638 (95% CI: 0.615-0.662) based on the previous situation, 0.756 (95% CI: 0.736-0.776) based on the situation during admission, and 0.952 (95% CI: 0.944-0.959) based on a combination of these factors. Conclusions: The overall assessment of patient characteristics, both during admission and baseline, may have greater value in prediction of FDd than analysis of factors separately in elderly patients hospitalised due to acute illness (AU)</dc:description>
+<dc:creator>Díez Sebastián, Jesús</dc:creator>
+<dc:creator>González Montalvo, Juan Ignacio</dc:creator>
+<dc:creator>Menéndez Colino, Rocío</dc:creator>
+<dc:creator>Condorhuamán Alvarado, Patricia Ysabel</dc:creator>
+<dc:creator>Alarcón, Teresa</dc:creator>
+<dc:creator>Mauleón Ladrero, Coro</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Comparar las características basales y las encontradas durante la hospitalización como predictores de pérdida funcional al alta (PFa) en ancianos hospitalizados por enfermedad aguda. Material y métodos: Se revisaron los registros informatizados de los pacientes ingresados en una Unidad de Agudos de Geriatría de un hospital terciario durante 10 años. Se incluyeron variables demográficas, clínicas, funcionales y asistenciales. Se definió la PFa mediante la diferencia entre el índice de Barthel basal (IBp) y al alta (IBa). Se calculó el porcentaje de PFa (%PFa=(IBp&amp;#8722;IBa/IBp)x100). Las variables asociadas a mayor %PFa en el análisis bivariante se incluyeron en modelos multivariantes de regresión logística. La capacidad predictiva de cada modelo se evaluó mediante el área bajo la curva ROC. Resultados: Los factores asociados a mayor %PFa fueron la edad avanzada, el sexo femenino, provenir de residencia, un mayor deterioro cognitivo previo y al ingreso, una mejor situación funcional previa, una peor situación funcional al ingreso, un mayor número de diagnósticos y una estancia prolongada. El área bajo la curva para los modelos predictivos de %PFa fue 0,638 (IC 95%: 0,615-0,662) en el basado en la situación previa; 0,756 (IC 95%: 0,736-0,776) en el basado en la situación durante el ingreso; y 0,952 (IC 95%: 0,944-0,959) en el basado en una combinación de ambas. Conclusiones: La valoración global de las características del paciente tanto basales como durante el ingreso tiene mayor valor en la predicción de PFa que el análisis de los factores por separado en ancianos hospitalizados por enfermedad aguda (AU)</dc:description>
+<dc:source>Rev. esp. geriatr. gerontol. (Ed. impr.);52(5): 253-256, sept.-oct. 2017. tab</dc:source>
+<dc:identifier>ibc-165605</dc:identifier>
+<dc:title xml:lang="es">Factores predictores de pérdida funcional al alta en ancianos hospitalizados por enfermedad aguda</dc:title>
+<dc:subject>^d28940</dc:subject>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d28620</dc:subject>
+<dc:subject>^d26566</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d28614</dc:subject>
+<dc:subject>^d6916^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28561^s22080</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201710</dc:date>
+</metadata>
+</record>
+</ibecs-document>

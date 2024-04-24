@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-046806</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Socioeconomic inequalities in mortality in the Basque Country [Spain]</dc:title>
+<dc:description xml:lang="en">Objectives: To describe socioeconomic inequalities in mortality in the Basque Country, using mortality and socioeconomic data by census sections. Methods: Mortality and population data were obtained from the Basque Institute of Statistics. Socioeconomic characteristics of the census sections were assigned to each death and a deprivation index combining information from four socioeconomic indicators was computed. Age-adjusted mortality rates by sex, age group (0-64 &amp;#8805; 65) and cause of death were calculated for each quintile of the deprivation index. Poisson regression models were fitted to estimate age-adjusted rate ratios and excess mortality attributable to inequalities. Results: Mortality showed a gradient according to the deprivation index in men and women. Mortality was greater in the most deprived sections. Mortality inequalities were observed in men younger than 65 years. A total of 9.3% of deaths in men and 4.9% of those in women were attributable to socioeconomic inequalities. The relative importance of the cause of death differed according to the inequality measure used. Lifestyle-related causes of death were notable. Conclusion: This study illustrates the potential utility of census section socioeconomic indicators both to describe socioeconomic inequalities in mortality and to identify priorities for interventions</dc:description>
+<dc:creator>Esnaola, Santiago</dc:creator>
+<dc:creator>Audicana, Covadonga</dc:creator>
+<dc:creator>Calvo, Montse</dc:creator>
+<dc:creator>Ruiz, Rosa</dc:creator>
+<dc:creator>Pérez, Yolanda</dc:creator>
+<dc:creator>Aldasoro, Elena</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Describir las desigualdades socioeconómicas en la mortalidad en la Comunidad Autónoma del País Vasco, utilizando datos de mortalidad y socioeconómicos por secciones censales. Métodos: Los datos sobre las defunciones y sobre la población fueron obtenidos del Instituto Vasco de Estadística. Se asignó a cada defunción las características socioeconómicas de su sección censal y se construyó un índice de privación que combinaba cuatro indicadores socioeconómicos. Se estimaron tasas de mortalidad ajustadas por edad para cada quintil del índice de privación por sexo, grupo de edad (0-64, &amp;#8805; 65 años) y causa de defunción. Mediante modelos de regresión de Poisson se estimaron las razones de tasas ajustadas por edad y el exceso de mortalidad atribuible a las desigualdades. Resultados: La mortalidad mostró un gradiente según el índice de privación en ambos sexos, siendo la mortalidad mayor en las secciones más desfavorecidas. Las mayores desigualdades se observaron en los varones menores de 65 años. Un 9,3 y un 4,9% de las defunciones en los varones y en las mujeres, respectivamente, fueron atribuibles a las desigualdades socioeconómicas. La importancia relativa de las causas de muerte fue distinta según la medida de desigualdad utilizada, y destacaron las causas relacionadas con los estilos de vida. Conclusiones: Este estudio ilustra la utilidad de los datos por sección censal para describir las desigualdades en la mortalidad y para identificar prioridades de intervención</dc:description>
+<dc:source>Gac Sanit;20(1): 16-24, ene. 2006. tab</dc:source>
+<dc:identifier>ibc-046806</dc:identifier>
+<dc:title xml:lang="es">Desigualdades socioeconómicas en la mortalidad en la Comunidad Autónoma del País Vasco</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d28632^s22066</dc:subject>
+<dc:subject>^d13344</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d13411^s22080</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200601</dc:date>
+</metadata>
+</record>
+</ibecs-document>

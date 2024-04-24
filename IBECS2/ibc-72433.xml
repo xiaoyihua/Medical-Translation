@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-72433</identifier>
+<setSpec>1695-4033</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Usefulness of Clinical Risk Index for Babies based on birth weight in predicting hospital death and severe intraventicular hemorrhage in the SEN 1500 Spanish neonatal network</dc:title>
+<dc:description xml:lang="en">Objective: To evaluate the usefulness of the Clinical Risk Index for Babies (CRIB) in predicting hospital mortality and severe intraventricular hemorrhage (IVH) in very low birth weight infants stratified by weight groups, in the Spanish neonatal network SEN 1500. Patients and methods: A prospective cohort study was made. Morbidity-mortality data and CRIB were collected in newborns weighing below 1500g and admitted to 68 neonatal intensive care units between January 2002 and December 2006. Data were analyzed globally and stratified by weight groups (&lt;501g, 500&#150;750g, 751&#150;1000g, 1001&#150;1250g, 1251&#150;1500g). Multivariate models were generated and ROC curves were plotted for estimating predictive values. Results: A total of 10,608 patients were analyzed. The mean weight was 1116g (SD 267), and gestational age 29.5 weeks (SD 2.9). Low birth weight for gestational age was 34.3% and the multiple birth rate 36%. Prenatal corticoids were given in 78.2%. Severe intraventricular hemorrhage was diagnosed in 8.5%. Gender, prenatal corticoids, birth weight, gestational age and CRIB proved significant for the outcomes. CRIB showed the highest predictive accuracy in all strata (P&lt;0.001) except in the 501&#150;750g group, where it was similar to gestational age. Body weight showed the lowest AUC in all groups, except in the 1251&#150;1500g group, where it was no different to gestational age. Gestational age and CRIB yielded greater AUC values than weight (P&lt;0.001) in all groups. No significant differences were found between CRIB and gestational age, except in the 751&#150;1000g group, where gestational age was greater (P=0.029). Conclusions: The CRIB is the best predictor among newborns below 1500g, except in the 501&#150;750g group, where CRIB is similar to gestational age. Body weight is the worst predictor, except in the group 1251&#150;1500g, where it is similar to gestational age. The accuracies of CRIB and gestational age in the prediction of IVH are similar, and both superior to body weight. This similarity persists in all the groups, except in the 751-1000g interval, where gestational age is a better predictor (AU)</dc:description>
+<dc:creator>Benito Zaballo, F</dc:creator>
+<dc:creator>Fernández, C</dc:creator>
+<dc:creator>Guzmán Cabañas, J. M</dc:creator>
+<dc:creator>Prado, N. del</dc:creator>
+<dc:creator>Párraga Quiles, M. J</dc:creator>
+<dc:creator>Figueras Aloy, J</dc:creator>
+<dc:creator>García del Río, M</dc:creator>
+<dc:creator>Ruíz, M. D</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Evaluar la utilidad del CRIB (Clinical Risk Index for Babies) para predecir la muerte hospitalaria y la hemorragia intraventricular (HIV) grave en recién nacidos (RN) menores de 1.500g estratificados por grupos de peso en la Red Neonatal Española SEN 1500. Pacientes y métodos: Se realizó un estudio de cohortes prospectivo. Se registraron datos de morbimortalidad, incluido el CRIB, en los RN menores de 1.500g de peso ingresados en 68 unidades de cuidados intensivos neonatales desde enero de 2002 a diciembre de 2006. Se analizaron datos globales y datos estratificados por grupos de peso (inferior a 501g, entre 501 y 750g, entre 751 y 1.000g, entre 1.001 y 1.250g y entre 1.251 y 1.500g). Se procesaron modelos multivariados y se elaboraron curvas de eficacia diagnóstica ROC (receiver operating characteristics) para estimar el poder de predicción mediante el AUC (area under the curve &#145;área bajo la curva&#146;). Resultados: Se registraron datos de 10.608 pacientes, de los cuales 6.953 (65,5%) pesaron entre 1.001 y 1.500g, y 3.655 (34,5%) pesaron menos de 1.001g. La media de peso fue de 1.116g (desviación estándar [DE] de 267) y la media de edad gestacional fue de 29,5 semanas (DE de 2,9). El 34,3% fueron de bajo peso para la edad gestacional. Recibió corticoides prenatales el 78,2%. El 36% fueron partos múltiples. Se observaron casos de HIV grave en el 8,5%. La mortalidad global fue del 15,6%. Tanto las variables cualitativas (sexo y corticoides prenatales) como las cuantitativas (peso al nacer, edad gestacional e índice CRIB) resultaron significativas para los 2 desenlaces. El CRIB fue el mejor predictor de mortalidad en todos los estratos de peso (p&lt;0,001), excepto en el intervalo de 501 a 750g en el que no se encontraron diferencias con la edad gestacional (p = 0,648). El peso presentó la menor AUC para todos los grupos, salvo en el de 1.251 a 1.500g, en el que no hubo diferencia entre peso y edad gestacional (p = 0,519).En la predicción de HIV grave, edad gestacional y CRIB presentaron capacidades discriminativas similares y mayores que el peso (p&lt;0,001). Sólo en el grupo de 751 a 1.000g, la edad gestacional fue mejor predictora (p = 0,029). Conclusiones: El CRIB es el mejor predictor de muerte hospitalaria en los RN de peso inferior a 1.500g. En los RN de peso comprendido entre 501 y 750g, su capacidad de predicción es similar a la de la edad gestacional. El CRIB y la edad gestacional presentan capacidades predictivas similares de HIV grave en los RN menores de 1.500g. En los RN de peso comprendido entre 751 y 1.000g la edad gestacional es mejor predictora (AU)</dc:description>
+<dc:source>An Pediatr (Barc);71(2): 117-127, ago. 2009. tab, graf</dc:source>
+<dc:identifier>ibc-72433</dc:identifier>
+<dc:title xml:lang="es">Análisis de la utilidad del Clinical Risk Index for Babies por estratos de peso como predictor de muerte hospitalaria y de hemorragia intraventricular grave en la Red Neonatal Española SEN 1500</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d30047</dc:subject>
+<dc:subject>^d33939^s22045</dc:subject>
+<dc:subject>^d22228</dc:subject>
+<dc:subject>^d22226</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d18001</dc:subject>
+<dc:subject>^d34262^s22047</dc:subject>
+<dc:subject>^d1748</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200908</dc:date>
+</metadata>
+</record>
+</ibecs-document>

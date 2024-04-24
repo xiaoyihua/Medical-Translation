@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-23488</identifier>
+<setSpec>0004-2927</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">HDL Molecular Patholgy</dc:title>
+<dc:creator>Sánchez  De  Medina, F</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Facultad de Farmacia. Universidad de Granada</dc:publisher>
+<dc:description xml:lang="es">Aunque existe una considerable evidencia epidemiológica sobre el carácter ateroprotector de las HDL, se conocen muy pocas alteraciones genéticas que expliquen los bajos niveles plasmáticos de las HDL que suponen riesgo aterosclerótico.Se sabe, no obstante, que algunas de estas alteraciones afectan a la estructura de las HDL: deficiencia de apoA-I, producción de apoA-I anormales y deficiencia de apoA-II. Otras alteraciones genéticas afectan al metabolismo de las HDL. Las deficiencias de la lipasa hepática o de la CETP originan aumentos de las HDL mientras que las deficiencias de la lipoproteín lipasa o la LCAT se traducen en un descenso. También disminuyen los niveles de HDL en la enfermedad de Tangier ya que estas lipoproteínas se captan y se degradan de forma excesiva por los macrófagos (AU)</dc:description>
+<dc:source>Ars pharm;41(1): 59-65, ene. 2000. ilus</dc:source>
+<dc:identifier>ibc-23488</dc:identifier>
+<dc:title xml:lang="es">Patología molecular de las HDL</dc:title>
+<dc:subject>^d8250^s22033</dc:subject>
+<dc:subject>^d8250^s22044</dc:subject>
+<dc:subject>^d8250^s22015</dc:subject>
+<dc:subject>^d14012^s22033</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d8245^s22015</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200001</dc:date>
+</metadata>
+</record>
+</ibecs-document>

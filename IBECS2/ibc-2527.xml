@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-2527</identifier>
+<setSpec>0302-4342</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Diagnostic codine for pediatric emergency activity</dc:title>
+<dc:creator>Benito Fernández, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">OBJETIVO: Diseñar un sistema de codificación diagnóstico para urgencias de pediatría. MÉTODOS: Análisis del sistema de codificación internacional de enfermedades (CIE-9-MC), adaptándolo a las características especiales de las urgencias pediátricas. Un grupo de trabajo formado por 9 pediatras de urgencias y una experta en documentación médica escogieron los diagnósticos, motivos de consulta y procedimientos más frecuentes en urgencias de pediatría y de forma consensuada modificaron sus descriptores, definieron los diagnósticos y escogieron el código CIE-9-MC más idóneo, siguiendo las normas de codificación de dicho sistema. RESULTADOS: Se modificaron los códigos y descriptores de 181 diagnósticos y se dio una definición a cada uno de ellos. También se seleccionaron 64 motivos de consulta y 41 procedimientos y se introdujeron algunas modificaciones en sus descriptores. CONCLUSIÓN: La creación de este sistema de codificación potenciará la codificación diagnóstica en los servicios de urgencias pediátricos, dotándolos, además, de un indicador de calidad, de una herramienta muy útil para compartir información (AU)</dc:description>
+<dc:source>An Esp Pediatr;53(3): 261-272, sept. 2000.</dc:source>
+<dc:identifier>ibc-2527</dc:identifier>
+<dc:title xml:lang="es">Codificación diagnóstica en urgencias de pediatría</dc:title>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d3961</dc:subject>
+<dc:subject>^d12886</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d5284</dc:subject>
+<dc:subject>^d4705</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200009</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-5344</identifier>
+<setSpec>1135-4127</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:creator>Arnal, J. M </dc:creator>
+<dc:creator>Amorín, M. J </dc:creator>
+<dc:creator>Castán, Y </dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Introducción: La cartografía ha adquirido un gran impulso con el desarrollo de los sistemas de información geográfica. La Comunidad Autónoma de Aragón presenta características geográficas y demográficas que condicionan de un modo importante la utilización de los servicios de atención primaria. Objetivo: Realizar un análisis cartográfico de la utilización de los recursos sanitarios en atención primaria. Método: Las unidades geográficas de análisis fueron las zonas de salud de Aragón, y el marco temporal, 1999. Las variables analizadas fueron la población, los núcleos de población, la frecuentación, la presión asistencial, las derivaciones a atención especializada y el producto de cobertura de cartera de servicios. Las fuentes de información fueron las Gerencias de Atención Primaria y el Instituto Aragonés de Estadística. El programa informático utilizado fue MapInfo. Resultados: La figura 1 pone de manifiesto que las zonas de salud situadas en el corredor del Ebro disponen de un menor número de médicos por habitantes. En la figura 2 se observa una gran variabilidad en la frecuentación entre zonas de salud. La figura 3 presenta una mayor presión en las zonas urbanas. En la figura 4 se pone de manifiesto un alto índice de derivación en las zonas de salud de Teruel. Por último, en la figura 5 se muestra un mayor producto en las zonas de salud rurales. Discusión: Se observa una importante diferencia en la utilización de los servicios de atención primaria entre zonas de salud, y entre Teruel y el resto de la comunidad autónoma. Conclusiones: Los sistemas de información geográfica, aunque han sido poco desarrollados en el campo de la salud, ofrecen grandes posibilidades para gestores y planificadores y para mejorar la eficiencia del sistema sanitario (AU)</dc:description>
+<dc:source>Cuad. gest. prof. aten. prim. (Ed. impr.);7(2): 73-84, abr. 2001. ilus, tab</dc:source>
+<dc:identifier>ibc-5344</dc:identifier>
+<dc:title xml:lang="es">Análisis cartográfico de la utilización de atención primaria en la Comunidad Autónoma de Aragón</dc:title>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d28416</dc:subject>
+<dc:subject>^d55055</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d37724</dc:subject>
+<dc:subject>^d32477</dc:subject>
+<dc:subject>^d11756^s22045</dc:subject>
+<dc:subject>^d31493</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200104</dc:date>
+</metadata>
+</record>
+</ibecs-document>

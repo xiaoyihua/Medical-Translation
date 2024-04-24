@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-80911</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Optical coherence tomography: its value in intravascular diagnosis today</dc:title>
+<dc:description xml:lang="en">Optical coherence tomography is a recently developed high-resolution intravascular diagnostic technique. Initially, it was mainly used for characterizing atherosclerotic plaque because it served a number of functions, from identifying plaque with high lipid content to detecting macrophage accumulation, both of which are associated with plaque instability. Currently, there is growing interest in the value of optical coherence tomography in the area of coronary intervention, where the technique offers significant advantages over more widespread intravascular diagnostic techniques such as intravascular ultrasound: its higher resolution means that the vessel lumen diameter can be measured more precisely, periprocedural complications such microdissection of the coronary artery can be detected, stent apposition relative to the vessel wall can be optimized, neointimal hyperplasia can be detected after stent implantation, and neointimal thickness can be measured. It would therefore appear to be a very useful technique for interventional cardiologists. This review article considers the technical details of the technique and its applications, and compares it with other intravascular diagnostic techniques (AU)</dc:description>
+<dc:creator>Cruz-González, Ignacio</dc:creator>
+<dc:creator>Parejo-Díaz, Patricia</dc:creator>
+<dc:creator>Herrero-Garibi, Jesús</dc:creator>
+<dc:creator>Jang, Ik-Kyung</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La tomografía de coherencia óptica es una técnica de diagnóstico intravascular de alta resolución de reciente desarrollo. Inicialmente se centró en la caracterización de la placa arteriosclerótica, ya que permite desde la identificación de placas con alto contenido lipídico hasta la acumulación de macrófagos, ambos hechos relacionados con la inestabilidad de la placa. Actualmente ha cobrado un creciente interés su utilidad en el campo del intervencionismo coronario; presenta grandes ventajas sobre otras técnicas de diagnóstico endovascular más extendidas como la ecografía intravascular: el diámetro de la luz del vaso puede medirse de forma más exacta gracias a su mayor resolución, permite detectar complicaciones del procedimiento como la microdisección de la arteria, puede poner de manifiesto la correcta aposición del stent a la pared del vaso, permite detectar la hiperplasia neointimal tras el implante del stent y la medición del espesor de la neoíntima. Por lo tanto, parece ser una herramienta de gran utilidad para el cardiólogo intervencionista. En esta revisión se analizan los aspectos técnicos y las aplicaciones de esta técnica y se la compara con otras técnicas de diagnóstico intravascular (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;63(8): 951-962, ago. 2010. tab, ilus</dc:source>
+<dc:identifier>ibc-80911</dc:identifier>
+<dc:title xml:lang="es">Tomografía de coherencia óptica: situación actual en el diagnóstico intravascular</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d38335^s22074</dc:subject>
+<dc:subject>^d38335^s22083</dc:subject>
+<dc:subject>^d23232^s22045</dc:subject>
+<dc:subject>^d30992^s22039</dc:subject>
+<dc:subject>^d22878^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22878^s22066</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d30992^s22083</dc:subject>
+<dc:subject>^d38335^s22045</dc:subject>
+<dc:subject>^d30992^s22066</dc:subject>
+<dc:subject>^d23232^s22083</dc:subject>
+<dc:subject>^d30992^s22045</dc:subject>
+<dc:subject>^d23232^s22074</dc:subject>
+<dc:subject>^d38335^s22011</dc:subject>
+<dc:subject>^d38335^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201008</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-33235</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The influence of the type of insurance access on health and ef education on health services utilization patterns</dc:title>
+<dc:creator>Stoyanova, Alexandrina</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Este trabajo analiza la utilización de los servicios sanitarios según el género, el tipo de seguro y la educación con datos de la Encuesta Nacional de Salud de 1997. Los resultados descriptivos y mediante regresión logística confirman que las mujeres van más al médico que los hombres. Las diferencias son mayores en el caso de médicos generales (respecto a los especialistas) y los médicos públicos (respecto a los privados). Sin embargo, apenas hay diferencias en las hospitalizaciones y las visitas a los servicios de urgencias. Disponer de acceso privado no afecta a las hospitalizaciones, las urgencias o la probabilidad de visita (excepto para las mujeres), pero aumenta la probabilidad de visitar especialistas (principalmente entre las mujeres) y médicos privados (especialmente entre los hombres), lo que confirma la existencia de diferencias de género en el impacto de esta variable. De hecho, los patrones de utilización por sexos son más similares entre sí en el caso de acceso solamente público que en el de acceso privado o doble cobertura. La educación guarda una cierta relación inversa con la probabilidad de visita, las visitas al médico general y las hospitalizaciones y una relación directa con la utilización de especialistas y médicos privados. También existen desigualdades de género, y las diferencias de utilización por niveles educativos son más acusadas entre los hombres (AU)</dc:description>
+<dc:source>Gac Sanit;18(supl.1): 102-111, mayo 2004.</dc:source>
+<dc:identifier>ibc-33235</dc:identifier>
+<dc:title xml:lang="es">La influencia del tipo de seguro y la educación en los patrones de utilización de los servicios sanitarios</dc:title>
+<dc:subject>^d4592</dc:subject>
+<dc:subject>^d30598</dc:subject>
+<dc:subject>^d7562</dc:subject>
+<dc:subject>^d6447</dc:subject>
+<dc:subject>^d8678</dc:subject>
+<dc:subject>^d13305</dc:subject>
+<dc:subject>^d7517</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6916</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d30585</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200405</dc:date>
+</metadata>
+</record>
+</ibecs-document>

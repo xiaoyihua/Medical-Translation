@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-1596</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Analysis of mortality according to the APACHE III system in a neurotrauma intensive care unit</dc:title>
+<dc:creator>García Delgado, Manuel</dc:creator>
+<dc:creator>Rivera Fernández, Ricardo</dc:creator>
+<dc:creator>Fernández Mondéjar, Enrique</dc:creator>
+<dc:creator>Navarrete Navarro, Pedro</dc:creator>
+<dc:creator>Chica Ruiz Ruano, Rafael de la</dc:creator>
+<dc:creator>Vázquez Mata, Guillermo</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Fundamento. Analizar la mortalidad de los pacientes en una UCI neurotraumatológica de un hospital de referencia, en función de la mortalidad esperada según el sistema predictivo APACHE III en su versión española. Métodos. Estudio prospectivo realizado, durante un período de 4 meses, sobre 155 pacientes que ingresaron de forma consecutiva en una UCI neurotraumatológica de un hospital de tercer nivel. Hemos recogido las siguientes variables: edad, sexo, procedencia, diagnóstico de ingreso, comorbilidad, puntuación en el sistema APACHE III y mortalidad hospitalaria. Hemos calculado la probabilidad de muerte esperada según la fórmula española del sistema pronóstico APACHE III, y la hemos comparado con la mortalidad hospitalaria observada, aplicando el test de Hosmer-Lemeshow. Resultados. Los 155 pacientes estudiados tenían una edad de 46 (DE 19) años; el 74,2 por ciento eran varones. Alcanzaron una puntuación APACHE III de 53,5 (33,4) puntos. En cuanto a los diagnósticos, el 48,4 por ciento fueron traumatismos y el 41,9 por ciento eran pacientes neurológicos. Casi la mayoría de los enfermos ingresaron en la UCI procedentes del servicio de urgencias (43,9 por ciento); fueron trasladados desde otro hospital el 29,7 por ciento; procedían de otra planta hospitalaria el 17,4 por ciento, y el resto de pacientes procedían de cirugía. La mortalidad hospitalaria observada fue del 30,9 por ciento, y la predicha por el sistema APACHE III fue del 28,3 por ciento. El test de Hosmer-Lemeshow no demuestra diferencias estadísticamente significativas entre ambas (H = 2,94; NS).Conclusión. La mortalidad en nuestra unidad es similar a la esperada, constatándose la utilidad del sistema predictivo APACHE III, versión española, en los pacientes críticos neurotraumatológicos (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);25(6): 223-226, ago. 2001.</dc:source>
+<dc:identifier>ibc-1596</dc:identifier>
+<dc:title xml:lang="es">Análisis de mortalidad en una unidad de cuidados intensivos neurotraumatológica según el sistema APACHE III</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d30047</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d32354</dc:subject>
+<dc:subject>^d3439</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200108</dc:date>
+</metadata>
+</record>
+</ibecs-document>

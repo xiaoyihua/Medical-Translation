@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-23469</identifier>
+<setSpec>0004-2927</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Generic medicines and Reference Pricing System, price rating and information</dc:title>
+<dc:creator>Iñesta García, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Facultad de Farmacia. Universidad de Granada</dc:publisher>
+<dc:description xml:lang="es">El consumo de las Especialidades Farmacéuticas Genéricas (EFG) en España en el Sistema Nacional de Salud no se puede precisar, ya que no existen datos fiables publicados de los mismos, solo declaraciones y notas de prensa. Se podría decir que el consumo de EFG en España, estimado en un 2 por ciento de la facturación del Sistema Nacional de Salud en 2000, ha crecido pero es todavía demasiado bajo comparado con el consumo en la Unión Europea y EE.UU. Se estudia un grupo de seis principios activos (10 por ciento de los existentes) en forma de EFG, seleccionados entre los principios activos mas consumidos en envases en 1999 en el Sistema Nacional de Salud. La información obtenida en fuentes de información accesibles, sobre las EFG registradas y comercializadas en España de este grupo, no es coincidente y es difícil de obtener. De este grupo, una selección aleatoria de formatos que tienen un conjunto homogéneo (alprazolam comprimidos, amoxicilina sobres, captopril comprimidos, diclofenaco supositorios, omeprazol cápsulas y ranitidina comprimidos), presenta una variabilidad de precios expresado en coste de una Dosis Diaria Definida que puede llegar a ser hasta tres veces mayor el más alto que el más bajo (rango 1,2 - 3 veces).En seis conjuntos homogéneos seleccionados aleatoriamente entre los anteriores, existe un rango amplio de los precios (24 por ciento - 89 por ciento, precio más bajo con relación al precio de referencia), lo que indica que no se aplica estrictamente las reglas del mercado (precio de referencia el más barato). El Proceso de puesta en marcha de los precios de referencia ha sido largo; el número de conjuntos homogéneos ha sido menor que las posibilidades existentes; y el sistema de establecimiento del precio de referencia ha sido restrictivo (precio de referencia no es el más barato) (AU)</dc:description>
+<dc:source>Ars pharm;41(4): 365-378, oct. 2000. tab</dc:source>
+<dc:identifier>ibc-23469</dc:identifier>
+<dc:title xml:lang="es">Genéricos y precios de referencia, rangode precios y fuentes de información</dc:title>
+<dc:subject>^d28018^s22018</dc:subject>
+<dc:subject>^d30149^s22018</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12437</dc:subject>
+<dc:subject>^d19276^s22018</dc:subject>
+<dc:subject>^d16716</dc:subject>
+<dc:subject>^d673^s22018</dc:subject>
+<dc:subject>^d19065^s22018</dc:subject>
+<dc:subject>^d23180^s22018</dc:subject>
+<dc:subject>^d12335^s22018</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200010</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-60869</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Association between genotype screening results obtained by PFGE and PCR for hypervariable regions of the mecA gene in methicillin-resistant Staphylococcus aureus</dc:title>
+<dc:description xml:lang="en">Introduction: The emergence of methicillin-resistant Staphylococcus aureus (MRSA) has become a major epidemiological problem worldwide.Methods: We determined the degree of association between the genotype screening results obtained by pulse-field gel electrophoresis (PFGE) and polymerase chain reaction (PCR) for 7 hypervariable DNA regions associated with the mecA gene (HVR-mecA PCR), in the epidemiological analysis of 36 MRSA strains unrelated to nosocomial outbreaks, isolated from hospitalized patients at the County Hospital of Valdivia (Chile).Results: The strains were classified into 15 pulse types (A-O) and 5 genotypes (6, 14, 15, 16, and 17) by PFGE and HVR-mecA PCR, respectively. Most of the strains were grouped in pulse types D, E and I, which presented 85.7% similarity. The most common genotypes were 14 (36.1%) and 15 (33.3%). Each genotype detected by HVR-mecA PCR was distributed in more than one pulse type. The degree of association between genotypic screening by PFGE or HVR-mecA PCR was determined by calculating Cramer's V statistic and the contingency coefficient. In both cases, a value near 1 (0.84 and 0.78, respectively) was obtained, indicating a high association between these genotypic screenings. Thus these are complementary, not exclusionary techniques that can be equally applied. Conclusions: PFGE is a standardized, high-technology molecular tool with considerable discriminatory power. HVR-mecA PCR is a fast, simple, accessible tool that has lower discriminatory power; nonetheless it can serve as an alternative method for epidemiological research in MRSA strains (AU)</dc:description>
+<dc:creator>Maldonado, Aurora</dc:creator>
+<dc:creator>Fernández, Heriberto</dc:creator>
+<dc:creator>Otth, Laura</dc:creator>
+<dc:creator>Wilson, Myra</dc:creator>
+<dc:creator>Hormazabal, Juan Carlos</dc:creator>
+<dc:creator>Fernández, Jorge</dc:creator>
+<dc:creator>Otth, Carola</dc:creator>
+<dc:creator>Medina, Gustavo</dc:creator>
+<dc:creator>Araya, Pamela</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: El Staphylococcus aureus resistente a meticilina (SARM) es un problema epidemiológico en el ámbito mundial. Métodos: Se determinó el grado de asociación entre los criterios de clasificación genotípica que se obtuvieron mediante PFGE (pulsed-field gel electrophoresis&#145;electroforesis en geles de campos pulsantes&#146;) y PCR (polymerase chain reaction&#145;reacción en cadena de la polimerasa&#146;) de 7 regiones hipervariables de ácido desoxirribonucleico asociadas al gen mecA (PCR RHV-mecA) que se aplicaron al análisis de 36 cepas de SARM no relacionadas con brotes epidémicos, aisladas de sujetos que ingresaron en el Hospital Regional de Valdivia, Chile. Resultados: Las cepas se clasificaron en 15 pulsotipos (de la A a la O) y en 5 genotipos (6, 14, 15, 16 y 17) según PFGE y PCR RHV-mecA, respectivamente. La mayoría de las cepas se agruparon en los pulsotipos D, E e I que presentaron un porcentaje de similitud del 85,7%. Los genotipos PCR RHV-mecA de mayor frecuencia fueron el genotipo 14 (36,1%) y el genotipo 15 (33,3%). Cada uno de los genotipos detectados mediante PCR RHV-mecA se distribuyó en más de un pulsotipo. El grado de asociación entre los criterios de clasificación genotípica de PFGE y de PCR RHV-mecA se determinó mediante el coeficiente de contingencia y el coeficiente v de Cramer. En ambos se obtuvo un valor cercano a 1 (0,84 y 0,78, respectivamente) que indicaba una alta asociación entre estos criterios, por tanto, se trataría de técnicas complementarias y no excluyentes que pueden aplicarse indistintamente. Conclusiones: La PFGE representa una herramienta molecular de alta tecnología, estandarización y poder discriminatorio; sin embargo, la tipificación por PCR RHV-mecA es una herramienta simple, accesible y rápida que a pesar de su menor poder discriminatorio puede utilizarse como alternativa en estudios epidemiológicos de las cepas de SARM (AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;27(4): 213-218, abr. 2009. graf, tab</dc:source>
+<dc:identifier>ibc-60869</dc:identifier>
+<dc:title xml:lang="es">Asociación entre los criterios de clasificación genotípica de Staphylococcus aureus resistente a meticilina que se obtuvo mediante electroforesis en geles de campos pulsantes y mediante reacción en cadena de la polimerasa de regiones hipervariables del gen meca</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d13596^s22052</dc:subject>
+<dc:subject>^d4660^s22045</dc:subject>
+<dc:subject>^d29045^s22033</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28320^s22045</dc:subject>
+<dc:subject>^d13590^s22046</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200904</dc:date>
+</metadata>
+</record>
+</ibecs-document>

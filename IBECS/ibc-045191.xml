@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-045191</identifier>
+<setSpec>1575-0922</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Nutrient intake estimation through total diet studies</dc:title>
+<dc:description xml:lang="en">There is no doubt that there is a relationship between health and food habits. To asses the risks associated with food intake, exposure to substances present in food must be measured. To do this, intake of nutrients and other substances such as contaminants, microtoxins, pesticide residues, and food additives, among others, must be calculated. To calculate intake, two data components are required: first, the concentrations of the substance of interest in the foods potentially containing it and second, the quantities of this food that are consumed. Total diet studies (TDS) were developed to provide a standardized and reliable tool to calculate the intake of any substance that could be present in food. When implemented continuously, TDS allow trends to be monitored over time. The main characteristics of TDS, which were introduced in the Autonomous Community of the Basque Country in 1990, as well as the most important results obtained, are described</dc:description>
+<dc:creator>Jalón González-Moreno, Mercedes</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La relación entre salud y hábitos alimentarios es indudable. Para poder valorar los riesgos de la ingesta de alimentos es necesario calcular la exposición a las sustancias que contienen, es decir, las ingestas de los nutrientes y otras sustancias mediadas también por los alimentos, como los contaminantes, micotoxinas, residuos de plaguicidas o aditivos alimentarios entre otros. Para el cálculo de ingestas se necesita 2 tipos de datos: por un lado, las concentraciones de la sustancia de interés en los alimentos que pueden contenerla y, por otro, las cantidades de esos alimentos que se ingieren. Con el fin de contar con una herramienta estandarizada y fiable para el cálculo de ingestas de cualquier sustancia que pueda estar presente en los alimentos, se desarrollaron los llamados estudios de dieta total que, si se llevan a cabo de manera continuada, también permiten observar tendencias en el tiempo. Se describen las características principales del estudio de dieta total puesto en marcha en la Comunidad Autónoma del País Vasco (CAPV) desde 1990, así como sus resultados más relevantes</dc:description>
+<dc:source>Endocrinol Nutr;53(5): 300-308, mayo 2006. ilus, graf</dc:source>
+<dc:identifier>ibc-045191</dc:identifier>
+<dc:title xml:lang="es">Estimación de la ingesta de nutrientes mediante los estudios de dieta total</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d9375^s22002</dc:subject>
+<dc:subject>^d4499</dc:subject>
+<dc:subject>^d30406^s22001</dc:subject>
+<dc:subject>^d4203^s22001</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d5640^s22001</dc:subject>
+<dc:subject>^d23417^s22001</dc:subject>
+<dc:subject>^d5641^s22045</dc:subject>
+<dc:subject>^d14523^s22002</dc:subject>
+<dc:subject>^d4067^s22011</dc:subject>
+<dc:subject>^d24447^s22002</dc:subject>
+<dc:subject>^d32965^s22001</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200605</dc:date>
+</metadata>
+</record>
+</ibecs-document>

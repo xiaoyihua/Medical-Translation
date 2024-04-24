@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-90612</identifier>
+<setSpec>0212-6982</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Development of a variable-radius pinhole SPECT system with a portable gamma camera</dc:title>
+<dc:description xml:lang="en">Objective. To develop a small-animal SPECT system using a low cost commercial portable gamma camera equipped with a pinhole collimator, a continuous scintillation crystal and a position-sensitive photomultiplier tube. Material and methods. The gamma camera was attached to a variable radius system, which enabled us to optimize sensitivity and resolution by adjusting the radius of rotation to the size of the object. To investigate the capability of the SPECT system for small animal imaging, the dependence of resolution and calibration parameters on radius was assessed and acquisitions of small phantoms and mice were carried out. Results. Resolution values, ranging from 1.0mm for a radius of 21.4mm and 1.4mm for a radius of 37.2mm were obtained, thereby justifying the interest of a variable radius SPECT system. Conclusions. The image quality of phantoms and animals were satisfactory, thus confirming the usefulness of the system for small animal SPECT imaging(AU)</dc:description>
+<dc:creator>Benlloch, J. M</dc:creator>
+<dc:creator>Rojas, S</dc:creator>
+<dc:creator>Pavía, J</dc:creator>
+<dc:creator>Ros, D</dc:creator>
+<dc:creator>Pino, F</dc:creator>
+<dc:creator>Orero, A</dc:creator>
+<dc:creator>Roé, N</dc:creator>
+<dc:creator>Falcón, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Desarrollar un sistema SPECT de animal pequeño utilizando una cámara portátil de bajo coste equipada con colimador de tipo pinhole (con agujero de alfiler), un cristal de centelleo continuo y un tubo fotomultiplicador sensible a la posición. Material y métodos. Se incorporó la gammacámara a un sistema de radio variable que nos permitió optimizar la resolución y la sensibilidad ajustando el radio de rotación al tamaño del objeto. A fin de investigar la capacidad del sistema SPECT para obtener imágenes de animal pequeño se estudió la dependencia de la resolución y los parámetros de calibración con el radio, y se realizaron adquisiciones de maniquí de tamaño pequeño y de ratones. Resultados. Se obtuvieron valores de resolución de 1mm para un radio de 21,4mm hasta 1,4mm para un radio de 37,2mm, justificando el interés en un sistema SPECT de radio variable. Conclusiones. Los resultados de calidad de imagen de los maniquís y animales fueron satisfactorios, confirmando la utilidad del sistema SPECT para realizar estudios de animal pequeño(AU)</dc:description>
+<dc:source>Rev Esp Med Nucl;30(5): 286-291, sept.-oct. 2011.</dc:source>
+<dc:identifier>ibc-90612</dc:identifier>
+<dc:title xml:lang="es">Desarrollo de un sistema SPECT-pinhole de radio variable con una gammacámara portátil</dc:title>
+<dc:subject>^d8994</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d24895^s22039</dc:subject>
+<dc:subject>^d3380^s22018</dc:subject>
+<dc:subject>^d29381</dc:subject>
+<dc:subject>^d9871^s22045</dc:subject>
+<dc:subject>^d3376^s22018</dc:subject>
+<dc:subject>^d24895^s22074</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d3378^s22018</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24895^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201110</dc:date>
+</metadata>
+</record>
+</ibecs-document>

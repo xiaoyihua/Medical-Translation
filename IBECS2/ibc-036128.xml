@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-036128</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Mechanisms of plasmid-mediated resistance to quinolones</dc:title>
+<dc:description xml:lang="en">Quinolone resistance is caused mainly by chromosomal mutations in gram negative bacteria. In 1998,plasmid-mediated resistance to quinolones in clinical isolates was first reported in a Klebsiella pneumoniae strain. Locus qnr (quinolone resistance) was responsible of the quinolone resistance in this plasmid. qnr codes a protein whose function is protect both DNA-girase and topoisomerase IV from these antimicrobials. Moreover, qnr is located in an integron-like structure up streamof qacEDelta1 y sul1. A review of the information obtained in the last years about this mechanism of resistance was performed (AU)</dc:description>
+<dc:creator>Rodríguez-Martínez, José Manuel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La resistencia a quinolonas en bacterias gramnegativas está causada fundamentalmente por mutaciones cromosómicas. En 1998 se describió en cepas clínicas de Klebsiella pneumoniae la existencia de un plásmido conjugativo que confiere resistencia a quinolonas. El locus responsable de la resistencia a quinolonas en este plásmido se designó qnr (quinolone resistance). Se ha propuesto que la función de la proteína que expresa estelocus sea proteger tanto la ADN-girasa como la topoisomerasa IV de la acción de las quinolonas. Además, qnr se ha localizado formando parte de una estructura de tipo integrón aguas arriba de los genes qacEDelta1 y sulI, sugiriendo la posibilidad de su presencia en integronesde clase 1. En este trabajo se lleva a cabo una revisión de la información obtenida en los últimos años sobre este mecanismo de resistencia (AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;23(1): 25-31, ene. 2005. tab, graf</dc:source>
+<dc:identifier>ibc-036128</dc:identifier>
+<dc:title xml:lang="es">Mecanismos de resistencia a quinolonas mediada por plásmidos</dc:title>
+<dc:subject>^d1443^s22021</dc:subject>
+<dc:subject>^d5016^s22033</dc:subject>
+<dc:subject>^d1443^s22026</dc:subject>
+<dc:subject>^d36090^s22033</dc:subject>
+<dc:subject>^d22164^s22031</dc:subject>
+<dc:subject>^d36089^s22006</dc:subject>
+<dc:subject>^d1449^s22006</dc:subject>
+<dc:subject>^d4871^s22078</dc:subject>
+<dc:subject>^d36089^s22033</dc:subject>
+<dc:subject>^d1717^s22033</dc:subject>
+<dc:subject>^d5938</dc:subject>
+<dc:subject>^d31904^s22078</dc:subject>
+<dc:subject>^d22306^s22031</dc:subject>
+<dc:subject>^d7887^s22021</dc:subject>
+<dc:subject>^d32344^s22031</dc:subject>
+<dc:subject>^d36090^s22006</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200501</dc:date>
+</metadata>
+</record>
+</ibecs-document>

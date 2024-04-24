@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-113511</identifier>
+<setSpec>1139-7632</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Characteristics of diagnostic tests</dc:title>
+<dc:description xml:lang="en">Medical decisions are taken in a framework of uncertainty. Probability of disease moves between diagnostic threshold, below which no further tests are needed, and therapeutic threshold, above which we don&#146;t need further tests to justify treatment. Sensitivity and specificity are intrinsic properties of diagnostic tests that provide us with their ability to discriminate between healthy and sick people. Predictive values inform us about the probability that a positive patient is ill or that a negative patient is healthy, and they are used with people with unknown disease status. Finally likelihood ratios give us the actual probability of having the disease if we know pre-test probability and the result of the test (AU)</dc:description>
+<dc:creator>Molina Arias, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Las decisiones médicas se toman en un marco de incertidumbre, moviendo la probabilidad de enfermedad entre el umbral diagnóstico, por debajo del cual no son necesarias más pruebas, y el umbral terapéutico, por encima del cual no son necesarias más pruebas para comenzar un tratamiento. La sensibilidad y la especificidad son propiedades intrínsecas de las pruebas diagnósticas que nos permiten conocer su capacidad discriminar entre sanos y enfermos. Los valores predictivos nos informan de la probabilidad de que un positivo esté enfermo (valor predictivo positivo) o de que un negativo sea sano (valor predictivo negativo), cuando los utilizamos en personas de las que desconocemos su estado de enfermedad. Por último, los cocientes de probabilidad nos proporcionan la probabilidad real de padecer la enfermedad conociendo la probabilidad previa y el resultado de la prueba (AU)</dc:description>
+<dc:source>Pediatr. aten. prim;15(58): 169-173, abr.-jun. 2013.</dc:source>
+<dc:identifier>ibc-113511</dc:identifier>
+<dc:title xml:lang="es">Características de las pruebas diagnósticas</dc:title>
+<dc:subject>^d^s22066</dc:subject>
+<dc:subject>^d33556^s22039</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d3981^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d^s22048</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d3981^s22066</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24811</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d11773</dc:subject>
+<dc:subject>^d33556^s22066</dc:subject>
+<dc:subject>^d33556^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201306</dc:date>
+</metadata>
+</record>
+</ibecs-document>

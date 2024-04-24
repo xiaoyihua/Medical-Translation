@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-29692</identifier>
+<setSpec>0212-6567</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Models to explain and predict medical case-loads: their use in calculating the maximum family medicine list that allows at least ten minutes per consultation</dc:title>
+<dc:creator>Fernández Martínez de Alegría, C</dc:creator>
+<dc:creator>Guillén Grima, F</dc:creator>
+<dc:creator>Brugos Larumbe, A</dc:creator>
+<dc:creator>Mallor Giménez, F</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Objetivo. Estimar el cupo máximo en medicina familiar que permita consultas mínimas de 10 min. Diseño. Transversal. Ámbito. Tres centros de salud. Sujetos. Un total de 45.826 habitantes. Mediciones. A partir de las citas de tres centros estimamos el tiempo anual empleado por paciente y lo ajustamos asignando un tiempo mínimo de 10 min por consulta. Establecemos un modelo de regresión cúbica predictor de la carga de trabajo asistencial media por edad en medicina general y estimamos el cupo máximo si se dedica un 70 por ciento de la jornada laboral a la asistencia. Exponemos los resultados para dos centros con mayor implicación de enfermería en la atención de los pacientes, y otro en que ésta es menor. Presentamos los coeficientes R2. Estimamos los cupos máximos para los centros de salud de Navarra y los mostramos en cinco grupos elaborados a partir del porcentaje de población de 65 años o más. Resultados. La edad explica el 86,1 por ciento de la variabilidad en la carga asistencial media en cada edad (un 84 por ciento en niños y un 93,5 por ciento en adultos). Según el porcentaje promedio de sujetos 65 años de edad los cupos máximos promedios para centros con mayor o menor implicación de enfermería son los siguientes: 7 por ciento (2.025 y 1.989); 14 por ciento (1.834 y 1.715); 21,2 por ciento (1.691 y 1.558); 27 por ciento (1.648 y 1.460); 34 por ciento (1.560 y 1.340). Conclusiones. La edad explica en gran medida la variabilidad de la carga asistencial y permite estimar el cupo máximo de pacientes que asegure un tiempo mínimo por consulta (AU)</dc:description>
+<dc:source>Aten Primaria;32(1): 23-29, jun. 2003.</dc:source>
+<dc:identifier>ibc-29692</dc:identifier>
+<dc:title xml:lang="es">Modelos explicativos y predictivos de la carga asistencial médica: aplicación para el cálculo del cupo máximo en medicina de familia que permita un mínimo de diez minutos por consulta</dc:title>
+<dc:subject>^d4570</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d6276</dc:subject>
+<dc:subject>^d5298</dc:subject>
+<dc:subject>^d11756</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29362</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d28630</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d13892</dc:subject>
+<dc:subject>^d13883</dc:subject>
+<dc:subject>^d9152</dc:subject>
+<dc:subject>^d11653</dc:subject>
+<dc:subject>^d1077</dc:subject>
+<dc:subject>^d14384</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200306</dc:date>
+</metadata>
+</record>
+</ibecs-document>

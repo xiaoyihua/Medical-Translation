@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-71371</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:description xml:lang="en">BACKGROUND AND OBJECTIVE: In the last two decades, major changes have occurred in both the epidemiology and the healthcare of cancer, which have had a substantial impact on the mortality due to this disease. The objective of this study was to analyze cancer mortality trends in Catalonia in the previous 20 years and to compare these trends with those in Europe. SUBJECTS AND METHODS: Mortality data were gathered from the mortality register of the Department of Health of Catalonia, which includes all deaths in Catalonia from 1985-2004. The causes of death are coded according to the International Classification of Diseases (ICD-9 for1985-1998 and ICD-10 for 1999-2004). The population data used were inter-census (1985-2000), census (2001) and post-census (2002-2004) estimates from the Catalan Institute of Statistics. Age adjusted rates (AR) (to the world population of 1960) and accumulated rates from 0 to 74 years old were calculated. A Poisson model was adjusted to the AR to estimate the mortality trend and the annual percentage of change was calculated for the years 1985-1994 and 1995- 2004 and for the period 1985-2002 as a whole. RESULTS: From 1985-2004, the risk of dying from cancer decreased from 18.54 % to 17.49% in men and from 9.24% to 7.69% in women. The adjusted rate of mortality decreased in cancer of the larynx (&#150;2,52%), prostate (&#150;1.11%) and stomach (&#150;2.89%) in men and in stomach cancer (-3.64) in women. In men, there was a significant increase in mortality from colorectal cancer (an increase of 2.8% to 1994 with subsequent stabilization) and from lung cancer (an increase of 1.36% to 1994 with a subsequent decrease). Cancer of the liver showed a non-significant increase until 1994 with a subsequent decrease of &#150;3.13%. In women, breast cancer increased until 1994 (1.48%) and subsequently significantly decreased (&#150;2.72%). Lung cancer increased throughout the entire period but this increase was only significant (4,81%) in the last decade. CONCLUSIONS: In the last two decades, cancer mortality has shown a general decreasing trend, although mortality from several tumors has substantially increased. Compared with other European countries, Catalonia shows lower cancer mortality in women than in men. Nevertheless, the trends shown in the last decade are similar to those followed by the countries in the best positions</dc:description>
+<dc:creator>Gispert, R</dc:creator>
+<dc:creator>Ribes, J</dc:creator>
+<dc:creator>Esteban, L</dc:creator>
+<dc:creator>Clèries, R</dc:creator>
+<dc:creator>Puigdefàbregas, A</dc:creator>
+<dc:creator>Freitas, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">FUNDAMENTO Y OBJETIVO: Tanto la situación epidemiológica como asistencial del cáncer en las últimas 2 décadas ha experimentado grandes cambios y esto ha influido en la mortalidad por esta enfermedad. El objetivo es analizar las tendencias de la mortalidad por cáncer en Cataluña, durante los últimos 20 años y compararlas con Europa. SUJETOS Y MÉTODO: Los datos de las defunciones ocurridas en Cataluña proceden del registro de mortalidad del Departamento de Salud y están codificados según la Clasificación Internacional de Enfermedades (CIE) (novena revisión de 1985-1998 y décima de 1999 a 2004). La población corresponde a la intercensal (1985-2000), censal (2001) y poscensal (2002-2004) del Instituto de Estadística de Cataluña. Se han calculado las tasas ajustadas por edad (TA) mediante el método directo (población estándar mundial de 1960) y las tasas acumuladas (Tac) de 0 a 74 años. Para evaluar la tendencia se ha ajustado un modelo de Poisson a las TA y se ha estimado el porcentaje de cambio anual (PCA) para los decenios 1985-1994 y 1995-2004 y el global para 1985-2004. RESULTADOS: El riesgo de morir por cáncer (Tac) ha pasado en los varones del 18,54 al 17,49% y en las mujeres, del 9,24 al 7,69% de 1985 a 2002. En estos años ha disminuido la mortalidad (PCA) por los cánceres de laringe (¿2,52%), próstata (¿1,11%) y estómago (¿2,89%) en varones y estómago (¿3,64%) en mujeres. Mostraron cambios de tendencia en los varones el cáncer colorrectal (aumento del 2,8% hasta 1994 y estabilización posterior), pulmón (creció el 1,36% hasta 1994 y después descendió) e hígado (aumento no significativo hasta 1994 y luego descenso de ¿3,13%). En las mujeres la mortalidad por cáncer de mama primero aumentó (1,48%) y después disminuyó (¿2,72%) significativamente y el de pulmón aumentó en todo el período, aunque sólo en la última década (4,81%) fue estadísticamente significativo. CONCLUSIONES: La mortalidad por cáncer en las últimas 2 décadas ha mostrado una tendencia general decreciente, aunque algunas localizaciones aumentan. Comparada con otros países, Cataluña se encuentra en una situación más favorable en el caso de las mujeres que en el de los varones, aunque la evolución de los últimos años ha sido parecida a la de los países que se encuentran en situación más ventajosa</dc:description>
+<dc:source>Med. clín (Ed. impr.);131(supl.1): 25-31, oct. 2008. ilus, tab</dc:source>
+<dc:identifier>ibc-71371</dc:identifier>
+<dc:subject>^d24890</dc:subject>
+<dc:subject>^d24838</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9562^s22047</dc:subject>
+<dc:subject>^d28637^s22066</dc:subject>
+<dc:subject>^d5158^s22080</dc:subject>
+<dc:subject>^d13411^s22080</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d28583</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200810</dc:date>
+</metadata>
+</record>
+</ibecs-document>

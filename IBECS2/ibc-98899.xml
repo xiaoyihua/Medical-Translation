@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-98899</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Preliminary experience with the introduction of life-sustaining treatment limitation in the electronic clinical record</dc:title>
+<dc:description xml:lang="en">Life-sustaining treatment limitation (LSTL) is an increasingly common practice. However, its application is sometimes not clearly re&amp;#64258;ected in the clinical record---this giving rise to the adoption of measures that could have been avoided, including admission to the intensive care unit (ICU), with the suffering and economical costs this implies. One way to trace patients subjected to LSTL is through an electronic registry allowing identi&amp;#64257;cation at all times of these individuals, and of the therapies that have been restricted in each case. The Ethics Committee of our center has developed a tool allowing the identi&amp;#64257;cation of patients subjected to LSTL and of the level of intervention required, and offering the association of a patient comfort management protocol (AU)</dc:description>
+<dc:creator>Comité de Ética del Hospital Son Llatzer de Palma de Mallorca (Espana)</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La limitación de las terapias de soporte vital (LTSV) es una práctica cada vez más extendida, sin embargo, su establecimiento, en ocasiones, no queda claramente re&amp;#64258;ejado en la historia clínica lo que conlleva la aplicación de medidas que podrían haberse evitado, entre ellas, el ingreso en la unidad de cuidados intensivos (UCI), con el sufrimiento y coste económico que ello origina. Una forma de identi&amp;#64257;car aquellos pacientes con LTSV es a través de un registro electrónico que permita visualizar en todo momento quiénes son estos enfermos y qué terapias se han restringido. Desde el Comité de Ética de nuestro centro se ha desarrollado una herramienta que nos permite dicha identi&amp;#64257;cación, conocer qué nivel de actuación requiere y asociar un protocolo de tratamiento de bienestar (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);36(1): 32-36, ene.-feb. 2012. ilus, tab</dc:source>
+<dc:identifier>ibc-98899</dc:identifier>
+<dc:title xml:lang="es">Experiencia preliminar en la introducción de la limitación de terapias de soporte vital en la historia clínica electrónica</dc:title>
+<dc:subject>^d53713^s22074</dc:subject>
+<dc:subject>^d10353^s22074</dc:subject>
+<dc:subject>^d29108</dc:subject>
+<dc:subject>^d28849</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d35396^s28898</dc:subject>
+<dc:subject>^d36354</dc:subject>
+<dc:subject>^d7530^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201202</dc:date>
+</metadata>
+</record>
+</ibecs-document>

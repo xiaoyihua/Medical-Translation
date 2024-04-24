@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-64708</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:description xml:lang="en">P-glycoprotein (PGP) is a membrane protein and product of the MDR-1 gene, which acts as an efflux pump for several drugs, such as protease inhibitors (PI) used in HIV. Numerous studies in vitro, in experimental animals, and in patients have analyzed the relationships between PGP and the pharmacokinetic and pharmacodynamic properties of antiretroviral agents, with differing conclusions. In addition, studies focusing on the impact of single nucleotide polymorphisms in the MDR-1 gene, mainly C3435T in exon 26 and G2677A/G2677T in exon 21, on antiretroviral plasma concentrations, efficacy and adverse effects, have reported varying results, which have been attributed to the influence of other polymorphisms, such as cytochrome P450 (AU)</dc:description>
+<dc:creator>Armijo, Juan Antonio</dc:creator>
+<dc:creator>Sánchez, María Blanca</dc:creator>
+<dc:creator>Peralta, Galo</dc:creator>
+<dc:creator>Valdizán, Elsa María</dc:creator>
+<dc:creator>Echevarría, Santiago</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La glucoproteína P (PGP) es una proteína de membrana, producto del gen MDR-1, que actúa como bomba expulsora de diversos fármacos, entre ellos los inhibidores de proteasa (IP) del virus de la inmunodeficiencia humana (VIH). Numerosos estudios in vitro, en animales y en pacientes, han analizado las relaciones de esta proteína con la farmacocinética y farmacodinamia de los antirretrovirales, con conclusiones dispares. Por otra parte, las publicaciones que analizan la influencia de los polimorfismos de nucleótido único del gen MDR-1, principalmente el C3435T en el exón 26, y el G2677A/G2677T en el exón 21, con las concentraciones plasmáticas de los antirretrovirales, su eficacia y efectos secundarios también demuestran resultados variables que se han tratado de explicar mediante la influencia de otros polimorfismos como el del citocromo p-450 (AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;26(3): 150-159, mar. 2008. ilus, tab</dc:source>
+<dc:identifier>ibc-64708</dc:identifier>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d38332^s22079</dc:subject>
+<dc:subject>^d24718^s22057</dc:subject>
+<dc:subject>^d33160^s22021</dc:subject>
+<dc:subject>^d11547</dc:subject>
+<dc:subject>^d23259^s22007</dc:subject>
+<dc:subject>^d33123</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29499^s22083</dc:subject>
+<dc:subject>^d10788^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200803</dc:date>
+</metadata>
+</record>
+</ibecs-document>

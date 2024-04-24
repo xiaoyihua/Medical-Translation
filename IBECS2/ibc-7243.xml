@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-7243</identifier>
+<setSpec>1134-3230</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:creator>Rodríguez, I</dc:creator>
+<dc:creator>García Mayor, R. V</dc:creator>
+<dc:creator>Sierra, J. M</dc:creator>
+<dc:creator>Luna, R</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Ergon, S.A</dc:publisher>
+<dc:description xml:lang="es">No disponible</dc:description>
+<dc:source>Av. diabetol;16(4): 217-228, dic. 2000. ilus</dc:source>
+<dc:identifier>ibc-7243</dc:identifier>
+<dc:title xml:lang="es">Desarrollo pondoestatural en el niño con diabetes mellitus tipo I</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d3944^s22044</dc:subject>
+<dc:subject>^d30558^s22044</dc:subject>
+<dc:subject>^d1852^s22031</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d34404^s22044</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d32714^s22044</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d6278^s22031</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200012</dc:date>
+</metadata>
+</record>
+</ibecs-document>

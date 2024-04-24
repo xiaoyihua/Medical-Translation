@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-046257</identifier>
+<setSpec>1696-1641</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Multivariant indices of Hospital management for the Clinical Hospital of the University of Chile</dc:title>
+<dc:description xml:lang="en">This study aims to obtain useful indices for hospital management, based on descriptive multivariate techniques. Data on the hospital admissions in 2003 was analyzed during the first trimester of 2004 in the Clinical Hospital of the University of Chile. The variables monitored by the Operations Management Department in the University Hospital were studied: number of discharges, lethality rate, re-admissions rate, number of outpatient consultations, number of stays and surgical complexity index. The variables were considered for a total of 24,345 discharges. The Principal Components Analysis (PCA) technique was applied and the R correlation matrix was used. The first two principal components were selected, with an accumulated variability percentage of 75.92 %: 47.02 % for the first and 28.90 % for the second one. The first component may be assimilated to a new index representing the difficulty of the attended cases, which we have termed "Case Complexity". The second principal component would explain the number of attended persons, which we have termed "Case Load". These two indices allow us to classify hospital services</dc:description>
+<dc:creator>Peralta Sáez, Juan Luis</dc:creator>
+<dc:creator>González Caballero, Juan Luis</dc:creator>
+<dc:creator>García Ortega, Cesáreo</dc:creator>
+<dc:creator>Almenara Barrios, José</dc:creator>
+<dc:creator>Salinas Portillo, Hugo</dc:creator>
+<dc:creator>Lagares Franco, Carolina</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El objetivo del presente trabajo es obtener índices útiles para la gestión hospitalaria mediante la utilización de técnicas estadísticas multivariantes descriptivas. Para ello durante el primer trimestre del año 2004 se analizó la información del Hospital Clínico de la Universidad de Chile correspondiente a los egresos hospitalarios del año 2003. Se estudiaron las variables monitorizadas por la Gerencia de Operaciones del Hospital Universitario: número de egresos, tasa de letalidad, tasa de reingresos, número de consultas externas, número de días de camas ocupadas e índice de complejidad quirúrgica. Las variables se midieron para un total de 24.345 egresos. Aplicamos la técnica de análisis de componentes principales (ACP), y se utilizó la matriz de correlaciones R. Se seleccionaron las dos primeras componentes, con un porcentaje acumulado de variabilidad de 75,92 %: 47,02 % la primera y 28,90 % la segunda. La primera componente puede ser asimilada a un nuevo índice que tiene que ver con la dificultad de los casos atendidos; la hemos llamado "complejidad asistencial". La segunda explicaría la cuantía de personas atendidas, y la hemos llamado "demanda asistencial". Ambos índices permiten dar una clasificación de los servicios hospitalarios</dc:description>
+<dc:source>Rev. adm. sanit. siglo XXI;4(1): 155-167, ene.-mar. 2006. tab</dc:source>
+<dc:identifier>ibc-046257</dc:identifier>
+<dc:title xml:lang="es">Índices multivariantes de gestión para el Hospital Clínico de la Universidad de Chile</dc:title>
+<dc:subject>^d2722^s22080</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d6916^s22018</dc:subject>
+<dc:subject>^d6940^s22041</dc:subject>
+<dc:subject>^d6940^s22074</dc:subject>
+<dc:subject>^d6940^s22060</dc:subject>
+<dc:subject>^d6940^s22083</dc:subject>
+<dc:subject>^d28571</dc:subject>
+<dc:subject>^d16617</dc:subject>
+<dc:subject>^d5513^s22083</dc:subject>
+<dc:subject>^d6940^s22048</dc:subject>
+<dc:subject>^d6940^s22049</dc:subject>
+<dc:subject>^d6453^s22049</dc:subject>
+<dc:subject>^d24517</dc:subject>
+<dc:subject>^d6916^s22083</dc:subject>
+<dc:subject>^d6453^s22041</dc:subject>
+<dc:subject>^d5513^s22049</dc:subject>
+<dc:subject>^d6453^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200603</dc:date>
+</metadata>
+</record>
+</ibecs-document>

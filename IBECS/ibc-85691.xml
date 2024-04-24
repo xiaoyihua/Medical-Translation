@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-85691</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Classification of illicit drug-induced deaths in Spain: Toward the adoption of the European standard criteria</dc:title>
+<dc:description xml:lang="en">AimsTo describe patterns of ICD-10 classification of illicit drug-induced deaths (DID) in the General Mortality Register (GMR), to assess the applicability of the European criterion (which excludes the X44 code) to extract these deaths from the GMR, and to estimate drug-induced mortality in Spain by applying a correction index for underestimation.MethodsDID between 1999 and 2007 were extracted from the GMR using the European and the Spanish criteria. Both data sets were compared, and differences in classification patterns by time and space were assessed. Estimations of national mortality from DID were calculated by applying a correction index for underestimation, derived from a specific mortality register, to the deaths extracted from the GMR.ResultsUsing the Spanish criterion, 5,878 DID were extracted from the GMR for 1999&#150;2007, 88.4% within chapter XX, mainly X42 (48.4%) and X44 (38.8%), and the remaining within chapter V, mainly F19 (11.5%). Chapter V accounted for 6.6% in 1999, 24.6% in 2003 and 8.0% in 2007. Between 2005 and 2007, Catalonia and Andalusia were the autonomous regions showing greatest use of this chapter (34.9% and 30.1%, respectively). Substantially fewer deaths were extracted when the European criterion was used. When the Spanish indicator was used, the estimated DID mortality rate corrected by the underestimation index decreased slowly from 4.7/100,000 in 1999 to 4.1/100,000 inhabitants aged 15&#150;49 years old in 2007.ConclusionsIn Spain, applying the European criterion for extracting DID from the GMR created certain problems, because each DID is assigned a single code, which is sometimes non-specific. Common national criteria should be adopted, following the European criteria as far as possible (AU)</dc:description>
+<dc:creator>Fernández-Cuenca, Rafael</dc:creator>
+<dc:creator>Fuente, Luis de la</dc:creator>
+<dc:creator>Santos, Sara</dc:creator>
+<dc:creator>Barrio,  Gregorio</dc:creator>
+<dc:creator>Bravo,  María J</dc:creator>
+<dc:creator>Molist, Gemma</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">ObjetivosDescribir los patrones de codificación CIE-10 de las muertes directamente relacionadas con drogas ilegales (DRDI) en el Registro General de Mortalidad (RGM), evaluar la aplicabilidad del criterio europeo (que no considera X44) para extraer estas muertes del RGM y estimar la mortalidad DRDI en España corrigiendo la subestimación.MétodosSe extrajeron las muertes DRDI del RGM para 1999&#150;2007 utilizando los criterios europeo y español, se compararon ambas cifras y se evaluaron las diferencias temporoespaciales en los patrones de codificación. Se estimó la mortalidad DRDI estatal aplicando un índice corrector de subestimación, procedente de un registro específico, a las muertes extraídas del RGM.ResultadosUtilizando el criterio español en 1999&#150;2007 se extrajeron del RGM 5.878 muertes DRDI, un 88,4% del capítulo XX, principalmente de X42 (48,4%) y X44 (38,8%), y el resto del capítulo V, principalmente de F19 (11,5%). El capítulo V supuso un 6,6% en 1999, un 24,6% en 2003 y un 8,0% en 2007. En 2005&#150;2007 las comunidades que más utilizaron el capítulo V fueron Cataluña y Andalucía (34,9% y 30,1%, respectivamente). Con el criterio europeo se extraen bastantes menos muertes DRDI que con el español. La mortalidad DRDI corregida por subnotificación utilizando el criterio español pasó de 4,7/100.000 habitantes de 15&#150;49 años de edad en 1999 a 4,1/100.000 en 2007.ConclusionesEn España, aplicar el criterio europeo para extraer las muertes DRDI da problemas, porque a cada muerte DRDI se le asigna un único código, que además en ocasiones es bastante inespecífico. Hay que adoptar criterios estatales comunes de codificación en línea con los europeos (AU)</dc:description>
+<dc:source>Gac Sanit;24(4): 309-313, jul. -agos. 2010. graf, tab</dc:source>
+<dc:identifier>ibc-85691</dc:identifier>
+<dc:title xml:lang="es">Codificación de la mortalidad directamente relacionada con drogas ilegales en España: hacia una adaptación a los criterios estándar europeos</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d24318</dc:subject>
+<dc:subject>^d28637</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d33535^s22047</dc:subject>
+<dc:subject>^d33535^s22011</dc:subject>
+<dc:subject>^d13411^s22080</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201008</dc:date>
+</metadata>
+</record>
+</ibecs-document>

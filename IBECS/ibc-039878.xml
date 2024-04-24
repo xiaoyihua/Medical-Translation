@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-039878</identifier>
+<setSpec>1575-3409</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The curse of pharmacotherapeutic response: integration pharmacokinetic and pharmacodynamic models (II)</dc:title>
+<dc:description xml:lang="en">Nowadays, the integration of pharmacokinetics    and pharmacodynamics concepts is considered    as an essential tool to increase the efficiency    of clinical trial and a strategy to improve    the rational use of medicines.    This review presents a description of pharmacokinetics-    pharmacodynamics compartimental    models that can describe the time course    of the clinical endpoints and surrogate markers    in subjects receiving pharmacological treatment.    In the first part of this review the basic pharmacokinetic    models that directly relate drug    concentrations to clinical effect are presented    together with examples. In the second part we    described the pharmacokinetic-pharmacodynamic    models used to model the delay observed    between plasma concentrations and clinical    response. In particular, effect compartment    model and basic models of indirect responses    are presented with examplesIn the first part of this review, the basic pharmacokinetic    models that directly relate drug    concentrations to clinical effect were presented.    They are essentials to lay the foundations    of pharmacokinetic-pharmacodynamic models.    In this second part, we describe the PK/PD models    when a delay between plasma concentrations    and clinical response exits. In this situation,    direct pharmacodynamics models are not    aplicable and the effect compartment model    and/or the basic models of indirect responses    has been used to integrated the pharmacokinetic    and pharmacodynamic knowledge</dc:description>
+<dc:creator>Casabó Alós, V. G</dc:creator>
+<dc:creator>Porta Oltra, B</dc:creator>
+<dc:creator>Pérez Ruixo, J. J</dc:creator>
+<dc:creator>Valenzuela Jiménez, B</dc:creator>
+<dc:creator>Jiménez Torres, N. V</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En la primera parte de este artículo de revisión,    se han presentado los modelos farmacodinámicos    básicos cuyo conocimiento es imprescindible    para establecer las bases de la    modelización farmacocinética-farmacodinámica.    En esta segunda parte, se inicia la presentación    de los modelos PK/PD. Cuando el efecto    farmacológico máximo se presenta diferido en    el tiempo respecto al que se alcanza la concentración    plasmática máxima, los modelos    farmacodinámicos directos, no son capaces    de describir el comportamiento dinámico de    los fármacos. En estos casos, el modelo del    compartimento del efecto y/o los modelos de    respuestas indirectas entre otros pueden utilizarse    para integrar el conocimiento cinético y    dinámico del fármaco</dc:description>
+<dc:source>Cienc. tecnol. pharm;15(3): 137-147, jul.-sept. 2005. ilus</dc:source>
+<dc:identifier>ibc-039878</dc:identifier>
+<dc:title xml:lang="es">Evolución temporal de la respuesta farmacoterapéutica: integración de modelos farmacocinéticos y farmacodinámicos (II)</dc:title>
+<dc:subject>^d4365</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22960</dc:subject>
+<dc:subject>^d22562^s22079</dc:subject>
+<dc:subject>^d38325</dc:subject>
+<dc:subject>^d9144</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200509</dc:date>
+</metadata>
+</record>
+</ibecs-document>

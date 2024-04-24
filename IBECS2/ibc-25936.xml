@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-25936</identifier>
+<setSpec>0211-2159</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Power rates of two robust approaches for the analysis of longitudinal data</dc:title>
+<dc:creator>Fernández, P</dc:creator>
+<dc:creator>Vallejo, G</dc:creator>
+<dc:creator>Ato, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Departamento de Metodologia de las Ciencias del Comportamiento. Universitat de Valencia</dc:publisher>
+<dc:description xml:lang="es">El propósito del presente trabajo fue examinar la potencia de dos de las pruebas más novedosas, y quizás también más robustas, de cuantas se hallan disponibles actualmente para analizar datos longitudinales con matrices de dispersión arbitrarias. En concreto, se comparó la sensibilidad de la versión mejorada del procedimiento multivariado Brown-Forsythe con la potencia del enfoque del modelo mixto lineal con los grados de libertad corregidos mediante la técnica Satterthwaite de emparejar momentos en un diseño longitudinal con un factor de agrupamiento y otro de medidas repetidas. Por lo que respecta al efecto principal de las ocasiones de medida, el enfoque del modelo mixto resultó ser siempre más potente que el procedimiento BrownForsythe, sobre manera, cuando los tamaños de muestra eran pequeños. Cuando el interés se centró en los efectos de la interacción, se obtuvo un patrón de resultados similar; sin embargo, bajo esta condición las diferencias fueron menos acentuadas (AU)</dc:description>
+<dc:source>PsicolÔogica (Valencia, Ed. impr.);24(1): 109-121, ene. 2003. tab</dc:source>
+<dc:identifier>ibc-25936</dc:identifier>
+<dc:title xml:lang="es">Tasas de potencia de dos enfoques robustos para analizar datos longitudinales</dc:title>
+<dc:subject>^d9152</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d28630</dc:subject>
+<dc:subject>^d28640</dc:subject>
+<dc:subject>^d28574</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200301</dc:date>
+</metadata>
+</record>
+</ibecs-document>

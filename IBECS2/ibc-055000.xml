@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-055000</identifier>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Measure of dialysis dose by different integrated modules within the same monitoring device</dc:title>
+<dc:description xml:lang="en">The «gold standard» method to measure the mass balance achieved during dialysis    for a given solute is based on the total dialysate collection. This procedure is    unfeasible and too cumbersome. For this reason, alternative methods have been    proposed including the urea kinetic modelling (Kt/V), the measurement of effective    ionic dialysance (Diascan), and the continuous spent sampling of dialysate    (Quantiscan).    The aim of this study was to compare the reliability and agreement of these    two methods with the formulas proposed by the urea kinetic modelling for measuring    the dialysis dose and others haemodialysis parameters.    We studied 20 stable patients (16 men/4 women) dialyzed with a monitor equipped    with the modules Diascan (DC) and Quantiscan (QC) (Integra®. Hospal). The    urea distribution volume (VD) was determined using anthropometric data (Watson    equation) and QC data. Kt/V value was calculated according to Daurgidas    2nd generation formula corrected for the rebound (eKt/V), and using DC (Kt/VDC)    and QC (Kt/VQC) data.    The total mass of urea removed was calculated as 37,93 ± 16 g/session. The    VD calculated using Watson equation was 35.7 ± 6.6 and the VDQC was 35.06    ± 9.9. And they showed an significative correlation (r:0,82 p &lt; 0.001). The (VDQCVDWatson)    difference was &#150;0.64 ± 5.8L (ns). Kt/VDC was equivalent to those of    eKt/V (1.64 ± 0.33 and 1.61 ± 0.26, mean difference &#150;0.02 ± 0.29). However,    Kt/VQC value was higher than eKt/V (1.67 ± 0.22 and 1.61 ± 0.26 mean difference    0.06 ± 0.07 p &lt; 0.01). Both values correlated highly (R2: 0.92 p &lt; 0.001).    Urea generation (G) calculated using UCM was 8.75 ± 3.4 g/24 h and those calculated    using QC was 8.64 ± 3.21 g/24 h. Mean difference 0.10 ± 1.14 (ns). G    calculated by UCM correlated highly with that derived from QC (R2: 0.88 p &lt;    0.001).    In conclusion, Kt/VDC and Kt/VQC should be considered as valid measures for    dialysis efficiency. However, the limits of agreement between Kt/VQC and eKt/V    were closer than Kt/VDC</dc:description>
+<dc:creator>Calvo-Gordo, C</dc:creator>
+<dc:creator>Torregrosa, E</dc:creator>
+<dc:creator>Hernández-Jaras, J</dc:creator>
+<dc:creator>Pin-Godos, M</dc:creator>
+<dc:creator>Pons-Prades, R</dc:creator>
+<dc:creator>Sánchez-Canel, J. J</dc:creator>
+<dc:creator>García-Pérez, H</dc:creator>
+<dc:creator>Ríus-Peris, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La recolección total del líquido de diálisis para cuantificar la cantidad total de    urea eliminada durante la hemodiálisis (HD) se ha considerado la técnica «gold    estándar» para medir la dosis de diálisis. Dada la dificultad de este método se    han propuesto otros alternativos como el modelo cinético de la Urea (Kt/V), la    medición de la dialisancia iónica o la recogida de muestras representativas del líquido    de diálisis total.    El objetivo de este trabajo es comparar la fiabilidad y concordancia de dos dispositivos    de medida (dialisancia iónica y recogida parcial de líquido de diálisis)    integrados en el mismo monitor de diálisis y compararlos con los propuestos por    el modela cinético de la urea (MCU) para la medición de la dosis de diálisis    (Kt/V) y otros parámetros de HD.    Para ello se estudiaron 20 pacientes (16V/4M) con una edad media de 64,5 ±    13 años, estables en programa de HD y dializados con el monitor Integra® (Hospal)    equipado con los biosensores Diascan (DC) y Quantiscan (QC). El volumen    de distribución de urea (VD) se calculó a partir de la fórmula de Watson y por    el QC. La generación de urea se calculó a partir del MCU y el Kt/V se determinó    por la fórmula de Daurgidas 2ª generación corregida para el rebote (eKt/V),    por el DC y el QC.    La transferencia de masa de urea medida por QC fue de 37,2 ± 13,8 g. El VD    por la fórmula de Watson y por QC fue de 35,7 ± 6,6 y de 35,06 ± 9,9 L respectivamente    (ns) y mostraron una correlación significativa (r: 0,82 p &lt; 0,001).    Los valores de aclaramiento (K), mediante DC, y QC fueron similares KQC: 230,3    ± 56,5 ml/min, KDC: 214,05 ± 24,3 ml/min (ns) No se apreciaron diferencias en    el Kt/V calculado por DC y el eKt/V (KtVDC: 1,64 ± 0,33 vs KtVeq; 1,61 ± 0,26).    El coeficiente de correlación fue de r: 0,45 (p &lt; 0,05). Por el contrario los valores    de Kt/VQC fueron superiores a los calculados por el eKtV (1,67± 0,22 vs. 1,61    ± 0,26). El coeficiente de correlación fue de r: 0,94 ( p &lt; 0,001). La generación    de urea por el MCU fue de 8,7 ± 3,4 y por QC de 8,6 ± 3,2 g/ 24h (ns) r: 0,94    p &lt; 0,001).    Podemos concluir que tanto la medición de la dialisancia iónica mediante el    DC, como la recogida de muestras representativas del líquido de diálisis mediante    el QC, son métodos sencillos, fiables y reproducibles que nos permiten medir    de manera rápida la eficacia dialítica y otros parámetros de hemodiálisis. En nuestra experiencia la cuantificación de la dosis de diálisis mediante el QC presenta    una mayor concordancia que la realizada con DC</dc:description>
+<dc:source>Nefrologia;26(supl.2): 246-252, 2006. ilus</dc:source>
+<dc:identifier>ibc-055000</dc:identifier>
+<dc:title xml:lang="es">Medición de la dosis de diálisis mediante diferentes módulos integrados en un mismo monitor</dc:title>
+<dc:subject>^d50495^s22067</dc:subject>
+<dc:subject>^d29407^s22045</dc:subject>
+<dc:subject>^d14907^s22002</dc:subject>
+<dc:subject>^d4365</dc:subject>
+<dc:subject>^d23569^s22039</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d23569^s22045</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d29407^s22039</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200600</dc:date>
+</metadata>
+</record>
+</ibecs-document>

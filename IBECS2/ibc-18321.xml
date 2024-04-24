@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-18321</identifier>
+<setSpec>0004-0614</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Scientific articles: types, structure and functions</dc:title>
+<dc:creator>Chacartegui Martínez, Ildefonso</dc:creator>
+<dc:creator>Garrido Díaz, Isabel</dc:creator>
+<dc:creator>Aparcero Bernet, Luis</dc:creator>
+<dc:creator>López Rodríguez, Luis</dc:creator>
+<dc:creator>Seda Diestro, José</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Iniestares, S. A.</dc:publisher>
+<dc:description xml:lang="es">OBJETIVO: Definir la importancia del artículo científico como fuente de información original. MÉTODOS/RESULTADOS: Describir los contenidos fundamentales del artículo científico y los diferentes formatos de presentación que son tres: los artículos científicos originales, los artículos de Revisión y casos clínicos. CONCLUSIÓN: Los contenidos y estructuras de los diversos documentos varían dependiendo del tipo de artículo a considerar en función de la finalidad que se persigue con la publicación del mismo  (AU)</dc:description>
+<dc:source>Arch Esp Urol;55(8): 890-893, oct. 2002.</dc:source>
+<dc:identifier>ibc-18321</dc:identifier>
+<dc:title xml:lang="es">Tipos, estructura y funciones de los artículos científicos</dc:title>
+<dc:subject>^d15354</dc:subject>
+<dc:subject>^d12077</dc:subject>
+<dc:subject>^d28219</dc:subject>
+<dc:subject>^d31376</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200210</dc:date>
+</metadata>
+</record>
+</ibecs-document>

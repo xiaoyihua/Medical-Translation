@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-158235</identifier>
+<setSpec>1695-4033</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">High levels of atrial natriuretic peptide and copeptin and mortality risk</dc:title>
+<dc:description xml:lang="en">Objective. To determine whether high levels of mid-regional pro-atrial natriuretic peptide (MR-proANP), copeptin, and procalcitonin (PCT) plasma concentrations are associated with increased mortality risk. Methods. Prospective observational study including 254 critically ill children. MR-proANP, copeptin and PCT were compared between children with high (Group A; n=33) and low (Group B; n=221) mortality risk, and between patients with failure of more than 1 organ (Group 1; n=71) and less than 2 (Group 2; n=183). Results. Median (range) of MR-proANP, copeptin, and PCT levels in group A vs B were, respectively: 209.4 (30.5&#150;1415.8) vs. 75.0 (14.6&#150;867.2) pmol/L (P&lt;.001); 104.4 (7.4&#150;460.9) vs. 26.6 (0.00&#150;613.1) pmol/L (P&lt;.001), and 7.8 (0.3&#150;552.0) vs. 0.3 (0.02&#150;107.0) ng/mL (P&lt;.001). The area under the curve (AUC) for the differentiation of group A and B was 0.764 (95% CI: 0.674-0.854) for MR-proANP; 0.735 (0.642-0.827) for copeptin, and 0.842 (0.744-0.941) for PCT, with no statistical differences. The AUCs for the differentiation of group 1 and 2 were: 0.837 (0.784-0.891) for MR-proANP, 0.735 (0.666-0.804) for copeptin, and 0.804 (0.715-0.892) for PCT, with statistical differences between MR-proANP and copeptin, P=.01. Conclusions. High levels of MR-proANP, copeptin and PCT were associated with increased mortality risk scores. MR-proANP showed a higher association than copeptin with number of organs in failure (AU)</dc:description>
+<dc:creator>Concha-Torre, Andrés</dc:creator>
+<dc:creator>Mayordomo-Colunga, Juan</dc:creator>
+<dc:creator>Martínez-Camblor, Pablo</dc:creator>
+<dc:creator>Medina, Alberto</dc:creator>
+<dc:creator>Vivanco-Allende, Ana</dc:creator>
+<dc:creator>Rey, Corsino</dc:creator>
+<dc:creator>García-Cendón, Clara</dc:creator>
+<dc:creator>López-Herce, Jesús</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Determinar si los niveles plasmáticos de región media del péptido natriurético proauricular (RM-proPNA), copeptina y procalcitonina (PCT) se asocian con aumento del riesgo de mortalidad. Métodos. Estudio prospectivo observacional que incluyó a 254 niños críticamente enfermos. Se compararon los niveles de RM-proPNA, copeptina y PCT entre niños con alto (grupo A; n=33) y bajo (grupo B; n=221) riesgo de mortalidad y entre pacientes con un número de órganos en fallo mayor de 1 (grupo 1; n=71) y menor de 2 (grupo 2; n=183). Resultados. Las medianas (rangos) de RM-proPNA, copeptina y PCT en grupo A vs. grupo B fueron, respectivamente: 209,4 (30,5-1.415,8) vs. 75,0 (14,6-867,2) pmol/l (p&lt;0,001); 104,4 (7,4-460,9) vs. 26,6 (0,00-613,1) pmol/l (p&lt;0,001) y 7,8 (0,3-552,0) vs. 0,3 (0,02-107,0) ng/ml (p&lt;0,001). El área bajo la curva (AUC) para diferenciar grupo A y B fue (intervalo de confianza del 95%): 0,764 (0,674-0,854) para RM-proPNA; 0,735 (0,642-0,827) para copeptina y 0,842 (0,744-0,941) para PCT, sin diferencias significativas. Las AUC para diferenciar los grupos 1 y 2 fueron: 0,837 (0,784-0,891) para RM-proPNA, 0,735 (0,666-0,804) para copeptina y 0,804 (0,715-0,892) para PCT, con diferencias significativas entre RM-proPNA y copeptina, p=0,01. Conclusiones. Los niveles elevados de RM-proPNA, copeptina y PCT se asocian con aumento de las puntuaciones de riesgo de mortalidad. RM-proPNA mostró mayor asociación que la copeptina con el número de órganos en fallo (AU)</dc:description>
+<dc:source>An Pediatr (Barc);85(6): 284-290, dic. 2016. tab, graf</dc:source>
+<dc:identifier>ibc-158235</dc:identifier>
+<dc:title xml:lang="es">Asociación de valores elevados de péptido natriurético auricular y copeptina con riesgo de mortalidad</dc:title>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d28614</dc:subject>
+<dc:subject>^d30431^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30170^s22047</dc:subject>
+<dc:subject>^d33835^s22001</dc:subject>
+<dc:subject>^d33835^s22002</dc:subject>
+<dc:subject>^d53684^s22021</dc:subject>
+<dc:subject>^d53684^s22031</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d2715</dc:subject>
+<dc:subject>^d30170^s22080</dc:subject>
+<dc:subject>^d30572^s22002</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d9294^s22012</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201612</dc:date>
+</metadata>
+</record>
+</ibecs-document>

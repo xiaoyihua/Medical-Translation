@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-27892</identifier>
+<setSpec>1130-5665</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Tau protein and Beta-amyloid levels in dementia with Lewy bodies compared to Alzheimer's disease</dc:title>
+<dc:creator>Cantarero, S</dc:creator>
+<dc:creator>Cemillán, C</dc:creator>
+<dc:creator>Cuadrado, N</dc:creator>
+<dc:creator>Gómez Tortosa, E</dc:creator>
+<dc:creator>Gonzalo, I</dc:creator>
+<dc:creator>Ser, T. del</dc:creator>
+<dc:creator>Fanjul, S</dc:creator>
+<dc:creator>García Yébenes, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Editorial Mapfre</dc:publisher>
+<dc:description xml:lang="es">En el líquido cefalorraquídeo (LCR) de pacientes con enfermedad de Alzheimer (EA) se observa elevación de los niveles de proteína tau y disminución de los niveles de Beta-amiloide. El objetivo de este estudio ha sido determinar si en la demencia con cuerpos de Lewy probable, definida con criterios clínicos de consenso (DCL), se encuentra un perfil diferente que pueda contribuir al diagnóstico diferencial de ambas entidades. Métodos: Se han analizado los niveles de proteína tau y Beta-amiloide en el LCR de 28 pacientes con probable EA (según criterios NINCDSADRA), 13 pacientes con probable DCL (según criterios del Consenso) y controles (n = 40 para tau; n = 11 para Beta-amiloide), estudiados en la consulta de demencias de los servicios de Neurología del Hospital Severo Ochoa y de la Fundación Jiménez Díaz. La cuantificación se ha realizado utilizando kits comerciales de ELISA (Innogenetics, Bélgica).Resultados: Niveles de proteína tau: los casos con EA mostraron unos niveles significativamente más elevados (524 ñ 425 pg/ml, media ñ SD) que los casos con DCL (255 ñ 299 pg/ml) y que los controles (213 ñ 263 pg/ml) (p &lt; 0,001). No hubo diferencias significativas entre los niveles del grupo DCL respecto a los controles. El punto de corte más eficiente (250 pg/ml) proporcionaban sensibilidad del 75 por ciento para el diagnóstico de EA con una especificidad del 75 por ciento (respecto a controles) o del 77 por ciento (respecto a DCL).Niveles de proteín Beta-amiloide: se observó una tendencia de los casos con EA (344 ñ 310 pg/ml) y de los casos con DCL (325 ñ 242 pg/ml) a tener unos niveles de Beta-amiloide más bajos que los controles (525 ñ 337 pg/ml), pero las diferencias no alcanzaron significación estadística (p = 0,07). La combinación de los valores tau/Beta-amiloide proporcionó el valor más eficaz para distinguir entre EA y controles (punto de corte = 0,5, sensibilidad 82,5 por ciento, especificidad 75 por ciento) pero fue menos eficaz que el valor de tau aislado para distinguir entre EA y DCL. Conclusiones: La proteína tau en el LCR es un marcador biológico cuya cuantificación puede contribuir a la distinción clínica entre EA y DCL. Los niveles de proteína Beta-amiloide son similares en casos con EA y DCL, con una tendencia a ser más bajos que en los controles (AU)</dc:description>
+<dc:source>MAPFRE med;14(2): 118-124, abr. 2003. graf, tab</dc:source>
+<dc:identifier>ibc-27892</dc:identifier>
+<dc:title xml:lang="es">Niveles de proteína tau y Beta-amiloide en la demencia con cuerpos de Lewy en comparación con la enfermedad de Alzheimer</dc:title>
+<dc:subject>^d545^s22043</dc:subject>
+<dc:subject>^d30290</dc:subject>
+<dc:subject>^d34224^s22043</dc:subject>
+<dc:subject>^d545^s22016</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d34224^s22016</dc:subject>
+<dc:subject>^d3965</dc:subject>
+<dc:subject>^d2594^s29165</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200304</dc:date>
+</metadata>
+</record>
+</ibecs-document>

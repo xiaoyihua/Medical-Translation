@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-115279</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Healthy eating support groups on Facebook: Content and features</dc:title>
+<dc:description xml:lang="en">Objective: To determine the features and use of groups related to healthy eating on Facebook. Method: We carried out a cross-sectional study through the Internet. Using the API on Facebook, we included open groups related to healthy eating in the Spanish language. The variables studied were name, description, category, the number and gender of users, date of creation, number of posts, content of the first 20 posts, and the most recent update. Results: We selected 281 open groups for inclusion in the study. Of these, 125 were excluded because the content was unrelated to healthy eating. Finally 156 groups were studied with 14,619 users (10,373 women [71%] and 3,919 men [26.8%]). Dietary products were promoted by 40% of the groups. Conclusions: Facebook is used as a means of communication and for sharing health information. Because many of these groups promote dietary products, their usefulness for health education is doubtful. Health organizations should participate in social media (AU)</dc:description>
+<dc:creator>Armayones, Manuel</dc:creator>
+<dc:creator>Leis, Ángela</dc:creator>
+<dc:creator>Maria Suelves, Josep</dc:creator>
+<dc:creator>Torres Niño, Javier</dc:creator>
+<dc:creator>Rodríguez-González, Alejandro</dc:creator>
+<dc:creator>Mayer, Miguel Ángel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Conocer las características de los grupos de Facebook relacionados con la alimentación saludable. Método: Estudio observacional transversal en Internet. Mediante el API de Facebook se seleccionaron los grupos abiertos en español relacionados con alimentación saludable. Variables estudiadas: nombre, descripción, categoría, número y sexo de los usuarios, fecha de creación, número de posts, contenido de los primeros 20 posts y última actualización. Resultados: Se identificaron 281 grupos abiertos, pero se excluyeron 125 por no haber posts en el muro o no estar relacionados con alimentación saludable. Finalmente se incluyeron 156 grupos con 14.619 usuarios (10.373 mujeres [71%] y 3919 hombres [26,8%]). El 40% de los grupos promocionaban productos dietéticos. Conclusiones: Facebook se utiliza como medio de comunicación y para compartir información sobre alimentación. Se encontró un gran número de grupos que promocionan la venta de productos dietéticos, que hacen dudar de su utilidad para la educación en salud. Las entidades sanitarias deberían participar en las redes sociales (AU)</dc:description>
+<dc:source>Gac Sanit;27(4): 355-357, jul.-ago. 2013. tab</dc:source>
+<dc:identifier>ibc-115279</dc:identifier>
+<dc:title xml:lang="es">Grupos sobre alimentación saludable en Facebook: características y contenidos</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d6444^s22049</dc:subject>
+<dc:subject>^d37738^s22049</dc:subject>
+<dc:subject>^d28480^s22049</dc:subject>
+<dc:subject>^d54744</dc:subject>
+<dc:subject>^d8574^s22074</dc:subject>
+<dc:subject>^d32738^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24455^s22049</dc:subject>
+<dc:subject>^d53806^s22049</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201308</dc:date>
+</metadata>
+</record>
+</ibecs-document>

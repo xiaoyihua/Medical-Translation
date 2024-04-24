@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-90076</identifier>
+<setSpec>0001-6640</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Sources of bibliographic information (II). Spanish bibliographic database in Health Sciences of interest in pediatrics. Databases of IME, IBECS and MEDES</dc:title>
+<dc:description xml:lang="en">This paper describes the most relevant Spanish health bibliographic databases, those of general subjects such as the Índice Médico Español (IME), Índice Bibliográfico Español en Ciencias de la Salud (IBECS) and Medicina en Español (MEDES), as well as those of specific subject as CUIDEN (specialized in Nursing), ENFISPO (Nursing, Physiotherapy and Podiatry) and Compludoc (with references from articles published in more than 4.000 Spanish and foreign journals received in the library of the Complutense University of Madrid). Main features are detailed such as the producing entity, the starting year, size or number of records contained, the number of biomedical journals, the list of pediatric journals and the number of records included in them, are detailed. Some other features, such as the various possibilities of finding information (simple, advanced by fields or by indexes), the use of Boolean operators or their equivalent, truncation of terms and the existence of control of the terminology, are also discussed. IME is the database with greater coverage in pediatrics, and the Spanish journal Acta Pediátrica Española is included in the three general databases (AU)</dc:description>
+<dc:creator>González de Dios, J</dc:creator>
+<dc:creator>Aleixandre-Benavent, R</dc:creator>
+<dc:creator>Bolaños-Pizarro, M</dc:creator>
+<dc:creator>Navarro-Molina, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En este trabajo se describen las bases de datos españolas en ciencias de la salud más relevantes, tanto las de carácter general, Índice Médico Español (IME), Índice Bibliográfico Español en Ciencias de la Salud (IBECS) y Medicina en Español (MEDES), como las específicas, CUIDEN (Enfermería), ENFISPO (Enfermería, Fisioterapia y Podología) y Compludoc (con referencias de artículos publicados en más de 4.000 revistas científicas españolas y extranjeras recibidas en la biblioteca de la Universidad Complutense de Madrid). Se detallan sus principales características, como la entidad que las elabora, el año de inicio, su tamaño o número de registros que contienen, el número de revistas biomédicas, la lista de revistas pediátricas y el número de registros incluidos en ellas. También se comentan otras características, como las diversas posibilidades de buscarla información (búsqueda simple, avanzada por campos y por índices), el uso de operadores booleanos o sus equivalentes, el truncamiento de términos y la existencia o no de control de la terminología empleada. El IME es la base de datos con una mayor cobertura en pediatría y la revista Acta Pediátrica Española está incluida en las tres bases de datos de carácter general (AU)</dc:description>
+<dc:source>Acta Pediatr Esp;69(4): 177-182, abr. 2011. ilus, tab</dc:source>
+<dc:identifier>ibc-90076</dc:identifier>
+<dc:title xml:lang="es">Fuentes de información bibliográfica (II). Bases de datos bibliográficas españolas en ciencias de la salud de interés en pediatría: IME, IBECS y MEDES</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28904^s22083</dc:subject>
+<dc:subject>^d10697^s22055</dc:subject>
+<dc:subject>^d1662</dc:subject>
+<dc:subject>^d10565</dc:subject>
+<dc:subject>^d28904^s22055</dc:subject>
+<dc:subject>^d28904^s22011</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201104</dc:date>
+</metadata>
+</record>
+</ibecs-document>

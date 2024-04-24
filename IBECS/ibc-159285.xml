@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-159285</identifier>
+<setSpec>2253-654X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The HURRA filter: an easy method to eliminate collimator artifacts in high-energy gamma camera images</dc:title>
+<dc:description xml:lang="en">Purpose. The correct determination and delineation of tumor/organ size is crucial in 2-D imaging in 131I therapy. These images are usually obtained using a system composed of a Gamma camera and high-energy collimator, although the system can produce artifacts in the image. This article analyses these artifacts and describes a correction filter that can eliminate those collimator artifacts. Methods. Using free software, ImageJ, a central profile in the image is obtained and analyzed. Two components can be seen in the fluctuation of the profile: one associated with the stochastic nature of the radiation, plus electronic noise and the other periodically across the position in space due to the collimator. These frequencies are analytically obtained and compared with the frequencies in the Fourier transform of the profile. A specially developed filter removes the artifacts in the 2D Fourier transform of the DICOM image. This filter is tested using a 15-cm-diameter Petri dish with 131I radioactive water (big object size) image, a 131I clinical pill (small object size) image, and an image of the remainder of the lesion of two patients treated with 3.7GBq (100mCi), and 4.44GBq (120mCi) of 131I, respectively, after thyroidectomy. Results. The artifact is due to the hexagonal periodic structure of the collimator. The use of the filter on large-sized images reduces the fluctuation by 5.8&#150;3.5%. In small-sized images, the FWHM can be determined in the filtered image, while this is impossible in the unfiltered image. The definition of tumor boundary and the visualization of the activity distribution inside patient lesions improve drastically when the filter is applied to the corresponding images obtained with HE gamma camera. Conclusion. The HURRA filter removes the artifact of high-energy collimator artifacts in planar images obtained with a Gamma camera without reducing the image resolution. It can be applied in any study of patient quantification because the number of counts remains invariant. The filter makes possible the definition and delimitation of small uptakes, such as those presented in treatments with 131I (AU)</dc:description>
+<dc:creator>Barquero, R</dc:creator>
+<dc:creator>Perez-Garcia, H</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objetivo. En terapia con 131I es crucial la correcta delimitación y determinación del tamaño del tumor/órgano en la imagen obtenida con un equipo de gammacámara y colimador de alta energía. Sin embargo, en estas imágenes aparecen artefactos debidos al colimador que dificultan dicha tarea. En este trabajo se analizan dichos artefactos y se describe un filtro corrector que puede eliminar los artefactos producidos por el colimador. Métodos. Utilizando software de descarga gratuita, Image J, se obtiene un perfil central en la imagen que se analiza. Pueden distinguirse 2 componentes en la fluctuación del perfil: uno asociado a la naturaleza estocástica de la desintegración radiactiva más el ruido electrónico y otro con periodicidad espacial en la posición debida al colimador. Las frecuencias correspondientes a esta periodicidad se obtienen analíticamente y se comparan con las frecuencias conseguidas en la transformada de Fourier del perfil. Se desarrolla un filtro capaz de suprimir estos artefactos en la transformada de Fourier 2D de la imagen DICOM. Este filtro se verifica con la imagen de una placa Petri de 15cm de diámetro rellena de agua radiactiva con 131I (objeto de tamaño grande), con la imagen de una pastilla clínica de 131I (objeto de pequeño tamaño) y con la imagen obtenida con gammacámara y colimador de alta energía del resto tiroideo de 2 pacientes tratados con 3,7GBq y 4.44GBq de 131I tras sufrir tiroidectomía. Resultados. Los artefactos se deben a la estructura periódica hexagonal del colimador. La aplicación del filtro en imágenes de objetos de gran tamaño reduce la fluctuación del 5,8% al 3,5%. En imágenes de pequeño tamaño la aplicación del filtro permite obtener el FWHM (ancho a mitad de altura), lo que resulta imposible en la imagen sin filtrar. La definición del contorno y la distribución de actividad en el interior de lesiones tiroideas mejoran substancialmente cuando se aplica el filtro a las imágenes obtenidas con gammacámara y colimador de alta energía. Conclusión. El filtro denominado HURRA suprime los artefactos en la imagen planar obtenida con colimador de alta energía sin reducir la resolución de la imagen. Puede ser utilizado en cualquier estudio de cuantificación en imagen de pacientes ya que el número de cuentas permanece invariante. El filtro permite la definición y delimitación de pequeñas captaciones como las que se producen en tratamientos con 131I (AU)</dc:description>
+<dc:source>Rev. esp. med. nucl. imagen mol. (Ed. impr.);36(1): 27-36, ene.-feb. 2017. tab, ilus, graf</dc:source>
+<dc:identifier>ibc-159285</dc:identifier>
+<dc:title xml:lang="es">Filtro HURRA: una manera sencilla de eliminar los artefactos del colimador en la imagen con gammacámara de alta energía</dc:title>
+<dc:subject>^d24338^s22074</dc:subject>
+<dc:subject>^d24338^s22066</dc:subject>
+<dc:subject>^d24661^s22074</dc:subject>
+<dc:subject>^d7621^s22073</dc:subject>
+<dc:subject>^d31029^s22045</dc:subject>
+<dc:subject>^d24338^s22045</dc:subject>
+<dc:subject>^d24338^s22048</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d14353^s22045</dc:subject>
+<dc:subject>^d24338^s22039</dc:subject>
+<dc:subject>^d24661^s22066</dc:subject>
+<dc:subject>^d24661^s22055</dc:subject>
+<dc:subject>^d24661^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201702</dc:date>
+</metadata>
+</record>
+</ibecs-document>

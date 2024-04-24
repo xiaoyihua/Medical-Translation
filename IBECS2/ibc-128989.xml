@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-128989</identifier>
+<setSpec>1130-0108</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prognostic scores in cirrhotic patients admitted to a gastroenterology intensive care unit</dc:title>
+<dc:description xml:lang="en">Background: prognostic scores have been validated in cirrhotic patients admitted to general Intensive Care Units. No assessment of these scores was performed in cirrhotics admitted to specialized Gastroenterology Intensive Care Units (GICUs). Aim: to assess the prognostic accuracy of Acute Physiology and Chronic Health Evaluation (APACHE) II, Simplified Acute Physiology Score (SAPS) II, Sequential Organ Failure Assessment (SOFA), Model for End-stage Liver Disease (MELD) and Child- Pugh-Turcotte (CPT) in predicting GICU mortality in cirrhotic patients. Methods: the study involved 124 consecutive cirrhotic admissions to a GICU. Clinical data, prognostic scores and mortality were recorded. Discrimination was evaluated with area under receiver operating characteristic curves (AUC). Calibration was assessed with Hosmer-Lemeshow goodness-of-fit test. Results: GICU mortality was 9.7%. Mean APACHE II, SAPS II, SOFA, MELD and CPT scores for survivors (13.6, 25.4, 3.5, 18.0 and 8.6, respectively) were found to be significantly lower than those of non-survivors (22.0, 47.5, 10.1, 30.7 and 12.5, respectively) (p &lt; 0.001). All the prognostic systems showed good discrimination, with AUC = 0.860, 0.911, 0.868, 0.897 and 0.914 for APACHE II, SAPS II, SOFA, MELD and CPT, respectively. Similarly, APACHE II, SAPS II, SOFA, MELD and CPT scores achieved good calibration, with p = 0.146, 0.120, 0.686, 0.267 and 0.120, respectively. The overall correctness of prediction was 81.9%, 86.1%, 93.3%, 90.7% and 87.7% for the APACHE II, SAPS II, SOFA, MELD and CPT scores, respectively. Conclusions: in cirrhotics admitted to a GICU, all the tested scores have good prognostic accuracy, with SOFA and MELD showing the greatest overall correctness of prediction(AU)</dc:description>
+<dc:creator>Romãozinho, José M</dc:creator>
+<dc:creator>Amaro, Pedro</dc:creator>
+<dc:creator>Sofia, Carlos</dc:creator>
+<dc:creator>Freire, Paulo</dc:creator>
+<dc:creator>Ferreira, Manuela</dc:creator>
+<dc:language>es</dc:language>
+<dc:source>Rev Esp Enferm Dig;103(4): 177-183, abr. 2011. tab, ilus</dc:source>
+<dc:identifier>ibc-128989</dc:identifier>
+<dc:title xml:lang="es">Marcaciones pronósticas en pacientes con cirrosis admitidos en una unidad de cuidados intensivos gastroenterológicos</dc:title>
+<dc:subject>^d6623^s22012</dc:subject>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d28614</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6623^s22016</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d3439^s22045</dc:subject>
+<dc:subject>^d3439^s22066</dc:subject>
+<dc:subject>^d24811</dc:subject>
+<dc:subject>^d32354</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201104</dc:date>
+</metadata>
+</record>
+</ibecs-document>

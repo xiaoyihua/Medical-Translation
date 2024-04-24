@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-155341</identifier>
+<setSpec>0212-9728</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">JOLer: A Java standalone application for simulating the Weaver &amp; Kelemen's judgment of learning (JOL) model</dc:title>
+<dc:description xml:lang="en">To assess judgment of learning (JOL) accuracy in metamemory, researchers have to measure how much the metamemory judgments adjust to the participant's memory-test performance. Absolute accuracy or calibration is the average correspondence between JOL and memory performance. Metamemory relative accuracy or resolution is a measure of how sensitive a participant is to the differential recallability between two studied items. Unfortunately, factors altering both calibration and resolution very often change also the distribution of JOL on the available scale for judgment. The problem with these effects on JOL distribution is that they could yield an altered resolution estimation due to the way in which its usual estimate is computed. JOLer simulates the behavior of participants in a typical metamemory procedure. The application is offered as a tool for metamemory researchers: it affords the opportunity to check whether, maintaining calibration parameters but changing JOL distributions between conditions, a different (and somewhat spurious) resolution estimate would be obtained (AU)</dc:description>
+<dc:creator>Ruiz, Marcos</dc:creator>
+<dc:creator>Arroyo, Cristóbal</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Para calcular la precisión de los juicios de aprendizaje (JJAA) en metamemoria los investigadores tienen que estimar en qué medida los juicios de un participante se ajustan a su rendimiento en una prueba de memoria. La precisión absoluta o calibración es la correspondencia media entre JA y rendimiento en memoria. La precisión relativa de metamemoria o resolución nos dice el grado de sensibilidad de un participante respecto a un diferencial de recuperabilidad entre dos ítems estudiados. Por desgracia, los factores que alteran la calibración y la resolución con frecuencia cambian también la distribución de JJAA a lo largo de la escala de juicio. El problema de estos efectos sobre la distribución de JJAA es que pueden dar lugar a una estimación de resolución distorsionada debido al modo en que se calcula el estimador habitual. JOLer simula el comportamiento de unos participantes en un procedimiento típico de metamemoria. La aplicación se presenta como una herramienta para investigadores de la metamemoria: ofrece la oportunidad de comprobar si, manteniendo los parámetros de calibración pero cambiando la distribución de JJAA entre condiciones, se obtendría una resolución estimada distinta (y en cierto grado artificial) (AU)</dc:description>
+<dc:source>An. psicol;32(3): 893-898, oct. 2016. tab</dc:source>
+<dc:identifier>ibc-155341</dc:identifier>
+<dc:title xml:lang="es">JOLer: Una aplicación Java de escritorio para simular el modelo de juicios de aprendizaje de Weaver y Kelemen</dc:title>
+<dc:subject>^d30653</dc:subject>
+<dc:subject>^d8036</dc:subject>
+<dc:subject>^d29234^s22045</dc:subject>
+<dc:subject>^d34637</dc:subject>
+<dc:subject>^d56084</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1301^s22074</dc:subject>
+<dc:subject>^d14043</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201610</dc:date>
+</metadata>
+</record>
+</ibecs-document>

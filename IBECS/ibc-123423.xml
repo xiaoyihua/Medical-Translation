@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-123423</identifier>
+<setSpec>1699-048X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:creator>Vassaux, G</dc:creator>
+<dc:creator>Martin-Duque, P</dc:creator>
+<dc:creator>Quintanilla, M</dc:creator>
+<dc:creator>Belmar-Lopez, C</dc:creator>
+<dc:creator>Mancheno-Corvo, P</dc:creator>
+<dc:creator>Baril, P</dc:creator>
+<dc:creator>Saornil, M. A</dc:creator>
+<dc:language>en</dc:language>
+<dc:source>Clin Transl Oncol;10(3): 137-142, mar. 2008. ilus</dc:source>
+<dc:identifier>ibc-123423</dc:identifier>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d15006^s22038</dc:subject>
+<dc:subject>^d13259^s22038</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d8713^s22053</dc:subject>
+<dc:subject>^d19148^s22053</dc:subject>
+<dc:subject>^d8714^s22053</dc:subject>
+<dc:subject>^d8714^s22033</dc:subject>
+<dc:subject>^d13259^s22033</dc:subject>
+<dc:subject>^d8714^s22038</dc:subject>
+<dc:subject>^d15006^s22053</dc:subject>
+<dc:subject>^d13259^s22053</dc:subject>
+<dc:subject>^d15006^s22033</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200803</dc:date>
+</metadata>
+</record>
+</ibecs-document>

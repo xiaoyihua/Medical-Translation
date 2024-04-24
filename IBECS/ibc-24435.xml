@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-24435</identifier>
+<setSpec>0211-5638</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Quality of bibliographic references in the FISIOTERAPIA journal (1991-1999)</dc:title>
+<dc:creator>Massó -vila, J. J</dc:creator>
+<dc:creator>Sáez Gómez, J. M</dc:creator>
+<dc:creator>Bernabeu Lledó, M</dc:creator>
+<dc:creator>Osuna Carrillo de Albornoz, E</dc:creator>
+<dc:creator>Medina i Mirapeix, F</dc:creator>
+<dc:creator>Valera Garrido, J. F</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivo. Analizar el proceso de transmisión de información a través del estudio de la calidad de las referencias bibliográficas contenidas en los 162 artículos publicados en la sección de originales de la revista Fisioterapia durante el período 1991-1999.Diseño. Estudio descriptivo, retrospectivo y longitudinal. Material y método. La población de estudio fueron las 1072 referencias bibliográficas de publicaciones periódicas. Se revisó una muestra de 177 referencias obtenidas mediante muestreo sistemático. Para la evaluación de la calidad se establecieron seis criterios (autoría, título, revista, año, volumen y páginas) con sus subcriterios correspondientes, en términos de ausencia de errores. El cumplimiento de los criterios para cada referencia se realizó por cotejo con la misma referencia ("referencia de oro") obtenida a partir de una base de datos electrónica (MEDLINE, IME, REDATEL). Los errores fueron clasificados como leves o graves. Se cuantificaron las frecuencias absolutas y relativas de las variables descritas y se realizó un análisis de tendencias mediante la ji2 de Mantel-Haenszel para averiguar si la proporción total de cualquier tipo de error y referencias erróneas evolucionaba con los años utilizando el programa estadístico Spss 10.0.Resultados. De las 177 referencias comprobadas, 34 (19,2 por ciento) eran correctas y las restantes 143 (80,8 por ciento) contenían algún tipo de error. El número total de errores detectados por subcriterios fue de 309, siendo el número medio de errores por referencia bibliográfica de 1,75 (IC 95 por ciento:1,52 a 1,98) (DE: 1,52). El error era múltiple en el 46,3 por ciento de los casos. Del total de 143 referencias con error, 50 (34,9 por ciento) contenían un error de tipo grave y el resto (65,1 por ciento) de tipo leve. La prueba ji2 de Mantel-Haenszel mostró diferencias estadísticamente significativas tanto en la variación del número absoluto de errores como de referencias erróneas así como en su presencia y la calidad de los mismos (graves o leves) a partir del año 1997 (p &lt; 0.05).Conclusiones. Existe un alto porcentaje de errores en las referencias bibliográficas analizadas. Estas cifras unidas al elevado número de errores graves (a pesar de que existe una disminución significativa a partir del año 1997) dificultan el proceso de transmisión de la información al no permitir recuperar la referencia para su consulta, interrumpiendo así el vínculo establecido entre la investigación actual, la precedente y la futura. Los errores en la transcripción o la copia de referencias de artículos ya publicados en la literatura sin la consulta del documento original podrían ser las causas de las incorrecciones (AU)</dc:description>
+<dc:source>Fisioterapia (Madr., Ed. impr.);25(2): 59-68, abr. 2003. ilus, tab</dc:source>
+<dc:identifier>ibc-24435</dc:identifier>
+<dc:title xml:lang="es">Calidad de las referencias en la revista FISIOTERAPIA(1991-1999)</dc:title>
+<dc:subject>^d28904^s22083</dc:subject>
+<dc:subject>^d24536</dc:subject>
+<dc:subject>^d12527^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d36319^s22083</dc:subject>
+<dc:subject>^d10697^s22083</dc:subject>
+<dc:subject>^d28630</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200304</dc:date>
+</metadata>
+</record>
+</ibecs-document>

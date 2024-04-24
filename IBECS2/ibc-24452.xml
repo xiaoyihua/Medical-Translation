@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-24452</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Simplified paracetamol absorption test in evaluating tolerance to enteral feeding</dc:title>
+<dc:creator>Temprano Vázquez, S</dc:creator>
+<dc:creator>Náñez Reiz, A</dc:creator>
+<dc:creator>Calvo Herranz, E</dc:creator>
+<dc:creator>Gordo Vidal, F</dc:creator>
+<dc:creator>Ruiz de Luna, R</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Objetivo. Validar el test de paracetamol con la hipótesis de que una determinación de la concentración plasmática de paracetamol a los 30 min (P30) de su administración por sonda nasogástrica (SNG) puede discriminar qué pacientes pueden tolerar un aporte de nutrición enteral completo. Pacientes y método. Pacientes en los que se administra nutrición enteral por SNG con un residuo gástrico superior a 200 ml (n = 6). Se administra 1 g de paracetamol por SNG, obteniéndose valores plasmáticos a los 30, 60 y 90 min y manteniendo el aporte de nutrición para valorar el residuo gástrico en 24 h, con pausas cada 6 h. Se repite el test cuando tolera la administración de 63 ml/h durante 24 h. Se realiza una comparación de los valores P30 y de área bajo la curva (ABCp).Resultados. Un P30 de 10 µg/ml clasifica correctamente la tolerancia en todas las determinaciones, por lo que se elige este valor como el punto de referencia para conocer el valor predictivo en los siguientes pacientes en los que se inicia nutrición por SNG (n = 35). Un total de 23 tienen un P30 &gt; 10 µg/ml y en todos se aumenta la velocidad de administración hasta 63 ml/h durante las siguientes 24 h. Doce pacientes tienen un P30 &lt; 10 µg/ml y sólo uno no presenta criterios de intolerancia. Conclusiones. Una simplificación del test de paracetamol, empleando un punto de corte de P30 de 10 µg/ml, puede predecir una adecuada tolerancia al soporte nutricional convencional en pacientes críticos (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);27(6): 385-390, jun. 2003. ilus, tab</dc:source>
+<dc:identifier>ibc-24452</dc:identifier>
+<dc:title xml:lang="es">Test de paracetamol simplificado en la valoración de la tolerancia a la nutrición enteral</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d30324^s22045</dc:subject>
+<dc:subject>^d86</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d9935</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200306</dc:date>
+</metadata>
+</record>
+</ibecs-document>

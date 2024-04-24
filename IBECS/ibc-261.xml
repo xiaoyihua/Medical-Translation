@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-261</identifier>
+<setSpec>1131-5768</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">An epidemic outbreak gastroenteritis foodborne caused by salmonella enteritidis in a restaurant: gastroenteritis</dc:title>
+<dc:creator>Burón Lobo, I</dc:creator>
+<dc:creator>Ruiz Cosín, C</dc:creator>
+<dc:creator>Andrés Puertas, C</dc:creator>
+<dc:creator>Vicente González, J</dc:creator>
+<dc:creator>Val Sarabia, A. del</dc:creator>
+<dc:creator>Mateos Baruque, M. L</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Arán Ediciones, S.A.</dc:publisher>
+<dc:description xml:lang="es">Fundamento: las toxiinfecciones alimentarias (TIA) son la causa más común de brotes epidémicos en nuestro medio constituyendo un importante problema de salud pública. Objetivo: describir las causas, mecanismos de transmisión y características de un brote de TIA ocurrido en un restaurante. Diseño: estudio de casos y controles. Material y métodos: se consideraron casos aquellas personas que enfermaron y controles aquellas personas que no enfermaron habiendo comido todos en la misma fecha en el restaurante implicado. Los datos se obtuvieron de la cumplimentación de un cuestionario mediante entrevista personal. Se utilizaron los tests estadísticos de Chi cuadrado y t de Student y se ajustaron varios modelos de Regresión Logística para evaluar la asociación de los alimentos consumidos con la TIA. Resultados: se afectaron 183 de los 359 asistentes a dos banquetes celebrados durante el mediodía y la noche el mismo día. Los síntomas más frecuentes fueron: diarrea (88,5 porciento), dolor abdominal (77,1 porciento), fiebre (74,3 porciento), cefalea (50,3 porciento), vómitos (45,1 porciento), mialgias (39,3 porciento) y náuseas (30,6 porciento). El periodo de incubación fue más largo en los casos del primer banquete (p=0,012). Necesitó hospitalización el 35,5 porciento. El alimento responsable fue la merluza rellena (OR ajustado=54,5; IC 95 porciento [6,9-424,1]). Se realizaron 60 coprocultivos en los comensales y 18 en los manipuladores de alimentos del restaurante, siendo positivos 58 y 4, respectivamente, a Salmonella enteritidis. Conclusiones: los posibles factores que originan la aparición de este tipo de brotes son susceptibles de control (AU)</dc:description>
+<dc:source>Medifam (Madr.);10(2): 97-101, mar. 2000. tab, graf</dc:source>
+<dc:identifier>ibc-261</dc:identifier>
+<dc:title xml:lang="es">Brote de toxiinfección alimentaria por Salmonella enteritidis en un restaurante</dc:title>
+<dc:subject>^d28589</dc:subject>
+<dc:subject>^d12567</dc:subject>
+<dc:subject>^d5656</dc:subject>
+<dc:subject>^d12854^s22052</dc:subject>
+<dc:subject>^d28571</dc:subject>
+<dc:subject>^d24551</dc:subject>
+<dc:subject>^d12857^s22046</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200003</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-23616</identifier>
+<setSpec>1139-6709</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Evidence of an association between poly(3-hydroxybutyrate) accumulation and phosphotransbutyrylase expression in Bacillus megaterium</dc:title>
+<dc:description xml:lang="en">Molecular analysis of a genomic region of Bacillus megaterium, a polyhydroxybutyrate (PHB)-producing microorganism, revealed the presence of a gene coding for the enzyme phosphotransbutyrylase (Ptb). Enzyme activity was measured throughout the different growth phases of B. megaterium and was found to correlate with PHB accumulation during the late-exponential growth phase. Ptb expression was repressed by glucose and activated by the branched amino acids isoleucine and valine. Overexpression of Act(Bm), a sigma(54) regulator from B. megaterium whose gene is located upstream from ptb, caused an increase in Ptb activity and PHB accumulation in B. megaterium (AU)</dc:description>
+<dc:publisher>Springer-Verlag Ibérica</dc:publisher>
+<dc:description xml:lang="es">El análisis molecular de una región del genoma de Bacillus megaterium, un microorganismo productor de polihidroxibutirato (PHB), reveló la presencia de un gen que codifica la enzima fosfotransbutirilasa (Ptb). La actividad enzimática se midió durante las diferentes fases de crecimiento de B. megaterium y se vio que su actividad estaba asociada a la acumulación de PHB al final de la fase de crecimiento exponencial. La glucosa inhibía la expresión de Ptb, mientras que los aminoácidos ramificados isoleucina y valina la activaban. La sobreexpresión de ActBm, un regulador sigma 54 de B. megaterium cuyo gen se encuentra en dirección 5&#146; a partir del gen ptb, hacía aumentar la actividad de Ptb y la acumulación de PHB en B. megaterium (AU)</dc:description>
+<dc:source>Int Microbiol;6(2): 127-129, jun. 2003. graf, tab</dc:source>
+<dc:title xml:lang="es">Evidencia de la asociación entre la acumulación de poly(3-hidroxibutirato) y la expresión de fosfotransbutirilasa en Bacillus megaterium</dc:title>
+<dc:type>article</dc:type>
+<dc:creator>Vazquez, Gustavo J</dc:creator>
+<dc:creator>Méndez, Beatriz S</dc:creator>
+<dc:creator>Pettinari, M Julia</dc:creator>
+<dc:language>en</dc:language>
+<dc:identifier>ibc-23616</dc:identifier>
+<dc:subject>^d21060</dc:subject>
+<dc:subject>^d1449</dc:subject>
+<dc:subject>^d13189</dc:subject>
+<dc:subject>^d1434</dc:subject>
+<dc:subject>^d7044^s22044</dc:subject>
+<dc:subject>^d601</dc:subject>
+<dc:subject>^d2280^s22078</dc:subject>
+<dc:subject>^d11526^s22044</dc:subject>
+<dc:subject>^d5938</dc:subject>
+<dc:subject>^d10904</dc:subject>
+<dc:subject>^d23143</dc:subject>
+<dc:date>200306</dc:date>
+</metadata>
+</record>
+</ibecs-document>

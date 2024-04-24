@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-31102</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cyclosporin pharmacokinetic modeling in renal transplant patients</dc:title>
+<dc:creator>Pallardó Mateu, L</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Arán Ediciones, S.A.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: El objetivo de este trabajo era caracterizar el comportamiento farmacocinético de ciclosporina oral (CsA) en pacientes con trasplante renal, a partir de la concentración sanguínea valle (C0) y, desarrollar y evaluar un método bayesiano para el ajuste individualizado de dosis diaria (DD).Material y métodos: Sesenta y siete pacientes (42 hombres y 25 mujeres) receptores de un injerto renal y subsidiarios de tratamiento con CsA (Sandimmun Neoral®) asociada a micofenolato de mofetilo (2g/día) y prednisona (0,5-1 mg/kg/día), fueron asignados aleatoriamente en dos grupos. El grupo A (n=48 pacientes) se utilizó para caracterizar el comportamiento farmacocinético de CsA y el grupo B (n=19 pacientes) se utilizaron para evaluar la capacidad predictiva bayesiana del modelo farmacocinético desarrollado. Se evaluaron distintas funciones para describir la relación entre DD y C0 a través de modelos de efectos mixtos, implementados en el software NONMEN. La exactitud y la precisión se evaluó mediante la media y la desviación estándar del error de predicción estandarizado de la DD. Resultados: El modelo de Michaelis-Menten con los parámetros constante de Michaelis-Menten (Km) y dosis máxima diaria (Dmax) dependientes del tiempo y, con términos autorregresivos de primer orden de DD y C0 incorporados al modelo estructural de forma aditiva, fue el modelo con el que se obtuvo el mejor ajuste de los datos experimentales. En el modelo final, el parámetro Dmax está afectado por los valores de urea plasmática y presenta un tiempo medio de estabilización de 90,90 días (IC 95 por ciento: 52,60 a 250 días). Para un valor de urea plasmática de 50 mg/dL, el valor inicial de Dmax es de 3 mg/kg/día (IC 95 por ciento: 1,81 a 4,19 mg/kg/día) y disminuye de forma exponencial con el tiempo post-trasplante hasta alcanzar un valor constante de 2,16 mg/kg/día (IC 95 por ciento: 1,41 a 2,91 mg/kg/día). El parámetro Km presenta un valor de tendencia central de 93,60 ng/mL (IC 95 por ciento: 28,60 a 158,60 ng/mL) y el tiempo medio necesario para su estabilización es de 12,70 días (IC 95 por ciento: 9,80 a 17,90 días). La variabilidad residual de este modelo ha sido de 8,2 por ciento. El cálculo de la media de los errores de predicción estandarizados poblacionales e individuales y su desviación estándar, así como sus intervalos de confianza 95 por ciento, confirma la adecuada exactitud y precisión de las predicciones realizadas, a priori y a posteriori, con este modelo. Además, proporciona entre 70 y 100 por ciento de predicciones a posteriori realizadas de forma secuencial con error de predicción por debajo del 10 por ciento. Conclusión: La caracterización del comportamiento farmacocinético de CsA exige considerar los parámetros Dmax y Km como funciones no lineales del tiempo y la adición al modelo de los términos autorregresivos de primer orden de DD y C0 (AU)</dc:description>
+<dc:source>Farm Hosp;28(1): 5-9, ene. 2004.</dc:source>
+<dc:identifier>ibc-31102</dc:identifier>
+<dc:title xml:lang="es">Modelado farmacocinético de ciclosporina en pacientes con trasplante renal</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d7344</dc:subject>
+<dc:subject>^d28635</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29475</dc:subject>
+<dc:subject>^d24300</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d14907</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d19402</dc:subject>
+<dc:subject>^d22622</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d9365</dc:subject>
+<dc:subject>^d9144</dc:subject>
+<dc:subject>^d6360</dc:subject>
+<dc:subject>^d30164</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200401</dc:date>
+</metadata>
+</record>
+</ibecs-document>

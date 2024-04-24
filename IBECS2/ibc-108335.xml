@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-108335</identifier>
+<setSpec>2253-654x</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Contribution of time of flight and point spread function modeling to the performance characteristics of the PET/CT Biograph mCT scanner</dc:title>
+<dc:description xml:lang="en">Objective. To characterize the performance of the Biograph mCT PET/CT TrueV scanner with time of flight (TOF) and point spread function (PSF) modeling. Material and methods. The PET/CT scanner combines a 64-slice CT and PET scanner that incorporates in the reconstruction the TOF and PSF information. PET operating characteristics were evaluated according to the standard NEMA NU 2-2007, expanding some tests. In addition, different reconstruction algorithms were included, and the intrinsic radiation and tomographic uniformity were also evaluated. Results. The spatial resolution (FWHM) at 1 and 10cm was 4.4 and 5.3mm, improving to 2.6 and 2.5mm when PSF is introduced. Sensitivity was 10.9 and 10.2 Kcps/MBq at 0 and 10cm from the axis. Scatter fraction was less than 34% at low concentrations and the noise equivalent count rate (NECR) was maximal at 27.8 kBq/mL with 182 Kcps, the intrinsic radiation produced a rate of 4.42 true coincidences per second. Coefficient of variation of the volume and system uniformity were 4.7 and 0.8% respectively. The image quality test showed better results when PSF and TOF were included together. PSF improved the hot spheres contrast and background variability, while TOF improved the cold spheres contrast. Conclusions. The Biograph mCT TrueV scanner has good performance characteristics. The image quality improves when the information from the PSF and the TOF is incorporated in the reconstruction (AU)</dc:description>
+<dc:creator>Rodríguez-Fraile, M</dc:creator>
+<dc:creator>Arbizu, J</dc:creator>
+<dc:creator>Vigil, C</dc:creator>
+<dc:creator>Peñuelas, I</dc:creator>
+<dc:creator>Richter, JA</dc:creator>
+<dc:creator>Domínguez-Prado, I</dc:creator>
+<dc:creator>Martí-Climent, JM</dc:creator>
+<dc:creator>García-Velloso, MJ</dc:creator>
+<dc:creator>Prieto, E</dc:creator>
+<dc:creator>Caicedo, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Caracterizar el funcionamiento del tomógrafo PET/TAC Biograph mCT TrueV que incorpora el tiempo de vuelo (TOF) y modeliza la respuesta a una fuente puntual (PSF). Material y métodos. El tomógrafo combina un TAC de 64 cortes y un PET que reconstruye tomográficamente con TOF y PSF. Las características de funcionamiento PET se evaluaron siguiendo el estándar NEMA NU-2-2007, ampliando algunas pruebas. Adicionalmente se evaluaron diferentes algoritmos de reconstrucción y se midieron la radiación intrínseca y la uniformidad tomográfica. Resultados. La resolución espacial (FWHM) a 1 y 10cm del eje fue de 4,4 y 5,3mm, mejorando al introducir la PSF a 2,6 y 2,5mm. La sensibilidad fue de 10,9 y 10,2 kcps/MBq a 0 y 10cm del eje. La fracción de dispersión fue inferior al 34% a bajas concentraciones y la tasa de sucesos equivalentes al ruido (NECR) fue máxima en 182 kcps a 27,8 kBq/mL. La radiación intrínseca produjo 4,42 coincidencias verdaderas por segundo. El coeficiente de variación de la uniformidad del volumen y del sistema fue del 4,7 y 0,8%. La prueba de calidad de imagen mostró mejores resultados al incluir conjuntamente PSF y TOF. Específicamente, la PSF mejoró el contraste de las esferas calientes y la variabilidad del fondo, mientras que el TOF aumentó el contraste de las esferas frías. Conclusiones. El tomógrafo tiene muy buenas características de funcionamiento, además la calidad de la imagen mejora al incorporar la información de la PSF y del TOF en la reconstrucción tomográfic (AU)</dc:description>
+<dc:source>Rev. esp. med. nucl. imagen mol. (Ed. impr.);32(1): 13-21, ene.-feb. 2013. tab, ilus</dc:source>
+<dc:identifier>ibc-108335</dc:identifier>
+<dc:title xml:lang="es">Aportación del tiempo de vuelo y de la modelización de la respuesta a una fuente puntual a las características de funcionamiento del tomógrafo PET/TAC Biograph mCT</dc:title>
+<dc:subject>^d54666^s22074</dc:subject>
+<dc:subject>^d9871^s22039</dc:subject>
+<dc:subject>^d9871^s22048</dc:subject>
+<dc:subject>^d54666^s22048</dc:subject>
+<dc:subject>^d9871^s22049</dc:subject>
+<dc:subject>^d54666^s22045</dc:subject>
+<dc:subject>^d54666^s22011</dc:subject>
+<dc:subject>^d54666^s22066</dc:subject>
+<dc:subject>^d38793^s22048</dc:subject>
+<dc:subject>^d9871^s22011</dc:subject>
+<dc:subject>^d38793^s22066</dc:subject>
+<dc:subject>^d38793^s22011</dc:subject>
+<dc:subject>^d38793^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201302</dc:date>
+</metadata>
+</record>
+</ibecs-document>

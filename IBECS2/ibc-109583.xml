@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-109583</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Contamination of paroxysmal activity in quantitative EEG methods in epileptic patients</dc:title>
+<dc:description xml:lang="en">Introduction. The presence of an acute spike-wave pattern in the recordings of epileptic patients can contaminate the calculated synchronisation values between pairs of electrodes. Materials and methods. We present a simple procedure, involving a numeric simulation of a bivariate electroencephalogram recording with paroxysmal activity, to determine whether or not a method for quantifying synchronisation must be used on any of the recordings that are typically employed in the preoperative evaluation of patients with epilepsy. Results. The information provided by this procedure makes it possible to distinguish between the authentic synchronisation  of baseline activity and that produced by paroxysmal activity, such as acute spike-wave patterns. The procedure developed   in this study makes it possible to quantify the degree of &#145;contamination&#146; produced by the synchronisation of the paroxysmal activity on the synchronisation values of the baseline activity. Conclusions. The issue addressed in this work is of fundamental importance when automatic methods are utilised in the  clinical applications of quantitative electroencephalography and can help to prevent diagnostic errors in which synchronisation is used as a marker of the pathology (AU)</dc:description>
+<dc:creator>Pastor, J</dc:creator>
+<dc:creator>Ortega, G. J</dc:creator>
+<dc:creator>Sola, R. G</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. La presencia de puntas y de ondas agudas en los registros de pacientes epilépticos puede contaminar los valores de sincronización calculados entre pares de electrodos. Materiales y métodos. Presentamos un procedimiento simple, por medio de una simulación numérica de un registro bivariante de electroencefalograma con actividad paroxística, para determinar si un método de cuantificación de la sincronización debe utilizarse (o no) sobre alguno de los registros típicamente usados en la evaluación preoperatoria en pacientes con epilepsia. Resultados. La información proporcionada por este procedimiento permite distinguir entre la auténtica sincronización de la actividad basal de la producida por la actividad paroxística, como puntas y ondas agudas. El procedimiento desarrollado permite cuantificar el grado de &#145;contaminación&#146; producido por la sincronización de la actividad paroxística sobre los  valores de sincronización de la actividad basal. Conclusión. La cuestión planteada en el presente trabajo es de fundamental importancia cuando se usan métodos automáticos en las aplicaciones clínicas de la electroencefalografía cuantitativa y puede servir para evitar errores diagnósticos en los que la sincronización se utiliza como marcador de la patología (AU)</dc:description>
+<dc:source>Rev Neurol;55(12): 13-17, dic. 2012. tab, ilus</dc:source>
+<dc:identifier>ibc-109583</dc:identifier>
+<dc:title xml:lang="es">Contaminación de la actividad paroxística en los métodos cuantitativos de electroencefalografía en pacientes epilépticos</dc:title>
+<dc:subject>^d3360</dc:subject>
+<dc:subject>^d4641^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4912^s22032</dc:subject>
+<dc:subject>^d3979^s22054</dc:subject>
+<dc:subject>^d4638^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201212</dc:date>
+</metadata>
+</record>
+</ibecs-document>

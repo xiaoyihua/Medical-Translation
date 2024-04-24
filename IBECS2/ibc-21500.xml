@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-21500</identifier>
+<setSpec>1130-0523</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Fetal cardiac rhabdomyoma</dc:title>
+<dc:creator>Gallo, M</dc:creator>
+<dc:creator>Barber Marrero, M. A</dc:creator>
+<dc:creator>Eguiluz, I</dc:creator>
+<dc:creator>Hijano, J. V</dc:creator>
+<dc:creator>Alonso, L</dc:creator>
+<dc:creator>Carrera, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Presentamos un caso clínico acontecido en nuestra unidad, así como una revisión de la bibliografía actual existente. Aportando las interesantes imágenes que nos llevaron al diagnóstico. (AU)</dc:description>
+<dc:source>Prog. diagn. prenat. (Ed. impr.);13(1): 73-75, ene. 2001. ilus</dc:source>
+<dc:identifier>ibc-21500</dc:identifier>
+<dc:title xml:lang="es">Rabdomioma cardíaco fetal</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d22261</dc:subject>
+<dc:subject>^d12618^s22023</dc:subject>
+<dc:subject>^d21012</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12618^s29166</dc:subject>
+<dc:subject>^d29142</dc:subject>
+<dc:subject>^d6492^s29166</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d6492^s22023</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200101</dc:date>
+</metadata>
+</record>
+</ibecs-document>

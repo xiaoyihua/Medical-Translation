@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-134436</identifier>
+<setSpec>0212-1611</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Can we improve the birth weight prediction? The effect of normal BMI using a multivariate model</dc:title>
+<dc:description xml:lang="en">Objective: The construction of a predictive model that improves the estimation of the fetal weight (EFW).Study Design: a comparative, descriptive study. One hundred forty pregnant women were recruited at two-stage sample in health department in Spain. They were classified in four groups depending on the pre-gestational BMI. Fetal weight at term was estimated by ultrasound at 33-35 weeks (EFW40w) by one gynecologist. A regression model was created with the variables that reacted to the newborn´s weight, symphysis-fundal height(SFH), EFW40w, gestational age (GA), ferritin level and cigarettes smoked. Results: A multivariate model was created for the NW group to estimate the fetal weight (EFWme), resulting in R2=0.727 (p&lt;0.001). The differences of the averages obtained between EFW40w and EFWme, with the new born´s weight were significant (p&lt;0.001). EFWme underestimates birth weight by 0.07 g (mean error 0.53%),and EFW40w overestimates it by 300.89 g (mean error10.12%). In order to evaluate the predictive model and verify the predictions we used the Bland-Altman analysis. The average error in estimating the birth weight with EFWme was 1.94% underestimating the result, whereas the ultrasound error overestimated the result 10.93%.Conclusion: The multivariate model created for the NW group improves the accuracy of the ultrasound (AU)</dc:description>
+<dc:creator>Alamar, S</dc:creator>
+<dc:creator>Vila-Candel, R</dc:creator>
+<dc:creator>Martin-Moreno, JM</dc:creator>
+<dc:creator>Soriano-Vidal, FJ</dc:creator>
+<dc:creator>Murillo, M</dc:creator>
+<dc:creator>Naranjo de la Puerta, FG</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objectivo: construir un modelo predictivo que mejore la estimación del peso del recién nacido (PFE). Material y Métodos: Estudio observacional dónde 140 gestantes fueron estudiadas mediante un muestreo bietápico en un Departamento de Salud en España. Fueron clasificadas en cuatro grupos dependiendo del IMC pregestacional materno. El peso proyectado al nacer fue estimado por la ecografía realizada entre las 33-35 semanas de gestación (PP40s). Se construyó un modelo de regresión con las variables que se reaccionaban con el peso al nacer, altura uterina (AU), PP40s, edad gestacional (EG), nivel de ferritina y cigarrillos consumidos. Resultados: Se construyó un modelo multivariante para el grupo Normo-peso para estimar el peso al nacer (PFm) obteniendo una R2=0,727 (p&lt;0,001). Las diferencias de las medias obtenidas entre PP40s y PFm, con el peso del recién nacido, fueron significativas (p&lt;0,001). El PFm infravalora el peso al nacer en 0,07 g (error medio 0,53%) y la PP40s lo sobrestima en 300,89 g (error medio 10,12%). Para evaluar el modelo predictive y verificar las predicciones realizadas se utilizó el análisis de Bland y Altman. El error medio de la estimación del peso al nacer mediante modelo multivariante fue de 1,94% infraestimando el resultado, en cambio el error cometido por la ecografía sobrestima el resultado en 10,93%. Conclusiones: El modelo multivariante construido, para el grupo NW, mejora la precisión de la ecografía (AU)</dc:description>
+<dc:source>Nutr Hosp;31(3): 1345-1351, mar. 2015. ilus, tab</dc:source>
+<dc:identifier>ibc-134436</dc:identifier>
+<dc:title xml:lang="es">¿Podemos mejorar la predicción del peso al nacer? El efecto del IMC pregestacional normal usando un modelo multivariante</dc:title>
+<dc:subject>^d22261</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d5402^s22062</dc:subject>
+<dc:subject>^d11732^s22045</dc:subject>
+<dc:subject>^d27937^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24542</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d29441</dc:subject>
+<dc:subject>^d1848</dc:subject>
+<dc:subject>^d1748</dc:subject>
+<dc:subject>^d29399</dc:subject>
+<dc:subject>^d15000^s22004</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d13344</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d53386</dc:subject>
+<dc:subject>^d29142^s22074</dc:subject>
+<dc:subject>^d5443^s22004</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201503</dc:date>
+</metadata>
+</record>
+</ibecs-document>

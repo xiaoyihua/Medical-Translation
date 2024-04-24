@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-36014</identifier>
+<setSpec>0048-7120</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Brain damage</dc:title>
+<dc:creator>Gangoiti, L</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">El término daño cerebral incluye las lesiones de cualquier etiología que se producen sobre un cerebro previamente desarrollado. Su incidencia está en nuestro entorno, en aumento constante.Este aumento continuo, muy especialmente a expensas de adultos jóvenes, ha convertido al daño cerebral en una de las prioridades de los sistemas sanitarios desarrollados.Simultáneamente el mejor conocimiento de la capacidad de plasticidad cerebral ha potenciado el desarrollo de programas de rehabilitación de intervención precoz, multidisciplinarios, que tienen como objetivo recuperar la máxima autonomía personal posible.También el perfeccionamiento de las técnicas de neuroimagen nos ha dotado de herramientas altamente diagnósticas, el desarrollo de los programas de reaprendizaje vinculados a tareas específicas, y las posibilidades de las nuevas tecnologías de la rehabilitación nos permiten ofrecer programas terapéuticos muy individualizados.El Centro Estatal de Atención al Daño Cerebral (CEADAC) se crea como centro de referencia estatal, y con vocación sociosanitaria, para dar respuesta a las necesidades de estos pacientes y sus familias, mejorando su calidad de vida (AU)</dc:description>
+<dc:source>Rehabilitación (Madr., Ed. impr.);38(6): 313-317, oct. 2004.</dc:source>
+<dc:identifier>ibc-36014</dc:identifier>
+<dc:title xml:lang="es">Daño cerebral</dc:title>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12467^s22045</dc:subject>
+<dc:subject>^d33888^s22031</dc:subject>
+<dc:subject>^d34226^s22061</dc:subject>
+<dc:subject>^d3725^s22031</dc:subject>
+<dc:subject>^d28483^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200410</dc:date>
+</metadata>
+</record>
+</ibecs-document>

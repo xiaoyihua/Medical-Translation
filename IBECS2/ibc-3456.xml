@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-3456</identifier>
+<setSpec>1575-734X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Isolation and characterization of major antigens from Anisakis simplex</dc:title>
+<dc:creator>González Porqué, P</dc:creator>
+<dc:creator>Bootello, A</dc:creator>
+<dc:creator>Ortega Paíno, E</dc:creator>
+<dc:creator>Moneo, I</dc:creator>
+<dc:creator>Cespón, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Saned, S.A.</dc:publisher>
+<dc:description xml:lang="es">La anisakiasis o anisakidosis es una enfermedad causada por la larva de Anisakis simplex tras la ingesta de pescado crudo o poco cocinado. Se han descrito cuadros gastrointestinales, gastroalérgicos y un tercer grupo que correspondería con la llamada hipersensibilidad de Anisakis. Caracterizar los antígenos implicados en esta reacción alérgica fue la meta del estudio. Métodos: Tras la obtención de las larvas del parásito se realizó un marcaje metabólico con Leu-C14 y posterior homogeneizado de éstas y de las restantes larvas sin marcar. Se identificaron las distintas proteínas presentes en el parásito y en el huésped por PAGE-SDS y posterior autorradiografía, diferenciando así las proteínas que sintetiza el nematodo. Se fraccionó un extracto de Anisakis por filtración en gel (Sephacryl S-200), y se ensayaron las fracciones obtenidas por inmunodetección. Resultados: Se aisló una proteína de 22 KDa que estaba presente en el grupo de aquellas que sintetizaba el parásito. La fracción que contenía esta proteína fue reconocida en todos los casos en los sueros de pacientes hipersensibilizados a Anisakis simplex. Posteriormente se analizó su punto isoeléctrico, presentando un pl de aproximadamente 5.5. Conclusiones: Se ha logrado caracterizar una proteína de 22kDa y pl 5.5 que podría estar implicada en las reacciones de hipersensibilidad de algunos pacientes frente a Anisakis simplex. (AU)</dc:description>
+<dc:source>Alergol. inmunol. clín. (Ed. impr.);15(4): 262-266, ago. 2000. graf</dc:source>
+<dc:identifier>ibc-3456</dc:identifier>
+<dc:title xml:lang="es">Aislamiento y caracterización de antígenos principales en Anisakis simplex</dc:title>
+<dc:subject>^d23089^s22001</dc:subject>
+<dc:subject>^d23025^s22038</dc:subject>
+<dc:subject>^d5651^s22038</dc:subject>
+<dc:subject>^d4664^s22045</dc:subject>
+<dc:subject>^d19042</dc:subject>
+<dc:subject>^d30847^s22052</dc:subject>
+<dc:subject>^d2899^s22045</dc:subject>
+<dc:subject>^d6973^s22038</dc:subject>
+<dc:subject>^d30848^s22012</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200008</dc:date>
+</metadata>
+</record>
+</ibecs-document>

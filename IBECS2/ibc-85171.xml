@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-85171</identifier>
+<setSpec>1888-4008</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Review of critical values determined in Point-of-Care Testing units</dc:title>
+<dc:description xml:lang="en">Introduction. The identification and immediate notification of critical results is crucial to assure appropriate patient care. The Emergency Laboratory has led a POCT blood gases and electrolytes project for 10 years (17 decentralized analyzers), according to scientific societies recommendations (SEQC and NACB). The objective of this study is to review critical results of blood gases, electrolytes and metabolites determined in Point-Of-Care Testing (POCT) units and in the Emergency Laboratory (LABURG) in 2007. Material and methods. Using the laboratory information system, we obtained the results of blood gases, electrolytes and metabolites carried out in POCT and LABURG (nPOCT=201.746 and nLABURG=134.839 for gases and nPOCT=278.075 and nLABURG=651.016 for electrolytes and metabolites). As critical values for each parameter we used the mean of the limits proposed by Kost in 2007. The percentages of the results above or below those limits in POCT and LABURG were calculated. Results. The percentages of critical values in POCT and LABURG were: 13.68% vs. 3.39% for gases, 2.21% vs. 1.82% for electrolytes and 6.66% vs. 1.37% for metabolites. The parameters with more critical results were pO2, lactic acid and pH. Conclusions. The higher percentage of critical values in POCT units compared to LABURG is due to the number critical patients seen in these units, and it supports the importance of designing and developing new laboratory projects in order to carry out these determinations at the patient bedside (AU)</dc:description>
+<dc:creator>Buño Soto, Antonio</dc:creator>
+<dc:creator>Gómez Rioja, Rubén</dc:creator>
+<dc:creator>Boteanu, Cosmin</dc:creator>
+<dc:creator>Fernández Calle, Pilar</dc:creator>
+<dc:creator>Oliver Sáez, Paloma</dc:creator>
+<dc:creator>Alcaide Martín, María José</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. La detección y la comunicación rápida de resultados críticos es crucial para asegurar una adecuada atención al paciente. El Laboratorio de Urgencias (LABURG) lidera desde hace 10 años un proyecto de POCT (Point-of-care testing&#145;pruebas realizadas en el lugar de asistencia al paciente&#146;) de gasometrías (con 17 analizadores descentralizados) acorde con recomendaciones de sociedades científicas (como la Sociedad Española de Bioquímica Clínica y Patología Molecular y la National Academy of Clinical Biochemistry). El objetivo de este estudio es realizar una revisión de los valores críticos en el año 2007 en los resultados de gases, electrólitos y metabolitos realizados en gasómetros en las POCT y en el LABURG. Material y métodos. A partir del sistema informático del laboratorio, se obtuvieron los resultados de las gasometrías, electrólitos y metabolitos realizados en las POCT y en el LABURG (nPOCT=201.746 y nLABURG=134.839 para gases; nPOCT=278.075 y nLABURG=651.016 para electrólitos y metabolitos). Como valores críticos para cada uno de los parámetros, se utilizaron las medias de los límites propuestos por Kost en su revisión de 2007. Se calcularon los porcentajes de resultados situados fuera de ellos en las POCT y en el LABURG. Resultados. Los porcentajes de valores críticos en las POCT y en el LABURG fueron respectivamente del 13,68 frente al 3,39% para gases, del 2,21 frente al 1,82% para electrólitos y del 6,66 frente al 1,37% para metabolitos. Los parámetros con más porcentaje de resultados críticos fueron la presión parcial de oxígeno, el lactato y el pH. Conclusiones. El mayor porcentaje de valores críticos en unidades de POCT respecto al del LABURG responde al tipo de pacientes que atienden estas unidades y apoya la necesidad de desarrollar proyectos para acercar estas determinaciones a la cabecera del paciente, proyectos liderados desde el laboratorio (AU)</dc:description>
+<dc:source>Rev. lab. clín;2(2): 94-98, abr. 2009. tab</dc:source>
+<dc:identifier>ibc-85171</dc:identifier>
+<dc:title xml:lang="es">Revisión de valores críticos obtenidos en gasometrías realizadas en el lugar de asistencia al paciente</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d33124^s22074</dc:subject>
+<dc:subject>^d4645^s22002</dc:subject>
+<dc:subject>^d33124^s22066</dc:subject>
+<dc:subject>^d4645</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4710^s22045</dc:subject>
+<dc:subject>^d6091^s22044</dc:subject>
+<dc:subject>^d6091^s22002</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d4705</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200904</dc:date>
+</metadata>
+</record>
+</ibecs-document>

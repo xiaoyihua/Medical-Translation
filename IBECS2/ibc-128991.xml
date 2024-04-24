@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-128991</identifier>
+<setSpec>1130-0108</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Radio induced cancer risk during ERCP. Is it a real clinical problem?</dc:title>
+<dc:description xml:lang="en">Background: in recent years many factors have been shown to influence dose received by the patient during ERCP. Therefore it is necessary to update radio induced cancer risk. Objectives: to calculate lifetime attributable risk of cancer during ERCP. To compare the risk with the most common X-ray examinations. Design: descriptive study with 393 consecutive ERCP performed at one center. Equipment used was Philips BV pulsera. In each exploration demographic and anthropometric variables of the patient were collected. Dosimetric quantities were calculated from exposure parameters. Effective dose was estimated using specific conversion factors. Organ doses and radio induced cancer incidence was estimated. Results: dose area product was 0.82 mGym2 (IQR 0.4-1.5) with an average fluoroscopy time of 2 minutes and 45 seconds. Entrance surface dose was 30.7 mGy (IQR 15-60.8) and effective dose was 0.44 mSv (IQR 0.2-0.9). Multivariate analysis identified that difficult papillary cannulation (&amp;#946;0.4; p = 0.009), patient age (&amp;#946;-0.01; p = 0.001) and therapeutic applied (&amp;#946;= 0.89; p &lt; 0.001) influenced dose-area product. The ERCP dose would be equivalent to the radiation received by twenty chest radiographs and would be about fourteen times smaller than a barium enema or twenty times less than that received during an abdominal CT. Lifetime attributable risk of cancer incidence was 4.08 and 16.81 per million procedures in diagnostic and therapeutic ERCP respectively. Conclusions: from the radiological point of view, ERCP is a safe technique that uses low exposure levels compared to other explorations commonly used in medicine. It implies a reasonably low risk of radio induced cancer (AU)</dc:description>
+<dc:creator>Rodríguez-Perálvarez, Manuel Luis</dc:creator>
+<dc:creator>Naranjo-Rodríguez, Antonio</dc:creator>
+<dc:creator>Soler-Cantos, María del Mar</dc:creator>
+<dc:creator>Miñano-Herrrero, José Antonio</dc:creator>
+<dc:creator>Benítez-Cantero, José Manuel</dc:creator>
+<dc:creator>Hervás-Molina, Antonio José</dc:creator>
+<dc:creator>Pleguezuelo-Navarro, María</dc:creator>
+<dc:creator>García-Sánchez, Valle</dc:creator>
+<dc:creator>Mata-García, Manuel de la</dc:creator>
+<dc:language>en</dc:language>
+<dc:source>Rev Esp Enferm Dig;103(4): 191-195, abr. 2011. tab, ilus</dc:source>
+<dc:identifier>ibc-128991</dc:identifier>
+<dc:title xml:lang="es">Riesgo de cáncer por irradiación durante ERCP. ¿Es un problema clínico real?</dc:title>
+<dc:subject>^d9575^s29166</dc:subject>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d9575^s22080</dc:subject>
+<dc:subject>^d9575^s22016</dc:subject>
+<dc:subject>^d24769</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d23248^s22045</dc:subject>
+<dc:subject>^d13195</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d9575^s22012</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201104</dc:date>
+</metadata>
+</record>
+</ibecs-document>

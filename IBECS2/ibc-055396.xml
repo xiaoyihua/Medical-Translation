@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-055396</identifier>
+<setSpec>0004-0614</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Essentials aspects of robotic systems</dc:title>
+<dc:description xml:lang="en">OBJECTIVES: Most advances in Surgery can now be seen to have been preceded by the inventionof new instruments. Conventional surgery progressedas new instruments became available. Transurethral resections became routine following the introduction 80 years ago of the resectoscope: a highly revolutionary instrument at that time. Ureterorenoscopes and nephroscopes opened new windows of opportunity for urologists.When the therapeutic potential of extracorporeal lithotripsy, was first mentioned in the literature most surgeonsthought it was mere science-fiction fantasy. Very soon however, this new technique, the fruit of close collaborationbetween urologists and engineers, became a common-place reality. Laparoscopy met with similar disbelief and the early applications gave rise to controversyand even consternation, yet only a few years later most of our urological surgical procedures have adopted this technique.METHODS: At the beginning of the 20th century the astoundingadvances in engineering led many to forecast that before its end those systems might mimic human intelligence.However, many attempts to construct a rational thinking device revealed that even today this ambitious project was a still an unattainable dream. Consequently, attempts to design an autonomous urological surgical robot that might carry out unsupervised transurethral resectionswere unfruitful because the inherent and unpredictablecomplexity of surgical procedures obliges close and rigorous control by the surgeon. This important limitationled to the creation of &#145;master-slave&#146; systems similar to those designed by our team in 1998 for transurethral resection. These are relatively simple tools and are infinitelysafer than autonomous robots because they aim to effectively help the surgeon rather than replace him.RESULTS/CONCLUSIONS: The oft-repeated argument about whether or not a robot might ever replace the surgeonnow has little sense because today it is merely a tool, an instrument for the surgeon&#146;s hands. The devices available today lack the all-important tactile feedback and to use them effectively, the surgeon is obliged to servea new and arduous apprenticeship and the learning curve is unavoidably steep. Consequently, many prestigiousauthors understandably feel unable to recommend their use. Our accumulated experience with master-slave manipulators stimulates us to confidently predict that soonerthan later, whether we like it or not, surgical robots will evolve to become indispensable tools that enhance the surgeon&#146;s skill, precision and speed in many surgical procedures</dc:description>
+<dc:creator>Sánchez de Badajoz, Eduardo</dc:creator>
+<dc:creator>Muñoz Martínez, Víctor Fernando</dc:creator>
+<dc:creator>Jiménez Garrido, Adolfo</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">OBJETIVOSDesde la antigüedad los adelantos en medicina se deben en gran parte a las herramientas utilizadas. Para la cirugía convencional se necesita un instrumental, igual ocurre con la resección transuretral que precisa de un resector, que fue un instrumento muy avanzado para la época en la que se creó. Lo mismo sucede con la ureterorrenoscopia o la nefroscopia. La litotricia extracorpórea surgió gracias a la estrecha colaboración entre ingenieros y urólogos, lo que supuso una auténtica revolución en la medicina. La laparoscopia ha dado lugar a una conmoción si cabe mayor, ya que gran parte de nuestra cirugía ha habido que adaptarla a esta nueva técnica. METODOSLos grandes avances tecnológicos habidos a principios del siglo XX hicieron pensar que a finales de siglo estos sistemas serían capaces de imitar a la inteligencia humana, pero al intentar fabricar una mente racional se llegó a la conclusión de que conseguir que estos instrumentos tomaran decisiones suponía un desafío monumental inviable hoy en día. Por ello, ya dentro de la Urología, el intento de crear un robot autónomo para la resección transuretral fracasó, porque la complejidad de un procedimiento quirúrgico requiere un estricto y riguroso control por parte del cirujano. Ello dio lugar a los sistemas maestro-esclavo, como el diseñado por nosotros en 1998 para la resección transuretral, que son simples herramientas, infinitamente más seguras que el robot independiente, que facilitan el trabajo del cirujano pero que no lo sustituyen. RESULTADOS Y CONCLUSIONES: La reiterada polémica de que si los robots van a sustituir al cirujano no tiene sentido, porque de momento son tan sólo simples instrumentos. Los manipuladores existentes hoy en día, al carecer de sensibilidad táctil, tienen una larga curva de aprendizaje. Todo ello hace que por ahora no pocos autores de prestigio desaconsejen su uso. Sin embargo nosotros estamos convencidos de que, antes de que lo imaginemos, lo queramos o no, los robots en cirugía serán instrumentos obligados e imprescindibles y de que su uso se habrá generalizado</dc:description>
+<dc:source>Arch Esp Urol;60(4): 343-347, mayo 2007.</dc:source>
+<dc:identifier>ibc-055396</dc:identifier>
+<dc:title xml:lang="es">Aspectos esenciales de los sistemas robóticos urológicos</dc:title>
+<dc:subject>^d30912^s22074</dc:subject>
+<dc:subject>^d19341^s22034</dc:subject>
+<dc:subject>^d19341^s22045</dc:subject>
+<dc:subject>^d19341^s22066</dc:subject>
+<dc:subject>^d30912^s22045</dc:subject>
+<dc:subject>^d30912^s22066</dc:subject>
+<dc:subject>^d34537^s22045</dc:subject>
+<dc:subject>^d14972^s22045</dc:subject>
+<dc:subject>^d14972^s22039</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200705</dc:date>
+</metadata>
+</record>
+</ibecs-document>

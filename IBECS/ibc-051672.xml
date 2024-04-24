@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-051672</identifier>
+<setSpec>0214-9168</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cardiac imaging in multidetector row computed tomography</dc:title>
+<dc:description xml:lang="en">Helical computed tomography (CT) emerged during the 1990s and represented an advance in CT technology, allowing images to be visualized in different planes. This was due to volumetric acquisition, i.e. the X-ray tube is active while the table is moving into the gantry. The possibility of increasing the number of detectors allowed the procedure to be performed more rapidly as several images could be obtained in each tube rotation (4, 16, 40 or 64). Thus, volume (thorax or abdomen) could be studied with better spatial resolution and images of as little as 0.5mm of collimation. Temporal resolution, defined as the time required to obtain an image, markedly improved due to faster tube rotation. However, in cardiac evaluation, synchronization with the cardiac phase was required to acquire images in telediastole, allowing not only visualization of the coronary arteries but also evaluation of coronary artery bypass grafts, stents, coronary anomalies, and even ventricular function (AU)</dc:description>
+<dc:creator>Trillo, Ramiro</dc:creator>
+<dc:creator>Costas, M. Isabel</dc:creator>
+<dc:creator>Fernández-Pérez, Gabriel C</dc:creator>
+<dc:creator>Tardáguila Montero, Francisco</dc:creator>
+<dc:creator>Noriega, Félix</dc:creator>
+<dc:creator>Velasco, María</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La aparición de la tomografía computarizada (TC) helicoidal en la década de los años noventa supuso el salto tecnológico para obtener imágenes en distintos planos del espacio. Esto se debió a la adquisición volumétrica, es decir, el tubo de rayos X mantenía la exposición mientras la mesa se movía de forma continua. La posibilidad de aumentar el número de detectores favorecía la rapidez al obtener varias imágenes (4, 16, 40 o 64) en cada giro del tubo. Así se estudia un volumen (tórax o abdomen) con mejor resolución espacial e imágenes muy finas: 0,5 mm. La resolución temporal, que es el tiempo para obtener una imagen, mejoró significativamente debido a la mayor velocidad en el giro del tubo. Sin embargo, en el estudio del corazón se precisa también la sincronización con el ciclo cardíaco para adquirir las imágenes en la zona telediastólica, lo que posibilita no sólo la visualización de las arterias coronarias, sino también la valoración de los bypass, stents, anomalías coronarias e incluso el estudio de la función ventricular (AU)</dc:description>
+<dc:source>Clín. investig. arterioscler. (Ed. impr.);19(1): 49-55, ene. 2007. ilus</dc:source>
+<dc:identifier>ibc-051672</dc:identifier>
+<dc:title xml:lang="es">Tomografía computarizada multidetectora en el estudio cardíaco</dc:title>
+<dc:subject>^d24375^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3343^s22058</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200701</dc:date>
+</metadata>
+</record>
+</ibecs-document>

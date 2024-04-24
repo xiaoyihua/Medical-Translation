@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-108011</identifier>
+<setSpec>0214-3429</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Pharmacoeconomic analysis of the treatment of methicillin-resistant Staphylococcus aureus with daptomycin or vancomycin</dc:title>
+<dc:description xml:lang="en">Introduction. The increased morbidity, mortality and high costs associated with bacteremia caused by methicillin-resistant Staphylococcus aureus (MRSA) is a major public health problem. Pharmacoeconomic analysis was performed to compare the efficiency of daptomycin (DAP) against vancomycin (VAN) in the treatment of this infection. Methods. Retrospective, deterministic and probabilistic cost-effectiveness analysis. The effectiveness of the treatments was estimated from the results of a randomized clinical trial, which compared DAP (6 mg / kg IV daily) and VAN (1 g IV every 12 hours), both with or without gentamicin (1 mg / kg IV every 8 hours). Resource utilization was estimated from the clinical trial of the drug datasheets and Spanish sources, the unit costs were obtained also from Spanish sources. Monte Carlo probabilistic analysis and deterministic analysis were performed. Results. The clinical trial cure rates were higher with DAP (44.4%, 95% CI 43.5 to 45.4%) than with VAN (31.8%, 95% CI 30.9 to 32.7%) not statistically significant (p = 0.2203) but with economic impact. With DAP would occur less costs due to treatment failure (rescue antibiotics, additional tests, prolonged hospital stay and adverse reactions) than with VAN. In the base case the average cost of disease per patient was &#128; 12,329 to &#128; 12,696 with DAP and VAN (difference of 367 &#128;). DAP treatment was dominant (more effective, with lower costs than VAN) both in the deterministic and probabilistic analysis. In the Monte Carlo simulation, DAP was the most cost-effective treatment in 100% of the 10,000 simulations, for a willingness to pay &#128; 12,000 per additional cure (approximate cost of MRSA bacteraemia episode). Conclusions. According to this model, daptomycin is more cost-effective than vancomycin in treating MRSA bacteremia. The higher cost of acquisition of daptomycin does not imply a higher cost of treating this infectio(AU)</dc:description>
+<dc:creator>Santiago Grau, Santiago</dc:creator>
+<dc:creator>Rubio-Terrés, Carlos</dc:creator>
+<dc:creator>Majos, Nuria</dc:creator>
+<dc:creator>Rubio-Rodríguez, Darío</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. La creciente morbilidad, la elevada mortalidad y el coste relacionado con las bacteriemias producidas por Staphylococcus aureus resistente a meticilina (SARM) constituyen un importante problema de salud pública. Se efectuó un análisis farmacoeconómico, para comparar la eficiencia de daptomicina (DAP) frente a vancomicina (VAN) en el tratamiento de esta infección. Métodos. Análisis retrospectivo, determinístico y probabilístico, de coste-efectividad. La eficacia de los tratamientos se estimó a partir de los resultados de un ensayo clínico aleatorizado, en el que se compararon DAP (6 mg/kg IV al día) y VAN (1 g IV cada 12 horas), ambos con o sin gentamicina (1 mg/kg IV cada 8 horas). La utilización de recursos se estimó a partir del ensayo clínico, de las fichas técnicas de los medicamentos y de fuentes españolas; los costes unitarios se obtuvieron asimismo de fuentes españolas. Se realizaron un análisis probabilístico de Monte Carlo y análisis determinísticos. Resultados. En el ensayo clínico las tasas de curación clínica fueron mayores con DAP (44,4%; IC95% 43,5-45,4%) que con VAN (31,8%; IC95% 30,9-32,7%) sin significación estadística (p=0,2203) pero con impacto económico. Con DAP se producirían menos costes debidos a los fracasos del tratamiento (antibióticos de rescate, pruebas adicionales, prolongación de la estancia hospitalaria y reacciones adversas) que con VAN. En el caso base el coste medio de la enfermedad por paciente fue de 12.329 &#128; con DAP y 12.696 &#128; con VAN (diferencia de 367 &#128;). DAP fue el tratamiento dominante (más eficaz, con menores costes que VAN) tanto en el análisis probabilístico como en los determinísticos. En la simulación de Monte Carlo DAP fue el tratamiento más coste-efectivo en el 100% de las 10.000 simulaciones efectuadas, para una disponibilidad a pagar de 12.000 &#128; por curación adicional (coste aproximado de un episodio de bacteriemia por SARM). Conclusiones. De acuerdo con este modelo, daptomicina es más coste-efectiva que vancomicina en el tratamiento de la bacteriemia por SARM. El mayor coste de adquisición de daptomicina no implica un mayor coste del tratamiento de esta infección(AU)</dc:description>
+<dc:source>Rev Esp Quimioter;25(4): 283-292, dic.2012. tab, ilus</dc:source>
+<dc:identifier>ibc-108011</dc:identifier>
+<dc:title xml:lang="es">Análisis farmacoeconómico del tratamiento de la bacteriemia por Staphylococcus aureus resistente a meticilina con daptomicina y vancomicina</dc:title>
+<dc:subject>^d23504^s22073</dc:subject>
+<dc:subject>^d31495^s22066</dc:subject>
+<dc:subject>^d8889^s22073</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d53002^s22021</dc:subject>
+<dc:subject>^d53002^s22001</dc:subject>
+<dc:subject>^d30152^s22066</dc:subject>
+<dc:subject>^d22164^s22021</dc:subject>
+<dc:subject>^d31518^s22073</dc:subject>
+<dc:subject>^d30241^s22057</dc:subject>
+<dc:subject>^d53002^s29165</dc:subject>
+<dc:subject>^d34573^s22021</dc:subject>
+<dc:subject>^d13596^s22001</dc:subject>
+<dc:subject>^d30241^s22018</dc:subject>
+<dc:subject>^d13596^s22021</dc:subject>
+<dc:subject>^d29045^s22021</dc:subject>
+<dc:subject>^d31495^s22049</dc:subject>
+<dc:subject>^d50303</dc:subject>
+<dc:subject>^d31495^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201212</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-139234</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">New mammography technologies and their impact on radiation dose</dc:title>
+<dc:description xml:lang="en">This article reviews new mammography technologies resulting from advances in digital detectors and processing techniques. Most are just starting to be commercialized or are in the clinical trial phase. The results of clinical trials with the new 2 D techniques (contrast-enhanced techniques or stereotactic techniques) show they are useful for diagnosing cancer. However, the greater complexity of the image acquisition process suggests that their use will be limited to particular cases such as inconclusive lesions or women with high risk for developing breast cancer. Among the 3 D technologies (breast tomography and breast tomosynthesis), only breast tomosynthesis has been implemented in clinical practice, so it is the only technique for which it is possible to know the sensitivity, specificity, and radiation dose delivered. This article describes the principles underlying the way breast tomosynthesis works and the techniques used for image acquisition and reconstruction. It also summarizes the main results obtained in clinical studies, which generally show that breast tomosynthesis increases the breast cancer detection rate while decreasing the recall rate and number of biopsies taken. The protocol for breast tomosynthesis approved by the Food and Drug Administration (USA) consists of two conventional mammography projections for each breast and two tomosynthesis projections for each breast. This means multiplying the risks of inducing cancer and death associated with 2 D mammography by a factor between 2 and 3 (2.6-3.3 and 0.7-0.9 per 100,000 women exposed when 50 years old, respectively). The protocol for breast tomosynthesis examinations is one of the aspects that is essential to determine when including tomosynthesis in screening programs and routine breast imaging (AU)</dc:description>
+<dc:creator>Chevalier del Rio, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En este trabajo se presenta una revisión de las nuevas tecnologías que están surgiendo en el campo de la mamografía como consecuencia del progreso habido en los detectores digitales y las técnicas de procesado. La mayor parte de ellas están comenzando a comercializarse o en fase de ensayo clínico. Los resultados de los ensayos clínicos realizados con las nuevas técnicas 2 D (técnicas de realce de contraste o de visión estereoscópica) muestran la utilidad de estas metodologías en el diagnóstico del cáncer. Sin embargo, la mayor complejidad del proceso de obtención de imágenes sugiere que su uso quedará limitado a casos particulares como por ejemplo lesiones dudosas o mujeres con alto riesgo de desarrollar esta enfermedad. Entre las tecnologías 3 D (tomografía y tomosíntesis de mama), la tomosíntesis digital de mama (DBT) es la única con implantación en la clínica, lo que posibilita el tener un mayor conocimiento sobre su sensibilidad y especificidad en el diagnóstico del cáncer, así como en los valores de dosis impartidos. En este artículo especial se hace una descripción más detallada de sus principios de funcionamiento y de las técnicas de adquisición y reconstrucción de las imágenes. También se resumen los principales resultados obtenidos en los estudios clínicos que, en líneas generales, muestran que el empleo de la DBT produce un aumento en la tasa de cánceres detectados y una reducción de la tasa de rellamadas y del número de biopsias realizadas. El protocolo aprobado por la Food and Drug Administration (EE. UU.) para los exámenes de mama con DBT consiste en 2 proyecciones por mama con mamografía convencional y 2 proyecciones por mama con tomosíntesis. Esto significa multiplicar por un factor que está entre 2 y 3 los riesgos de inducción de cáncer y de mortalidad asociados con la mamografía 2 D (2,6-3,3 y 0,7-0,9 por 100.000 mujeres respectivamente, para mujeres que fueron expuestas a los 50 años). El protocolo a seguir en los exámenes con tomosíntesis se revela pues como uno de los aspectos esenciales a determinar de cara a la inclusión de la tomosíntesis en los programas de cribado o en los exámenes de mama rutinarios (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);55(supl.2): 25-34, dic. 2013. tab, ilus</dc:source>
+<dc:identifier>ibc-139234</dc:identifier>
+<dc:title xml:lang="es">Nuevas tecnologías en mamografía y su impacto en los valores de dosis</dc:title>
+<dc:subject>^d12268</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d23307^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201312</dc:date>
+</metadata>
+</record>
+</ibecs-document>

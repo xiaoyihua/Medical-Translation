@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-159354</identifier>
+<setSpec>1137-6627</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Trends in transport accident mortality from 1999 to 2013 in Navarra. Characteristics of people and vehicles involved</dc:title>
+<dc:description xml:lang="en">Objective. To analyze transport accident mortality trends in Navarra, a region in the North of Spain, between 1999 and 2013 and assess the effect of the Demerit Point System. Methods. Cause of death coding was done according to ICD-10 with information from the medical death certificate and forensic reports. Mortality rates by age, sex, type of victim and residence (urban/rural) were calculated. We performed an ARIMA Box and Jenkins analysis to estimate the effect on mortality rates due to transport accidents of the Demerit Point System, which had been introduced in Spain in July 2006. Results. From January 1st 1999 to December 31st 2013, 1,052 deaths were registered, 1,044 of which were from accidents involving ground transport vehicles (1,020 from road traffic accidents and 24 from non-road traffic accidents). Mortality rates were higher in men and people aged 18-24 and 65-84. Most of the deaths amongst younger men and adults occurred in drivers, while fatalities occurring in those older than 84 years were mostly in pedestrians. Men and women living in rural areas had a mortality risk from transport accident 33% and 21% higher than people living in urban areas. Since the introduction of the Demerit Point System, mortality rates have fallen by 51%. Conclusions. Mortality statistics for Navarra show the effectiveness of preventive strategies designed in Spain during recent years (AU)</dc:description>
+<dc:creator>Rosa Fernández-Pacheco, PA de la</dc:creator>
+<dc:creator>Delfrade Osinaga, J</dc:creator>
+<dc:creator>Moreno-Iribas, C</dc:creator>
+<dc:creator>Teijeira Álvarez, R</dc:creator>
+<dc:creator>Floristán Floristán, Y</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamento. Se analizan las tendencias de la mortalidad por accidentes de transporte entre 1999 y 2013 y se evalúa el impacto de la introducción del permiso de conducción por puntos en Navarra. Material y métodos. Los datos para la realización de este estudio proceden de los ficheros de defunciones según la causa de muerte que anualmente publica el Instituto Nacional de Estadística (INE). La codificación de la causa de defunción se realizó con la CIE-10, a partir de la información de los documentos estadísticos de defunción y los informes forenses. Se calcularon tasas por edad, sexo, tipo de víctima, tipo de accidente y residencia (urbano/rural). Para estimar el efecto de la ley del permiso de conducción por puntos que entró en vigor en julio de 2006 se utilizó un modelo ARIMA de Box and Jenkins de series temporales. Resultados. Se registraron un total de 1.052 fallecimientos por accidentes de transporte, de los cuales 1.044 fueron de vehículos de transporte terrestre (1.020 por accidentes de tráfico y 24 por accidentes no de tráfico). Entre los jóvenes, destaca la mortalidad en conductores de vehículo de motor; mientras que entre los mayores de 84 años, las víctimas fueron en mayor proporción peatones. Los hombres y mujeres residentes en zonas rurales presentaron tasas de mortalidad un 33% y un 21% más elevadas. Tras la instauración del permiso de conducción por puntos, la tasa de mortalidad por accidente de tráfico descendió un 51%. Conclusiones. Las estadísticas de mortalidad de Navarra muestran la efectividad de las estrategias preventivas organizadas en España (AU)</dc:description>
+<dc:source>An Sist Sanit Navar;39(3): 389-397, sept.-dic. 2016. tab, graf</dc:source>
+<dc:identifier>ibc-159354</dc:identifier>
+<dc:title xml:lang="es">Evolución de la mortalidad por accidentes de transporte en Navarra durante 1999-2013. Características de las personas y vehículos involucrados</dc:title>
+<dc:subject>^d23893^s22083</dc:subject>
+<dc:subject>^d1340^s22041</dc:subject>
+<dc:subject>^d5688^s22045</dc:subject>
+<dc:subject>^d23893^s22054</dc:subject>
+<dc:subject>^d28418</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28637^s22066</dc:subject>
+<dc:subject>^d23893^s22047</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d1340^s22048</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201612</dc:date>
+</metadata>
+</record>
+</ibecs-document>

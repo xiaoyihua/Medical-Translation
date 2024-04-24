@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-31500</identifier>
+<setSpec>0378-4835</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Melanoma vaccines</dc:title>
+<dc:creator>Torrella, A</dc:creator>
+<dc:creator>Noris-García, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Alpe Editores, S.A.</dc:publisher>
+<dc:description xml:lang="es">Las vacunas terapéuticas han demostrado ser una de las mejores estrategias de intervención en el sistema inmune para proteger al organismo en contra de la progresión de una amplia variedad de enfermedades, incluyendo el cáncer. En este trabajo ofrecemos una revisión de las principales modalidades de vacunas terapéuticas que se han ensayado clínicamente y han demostrado algún efecto antitumoral. Aunque en la actualidad se están desarrollando varios ensayos clínicos fase III con resultados alentadores, la terapia con vacunas de melanoma es todavía experimental y su efectividad no esta demostrada (AU)</dc:description>
+<dc:source>Oncologia;27(3): 108-113, mar. 2004.</dc:source>
+<dc:identifier>ibc-31500</dc:identifier>
+<dc:title xml:lang="es">Vacunas en melanoma</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d8714^s22057</dc:subject>
+<dc:subject>^d33062^s22073</dc:subject>
+<dc:subject>^d33062^s22011</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200403</dc:date>
+</metadata>
+</record>
+</ibecs-document>

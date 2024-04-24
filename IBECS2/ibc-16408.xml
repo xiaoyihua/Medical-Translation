@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-16408</identifier>
+<setSpec>0212-6567</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Evaluation of the proper use of medicines in primary care how can this be improved?</dc:title>
+<dc:creator>González López Valcárcel, B</dc:creator>
+<dc:creator>Ortún Rubio, V</dc:creator>
+<dc:creator>Álamo Santana, F</dc:creator>
+<dc:creator>López Cabañas, A</dc:creator>
+<dc:creator>Martín Oliva, J </dc:creator>
+<dc:creator>Cabeza Mora, A</dc:creator>
+<dc:creator>Díaz Berenguer, J. A</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Introducción. El proceso de medicación de un paciente abarca la identificación de su problema de salud, la prescripción para esa indicación por parte del médico, la dispensación farmacéutica y el consumo del fármaco. Los estudios de utilización de medicamentos analizan dicho proceso con el objeto de detectar los factores que alteran el uso correcto de los fármacos. Objetivo. Evaluar la calidad de la prescripción de ciertos medicamentos en atención primaria en función de la indicación para la que fueron prescritos, detectando aquellas características de los pacientes, médicos prescriptores, centros de atención primaria y áreas de salud que influyen en su uso inapropiado. Método. Estudio prescripción-indicación basado en la estimación de modelos multinivel con bases de datos individualizadas de las prescripciones, que contienen características de las prescripciones, pacientes, médicos, centros de salud y áreas de salud de pertenencia. Estos modelos suponen un avance en este tipo de estudios ya que permiten analizar de forma conjunta la información de distintos niveles y estimar sus respectivas 'cuotas de responsabilidad' en la inadecuación de la prescripción. Discusión. Además de su interés metodológico, que puede guiar estudios posteriores, el principal interés del trabajo estriba en su carácter pionero en la utilización masiva de microdatos poblacionales para evaluar la calidad de la prescripción, que proceden de las historias clínicas informatizadas de atención primaria. (AU)</dc:description>
+<dc:source>Aten Primaria;30(7): 467-471, oct. 2002.</dc:source>
+<dc:identifier>ibc-16408</dc:identifier>
+<dc:title xml:lang="es">Evaluación del uso apropiado de medicamentos en atención primaria. ¿Cómo se puede mejorar?</dc:title>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d12222</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d11756</dc:subject>
+<dc:subject>^d4422</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200210</dc:date>
+</metadata>
+</record>
+</ibecs-document>

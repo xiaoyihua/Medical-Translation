@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-87960</identifier>
+<setSpec>0034-0618</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:description xml:lang="en">TSC1-TSC2 complex has emerged as a signal interaction core within the cell. This complex integrates both nutrient and growth factor signaling and is a critical negative regulator of mTORC1.mTORC1 signaling leads to increased protein biosynthesis, which is essential for cell proliferation. Other cellular events such as endoplasmic reticulum stress and autophagy are intimately linked with TSC/mTORC1 pathway and play an important role in pancreatic &amp;#946;cell death or survival. We found that either insulin, glucose independent signaling or the energetic status of the cell are able to modulateTSC2 phosphorylation in pancreatic &amp;#946; cell lines. To show the central role of TSC2 for these cells, we conducted siRNA-mediatedTSC2 silencing. Downregulation of TSC2 leads to an increase inmTORC1/p70S6K signaling, this produces resistance to insulin action. However, specific expression of insulin receptor isoform A restored insulin signalling under these conditions. Moreover, we have explored other processes related to the TSC/mTORC1 pathway andtheir effect on cell death or survival (AU)</dc:description>
+<dc:creator>Bartolomé, Alberto</dc:creator>
+<dc:creator>Guillén, Carlos</dc:creator>
+<dc:creator>Benito, Manuel</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">El complejo TSC1-TSC2 ha emergido como un núcleo de integración de la señalización de factores de crecimiento y del estado energético celular. Este complejo funciona como un regulador negativo de la actividad de mTORC1. La señalización a través de mTORC1 dirige la síntesis proteica, esencial para la proliferación celular. Otros procesos como el estrés de retículo y la autofagia están íntimamente ligados a la ruta TSC/mTORC1 y juegan un importante papel en la muerte o supervivencia de las células &amp;#946; pancreáticas. Encontramos que tanto la insulina, como la acción independiente de la glucosa o el estatus energético celular modulan la fosforilación de TSC2 en líneas celulares &amp;#946; pancreáticas. Para demostrar el papel central de TSC2 en la regulación de estas células, hemos silenciado su expresión mediante transfección con ARNi. Una menor expresión de TSC2 lleva a un aumento de la señalización demTORC1/p70S6K, lo cual produjo un estado de resistencia a la acción de la insulina. Sin embargo, la expresión selectiva de la isoforma A del receptor de insulina consigue salvar esta resistencia. Por otro lado, hemos explorado otros procesos modulados por la ruta como la autofagiao el estrés de retículo, y su efecto en la supervivencia o muerte celular (AU)</dc:description>
+<dc:source>An Real Acad Farm;76(3): 357-377, jun.-sept. 2010. ilus, graf</dc:source>
+<dc:identifier>ibc-87960</dc:identifier>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d^s22044</dc:subject>
+<dc:subject>^d29203^s22074</dc:subject>
+<dc:subject>^d23489</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d38845</dc:subject>
+<dc:subject>^d3942^s22032</dc:subject>
+<dc:subject>^d50367^s22063</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201009</dc:date>
+</metadata>
+</record>
+</ibecs-document>

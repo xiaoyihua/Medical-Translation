@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-058023</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Calibrating the SCORE cardiovascular risk chart for use in Spain</dc:title>
+<dc:description xml:lang="en">Introduction and objectives. The Third Joint European Task Force on cardiovascular prevention recommended the SCORE function for predicting 10-year cardiovascular mortality should be used to guide decision-making on clinical interventions. The objective of the present study was to calibrate the function for use in Spain. Methods. A model was developed to apply the hazard ratios for cardiovascular mortality at 10 years in SCORE study cohorts to the mean age- and sex-specific risk factors found in the third survey of the MONICA-Catalonia study (1994-96) and to 10-year cardiovascular survival function for the Spanish population based on mortality rates for the year 2002. Results. The estimated risks derived using the calibrated SCORE function were 13% higher than those estimated using the low-risk algorithm. However, the differences between the two varied with age, sex, and, in particular, smoking history. The calibrated SCORE risk chart identified 32 high-risk situations that were not registered in the original low-risk SCORE chart. However, 50% of these situations had a low or zero prevalence. The maximum percentage of subjects who were newly identified as being at a high risk using the calibrated chart was 22%. Most differences were observed in men aged over 55 years. Conclusions. While risk estimates based on sufficiently large Spanish population cohorts are still not available, application of the original cardiovascular risk function calibrated for use in Spain should enable the appropriate clinical and public health decisions to be taken (AU)</dc:description>
+<dc:creator>Royo, David</dc:creator>
+<dc:creator>Fitzgerald, Anthony P</dc:creator>
+<dc:creator>Graham, Ian</dc:creator>
+<dc:creator>Conroy, Ronan</dc:creator>
+<dc:creator>Sans, Susana</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos. La tercera Task Force Conjunta Europea de prevención cardiovascular recomendó el uso de la función de riesgo SCORE de predicción del riesgo de muerte cardiovascular en 10 años para la toma de decisiones en las intervenciones clínicas. El objetivo de este estudio es calibrar dicha función para España. Métodos. Se desarrolló un modelo aplicando las hazard ratio de muerte cardiovascular en 10 años de las cohortes del estudio SCORE a los valores medios específicos por la edad y el sexo de los factores de riesgo del tercer examen del estudio MONICA-Cataluña (1994-1996) y a las funciones de supervivencia cardiovascular en 10 años de la población española basadas en la mortalidad del año 2002. Resultados. El riesgo estimado mediante la función calibrada SCORE fue un 13% más alto que el estimado con la función de bajo riesgo, aunque las diferencias entre ambas oscilaron según la edad, el sexo y especialmente el tabaco. La tabla SCORE calibrada identificó 32 situaciones de alto riesgo no reconocidas en la tabla original SCORE de bajo riesgo, aunque el 50% tenía una prevalencia baja o nula. El porcentaje máximo de sujetos nuevamente identificados de alto riesgo con la tabla calibrada fue del 22%, observándose más diferencias en los varones mayores de 55 años. Conclusiones. Mientras no se disponga de estimaciones del riesgo basadas en cohortes poblacionales españolas suficientemente grandes, la utilización de las funciones originales de riesgo cardiovascular calibradas para el país permitiría adoptar decisiones clínicas y de salud pública adecuadas (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;60(5): 476-485, mayo 2007. ilus, tab</dc:source>
+<dc:identifier>ibc-058023</dc:identifier>
+<dc:title xml:lang="es">Calibración de la tabla SCORE de riesgo cardiovascular para España</dc:title>
+<dc:subject>^d2600^s22016</dc:subject>
+<dc:subject>^d28632</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d31048</dc:subject>
+<dc:subject>^d3343^s22011</dc:subject>
+<dc:subject>^d11756</dc:subject>
+<dc:subject>^d2600^s22054</dc:subject>
+<dc:subject>^d3343^s22054</dc:subject>
+<dc:subject>^d2600^s22011</dc:subject>
+<dc:subject>^d3343^s22016</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d13411^s22080</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d3343^s22080</dc:subject>
+<dc:subject>^d2600^s22080</dc:subject>
+<dc:subject>^d31670</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200705</dc:date>
+</metadata>
+</record>
+</ibecs-document>

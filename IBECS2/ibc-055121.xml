@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-055121</identifier>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Control of the dialysis dose by ionic dialysance and bioimpedance</dc:title>
+<dc:description xml:lang="en">Introduction: The ionic dialysance monitor allows an automated measure of Kt        in each dialysis session. Bioelectrical impedance analysis (BIA) determines the total        body water which it is equivalent to the urea volume of distribution (V). If the Kt,        determined by ionic dialysance, is divided by the V, estimated by bioelectrical impedance,        a Kt/V at the end of dialysis session (Kt/VDiBi) is obtained.        Aim of the Study: To evaluate the agreement between the Kt/VDiBi and the        Kt/V obtained by two simplified formulas: the monocompartimental (Kt/Vm) and        the equilibrated (Kt/Ve) Daugirdas equations.        Methods: The Kt/VDiBi, the Kt/Vm and the Kt/Ve were determined in 38 hemodialysis        patients (27 males and 11 females) in the same hemodialysis session.        The patients were on dialysis three times a week for 3.5 to 4 hours. The V was        determined by monofrequency bioelectrical impedance (50 kHz) at the end of        the dialysis session.        Results: The Kt/VDiBi, Kt/Vm and Kt/Ve were 1.29 ± 0.26, 1.54 ± 0.29 and        1.36 ± 0.25, respectively (p &lt; 0.001 between the Kt/VDiBi and the KtVm, and        p &lt; 0.001 between the KtV/DiBi and the Kt/Ve). The intraclass correlation coefficient        showed better concordance between the KtV/DiBi and the Kt/Ve (coefficient        0.88) than between the Kt/VDiBi and the KtVm (coefficient 0.65). The relative        difference of the Kt/VDiBi was 8.3 ± 6.4% with respect to the Kt/Ve and        18.4 ± 7.8% with respect to the Kt/Vm (p &lt; 0.001). The relative difference between        the Kt/VDiBi and the Kt/Ve was lower than 15% in the 84% of the patients        and lower than 10% in the 64% of the patients.        Conclusions: If the V obtained by bioelectrical impedance analysis is included        in the ionic dialysance monitor, we can obtain a Kt/V for each patient in real time,        which is similar to the equilibrated Kt/V obtained from the Daugirdas equation</dc:description>
+<dc:creator>Ortuño, J</dc:creator>
+<dc:creator>Liaño, F</dc:creator>
+<dc:creator>Teruel, JL</dc:creator>
+<dc:creator>Fernández Lucas, M</dc:creator>
+<dc:creator>Merino, JL</dc:creator>
+<dc:creator>Rivera, M</dc:creator>
+<dc:creator>Marcén, R</dc:creator>
+<dc:creator>Álvarez Rangel, LE</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: El monitor de dialisancia iónica permite obtener el Kt de cada        sesión de diálisis de forma automática. La técnica de bioimpedancia proporciona        el parámetro correspondiente al contenido corporal total de agua que es similar        al volumen de distribución de la urea (V). Si dividimos el Kt de la dialisancia        iónica entre el V calculado por la bioimpedancia conseguimos un Kt/V        (Kt/VDiBi).        Objetivo: El objetivo del presente trabajo es estudiar la concordancia existente        entre el Kt/VDiBi y el Kt/V simplificado obtenido por las ecuaciones de Daugirdas        correspondientes a los modelos monocompartimental (Kt/Vm) y equilibrado        (Kt/Ve).        Material y métodos: El estudio se realizó en 38 enfermos en los que se calculó        en la misma sesión de hemodiálisis el Kt/VDiBi, el Kt/Vm y el Kt/Ve. Se trata        de 27 varones y 11 mujeres que se dializaban 3 veces a la semana, en sesiones        de 3,5 &#150; 4 horas de duración. El V se calculó al finalizar la sesión de hemodiálisis        con técnica de bioimpedancia vectorial de monofrecuencia.        Resultados: Los resultados de Kt/VDiBi, Kt/Vm y Kt/Ve fueron: 1,29 ± 0,26, 1,54        ± 0,29 y 1,36 ± 0,25 respectivamente (p &lt; 0,001 entre Kt/VDiBi y KtVm, y p &lt;        0,001 entre KtV/DiBi y Kt/Ve). El coeficiente de correlación intraclase mostró una        mejor concordancia entre Kt/VDiBi y Kt/Ve (coeficiente 0,88, concordancia excelente),        que entre Kt/VDiBi y Kt/Vm (coeficiente 0,65, concordancia buena). La diferencia        relativa del Kt/VDiBi fue 8,3 ± 6,4% con respecto al Kt/Ve, y 18,4 ±        7,8% con respecto al Kt/Vm (p &lt; 0,001). La diferencia relativa entre Kt/VDiBi y        Kt/Ve fue inferior a 15% en el 84% de los enfermos, e inferior a 10% en el 64%        de los enfermos.        Conclusiones: Si introducimos en el monitor de dialisancia iónica el V obtenido        por bioimpedancia, podemos obtener en cada sesión de hemodiálisis un Kt/V        para cada enfermo que es equiparable al Kt/V equilibrado de la ecuación de Daugirdas</dc:description>
+<dc:source>Nefrologia;27(1): 68-73, ene.-feb. 2007. ilus, tab</dc:source>
+<dc:identifier>ibc-055121</dc:identifier>
+<dc:title xml:lang="es">Control de la dosis de diálisis mediante dialisancia iónica y bioimpedancia</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d30743</dc:subject>
+<dc:subject>^d7642</dc:subject>
+<dc:subject>^d29407^s22045</dc:subject>
+<dc:subject>^d4364</dc:subject>
+<dc:subject>^d14907^s22062</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200702</dc:date>
+</metadata>
+</record>
+</ibecs-document>

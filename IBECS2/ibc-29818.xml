@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-29818</identifier>
+<setSpec>0212-6982</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Analogue gamma camera digitalization computer system</dc:title>
+<dc:creator>Rojas, G. M</dc:creator>
+<dc:creator>Arenas, L</dc:creator>
+<dc:creator>Astudillo, S</dc:creator>
+<dc:creator>Araya, H</dc:creator>
+<dc:creator>Jer, J</dc:creator>
+<dc:creator>Quintana, J. C</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Se describe un sistema de digitalización de gamma cámaras analógicas, integrado por tarjetas de adquisición montadas en microcomputadores, y software adecuado para la adquisición y procesamiento de las imágenes digitales. Material y métodos. Se implementa un sistema formado por microcomputadores interconectados mediante una Red de Area Local (LAN), y conectados a cada gamma cámara mediante una tarjeta de adquisición especializada. En cada computador, se instala además, el software PIP (Portable Image Processing) para realizar la adquisición y pre-procesamiento de las imágenes adquiridas. Se diseña y desarrolla un software de procesamiento de imágenes, con el cual es posible procesar cada examen obtenido con las gamma cámaras, cuantificar valores y curvas de manera semiautomática, e imprimirlos en placas radiológicas. Resultados. Se obtiene un sistema robusto, flexible y económico, que permite digitalizar, visualizar, procesar, e imprimir las imágenes de medicina nuclear adquiridas mediante las gamma cámaras analógicas existentes en el Servicio de Medicina Nuclear. Mediante este sistema se obtienen imágenes de mejor calidad (con respecto a las obtenidas con las gamma cámaras analógicas), y se obtiene una disminución considerable en el uso de los insumos (Película: 24,6 por ciento, Fijador: 48,2 por ciento, y Revelador: 26,0 por ciento).Conclusiones. Es posible digitalizar sistemas de gamma cámaras analógicas, de manera económica. Obteniéndose así imágenes de calidad clínica óptima, aumentando la eficiencia, y produciendo un ahorro en los insumos (AU)</dc:description>
+<dc:source>Rev Esp Med Nucl;23(2): 106-113, mar. 2004.</dc:source>
+<dc:identifier>ibc-29818</dc:identifier>
+<dc:title xml:lang="es">Un sistema de digitalización de gamma cámaras analógicas</dc:title>
+<dc:subject>^d19402</dc:subject>
+<dc:subject>^d4946</dc:subject>
+<dc:subject>^d9871</dc:subject>
+<dc:subject>^d22397</dc:subject>
+<dc:subject>^d24661</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200403</dc:date>
+</metadata>
+</record>
+</ibecs-document>

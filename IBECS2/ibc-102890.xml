@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-102890</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">New technologies in primary care: people, machines, records, and networks. SESPAS Report 2012</dc:title>
+<dc:description xml:lang="en">The new technologies and the importance of their development in primary care are clear. Technology is important insofar as it helps to resolve practical problems that arise when attempts are made to improve patient care. Many applications can be found under the heading of &#147;new information and communication technologies&#148; in healthcare, but the present article focusses on two of the most significant examples: the electronic health record and the Internet, bearing in mind that the aims being sought and the people using these applications are more significant than the technologies themselves (AU)</dc:description>
+<dc:creator>Minué, Sergio</dc:creator>
+<dc:creator>Alfaro, Mercedes</dc:creator>
+<dc:creator>Fluiters, Enrique</dc:creator>
+<dc:creator>Bonis, Julio</dc:creator>
+<dc:creator>Bravo, Rafael</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Las nuevas tecnologías y la importancia de su desarrollo en la atención primaria de salud se dibujan hoy de forma clara. La tecnología es importante en tanto en cuanto contribuye a resolver los problemas prácticos que aparecen cuando intentamos mejorar la atención al paciente. Bajo el epígrafe de «nuevas tecnologías de información y comunicación» en salud podemos encontrar muchas utilidades, pero nos centraremos en dos de sus exponentes más cualificados: la historia clínica electrónica e Internet, sin olvidar que más importante que las tecnologías es el fin para lo que se crean y se usan, y por supuesto las personas que las utilizan (AU)</dc:description>
+<dc:source>Gac Sanit;26(supl.1): 107-112, mar. 2012. tab</dc:source>
+<dc:identifier>ibc-102890</dc:identifier>
+<dc:title xml:lang="es">Nuevas tecnologías en atención primaria: personas, máquinas, historias y redes. Informe SESPAS 2012</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d10221^s22066</dc:subject>
+<dc:subject>^d33921^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29453^s22066</dc:subject>
+<dc:subject>^d29040^s22049</dc:subject>
+<dc:subject>^d24459^s22018</dc:subject>
+<dc:subject>^d11756^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201203</dc:date>
+</metadata>
+</record>
+</ibecs-document>

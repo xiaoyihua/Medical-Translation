@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-165121</identifier>
+<setSpec>0001-6519</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Application of the acoustic voice quality index for objective measurement of dysphonia severity</dc:title>
+<dc:description xml:lang="en">Introduction: Over the past several decades, many acoustic parameters have been studied as sensitive to and to measure dysphonia. However, current acoustic measures might not be sensitive measures of perceived voice quality. A meta-analysis which evaluated the relationship between perceived overall voice quality and several acoustic-phonetic correlates, identified measures that do not rely on the extraction of the fundamental period, such the measures derived from the cepstrum, and that can be used in sustained vowel as well as continuous speech samples. A specific and recently developed method to quantify the severity of overall dysphonia is the acoustic voice quality index (AVQI) that is a multivariate construct that combines multiple acoustic markers to yield a single number that correlates reasonably with overall vocal quality. Methods: This research is based on one pool of voice recordings collected in two sets of subjects: 60 vocally normal and 58 voice disordered participants. A sustained vowel and a sample of connected speech were recorded and analyzed to obtain the six parameters included in the AVQI using the program Praat. Statistical analysis was completed using SPSS for Windows, version 12.0. Results: Correlation between perception of overall voice quality and AVQI: A significant difference exists (t (95) = 9.5; p&lt;.000) between normal and dysphonic voices. Conclusions: The findings of this study demonstrate the clinical feasibility of the AVQI as a measure of dysphonia severity (AU)</dc:description>
+<dc:creator>Muñoz Cordero, Gabriela</dc:creator>
+<dc:creator>Llorente Pendás, José Luis</dc:creator>
+<dc:creator>Álvarez-Fernández, Andrea</dc:creator>
+<dc:creator>Díaz-Fresno, Estefanía</dc:creator>
+<dc:creator>Núñez-Batalla, Faustino</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: En las últimas décadas se han estudiado muchos parámetros acústicos con el fin de cuantificar la disfonía, sin embargo las medidas actuales podrían no ser sensibles a la calidad vocal percibida. En un metaanálisis donde se evaluó la relación entre la calidad global percibida de la voz se identificaron numerosas medidas acústicas que no dependen de la extracción del periodo fundamental tales como las derivadas del cepstrum y que pueden ser usadas tanto en vocales sostenidas como en habla conectada. Un método específico recientemente diseñado para cuantificar la severidad global de la disfonía es el índice acústico de calidad vocal (AVQI) que es un constructo multivariante que combina múltiples marcadores acústicos para generar un único número que se correlaciona razonablemente con la calidad global vocal. Métodos: Esta investigación se basó en un archivo de voces grabadas procedentes de dos grupos de individuos: 60 personas sanas vocalmente y 58 participantes con trastornos vocales. Se grabaron vocales sostenidas y una muestral de habla conectada para su análisis y así obtener los seis parámetros incluidos en el AVQI utilizando el programa Praat. El análisis estadístico de los resultados se llevó a cabo con el programa SPSS para Windows versión 12.0. Resultados: Correspondencia entre el valor del AVQI y el grado de severidad global de la disfonía: correlación r = 0,68 (p &lt; 0,000), y entre el AVQI y el parámetro B del GRABS: r = 0,68 (p &lt; 0,000). Conclusiones: Los resultados obtenidos muestran una buena correlación con la calidad vocal percibida. En conclusión, el AVQI es una medida multivariante, accesible, factible y razonablemente válida para medir clínicamente la severidad global de la severidad de la disfonía (AU)</dc:description>
+<dc:source>Acta Otorrinolaringol Esp;68(4): 204-211, jul.-ago. 2017. tab, graf</dc:source>
+<dc:identifier>ibc-165121</dc:identifier>
+<dc:title xml:lang="es">Aplicación del índice acústico de calidad vocal para la cuantificación objetiva de la severidad de la disfonía</dc:title>
+<dc:subject>^d6472^s22083</dc:subject>
+<dc:subject>^d53079^s22016</dc:subject>
+<dc:subject>^d55210^s22016</dc:subject>
+<dc:subject>^d15235</dc:subject>
+<dc:subject>^d13446^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d18001</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201708</dc:date>
+</metadata>
+</record>
+</ibecs-document>

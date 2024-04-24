@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-5186</identifier>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Estimation of the Kt/V with a ionic dialysance monitor</dc:title>
+<dc:creator>Ortuño, J</dc:creator>
+<dc:creator>Liaño, F</dc:creator>
+<dc:creator>Fernández Lucas, M</dc:creator>
+<dc:creator>Rivera, M</dc:creator>
+<dc:creator>Marcén, R</dc:creator>
+<dc:creator>Teruel, J. L</dc:creator>
+<dc:creator>Rodríguez, J. R</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Grupo Aula Médica, S.A.</dc:publisher>
+<dc:description xml:lang="es">El monitor Diascan (Hospal), mediante el cálculo de la dialisancia iónica, proporciona información del Kt/V. El Kt/V Diascan es automático, no precisa muestras de sangre ni reactivos y el resultado se conoce en tiempo real. El objetivo del presente trabajo consistió en comparar el Kt/V Diascan con el KtV obtenido con cuatro fórmulas simplificadas; dos pertenecen al modelo monocompartimental de distribución de urea (fórmulas de Lowrie de 1983 y de Daugirdas de 1993), y las otras dos fórmulas corresponden al modelo bicompartimental de distribución de la urea (fórmula de Maduell aplicada al Kt/V Lowrie-83, y fórmula propuesta por Daugirdas en 1995).La concordancia entre el Kt/V Diascan y el Kt/V calculado por las cuatro fórmulas simplificadas fue estudiada en una sesión de hemodiálisis en 19 enfermos.El Kt/V Diascan (1.021 ñ 0,140 fue estadísticamente diferente del Kt/V calculado por las fórmulas simplificadas (Lowrie-83: 1.147 ñ 0,124, Daugirdas-93; 1.373 ñ 0,164, Maduell 0,963 ñ 0,105, Daugirdas-95: 1.173 ñ 0,143) (p &lt; 0,01 con todos ellos). La menor variabilidad intermétodo se obtuvo con el Kt/V Maduell (diferencia relativa 9 por ciento), pero aún en este caso un 37 por ciento de los enfermos presentaban una variabilidad superior al 10 por ciento.Para estudiar la relación individual entre el Kt/V Diascan y el Kt/V calculado por las cuatro fórmulas simplificadas, hemos determinado el Kt/V cada 30 min a lo largo de una misma sesión de hemodiálisis en 30 enfermos. En cada uno de los 30 enfermos se observó una excelente correlación entre el Kt/V Diascan y los otros cuatro (coeficiente de correlación 0,9952 para Lowrie-83, 0,9976 para Daugirdas-93, 0,9961 para Maduell, 0,9971 para Daugirdas-95).Para analizar la variabilidad intraindividual de cada uno de los procedimientos utilizados para calcular el Kt/V, hemos determinado el coeficiente de variación de los diferentes métodos en 5 sesiones consecutivas de hemodiálisis realizadas en idénticas condiciones en 19 enfermos. El coeficiente de variación fue de 3,7 ñ 1,8 por ciento para el Kt/V Diascan, de 6 ñ 2,8 por ciento para el Kt/V Lowrie-83, de 5,8 ñ 2,4 por ciento para el Kt/V Daugirdas-93, de 6,5 ñ 2,6 por ciento para el Kt/V Maduell y de 5,7 ñ 2,2 por ciento para el Kt/V Daugirdas-95 (p &lt; 0,01 entre el Kt/V Diascan y cada uno de los 4 restantes).Conclusiones: Aunque el Kt/V Diascan es estadísticamente diferente del Kt/V calculado por las fórmulas simplificadas habituales, en cada enfermo el Kt/V Diascan tiene una excelente correlación con los Kt/V simplificados y muestra una menor variabilidad intraindividual. Estableciendo una ecuación de regresión lineal individual para cada enfermo, se puede obtener una estimación del Kt/V simplificado en tiempo real. (AU)</dc:description>
+<dc:source>Nefrologia;21(1): 78-83, ene. 2001.</dc:source>
+<dc:identifier>ibc-5186</dc:identifier>
+<dc:title xml:lang="es">Cálculo de la dosis de diálisis mediante dialisancia iónica</dc:title>
+<dc:subject>^d29407</dc:subject>
+<dc:subject>^d4667</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9183</dc:subject>
+<dc:subject>^d14907</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200101</dc:date>
+</metadata>
+</record>
+</ibecs-document>

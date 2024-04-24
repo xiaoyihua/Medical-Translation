@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-040076</identifier>
+<setSpec>1139-6709</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Polygenic analysis of ammonia-oxidizing bacteria using 16S rDNA, amoA, and amoB genes</dc:title>
+<dc:description xml:lang="en">Finding a unique molecular marker capable of quickly providing rigorous and useful phylogenetic information would facilitate assessing the diversity of ammonia-oxidizing bacteria in environmental samples. Since only one of several available markers can be used at a time in these kinds of studies, the 16S rDNA, amoA and amoB genes were evaluated individually and then compared in order to identify the one that best fits the information provided by the composite dataset. Distance-based neighbor-joining and maximum parsimony trees generated using the sequences of the three mentioned genes were analyzed with respect to the combined polygenic trees. Maximum parsimony trees were found to be more accurate than distance-based ones, and the polygenic topology was shown to best fit the information contained in the sequences. However, the taxonomic and phylogenetic information provided by the three markers separately was also valid. Therefore, either of the functional markers (amoA or amoB) can be used to trace ammonia oxidizers in environmental studies in which only one gene can be targeted (AU)</dc:description>
+<dc:creator>Calvó, Laia</dc:creator>
+<dc:creator>García-Marín, Jose-Luís</dc:creator>
+<dc:creator>Cortey, Martí</dc:creator>
+<dc:creator>Garcia-Gil, L Jesús</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Encontrar un marcador molecular único capaz de proporcionar rápidamente información filogenética rigurosa y útil facilitaría evaluación de la diversidad de las bacterias oxidadoras de amoníaco en muestras ambientales. En esta clase de estudios no se puede utilizar simultáneamente más que uno de los marcadores disponibles. Los genes 16S rDNA, amoA y amoB se evaluaron individualmente para identificar el que se ajusta mejor a la información proporcionada por el conjunto de datos de los tres genes. Se compararon los árboles de Neighbor-Joining, basados en las distancias, y los árboles de máxima parsimonia basados en las secuencias conocidas de los tres genes mencionados, y se analizaron en relación con los árboles poligénicos construidos con la información combinada proporcionada por los tres genes. Los árboles de máxima parsimonia resultaron más fieles que los basados en las distancias, y la topología poligénica era la que mejor se ajustaba a la información contenida en las secuencias. Sin embargo, la información taxonómica y filogenética proporcionada por los tres marcadores por separado también resultó válida. Por tanto, cualquiera de los dos marcadores funcionales (amoA o amoB) se puede utilizar para detectar los oxidantes del amoníaco en estudios ambientales en los que solamente puede usarse un gen (AU)</dc:description>
+<dc:source>Int Microbiol;8(2): 103-110, jun. 2005. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-040076</dc:identifier>
+<dc:title xml:lang="es">Análisis poligénico de cepas de bacterias oxidadoras de amoníaco por medio de los genes 16S rDNA, amoA y amoB</dc:title>
+<dc:subject>^d34141^s22001</dc:subject>
+<dc:subject>^d^s22002</dc:subject>
+<dc:subject>^d30521</dc:subject>
+<dc:subject>^d30077^s22001</dc:subject>
+<dc:subject>^d33910^s22038</dc:subject>
+<dc:subject>^d34135^s22001</dc:subject>
+<dc:subject>^d4865^s22002</dc:subject>
+<dc:subject>^d23568^s22002</dc:subject>
+<dc:subject>^d656^s22038</dc:subject>
+<dc:subject>^d11002</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200506</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-130055</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:description xml:lang="en">Background: Profiling of jobs in terms of competency requirements has increasingly been applied in many organizational settings. Testing these competencies through situational judgment tests (SJTs) leads to validity problems because it is not usually clear which constructs SJTs measure. The primary purpose of this paper is to evaluate whether the application of cognitive diagnosis models (CDM) to competency-based SJTs can ascertain the underlying competencies measured by the items, and whether these competencies can be estimated precisely. Method: The generalized deterministic inputs, noisy "and" gate (G-DINA) model was applied to 26 situational judgment items measuring professional competencies based on the great eight model. These items were applied to 485 employees of a Spanish financial company. The fit of the model to the data and the convergent validity between the estimated competencies and personality dimensions were examined. Results: The G-DINA showed a good fit to the data and the estimated competency factors, adapting and coping and interacting and presenting were positively related to emotional stability and extraversion, respectively. Conclusions: This work indicates that CDM can be a useful tool when measuring professional competencies through SJTs. CDM can clarify the competencies being measured and provide precise estimates of these competencies (AU)</dc:description>
+<dc:creator>Torre, Julio de la</dc:creator>
+<dc:creator>Olea, Julio</dc:creator>
+<dc:creator>García, Pablo Eduardo</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Antecedentes: muchas organizaciones definen sus puestos de trabajo en base a las competencias profesionales que requieren. La medición de tales competencias mediante tests de juicio situacional (TJS) presenta problemas de validez, en tanto no suele estar claro los constructos que miden. El objetivo principal de este estudio es evaluar si la aplicación de los modelos de diagnóstico cognitivo (MDC) a estos tests permite clarificar y estimar de forma precisa las competencias medidas. Método: se aplicó el modelo G-DINA (generalized deterministic inputs, noisy "and" gate) a 26 ítems de juicio situacional que medían competencias profesionales fundamentadas en el modelo great eight. Se aplicó el test a 485 trabajadores de una entidad financiera española. Se examinó el ajuste del modelo a los datos, y la validez convergente entre las competencias estimadas y dimensiones de personalidad. Resultados: G-DINA mostró un buen ajuste a los datos, y los factores competenciales estimados adaptarse y aguantar, e interactuar y presentar mostraron una relación positiva con estabilidad emocional y extraversión, respectivamente. Conclusiones: este trabajo muestra que los MDC pueden ser una herramienta útil para la medición de competencias profesionales a través de TJS, aclarando las competencias que miden y obteniendo estimaciones precisas de las mismas (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);26(3): 372-377, jul.-sept. 2014. tab</dc:source>
+<dc:identifier>ibc-130055</dc:identifier>
+<dc:title xml:lang="es">Aplicación de los modelos de diagnóstico cognitivo a tests de juicio situacional basados en competencias</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d12031^s22039</dc:subject>
+<dc:subject>^d10752^s22045</dc:subject>
+<dc:subject>^d14027</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d11795</dc:subject>
+<dc:subject>^d1083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201409</dc:date>
+</metadata>
+</record>
+</ibecs-document>

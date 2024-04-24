@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-27630</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Ex vivo gene therapy in the treatment of Parkinson´s disease</dc:title>
+<dc:creator>Alberti-Amador, E</dc:creator>
+<dc:creator>García-Miniet, R</dc:creator>
+<dc:creator>Castellano-Ortega, M. R</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>César Viguera</dc:publisher>
+<dc:description xml:lang="es">Objetivo. Teniendo en cuenta el creciente desarrollo y aplicación de la terapia génica tanto in vivo como ex vivo en las enfermedades neurodegenerativas, se revisan las aplicaciones de este tipo de estrategia en la enfermedad de Parkinson. Desarrollo. La terapia génica aplicable a esta enfermedad incluye la introducción de los genes que codifican enzimas que intervienen en la ruta biosintética de la dopamina: tirosina hidroxilasa, AADC y GTP ciclohidrolasa y factores neurotróficos como el GDNF, que promueve la supervivencia y mantenimiento de las neuronas dopaminérgicas. La terapia génica ex vivo permite el control del proceso de transferencia génica antes del proceso de implantación celular; sin embargo, uno de los problemas fundamentales de este procedimiento está dado por el rechazo inmunológico, por lo que se recomienda el uso de fuentes autólogas. Conclusiones. La terapia génica ex vivo presenta ventajas considerables en relación a la terapia in vivo, pues permite mantener el control de la transferencia génica antes del proceso de implantación celular; se recomienda buscar fuentes celulares de origen neural o células madres pluripotentes a las cuales se les puede inducir la diferenciación hacia el tipo celular deseado y , de esta manera, lograr la integración estructural y funcional de las células implantadas al sistema nervioso central. Sin embargo, se hace necesario el desarrollo de vectores de nueva generación que permitan solucionar los problemas de bioseguridad implícitos al utilizar la terapia génica (AU)</dc:description>
+<dc:source>Rev Neurol;36(11): 1073-1077, jun. 2003.</dc:source>
+<dc:identifier>ibc-27630</dc:identifier>
+<dc:title xml:lang="es">Terapia génica ex vivo en el tratamiento de la enfermedad de Parkinson</dc:title>
+<dc:subject>^d1147</dc:subject>
+<dc:subject>^d23987</dc:subject>
+<dc:subject>^d10489</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d14845</dc:subject>
+<dc:subject>^d9607</dc:subject>
+<dc:subject>^d6285</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200306</dc:date>
+</metadata>
+</record>
+</ibecs-document>

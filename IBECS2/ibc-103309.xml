@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-103309</identifier>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The lack of income is associated with reduced survival in chronic haemodialysis</dc:title>
+<dc:description xml:lang="en">Introduction: Poor socioeconomic status in the patient population is one of the causes of the lack of primary and secondary prevention of chronic kidney disease and negatively affects the survival of patients on chronic haemodialysis (HD). Objective: To confirm whether the low or absent income of the incident population on HD is a factor of poor prognosis. Methods: We used the incident HD population of the Argentine Registry of Chronic Dialysis. Follow-up lasted 12 months, performing an intention to treat analysis. We applied the Cox model to assess the association between income and survival of patients after adjusting for age, sex, diabetes, comorbidities, initial laboratory results, and first vascular access. Results: We analysed 13466 adult patients (age at onset: 60.4 ±15.6 years; 57.2% were male, and 39.2% diabetic) who were assigned to 2 groups: 1) "no income" group, 5661 patients (age at onset: 60.3 ±15.4 years; 53.1% were male and 41.4% diabetic), 2) "with income" group, 7805 patients (age at onset, 60.5 ±15-8] years; 60.1% were male and 37.5% diabetic). The "no income" group had a hazard ratio of 1.19 (95% confidence interval [CI]: 1.11-1.28) in the univariate analysis, 1.23 (95% CI: 1.14-1.32 ) considering age and gender, 1.22 (95% CI: 1.13-1.31) by adding diabetes mellitus, 1.26 (95% CI: 1.18-1.36) by adding comorbidities, 1.25 (95% CI: 1.16- 1.35) by adding the initial laboratory results, and 1.24 (95% CI: 1.15- 1.33) if temporary vascular access is included. All models resulted in a significance of P=.000. Conclusions: Low or no income of patients at the time of entry into HD is an independent risk factor for immediate lower survival (AU)</dc:description>
+<dc:creator>Fernández, Víctor</dc:creator>
+<dc:creator>Marinovich, Sergio</dc:creator>
+<dc:creator>Lavorato, Carlos</dc:creator>
+<dc:creator>Hansen-Krogh, Daniela</dc:creator>
+<dc:creator>Rosa-Diez, Guillermo</dc:creator>
+<dc:creator>Bisigniano, Liliana</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: Las pobres condiciones socioeconómicas de la población es uno de los causales de la falta de prevención primaria y secundaria de la enfermedad renal crónica e influiría negativamente en la sobrevida de los pacientes en hemodiálisis (HD) crónica. Objetivo: Confirmar si el bajo o nulo ingreso económico de la población incidente en HD es un factor de mal pronóstico vital. Métodos: Utilizamos la población incidente en HD del Registro Argentino de Diálisis Crónica. El seguimiento fue de 12 meses, realizándose un análisis por intención de tratar. Se aplicó el Modelo de Cox para evaluar la asociación entre ingresos económicos y la sobrevida de los pacientes ajustando por edad, sexo, diabetes, comorbilidades, laboratorio inicial y primer acceso vascular. Resultados: Analizamos 13.466 pacientes adultos (edad al inicio: 60,4 [±15,6] años, 57,2% varones, 39,2% diabéticos) que fueron asignados a 2 grupos: 1) «Sin ingresos», 5.661 pacientes (edad al inicio: 60,3 [±15,4] años, 53,1% varones, 41,4% diabéticos); 2) «Con ingresos», 7.805 pacientes (edad al inicio: 60,5 [±15,8] años, 60,1% varones, 37,5% diabéticos). «Sin ingresos» mostró un hazard ratio de 1,19 (intervalo de confianza [IC] 95%: 1,11-1,28) en el univariado; de 1,23 (IC 95%: 1,14-1,32) considerando edad y género; de 1,22 (IC 95%: 1,13-1,31) agregando diabetes mellitus; de 1,26 (IC 95%: 1,18-1,36) agregando comorbilidades; de 1,25 (IC 95%: 1,16-1,35) adicionando laboratorio inicial y de 1,24 (IC 95%: 1,15-1,33) si se incluye acceso vascular transitorio. En todos los modelos la significación resultó en una p = 0,000. Conclusiones: Los bajos o nulos ingresos económicos del paciente en el momento del ingreso a HD es un factor de riesgo independiente de menor sobrevida inmediata (AU)</dc:description>
+<dc:source>Nefrologia;32(1): 79-88, ene.-feb. 2012. ilus, tab</dc:source>
+<dc:identifier>ibc-103309</dc:identifier>
+<dc:title xml:lang="es">La falta de ingresos económicos se asocia a menor supervivencia en hemodiálisis crónica</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d13344</dc:subject>
+<dc:subject>^d29407^s22074</dc:subject>
+<dc:subject>^d28604</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d50497^s22080</dc:subject>
+<dc:subject>^d32285</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201202</dc:date>
+</metadata>
+</record>
+</ibecs-document>

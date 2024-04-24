@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-119904</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">An Alternative Method for Predicting the Risk of Postoperative Complications in Lung Resection</dc:title>
+<dc:description xml:lang="en">Objectives: The aims of this study were to design a best fit linear regression model to estimate VO2max (estimated VO2) and to compare the ability of VO2 values (measured and estimated) predicting cardiorespiratory complications in a series of patients undergoing lung resection for lung cancer. Method: This was a prospective, observational study performed in 83 patients. Variables analyzed were: demographic characteristics, comorbidity, body mass index (BMI), FEV1%, FVC%, diffusion capacity (DLCO%), mean daily distance walked in kilometers, VO2max measured by cardio-pulmonary exercise test(CPET) and postoperative complications. Descriptive and comparative statistical analysis of the variables was performed using the Mann-Whitney test for categorical variables and the Student&#146;s t-test for continuous variables. A new linear regression model was designed, where the dependent variable (measured VO2max) was estimated by the distance, DLCO% and age, resulting in the estimated VO2. The predictive power of the measured and estimated consumption was analyzed using the Student&#146;s t-test, grouping by the occurrence or absence of cardiorespiratory complications. Results: Both groups were homogeneous for age, sex, BMI, FEV1%, DLCO%, comorbidity, type of resection performed and mean distance walked per day. Estimated VO2 and measured VO2 were normally distributed (K-Smirnov test, P &gt; 0.32). VO2 means estimated by the model (age, DLCO% and mean distance walked per day) were significantly different between patients with and without complications (Student&#146;s t test, P = 0.037) compared with measured VO2 values, which did not differentiate groups (Student&#146;s t test , P = 0.42). Conclusion: The VO2max estimated by the model is more predictive in this case series than the VO2max measured during a standard exercise test (AU)</dc:description>
+<dc:creator>Varela Simó, Gonzalo</dc:creator>
+<dc:creator>Vargas Fajardo, María del Carmen</dc:creator>
+<dc:creator>Novoa Valentín, Nuria María</dc:creator>
+<dc:creator>Jiménez López, Marcelo Fernando</dc:creator>
+<dc:creator>Ramos Gonzalez, Jacinto</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Los objetivos de este trabajo son rediseñar un modelo de regresión lineal para estimar el valor de VO2max (VO2 estimado) ya publicado y comparar la capacidad predictiva de los valores VO2 medido y VO2 estimado en la aparición de complicaciones cardiorrespiratorias en una serie de pacientes sometidos a resección pulmonar por cáncer de pulmón. Método: Estudio prospectivo y observacional en 83 pacientes. Variables analizadas: demográficas, comorbilidad, IMC, FEV1%, FVC%, DLCO%, distancia recorrida media diaria (km), VO2max medido en el test de ejercicio cardiopulmonar (CPET) y complicación postoperatoria. Estadística descriptiva y comparativa de variables usando Mann-Whitney test para categóricas y t de Student para continuas normales. Se diseña un modelo de regresión lineal donde VO2max, la variable dependiente, se estima desde la distancia recorrida, DLCO% y edad del paciente y su resultado es la VO2 estimada. Se compara la capacidad predictiva de los VO2max medido y estimado mediante t de Student, agrupando por ocurrencia o no de complicaciones cardiorrespiratorias. Resultados: Los 2 grupos son homogéneos en edad, distribución de sexos, IMC, FEV1%, DLCO%, comorbilidad, cirugía realizada y distancia media recorrida/día. VO2 medida y VO2 estimada tienen distribución normal (K-Smirnov p &gt; 0,32). En la predicción de complicaciones, las medias del VO2 estimado a partir del modelo son significativamente diferentes entre los pacientes con/sin complicación (t de Student p = 0,037); frente a los valores de VO2 medido que no distinguen grupos (t de Student p = 0,42). Conclusiones: El VO2max estimado por el modelo es más predictivo en esta serie de casos que el VO2max medido en una CPET (AU)</dc:description>
+<dc:source>Arch Bronconeumol;50(3): 87-92, mar. 2014. tab, graf</dc:source>
+<dc:identifier>ibc-119904</dc:identifier>
+<dc:title xml:lang="es">Un método alternativo para la predicción del riesgo de complicaciones postoperatorias en la resección pulmonar</dc:title>
+<dc:subject>^d11442^s22045</dc:subject>
+<dc:subject>^d11622^s22054</dc:subject>
+<dc:subject>^d33939^s22045</dc:subject>
+<dc:subject>^d28138</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d24769</dc:subject>
+<dc:subject>^d5178^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d27892</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201403</dc:date>
+</metadata>
+</record>
+</ibecs-document>

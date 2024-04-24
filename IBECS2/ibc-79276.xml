@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-79276</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Item parameter drift in computerized adaptive testing: Study with eCAT</dc:title>
+<dc:description xml:lang="en">This study describes the parameter drift analysis conducted on eCAT (a Computerized Adaptive Test to assess the written English level of Spanish speakers). The original calibration of the item bank (N = 3224) was compared to a new calibration obtained from the data provided by most eCAT operative administrations (N = 7254). A Differential Item Functioning (DIF) study was conducted between the original and the new calibrations. The impact that the new parameters have on the trait level estimates was obtained by simulation. Results show that parameter drift is found especially for a and c parameters, an important number of bank items show DIF, and the parameter change has a moderate impact on high-level- English &amp;#952; estimates. It is then recommended to replace the original estimates by the new set(AU)</dc:description>
+<dc:creator>Barrada, Juan Ramón</dc:creator>
+<dc:creator>Olea, Julio</dc:creator>
+<dc:creator>Aguado, David</dc:creator>
+<dc:creator>Abad, Francisco José</dc:creator>
+<dc:creator>Ponsoda, Vicente</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En el presente trabajo se muestra el análisis realizado sobre un Test Adaptativo Informatizado (TAI) diseñado para la evaluación del nivel de inglés, denominado eCAT, con el objetivo de estudiar el deterioro de parámetros (parameter drift) producido desde la calibración inicial del banco de ítems. Se ha comparado la calibración original desarrollada para la puesta en servicio del TAI (N= 3224) y la calibración actual obtenida con las aplicaciones reales del TAI (N= 7254). Se ha analizado el Funcionamiento Diferencial de los Ítems (FDI) en función de los parámetros utilizados y se ha simulado el impacto que sobre el nivel de rasgo estimado tiene la variación en los parámetros. Los resultados muestran que se produce especialmente un deterioro de los parámetros a y c, que hay un importante número de ítems del banco para los que existe FDI y que la variación de los parámetros produce un impacto moderado en la estimación de &amp;#952; de los evaluados con nivel de inglés alto. Se concluye que los parámetros de los ítems se han deteriorado y deben ser actualizados(AU)</dc:description>
+<dc:source>Psicothema (Oviedo);22(2): 340-347, 2010. tab, ilus</dc:source>
+<dc:identifier>ibc-79276</dc:identifier>
+<dc:title xml:lang="es">Deterioro de parámetros de los ítems en tests adaptativos informatizados: estudio con eCAT</dc:title>
+<dc:subject>^d19244^s22074</dc:subject>
+<dc:subject>^d51840</dc:subject>
+<dc:subject>^d2722^s22080</dc:subject>
+<dc:subject>^d28633</dc:subject>
+<dc:subject>^d19062</dc:subject>
+<dc:subject>^d12018^s22048</dc:subject>
+<dc:subject>^d19129^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d19243^s22066</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d12018^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201000</dc:date>
+</metadata>
+</record>
+</ibecs-document>

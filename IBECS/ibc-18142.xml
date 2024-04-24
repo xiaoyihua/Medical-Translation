@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-18142</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Absence of normality and groups size inequality. Does it affect to autocorrelation estimation?</dc:title>
+<dc:description xml:lang="en">We have undertaken a Monte Carlo simulation study to examine the behaviour of four procedures for the diagnosis of the first order autocorrelation: &amp;#961;HCH, &amp;#961;j, &amp;#961;PP y &amp;#961;WHS. We have used two correlation matrices structures, AR and ARH, in a Groups x Occasions (3xq) design unbalanced with normal distribution and balanced with six non-normal distributions. The results indicate that the groups size inequality affects only to &amp;#961;PP procedure when the matrix is AR+ and to &amp;#961;WHS procedure when the matrix is ARH. On the other hand, every procedures are sensible to the absence of normality, &amp;#961;HCH and &amp;#961;j are conservatives and &amp;#961;WHS is liberal por AR+ matrices and every methods are conservative for AR- matrices, overcoat as much as smaller are q and nj and elder is &amp;#961; (AU)</dc:description>
+<dc:creator>Fernández, Paula</dc:creator>
+<dc:creator>Vallejo, Guillermo</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Hemos diseñado un experimento de simulación Monte Carlo para examinar el comportamiento de cuatro procedimientos para el diagnóstico de la autocorrelación de primer orden: Phch, Pj, Ppp y Pwhs. Utilizamos dos estructuras de la matriz de correlaciones, AR y ARH, en un diseño de Grupos x Ocasiones (3xq) no balanceado bajo distribución normal y balanceado bajo seis distribuciones no normales. Los resultados ponen de relieve que la desigualdad en el tamaño de los grupos sólo afecta al procedimiento Ppp cuando la matriz es AR+, y al procedimiento Pwhs si la matriz es ARH. De otra parte, todos los estimadores son sensibles a la ausencia de normalidad, Phch y Pj son conservadores y Pwhs liberal para matrices AR+ y todos conservadores para matrices AR-, en mayor medida conforme mayor es la autocorrelación y menores son q y nj (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);14(4): 861-869, nov. 2002. tab</dc:source>
+<dc:identifier>ibc-18142</dc:identifier>
+<dc:title xml:lang="es">Ausencia de normalidad y desigualdad del tamaño de los grupos. ¿Afecta a la estimación de la autocorrelación?</dc:title>
+<dc:subject>^d6277</dc:subject>
+<dc:subject>^d28579</dc:subject>
+<dc:subject>^d28597^s22045</dc:subject>
+<dc:subject>^d33671^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200211</dc:date>
+</metadata>
+</record>
+</ibecs-document>

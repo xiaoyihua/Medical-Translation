@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-29546</identifier>
+<setSpec>1130-8621</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Adaptation of the "Clinical practice guideline for the nursing care of adults" to OMI-AP software</dc:title>
+<dc:creator>Sánchez López, Flora</dc:creator>
+<dc:creator>García Marín, Piedad</dc:creator>
+<dc:creator>Pérez Soler, César</dc:creator>
+<dc:creator>Fernández Solla, José Rogelio</dc:creator>
+<dc:creator>Álvarez Párraga, Salustiano</dc:creator>
+<dc:creator>Moreno Molina, Rosa Encarna</dc:creator>
+<dc:creator>Macián Morro, Maribel</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">En este trabajo intentamos explicar todo el proceso llevado a cabo en el Equipo de Enfermería del Centro de Salud de Moratalla para conseguir una adaptación de las "Guías prácticas clínicas de cuidados de enfermería al adulto y al niño" (realizadas y publicadas por la gerencia de Atención Primaria de Murcia) al software informático OMI-AP instalado en los centros de salud de atención primaria. Para ello, lo que hicimos fue adaptar "literalmente" dicha Guía a un Protocolo en OMI-AP diseñado por nosotros en el que se recogiesen mediante diversas pantallas las sucesivas etapas del proceso de atención de enfermería: valoración, diagnósticos enfermeros, planes de cuidados y evaluación, de tal forma que fuimos "copiando" las indicaciones de la guía en dicho protocolo, aunque adaptándolas a dicho formato informático. Y siempre dejando a la enfermera la posibilidad de trabajar manualmente en caso de considerarlo necesario y que el protocolo no se adaptase a las características de algún caso (AU)</dc:description>
+<dc:source>Enferm. clín. (Ed. impr.);14(1): 46-50, ene. 2004. ilus</dc:source>
+<dc:identifier>ibc-29546</dc:identifier>
+<dc:title xml:lang="es">Adaptación de la "Guía práctica clínica de cuidados de enfermería al adulto" al programa informático OMI-AP</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d19270^s22045</dc:subject>
+<dc:subject>^d19402</dc:subject>
+<dc:subject>^d30291</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d27977</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d11756^s22045</dc:subject>
+<dc:subject>^d9918^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200401</dc:date>
+</metadata>
+</record>
+</ibecs-document>

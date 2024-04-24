@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-20341</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Biochemical markers and prognostic scores for evaluation of prognosis in acute pancreatitis</dc:title>
+<dc:creator>Iglesias Canle, J</dc:creator>
+<dc:creator>Domínguez Muñoz, J. E</dc:creator>
+<dc:creator>Fernández Castroagudín, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">El 20 por ciento de los pacientes con pancreatitis aguda adoptan un curso evolutivo grave, con aparición de sepsis, síndrome de distrés respiratorio, insuficiencia renal y fallo multiorgánico, con una tasa de mortalidad del 25 por ciento. Esta evolución sólo puede evitarse mediante la pronta instauración de monitorización y terapia intensivas, por lo que es fundamental establecer el pronóstico de la pancreatitis aguda de forma temprana. Los sistemas de puntuación multifactoriales valoran conjuntamente una serie de factores clínicos y analíticos para predecir la gravedad de la pancreatitis aguda. El APACHE-II modificado es el método de puntuación más ampliamente utilizado, aunque su valor predictivo positivo es limitado. Entre los marcadores bioquímicos, la elastasa-PMN y el péptido de activación del tripsinógeno (TAP) son los parámetros con mayor valor pronóstico. Valores plasmáticos de elastasa-PMN superiores a 250 mg/l predicen un curso grave de la pancreatitis aguda antes de que la gravedad de la enfermedad se haga clínicamente evidente, permitiendo la instauración temprana de vigilancia y terapia intensivas y la realización de una tomografía axial computarizada (TAC) dinámica para detectar necrosis pancréatica. Valores inferiores requerirán únicamente una evaluación clínica cuidadosa y tratamiento de soporte, sin necesidad de posteriores técnicas de imagen. La aplicación clínica urgente del TAP está limitada por su determinación mediante enzimoinmunoensayo (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);27(2): 93-100, feb. 2003. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-20341</dc:identifier>
+<dc:title xml:lang="es">Estratificación del riesgo: marcadores bioquímicos y escalas pronósticas en la pancreatitis aguda</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d33020^s22062</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d23568</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d32354</dc:subject>
+<dc:subject>^d10382^s22062</dc:subject>
+<dc:subject>^d10382^s22016</dc:subject>
+<dc:subject>^d28561</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200302</dc:date>
+</metadata>
+</record>
+</ibecs-document>

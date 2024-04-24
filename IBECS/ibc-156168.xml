@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-156168</identifier>
+<setSpec>0210-4806</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Influence of demographic and tumour variables on prostate cancer treatment with curative intent in Spain. Results of the 2010 national prostate cancer registry</dc:title>
+<dc:description xml:lang="en">Objective: The aim of this study is to determine which cancer and demographic criteria influence the indication for surgery (radical prostatectomy) or radiation therapy (external or brachytherapy) in the treatment of prostate cancer. Material and methods: An analysis of the 2714 patients of the 2010 National Prostate Cancer Registry treated with curative intent. The analysed variables were age, prostate-specific antigen (PSA), prostate volume, the number of biopsy cores, the percentage of positive cores, the stage, Gleason score, the type of pathologist, the presence of perineural invasion and the study centre. We analysed the association among these variables and the type of treatment (surgery vs. radiation therapy/brachytherapy), using a univariate analysis (Student's t test and chi-squared) and a binary multiple logistic regression. Results: The 48.12% of the patients (1306/2714) were treated with surgery, and 51.88% (1,408/2,714) underwent radiation therapy/brachytherapy. Differences were observed between the patients treated with prostatectomy and those treated with radiation therapy/brachytherapy (p&lt;.05) in age (63.50±6.5 vs. 69.0±6.7), PSA (8.76±16.97 vs. 13.21±15.88), biopsied cores, percentage of positives cores (30.0±22 vs. 38.7±29), Gleason score (G6: 53.9% vs. 46.1%; G7: 45% vs. 55% G8-10: 26.6%, 73.4%), stage (localised: 50% vs. 50%; locally advanced: 14.6% vs. 85.4%), perineural invasion and hospital centre. In the multivariate analysis, the selected independent variables were age, PSA, percentage of positives cores, stage, Gleason score and hospital centre. Conclusion: According to our study, age, tumour aggressiveness and stage and the centre where the patient will be treated affect the selection of curative treatment for prostate cancer (AU)</dc:description>
+<dc:creator>Rodriguez Antolín, A</dc:creator>
+<dc:creator>Gómez Veiga, F</dc:creator>
+<dc:creator>Cózar Olmo, JM</dc:creator>
+<dc:creator>Castelló Porcar, A</dc:creator>
+<dc:creator>Martínez Jabaloyas, JM</dc:creator>
+<dc:creator>González Baena, AC</dc:creator>
+<dc:creator>Miñana López, B</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: El objetivo del estudio es conocer qué criterios oncológicos y demográficos influyen en la indicación de cirugía (prostatectomía radical) o de radioterapia (externa o braquiterapia) en el tratamiento del cáncer de próstata. Material y métodos: Análisis de 2.714 pacientes del Registro nacional de cáncer de próstata de 2010 tratados con fines curativos. Las variables que se analizaron fueron la edad, el PSA, el volumen prostático, el número de cilindros biopsiados, el porcentaje de cilindros positivos, el estadio, la puntuación de Gleason, el tipo de patólogo, la existencia de invasión perineural y el centro de estudio. Analizamos la asociación de estas variables y el tipo de tratamiento (cirugía vs radioterapia/braquiterapia) mediante análisis univariante («t» de Student y Chi cuadrado) y una regresión logística múltiple binaria. Resultados: El 48,12% de los pacientes (1.306/2.714) fueron tratados con cirugía y el 51,88% (1.408/2.714) con radioterapia/braquiterapia. Se observaron diferencias entre los pacientes tratados mediante prostatectomía y con radioterapia/braquiterapia (p&lt;0,05) en la edad (63,50±6,5 vs 69,0±6,7), el PSA (8,76±16,97 vs 13,21±15,88), los cilindros biopsiados, el porcentaje de cilindros positivos (30,0±22 vs 38,7±29), el Gleason (G6: 53,9% vs 46,1%; G7: 45% vs 55% G8-10: 26,6%, 73,4%), el estadio (localizado: 50% vs 50%; localmente avanzado: 14,6% vs 85,4%), la invasión perineural y el centro hospitalario. En el análisis multivariante las variables independientes seleccionadas fueron edad, PSA, porcentaje de cilindros positivos, estadio, Gleason y centro hospitalario. Conclusión: Según nuestro estudio, en la elección del tratamiento curativo del cáncer de próstata parece influir la edad, la agresividad y estadio del tumor y el centro donde va a ser tratado el paciente (AU)</dc:description>
+<dc:source>Actas Urol Esp;40(8): 485-491, oct. 2016. tab</dc:source>
+<dc:identifier>ibc-156168</dc:identifier>
+<dc:title xml:lang="es">Influencia de las variables demográficas y tumorales en el tratamiento del cáncer de próstata con fines curativos en España. Resultados del Registro nacional de cáncer de próstata 2010</dc:title>
+<dc:subject>^d33861^s22074</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d33861^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1944^s22045</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d1944^s22074</dc:subject>
+<dc:subject>^d1944^s22039</dc:subject>
+<dc:subject>^d11911^s22045</dc:subject>
+<dc:subject>^d11911^s22066</dc:subject>
+<dc:subject>^d11914^s22009</dc:subject>
+<dc:subject>^d11914^s22059</dc:subject>
+<dc:subject>^d30596^s22002</dc:subject>
+<dc:subject>^d30596^s22001</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201610</dc:date>
+</metadata>
+</record>
+</ibecs-document>

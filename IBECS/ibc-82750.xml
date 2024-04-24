@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-82750</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The waist to height ratio as an index of cardiovascular risk and diabetes</dc:title>
+<dc:description xml:lang="en">Background and objectives: To identify the anthropometric index that best detects cardiovascular risk (CVR) and type 2 diabetes (DM2) in the adult Spanish population and to determine its cut-off point. Subjects and methods: cross-sectional study in the general population (n=6279). Sensitivity and specificity were estimated for the anthropometric indexes: abdominal waist, body mass index, waist to hip ratio and waist to height ratio (WtHR). The areas of these indexes under ROC curve (AUC) were obtained for the following CVR factors: high coronary risk computed with Framingham model, Hypertension, Hyperlipemia, DM2, Metabolic Syndrome (MS) and Impaired Fasting Glucose (IFG). The odds ratio, with 95% confidence interval (CI95%), was calculated. Results: WtHR was the index showing the highest AUC for DM2 and the remaining CVR factors, varying between 0.65 (CI95%=0.63&#150;0.68) for IFG in men and 0.87 (CI95%=0.86&#150;0.89) for MS in women. RA/E reached the maximum sensitivity (0.91) and specificity (0.70) in SM and its optimal cut-off point was 0.55, which displayed the highest risks amongst indexes, varying from 2.30 (1.96&#150;2.70) in IFG to 16&#146;20 (13.68&#150;19.20) in MS. Conclusions: RA/E is the index presenting the best ability to detect DM2 and CVR in this population, and it shows the stronger association with them. Its cut-off point, 0.55, confirms the convenience of keeping the abdominal waist to less than half the height (AU)</dc:description>
+<dc:creator>Domínguez Coello, Santiago</dc:creator>
+<dc:creator>Aguirre Jaime, Armando</dc:creator>
+<dc:creator>Cabrera de León, Antonio</dc:creator>
+<dc:creator>Brito Díaz, Buenaventura</dc:creator>
+<dc:creator>del Castillo Rodríguez, José Carlos</dc:creator>
+<dc:creator>Borges Álamo, Carlos</dc:creator>
+<dc:creator>Rodríguez Pérez, María del Cristo</dc:creator>
+<dc:creator>Almeida González, Delia</dc:creator>
+<dc:creator>González Hernández, Ana</dc:creator>
+<dc:creator>Carrillo Fernández, Lourdes</dc:creator>
+<dc:creator>Alemán Sanchez, Jose Juán</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamento y objetivos: Identificar el índice antropométrico que mejor detecta riesgo cardiovascular (RCV) y diabetes mellitus de tipo 2 (DM2) en población adulta española y cuál es su punto de corte ideal. Sujetos y métodos: Estudio transversal en población general (n=6.729). Se estimó sensibilidad y especificidad de varios índices antropométricos: cintura abdominal, índice de masa corporal, ratio abdomen/pelvis y ratio abdomen/estatura (RA/E). Se obtuvieron sus áreas bajo la curva operador-receptor con respecto a los siguientes factores de RCV: riesgo coronario alto estimado según la ecuación de Framingham, hipertensión arterial, hiperlipidemia, DM2, síndrome metabólico (SM) y glucemia en ayunas alterada (GAA). Para estimar los riesgos relativos, calculamos la razón de ventajas con intervalo de confianza (IC) del 95%. Resultados: La RA/E produjo la mayor área de los 4 índices en DM2 y demás factores de RCV, que osciló entre 0,65 para GAA en varones (IC del 95%: 0,63&#150;0,68) y 0,87 para SM en mujeres (IC del 95%: 0,86&#150;0,89). La RA/E alcanzó la máxima sensibilidad (0,91) y especificidad (0,70) en el SM, y su punto de corte óptimo fue 0,55; con él, los riesgos estimados por la RA/E fueron también mayores que con los demás índices, y variaron desde 2,30 para GAA (IC del 95%: 1,96&#150;2,70) hasta 16,20 para SM (IC del 95%: 13,68&#150;19,20).Conclusiones: La RA/E es el índice con mejor capacidad de detección de DM2 y demás factores de RCV en esta población, y es el que mayor fuerza alcanza en su asociación con ellos. De su punto de corte (0,55) se deduce que conviene evitar que la cintura abdominal supere la mitad de la estatura (AU)</dc:description>
+<dc:source>Med. clín (Ed. impr.);134(9): 386-391, abr. 2010. tab</dc:source>
+<dc:identifier>ibc-82750</dc:identifier>
+<dc:title xml:lang="es">El cociente perímetro abdominal/estatura como índice antropométrico de riesgo cardiovascular y de diabetes</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d2359^s22080</dc:subject>
+<dc:subject>^d^s22045</dc:subject>
+<dc:subject>^d1852</dc:subject>
+<dc:subject>^d27937^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3946^s22080</dc:subject>
+<dc:subject>^d50314</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201004</dc:date>
+</metadata>
+</record>
+</ibecs-document>

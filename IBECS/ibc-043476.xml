@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-043476</identifier>
+<setSpec>1139-6709</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Genomic divergence of Escherichia coli strains: evidence for horizontal transfer and variation in mutation rates</dc:title>
+<dc:description xml:lang="en">This report describes the sequencing in the Escherichia coli B genome of 36 randomly chosen regions that are present in most or all of the fully sequenced E. coli genomes. The phylogenetic relationships among E. coli strains were examined, and evidence for the horizontal gene transfer and variation in mutation rates was determined. The overall phylogenetic tree indicated that E. coli B and K-12 are the most closely related strains, with E. coli O157:H7 being more distantly related, Shigella flexneri 2a even more, and E. coli CFT073 the most distant strain. Within the B, K-12, and O157:H7 clusters, several regions supported alternative topologies. While horizontal transfer may explain these phylogenetic incongruities, faster evolution at synonymous sites along the O157:H7 lineage was also identified. Further interpretation of these results is confounded by an association among genes showing more rapid evolution and results supporting horizontal transfer. Using genes supporting the B and K-12 clusters, an estimate of the genomic mutation rate from a long-term experiment with E. coli B, and an estimate of 200 generations per year, it was estimated that B and K-12 diverged several hundred thousand years ago, while O157:H7 split off from their common ancestor about 1.5-2 million years ago (AU)</dc:description>
+<dc:creator>Winkworth, Cynthia L</dc:creator>
+<dc:creator>Riley, Margaret A</dc:creator>
+<dc:creator>Elena, Santiago F</dc:creator>
+<dc:creator>Whittam, Thomas S</dc:creator>
+<dc:creator>Lenski, Richard E</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Se secuenciaron 36 regiones del genoma de Escherichia coli B elegidas al azar y que están presentes en la mayoría o en todos los genomas de E. coli secuenciados. Se examinaron las relaciones filogenéticas entre cepas de E. coli y se buscaron pruebas de transferencia génica horizontal y de variación en la tasa de mutación. El árbol filogenético conjunto de genes indica que E. coli B y K-12 son las cepas con un parentesco más estrecho, mientras que E. coli O157:H7 se encuentra más alejada y aún más lo están Shigella flexneri 2a y E. coli CFT073, siendo esta última la más distante de todas. En el grupo B, K-12 y O157:H7, varias regiones indican que hay topologías alternativas. La transferencia génica horizontal es una explicación plausible de estas incongruencias filogenéticas, pero también hemos hallado pruebas de una evolución más rápida en sitios sinónimos en el linaje O157:H7. Así pues, una interpretación más profunda de estos resultados queda confundida por una asociación entre unos genes que muestran una evolución más rápida y otros que son transferidos horizontalmente. Usando genes que apoyan los grupos B y K-1, y empleando una estima de la tasa de mutación obtenida a partir de un experimento de evolución a largo plazo con E. coli B y suponiendo 200 generaciones por año, se estimó que las cepas B y K-12 divergieron hace varios cientos de miles de años, mientras que O157:H7 se separó de su ancestro común hace entre 1,5 y 2 millones de años (AU)</dc:description>
+<dc:source>Int Microbiol;8(4): 271-278, dic. 2005. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-043476</dc:identifier>
+<dc:title xml:lang="es">Divergencia genómica de algunas cepas de Escherichia coli: pruebas de la transferencia horizontal y variación en las velocidades de mutación</dc:title>
+<dc:subject>^d35423^s22033</dc:subject>
+<dc:subject>^d5016^s22011</dc:subject>
+<dc:subject>^d5016^s22033</dc:subject>
+<dc:subject>^d30082</dc:subject>
+<dc:subject>^d35401</dc:subject>
+<dc:subject>^d13141^s22033</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200512</dc:date>
+</metadata>
+</record>
+</ibecs-document>

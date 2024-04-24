@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-148915</identifier>
+<setSpec>2253-654X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Breslow thickness and 18F-FDG PET-CT result in initial staging of cutaneous melanoma: Can a cut-off point be established?</dc:title>
+<dc:description xml:lang="en">Aim. To establish a Breslow Thickness (BT) cut-off point for indication of PET-CT of cutaneous melanoma in early stages and evaluate its prognostic value. Material and methods. Retrospective analysis of 347 PET-CT studies with diagnosis of melanoma, of which 108 were performed for initial staging. Thirty-one patients were excluded, and a final sample of 77 patients remained. A ROC curve analysis was performed to establish an optimal cut-off point. A survival analysis was performed, considering death assignable to melanoma as the main event, for the evaluation of its prognostic value. Results. Forty-seven (61.04%) of all 77 patients selected were men, and 11 (14.29%) had a positive PET-CT result. Mean age was 65.17 ± 15.00 years. The median BT in patients with a negative PET-CT result was 2.75 mm (IQR 1.83-4.50) and in the positive group 6.25 mm (IQR 5.40-7.50) (P=.0013). In the ROC curve analysis (AUC 0.804, SE 0.054), an optimal value of 5 mm BT with the following values was obtained: sensitivity 90.91%, specificity 78.79%, negative predictive value (NPV) 98.1%, positive predictive value (PPV) 41.7%, diagnostic OR 37.1, and accuracy 80.52%. Mean follow-up was 18.66 ± 14,35 months, detecting 2/53 (3.77%) deaths in the BT &lt; 5 mm group, and 7/24 (29.17%) in the BT&amp;#8805;5 mm group. Survival curves between both groups were significantly different (P=.0013). Conclusions. A 5 mm cut-off point correctly distinguishes those patients with positive PET-CT from those with negative results in the early stages of cutaneous melanoma; therefore it could be included in initial staging of this subgroup of patients (AU)</dc:description>
+<dc:creator>González Larriba, JL</dc:creator>
+<dc:creator>Pérez-Castejón, MJ</dc:creator>
+<dc:creator>Cabrera-Martín, MN</dc:creator>
+<dc:creator>Cala-Zuluaga, E</dc:creator>
+<dc:creator>Jiménez-Ballvé, A</dc:creator>
+<dc:creator>Fuentes-Ferrer, ME</dc:creator>
+<dc:creator>García García-Esquinas, M</dc:creator>
+<dc:creator>Ortega-Candil, A</dc:creator>
+<dc:creator>Cano-Carrizal, R</dc:creator>
+<dc:creator>Lapeña-Gutierrez, L</dc:creator>
+<dc:creator>Rodríguez-Rey, C</dc:creator>
+<dc:creator>Carreras-Delgado, JL</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Establecer un punto de corte del índice de Breslow (IB) para la indicación del estudio PET-TC en la estadificación del melanoma cutáneo en estadios iniciales y evaluar su valor pronóstico. Material y métodos. Análisis retrospectivo de 347 estudios PET-TC con 18F-FDG con diagnóstico de melanoma, siendo 108 de estadificación. Excluimos 31 obteniendo una muestra final de 77 pacientes. Para establecer el punto de corte óptimo llevamos a cabo un análisis de la curva ROC. Para evaluar el valor pronóstico se realizó un análisis de supervivencia registrando la muerte atribuible al melanoma. Resultados. De los 77 pacientes, 47 eran varones (61,04%) y 11 (14,29%) presentaron un resultado PET-TC positivo. La edad media fue 65,17 ± 15,00 años. La mediana del IB en el grupo con PET-TC negativo fue 2,75 mm (IQR 1,83-4,50) y en el grupo con resultado positivo 6,25 mm (IQR 5,40-7,50) (p = 0,0013). El análisis de la curva ROC (AUC 0,804, SE 0,054) dio como óptimo un punto de corte de 5 mm: sensibilidad 90,91%, especificidad 78,79%, VPN 98,1%, VPP 41,7%, OR diagnóstica 37,1 y exactitud diagnóstica 80,52%. El seguimiento medio fue de 18,66 ± 14,35 meses, observándose 3,77% muertes en el grupo con IB &lt; 5 mm y 29,17% en el grupo con IB &amp;#8805; 5 mm. Las curvas de supervivencia entre ambos grupos fueron significativamente diferentes (p = 0,0013). Conclusiones. Un punto de corte de IB de 5 mm discrimina de manera adecuada a aquellos pacientes con PET-TC positiva de aquellos con resultado negativo en estadios precoces del melanoma cutáneo, por lo que podría incluirse en la estadificación inicial de este subgrupo de pacientes (AU)</dc:description>
+<dc:source>Rev. esp. med. nucl. imagen mol. (Ed. impr.);35(2): 96-101, mar.-abr. 2016. tab, graf, ilus</dc:source>
+<dc:identifier>ibc-148915</dc:identifier>
+<dc:title xml:lang="es">Relación entre el índice de Breslow y el resultado de la PET-TC en la estadificación inicial del melanoma cutáneo: ¿es posible establecer un punto de corte?</dc:title>
+<dc:subject>^d24890</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d28614</dc:subject>
+<dc:subject>^d8714^s29166</dc:subject>
+<dc:subject>^d52438</dc:subject>
+<dc:subject>^d9560^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d13259^s29166</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d9560^s22074</dc:subject>
+<dc:subject>^d13259^s22011</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d38793^s22074</dc:subject>
+<dc:subject>^d33478</dc:subject>
+<dc:subject>^d38793^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201604</dc:date>
+</metadata>
+</record>
+</ibecs-document>

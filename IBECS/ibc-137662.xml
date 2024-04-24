@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-137662</identifier>
+<setSpec>1989-1342</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Diffusion and Monod kinetics model to determine in vivo human corneal oxygen-consumption rate during soft contact lens wear</dc:title>
+<dc:description xml:lang="en">Purpose: We present an analysis of the corneal oxygen consumption Qc from non-linear models, using data of oxygen partial pressure or tension (pO2 ) obtained from in vivo estimation previously reported by other authors.1 Methods: Assuming that the cornea is a single homogeneous layer, the oxygen permeability through the cornea will be the same regardless of the type of lens that is available on it. The obtention of the real value of the maximum oxygen consumption rate Qc,max is very important because this parameter is directly related with the gradient pressure profile into the cornea and moreover, the real corneal oxygen consumption is influenced by both anterior and posterior oxygen fluxes. Results: Our calculations give different values for the maximum oxygen consumption rate Qc,max, when different oxygen pressure values (high and low pO2 ) are considered at the interface cornea-tears film (AU)</dc:description>
+<dc:creator>da Silva, Ana R Ferreira</dc:creator>
+<dc:creator>Compañ, Vicente</dc:creator>
+<dc:creator>Aguilella, M</dc:creator>
+<dc:creator>Andrio, Andreu</dc:creator>
+<dc:creator>Castillo, Luis F del</dc:creator>
+<dc:creator>Mollá, Sergio</dc:creator>
+<dc:creator>Hernández, Saul I</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objetivo: Presentamos un análisis del consumo de oxígeno de la córnea Qc a partir de modelos no lineales, utilizando los datos de presión parcial del oxígeno (pO2) obtenidos de la estimación in vivo obtenidas previamente por otros autores.1 Métodos: Asumiendo que la córnea es una capa homogénea única, la permeabilidad del oxígeno a través de la misma será la misma, independientemente del tipo de lentes que se utilicen sobre ella. La obtención del valor real de la tasa máxima de consumo de oxígeno Qc,max, es muy importante porque este parámetro está directamente relacionado con el perfil del gradiente de presión dentro de la córnea y, además, el consumo real de oxígeno de la córnea está influenciado tanto por los flujos de oxígeno anterior como posterior. Resultados: Nuestros cálculos aportan diferentes valores para la tasa de consumo máximo de oxígeno Qc,max, al considerar diferentes valores de la presión del oxígeno (pO2 elevado y bajo) en la interfase entre la córnea y la película lagrimal. Conclusión: Estos resultados son relevantes para calcular la presión parcial del oxígeno, que se encuentra en diferentes profundidades dentro del tejido de la córnea por detrás de las lentes de contacto con diferente transmisibilidad al oxígeno (AU)</dc:description>
+<dc:source>J. optom. (Internet);8(1): 12-18, ene.-mar. 2015. tab, graf</dc:source>
+<dc:identifier>ibc-137662</dc:identifier>
+<dc:title xml:lang="es">Modelo de difusión y cinética Monod para la determinación 'in vivo' de la tasa de consumo de oxígeno de la córnea en pacientes con lentes de contacto blandas</dc:title>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d10281^s22031</dc:subject>
+<dc:subject>^d55738^s22031</dc:subject>
+<dc:subject>^d22594^s22045</dc:subject>
+<dc:subject>^d3333^s22031</dc:subject>
+<dc:subject>^d7942^s22063</dc:subject>
+<dc:subject>^d10729</dc:subject>
+<dc:subject>^d3282</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201503</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-18651</identifier>
+<setSpec>0214-3429</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Comparison of three genotyping methods for the detection of HIV-1 resistance to antiretroviral drugs</dc:title>
+<dc:creator>Delgado, R</dc:creator>
+<dc:creator>García, A</dc:creator>
+<dc:creator>Suárez, A</dc:creator>
+<dc:creator>Alonso, R</dc:creator>
+<dc:creator>Rodríguez Noriega, A</dc:creator>
+<dc:creator>Bernal, A</dc:creator>
+<dc:creator>Picazo, J</dc:creator>
+<dc:creator>Bouza, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>J.R. Prous, S.A.</dc:publisher>
+<dc:description xml:lang="es">Con la aparición de nuevos antirretrovirales ha mejorado considerablemente la expectativa de vida de los pacientes infectados por el virus de la inmunodeficiencia humana (VIH), pero mutaciones en la región que codifica la transcriptasa inversa (TI) y la proteasa (P) del VIH-1 pueden producir fallos en el tratamiento, por lo cual los estudios de resistencia pueden ser de utilidad para la selección del tratamiento más eficaz. El objetivo de nuestro trabajo ha sido comparar tres métodos genotípicos de detección de resistencias para valorar cuál puede resultar más adecuado en el laboratorio. Se han estudiado un total de 90 pacientes tratados con antirretrovirales, mediante tres métodos diferentes: hibridación reversa que identifica la presencia de virus salvaje o mutante en 19 codones clave para las regiones de transcriptasa inversa y proteasa, InnoLiPA HIV-1 (Line Probe Assay, Innogenetics, Belgica), y dos de secuenciación, ViroSeq HIV-1 Genotyping System (Perkin Elmer/Applied Biosystems, California) y TrueGene HIV-1 Genotyping System (Visible Genetics, Canada). Se detectaron 408 mutaciones por InnoLiPA, 572 por TrueGene y 721 por ViroSeq. La hibridación detectó un número significativamente superior de mutaciones primarias, asociadas con los grados de resistencia más altos (p &lt;0.001). También la hibridación detectó un mayor número de mezclas de virus salvajes y mutantes. En general existe una elevada concordancia entre los tres métodos, si bien es superior entre los de secuenciación. Esta técnica identificó un mayor número de mutaciones, pero la hibridación presentó mayor sensibilidad en la detección de mutaciones primarias y poblaciones mixtas, siendo de fácil aplicación en los laboratorios clínicos, aunque para la detección de nuevas mutaciones implicadas en la resistencia es necesario el análisis secuencial (AU)</dc:description>
+<dc:source>Rev Esp Quimioter;15(1): 43-48, mar. 2002.</dc:source>
+<dc:identifier>ibc-18651</dc:identifier>
+<dc:title xml:lang="es">Comparación de tres métodos genotípicos para la detección de resistencia del VIH-1 a los antirretrovirales</dc:title>
+<dc:subject>^d9346</dc:subject>
+<dc:subject>^d29415</dc:subject>
+<dc:subject>^d5974</dc:subject>
+<dc:subject>^d36326</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d33075</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200203</dc:date>
+</metadata>
+</record>
+</ibecs-document>

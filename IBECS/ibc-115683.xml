@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-115683</identifier>
+<setSpec>1138-3593</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Depression in the elderly: Prevalence and associated factors</dc:title>
+<dc:description xml:lang="en">Aim: To determine the prevalence of depression, and to study the factors associated with it among community-dwelling 85-year-olds. Material and methods: A cross-sectional study was conducted within the framework of a randomized clinical trial in elderly people, all born in 1924, from seven urban and rural primary health care centers. Sociodemographic data and geriatric assessment were performed. Functional status was measured with Barthel index and Lawton index, cognitive impairment with Mini-mental Status Examination, social risk with Gijon test, and comorbidity by Charlson index. The presence of exhaustion and physical activity were recorded along with the chronic prescription of psycothropic drugs, and the presence of depression in clinical registers. Depression was evaluated using the Yesavage Geriatric Depression Scale (GDS) of 5 items (depression &gt;= 2). The statistical program used was the R project: (version 2.12.2) Foundation for Statistical Computing, Vienna. Results: The sample was consisted of 220 subjects, 129 women (58.6%), 76 (34.5% were depressed using the GDS, 46 (20.9%) subjects had depression in the clinical records, and 60 (35.5%) patients were taking antidepressant drugs, 66 (36,8%) benzodiazepine, and 10 (4%) antipsychotic drugs. Depression was associated with poorer functional status according to basic and instrumental activities of daily living, cognitive impairment, exhaustion, low physical activity, and psychotropic drugs. Finally, the factors significantly associated with depression were low physical activity and increased exhaustion. Conclusions: The present study found a high prevalence of depression in subjects older than 85 years. Physical activity and having a good self-perception of energy are associated to a lower prevalence of depression (AU)</dc:description>
+<dc:creator>Rando-Matos, Y</dc:creator>
+<dc:creator>Formiga, F</dc:creator>
+<dc:creator>Rojas-Farreras, S</dc:creator>
+<dc:creator>Sarró-Maluquer, M</dc:creator>
+<dc:creator>Ferrer-Feliu, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos. Describir la prevalencia de depresión y los factores asociados en octogenarios de la comunidad. Material y métodos. Estudio transversal, realizado en el marco de un ensayo clínico aleatorizado, en personas no institucionalizadas nacidas en el año 1924, realizado en 7 centros de atención primaria tanto urbanos como rurales. Se ha registrado datos sociodemográficos, funcionalidad con los índices de Barthel y de Lawton, estado cognoscitivo con el Mini-Examen Cognoscitivo, comorbilidad con el índice de Charlson, riesgo social con el test de Gijón, presencia de agotamiento, actividad física, prescripción crónica de fármacos psicotropos y presencia del diagnóstico de depresión en la historia clínica. Respecto a la depresión se ha medido según la Escala de Depresión Geriátrica (GDS) de Yesavage de 5 ítems (depresión &gt;= 2). El paquete estadístico utilizado fue el R: A language and environment for statistical computing program (version 2.12.2) Foundation for Statistical Computing (Viena, Austria). Resultados. Se han evaluado 220 personas, 129 (58,6%) mujeres. El diagnóstico de depresión según la GDS es positivo en 76 (34,5%) pacientes, mientras que en la historia clínica (HC) está presente en 46 (20,9%) pacientes. Existe prescripción de fármacos antidepresivos en 60 (35,5%) pacientes, benzodiacepinas en 66 (36,8%) y antipsicóticos en 10 (4%). La depresión se asocia con deterioro de actividades básicas e instrumentales, deterioro cognitivo, agotamiento, prescripción de psicotropos y menor actividad física. Finalmente, persisten asociados a depresión la menor práctica de ejercicio físico y peor autopercepción de energía. Conclusiones. Existe una elevada frecuencia de depresión en mayores de 85 años. La práctica de ejercicio físico y tener una buena autopercepción de energía se asocian a menor prevalencia de depresión (AU)</dc:description>
+<dc:source>SEMERGEN, Soc. Esp. Med. Rural Gen. (Ed. Impr.);39(7): 354-360, oct. 2013. tab, ilus</dc:source>
+<dc:identifier>ibc-115683</dc:identifier>
+<dc:title xml:lang="es">Depresión en ancianos: prevalencia y factores asociados</dc:title>
+<dc:subject>^d3883^s22054</dc:subject>
+<dc:subject>^d28470</dc:subject>
+<dc:subject>^d935^s22073</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6450^s22048</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d6450^s22049</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d24572</dc:subject>
+<dc:subject>^d11756^s22074</dc:subject>
+<dc:subject>^d28596^s22045</dc:subject>
+<dc:subject>^d23631^s22031</dc:subject>
+<dc:subject>^d6450^s22074</dc:subject>
+<dc:subject>^d23631^s22056</dc:subject>
+<dc:subject>^d3883^s22080</dc:subject>
+<dc:subject>^d11756^s22045</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d28940^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201310</dc:date>
+</metadata>
+</record>
+</ibecs-document>

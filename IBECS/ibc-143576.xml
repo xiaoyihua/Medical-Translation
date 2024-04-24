@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-143576</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">No disponible</dc:title>
+<dc:description xml:lang="en">Introduction: Due to the changes at the nursery of the Paediatric Hospital an application was designed for the purpose of optimizing the request, preparation, distribution and control of use, for all the formulae elaborated in that nursery. Materials and methods: The programme in Microsoft Access 97 built, contains information about inpatients and the diets given to them, along with the classification of the formulae, trade names, their concentration, suppliers and the perishable ingredients that were involved in the preparation of these diets. In order to complete the data, several formularies were prepared which were used by the nursing staff and by those responsible for their preparation. The access to each of these functions was restricted according to the role of each group (Ward staff, preparation and administration areas) that different members belonged to. Results: The programme was initiated in a progressive fashion throughout the different wards starting in May 1999. Until to date there had been a control over the request and elaboration of 44.281 feeding bottles for 419 neonates. Conclusion: A reduction in the number of requests out of hours was observed as was the time of preparation. Also, there was a reduction in the quantity of the formulae used (AU)</dc:description>
+<dc:creator>Parra, Carlos</dc:creator>
+<dc:creator>Nieto, Jaime</dc:creator>
+<dc:creator>Romero, Herminia</dc:creator>
+<dc:creator>Rosa, Ángeles</dc:creator>
+<dc:creator>Pérez-Pérez, Manuel</dc:creator>
+<dc:creator>Lobo, Julia</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: Con motivo de la remodelación de la biberonería del Hospital Materno-Infantil, se diseñó una aplicación destinada a optimizar la petición, preparación, distribución y control de consumos, de todas las fórmulas elaboradas en dicha biberonería. Material y métodos: El programa desarrollado en Microsoft Access 971 contiene información sobre pacientes hospitalizados y las dietas que se le asignen junto con clasificaciones de fórmulas, marcas comerciales, concentraciones de elaboración, proveedores, material fungible que intervienen en la preparación de dichas dietas. Para la cumplimentación de los datos, se han prepararon diversos formularios que son utilizados tanto por el personal de enfermería de las plantas de hospitalización como por el implicado en la elaboración de los biberones. El acceso a cada una de las funciones es restringido en función del grupo funcional (planta, elaboración y administración) al que pertenece cada usuario. Resultados: El programa está implantado con utilización progresiva de las diversas plantas desde mayo de 1999. Hasta el día de hoy ha controlado la petición y elaboración de 44.281 biberones para 419 neonatos y lactantes. Conclusión: Se ha observado una disminución del número de peticiones fuera de los horarios establecidos y tiempo de elaboración, así como un ahorro en las cantidades de fórmula empleadas (AU)</dc:description>
+<dc:source>Rev. calid. asist;16(8): 730-734, nov. 2001. ilus, tab</dc:source>
+<dc:identifier>ibc-143576</dc:identifier>
+<dc:title xml:lang="es">Informatización de la biberonería de un hospital materno-infantil con una producción diaria de 700 biberones</dc:title>
+<dc:subject>^d50264</dc:subject>
+<dc:subject>^d5661^s22049</dc:subject>
+<dc:subject>^d51565</dc:subject>
+<dc:subject>^d38403^s22045</dc:subject>
+<dc:subject>^d22226</dc:subject>
+<dc:subject>^d51275^s22049</dc:subject>
+<dc:subject>^d1927^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d52507</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200111</dc:date>
+</metadata>
+</record>
+</ibecs-document>

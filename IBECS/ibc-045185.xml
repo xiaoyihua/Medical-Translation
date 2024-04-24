@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-045185</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Drug information management through the intranet of a hospital center</dc:title>
+<dc:description xml:lang="en">Objective: This paper describes the methodology used for theimplementation and validation of a network resource incorporatedto the intranet of the Hospital, in order to retain and disseminateinformation from the Drug Information Center (DIC) of a pharmacyservice in a hospital center.Method: A working group designed the structure, contents,memory needs, priority of access for users and a quality assessmentquestionnaire.Results: The resource developed by the working group had acapacity of 70 Gb and its structure was based on HTML documents,including files with different format and 12 theme areas.Two levels of priority of access were established depending on theuser and two persons were in charge of the resource. The questionnairewas delivered after three months of use. Sixty nine percent of the users regarded the resource as very useful and 31%, asuseful. The final structure, according to the results of the survey,had 11 theme areas.Conclusions: The use of the hospital Intranet in order toinclude and organize DIC information can be very simple and economic.Furthermore, the involvement of all the users in its designand structure can facilitate the practical use of this tool andimprove its quality</dc:description>
+<dc:creator>Juárez Giménez, J. C</dc:creator>
+<dc:creator>Mendarte Barrenechea, L</dc:creator>
+<dc:creator>Sala Piñol, F</dc:creator>
+<dc:creator>Lalueza Broto, P</dc:creator>
+<dc:creator>Girona Brumos, L</dc:creator>
+<dc:creator>Monterde Junyent, J</dc:creator>
+<dc:creator>Gil Luján, G</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: En el presente trabajo se describe la metodología deimplantación y validación de un recurso de red incluido en la intranetdel Hospital, para almacenar y difundir la información delCentro de Información de Medicamentos (CIM) de un servicio defarmacia en un centro hospitalario.Método: Un grupo de trabajo diseñó la estructura, contenido,necesidades de memoria, prioridades de acceso de los usuarios yuna encuesta para evaluar la calidad.Resultados: El recurso obtenido de 70 Gb de capacidad seestructuró mediante documentos HTML incluyendo archivosde diferente formato con 12 áreas temáticas. Se establecieron2 niveles de prioridad de acceso según el usuario y dos responsablesdel recurso. La encuesta realizada tras tres meses de utilizaciónmostró que el 69% de los usuarios, consideró el recurso muyútil, y el 31% lo calificó de útil. La estructura final, según los resultadosde la encuesta fue de 11 áreas temáticas.Conclusiones: La utilización de la intranet del hospital paraincluir y estructurar la información del CIM puede realizarse deuna forma sencilla y económica. Además, la participación detodos los usuarios en su diseño y estructura, puede facilitar la utilidadpráctica de esta herramienta y aumentar su calidad</dc:description>
+<dc:source>Farm Hosp;30(1): 49-52, ene. 2006. tab</dc:source>
+<dc:identifier>ibc-045185</dc:identifier>
+<dc:title xml:lang="es">Gestión de la información de medicamentos mediante la intranet de un centro hospitalario</dc:title>
+<dc:subject>^d19129^s22074</dc:subject>
+<dc:subject>^d33196^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4408^s22055</dc:subject>
+<dc:subject>^d36354</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200601</dc:date>
+</metadata>
+</record>
+</ibecs-document>

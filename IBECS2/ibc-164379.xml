@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-164379</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Imputing missing data in public health: general concepts and application to dichotomous variables</dc:title>
+<dc:description xml:lang="en">The presence of missing data in collected variables is common in health surveys, but the subsequent imputation thereof at the time of analysis is not. Working with imputed data may have certain benefits regarding the precision of the estimators and the unbiased identification of associations between variables. The imputation process is probably still little understood by many non-statisticians, who view this process as highly complex and with an uncertain goal. To clarify these questions, this note aims to provide a straightforward, non-exhaustive overview of the imputation process to enable public health researchers ascertain its strengths. All this in the context of dichotomous variables which are commonplace in public health. To illustrate these concepts, an example in which missing data is handled by means of simple and multiple imputation is introduced (AU)</dc:description>
+<dc:creator>Hernández, Gilma</dc:creator>
+<dc:creator>Navarro, Albert</dc:creator>
+<dc:creator>Moriña, David</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Que haya valores ausentes en variables registradas en encuestas de salud es habitual, pero no lo es imputarlos posteriormente cuando se realiza el análisis. Trabajar con datos imputados puede tener ventajas en términos de precisión de los estimadores y de identificación sin sesgos de la asociación entre variables. Probablemente, el proceso de imputación sigue siendo desconocido para muchos profesionales no estadísticos, que le atribuyen una alta complejidad y quizás un objetivo que no es exactamente el que persigue. Para aclarar estas cuestiones, esta nota pretende ofrecer una visión amena, no exhaustiva, del proceso de imputación, que permita conocer sus bondades para el trabajo de un salubrista. Todo ello en el marco de variables dicotómicas, habituales en salud pública. Para ilustrar los conceptos se usa un ejemplo en el cual se trabaja con datos con valores ausentes, imputados de forma simple y múltiple (AU)</dc:description>
+<dc:source>Gac Sanit;31(4): 342-345, jul.-ago. 2017. ilus, graf</dc:source>
+<dc:identifier>ibc-164379</dc:identifier>
+<dc:title xml:lang="es">Imputación de valores ausentes en salud pública: conceptos generales y aplicación en variables dicotómicas</dc:title>
+<dc:subject>^d28565</dc:subject>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d50053</dc:subject>
+<dc:subject>^d28601</dc:subject>
+<dc:subject>^d24517</dc:subject>
+<dc:subject>^d24624</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201708</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-117529</identifier>
+<setSpec>2253-6221</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Intraocular lens power calculation after myopic lasik with no previous data</dc:title>
+<dc:description xml:lang="en">How many ways are there to calculate intraocular lens (IOL) power in eyes that have myopic Láser in situ keratomileusis (LASIK)? The list is long, and growing. As is always the case when there are several solutions to a problem, none is perfect. In this review, we describe the most reliable methods in the worst scenario: no data prior to LASIK available.When no preoperative corneal power and refractive change are available the lowest mean absolute error is achieved with the methods of Masket, Seitz/Speicher/Savini, Shammas, and Camellin/Calossi. When preoperative corneal power is unknown but the surgically induced refractive change is known the lowest mean absolute error is achieved with the Masket method followed by the the Savini method, Speicher/Seitz method modified by Savini, and Shammas no-history method. Ideally, it would be optimal to have a spreadsheet that allows the clinician to insert all values available. The various formulas would then be calculated automatically. When faced with a range of values for the IOL power, you&#146;d better look for values that are consistent with at least one other reading. Values that select higher IOL powers are preferable, leaving the patient slightly myopic rather than hyperopic.  Resolution of this problem will require a method for accurately measuring posterior corneal power or a technique for adjusting IOL power after implantation. Until then, surgeons are faced with performing multiple calculations to &#145;&#145;guesstimate&#146;&#146; the correct IOL for patients who, by their original decision to have LASIK, have demonstrated that they have above-average refractive demands (AU)</dc:description>
+<dc:creator>Mesa Gutiérrez, J. C</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">¿Cuántos métodos hay para calcular la potencia de la lente intraocular (LIO) en ojos con LASIK previo? La lista es larga y va aumentando. Como suele ser lo habitual, cuando existen tantos métodos es porque ninguno es perfecto. En esta revisión describimos los métodos más fiables en el peor escenario: cuando no conocemos los datos previos al LASIK. Cuando no conocemos ni la queratometría previa (Kpre) ni el cambio refractivo originado por el LASIK los métodos más fiables son el de Masket, el de Seitz/Speicher/Savini, el de Asmas y el de Camellin/Calossi. Cuando no conocemos la Kpre pero sí el cambio refractivo producido el método más fiable es el de Masket seguido por el de Savini, el de Speicher/Seitz modificado por Savini y el de Shammas Idealmente, es deseable disponer de una hoja de cálculo que nos permita introducir todos los valores de los que dispongamos para realizar los cálculos con varias fórmulas a la vez. Si nos enfrentamos ante un rango amplio de valores de LIO, lo más sensato es elegir los valores más parecidos entre sí. Siempre es preferible optar por valores altos de LIO y dejar al paciente miópico antes que con hipermetropía tras la cirugía de la catarata. La solución a todos estos problemas es la medida de la potencia de la cara posterior de la córnea. Si no disponemos de ella, la vía que nos queda es realizar múltiples cálculos y correcciones para estimar la potencia de la LIO que ofrecer a un paciente con unas exigencias en cuanto a emetropía mayores que la población estándar (AU)</dc:description>
+<dc:source>Rev. esp. investig. oftalmol;3(2): 107-114, abr.-jun. 2013. ^f107^l114</dc:source>
+<dc:identifier>ibc-117529</dc:identifier>
+<dc:title xml:lang="es">Cálculo de la potencia de la lente intraocular tras lasik miópico sin datos previos</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d33571^s22045</dc:subject>
+<dc:subject>^d12451</dc:subject>
+<dc:subject>^d54194</dc:subject>
+<dc:subject>^d2431^s22045</dc:subject>
+<dc:subject>^d8088^s22048</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201306</dc:date>
+</metadata>
+</record>
+</ibecs-document>

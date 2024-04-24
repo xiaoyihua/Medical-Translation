@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-73137</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prognostic value of lactate clearance in the first 6 hours of intensive medicine course</dc:title>
+<dc:description xml:lang="en">Objective. Analyze the clinical usefulness of lactate clearance (CL6) immediately after admission to the intensive care unit (ICU) in the first 6 hours. Setting. Surgical-ICU. Centro de Asistencia del Síndicato Médico of Uruguay. Design. Prospective, analytic and observational study performed between December 1, 2004 and March 31, 2006 in patients over 18 years whose arterial lactate level is higher than 2 mEq/l on admission to the ICU. Lactate clearance (CL6) was defined as the quotient between admissions (L0) minus the six hour lactate level (L6) divided by the admission lactate level. Sensitivity, specificity, positive and negative prognostic value for different CL6 cutoff were analyzed. The optimal CL6 was considered as the cutoff with the highest sum of sensitivity plus specificity. Results. One hundred and eight patients were included; 64 patients died (mortality intra-ICU 59.3%). ICU mortality related variables, identified by Cox regression analysis, were CL6 (HR = 0.458; CI 95%, 0.239-0.876), L0 (HR = 1.16; CI 95%, 1.033-1.303) and SAPSII (HR = 1.019; CI 95%, 1.006-1.034). A CL6 equal to or lower than 0.4 was considered as optimal cutoff with a positive prognostic value of 74% and negative prognostic value of 61%. It was also associated with lower survival adjusted by the SAPSII value and L0. Conclusions. In critically ill surgical patients, whose CL6 on admission was over 2 mEq/l, lactate clearance in the first six hours could be useful to predict the ICU outcome(AU)</dc:description>
+<dc:creator>Bertullo, Hugo</dc:creator>
+<dc:creator>Cardinal Fernández, Pablo Alejandro</dc:creator>
+<dc:creator>Acosta, Clotilde</dc:creator>
+<dc:creator>Olano, Estela</dc:creator>
+<dc:creator>Albornoz, Henry</dc:creator>
+<dc:creator>Bagnulo, Homero</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Analizar la utilidad del aclaramiento de lactato a la sexta hora (CL6) del ingreso a la unidad de cuidados intensivos (UCI). Lugar. UCI quirúrgica. Centro Asistencial del Sindicato Médico del Uruguay. Diseño. Prospectivo, observacional, analítico. Pacientes mayores de 18 años ingresados entre el 1 de diciembre de 2004 y el 31 de marzo de 2006, cuya lactacidemia arterial inicial fue mayor de 2 mEq/l. Se calculó el CL6 como el cociente de la diferencia entre la lactacidemia inicial (L0) menos la lactacidemia a la sexta hora (L6) dividida por la lactacidemia inicial. Se calculó la sensibilidad, la especificidad, el valor predictivo positivo y el valor predictivo negativo para diferentes valores de CL6. Se consideró el CL6 óptimo el que sumó mayores sensibilidad y especificidad. Resultados. Se incluyó a 108 pacientes, de los que fallecieron 64 en la unidad (mortalidad en UCI del 59,3%). Las variables relacionadas con la mortalidad en la UCI fueron el valor del CL6 (hazard ratio [HR] = 0,458; intervalo de confianza [IC] del 95%, 0,239-0,876), el valor de L0 (HR = 1,16; IC del 95%, 1,033-1,303) y el valor del SAPSII (HR = 1,019; IC del 95%, 1,006-1,034). El CL6 óptimo fue &amp;#8804; 0,4, con un valor predictivo positivo del 74% y un valor predictivo negativo del 61% para la mortalidad en la UCI; también se relacionó con una menor supervivencia en la UCI ajustada por el valor de SAPSII y de L0. Conclusiones. En pacientes críticos quirúrgicos el CL6 puede ser una ayuda para discernir el pronóstico en la UCI(AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);33(4): 166-170, mayo 2009. tab, ilus</dc:source>
+<dc:identifier>ibc-73137</dc:identifier>
+<dc:title xml:lang="es">Valor pronóstico del aclaramiento de lactato en las primeras 6 h de evolución en medicina intensiva</dc:title>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30170^s22047</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d3439^s22045</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d32981^s22044</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d32981</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d13195</dc:subject>
+<dc:subject>^d14384</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200905</dc:date>
+</metadata>
+</record>
+</ibecs-document>

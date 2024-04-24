@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-5987</identifier>
+<setSpec>0210-4806</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Multivariate analysis based diagnosis algorithm for reducing the negative prostatic biopsies percentage in patients with elevated PSA level or abnormal digital rectal examination</dc:title>
+<dc:creator>Virseda Chamorro, M</dc:creator>
+<dc:creator>Alpuente Román, C</dc:creator>
+<dc:creator>Adot Zurbano, J. M</dc:creator>
+<dc:creator>Agüera Fernández, L</dc:creator>
+<dc:creator>Valer Algarabel, J</dc:creator>
+<dc:creator>Marcos Díez, J</dc:creator>
+<dc:creator>Gómez López, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ene Ediciones, S.A.</dc:publisher>
+<dc:description xml:lang="es">OBJETIVOS: Determinar que pruebas tienen un mejor rendimiento diagnóstico en pacientes con sospecha de cáncer de próstata por PSA superior o igual a 4 ng/ml, o tacto rectal anormal, con el fin de disminuir el número de biopsias prostáticas negativas. MATERIAL Y MÉTODOS: Se realizó una biopsia transrectal ecodirigida en sextantes a una serie de 400 pacientes con PSA total superior o igual a 4 ng/ml, o tacto rectal sospechoso. En estos pacientes se valoró además las características ecográficas de la próstata, el volumen prostático y el PSA libre. RESULTADOS: Los parámetros de mayor rendimiento diagnóstico fueron la proporción de PSA libre (PSAl) y la densidad de PSA (DPSA), ambos con una sensibilidad del 66 por ciento y una especificidad del 70 por ciento (tomando como punto de corte óptimo un valor de 0,15), seguido del PSA total (PSAt), el tacto rectal y la presencia de zonas prostáticas hipoecoicas. Con estos datos se construyó un modelo logístico multivariante, siendo la variable resultado la probabilidad de presentar cáncer de próstata. Las variables predictivas significativas del modelo fueron el PSAl, la DPSA, el tacto rectal y la presencia y extensión de las zonas prostáticas hipoecoicas. Este modelo presentó una sensibilidad del 81 por ciento y una especificidad del 79 por ciento, tomando como punto de corte óptimo una probabilidad de padecer cáncer de próstata de 0,24. Con el fin de reducir el número de falsos negativos, se consideró como punto de corte del modelo una probabilidad del 0,1. Con este valor la sensibilidad fue del 94 por ciento y la especificidad del 54 por ciento. Si se hubiera aplicado este modelo al grupo de pacientes de nuestra serie se hubiera evitado la biop-sia en 164 casos (el 41 por ciento de los pacientes), dejándose sin diagnosticar únicamente 7 casos. CONCLUSIONES: La combinación de tacto rectal, PSAl, presencia y extensión de zonas hipoecoicas prostáticas y DPSA, permiten disminuir el porcentaje de biopsias en pacientes con PSAt superior o igual a 4 ng/ml, tacto rectal anormal, sin descender apreciablemente el número de cánceres de próstata detectados (AU)</dc:description>
+<dc:source>Actas Urol Esp;24(7): 549-559, jul. 2000.</dc:source>
+<dc:identifier>ibc-5987</dc:identifier>
+<dc:title xml:lang="es">Algoritmo diagnóstico basado en un modelo multivariante para reducir el porcentaje de biopsias prostáticas negativas en pacientes con psa alterado o tacto rectal sospechoso</dc:title>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d19062</dc:subject>
+<dc:subject>^d1731</dc:subject>
+<dc:subject>^d5289</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:subject>^d12427</dc:subject>
+<dc:subject>^d30596</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d10361</dc:subject>
+<dc:subject>^d11914</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200007</dc:date>
+</metadata>
+</record>
+</ibecs-document>

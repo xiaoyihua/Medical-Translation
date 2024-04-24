@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-049923</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Time-frequency analysis of ventricular fibrillation. An experimental study</dc:title>
+<dc:description xml:lang="en">Introduction and objectives. The analysis of frequency variability during ventricular fibrillation has yielded inconsistent results. We used an experimental model of ventricular fibrillation, with a short timescale, to analyze variations in frequency and their associated spatial distribution. Methods. Epicardial recordings of ventricular fibrillation were made in 10 perfused isolated rabbit heart preparations using a multiple electrode system (i.e., 240 unipolar electrodes). Both spectral and time-frequency analysis were used to derive the dominant frequency in the anterolateral wall of the left ventricle. Results. Linear regression analysis showed that there was a good correlation between the dominant frequency obtained using the two signal analysis methods: frequency (spectral analysis) = 1.01 × frequency (time-frequency analysis) -­ 0.4 (r=0.9; P&lt;.0001; standard error of the estimate, 2.2 Hz). In all cases except one, the dominant frequency exhibited a significant temporal variation on a short timescale (time-frequency analysis); the coefficient of variation was between 0.19 (0.06) and 0.24 (0.07) (NS). In all cases, there were significant differences between regions. The location at which the frequency was highest varied according to the timepoint considered, though it was predominantly in the apical or anterior zone. Conclusions. In the absence of external modulating factors, the frequency of ventricular fibrillation exhibits temporal and spatial variations which can be observed at short timescales. In the free wall of the left ventricle, the dominant frequency is highest in the apical and anterior zones, and the maximum frequencies are most often found in these zones (AU)</dc:description>
+<dc:creator>Cánoves, Joaquín</dc:creator>
+<dc:creator>Such, Luis</dc:creator>
+<dc:creator>Bodí, Vicente</dc:creator>
+<dc:creator>Mainar, Luis</dc:creator>
+<dc:creator>Blasco, Estrella</dc:creator>
+<dc:creator>Sanchís, Juan</dc:creator>
+<dc:creator>Chorro, Francisco J</dc:creator>
+<dc:creator>Ferrero, Ángel</dc:creator>
+<dc:creator>Guerrero, Juan</dc:creator>
+<dc:creator>Isabel Trapero, Isabel</dc:creator>
+<dc:creator>Such-Miquel, Luis</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos. El análisis de la variabilidad de la frecuencia durante la fibrilación ventricular ha aportado resultados no uniformes. En un modelo experimental de fibrilación ventricular se analiza, en una escala temporal reducida, las variaciones de la frecuencia y su distribución espacial. Métodos. En 10 preparaciones de corazón aislado y perfundido de conejo, se efectúan registros epicárdicos de la fibrilación ventricular con un electrodo múltiple (240 electrodos unipolares) y se aplican métodos de análisis espectrales y de tiempo-frecuencia para obtener la frecuencia dominante en la pared anterolateral del ventrículo izquierdo. Resultados. La recta de regresión obtenida al relacionar los valores de la frecuencia dominante obtenidos con los 2 métodos de análisis muestra una buena correlación entre ambos: frecuencia (método espectral) = 1,01 × frecuencia (método tiempo-frecuencia) -­ 0,4 (r = 0,9; p &lt; 0,0001; error estándar de la estimación, 2,2 Hz). Las variaciones temporales de la frecuencia dominante en una escala de tiempo reducida (análisis de tiempo-frecuencia) son significativas en todos los casos excepto en uno y muestran un coeficiente de variación comprendido entre 0,19 ± 0,06 y 0,24 ± 0,07 (NS). En todos los casos se observan diferencias regionales significativas, aunque la ubicación de los valores más altos varía según el instante considerado, con un predominio en las zonas apicales y anteriores. Conclusiones. En ausencia de factores moduladores externos, la fibrilación ventricular presenta variaciones temporales y espaciales de la frecuencia que se objetivan en escalas de tiempo reducidas. En la pared libre del ventrículo izquierdo, la frecuencia dominante es mayor en las zonas apicales y anteriores, zonas en las que se ubican con mayor frecuencia los valores máximos (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;59(9): 869-878, sept. 2006. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-049923</dc:identifier>
+<dc:title xml:lang="es">Análisis tiempo-frecuencia de la fibrilación ventricular. Estudio experimental</dc:title>
+<dc:subject>^d15100^s22032</dc:subject>
+<dc:subject>^d6473^s22032</dc:subject>
+<dc:subject>^d12256</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d4255</dc:subject>
+<dc:subject>^d4634</dc:subject>
+<dc:subject>^d4667</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d14384</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200609</dc:date>
+</metadata>
+</record>
+</ibecs-document>

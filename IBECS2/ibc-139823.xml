@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-139823</identifier>
+<setSpec>1695-4033</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">An update of the diagnostic coding system by the Spanish Society of Pediatric Emergencies</dc:title>
+<dc:description xml:lang="en">The Quality Working Group of the Spanish Society of Pediatric Emergencies (SEUP) presents an update of the diagnostic coding list. The original list was prepared and published in ANALES DE PEDIATRÍA in 2000, being based on the International Coding system ICD-9-CM current at that time. Following the same methodology used at that time and based on the 2014 edition of the ICD-9-CM, 35 new codes have been added to the list, 15 have been updated, and a list of the most frequent references to trauma diagnoses in pediatrics have been provided. In the current list of diagnoses, SEUP reflects the significant changes that have taken place in Pediatric Emergency Services in the last decade (AU)</dc:description>
+<dc:creator>Benito Fernández, J</dc:creator>
+<dc:creator>Luaces Cubells, C</dc:creator>
+<dc:creator>Anso Borda, I</dc:creator>
+<dc:creator>Gelabert Colomé, G</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Se presenta la actualización del listado de codificación diagnóstica de la Sociedad Española de Urgencias de Pediatría (SEUP) que ha realizado el Grupo de Trabajo de Calidad de dicha Sociedad. El listado original fue elaborado y publicado en ANALES DE PEDIATRÍA el año 2000, basándose en la edición existente en aquel momento del sistema de codificación internacional CIE-9-MC. Siguiendo la misma metodología utilizada en aquel momento, y basándose en la edición del año 2014 del CIE-9-MC, se han añadido el listado 35 nuevos códigos, se han actualizado 15 y se ha añadido un listado de referencia con los diagnósticos traumatológicos más frecuentes en pediatría. El listado de diagnósticos SEUP actual refleja los importantes cambios experimentados por los Servicios de Urgencia Pediátricos en el último decenio (AU)</dc:description>
+<dc:source>An Pediatr (Barc);82(6): 442.e1-442.e7, jun. 2015. graf, tab</dc:source>
+<dc:identifier>ibc-139823</dc:identifier>
+<dc:title xml:lang="es">Actualización del sistema de codificación diagnóstica de la Sociedad Española de Urgencias de Pediatría</dc:title>
+<dc:subject>^d29636</dc:subject>
+<dc:subject>^d10565^s22060</dc:subject>
+<dc:subject>^d10565^s22041</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d10565^s22034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d5900^s22054</dc:subject>
+<dc:subject>^d5900^s22033</dc:subject>
+<dc:subject>^d5900^s22044</dc:subject>
+<dc:subject>^d38904^s22074</dc:subject>
+<dc:subject>^d5900^s22012</dc:subject>
+<dc:subject>^d38904^s37748</dc:subject>
+<dc:subject>^d10565^s22019</dc:subject>
+<dc:subject>^d38904^s22011</dc:subject>
+<dc:subject>^d38904^s22066</dc:subject>
+<dc:subject>^d24356^s22044</dc:subject>
+<dc:subject>^d24356^s22033</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201506</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-036707</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Artificial neuronal networks in Intensive Medicine. An example of application with MPM II variables</dc:title>
+<dc:description xml:lang="en">Objective. The application of Mortality Probability Model (MPM II) index of severity in our ICU shows poor calibration that forces us to seek readjusted models. Design. For the readjustment of the models we have used techniques based on Logistic Regression (LR) and an Artificial Neuronal Network (ANN) (multilayer perceptron with error retropropagation). In order to assess these models we analyzed a group of 964 patients divided into a development subgroup (736 patients) and a validation subgroup (228 patients). We calculated the MPM II model at admission and at 24-hours (MPM II-0 and MPM II-24), the models readjusted by LR (LRR-0 and LRR-24), and the models obtained through the ANN (ANN-0 and ANN-24). Developed models were verified in the validation subgroup for evaluating their discrimination properties through the area under the ROC (receiver operating characteristic) curve (AURC [CI 95%]), and for its calibration with the Hosmer-Lemeshow C (HLC [p]) test.         Results. MPM II-0 and MPM-24 models showed high discrimination (AURC 0.8) with poor calibration (HLC 25). The readjusted models (LRR and ANN) improved in calibration maintaining an acceptable discrimination. ANN is better for discrimination (AURC = 0.85 [0.79-0.90]) and calibration (HLC = 21 [p = 0.005]) in the 24-hour model, however, without significance. Conclusion. ANN can stratify the risk of hospital mortality using the variables of the MPM II system. ANN shows different death probabilities in the same group of patients. This is associated with a different contribution from the variables in LR- and ANN-based models</dc:description>
+<dc:creator>Badía Castello, M</dc:creator>
+<dc:creator>Serviá Goixart, L</dc:creator>
+<dc:creator>Trujillano Cabello, J</dc:creator>
+<dc:creator>March Llanes, J</dc:creator>
+<dc:creator>Rodríguez Pozo, A</dc:creator>
+<dc:creator>Sorribas Tello, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. La aplicación del índice de gravedad Mortality Probability Model (MPM II) en nuestra Unidad de Cuidados Intensivos (UCI) nos muestra una mala calibración que nos obliga a buscar modelos reajustados. Diseño. Para el reajuste de los modelos utilizamos técnicas basadas en regresión logística (RL) y una red neuronal artificial (RN) (perceptrón multicapa con retropropagación del error). Para valorar estos modelos utilizamos un grupo de 964 pacientes que se dividen en un grupo de Desarrollo (736 pacientes) y un grupo de Validación (228). Se calcula el modelo MPM II Admisión y a las 24-horas (MPM II-0 y MPM II-24), los modelos reajustados por RL (RLR-0 y RLR-24) y los obtenidos por las RN (RN-0 y RN-24). Los modelos desarrollados se contrastan en el grupo de Validación evaluando sus propiedades de discriminación con el área bajo la curva ROC (ABC [IC 95 %]) y su calibración con el test de Hosmer-Lemeshow C (HLC [p]). Resultados. Los modelos MPM II-0 y MPM-24 obtienen una buena discriminación (ABC &gt; 0,8) con pobre calibración (HLC &gt; 25). Los modelos reajustados (RLR y RN) mejoran en calibración manteniendo una aceptable discriminación. La RN es mejor en discriminación (ABC = 0,85 [0,79-0,90]) y calibración (HLC = 21 [p = 0,005]) en el modelo 24-horas, pero sin alcanzar significación. Conclusión. Una RN es capaz de estratificar el riesgo de mortalidad hospitalaria utilizando las variables del sistema MPM II. En el mismo grupo de pacientes la RN obtiene diferentes probabilidades de muerte. Esto se asocia con una contribución diferente de las variables en los modelos basados en RL o RN</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);29(1): 13-20, ene. 2005. tab, graf</dc:source>
+<dc:identifier>ibc-036707</dc:identifier>
+<dc:title xml:lang="es">Redes neuronales artificiales en Medicina Intensiva. Ejemplo de aplicación con las variables del MPM II</dc:title>
+<dc:subject>^d9608</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200501</dc:date>
+</metadata>
+</record>
+</ibecs-document>

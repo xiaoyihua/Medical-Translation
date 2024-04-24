@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-126919</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Modal failure analysis and effects in the detection of errors in the transport of samples to the clinical laboratory</dc:title>
+<dc:description xml:lang="en">Objective. Owing to the decrease in values of biochemical glucose parameter in some samples from external extraction centres, and the risk this implies to patient safety; it was decided to apply an adaptation of the «Health Services Failure Mode and Effects Analysis» (HFMEA) to manage risk during the pre-analytical phase of sample transportation from external centres to clinical laboratories. Materials and methods. A retrospective study of glucose parameter was conducted during two consecutive months. The analysis was performed in its different phases: to define the HFMEA topic, assemble the team, graphically describe the process, conduct a hazard analysis, design the intervention and indicators, and identify a person to be responsible for ensuring completion of each action. Results. The results of glucose parameter in one of the transport routes, were significantly lower (P = .006). The errors and potential causes of this problem were analysed, and criteria of criticality and detectability were applied (score &amp;#8805; 8) in the decision tree. It was decided to: develop a document management system; reorganise extractions and transport routes in some centres; quality control of the sample container ice-packs, and the time and temperature during transportation. Conclusions. This work proposes quality indicators for controlling time and temperature of transported samples in the pre-analytical phase. Periodic review of certain laboratory parameters can help to detect problems in transporting samples. The HFMEA technique is useful for the clinical laboratory (AU)</dc:description>
+<dc:creator>Gonzalez-Quintana, A</dc:creator>
+<dc:creator>García-Álvare, G</dc:creator>
+<dc:creator>Parés-Pollán, L</dc:creator>
+<dc:creator>Vargas-Gallego, C</dc:creator>
+<dc:creator>Ramos-Rodríguez, V</dc:creator>
+<dc:creator>Docampo-Cordeiro, J</dc:creator>
+<dc:creator>Diaz Rubio-García, M. P</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Debido a un descenso en la concentración del parámetro bioquímico glucosa en algunas muestras procedentes de los centros externos de extracción y el riesgo para la seguridad del paciente que supone, se decidió aplicar una adaptación de la herramienta «Análisis Modal de Fallos y Efectos Aplicada a los Servicios de Salud» (HFMEA) para la gestión del riesgo en la fase preanalítica del transporte de muestras desde centros externos al laboratorio clínico. Material y métodos. Estudio retrospectivo de los valores del parámetro bioquímico glucosa, durante 2 meses consecutivos. Análisis en sus diferentes fases: identificación del problema, formación de equipo, descripción gráfica del proceso, análisis de riesgos, diseño de la intervención e indicadores y responsables para la implementación. Resultados. Los resultados del parámetro glucosa en una de las rutas de transporte fueron significativamente inferiores (p = 0,006). Se analizaron los fallos y las causas potenciales de este problema. Se aplicaron criterios de criticidad y detectabilidad (puntuación &amp;#8805; 8) en el árbol de decisión y se decidió intervenir en: el desarrollo del sistema gestor documental, la reorganización de las extracciones en algunos centros y rutas de transporte, los acumuladores de frío de los contenedores de muestra, y el control de tiempos y temperaturas de transporte. Conclusiones. Para la etapa preanalítica, se proponen indicadores de calidad para el control de tiempo y temperatura de las muestras transportadas. La revisión periódica de determinados parámetros analíticos puede ayudar a detectar problemas en el transporte de muestras. La técnica HFMEA es de gran utilidad para el laboratorio clínico (AU)</dc:description>
+<dc:source>Rev. calid. asist;29(4): 197-202, jul.-ago. 2014.</dc:source>
+<dc:identifier>ibc-126919</dc:identifier>
+<dc:title xml:lang="es">Utilidad del análisis modal de fallos y efectos para la detección de errores en el transporte de muestras al laboratorio clínico</dc:title>
+<dc:subject>^d13431^s22048</dc:subject>
+<dc:subject>^d13431^s22066</dc:subject>
+<dc:subject>^d3979^s37748</dc:subject>
+<dc:subject>^d3283^s22066</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d72^s22048</dc:subject>
+<dc:subject>^d25468^s22045</dc:subject>
+<dc:subject>^d3979^s22054</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d29347^s22048</dc:subject>
+<dc:subject>^d12720^s22048</dc:subject>
+<dc:subject>^d13431^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201408</dc:date>
+</metadata>
+</record>
+</ibecs-document>

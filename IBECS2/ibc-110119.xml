@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-110119</identifier>
+<setSpec>0376-7892</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Analysis of biochemical parameters in major burn patients: new prognostic factors. From the basic to the clinical research</dc:title>
+<dc:description xml:lang="en">Our objective is the calculation of the plasma electrical charge in major burn patients, by means of a computer programme focussed on predicting patient mortality. The PICAL computer software (own development) starts off with the objective of calculating the plasmatic charge and the influence of ions and proteins applied to 143 patients in the Major Burn Patient Unit in the Unfallkrankenhaus Hospital in Berlin (Germany). A statistical study is carried out to define patient mortality once the previous calculations have been performed, considering: 1) their biochemical parameters in the first 48 hours, 2) their clinical factors: age, total burned surface area, depth of the burn, presence of inhalation syndrome, etc. A logistic regression analysis was made using these data calculating the mortality predictive function, which was validated by a group of 35 new patients. The importance of each plasmatic ion and proteins was calculated in the electrical balance of the patients with major burns. Age, burned surface area, pH and [Mg2+] were introduced for the study of mortality in these patients via statistical analysis. From the study it was confirmed that anions [HCO3¯] and [Cl¯], together with cation [Na+] are the ions with most influence on the plasmatic balance of major burn patients. Protein concentration has a lower incidence on this balance: a loss of 50 % in albumin concentration during the first 48 hours is equivalent to a loss of 1 mmol/l in the [HCO3¯] concentration. It can also be stated that the use of parameters pH and [Mg2+] can improve mortality prediction in these patients (AU)</dc:description>
+<dc:creator>Küntscher, M</dc:creator>
+<dc:creator>Sillero, A</dc:creator>
+<dc:creator>Maldonado, A. A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Nuestro objetivo es el cálculo de la carga eléctrica en plasma de grandes quemados mediante un programa informático enfocado a predecir la mortalidad del paciente. Partimos del software informático PICAL (de confección propia) con el fin de calcular la carga plasmática y la influencia de iones y proteínas, aplicado a 143 pacientes en la Unidad de Grandes Quemados del Hospital Unfallkrankenhaus de Berlín (Alemania). Realizados los cálculos anteriores, efectuamos un estudio estadístico para definir la mortalidad del paciente, considerando: 1) sus parámetros bioquímicos en las primeras 48 horas, 2) sus factores clínicos: edad, superficie quemada total, profundidad de la quemadura, presencia de síndrome inhalatorio, etc. Con estos datos, hacemos un análisis de regresión logística donde se calcula la función predictiva de mortalidad, validándose en un grupo de 35 nuevos pacientes. Calculamos la importancia de cada ión plasmático y proteínas dentro del equilibrio eléctrico del gran quemado. Para el estudio de la mortalidad en estos pacientes a través del análisis estadístico, se introdujeron las variables de edad, superficie quemada, pH y [Mg2+] Del estudio se confirmó que los aniones [HCO3¯] y [Cl] junto al catión [Na+] son los iones más influyentes en el equilibrio plasmático del gran quemado. La concentración de proteínas tiene menor incidencia en dicho equilibrio: una pérdida del 50 % de la concentración de albúmina durante las primeras 48 horas, equivale a una pérdida de 1 mmol/l de la concentración [HCO3¯]. También se puede afirmar que el uso de los parámetros pH y [Mg2+] puede mejorar la predicción de mortalidad en estos pacientes (AU)</dc:description>
+<dc:source>Cir. plást. ibero-latinoam;38(4): 305-312, oct.-dic. 2012. ilus, tab</dc:source>
+<dc:identifier>ibc-110119</dc:identifier>
+<dc:title xml:lang="es">Análisis de parámetros bioquímicos en grandes quemados: nuevos factores pronósticos. De la investigación básica a la clínica</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d23568^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d15272^s22032</dc:subject>
+<dc:subject>^d2088^s22032</dc:subject>
+<dc:subject>^d33939</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201212</dc:date>
+</metadata>
+</record>
+</ibecs-document>

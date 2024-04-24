@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-106588</identifier>
+<setSpec>0213-5434</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Effect of different antimicrobial agents on the growth of Listeria monocytogenes</dc:title>
+<dc:description xml:lang="en">The effectiveness of two organic acids included in the positive list for additives, sodium lactate (E-325) and sodium diacetate (E-262), was evaluated against Listeria monocytogenes growth. Different concentrations of these additives were added to the liquid culture medium. The optical density increments at 600 nm was measured for a 24 hours period under 37 0C, using non-inoculated medium as blank. The measurements were taken every hour in sterile 96 wells plates each. After this analysis, a graphical representation of absorbance increment against time was done, extrapolating the maximum absorbance increment rate (micro) and the minimum time required to detect an absorbance increment (epsilon) from the graphic. These two parameters made possible to evaluate the bacterial growth. After the analysis of epsilon and micro for lactate concentrations, a negative effect in bacterial growth was observed, extending epsilon value. Nevertheless, once the bacterial growth started, any effect on micro value was detected. A higher inhibitory effect was observed after the analysis of these parameters for diacetate concentrations, an extension on epsilon value as well as a micro value descent was found. In this way, a total inhibition of growth occurred when diacetate concentration was 0,2% or higher(AU)</dc:description>
+<dc:creator>Padalino, M</dc:creator>
+<dc:creator>González-Bermúdez, C. A</dc:creator>
+<dc:creator>Frontela-Saseta, C</dc:creator>
+<dc:creator>Sánchez-Samper, E. P</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En este estudio se ha evaluado la eficacia de dos ácidos orgánicos contemplados en la lista positiva de aditivos alimentarios, el lactato sódico (E-325) y el diacetato sódico (E-262), sobre el crecimiento de Listeria monocytogenes. Estos aditivos se adicionaron en diferentes concentraciones a un medio de cultivo líquido, determinando el incremento de densidad óptica del medio a 600 nm durante 24 horas a 37 ºC, con respecto al medio sin inocular que se tomó como blanco, realizando la medida cada hora. El incremento de absorbancia se midió con respecto al tiempo, evaluando el crecimiento de la bacteria a través de la interpretación de la tasa máxima de incremento de absorbancia (micro) y el tiempo mínimo requerido para detectar un incremento en la densidad óptica del medio (epsilon). Este último parámetro se puede equiparar al tiempo de latencia o tiempo de adaptación al medio. Así, para el lactato sódico, se observó que ejerce un efecto negativo dosis dependiente sobre el crecimiento de L. monocytogenes, prolongando el tiempo que necesitó la bacteria para adaptarse al medio de cultivo (epsilon), sin afectar a la tasa de crecimiento (micro) una vez que esta comenzó a crecer. El diacetato sódico mostró ser más efectivo que el lactato sódico frente al crecimiento de la bacteria, incrementando el tiempo de adaptación al medio, así como disminuyendo la tasa de crecimiento. Además, el diacetato sódico consiguió inhibir de forma completa el crecimiento de la bacteria a concentraciones iguales o superiores a 0.2%(AU)</dc:description>
+<dc:source>An. vet. Murcia;27: 33-42, ene.-dic. 2011. graf, tab</dc:source>
+<dc:identifier>ibc-106588</dc:identifier>
+<dc:title xml:lang="es">Efecto de distintos antimicrobianos sobre el crecimiento de Listeria monocytogenes</dc:title>
+<dc:subject>^d28620</dc:subject>
+<dc:subject>^d51426</dc:subject>
+<dc:subject>^d8262^s22001</dc:subject>
+<dc:subject>^d3491^s22065</dc:subject>
+<dc:subject>^d15179^s22075</dc:subject>
+<dc:subject>^d3491^s22001</dc:subject>
+<dc:subject>^d5640^s22002</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d15179^s22074</dc:subject>
+<dc:subject>^d8262^s29165</dc:subject>
+<dc:subject>^d5655^s22066</dc:subject>
+<dc:subject>^d8262^s22052</dc:subject>
+<dc:subject>^d5655^s22045</dc:subject>
+<dc:subject>^d32982^s22002</dc:subject>
+<dc:subject>^d32982</dc:subject>
+<dc:subject>^d343^s22065</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201112</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-34801</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Association between the forced midexpiratory flow/forced vital capacity ratio and bronchial hyperresponsiveness</dc:title>
+<dc:creator>Sunyer, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">OBJETIVO: La desproporción entre el calibre de la vía aérea y el parénquima pulmonar tiene una relación negativa con la presencia de hiperreactividad bronquial (HRB).El objetivo del presente estudio es medir la asociación entre el calibre de la vía aérea relativa a la talla pulmonar, expresado por el cociente entre el flujo mesoespiratorio entre el 25 y el 75 por ciento de la capacidad vital forzada dividido por la capacidad vital forzada (FEF25-75 por ciento/FVC), con la HRB medida por el test de metacolina, ajustando por edad, altura, sexo, consumo de tabaco, área geográfica, síntomas respiratorios y volumen espiratorio forzado en el primer segundo previo. MATERIAL Y MÉTODOS: Estudio multicéntrico transversal sobre población general española (2.647 sujetos) del Estudio de Salud Respiratoria de la Comunidad Europea (ECRHSI). Se aplicó un cuestionario llamado ECRHS, se determinó la inmunoglobulina E total y específica, y se realizaron pruebas cutáneas, espirometría y test de metacolina. RESULTADOS: Se presenta la relación entre las diferentes variables sociodemográficas y clínicas con los 2 parámetros de positividad del test de metacolina. Hay aumento del riesgo de HRB a menor cociente FEF25-75 por ciento/FVC ajustado por diferentes variables (odds ratio = 0,09; intervalo de confianza del 95 por ciento, 0,04-0,18, para PC20, y odds ratio = 0,06; intervalo de confianza del 95 por ciento, 0,03-0,12 para PD20). CONCLUSIONES: El cociente FEF25-75 por ciento/FVC está asociado significativamente a la HRB, independientemente de la edad, la existencia de atopia, el consumo de tabaco, el área geográfica, los síntomas respiratorios y el volumen espiratorio forzado en el primer segundo  (AU)</dc:description>
+<dc:source>Arch Bronconeumol;40(9): 397-402, sept. 2004.</dc:source>
+<dc:identifier>ibc-34801</dc:identifier>
+<dc:title xml:lang="es">Asociación entre el cociente FEF25-75 por ciento/FVC y la hiperreactividad bronquial</dc:title>
+<dc:subject>^d30224</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28040</dc:subject>
+<dc:subject>^d4479</dc:subject>
+<dc:subject>^d29044</dc:subject>
+<dc:subject>^d22673</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d27892</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d13530</dc:subject>
+<dc:subject>^d23925</dc:subject>
+<dc:subject>^d1257</dc:subject>
+<dc:subject>^d24811</dc:subject>
+<dc:subject>^d22205</dc:subject>
+<dc:subject>^d36007</dc:subject>
+<dc:subject>^d28608</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200409</dc:date>
+</metadata>
+</record>
+</ibecs-document>

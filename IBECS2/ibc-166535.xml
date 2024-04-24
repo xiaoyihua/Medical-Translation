@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-166535</identifier>
+<setSpec>1989-1342</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Diagnostic capability of retinal thickness measures in diabetic peripheral neuropathy</dc:title>
+<dc:description xml:lang="en">Purpose: To examine the diagnostic capability of the full retinal and inner retinal thickness measures in differentiating individuals with diabetic peripheral neuropathy (DPN) from those without neuropathy and non-diabetic controls. Methods: Individuals with (n=44) and without (n=107) diabetic neuropathy and non-diabetic control (n=42) participants underwent spectral domain optical coherence tomography (SDOCT). Retinal thickness in the central 1mm zone (including the fovea), parafovea and perifovea was assessed in addition to ganglion cell complex (GCC) global loss volume (GCC GLV) and focal loss volume (GCC FLV), and retinal nerve fiber layer (RNFL) thickness. Diabetic neuropathy was defined using a modified neuropathy disability score (NDS) recorded on a 0-10 scale, wherein, NDS &amp;#8805;3 indicated neuropathy and NDS indicated &lt;3 no neuropathy. Diagnostic performance was assessed by areas under the receiver operating characteristic curves (AUCs), 95 per cent confidence intervals (CI), sensitivities at fixed specificities, positive likelihood ratio (+LR), negative likelihood ratio (-LR) and the cut-off points for the best AUCs obtained. Results: The AUC for GCC FLV was 0.732 (95% CI: 0.624-0.840, p&lt;0.001) with a sensitivity of 53% and specificity of 80% for differentiating DPN from controls. Evaluation of the LRs showed that GCC FLV was associated with only small effects on the post-test probability of the disease. The cut-off point calculated using the Youden index was 0.48% (67% sensitivity and 73% specificity) for GCC FLV. For distinguishing those with neuropathy from those without neuropathy, the AUCs of retinal parameters ranged from 0.508 for the central zone to 0.690 for the inferior RNFL thickness. For distinguishing those with moderate or advanced neuropathy from those with mild or no neuropathy, the inferior RNFL thickness demonstrated the highest AUC of 0.820, (95% CI: 0.731-0.909, p&lt;0.001) with a sensitivity of 69% and 80% specificity. The cut-off-point for the inferior RNFL thickness was 97&amp;#956;m, with 81% sensitivity and 72% specificity. Conclusions: The GCC FLV can differentiate individuals with diabetic neuropathy from healthy controls, while the inferior RNFL thickness is able to differentiate those with greater degrees of neuropathy from those with mild or no neuropathy, both with an acceptable level of accuracy. Optical coherence tomography represents a non-invasive technology that aids in detection of retinal structural changes in patients with established diabetic neuropathy. Further refinement of the technique and the analytical approaches may be required to identify patients with minimal neuropathy (AU)</dc:description>
+<dc:creator>Pritchard, Nicola</dc:creator>
+<dc:creator>Sampson, Geoff P</dc:creator>
+<dc:creator>Srinivasan, Sangeetha</dc:creator>
+<dc:creator>Vagenas, Dimitrios</dc:creator>
+<dc:creator>Malik, Rayaz A</dc:creator>
+<dc:creator>Edwards, Katie</dc:creator>
+<dc:creator>Efron, Nathan</dc:creator>
+<dc:creator>Russell, Anthony W</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objetivo: Examinar la capacidad diagnóstica de las mediciones del grosor total e interno de la retina, con diferenciación entre individuos con neuropatía periférica diabética (DPN), aquellos que no la padecen, y controles no diabéticos. Métodos: Cuarenta y cuatro individuos con (n=44) y sin (n=107) neuropatía diabética y participantes de control no diabéticos (n=42) fueron sometidos a una tomografía de coherencia óptica de dominio espectral (SDOCT). Se evaluó el grosor de la retina en la zona central de 1mm (incluyendo la fóvea), parafóvea y perifóvea, además del complejo de células ganglionares (GCC), el volumen de pérdida global (GCC GLV) y el volumen de pérdida focal (GCC FLV), y el espesor de la capa de fibras nerviosas de la retina (RNFL). Se definió la neuropatía diabética utilizando la versión modificada del «Neuropathy Disability Score (NDS)», sobre una escala de 0 a 10, donde el valor de NDS &amp;#8805;3 indicaba neuropatía y NDS &lt;3 ausencia de la misma. El desempeño diagnóstico se evaluó mediante las áreas bajo las curvas características operativas del receptor (AUC), intervalos de confianza del 95% (IC), sensibilidades a especificidades fijas, cociente de probabilidad positiva (CP+), y cociente de probabilidad negativa (CP-) y los puntos de corte para los mejores AUC obtenidos. Resultados: El AUC para GCC FLV fue de 0,732, 95% IC: 0,624-0,840, p&lt;0,001 con una sensibilidad del 53% y una especificidad del 80% para la diferenciación entre DPN y los controles. La evaluación de los CP reflejó que el GCC FLV se asociaba únicamente a unos pequeños efectos en la prueba posterior de probabilidad de la enfermedad. El punto de corte calculado utilizando el índice de Youden fue del 0,48% (67% de sensibilidad y 73% de especificidad) para GCC FLV. Para distinguir a aquellos individuos con neuropatía de los que no la padecían, las AUC de los parámetros retinianos oscilaron entre 0,508 para el grosor RNFL de la zona central y 0,690 para el de la zona inferior. Para distinguir a aquellas personas con neuropatía moderada o avanzada, de aquellas con neuropatía leve, o ausencia de ella, el grosor RNFL de la zona inferior reflejó una AUC superior de 0,820, 95% IC: 0,731-0,909, p&lt;0,001, con una sensibilidad del 69% y una especificidad del 80%. El punto de corte para el grosor RNFL inferior fue de 97&amp;#956;m, con un 81% de sensibilidad y un 72% de especificidad. Conclusiones: El GCC FLV puede diferenciar entre aquellos individuos con neuropatía diabética y los controles sanos, mientras que el grosor RNFL de la zona inferior es capaz de diferenciar entre aquellas personas con grados superiores de neuropatía y aquellas con neuropatía leve o ausencia de neuropatía, en ambos casos con un nivel aceptable de precisión. La tomografía de coherencia óptica supone una tecnología no invasiva que ayuda a la detección de los cambios estructurales retinianos en pacientes con neuropatía diabética establecida. Se precisa un mayor refinamiento de esta técnica, así como enfoques analíticos, para identificar a aquellos pacientes con una neuropatía mínima (AU)</dc:description>
+<dc:source>J. optom. (Internet);10(4): 215-225, oct.-dic. 2017. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-166535</dc:identifier>
+<dc:title xml:lang="es">Capacidad diagnóstica de las mediciones del grosor de la retina en la neuropatía periférica diabética</dc:title>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d12582^s22031</dc:subject>
+<dc:subject>^d28620</dc:subject>
+<dc:subject>^d31887^s29166</dc:subject>
+<dc:subject>^d33119</dc:subject>
+<dc:subject>^d38335^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9605^s29166</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201712</dc:date>
+</metadata>
+</record>
+</ibecs-document>

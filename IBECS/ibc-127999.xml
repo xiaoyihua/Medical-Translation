@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-127999</identifier>
+<setSpec>1139-7632</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Odds ratio can be misleading</dc:title>
+<dc:description xml:lang="en">The way how we present the results of scientific studies can help to magnify or reduce the impact of the results. Thus, the differences in the use of relative risk and odds ratio and their behavior in relation to the prevalence of the studied effect are discussed. When the prevalence of the effect is high, the odds ratio tends to magnify the strength of the association, so that in these cases it is preferable to obtain the relative risk, whenever possible, as it will provide a more accurate measure of association (AU)</dc:description>
+<dc:creator>Molina Arias, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La forma de presentar los resultados de los estudios científicos puede ayudar a magnificar o disminuir el impacto de los mismos. En este sentido, se analizan las diferencias en el uso del riesgo relativo y la odds ratio, y su comportamiento en relación con la prevalencia del efecto estudiado. Cuando la prevalencia del efecto es alta, la odds ratio magnifica mucho la fuerza de la asociación, por lo que, en estos casos, es preferible obtener el riesgo relativo, siempre que sea posible, ya que proporcionará una medida de asociación más ajustada a la realidad (AU)</dc:description>
+<dc:source>Pediatr. aten. prim;16(63): 275-279, jul.-sept. 2014. tab, ilus</dc:source>
+<dc:identifier>ibc-127999</dc:identifier>
+<dc:title xml:lang="es">La odds ratio puede ser engañosa</dc:title>
+<dc:subject>^d28423</dc:subject>
+<dc:subject>^d11756^s22074</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d24811</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d11756^s22048</dc:subject>
+<dc:subject>^d11756^s22045</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24551</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201409</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-152939</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">A dynamic model to estimate the budget impact of a pneumococcal vaccination program in a 65 year-old immunocompetent spanish cohor with 13-valent pneumococcal conjugate vaccine</dc:title>
+<dc:description xml:lang="en">Background: Infections caused by Streptococcus pneumonie in adults have important health consequences. To estimate the 5-year clinical and economic impact of a pneumococcal vaccination program on immunocompetent population aged 65-year-old in Spain. Methods: A 5 year dynamic model based on differential equations was built for the conceptualization of the burden of pneumococcal disease (PD) on a 65 year-old cohort. A 36.5% of the cohort was vaccinated with an expected efficacy rate of 52.5% as observed in the CAPITA study. The serotype vaccination coverage used was 63.4% (CAPA study), the incidence of pneumococcal disease was 162.2 per 100,000 cases per year (CMBD 2010-2013) and a rate of vaccinated subjects previously from the start of the model of 0.99%. The study used the perspective of The National Health System, and included the costs associated to PD and the conjugate vaccine laboratory selling price. Results: In a 5 years-period, the vaccination with 13-valent pneumococcal conjugate vaccine is expected to avoid 10,360 cases of pneumococcal disease (7,411 in-patient pneumonias) and 699 deaths (14,736 Life Years Gained) in the 65 year old cohort. Vaccination costs of 36.5 million euros would be completely offset by medical cost reduction of 41.5 million euros, yielding to a net saving of 3.8 million constant euros (4.9 million undiscounted). Conclusion: PCV13 vaccination targeting the cohort of 65 year-old immunocompetent Spanish adults is expected to result in net savings for the National Health System, while decreasing disease burden and averting a substantial number of related deaths (AU)</dc:description>
+<dc:creator>Varona Malumbres, Juan Luis</dc:creator>
+<dc:creator>Rejas Gutiérrez, Javier</dc:creator>
+<dc:creator>Lorente Antoñanzas, Reyes</dc:creator>
+<dc:creator>Antoñanzas Villar, Fernando</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamentos: Las infecciones causadas por el Streptococcus pneumoniae en el adulto tienen repercusiones importantes en la salud. El objetivo fue analizar el impacto económico y sanitario en 5 años de la vacunación de la cohorte española de 65 años inmunocompetente con la vacuna antineumocócica conjugada 13-valente. Métodos: Mediante un modelo de transmisión dinámica basado en ecuaciones diferenciales se analizó la carga de la enfermedad neumocócica (EN) en sujetos de 65 años en 5 años, siendo vacunada anualmente el 36,5% de la cohorte. Se aplicó la eficacia de la vacuna del 52,5% observada en el estudio CAPITA en pacientes de 65 años inmunocompetentes, cobertura de serotipos vacunales del 63,4% (estudio CAPA), incidencia de infección neumocócica de 162,2/100.000 casos año (CMBD 2010-2013) y proporción de vacunados previamente al arranque del modelo del 0,99%. La perspectiva fue la del Sistema Nacional de Salud (SNS). Costes de casos de EN según CMBD y precio de venta de laboratorio de la vacuna conjugada. Resultados: En 5 años la vacunación con vacuna conjugada 13-valente espera evitar 10.360 casos de EN (7.411 hospitalizaciones por neumonías) y 699 muertes (14.736 años de vida ganados -AVG-), en una cohorte de 65 a 69 años de edad. El coste de vacunación esperado de 36,5 millones de euros se compensaría completamente por la reducción de 41,5 millones de costes médicos evitados, con un ahorro neto acumulado de 3,8 millones de euros a precios constantes (4,9 a precios corrientes). Conclusión: La vacunación con vacuna conjugada 13-valente en adultos de 65 años inmunocompetentes resulta eficiente para el Sistema Nacional de Salud, reduciendo la carga de enfermedad y evitando un número importante de muertes (AU)</dc:description>
+<dc:source>Rev Esp Salud Publica;90: 0-0, 2016. tab, graf</dc:source>
+<dc:identifier>ibc-152939</dc:identifier>
+<dc:title xml:lang="es">La vacunación anti-numocócia con la vacuna conjugada 13-valente en población inmunocompetente de 65 años: análisis del impacto presupuestario en España aplicando un modelo de transmisión dinámica</dc:title>
+<dc:subject>^d30769</dc:subject>
+<dc:subject>^d29592^s22018</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30355^s22083</dc:subject>
+<dc:subject>^d13411^s22080</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d56009^s22018</dc:subject>
+<dc:subject>^d56009^s22038</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d16645</dc:subject>
+<dc:subject>^d13683^s22038</dc:subject>
+<dc:subject>^d51280</dc:subject>
+<dc:subject>^d11447^s22038</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d50303</dc:subject>
+<dc:subject>^d11437^s22038</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201600</dc:date>
+</metadata>
+</record>
+</ibecs-document>

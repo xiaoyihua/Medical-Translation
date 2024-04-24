@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-90864</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Performance of glycated hemoglobin and a risk model for detection of unknown diabetes in coronary patients</dc:title>
+<dc:description xml:lang="en">Introduction and objectives: Traditionally, the oral glucose tolerance test has been useful to diagnose unknown diabetes. Recently, the American Diabetes Association committee has accepted glycated hemoglobin &amp;#8805;6.5% as a criterion for unknown diabetes. The aim was to determine the benefit of glycated hemoglobin for diagnosing unknown diabetes and also create a predictive model that adjusts the indication for oral glucose tolerance test in coronary patients. Methods: We examined the glycemic profile of 338 coronary patients without previous diagnosis of diabetes, applying 2010 American Diabetes Association criteria. A unknown diabetes risk predictive model was developed using logistic regression analysis, and then validated in another cohort. Results: Using the glycated hemoglobin criteria and/or fasting plasma glucose, unknown diabetes was diagnosed in 26 patients. The remaining patients were classified according to oral glucose tolerance test as follows: unknown diabetes 53 (17%), prediabetes 144 (46.2%), and normoglycemic 115 (36.8%). The diagnostic method for unknown diabetes was fasting plasma glucose in 25.3%, glycated hemoglobin in 7.6%, and oral glucose tolerance test in 67.1%. A risk model including fasting plasma glucose, glycated hemoglobin, left ventricular ejection fraction, age, and noncoronary vascular disease was shown to effectively predict unknown diabetes after oral glucose tolerance test: area under the ROC curve 0.8 (95% interval confidence: 0.74-0.87). When the oral glucose tolerance test is restricted to patients with a risk score &gt;6 (31% of our sample) we properly identify 83% of unknown diabetes cases (sensitivity: 75%, specificity: 73%, positive predictive value: 40%, negative predictive value: 93%). The model was adequately validated in another cohort of 115 patients (area under the ROC curve 0.84 [95% interval confidence: 0.74-0.95]). Conclusions: In coronary patients, glycated hemoglobin alone failed to detect many cases of unknown diabetes. However, its inclusion in a risk prediction model leads to optimizing the usefulness of oral glucose tolerance test (AU)</dc:description>
+<dc:creator>Torres, Francisco</dc:creator>
+<dc:creator>Lozano, Iñigo</dc:creator>
+<dc:creator>Vegas, José M</dc:creator>
+<dc:creator>Delgado, Elías</dc:creator>
+<dc:creator>Menendez, Teresa</dc:creator>
+<dc:creator>Jiménez-Navarro, Manuel</dc:creator>
+<dc:creator>Avanzas, Pablo</dc:creator>
+<dc:creator>García-Ruiz, José M</dc:creator>
+<dc:creator>Carro, Amelia</dc:creator>
+<dc:creator>Hera, Jesús M de la</dc:creator>
+<dc:creator>Hernandez, Ernesto</dc:creator>
+<dc:creator>Bayón, Jeremías</dc:creator>
+<dc:creator>Fernández-Cimadevilla, Oliva C</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos: Clásicamente, la sobrecarga oral de glucosa ha diagnosticado la diabetes desconocida. Recientemente, la American Diabetes Association ha aceptado un valor de glucohemoglobina &amp;#8805; 6,5% como criterio de diabetes desconocida. Pretendemos conocer la rentabilidad que tiene la glucohemoglobina para la detección de diabetes desconocida y validar un modelo que permita ajustar la realización de la sobrecarga oral de glucosa en enfermos coronarios. Métodos: Se estudia el perfil glucémico de 338 enfermos coronarios sin diabetes conocida. Se usan los criterios de la American Diabetes Association de 2010 y, mediante regresión logística, se construye un modelo predictor de diabetes desconocida. Se valida el modelo en otra cohorte. Resultados: Se diagnosticó diabetes desconocida a 26 enfermos mediante glucohemoglobina y/o glucemia basal. Los demás presentaban, tras realizar sobrecarga oral de glucosa: diabetes desconocida, 53 (17%); prediabetes, 144 (46,2%), y normoglucemia, 115 (36,8%). Método diagnóstico de diabetes desconocida: glucemia basal, 25,3%; glucohemoglobina, 7,6%, y sobrecarga oral de glucosa, 67,1%. Un modelo que incluye glucemia basal, glucohemoglobina, fracción de eyección de ventrículo izquierdo, edad y enfermedad vascular no coronaria resultó eficaz como predictor de diabetes desconocida tras sobrecarga oral de glucos: área bajo la curva ROC, 0,8 (intervalo de confianza del 95%, 0,74-0,87). Realizando sobrecarga oral de glucosa sólo a la población con puntuación del modelo &gt; 6 (el 31% del total), podemos localizar al 83% de los casos de diabetes desconocida reales (sensibilidad, 75%; especificidad, 73%; valor predictivo positivo, 40%; valor predictivo negativo, 93%). El modelo se validó correctamente en otra cohorte de 115 pacientes (área bajo la curva ROC, 0,84 [intervalo de confianza del 95%, 0,74-0,95]). Conclusiones: La glucohemoglobina diagnostica aisladamente pocos casos de diabetes desconocida. Sin embargo, su incorporación a un modelo de riesgo permite optimizar la indicación de la sobrecarga oral de glucosa, con un aprovechamiento óptimo (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;64(9): 759-765, sept. 2011.</dc:source>
+<dc:identifier>ibc-90864</dc:identifier>
+<dc:title xml:lang="es">Rendimiento de la glucohemoglobina y un modelo de riesgo para la detecci¨®n de diabetes desconocida en pacientes coronarios</dc:title>
+<dc:subject>^d37656^s22021</dc:subject>
+<dc:subject>^d3946^s22012</dc:subject>
+<dc:subject>^d22190</dc:subject>
+<dc:subject>^d1812^s22002</dc:subject>
+<dc:subject>^d28614</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d1812^s22001</dc:subject>
+<dc:subject>^d3346^s22021</dc:subject>
+<dc:subject>^d3346^s22053</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22190^s22073</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d3942^s22016</dc:subject>
+<dc:subject>^d3946^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201109</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-5252</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Analysis of the quality of cyclosporine determinations by indirect polarized immunofluorescence</dc:title>
+<dc:creator>Bertolín Olmos, B</dc:creator>
+<dc:creator>Porta Oltra, B</dc:creator>
+<dc:creator>Pérez Ruixo, J. J</dc:creator>
+<dc:creator>Jiménez Torres, N. V</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Arán Ediciones, S.A.</dc:publisher>
+<dc:description xml:lang="es">El objetivo del presente trabajo es optimizar la determinación de CsA en sangre total mediante inmunofluorescencia polarizada indirecta con la finalidad de asegurar la calidad de la información obtenida en la monitorización de este fármaco. El análisis de la calidad de la determinación de CsA en sangre total mediante la técnica de inmunofluorescencia polarizada indirecta se ha realizado mediante la valoración de la precisión y la exactitud en la determinación de concentraciones conocidas de CsA (controles). La optimización de la calidad de la determinación de CsA se ha realizado mediante el establecimiento y la validación de los límites de alerta y de invalidación asociados a los controles de forma individual (precisión) y poblacional (exactitud). Finalmente se procedió a la caracterización del modelo de error de la técnica analítica empleada. El análisis de los límites de precisión evidencia una similitud entre los límites de invalidación obtenidos en nuestro laboratorio y los recomendados por el laboratorio fabricante. Resulta de gran utilidad práctica disponer de límites de alerta con el fin de determinar con mayor sensibilidad la presencia de valores de concentraciones de referencia sesgados. No obstante, definir un intervalo de alerta más estrecho que el intervalo de invalidación permite equiparar dos determinaciones consecutivas fuera de los límites de alerta con una determinación fuera de los límites de invalidación. El análisis global de la exactitud exige la utilización de la media móvil con el fin de evidenciar tendencias sistemáticas en la determinación de los fármacos. El modelo de error para la determinación de CsA mediante inmunofluorescencia polarizada indirecta en nuestra unidad de farmacocinética clínica es un modelo proporcional con un coeficiente de variación inferior a 6 por ciento (AU)</dc:description>
+<dc:source>Farm Hosp;24(3): 151-158, mayo 2000. tab, graf</dc:source>
+<dc:identifier>ibc-5252</dc:identifier>
+<dc:title xml:lang="es">Análisis de la calidad de las determinaciones de ciclosporina mediante inmunofluorescencia polarizada indirecta</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d28017</dc:subject>
+<dc:subject>^d30164^s22062</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d5586^s22045</dc:subject>
+<dc:subject>^d9183^s22045</dc:subject>
+<dc:subject>^d30164^s22079</dc:subject>
+<dc:subject>^d14384</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200005</dc:date>
+</metadata>
+</record>
+</ibecs-document>

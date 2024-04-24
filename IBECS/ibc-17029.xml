@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-17029</identifier>
+<setSpec>0210-4806</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prostate cancer detection in the PSA range of 3 to 3,9 ng/ml</dc:title>
+<dc:creator>Gómez de Vicente, J. M</dc:creator>
+<dc:creator>Páez Borda, A</dc:creator>
+<dc:creator>Berenguer Sánchez, A</dc:creator>
+<dc:creator>Romero Cagigal, I</dc:creator>
+<dc:creator>Santos Arrontes, D</dc:creator>
+<dc:creator>Luján Galán, M</dc:creator>
+<dc:creator>Moreno Santurino, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ene Ediciones, S.A.</dc:publisher>
+<dc:description xml:lang="es">OBJETIVO: En este estudio se analiza el beneficio de reducir el valor de PSA para el cual se indica una biopsia prostática de 4 a 3 ng/ml. MATERIAL Y MÉTODOS: Partimos de 4.278 pacientes procedentes de un programa de screening de cáncer de próstata. Consideramos 1.217 actuaciones en las que se realizó determinación sérica de PSA, indicando la biopsia prostática cuando el PSA era 3 ng/ml. En ningún caso el TR (TR) fue la indicación para realizar la misma. Todas las biopsias fueron sextantes y ecodirigidas por vía transrectal. Comparamos el rendimiento de la biopsia al emplear como puntos de corte 4 y 3 ng/ml. RESULTADOS: De las 1.217 actuaciones realizadas, 947 presentaron valores de PSA inferiores a 3 ng/ml, 80 entre 3 y 3,9 ng/ml y 190 por encima de 4 ng/ml. De los 270 pacientes que componen estos dos últimos grupos, 189 (70 per cent) se sometieron a una biopsia prostática. Con el nivel de corte establecido de forma habitual (4 ng/ml) se indicaron 134 biopsias y se detectaron 28 cánceres (valor predictivo positivo 20,9 per cent). Sin embargo al reducir el punto de corte a 3 ng/ml el número de biopsias indicadas ascendió a 189, detectando 34 cánceres (valor predictivo positivo 17,9 per cent). El descenso en el rendimento de la biopsia no fue significativo (OR=0,89). De los 6 tumores detectados al reducir el punto de corte, ninguno era palpable o visible (T1c), todos presentaron un score de Gleason menor de 7 y la mitad cumplían criterios de tumor clínicamente relevante. CONCLUSIONES: La reducción del valor de PSA a 3 ng/ml como punto de corte para indicar una biopsia prostática ha supuesto un incremento en la tasa de detección del cáncer de próstata de un 21,4 per cent, sin reducir significativamente el rendimiento de la biopsia. Por tanto, creemos que la inclusión del grupo de pacientes con PSA entre 3 y 3,9 ng/ml como candidatos a biopsiar es importante en un programa de screening precoz de cáncer de próstata (AU)</dc:description>
+<dc:source>Actas Urol Esp;26(4): 271-274, abr. 2002.</dc:source>
+<dc:identifier>ibc-17029</dc:identifier>
+<dc:title xml:lang="es">Deteccion del cáncer de próstata en el rango de PSA entre 3 y 3,9 ng/ml</dc:title>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d30596</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d11914</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200204</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-35153</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Recent advances in rehabilitation technology: a review of the brain-computer interface</dc:title>
+<dc:description xml:lang="en">Introduction and aims. In this work we review some of the options available in rehabilitation technology that are used to aid people with severe neuromuscular disorders, and which take electrophysiological activity as a source of biological signals with which to design interfaces. Development. A number of different researchers have generated a novel communication and control system that utilises the electrical activity of the brain as a signal that represents the messages or commands an individual sends to the outside world, without using the normal output pathways of the brain, such as peripheral nerves and muscles; instead, this is achieved through an artificial system that extracts, encodes and applies them, called a brain-computer interface (BCI). The electrophysiological activity for a BCI can be obtained by means of superficial or implanted electrodes, and may therefore be classified as invasive or non-invasive. Five types of brain signals have been explored for use with a BCI: visual evoked potentials, slow cortical potentials, cortical neuronal activity, beta and mu rhythms, and event-related potentials. Conclusions. Thanks to recent improvements and developments in prototypes, this technology is sure to open up new possibilities of communication and control for the affected population; it also represents a valuable field of multidisciplinary research with numerous interesting applications in areas beyond the sphere of health care (AU)</dc:description>
+<dc:publisher>César Viguera</dc:publisher>
+<dc:description xml:lang="es">Introducción y objetivo. En el presente trabajo se revisan algunas opciones tecnológicas de rehabilitación que se emplean para asistir a personas con graves alteraciones neuromusculares, con base en la actividad electrofisiológica como fuente de señales biológicas para diseñar interfaces. Desarrollo. Diversos investigadores han desarrollado un novedoso sistema de comunicación y control que emplea la actividad eléctrica cerebral como una señal que representa mensajes u órdenes que un individuo envía al mundo externo, pero sin utilizar las rutas normales de salida del cerebro, como los nervios periféricos y los músculos, sino un sistema artificial que las extrae, codifica y aplica, la cual se denomina interfaz cerebro-computadora (BCI). La actividad electrofisiológica para una BCI puede obtenerse mediante electrodos superficiales o implantados, por lo que éstas se pueden clasificar como invasivas y no invasivas. Se han explorado cinco tipos de señales del cerebro para operar una BCI: potenciales visuales evocados, potenciales corticales lentos, actividad neuronal cortical, ritmos ß y µ y potenciales relacionados con eventos. Conclusión. Con el desarrollo y la mejora de prototipos, esta reciente tecnología promete ampliar las posibilidades de comunicación y control de la población afectada; constituye un valioso ámbito de investigación multidisciplinar con múltiples e interesantes aplicaciones en áreas fuera del campo de la salud (AU)</dc:description>
+<dc:source>Rev Neurol;39(5): 447-450, sept. 2004.</dc:source>
+<dc:title xml:lang="es">Novedades en tecnología de la rehabilitación: una revisión acerca de la interfaz cerebro-computadora</dc:title>
+<dc:type>article</dc:type>
+<dc:creator>Santana, D</dc:creator>
+<dc:creator>Ostrosky Solís, F</dc:creator>
+<dc:creator>Ramírez, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:identifier>ibc-35153</dc:identifier>
+<dc:subject>^d13035</dc:subject>
+<dc:subject>^d19371</dc:subject>
+<dc:subject>^d4641</dc:subject>
+<dc:subject>^d30943</dc:subject>
+<dc:subject>^d4667</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9660</dc:subject>
+<dc:subject>^d14065</dc:subject>
+<dc:date>200409</dc:date>
+</metadata>
+</record>
+</ibecs-document>

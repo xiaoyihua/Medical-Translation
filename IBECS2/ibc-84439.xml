@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-84439</identifier>
+<setSpec>1137-6821</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Emergency Medicine Informatics: Information Management and Applications</dc:title>
+<dc:creator>Scholer, M</dc:creator>
+<dc:creator>Cabañas, J. G</dc:creator>
+<dc:creator>Tintinalli,  J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La informática en Medicina de Urgencias y Emergencias (IMUE) es la recogida, gestión, procesamiento y aplicación de los datos de la atención prestada a los pacientes urgentes, así como los datos operativos. La IMUE está transformando y mejorando nuestros sistemas de atención prehospitalaria y las intervenciones de los servicios de urgencias hospitalarios(SUH). Es fundamental para la vigilancia de la salud pública, y nos permitirá ampliarla investigación clínica en las instituciones, regiones y naciones. La IMUE es una de nuestras herramientas más importantes para mejorar la atención de emergencias y repercutirá positivamente en la salud de la población. Para la atención prehospitalaria, los sistemas IMUE proporcionan información para analizar la relación coste-eficacia de las intervenciones clínicas, para organizar las operaciones del servicio médico de emergencias (SME),para coordinar la comunicación en las solicitudes de servicio, vigilar el control de calidad y las necesidades educativas, y para el seguimiento de la evolución de los pacientes. La práctica de la Medicina de Urgencias y Emergencias en el SUH requiere la captura de muchos datos y elementos temporales para que la atención del SUH sea eficiente. Los módulos IMUE apoyan el seguimiento y la precisión del triaje, el seguimiento del paciente, el control de médicos y enfermeros, la decisión clínica, el orden de entrada, las instrucciones de alta y la generación de prescripciones. Debe haber coordinación del IMUE con el hospital, laboratorio y los sistemas de información del servicio de radiología, así como con los registros sobre acceso al hospital y a las clínicas ambulatorias. La información clínica se debe agregar a una base de datos del SUH que luego se puede utilizar para (..) (AU)</dc:description>
+<dc:source>Emergencias (Sant Vicenç dels Horts);21(5): 354-361, oct. 2009. tab</dc:source>
+<dc:identifier>ibc-84439</dc:identifier>
+<dc:title xml:lang="es">Informática en Medicina de Urgencias y Emergencias: Gestión de la información y aplicaciones en el siglo XXI</dc:title>
+<dc:subject>^d4707^s22049</dc:subject>
+<dc:subject>^d33196^s22045</dc:subject>
+<dc:subject>^d24425</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d19243^s22066</dc:subject>
+<dc:subject>^d50257</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200910</dc:date>
+</metadata>
+</record>
+</ibecs-document>

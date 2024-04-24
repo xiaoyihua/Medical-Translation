@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-4872</identifier>
+<setSpec>0048-7120</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prediction of hospital stay duration for the hemiplegic patient</dc:title>
+<dc:creator>Olmo Navas, J</dc:creator>
+<dc:creator>Martín Tamayo, I</dc:creator>
+<dc:creator>Quintana Luque, F</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Examinar los factores que influyentes en el tiempo de estancia en una unidad hospitalaria de rehabilitación de pacientes hemipléjicos de un hospital español. Material y métodos: Análisis de la influencia de 22 variables clínicas, preseleccionadas y tomadas en diferentes momentos de la evolución, en el tiempo de estancia de 556 pacientes, seguidos retrospectivamente a partir de sus historias clínicas. Resultados: Una alta puntuación en la escala de Brünnstroms de la fase de la mano y de la fase del miembro inferior al ingreso en la unidad de rehabilitación fueron las variables más asociadas con un menor tiempo de estancia, mientras que los días de demora desde el episodio ictal hasta el ingreso fue la variable más implicada en el alargamiento del tiempo de estancia. Discusión: A partir de las variables que demostraron una mayor correlación se calcularon ecuaciones de regresión múltiple que permiten realizar una previsión del tiempo de estancia de un paciente a su ingreso y, por lo tanto, pueden suponer un instrumento de utilización práctica para la gestión de una unidad de rehabilitación de hemipléjicos (AU)</dc:description>
+<dc:source>Rehabilitación (Madr., Ed. impr.);34(4): 265-270, abr. 2000. tab</dc:source>
+<dc:identifier>ibc-4872</dc:identifier>
+<dc:title xml:lang="es">Predicción del tiempo de estancia hospitalaria del paciente hemipléjico</dc:title>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d8079^s22083</dc:subject>
+<dc:subject>^d6579^s22061</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200004</dc:date>
+</metadata>
+</record>
+</ibecs-document>

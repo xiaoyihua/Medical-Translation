@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-155015</identifier>
+<setSpec>2253-654X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">PET/MRI: a luxury or a necessity?</dc:title>
+<dc:description xml:lang="en">PET/MRI is a new multimodality technique with a promising future in diagnostic imaging. Technical limitations are being overcome. Interference between the two systems (PET and MRI) seems to have been resolved. MRI-based PET attenuation correction can be performed safely. Scan time is acceptable and the study is tolerable, with claustrophobia prevalence similar to that of MRI. Quantification with common parameters, such as Standardized Uptake Value (SUV), shows a fairly good correlation between both systems. However, PET/CT currently provides better results in scan time, scan costs, and patient comfort. Less patient radiation exposure is a big advantage of PET/MRI over PET/CT, which makes it particularly recommended in paediatric and adolescent patients requiring one or more studies. PET/MRI indications are the same as those of PET/CT, given that in cases where MRI is superior to CT, PET/MRI is superior to PET/CT. This superiority is clear in many soft tissue tumours. Moreover, it is common to perform both PET/CT and MRI in neurological diseases, as well as in some tumours, such as breast cancer. A single PET/MRI study replaces both with obvious benefit. MRI also allows other MRI-based PET corrections, such as motion or partial volume effect corrections. The better spatial resolution of MRI allows the transfer of well-defined MRI areas or small volumes of interest to PET image, in order to measure PET biomarkers in these areas. The richness of information of both techniques opens up immense possibilities of synergistic correlation between them (AU)</dc:description>
+<dc:creator>Riola-Parada, C</dc:creator>
+<dc:creator>García-Cañamaque, L</dc:creator>
+<dc:creator>Carreras-Delgado, JL</dc:creator>
+<dc:creator>Pérez-Dueñas, V</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La PET/RM es una nueva técnica multimodalidad con un futuro prometedor en el diagnóstico por imagen. Las limitaciones técnicas se están superando. La interferencia entre ambos sistemas (PET y RM) parece estar resuelta. La corrección de atenuación de PET mediante los datos de RM se puede realizar con garantía. El tiempo por estudio es aceptable y el estudio es tolerable con porcentajes de claustrofobia similares a los de RM. La cuantificación mediante los parámetros habituales como el Standardized Uptake Value (SUV) se correlaciona bastante bien entre ambos sistemas. Sin embargo, la PET/TC ofrece en estos momentos mejores datos de tiempo por estudio, costo por estudio y confortabilidad. Una gran ventaja de la PET/RM respecto a la PET/TC es la menor exposición del paciente a radiaciones, lo que la hace especialmente recomendable en pacientes pediátricos o adolescentes que requieran uno o varios estudios PET. Las indicaciones de la PET/RM en principio son las mismas que las de la PET/TC, teniendo en cuenta que en los casos en que la RM es superior a la TC, la PET/RM es superior a la PET/TC. Esta superioridad es clara en muchos de los tumores de tejidos blandos. Por otro lado, en patología neurológica y en algunos tumores como los de mama es habitual realizar, por un lado, un estudio PET/TC, y por otro, una RM. La realización de un único estudio PET/RM sustituye con evidente ventaja a los otros dos. La aplicación de la RM permite además aplicar otras correcciones a la PET, como la corrección del movimiento o del efecto de volumen parcial. La mejor resolución espacial de la RM hace posible transferir a las imágenes de PET áreas o volúmenes de interés de pequeño tamaño bien delimitados en la RM, para medir biomarcadores de la PET en esas áreas. La riqueza de información de ambas técnicas abre unas inmensas posibilidades de correlación entre ambas (AU)</dc:description>
+<dc:source>Rev. esp. med. nucl. imagen mol. (Ed. impr.);35(5): 313-320, sept.-oct. 2016. tab, ilus</dc:source>
+<dc:identifier>ibc-155015</dc:identifier>
+<dc:title xml:lang="es">PET/RM: ¿un lujo o una necesidad?</dc:title>
+<dc:subject>^d32651^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9871^s22048</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d54666^s22045</dc:subject>
+<dc:subject>^d54666^s22066</dc:subject>
+<dc:subject>^d23405^s22039</dc:subject>
+<dc:subject>^d38793^s22039</dc:subject>
+<dc:subject>^d29063^s22054</dc:subject>
+<dc:subject>^d32513^s37748</dc:subject>
+<dc:subject>^d19200^s22066</dc:subject>
+<dc:subject>^d38793^s22074</dc:subject>
+<dc:subject>^d38793^s22045</dc:subject>
+<dc:subject>^d32513^s22054</dc:subject>
+<dc:subject>^d33478^s22002</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201610</dc:date>
+</metadata>
+</record>
+</ibecs-document>

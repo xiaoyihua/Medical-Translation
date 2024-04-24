@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-110747</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Validating the Adjusted Clinical Groups [ACG] Case-mix System in a Spanish population setting: a multicenter study</dc:title>
+<dc:description xml:lang="en">Purpose: To validate the Johns Hopkins ACG case-mix system used in various primary and specialized care centers attending a defined population in Spain. Methods: A retrospective, multicenter study was carried out by applying the ACG case-mix system to the clinical records of patients attending five primary care teams and two hospitals over a 1-year period in 2005. The main measurements were dependent variables (visits, episodes, primary care costs, and total costs), and morbidity. The determination coefficient (R2; p&lt;0.05) was used to measure the explained variability. Results: A total of 81,873 patients were included with a mean (standard deviation) number of 4.8 (3.5) episodes and 8.0 (8.1) visits/patient/year. The explained variance (R2) of ACG classification was 73.1% (75.5% log transformation) for episodes, 43.2% (54.0% log transformation) for visits, 19.6% (54.8% log transformation) for primary care costs, and 22.7% (48.3% log transformation) for total costs (p&lt;0.001). Conclusion: The ACG system classified a defined population on the basis of morbidity and individual resource consumption. Moreover, the ACG system was useful to assess the clinical (comorbidity) and economical information of each center (AU)</dc:description>
+<dc:creator>Grupo de estudio ACG-BSA</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: Validar la aplicación retrospectiva de los Adjusted Clinical Groups (ACG) en varios centros de atención primaria y especializada en la población española. Métodos: Estudio restrospectivo-multicéntrico, realizado a partir de los registros de sujetos atendidos en 5 equipos de atención primaria (AP) y dos hospitalarios, durante el año 2005. Las principales mediciones fueron dependientes (visitas, episodios, coste en AP y coste total) y de casuística/morbilidad con el ACG Case-Mix-System. Cálculo del poder explicativo: cociente de determinación, p&lt;0,05 Resultados: Se estudiaron 81.873 pacientes, con una media (desviación estándar) de 4,8 (3,5) episodios y 8,0 (8,1) visitas/año. El poder explicativo (R2) de la variabilidad de la clasificación del número de episodios fue del 73,1% (transformación, 75,5%), de las visitas el 43,2% (transformación, 54%), el coste en AP un 19,6% (transformación, 54,8%) y el coste total un 22,7% (transformación, 48,3%) (p&lt;0,001). Conclusión: Los ACG nos han permitido agrupar personas procedentes de una población, a partir del estado clínico y del uso de recursos sanitarios individuales. Además, el ACG Case-Mix System se ha mostrado adecuado para integrar y medir la morbilidad, así como la información clínica y económica, de los centros (AU)</dc:description>
+<dc:source>Gac Sanit;23(3): 228-231, mayo-jun. 2009. tab</dc:source>
+<dc:identifier>ibc-110747</dc:identifier>
+<dc:title xml:lang="es">Validación retrospectiva del Johns-Hopkins ACG Case-Mix System en la población Española</dc:title>
+<dc:subject>^d23662^s22049</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d29453^s22049</dc:subject>
+<dc:subject>^d30327^s22049</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200906</dc:date>
+</metadata>
+</record>
+</ibecs-document>

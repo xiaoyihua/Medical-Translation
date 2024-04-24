@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-18601</identifier>
+<setSpec>0482-5985</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Biomechanical study of four fixation systems and use of anterior grafts in a finite-elements model of the lumbar spine</dc:title>
+<dc:creator>Atienza Vicente, Carlos</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Objetivos: Presentación de una nueva metodología para el modelado y validación del conjunto raquis-implante mediante el estudio biomecánico de cuatro sistemas de fijación y del uso de injerto anterior en un modelo basado en el método de elementos finitos de la columna lumbar L2-L5 en el que se simuló una corporectomía de L4. Material y método: Se ensayaron cuatro sistemas de fijación posterior basados en el uso de tornillos transpediculares anclados en bloques de polietileno, obteniendo su rigidez en los modos de carga de flexión, extensión, flexión lateral y torsión. Se realizaron modelos validados de los sistemas de fijación. Estos modelos se incorporaron al tramo de la columna lumbar L2-L5, en el cual se realizó una corporectomía de L4 estudiando la rigidez del conjunto, y las tensiones en los implantes. Se estudió en el modelo de la columna estabilizado con uno de los fijadores el efecto de la utilización de un injerto anterior entre L3 y L5. Resultados: El error medio cometido para todos los sistemas en la validación fue de un 3,7 por ciento y los errores medios por sistema inferiores al 6,5 por ciento. Se calcularon las tensiones máximas para todos los sistemas de fijación en los tornillos transpediculares, alcanzando sus valores máximos en los modos de carga de torsión y flexión. En los modos de carga de flexión y extensión los conectores transversales estuvieron sometidos a cargas prácticamente nulas, en flexión lateral las tensiones máximas fueron de 261,95 MPa y en torsión de 98,55 MPa. El uso del injerto anterior disminuye en un 80 por ciento las tensiones en el fijador en el modo de carga de flexión. Conclusiones: Se ha desarrollado una nueva metodología para el modelado y validación del conjunto raquis-implante que requiere no sólo la validación del modelo de la columna sino también el modelado y validación independiente de los sistemas de fijación. Ante una corporectomía de L4, en el caso de implantar un sistema de fijación posterior, la introducción de un injerto anterior puede evitar la rotura del implante por cargas cíclicas, ya que las tensiones que se alcanzan en los fijadores sin el soporte del injerto son cercanas al límite elástico de la aleación de titanio Ti6Al4V (795 MPa). (AU)</dc:description>
+<dc:source>Rev. ortop. traumatol. (Madr., Ed. impr.);46(6): 542-550, dic. 2002. tab, ilus, graf</dc:source>
+<dc:identifier>ibc-18601</dc:identifier>
+<dc:title xml:lang="es">Estudio biomecánico de cuatro sistemas de fijación y del uso de injerto anterior en un modelo de elementos finitos de la columna lumbar</dc:title>
+<dc:subject>^d8334^s22042</dc:subject>
+<dc:subject>^d1721</dc:subject>
+<dc:subject>^d8334^s22009</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29360^s22045</dc:subject>
+<dc:subject>^d8336^s22009</dc:subject>
+<dc:subject>^d1888^s22074</dc:subject>
+<dc:subject>^d14492</dc:subject>
+<dc:subject>^d8336^s22042</dc:subject>
+<dc:subject>^d5728</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200212</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-97421</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Enterococcus: phenotype and genotype resistence and epidemiology in Spain</dc:title>
+<dc:description xml:lang="en">Enterococci are major nosocomial pathogens due to their intrinsic resistance to many antimicrobials as well as to their ability to acquire new mechanisms of resistance. Acquired resistance to beta-lactams is due to PBP5 overproduction or alterations in this protein. Beta-lactamase production is anecdotal. High-level resistance (HLR) to aminoglycosides is due to the production of aminoglycoside-modifying enzymes that delete synergistic killing in association with cell wall-active agents. The most frequent enzyme is AAC(6&#146;)- APH(2&#148;), which inactivates all the aminoglycosides most frequently used in clinical practice. Acquired resistance to glycopeptides is due to the acquisition of gene clusters called vanA, vanB, vanD, vanE, vanG, vanL, vanM and vanN. Linezolid resistance is due to ribosomal mutations or to the acquisition of the cfr gene. Some isolates present diminished susceptibility to daptomycin. In Spain, both enterococcal resistance to beta-lactams and HLR to aminoglycosides are high. E. faecalis is almost uniformly susceptible to ampicillin. Enterococcal resistance to glycopeptides is low, with the exception of occasional outbreaks. The new antimicrobials (linezolid, daptomycin, tigecycline) are almost uniformly active against these microorganisms. Because of the wide dissemination of the high-risk clonal complexes CC2 and CC9 (E. faecalis), and CC17 (E. faecium), surveillance studies are required to detect antimicrobial resistance genes as well as to identify high-risk clonal complexes in order to predict future trends in the acquisition of resistance genes (AU)</dc:description>
+<dc:creator>Cercenado, Emilia</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Los enterococos son importantes patógenos nosocomiales debido a la dificultad de tratamiento condicionada por su multirresistencia intrínseca y a la adquisición de nuevos genes de resistencia. La resistencia adquirida a beta-lactámicos se debe a la hiperproducción o a alteraciones en la PBP5. La producción de betalactamasa es anecdótica. La resistencia de alto nivel a aminoglucósidos (RAN) se debe a la producción de enzimas inactivantes de estos antibióticos y anula el efecto sinérgico con agentes activos en la pared celular. La enzima más frecuente es la AAC(6&#146;)-APH(2&#148;), que inactiva a todos los aminoglucósidos más frecuentemente utilizados en la práctica clínica. La resistencia adquirida a glucopéptidos se debe a la adquisición de operones de resistencia denominados vanA, vanB, vanD, vanE, vanG, VanL, vanM y vanN. La resistencia a linezolid se debe a mutaciones ribosómicas o a la adquisición del gen cfr. Algunas cepas presentan sensibilidad disminuida a la daptomicina. En España, la resistencia de los enterococos a los beta-lactámicos y la RAN a aminoglucósidos es elevada, y Enterococcus faecalis es casi uniformemente sensible a la ampicilina. La resistencia de los enterococos a los glucopéptidos es baja, con la excepción de algunos brotes, y los nuevos antimicrobianos (linezolid, daptomicina, tigeciclina) son casi uniformemente activos frente a estos microorganismos. La gran diseminación de los complejos clonales de alto riesgo como el CC2 y CC9 (E. faecalis) y el CC17 (E. faecium) hace necesario realizar estudios para vigilar la diseminación de genes de resistencia a antimicrobianos y para detectar estos CC de alto riesgo y predecir tendencias futuras en la adquisición de genes de resistencia (AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;29(supl.5): 59-65, Dic. 2011. tab</dc:source>
+<dc:identifier>ibc-97421</dc:identifier>
+<dc:title xml:lang="es">Enterococcus: resistencias fenotípicas y genotípicas y epidemiología en España</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d36060^s22079</dc:subject>
+<dc:subject>^d31518^s22079</dc:subject>
+<dc:subject>^d626^s22079</dc:subject>
+<dc:subject>^d30128^s22033</dc:subject>
+<dc:subject>^d36322^s22033</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d32697^s22079</dc:subject>
+<dc:subject>^d34573^s22033</dc:subject>
+<dc:subject>^d23258^s22079</dc:subject>
+<dc:subject>^d38654^s22079</dc:subject>
+<dc:subject>^d22829^s22033</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201112</dc:date>
+</metadata>
+</record>
+</ibecs-document>

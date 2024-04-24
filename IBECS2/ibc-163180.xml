@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-163180</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Clinical relevance of the selectivity of sodium-glucose cotransporter-2 inhibitors</dc:title>
+<dc:description xml:lang="en">Selectivity is the property of a drug to preferentially bind to a biological structure. Most drugs can bind and stimulate or inhibit more than one system. Therefore, it is important that they are selective for the intended site and that the doses used do not have effects on other sites, which could provoke adverse reactions. Selectivity is assessed through in vitro experiments on organs or isolated cells. If the aim is to compare drugs, the experiment should be conducted in the same tissue and with the same design. Even so, the results cannot be directly extrapolated to clinical practice due to the influence of pharmacokinetic properties, which allow an adequate dose of the drug to reach the target site. Sodium-glucose cotransporter-2 inhibitors (SGLT2i) are able to inhibit renal SGLT2 without modifying intestinal SGLT1, whose inhibition could produce gastrointestinal adverse reactions. The concentration needed to inhibit each of the transporters is calculated, as well as the ratio between the concentration that inhibits SGLT1 and the concentration needed to inhibit SGLT2. The higher the ratio, the greater the selectivity and the lower the risk of gastrointestinal adverse reactions. The three SGLT2i recently introduced in the therapeutic arsenal are sufficiently selective for SGLT2 to make effects on intestinal SGLT1 unlikely. To differentiate the components of this therapeutic class, its pharmacokinetic properties should be analysed rather than its pharmacodynamic characteristics, such as selectivity (AU)</dc:description>
+<dc:creator>Morales-Olivas, Francisco J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La selectividad es la propiedad de un farmaco para unirse de forma preferente a una estructura biologica.La mayor parte de los farmacos pueden unirse y estimular o inhibir mas de un sistema. Por ello es interesante que sean selectivos para la estructura sobre la que se pretende actuar y que con las dosis empleadas no ejerzan efectos sobre otras que pueden producir reacciones adversas. La selectividad se valora mediante experimentos in vitro sobre organos o celulas aislados. Si se pretende comparar farmacos, el experimento debe realizarse sobre el mismo tejido y con el mismo diseno. Aun asi, los datos obtenidos no se pueden extrapolar directamente a la clinica, por la influencia de las propiedades farmacocineticas, que son las que permiten que el farmaco llegue en concentracion adecuada al lugar de accion. En el caso de los inhibidores del cotransportador sodio-glucosa tipo 2 (iSGLT2) se valora su capacidad para inhibir el SGLT2 renal sin modificar el SGLT1 intestinal, cuya inhibicion podria producir reacciones adversas digestivas. Se calcula la concentracion necesaria para inhibir cada uno de los transportadores y el cociente entre la que inhibe SGLT1 y la necesaria para inhibir SGLT2. Cuanto mayor sea el cociente, mayor sera la selectividad y menor el riesgo de reacciones adversas digestivas. Los 3 iSGLT2 recientemente introducidos en terapeutica son suficientemente selectivos sobre SGLT2 como para que no sean esperables efectos sobre SGLT1 intestinal. Para diferenciar a los componentes de este grupo puede ser mas interesante analizar sus propiedades farmacocinéticas que sus caracteristicas farmacodinamicas, como la selectividad (AU)</dc:description>
+<dc:source>Med. clín (Ed. impr.);147(supl.esp.1): 26-29, nov. 2016. tab</dc:source>
+<dc:identifier>ibc-163180</dc:identifier>
+<dc:title xml:lang="es">Relevancia clínica de la selectividad de los inhibidores del cotransportador sodio-glucosa tipo 2</dc:title>
+<dc:subject>^d50911^s22044</dc:subject>
+<dc:subject>^d50911^s22000</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30151</dc:subject>
+<dc:subject>^d50911^s22006</dc:subject>
+<dc:subject>^d50911^s22073</dc:subject>
+<dc:subject>^d13411^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201611</dc:date>
+</metadata>
+</record>
+</ibecs-document>

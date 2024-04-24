@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150221</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Maximum likelihood analysis of repeated measures</dc:title>
+<dc:description xml:lang="en">Biased tests and non-exact F distributions are deficiencies in the classical ANOVA approach to repeated measures in the case of non-spherical variance covariance matrices or unbalanced data. Individual differences in developmental patterns have also been typically ignored by being shoved into the error term. This paper discusses two case studies that illustrate analysis opportunities in the solution of these problems by using maximum likelihood methods. Evidence suggests that the latter allow for more precise inference by using more accurate models of the covariance matrix. They also provide estimators with known and favorable asymptotic properties in the case of unbalanced data. Individual differences in growth can be quantified by inclusion of new covariance parameters, which provide some answers to Barlow and Hensen critical remarks on classical experimental psychology. Some potential problems in the use of these methods and characteristics of available software are finally discussed (AU)</dc:description>
+<dc:creator>Murray, Leigh</dc:creator>
+<dc:creator>Oliver, Juan C</dc:creator>
+<dc:creator>Rosel, Jesús</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Algunas de las deficiencias del análisis de varianza para medidas repetidas son la existencia de estadísticos F sesgados con matrices de covarianza no esféricas, y con distribuciones no exactas en diseños no balanceados. Además, las diferencias individuales en el desarrollo en diseños longitudinales son relegadas al término de error. El trabajo presenta mediante dos estudios de casos las oportunidades surgidas en la solución de estos problemas mediante la metodología de inferencia por máxima verosimilitud. La evidencia existente sugiere que ésta permiten realizar análisis más ajustados mediante el modelado preciso de la matriz de covarianzas, a la vez que proporciona estimadores con propiedades asintóticas conocidas y favorables cuando existen valores perdidos. Permiten también cuantificar la variabilidad interindividual en el desarrollo mediante la estimación de nuevos componentes de varianza, dando respuesta a algunas cuestiones planteadas por Barlow y Hensen en su crítica a la psicología experimental clásica. Se discute por último algunas desventajas y precauciones a tomar en el uso de estos métodos, así como algunas características de los programas informáticos disponibles (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);12(supl.2): 403-407, 2000. tab, graf</dc:source>
+<dc:identifier>ibc-150221</dc:identifier>
+<dc:title xml:lang="es">Análisis de medidas repetidas mediante métodos de máxima verosimilitud</dc:title>
+<dc:subject>^d28620</dc:subject>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d28633</dc:subject>
+<dc:subject>^d12026^s22045</dc:subject>
+<dc:subject>^d1544</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200000</dc:date>
+</metadata>
+</record>
+</ibecs-document>

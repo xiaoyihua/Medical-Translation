@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-97666</identifier>
+<setSpec>1695-4033</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Diagnostic value of exhaled nitric oxide measurement in mild asthma</dc:title>
+<dc:description xml:lang="en">Objectives: To assess the diagnostic value of fractional exhaled nitric oxide (FENO) in mild asthma. Material and methods: Cross-sectional descriptive study in a group of patients with no history of respiratory or allergic illness (control group) and a group of patients with a history of mild asthma with no baseline treatment (asthma group), both aged 6 to 14 years. The following examinations were performed: measurement of FENO using the portable NIOX MINO® device, allergy tests and spirometry. Repeatability of paired FENO measurements was estimated with the intraclass correlation coefficient, the repeatability coefficient and the variation coefficient. The diagnostic value was assessed with the sensitivity, specificity, area under the ROC curve and positive likelihood ratio (LR+) for each cut-off point. Results: Eighty-seven patients were included in the control group and 57 in the asthma group. The mean FENO value was 12.1 ppb (SD 13.5) in the control group and 42.9 ppb (SD 24.5) in asthmatics (P&lt;0.001). The intraclass correlation coefficient was 0.98 (95% CI: 0.96-0.99) and of 0.97 (95% CI: 0.92-0.99) in controls and asthmatics, respectively. The repeatability coefficient was 5.5 in controls and 9.2 in asthmatic children, and the median variation coefficient was 8.3% and 6.1%. The optimal cut-off value for FENO was 19 ppb (sensitivity and specificity were 91.4% and 87.2%, respectively). The area under the ROC curve was 0.93 (95% CI: 0.88-0.97) (P&lt;0.001) and the LR+ was 7.1. Subclinical sensitisation to pneumoallergens accounted for most false positive cases. Conclusions: The determination of FENO with NIOX MINO® has an adequate repeatability, especially for healthy patients. For asthmatic patients we recommend determining the average of two measurements. The test has a high diagnostic value in mild asthma. Subclinical sensitisation to pneumoallergens can cause the FENO value to rise to pathologic levels (AU)</dc:description>
+<dc:creator>Pérez Tarazona, S</dc:creator>
+<dc:creator>Escolano Serrano, S</dc:creator>
+<dc:creator>Talens Gandía, J</dc:creator>
+<dc:creator>Martínez Camacho, R. M</dc:creator>
+<dc:creator>Alfonso Diego, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Determinar el valor diagnóstico de la fracción exhalada del óxido nítrico (FENO) en el asma episódica. Material y métodos: Estudio descriptivo y transversal llevado a cabo en un grupo de pacientes sin antecedentes de patología respiratoria o alérgica (grupo control) y un grupo de pacientes con asma episódica sin tratamiento de base (grupo asma), con edades comprendidas entre los 6 y los 14 años. El protocolo incluyó la medición de la FENO con el analizador portátil NIOX MINO®, seguido de estudio alergológico y espirometría forzada. La repetibilidad de la técnica se analizó con el coeficiente de correlación intraclase, el coeficiente de repetibilidad y el coeficiente de variación. El valor diagnóstico se determinó con la sensibilidad, especificidad, área bajo la curva ROC y la razón de verosimilitud positiva. Resultados: Fueron incluidos 87 pacientes en el grupo control y 57 en el grupo asma. El valor medio ± desviación estándar de la FENO en el grupo control fue de 12,1±13,5 ppb y en asmáticos de 42,9±24,5 ppb (p&lt;0,001). El coeficiente de correlación intraclase fue de 0,98 (IC del 95%, 0,96-0,99) y de 0,97 (IC del 95%, 0,92-0,99) en controles y asmáticos, respectivamente; el coeficiente de repetibilidad de 5,5 y 9,2; y el coeficiente de variación (mediana) del 8,3 y el 6,1%. El punto de corte de la FENO que optimizó el valor de la sensibilidad y especificidad (el 91,4 y el 87,2%, respectivamente), fue de 19 ppb, con un área bajo la curva ROC de 0,93 (IC del 95%, 0,88-0,97) (p&lt;0,001) y una RVP de 7,1. La sensibilización subclínica a neumoalérgenos fue la principal causa de falsos positivos. Conclusiones: La determinación de la FENO con NIOX-MINO® tiene una adecuada repetibilidad, especialmente en los pacientes sanos. En los asmáticos sería recomendable obtener el promedio de dos mediciones. La prueba posee un alto valor diagnóstico en el asma episódica. La sensibilización subclínica a neumoalérgenos puede elevar la FENO hasta niveles patológicos (AU)</dc:description>
+<dc:source>An Pediatr (Barc);75(5): 320-328, nov. 2011. tab, graf, ilus</dc:source>
+<dc:identifier>ibc-97666</dc:identifier>
+<dc:title xml:lang="es">Valor de la determinación de óxido nítrico exhalado en el diagnóstico de asma episódica</dc:title>
+<dc:subject>^d9753^s22002</dc:subject>
+<dc:subject>^d9753</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d5289</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d28608^s22074</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d28596^s22045</dc:subject>
+<dc:subject>^d28596^s22074</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d1257^s22011</dc:subject>
+<dc:subject>^d1257^s22032</dc:subject>
+<dc:subject>^d5290</dc:subject>
+<dc:subject>^d1257^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201111</dc:date>
+</metadata>
+</record>
+</ibecs-document>

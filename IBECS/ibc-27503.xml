@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-27503</identifier>
+<setSpec>0214-3429</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">In vitro activity of fluconazole, voriconazole and posaconazole against Candida spp</dc:title>
+<dc:creator>Rezusta, A</dc:creator>
+<dc:creator>Rubio Calvo, M. C</dc:creator>
+<dc:creator>Ramírez de Ocáriz, I</dc:creator>
+<dc:creator>Gil, J</dc:creator>
+<dc:creator>Benito, R</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>J.R. Prous, S.A.</dc:publisher>
+<dc:description xml:lang="es">Voriconazol y posaconazol son dos nuevos triazoles con un amplio espectro de actividad antifúngica. La actividad in vitro de estos antifúngicos se compara con la de fluconazol frente a 113 aislamientos clínicos de Candida spp. con un amplio rango de CMI de fluconazol (0,125 a &gt;64 mg/l). Se estudiaron 22 C. albicans, 22 C. glabrata, 20 C. tropicalis, 15 C. dubliniensis, 13 C. parapsilosis, 13 C. krusei, 4 C. lusitaniae, 3 C. guilliermondii y 1 C. famata. La determinación de las CMI se realizó siguiendo las especificaciones del National Committee for Clinical Laboratory Standards, documento M27-A. Voriconazol y posaconazol mostraron buena actividad frente a todas las cepas de Candida spp., con una CMI90 de 0,25 y 0,5 mg/l, respectivamente. Las CMI50 y CMI90 de fluconazol fueron de 1 y 32 mg/l. Voriconazol y posaconazol poseen buena actividad tanto sobre las cepas de Candida spp. sensibles como resistentes al fluconazol. Las cepas con CMI de fluconazol más altas (16 mg/l) presentaban CMI de voriconazol y posaconazol ligeramente más elevadas que las sensibles al fluconazol. En las cepas resistentes al fluconazol las CMI90 de voriconazol y posaconazol fueron de 0,5 mg/l, mientras que las sensibles al fluconazol tuvieron una CMI90 de 0,06 mg/l para voriconazol y 0,25 mg/l para posaconazol. C. dubliniensis fue la especie más sensible y voriconazol el antifúngico con mejor actividad frente a estas cepas (AU)</dc:description>
+<dc:source>Rev Esp Quimioter;16(2): 227-232, jun. 2003.</dc:source>
+<dc:identifier>ibc-27503</dc:identifier>
+<dc:title xml:lang="es">Actividad in vitro de fluconazol, voriconazol y posaconazol frente a Candida spp</dc:title>
+<dc:subject>^d943</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d14625</dc:subject>
+<dc:subject>^d13428</dc:subject>
+<dc:subject>^d24654</dc:subject>
+<dc:subject>^d12180</dc:subject>
+<dc:subject>^d36324</dc:subject>
+<dc:subject>^d2207</dc:subject>
+<dc:subject>^d24244</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d2209</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200306</dc:date>
+</metadata>
+</record>
+</ibecs-document>

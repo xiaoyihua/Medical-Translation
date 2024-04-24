@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-90640</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Relationship between the number of hours of informal care and the mental health status of caregivers</dc:title>
+<dc:description xml:lang="en">Background: Mental health of caregivers is damaged by caregiving tasks. Studies are needed to determine the influence of several variables on the association between informal care and mental health. The aim of this paper is to analyse the effects of the time devoted to informal caregiving on the mental health of women and men in relation to the type of dependents. Methods: National Health Survey 2006, sample 29,478. Variables: mental health state (GHQ-12), number of hours devoted to caregiving, age, social class, and functional support (Duke-UNC). A logistic regression analysis was performed to determine the probability of having poorer mental health according to the number of hours of caregiving, adjusted for age, social class and functional support. Results: Women show poorer mental health when they spend more than 97 hours per week taking care of children [OR=1,372], more than 25 hours caring for persons over 74 years of age [OR=1,602 between 25 and 48 hours; OR=1,467 49-96h.; OR=1,874 97-168h.], and when they devote some hours to provide care to adults with disabilities [OR=1,996 0-24h.; OR=2,507 25-48h.; OR=3,016 49-96h.; OR=1,651 97-168h.]. Men show deterioration in mental health when they devote a high number of hours to caring for persons over 74 years [OR=2,810 97-168h.] and adults with disabilities [OR=3,411 97-168h.], and when they devote some hours to childcare [OR=1,595 0-24h.]. Conclusions: The effect of the number of hours devoted to caregiving on the mental health of caregivers is influenced by the type of dependents and the gender of the caregiver(AU)</dc:description>
+<dc:creator>Masanet, Erika</dc:creator>
+<dc:creator>La Parra, Daniel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamento: La salud mental de las personas cuidadoras se ve perjudicada por las tareas de cuidado. Son necesarios estudios que especifiquen la influencia de diversas variables en la asociación entre cuidado informal y salud mental. El objetivo del trabajo es analizar los efectos del tiempo dedicado al cuidado informal en la salud mental por sexo según el tipo de personas dependientes . Métodos: Los datos que se utilizaron fueron los de la Encuesta Nacional de Salud 2006, cuya muestra estaba compuesta por 29.478 participantes. Variables: salud mental (GHQ-12), tiempo de cuidado, edad, clase social y apoyo funcional (Duke-UNC). Se realizó análisis de regresión logística para determinar la probabilidad de contar con mala salud mental según horas de cuidado, ajustado por edad, clase social y apoyo funcional. Resultados: Las mujeres presentan peor salud mental a partir de 97 horas semanales en el cuidado a menores (OR=1,372), de 25 horas en el cuidado a personas mayores de 74 años (OR=1,602 entre 25 y 48 horas; OR=1,467 49-96h; OR=1,874 97-168h) y cuando dedican alguna hora al cuidado de personas adultas con discapacidad (OR=1,996 0-24h; OR=2,507 25-48h; OR=3,016 49-96h; OR=1,651 97-168h). Los varones muestran deterioro de la salud psicológica cuando dedican un elevado número de horas al cuidado de personas mayores de 74 años (OR=2,810 97168h.) y personas con discapacidad (OR=3,411 97-168h.) y cuando dedican de 0 a 24h al cuidado de menores (OR=1,595). Conclusiones: El efecto del número de horas de cuidado en la salud mental de las personas cuidadoras está influido por el tipo de persona dependiente y por el sexo de la persona cuidadora(AU)</dc:description>
+<dc:source>Rev Esp Salud Publica;85(3): 257-266, may.-jun.2011. tab</dc:source>
+<dc:identifier>ibc-90640</dc:identifier>
+<dc:title xml:lang="es">Relación entre el númer de horas de cuidado informal y el estado de salud mental de las personas cuidadoras</dc:title>
+<dc:subject>^d30212^s22056</dc:subject>
+<dc:subject>^d30212^s22074</dc:subject>
+<dc:subject>^d13305</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30212^s22083</dc:subject>
+<dc:subject>^d13328</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d28451^s22083</dc:subject>
+<dc:subject>^d50525</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201106</dc:date>
+</metadata>
+</record>
+</ibecs-document>

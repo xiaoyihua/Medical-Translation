@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-120330</identifier>
+<setSpec>0212-1611</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The association between dietary macronutrients intake and obesity among children and adolescents; A case- control study</dc:title>
+<dc:description xml:lang="en">Introduction: The high prevalence of obesity among Spanish children and adolescents has become an important public health problem. Objective: To assess the association between dietary macronutrient intake and obesity in a case-control study of children and adolescents (aged 5.5 to 18.8) from Navarra. Methods: Cases were 178 obese children (body mass index &gt; 97th percentile), from Navarra. Controls were individually matched by sex and age. Anthropometric data were collected by trained personal using standardized procedures. Personal interviews were performed to collect previously validated semiquantitative food frequency questionnaires (FFQs). From these FFQs we calculated the intake of macronutrients (carbohydrates, proteins and fats) and types of fatty acids. Energy-adjusted macronutrient intake was divided into quintiles. Conditional logistic regression was used and confounder factors were taken into account. Results: The macronutrient composition of the diet was similar between cases and controls, except for polyunsaturated fatty acids (PUFA) intake, which was significantly inversely associated with obesity (p for trend &lt; 0.01), with adjusted odds ratio = 0.34 (95% CI: 0.15 to 0.77) for the fifth versus the first quintile. Conclusions: An inverse and significant association between PUFA intake and obesity was found in this case-control study (AU)</dc:description>
+<dc:creator>Martín-Calvo, Nerea</dc:creator>
+<dc:creator>Martínez-González, Miguel Ángel</dc:creator>
+<dc:creator>Ochoa, María Carmen</dc:creator>
+<dc:creator>Marti, Amelia</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: La alta de prevalencia de obesidad infantil en España y sus posibles consecuencias hacen de esta enfermedad un problema prioritario de salud pública. Objetivo: Valorar, mediante un estudio epidemiológico analítico de casos y controles, la asociación entre la composición en macronutrientes de la dieta y la obesidad en una muestra de niños y adolescentes navarros de 5,5 a 18,8 años. Método: Se reclutaron 178 casos, niños y adolescentes obesos (índice de masa corporal &gt; percentil 97) en Navarra. Los controles fueron emparejados individualmente según edad y sexo. Las medidas antropométricas fueron tomadas por personal entrenado utilizando métodos estandarizados. Se realizaron entrevistas individuales para recoger información sobre la frecuencia de consumo de alimentos mediante un cuestionario previamente validado a partir del que se calculó la ingesta de macronutrientes (hidratos de carbono, proteínas y grasas) y de los subtipos de grasas. Estos resultados se dividieron en quintiles de macronutrientes ajustados por ingesta energética total. Se realizó una regresión logística condicional para estimar odds ratios ajustadas de obesidad para cada uno de los cuatro quintiles superiores de consumo, usando el quintil inferior como referencia. Resultados: La composición de macronutrientes de la dieta era similar en casos y controles, excepto para las grasas poliinsaturadas, que se asociaron inversamente a la obesidad (p tendencia lineal &lt; 0,01) con una odds ratio ajustada de 0,34 (IC 95%: 0,15 a 0,77) para el quinto quintil. Conclusiones: Nuestros resultados sugieren una asociación inversa entre una mayor ingesta de grasas poliinsaturadas y el riesgo de obesidad (AU)</dc:description>
+<dc:source>Nutr Hosp;28(5): 1515-1522, sept.-oct. 2013. ilus, tab</dc:source>
+<dc:identifier>ibc-120330</dc:identifier>
+<dc:title xml:lang="es">Asociación entre los macronutrientes de la dieta y la obesidad en la infancia y adolescencia; un estudio de casos y controles</dc:title>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9951^s22080</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d50311</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d23101^s22002</dc:subject>
+<dc:subject>^d24551</dc:subject>
+<dc:subject>^d5334^s22000</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201310</dc:date>
+</metadata>
+</record>
+</ibecs-document>

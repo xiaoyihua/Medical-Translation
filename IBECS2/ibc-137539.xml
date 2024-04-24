@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-137539</identifier>
+<setSpec>1139-7632</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Hazard ratio: when risk changes over the course of time</dc:title>
+<dc:description xml:lang="en">Survival variables are used very frequently in clinical trials when the objective is measuring not only the happening of the event itself but also the moment it happens. In these cases, the measure of relative risk between intervention and control groups would produce an incomplete information. In this paper the use and meaning of instantaneous risk rate, better known by the name of hazard ratio, is described. This statistic takes into account the time effect, so that it is appropriate for the assessment of risk when there is a survival variable involved (AU)</dc:description>
+<dc:creator>Molina Arias, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Las variables de supervivencia se usan con mucha frecuencia en ensayos clínicos cuando se quiere valorar no solo la ocurrencia de un suceso, sino también el momento en que se produce. En estos casos la medida del riesgo relativo entre los grupos de intervención y control nos daría una información incompleta.  En este artículo se describe el uso e interpretación del cociente de riesgos instantáneos, más conocido por su nombre en inglés, hazard ratio. Esta medida tiene en cuenta el efecto temporal, por lo que resulta la forma idónea de valorar el riesgo cuando hay implicada una variable de supervivencia (AU)</dc:description>
+<dc:source>Pediatr. aten. prim;17(66): 185-188, abr.-jun. 2015.</dc:source>
+<dc:identifier>ibc-137539</dc:identifier>
+<dc:title xml:lang="es">Hazard ratio: cuando el riesgo varía a lo largo del tiempo</dc:title>
+<dc:subject>^d28423</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d12720^s22048</dc:subject>
+<dc:subject>^d24811</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d13915^s22031</dc:subject>
+<dc:subject>^d12720^s22074</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201506</dc:date>
+</metadata>
+</record>
+</ibecs-document>

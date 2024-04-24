@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-133323</identifier>
+<setSpec>0212-7113</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Computational methods in predictive toxicology: application to the reduction of animal tests in the context of the EU REACH regulation</dc:title>
+<dc:description xml:lang="en">Molecular modeling and chemoinformatics have been used for decades for the selection and optimization of new compounds with therapeutic properties. The application of these techniques in predictive toxicology is more recent, and they are experiencing an increasingly interest because of the new legal requirements imposed by the EU REACH regulation. Indeed, a large amount of animal testing is needed under REACH to demonstrate the safety of new chemical entities subjected to registration, and these assays can be significantly reduced by using alternative in vitro and in silico methods, provided they meet specific conditions to ensure their quality and predictive power. Computational toxicology is as a subdiscipline of toxicology that aims to use mathematics, statistics, chemistry and computer modeling tools to predict the toxic effects of chemicals on human health and/or environment. Additionally, computation studies can help also to better understand the mechanisms by which a given chemical induces harm. In this review we summarize the state of art of the main in silico methods, the toxicological databases and computer programs more suitable for the generation of robust and reliable predictions will be listed, and the limitations and acceptability of computational toxicology will be discussed in the context of the UE regulation (AU)</dc:description>
+<dc:creator>Julián-Ortiz, J. V. de</dc:creator>
+<dc:creator>Fito-López, C</dc:creator>
+<dc:creator>Gozalbes, R</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Los métodos de química informática y modelado molecular han sido utilizados desde hace décadas para la selección y optimización de nuevos compuestos con propiedades terapéuticas. Su aplicación en toxicología predictiva es más reciente, y dadas las nuevas necesidades regulatorias impuestas por la normativa europea REACH, estas técnicas gozan actualmente de un interés creciente. En efecto, el reglamento REACH supone a priori la necesidad de una cantidad ingente de ensayos con animales para demostrar la seguridad de los nuevos compuestos químicos sometidos a registro, ensayos que pueden reducirse mediante el uso de métodos alternativos como los estudios in vitro e in silico, siempre que cumplan ciertas condiciones específicas que garanticen su calidad y eficacia predictiva. La toxicología computacional es pues una subdisciplina de la toxicología que tiene como objetivo utilizar las matemáticas, la estadística, el modelado químico y las herramientas informáticas para predecir los efectos tóxicos de las sustancias químicas en la salud humana y/o el medio ambiente, y adicionalmente comprender mejor los mecanismos por los que un producto químico determinado induce daño. En esta revisión resumimos el estado del arte de los diferentes métodos existentes en materia de toxicología computacional, citamos las bases de datos y programas más adecuados para la generación de predicciones robustas y fiables, y se discuten sus limitaciones y el grado de aceptación en el ámbito normativo (AU)</dc:description>
+<dc:source>Rev. toxicol;31(2): 157-167, jul.-dic. 2014. tab</dc:source>
+<dc:identifier>ibc-133323</dc:identifier>
+<dc:title xml:lang="es">Métodos computacionales en toxicología predictiva: aplicación a la reducción de ensayos con animales en el contexto de la legislación comunitaria REACH</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d25123^s22045</dc:subject>
+<dc:subject>^d33149^s22045</dc:subject>
+<dc:subject>^d33149^s22048</dc:subject>
+<dc:subject>^d4865^s22068</dc:subject>
+<dc:subject>^d3184^s22041</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d840^s22045</dc:subject>
+<dc:subject>^d14509^s22048</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d840^s22041</dc:subject>
+<dc:subject>^d32301^s22074</dc:subject>
+<dc:subject>^d14509^s22066</dc:subject>
+<dc:subject>^d55062^s22066</dc:subject>
+<dc:subject>^d4867^s22041</dc:subject>
+<dc:subject>^d14509^s22045</dc:subject>
+<dc:subject>^d37575^s22048</dc:subject>
+<dc:subject>^d55062^s22041</dc:subject>
+<dc:subject>^d55062^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201412</dc:date>
+</metadata>
+</record>
+</ibecs-document>

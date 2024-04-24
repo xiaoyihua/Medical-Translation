@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-4961</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">False resistance to imipenem in Gram-negative rods with an automatized system</dc:title>
+<dc:creator>Pascual, Alvaro</dc:creator>
+<dc:creator>Martínez, Luis</dc:creator>
+<dc:creator>Fernández, Felipe</dc:creator>
+<dc:creator>Perea, Evelio José</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Fundamentos. El objetivo de este estudio es evaluar la fiabilidad de las concentraciones mínimas inhibitorias (CMI) de imipenema obtenidas con el sistema automatizado WalkAway-96 (MicroScan, Dade, EE.UU.) frente a bacilos gramnegativos (BGN). Métodos. Se seleccionaron 173 aislamientos clínicos consecutivos de BGN para los que la CMI de imipenema fue &gt;=4 mg/l (paneles Urine-Combo 6l, U6l) o &gt;=8 mg/l (paneles Neg-Combo 6l, N6l). De ellos, 104 eran BGN no fermentadores (BGNNF) y 69 enterobacterias. La inoculación y lectura de los paneles se realizó siguiendo las indicaciones del fabricante. Como método de referencia se utilizó la microdilución siguiendo las normas del NCCLS. Al comparar las CMI determinadas por WalkAway- 96 y por microdilución, se consideraron discrepantes aquellos valores con &gt;=2 diluciones de diferencia. Las discrepancias en las categorías clínicas se evaluaron determinando los errores máximos (falsa sensibilidad), errores mayores (falsa resistencia) y errores menores (sensibilidad intermedia por un método y sensible o resistente por el otro método). Resultados. El porcentaje de discrepancias para las CMI de imipenema obtenidas al utilizar paneles U6I fue del 74 por ciento para los BGNNF y del 84 por ciento para las enterobacterias. Con los paneles N6I estos valores fueron del 16 por ciento y del 95 por ciento respectivamente. No se detectaron errores máximos. Los errores mayores al usar paneles U6I fueron del 65 por ciento para BGNNF y del 12 por ciento para enterobacterias. Estos valores aumentaron hasta el 12 por ciento y el 50 por ciento, respectivamente, con paneles N6I. En el 11 por ciento de BGNNF y el 25 por ciento de enterobacterias se detectaron errores menores con los paneles U6I y en el 39 por ciento y el 45 por ciento de ambos grupos, respectivamente, con los paneles N6I. Conclusión. Los valores de CMI de imipenema &gt;=4 mg/l frente a BGN obtenidos con el sistema WalkAway-96, especialmente en el caso de enterobacterias, se deben confirmar mediante una técnica estandarizada. (AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;18(10): 500-505, dic. 2000.</dc:source>
+<dc:identifier>ibc-4961</dc:identifier>
+<dc:title xml:lang="es">Falsa resistencia a imipenema en bacilos gramnegativos mediante un sistema automatizado</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d30344</dc:subject>
+<dc:subject>^d27855</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24244</dc:subject>
+<dc:subject>^d28157</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200012</dc:date>
+</metadata>
+</record>
+</ibecs-document>

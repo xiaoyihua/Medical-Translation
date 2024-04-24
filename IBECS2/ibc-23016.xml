@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-23016</identifier>
+<setSpec>0212-8799</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Method proposal of biomechanical analysis in wrestling sports: cinematic analysis of the garabito</dc:title>
+<dc:creator>Meana Riera, Marta</dc:creator>
+<dc:creator>Grande Rodríguez, Ignacio</dc:creator>
+<dc:creator>López Rodríguez, Cesáreo</dc:creator>
+<dc:creator>Aguado Jódar, Xavier</dc:creator>
+<dc:creator>López Elvira, José Luis</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Federación Española de Medicina del Deporte</dc:publisher>
+<dc:description xml:lang="es">Existe una deficiencia de estudios experimentales de biomecánica en deportes de lucha y aun más en el campo de la cinemática. Quizá se deba a la dificultad que entraña el proceso de digitalización por el gran número de puntos ocultos que se generan. En este trabajo se presenta una metodología concebida para analizar técnicas de derribo de cualquier deporte de lucha, y se pone a prueba aplicándola a modo de estudio piloto en una maña de lucha leonesa. El trabajo consiste en un estudio fotogramétrico en 3D cuyo fin es por una parte validar el empleo de la fotogrametría con acciones de lucha, y por otra explorar diversas variables relacionadas con él equilibrio de los luchadores. Para comprobar la validez del proceso de digitalización en la lucha, se ha estudiado la reproducibilidad analizando cinco repeticiones de la misma maña y se han calculado las máximas desviaciones típicas `y ANOVAs de cada coordenada tridimensional de cada punto. La mayor desviación típica encontrada fue de 0.042 m en la coordenada X del codo del oponente. No se encontró ninguna diferencia significativa a partir de las ANOVAs, con lo cual, á pesar de existir puntos ocultos, es posible emplear la fotogrametría en deportes de lucha. Respecto a las variables relacionadas con el equilibrio, se propone emplear la relación entre el centro de masas y la base de sustentación como criterio de división en fases, para clasificar diferentes técnicas dentro de una misma modalidad y para poder comparar la eficacia entre técnicas similares de modalidades de lucha distintas. Se ha observado que la maña analizada en este estudio, el garabito, entraña cierto riesgo al atacante por dos motivos: uno, mientras el atacante realiza el desequilibrio mantiene un solo pie apoyado y con un ángulo de caída de 16.56°; y dos, en ese mismo momento el oponente mantiene una base de sustentación amplia (0.l m2) y con los dos pies firmemente apoyados en el suelo. También se ha comprobado que esta maña se puede clasificar como de derribar hacia adelante, puesto que la dirección que toma el centro de masas del oponente en el derribo ende -8.68° (AU)</dc:description>
+<dc:source>Arch. med. deporte;17(76): 135-143, mar. 2000. ilus, tab</dc:source>
+<dc:identifier>ibc-23016</dc:identifier>
+<dc:title xml:lang="es">Propuesta metodologica para el analisis biomecanico en deportes de lucha: análisis cinemático del garabito</dc:title>
+<dc:subject>^d1721</dc:subject>
+<dc:subject>^d11625</dc:subject>
+<dc:subject>^d^s22042</dc:subject>
+<dc:subject>^d19050</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1273^s22032</dc:subject>
+<dc:subject>^d23420^s22074</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200003</dc:date>
+</metadata>
+</record>
+</ibecs-document>

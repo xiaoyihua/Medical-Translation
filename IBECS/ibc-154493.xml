@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-154493</identifier>
+<setSpec>0212-1611</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Evaluating of the agreement between two methods to determine the distance of the active commuting to school in schoolchildren</dc:title>
+<dc:description xml:lang="en">Objective: To analyze the agreement between two measuring methods (Google MapsTM vs GIS) for the prediction of the distance from home to school. Methods: A total of 542 scholars aged 8-11 years old (mean = 9.36 ± 0.6) from the South of Spain participated in the study, reporting their respective address family home. The distance from home to school was calculated using two different softwares: Google MapsTM and Geographic Information System, in route and straight line. The association between the two methods was analyzed using the Spearman correlation, and the agreement through the Intraclass Correlation Coefficient and the Bland Altman method. Results: The correlation between the two methods of measurement proposed was significant (r = 0.966; p &lt; 0.001; r = 0.984; p &lt; 0.001, and r = 0.954; p &lt; 0.001, respectively), and the agreement was excellent (ICC = 0.96, p &lt; 0.001; ICC = 0.92; p &lt; 0.001, ICC = 0,97; p &lt; 0.001). Conclusions: Both measurement methods may be used depending on the needs of research, introducing both a high agreement. However, the use of Geographic Information System in route is recommended if it is funded, because it was demonstrated its reliability and validity (AU)</dc:description>
+<dc:creator>Villa-González, Emilio</dc:creator>
+<dc:creator>Barranco-Ruiz, Yaira</dc:creator>
+<dc:creator>Rodríguez-López, Carlos</dc:creator>
+<dc:creator>Cabezas-Arévalo, Luis Fabián</dc:creator>
+<dc:creator>Chillón, Palma</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: analizar la concordancia de dos métodos de medición (Google MapsTM vs. Sistema de Información Geográfica) para la determinación de la distancia desde el domicilio familiar hasta el colegio. Métodos: un total de 542 escolares de entre 8-11 años de edad (media = 9,36 ± 0,6) del sur de España participaron en el estudio, facilitando la dirección de su domicilio familiar. La distancia desde el domicilio familiar al colegio se calculó mediante la utilización de dos programas diferentes: Google MapsTM y Sistema de Información Geográfica (GIS) en ruta y en línea recta. La asociación entre ambos métodos fue analizada utilizando la correlación de Spearman y el grado de acuerdo a través del coeficiente de correlación intraclase (ICC), así como el método Bland Altman. Resultados: la correlación entre ambos métodos de medición propuestos fue muy significativa (r = 0,966, p &lt; 0,001; r = 0,984, p &lt; 0,001; y r = 0,954, p &lt; 0,001, respectivamente), y la concordancia fue excelente (ICC = 0,96, p &lt; 0,001; ICC = 0,92, p &lt; 0,001; ICC = 0,97, p &lt; 0,001). Conclusiones: los métodos de medición estudiados podrían ser utilizados en función de las necesidades de la investigación, al presentar ambos una alta concordancia. Sin embargo, se recomienda la utilización del Sistema de Información Geográfica en ruta si se cuenta con medios y financiación, por tratarse de un método constatado en fiabilidad y validez (AU)</dc:description>
+<dc:source>Nutr Hosp;33(3): 713-718, mayo-jun. 2016. tab, mapas, graf</dc:source>
+<dc:identifier>ibc-154493</dc:identifier>
+<dc:title xml:lang="es">Evaluación de la concordancia de dos métodos para determinar la distancia del desplazamiento activo al colegio en escolares</dc:title>
+<dc:subject>^d13721^s22083</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d29153^s22031</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:subject>^d37724^s22074</dc:subject>
+<dc:subject>^d16104^s22083</dc:subject>
+<dc:subject>^d9236^s22031</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d1667^s22031</dc:subject>
+<dc:subject>^d35222</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201606</dc:date>
+</metadata>
+</record>
+</ibecs-document>

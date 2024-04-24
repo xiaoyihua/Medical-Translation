@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-107524</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Impact of computerized physician order entry on medication errors</dc:title>
+<dc:description xml:lang="en">Background. Information is scarce on the impact of the clinical electronic record on the frequency and severity of medication errors in acute geriatric patients. Material and methods. An analytical and descriptive pre&#150;post study was conducted on the implementation of computerized provider order entry systems (CPOE), over a 6 year period. A voluntary reporting system was used to detect the medication errors using the IR2 report form of the UK National Health Service, the Global Trigger Tool and the walk rounds with the Pharmacy Service. The severity categories were taken from the National Coordinating Council for Medication Error Reporting and Prevention (NCC MERP) Index Categorizing Errors. Results. A total of 1887 medication errors (1553 patients) were detected in the period of study, and represented the first adverse event reported (29.3%). 8.5 adverse events per 100 admissions were found (0.24 in the categories E through I) and the prescription errors represented a 27.6%. By drugs dispensed, adverse events were 2.07 times more frequent in the 3 year period (2007&#150;2009) with electronic clinical record than in the 3 year period with the hand-written system (2004&#150;2006), being more frequent with antibiotics (1.92 times), antipyretic (2.21 times) and opiates (2.72 times). For serious errors and by doses dispensed, there were 5.18 times less frequent serious errors in the period related to the electronic record, drug omission (46.8 times less frequent), wrong dose (10.53 times) and antibiotics (10.84 times). Conclusion. Frequent medication errors were found in acute geriatric patients. An increase in medication errors and a decline in the severity of the detected errors were found in relationship to the electronic clinical record. For these reasons, the implementation of the electronic clinical record should be monitored(AU)</dc:description>
+<dc:creator>Rancaño, I</dc:creator>
+<dc:creator>Herranz, V</dc:creator>
+<dc:creator>Menendez, M. D</dc:creator>
+<dc:creator>Corte, J. J</dc:creator>
+<dc:creator>Vazquez, F</dc:creator>
+<dc:creator>Alonso, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. Hay pocos datos sobre el impacto que tiene la historia clínica electrónica sobre la frecuencia y severidad de los errores de medicación en pacientes agudos geriátricos. Material y métodos. Estudio analítico y descriptivo pre- y postimplementación de la historia clínica electrónica (HCE). Periodo de estudio: 6 años, usando un sistema de notificación voluntario para detectar los errores de medicación con el formulario IR2 del Servicio Nacional Inglés de Salud, el Global Trigger Tool y las rondas intinerantes con el Servicio de Farmacia usando las categorías de severidad del National Coordinating Council for Medication Error Reporting and Prevention (NCC MERP) Index Categorizing Errors. Resultados. Se detectaron un total de 1.887 errores de medicación (1.553 pacientes) en el periodo de estudio y representó el primer evento adverso notificado (29,3%). Se encontraron 8,5 eventos adversos por 100 admisiones (0,24 en las categorías E a la I) y los errores de prescripción representaron un 27,6%. Para los fármacos dispensados, los eventos adversos fueron 2,07 veces más frecuentes en el periodo de 3 años (2007&#150;2009) con la HCE que el periodo de 3 años con la historia clínica en papel (2004&#150;2006), siendo más frecuente debido a antibióticos (1,92 veces), antitérmicos (2,21 veces) y opiáceos (2,72 veces). Para errores serios y por dosis dispensadas, hubo 5,18 veces menos de errores serios en el periodo relativo a la HCE, omisión de fármaco (46,8 veces menos frecuente), dosis equivocada (10,53 veces) y antibióticos (10,84 veces). Conclusión. Se han encontrado errores de medicación frecuentes en los pacientes agudos geriátricos. Se observó un incremento en los errores de medicación y una disminución en la severidad de los mismos en relación a la implantación de la historia clínica electrónica. Por este motivo, la implementación de la historia clínica electrónica debe ser monitorizada(AU)</dc:description>
+<dc:source>Rev. calid. asist;27(6): 334-340, nov.-dic.2012.</dc:source>
+<dc:identifier>ibc-107524</dc:identifier>
+<dc:title xml:lang="es">Impacto de la historia clínica electrónica sobre los errores de medicación</dc:title>
+<dc:subject>^d8675^s22020</dc:subject>
+<dc:subject>^d8675^s22083</dc:subject>
+<dc:subject>^d8675^s37748</dc:subject>
+<dc:subject>^d24535</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d8675^s22066</dc:subject>
+<dc:subject>^d8675^s22054</dc:subject>
+<dc:subject>^d53713^s22083</dc:subject>
+<dc:subject>^d53713^s22074</dc:subject>
+<dc:subject>^d53713^s22066</dc:subject>
+<dc:subject>^d53713^s22049</dc:subject>
+<dc:subject>^d53713^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201212</dc:date>
+</metadata>
+</record>
+</ibecs-document>

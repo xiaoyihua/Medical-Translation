@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-112566</identifier>
+<setSpec>2253-654x</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Positron emission tomography/magnetic resonance: present and future</dc:title>
+<dc:description xml:lang="en">PET/MRI has recently been introduced onto the market after several years of research and development. The simple notion of combining the molecular capabilities of the PET and its difference available radiotracers with the excellent tissue resolution of the MRI and wide range of multiparametric imaging techniques has generated great expectations upon the possible uses of this technology. Many challenges must be worked out. However, the most urgent one is the derivation of the MRI-based attenuation correction map. This is especially true because the PET/CT has already demonstrated a huge clinical impact within oncology, neurology and cardiology during its short existence. Despite these difficulties, research is being carried out at a rapid pace in the clinical setting in order to find areas in which the PET/MRI is superior to other existing imaging modalities. In the few initial publications found up to date that have analyzed its clinical role, areas have been identified where PET/CT can migrate to PET/MRI, even if only to suppress the CT scan's ionizing radiation. Nonetheless, there are many theoretical applications in which the PET/MRI can further improve the field of diagnostic imaging. In this article, we will review those applications, the evidence existing regarding the MRI and PET that support those premises as well as that which we have learned in the short period of one year with our experience using the PET/MRI(AU)</dc:description>
+<dc:creator>Gaeta, M. C</dc:creator>
+<dc:creator>Pelegrí Martinez, L</dc:creator>
+<dc:creator>Vercher Conejero, J. L</dc:creator>
+<dc:creator>Kohan, A. A</dc:creator>
+<dc:creator>Ros, P. R</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La PET/RM fue introducida al mercado recientemente tras muchos años de investigación y desarrollo. La simple idea de combinar la capacidad molecular de la PET y sus diversos radiotrazadores con la excelente resolución tisular de la RM y la amplia gama de técnicas multiparamétricas que esta posee generan mucha expectación sobre los posibles usos de esta tecnología. Existen muchos desafíos que hay que resolver, pero el más urgente es la derivación del mapa de atenuación de las secuencias de RM; especialmente porque la PET/TC ya ha demostrado en su corta existencia un gran impacto clínico en oncología, neurología y cardiología. A pesar de estas dificultades, la experimentación clínica se está desarrollando de manera acelerada con el afán de encontrar aquellas áreas donde la PET/RM demuestre superioridad sobre los métodos de imagen existentes. En las pocas publicaciones iniciales hasta la fecha que analizan su papel clínico se describen áreas en donde la migración de la PET/TC hacia la PET/RM se realiza aunque sea solo para eliminar la radiación de la TC. Sin embargo, son muchas las aplicaciones teóricas que la PET/RM podría aportar al campo del diagnóstico por imágenes. En esta revisión haremos un repaso de ellas, la evidencia existente en RM y PET que avalan esas premisas y lo que nuestra experiencia con un equipo de PET/RM nos ha enseñado en el corto periodo de un año(AU)</dc:description>
+<dc:source>Rev. esp. med. nucl. imagen mol. (Ed. impr.);32(3): 167-176, mayo-jun.2013.</dc:source>
+<dc:identifier>ibc-112566</dc:identifier>
+<dc:title xml:lang="es">Tomografía por emisión de positrones/resonancia magnética: presente y futuro</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d^s22066</dc:subject>
+<dc:subject>^d54666^s22074</dc:subject>
+<dc:subject>^d14349^s29166</dc:subject>
+<dc:subject>^d^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d238^s29166</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d54666^s22045</dc:subject>
+<dc:subject>^d22696^s29166</dc:subject>
+<dc:subject>^d14294^s22053</dc:subject>
+<dc:subject>^d22935^s22045</dc:subject>
+<dc:subject>^d14294^s29166</dc:subject>
+<dc:subject>^d14349^s22053</dc:subject>
+<dc:subject>^d38793^s22074</dc:subject>
+<dc:subject>^d22696^s22011</dc:subject>
+<dc:subject>^d38793^s22066</dc:subject>
+<dc:subject>^d38793^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201306</dc:date>
+</metadata>
+</record>
+</ibecs-document>

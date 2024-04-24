@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-85187</identifier>
+<setSpec>1888-4008</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Hemolysis in diagnostic samples</dc:title>
+<dc:description xml:lang="en">In most cases, hemolysis is an avoidable preanalytical effect. It can appear as a result of the procedure used during blood specimen collection and also due to transport conditions and sample preparation. Hemolysis can lead to errors in many common determinations in clinical chemistry, mostly due to the leakage of cellular contents into the plasma, and in some cases, by the interfering effect of red blood cells components, such as hemoglobin. Laboratories need to be able to detect and measure hemolysis by a standardized procedure. The majority of current biochemistry analyzers can measure hemolysis by a spectrophotometric method. Nevertheless, the influence of hemolysis depends on the measurement method employed. Laboratories should demand that manufacturers give detailed information and make exhaustive studies regarding the influence of hemolysis on each analyte. This would allow each laboratory to establish the degree of hemolysis that produces a significant error in an analysis and in accordance with the laboratory's quality specifications (AU)</dc:description>
+<dc:creator>Cortés Rius, Mariano</dc:creator>
+<dc:creator>Barba Meseguer, Nuria</dc:creator>
+<dc:creator>Gómez Rioja, Rubén</dc:creator>
+<dc:creator>Alsina Kirchner, María Jesús</dc:creator>
+<dc:creator>Llopis Díaz, María Antonia</dc:creator>
+<dc:creator>Álvarez Funes, Virtudes</dc:creator>
+<dc:creator>Martínez Bru, Cecilia</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La hemólisis es un efecto preanalítico evitable en la mayoría de los casos. Su aparición se debe a la técnica de extracción empleada y a las condiciones de transporte y preparación de las muestras. Su presencia produce error en muchas determinaciones habituales en química clínica, en muchos casos por la mezcla del contenido intraeritrocitario y en algún caso por el efecto interferente de componentes del hematíe, como la hemoglobina. En los laboratorios es necesario detectar y cuantificar la hemólisis en las muestras de forma estandarizada. La mayoría de los analizadores de bioquímica actuales incorporan sistemas de cuantificación espectrofotométrica de la hemoglobina. La influencia de la hemólisis en una magnitud depende de la metodología empleada, por lo que se debería solicitar a los fabricantes de equipos la realización de estudios y una información detallada sobre la influencia de la hemólisis en sus determinaciones, para que cada laboratorio pueda establecer el grado de hemólisis que supone error significativo para una magnitud, de acuerdo con sus especificaciones de calidad (AU)</dc:description>
+<dc:source>Rev. lab. clín;2(4): 185-195, oct.-dic. 2009. tab, ilus</dc:source>
+<dc:identifier>ibc-85187</dc:identifier>
+<dc:title xml:lang="es">Hemólisis en las muestras para diagnóstico</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d32650^s22074</dc:subject>
+<dc:subject>^d6613^s22021</dc:subject>
+<dc:subject>^d32650^s22066</dc:subject>
+<dc:subject>^d13436^s22074</dc:subject>
+<dc:subject>^d12223</dc:subject>
+<dc:subject>^d13436^s22066</dc:subject>
+<dc:subject>^d12436</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d32650^s22045</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200912</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-154697</identifier>
+<setSpec>1132-239X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Evidence on soccer-specific stadiums and attendance: The Major League Soccer case</dc:title>
+<dc:description xml:lang="en">The aim of this study is to test the influence of soccer-specific stadiums on attendance figures in the Major League Soccer. For that purpose, we use a regression model that analyzes all regular season games from 2004 to 2014 (2538 observations). The logarithm of attendance is the dependent variable, while the type of stadium, uncertainty of outcome, performance of teams, weather conditions, year, month and game day are the independent variables. The results show a significant positive influence of the soccer-specific stadiums and the performance of teams (AU)</dc:description>
+<dc:creator>Gómez González, Carlos</dc:creator>
+<dc:creator>Corral, Julio del</dc:creator>
+<dc:creator>Sánchez Sánchez, Javier</dc:creator>
+<dc:creator>García Unanue, Jorge</dc:creator>
+<dc:creator>Ubago Guisado, Esther</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">El objetivo de este artículo es examinar la influencia de los estadios específicos de fútbol en los números de asistencia de la Major League Soccer. Para ello, se ha estimado un modelo de regresión que analiza todos los partidos de la liga regular desde 2004 hasta 2014 (2,538 observaciones). El logaritmo de la asistencia es la variable dependiente mientras que el tipo de estadio, incertidumbre del resultado, rendimiento de los equipos, condiciones meteorológicas, año, mes y día de partido representan las variables independientes. Los resultados muestran una influencia significativamente positiva de los estadios específicos de fútbol y del rendimiento de los equipos (AU)</dc:description>
+<dc:source>Rev. psicol. deport;25(supl.1): 19-22, 2016. tab</dc:source>
+<dc:identifier>ibc-154697</dc:identifier>
+<dc:title xml:lang="es">Evidencia sobre los estadios de fútbol específicos y la asistencia: el caso de la MLS</dc:title>
+<dc:subject>^d12034^s22031</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3006</dc:subject>
+<dc:subject>^d52940^s22083</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d52940^s22031</dc:subject>
+<dc:subject>^d1112^s22048</dc:subject>
+<dc:subject>^d1112^s22049</dc:subject>
+<dc:subject>^d13298^s22048</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d13298^s22011</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:subject>^d1112^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201600</dc:date>
+</metadata>
+</record>
+</ibecs-document>

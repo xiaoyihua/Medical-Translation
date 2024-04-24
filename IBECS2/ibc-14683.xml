@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-14683</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Sample behaviour of the discriminant analisys coeficients</dc:title>
+<dc:description xml:lang="en">In applied research, the relevance of the variables introduced in a Discriminant Analysis is assigned through a heuristic evaluation based on the standardized coefficients and structure coefficients of the discriminant functions. In this context, it is a basic matter knowing which of both coefficients presents a better relative efficiency and, consequently, which one is safer when making decisions about the contribution of the empirical variables. We analyzed the bias and the stability of those coefficients. The relative efficiency of the coefficients results from joining these two indexes, demonstrating that the structure coefficients show a better sampling behavior than the standardized ones (AU)</dc:description>
+<dc:creator>Hernández Cabrera, Juan</dc:creator>
+<dc:creator>Ramírez Santana, Gustavo</dc:creator>
+<dc:creator>Hess Medler, Stephany</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En la investigación aplicada, la relevancia de las variables introducidas en un Análisis Discriminante, se asigna a través de una evaluación heurística de los coeficientes típicos y de estructura de las funciones discriminantes. En este contexto, es una cuestión fundamental conocer cuál de los dos coeficientes presenta una mejor eficiencia relativa y, en consecuencia, cuál es más seguro a la hora de tomar decisiones sobre la contribución de las variables empíricas. En el presente trabajo se analiza el sesgo y la estabilidad de los coeficientes típicos y de estructura, asociados a las funciones discriminantes. De la combinación de estos dos índices resulta la eficiencia relativa de los coeficientes, desmostrándose que los coeficientes de estructura presentan un mejor comportamiento muestral que los típicos, siendo, por lo tanto los primeros los que deben ser utilizados a la hora de interpretar el espacio discriminante (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);12(4): 695-700, nov. 2000. tab</dc:source>
+<dc:identifier>ibc-14683</dc:identifier>
+<dc:title xml:lang="es">Comportamiento muestral de los coeficientes del análisis discriminante</dc:title>
+<dc:subject>^d24609</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d28613</dc:subject>
+<dc:subject>^d28624</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24872</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200011</dc:date>
+</metadata>
+</record>
+</ibecs-document>

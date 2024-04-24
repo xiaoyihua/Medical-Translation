@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-15339</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Workload analysis and prediction in a unitary dose drug distribution system within a general hospital</dc:title>
+<dc:creator>Climente Martí, M</dc:creator>
+<dc:creator>Ordovás Baines, J. P</dc:creator>
+<dc:creator>Pérez Peiró, C</dc:creator>
+<dc:creator>Juan Colomer, J</dc:creator>
+<dc:creator>Borrás Almenar, C</dc:creator>
+<dc:creator>Pérez Ruixo, J. J</dc:creator>
+<dc:creator>Jiménez Torres, N. V</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Arán Ediciones, S.A.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Caracterizar la temporalidad de la carga de trabajo mensual en un sistema de dispensación individualizada de medicamentos en dosis unitarias y desarrollar un modelo matemático para su predicción. Material y métodos: Tipo de hospital: hospital general universitario de 573 camas. Extracción de datos: estadísticas mensuales de dispensación de medicamentos por el sistema de dosis unitarias. Periodo de estudio: enero 1994 - diciembre 1999. Grupos: los datos disponibles hasta diciembre de 1998 se utilizan para identificar el modelo estadístico (grupo de identificación) y los datos de 1999 se utilizan para validar el mismo (grupo de validación). Modelos estadísticos: la variable dependiente es el número de dosis unitarias dispensadas/mes. El modelo de regresión lineal múltiple utiliza como variables independientes, el tiempo transcurrido desde el inicio del estudio (años), el mes y el año en que se efectúan las dispensaciones. El desarrollo del modelo ARIMA se realiza mediante la metodología de Box-Jenkins. Evaluación de la capacidad predictiva: media del error relativo de predicción (exac titud) y raíz cuadrada de la media del error cuadrático de predicción (precisión) de las predicciones realizadas durante 1999 mediante el modelo ARIMA desarrollado. Resultados : Durante el periodo de tiempo estudiado, se dispensaron mensualmente 98.760 ñ 9.074 dosis unitarias. En el modelo de regresión lineal desarrollado (r2 = 0,78) se observa una tendencia lineal anual que incrementa en 3.392 (IC 95 por ciento: 2.609 a 4.175) el número de dosis unitarias dispensadas/mes. Asimismo, respecto al mes de enero, las dispensaciones del mes de marzo se incrementan en 6.783 (IC95 por ciento: 138 a 13.429) unidades y, las dispensaciones de los meses de agosto y septiembre disminuyen en 17.762 (IC 95 por ciento: 11.386 a 24.137) y 11.115 (IC 95 por ciento: 4.740 a 17.490) unidades, respectivamente. El modelo desarrollado puede ser empleado con fines predictivos, ya que posee la exactitud, -3,06 por ciento (IC 95 por ciento: 0,91 a -5,20), y precisión, 3,37 por ciento (inferior al 15 por ciento) adecuadas. Conclusión: La disponibilidad de un modelo matemático para predecir la carga de trabajo en el sistema de dispensación en dosis unitarias es una herramienta eficaz para planificar la adecuación de recursos humanos en el Área de Dispensación del Servicio de Farmacia (AU)</dc:description>
+<dc:source>Farm Hosp;26(3): 147-153, mayo 2002. graf, tab</dc:source>
+<dc:identifier>ibc-15339</dc:identifier>
+<dc:title xml:lang="es">Análisis y predicción de cargas de trabajo en un sistema de dispensación de medicamentos por dosis unitarias en un hospital general</dc:title>
+<dc:subject>^d29745</dc:subject>
+<dc:subject>^d4364</dc:subject>
+<dc:subject>^d8676^s22048</dc:subject>
+<dc:subject>^d8676^s22049</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d34003</dc:subject>
+<dc:subject>^d4422^s22018</dc:subject>
+<dc:subject>^d6940^s22018</dc:subject>
+<dc:subject>^d6900</dc:subject>
+<dc:subject>^d28586</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200205</dc:date>
+</metadata>
+</record>
+</ibecs-document>

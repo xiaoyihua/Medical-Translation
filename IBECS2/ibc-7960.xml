@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-7960</identifier>
+<setSpec>0034-7973</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">New colorimetric procedure of determining adenosine deaminase in body fluids</dc:title>
+<dc:creator>Bengoa, A</dc:creator>
+<dc:creator>Sanz, M. P</dc:creator>
+<dc:creator>Borque, L</dc:creator>
+<dc:creator>Rus, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Editorial Siglo, S.L.</dc:publisher>
+<dc:description xml:lang="es">Se ha evaluado un nuevo reactivo para la determinación del enzima adenosina desaminasa (ADA) en los analizadores Cobas Mira S (Roche) y Synchron CX7 (Beckman), utilizando un método cinético colorimétrico basado en la cuantificación de inosina. La precisión expresada como coeficientes de variación fue menor del 3 por ciento (intradía) y menor del 2.7 por ciento (interdía) para valores de ADA entre 15.4 y 112 U/L. El método resultó lineal hasta valores de 395 U/L y presentó un límite de detección menor de 0.5 U/L. No se han observado interferencias debidas a bilirrubina (hasta 25 mg/dL), ni lípidos (Ivelip® hasta 2 por ciento), pero sí se observan aumentos significativos en la actividad de ADA debidos a hemolisis. Al comparar este método con un método comercial basado en la detección del amoniaco liberado, se obtuvieron coeficientes de correlación superiores a 0.97 en todos los casos. En conclusión, el nuevo procedimiento evaluado presenta una buena practicabilidad junto con una precisión y sensibilidad satisfactorias; por lo que resulta adecuado para las determinaciones urgentes y de rutina de adenosina desaminasa en fluídos biológicos (AU)</dc:description>
+<dc:source>Rev. diagn. biol;50(2): 74-82, abr. 2001. tab, graf</dc:source>
+<dc:identifier>ibc-7960</dc:identifier>
+<dc:title xml:lang="es">Nuevo procedimiento colorimétrico para la determinación de adenosina desaminasa en líquidos biológicos</dc:title>
+<dc:subject>^d7694</dc:subject>
+<dc:subject>^d14797^s22016</dc:subject>
+<dc:subject>^d11425^s22016</dc:subject>
+<dc:subject>^d14797^s22026</dc:subject>
+<dc:subject>^d11425^s22026</dc:subject>
+<dc:subject>^d32358</dc:subject>
+<dc:subject>^d32358^s22002</dc:subject>
+<dc:subject>^d7694^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d3155^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200104</dc:date>
+</metadata>
+</record>
+</ibecs-document>

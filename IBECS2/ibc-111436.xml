@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-111436</identifier>
+<setSpec>1132-9572</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">No disponible</dc:title>
+<dc:description xml:lang="en">There is currently a great interest in the use of procedures based on artificial intelligence and in biomedical signal processing as helpful methods for clinical choice making, mainly in the diagnosis and therapeutical field. Some of these expert systems are logistic regression, family trees, linear discriminant analysis and neural networks. Neural networks show great application options in the prediction field. Their main limitation is their complexity when being designed. They have been widely used in the sleep respiratory disorders field, both for diagnosis and for signal recognition, and they greatly contribute to key technological progress achieved in CPAP design (AU)</dc:description>
+<dc:creator>Campo, Félix del</dc:creator>
+<dc:creator>Álvarez, Daniel</dc:creator>
+<dc:creator>Marcos, J. Víctor</dc:creator>
+<dc:creator>Zamarrón, Carlos</dc:creator>
+<dc:creator>Hornero, Roberto</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Existe en la actualidad un gran interés en la utilización de procedimientos basados en la inteligencia artificial y en el análisis de las señales biomédicas como métodos de ayuda en la toma de decisiones clínicas, fundamentalmente en el área diagnóstica y terapéutica. Dentro de estos sistemas expertos, se incluye la utilización de regresión logística, árboles genealógicos, análisis discriminante y las redes neuronales. Las redes neuronales presentan grandes posibilidades de aplicación en el campo de la predicción. Su limitación principal es su complejidad en el momento de su diseño. En el campo de los trastornos respiratorios del sueño han sido ampliamente utilizadas tanto en el diagnóstico como en en el reconocimiento de señales, y destaca su gran aporte a los importantes avances tecnológicos acaecidos en el diseño de las CPAP (AU)</dc:description>
+<dc:source>Vigilia sueño;25(1): 34-43, ene. 2013.</dc:source>
+<dc:identifier>ibc-111436</dc:identifier>
+<dc:title xml:lang="es">Aplicaciones clínicas de las redes neuronales en el síndrome de apnea hipopnea del sueño</dc:title>
+<dc:subject>^d12542^s22032</dc:subject>
+<dc:subject>^d13273^s22012</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12542^s22016</dc:subject>
+<dc:subject>^d53670</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22729</dc:subject>
+<dc:subject>^d12542^s22012</dc:subject>
+<dc:subject>^d13273^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201301</dc:date>
+</metadata>
+</record>
+</ibecs-document>

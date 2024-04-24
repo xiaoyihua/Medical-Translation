@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-157474</identifier>
+<setSpec>2253-654X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Identification of low variability textural features for heterogeneity quantification of 18F-FDG PET/CT imaging</dc:title>
+<dc:description xml:lang="en">Objective. To identify those textural features that are insensitive to both technical and biological factors in order to standardise heterogeneity studies on 18F-FDG PET imaging. Materials and methods. Two different studies were performed. First, nineteen series from a cylindrical phantom filled with different 18F-FDG activity concentration were acquired and reconstructed using three different protocols. Seventy-two texture features were calculated inside a circular region of interest. The variability of each feature was obtained. Second, the data for 15 patients showing non-pathological liver were acquired. Anatomical and physiological features such as patient's weight, height, body mass index, metabolic active volume, blood glucose level, SUV and SUV standard deviation were also recorded. A liver covering region of interest was delineated and low variability textural features calculated in each patient. Finally, a multivariate Spearman's correlation analysis between biological factors and texture features was performed. Results. Only eight texture features analysed show small variability (&lt;5%) with activity concentration and reconstruction protocol making them suitable for heterogeneity quantification. On the other hand, there is a high statistically significant correlation between MAV and entropy (P&lt;0.05). Entropy feature is, indeed, correlated (P&lt;0.05) with all patient parameters, except body mass index. Conclusions. The textural features that are correlated with neither technical nor biological factors are run percentage, short-zone emphasis and intensity, making them suitable for quantifying functional changes or classifying patients. Other textural features are correlated with technical and biological factors and are, therefore, a source of errors if used for this purpose (AU)</dc:description>
+<dc:creator>Tobalina-Larrea, I</dc:creator>
+<dc:creator>Garcia-Fidalgo, MA</dc:creator>
+<dc:creator>Cortes-Rodicio, J</dc:creator>
+<dc:creator>Sanchez-Merino, G</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objetivo. Identificar las texturas que son independientes de los factores técnicos y biológicos en imagen PET con 18F-FDG con el fin de estandarizar la heterogeneidad en imagen PET. Material y métodos. Se realizaron 2 estudios. En primer lugar, se estudió la variabilidad de 72 parámetros texturales en una región de interés circular en el interior de un maniquí cilíndrico, con 19 concentraciones de actividad y 3 protocolos de reconstrucción diferentes. A continuación, se estudió una población de 15 pacientes sin captaciones hepáticas. De cada paciente se registraron el peso, altura, índice de masa corporal, volumen metabólico activo, niveles de glucosa en sangre, SUV y desviación estándar de SUV. Se obtuvieron las texturas de baja variabilidad de una región de interés centrada en hígado. Finalmente, se realizó un análisis de correlación multivariado de Spearman entre los factores biológicos y los parámetros texturales. Resultados. Solo 8 parámetros texturales muestran baja variabilidad (&lt;5%) con la concentración de actividad y el protocolo de reconstrucción, haciéndolos adecuados para cuantificar la heterogeneidad de la región captante. Por otro lado, existe una correlación estadísticamente significativa entre el volumen metabólico activo y la entropía (p&lt;0,05). La entropía está, además, correlacionada con los demás parámetros, excepto el índice de masa corporal. Conclusiones. Las únicas texturas que no están correlacionadas con ninguno de los parámetros anatómicos o fisiológicos son run percentage, short-zone emphasis e intensidad, siendo estas las más adecuadas para realizar análisis cuantitativos de heterogeneidades mediante parámetros de textura. Otras texturas están relacionadas con factores técnicos y biológicos y, por tanto, constituyen una fuente de errores cuando se utilizan para este fin (AU)</dc:description>
+<dc:source>Rev. esp. med. nucl. imagen mol. (Ed. impr.);35(6): 379-384, nov.-dic. 2016. tab, graf</dc:source>
+<dc:identifier>ibc-157474</dc:identifier>
+<dc:title xml:lang="es">Identificación de texturas de baja variabilidad para la cuantificación de la heterogeneidad en imagen 18F-FDG PET/TC</dc:title>
+<dc:subject>^d28620</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d27977</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d32225^s22022</dc:subject>
+<dc:subject>^d24542</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d33181</dc:subject>
+<dc:subject>^d38793^s22039</dc:subject>
+<dc:subject>^d23924^s22022</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d38793^s22074</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d33478^s22000</dc:subject>
+<dc:subject>^d33478^s22022</dc:subject>
+<dc:subject>^d23924^s22002</dc:subject>
+<dc:subject>^d38793^s22045</dc:subject>
+<dc:subject>^d33478^s22002</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201612</dc:date>
+</metadata>
+</record>
+</ibecs-document>

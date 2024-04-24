@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-144846</identifier>
+<setSpec>1575-0922</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Accuracy of three hemoglobin A1c point-of-care systems for glucose monitoring in patients with diabetes mellitus</dc:title>
+<dc:description xml:lang="en">Objectives: Use of hemoglobin A1c point-of-care devices in physician offices provides immediate results and reduces inconveniences for the patients. We compared the analytical performances of 3 point-of-care HbA1c analyzers to high pressure liquid chromatography (HPLC). Material and methods: We preselected a pool of 40 EDTA-preserved whole blood samples from our laboratory with HbA1c results obtained by HPLC (mean 6.6% [49 mmol/mol] and range: 4.6-9.9% [27-87 mmol/mol]). Aliquots of theses samples were tested by Afinion AS100, DCA Vantage and In2it point-of-care systems. According the Clinical Laboratory Standards Institute EP-09 protocol we determined linearity (linear regression and correlation coefficient between point-of-care and reference methods), bias (Bland-Altman analysis) and coefficient of variation (%). We used the acceptability criteria endorsed by the National Glycohemoglobin Standardization Program. Results: The calculated correlation coefficients (r) were 0.98, 0.98 and 0.83 for Afinion AS100, DCA Vantage and In2it systems, respectively. The 95% confidence interval of the error between point-of-care systems and the reference method was -0.41% and +0.34% (p =.22) for Afinion AS100, -0.62% and +0.05% (p=.57) for DCA Vantage, and -1.15% and +1.26% (p &lt; .001) for the In2it. The coefficients of variation for Afinion AS100, DCA Vantage and In2it systems were 1.80, 3.74 and 7.14%, respectively. Conclusion: Only the Afinion AS100 point-of-care system met all NGSP performance criteria (AU)</dc:description>
+<dc:creator>Molina, Juan</dc:creator>
+<dc:creator>Ena, Javier</dc:creator>
+<dc:creator>Torregrosa, María-Eugenia</dc:creator>
+<dc:creator>Argente, Carlos R</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: El uso de sistemas de determinación rápida de HbA1c proporciona resultados inmediatos y reduce inconvenientes para los pacientes. Hemos comparado las características de tres sistemas de diagnóstico rápido de HbA1c respecto al método de referencia constituido por la cromatografía líquida de alta resolución (HPLC). Material y métodos: Preseleccionamos un total de 40 muestras de sangre conservadas en EDTA cuyos valores de HbA1c (media: 6,6% [49 mmol/mol]; rango: 4,6 a 9,9% [27-87 mmol/mol]) habían sido medidos por el método de referencia HA 8160 (Menarini Diagnostics, Akray Factory Inc. Koji, Konan-Cho, Koka Shi, Shiga, Japón). Las alícuotas de estas muestras fueron testadas con los sistemas rápidos Afinion AS100 (Axis-Shield, Oslo, Noruega), DCA Vantage System (Siemens Healthcare Diagnostics Inc. Tarrytown, NY, EE. UU.) e In2it (Bio-Rad Hercules, CA. EE. UU.). Según las recomendaciones del Clinical Laboratory Standards Institute determinamos linealidad (regresión y coeficiente de correlación), sesgo (análisis de Bland-Altman) y coeficiente variación (%).Utilizamos los criterios de aceptabilidad publicados por el National Glycohemoglobin Standardization Program. Resultados: Los coeficientes de correlación fueron 0,98, 0,98 y 0,83 para Afinion AS100, DCA Vantage System e In2it, respectivamente. El intervalo de confianza al 95% del error (sesgo) fue en Afinion AS100 -0,41% y +0,34% (p = 0,22), en DCA Vantage System -0,62% y +0,05% (p = 0,57) y en In2it -1,15% y +1,26% (p&lt;0,001). El coeficiente de variación intraensayo fue 1,80, 3,74 y 7,14% para Afinion AS100, DCA Vantage System e In2it, respectivamente. Conclusiones: Solo el sistema Afinion AS100 cumplió los 3 requerimientos de aceptabilidad (AU)</dc:description>
+<dc:source>Endocrinol Nutr;62(10): 478-484, dic. 2015. ilus, tab</dc:source>
+<dc:identifier>ibc-144846</dc:identifier>
+<dc:title xml:lang="es">Evaluación de tres sistemas de determinación rápida de hemoglobina A1c para monitorización del control glucémico en pacientes con diabetes mellitus</dc:title>
+<dc:subject>^d37656^s22031</dc:subject>
+<dc:subject>^d7124^s22054</dc:subject>
+<dc:subject>^d22190^s22002</dc:subject>
+<dc:subject>^d51875^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3942^s22032</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201510</dc:date>
+</metadata>
+</record>
+</ibecs-document>

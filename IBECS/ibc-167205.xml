@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-167205</identifier>
+<setSpec>1699-258X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Impact of genetic variants of ATP binding cassette B1, AICAR transformylase/IMP cyclohydrolase, folyl-polyglutamatesynthetase, and methylenetetrahydrofolatereductase on methotrexate toxicity</dc:title>
+<dc:description xml:lang="en">Objective. To analyze the effect of single nucleotide polymorphisms (SNPs) with well-known functional impact of methylenetetrahydrofolatereductase (MTHFR; rs1801131 and rs1801133), the membrane transporter ABCB1 (rs1045642), the AICAR transformylase/IMP cyclohydrolase (ATIC; rs2372536) and folyl-polyglutamatesynthetase (FPGS; rs1544105), on liver and bone marrow toxicity of methotrexate (MTX). Patients and methods. We analyzed 1415 visits from 350 patients of the PEARL (Princesa Early Arthritis Register Longitudinal) study: (732 with MTX, 683 without MTX). The different SNPs were genotyped using specific TaqMan probes (Applied Biosystems). Multivariate analyzes were performed using generalized linear models in which the dependent variables were the levels of serum alanine aminotransferase (liver toxicity), leukocytes, platelets or hemoglobin (hematologic toxicity) and adjusted for clinical variables (disease activity, etc.), analytical (renal function, etc.), sociodemographic (age, sex, etc.) and genetic variants of MTHFR, ABCB1, ATIC and FPGS. The effect of these variables on the MTX doses prescribed throughout follow-up was also analyzed through multivariate analysis nested by visit and patient. Results. When taking MTX, those patients carrying the CC genotype of rs1045642 in ABCB1 showed significantly higher GPT levels (7.1±2.0 U/L; P&lt;.001). Carrying at least one G allele of rs1544105 in FPGS was associated with lower leukocyte (&amp;#8722;0.67±0.32; 0.038), hemoglobin (&amp;#8722;0.34±0.11g/dL; P=.002), and platelet (&amp;#8722;11.8±4.7; P=.012) levels. The presence of the G allele of rs1544105 in FPGS, and the T allele of rs1801133 in MTHFR, was significantly associated with the use of lower doses of MTX. Discussion. Our data suggest that genotyping functional variants in FGPS and MTHFR enzymes and the transporter ABCB1 could help to identify patients with increased risk of MTX toxicity (AU)</dc:description>
+<dc:creator>Sala-Icardo, Luis</dc:creator>
+<dc:creator>González-Álvaro, Isidoro</dc:creator>
+<dc:creator>García Lorenzo, Elena</dc:creator>
+<dc:creator>Lamana, Amalia</dc:creator>
+<dc:creator>García-Vicuña, Rosario</dc:creator>
+<dc:creator>Ortiz, Ana María</dc:creator>
+<dc:creator>Moreno Fresneda, Pablo</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Analizar el efecto de polimorfismos de nucleótido único (SNPs) de la metilen-tetrahidrofolatorreductasa (MTHFR; rs1801131 y rs1801133), el transportador de membrana que une ATP B1 (ABCB1; rs1045642), la aicartransformilasa/IMP ciclohidrolasa (ATIC; rs2372536) y la folilpoliglutamatosintetasa (FPGS; rs1544105) en la toxicidad hepática y medular de metotrexato (MTX). Pacientes y métodos. Se analizaron 1.415 visitas (732 con MTX, 683 sin MTX) de 350 pacientes del Princesa Early Arthritis Register Longytudinal study. El genotipo de los diferentes SNP se determinó mediante sondas TaqMan (Applied Biosystems). Se realizaron análisis multivariables mediante modelos lineales generalizados en los que las variables dependientes fueron los niveles séricos de transaminasa glutámico-pirúvica (toxicidad hepática), leucocitos, plaquetas o hemoglobina (toxicidad hematológica) y se ajustaron por variables clínicas (actividad de la enfermedad, etc.), analíticas (función renal, etc.), sociodemográficas (edad, sexo, etc.) y las variantes genéticas de MTHFR, ABCB1, ATIC y FPGS. También se analizaron las variables que influyeron en las dosis de MTX administradas a lo largo del seguimiento. Resultados. Cuando recibían MTX los portadores del genotipo CC del SNP rs1045642 de ABCB1 presentaron niveles significativamente mayores de GPT (7,1±2,0U/l; p&lt;0,001). Los portadores de al menos un alelo G de rs1544105 en FPGS presentaron niveles significativamente menores de leucocitos (&amp;#8722;0,67±0,32; 0,038), hemoglobina (&amp;#8722;0,34±0,11g/dl; p=0,002) y de plaquetas (&amp;#8722;11,8±4,7; p=0,012). La presencia del alelo G de rs1544105 (FPGS) y T de rs1801133 (MTHFR) se asoció, de forma aditiva y significativa, al uso de menores dosis de MTX. Discusión. Nuestros datos sugieren que variantes genéticas de las enzimas FGPS y MTHFR, y del transportador ABCB1, podrían ayudar a detectar pacientes con mayor riesgo de toxicidad por MTX (AU)</dc:description>
+<dc:source>Reumatol. clín. (Barc.);13(6): 318-325, nov.-dic. 2017. tab, ilus</dc:source>
+<dc:identifier>ibc-167205</dc:identifier>
+<dc:title xml:lang="es">Impacto de variantes genéticas del transportador de membrana que une ATP B1, la aicar transformilasa/IMP ciclohidrolasa, la folilpoliglutamatosintetasa y la metilen-tetrahidrofolatorreductasa en la toxicidad de metotrexato</dc:title>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d38138^s22033</dc:subject>
+<dc:subject>^d28169^s22000</dc:subject>
+<dc:subject>^d34583^s22033</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d34583^s22021</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d55317^s22033</dc:subject>
+<dc:subject>^d24769</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d1178^s22057</dc:subject>
+<dc:subject>^d1178^s22033</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201712</dc:date>
+</metadata>
+</record>
+</ibecs-document>

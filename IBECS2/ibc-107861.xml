@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-107861</identifier>
+<setSpec>1699-8855</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">A graphical method for analyzing the cost of a diagnostic test, subject to the sensitivity and specificity of the test</dc:title>
+<dc:description xml:lang="en">Objective. We present a graphical method for analyzing the cost related to false positive (FP) and false negative (FN) results of diagnostic tests. Material and methods. We created a function relating cost to the sensitivity (S) and specificity (E) of the diagnostic test. Isocost straight lines were obtained, the gradient of which represents the ratio of false positive cost/false negative cost. The various diagnostic tests are plotted in the ROC space as the point (1-E, S). Results. Isocost straight lines allowed us to see if the cost of a new test is lower or the same as previous tests. Conclusions. Graphical analysis of the cost of a diagnostic test is helpful in deciding whether or not to introduce new diagnostic tests(AU)</dc:description>
+<dc:creator>Ruiz-Cotorruelo, Vicente</dc:creator>
+<dc:creator>Morcillo-Ródenas, Miguel Ángel</dc:creator>
+<dc:creator>Ruiz-Maciá, José Antonio</dc:creator>
+<dc:creator>Bailén-Ruiz, Cristina</dc:creator>
+<dc:creator>Andreu-Sober, Luis</dc:creator>
+<dc:creator>Garrido-Aracil, Eliseo</dc:creator>
+<dc:creator>Sola-Pérez, Joaquín</dc:creator>
+<dc:creator>Ferri-Ñiguez, Belén</dc:creator>
+<dc:creator>Navarro-Rodriguez, José Manuel</dc:creator>
+<dc:creator>Martinez-Barba, Enrique</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Presentar un método de análisis gráfico de costes ocasionados por los falsos positivos (FP) y falsos negativos (FN) de una prueba diagnóstica. Material y métodos. Construimos una función de costes ligada a la sensibilidad (S) y a la especificidad (E) de la prueba diagnóstica. A partir de esta función obtenemos líneas de isocoste, cuya pendiente es la relación coste FP/coste FN. Representamos cada prueba diagnóstica en el espacio ROC como el punto (1-E, S). Resultados. Las líneas de isocoste permiten visualizar si el gasto asociado a FP y FN de una nueva prueba diagnóstica es menor o igual que el de la antigua. Conclusiones. El análisis gráfico de la función de costes de una prueba diagnóstica ayuda a decidir su introducción o su rechazo(AU)</dc:description>
+<dc:source>Rev. esp. patol;45(4): 224-229, oct.-dic.2012. ilus, tab</dc:source>
+<dc:identifier>ibc-107861</dc:identifier>
+<dc:title xml:lang="es">Un método gráfico de análisis de costes asociados a los falsos resultados de una prueba diagnóstica</dc:title>
+<dc:subject>^d33556^s22018</dc:subject>
+<dc:subject>^d3376^s22045</dc:subject>
+<dc:subject>^d5289</dc:subject>
+<dc:subject>^d3981^s22018</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d^s22018</dc:subject>
+<dc:subject>^d5290</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d3376^s22049</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201212</dc:date>
+</metadata>
+</record>
+</ibecs-document>

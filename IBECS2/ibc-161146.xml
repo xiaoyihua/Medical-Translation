@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-161146</identifier>
+<setSpec>0212-1611</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Obesity and risk of myocardial infarction in a sample of European males. Waist to-hip-ratio presents information bias of the real risk of abdominal obesity</dc:title>
+<dc:description xml:lang="en">Background: Obesity is a coronary risk factor associated to myocardial infarction although waist to-hip-ratio has shown higher predictive power. Objective: The aim of this study was a Receiver Operating Characteristic anthropometric analysis in infarcted males to identify the strength of association for simple measurements, obesity and indicators such as, waist to-hip-ratios, waist to-height-ratios and conicity index. Methods: Case-control study of myocardial infarction in European males. One hundred and twelve cases and 112 controls aged 30-74 years were enrolled. We measured weight, height, waist circumference, umbilical waist circumference and hip circumference. We calculated various anthropometric indicators. We obtained the areas under the ROC curves, the odds ratio and correlations for measurements and anthropometric indicators. Results: Body mass index [AUC: 0.686, 95% CI (0.616-0.755); OR: 3.3], waist circumference [AUC: 0.734, 95% CI (0.668-0.800); OR: 5.7], height [AUC: 0.623, 95% CI (0.550-0.696); OR: 2.3], hip circumference [AUC: 0.555, 95% CI (0.479-0.631); OR: 1], waist to-hip-ratio [AUC: 0.796, 95% CI (0.737-0.855); OR: 9.9], umbilical waist to-hip-ratio [AUC: 0.830, 95% CI (0.729-0.847); OR: 5.5], umbilical waist to-height-ratio [AUC: 0.788, 95% CI (0.729-0.847); OR: 7.5], conicity index [AUC: 0.795; 95% CI (0.738-0.853); OR: 9]. The correlations for waist to-height-ratios and conicity index were strong (all r &amp;#8805; 0.85; p &lt; 0.001). Conclusions: Waist and height are measurements of associated independent risk. Hip circumference does no show discriminatory power. Obesity and waist-ratios are associated to myocardial infarction with different strength. Between other indicators, general obesity is more weakly associated. Waist to-hip-ratios present the best ROC curves but it occur information bias of their predictive power of risk. Umbilical waist to-height-ratio and conicity index present high discriminatory power and the best anthropometric risk correlations that support its use for the identification of obesity as risk factor associated to myocardial infarction and in all strategies for coronary health promotion (AU)</dc:description>
+<dc:creator>Cabañas Armesilla, María Dolores</dc:creator>
+<dc:creator>Gómez Barrado, José Javier</dc:creator>
+<dc:creator>Barca Durán, Francisco Javier</dc:creator>
+<dc:creator>Martín Castellanos, Pedro</dc:creator>
+<dc:creator>Martín-Castellanos, Ángel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: la obesidad es un factor de riesgo asociado al infarto de miocardio aunque el índice cintura-cadera ha mostrado mayor poder predictivo. Objetivo: análisis antropométrico Receiver Operating Characteristic (ROC) en infartados para identificar la fuerza discriminatoria de mediciones, obesidad, ratios cintura-cadera, ratios cintura-talla e índice de conicidad. Métodos: estudio caso-control de infarto miocárdico en varones europeos. Ciento doce casos/112 controles de 30-74 años fueron reclutados. Se midieron: peso, talla, cintura, cintura umbilical y cadera. Se obtuvieron las áreas bajo la curva (ABC), las odds ratio y correlaciones de medidas e indicadores. Resultados: IMC [ABC: 0,686 (0,616-0,755); OR: 3,3], cintura [ABC: 0,734 (0,668-0,800); OR: 5,7], talla [ABC: 0,623 (0,550-0,696); OR: 2,3], cadera [ABC: 0,555 (0,479-0,631); OR: 1], cintura-cadera [ABC: 0,796 (0,737-0,855); OR: 9,9]; cintura umbilical-cadera [ABC:0,830 (0,775-0,885); OR: 5,5], cintura umbilical-talla [ABC: 0,788 (0,729-0,847); OR: 7,5]; conicidad [ABC: 0,795 (0,738-0,853); OR:9]. Cintura-talla y conicidad presentaron altas correlaciones de riesgo (todas r &amp;#8805; 0,85; p &lt; 0,001). Conclusiones: cintura y talla son medidas con riesgo independiente asociado. La circunferencia de cadera no es discriminatoria. Obesidad e índices de cintura están asociados al infarto con diferente fuerza. La obesidad presenta una asociación débil. Los índices cintura-cadera presentan las mejores curvas ROC, pero sesgadas en su poder predictivo de riesgo. Cintura umbilical-talla y conicidad presentan alto poder discriminatorio y mejores correlaciones antropométricas de riesgo, por lo que se recomienda su uso en la identificación de la obesidad como factor asociado al infarto de miocardio y en todas las estrategias de promoción de la salud coronaria (AU)</dc:description>
+<dc:source>Nutr Hosp;34(1): 88-95, ene.-feb. 2017. tab</dc:source>
+<dc:identifier>ibc-161146</dc:identifier>
+<dc:title xml:lang="es">Obesidad y riesgo de infarto de miocardio en una muestra de varones europeos. El índice cintura-cadera sesga el riesgo real de la obesidad abdominal</dc:title>
+<dc:subject>^d9951^s22012</dc:subject>
+<dc:subject>^d53563^s22080</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d28614</dc:subject>
+<dc:subject>^d27937^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d36032^s22080</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d38802^s22083</dc:subject>
+<dc:subject>^d9395^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201702</dc:date>
+</metadata>
+</record>
+</ibecs-document>

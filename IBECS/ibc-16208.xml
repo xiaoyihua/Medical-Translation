@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-16208</identifier>
+<setSpec>0001-6519</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Intelligent system to perform a diagnostic protocol for ganglionar invasion in laryngeal carcinoma</dc:title>
+<dc:description xml:lang="en">Laryngeal carcinoma is the most frequent malignant tumour in head and neck. Node invasion is known to be one of the most important prognostic factors. The aim of this study has been to design an intelligent system to perform a diagnostic algorithm of metastasic neck nodes. 122 clinical reports of patients diagnosed of laryngeal carcinoma in our department have been reviewed. The compiled data have been: tumor site, T stage, N stage (clinical, after CT scan and post-surgery). The method used to design the intelligent system has been the ID3, which is able to generate a minimal decision tree. Palpation has been the variable that has given more information about node invasion. CT has proved to be more efficient in supraglottic tumours. ID3 method has shown to be useful in performing diagnostic algorithms, specially when the number of cases and diagnostic tests are high (AU)</dc:description>
+<dc:publisher>Sanidad y Ediciones (SANED, S.L.)</dc:publisher>
+<dc:description xml:lang="es">El cáncer de laringe es el tumor maligno de cabeza y cuello más frecuente. La invasión ganglionar es uno de los factores que más influye en el pronóstico de esta patología. El objetivo de este trabajo ha sido diseñar un sistema inteligente capaz de elaborar un protocolo diagnóstico de adenopatías metastásicas. Se han revisado 122 historias clínicas de pacientes diagnosticados de cáncer de laringe en nuestro servicio. Los datos recopilados han sido la localización tumoral, el estadio T y el estadio N (clínico, por TC y postcirugía). El método utilizado para elaborar el sistema inteligente ha sido el ID3, capaz de generar un árbol de decisión mínimo. La palpación ha sido la variable que mayor información ha aportado al conocimiento de la invasión ganglionar. La TC se ha mostrado más eficaz en los tumores supraglóticos. El método ID3 es útil para la elaboración de algoritmos diagnósticos, sobre todo cuando el número de casos y la cantidad de pruebas diagnósticas son elevados (AU)</dc:description>
+<dc:source>Acta Otorrinolaringol Esp;53(9): 683-690, nov. 2002. tab, graf</dc:source>
+<dc:title xml:lang="es">Sistema inteligente para protocolizar el diagnóstico de invasión ganglionar en el cáncer de laringe</dc:title>
+<dc:type>article</dc:type>
+<dc:creator>Moreno, S</dc:creator>
+<dc:creator>Armengot, M</dc:creator>
+<dc:creator>Taleb, C</dc:creator>
+<dc:creator>Alba, JR</dc:creator>
+<dc:creator>Campos, A</dc:creator>
+<dc:creator>Basterra, J</dc:creator>
+<dc:creator>Zapater, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:identifier>ibc-16208</dc:identifier>
+<dc:subject>^d28150^s22053</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d22877</dc:subject>
+<dc:subject>^d19062</dc:subject>
+<dc:subject>^d27977</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d22729</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d8384</dc:subject>
+<dc:date>200211</dc:date>
+</metadata>
+</record>
+</ibecs-document>

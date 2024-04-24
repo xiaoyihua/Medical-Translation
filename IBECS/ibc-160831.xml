@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-160831</identifier>
+<setSpec>1888-4008</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Development and validation of a procedure for the simultaneous measurement of ceftazidime, meropenem and piperacillin mass concentration in plasma using UHPLC-MS/MS</dc:title>
+<dc:description xml:lang="en">Introduction. Ceftazidime, meropenem and piperacillin are broad spectrum antibiotics often used for the empirical treatment of infections in critically ill patients with sepsis. These antibiotics show time-dependent antimicrobial activity, meaning that the antibiotic mass concentration in plasma should be measured and maintained above the minimal inhibitory concentration. The aim of this study was to develop and to validate an ultra-performance liquid chromatography-tandem mass spectrometry procedure for the simultaneous measurement of ceftazidime, meropenem, and piperacillin mass concentration in plasma. Material and methods. After protein precipitation with acetonitrile and subsequent dilution of the supernatant with water, eluates were introduced into a reverse-phase C18 column using a water/methanol gradient containing formic acid. Antibiotics were detected by electrospray ionisation mass spectrometry in multiple reaction monitoring mode. Results. The lower limits of quantification were close to 0.50mg/l. Coefficients of variation and absolute relative biases were less than 10.8 and 12.0%, respectively. Recovery values ranged from 55.7 to 77.4%. Evaluation of the matrix effect showed ion enhancement for all antibiotics. No interferences or carry-over were observed. Conclusions. The validated measurement procedure could be used in daily clinical laboratory practice to measure the mass concentration of these antibiotics in plasma, and in critically ill patients with sepsis (AU)</dc:description>
+<dc:creator>Alía Ramos, Pedro</dc:creator>
+<dc:creator>Rigo Bonnin, Raúl</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. La ceftazidima, el meropenem y la piperacilina son antibióticos ¿-lactámicos de amplio espectro empleados en el tratamiento empírico de pacientes críticos con sepsis. Estos fármacos presentan una actividad antimicrobiana dependiente del tiempo por lo que sus concentraciones de masa en el plasma deberían medirse y mantenerse por encima de la concentración mínima inhibitoria. El objetivo de este estudio es desarrollar y validar un procedimiento de medida basado en la cromatografía de alta y rápida resolución acoplada a la espectrometría de masas en tándem para la medición simultánea de la concentración de masa de ceftazidima, meropenem y piperacilina en el plasma. Material y métodos. Después de una precipitación de proteínas de las muestras con acetonitrilo y posterior dilución con agua, los eluatos son introducidos en una columna C18 de fase inversa usando un gradiente de agua/acetonitrilo que contiene ácido fórmico. Los antibióticos son detectados mediante un espectrómetro de masas de triple cuadrupolo trabajando en las modalidades de ionización por electroespray y monitorización de reacción múltiple. Resultados. Los límites de cuantificación son cercanos a 0,50mg/l. Los coeficientes de variación y sesgos relativos son inferiores a 10,8 y 12,0%, respectivamente. Los valores de recuperación están comprendidos entre 55,7 y 77,4%. La evaluación del efecto matriz muestra una sobreexpresión iónica para todos los antibióticos. No se observan interferencias ni contaminación por arrastre. Conclusiones. El procedimiento de medida validado podría ser empleado en la práctica diaria del laboratorio clínico para la medición de estas magnitudes farmacológicas, principalmente en pacientes críticos con sepsis (AU)</dc:description>
+<dc:source>Rev. lab. clín;10(1): 4-13, ene.-mar. 2017. tab, ilus</dc:source>
+<dc:identifier>ibc-160831</dc:identifier>
+<dc:title xml:lang="es">Desarrollo y validación de un procedimiento de medida para la medición simultánea de la concentración de masa de ceftazidima, meropenem y piperacilina en el plasma mediante UHPLC-MS/MS</dc:title>
+<dc:subject>^d2894^s22045</dc:subject>
+<dc:subject>^d35508</dc:subject>
+<dc:subject>^d7438^s22074</dc:subject>
+<dc:subject>^d2478^s22073</dc:subject>
+<dc:subject>^d11311^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d13441^s22045</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d11311^s22073</dc:subject>
+<dc:subject>^d16136</dc:subject>
+<dc:subject>^d8573^s22045</dc:subject>
+<dc:subject>^d13441^s22074</dc:subject>
+<dc:subject>^d911^s22073</dc:subject>
+<dc:subject>^d35256</dc:subject>
+<dc:subject>^d2478^s22002</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201700</dc:date>
+</metadata>
+</record>
+</ibecs-document>

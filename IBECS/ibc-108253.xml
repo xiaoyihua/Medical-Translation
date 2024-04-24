@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-108253</identifier>
+<setSpec>0213-9626</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Peptide binding prediction for MSA-2 and a AMA-1 from plasmodium falciparum to HLA class II</dc:title>
+<dc:description xml:lang="en">The aim of this research is apply the predictive nonameric bindingmethodology to HLA class II central region, to nonameric peptides ofMSA-2 and AMA-1 proteins from Plasmodium falciparum, and to 492 nonameric overlapped peptides for three theoretical proteins with size of 500residues.A predictive binding theory to HLA class II based on S/k proportionwas applied in order to predict binding peptides of MSA-2 and AMA-1proteins to all sequences with 20 residues size from these proteins. Theprobability, combinatory and entropy values were calculated for 300 nonameric overlapped sequences of MSA-2 and 372 of AMA-1. Finally threetheoretical proteins of 500 residues each one were made, starting from acomputational simulation and the theory was applied, quantifying binding for all nonameric overlapped peptides for these proteins.35 sequences for MSA-2 and 60 for AMA-1 associated to bindingmacrostate while 265 for MSA-2 and 317 for AMA-1 associated to non binding macrostate were predicted. 102, 104 and 101 sequences associated tobinding macrostate for the theoretical proteins while the others 390, 388,and 391 associated to non binding macrostate respectively were predicted.The theoretical prediction developed can facilitate the selection ofpeptides implied in vaccine development, showing that mathematical andphysical order lies to antigenic presentation (AU)</dc:description>
+<dc:creator>Viteri, Sarith</dc:creator>
+<dc:creator>Rojas, Ingrid</dc:creator>
+<dc:creator>Prieto, Signed</dc:creator>
+<dc:creator>Soracipa, Yolanda</dc:creator>
+<dc:creator>Rodríguez, Javier</dc:creator>
+<dc:creator>Benítez, Luisa</dc:creator>
+<dc:creator>Puerta, Germán</dc:creator>
+<dc:creator>Muñoz, Diana</dc:creator>
+<dc:creator>Correa, Catalina</dc:creator>
+<dc:creator>Bernal, Pedro</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El propósito de esta investigación es aplicar la teoría de predicción deunión de péptidos a la región central del HLA clase II, a los péptidos noná-meros de MSA-2, y la proteína AMA-1 del Plasmodium falciparum, y a los 492péptidos nonámeros sobrelapados de tres proteínas teóricas, de 500 amino-ácidos cada una.Se aplicó una teoría predictiva de unión al HLA clase II basada en la proporción S/k para la predicción del fenómeno de unión de péptidos de lasproteínas MSA-2 y AMA-1 a la totalidad de secuencias de 20 aminoácidosde dichas proteínas. Se calcularon los valores de probabilidad, combinatoriay entropía de 300 secuencias nonámeras sobrelapadas de la proteína MSA-2 y 372 de AMA-1. Finalmente se construyeron tres proteínas teóricas de 500aminoácidos cada una a partir de una simulación computacional y se aplicó la teoría para cuantificar la unión de todos los péptidos nonámeros sobrelapados de las mismas.Se predijo que 35 secuencias de MSA-2 y 60 de AMA-1 están asociadasal macroestado de unión mientras que 265 de MSA-2 y 317 de AMA-1 estánasociadas al macroestado de no unión. Se predijo que 102, 104 y 101 secuencias de las tres proteínas construidas están asociadas al macroestado de unión,mientras que las restantes 390, 388 y 391 se asocian al macroestado de nounión respectivamente. La predicción teórica desarrollada puede facilitar la escogencia de péptidos implicados en el desarrollo de vacunas, evidenciando que existe unorden físico y matemático subyacente a la presentación antigénica (AU)</dc:description>
+<dc:source>Inmunología (1987);28(3): 115-124, jul.-sept. 2009. tab</dc:source>
+<dc:identifier>ibc-108253</dc:identifier>
+<dc:title xml:lang="es">Predicción de unión de péptidos de MSA-2 y AMA-1 de Plasmodium falciparum al HLA clase II</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d33181</dc:subject>
+<dc:subject>^d22313^s22038</dc:subject>
+<dc:subject>^d34580^s22038</dc:subject>
+<dc:subject>^d2396^s22038</dc:subject>
+<dc:subject>^d6837^s22038</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200909</dc:date>
+</metadata>
+</record>
+</ibecs-document>

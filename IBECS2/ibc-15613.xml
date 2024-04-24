@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-15613</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Underregistration of postoperative infections in the Minimun Basic Data (MBDS)</dc:title>
+<dc:creator>Rabaneque Hernández, M. José</dc:creator>
+<dc:creator>Moliner Lahoz, Francisco</dc:creator>
+<dc:creator>Abad Díez, José</dc:creator>
+<dc:creator>Cortés Ramas, Ana</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivos: El Conjunto Mínimo Básico de Datos (CMBD) se ha utilizado para estimar la complejidad de los pacientes y elaborar indicadores de calidad, no obstante, se han descrito problemas de calidad y exhaustividad en el mismo. El objetivo de este estudio es evaluar la calidad del registro de infecciones postoperatorias en el CMBD en un hospital de tercer nivel y analizar las variables relacionadas. Métodos: Se diseñó un estudio observacional retrospectivo, en el que se comparó la información disponible sobre infección postoperatoria en el CMBD con la de la base de datos del sistema de vigilancia activa del Servicio de Medicina Preventiva, que se consideró sistema de referencia (gold standard). Se incluyeron todos los episodios de hospitalización en los que el Servicio de Medicina Preventiva encontró una infección postoperatoria. Las infecciones se clasificaron en Infección Superficial de la Herida (ISH), Infección Profunda de la Herida (IPH) e Infección de Órgano/Espacio (IOE). Los criterios diagnósticos utilizados fueron los establecdos por los Centers for Disease Control. Por medio de un modelo de regresión logística, se analizó la asociación entre variables relacionadas con el paciente y el episodio de ingreso, y el registro o no de la infección postoperatoria en el CMBD. Resultados: El sistema de vigilancia registró 300 casos de infección postoperatoria, con una incidencia acumulada anual de 2,8 por ciento. De ellas 219 correspondían a IHS, 27 a IPH y 54 a IOE. En 172 casos (57,3 por ciento) no aparece el código de "infección postoperatoria" en el CMBD. Esta proporción es el 57,5 por ciento en la ISH, el 44,4 por ciento en la IPH y el 63 por ciento en las IOE. En el modelo de regresión logística incluimos el servicio que da el alta y el tipo de infección. Conclusiones: Existe un importante subrregistro en el CMBD de las complicaciones infecciosas asociadas a la cirugía. No encontramos ninguna variable claramente relacionada con el registro de la infección postoperatoria. El diseño de estrategias de intervención nos llevarían a mejorar la calidad de los informes médicos y el correcto registro de las complicaciones infecciosas. Estas estrategias deberían estar dirigidas a los servicios con mayor margen de mejora en el índice de case-mix y peor calidad de información clínica recogida en el CMBD (AU)</dc:description>
+<dc:source>Rev. calid. asist;16(6): 378-383, sept. 2001. tab</dc:source>
+<dc:identifier>ibc-15613</dc:identifier>
+<dc:title xml:lang="es">Subregistro de las infecciones postoperatorias en el conjunto mínimo de datos básicos (CMBD)</dc:title>
+<dc:subject>^d32034^s22048</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d11623</dc:subject>
+<dc:subject>^d28417</dc:subject>
+<dc:subject>^d28416^s22048</dc:subject>
+<dc:subject>^d28416^s22049</dc:subject>
+<dc:subject>^d11621^s22048</dc:subject>
+<dc:subject>^d16665^s22083</dc:subject>
+<dc:subject>^d28441</dc:subject>
+<dc:subject>^d6940^s22048</dc:subject>
+<dc:subject>^d6940^s22049</dc:subject>
+<dc:subject>^d16665^s22066</dc:subject>
+<dc:subject>^d11622^s22080</dc:subject>
+<dc:subject>^d28477^s22080</dc:subject>
+<dc:subject>^d13195</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200109</dc:date>
+</metadata>
+</record>
+</ibecs-document>

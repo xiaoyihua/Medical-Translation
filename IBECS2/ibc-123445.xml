@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-123445</identifier>
+<setSpec>1699-048X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:creator>Pérez Castillo, A</dc:creator>
+<dc:creator>Aguilar-Morante, D</dc:creator>
+<dc:creator>Dorado, J</dc:creator>
+<dc:creator>Morales-García, J. A</dc:creator>
+<dc:language>en</dc:language>
+<dc:source>Clin Transl Oncol;10(5): 262-267, mayo 2008. ilus</dc:source>
+<dc:identifier>ibc-123445</dc:identifier>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d10648^s22044</dc:subject>
+<dc:subject>^d1958^s22053</dc:subject>
+<dc:subject>^d1958^s22044</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23259^s22044</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d31439^s22044</dc:subject>
+<dc:subject>^d31439^s22053</dc:subject>
+<dc:subject>^d14810^s22053</dc:subject>
+<dc:subject>^d14810^s22031</dc:subject>
+<dc:subject>^d24524^s22044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200805</dc:date>
+</metadata>
+</record>
+</ibecs-document>

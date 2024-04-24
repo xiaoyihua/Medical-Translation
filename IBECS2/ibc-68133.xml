@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-68133</identifier>
+<setSpec>0212-1611</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:description xml:lang="en">We have developed the computer programme NUTRISOL, a nutritional programme destined to analysis of dietary intake by means of the food transformation to nutrient. It has been performed under Windows® operative system, using Visual Basic® 6.0. It is presented in a CD-Rom. We have used the Spanish CSIC Food Composition Table and domestic food measures commonly used in Spain which could be modified and updated. Diverse kind of diets and reference anthropometric data are also presented. The results may be treated using various statistical programmes. The programme contains three modules: 1) Nutritional epidemiology, which allows to create or open a data base, sample management, analyse food intake, consultation of nutrient content and exportation of data to statistical programmes. 2) Analyses of diets and recipes, creation or modification of new ones. 3) To ask different diets for prevalent pathologies. Independent tools for modifying the original tables, calculate energetic needs, recommend nutrient intake and anthropometric indexes are also offered. In conclusion, NUTRISOL Programme is an application which runs in PC computers with minimal equipment in a friendly interface, of easy use, freeware, which may be adapted to each country, and has demonstrated its usefulness and reliability in different epidemiologic studies. Furthermore, it may become an efficient instrument for clinical nutrition and health promotion (AU)</dc:description>
+<dc:creator>Mariscal, A</dc:creator>
+<dc:creator>Gutiérrez-Bedmar, M</dc:creator>
+<dc:creator>Carnero-Varo, M</dc:creator>
+<dc:creator>Villalobos, JL</dc:creator>
+<dc:creator>Gómez-Aracena, J</dc:creator>
+<dc:creator>Gómez-Gracia, E</dc:creator>
+<dc:creator>García-Rodríguez, A</dc:creator>
+<dc:creator>Fernández-Crehuet Navajas, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Hemos desarrollado el programa NUTRISOL, un programa informático destinado al análisis de la ingesta alimentaria mediante la transformación de alimentos a nutrientes. Ha sido elaborado bajo el sistema operativo Windows®, usando el entorno Visual Basic® 6.0. En su elaboración se han usado las tablas de composición de alimentos del CSIC y medidas domésticas de alimentos de uso común en España, siendo posible modificarlas y actualizarlas. También se presentan diversas dietas y datos antropométricos de referencia. Los resultados que aporta pueden procesarse con la mayoría de los programas estadísticos. El programa ofrece tres módulos: 1) Epidemiología nutricional, en el que se pueden crear o abrir bases de datos, gestionar muestras, gestionar la ingesta, consultar contenido de nutrientes y exportar datos para tratarlos con programas estadísticos. 2) Análisis de dietas y recetas, en el que además se pueden crear o modificar las existentes y exportarlas. 3) Solicitud de distintas dietas para patologías prevalentes. También se ofrece un apartado de herramientas independientes en el que se pueden modificar las tablas originales, calcular las necesidades energéticas, las ingestas recomendadas e índices antropométricos. En conclusión, el programa NUTRISOL es una aplicación que funciona en ordenadores tipo PC-compatibles con mínimo equipamiento, con una interfaz "amigable", de uso sencillo, que se puede adaptar a cualquier región, de acceso gratuito y que ha demostrado su utilidad y fiabilidad en distintos estudios epidemiológicos. Además, puede ser un instrumento eficiente para la educación nutricional, la nutrición hospitalaria y la promoción de la salud (AU)</dc:description>
+<dc:source>Nutr Hosp;23(1): 20-26, ene.-feb. 2008. ilus, tab</dc:source>
+<dc:identifier>ibc-68133</dc:identifier>
+<dc:subject>^d24806</dc:subject>
+<dc:subject>^d24382^s22016</dc:subject>
+<dc:subject>^d32738^s22074</dc:subject>
+<dc:subject>^d16525</dc:subject>
+<dc:subject>^d4499</dc:subject>
+<dc:subject>^d6444^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9935</dc:subject>
+<dc:subject>^d22347^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200802</dc:date>
+</metadata>
+</record>
+</ibecs-document>

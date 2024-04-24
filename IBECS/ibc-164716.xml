@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-164716</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Advanced diffusion MRI and biomarkers in the central nervous system: a new approach</dc:title>
+<dc:description xml:lang="en">The introduction of diffusion-weighted sequences has revolutionized the detection and characterization of central nervous system (CNS) disease. Nevertheless, the assessment of diffusion studies of the CNS is often limited to qualitative estimation. Moreover, the pathophysiological complexity of the different entities that affect the CNS cannot always be correctly explained through classical models. The development of new models for the analysis of diffusion sequences provides numerous parameters that enable a quantitative approach to both diagnosis and prognosis as well as to monitoring the response to treatment; these parameters can be considered potential biomarkers of health and disease. In this update, we review the physical bases underlying diffusion studies and diffusion tensor imaging, advanced models for their analysis (intravoxel coherent motion and kurtosis), and the biological significance of the parameters derived (AU)</dc:description>
+<dc:creator>Martínez Barbero, JP</dc:creator>
+<dc:creator>Martín Noguerol, T</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La introducción de las secuencias potenciadas en difusión ha supuesto una revolución para la detección y caracterización de la patología del sistema nervioso central. Sin embargo, en numerosas ocasiones, la valoración de dichos estudios se limita a una estimación cualitativa. Además, la complejidad fisiopatológica de las distintas entidades que afectan al sistema nervioso central no siempre puede ser correctamente explicada por los modelos clásicos. El desarrollo de nuevo modelos para el análisis de las secuencias de difusión aporta numerosos parámetros que podrían permitir un abordaje cuantitativo tanto desde el punto de vista del diagnóstico como pronóstico, así como para llevar a cabo la monitorización terapéutica, y podrían ser considerados como potenciales biomarcadores de salud y enfermedad. Realizamos por este motivo una actualización que incluye las bases físicas de los estudios de difusión y tensor de difusión, sus modelos de análisis avanzado (IVIM y Kurtosis) y la significación biológica de los parámetros derivados (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);59(4): 273-285, jul.-ago. 2017.</dc:source>
+<dc:identifier>ibc-164716</dc:identifier>
+<dc:title xml:lang="es">RM-Difusión avanzada y biomarcadores en el sistema nervioso central: un nuevo enfoque</dc:title>
+<dc:subject>^d22935^s22045</dc:subject>
+<dc:subject>^d2525^s22022</dc:subject>
+<dc:subject>^d31439^s29166</dc:subject>
+<dc:subject>^d2525^s22053</dc:subject>
+<dc:subject>^d2525^s29166</dc:subject>
+<dc:subject>^d23568^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1262^s29166</dc:subject>
+<dc:subject>^d9296^s29166</dc:subject>
+<dc:subject>^d37550^s22045</dc:subject>
+<dc:subject>^d53674^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201708</dc:date>
+</metadata>
+</record>
+</ibecs-document>

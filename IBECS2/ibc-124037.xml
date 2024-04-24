@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-124037</identifier>
+<setSpec>0004-0614</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Selection criteria and nomograms for active surveillance in prostate cancer</dc:title>
+<dc:description xml:lang="en">In the present review we detail the more universally accepted selection criteria in the various protocols of active surveillance in prostate cancer; we also identify and classify twenty nomograms/predictive models useful for decision making in active surveillance for prostate cancer. These models are classified in accordance to their prediction (High grade prostate cancer in radical prostatectomy specimen [Gleason grade &gt; 7], understaging on biopsy compared to prostatectomy specimen, pathological stage, indolent cancer or progression after expectant therapy).We also detail the predictive variables used in each model for estimations, their internal validation parameters, the samples used to generate them, and the external validations if they were done. Many of them are presented with their URL address, where they may be consulted on line, this making easier their implementation. Finally we expose our thoughts about the use of probability density functions as a useful tool for validation of these predictive models that help in the definition of cut points facilitating their clinical use and credibility (AU)</dc:description>
+<dc:creator>Gil, María Jesús</dc:creator>
+<dc:creator>Sanz, Gerardo</dc:creator>
+<dc:creator>Rubio-Briones, José</dc:creator>
+<dc:creator>Esteban, Luis M</dc:creator>
+<dc:creator>Borque, Ángel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En la presente revisión narrativa se detallan los criterios de selección más universalmente aceptados en los diferentes protocolos de vigilancia activa en cáncer de próstata, así como se identifican y clasifican una veintena de nomogramas/modelos predictivos de utilidad para la toma de decisiones en vigilancia activa en cáncer de próstata. Estos modelos se clasifican de acuerdo a su predicción (cáncer de próstata de alto grado en la pieza de prostatectomía (Suma de Gleason &gt; 7), infragradación en la biopsia respecto a la pieza de prostatectomía, estadio patológico, cáncer indolente, o evolución tras tratamiento expectante).A su vez se detallan las variables predictivas usadas por cada modelo en su estimación, sus parámetros de validación interna, las muestras sobre las que han sido generados, y sus validaciones externas si las ha habido. Muchos de ellos son presentados además con su dirección Url: donde pueden ser consultados on-line lo que facilita su implemetación. Finalmente se hace una reflexión acerca del uso de funciones de densidad de probabilidad como una herramienta útil en la validación de estos modelos predictivos que ayuda a la definición de puntos de corte y facilita su uso y credibilidad en la clínica (AU)</dc:description>
+<dc:source>Arch Esp Urol;67(5): 419-430, jun. 2014. tab, graf</dc:source>
+<dc:identifier>ibc-124037</dc:identifier>
+<dc:title xml:lang="es">Criterios de selección y nomogramas relacionados con la vigilacia activa en cáncer de próstata</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d32095</dc:subject>
+<dc:subject>^d25123^s22002</dc:subject>
+<dc:subject>^d38825</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d51292</dc:subject>
+<dc:subject>^d54396^s22074</dc:subject>
+<dc:subject>^d30596^s22002</dc:subject>
+<dc:subject>^d29199</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d11914^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201406</dc:date>
+</metadata>
+</record>
+</ibecs-document>

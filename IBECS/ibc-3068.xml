@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-3068</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Molecular analysis of the RPE65 gene in 72 spanish families with autosomal recessive retinitis pigmentosa</dc:title>
+<dc:creator>Borrego, S</dc:creator>
+<dc:creator>Baiget, Montserrat</dc:creator>
+<dc:creator>Marcos, I</dc:creator>
+<dc:creator>Antiñolo, Guillermo</dc:creator>
+<dc:creator>Ayuso, C</dc:creator>
+<dc:creator>Ruiz, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">FUNDAMENTO: La retinitis pigmentaria autosómica recesiva (RPAR) es la forma más común de retinitis pigmentaria y se caracteriza por una gran heterogeneidad tanto alélica como génica. Previamente, se ha determinado que el gen RPE65 está implicado en el 2 por ciento de los casos de RPAR y en el 16 por ciento de los casos de amaurosis congénita de Leber. Aunque la función de RPE65 no se conoce aún, se sabe que está involucrado en el metabolismo de la vitamina A y en la regeneración de la rodopsina. PACIENTES Y MÉTODO: Análisis molecular indirecto del gen RPE65 en 72 familias españolas con RPAR y posterior análisis mutacional. RESULTADOS: El análisis molecular indirecto con el marcador microsatélite intragénico, D1S2803, nos permitió excluir el gen RPE65 en el 80,5 por ciento de las familias estudiadas. En el análisis molecular directo del gen, hemos identificado 3 nuevas variantes, IVS6-43delA, IVS642delT e IVS6-33C G; IVS6-33C G es un polimorfismo común. Los otros cambios, IVS643delA e IVS6-42delT, no se han encontrado en los 150 cromosomas normales estudiados. El análisis de segregación del cambio IVS6-42delT parece excluir su implicación en RP. CONCLUSIONES: Nuestros resultados argumentan en contra de la implicación del gen RPE65 en las familias estudiadas, indicando que la frecuencia de alteraciones en este gen en las familias RPAR españolas podría ser algo inferior a la observada en otras poblaciones estudiadas (AU)</dc:description>
+<dc:source>Med. clín (Ed. impr.);117(4): 121-123, jun. 2001.</dc:source>
+<dc:identifier>ibc-3068</dc:identifier>
+<dc:title xml:lang="es">Análisis molecular del gen RPE65 en 72 familias españolas con retinitis pigmentaria autosómica recesiva</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d5298</dc:subject>
+<dc:subject>^d10568</dc:subject>
+<dc:subject>^d27800</dc:subject>
+<dc:subject>^d5943</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:subject>^d440</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d23923</dc:subject>
+<dc:subject>^d23568</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d28608</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200106</dc:date>
+</metadata>
+</record>
+</ibecs-document>

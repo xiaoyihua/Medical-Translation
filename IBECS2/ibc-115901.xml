@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-115901</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Multilevel bootstrap analysis with assumptions violated</dc:title>
+<dc:description xml:lang="en">Background: Likelihood-based methods can work poorly when the residuals are not normally distributed and the variances across clusters are heterogeneous. Method: The performance of two estimation methods, the non-parametric residual bootstrap (RB) and the restricted maximum likelihood (REML) for fitting multilevel models are compared through simulation studies in terms of bias, coverage, and precision. Results: We find that (a) both methods produce unbiased estimates of the fixed parameters, but biased estimates of the random parameters, although the REML was more prone to give biased estimates for the variance components; (b) the RB method yields substantial reductions in the difference between nominal and actual confidence interval coverage, compared with the REML method; and (c) for the square root of the mean squared error (RMSE) of the fixed effects, the RB method performed slightly better than the REML method. For the variance components, however, the RB method did not offer a systematic improvement over the REML method in terms of RMSE. Conclusions: It can be stated that the RB method is, in general, superior to the REML method with violated assumptions (AU)</dc:description>
+<dc:creator>Ato García, Manuel</dc:creator>
+<dc:creator>Livacic Rojas, Pablo Esteban</dc:creator>
+<dc:creator>Fernández García, María Paula</dc:creator>
+<dc:creator>Vallejo Seco, Guillermo</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Antecedentes: los métodos basados en la verosimilitud pueden trabajar con dificultad cuando los errores no se distribuyen normalmente y las varianzas a través de los grupos son heterogéneas. Método: el desempeño de dos métodos de estimación, el bootstrap residual (BR) no paramétrico y el de la máxima verosimilitud restringida (MVR), para ajustar modelos multinivel es comparado mediante estudios de simulación en términos de sesgo, cobertura y precisión. Resultados: encontramos que: (a) ambos métodos proporcionan estimaciones no sesgadas de los efectos fijos, pero sesgadas de los efectos aleatorios, aunque el método MVR es más propenso a generar estimaciones sesgadas para los componentes de la varianza; (b) el método BR depara diferencias más pequeñas entre las tasas de cobertura real y nominal de los intervalos de confianza que el método MVR; y (c) los valores de la raíz del error cuadrático medio (RECM) para los efectos fijos son algo más pequeños bajo el método BR que bajo el método REML. Sin embargo, en lo referido a los componentes de la varianza, el método de BR no ofrece una mejora sistemática sobre el método MVR en términos de RECM. Conclusiones: en general, se puede afirmar que el método BR resulta superior al método MVR con supuestos incumplidos (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);25(4): 520-528, oct.-dic. 2013. tab, ilus</dc:source>
+<dc:identifier>ibc-115901</dc:identifier>
+<dc:title xml:lang="es">Análisis bootstrap multinivel con supuestos incumplidos</dc:title>
+<dc:subject>^d28620</dc:subject>
+<dc:subject>^d28579</dc:subject>
+<dc:subject>^d12031^s22083</dc:subject>
+<dc:subject>^d24768</dc:subject>
+<dc:subject>^d53403^s22066</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d53403^s22045</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d53403^s22039</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201312</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-80258</identifier>
+<setSpec>0211-5638</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Psychometric analysis of the Performance Oriented Mobility Scale of Tinetti with the Rasch model</dc:title>
+<dc:description xml:lang="en">ObjectivesIn this study, we present an application of the partial credit model of the Rasch family of models to the PMOS scale of geriatric mobility (Tinetti, 1986, 1988) with the aim of determining whether it offers a unidimensional structure that enables us to obtain estimates of invariant parameters of ability and difficulty.MaterialA Spanish translation of the PMOS scale was used. It was administered individually to the patients who took part in this study.MethodTwo hundred patients were assessed using the PMOS scale. The evaluations of the 17 items were analyzed psychometrically with the partial credit model using the ConQuest program.ResultsTwelve items of the PMOS fitted the unidimensional Rasch model, proving that the subjects&#146; ability can be explained using one single attribute. The other items (1, 7, 13, 15 and 17) did not obtain goodness-of-fit statistics that would guarantee that their response pattern could be explained using the Rasch model.ConclusionsThe methodology based on the study of the fit of the items to the Rasch family of models enables us to obtain estimates of the invariant difficulty and ability parameters. Furthermore, the partial credit model enables us to obtain estimates of the thresholds of the categories with a view to testing whether the subjects&#146; discriminatory processes are the same for all the items or whether they vary from item to item(AU)</dc:description>
+<dc:creator>López Pina, J. A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">ObjetivoEn este estudio se presenta una aplicación del modelo de crédito parcial de la familia de modelos de Rasch a la escala de movilidad geriátrica PMOS (Tinetti, 1986, 1988) con vistas a determinar si ofrece una estructura unidimensional que permite obtener estimaciones de parámetros de habilidad y dificultad invariantes.MaterialSe empleó una versión traducida al castellano de la escala PMOS, que se administró individualmente a los pacientes que colaboraron en el estudio.MétodoDoscientos pacientes fueron evaluados con la escala PMOS. Las valoraciones de los 17 ítems fueron sometidas a un análisis psicométrico con el modelo de crédito parcial utilizando el programa ConQuest.ResultadosDoce ítems de la PMOS se ajustaron al modelo unidimensional de Rasch, evidenciando que la habilidad de las personas se puede explicar en función de un solo atributo. El resto de ítems (1, 7, 13, 15 y 17) no obtuvieron estadísticos de ajuste que permitiera asegurar que su patrón de respuestas podría explicarse a través del modelo de Rasch.ConclusionesLa metodología basada en el estudio del ajuste de los ítems a la familia de modelos de Rasch permite obtener estimaciones invariantes de los párametros de dificultad de los ítems y de habilidad de las personas. Además, el modelo de crédito parcial permite obtener estimaciones de los umbrales de las categorías con vistas a probar si los procesos discriminales de las personas son iguales para todos los ítems o varían de ítem a ítem(AU)</dc:description>
+<dc:source>Fisioterapia (Madr., Ed. impr.);31(5): 192-202, sep. -oct. 2009. ilus, graf, tab</dc:source>
+<dc:identifier>ibc-80258</dc:identifier>
+<dc:title xml:lang="es">Análisis psicométrico de la escala de marcha y equilibrio de Tinetti con el modelo de Rasch</dc:title>
+<dc:subject>^d14567</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4936^s22031</dc:subject>
+<dc:subject>^d28608</dc:subject>
+<dc:subject>^d5823^s22031</dc:subject>
+<dc:subject>^d24693^s22045</dc:subject>
+<dc:subject>^d12031</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200909</dc:date>
+</metadata>
+</record>
+</ibecs-document>

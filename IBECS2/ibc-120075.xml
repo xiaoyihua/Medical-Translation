@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-120075</identifier>
+<setSpec>0212-1611</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Micronutrients intake and urinary tract tumors in Córdoba, Argentina</dc:title>
+<dc:description xml:lang="en">INTRODUCTION: Micronutrients content of habitually consumed foods comprise a causal network model of cancer, but the evaluation of their effect on this pathology represents a great challenge because of the interdependence in their usual consumption. Several studies reported that nutrients can modify the urinary tract tumors (UTT) risk, although such evidence is still limited. OBJECTIVE: To identify associations between dietary vitamins A, E, B6, C, phosphorus, selenium and zinc intakes and the presence of UTT in Córdoba, Argentina, considering the multicollinearity caused by the interdependence of their consumption. METHODS: A case control study was carried out including 129 cases with incident histopathologically confirmed UTT and 257 controls. A food frequency questionnaire previously validated was administrated to each subject. Dietary intakes of vitamins A, E, B6, C, phosphorus, selenium and zinc were the variables of interest, each showing high correlation with each other and thus, causing collinearity. So, multiple logistic regression models were adjusted and their adaptation to the presence of correlation, Ridge regression, to obtain the odds ratio (OR). The models included terms of sex, age, body mass index (BMI), socioeconomic status, occupational exposure to carcinogens, tobacco consumption and caloric intake as covariates. RESULTS: Vitamin E and vitamin B6 showed a slight protective effect (OR: 0.943, CI 95% 0.897-0.998 and OR: 0.730 CI 95% 0.457-1.167). Selenium was slightly promoter (OR: 1.012 CI 95% 1.001-1.023).CONCLUSION: When multicollinearity is considered in the model, it is possible to obtain more accurate estimates of the modulation that some micronutrients have on the risk of UTT more precisely (AU)</dc:description>
+<dc:creator>Díaz, María del Pilar</dc:creator>
+<dc:creator>Roqué, Florencia Inés</dc:creator>
+<dc:creator>Román, María Dolores</dc:creator>
+<dc:creator>Andreatta, María Marta</dc:creator>
+<dc:creator>Muñoz, Sonia Edith</dc:creator>
+<dc:creator>Navarro, Alicia</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: Los micronutrientes contenidos en los alimentos de consumo habitual integran el modelo de red causal del cáncer aunque su evaluación conjunta es compleja debido a la interdependencia en el consumo habitual. Diversos estudios reportaron que ciertos nutrientes pueden modificar el riesgo de desarrollar tumores de vías urinarias (TVU), aunque dicha evidencia es aún limitada. Objetivo: Identificar asociaciones entre el consumo de vitaminas A, E, B6, C, fósforo, selenio y zinc procedentes de la dieta, y la presencia TVU en Córdoba, Argentina, entre 1999 y 2008, considerando la multicolinealidad entre sus consumos. Métodos: Se realizó un estudio caso-control que incluyó 129 casos con TVU confirmados histopatológicamente y 257 controles. Se administró a cada sujeto un formulario de frecuencia alimentaria previamente validado. La ingesta de vitaminas A, E, B6 y C, fósforo, selenio y zinc fueron las variables de interés, presentando alta correlación entre sí y provocando colinealidad. Por ello, fueron ajustados modelos de regresión logística múltiple y su adaptación ante la presencia de correlación vía estimación Ridge, para la obtención de los odds ratio (OR), previa inclusión de las covariables sexo, edad, índice de masa corporal (IMC), estrato socioeconómico, exposición ocupacional a carcinógenos, consumo de tabaco y consumo calórico. Resultados: Las vitaminas E y B6 evidenciaron un leve efecto protector (OR: 0,943, IC 95% 0,897-0,998 y OR: 0,730, IC 95% 0,457-1,167). El selenio resultó ligeramente promotor (OR: 1,012, IC 95% 1,001-1,023). Conclusión: Considerando la multicolinealidad es posible detectar de manera más precisa la modulación que algunos micronutrientes ejercen sobre el riesgo de TVU (AU)</dc:description>
+<dc:source>Nutr Hosp;28(3): 943-950, mayo-jun. 2013. tab</dc:source>
+<dc:identifier>ibc-120075</dc:identifier>
+<dc:title xml:lang="es">Consumo de micronutrientes y tumores de vías urinarias en Córdoba, Argentina</dc:title>
+<dc:subject>^d14523^s22002</dc:subject>
+<dc:subject>^d2316^s22002</dc:subject>
+<dc:subject>^d16008</dc:subject>
+<dc:subject>^d29575^s22027</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d32687^s22020</dc:subject>
+<dc:subject>^d24551</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201306</dc:date>
+</metadata>
+</record>
+</ibecs-document>

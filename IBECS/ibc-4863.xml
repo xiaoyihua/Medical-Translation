@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-4863</identifier>
+<setSpec>0048-7120</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Computerized clinical history in rehabilitation and physical medicine</dc:title>
+<dc:creator>Lojo Ambroj, A</dc:creator>
+<dc:creator>Dominguez, M. D</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">No disponible</dc:description>
+<dc:source>Rehabilitación (Madr., Ed. impr.);34(1): 119-127, ene. 2000. tab</dc:source>
+<dc:identifier>ibc-4863</dc:identifier>
+<dc:title xml:lang="es">Historia clínica informatizada en rehabilitación y medicina física</dc:title>
+<dc:subject>^d29040</dc:subject>
+<dc:subject>^d12467^s22039</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d11243^s22039</dc:subject>
+<dc:subject>^d12467^s22045</dc:subject>
+<dc:subject>^d19245</dc:subject>
+<dc:subject>^d11243^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200001</dc:date>
+</metadata>
+</record>
+</ibecs-document>

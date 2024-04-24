@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-15357</identifier>
+<setSpec>1575-0922</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prevalence of risk factors and other diseases in hospitalized diabetic patients</dc:title>
+<dc:creator>González, E</dc:creator>
+<dc:creator>Zurro, J</dc:creator>
+<dc:creator>Hinojosa, J</dc:creator>
+<dc:creator>Hinojosa, M. C</dc:creator>
+<dc:creator>Fernández, I</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivo. Evaluar la prevalencia de factores de riesgo cardiovascular y las complicaciones crónicas en los pacientes diabéticos ingresados en el Hospital Universitario de Valladolid en el año 1997.Material y métodos. Estudio retrospectivo y transversal que analizó todos los episodios de hospitalización del paciente diabético. Recoge variables como "complicaciones diabéticas" (cardiopatía isquémica, enfermedad cerebrovascular, vasculopatía periférica, oftalmopatía y nefropatía) y otras variables denominadas "otras enfermedades asociadas", como son hábito tabáquico, hipertensión arterial, dislipemia, obesidad y enfermedad pulmonar obstructiva crónica. Todo ello a partir de los diagnósticos secundarios de cada paciente en el informe de alta, pudiendo un mismo paciente tener una o más enfermedades asociadas. Se utiliza la aplicación Microsoft Access y el paquete estadístico SAS 6.04 para Windows, aplicando el test de la t de Student y el de la 2, y considerando como nivel de significación un valor de 0,05.Resultados. El 49,7 por ciento de los pacientes ingresados tenían complicaciones diabéticas, mientras que un 47,7 por ciento presentó otras enfermedades asociadas. Respecto a la prevalencia de las complicaciones diabéticas, la cardiopatía isquémica fue la más frecuente (25,4 por ciento), siendo estadísticamente significativa una mayor prevalencia de la nefropatía y de oftalmopatía entre los diabéticos tipo 1. Dentro de otras enfermedades asociadas, la hipertensión arterial resultó significativamente más frecuente entre los pacientes con diabetes tipo 2.Conclusión. Los pacientes diabéticos ingresados en nuestro hospital presentan una elevada prevalencia de factores de riesgo cardiovascular y de complicaciones crónicas de la diabetes (AU)</dc:description>
+<dc:source>Endocrinol Nutr;49(5): 136-139, mayo 2002. tab</dc:source>
+<dc:identifier>ibc-15357</dc:identifier>
+<dc:title xml:lang="es">Prevalencia de los factores de riesgo y de otras enfermedades en el paciente diabético hospitalizado</dc:title>
+<dc:subject>^d30650^s22080</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d3951^s22080</dc:subject>
+<dc:subject>^d3952^s22080</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24572</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d3948^s22080</dc:subject>
+<dc:subject>^d30156^s22080</dc:subject>
+<dc:subject>^d3942^s22012</dc:subject>
+<dc:subject>^d3954^s22080</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d28563^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200205</dc:date>
+</metadata>
+</record>
+</ibecs-document>

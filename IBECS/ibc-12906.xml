@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-12906</identifier>
+<setSpec>0213-9626</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Immunotherapy of diseminated malignant melanoma</dc:title>
+<dc:creator>Vilella Puig, R</dc:creator>
+<dc:creator>Milà Mallofré, J</dc:creator>
+<dc:creator>Castel Rodó, T</dc:creator>
+<dc:creator>Benítez Ribas, D</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Arán Ediciones, S.A.</dc:publisher>
+<dc:description xml:lang="es">Se ha demostrado que la quimioterapia es incapaz de aumentar la supervivencia de los enfermos de melanoma metastásico, cuya media de supervivencia es de 6-9 meses. Las observaciones, tanto clínicas como de laboratorio, sugirieron que la respuesta inmunitaria podía influenciar el curso de esta enfermedad y estimularon la utilización de modificadores de la respuesta biológica en su tratamiento. Las estrategias inmunoterapéuticas ya probadas en clínica que se han mostrado más eficaces son: las citocinas recombinantes solas o combinadas con agentes quimioterapéuticos (bioquimioterapia), las vacunas terapéuticas y la infusión de células antitumorales. Es muy difícil establecer comparaciones sobre la eficacia de las distintas pautas inmunoterapéuticas publicadas, debido a las diferencias existentes en la composición de los grupos de enfermos en cada estudio (número y ubicación de las metástasis). En conjunto, los tratamientos con dosis altas de IL-2, de IFN- 2 y bioquimioterapia, han proporcionado incrementos modestos de la supervivencia de estos enfermos , hasta los 9-11 meses, pero lo más destacable es que entre un 4 y un 10 por ciento de los enfermos así tratados, lograron alcanzar remisiones completas y de larga duración. El aspecto negativo de estos tratamientos, es que conllevan una toxicidad muy elevada, que limita su aplicabilidad. Las vacunas terapéuticas son mucho menos tóxicas, pero solamente son efectivas cuando la masa tumoral es pequeña. Empleando vacunas terapéuticas, el grupo de Morton y cols. logró incrementar la media de supervivencia de los enfermos metastásicos hasta los 23 meses. La utilización de células dendríticas "cargadas" con antígenos de melanoma, es prometedora, pero es necesario optimizar diversos aspectos de su preparación. De forma similar, es preciso encontrar un método práctico de preparación de las proteínas autólogas de estrés térmico. Finalmente, no ha sido posible demostrar la eficacia clínica de la infusión de células con probada actividad antitumoral in vitro. (AU)</dc:description>
+<dc:source>Inmunología (1987);20(3): 160-172, jul. 2001. tab</dc:source>
+<dc:identifier>ibc-12906</dc:identifier>
+<dc:title xml:lang="es">Inmunoterapia en el melanoma maligno diseminado</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d8714^s22067</dc:subject>
+<dc:subject>^d7345^s22045</dc:subject>
+<dc:subject>^d32281</dc:subject>
+<dc:subject>^d28903^s22073</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23123^s22073</dc:subject>
+<dc:subject>^d8714^s22038</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200107</dc:date>
+</metadata>
+</record>
+</ibecs-document>

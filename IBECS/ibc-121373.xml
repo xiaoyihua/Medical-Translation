@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-121373</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Analysis of organ failure and mortality in sepsis due to secondary peritonitis</dc:title>
+<dc:description xml:lang="en">Objectives To identify the organs most susceptible to develop multiorgan dysfunction syndrome (MODS) in patients with sepsis due to secondary peritonitis, and to determine the outcome and mortality predicting utility of the SOFA (Sequential Organ Failure Assessment) system. Design A prospective, observational cohort study was made. Setting The resuscitation unit of a third-level university hospital. Patients A prospective, observational cohort study was made of 102 patients with sepsis of abdominal origin and failure of at least one organ related to the infection. The demographic characteristics were documented, along with the abdominal origin of sepsis, mortality after 28 days, and the daily SOFA score. Results The mortality rate after 28 days was 55%. A total of 53% of the patients presented failure of two or more organs on the first day of admission. The mean daily SOFA score was significantly higher among the patients that died after day 4 of admission. The variables showing a statistically significant correlation to increased mortality were: MODS (P=.000), central nervous system failure (P=.000) and SOFA score on day 4 of admission (P=.012). The area under the ROC curve showed the mortality predicting capacity of the SOFA score on day 4 of admission to be 0.703 (95%CI 0.538-0.853; P=.026). The maximum discriminating capacity was recorded for MODS, with an area under the ROC curve of 0.776 (95%CI 0.678-0.874; P=.000).Conclusions Organ failure outcome as predicted by the SOFA score showed high precision &#150; the mean SOFA score on day 4 of admission being a good mortality predictor. MODS was the main cause of death, while central nervous system, renal and respiratory failure were identified as the mortality risk factors (AU)</dc:description>
+<dc:creator>Domenech-Asensi, P</dc:creator>
+<dc:creator>Burguillos-López, S</dc:creator>
+<dc:creator>Sansano-Sánchez, T. V</dc:creator>
+<dc:creator>Hernández-Palazón, J</dc:creator>
+<dc:creator>Fuentes-García, D</dc:creator>
+<dc:creator>Acosta-Villegas, F</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos Identificar los órganos más propensos a desarrollar el síndrome de insuficiencia multiorgánica (MODS) en pacientes con sepsis por peritonitis secundaria. Determinar el valor evolutivo y predictivo de mortalidad del sistema Sequential Organ Failure Assessment (SOFA).Diseño Estudio de cohorte observacional prospectivo. Ámbito La unidad de reanimación (UR) de nuestro centro, un hospital universitario de tercer nivel. Pacientes Estudio prospectivo y observacional sobre 102 pacientes con sepsis de origen abdominal e insuficiencia de al menos un órgano relacionado con la infección. Se registraron las características demográficas, el origen abdominal de la sepsis, la mortalidad a los 28 días y la puntuación SOFA diaria. Resultados La mortalidad a los 28 días fue del 55%. El 53% de los pacientes presentaron fracaso de 2 o más órganos en el primer día de estancia. La puntuación SOFA media diaria fue significativamente mayor en los pacientes fallecidos a partir del cuarto día de estancia. Las variables que se asociaron a una mayor mortalidad de manera estadísticamente significativa fueron: MODS (p=0,000), fallo sistema nervioso central (p=0,000) y puntuación SOFA al cuarto día de estancia (p=0,012). El área bajo la curva ROC expresó una capacidad predictiva de mortalidad el SOFA cuarto día de estancia del 0,703 (IC 95%, 0,538-0,853 y p=0,026. El mejor poder discriminativo se observó para el MODS con área bajo la curva ROC del 0,776 (IC 95%, 0,678-0,874 y p=0,000).Conclusiones La evolución en la insuficiencia de órganos determinada por medio de SOFA mostró una alta precisión siendo un buen predictor de mortalidad la puntuación SOFA media cuarto día de estancia. El MODS fue la principal causa de muerte y el fracaso del sistema nervioso central, función renal y sistema respiratorio los factores de riesgo de muerte (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);37(7): 461-467, oct. 2013. ilus, tab</dc:source>
+<dc:identifier>ibc-121373</dc:identifier>
+<dc:title xml:lang="es">Análisis de la insuficiencia de órganos y mortalidad en la sepsis por peritonitis secundaria</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d3439^s22045</dc:subject>
+<dc:subject>^d9294^s22080</dc:subject>
+<dc:subject>^d32031^s22080</dc:subject>
+<dc:subject>^d12569^s22074</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28632^s22083</dc:subject>
+<dc:subject>^d10728^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201310</dc:date>
+</metadata>
+</record>
+</ibecs-document>

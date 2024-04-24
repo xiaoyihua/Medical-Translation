@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-145041</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Hospital medication errors in a pharmacovigilance system in Colombia</dc:title>
+<dc:description xml:lang="en">Objective: this study analyzes the medication errors reported to a pharmacovigilance system by 26 hospitals for patients in the healthcare system of Colombia. Methods: this retrospective study analyzed the medication errors reported to a systematized database between 1 January 2008 and 12 September 2013. The medication is dispensed by the company Audifarma S.A. to hospitals and clinics around Colombia. Data were classified according to the taxonomy of the National Coordinating Council for Medication Error Reporting and Prevention (NCC MERP). The data analysis was performed using SPSS 22.0 for Windows, considering p-values (AU)</dc:description>
+<dc:creator>Moreno Gutiérrez, Paula Andrea</dc:creator>
+<dc:creator>Machado Alba, Jorge Enrique</dc:creator>
+<dc:creator>Moncada Escobar, Juan Carlos</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: analizar los errores de medicación reportados en un sistema de fármacovigilancia en 26 hospitales para pacientes del sistema de salud de Colombia. Métodos: estudio retrospectivo que evaluó las bases de datos sistematizadas de reportes de errores de medicación entre el 1 de enero de 2008 y el 12 de septiembre de 2013 de los medicamentos dispensados por la empresa Audifarma S.A a hospitales de Colombia. Se utilizó la clasificación taxonómica del National Coordinating Council for Medication Error Reporting and Prevention (NCC MERP). El análisis de los datos se realizó mediante SPSS 22.0 para Windows Se determinó como nivel de significación estadística una p&lt;0,05. Resultados: se reportaron 9.062 EM en 45 servicios farmacéuticos hospitalarios. El 51,9% (n=4.707) de los errores realmente se produjeron, de los cuales el 12,0% (n=567) afectaron al paciente (categorías C a I) y causaron daño (categorías E a I) a 17 (0,36%). El proceso implicado en los EM ocurridos (categorías B a I) con mayor frecuencia fue la prescripción (n=1.758, 37,3%), seguido por la dispensación (n=1.737, 36,9%), la transcripción (n=970, 20,6%) y, por último, la administración (n=242, 5,1%). Los errores relacionados con los procesos de administración aumentaban 45,2 veces el riesgo de que el medicamento erróneo afectara al paciente (IC 95% 20,2-100,9). Conclusiones: es necesario aumentar la cobertura de los sistemas de reporte de errores de medicación, y crear estrategias para su prevención, especialmente en la etapa de administración del medicamento (AU)</dc:description>
+<dc:source>Farm Hosp;39(6): 338-349, nov.-dic. 2015. graf, tab</dc:source>
+<dc:identifier>ibc-145041</dc:identifier>
+<dc:title xml:lang="es">Errores de medicación identificados por un sistema de farmacovigilancia de instituciones hospitalarias en Colombia</dc:title>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d8675^s22083</dc:subject>
+<dc:subject>^d^s22083</dc:subject>
+<dc:subject>^d54726</dc:subject>
+<dc:subject>^d4421^s22080</dc:subject>
+<dc:subject>^d30150^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3137^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201512</dc:date>
+</metadata>
+</record>
+</ibecs-document>

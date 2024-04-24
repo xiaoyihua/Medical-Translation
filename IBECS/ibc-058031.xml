@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-058031</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Predictive value of differential pulse pressure in the diagnosis of silent myocardial ischemia in patients with type-2 diabetes</dc:title>
+<dc:description xml:lang="en">Silent myocardial ischemia occurs more frequently in diabetics. Differential arterial pulse pressure is a valuable predictor of cardiovascular disease. We studied 48 consecutive male patients with type-2 diabetes and no known history of ischemic heart disease. Ambulatory monitoring of arterial pressure was carried out and the presence of silent myocardial ischemia was studied using a protocol that involved: resting ECG, echocardiography, 24-hour Holter ECG, conventional exercise stress testing, and exercise testing with nuclear scanning. Nine patients (19%) had silent myocardial ischemia. Differential pulse pressure had good discriminative ability in identifying the presence of silent ischemia: the area under the receiver operating characteristic (ROC) curve was 0.83 (95% confidence interval [CI], 0.71-0.96; P=.002). This predictive ability was also observed on adjusted logistic regression modeling (odds ratio [OR], 1.24, 95% CI = 1.02-1.49). We found that the OR for the risk of silent ischemia for every 10-mmHg increase in differential pulse pressure was 8.5 (95% CI 1.7-31.2). Age and differential pulse pressure were the only independent predictors of silent myocardial ischemia found in this study (AU)</dc:description>
+<dc:creator>Gómez, Manuel J</dc:creator>
+<dc:creator>Roldán, Ildefonso</dc:creator>
+<dc:creator>García, Katherine</dc:creator>
+<dc:creator>Rincón de Arellano, Adolfo</dc:creator>
+<dc:creator>Díez, José L</dc:creator>
+<dc:creator>Sanmiguel, Darío</dc:creator>
+<dc:creator>Salvador, Antonio</dc:creator>
+<dc:creator>Hernández-Mijares, Antonio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La isquemia miocárdica silente es más frecuente en diabéticos. La presión arterial diferencial del pulso tiene valor como predictora de riesgo de enfermedad cardiovascular. Estudiamos a 48 varones diabéticos tipo 2 consecutivos sin antecedentes de cardiopatía isquémica. Realizamos medición ambulatoria de la presión arterial y un protocolo de estudio de isquemia miocárdica silente que incluyó: ECG en reposo, ecocardiograma, Holter-ECG-24 h y ergometría convencional y con isótopos radiactivos. Nueve pacientes (19%) presentaron isquemia miocárdica silente. La presión diferencial del pulso mostró buena capacidad discriminadora para determinar la presencia de isquemia silente (área bajo la curva [COR] = 0,83; intervalo de confianza [IC] del 95%, 0,71-0,96; p = 0,002). El efecto predictor se mantuvo en el modelo de regresión logística ajustado (odds ratio [OR] = 1,24; IC del 95%, 1,02-1,49). Estimamos una OR de 8,5 (IC del 95%, 1,7-31,2) por cada incremento de 10 mmHg de la presión diferencial del pulso para el riesgo de presentar isquemia silente. La edad y la presión diferencial del pulso fueron los únicos predictores independientes de isquemia miocárdica silente encontrados en este estudio (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;60(5): 543-547, mayo 2007. ilus, tab</dc:source>
+<dc:identifier>ibc-058031</dc:identifier>
+<dc:title xml:lang="es">Valor predictivo de la presión diferencial del pulso en el diagnóstico de isquemia miocárdica silente en pacientes con diabetes tipo 2</dc:title>
+<dc:subject>^d1822^s22045</dc:subject>
+<dc:subject>^d3946^s22012</dc:subject>
+<dc:subject>^d555</dc:subject>
+<dc:subject>^d30650^s22016</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d30650^s22012</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200705</dc:date>
+</metadata>
+</record>
+</ibecs-document>

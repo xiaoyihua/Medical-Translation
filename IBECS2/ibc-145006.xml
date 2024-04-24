@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-145006</identifier>
+<setSpec>0014-2565</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">If the results of an article are noteworthy, read the entire article; do not rely on the abstract alone</dc:title>
+<dc:description xml:lang="en">Clinicians typically update their knowledge by reading articles on the Internet. Easy access to the articles&#146; abstracts and a lack of time to access other information sources creates a risk that therapeutic or diagnostic decisions will be made after reading just the abstracts. Occasionally, however, the abstracts of articles from clinical trials that have not obtained statistically significant differences in the primary study endpoint have reported other positive results, for example, of a secondary endpoint or a subgroup analysis. The article, however, correctly reports all results, including those of the primary endpoint. In the abstract, the safety information of the experimental treatment is usually deficient. The whole article should be read if a clinical decision is to be made (AU)</dc:description>
+<dc:creator>Dal-Ré, R</dc:creator>
+<dc:creator>García-Puig, J</dc:creator>
+<dc:creator>Castell, MV</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Es habitual que los clínicos actualicen sus conocimientos con la lectura de artículos a través de Internet. El fácil acceso al resumen de los artículos y la falta de tiempo para acceder a otros tipos de fuentes de información hace que exista el riesgo de que, en ocasiones, se puedan tomar decisiones terapéuticas o diagnósticas tras la sola lectura de los resúmenes. Ocasionalmente, sin embargo, en los resúmenes de artículos de ensayos clínicos que no han obtenido diferencias estadísticamente significativas en la variable principal de evaluación, se informa de otros resultados positivos, por ejemplo, de una variable secundaria o en un subgrupo de participantes. En el artículo, no obstante, se informa correctamente de todos los resultados obtenidos, incluso de los de la variable principal de evaluación. En el resumen, la información de seguridad del tratamiento experimental suele ser deficiente. Se debe leer el artículo completo si se va a tomar una decisión clínica (AU)</dc:description>
+<dc:source>Rev Clin Esp;215(8): 454-457, nov. 2015.</dc:source>
+<dc:identifier>ibc-145006</dc:identifier>
+<dc:title xml:lang="es">Si le llaman la atención los resultados de un artículo, léalo completo, no se fíe solo del resumen</dc:title>
+<dc:subject>^d37673^s22066</dc:subject>
+<dc:subject>^d33618^s22048</dc:subject>
+<dc:subject>^d33921^s22074</dc:subject>
+<dc:subject>^d37673^s22045</dc:subject>
+<dc:subject>^d37673^s22048</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22519^s22074</dc:subject>
+<dc:subject>^d33921^s22066</dc:subject>
+<dc:subject>^d33618^s22074</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d31152^s22066</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d33618^s22066</dc:subject>
+<dc:subject>^d12527^s22066</dc:subject>
+<dc:subject>^d12527^s22048</dc:subject>
+<dc:subject>^d12527^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201511</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-113192</identifier>
+<setSpec>1139-9287</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Measuring the impact factor of individual researchers in biomedical disciplines</dc:title>
+<dc:description xml:lang="en">The authors propose an algorithm for calculating the cumulative personal impact factor of the publications of any researcher whose research activity involves reporting findings in scientific journals or books in the researcher&#146;s field of specialization. This algorithm takes into account the number of times that each published article or book is cited, self-citations, the position of the researcher&#146;s name in the authorship list of each article or book chapter, and the density of this cumulative impact in relation to the researcher&#146;s total production. In addition, it takes into account the type of article or book assessed (review or original research paper), and the length of time since the researcher&#146;s last publication. This algorithm could be useful for the evaluation of the investigational quality of the subjects, in personnel selection processes in which the candidate&#146;s research performance comparisons of the personal scientific influence of various subjects and different research centers (AU)</dc:description>
+<dc:creator>Ramos-Brieva, Jesús</dc:creator>
+<dc:creator>Cordero-Villafáfila, Amelia</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Los autores proponen un algoritmo para calcular el factor de impacto acumulado personal de las publicaciones de cualquier investigador cuya actividad exija informar de sus hallazgos en revistas científicas y en libros de su especialidad. Dicho algoritmo tiene en cuenta el número de citas que recibe cada artículo y libro publicado, las autocitas, el lugar que ocupa el investigador entre los firmantes de cada artículo o capítulo de libro, así como la densidad de ese impacto en su producción total. Además, tiene en cuenta el tipo de artículo o libro evaluado (revisiones o investigaciones originales), y el tiempo en el que el investigador ha permanecido inactivo. Este algoritmo podría ser útil para la evaluación de la calidad investigadora de los sujetos, en los procesos de selección de personal donde se valore su capacidad investigadora, y permitiría comparar la influencia científica personal entre varios sujetos y la de diferentes centros de investigación (AU)</dc:description>
+<dc:source>Actas Esp Psiquiatr;41(3): 175-184, mayo-jun. 2013. tab</dc:source>
+<dc:identifier>ibc-113192</dc:identifier>
+<dc:title xml:lang="es">Evaluación del factor de impacto personal de cada investigador en disciplinas biomédicas</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d50088</dc:subject>
+<dc:subject>^d1325</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d53384</dc:subject>
+<dc:subject>^d50123</dc:subject>
+<dc:subject>^d37673^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201306</dc:date>
+</metadata>
+</record>
+</ibecs-document>

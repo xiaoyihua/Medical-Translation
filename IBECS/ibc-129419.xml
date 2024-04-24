@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-129419</identifier>
+<setSpec>0001-6640</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Basis for fluid and electrolyte therapy. Physiological models of acid-base balance (III): Practical use of Stewart&#146;s physico-chemical model bedside in the pediatric intensive care unit (part 2)</dc:title>
+<dc:description xml:lang="en">A revolution has recently undergone in the last two decades in the scientific understanding of acid-base physiology and dysfunction. In the first part of this series we review the "traditional" model, the current bicarbonate-centered approach based on the pioneering work of Henderson and Hasselbalch, still the most widely used in clinical practice. In the second and third part we review theoretically other modern approaches, particularly Stewart's one, derived in the late 1970s from the laws of physical chemistry. Whit this approach, as developed by Peter Stewart and Peter Constable, using the partial pressure of carbon dioxide (pCO2), the strong ion difference (SID) and the concentration of weak acids ([Atot]) we can now predict accurately the acidity of plasma and deduce the net concentration of unmeasured ions (NUI). Acid-base interpretation has ceased to be an intuitive an arcane art and became an exact computation that can be automated with modern software. In the last three parts, using at the bedside the quantitative strong ion calculator together with the medical history, we show how quantitative acid-base analysis has advantages over traditional approaches, mainly in the extreme physiological situations of clinical scenarios like the paediatric intensive care unit or the congenital metabolic diseases (AU)</dc:description>
+<dc:creator>Vidal Micó, S</dc:creator>
+<dc:creator>Sánchez Zahonero, S</dc:creator>
+<dc:creator>Ibáñez Clemente, B</dc:creator>
+<dc:creator>Ibiza Palacios, E</dc:creator>
+<dc:creator>Modesto i Alapont, V</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En las últimas dos décadas hemos asistido a una revolución en el conocimiento científico de la fisiología y las alteraciones del equilibrio ácido-base. En la primera parte de esta serie de ar­tículos revisamos el modelo «tradicional», la aproximación centrada en el bicarbonato y basada en el trabajo pionero de Henderson y Hasselbalch, que es aún la más utilizada en la práctica clínica diaria. En la segunda y la tercera parte revisamos la teoría de otros modelos más modernos, particularmente el de Stewart, derivado al final de los años setenta desde las leyes de la química física. Con este modelo, tal como fue desarrollado por Peter Stewart y Peter Constable, utilizando la presión parcial de dióxido de carbono (pCO2), la diferencia de iones fuertes (SID) y la concentración total de ácidos débiles ([Atot]), somos capaces de predecir con exactitud la acidez del plasma y deducir el saldo neto de iones no medidos (NUI). La interpretación del equilibrio ácido-base no será nunca más un arte intuitivo y arcano. Se ha convertido en un cálculo exacto que puede realizarse automáticamente con ayuda del software moderno. En las últimas tres partes, utilizando a pie de cama el strong ion calculator y la historia clínica, mostraremos cómo el modelo fisicoquímico cuantitativo tiene ventajas sobre los tradicionales, principalmente en las situaciones fisiológicas extremas que se viven con los pacientes de la unidad de cuidados intensivos pediátrica o en las alteraciones congénitas del metabolismo (AU)</dc:description>
+<dc:source>Acta Pediatr Esp;71(9): 199-203, oct. 2013. graf</dc:source>
+<dc:identifier>ibc-129419</dc:identifier>
+<dc:title xml:lang="es">Bases para la terapia con líquidos y electrólitos. Modelos fisiológicos del equilibrio ácido-base (III): Uso práctico del modelo fisicoquímico de Stewart a pie de cama en la unidad de cuidados intensivos pediátrica (parte 2)</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d52507</dc:subject>
+<dc:subject>^d7406</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d19051^s22012</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d2673^s22045</dc:subject>
+<dc:subject>^d19051^s22017</dc:subject>
+<dc:subject>^d19051^s22016</dc:subject>
+<dc:subject>^d7645^s22073</dc:subject>
+<dc:subject>^d4645^s22073</dc:subject>
+<dc:subject>^d15271</dc:subject>
+<dc:subject>^d53557^s22012</dc:subject>
+<dc:subject>^d10130^s22015</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201310</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-2214</identifier>
+<setSpec>0212-6567</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Validity of an indicator of the quality of pharmacological prescription in patients with hyperlipaemia</dc:title>
+<dc:creator>Fidalgo García, L</dc:creator>
+<dc:creator>López Bilbao, C</dc:creator>
+<dc:creator>Rodríguez Escolar, C</dc:creator>
+<dc:creator>Escortell Mayor, E</dc:creator>
+<dc:creator>Fernández San Martín, M. I</dc:creator>
+<dc:creator>Sanz Cuesta, T</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Objetivos. El sistema informático de facturación de recetas (SIFAR) permite la obtención de indicadores para el estudio y seguimiento de la utilización de medicamentos en las áreas de atención primaria del INSALUD. Concretamente, estudiamos el indicador referido al consumo de hipolipemiantes en población pensionista (CHPP), no validado y cuyo valor es esperable que disminuya al incrementarse la calidad. El objetivo es estimar la correlación del indicador de prescripción de hipolipemiantes del SIFAR con el porcentaje de hipolipemiantes correctamente prescritos en pensionistas (PCP). Diseño. Estudio descriptivo de correlación entre 2 indicadores de prescripción farmacológica. Emplazamiento. Cuatro áreas de salud de Madrid. Participantes. Se estudian las prescripciones de 49 médicos generales, elegidos aleatoriamente a partir de 3 estratos definidos por el valor del indicador. Cada médico rellena un protocolo de datos por cada paciente pensionista al que prescribe un hipolipemiante durante el período del estudio. Mediciones y resultados principales. Se comparan los indicadores CHPP y PCP mediante correlación de Spearman. Se han recogido 6.779 prescripciones correspondientes a 1.125 pacientes de los 49 médicos que participaron. El porcentaje medio de envases de hipolipemiantes correctamente prescritos es del 31,9 por ciento, cifra que asciende al 77,5 por ciento si no se exige tener constancia del valor LDL. Las correlaciones obtenidas entre el CHPP y el PCP son cercanas a cero. Conclusiones. El indicador CHPP del SIFAR no discrimina la calidad de prescripción de hipolipemiantes en mayores de 64 años (AU)</dc:description>
+<dc:source>Aten Primaria;27(5): 308-312, mar. 2001.</dc:source>
+<dc:identifier>ibc-2214</dc:identifier>
+<dc:title xml:lang="es">Validez de un indicador de calidad de prescripción farmacológica en pacientes con hiperlipemia</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d5298</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d4422</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d33551</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d7130</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200103</dc:date>
+</metadata>
+</record>
+</ibecs-document>

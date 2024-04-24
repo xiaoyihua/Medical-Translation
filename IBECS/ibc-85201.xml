@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-85201</identifier>
+<setSpec>1888-4008</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Validation procedure of biochemical parameters in a gasometer. Application to the flexible scope in the standard ISO 15189</dc:title>
+<dc:description xml:lang="en">Objectives. Designing a 4 biochemical parameters validation procedure in a gasometer versus an accredited analyzer. This procedure is simple, robust and acceptable according to the standard ISO 15189: 2007 and that can serve as flexible accreditation method. Methods. Sequential measurement in Dimension RxL and GEM 4000 analysers of glucose, Na+, K+ and lactate in 91 patients plasma samples (Lithium heparin) between March and June 2009 (EP-9). Checked outliers and bias results pairs were studied using linear regression analysis and Bland-Altman graphics. Methods. The acceptance criterion was to get a bias lower than quality specifications defined in the accredited laboratory. Results and discussion. The results of glucose and K+ were acceptable, following the procedure 6.1 of EP9 guideline, while for Na+ it was acceptable by the procedure 6.2. For lactate, a superior to the specification of the lab bias was detected. Conclusions. Measuring methods of glucose, sodium and potassium in a GEM 4000 gasometer applying standard EP9 versus Dimension RxL as reference methods have been validated. Lactate could not be validated because the bias exceeded the specification of the laboratory. Conclusions. This procedure is intended as validation tool of methods for laboratories accredited with flexible scope according to UNE EN ISO 15189 standard (AU)</dc:description>
+<dc:creator>Corcho Robleda, M. A</dc:creator>
+<dc:creator>Coca Martín, M. Carmen</dc:creator>
+<dc:creator>Redondo Fernández, Mauricio</dc:creator>
+<dc:creator>Sivera Monzó, Liliana</dc:creator>
+<dc:creator>Bernabeu Andreu, Francisco A</dc:creator>
+<dc:creator>Arribas Gómez, Ignacio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos. Diseñar un procedimiento de validación de 4 magnitudes bioquímicas en un gasómetro frente a un analizador acreditado que sea sencillo, consistente y aceptable según la Norma ISO 15189:2007 y que pueda servir como método de acreditación flexible. Métodos. Medición secuencial en los analizadores Dimension RxL y GEM 4000 de glucosa, sodio (Na+), potasio (K+) y lactato en 91 muestras de plasma (heparina de litio) de pacientes entre marzo y junio de 2009 (EP-9). Se chequearon outliers y error sistemático. Los pares de resultados se estudiaron mediante análisis de regresión lineal y gráficos de Bland-Altman. Métodos. El criterio de aceptación fue obtener un error sistemático inferior a las especificaciones de calidad definidas en el laboratorio acreditado. Resultados y discusión. Los resultados de glucosa y K+ fueron aceptables según el procedimiento 6.1 de la guía EP-9, mientras que Na+ fue aceptable según el procedimiento 6.2. En cuanto a lactato, se detectó un error sistemático superior a la especificación del laboratorio. Conclusiones. Se han validado los métodos de determinación de glucosa, Na+ y K+ en un gasómetro GEM 4000 mediante la aplicación de la norma EP-9 con respecto a los del Dimension RxL (métodos de referencia). El lactato no se pudo validar porque el error sistemático superó la especificación del laboratorio. Conclusiones. Este procedimiento se propone como herramienta de validación de métodos para laboratorios acreditados con alcance flexible según la Norma UNE EN ISO 15189 (AU)</dc:description>
+<dc:source>Rev. lab. clín;3(2): 58-62, abr.-jun. 2010.</dc:source>
+<dc:identifier>ibc-85201</dc:identifier>
+<dc:title xml:lang="es">Procedimiento de validación de magnitudes bioquímicas en un gasómetro. Aplicación al alcance flexible en la Norma ISO 15189</dc:title>
+<dc:subject>^d51924^s22002</dc:subject>
+<dc:subject>^d24769</dc:subject>
+<dc:subject>^d11636^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d11636^s22066</dc:subject>
+<dc:subject>^d51924^s22082</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d11636^s22039</dc:subject>
+<dc:subject>^d32549^s22045</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d52871</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201006</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-055680</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Monitoring of breathing pattern at rest by electrical impedance tomography</dc:title>
+<dc:description xml:lang="en">Objective: Electrical impedance tomography (EIT) involves the application of a small alternating current to produce a series of chest images that can be used to monitor breathing pattern. The relation between chest images and tidal volume has not been sufficiently validated. The aim of the present study was to analyze the correlation between EIT images and the volume­time signal measured with a pneumotachometer in 13 healthy volunteers.                 Material and Methods: The following measurement devices were used: a) MedGraphics preVent&#153; Pneumotach, with special software for recording the volume­time signal (reference test), and b) EIT-4, a fourth-generation prototype unit designed by the Department of Electronic Engineering at the Universidad Politécnica de Cataluña, Spain that records the volume­time signal and produces a graphic depiction of a cross section of the thorax at the sixth intercostal space.                 Results: The mean (SD) tidal volume measured by the pneumotachometer and the EIT-4 was 0.523 (0.102) L and 0.527 (0.106) L, respectively (P value not significant). The linear correlation coefficient between the 2 measurements was 0.923 (P=.001), and the mean of the differences between the 2 procedures was ­-0.003 L (95% confidence interval, -­0.045 to 0.038). The greatest differences were associated with female gender, body mass index, and chest circumference. In view of these differences, a different equation based on these variables was needed for calibration of the EIT-4.                 Conclusions: The EIT-4 provides an alternative means of monitoring breathing pattern, although a number of issues related to the circumference of the rib cage need to be resolved</dc:description>
+<dc:creator>Antón, Daniel</dc:creator>
+<dc:creator>Calaf, Núria</dc:creator>
+<dc:creator>Riu, Pere</dc:creator>
+<dc:creator>Casan, Pere</dc:creator>
+<dc:creator>González, Mercedes</dc:creator>
+<dc:creator>Balleza, Marco</dc:creator>
+<dc:creator>Fornos, Jaume</dc:creator>
+<dc:creator>Feixas, Teresa</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: La tomografía por impedancia eléctrica (TIE) permite realizar un seguimiento del patrón ventilatorio a partir de una secuencia de imágenes torácicas obtenidas por la captación de una corriente alterna de baja intensidad. La relación entre las imágenes torácicas y el volumen circulante no está suficientemente validada. El propósito del presente estudio ha sido comparar, en un grupo de 13 voluntarios sanos, la correspondencia entre las imágenes de la TIE y la señal volumen/tiempo obtenida mediante un neumotacómetro.                 Material y métodos: Los equipos que se utilizaron para las mediciones fueron: a) MedGraphics prevent TM&#153; Pneumotach, implementando el software adecuado para registrar las señales volumen/tiempo (prueba de referencia), y b) TIE-4, cuarta versión de un equipo diseñado por el Departamento de Ingeniería Electrónica de la Universidad Politécnica de Cataluña, que permite tanto el registro de la señal volumen/tiempo como una representación gráfica de la sección transversal situada en el sexto espacio intercostal.                 Resultados: La media ± desviación estándar de volumen circulante obtenida mediante el neumotacómetro fue de 0,523 ± 0,102 l, y con la TIE-4, de 0,527 ± 0,106 l (p no significativa). El coeficiente de correlación lineal entre ambas determinaciones fue de 0,923 (p = 0,001). La media de las diferencias entre ambos procedimientos fue de -­0,003 l (intervalo de confianza del 95%, ­-0,045 a 0,038). Las mayores diferencias estaban relacionadas con el sexo femenino, el índice de masa corporal y el contorno torácico, lo que obligó a una ecuación diferente para calibrar la TIE-4 en función de estas variables.                 Conclusiones: La TIE-4 se presenta como un método alternativo para realizar el seguimiento del patrón ventilatorio, aunque deben resolverse aspectos relacionados con la conformación de la caja torácica</dc:description>
+<dc:source>Arch Bronconeumol;43(6): 300-303, jun. 2007. ilus, tab</dc:source>
+<dc:identifier>ibc-055680</dc:identifier>
+<dc:title xml:lang="es">Seguimiento del patrón ventilatorio en reposo mediante tomografía por impedancia eléctrica</dc:title>
+<dc:subject>^d30743</dc:subject>
+<dc:subject>^d32868</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23484^s22045</dc:subject>
+<dc:subject>^d24542</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d13266</dc:subject>
+<dc:subject>^d12566</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d19200</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200706</dc:date>
+</metadata>
+</record>
+</ibecs-document>

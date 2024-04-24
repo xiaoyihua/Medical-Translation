@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-86186</identifier>
+<setSpec>0014-2565</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Mortality risk factors for bloodstream infections caused by extended-spectrum beta-lactamase-producing microorganisms</dc:title>
+<dc:description xml:lang="en">Objective. To identify risk factors for mortality in patients with bloodstream infection by extended-spectrum beta-lactamase (ESBL)-producing microorganisms. Material and methods. A retrospective study in patients with bloodstream infection by ESBL-producing microorganisms from January 2000 to December 2006 was carried out. Results. A total of 4,172 bloodstream infections were identified, 1,218 (29.2%) and 226 (5.4%) of which were caused by Escherichia coli and Klebsiella pneumoniae, respectively. The overall mortality rate was 50.9% in patients with bacteriema due to ESBL-producing strains. The binomial logistic regression model, adjusted for age and severity, identified admission to an intensive care unit (OR 38,631; 95%CI:3,375-424,618; P=.002) and a SAPS II severity index score &gt;30 in the 24-48h before obtaining blood culture (OR 17,980; 95% CI:2,193-170,439; P=.010) as factors associated to mortality, while the urinary tract as primary site of infection was an independent determinant for non-mortality (OR 0.184; 95% CI:0.034-0.975; P=.047). Conclusions. Patients with suspicion of bacteriema who have been admitted to the ICU with a score of elevated severity should be candidates for early empirical treatments as they have a greater risk of mortality. However, the benefit of this strategy may be limited due to the baseline severity of the patient(AU)</dc:description>
+<dc:creator>Luque, S</dc:creator>
+<dc:creator>Ferrández, O</dc:creator>
+<dc:creator>Salas, E</dc:creator>
+<dc:creator>Terradas, R</dc:creator>
+<dc:creator>Saballs, P</dc:creator>
+<dc:creator>Grau, S</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Identificar los factores de riesgo de mortalidad en pacientes con bacteriemia por microorganismos productores de betalactamasas de espectro extendido (BLEE). Material y métodos. Estudio retrospectivo de cohortes en pacientes con bacteriemia por microorganismos productores de BLEE desde enero de 2000 hasta diciembre de 2006. Resultados. Se identificaron 4.172 episodios de bacteriemia. De ellos, 1.218 (29,2%) fueron causados por Escherichia coli y 226 (5,4%) por Klebsiella pneumoniae, de los que en 42 y en 11 se aislaron cepas productoras de BLEE, respectivamente. La mortalidad cruda fue del 50,9% en los pacientes que presentaron bacteriemia por cepas productoras de BLEE. El modelo de regresión logística binomial, ajustado por edad y gravedad, identificó el ingreso en una unidad de cuidados intensivos (UCI) (odds ratio: 38,631; intervalo de confianza [IC] del 95%, 3,375-424,618; p=0,002) y un valor del índice de gravedad SAPS II superior a 30 en las 24-48h previas a la extracción de la muestra para hemocultivo que posteriormente resultó positivo (OR: 17,980; IC del 95%, 2,193-170,439; p=0,010) como factores asociados a mortalidad, mientras que el presentar bacteriemia de foco urinario resultó un factor protector (OR: 0,184; IC del 95%, 0,034-0,975; p=0,047). Conclusiones. Los pacientes con sospecha de bacteriemia y que hayan presentado un ingreso en la UCI y una puntuación de gravedad elevada deberían ser candidatos a recibir tratamiento empírico precoz al presentar un mayor riesgo de mortalidad. No obstante, el beneficio de esta estrategia puede verse limitado por la gravedad basal del paciente(AU)</dc:description>
+<dc:source>Rev Clin Esp;211(3): 119-126, mar.2011. tab</dc:source>
+<dc:identifier>ibc-86186</dc:identifier>
+<dc:title xml:lang="es">Factores de riesgo de mortalidad en pacientes con bacteriemia por cepas productoras de betalactamasas de espectro extendido</dc:title>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d308^s22073</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30241^s22047</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d30241^s22016</dc:subject>
+<dc:subject>^d19603^s22073</dc:subject>
+<dc:subject>^d30241^s22032</dc:subject>
+<dc:subject>^d24811</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201103</dc:date>
+</metadata>
+</record>
+</ibecs-document>

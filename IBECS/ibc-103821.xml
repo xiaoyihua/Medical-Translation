@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-103821</identifier>
+<setSpec>0365-6691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Automated detection of microaneurysms by using region growing and fuzzy artmap neural network</dc:title>
+<dc:description xml:lang="en">Objective: To assess whether the methodological changes of this new algorithm improves the results of a previously presented strategy. Methods: We enhance the image and filter out the green channel of the digital color retinography. Multitolerance thresholding was applied to obtain candidate points and make a seed growing region by varying intensities. We took 15 characteristics from each region to train a Fuzzy Artmap neural network using 42 retinal photographs. This network was then applied in the study of 11 good quality retinal photographs included in the diabetic retinopathy early detection screening program, with initial stages of retinopathy, obtained with the Topcon NW200 non-mydriatic retinal camera. Results: Two experienced ophthalmologists detected 52 microaneurysms in 11 images. The algorithm detected 39 microaneurysms and 3,752 more regions, confirming 38 microaneurysm and 135 false positives. The sensitivity is improved compared to the previous algorithm, from 60.53 to 73.08%. False positives have dropped from 41.8 to 12.27 per image. Conclusions: The new algorithm is better than the previous one, but there is still room for improvement, especially in the initial determination of seeds(AU)</dc:description>
+<dc:creator>Jiménez, S</dc:creator>
+<dc:creator>Fondón, I</dc:creator>
+<dc:creator>Failde, I</dc:creator>
+<dc:creator>Acha, B</dc:creator>
+<dc:creator>Núñez, F. J</dc:creator>
+<dc:creator>Serrano, C</dc:creator>
+<dc:creator>Alemany, P</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Comprobar si las modificaciones metodológicas de este nuevo algoritmo mejoran el resultado de otra estrategia presentada anteriormente. Métodos: Se realza y filtra la imagen negada del canal verde de la retinografía digital en color. Se aplica una umbralización multitolerancia para obtener puntos candidatos y en cada semilla se realiza un crecimiento de regiones por variación de intensidades. Se toman 15 características de cada región y entrenamos una red neuronal Fuzzy Artmap con 42 retinografías. Se aplica la red en el estudio de 11 retinografías del programa de detección precoz de retinopatía diabética, de buena calidad, con lesiones iniciales, obtenidas con el retinógrafo no midriático Topcon NW200. Resultados: Dos oftalmólogos experimentados detectan 52 microaneurismas en las 11 imágenes. El algoritmo detecta 39 microaneurismas y 3.752 regiones más, confirmando 38 microaneurismas y 135 falsos positivos. La sensibilidad ha mejorado respecto al algoritmo anterior del 60,53 al 73,08%. Los falsos positivos has disminuido de 41,8 por imagen a 12,27. Conclusiones: El nuevo algoritmo presenta indudables mejoras respecto al anterior, pero aún se puede perfeccionar, sobre todo en la determinación inicial de semillas(AU)</dc:description>
+<dc:source>Arch Soc Esp Oftalmol;87(9): 284-289, sept. 2012. ilus, graf</dc:source>
+<dc:identifier>ibc-103821</dc:identifier>
+<dc:title xml:lang="es">Detección automatizada de microaneurismas mediante crecimiento de regiones y red neuronal Fuzzy Artmap</dc:title>
+<dc:subject>^d3954^s22058</dc:subject>
+<dc:subject>^d29935</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3954</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d29235</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201209</dc:date>
+</metadata>
+</record>
+</ibecs-document>

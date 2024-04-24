@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-30325</identifier>
+<setSpec>1137-6627</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Poisoning by caustic substances</dc:title>
+<dc:creator>Mencías, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Departamento de Salud. Gobierno de Navarra</dc:publisher>
+<dc:description xml:lang="es">A la hora de valorar a un paciente que ha ingerido un cáustico existen guías o protocolos de tratamiento discordantes. Diversas ideas o tendencias hablan a favor de diluir, neutralizar, provocar el vómito, realizar lavado gástrico, etc., dependiendo del medio en que se haga la encuesta: domicilio, centro de salud, servicio de urgencias u hospital. Lo mismo sucede con el tipo de diluyente o neutralizante a usar, cómo y cuándo iniciar pauta de tratamiento con corticoides y/o antibióticos y antisecretores, y eso si es que hay que hacerlo. Se ha realizado una revisión bibliográfica exhaustiva, un trabajo experimental y el estudio de diversas guías o protocolos de diagnóstico y tratamiento que se siguen en diversos hospitales españoles. A escala experimental se evidencia que existen marcadores histopatológicos que desaconsejan la utilización de sustancias diluyentes tras la ingestión de álcalis cáusticos. Salvo en los casos de ingesta de sustancias cáusticas sólidas -cristalinas o granulosas- se contraindica, de forma absoluta, la dilución. Los corticoides no son eficaces cuando se ingiere un ácido cáustico; su uso es más que cuestionable tras la ingesta de álcalis cáusticos. El diagnóstico y calidad de tratamiento se apoya en la endoscopia. No existe un criterio único que defina en qué momento (tiempo post-ingesta) es más conveniente llevarla a cabo, aunque el periodo comprendido entre las primeras 6-12 horas es el más adecuado. Se presenta un protocolo independiente de diagnóstico y tratamiento -en forma de algoritmos- que debe seguirse tras la ingesta de ácidos cáusticos o álcalis cáusticos (AU)</dc:description>
+<dc:source>An Sist Sanit Navar;26(supl.1): 191-207, ene. 2003. tab</dc:source>
+<dc:identifier>ibc-30325</dc:identifier>
+<dc:title xml:lang="es">Intoxicación por cáusticos</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d11471^s22016</dc:subject>
+<dc:subject>^d22901^s22021</dc:subject>
+<dc:subject>^d27977</dc:subject>
+<dc:subject>^d11471^s22067</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d2462^s22025</dc:subject>
+<dc:subject>^d11471^s22032</dc:subject>
+<dc:subject>^d28919^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200301</dc:date>
+</metadata>
+</record>
+</ibecs-document>

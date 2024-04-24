@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-159698</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Optimization of the protocols for the use of contrast agents in PET/CT studies</dc:title>
+<dc:description xml:lang="en">The introduction of PET/CT scanners in clinical practice in 1998 has improved care for oncologic patients throughout the clinical pathway, from the initial diagnosis of disease through the evaluation of the response to treatment to screening for possible recurrence. The CT component of a PET/CT study is used to correct the attenuation of PET studies; CT also provides anatomic information about the distribution of the radiotracer. CT is especially useful in situations where PET alone can lead to false positives and false negatives, and CT thereby improves the diagnostic performance of PET. The use of intravenous or oral contrast agents and optimal CT protocols have improved the detection and characterization of lesions. However, there are circumstances in which the systematic use of contrast agents is not justified. The standard acquisition in PET/CT scanners is the whole body protocol, but this can lead to artifacts due to the position of patients and respiratory movements between the CT and PET acquisitions. This article discusses these aspects from a constructive perspective with the aim of maximizing the diagnostic potential of PET/CT and providing better care for patients (AU)</dc:description>
+<dc:creator>Pelegrí Martínez, L</dc:creator>
+<dc:creator>Kohan, AA</dc:creator>
+<dc:creator>Vercher Conejero, JL</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Desde su introducción para uso clínico en 1998, la tomografía por emisión de positrones en combinación con la tomografía computarizada (PET-TC) ha supuesto un progreso en la atención de los pacientes oncológicos, desde el diagnóstico inicial, pasando por la evaluación de la respuesta al tratamiento y hasta la valoración de las posibles recidivas. El componente TC de un estudio PET-TC, además de utilizarse para obtener el factor de corrección de la atenuación, aporta información anatómica de la distribución del radiofármaco y es especialmente útil en las situaciones de falsos positivos y falsos negativos de la PET, mejorando su rendimiento diagnóstico. El uso de contraste (intravenoso u oral), así como la utilización de un componente de TC óptimo, han supuesto una mejora en la detección y la caracterización de las lesiones; no obstante, existen circunstancias en las que no está justificado su uso sistemático. La adquisición estándar de estos equipos híbridos de PET-TC es el protocolo de cuerpo entero, pero pueden producirse artefactos de imagen debido a la posición del paciente y a los movimientos respiratorios entre el tiempo de realización de la TC y de adquisición de la PET. El objetivo del presente artículo es abordar estos aspectos desde una perspectiva constructiva, en un intento de maximizar el potencial diagnóstico de la PET-TC para ofrecer una mejor atención a los pacientes (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);59(1): 64-74, ene.-feb. 2017. tab, ilus</dc:source>
+<dc:identifier>ibc-159698</dc:identifier>
+<dc:title xml:lang="es">Optimización de los protocolos y del uso de contrastes en tomografía computarizada de los equipos de tomografía por emisión de positrones</dc:title>
+<dc:subject>^d27977</dc:subject>
+<dc:subject>^d4367</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3306^s22000</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d12314^s22066</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d33090^s22000</dc:subject>
+<dc:subject>^d38793^s22039</dc:subject>
+<dc:subject>^d29390</dc:subject>
+<dc:subject>^d38793^s22074</dc:subject>
+<dc:subject>^d9562^s29166</dc:subject>
+<dc:subject>^d38793^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201702</dc:date>
+</metadata>
+</record>
+</ibecs-document>

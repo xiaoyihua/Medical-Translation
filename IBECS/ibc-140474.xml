@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-140474</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Excess mortality associated with influenza in Spain in winter 2012</dc:title>
+<dc:description xml:lang="en">Objective: An excess of mortality was detected in Spain in February and March 2012 by the Spanish daily mortality surveillance system and the «European monitoring of excess mortality for public health action» program. The objective of this article was to determine whether this excess could be attributed to influenza in this period. Methods: Excess mortality from all causes from 2006 to 2012 were studied using time series in the Spanish daily mortality surveillance system, and Poisson regression in the European mortality surveillance system, as well as the FluMOMO model, which estimates the mortality attributable to influenza. Excess mortality due to influenza and pneumonia attributable to influenza were studied by a modification of the Serfling model. To detect the periods of excess, we compared observed and expected mortality. Results: In February and March 2012, both the Spanish daily mortality surveillance system and the European mortality surveillance system detected a mortality excess of 8,110 and 10,872 deaths (mortality ratio (MR): 1.22 (95% CI:1.21-1.23) and 1.32 (95% CI: 1.29-1.31), respectively). In the 2011-12 season, the FluMOMO model identified the maximum percentage (97%) of deaths attributable to influenza in people older than 64 years with respect to the mortality total associated with influenza (13,822 deaths). The rate of excess mortality due to influenza and pneumonia and respiratory causes in people older than 64 years, obtained by the Serfling model, also reached a peak in the 2011-2012 season: 18.07 and 77.20, deaths per 100,000 inhabitants, respectively. Conclusion: A significant increase in mortality in elderly people in Spain was detected by the Spanish daily mortality surveillance system and by the European mortality surveillance system in the winter of 2012, coinciding with a late influenza season, with a predominance of the A(H3N2) virus, and a cold wave in Spain. This study suggests that influenza could have been one of the main factors contributing to the mortality excess observed in the winter of 2012 in Spain (AU)</dc:description>
+<dc:creator>Jiménez-Jorge, Silvia</dc:creator>
+<dc:creator>León-Gómez, Inmaculada</dc:creator>
+<dc:creator>Delgado-Sanz, Concepción</dc:creator>
+<dc:creator>Gómez-Barroso, Diana</dc:creator>
+<dc:creator>Mateo Ontañón, Salvador de</dc:creator>
+<dc:creator>Simón, Fernando</dc:creator>
+<dc:creator>Larrauri, Amparo</dc:creator>
+<dc:creator>Flores, Víctor</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: El sistema de monitorización de la mortalidad diaria en España y el programa European monitoring of excess mortality for public health action detectaron un exceso de mortalidad en España en febrero y marzo de 2012. El objetivo de este trabajo es estudiar el papel que puede atribuirse a la gripe como factor de sobremortalidad en ese periodo. Métodos: Se estudiaron los excesos de mortalidad por todas las causas en el periodo 2006-2012 utilizando series temporales en el sistema de vigilancia de la mortalidad diaria español y mediante regresión de Poisson en el sistema de vigilancia de la mortalidad europeo y en un modelo que estima la mortalidad atribuible a la gripe. Los excesos de mortalidad por gripe y neumonía atribuibles a la gripe se estudiaron con un modelo Serfling modificado. Para detectar los periodos de exceso se comparó la mortalidad observada con la esperada. Resultados: En febrero y marzo de 2012, en los sistemas de monitorización de mortalidad español y europeo se detectó un exceso de mortalidad de 8110 y 10.872 defunciones (razón de mortalidad: 1,22, intervalo de confianza del 95% [IC95%]: 1,21-1,23, y 1,32, IC95%: 1,29-1,31, respectivamente). El modelo que estima la mortalidad atribuible a la gripe identificó en la temporada 2011-2012 el máximo porcentaje (97%) de defunciones atribuibles a la gripe en mayores de 64 años con respecto al total de la mortalidad asociada a la gripe (13.822 defunciones). La tasa de excesos de defunciones por gripe y neumonía y causas respiratorias en mayores de 64 años, obtenida con el modelo Serfling, fue máxima en la temporada 2011-2012: 18,07 y 77,20 defunciones por 100.000 habitantes, respectivamente. Conclusiones: Uno de los principales incrementos significativos de la mortalidad acontecidos en España en los inviernos de los últimos años, en mayores de 64 años, fue detectado por los sistemas de monitorización de mortalidad español y europeo en la temporada 2011-2012, coincidiendo en el tiempo con una tardía temporada gripal, con predominio de virus A(H3N2), y una ola de bajas temperaturas. Este estudio muestra que la gripe pudo ser uno de los principales factores contribuyentes al exceso de mortalidad observado en el invierno de 2012 en España (AU)</dc:description>
+<dc:source>Gac Sanit;29(4): 258-265, jul.-ago. 2015. tab, ilus</dc:source>
+<dc:identifier>ibc-140474</dc:identifier>
+<dc:title xml:lang="es">Exceso de mortalidad relacionado con la gripe en España en el invierno de 2012</dc:title>
+<dc:subject>^d28632</dc:subject>
+<dc:subject>^d3111</dc:subject>
+<dc:subject>^d28637</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d24838</dc:subject>
+<dc:subject>^d12560^s22047</dc:subject>
+<dc:subject>^d28441^s22066</dc:subject>
+<dc:subject>^d23109</dc:subject>
+<dc:subject>^d28419</dc:subject>
+<dc:subject>^d51292</dc:subject>
+<dc:subject>^d55054</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d32032</dc:subject>
+<dc:subject>^d51281^s22047</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d11443^s22047</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d13411^s22080</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d13002</dc:subject>
+<dc:subject>^d51282</dc:subject>
+<dc:subject>^d51284</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201508</dc:date>
+</metadata>
+</record>
+</ibecs-document>

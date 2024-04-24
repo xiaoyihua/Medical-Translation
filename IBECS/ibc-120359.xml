@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-120359</identifier>
+<setSpec>0212-1611</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Acute physiological response to indoor cycling with and without hydration; case and self-control study</dc:title>
+<dc:description xml:lang="en">Introduction: Oral rehydration drinks help maintain physical capacity and hydration during exercise. Objective: Evaluate, in a case and self-control study, the effectiveness of three hydration and exercise protocols on work capacity and physical and psychosomatic stress during indoor cycling (InC). Methods: 14 middle-aged eutrophic men participated in three controlled randomly and not sequentially hydration (~278 mL 6/c 15 min) and exercise (InC/90 min) protocols: No liquids, plain water, or sports drinks (SD). The response variables were: Body temperature (BT), heart rate (HR), and mean blood pressure (MBP). The covariables: Distance traveled (DT), ergometer resistance (R), body fat (BF), difference in body weight between tests (rBW), and age of the participants. The differences between protocols were evaluated using GLM Repeated Measures, the independence of associations by multiple linear regression. Results: In non-liquids, the subjects showed higher BT, HR, and MBP than when they drank plain water or SD (p &lt; 0.01). Work capacity was the same in the three hydration protocols. BT was the most sensitive variable detected by the hydration status of the subjects. 34%, 99%, and 21% of the associated variance to HR, MBP, and BT was explained by DT + BT, BT + BF, and ABW + age + R + DT + BF, respectively. Conclusions: Liquid intake with or without electrolytes does not affect work capacity, and they are equally effective as hydration sources during &amp;#8804; 90 min of InC at strong and very strong intensities. Body temperature is the most sensitive variable detected by the subject's hydration status during exercise (AU)</dc:description>
+<dc:creator>Ramos-Jiménez, A</dc:creator>
+<dc:creator>Solis Ceballos, JA</dc:creator>
+<dc:creator>Wall-Medrano, A</dc:creator>
+<dc:creator>Hernández-Torres, RP</dc:creator>
+<dc:creator>Torres-Durán, PV</dc:creator>
+<dc:creator>Juárez-Oropeza, MA</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Introducción: Las bebidas de rehidratación oral ayudan a mantener la capacidad física y el nivel de hidratación durante el ejercicio. Objetivo: Evaluar en un estudio de casos y autocontroles la efectividad de tres protocolos de hidratación y ejercicio sobre la capacidad de trabajo, estrés físico y psicosomático durante el ciclismo de sala (CiS). Métodos: 14 varones eutróficos de mediana edad participaron de manera aleatoria y no consecutiva en tres protocolos de hidratación controlada (~278 mL 6/c 15 min) y ejercicio (CiS/90 min): No líquidos, agua corriente o bebida deportiva (BD). Las variables respuesta fueron: Temperatura corporal (TC), frecuencia cardiaca (FC) y presión sanguínea media (PSM). Las covariables: distancia recorrida (DR), resistencia del ergómetro (R) grasa corporal (GC), pérdida de peso al final del ejercicio (PC) y edad de los participantes. Las diferencias entre los protocolos fueron evaluadas por GLM de Medidas Repetidas, la independencia de las asociaciones por regresión lineal múltiple. Resultados: En no líquidos, los sujetos presentaron mayor TC, FC y PSM que cuando ingirieron agua corriente o BD (p &lt; 0,01). La capacidad de trabajo fue igual en los tres protocolos de hidratación. La TC fue la variable más sensible que detectó el estado de hidratación de los sujetos. El 34%, 99% y 21% de la varianza asociada a FC, PSM y TC lo explicaron DR + TC, TC + GC, y APC + edad + R + DR + GC respectivamente. Conclusiones: La ingesta de líquidos con o sin electrolitos no afecta la capacidad de trabajo y son igualmente efectivos como medios de hidratación durante &amp;#8804; 90 min de Cis a intensidades pesadas y muy pesadas. La TC es la variable más sensible que detecta el estado de hidratación de los sujetos durante el ejercicio (AU)</dc:description>
+<dc:source>Nutr Hosp;28(5): 1487-1493, sept.-oct. 2013. ilus, tab</dc:source>
+<dc:identifier>ibc-120359</dc:identifier>
+<dc:title xml:lang="es">Respuesta fisiológica aguda al ciclismo de sala con y sin hidratación; estudio de casos y autocontroles</dc:title>
+<dc:subject>^d3694^s22054</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d6508^s22020</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1667^s22031</dc:subject>
+<dc:subject>^d53683^s22031</dc:subject>
+<dc:subject>^d4387^s22031</dc:subject>
+<dc:subject>^d13562^s22031</dc:subject>
+<dc:subject>^d14074</dc:subject>
+<dc:subject>^d24551</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201310</dc:date>
+</metadata>
+</record>
+</ibecs-document>

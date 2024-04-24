@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-129920</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">A practical introduction to the hemodynamic analysis of the cardiovascular system with 4 D Flow MRI</dc:title>
+<dc:description xml:lang="en">The 4 D Flow MRI technique provides a three-dimensional representation of blood flow over time, making it possible to evaluate the hemodynamics of the cardiovascular system both qualitatively and quantitatively. In this article, we describe the application of the 4 D Flow technique in a 3 T scanner; in addition to the technical parameters, we discuss the advantages and limitations of the technique and its possible clinical applications. We used 4 D Flow MRI to study different body areas (chest, abdomen, neck, and head) in 10 volunteers. We obtained 3 D representations of the patterns of flow and quantitative hemodynamic measurements. The technique makes it possible to evaluate the pattern of blood flow in large and midsize vessels without the need for exogenous contrast agents (AU)</dc:description>
+<dc:creator>Rascovsky Ramírez, S</dc:creator>
+<dc:creator>Calvo Betancur, V. D</dc:creator>
+<dc:creator>Mesa, S</dc:creator>
+<dc:creator>Delgado de Bedout, J. A</dc:creator>
+<dc:creator>Pineda Zapata, J. A</dc:creator>
+<dc:creator>Bustamante, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La técnica de resonancia magnética 4 D Flow permite evaluar cualitativa y cuantitativamente la hemodinámica del sistema cardiovascular representando en tres dimensiones los patrones de flujo sanguíneo en el tiempo y cuantificando variables hemodinámicas. En este trabajo describimos la técnica 4 D Flow en un equipo de resonancia de 3 T y adicionalmente se exponen, además de los parámetros técnicos, las ventajas, las limitaciones y las posibles aplicaciones clínicas. Para esto estudiamos a diez voluntarios con la técnica 4 D Flow en diferentes áreas corporales (tórax, abdomen, cuello y cráneo) con la que obtuvimos representaciones tridimensionales de los patrones del flujo y medidas cuantitativas hemodinámicas. La técnica permite evaluar los patrones de flujo sanguíneo en vasos grandes y medianos sin la necesidad de contrastes exógenos (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);56(6): 485-495, nov.-dic. 2014.</dc:source>
+<dc:identifier>ibc-129920</dc:identifier>
+<dc:title xml:lang="es">Introducción práctica al análisis hemodinámico del sistema cardiovascular mediante la técnica «4D Flow»</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d2360^s29166</dc:subject>
+<dc:subject>^d23232^s22066</dc:subject>
+<dc:subject>^d23232^s22045</dc:subject>
+<dc:subject>^d3963^s22066</dc:subject>
+<dc:subject>^d1810^s22022</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22935^s22045</dc:subject>
+<dc:subject>^d22935^s22066</dc:subject>
+<dc:subject>^d2359^s29166</dc:subject>
+<dc:subject>^d23405^s22045</dc:subject>
+<dc:subject>^d6590^s22031</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201412</dc:date>
+</metadata>
+</record>
+</ibecs-document>

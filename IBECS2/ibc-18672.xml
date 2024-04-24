@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-18672</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Point processes as a tool for analyzing possible sources of contamination</dc:title>
+<dc:description xml:lang="en">Point pattern analysis pattern comprises a series of techniques that enables the distribution of a series of events occurring in the vicinity of a particular region of a map to be studied. In epidemiology, this problem arises when a potential source of environmental contamination, possibly leading to cases of a specific disease, is investigated. The present study provides a brief description of point pattern analysis. The approach is illustrated through determination of the environmental source and study of the areas of greatest risk of incidence of an outbreak of legionella pneumonia that occurred between the middle of September and beginning of October in the city of Alcoi in Alicante (Spain). Point pattern analysis was able to confirm the environmental source of the outbreak and identify the areas of the city at greatest risk. This provided the justification for an exhaustive inspection of the installations generating aerosols after which, to date, the epidemics ceased (AU)</dc:description>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">El análisis de un patrón puntual engloba una serie de técnicas que permiten estudiar la distribución de un conjunto de eventos ocurridos sobre una región del plano. Este problema surge en epidemiología cuando se investiga una potencial fuente de contaminación ambiental alrededor de la cual se sospecha que surgen casos de una determinada enfermedad. En el presente trabajo, se explica brevemente en qué consiste el análisis de un patrón puntual y se ilustra con una aplicación a la determinación del origen medioambiental y al estudio de las zonas de mayor riesgo de incidencia en un brote de neumonía por Legionella ocurrido entre mediados de septiembre y principios de octubre en la ciudad de Alcoi (Alicante). El estudio permitió confirmar el origen medioambiental del brote y señalar las zonas de la ciudad con mayor riesgo, convirtiéndose en el argumento básico para llevar a cabo una exhaustiva inspección de las instalaciones generadoras de aerosoles, tras la cual, hasta la fecha, cesaron los brotes epidémicos (AU)</dc:description>
+<dc:source>Gac Sanit;16(5): 445-449, sep.  -oct.  2002.</dc:source>
+<dc:title xml:lang="es">Procesos puntuales como herramienta para el análisis de posibles fuentes de contaminación</dc:title>
+<dc:type>article</dc:type>
+<dc:creator>López Quílez, A</dc:creator>
+<dc:creator>Martínez Beneito, M. A</dc:creator>
+<dc:creator>Abellán, J. J</dc:creator>
+<dc:creator>Ferrándiz, J</dc:creator>
+<dc:creator>Jorques, G</dc:creator>
+<dc:creator>Zurriaga, O</dc:creator>
+<dc:language>es</dc:language>
+<dc:identifier>ibc-18672</dc:identifier>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4864</dc:subject>
+<dc:subject>^d33671</dc:subject>
+<dc:date>200210</dc:date>
+</metadata>
+</record>
+</ibecs-document>

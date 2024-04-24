@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-050433</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Positron-emission tomography/computed tomography: artifacts and pitfalls in cancer patients</dc:title>
+<dc:description xml:lang="en">Diagnostic accuracy and correct initial staging (or restaging) are fundamental in the management of oncological patients and can directly influence therapeutic decisions. The combination of positron-emission tomography (PET) and computed tomography (CT) in a single scanner (PET/TC) represents an important achievement in the fields of oncology, nuclear medicine, and radiology. These scanners allow morphologic images (obtained by CT) to be fused and correlated with metabolic images (obtained by PET) to a high degree of accuracy. In addition to an understanding of the physiopathology of cancer and the behavior of the different types of neoplasms, the correct interpretation of PET/CT images requires in-depth knowledge of the physiological distribution of the F-18 fluorodeoxyglucose molecule (FDG, currently the most widely used marker in oncology), of the frequent physiological variations in its distribution, and of the possible causes of non-malignant pathological FDG uptake. Furthermore, the use of CT data to correct attenuation and reconstruct PET images in PET/CT scanners can generate some characteristic artifacts specific to this new diagnostic tool, and these can lead to misinterpretation with potential therapeutic implications. This article reviews and illustrates some of the most common artifacts and pitfalls that can appear in PET/CT studies. The detection and correct interpretation of these findings are essential for the appropriate management of oncologic patients</dc:description>
+<dc:creator>Raman, S</dc:creator>
+<dc:creator>Echeveste Aizpurúa, J</dc:creator>
+<dc:creator>Gorospe Sarasúa, L</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La precisión diagnóstica y la correcta estadificación inicial (o reestadificación) de los pacientes con cáncer son aspectos fundamentales del manejo del paciente oncológico, y pueden influir directamente en la adopción de diferentes decisiones terapéuticas. La combinación de una tomografía por emisión de positrones (PET) y de una tomografía computarizada (TC) en un único equipo (PET/TC) representa, en este sentido, un importante hito en los campos de la oncología, de la medicina nuclear y de la radiología, permitiendo fusionar y correlacionar con un elevado grado de precisión imágenes morfológicas (obtenidas mediante TC) y metabólicas (obtenidas mediante PET). La interpretación correcta de las imágenes de PET/TC requiere, aparte de una comprensión de la fisiopatología del cáncer y del comportamiento de los diferentes tipos de neoplasias, un profundo conocimiento de la distribución fisiológica de la molécula de F-18 fluorodeoxiglucosa (FDG) (el marcador más empleado actualmente en oncología), de las frecuentes variaciones fisiológicas de su distribución y de las posibles causas de captación patológica no maligna de FDG. Además, la utilización de los datos de la TC para corregir la atenuación y reconstruir las imágenes de PET en las unidades combinadas de PET/TC puede generar algunos artefactos característicos y específicos de esta nueva herramienta diagnóstica, los cuales pueden conducir a malinterpretaciones con potenciales implicaciones terapéuticas. En este artículo repasamos e ilustramos algunos de los artefactos y pitfalls más frecuentes que pueden aparecer en los estudios de PET/TC, y cuya detección y adecuada interpretación es esencial para el correcto manejo de los pacientes oncológicos</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);48(4): 189-205, jul. 2006. ilus</dc:source>
+<dc:identifier>ibc-050433</dc:identifier>
+<dc:title xml:lang="es">Tomografía por emisión de positrones/tomografía computarizada: artefactos y pitfalls en pacientes con cáncer</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d24339^s22066</dc:subject>
+<dc:subject>^d24375^s22066</dc:subject>
+<dc:subject>^d9562^s22016</dc:subject>
+<dc:subject>^d22878^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d33478</dc:subject>
+<dc:subject>^d19200</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200607</dc:date>
+</metadata>
+</record>
+</ibecs-document>

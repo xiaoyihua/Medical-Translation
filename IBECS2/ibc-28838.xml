@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-28838</identifier>
+<setSpec>1130-5665</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Basic concepts on patient's safety</dc:title>
+<dc:creator>Bañeres, J</dc:creator>
+<dc:creator>Suñol, R</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Editorial Mapfre</dc:publisher>
+<dc:description xml:lang="es">La seguridad de los pacientes es una dimensión de calidad de la atención sanitaria .Es un tema que preocupa desde hace mucho tiempo, sin embargo en la última década, diversos estudios realizados han revelado el gran impacto en la morbimortalidad de los eventos adversos. Estos resultados, sumados a la creciente participación de los ciudadanos, han posicionado el tema de la seguridad de los pacientes en un lugar prioritario de la política sanitaria. Los estudios realizados, en primera instancia, han estado orientados a conocer la importancia del problema en diversos países y, posteriormente, a sugerir diversas formas de abordaje. Los autores del artículo introducen el concepto moderno de seguridad clínica, dando a conocer el cambio de enfoque del planteamiento de los errores, pasando de un modelo centrado en la persona a uno centrado en el sistema, donde la premisa es que los errores son esperables y se visualizan como consecuencias y no como causas. Es así, como el análisis de los fallos y la revisión de las condiciones latentes de los errores, es fundamental para su abordaje. También se comentan los diferentes paradigmas de la visión clínica y epidemiológica, legal y de los ciudadanos respecto a los eventos adversos. Por último se describen las principales iniciativas de abordaje de la mejora de la seguridad, tanto en el ámbito nacional como internacional, donde el denominador común se basa en un modelo prevencionista y de minimización del riesgo de los pacientes (AU)</dc:description>
+<dc:source>MAPFRE med;14(4): 265-269, ene. 2003.</dc:source>
+<dc:identifier>ibc-28838</dc:identifier>
+<dc:title xml:lang="es">Conceptos básicos sobre seguridad clínica</dc:title>
+<dc:subject>^d12224^s22066</dc:subject>
+<dc:subject>^d7231^s22080</dc:subject>
+<dc:subject>^d31061^s22045</dc:subject>
+<dc:subject>^d28418</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d33121</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200301</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-93375</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">No disponible</dc:title>
+<dc:description xml:lang="en">Objectives: To describe the behavior and variability of methotrexate(MTX) pharmacokinetic parameters in patients with non-Hodgkin lymphoma (NHL) and to suggest a monitoring system to optimize sample collection using a bayesian method.Method: Two adult patient groups diagnosed with differentNHL types were studied. Group I was made up of 9 patients aged53 ± 16 years who received MTX at a mean dose of 1.652 ± 327mg per course. Group II was made up of 7 patients aged 53 ± 14 years who received MTX at a mean dose of 1.862 ± 220 mg percourse. No statistically significant differences between groups were seen. Serum MTX measurements were performed using polarized immunofluorescence (TDx® system). The pharmacokinetic analysiswas performed using Abbottbase Pharmacokinetics Systems®(PKS®) software, adjusting experimental data according to a bicompart mentallinear model for intravenous delivery using non-linearregression in Group I and Bayesian estimates in Group II. By estimatingmean square error and linear regression between predicted and experimental concentrations, the capability of the Bayesianmethod implemented in PKS to predict plasma MTX concentration (..) (AU)</dc:description>
+<dc:creator>Fernández, M. J</dc:creator>
+<dc:creator>Alós, M</dc:creator>
+<dc:creator>Ezquer, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Describir el comportamiento y la variabilidad de los parámetros farmacocinéticos del metotrexato (MTX) en pacientes con linfoma no Hodgkin (LNH) y proponer una sistemática demonitorización que optimice la toma de muestras, utilizando el método bayesiano.Método: Se estudian dos grupos de pacientes adultos, diagnosticados de distintos tipo de LNH. El grupo I lo forman 9pacientes de 53 ± 16 años de edad que reciben una dosis mediade 1.652 ± 327 mg de MTX por ciclo. El grupo II lo forman 7 pacientes de 53 ± 14 años que reciben una dosis media de 1.862± 220 mg por ciclo. No existen diferencias estadísticamente significativas entre los grupos. Las determinaciones de MTX en suerose efectuaron mediante inmuno fluorescencia polarizada (sistemaTDx®). El análisis farmacocinético se ha realizado con el programa Abbottbase Pharmacokinetics Systems® (PKS®), ajustando los datos experimentales a un modelo bicompartimental lineal de administración intravenosa, por regresión no lineal en el grupo I y por estimación bayesiana en el grupo II. Mediante la estimación del error cuadrático medio y de la regresión lineal entre la concentración (..) (AU)</dc:description>
+<dc:source>Farm Hosp;28(6): 433-439, ene. -dic. 2004. ilus, tab</dc:source>
+<dc:identifier>ibc-93375</dc:identifier>
+<dc:title xml:lang="es">Monitorización farmacocinética del metotrexato en infusión de24 horas en una población adulta afectada de linfoma no Hodgkin</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d19237^s22057</dc:subject>
+<dc:subject>^d30150^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d19210^s22045</dc:subject>
+<dc:subject>^d28169^s22079</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200400</dc:date>
+</metadata>
+</record>
+</ibecs-document>

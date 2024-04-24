@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-118536</identifier>
+<setSpec>2013-6889</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Alzheimer's disease and other dementias in the InformationSystem for Primary Care Research Development (SIDIAP)</dc:title>
+<dc:description xml:lang="en">Computerized databases of primary care clinical records are widely used for epidemiological research, particularly in studies of disease prevalence and incidence, studies of health services and in pharmacoepidemiological research. The Information System for the Development of Research in Primary Care (SIDIAP) was created in 2010 by the Catalan Institute of Health (ICS) and the Jordi Gol Primary Care Research Institute (IDIAP Jordi Gol). SIDIAP comprises clinical information recorded by primary care health professionals (GPs and nurses) and administrative staff in electronic medical records, including sociodemographic characteristics, morbidity (International Classification of Diseases, ICD-10), clinical and lifestyle variables, laboratory tests and treatments (drug prescriptions, drugs purchased at the community pharmacy) and also hospital discharge information. The database contains this information for almost five million people, representing approximately 80% of the total population aged over 15 years old in Catalonia (north-east Spain). The fact that these databases can provide large sample sizes at a comparatively low cost and that they permit long follow-up periods without directly requiring the participation of the subjects, whilst minimizing biases such as the Healthy Worker and the Hawthorne effects, has made them especially interesting for public health research. Alzheimer's dementia is a clear example of pathology in which the information provided by SIDIAP can be very useful for research purposes. SIDIAP allows cross-sectional studies for the analysis of treatment patterns or co-morbidities associated with dementia; cohort studies with long follow- up periods or case-control study to evaluate risk factors associated with the onset of various dementias and also permit studies of effectiveness of treatments and preventive interventions (AU)</dc:description>
+<dc:creator>Fina Avilés, Francesc</dc:creator>
+<dc:creator>Garcia Gil, María del Mar</dc:creator>
+<dc:creator>Ponjoan Thäns, Anna</dc:creator>
+<dc:creator>Castells Cervelló, Xavier</dc:creator>
+<dc:creator>Ramos Blanes, Rafel</dc:creator>
+<dc:creator>Morros Pedrós, Rosa</dc:creator>
+<dc:creator>Capellà Hereu, Dolors</dc:creator>
+<dc:creator>Bolíbar i Ribas, Bonaventura</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La informatización de la historia clínica en el ámbito de la Atención Primaria proporciona un gran potencial para la investigación, particularmente en estudios de prevalencia e incidencia, en estudios de evaluación de servicios de salud y en estudios de farmacoepidemiología. El Institut Català de la Salut y el IDIAP Jordi Gol crearon SIDIAP en el año 2010. Esta base de datos contiene la información clínica registrada por profesionales de atención primaria de la salud (médicos y enfermeras) y personal administrativo de los registros médicos electrónicos, incluyendo las características sociodemográficas, la morbilidad (Clasificación Inter - nacional de Enfermedades, CIE-10), variables clínicas y de estilos de vida, pruebas de laboratorio y tratamientos (prescripciones médicas, medicamentos dispensados en la farmacia), y también información de las altas hospitalarias. La base de datos contiene esta información de cerca de cinco millones de personas, lo que representa aproximadamente el 80 % de la población total mayor de 15 años de edad de Cataluña. Las bases de datos de atención primaria como SIDIAP presentan unas claras ventajas en relación con otras fuentes de información: contienen grandes muestras, permiten seguimientos de larga duración, tienen bajo coste, permiten relación con múltiples fuentes de información, no interfieren en la práctica clínica, y aportan representatividad de la práctica real. La demencia de Alzheimer (DA) es un claro ejemplo de patología para la que la información adicional que pueden proporcionar estudios realizados en la base de datos SIDIAP puede ser de gran utilidad. SIDIAP permite diseñar estudios transversales para el análisis de patrones de tratamientos o comorbilidades asociadas a las demencias; estudios de cohortes con largos períodos de seguimiento o estudios de caso y control para evaluar factores de riesgo asociados a la aparición de las distintas demencias y estudios de efectividad de los tratamientos y las intervenciones preventivas (AU)</dc:description>
+<dc:source>Alzheimer (Barc., Internet);(55): 12-20, sept.-dic. 2013. ilus, tab</dc:source>
+<dc:identifier>ibc-118536</dc:identifier>
+<dc:title xml:lang="es">La enfermedad de Alzheimer y otras demencias en el Sistema de Información para el Desarrollo de la Investigación en Atención Primaria (SIDIAP)</dc:title>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d545^s22012</dc:subject>
+<dc:subject>^d545^s22057</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d545^s22080</dc:subject>
+<dc:subject>^d53206^s22048</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d11756^s22074</dc:subject>
+<dc:subject>^d11756^s22049</dc:subject>
+<dc:subject>^d28219^s22048</dc:subject>
+<dc:subject>^d11756^s22048</dc:subject>
+<dc:subject>^d11756^s22045</dc:subject>
+<dc:subject>^d11756^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201312</dc:date>
+</metadata>
+</record>
+</ibecs-document>

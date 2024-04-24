@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-052000</identifier>
+<setSpec>0556-6177</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prophylaxis of venous thromboembolism</dc:title>
+<dc:description xml:lang="en">Hospitalized patients with acute medical conditions are at significantrisk of venous thromboembolism: approximately 10-30% of generalmedical patients may develop deep-vein thrombosis (DVT) or pulmonaryembolism (EP), which contribute to deaths in hospital. However, manypatients may not receive appropriate prophylaxis. Importantly, despiterecent guidelines and consensus-group recommendations prophylaxisagainst venous thromboembolism remains underused among high-riskhospitalized patients.We have recently developed at the University Hospital of Navarra acomputer-alert program to identify patients at risk for DVT and PE, toencourage prophylaxis in order to reduce the rates of venousthromboembolism among hospitalized patients. This computer-baseddecision-making system may be effective to increase the indications ofprophylaxis against DVT and PE among hospitalized patients</dc:description>
+<dc:creator>Iglesias, R</dc:creator>
+<dc:creator>Lecumberri, R</dc:creator>
+<dc:creator>Ruiz de Gaona, E</dc:creator>
+<dc:creator>Feliu, J</dc:creator>
+<dc:creator>Páramo, J. A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La enfermedad tromboembólica venosa (ETEV) supone una importantecausa de morbi-mortalidad en pacientes hospitalizados: aproximadamenteel 10-30% de pacientes con diferentes patologías médicas puedendesarrollar una trombosis venosa profunda (TVP) o un embolismopulmonar (EP) en el curso de su hospitalización. Sin embargo, hay unainfrautilización de la profilaxis de la ETEV en estos pacientes a pesar delas recomendaciones realizadas en guías clínicas y conferencias de consensorecientes.Hemos desarrollado un programa computarizado en la Clínica Universitariade Navarra, empleando datos de la historia clínica del paciente,con el fin de identificar aquellos con mayor riesgo de desarrollar ETEVpara alertar al médico del riesgo individual y facilitar la adopción demedidas profilácticas. Su puesta en marcha permitirá al clínico incrementarel uso de la profilaxis y reducir así la incidencia de ETEV enpacientes hospitalizados</dc:description>
+<dc:source>Rev Med Univ Navarra;50(1): 17-23, ene. 2006. tab</dc:source>
+<dc:identifier>ibc-052000</dc:identifier>
+<dc:title xml:lang="es">Profilaxis del tromboembolismo venoso: recomendaciones en pacientes médicos y sistema de alarma electrónica en pacientes hospitalizados</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d3439^s22045</dc:subject>
+<dc:subject>^d14308^s22054</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d14587</dc:subject>
+<dc:subject>^d33939^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d31696^s22073</dc:subject>
+<dc:subject>^d6916</dc:subject>
+<dc:subject>^d12092^s22054</dc:subject>
+<dc:subject>^d33768^s22054</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200601</dc:date>
+</metadata>
+</record>
+</ibecs-document>

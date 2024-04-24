@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-31669</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cost-utility analysis of multiple sclerosis treatment with glatiramer acetate or interferon beta in Spain</dc:title>
+<dc:creator>Izquierdo Ayuso, G</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Arán Ediciones, S.A.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Realizar un análisis coste-utilidad del tratamiento de la esclerosis múltiple remitente-recidivante (EMRR) con acetato de glatiramero (copaxone) o los interferones beta (todos en conjunto, avonex, rebif y betaferón).Métodos: Modelo farmacoeconómico de Markov que comparó los tratamientos mediante la simulación de la vida de una cohorte hipotética de mujeres de 30 años de edad, desde la perspectiva de la sociedad. Las probabilidades de transición, las utilidades, la utilización de recursos y los costes (directos e indirectos), se estimaron a partir de fuentes españolas y de la bibliografía. Se hicieron análisis de sensibilidad simples univariantes del caso básico.Resultados: En el caso básico del análisis, el coste medio por paciente ( de 2001) de un tratamiento de por vida, considerando una esperanza vida de 53 años, sería de 1.243.906 euros &#128;, 1.818.149 &#128; , 1.763.263 &#128;, 1.987.153 &#128; y 1.704.031&#128; con copaxone, todos los interferones, avonex, rebif y betaferón, respectivamente. Por tanto, el ahorro con copaxone oscilaría entre 460.000 y 737.000 &#128; aproximadamente. Los años de vida ajustados por calidad (AVAC) que se obtendrían con copaxone o los interferones serían 10,977 y 6,917, respectivamente, con una ganancia media de 4,060 AVAC/paciente con copaxone. Los análisis de sensibilidad confirmaron la robustez del caso básico.Los interferones serían superiores a copaxone únicamente en el caso hipotético e improbable de que éstos produjeran retrasos en la progresión de la enfermedad un 20 por ciento mayores que los realmente observados en los ensayos clínicos.Conclusiones: Para un paciente tipo con EMRR, el tratamiento con copaxone sería más eficiente que los interferones, a los que dominaría (copaxone sería más eficaz con costes inferiores a los de éstos) (AU)</dc:description>
+<dc:source>Farm Hosp;27(3): 159-165, mayo 2003.</dc:source>
+<dc:identifier>ibc-31669</dc:identifier>
+<dc:title xml:lang="es">Análisis coste-utilidad del tratamiento de la esclerosis múltiple remitente-recidivante con acetato de glatiramero o interferón beta en España</dc:title>
+<dc:subject>^d7344</dc:subject>
+<dc:subject>^d32636</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d30313</dc:subject>
+<dc:subject>^d10648</dc:subject>
+<dc:subject>^d34207</dc:subject>
+<dc:subject>^d28629</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24214</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200305</dc:date>
+</metadata>
+</record>
+</ibecs-document>

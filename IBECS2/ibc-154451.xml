@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-154451</identifier>
+<setSpec>0213-4853</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Analysis of cerebrovascular mortality trends in Spain from 1980 to 2011</dc:title>
+<dc:description xml:lang="en">Introduction: In recent decades, mortality rates for cerebrovascular diseases (CVD) have declined significantly in many countries. This study analyses changes in CVD mortality rates in Spain (1980-2011) to determine if previously observed trends remain. Patients and methods: Data on CVD mortality rates and the population data needed for the analysis were provided by Spain's National Statistics Institute. We calculated age-specific mortality rate, age-standardised overall mortality, and age-truncated mortality (35-64 years) using the direct method and standard European population structure. Joinpoint analysis was used to estimate the percentage of annual change in rates and identify significant changes in trends. Results: CVD mortality rate decreased considerably and continuously over the last 32 years in all age groups and in both sexes in Spain. For both sexes, joinpoint analysis identifies a final period with more marked decline: 2005-2011 in women (&amp;#8722;6.3%) and 2007-2011 in men (&amp;#8722;7.2%). Conclusions: CVD mortality rates displayed a marked and continuous decline in Spain between 1980 and 2011. Due to the ageing of the population, doctors expect an increase in CVD prevalence and therefore its magnitude in terms of disability and healthcare costs, which poses a challenge to our health system (AU)</dc:description>
+<dc:creator>González, A</dc:creator>
+<dc:creator>Jiménez, MD</dc:creator>
+<dc:creator>Montaner, J</dc:creator>
+<dc:creator>Moniche, F</dc:creator>
+<dc:creator>Cayuela, A</dc:creator>
+<dc:creator>Rodríguez Domínguez, S</dc:creator>
+<dc:creator>Escudero Martínez, I</dc:creator>
+<dc:creator>Cayuela, L</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: En las últimas décadas las tasas de mortalidad por enfermedades cerebrovasculares (ECV) han descendido de forma importante en muchos países. En este estudio se analizan los cambios recientes en la evolución de la mortalidad por ECV en España (1980-2011) para verificar si las tendencias observadas previamente continúan. Pacientes y métodos: Los datos de mortalidad por ECV y las poblaciones necesarias para el cálculo de los indicadores fueron facilitados por el Instituto Nacional de Estadística. Se calcularon las tasas específicas por grupos de edad y estandarizadas globales y truncadas (35-64 años) mediante el método directo (población estándar europea). Mediante análisis de regresión «joinpoint» estimamos el porcentaje de cambio anual de las tasas e identificamos puntos de cambio significativos en la tendencia. Resultados: La mortalidad por ECV se ha reducido de forma contundente y sostenida en los últimos 32 en todos los grupos de edad y sexo en España. En ambos sexos el análisis joinpoint identifica un periodo final de mayor descenso (2005-2011 [&amp;#8722;6,3%] en mujeres y 2007-2011 en varones [&amp;#8722;7,2%]). Conclusiones: Existe un marcado y continuo descenso en la mortalidad por ECV en España (1980-2011). Teniendo en cuenta el proceso de envejecimiento de la población, es esperable un incremento de la prevalencia y, por ello, de la magnitud de las ECV medida en términos de discapacidad y costes de salud, lo que representará un gran reto para nuestro sistema sanitario (AU)</dc:description>
+<dc:source>Neurologia;31(6): 370-378, jul.-ago. 2016. graf, tab</dc:source>
+<dc:identifier>ibc-154451</dc:identifier>
+<dc:title xml:lang="es">Análisis de las tendencias en la mortalidad por enfermedades cerebrovasculares en España 1980-2011</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d2600^s22047</dc:subject>
+<dc:subject>^d2359^s22080</dc:subject>
+<dc:subject>^d2359^s22054</dc:subject>
+<dc:subject>^d28418</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:subject>^d13411^s22080</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d2600^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201608</dc:date>
+</metadata>
+</record>
+</ibecs-document>

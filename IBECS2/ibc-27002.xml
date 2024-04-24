@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-27002</identifier>
+<setSpec>1575-0620</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">A study of seroincidence of HIV amongst inmates in a spanish prison using repeated analytical determinations</dc:title>
+<dc:creator>Guerrero, R. A</dc:creator>
+<dc:creator>Marco, A</dc:creator>
+<dc:creator>Puértolas, A</dc:creator>
+<dc:creator>Silva, A. D</dc:creator>
+<dc:creator>Gallego, C</dc:creator>
+<dc:creator>Caylà, J. A</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Sociedad Espanola de Sanidad Penitenciaria</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Estimar la seroincidencia del VIH en la población recluida mediante determinaciones analíticas de repetición. Material y métodos: Estudio restrospectivo realizado en el C.P. de Quatre Camins con solicitudes analíticas de VIH realizadas en 1998-1999 que tuvieran previamente una determinación de resultado negativo. En los casos seroconvertidos, se analizan variables predictivas de seroconversión (SCV) efectuando análisis univariado y multivariado, mediante regresión de Poisson. Se calcula la razón de las tasas de incidencia (RR) y sus intervalos de confianza al 95 por ciento. Resultados: Se estudian 819 pacientes. Hubo 25 seroconversiones entre 1.348,88 personas año (pa) de seguimiento, con una tasa global de incidencia de 1,85 por 100 pa. Las variables predictivas de SCV fueron el uso de drogas por vía parenteral (mayor SCV en el grupo de UDVPs, p&lt;0,001; RR= 1,31; IC: 1,18-1,46) y el grupo de edad de 25-34 años (mayor SCV en este grupo, p=0,004; RR= 1,20; IC: 1,06-1,35).Discusión: La determinación de la incidencia del VIH a partir de las analíticas que se practican rutinariamente en las prisiones es un método fácil, que no precisa de grandes recursos humanos ni añade nuevos costes económicos. Se propone sistematizar su uso, ya que ello permitiría evaluar periódicamente, y de forma aproximada pero fiable, las medidas preventivas aplicadas en la infección por el VIH, tanto penitenciaria como extrapenitenciariamente (AU)</dc:description>
+<dc:source>Rev. esp. sanid. penit;3(2): 60-64, jul. 2001. tab</dc:source>
+<dc:identifier>ibc-27002</dc:identifier>
+<dc:title xml:lang="es">Estudio de la seroincidencia del VIH en población recluida en una prisión española a partir de determinaciones analíticas repetidas</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d11766</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24874</dc:subject>
+<dc:subject>^d24718^s22080</dc:subject>
+<dc:subject>^d13411^s22080</dc:subject>
+<dc:subject>^d28583</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200107</dc:date>
+</metadata>
+</record>
+</ibecs-document>

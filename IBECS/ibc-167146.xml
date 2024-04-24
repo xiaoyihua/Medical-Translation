@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-167146</identifier>
+<setSpec>0214-3429</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Microbiome and next generation sequencing</dc:title>
+<dc:description xml:lang="en">The human microbiome is an internal ecosystem that refers to the community of microorganisms that populate the human body. These microorganisms are essential to support his health, because the interaction between the host immune system and microorganisms, provide the host with protection against pathogens, and contributes to the preservation of health. Bacteriological culture has been the basis for traditional microbiology; however, most of the bacterial forms observed in nature cannot be isolated with laboratory culture methods. At present, metagenomic applies a suite of genomic technologies, where the microorganisms are identified by their genomic fingerprint. The 16S rRNA subunit is considered as the universal target for bacterial identification from DNA with the aid of sequencing. Sanger sequencing technology had a great impact on the first generation sequencing due to its simplicity and precision. Platforms high-throughput known as second generation sequencing technologies are capable to generate hundreds of thousands of sequence reactions in a faster and economic way. However, thanks to the third generation sequencing the greatest advances in nanotechnology have been made. Using the reference gene, the massive sequencing techniques and bioinformatics tools used for the data processing, there has been an important development of the human microbiome, achieving an unprecedented detail level on the taxonomy and microbial function. This has meant an authentic revolution not only in their knowledge but also in their involvement in the health or illness of the human being (AU)</dc:description>
+<dc:creator>Suárez Moya, Avelina</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El microbioma humano es un ecosistema interno constituido por el hombre y los microorganismos que en él conviven, microorganismos esenciales para mantener su salud, pues junto con el sistema inmunológico protegen frente a patógenos invasores y mantienen la salud. La base de la microbiología tradicional ha sido el cultivo bacteriano, sin embargo la mayoría de los microorganismos observables en la naturaleza, no se cultivan mediante técnicas habituales, por ello en la actualidad, la era molecular ha permitido identificar estos microorganismos en base a su huella genética, gracias a la metagenómica. La subunidad 16S del ARN ribosomal es considerada como la diana universal para la identificación bacteriana a partir del ADN, con la ayuda de la secuenciación. El método de Sanger o secuenciación de primera generación terminó imponiéndose por su sencillez y precisión, posteriormente se desarrolló la segunda generación, o de alto rendimiento capaz de generar cientos de miles de reacciones de secuencias de manera más rápida y económica, sin embargo, es la secuenciación de tercera generación, la que lleva al límite los avances de la nanotecnología. Con la utilización del gen de referencia, las técnicas de secuenciación masiva y las herramientas bioinformáticas para el tratamiento de datos, se ha podido conseguir una información sobre el microbioma humano, con un nivel de detalle sin precedente en cuanto a taxonomía y función de los microorganismos, lo que ha supuesto una autentica revolución no solo en su conocimiento sino también en su implicación en la salud o de enfermedad del ser humano (AU)</dc:description>
+<dc:source>Rev Esp Quimioter;30(5): 305-311, oct. 2017.</dc:source>
+<dc:identifier>ibc-167146</dc:identifier>
+<dc:title xml:lang="es">Microbioma y secuenciación masiva</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d38364</dc:subject>
+<dc:subject>^d22991^s22021</dc:subject>
+<dc:subject>^d55394^s22031</dc:subject>
+<dc:subject>^d23568^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22991^s22002</dc:subject>
+<dc:subject>^d55394^s22033</dc:subject>
+<dc:subject>^d22284^s22033</dc:subject>
+<dc:subject>^d54266</dc:subject>
+<dc:subject>^d23166^s22033</dc:subject>
+<dc:subject>^d53780^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201710</dc:date>
+</metadata>
+</record>
+</ibecs-document>

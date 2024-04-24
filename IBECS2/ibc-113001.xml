@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-113001</identifier>
+<setSpec>0001-7310</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cryoglobulinemia vasculitis</dc:title>
+<dc:creator>Buezo, Guadalupe F</dc:creator>
+<dc:creator>Fernández-Herrera, Jesús</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Las crioglobulinas (CG) son globulinas presentes en el suero que precipitan a temperaturas inferiores a 37° C y se disuelven de nuevo al calentarlo. Desde el punto de vista de la naturaleza bioquímica de la crioproteína, distinguimos tres tipos de crioglobulinemia (CGM). La CGM tipo I la constituyen CG únicas, compuestas íntegramente por inmunoglobulinas (Ig) monoclonales. Son frecuentemente secundarias a gammapatías monoclonales. En las CGM tipo II aparecen CG mixtas, con actividad de factor reumatoide (FR) monoclonal, y en las CGM tipo III las CG son policlonales, compuestas por varios tipos de Ig, en los que se puede detectar actividad FR. Dado que en el curso de la CGM es muy frecuente que se desarrolle una hepatitis crónica, desde hace tiempo se venía sugiriendo un posible papel de virus hepatotropos en la patogenia de la enfermedad. La presencia de ARN del virus de la hepatitis C (VHC) en el suero y en mayor concentración en el crioprecipitado, y la detección en tejidos dañados como piel y riñón de ARN-VHC terminaron por afianzar la relación. Por otro lado, se suponía que existía una asociación entre la infección VHC y el desarrollo de linfoma no Hodgkin de células B. Aunque los datos epidemiológicos fueron los que despertaron la sospecha, la existencia de ARN-VHC en los tejidos linfoides apoya esta correlación. Parece ser que el estímulo crónico que el VHC ejerce sobre el sistema inmunitario sería el responsable de las complicaciones autoinmunes y neoplásicas que la infección conlleva. El tratamiento debe ir dirigido a intentar erradicar el VHC, siendo el interferón pegilado junto con ribavirina la primera línea de tratamiento (AU)</dc:description>
+<dc:source>Actas Dermosifiliogr;94(1): 1-10, ene. 2003. ilus, tab</dc:source>
+<dc:identifier>ibc-113001</dc:identifier>
+<dc:title xml:lang="es">Vasculitis crioglobulinémicas</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d3466^s22027</dc:subject>
+<dc:subject>^d24529</dc:subject>
+<dc:subject>^d29469^s22073</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d31852^s22052</dc:subject>
+<dc:subject>^d33344^s22012</dc:subject>
+<dc:subject>^d12663^s22073</dc:subject>
+<dc:subject>^d10454^s22012</dc:subject>
+<dc:subject>^d15059^s22027</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200301</dc:date>
+</metadata>
+</record>
+</ibecs-document>

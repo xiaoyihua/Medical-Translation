@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-141534</identifier>
+<setSpec>1886-3655</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prescription drug monitoring program utilization in Kentucky community pharmacies</dc:title>
+<dc:description xml:lang="en">Objective: Identify characteristics of Kentucky community pharmacists and community pharmacists&#146; practice environment associated with utilization of the Kentucky All Schedule Prescription Electronic Reporting Program (KASPER). Methods: Surveys were mailed to all 1,018 Kentucky pharmacists with a KASPER account and an additional 1,000 licensed pharmacists without an account. Bivariate analyses examined the association between KASPER utilization and practice type (independent or chain) and practice location (rural or urban). A multivariate Poisson regression model with robust error variance estimated risk ratios (RR) of KASPER utilization by characteristics of pharmacists&#146; practice environment. Results: Responses were received from 563 pharmacists (response rate 27.9%). Of these, 402 responses from community pharmacists were included in the analyses. A majority of responding pharmacists (84%) indicated they or someone in their pharmacy had requested a patient&#146;s controlled substance history since KASPER&#146;s inception. Bivariate results showed that pharmacists who practiced in independent pharmacies reported greater KASPER utilization (94%) than pharmacists in chain pharmacies (75%; p&lt;0.001). Multivariate regression results found utilization of KASPER varied significantly among practice environments of community pharmacists with those who practiced in an urban location (RR: 1.11; [1.01&#150;1.21]) or at an independent pharmacy (RR: 1.27; [1.14&#150;1.40]) having an increased likelihood of KASPER utilization. Conclusion: Utilization of KASPER differs by community pharmacists&#146; practice environment, predominantly by practice type and location. Understanding characteristics of community pharmacists and community pharmacists&#146; practice environment associated with PDMP use is necessary to remove barriers to access and increase utilization thereby increasing PDMP effectiveness (AU)</dc:description>
+<dc:creator>Talbert, Jeffery</dc:creator>
+<dc:creator>Wixon, Sarah E</dc:creator>
+<dc:creator>Goodin, Amie J</dc:creator>
+<dc:creator>Freeman, Patricia R</dc:creator>
+<dc:creator>Blumenschein, Karen</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objetivo: Identificar las características de las farmacias comunitarias y del entorno de práctica de las farmacias comunitarias relacionadas con la utilización del Kentucky All Schedule Prescription Electronic Reporting Program (KASPER). Métodos: Se enviaron cuestionarios a todos los 1.018 farmacéuticos con cuenta en el KASPER y a un total adicional de 1.000 farmacéuticos sin cuenta. Se examinó la asociación entre la utilización de KASPER y el tipo de ejercicio (independiente o de cadena) la localidad (rural o urbana) con análisis bivariado. Mediante un modelo de regresión multivariada de Poisson con varianza de error robusta se estimaron los ratios de riesgo (RR) de la utilización de KASPER con las características del entorno de práctica de los farmacéuticos. Resultados: Se recibieron respuestas de 563 farmacéuticos (tasa de respuesta 27,9%). De esos, 402 respuestas de farmacéuticos comunitarios se incluyeron en el análisis. La mayoría de los respondentes (84%) indicó que ellos o alguien de su farmacia habían solicitado una historia de substancias controladas de un paciente desde que se creó KASPER. El análisis bivariado demostró que los farmacéuticos que ejercían en farmacias independientes comunicaban una mayor utilización de KASPER (94%) que los farmacéuticos de cadenas (75%; p&lt;0,001). Los resultados de la regresión multivariada encontraron que la utilización de KASPER variaba significativamente entre los entornos de práctica de los farmacéuticos comunitarios que trabajaban en localidades urbanas (RR: 1,11; [1,01&#150;1,21]) o los de farmacias independientes (RR: 1,27; [1,14&#150;1,40]) que tenían una mayor probabilidad de utilización de KASPER. Conclusión: La utilización de KASPER difiere en los ambientes de práctica de los farmacéuticos comunitarios, principalmente por tipo de establecimiento y localización. Es necesario entender las características de los farmacéuticos comunitarios y de los entornos de práctica de las farmacias comunitarias asociadas con el uso de programas de monitorización de la prescripción (PDMP) para eliminar las barreras de acceso y aumentar la utilización incrementando así la efectividad del PDMP (AU)</dc:description>
+<dc:source>Pharm. pract. (Granada, Internet);13(2): 0-0, abr.-jun. 2015. tab</dc:source>
+<dc:identifier>ibc-141534</dc:identifier>
+<dc:title xml:lang="es">/ Utilización del programa de monitorización de la prescripción de medicamentos en las farmacias comunitarias de Kentucky</dc:title>
+<dc:subject>^d3189^s22049</dc:subject>
+<dc:subject>^d3189^s22048</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d11799^s22048</dc:subject>
+<dc:subject>^d30150^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d33535^s22016</dc:subject>
+<dc:subject>^d3189^s22060</dc:subject>
+<dc:subject>^d11742^s22083</dc:subject>
+<dc:subject>^d3189^s22074</dc:subject>
+<dc:subject>^d11799^s22074</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d4421^s22016</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d28608^s22074</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d10794^s22045</dc:subject>
+<dc:subject>^d30150^s22074</dc:subject>
+<dc:subject>^d11742^s22048</dc:subject>
+<dc:subject>^d14880</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201506</dc:date>
+</metadata>
+</record>
+</ibecs-document>

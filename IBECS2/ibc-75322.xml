@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-75322</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cost-utility analysis of insulin pumps compared to multiple daily doses of insulin in patients with type 1 diabetes mellitus in Spain</dc:title>
+<dc:description xml:lang="en">Background: The use of continuous subcutaneous insulin infusion(CSII) for treating Type I diabetes mellitus (DM1) has beenrelated to better metabolic control compared it to daily multipleinsulin injections (DMI) and thus to a lowering of the related costs.However, this therapy is now being used to a lesser extent due, atleast partially, to the higher initial cost of purchase. This study isaimed at estimating the clinical and economic consequences ofusing CSII as compared to DMI by means of a cost-utility analysis.Methods: A mathematical simulation model was adapted usingnationwide clinical and economic data to simulate the long-term clinicaland economic consequences for a DM1 patient. The time horizonwas the patient's lifetime, including only direct healthcare costsand updating both costs and benefits at an annual 3% rate.Results: In the basecase, the patients treated using CSII gained0.890 years (p&lt;0.05) and 0.852 QALYs (p&lt;0.05). CSII treatmentgives rise to an incremental average cost of 25,523 ? (p&lt;0.05) perpatient treated, which gave us an incremental cost- utility ratio of29,947 ?/QALY [CI 95% (29,519; 30,375)].Conclusions: The improvement in the glucose control amongthose patients treated using CSII was related to an overall lower costin the handling of DM1 patients, which was found to have a favourablecost-utility ratio in comparison to conventional MDI treatment(AU)</dc:description>
+<dc:creator>Castell Abat, Conxa</dc:creator>
+<dc:creator>Roze, Stephan</dc:creator>
+<dc:creator>Serrano Contreras, David</dc:creator>
+<dc:creator>Rodríguez Barrios, José Manuel</dc:creator>
+<dc:creator>Conget Donlo, Ignacio</dc:creator>
+<dc:creator>Levy Mizrahi, Isaac</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamento: El uso de bombas de infusión continua de insulina(BICI) para la diabetes mellitus tipo 1 (DM1) se ha relacionadocon un mejor control metabólico al compararlo con las múltiplesdosis de insulina (MDI). Este mejor control puede traducirse en unadisminución de las complicaciones asociadas a la DM1 y por lo tantouna reducción de los costes asociados. Sin embargo el uso de estaterapia ha quedado mermado, al menos en parte, debido a su mayorcoste inicial de adquisición. El objetivo del presente estudio fue estimarlas consecuencias clínicas y económicas del uso de BICI frentea MDI a través de un análisis de coste-utilidad.Métodos: Se adaptó un modelo matemático de simulación queemplea datos clínicos y económicos de ámbito nacional, para simularlas consecuencias clínicas y económicas a largo plazo de unpaciente con DM1. El horizonte temporal fue el de toda la vida delpaciente, incluyendo sólo costes directos sanitarios, y actualizandotanto costes como beneficios a una tasa del 3% anual.Resultados: En el caso base los pacientes tratados con BICIexperimentaron una ganancia de vida de 0,890 años (p&lt;0,05) y 0,852AVACs (p&lt;0,05). El tratamiento con BICI produce un coste medioincremental de 25.523 ? (p&lt;0,05) por paciente tratado, lo que noscondujo a un ratio coste- utilidad incremental de 29.947 ?/AVAC [IC95% (29.519, 30.375)].Conclusiones: La mejora en el control glucémico en pacientescon BICI se asoció a una reducción del coste global del manejo depacientes con DM1, y resultó tener una relación coste-utilidad favorableal compararla con el tratamiento convencional MDI(AU)</dc:description>
+<dc:source>Rev Esp Salud Publica;80(6): 379-685, nov.-dic.2006. tab, ilus</dc:source>
+<dc:identifier>ibc-75322</dc:identifier>
+<dc:title xml:lang="es">Análisis coste-utilidad de las bombas de insulina frente a múltiples dosis diarias en pacientes con diabetes mellitus tipo 1 en España</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d30313</dc:subject>
+<dc:subject>^d37656^s22021</dc:subject>
+<dc:subject>^d7500^s22000</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22523^s22018</dc:subject>
+<dc:subject>^d3944^s22057</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200612</dc:date>
+</metadata>
+</record>
+</ibecs-document>

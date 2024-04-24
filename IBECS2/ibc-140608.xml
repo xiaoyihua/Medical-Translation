@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-140608</identifier>
+<setSpec>0034-9356</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Algorithm for treating preoperative anemia</dc:title>
+<dc:description xml:lang="en">Hemoglobin optimization and treatment of preoperative anemia in surgery with a moderate to high risk of surgical bleeding reduces the rate of transfusions and improves hemoglobin levels at discharge and can also improve postoperative outcomes. To this end, we need to schedule preoperative visits sufficiently in advance to treat the anemia. The treatment algorithm we propose comes with a simple checklist to determine whether we should refer the patient to a specialist or if we can treat the patient during the same visit. With the blood count test and additional tests for iron metabolism, inflammation parameter and glomerular filtration rate, we can decide whether to start the treatment with intravenous iron alone or erythropoietin with or without iron. With significant anemia, a visit after 15 days might be necessary to observe the response and supplement the treatment if required. The hemoglobin objective will depend on the type of surgery and the patient&#146;s characteristics (AU)</dc:description>
+<dc:creator>Bisbe Vives, E</dc:creator>
+<dc:creator>Basora Macaya, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La optimización de la hemoglobina o el tratamiento de la anemia preoperatoria en cirugía con riesgo moderado-alto de sangrado quirúrgico reduce la tasa de transfusión y puede mejorar la evolución postoperatoria, así como la hemoglobina al alta. Para ello se requiere programar una visita preoperatoria con suficiente antelación para poderla corregir. El algoritmo de tratamiento que proponemos se acompaña de un «check list» sencillo para saber si debemos remitir al paciente al especialista o podemos tratarlo en ese mismo momento. Con el hemograma, algún test complementario del metabolismo del hierro, un parámetro de inflamación y la tasa de filtrado glomerular podremos decidir si iniciar el tratamiento con hierro intravenoso solo o asociar eritropoyetina, con o sin hierro. En la anemia importante puede ser necesaria alguna visita de control a los 15 días, para ver la respuesta y complementar el tratamiento, si el paciente lo precisa. La hemoglobina objetivo dependerá del tipo de cirugía y las características del paciente (AU)</dc:description>
+<dc:source>Rev Esp Anestesiol Reanim;62(supl.1): 27-34, jun. 2015. tab, ilus</dc:source>
+<dc:identifier>ibc-140608</dc:identifier>
+<dc:title xml:lang="es">Algoritmo para el tratamiento de la anemia preoperatoria</dc:title>
+<dc:subject>^d7668^s22073</dc:subject>
+<dc:subject>^d755^s22080</dc:subject>
+<dc:subject>^d29387^s22020</dc:subject>
+<dc:subject>^d7668^s22020</dc:subject>
+<dc:subject>^d28875</dc:subject>
+<dc:subject>^d29387^s22073</dc:subject>
+<dc:subject>^d53702</dc:subject>
+<dc:subject>^d7668^s22000</dc:subject>
+<dc:subject>^d5009</dc:subject>
+<dc:subject>^d755^s22057</dc:subject>
+<dc:subject>^d16595^s22027</dc:subject>
+<dc:subject>^d1831</dc:subject>
+<dc:subject>^d16591^s22080</dc:subject>
+<dc:subject>^d32960</dc:subject>
+<dc:subject>^d5631^s22080</dc:subject>
+<dc:subject>^d31395</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201506</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-99849</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Standardization of the quantification of iron concentration in the liver by magnetic resonance imaging</dc:title>
+<dc:description xml:lang="en">Objective. To calibrate 1.5 tesla magnetic resonance scanners for the quantification of the concentration of iron in the liver. Material and methods. We analyzed twenty-eight 1.5 tesla magnetic resonance scanners using a phantom with four tubes containing different concentrations of iron (III) chloride and one tube without iron. The phantom represented two typical patients: one with moderate iron overload and one with high iron overload. We measured the signal intensity ratio between each iron-containing tube and the tube without iron; then we calculated the theoretical levels of iron concentration in each scanner according to the model for the two levels of overload. We compared the results of each scanner with those of the reference scanner in which the model and the phantom had been designed, and we calculated the percentage of difference between the two scanners. Results. The mean difference in the ratios compared to the reference center was 11% (0.3-39). The mean concentration of iron was 71&amp;#956;mol Fe/g for moderate overload and 193&amp;#956;mol Fe/g for high overload. The mean difference was 6% (1.2- 7%) and 3.4% (0-16%). respectively. In two scanners, we applied a correction factor so that the difference was below 25% in all cases. Conclusion. We calibrated twenty-eight 1.5 tesla scanners for the concentration of iron in the liver and achieved variability less than 25% (AU)</dc:description>
+<dc:creator>Emparanza, J. I</dc:creator>
+<dc:creator>García, N</dc:creator>
+<dc:creator>Salvador, E</dc:creator>
+<dc:creator>Alústiza, J. M</dc:creator>
+<dc:creator>San Vicente, M</dc:creator>
+<dc:creator>Garrido, A</dc:creator>
+<dc:creator>Aldazábal, P</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Calibrar máquinas de RM de 1,5 teslas para la cuantificación de la concentración de hierro en el hígado. Material y métodos. En 28 RM de 1,5 teslas se ha analizado un fantoma con cuatro tubos con diferentes concentraciones de cloruro de hierro III y uno sin hierro, que reproduce a dos pacientes promedio con sobrecarga férrica moderada y alta con las secuencias de un modelo de cuantificación. Se midió para cada tubo la ratio de intensidad de señal con el tubo sin hierro y se calcularon los niveles de concentración teóricos en cada máquina según el modelo para los dos niveles de sobrecarga. Se compararon los resultados con los de la máquina de referencia en la que se habían diseñado el modelo y el fantoma, calculando la diferencia porcentual. Resultados. La diferencia porcentual media de las ratios con respecto a los del centro de referencia fue 11% (0,3-39). La media de los valores de concentración de hierro fue de 71&amp;#956;mol Fe/g para la sobrecarga media, y de 193&amp;#956;mol Fe/g para la sobrecarga alta. La diferencia porcentual media fue del 6% (1,2-37%) y 3,4% (0-16%) respectivamente. En dos máquinas se aplicó un factor de corrección de forma que la diferencia porcentual fue inferior al 25% en todos los casos. Conclusión. Se han calibrado 28 máquinas de 1,5 teslas para la cuantificación de la concentración de hierro en el hígado con una variabilidad menor del 25% (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);54(2): 149-154, mar.-abr. 2012.</dc:source>
+<dc:identifier>ibc-99849</dc:identifier>
+<dc:title xml:lang="es">Estandarización de la cuantificación de la concentración de hierro en el hígado por resonancia magnética</dc:title>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d22935^s22045</dc:subject>
+<dc:subject>^d22935^s22066</dc:subject>
+<dc:subject>^d22935^s22074</dc:subject>
+<dc:subject>^d7668^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d8272^s29166</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d6582^s29166</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201204</dc:date>
+</metadata>
+</record>
+</ibecs-document>

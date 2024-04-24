@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-042605</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Reappraisal of the standard method (Light's criteria) for identifying pleural exudates</dc:title>
+<dc:description xml:lang="en">Background and objectives: Light's criteria remain the best method for separating pleural exudates from transudates. We assessed their operating characteristics, as well as those resulting from omitting the pleural fluid to serum lactate dehydrogenase (LDH) ratio from the original criteria (abbreviated Light criteria), in a large series of patients. We also searched for the best combination of pleural fluid parameters, including protein, LDH and cholesterol that identify exudates. Patients and method: We conducted a retrospective study of 1,490 consecutive patients with pleural effusion who underwent a diagnostic thoracentesis. There were 1,192 exudates and 298 transudates. Sensitivity, specificity, area under ROC curve, and odds ratio for both individual and combined pleural fluid parameters were calculated. Results: Light's criteria yielded 97.5% sensitivity and 80% specificity. Both abbreviated Light criteria (sensitivity: 95.4%; specificity: 83.3%) and the combined use in an «or» rule of pleural fluid protein and LDH (sensitivity: 95.4%; specificity: 80,2%) had similar discriminative properties than standard criteria. Conclusions: Diagnostic separation of pleural effusions into exudates or transudates can be done effectively thorough the abbreviated Light criteria when the serum LDH value is not available. On the other hand, if venipuncture wants to be avoided (an unusual circumstance) the combination of pleural fluid protein and LDH represents an alternative to Light's criteria</dc:description>
+<dc:creator>Vicente de Vera, Carmina</dc:creator>
+<dc:creator>Peña, José M</dc:creator>
+<dc:creator>Esquerda, Aureli</dc:creator>
+<dc:creator>Porcel, José M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamento y objetivos: Los criterios de Light se consideran el mejor método para diferenciar los exudados de los trasudados pleurales. Nos proponemos evaluar sus características operativas, así como las que resultan de eliminar el cociente de lactatodeshidrogenasa (LDH) entre líquido pleural y suero de los criterios originales (criterios de Light abreviados), en una serie amplia de pacientes. Asimismo buscamos la mejor combinación de parámetros bioquímicos del líquido pleural (entre ellas proteínas, LDH y colesterol), capaz de identificar exudados. Pacientes y método: Se analizó retrospectivamente a 1.490 pacientes consecutivos con derrame pleural a quienes se había realizado una toracentesis. El diagnóstico final fue de exudado en 1.192 y de trasudado en 298. Se calcularon la sensibilidad, especificidad, área bajo la curva de eficacia diagnóstica y odds ratio tanto de parámetros individuales como combinados del líquido pleural. Resultados: La sensibilidad y especificidad de los criterios de Light fueron del 97,5 y el 80%, respectivamente. Tanto los criterios de Light abreviados (sensibilidad del 95,4% y especificidad del 83,3%) como la combinación, con una regla en «o», de las proteínas y LDH del líquido pleural (sensibilidad del 95,4% y especificidad del 80,2%) tuvieron la misma capacidad discriminatoria que los criterios estándar. Conclusiones: La identificación de los exudados pleurales se puede realizar con los criterios de Light abreviados cuando no se dispone del valor de la LDH sérica. Por otro lado, si la extracción sanguínea no es posible (circunstancia infrecuente), la combinación de proteínas y LDH pleurales serviría también como criterio diagnóstico alternativo a los criterios clásicos de Light</dc:description>
+<dc:source>Med. clín (Ed. impr.);126(6): 211-213, feb. 2006. tab</dc:source>
+<dc:identifier>ibc-042605</dc:identifier>
+<dc:title xml:lang="es">Revaluación del método estándar (criterios de Light) para identificar exudados pleurales</dc:title>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d11425^s22016</dc:subject>
+<dc:subject>^d11425^s22027</dc:subject>
+<dc:subject>^d14778^s22032</dc:subject>
+<dc:subject>^d5224^s22063</dc:subject>
+<dc:subject>^d6486^s22032</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d7029^s22032</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200602</dc:date>
+</metadata>
+</record>
+</ibecs-document>

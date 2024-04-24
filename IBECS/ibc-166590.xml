@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-166590</identifier>
+<setSpec>1130-8621</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Variability of nursing care by APR-DRG and by severity of illness in a sample of nine Belgian hospitals</dc:title>
+<dc:description xml:lang="en">No disponible</dc:description>
+<dc:creator>González Chordá, Víctor M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Antecedentes: Tan pronto como los grupos de pacientes relacionados por el diagnóstico (GRD) se introdujeron en muchos sistemas de financiación hospitalaria, la mayoría de las investigaciones de enfermería revelaron que el sistema GRD no era muy homogéneo con respecto al cuidado de enfermería. Sin embargo, pocos estudios se basan en los All Patient Refined GRD (APR-GRD) y pocos de ellos utilizan datos recientes. Los objetivos de este estudio son: 1) evaluar si los cuidados de enfermería son homogéneos según los APR-DRG y la severidad de la enfermedad; 2) evaluar la tasa de valores atípicos asociados a los cuidados de enfermería; 3) comparar la homogeneidad de los costes de enfermería según GRD y severidad de la enfermedad. Métodos: Estudio realizado en 9 hospitales belgas en una selección de APR-GRD con más de 30 pacientes (7.638 estancias hospitalarias). La evaluación de la homogeneidad se basa en los coeficientes de variación (CV). El percentil 75+1,5×rango intercuartílico se utilizó para seleccionar valores atípicos elevados. El percentil 25 - 1,5×rango intercuartílico se utilizó para seleccionar los casos atípicos bajos. Los costes de enfermería por unidad de hospitalización se distribuyeron entre las estancias de hospitalización de cada unidad siguiendo dos técnicas (estancia media vs. número de minutos de atención de enfermería por estancia). Resultados: La homogeneidad de la estancia media por GRD y por severidad es relativamente buena (CV=0,56). La homogeneidad de los cuidados de enfermería por GRD es peor (CV entre 0,36 y 1,54) y está influenciada por los valores atípicos de los cuidados de enfermería (tasa de valores atípicos elevados=5,19%; tasa de valores atípicos bajos=0,14%). La tasa de los valores atípicos varía según la variable estudiada. La tasa de valores atípicos elevados es mayor para los cuidados de enfermería que para la estancia media. La homogeneidad de los costes de enfermería es mayor cuando los costes se basan en la estancia media de los pacientes que cuando se basan en los minutos de la atención de enfermería (CV entre 0,26 y 1,46 para los costos de enfermería basado en la estancia media, y entre 0,49 y 2,04 para los costos de enfermería basados en los minutos de atención de enfermería). Conclusiones: Es esencial que el cálculo de los costes de enfermería por estancia y por GRD para fines de financiación hospitalaria se basen en los datos de la actividad de enfermería, ya que reflejan mejor los recursos utilizados en las unidades de hospitalización; y no en los datos de estancia media. La única forma de obtener esta información es la generalización de los registros de enfermería informatizados (AU)</dc:description>
+<dc:source>Enferm. clín. (Ed. impr.);27(5): 327-329, sept.-oct. 2017.</dc:source>
+<dc:identifier>ibc-166590</dc:identifier>
+<dc:title xml:lang="es">Variabilidad de los cuidados de enfermería según APR-GRD y severidad de la enfermedad en una muestra de nueve hospitales belgas</dc:title>
+<dc:subject>^d30327^s22074</dc:subject>
+<dc:subject>^d1549^s22080</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d32094^s22045</dc:subject>
+<dc:subject>^d9918^s22066</dc:subject>
+<dc:subject>^d18001</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201710</dc:date>
+</metadata>
+</record>
+</ibecs-document>

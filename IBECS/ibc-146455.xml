@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-146455</identifier>
+<setSpec>0014-2565</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prognostic importance of glycaemic variability on hospital mortality in patients hospitalised in Internal Medicine Departments</dc:title>
+<dc:description xml:lang="en">Introduction. The objective was to assess the prognostic importance of various glycaemic control measures on hospital mortality. Material and methods. Retrospective, analytical cohort study that included patients hospitalised in internal medicine departments with a diagnosis related to diabetes mellitus (DM), excluding acute decompensations. The clinical endpoint was hospital mortality. We recorded clinical, analytical and glycaemic control-related variables (scheduled insulin administration, plasma glycaemia at admission, HbA1c, mean glycaemia (MG) and in-hospital glycaemic variability and hypoglycaemia). The measurement of hospital mortality predictors was performed using univariate and multivariate logistic regression. Results. A total of 384 patients (50.3% men) were included. The mean age was 78.5 (SD, 10.3) years. The DM-related diagnoses were type 2 diabetes (83.6%) and stress hyperglycaemia (6.8%). Thirty-one (8.1%) patients died while in hospital. In the multivariate analysis, the best model for predicting mortality (R2=0.326; P&lt;.0001) consisted, in order of importance, of age (&amp;#967;2=8.19; OR=1.094; 95% CI 1.020&#150;1.174; P=.004), Charlson index (&amp;#967;2=7.28; OR=1.48; 95% CI 1.11&#150;1.99; P=.007), initial glycaemia (&amp;#967;2=6.05; OR=1.007; 95% CI 1.001&#150;1.014; P=.014), HbA1c (&amp;#967;2=5.76; OR=0.59; 95% CI 0.33&#150;1; P=.016), glycaemic variability (&amp;#967;2=4.41; OR=1.031; 95% CI 1-1.062; P=.036), need for corticosteroid treatment (&amp;#967;2=4.03; OR=3.1; 95% CI 1&#150;9.64; P=.045), administration of scheduled insulin (&amp;#967;2=3.98; OR=0.26; 95% CI 0.066&#150;1; P=.046) and systolic blood pressure (&amp;#967;2=2.92; OR=0.985; 95% CI 0.97&#150;1.003; P=.088).Conclusion. An increase in initial glycaemia and in-hospital glycaemic variability predict the risk of mortality for hospitalised patients with DM (AU)</dc:description>
+<dc:creator>Pérez-Calvoa, JI</dc:creator>
+<dc:creator>Gimeno-Orna, JA</dc:creator>
+<dc:creator>Sáenz-Abada, D</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. El objetivo fue evaluar la importancia pronóstica de diversas medidas de control glucémico sobre la mortalidad intrahospitalaria. Material y métodos. Estudio de cohortes retrospectivo analítico con inclusión de pacientes ingresados en Medicina Interna con algún diagnóstico relacionado con la diabetes mellitus (DM), excluyendo descompensaciones agudas. El punto final clínico fue la mortalidad intrahospitalaria. Se recogieron variables clínicas, analíticas y relacionadas con el control glucémico (administración de insulina programada, glucemia plasmática al ingreso, HbA1c, glucemia media (GM) y variabilidad glucémica (VG) intrahospitalarias e hipoglucemias). La determinación de los factores predictivos de mortalidad intrahospitalaria se realizó mediante regresión logística uni y multivariante. Resultados. Se incluyó a 384 pacientes (50,3% varones). La edad media ± DE fue de 78,5 ± 10,3 años. Los diagnósticos relacionados con la DM fueron diabetes tipo 2 (83,6%) e hiperglucemia de estrés (6,8%). Se produjo el fallecimiento intrahospitalario en 31 (8,1%) pacientes. En el análisis multivariante el mejor modelo predictivo de mortalidad (R2 0,326; p &lt; 0,0001) fue el compuesto, por orden de importancia, por la edad (&amp;#967;2 = 8,19; OR = 1,094; IC del 95%, 1,020-1,174; p = 0,004), índice de Charlson (&amp;#967;2 = 7,28; OR = 1,48; IC del 95%, 1,11-1,99; p = 0,007), glucemia inicial (&amp;#967;2 = 6,05; OR = 1,007; IC del 95%, 1,001-1,014; p = 0,014), HbA1c (&amp;#967;2=5,76; OR=0,59; IC del 95%, 0,33-1; p=0,016), VG (&amp;#967;2=4,41; OR=1,031; IC del 95% 1-1,062; p=0,036), necesidad de tratamiento con corticoides (&amp;#967;2=4,03; OR=3,1; IC del 95%, 1-9,64; p=0,045), administración de insulina programada (&amp;#967;2=3,98; OR=0,26; IC del 95%, 0,066-1; p=0,046) y presión arterial sistólica (&amp;#967;2=2,92; OR=0,985; IC del 95%, 0,97-1,003; p=0,088). Conclusión. Un incremento de glucemia inicial y de VG intrahospitalarias predice el riesgo de mortalidad en pacientes hospitalizados con DM (AU)</dc:description>
+<dc:source>Rev Clin Esp;215(9): 479-485, dic. 2015. tab, graf</dc:source>
+<dc:identifier>ibc-146455</dc:identifier>
+<dc:title xml:lang="es">Importancia pronóstica de la variabilidad glucémica sobre la mortalidad intrahospitalaria en pacientes ingresados en Medicina Interna</dc:title>
+<dc:subject>^d37656^s22031</dc:subject>
+<dc:subject>^d6096^s22045</dc:subject>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d7553^s22048</dc:subject>
+<dc:subject>^d28620</dc:subject>
+<dc:subject>^d3942^s22080</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d30047^s22066</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d1812^s22002</dc:subject>
+<dc:subject>^d7553^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d7124^s22012</dc:subject>
+<dc:subject>^d7124^s22054</dc:subject>
+<dc:subject>^d7124^s22016</dc:subject>
+<dc:subject>^d7124^s22047</dc:subject>
+<dc:subject>^d3942^s22054</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d6916^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201512</dc:date>
+</metadata>
+</record>
+</ibecs-document>

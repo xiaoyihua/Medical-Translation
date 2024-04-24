@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-83297</identifier>
+<setSpec>1695-4033</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Accuracy of the procalcitonin test in the diagnosis of occult bacteremia in paediatrics: A systematic review and meta-analysis</dc:title>
+<dc:description xml:lang="en">Objective: To evaluate the diagnostic accuracy of serum procalcitonin (PCT) to detect severe bacterial infection (SBI) in ambulatory children attended in the emergency room (ER) for fever without source (FWS). Material and methods: A search was made in MEDLINE, OVID and EMBASE (to January 2010). We searched for papers that evaluated the diagnostic accuracy of serum PCT to detect SBI in children that, being previously well, were seen in the ER for FWS. We rated the methodological quality of each paper using objective validity criteria (QUADAS, CASPE) and included only those with the maximum quality in the analysis. The statistical meta-analysis was performed using the software, Meta-DiSc 1.1.1 for Windows. Results: The search identified 115 papers. Only 6 studies (prospective observational and analytic cohorts) fitted the inclusion criteria, with a sample size of 1139 patients. The prevalence of SBI was between 12.8% and 29% with a weighted mean of 18%. The overall senstivity was 0.771 (95% CI=0.707&#150;0.826), the overall specificity was 0.804 (95% CI=0.777&#150;0.830), the overall positive likelihood ratio was 3.610 (95% CI=2.481&#150;5.253) and the overall negative likelihood ratio was 0.218 (95% CI=0.106&#150;0.446). The diagnostic OR was 18.922 (95% CI=10.076&#150;35.534), the Area under the SROC curve was 0.8801 (95% CI=0.821&#150;0.939), and the optimal diagnostic cut-off value was Q*=0.8106 (95% CI=0.7512&#150;0.8699). Conclusions: On the basis of our analysis, in children with FWS seen in the ER, the serum PCT test accurately identifies those that have a SBI. We cannot extrapolate these results to other types of patients (AU)</dc:description>
+<dc:creator>Vidal Micó, S</dc:creator>
+<dc:creator>López-Prats Lucea, J. L</dc:creator>
+<dc:creator>Ruiz Alcántara, I</dc:creator>
+<dc:creator>Marín Reina, P</dc:creator>
+<dc:creator>Modesto i Alapont, V</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Evaluar la exactitud diagnóstica del test de procalcitonina (PCT) sérica para detectar la infección bacteriana grave (IBG) en pacientes pediátricos ambulatorios que consultan en urgencias por fiebre sin foco (FSF). Material y métodos: Se realizó una búsqueda de artículos recogidos en los repertorios MEDLINE, OVID y EMBASE (hasta enero 2010). Se incluyeron aquellos artículos que valoraban la exactitud diagnóstica de la determinación de la PCT sérica para detectar IBG en niños que, estando previamente sanos, consultaron en urgencias por fiebre sin foco. Se evaluó su calidad metodológica mediante criterios de validez predefinidos (QUADAS, CASPE) y se incluyeron para el análisis solo los de la máxima calidad. El metanálisis estadístico se realizó mediante el programa Meta-DiSc versión 1.1.1 bajo un entorno Windows. Resultados: La búsqueda identificó 115 publicaciones. Solo 6 estudios (observacionales analíticos de cohortes prospectivas) cumplieron los criterios de inclusión, acumulando una muestra de 1.139 pacientes. La prevalencia de IBG, osciló entre un 12,8&#150;29% con una media ponderada de 18%. La Sensibilidad global fue del 0,771 (IC 95%=0,707&#150;0,826), la especificidad global fue del 0,804 (IC95%=0,777&#150;0,830), la razón de verosimilitudes para resultados positivos (RVpos) global fue 3,610 (IC95%=2,481&#150;5,253) y la razón de verosimilitudes para resultados negativos (RVneg) global fue 0,218 (IC95%=0,106&#150;0,446). La odds ratio diagnóstica (ORD) fue 18,922 (IC95%=10,076&#150;35,534), la curva ROC resumen (SROC) presentó un área bajo la curva (AUC)=0,8801 (IC95%=0,821&#150;0,939), y el punto de umbral diagnóstico óptimo fue Q*=0,8106 (IC95%=0,7512&#150;0,8699). Conclusiones: Los resultados de nuestro trabajo sugieren que, de entre los niños con fiebre sin foco no hospitalizados, la prueba de PCT identifica con exactitud a los que presentan IBG. Estos resultados no pueden extrapolarse a un espectro diferente de pacientes pediátricos (AU)</dc:description>
+<dc:source>An Pediatr (Barc);72(6): 403-412, jun. 2010. graf, tab</dc:source>
+<dc:identifier>ibc-83297</dc:identifier>
+<dc:title xml:lang="es">Exactitud del test de procalcitonina en el diagnóstico de bacteriemia oculta en pediatría: revisión sistemática y metanálisis</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28214</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22372</dc:subject>
+<dc:subject>^d30241^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201006</dc:date>
+</metadata>
+</record>
+</ibecs-document>

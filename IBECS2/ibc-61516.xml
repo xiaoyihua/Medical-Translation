@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-61516</identifier>
+<setSpec>1695-4033</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Bronchodilator test: is 9% of the predicted value the same as 12% of the initial value?</dc:title>
+<dc:description xml:lang="en">Introduction: The bronchodilator test (BDT) is an important tool used in pulmonary function. Changes in forced expiratory volume in one second (FEV1) can be expressed as absolute change, or per cent of initial or predicted value. When the initial value is used, there may be a bias, as the smaller this value is, the greater the response will be. The main objective of this study is to establish whether there is any difference in using per cent of the initial spirometry value or per cent of the predicted value in order to consider a bronchodilator test positive, and if the initial obstruction of the patient influences such differences. Material and methods: A retrospective analysis of the BDT made between October 1997 and February 2008. The results using an increase of 9% from the predicted FEV1 were compared with using 12% from the initial FEV1. The patients were divided into three groups depending on initial obstruction: no obstruction (FEV1&gt;80% of predicted), mild (FEV1=60¨C80% of predicted) and moderate-severe (FEV1&lt;60% of predicted). The kappa index of agreement between both methods was calculated. Results: A total of 4352 BDT were analysed. The agreement between both methods was high (k=0.832). In the group without initial obstruction (N=3007) the kappa index was 0.781, in the mild obstruction group (N=1067) the kappa index was 0.966 and in the moderate-severe group (N=278) it was 0.788. Conclusion: This study demonstrates that, although there is a good agreement between both methods, in patients with initial moderate-severe obstruction and in patients without initial obstruction this agreement tends to be lower (AU)</dc:description>
+<dc:creator>Villa Asensi, J. R</dc:creator>
+<dc:creator>Romero Andujar, F</dc:creator>
+<dc:creator>López Neyra, A</dc:creator>
+<dc:creator>González Álvarez, M. I</dc:creator>
+<dc:creator>Almería Gil, E</dc:creator>
+<dc:creator>Gimeno Díaz de Atauri, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: La prueba de broncodilatación (PBD) es una herramienta fundamental para el estudio de la función pulmonar. El incremento del volumen espiratorio máximo en el primer segundo (FEV1) puede expresarse como valor absoluto en mililitros o como porcentaje de mejoría con respecto al valor teórico o al valor previo (basal). Al utilizar este último se puede cometer un sesgo ya que, cuanto menor sea éste mayor parecerá la respuesta. El objetivo de este estudio es determinar si existen diferencias al considerar una PBD como positiva si el incremento del FEV1 se refiere al valor teórico o al valor basal, y si estas diferencias estarían influidas por el grado de obstrucción inicial del paciente. Material y métodos: Análisis retrospectivo de los resultados de PBD realizadas entre octubre de 1997 y febrero de 2008. Se compararon los resultados utilizando como referencia un incremento del 9% sobre el FEV1 teórico y un incremento del 12% sobre el FEV1 basal. Se dividió la muestra en 3 grupos en función del grado inicial de obstrucción: no obstruido (FEV1 mayor del 80% del valor teórico), leve (FEV1 de entre el 60 y el 80% del valor teórico) y moderada a grave (FEV1 menor del 60% del valor teórico). Se calculó el índice k de concordancia entre ambos métodos. Resultados: Se analizaron 4.352 PBD. La concordancia entre ambos métodos fue muy buena (k=0,832). En el grupo sin obstrucción inicial (n=3007) el índice k fue de 0.781, en el grupo con obstrucción leve (n=1.067) el índice k fue de 0,966 y en el grupo con obstrucción moderada a grave (n=278) el índice k fue de 0,788. Conclusiones: El estudio demuestra que aunque hay una buena concordancia entre ambos índices, en los pacientes con obstrucción inicial moderada a grave y en los pacientes inicialmente no obstruidos esta concordancia tiende a ser menor (AU)</dc:description>
+<dc:source>An Pediatr (Barc);70(5): 413-417, mayo 2009. tab</dc:source>
+<dc:identifier>ibc-61516</dc:identifier>
+<dc:title xml:lang="es">Prueba de broncodilatación: ¿9% sobre el valor teórico o 12% sobre el valor basal es lo mismo?</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d405^s22016</dc:subject>
+<dc:subject>^d2021</dc:subject>
+<dc:subject>^d2015^s22045</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1257^s22016</dc:subject>
+<dc:subject>^d13530^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200905</dc:date>
+</metadata>
+</record>
+</ibecs-document>

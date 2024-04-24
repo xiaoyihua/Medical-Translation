@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-79410</identifier>
+<setSpec>0212-6982</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Application of ICRP-103 in the calculation of effective dose associated to nuclear medicine tests</dc:title>
+<dc:description xml:lang="en">ObjectiveRe-evaluate the effective dose (E) of typical nuclear medicine procedures using the new ICRP-103 weighting factors and the latest dosimetry data and relate E with Background Equivalent Radiation Time (BERT).Material and MethodsEffective dose associated with radiopharmaceuticals and nuclear medicine procedures has been calculated for the following ages: adult, 15, 10, 5 and 1 year. Dosimetry data have been extracted from ICRP-106, ICRP-80, ICRP-53 and/or manufacturer's brochure.ResultsThe relationship of the data of effective dose associated with radiopharmaceuticals and explorations is shown. The new tissue weighting factors result in a decreased value of the effective dose, except in cases that particularly affect the breast, in which it increases. The effective dose associated with nuclear medicine procedures is in the range 0.1&#150;60mSv. BERT ranges from a few days to 20 years. The effective dose associated to tests in children is generally higher than the effective dose for an adult.ConclusionsThe results shown in this paper are an updated collection of effective dose values for commonly used radiopharmaceuticals in nuclear medicine. Expressing the effective dose equivalent time in units of natural radiation helps to explain issues associated with radiation exposure to patients and healthcare personnel(AU)</dc:description>
+<dc:creator>Olivas Arroyo, C</dc:creator>
+<dc:creator>Mateo Navarro, A</dc:creator>
+<dc:creator>Martí Vidal, J. F</dc:creator>
+<dc:creator>Bello Arqués, P</dc:creator>
+<dc:creator>Pujades Claumarchirant, M. C</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">ObjetivoRevaluar la dosis efectiva (E) de las exploraciones típicas en Medicina Nuclear teniendo en cuenta los nuevos factores de ponderación de la Comisión Internacional de Protección Radiológica (ICRP) 103 y los datos más actualizados en cuanto a la dosimetría, y relacionar la E con el tiempo equivalente de radiación natural (TERN).Material y métodosSe ha calculado la E asociada a los radiofármacos y a las exploraciones habituales en Medicina Nuclear para las edades: adulto, 15, 10, 5 y 1 año. Se han empleado los datos dosimétricos de ICRP-106, ICRP-80, ICRP-53 y/o prospecto del fabricante.ResultadosSe muestra una relación de datos de E asociada a radiofármacos y exploraciones. Los nuevos factores de ponderación de tejidos dan como resultado un valor disminuido de la E, excepto en aquellos casos que afectan especialmente a la mama, para los que aumenta. La E asociada a las exploraciones de Medicina Nuclear está en el rango de 0,1&#150;60mSv. El TERN va desde unos pocos días a una veintena de años. La E asociada a exploraciones que se realizan en niños es, en general, superior a la E correspondiente en adulto.ConclusionesLos resultados mostrados en este trabajo constituyen una colección actualizada de valores de E para los radiofármacos de uso habitual en Medicina Nuclear. Expresar la E en unidades de TERN ayuda a explicar a los pacientes y al personal sanitario cuestiones relacionadas con la exposición a la radiación asociada a una exploración(AU)</dc:description>
+<dc:source>Rev Esp Med Nucl;29(3): 114-121, mayo-jun. 2010. tab, ilus</dc:source>
+<dc:identifier>ibc-79410</dc:identifier>
+<dc:title xml:lang="es">Aplicación de los factores de ponderación de la Comisión Internacional de Protección Radiológica 103 en el cálculo de la dosis efectiva asociada a las exploraciones de Medicina Nuclear</dc:title>
+<dc:subject>^d12311^s22074</dc:subject>
+<dc:subject>^d12268</dc:subject>
+<dc:subject>^d12306^s22000</dc:subject>
+<dc:subject>^d4367</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9871^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201006</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-151228</identifier>
+<setSpec>2173-2345</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Study of miRNAs expression patterns in osteoporotic bone</dc:title>
+<dc:description xml:lang="en">Objectives: To identify microRNAs (miRNAs) differentially expressed in bone samples with osteoporotic fracture compared with healthy bones. Methods: Total RNA was extracted from fresh trabecular bone of the femoral neck of women undergoing hip replacement surgery, either because to osteoporotic fracture (n=6) or in the absence of osteoarthritis osteoporosis (based on BMD) (n=6). The samples were hybridized on an array of miRNAs and PCA diagrams and heat map were made. To compare expression levels, &gt;1.5 times and a value p&lt;0.05 Student's T test (corrected for multiple testing) was set as a threshold of significant change. Results: Both PCA analysis and the heat map showed a samples grouping whether there was fracture or not. 790 were detected miRNAs in bone samples, 82 of which were altered in the osteoporotic samples. After validation in another panel of 6 samples 6 osteoporotic and non-osteoporotic by PCR real time of the most significant miRNAs, and for which there was a test available, the miRNAs, miR-320a and miR-22-3p were confirmed. These two miRNAs were detected in cultures of primary osteoblasts, although they did not maintain the same pattern of expression in total bone samples. Conclusions: We have shown that there are differences in the expression of miRNAs in samples with osteoporotic fracture. This opens prospects for research and design of new therapies (AU)</dc:description>
+<dc:creator>Güerri, R</dc:creator>
+<dc:creator>De-Ugarte, L</dc:creator>
+<dc:creator>García-Giralt, N</dc:creator>
+<dc:creator>Yoskovitz, G</dc:creator>
+<dc:creator>Nogués, X</dc:creator>
+<dc:creator>Grinberg, D</dc:creator>
+<dc:creator>Mellibovsky, L</dc:creator>
+<dc:creator>Balcells, S</dc:creator>
+<dc:creator>Díez-Pérez, S</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Identificar microRNAs (miRNAs) diferencialmente expresados en muestras óseas con fractura osteoporótica respecto a huesos sanos. Material y métodos: Se extrajo RNA total a partir de hueso trabecular fresco del cuello femoral de mujeres sometidas a reemplazo de cadera, ya sea debido a fractura osteoporótica (n=6) o por artrosis en ausencia de osteoporosis (según la DMO) (n=6). Las muestras se hibridaron en un array de miRNAs y se realizaron diagramas de PCA y de mapa de calor. Para la comparación de los niveles de expresión, se fijó como significativo un umbral de cambio de &gt;1,5 veces y un valor p &lt;0,05 en la t de Student (corregido para múltiples pruebas). Resultados: Tanto los análisis de PCA como el mapa de calor mostraron una agrupación de las muestras según si eran de fractura o no. Se detectaron 790 miRNAs en las muestras de hueso, 82 de los cuales estaban alterados en las muestras osteoporóticas. Tras la validación en otro panel de 6 muestras osteoporóticas y 6 no osteoporóticas mediante PCR a tiempo real de los miRNAs más significativos, y para los que existía un ensayo disponible, se confirmaron los miRNAs miR-320a y miR-22-3p. Estos dos miRNAs se detectaron en cultivos de osteoblastos primarios, aunque no mantenían el mismo patrón de expresión que en las muestras de hueso total. Conclusiones: Hemos demostrado que existen diferencias en la expresión de miRNAs en muestras con fractura osteoporótica, lo que abre nuevas perspectivas para la investigación y diseño de nuevas terapias (AU)</dc:description>
+<dc:source>Rev. osteoporos. metab. miner. (Internet);8(1): 5-14, ene.-mar. 2016. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-151228</dc:identifier>
+<dc:title xml:lang="es">Estudio del patrón de expresión de microRNAs en el hueso osteoporótico</dc:title>
+<dc:subject>^d10205^s22033</dc:subject>
+<dc:subject>^d54019^s22033</dc:subject>
+<dc:subject>^d10184^s22031</dc:subject>
+<dc:subject>^d10188^s22031</dc:subject>
+<dc:subject>^d37535^s22033</dc:subject>
+<dc:subject>^d34543</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201603</dc:date>
+</metadata>
+</record>
+</ibecs-document>

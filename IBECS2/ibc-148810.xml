@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-148810</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">How do Scrabble players encode letter position during reading?</dc:title>
+<dc:description xml:lang="en">A number of experiments with skilled adult readers have shown that a transposed-letter pseudoword (e.g., CHOLOCATE) is considerably more word-like than a control replacement-letter pseudoword (e.g., CHOTONATE). For instance, in lexical decision, response times are longer and less accurate for CHOLOCATE than for CHOTONATE (i.e., a transposed-letter effect). Method: Here, we examined how letter position coding is attained in individuals who excel in orthographic-lexical processing: competitive Scrabble players. To this end, we conducted a lexical decision experiment with two types of pseudowords (transposedletter vs. replacement-letter pseudowords). Results: Data showed that while the transposed-letter effect does occur in expert Scrabble players, the magnitude of the effect is dramatically smaller than in a control group of university students-in particular, for the accuracy data. Conclusions: The parameters responsible for the flexibility of letter position coding in models of visual word recognition must be modulated by the degree of expertise in orthographic-lexical processing (AU)</dc:description>
+<dc:creator>Parea, Manuel</dc:creator>
+<dc:creator>Gómez, Pablo</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Antecedentes: en experimentos con lectores adultos, las pseudopalabras creadas por transposición de letras (v.g., CHOLOCATE) se confunden frecuentemente con su palabra base. Por ejemplo, en tareas de decisión léxica ('¿es el estímulo una palabra?'), los tiempos de respuesta son mayores y con mayor porcentaje de errores para CHOLOCATE que para su control ortográfico CHOTONATE (es decir, un efecto de transposición de letras). Método: en el presente experimento examinamos los procesos de codificación de la posición de las letras en individuos particularmente expertos en el procesamiento ortográfico-léxico: jugadores de Scrabble de competición. Para ello, se realizó un experimento de decisión léxica con dos tipos de pseudopalabras (vía transposición de letras [CHOLOCATE] vs. vía sustitución de letras [CHOTONATE]). Resultados: si bien los jugadores expertos de Scrabble muestran un efecto de transposición de letras, la magnitud del efecto es mucho menor que en estudiantes universitarios no entrenados a Scrabble, en particular para los datos de precisión. Conclusiones: en los modelos de reconocimiento visual de palabras, la flexibilidad en la codificación de la posición de las letras en palabras debe ser modulada por la destreza en el procesamiento ortográfico-léxico (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);28(1): 7-12, feb. 2016. tab</dc:source>
+<dc:identifier>ibc-148810</dc:identifier>
+<dc:title xml:lang="es">¿Cómo codifican los jugadores de Scrabble la posición de las letras durante la lectura?</dc:title>
+<dc:subject>^d28620</dc:subject>
+<dc:subject>^d12026^s22045</dc:subject>
+<dc:subject>^d12026^s22066</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d12366</dc:subject>
+<dc:subject>^d10557^s22011</dc:subject>
+<dc:subject>^d10557^s22031</dc:subject>
+<dc:subject>^d12026^s22048</dc:subject>
+<dc:subject>^d7381</dc:subject>
+<dc:subject>^d38833</dc:subject>
+<dc:subject>^d37623</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201602</dc:date>
+</metadata>
+</record>
+</ibecs-document>

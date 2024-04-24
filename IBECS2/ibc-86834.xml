@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-86834</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prediction of bacteremia in patients with suspicion of infection in emergency room</dc:title>
+<dc:description xml:lang="en">Background and objectives: To evaluate the relationship between some clinical and analytical data and the presence of bacteremia in order to establish a clinical decision rule.Patients and methods: All the patients with blood cultures obtained from the emergency room in a two months period were analyzed. Patients were randomly assigned to derivation or validation sets. A logistic regression of the significant values in the univariate analysis was performed and a score obtained. The prevalence of bacteraemia for every score was calculated. The diagnostic efficacy curves and the performance of the predictive model were calculated. Results: 412 patients were enrolled. The blood cultures were positive in 12.8% of them. The significant values in the univariate analysis were Charlson index &amp;#8805;2 and PCT &gt; 0.4ng/ml. Four groups of increasing risk of bacteraemia were designed, from 0 to 35% in the derivation set and from 2.9% to 27.2% in the validation set. In the diagnostic efficacy curve, the AUC was 0.8 in the derivation set and 0.74 in the validation set. The model presented a negative predictive value of 95.2% in the derivation set and 95.3% in the validation set.Conclusions: A model that includes Charlson index and PCT makes possible to define a group of patients with a very low risk of bacteremia (AU)</dc:description>
+<dc:creator>Lacoma, Alicia</dc:creator>
+<dc:creator>Modol, Josep María</dc:creator>
+<dc:creator>Prat, Cristina</dc:creator>
+<dc:creator>Giménez, Montserrat</dc:creator>
+<dc:creator>Tor, Jordi</dc:creator>
+<dc:creator>Tudela, Pere</dc:creator>
+<dc:creator>Barallat, Jaume</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamento y objetivos: Valorar la relación entre algunas variables clínicas y analíticas, y la existencia de bacteriemia para establecer un modelo predictivo. Pacientes y método: Se analizaron durante 2 meses los casos atendidos en Urgencias con muestras para hemocultivos. Se elaboró con el grupo de derivación un modelo predictivo de bacteriemia y se validó en el grupo restante. Las variables significativas del análisis univariado se sometieron a regresión logística y de esta se derivó una puntuación. Se calculó la prevalencia de bacteriemia para cada puntuación en ambos grupos. Se evaluó la calibración del modelo por la prueba de Hosmer-Lemeshow, se calcularon las curvas de eficacia diagnóstica y el rendimiento del modelo. Resultados: Se incorporaron al estudio 412 casos, los hemocultivos fueron positivos en el 12,8 %. Las variables significativas en el análisis multivariado fueron un índice de Charlson superior o igual a 2 y una procalcitonina superior a 0,4ng/ml. Con el sistema de puntuación (1 y 2 puntos, respectivamente) se establecieron 4 grupos de probabilidad creciente de bacteriemia; del 0&#150;35% en el grupo de derivación y del 2,9&#150;27,2% en el de validación. En la curva de eficacia diagnóstica, el área bajo la curva fue de 0,80 en el grupo de derivación y de 0,74 en el de validación. El modelo presentó un valor predictivo negativo del 95,2% en el grupo de derivación y del 95,3% en el de validación.Conclusiones: Se propone un modelo de predicción con las variables índice de Charlson y procalcitonina que permite delimitar un grupo con muy baja probabilidad de bacteriemia (AU)</dc:description>
+<dc:source>Med. clín (Ed. impr.);135(15): 685-690, nov. 2010. tab</dc:source>
+<dc:identifier>ibc-86834</dc:identifier>
+<dc:title xml:lang="es">Predicción de bacteriemia en los pacientes con sospecha de infección en urgencias</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d33939^s22045</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d4707^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30241^s22080</dc:subject>
+<dc:subject>^d7414^s22080</dc:subject>
+<dc:subject>^d22372^s22002</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201010</dc:date>
+</metadata>
+</record>
+</ibecs-document>

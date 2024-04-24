@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-83793</identifier>
+<setSpec>0034-9356</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">In-hospital mortality in surgical patients. Predictive factors</dc:title>
+<dc:description xml:lang="en">OBJETIVE: To analyze the value of patient and surgical variables as predictors of the survival until discharge of hospitalized surgical patients in a tertiary care hospital over the course of 1 year. MATERIAL AND METHODS: The hospital records for patients admitted for surgery between January 1 and December 31, 2007, were consulted to extract age, sex, ASA physical status classification of the patient, type of admission and surgery (scheduled or emergency), surgical department assigned, and date of discharge or exitus. The data were subjected to multivariate survival analysis using the Cox regression model. RESULTS: A total of 4184 patients underwent surgery in 2007; the median (25th-75th percentile) patient age was 56 (39-71) years. In 77.5% of the cases (3244 patients) surgery was scheduled; 23.1% of those patients had been admitted by the emergency department. The ASA classification was 1 for 21.8%, 2 for 44.2%, 3 for 28%, and 4 for 6%. Of patients classified as ASA 1-3, a total of 33.2% were aged 65 years or older; in contrast, 78.7% of ASA 4 patients were in that age bracket. Eighty-nine (2.1%) surgical patients died. Cox regression survival analysis showed that variables related to a lower likelihood of survival to discharge were a physical status classification of ASA 4, age 65 years or older, and emergency surgery (P&lt;.0005 for all comparisons). Conclusions: Patients over the age of 65 years, in an ASA 4 anesthetic risk category, admitted on an emergency basis for emergency surgery were at higher risk of death. Greater vigilance in the perioperative care of patients with these risk factors is advisable in the interest of reducing mortality(AU)</dc:description>
+<dc:creator>Mayorga, M. J</dc:creator>
+<dc:creator>Echevarría, M</dc:creator>
+<dc:creator>Almeida, C</dc:creator>
+<dc:creator>Rosado, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">OBJETIVO: Analizar qué variables relacionadas con el paciente y con la cirugía, predicen la supervivencia al alta en los pacientes intervenidos en cirugía con ingreso en un hospital terciario durante el periodo de un año. MATERIAL Y MÉTODO: Se analizaron en la base de datos oficial del hospital, los pacientes intervenidos en régimen de ingreso hospitalario desde el 1 de enero hasta el 31 de diciembre del año 2007, en la que se incluye la edad, sexo, estado físico del paciente-ASA, tipo de ingreso y de cirugía (programado/urgente), servicio quirúrgico asignado y fecha de alta del paciente o fallecimiento. El estudio estadístico se realizó mediante análisis multivariante de Cox. RESULTADOS: En este periodo de tiempo se intervinieron 4.184 pacientes, siendo la mediana de la edad de 56 (P25-P75: 39-71) años. En el 77,5% de los casos (3.244 pacientes) se realizó la cirugía de forma programada, de los cuales el 23,1% habían ingresado de urgencias. El 21,8% fue valorado como ASA I, el 44,2% ASA II, el 28% ASA III y el 6% como ASA IV. El 33,2% de los pacientes clasificados como ASA I, II ó III tenían una edad igual o superior a 65 años, mientras que de los pacientes incluidos en el riesgo anestésico ASA IV el 78,7% reunían dicha condición. Se registraron 89 fallecimiento (2,1% del total de pacientes). El análisis multivariante de regresión de Cox permitió relacionar a los pacientes ASA IV (p&lt;0,0005), con edad igual o superior a 65 años (p&lt;0,0005) e intervenidos con carácter urgente (p&lt;0,0005), con una menor probabilidad de supervivencia al alta frente a cualquier otro tipo de pacientes. CONCLUSIONES: La población con edad igual o superior a 65 años, con riesgo anestésico ASA IV, que ingresa con carácter urgente e intervenida con carácter urgente, presenta un mayor riesgo de mortalidad al ingreso frente al resto de pacientes. Potenciar los cuidados perioperatorios en este grupo de riesgo debe prevalecer con el objetivo de reducir su mortalidad(AU)</dc:description>
+<dc:source>Rev Esp Anestesiol Reanim;57(10): 613-620, dic. 2010. tab, ilus</dc:source>
+<dc:identifier>ibc-83793</dc:identifier>
+<dc:title xml:lang="es">Mortalidad intrahospitalaria en cirugía con ingreso. Análisis de factores predictores</dc:title>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d30047^s22066</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d11623</dc:subject>
+<dc:subject>^d28418</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d771^s22074</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d771^s22066</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:subject>^d787^s22039</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201012</dc:date>
+</metadata>
+</record>
+</ibecs-document>

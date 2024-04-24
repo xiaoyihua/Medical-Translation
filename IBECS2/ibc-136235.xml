@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-136235</identifier>
+<setSpec>0214-4603</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">A tool for the acoustic assessment of the voice in clinical environments: EVALUA</dc:title>
+<dc:description xml:lang="en">In the field of acoustic evaluation of the phonatory system, the distinct available tools are not exempt from the need to interpret their results and for extensive knowledge of the characteristics of the speech signal in the different domains of representation. This article presents a simple and robust software tool that aims to document voice quality from a recording of a sustained vowel. This tool measures four physical phenomena that define voice quality objectively and automatically. These four physical phenomena are referred to as: voice stability, spectral richness, the presence of noise, and mass irregularities. We have developed a software tool that automatically identifies variations in the four physical phenomena with respect to their normal ranges, and therefore allows normal voice to be differentiated from pathological voices. To analyze the performance of this system, we evaluated 86 speakers in a control group and 155 speakers with various laryngeal disorders and distinct degrees of dysphonia. A sensitivity of 89% and a specificity of 89.5% were obtained in discriminating between normal and pathological voices. This clinical study shows that the tool is clinically relevant in the assessment and documentation of patients with voice disorders (AU)</dc:description>
+<dc:creator>Ferrer, Miguel A</dc:creator>
+<dc:creator>Travieso, Carlos M</dc:creator>
+<dc:creator>Jungjoham Jofre, Felipe</dc:creator>
+<dc:creator>Cabrera, Josué</dc:creator>
+<dc:creator>González González, Javier</dc:creator>
+<dc:creator>Alonso, Jesús B</dc:creator>
+<dc:creator>Miranda Fandiño, Sergio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En el ámbito de la evaluación acústica del sistema fonador, las diferentes herramientas conocidas no están exentas de la necesidad de interpretar sus resultados y de un conocimiento amplio de las características de la señal de voz en los diferentes dominios de representación. En este trabajo se presenta una simple y robusta herramienta de software que tiene como objetivo documentar la calidad de voz a partir de una grabación de una vocal sostenida, cuantificando objetivamente y de forma automática 4 fenómenos físicos que permiten realizar una medición de la calidad de la voz. Estos 4 fenómenos físicos se han denominado: estabilidad de la voz, riqueza espectral, presencia de ruido e irregularidades en las masas. Se ha desarrollado un software que de manera automática identifica las variaciones de la normalidad de los 4 fenómenos físicos y, por tanto, permite diferenciar de forma objetiva las voces normales de las patológicas. Para el análisis de las prestaciones del sistema que se presenta se han evaluado 86 locutores de control y 155 locutores con patologías laríngeas variadas con diferentes grados de disfonía. En el estudio realizado se ha obtenido una sensibilidad del 89% y una especificidad de 89,5% en la discriminación entre voces normales y patológicas. Con el estudio clínico realizado hemos demostrado que la herramienta es clínicamente relevante en la evaluación y documentación de pacientes con trastornos de la voz (AU)</dc:description>
+<dc:source>Rev. logop. foniatr. audiol. (Ed. impr.);35(2): 53-61, abr.-jun. 2015. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-136235</dc:identifier>
+<dc:title xml:lang="es">Herramienta para la evaluación acústica de la voz en entornos hospitalarios: EVALUA</dc:title>
+<dc:subject>^d29235^s22045</dc:subject>
+<dc:subject>^d53079^s22016</dc:subject>
+<dc:subject>^d15235</dc:subject>
+<dc:subject>^d13444</dc:subject>
+<dc:subject>^d27926^s22016</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201506</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-62094</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Analysis of complaints in primary care using statistical process control</dc:title>
+<dc:description xml:lang="en">Objective: To analyze patient complaints in a Primary Health Care District (PHCD) usingstatistical process control methods compared to multivariate methods, as regards theirresults and feasibility of application in this context.Material and method: Descriptive study based on an aggregate analysis of administrativecomplaints. Setting: Complaints received between January 2005 and August 2008 in theCustomer Management Department in the 3rd PHCD Management Office, Madrid HealthServices. Complaints are registered through Itrack, a computer software tool used throughoutthe whole Community of Madrid. Main variables: Total number of complaints, complaintssorted by Reason and Primary Health Care Team (PHCT), total number of patient visits(including visits on demand, appointment visits and home visits) and visits by PHCT and permonth and year. Statistical analysis: Multivariate analysis and control charts were used.Results: 44-month time series with a mean of 76 complaints per month, an increasingtrend in the first three years and decreasing during summer months. Poisson regressiondetected an excess of complaints in 8 out of the 44 months in the series. The controlchart detected the same 8 months plus two additional ones.Conclusions: Statistical process control can be useful for detecting an excess of complaintsin a PHCD and enables comparisons to be made between different PHC teams. As it is asimple technique, it can be used for ongoing monitoring of customer perceived quality(AU)</dc:description>
+<dc:creator>Valdivia Pérez, Antonio</dc:creator>
+<dc:creator>Villares Rodríguez, José Enrique</dc:creator>
+<dc:creator>Monge Corella, Susana</dc:creator>
+<dc:creator>Arteaga Pérez, Lourdes</dc:creator>
+<dc:creator>Escortell Mayor, Esperanza</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Analizar las reclamaciones de un área de atención primaria mediante técnicasde control estadístico de procesos, y compararlas con técnicas multivariables en cuantoa sus resultados y su factibilidad de aplicación en este medio.Material y método: Estudio descriptivo con análisis agregado de las reclamaciones administrativas.Período del estudio: reclamaciones recibidas desde enero de 2005 a agostode 2008. Fuente de datos: la Unidad de Gestión de Usuarios de la Gerencia de AtenciónPrimaria Área 3, Servicio Madrileño de Salud registra las reclamaciones en el programaItrack, utilizado en toda la Comunidad de Madrid. Mediciones principales: número totalde reclamaciones, reclamaciones por motivo y por equipo de atención primaria, númerode consultas totales (incluye consultas a demanda, concertadas y domicilio) y consultaspor EAP, mes y año. Análisis estadístico: aplicación de técnicas multivariables y gráficosde control.Resultados: Serie temporal de 44 meses con una mediana de 76 reclamaciones/mes, unatendencia incremental en los primeros 3 años y descensos durante el verano. La regresiónde Poisson permite detectar un exceso de reclamaciones en 8 de los 44 meses de la serie.El gráfico de control identifica los mismos puntos y 2 adicionales.Conclusiones: El control estadístico de procesos puede resultar útil para detectar excesosde reclamaciones en un área de salud y comparar entre unidades asistenciales. Su fácilaplicación permite realizar una monitorización continua de la calidad percibida por losusuarios(AU)</dc:description>
+<dc:source>Rev. calid. asist;24(4): 155-161, jul.-ago.2009. ilus, graf</dc:source>
+<dc:identifier>ibc-62094</dc:identifier>
+<dc:title xml:lang="es">Análisis de las reclamaciones en atención primaria mediante el control estadístico de procesos</dc:title>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d11756^s22083</dc:subject>
+<dc:subject>^d28085</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d3709^s22083</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d11756^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200907</dc:date>
+</metadata>
+</record>
+</ibecs-document>

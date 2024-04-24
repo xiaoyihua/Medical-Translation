@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-154727</identifier>
+<setSpec>1130-0108</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Usefulness of percutaneous elastography by acoustic radiation force impulse for the non-invasive diagnosis of chronic pancreatitis</dc:title>
+<dc:description xml:lang="en">Objective: To determine the accuracy of the acoustic radiation force impulse (ARFI) technique for the diagnosis of chronic pancreatitis. Materials and methods: We present an observational, single-center study that included patients with suspected chronic pancreatitis in the period between October 2012 and September 2015 who underwent endoscopic ultrasound (EUS) and were classified according to the standard and Rosemont criteria. The same group of patients was assessed by the ARFI technology using ACUSON S2000(TM) equipment with Virtual Touch(TM) Quantification software for the assessment of pancreatic stiffness by obtaining the shear wave velocity (SWV) in the head, body and tail of the pancreas. Data were analyzed using ANOVA and nonparametric correlation methods. Diagnostic accuracy was obtained by analyzing receiver operating characteristic (ROC) curve. Results: A total of thirty-three patients were studied (45.5% women); mean age was 58.3 ± 11.8 years. Seventeen with a diagnosis of chronic pancreatitis and sixteen classified as normal according to standard criteria. A significant difference was detected between the means of SWV in pancreatic body of patients without (SWV: 1.27 m/s) and with chronic pancreatitis (SWV 1.57 m/s), p = 0.037. The area under the ROC curve was 71.3% (95% CI 0.532-0.895) and the accuracy of ARFI for diagnosing chronic pancreatitis was 69.7% for a SWV of 1.4 m/s in the pancreatic body. The SWV means in head (r = 0.421, p &lt; 0.05) and body (r = 0.455, p &lt; 0.05) of the pancreas showed a significant correlation with the number of EUS criteria for chronic pancreatitis. Conclusion: Quantification of pancreatic stiffness with ARFI elastography technique has proven to be useful for the non-invasive diagnosis of chronic pancreatitis (AU)</dc:description>
+<dc:creator>Fuentes Pardo, María</dc:creator>
+<dc:creator>Alberca de las Parras, Fernando</dc:creator>
+<dc:creator>Carballo Álvarez, Fernando</dc:creator>
+<dc:creator>Llamoza Torres, Camilio Julio</dc:creator>
+<dc:creator>Álvarez Higueras, Francisco Javier</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: determinar la precisión diagnóstica con la técnica de la radiación acústica de la fuerza de impulso (ARFI) para el diagnóstico de pancreatitis crónica (PC). Material y métodos: estudio observacional, monocentro, de pacientes a quienes, por sospecha de pancreatitis crónica entre octubre de 2012 y septiembre de 2015, se les realizó un estudio por ultrasonografía endoscópica (USE) y se les clasificó según los criterios estándar y de Rosemont. Evaluamos los mismos pacientes mediante un equipo de ultrasonido ACUSON S2000TM equipado con el software Virtual TouchTM Quantification para obtener la velocidad de onda de corte (Vc) en la cabeza, cuerpo y cola del páncreas. Los datos fueron analizados mediante análisis de la varianza y técnicas de correlación no paramétricos; la precisión diagnóstica fue obtenida mediante el análisis de las curvas ROC. Resultados: evaluamos 33 pacientes (45,5% mujeres) con media de edad de 58,3 ± 11,8 años. Diecisiete con PC y dieciséis clasificados como normal según los criterios estándar. Detectamos diferencias significativas en las medias de Vc en cuerpo de páncreas de pacientes sin (1,27 m/s) y con PC (1,57 m/s) (p = 0,037). El área bajo la curva ROC fue de 0,713 (IC 95% 0,532-0,895) y la precisión diagnóstica, de 69,7% para una Vc de 1,4 m/s en cuerpo pancreático. La media de la Vc en la cabeza (r = 0,421/p &lt; 0,05) y cuerpo de páncreas (r = 0,455/p &lt; 0,05) mostró correlación significativa con el número de criterios USE para PC. Conclusión: la cuantificación percutánea de la rigidez pancreática mediante la técnica ARFI resulta de utilidad para el diagnóstico no invasivo de la pancreatitis crónica (AU)</dc:description>
+<dc:source>Rev Esp Enferm Dig;108(8): 450-456, ago. 2016. tab, graf</dc:source>
+<dc:identifier>ibc-154727</dc:identifier>
+<dc:title xml:lang="es">Utilidad de la elastografía percutánea con la técnica de radiación acústica de la fuerza de impulso para el diagnóstico no invasivo de la pancreatitis crónica</dc:title>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d28620</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d28614</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d52855^s22074</dc:subject>
+<dc:subject>^d50479^s29166</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d55017^s22045</dc:subject>
+<dc:subject>^d28596^s22045</dc:subject>
+<dc:subject>^d28596^s22066</dc:subject>
+<dc:subject>^d22935^s22045</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d4805^s22045</dc:subject>
+<dc:subject>^d55017^s22074</dc:subject>
+<dc:subject>^d23405^s22045</dc:subject>
+<dc:subject>^d33556^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201608</dc:date>
+</metadata>
+</record>
+</ibecs-document>

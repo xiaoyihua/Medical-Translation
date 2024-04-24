@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-100159</identifier>
+<setSpec>1699-258X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cost-effectiveness analysis of pharmacologic treatment of fibromyalgia in Mexico</dc:title>
+<dc:description xml:lang="en">Objective. To identify, from the Mexican Public Health System perspective, which would be the most cost-effective treatment for patients with Fibromyalgia (FM). Material and methods. A Markov model including three health states, divided by pain intensity (absence or presence of mild, moderate or severe pain) and considering three-month cycles; costs and effectiveness were estimated for amitriptyline (50mg/day), fluoxetine (80mg/day), duloxetine (120mg/day), gabapentin (900mg/day), pregabalin (450mg/day), tramadol/acetaminophen (150mg/1300mg/día) and amitriptyline/fluoxetine (50mg/80mg/día) for the treatment of FM. The clinical outcome considered was the annual rate of pain control. Probabilities assigned to the model were collected from published literature. Direct medical costs for FM treatment were retrieved from the 2006 data of the Mexican Institute of Social Security (IMSS) databases and were expressed in 2010 Mexican Pesos. Probabilistic Sensitivity Analyses were conducted. Results. The best pain control rate was obtained with pregabalin (44.8%), followed by gabapentin (38.1%) and duloxetine (34.2%). The lowest treatment costs was for amitriptyline ($ 9047.01), followed by fluoxetine ($ 10,183.89) and amitriptyline/fluoxetine ($ 10,866.01). By comparing pregabalin vs amitriptyline, additional annual cost per patient for pain control would be around $ 50.000 and $ 75.000 and would result cost-effective in 70% and 80% of all cases. Conclusions. Among all treatment options for FM, pregabalin achieved the highest pain control and was cost-effective in 80% of patients of the Mexican Public Health System(AU)</dc:description>
+<dc:creator>García, Lourdes</dc:creator>
+<dc:creator>Dorantes Aguilar, Javier</dc:creator>
+<dc:creator>Contreras Hernández, Iris</dc:creator>
+<dc:creator>Mould Quevedo, Joaquín F</dc:creator>
+<dc:creator>Arreola Ornelas, Héctor</dc:creator>
+<dc:creator>Rosado Buzzo, Alfonso</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Identificar desde la perspectiva del proveedor de servicios de salud pública en México el tratamiento más coste-efectivo para pacientes con síndrome de fibromialgia (SFM). Material y métodos. Mediante un modelo de Markov con 3 estados de salud, definidos por la intensidad del dolor (ausencia o presencia de dolor leve; moderado o severo), en ciclos de 3 meses, se estimaron los costes y las efectividades de amitriptilina (50mg/día), fluoxetina (80mg/día), duloxetina (120mg/día), gabapentina (900mg/día), pregabalina (450mg/día), tramadol/acetaminofén (150mg/1300mg/día) y amitriptilina/fluoxetina (50mg/80mg/día) en el tratamiento del SFM. El resultado clínico de interés fue el porcentaje de control del dolor al año de tratamiento. Las probabilidades asignadas al modelo se obtuvieron de la literatura publicada. Los costes médicos directos del tratamiento SFM se calcularon a través bases de datos del Instituto Mexicano del Seguro Social (IMSS) en 2006 y se expresaron en pesos mexicanos de 2010. El análisis de sensibilidad fue probabilístico. Resultados. El mejor control del dolor se obtiene con el uso de pregabalina (44,8%), seguido de gabapentina (38,1%) y duloxetina (34,2%). El tratamiento con menor coste, fue con amitriptilina ($ 9.047,01), seguido de fluoxetina ($ 10.183,89) y amitriptilina/fluoxetina ($ 10.866,01). Al comparar pregabalina vs amitriptilina, el coste anual adicional por paciente con control del dolor se encuentra entre $ 50.000 y $ 75.000 y resulta ser coste-efectivo entre el 70 y el 80% de los casos. Conclusiones. Entre las alternativas de tratamiento para el SFM, pregabalina alcanza el mejor control del dolor y es coste-efectiva hasta en el 80% de los pacientes del sistema de salud público en México(AU)</dc:description>
+<dc:source>Reumatol. clín. (Barc.);8(3): 120-127, may.-jun.2012.</dc:source>
+<dc:identifier>ibc-100159</dc:identifier>
+<dc:title xml:lang="es">Análisis de coste-efectividad en el tratamiento farmacológico del síndrome de fibromialgia en México</dc:title>
+<dc:subject>^d5166</dc:subject>
+<dc:subject>^d8990^s22080</dc:subject>
+<dc:subject>^d24385^s22018</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4403^s22018</dc:subject>
+<dc:subject>^d10333^s22018</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24385^s22054</dc:subject>
+<dc:subject>^d24385^s22080</dc:subject>
+<dc:subject>^d28629</dc:subject>
+<dc:subject>^d52955^s22049</dc:subject>
+<dc:subject>^d10221^s22018</dc:subject>
+<dc:subject>^d50303</dc:subject>
+<dc:subject>^d10333^s22080</dc:subject>
+<dc:subject>^d52955^s22018</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201206</dc:date>
+</metadata>
+</record>
+</ibecs-document>

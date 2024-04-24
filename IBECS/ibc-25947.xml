@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-25947</identifier>
+<setSpec>0210-5020</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Basic cardiopulmonary resuscitation</dc:title>
+<dc:creator>López González, Ángel</dc:creator>
+<dc:creator>García Fernández, Carlos</dc:creator>
+<dc:creator>Cano Sánchez, Lourdes</dc:creator>
+<dc:creator>Rovira Gil, Elias</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Rol</dc:publisher>
+<dc:description xml:lang="es">Desde que en la década de los 60 se introdujeron las modernas técnicas de reanimación cardiopulmonar (RCP) se planteó la necesidad de homogeneizar su aplicación y enseñanza tanto del personal sanitario como de la población en general. El ILCOR (Comité de Enlace para las Maniobras de Reanimación), en el intento de simplificar las técnicas de reanimación, lanza unas recomendaciones que en agosto de 2000 son asumidas por las grandes organizaciones encargadas de la difusión de las maniobras de Soporte Vital, AHA y ERC entre otras. En ellas se incorporan diferentes niveles de atención dependiendo de la cualificación de la persona que las realice. Como principales cambios aparecen la necesidad de la activación de los servicios de emergencias médicas rápidamente; pautas en caso de uno o dos reanimadores; en la ventilación de salvamento, nuevos volúmenes según se utilice o no oxígeno; se aceptan dispositivos de apertura de vía aérea alternativos; recomendaciones en cuanto a la pertinencia o no de verificar el pulso dependiendo de la cualificación de quien lo haga; técnica del masaje cardiaco; RCP con sólo compresiones torácicas y desfibrilación automática externa (AU)</dc:description>
+<dc:source>Rev Enferm;25(1): 66-70, ene. 2002. ilus</dc:source>
+<dc:identifier>ibc-25947</dc:identifier>
+<dc:title xml:lang="es">Reanimación cardiopulmonar básica</dc:title>
+<dc:subject>^d30213^s22039</dc:subject>
+<dc:subject>^d6489^s22045</dc:subject>
+<dc:subject>^d5683^s22016</dc:subject>
+<dc:subject>^d21027^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d15351^s22045</dc:subject>
+<dc:subject>^d30213^s22045</dc:subject>
+<dc:subject>^d4707^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200201</dc:date>
+</metadata>
+</record>
+</ibecs-document>

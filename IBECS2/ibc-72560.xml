@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-72560</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Influence of group learning in search processes</dc:title>
+<dc:description xml:lang="en">Our decisions about the world are often based on a sequential analysis of various uncertain cues. To achieve high accuracy, the order in which these cues are searched is crucial. Previous research, however, has shown that people demonstrate slow progress in learning cue ordering by validity when they could update such cue ordering through feedback. A possible clue to how people solve this problem is group learning: By exchanging information with other individuals, people can learn which cues are relevant for making decisions and in which order the cues should be considered. In a computer simulation study, we showed that exchanging information about which cues are good for making decisions can help to overcome the limitations of individual learning. Thus, the dilemma of individual learning can be collectively solved. In line with the spirit of the fast and frugal heuristics approach, we found that several simple group learning rules performed better than computationally demanding ones. We relate our results to previous findings on bounded rationality in the social context (AU)</dc:description>
+<dc:creator>García-Retamero, Rocío</dc:creator>
+<dc:creator>Takezawa, Masanori</dc:creator>
+<dc:creator>Gigerenzer, Gerd</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Frecuentemente, basamos nuestras decisiones en diversas claves con distinto poder predictivo. Para obtener una precisión elevada en dichas decisiones, es crucial el orden en que exploramos las claves. La investigación previa ha puesto de manifiesto que las personas mostramos severos problemas a la hora de aprender a discriminar qué claves son predictivas en nuestro entorno. En este artículo ofrecemos una posible solución a este problema: el intercambio de información con otros miembros de nuestro grupo puede permitirnos aprender qué claves son más efectivas a la hora de tomar decisiones. Los resultados de varias simulaciones ofrecen apoyo teórico a esta hipótesis. El aprendizaje grupal, por tanto, permitiría superar las limitaciones en los procesos de aprendizaje individual. En línea con la filosofía de los heurísticos rápidos y frugales, nuestra investigación, además, ha puesto de manifiesto que el uso de reglas de aprendizaje grupal sencillas permiten obtener una ejecución superior a la que alcanzan otras reglas más complejas que implican agregar cuantiosa información (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);21(3): 369-375, jul.-sept. 2009. tab, ilus, graf</dc:source>
+<dc:identifier>ibc-72560</dc:identifier>
+<dc:title xml:lang="es">Incidencia del aprendizaje grupal en los procesos de adquisición de información</dc:title>
+<dc:subject>^d6276</dc:subject>
+<dc:subject>^d8036</dc:subject>
+<dc:subject>^d8776</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200909</dc:date>
+</metadata>
+</record>
+</ibecs-document>

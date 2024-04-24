@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-159651</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Reduction in alert fatigue in an assisted electronic prescribing system, through the Lean Six Sigma methodology</dc:title>
+<dc:description xml:lang="en">Objective: To reduce the alert fatigue in our Assisted Electronic Prescribing System (AEPS), through the Lean Six Sigma (LSS) methodology. Method: An observational (transversal) and retrospective study, in a general hospital with 850 beds and AEPS. The LSS methodology was followed in order to evaluate the alert fatigue situation in the AEPS system, to implement improvements, and to assess outcomes. The alerts generated during two trimesters studied (before and after the intervention) were analyzed. In order to measure the qualitative indicators, the most frequent alert types were analyzed, as well as the molecules responsible for over 50% of each type of alert. The action by the prescriber was analyzed in a sample of 496 prescriptions that generated such alerts. For each type of alert and molecule, there was a prioritization of the improvements to be implemented according to the alert generated and its quality. A second survey evaluated the pharmacist action for the alerts most highly valued by physicians. Results: The problem, the objective, the work team and the project schedule were defined. A survey was designed in order to understand the opinion of the client about the alert system in the program. Based on the surveys collected (n=136), the critical characteristics and the quanti/qualitative indicators were defined. Sixty (60) fields in the alert system were modified, corresponding to 32 molecules, and this led to a 28% reduction in the total number of alerts. Regarding quality indicators, false positive results were reduced by 25% (p&lt;0.05), 100% of those alerts ignored with justification were sustained, and there were no significant differences in user adherence to the system. The project improvements and outcomes were reviewed by the work team. Conclusions: LSS methodology has demonstrated being a valid tool for the quantitative and qualitative improvement of the alert system in an Assisted Electronic Prescription Program, thus reducing alert fatigue (AU)</dc:description>
+<dc:creator>Poveda Andrés, José Luis</dc:creator>
+<dc:creator>Reig Aguado, Jorge</dc:creator>
+<dc:creator>Font Noguera, Isabel</dc:creator>
+<dc:creator>Cuéllar Monreal, M Jesús</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objetivo: Reducir la fatiga por alertas en nuestro sistema de prescripción electrónica asistida (PEA), mediante la metodología Lean Six Sigma (LSS). Método: Estudio observacional (transversal) y retrospectivo en un hospital general con 850 camas de hospitalización con PEA. Se siguió la metodología LSS para evaluar la situación de fatiga por alertas del sistema de PEA, implementar mejoras y evaluar resultados. Se analizaron las alertas generadas durante dos trimestres de estudio (pre y post-intervención). Para medir los indicadores cualitativos se recurrió al análisis de los tipos de alerta más frecuentes y de los principios activos responsables de más del 50% de cada tipo de alerta. Se analizó la actuación del prescriptor en una muestra de 496 prescripciones que generaron estas alertas. Para cada tipo de alerta y principio activo se priorizaron las mejoras a implementar de acuerdo con la alerta generada y la calidad de la misma. La actuación farmacéutica ante las alertas más valoradas por los médicos se evaluó mediante una segunda encuesta. Resultados: Se definió el problema, el objetivo, el grupo de trabajo y el cronograma del proyecto. Se diseñó una encuesta para conocer la opinión del cliente sobre el sistema de alertas del programa. A partir de las encuestas recogidas (n=136) se definieron las características críticas y los indicadores cuanti/ cualitativos. Se modificaron 60 campos del sistema de alertas, correspondientes a 32 principios activos, reduciéndose la cantidad total de alertas en un 28%. En cuanto a los indicadores de calidad, se redujeron los falsos positivos en un 25 % (p&lt;0,05), se mantuvo el 100 % de alertas ignoradas de forma justificada, y no hubo diferencias significativas en la adherencia de los usuarios al sistema. Las mejoras y los resultados del proyecto fueron revisados por el grupo de trabajo. Conclusiones: La metodología LSS ha demostrado ser una herramienta válida para la mejora cuantitativa y cualitativa del sistema de alertas de un programa de prescripción electrónica asistida, reduciendo así el fenómeno de la fatiga por alertas (AU)</dc:description>
+<dc:source>Farm Hosp;41(1): 14-30, ene.-feb. 2017. tab, ilus, graf</dc:source>
+<dc:identifier>ibc-159651</dc:identifier>
+<dc:title xml:lang="es">Reducción de la fatiga por alertas en un sistema de prescripción electrónica asistida, mediante la metodología Lean Six Sigma</dc:title>
+<dc:subject>^d52955^s22074</dc:subject>
+<dc:subject>^d50249^s22049</dc:subject>
+<dc:subject>^d4421^s22054</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d54376^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d53392</dc:subject>
+<dc:subject>^d55694</dc:subject>
+<dc:subject>^d53729</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201702</dc:date>
+</metadata>
+</record>
+</ibecs-document>

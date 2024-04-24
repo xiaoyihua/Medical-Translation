@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-041758</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Serum C-reactive protein as a marker of outcome and infection in critical care patients</dc:title>
+<dc:creator>Seller-Pérez, Gemma</dc:creator>
+<dc:creator>Toro-Peinado, Inmaculada de</dc:creator>
+<dc:creator>Porras-Ballesteros, José A</dc:creator>
+<dc:creator>Lebrón-Gallardo, Miguel</dc:creator>
+<dc:creator>Martín-Hita, Lina</dc:creator>
+<dc:creator>Herrera-Gutiérrez, Manuel E</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamento y objetivo: Analizar la utilidad de la proteína C reactiva (PCR) como marcador pronóstico y de infección en pacientes ingresados en unidades de cuidados intensivos (UCI). Pacientes y método: Se ha realizado un estudio prospectivo en 77 pacientes ventilados mecánicamente sin infección (sospechada o confirmada) en el momento del ingreso; el grupo control estuvo formado por 55 ingresos tras cirugía electiva. Determinamos el valor de PCR los días 1 (PCR-1), 4 (PCR-4) y 7 (PCR-7). Se registraron el APACHE-II (Acute Physiology Score and Chronic Health Evaluation) y SOFA (Sepsis-related Orgam Failure Assessment) al ingreso y la presencia de shock, fallo respiratorio o renal, así como la cifra de leucocitos, plaquetas y albúmina sérica durante el seguimiento (10 días para el análisis de infecciones y hasta el alta de la UCI para el del pronóstico). Resultados: El valor medio (desviación estándar) de la PCR-1 en los controles fue de 5,3 (3,9) mg/l, frente a 67,8 (77,4) mg/l en los casos (p &lt; 0,001). Los casos con shock en el momento del ingreso presentaron valores más elevados de PCR-1 (118,6 [82,8] frente a 62,8 [75,6] mg/l, p = 0,06). El 40,25% de los casos desarrolló infección y presentó valores de PCR-1 más elevados (88,8 [93,9] comparado con 53,8 [60,9] mg/l, p &lt; 0,05). La sensibilidad fue del 23% y la especificidad del 89% para un valor de PCR-1 superior a 100 (area bajo la curva de 0,6). Las mortalidad en los casos fue del 23,4%. La PCR-1 no se relacionó con el pronóstico en este grupo: el área bajo la curva para PCR-1 mayor de 100 como predictor de mortalidad en toda la población fue de 0,62, pero en los casos fue sólo de 0,49 (0,69 para APACHE-II y 0,67 para SOFA). Conclusiones: El valor sérico de la PCR en el momento del ingreso es un marcador temprano de infección pero no es útil como marcador pronóstico en pacientes críticos sometidos a ventilación mecánica al ingresar en la UCI</dc:description>
+<dc:source>Med. clín (Ed. impr.);125(20): 761-765, dic. 2005. tab, graf</dc:source>
+<dc:identifier>ibc-041758</dc:identifier>
+<dc:title xml:lang="es">Valor de la determinación de la proteína C reactiva como marcador pronóstico y de infección en pacientes críticos</dc:title>
+<dc:subject>^d28582^s22016</dc:subject>
+<dc:subject>^d23568^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24551</dc:subject>
+<dc:subject>^d3439^s22045</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d22124^s22002</dc:subject>
+<dc:subject>^d8079^s22083</dc:subject>
+<dc:subject>^d7414^s22032</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200512</dc:date>
+</metadata>
+</record>
+</ibecs-document>

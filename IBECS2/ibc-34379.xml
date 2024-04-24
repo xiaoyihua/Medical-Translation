@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-34379</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Approaches to the statistical analysis of repeated measures designs</dc:title>
+<dc:description xml:lang="en">The analysis of variance is often used to assess treatment effects in repeated measures designs. However, this approach is sensitive to violations of the sphericity. This paper illustrates several statistical procedures for repeated measures designs and multisample repeated measures designs, including several adjusted F statistics, multivariate analysis of variance, General Approximate Test, Improved General Approximate Test, Welch-James procedure, the Bayes approach and mixed model analysis. These tests are discussed with respect to their robustness to violation of assumptions for main as well as interaction effects when designs are either balanced or unbalanced (AU)</dc:description>
+<dc:creator>Blanca Mena, M. José</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En el análisis de datos provenientes de los diseños de medidas repetidas generalmente se utiliza el análisis de varianza mixto. Sin embargo, su adecuación está en función de la satisfacción de los supuestos asociados al análisis, en especial del supuesto de esfericidad. El objetivo del presente trabajo es realizar una revisión de las pruebas estadísticas alternativas cuando se viola el supuesto de esfericidad, incluyendo diferentes procedimientos de ajuste del estadístico F, el análisis multivariado, las pruebas de la Aproximación General y de la Aproximación General Mejorada, el procedimiento de Welch-James, el acercamiento Bayesiano y el enfoque del modelo mixto. Se realiza una discusión de estos procedimientos en términos de robustez estadística ante la violación de los supuestos para analizar los efectos principales y de interacción en diseños balanceados y no balanceados. (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);16(3): 509-518, ago. 2004.</dc:source>
+<dc:identifier>ibc-34379</dc:identifier>
+<dc:title xml:lang="es">Alternativas de análisis estadístico en los diseños de medidas repetidas</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d28620</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200408</dc:date>
+</metadata>
+</record>
+</ibecs-document>

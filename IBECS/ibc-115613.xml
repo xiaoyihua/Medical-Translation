@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-115613</identifier>
+<setSpec>0014-2565</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Adaptation of the Palliative Prognostic Index in patients with advanced medical conditions</dc:title>
+<dc:description xml:lang="en">Objective. To analyze the accuracy of the Palliative Prognostic Index (PPI) in patients with advanced medical diseases and to recalibrate it in order to adapt it to the profile of these patients. Methods. Multicenter, prospective, observational study that included patients with one or more advanced medical diseases. Calibration (Hosmer-Lemeshow goodness of fit) and discriminative power (ROC and area under the curve [AUC]) of PPI were analyzed in the prediction of mortality at 180 days. Recalibration was carried out by analyzing the scores on the PPI of each quartile upward of dying probability. Accuracy of PPI was compared with that obtained for the Charlson index. Results. Overall mortality of the 1.788 patients was 37.5%. Calibration in the prediction of mortality was good (goodness of fit with P=.21), the prognostic probabilities ranging from 0-0,25 in the first quartile of risk and from 0,48-0,8 in the last quartile. Discriminative power was acceptable (AUC=69; P=.0001). In recalibrated groups, mortality of patients with 0/1-2/2.5-9.5/&gt;=10 points was 13, 23, 39 and 68%, respectively. Sensitivity (S) and negative predicative value (NPF) of the cutoff point above 0 points were 96 and 87%, respectively; while specificity (sp) and positive predictive value (PPV) of the cutoff point above 9.5 points were 95 and 68%. Calibration of the Charlson index was good (P=.2), and its discriminative power (AUC=.52; P=.06) was suboptimal. Conclusions. PPI can be a useful tool in predicting 6-month survival of patients with advanced medical conditions (AU)</dc:description>
+<dc:creator>Nieto Martín, M. D</dc:creator>
+<dc:creator>Mora Rufete, A</dc:creator>
+<dc:creator>Ollero Baturone, M</dc:creator>
+<dc:creator>Bernabeu Wittel, M</dc:creator>
+<dc:creator>Barón Franco, B</dc:creator>
+<dc:creator>Higuera Vila, L. de la</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Analizar el rendimiento del Palliative Prognostic Index (PPI) en los pacientes con enfermedades médicas en estadio avanzado, y recalibrarlo para adaptarlo al perfil de estos pacientes. Métodos. Estudio prospectivo observacional multicéntrico. Se incluyeron pacientes con una o más enfermedades médicas avanzadas. Se analizó la calibración (bondad de ajuste de Hosmer-Lemeshow) y el poder discriminativo (curva ROC y área bajo la curva [AUC]) del PPI en la predicción de la mortalidad a los 180 días. La recalibración se llevó a cabo analizando las puntuaciones en el PPI de cada cuartil ascendente de probabilidad de fallecer. Se comparó la precisión del PPI con la obtenida con el índice de Charlson. Resultados. La mortalidad global de los 1.788 pacientes fue del 37,5%. La calibración en la predicción de mortalidad fue buena (bondad de ajuste con p=0,21), oscilando la probabilidad pronosticada entre 0-0,25 en el primer cuartil de riesgo, y 0,48-0,8 en el último cuartil. El poder discriminativo fue aceptable (AUC=0,69; p&lt;0,0001). En los grupos recalibrados, la mortalidad de los pacientes con 0/1-2/2,5-9,5 &gt;=10 puntos fue del 13, 23, 39 y 68%, respectivamente. La sensibilidad y el valor predictivo negativo del punto de corte de la escala por encima de 0 fueron 96 y 87%, respectivamente; la especificidad y el valor predictivo positivo del punto de corte de la escala por encima de 9,5 fueron del 95 y 68%. La calibración del índice de Charslon fue buena (p=0,2), y el poder discriminativo subóptimo (AUC=0,52; p=0,06). Conclusiones. El PPI en los pacientes con enfermedades médicas en estadio avanzado puede ser de utilidad para el pronóstico de supervivencia a 6 meses (AU)</dc:description>
+<dc:source>Rev Clin Esp;213(7): 323-329, oct. 2013.</dc:source>
+<dc:identifier>ibc-115613</dc:identifier>
+<dc:title xml:lang="es">Recalibración del Palliative Prognostic Index en pacientes con enfermedades médicas avanzadas</dc:title>
+<dc:subject>^d28563^s22054</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d28614</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d54522^s22012</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24572</dc:subject>
+<dc:subject>^d6486^s22080</dc:subject>
+<dc:subject>^d54522^s22016</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d6486^s22054</dc:subject>
+<dc:subject>^d28563^s22080</dc:subject>
+<dc:subject>^d2171</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201310</dc:date>
+</metadata>
+</record>
+</ibecs-document>

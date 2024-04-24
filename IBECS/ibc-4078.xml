@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-4078</identifier>
+<setSpec>0212-6567</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Diagnostic concordance between primary and specialist care after urgent consultations</dc:title>
+<dc:creator>Rodriguez Caravaca, G</dc:creator>
+<dc:creator>Villar del Campo, I</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Objetivo. Evaluar la concordancia diagnóstica entre los medios intra y extrahospitalario tras consulta urgente. Diseño. Estudio descriptivo transversal. Emplazamiento. Área Sanitaria 7. Madrid. Pacientes. Cualquier paciente que hubiera consultado de forma urgente en atención primaria y hubiera sido remitido a urgencias del hospital de referencia. Mediciones y resultados principales. Se hizo una estimación muestral teniendo en cuenta una proporción de acuerdo esperado del 50 por ciento, una confianza del 95 por ciento, una precisión del 5 por ciento y una ausencia de diagnóstico en los partes de interconsulta del 30 por ciento. Se estimaron necesarios 551 casos. Se revisaron las historias clínicas del servicio de urgencias del hospital. Se codificaron los diagnósticos intra y extrahospitalarios según la clasificación internacional de enfermedades (CIE-9 MC). Se halló el índice kappa de concordancia entre diagnósticos individuales y el índice kappa global. Se revisaron los diagnósticos intra y extrahospitalarios de 559 pacientes. En 112 (20 por ciento) no se especificaba el diagnóstico extrahospitalario. El índice kappa fue muy alto (kappa &gt;= 0,8) para la angina de pecho y urticaria. El índice kappafue alto (0,6 &gt;= k = k = k &lt; 0,4) para apendicitis y artritis, y muy bajo (k &lt; 0,2) para meningitis y celulitis. El coeficiente kappa global para todos los diagnósticos fue de 0,65 (IC del 95 por ciento, 0,58-0,72). Conclusiones. La concordancia global fue alta. La concordancia más elevada se obtuvo para procesos con diagnóstico fundamentalmente clínico, y la más baja para enfermedades que requieren exploraciones complementarias especializadas (AU)</dc:description>
+<dc:source>Aten Primaria;25(5): 292-296, mar. 2000.</dc:source>
+<dc:identifier>ibc-4078</dc:identifier>
+<dc:title xml:lang="es">Concordancia diagnóstica entre atención primaria y atención especializada tras consulta urgente</dc:title>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d11756</dc:subject>
+<dc:subject>^d3961</dc:subject>
+<dc:subject>^d4711</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200003</dc:date>
+</metadata>
+</record>
+</ibecs-document>

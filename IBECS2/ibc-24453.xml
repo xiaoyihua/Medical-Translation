@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-24453</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Our experience with diagnosis-related groups in an intensive care unit</dc:title>
+<dc:creator>Barrientos Vega, R</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Objetivo. Para definir los productos y costes hospitalarios, la administración sanitaria recurre al sistema de grupos relacionados por el diagnóstico (GRD), cada día más universalizado, el cual agrupa en un case mix diversos diagnósticos que tienen un consumo similar de recursos. Cada caso o enfermo tiene un solo GRD, que se le asigna en el momento del alta hospitalaria. En un 80 por ciento de los enfermos de cuidados intensivos, el alta se realiza desde otro servicio hospitalario, lo cual puede facilitar una pérdida de información del producto generado en las UCI. Nos plantemos atribuir los GRD a todos los enfermos directamente en el momento del alta de la UCI. Pacientes y método. Se asignó un conjunto mínimo básico de datos (CMBD) a 500 casos consecutivos de una UCI polivalente y, posteriormente, se les agrupó por GRD (AP-DRG versión 14.0). Estos resultados se compararon con los GRD obtenidos por estos mismos enfermos en el momento del alta hospitalaria. Resultados. Sólo coincidía el 28,36 por ciento de los GRD en la primera confrontación entre ambas series. Tras un nuevo análisis se comprobó que un 19,99 por ciento de los GRD tenían errores de codificación y un 27,17 por ciento se había codificado con informaciones deficientes. Además, el sistema definía de forma insatisfactoria los procesos agrupados del 22,78 por ciento restante. Discusión. Como herramienta de gestión no habría inconveniente en atribuir directamente los GRD en el momento del alta de la UCI, ya que 98,30 por ciento de los diagnósticos y procedimientos de estos enfermos se generan en la UCI, o antes de ingresar en intensivos. Pero el sistema no es útil para definir a los enfermos de la UCI porque: a) globalmente, define mal los casos complejos; b) salvo excepciones, el sistema no valora los procedimientos de UCI que podían definir los GRD atendidos, y c) los pesos o costes asignados a los case mix resultan muy inferiores, salvo excepciones, al consumo real de los enfermos de la UCI (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);27(6): 391-398, jun. 2003. tab</dc:source>
+<dc:identifier>ibc-24453</dc:identifier>
+<dc:title xml:lang="es">Nuestra experiencia con los grupos relacionados por el diagnóstico en una unidad de cuidados intensivos</dc:title>
+<dc:subject>^d7530^s22018</dc:subject>
+<dc:subject>^d30327^s22083</dc:subject>
+<dc:subject>^d30769</dc:subject>
+<dc:subject>^d30057^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200306</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-135199</identifier>
+<setSpec>0034-0618</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Obesity-Associated Insulin resistance in skeletal muscle</dc:title>
+<dc:description xml:lang="en">Insulin resistance is an important contributor to the pathogenesis of type 2 diabetes and obesity is a risk factor for its development, due in part to the fact that adipose tissue secretes proteins called adipokines that may influence insulin sensitivity. Among these molecules, TNF&amp;#945; has been proposed as a link between obesity and insulin resistance because TNF&amp;#945; is overexpressed in adipose tissues of obese animals and humans, and obese mice lacking either TNF&amp;#945; or its receptor show protection for developing insulin resistance. The direct exposure to TNF&amp;#945; induced a state of insulin resistance on glucose uptake in myocytes and brown adipocytes, due to the activation of  pro-inflammatory pathways that impair insulin-signaling at the level of the IRS proteins. In this regard the residue Ser307 in IRS-1 has been identified as a site for TNF&amp;#945;- inhibitory effects in myotubes, with being p38MAPK and IKK involved in the phosphorylation of this residue. Conversely, serine phosphorylation of IRS-2 mediated by TNF&amp;#945; activation of MAPKs was the mechanism found in brown adipocytes. The phosphatase PTP1B acts as a physiological negative regulator of insulin signaling by dephosphorylating the phosphotyrosine residues of the insulin receptor and IRS-1, and PTP1B expression is increased in muscle and white adipose tissue of obese and diabetic humans and rodents. Moreover, up-regulation of PTP1B expression has recently been found in cells treated with TNF&amp;#945;. Accordingly, myocytes and primary brown adipocytes deficient on PTP1B are protected against insulin resistance by this cytokine. Furthermore, down-regulation of PTP1B activity is also possible by the use of pharmacological agonists of nuclear receptors that restored insulin sensitivity in the presence of TNF&amp;#945;. In conclusion, the lack of PTP1B in muscle and brown adipocytes increase insulin sensitivity and glucose uptake and could confer protection against  insulin resistance induced by adipokines (AU)</dc:description>
+<dc:creator>Lorenzo, Margarita</dc:creator>
+<dc:creator>Nieto Vázquez, Iria</dc:creator>
+<dc:creator>Vila Bedmar, Rocío</dc:creator>
+<dc:creator>García Guerra, Lucía</dc:creator>
+<dc:creator>Fernández Veledo, Sonia</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Entre las complicaciones asociadas a la Obesidad, tiene una especial relevancia el desarrollo de resistencia a la insulina, siendo el primer eslabón de una amplia patología conocida como diabetes tipo 2. La Obesidad se considera como un estado crónico de inflamación de baja intensidad, como indican los niveles circulantes elevados de moléculas proinflamatorias. Se ha propuesto al TNF&amp;#945; como el nexo de unión entre adiposidad y desarrollo de resistencia a insulina ya que la mayoría de los pacientes con diabetes tipo 2 son obesos y tienen aumentada la expresión de TNF&amp;#945; en sus adipocitos, y los animales obesos deleccionados para la función del TNF&amp;#945; o su receptor no desarrollan resistencia a insulina. Las citocinas proinflamatorias producidas por los adipocitos y/o macrófagos activan quinasas de estrés, proinflamatorias y factores de transcripción que actúan sobre los tejidos periféricos (entre ellos el músculo y el propio tejido adiposo) produciendo resistencia a la acción de la insulina, que es un defecto en la señalización a varios niveles. En concreto, el TNF&amp;#945; activa la quinasa p38MAPK que fosforila en residuos de serina a los IRSs, bloqueando su fosforilación en tirosina en  respuesta a la insulina, tanto en adipocitos marrones como en miocitos. Muy recientemente hemos observado que la fosfatasa PTP1B también está implicada en la resistencia a insulina por TNF&amp;#945; en ambos modelos. En la clínica se está utilizando actualmente el tratamiento con tiazolidindionas en pacientes con diabetes tipo 2. Otros agonistas de receptores nucleares empiezan a aparecer en la bibliografía como potenciales sensibilizadores a acción de la insulina, entre ellos el LXR, que puede antagonizar la señalización proinflamatoria en los propios adipocitos y/o en el músculo (AU)</dc:description>
+<dc:source>An Real Acad Farm;74(4): 1-33, oct.-dic. 2008. ilus, tab</dc:source>
+<dc:identifier>ibc-135199</dc:identifier>
+<dc:title xml:lang="es">Resistencia a insulina en el músculo esquelético: conexión con la obesidad</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d31130^s22000</dc:subject>
+<dc:subject>^d3946^s22044</dc:subject>
+<dc:subject>^d3946^s22054</dc:subject>
+<dc:subject>^d22649^s22000</dc:subject>
+<dc:subject>^d22649^s22033</dc:subject>
+<dc:subject>^d31130^s22015</dc:subject>
+<dc:subject>^d22649^s22078</dc:subject>
+<dc:subject>^d53563^s22016</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d32127^s22010</dc:subject>
+<dc:subject>^d28455^s22018</dc:subject>
+<dc:subject>^d32127^s22053</dc:subject>
+<dc:subject>^d32127^s22044</dc:subject>
+<dc:subject>^d22649</dc:subject>
+<dc:subject>^d32127^s22011</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d53563^s22044</dc:subject>
+<dc:subject>^d28455^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200812</dc:date>
+</metadata>
+</record>
+</ibecs-document>

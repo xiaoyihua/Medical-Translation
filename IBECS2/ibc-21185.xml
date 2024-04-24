@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-21185</identifier>
+<setSpec>0211-3465</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Implement of self monitoring systems of vaccines cold chain in vaccination centers</dc:title>
+<dc:creator>García Ruiz, J. A</dc:creator>
+<dc:creator>Vázquez Panal, J</dc:creator>
+<dc:creator>Urcelay Gentil, P</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Alpe Editores, S.A.</dc:publisher>
+<dc:description xml:lang="es">Para que el proceso de vacunación se lleve a cabo con éxito son necesarias, no sólo vacunas seguras y eficaces, sino que además, se debe asegurar el mantenimiento de la cadena del frío. Las referencias bibliográficas que hacen alusión a errores en la cadena del frío y a las consecuencias de éstos son numerosas y, en la mayoría de los casos, se podrían haber evitado con una infraestructura adecuada de mantenimiento y una serie de medidas preventivas y controles que habrían reducido los riesgos o al menos habrían permitido actuar precozmente. En el presente trabajo se hace una propuesta de autocontrol en la cadena del frío de los Centros de vacunación, basada en la Norma ISO 9000 y tomando como referencia las principales conductas de riesgo, por acción o por omisión, encontradas en la bibliografía, así como la propia experiencia y los datos generados con la verificación de la cadena del frío en los Centros de vacunación de un Área sanitaria. Se plantea por ello, el desarrollo de cuatro planes preventivos generales, los cuales pretenden abordar cualquier situación de riesgo que pueda afectar a la calidad de las vacunas  (AU)</dc:description>
+<dc:source>Pediátrika (Madr.);23(1): 21-28, ene. 2003.</dc:source>
+<dc:identifier>ibc-21185</dc:identifier>
+<dc:title xml:lang="es">Implantación de sistemas de autocontrol en la cadena del frío de los Centros de vacunación</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d23123^s22048</dc:subject>
+<dc:subject>^d4416^s22045</dc:subject>
+<dc:subject>^d51706</dc:subject>
+<dc:subject>^d14074</dc:subject>
+<dc:subject>^d12456^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200301</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-121817</identifier>
+<setSpec>0001-6640</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Scientific communication (X). Basic knowledge to develop a scientific paper (5): Statistical aspects (rather than numbers)</dc:title>
+<dc:description xml:lang="en">Statistics is an essential section for both, authors and readers of scientific literature, that offers the basis for the scientific rigor of the study and the validity of the conclusions. Knowing the subject of a scientific article helps to understand the work and knowing the principles of statistics helps to understand the methodology. The main assumptions of the statistic that should be taken into account in the preparation of a scientific paper are: 1) describe the scientific methods with enough detail; 2) quantify the results; 3) know the meaning of the p value p; 4) does not depend exclusively of p; 5) analyze the inclusion and exclusion criteria; 6) provide the details of the randomization process; 7) provide the details of the masking process; 8) report on the complications of the treatment; 9) specify the number of observations and indicate losses; 10) specify the statistical software and statistical references; 11) define the terms and avoid using non-technical statististical terms in statistics, and 12 ) handle errors in clinical research. Statistics should not become a religion that leads to salvation through the ritual of finding significant values of p, and then the authors reaching the promised land of publication of the paper in a high-impact journal, but properly used is a useful tool for the design and conduct of medical research (AU)</dc:description>
+<dc:creator>Alonso-Arroyo, A</dc:creator>
+<dc:creator>González de Dios, J</dc:creator>
+<dc:creator>González-Muñoz, M</dc:creator>
+<dc:creator>Aleixandre-Benavent, R</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La estadística es un apartado esencial, tanto para los autores como para los lectores de literatura científica, que fundamenta el rigor científico del estudio y la validez de las conclusiones. Conocer el tema de un artículo científico ayuda a entender el trabajo, y conocer los principios de estadística ayuda a entender la metodología. Las principales premisas de la estadística que se deben tener en cuenta en la elaboración de un artículo científico son las siguientes: 1) describir los métodos científicos con suficiente detalle; 2) cuantificar los resultados; 3) conocer el significado del valor de p; 4) no depender exclusivamente de la p; 5) analizar los criterios de inclusión y exclusión; 6) proporcionar los detalles del proceso de aleatorización; 7) facilitar los detalles del proceso de enmascaramiento; 8) informar sobre las complicaciones del tratamiento; 9) especificar el número de observaciones e indicar las pérdidas; 10) detallar el programa estadístico y las referencias sobre estadística; 11) definir los términos y evitar el uso no técnico de términos de la estadística, y 12) controlar los errores de la investigación clínica. La estadística no debe convertirse en una religión que conduce a la salvación a través del ritual de la búsqueda de valores significativos de la p, alcanzando entonces los autores el paraíso prometido de la publicación del trabajo en una revista de alto impacto, sino que es una herramienta útil para el diseño y la realización de estudios médicos, siempre que se utilice adecuadamente (AU)</dc:description>
+<dc:source>Acta Pediatr Esp;72(3): 63-70, mar. 2014. tab</dc:source>
+<dc:identifier>ibc-121817</dc:identifier>
+<dc:title xml:lang="es">Comunicación científica (X). Conocimientos básicos para elaborar un artículo científico (5): Los aspectos estadísticos (más que números)</dc:title>
+<dc:subject>^d28401</dc:subject>
+<dc:subject>^d50163</dc:subject>
+<dc:subject>^d12077^s22048</dc:subject>
+<dc:subject>^d37673^s22045</dc:subject>
+<dc:subject>^d54358^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201403</dc:date>
+</metadata>
+</record>
+</ibecs-document>

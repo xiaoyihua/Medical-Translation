@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-33214</identifier>
+<setSpec>1139-6709</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Nucleotide sequence and expression of the ncr nickel and cobalt resistance in Hafnia alvei 5-5</dc:title>
+<dc:description xml:lang="en">The structural genes for the nickel and cobalt resistance of the conjugative plasmid pEJH 501 of Hafnia alvei 5-5, contained on a SalI-EcoRI fragment of 4.8 kb, were cloned and sequenced. The DNA sequence included five genes in the following order: ncrA, ncrB, ncrC, ncrY, and ncrX. The predicted amino acid sequences of ncrA were homologous to the amino acid sequences of nreB of Achromobacter xylosoxidans 31A. Expression of ncr with the T7 RNA polymerase-promoter system allowed Escherichia coli BL21 (DE3) to overexpress NcrA, NcrB, and NcrC but not NcrY, and NcrX. The apparent molecular masses of NcrA, NcrB, and NcrC were 30, 33, and 17 kDa, respectively. Primer-extension analysis showed that ncr mRNA started at nucleotide position 23 upstream from ncrA. The promoter region of the ncr operon possessed a strong, putative -35 element of sigma(32)-type promoter sequence, and transcriptional 'lacZ fusion studies indicated that the -35 element influenced sigma(32)-specific transcription (AU)</dc:description>
+<dc:publisher>Springer-Verlag Ibérica</dc:publisher>
+<dc:description xml:lang="es">Los genes estructurales de la resistencia a níquel y cobalto del plásmido conjugativo pEJH 501 de Hafnia alvei 5-5, contenido en un fragmento SalI-EcoRI de 4,8 kb, fueron clonados y secuenciados. La secuencia de DNA incluye cinco genes en el siguiente orden: ncrA, ncrB, ncrC, ncrY, y ncrX. Las secuencias de aminoácidos equivalentes a ncrA fueron homólogas a las secuencias de aminoácidos codificadas por nreB en Achromobacter xylosoxidans 31A. La expresión de los genes ncr mediante el sistema promotor de la RNA polimerasa T7 permite a Escherichia coli BL21 (DE3) sobreexpresar NcrA, NcrB, y NcrC, pero no NcrY ni NcrX. Los pesos moleculares aparentes de NcrA, NcrB y NcrC fueron 30, 33, y 17 kDa, respectivamente. El análisis de extensión de los cebadores mostró que el mRNA de ncr se iniciaba a una distancia de 23 nucleótidos corriente arriba del ncrA.La región promotora del operón ncr posee una fuerte secuencia promotora de tipo sigma32 en la posición -35, y estudios transcripcionales de fusión con ´lacZ indicaron que el elemento situado en -35 influye sobre la transcripción específica de sigma32 (AU)</dc:description>
+<dc:source>Int Microbiol;7(1): 27-34, mar. 2004. tab, graf</dc:source>
+<dc:title xml:lang="es">Secuencia nucleotídica y expresión del determinante ncr de resistencia a níquel y cobalto en Hafnia alvei 5-5</dc:title>
+<dc:type>article</dc:type>
+<dc:creator>Lee, Ho Sa</dc:creator>
+<dc:creator>Park, Jeong Eun</dc:creator>
+<dc:creator>Schlegel, Hans-Günter</dc:creator>
+<dc:creator>Rhie, Ho Gun</dc:creator>
+<dc:language>en</dc:language>
+<dc:identifier>ibc-33214</dc:identifier>
+<dc:subject>^d5974</dc:subject>
+<dc:subject>^d31502</dc:subject>
+<dc:subject>^d3026</dc:subject>
+<dc:subject>^d11391^s22033</dc:subject>
+<dc:subject>^d23166</dc:subject>
+<dc:subject>^d22153</dc:subject>
+<dc:subject>^d34115^s22033</dc:subject>
+<dc:subject>^d22945</dc:subject>
+<dc:subject>^d23815</dc:subject>
+<dc:subject>^d3063^s22078</dc:subject>
+<dc:subject>^d36322</dc:subject>
+<dc:subject>^d14550</dc:subject>
+<dc:subject>^d10057^s22033</dc:subject>
+<dc:subject>^d9717^s22078</dc:subject>
+<dc:date>200403</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-141465</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Analysis of the Agency for Healthcare Research and Quality Patient Safety Indicators in public hospitals of the Autonomous Region of Madrid (Spain)</dc:title>
+<dc:description xml:lang="en">Objective: To identify variability in the Patient Safety Indicators (PSI) of the Agency for Healthcare Research and Quality (AHRQ) among hospitals and by hospital level in the Madrid Health Service and to evaluate the contribution of the minimum basic data set (MBDS) records to the variability observed. Methods: Data on healthcare resources were obtained from the Specialized Care Information System and from MBDS records for 2006 from 20 public and state-assisted hospitals within the Madrid Health System. AHRQ PSI were obtained from the Health Information Area of the Madrid Health Council. Data analysis included correlation coefficients and multiple linear regression. Results: Surgical complications and complications due to medical or postsurgical care showed significant differences among hospitals and by hospital level. These differences were positively associated with values in some of the MBDS records. We found correlations above 0.78 between decubitus ulcer and the average weight of medical diagnosis-related groups (DRG) and between failure to rescue and average length of hospital stay and the overall average weight. At least three of the variables analyzed explained the variability in decubitus ulcer, death in low-mortality DRGs and failure to rescue. Conclusions: The variability found in the Madrid Health System for the PSI is high and is associated with certain records of the MBDS. These findings should be confirmed in successive studies and in other regions, and the possible contribution of some variables of the MBDS to this variability should be assessed (AU)</dc:description>
+<dc:creator>Pardo Hernández, Alberto</dc:creator>
+<dc:creator>Morón Merchante, Javier</dc:creator>
+<dc:creator>Albéniz Lizarraga, Carmen</dc:creator>
+<dc:creator>Martín Vega, Alberto</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Identificar la variabilidad de los Indicadores de Seguridad del Paciente (PSI) de la Agency for Healthcare Research and Quality (AHRQ) entre hospitales y por nivel de hospital en el ámbito del Servicio Madrileño de Salud (SERMAS) y evaluar la contribución de los registros del Conjunto Mínimo Básico de Datos (CMBD) a la variabilidad observada. Métodos: Se analizaron los datos procedentes del Sistema de Información de Atención Especializada (SIAE) y del CMBD del año 2006 procedentes de 20 hospitales públicos y concertados del SERMAS. Los indicadores AHRQ se obtuvieron del Área de Información Sanitaria de la Consejería de Sanidad de Madrid. Para el análisis estadístico se utilizó el coeficiente de correlación y la regresión lineal múltiple. Resultados: Las complicaciones quirúrgicas y las relacionadas con cuidados médicos o posquirúrgicos presentaron diferencias significativas por hospital y por nivel de hospital. Además mostraron asociación positiva con algunos registros del CMBD. Se encontraron coeficientes de correlación superiores a 0,78 entre úlceras de decúbito y peso medio de Grupos Relacionados con el Diagnóstico (GRD) médicos, y entre mortalidad en pacientes con complicaciones durante el ingreso, estancia media y peso medio total. La variabilidad de úlceras de decúbito, éxitus en GRD de baja mortalidad y mortalidad en pacientes con complicaciones durante el ingreso se explicaba significativamente por tres o más de las variables estudiadas. Conclusiones: La variabilidad encontrada en el SERMAS para los PSI es alta y está asociada a determinados registros del CMBD. Convendría confirmar estos hallazgos con estudios sucesivos y en otros territorios, y evaluar la posible aportación de algunas variables del CMBD a esta variabilidad (AU)</dc:description>
+<dc:source>Med. clín (Ed. impr.);135(supl.1): 3-11, jul. 2010. tab, graf</dc:source>
+<dc:identifier>ibc-141465</dc:identifier>
+<dc:title xml:lang="es">Análisis de los Indicadores de Seguridad del Paciente de la Agency for Healthcare Research and Quality de los hospitales públicos de la Comunidad de Madrid</dc:title>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28905</dc:subject>
+<dc:subject>^d29640</dc:subject>
+<dc:subject>^d6935^s22048</dc:subject>
+<dc:subject>^d33551</dc:subject>
+<dc:subject>^d31061^s22048</dc:subject>
+<dc:subject>^d37673</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201007</dc:date>
+</metadata>
+</record>
+</ibecs-document>

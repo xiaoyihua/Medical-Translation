@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-20646</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Multiband spectral analysis and standardized markers of the slope of infantile electroencephalograms</dc:title>
+<dc:creator>Valdizán, J. R</dc:creator>
+<dc:creator>Navascués, M. A</dc:creator>
+<dc:creator>Sebastián, M. V</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>César Viguera</dc:publisher>
+<dc:description xml:lang="es">Introducción. El electroencefalograma infantil ha sido estudiado en conexión con un gran número de discapacidades cognitivas. Si bien es cierto que se tiene conocimiento de los registros bioeléctricos infantiles habituales de reposo, no resulta tan conocida la distribución cortical de frecuencias electroencefalográficas durante otros procesos mentales de tipo sensorial y/o cognitivo. Objetivo. Nuestro interés se basa en la descripción del EEG de una muestra homogénea de niños sanos y su relación con actividades de tipo intelectual. Material y métodos. La muestra de estudio está formada por 13 niños sanos de edad media 9,3ñ1,3 años, a los que se realizan dos tipos de tests de atención. Una de las tareas es una prueba memorística auditiva sencilla y consiste en la repetición hablada de series de números previamente escuchadas de longitud variable. La segunda consiste en identificar y tachar una cara en series de tres de entre las cuales hay una diferente de las otras. Se ha elegido como metodología la cuantificación electroencefalográfica en el dominio de la frecuencia y en el dominio temporal. Resultados y conclusiones. Se produce un incremento de la frecuencia relativa rústica particularmente conspicua es el síntoma de agnosia o prosopagnosia [15]. Los pacientes con este síntoma ni siquiera pueden reconocer rostros muy familiares, no pueden identificar un retrato que se les muestra, y frecuentemente sólo reconocen a un amigo por la voz y no por la impresión visual directa. Cada trazo del EEG refleja el estado promedio de excitación de los grupos locales de neuronas que se hallan en un estrato definido. Es bien conocido que los registros frontales no sólo toman actividad eléctrica generada en el lóbulo frontal, sino también en los lóbulos temporales [21]. Toda forma compleja de atención, involuntaria o voluntaria, requiere el cumplimiento de otras condiciones, principalmente la posibilidad del reconocimiento selectivo de un estímulo particular y la inhibición de respuestas a estímulos irrelevantes, de ninguna importancia en la situación corriente. Esta contribución a la organización de la atención es efectuada por otras estructuras cerebrales localizadas en un ámbito superior. Los valores de la complejidad de Hjorth obtenidos en las localizaciones F7 y O2 varían en el intervalo de 1 a 3; los valores mínimos se dan en O2 para la situación de reposo y los máximos en F7 para la tarea auditiva. Este intervalo de valores es considerablemente inferior al calculado para registros de adultos en condiciones de reposo. (Por ejemplo, ver [21] donde se recogen valores de entre 7 y 9).Los resultados de Mouzé-Amady y Horwat [8] demuestran que el parámetro de Hjorth llamado movilidad puede correlacionarse significativamente con la frecuencia media, calculada mediante la transformada rápida de Fourier. Los coeficientes de correlación entre ambos parámetros varían entre 0,81 y 0,93 para registros electroencefalográficos realizados durante la ejecución de una tarea manual repetitiva. El grado de correlación depende de la forma de segmentar los datos para la estimación del descriptor. Estos resultados prueban que algunos cuantificadores del dominio temporal pueden describir también el contenido espectral de la señal. beta en todas las localizaciones corticales, que es significativa en T3 y T4 para el test auditivo y en todos los electrodos para el visual. Durante la tarea auditiva se observa una disminución de la frecuencia alfa en regiones frontotemporales. Las mayores variaciones corticales para la frecuencia beta se dan, para el test facial, en los electrodos O2, T6, O1, T5 y T3. Los valores de la complejidad de Hjorth obtenidos oscilan en el intervalo de 1 a 3, intervalo considerablemente inferior al hallado en poblaciones adultas (AU)</dc:description>
+<dc:source>Rev Neurol;31(12): 1130-1136, dic. 2000.</dc:source>
+<dc:identifier>ibc-20646</dc:identifier>
+<dc:title xml:lang="es">Análisis espectral multibanda y descriptores normalizadosde pendiente de electroencefalogramas infantiles</dc:title>
+<dc:subject>^d9963</dc:subject>
+<dc:subject>^d5761</dc:subject>
+<dc:subject>^d4641</dc:subject>
+<dc:subject>^d5246</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d10557</dc:subject>
+<dc:subject>^d14080</dc:subject>
+<dc:subject>^d7528</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12437</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d12374</dc:subject>
+<dc:subject>^d19346</dc:subject>
+<dc:subject>^d1294</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200012</dc:date>
+</metadata>
+</record>
+</ibecs-document>

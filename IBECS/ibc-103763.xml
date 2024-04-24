@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-103763</identifier>
+<setSpec>1137-6627</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prediction model for in-hospital admission in patients arriving in the Emergency Department</dc:title>
+<dc:description xml:lang="en">Background. To develop a prediction model for in-hospital admission to provide an almost «real time» determination of hospital beds needed, so as to predict the resources required as early as possible. Material and methods. A prospective observational study in the emergency department of a university hospital. We included all consecutive patients between 8.00-22.00hours during one month. We analyzed 7 variables taken when the patient arrived at the emergency department: age, sex, level of triage, initial disposition, first diagnosis, diagnostic test and medication, and we performed a logistic regression. Results. We included 2,476 visits of which 114 (4.6%) were admitted. A significant direct correlation was seen between: age &gt;65 years old (odds ratio[OR]=2.1, confidence interval[CI] 95%, 1.3-3.2; p=0.001); male sex (OR=1.6, IC 95%, 1.1-2.4;p=0.020); dyspnea (OR=5.2, IC 95%, 2.8-9.7; p&lt;0.0001), abdominal pain (OR=4.7, IC 95%, 2.7-8.3; p&lt;0.0001); acute care initial disposition (OR=8.9, IC 95%, 5.4-14.9; p&lt;0.0001), diagnostic test (OR=1.1, IC 95%, 0.9-1.3; p=0.064) and treatment prescription (OR=2.6, IC95%, 1.6-4.2; p=&lt;0.0001). The model had a sensitivity of 76% and a specificity of 82% (area under curve 0.85 [IC 95% 0.81-0.88; p&lt;0.001]). Conclusions. The in-hospital admission prediction model is a good and useful tool for predicting the in-hospital beds needed when patients arrive at the emergency department(AU)</dc:description>
+<dc:creator>González-Armengol, J. J</dc:creator>
+<dc:creator>Martín-Sánchez, F. J</dc:creator>
+<dc:creator>Elvira Martínez, C. M</dc:creator>
+<dc:creator>Fernández, C</dc:creator>
+<dc:creator>Villarroel, P</dc:creator>
+<dc:creator>González del Castillo, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamento. Desarrollar un modelo de predicción de ingreso hospitalario a la llegada del paciente al servicio de Urgencias, con el fin de conocer la necesidad de camas hospitalarias casi a tiempo real, y así prever los recursos asistenciales necesarios de forma precoz. Material y métodos. Estudio observacional de cohorte prospectivo. Se incluyeron todos los pacientes consecutivos filiados para el triaje entre las 8-22 horas del servicio de Urgencias de un hospital terciario durante un mes. Se analizaron 7 variables a la llegada del paciente, que pudieran influir en el ingreso: edad, sexo, nivel de gravedad según el triaje, ubicación inicial, diagnóstico de entrada, solicitud de prueba complementaria y prescripción de medicación. Serealizó un estudio multivariable según regresión logística. Resultados. Se incluyeron 2.476 episodios de los que 114 (4,6%) ingresaron. Se asociaron de forma significativa: edad&gt;65 años (Odds ratio [OR]=2,1, intervalo de confianza [IC] 95%, 1,3-3,2; p=0,001); sexo masculino (OR=1,6, IC 95%, 1,1-2,4;p=0,020). Diagnóstico de entrada disnea: (OR=5,2, IC 95%, 2,8-9,7; p&lt;0,0001); dolor abdominal (OR=4,7, IC 95%, 2,7-8,3; p&lt;0,0001); ubicación inicial en sala de agudos (OR=8,9, IC95%, 5,4-14,9; p&lt;0,0001); solicitud de pruebas complementarias (OR=1,1, IC95%, 0,9-1,3; p=0,064) y prescripción de tratamiento (OR=2,6, IC 95%,1,6-4,2; p=&lt;0,0001). Con dichas variables se diseñó un modelo matemático que tenía una sensibilidad del 76% y una especificidad del 82% (área bajo la curva es de 0,85 [IC 95% 0,81-0,88; p&lt;0,001]). Conclusiones. El modelo de predicción de ingreso es una herramienta que puede ser de utilidad a la hora de preverla necesidad del recurso cama hospitalaria a la llegada del paciente al servicio de Urgencias(AU)</dc:description>
+<dc:source>An Sist Sanit Navar;35(2): 207-217, mayo-ago. 2012. tab, ilus</dc:source>
+<dc:identifier>ibc-103763</dc:identifier>
+<dc:title xml:lang="es">Modelo predictor de ingreso hospitalario a la llegada al servicio de Urgencias</dc:title>
+<dc:subject>^d28838^s22045</dc:subject>
+<dc:subject>^d6899^s22083</dc:subject>
+<dc:subject>^d4713^s22045</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d24501^s22080</dc:subject>
+<dc:subject>^d^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29362</dc:subject>
+<dc:subject>^d4707^s22083</dc:subject>
+<dc:subject>^d6916^s22083</dc:subject>
+<dc:subject>^d5678^s22045</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d4479^s22080</dc:subject>
+<dc:subject>^d18001</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201208</dc:date>
+</metadata>
+</record>
+</ibecs-document>

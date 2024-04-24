@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-054805</identifier>
+<setSpec>0034-9356</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Comparison of 2 devices to measure spinal fluid glucose concentration in hyperbaric spinal anesthesia</dc:title>
+<dc:description xml:lang="en">OBJECTIVES: To compare spinal fluid glucose        measurements recorded by the laboratory analyzer        Synchron LX20 Pro and the glucometer Ascensia Elite XL        during continuous spinal anesthesia after injection of 10        mg of hyperbaric bupivacaine, in order to assess the        reliability and speed of the 2 devices for monitoring        changes in glucose concentration.        PATIENTS AND METHODS: Prospective study of 34        patients under continuous spinal anesthesia administered        through a 22-gauge catheter; 9 samples of spinal fluid        were extracted from each patient for glucose level        measurement. The first extraction was before        administration of the anesthetic and the remaining ones        were during spinal anesthesia until the end of complete        motor block. Correlation was assessed with the Pearson        test and agreement with the Bland-Altman method.        RESULTS: A total of 241 pairs of measurements were        obtained. The correlation was r=0.96 (P&lt;.01). The mean        (SD) difference in measurements from the 2 devices was        &#150;1.06 (34.82 mg·dL-1). The percentage of variation        (systematic error) was &#150;1.9% (11.8%), placing the 95%        confidence interval between -25% and 21.2%.        CONCLUSIONS: Measurements from the 2 devices are        highly correlated. The absolute and percentage        systematic error (bias) is negligible. Finding that 95% of        measurements are within 23% of the mean seems a fair        percentage of error to us. We therefore believe the        percentage variation, or systematic error, is clinically        acceptable and that either device can be used</dc:description>
+<dc:creator>Quiñones Torrelo, C</dc:creator>
+<dc:creator>Sánchez Morillo, J</dc:creator>
+<dc:creator>Viñals Bellido, P</dc:creator>
+<dc:creator>Estañ Capell, N</dc:creator>
+<dc:creator>Solaz Roldán, C</dc:creator>
+<dc:creator>Soliveres Ripoll, J</dc:creator>
+<dc:language>fr</dc:language>
+<dc:description xml:lang="es">OBJETIVOS: Comparar las mediciones de glucorraquia realizadas en el Laboratorio con el autoanalizador        Synchron LX20 PRO(R) (Beckman Coulter) con las realizadas        con un glucómetro Ascensia EliteXL&amp;Elite(R)        durante la anestesia espinal, después de administrar 10        mg de bupivacaína hiperbara para así disponer de un        método rápido y fiable al medir las cifras de glucorraquia        durante una anestesia espinal continua y seguir su        evolución.        PACIENTES Y MÉTODOS: Estudio prospectivo de 34        pacientes bajo anestesia espinal continua con un catéter        22 G a través del cual se extrajeron 9 muestras por        paciente de líquido cefalorraquídeo para determinar la        glucorraquia, la primera antes de la administración del        anestésico y los siguientes durante la anestesia espinal        hasta el final del bloqueo motor completo. La correlación        se midió con el test de Pearson y el grado de concordancia        con el método de Bland-Altman.        RESULTADOS: Se obtuvieron 241 pares de medidas. El        coeficiente de correlación fue de r = 0,96 (p &lt; 0,01). La        diferencia media entre los dos métodos fue de &#150;1,06 ±        34,82 mg dL&#150;1. El porcentaje de variación (error sistemático)        fue de &#150;1,9 ± 11,8%, situándose el intervalo de        confianza del 95% entre el &#150;25% y el 21,2%.        CONCLUSIONES: Se obtiene una buena correlación        entre ambos métodos. El error sistemático absoluto y        porcentual (bias), es despreciable. Encontrar el 95% de        los valores con un margen de un 23% sobre la media del        error porcentual nos parece razonable, por lo que consideramos        la variación porcentual del error sistemático        clínicamente aceptable para poder intercambiar ambos        métodos de medida</dc:description>
+<dc:source>Rev Esp Anestesiol Reanim;54(2): 73-77, feb. 2007. ilus, tab</dc:source>
+<dc:identifier>ibc-054805</dc:identifier>
+<dc:title xml:lang="es">Comparación de dos sistemas de medida de las concentraciones de glucosa en líquido cefalorraquídeo en la anestesia intradural hiperbara</dc:title>
+<dc:subject>^d29623</dc:subject>
+<dc:subject>^d786^s22045</dc:subject>
+<dc:subject>^d33560^s22039</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6091^s22043</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200702</dc:date>
+</metadata>
+</record>
+</ibecs-document>

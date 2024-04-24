@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-4114</identifier>
+<setSpec>0212-6567</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cost-effectiveness analysis of the treatment of moderate benign prostatic hyperplasia</dc:title>
+<dc:creator>Rubio Cebrián, S</dc:creator>
+<dc:creator>Fidalgo García, M. L</dc:creator>
+<dc:creator>Meseguer Barros, C. M</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Objetivos. Determinar la alternativa más coste-efectiva del tratamiento de la hiperplasia prostática benigna de grado moderado (HPB-GM) y conocer si las conclusiones pueden modificarse al variar el coste o efectividad de las estrategias de tratamiento. Diseño. El estudio se modeliza mediante un árbol de decisión para examinar el ratio coste-efectividad de 3 estrategias de tratamiento: a) espera vigilada, y si no hay respuesta se administra un fármaco; si tampoco hay respuesta, se procede a resección transuretral de próstata (RUTP); b) tratamiento farmacológico, y si no hay respuesta se realiza RTUP, o c) aplicar inicialmente RTUP. Se simula el tratamiento de 1.000 pacientes con HPB-GM y su trayectoria de episodios y probabilidades a lo largo de 2 años de tratamiento y desde el punto de vista del sistema sanitario como financiador de servicios. Mediciones y resultados. Los datos de efectividad se obtienen a partir de un consenso americano de expertos. Se consideran únicamente los costes tangibles directos derivados del tratamiento, en pesetas constantes de 1998. Se realiza un análisis de sensibilidad simple univariante considerando las variables de costes de la RTUP y de los fármacos en un rango aceptable de ñ 20 por ciento, y la eficacia de la espera vigilada y del tratamiento farmacológico según los valores incluidos en su intervalo de confianza del 90 por ciento. La alternativa con un menor coste por paciente mejorado (PM) es la espera vigilada (77.069 pts./PM) seguido del tratamiento con fármacos (118.656 pts./PM) y, por último, de la RTUP (456.642 pts./PM). Variaciones en los valores de las variables no hacen modificar las posiciones relativas de las estrategias de tratamiento evaluadas. Conclusiones. Desde el punto de vista farmacoeconómico, el tratamiento de la HPB-GM debe iniciarse con espera vigilada, procediendo a administrar fármacos sólo si no hay respuesta positiva y recurrir a RTUP cuando los procedimientos farmacológicos no hayan resultado efectivos (AU)</dc:description>
+<dc:source>Aten Primaria;25(8): 546-551, mayo 2000.</dc:source>
+<dc:identifier>ibc-4114</dc:identifier>
+<dc:title xml:lang="es">Análisis coste-efectividad del tratamiento de la hiperplasia prostática benigna de grado moderado</dc:title>
+<dc:subject>^d30313</dc:subject>
+<dc:subject>^d22877</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30057</dc:subject>
+<dc:subject>^d11913</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d18001</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200005</dc:date>
+</metadata>
+</record>
+</ibecs-document>

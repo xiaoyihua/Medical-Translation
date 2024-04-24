@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-127541</identifier>
+<setSpec>0034-9356</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Incorrect programming of a target controlled infusion pump. Case SENSAR of the trimester</dc:title>
+<dc:description xml:lang="en">We report the case of a patient who underwent surgical aortic valve replacement. During general anaesthesia maintenance, the patient received a remifentanyl infusion via a target controlled infusion (TCI) system. The infusion pump that was prepared to deliver the infusion showed malfunction at the beginning of the surgery, so it was quickly replaced with a second pump. After a few minutes into the surgery, the patient presented with hypotension refractory to treatment. The remifentanyl syringe also emptied faster than expected. On reviewing the TCI pump, it was found that it was erroneously programmed for propofol instead of remifentanyl, thus the patient had received a very high dose of remifentanyl that was probably the cause of the haemodynamic disturbances. The incident was an error in equipment use, facilitated by hurry, lack of checking of the equipment prior to its use, and the complex and unclear design of the devices&#146; screens. After analysis of this incident, all TCI pumps were reviewed, and all the programs for infrequently used drugs were deleted. Furthermore, 2 pumps were selected for exclusive use in the cardiac surgery theatre, one with propofol-only programming, and the other with remifentanyl-only programming, both clearly marked and situated in fixed places in that theatre (AU)</dc:description>
+<dc:creator>Sistema Español de Notificación en Seguridad en Anestesia y Reanimación (SENSAR)</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Reportamos el caso de un paciente que fue intervenido de un recambio valvular aórtico. Durante el mantenimiento de la anestesia general se administró una perfusión de remifentanilo mediante un sistema de infusión tipo «target controlled infusion» (TCI, «infusión controlada por objetivo»). La bomba de infusión previamente preparada para la intervención presentó un error de funcionamiento al iniciarse su uso, por lo que fue sustituida velozmente por una segunda bomba. Tras unos minutos de cirugía el paciente presentó hipotensión arterial refractaria al tratamiento. Además, se observó que la jeringa de remifentanilo se acabó antes de lo esperable. Se revisó la bomba de infusión, observándose que estaba programada por error para propofol en vez de para remifentanilo, por lo que el paciente había recibido hasta ese momento una dosis de remifentanilo muy elevada, que probablemente fue la causa de las alteraciones hemodinámicas. El incidente fue un error en el uso del equipamiento, favorecido por la prisa, la falta de comprobación del material antes de su uso y el diseño habitualmente complejo y poco claro de las pantallas de los dispositivos de infusión tipo TCI. Tras el análisis, se revisaron todas las bombas de TCI, eliminándose programaciones de fármacos no utilizadas rutinariamente. Asimismo, se destinaron 2 bombas de TCI para uso exclusivo en el quirófano de cirugía cardiaca, una con programación única para remifentanilo y otra para propofol, se rotularon externamente de forma inequívoca y se ubicaron en una localización fija en dicho quirófano (AU)</dc:description>
+<dc:source>Rev Esp Anestesiol Reanim;61(8): e1-e4, oct. 2014.</dc:source>
+<dc:identifier>ibc-127541</dc:identifier>
+<dc:title xml:lang="es">Programación errónea de una bomba de TCI. Caso SENSAR del trimestre</dc:title>
+<dc:subject>^d33120^s22048</dc:subject>
+<dc:subject>^d779^s22045</dc:subject>
+<dc:subject>^d33120^s22045</dc:subject>
+<dc:subject>^d779^s22074</dc:subject>
+<dc:subject>^d21012</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d771^s22074</dc:subject>
+<dc:subject>^d24841</dc:subject>
+<dc:subject>^d33120^s22018</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d33120^s22039</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d28037^s22073</dc:subject>
+<dc:subject>^d19209^s22074</dc:subject>
+<dc:subject>^d771^s22066</dc:subject>
+<dc:subject>^d19209^s22066</dc:subject>
+<dc:subject>^d54857^s22041</dc:subject>
+<dc:subject>^d33120^s22083</dc:subject>
+<dc:subject>^d54857^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201410</dc:date>
+</metadata>
+</record>
+</ibecs-document>

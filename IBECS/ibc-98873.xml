@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-98873</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Technical and functional standards and implementation of a clinical information system in intensive care units</dc:title>
+<dc:description xml:lang="en">Introduction: Clinical Information Systems (CIS) are becoming a useful tool for managing patients and data in the ICU. However, the existing CIS differ in their capabilities and technical requirements. It is therefore essential for intensivists, as the end clients of these applications, to define the suitable minimum specifications required in order to be operative and helpful. Objectives: The Spanish Society of Intensive Care Medicine and Coronary Units, through its Organization and Management Workgroup, has designated a group of clinical and software experts to draft a document with the recommendable technical and operating requirements of these systems .Methods: The group was formed by ten people supported by managers or engineers from the five principal industries producing CIS in Spain. The project involved the following phases: a) Completion of a check list. This step was considered necessary in order to establish the precise current situation of CIS applications. b) Discussion of the results by the group of experts in a meeting and in online format. Results: The requirements were grouped into four sections: technical, functional, safety and data management. All requirements were classified as basic and optional in order to allow the end user to choose among different options according to the existing budget, though ensuring a minimal set of useful characteristics. A chronogram for the installation process was also proposed (AU)</dc:description>
+<dc:creator>Sociedad Española de Medicina Intensiva Crítica y Unidades Coronarias (SEMICYUC)</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: Los sistemas de información clínica están convirtiéndose en una herramienta útil para la gestión de los pacientes en la unidad de cuidados intensivos (UCI). Sin embargo, los sistemas disponibles en el mercado difieren en cuanto a capacidades y requerimientos técnicos. Por tanto, es necesario que los intensivistas, como clientes finales de estas aplicaciones, defínanlos mínimos para que estas sean operativas y útiles. Objetivos: La Sociedad de Medicina Intensiva Crítica y Unidades Coronarias, a través de sus Grupos de Trabajo de Internet y Nuevas Tecnologías, y de Organización y Gestión, encargó a un grupo de expertos clínicos e informáticos la redacción de un documento que recogiera los requerimientos técnicos y funcionales mínimos que deberían de reunir los sistemas de información en las UCI. Métodos: El grupo de expertos estuvo formado por diez personas y contó con la colaboración de representantes e ingenieros de las principales cinco compañías fabricantes de estos sistemas en España. El proyecto presentó las siguientes fases: a) Realización de una encuesta técnica que recogiera la situación actualizada para cada sistema. b) Discusión presencial y on-line de los resultados, y formulación de estándares por el grupo de expertos. Resultados: Los estándares se agruparon en cuatro categorías: técnica, funcional, datos y seguridad. Todos los estándares fueron clasificados en básicos y opcionales para permitir que el usuario final pueda decidir entre diferentes posibilidades, pero asegurando un mínimo básico de características útiles. También se propuso un cronograma de implantación del sistema (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);35(8): 484-496, nov. 2011. tab</dc:source>
+<dc:identifier>ibc-98873</dc:identifier>
+<dc:title xml:lang="es">Estándares técnicos y funcionales, y proceso de implantación,de un sistema de información clínica en unidades de cuidados intensivos</dc:title>
+<dc:subject>^d29453^s22048</dc:subject>
+<dc:subject>^d7530^s22048</dc:subject>
+<dc:subject>^d50045</dc:subject>
+<dc:subject>^d36354</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201111</dc:date>
+</metadata>
+</record>
+</ibecs-document>

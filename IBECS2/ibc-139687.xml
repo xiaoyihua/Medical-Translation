@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-139687</identifier>
+<setSpec>1138-3593</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">How to treat heart failure with preserved ejection fraction</dc:title>
+<dc:description xml:lang="en">No disponible</dc:description>
+<dc:creator>Escobar, C</dc:creator>
+<dc:creator>Seguí Díaz, M</dc:creator>
+<dc:creator>Divisón, JA</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: Varios fármacos han demostrado mejorar el pronóstico y disminuir las hospitalizaciones en el paciente con insuficiencia cardiaca y fracción de eyección reducida (ICFER). Sin embargo, no está tan claro cuál es el mejor tratamiento en el paciente con insuficiencia cardiaca y fracción de eyección conservada (ICFEP). El objetivo de este estudio fue analizar si el tratamiento con bloqueadores beta se asociaba con una reducción de la mortalidad por cualquier causa en esta población. Métodos: Se analizaron los datos del Swedish Heart Failure Registry (registro sueco de insuficiencia cardiaca), mediante la técnica propensity score matching, empleando 52 variables, entre características clínicas y variables socioeconómicas. En este registro nacional se incluyeron de manera consecutiva entre julio de 2005 y diciembre de 2012 a cerca de 42.000 pacientes, de los que aproximadamente el 45,5% presentaban ICFEP. Los bloqueadores beta fueron prescritos, bien al alta hospitalaria, bien en las consultas. La variable primaria del estudio fue la mortalidad por cualquier causa, y la variable secundaria la combinación de muerte por cualquier causa u hospitalización por insuficiencia cardiaca. Resultados: Tras una mediana de seguimiento de 755 días, la supervivencia al año fue del 80% en los pacientes tratados con bloqueadores beta, frente al 79% de los pacientes no tratados. A los 5 años, estos porcentajes fueron del 45 y del 42%, respectivamente (177 frente a 191 muertes por 1.000 pacientes/año; HR: 0,93; IC 95%: 0,86-0,99; p = 0,04). Sin embargo, el empleo de los bloqueadores beta no se asoció con una reducción significativa de la variable combinada de muerte u hospitalización por insuficiencia cardiaca (HR: 0,98; IC 95%: 0,92-1,04; p = 0,46). Conclusiones: En los pacientes con ICFEP, el empleo de los bloqueadores beta se asoció con una reducción en la mortalidad por cualquier causa, pero no con una reducción en el riesgo de muerte u hospitalización por insuficiencia cardiaca (AU)</dc:description>
+<dc:source>SEMERGEN, Soc. Esp. Med. Rural Gen. (Ed. Impr.);41(6): 332-333, sept. 2015.</dc:source>
+<dc:identifier>ibc-139687</dc:identifier>
+<dc:title xml:lang="es">Cómo tratar la insuficiencia cardiaca con fracción de eyección preservada</dc:title>
+<dc:subject>^d322^s22073</dc:subject>
+<dc:subject>^d37609</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d22832^s22002</dc:subject>
+<dc:subject>^d28418</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d13706</dc:subject>
+<dc:subject>^d13915</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d55111^s22031</dc:subject>
+<dc:subject>^d22832</dc:subject>
+<dc:subject>^d6486^s22067</dc:subject>
+<dc:subject>^d6493^s22031</dc:subject>
+<dc:subject>^d6493^s22021</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201509</dc:date>
+</metadata>
+</record>
+</ibecs-document>

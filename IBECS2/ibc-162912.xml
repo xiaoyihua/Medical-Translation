@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-162912</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prognostic impact of physician specialty on the prognosis of outpatients with heart failure: propensity matched analysis of the REDINSCOR and RICA registries</dc:title>
+<dc:description xml:lang="en">Introduction and objectives: The specialty treating patients with heart failure (HF) has a prognostic impact in the hospital setting but this issue remains under debate in the ambulatory environment. We aimed to compare the clinical profile and outcomes of outpatients with HF treated by cardiologists or internists. Methods: We analyzed the clinical, electrocardiogram, laboratory, and echocardiographic data of 2 prospective multicenter Spanish cohorts of outpatients with HF treated by cardiologists (REDINSCOR, n = 2150) or by internists (RICA, n = 1396). Propensity score matching analysis was used to test the influence of physician specialty on outcome. Results: Cardiologist-treated patients were often men, were younger, and had ischemic etiology and reduced left ventricular ejection fraction (LVEF). Patients followed up by internists were predominantly women, were older, and a higher percentage had preserved LVEF and associated comorbidities. The 9-month mortality was lower in the REDINSCOR cohort (11.6% vs 16.9%; P &lt; .001), but the 9-month HF-readmission rates were similar (15.7% vs 16.9%; P = .349). The propensity matching analysis selected 558 pairs of comparable patients and continued to show significantly lower 9-month mortality in the cardiology cohort (12.0% vs 18.8%; RR, 0.64; 95% confidence interval [95%CI], 0.48-0.85; P = .002), with no relevant differences in the 9-month HF-readmission rate (18.1% vs 17.2%; RR, 0.95; 95%CI, 0.74-1.22; P = .695). Conclusions: Age, sex, LVEF and comorbidities were major determinants of specialty-related referral in HF outpatients. An in-depth propensity matched analysis showed significantly lower 9-month mortality in the cardiologist cohort (AU)</dc:description>
+<dc:creator>Puig, Teresa</dc:creator>
+<dc:creator>Delgado, Juan</dc:creator>
+<dc:creator>Formiga, Francesc</dc:creator>
+<dc:creator>Vives Borrás, Miquel</dc:creator>
+<dc:creator>Vázquez, Rafael</dc:creator>
+<dc:creator>Álvarez García, Jesús</dc:creator>
+<dc:creator>Aramburu Bodas, Óscar</dc:creator>
+<dc:creator>Montero-Pérez-Barquero, Manuel</dc:creator>
+<dc:creator>Ferrero Gregori, Andreu</dc:creator>
+<dc:creator>Cerqueiro González, J Manuel</dc:creator>
+<dc:creator>Manzano, Luis</dc:creator>
+<dc:creator>Arias Jiménez, José Luis</dc:creator>
+<dc:creator>Cinca, Juan</dc:creator>
+<dc:creator>Salamanca Bautista, Prado</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos: La especialidad responsable del paciente hospitalizado por insuficiencia cardiaca (IC) tiene impacto pronóstico, pero esta cuestión no está clara en el medio ambulatorio. Nuestro objetivo es comparar el perfil clínico y pronóstico de pacientes ambulatorios con IC tratados por cardiólogos o internistas. Métodos: Estudio retrospectivo en el que se analizan los datos de 2 registros multicéntricos nacionales, REDINSCOR (n = 2.150, cardiología) y RICA (n = 1.396, medicina interna). Para medir el efecto del especialista, se realizó un emparejamiento por puntuación de propensión que incluyó sus principales diferencias clínicas. Resultados: Los pacientes a cargo de cardiología fueron frecuentemente varones, jóvenes, con IC isquémica y fracción de eyección del ventrículo izquierdo (FEVI) reducida. Entre los seguidos por medicina interna predominó el sexo femenino, la edad avanzada, un mayor porcentaje con FEVI preservada y comorbilidades. La mortalidad a los 9 meses fue menor entre los pacientes del REDINSCOR (el 11,6 frente al 16,9%; p &lt; 0,001), con una tasa de reingreso por IC similar (el 15,7 frente al 16,9%; p = 0,349). La puntuación de propensión seleccionó a 558 parejas comparables y continuó mostrando una mortalidad significativamente menor entre los pacientes tratados por cardiología (el 12,0 frente al 18,8%; riesgo relativo = 0,64; intervalo de confianza del 95%, 0,48-0,85; p = 0,002), sin diferencias en el reingreso (el 18,1 frente al 17,2%; riesgo relativo = 0,95; intervalo de confianza del 95%, 0,74-1,22; p = 0,695). Conclusiones: Edad, sexo, FEVI y comorbilidades contribuyen al distinto perfil de los pacientes con IC según especialidad. Después del emparejamiento por puntuación de propensión, la mortalidad a los 9 meses fue menor entre los pacientes a cargo de cardiología (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;70(5): 347-354, mayo 2017. graf, tab, ilus</dc:source>
+<dc:identifier>ibc-162912</dc:identifier>
+<dc:title xml:lang="es">Impacto pronóstico de la especialidad en el paciente ambulatorio con insuficiencia cardiaca: un análisis emparejado de los registros REDINSCOR y RICA</dc:title>
+<dc:subject>^d13421^s22066</dc:subject>
+<dc:subject>^d6486^s22080</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d555^s22083</dc:subject>
+<dc:subject>^d53718</dc:subject>
+<dc:subject>^d28402^s22083</dc:subject>
+<dc:subject>^d32285</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201705</dc:date>
+</metadata>
+</record>
+</ibecs-document>

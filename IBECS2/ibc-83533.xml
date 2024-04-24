@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-83533</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Quality of the antiretrovirals drug interactions database</dc:title>
+<dc:description xml:lang="en">Background and objective: To identify antiretrovirals drug interaction databases (ADID) and evaluate its structural quality. Material and method: A literature search in Medline and a grey literature search were conducted. The identified ADID underwent scrutiny based on exclusion criteria and structural quality (4 minimum quality criteria: stratification by level of severity, classification by level of evidence, bibliographic data, description of the clinical management) and 11 criteria that provide the relative importance (specific weight). We analyzed the degree of compliance of the criteria in each ADID and the degree of compliance of each criterion in all ADID. Results: We identified 81 databases but only 8 of them were included for the analysis. Only 3 of them reached the minimum criteria: HIV-Druginteractions, Clinical Care Options HIV (The Drug-Drug Interactions Tool) and InteraccionesHIV.com. All the databases included are presented on computerized support, organized by active drug and describe clinical management; 7 of them inform about the interaction mechanism of action and have multicheck structure that speeds up the search; 4 declare they have no conflict of interest and stratifies by level of severity; 5 contain bibliographic reference; none of them classifies by level of evidence. Conclusions: There are many antiretroviral interaction databases available. The knowledge about their quality structure will help provide appropriate information (AU)</dc:description>
+<dc:creator>Villacorta Linaza, Paloma</dc:creator>
+<dc:creator>Gallego Fernández, Carmen</dc:creator>
+<dc:creator>Santos Ramos, Bernardo</dc:creator>
+<dc:creator>Rodríguez Terol, Amparo</dc:creator>
+<dc:creator>Caballero Camacho, Maria de la</dc:creator>
+<dc:creator>Ruano Camps, Rosalia</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamento y objetivo: Identificar bases de datos de interacciones medicamentosas de antirretrovirales y valorar su calidad estructural. Material y método: Se realizó una búsqueda bibliográfica en Medline y literatura médica gris. Las bases de datos identificadas se sometieron a criterios de exclusión y de calidad estructural (4 criterios de calidad mínima: estratificación según nivel de gravedad, clasificación según nivel de evidencia, referencia bibliográfica de datos y descripción del tratamiento clínico) y 11 criterios que aportaban peso ponderal. Se analizó el grado de cumplimiento en cada base de datos de los criterios definidos y el grado de cumplimiento de cada criterio en todas las bases de datos. Resultados: Se identificaron 81 bases de datos, de las que 8 se incluyeron en el análisis. Sólo 3 de ellas cumplían 3 de los 4 criterios mínimos: HIV-Druginteractions, Clinical Care Options HIV (the Drug-Drug Interactions Tool) e InteraccionesHIV.com. Todas las bases de datos incluidas se presentan en soporte informático, proporcionan información por principio activo y describen tratamiento clínico. De ellas, 7 documentan el mecanismo de acción de la interacción y presentan estructura multicheck, lo que agiliza la búsqueda, 4 estratifican según nivel de gravedad y declaran no tener conflicto de intereses y 5 facilitan las referencias bibliográficas en las que se basa. Ninguna de ellas clasifica su información según nivel de evidencia. Conclusiones: Existe una gran cantidad de bases de datos disponibles sobre interacciones de antirretrovirales. El conocimiento de su calidad en cuanto a características formales ayudará a disponer de información contrastada (AU)</dc:description>
+<dc:source>Med. clín (Ed. impr.);134(15): 678-683, mayo 2010. tab</dc:source>
+<dc:identifier>ibc-83533</dc:identifier>
+<dc:title xml:lang="es">Calidad de las bases de datos sobre interacciones de antirretrovirales</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d38332^s22078</dc:subject>
+<dc:subject>^d28904</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28905</dc:subject>
+<dc:subject>^d4409</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201005</dc:date>
+</metadata>
+</record>
+</ibecs-document>

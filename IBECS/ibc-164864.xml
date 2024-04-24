@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-164864</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Quality of the record of drug-related problems in a database for voluntary adverse event reporting</dc:title>
+<dc:description xml:lang="en">Objective: To determine the number and type of errors found in the record of drug-related problems in the SINEA database, an electronic system for voluntary reporting of adverse events in healthcare, in order to quantify the differences between the raw and refined databases, suggest improvements, and determine the need for refining said databases. Methods: A Pharmacist reviewed the database and refined the adverse events reported from January to August, 2014, considering the &#145;describe_what_happened&#146; field as the gold standard. There was a comparison of the rates of medication errors, both potential and real, adverse reactions, impact on the patient, impact on healthcare, and medications more frequently involved in the raw and refined databases. Agreement was calculated through Cohen&#146;s Kappa Coefficient. Results: 364 adverse events were reported: 66.7% were medication errors, 2.7% adverse reactions to the medication (2 were wrongly classified as both, showing a total percentage &gt;100%) and 31% were other events. After refinement, the percentages were 69.5%, 5.8% and 24.7%, respectively (&amp;#954;=0.85; CI95% [0.80-0.90]). Before refinement, 73.6% of medication errors were considered potential vs. 82.3% after refinement (&amp;#954;=0.65; CI95% [0.54-0.76]). The medication most frequently involved was trastuzumab (20.9%). The &#145;molecule&#146; field was blank in 133 entries. A mean of 1.8±1.9 errors per entry were detected. Conclusions: Although agreement is good, the refinement process cannot be avoided, as it provides valuable information to improve pharmacotherapy. Data quality could be improved by reducing the number of type-in text fields, using drop-down lists, and by increasing the training of the reporters (AU)</dc:description>
+<dc:creator>Bonete Sánchez, Manuel</dc:creator>
+<dc:creator>Pons Martínez, Laia</dc:creator>
+<dc:creator>Talens Bolós, Amparo</dc:creator>
+<dc:creator>Aznar Saliente, María Teresa</dc:creator>
+<dc:creator>Marcos Ribes, Borja</dc:creator>
+<dc:creator>Roca Aznar, Laura</dc:creator>
+<dc:creator>Herraiz Robles, Paola</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objetivo: Determinar el número y tipo de errores en los registros de problemas relacionados con los medicamentos encontrados en la base de datos de SINEA, sistema electrónico de notificación voluntaria de eventos adversos de la asistencia sanitaria, para cuantificar las diferencias entre las bases de datos bruta y refinada, proponer mejoras y establecer la necesidad de depuración. Métodos: Un farmacéutico revisó la base de datos y depuró los eventos adversos notificados de enero a agosto de 2014, considerando el campo &#145;describa_lo_que_pasó&#146; como gold standard. Se compararon los porcentajes de errores de medicación, tanto potenciales como reales, reacciones adversas, efecto en el paciente, impacto en la asistencia y medicamentos implicados más frecuentemente en las bases de datos bruta y depurada. Se calculó la concordancia con el coeficiente kappa (&amp;#954;) de Cohen. Resultados: Se notificaron 364 eventos adversos, 66,7% errores de medicación, 2,7% reacciones adversas al medicamento (2 clasificados erróneamente en ambas clases arrojando un porcentaje total&gt;100%) y 31% de otros eventos. Tras la depuración, los porcentajes respectivamente fueron 69,5%, 5,8% y 24,7% (&amp;#954;=0,85; CI95% [0,80-0,90]). Antes de la depuración, el 73,6% de los errores de medicación se consideraron potenciales versus 82,3% tras la depuración (&amp;#954;=0,65; CI95% [0,54-0,76]). El medicamento implicado más frecuentemente fue trastuzumab (20,9%). El campo &#145;principio_activo&#146; estaba vacío en 133 registros. Se detectó una media de 1,8±1,9 errores por registro. Conclusiones: Aunque la concordancia es buena, no puede evitarse la depuración, que proporciona información valiosa para mejorar la farmacoterapia. Reducir los campos de texto libre, utilizar listas desplegables y aumentar la formación de los notificadores podría incrementar la calidad de los datos (AU)</dc:description>
+<dc:source>Farm Hosp;41(4): 508-517, jul.-ago. 2017. tab</dc:source>
+<dc:identifier>ibc-164864</dc:identifier>
+<dc:title xml:lang="es">Calidad del registro de problemas relacionados con los medicamentos en una base de datos de notificación voluntaria de eventos adversos</dc:title>
+<dc:subject>^d8675^s22083</dc:subject>
+<dc:subject>^d36428</dc:subject>
+<dc:subject>^d4421^s22080</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d33619^s22074</dc:subject>
+<dc:subject>^d54219^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201708</dc:date>
+</metadata>
+</record>
+</ibecs-document>

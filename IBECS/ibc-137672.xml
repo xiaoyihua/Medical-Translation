@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-137672</identifier>
+<setSpec>1989-1342</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Third-order aberrations in GRIN crystalline lens: A new method based on axial and field rays</dc:title>
+<dc:description xml:lang="en">This paper presents a new procedure for calculating the third-order aberration of gradient-index (GRIN) lenses that combines an iterative numerical method with the Hamiltonian theory of aberrations in terms of two paraxial rays with boundary conditions on general curved end surfaces and, as a second algebraic step has been presented. Application of this new method to a GRIN human is analyzed in the framework of the bi-elliptical model. The different third order aberrations are determined, except those that need for their calculation skew rays, because the study is made only for meridional rays (AU)</dc:description>
+<dc:creator>Gómez-Reino, Carlos</dc:creator>
+<dc:creator>Díaz del Río, Arturo</dc:creator>
+<dc:creator>Flores-Arias, M Teresa</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Este documento presenta un nuevo procedimiento para el cálculo de las aberraciones de tercer orden en los cristalinos con gradiente de índice (GRIN), que combina un método numérico iterativo con la teoría de Hamilton sobre aberraciones, en términos de dos rayos paraxiales con condiciones de contorno sobre superficies generales con límite curvado, y que se ha presentado como segundo paso algebraico. Se analiza la aplicación de este nuevo método al GRIN humano en el marco de un modelo bi-elíptico. Se determinan las diferentes aberraciones de tercer orden, excepto aquellas cuyo cálculo precisa de rayos inclinados, ya que el estudio se realiza únicamente para rayos meridionales (AU)</dc:description>
+<dc:source>J. optom. (Internet);8(2): 77-85, abr.-jun. 2015. graf</dc:source>
+<dc:identifier>ibc-137672</dc:identifier>
+<dc:title xml:lang="es">Aberraciones de tercer orden en los cristalinos con gradiente de índice: nuevo método basado en rayos axiales y de campo</dc:title>
+<dc:subject>^d28034^s22016</dc:subject>
+<dc:subject>^d53844</dc:subject>
+<dc:subject>^d8084^s22016</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d10087^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201506</dc:date>
+</metadata>
+</record>
+</ibecs-document>

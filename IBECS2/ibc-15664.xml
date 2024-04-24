@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-15664</identifier>
+<setSpec>0302-4342</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Usefulness of a software package to reduce medication errors in neonatal care</dc:title>
+<dc:creator>Escribano Subias, J</dc:creator>
+<dc:creator>Balaguer Santamaría, J. A</dc:creator>
+<dc:creator>Fernández Ballart, J. D</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Antecedentes: Muchos de los errores de tratamiento producidos en las unidades de cuidados intensivos neonatales (UCIN) tienen su origen en la necesidad de efectuar secuencias de cálculos para determinar dosis y diluciones de fármacos. Objetivos: Para ayudar en estas tareas se diseñó una hoja de cálculo (neodosis) que facilita los cálculos y estandariza las diluciones de algunas de las terapias más usadas en reanimación y UCIN. Para evaluar su utilidad se diseñó este trabajo. Métodos: Se efectuó un estudio controlado, cruzado y aleatorizado mediante simulaciones clínicas en las que se evaluó el número de errores y tiempo utilizado en su resolución, con y sin el programa. Fueron realizadas un total de 54 pruebas en las que intervinieron médicos (residentes de tercer y cuarto año y pediatras) y personal de enfermería. Resultados: Sin ayuda de ordenador todos los estamentos cometieron errores (en orden decreciente: residentes, pediatras y enfermería). El conjunto del estamento médico experimentó una reducción significativa de errores con la ayuda informática. El grupo de residentes fue el más beneficiado con su utilización: su porcentaje de errores "menores" pasó del 16 al 2% y el de errores "mayores" del 1,6% a 0. El tiempo empleado por todos los grupos se redujo entre un tercio y la mitad. Conclusiones: El personal asistencial probado cometió un número no insignificante de errores en pruebas de simulación sobre cálculos típicos de UCIN. Neodosis ayudó a médicos y enfermeras a reducir muy sensiblemente estos errores y a emplear menos tiempo en su resolución (AU)</dc:description>
+<dc:source>An Esp Pediatr;55(6): 541-545, dic. 2001.</dc:source>
+<dc:identifier>ibc-15664</dc:identifier>
+<dc:title xml:lang="es">Utilidad de una aplicación informática para disminuir errores de tratamiento en neonatología</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d8675</dc:subject>
+<dc:subject>^d22226</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24213</dc:subject>
+<dc:subject>^d32295</dc:subject>
+<dc:subject>^d19156</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200112</dc:date>
+</metadata>
+</record>
+</ibecs-document>

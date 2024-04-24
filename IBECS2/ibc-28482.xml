@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-28482</identifier>
+<setSpec>0001-7310</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Time series of ultraviolet and photosynthetic solar radiation measurements in Málaga</dc:title>
+<dc:creator>Pérez-Rodríguez, Eduardo</dc:creator>
+<dc:creator>Abdala, Roberto</dc:creator>
+<dc:creator>Segovia, María</dc:creator>
+<dc:creator>Gálvez, Victoria de</dc:creator>
+<dc:creator>Viñegla, Benjamín</dc:creator>
+<dc:creator>Figueroa, Félix</dc:creator>
+<dc:creator>Conde, Rafael</dc:creator>
+<dc:creator>Aguilera, José</dc:creator>
+<dc:creator>Herrera, Enrique</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: La radiación ultravioleta es el principal factor etiopatogénico de las formas más frecuentes del cáncer de piel. En la provincia de Málaga es habitual la exposición solar continuada, sobre todo por tener una alta afluencia de turismo y, además, por ser una región donde se desarrollan gran número de actividades actínicas, tanto laborales como de ocio. Material y métodos: Se determinan series temporales de medida de radiación ultravioleta UVB, UVA y radiación fotosintéticamente activa (PAR) solar en Málaga (36,5° N-4,7° O) utilizando la recién constituida Red de Medida de Radiación Ultravioleta-Fotosintética de Andalucía (UVIFAN) (http://uvifan.scai.uma.es). Resultados: Se presentan ciclos anuales desde el año 1997 hasta finales de 2001 de la dosis diaria total para las tres bandas de radiación. Las dosis diarias máximas se observan en los meses estivales. El índice UV, que se alcanza en las horas centrales del día, osciló entre valores máximos de 7-8 durante los meses estivales y valores de 1-2 en los meses de invierno. Las relaciones de dosis PAR/UVA no varían a lo largo del año, aunque la relación UVB/UVA y UVB/PAR sigue un patrón anual de variación con valores máximos en los meses estivales, mientras que los valores más bajos se obtuvieron durante los meses invernales. Conclusiones: Estos datos confirman que en la provincia de Málaga, en los meses estivales existen niveles muy altos de radiación UVA, UVB y PAR, por lo que es de suma importancia adoptar medidas específicas de fotoprotección en esta época para evitar tanto las quemaduras a corto plazo, como la fotocarcinogénesis y el fotoenvejecimiento a largo plazo (AU)</dc:description>
+<dc:source>Actas Dermosifiliogr;95(1): 25-31, ene. 2004. ilus</dc:source>
+<dc:identifier>ibc-28482</dc:identifier>
+<dc:title xml:lang="es">Series temporales de medida de radiación solar ultravioleta y fotosintética en Málaga</dc:title>
+<dc:subject>^d12276^s22045</dc:subject>
+<dc:subject>^d12311^s22039</dc:subject>
+<dc:subject>^d22125</dc:subject>
+<dc:subject>^d9562^s22058</dc:subject>
+<dc:subject>^d25665</dc:subject>
+<dc:subject>^d12311^s22045</dc:subject>
+<dc:subject>^d12311^s22074</dc:subject>
+<dc:subject>^d12266</dc:subject>
+<dc:subject>^d14865</dc:subject>
+<dc:subject>^d10986^s22022</dc:subject>
+<dc:subject>^d14865^s22020</dc:subject>
+<dc:subject>^d9562^s29166</dc:subject>
+<dc:subject>^d14865^s22011</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200401</dc:date>
+</metadata>
+</record>
+</ibecs-document>

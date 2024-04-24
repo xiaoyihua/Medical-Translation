@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-168320</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Association between improvement in cardiovascular risk profile and changes in sickness absence: results of the ICARIA study</dc:title>
+<dc:description xml:lang="en">Introduction and objectives: The purpose of this study was to investigate whether changes in cardiovascular risk (CVR) are associated with the length and cost of sickness absence. Methods: A prospective cohort of 179 186 participants was evaluated. Each participant's CVR (SCORE) was assessed on 2 consecutive medical examinations, approximately 1 year apart (365 ± 90 days). Cardiovascular risk was categorized as &lt; 4% or &amp;#8805; 4%, and participants were divided into 4 groups according to changes in their risk between the 2 assessments. After the second CVR estimate, a 1-year follow-up was carried out to assess sickness absence. Differences between the 4 groups in terms of the total count of sickness absence days during the follow-up period were tested using Poisson regression models. Results: After adjustment for covariates, participants who showed an improvement in CVR had a lower count of sickness absence days compared with both those who showed a worsening in risk and those who remained stable at &amp;#8805; 4% (RR, 0.91; 95%CI, 0.84-0.98). In comparison with participants whose CVR did not improve, more of the participants whose risk did improve had quit smoking (+17.2%; P &lt; .001), and had controlled their blood pressure (+26.0%, P &lt; .001), total cholesterol (+9.3%; P &lt; .001), low-density lipoprotein cholesterol (+14.9%; P &lt; .001), and triglyceride levels (+14.6%; P &lt; .001). Conclusions: Our results suggest that an improvement in CVR profile is accompanied by a decrease in sickness absence during a 1-year follow-up (AU)</dc:description>
+<dc:creator>Fernández-Labandera, Carlos</dc:creator>
+<dc:creator>Calvo-Bonacho, Eva</dc:creator>
+<dc:creator>Brotons, Carlos</dc:creator>
+<dc:creator>Catalina-Romero, Carlos</dc:creator>
+<dc:creator>Ruilope, Luis Miguel</dc:creator>
+<dc:creator>Cabrera, Martha</dc:creator>
+<dc:creator>Sánchez Chaparro, Miguel Ángel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos: El propósito de este estudio es investigar si los cambios en el riesgo cardiovascular (RCV) se asocian con la duración y los costes de la incapacidad temporal. Métodos: Se evaluó una cohorte prospectiva de 179.186 sujetos. Se calculó su RCV (SCORE) en 2 exámenes médicos consecutivos, separados aproximadamente 1 año (365 ± 90 días). Se categorizó el RCV en &lt; 4% o &amp;#8805; 4% y se crearon 4 grupos de pacientes en función de los cambios en el RCV entre los 2 exámenes. Después de la segunda estimación, se realizó un seguimiento de 1 año para evaluar la incapacidad temporal. Las diferencias entre los 4 grupos en el recuento total de días de incapacidad temporal se evaluaron mediante modelos de regresión de Poisson. Resultados: Tras ajustar por covariables, los sujetos que mejoraron su RCV tuvieron un menor recuento de días de incapacidad temporal que los que empeoraron su RCV y aquellos cuyo riesgo permaneció estabilizado en &amp;#8805; 4% (RR, 0,91; IC95%, 0,84-0,98). Comparados con los que no mejoraron el nivel de RCV, entre los que sí mejoraron más individuos habían dejado de fumar (+17,2%; p &lt; 0,001) y habían controlado su presión arterial (+26,0%; p &lt; 0,001), el colesterol total (+9,3%; p &lt; 0,001), el colesterol unido a lipoproteínas de baja densidad (+14,9%; p &lt; 0,001) y los triglicéridos (+14,6%; p &lt; 0,001). Conclusiones: Nuestros resultados indican que la mejora del RCV se acompaña de una disminución de la incapacidad temporal en el seguimiento a 1 año (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;70(11): 941-951, nov. 2017. ilus, tab</dc:source>
+<dc:identifier>ibc-168320</dc:identifier>
+<dc:title xml:lang="es">Asociación entre la mejora en el perfil de riesgo cardiovascular y los cambios en la incapacidad temporal: resultados del estudio ICARIA</dc:title>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d32027^s22018</dc:subject>
+<dc:subject>^d27937^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d14679^s22002</dc:subject>
+<dc:subject>^d2834^s22002</dc:subject>
+<dc:subject>^d2359^s22012</dc:subject>
+<dc:subject>^d23892</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d55111^s22031</dc:subject>
+<dc:subject>^d2359^s22080</dc:subject>
+<dc:subject>^d24838</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201711</dc:date>
+</metadata>
+</record>
+</ibecs-document>

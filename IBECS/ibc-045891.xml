@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-045891</identifier>
+<setSpec>0212-6567</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Retrospective Application of Adjusted Clinical Groups (ACGs) at a primary care centre</dc:title>
+<dc:description xml:lang="en">Objective. To evaluate retrospectively the application of adjusted clinical groups (ACGs) at a primary care centre.                 Design. Descriptive, retrospective examination.                 Setting. Urban.                 Participants. All patients seen by the team in 2000 were included in the study. Those who moved or died during the study period were excluded.                 Main measurements. Universal variables (age and sex), dependant variables (visits, episodes, and costs), and case-mix or comorbidity variables (ACGs 2.0) were measured. The model of cost per patient was established by distinguishing the costs of the PCC from the variables. The ICPC was converted to the ICD-9-CM and a multiple linear regression analysis was performed to predict the models.                 Results. The total number of patients studied was 15 983, with an average of 5.0±3.2 episodes and 8.0±7.7 visits during the year. The power of explanation of the variability of the classification between the number of episodes was 71.9%; of the visits, 50.0% (with refinement, 56.3%); and cost, 30.2% (with refinement, 55.0%) (P=.000).                 Conclusions. ACGs were shown to be an acceptable system for classifying patients according to the consumption of resources used in primary care. In addition, the methodology used was adequate for integrating clinical and economic information at the PCC</dc:description>
+<dc:creator>Sicras-Mainar, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Evaluar la aplicación retrospectiva de los grupos clínicos ajustados (ACG) en un centro de atención primaria.                 Diseño. Descriptivo exploratorio de carácter restrospectivo.                 Emplazamiento. Centro urbano.                 Participantes. Se incluyó en el estudio a todos los pacientes atendidos por el equipo durante el año 2000 y se excluyó a los trasladados o fallecidos durante el período de estudio.                 Mediciones principales. Variables universales (edad y sexo), dependientes (visitas, episodios y costes) y de casuística o comorbilidad (ACG 2.0). El modelo de costes para cada paciente se estableció mediante la diferenciación de los costes propios del centro y los variables. Se estableció una conversión de la CIAP a la CIE-9-MC y se efectuó un análisis de regresión lineal múltiple para la predicción de los modelos.                 Resultados. El número total de pacientes estudiados fue de 15.983, con una media de 5,0 ± 3,2 episodios y 8,0 ± 7,7 visitas realizadas durante el año. El poder de explicación de la variabilidad de la clasificación entre el número de episodios fue del 71,9%, las visitas del 50,0% (con depuración del 56,3%) y el coste del 30,2% (con depuración del 55,0%) (p = 0,000).                 Conclusiones. Los ACG se manifiestan como un aceptable sistema de clasificación de pacientes según el consumo de recursos utilizados en atención primaria; además, la metodología empleada se ha mostrado adecuada para integrar la información clínica y económica en el centro</dc:description>
+<dc:source>Aten Primaria;37(8): 439-445, mayo 2006. ilus, tab</dc:source>
+<dc:identifier>ibc-045891</dc:identifier>
+<dc:title xml:lang="es">Aplicación retrospectiva de los grupos clínicos ajustados (ACG) en un centro de atención primaria</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d11756^s22049</dc:subject>
+<dc:subject>^d30327^s22049</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d34003</dc:subject>
+<dc:subject>^d29453^s22066</dc:subject>
+<dc:subject>^d24426^s22049</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200605</dc:date>
+</metadata>
+</record>
+</ibecs-document>

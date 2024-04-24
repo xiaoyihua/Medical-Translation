@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-052759</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Item selection rules in a Computerized Adaptive Test for the assessment of written English</dc:title>
+<dc:description xml:lang="en">e-CAT is a Computerized Adaptive Test for the evaluation of written English knowledge, using the item selection rule most commonly employed: the maximum Fisher information criterion. Some of the problems of this criterion have a negative impact in the estimation accuracy and in the item bank security. In this study, the performance of this item selection rule is compared, by means of simulation, with two other rules: selecting the item with maximum Fisher information in an interval (Veerkamp y Berger, 1997) and a new criterion, called «maximum Fisher information in an interval with geometric mean». In general, this new rule shows smaller measurement error and smaller item overlap rates. It seems, thus, recommendable, as it allows the simultaneous improvement of estimation accuracy and the maintenance of the item bank security of e-CAT</dc:description>
+<dc:creator>Barrada, Juan Ramón</dc:creator>
+<dc:creator>Olea, Julio</dc:creator>
+<dc:creator>Ponsoda, Vicente</dc:creator>
+<dc:creator>Abad, Francisco J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">e-CAT es un Test Adaptativo Informatizado para la evaluación del nivel de conocimiento del inglés escrito, que implementa la regla de selección de ítems más comúnmente empleada: el criterio de máxima información de Fisher. Algunos de los problemas asociados a este criterio de selección repercuten negativamente en la precisión de las estimaciones y en la seguridad del banco de ítems. En el presente trabajo se compara mediante simulación el rendimiento de esta regla con otras dos: la selección del ítem con máxima información de Fisher por intervalo de Veerkamp y Berger (1997) y una nueva regla, denominada como «máxima información de Fisher por intervalo con media geométrica». En general, este nuevo criterio de selección de ítems proporciona menor error de medida y menores tasas de solapamiento de ítems. Parece, pues, recomendable, al permitir obtener mejoras simultáneas en la calidad de las estimaciones y en el mantenimiento de la seguridad del banco de ítems en que se sustenta e-CAT</dc:description>
+<dc:source>Psicothema (Oviedo);18(4): 828-834, nov. 2006. ilus</dc:source>
+<dc:identifier>ibc-052759</dc:identifier>
+<dc:title xml:lang="es">Estrategias de selección de ítems en un test adaptativo informatizado para la evaluación de inglés escrito</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d4591^s22045</dc:subject>
+<dc:subject>^d19402</dc:subject>
+<dc:subject>^d1084^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200611</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-138136</identifier>
+<setSpec>1699-8855</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Digital slides in Pathology Departments (II). An analysis of existing solutions</dc:title>
+<dc:description xml:lang="en">Introduction: The technological solutions for whole slide scanning are very diverse and they have been classified into motorized microscopes and scanners. Comparison of existing systems: This article describes technical aspects of 28 different digital microscopy systems. The most relevant characteristics of the scanning devices are described, including the cameras used, the speed of digitization and the image quality. Other aspects, such as the file format, the compression techniques, and the solutions for visualization of digital slides, including diagnosis-aided tools are also taken into consideration. Conclusions: Most of the analyzed systems allow digitizing a complete slide using with a 40x objective, with the best quality available in, approximately, an hour. The image quality of the current virtual microscopy systems is suitable for clinical, educational and research purposes (AU)</dc:description>
+<dc:creator>García Rojo, Marcial</dc:creator>
+<dc:creator>Peces Mateos, Carlos</dc:creator>
+<dc:creator>Bueno García, Gloria</dc:creator>
+<dc:creator>González García, Jesús</dc:creator>
+<dc:creator>Carbajo Vicente, Manuel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: Las soluciones tecnológicas para la realización de preparaciones digitales son muy diversas y se pueden clasificar en dos grandes grupos: microscopios robotizados y escáneres. Comparación entre sistemas: En este artículo, se comentan los aspectos técnicos que ofrecen 28 sistemas de microscopía digital (microscopios robotizados o escáneres) disponibles en el mercado. Se describen las características más relevantes de los dispositivos de escaneado, las cámaras empleadas, la velocidad y calidad de las imágenes, los tipos de ficheros y compresión y las soluciones de visualización de preparaciones digitales, incluyendo herramientas de ayuda al diagnóstico. Conclusiones: La mayoría de las soluciones permiten digitalizar una preparación completa, con un objetivo 40x y con la calidad máxima en, aproximadamente, una hora. La calidad de imagen que ofrecen los sistemas actuales es adecuada para fines asistenciales, docentes y de investigación (AU)</dc:description>
+<dc:source>Rev. esp. patol;38(4): 207-220, oct.-dic. 2005. tab, graf, ilus</dc:source>
+<dc:identifier>ibc-138136</dc:identifier>
+<dc:title xml:lang="es">Preparaciones digitales en los servicios de Anatomía Patológica (II). Análisis de soluciones existentes</dc:title>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d53705^s22048</dc:subject>
+<dc:subject>^d23421</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d9041^s22045</dc:subject>
+<dc:subject>^d19089^s22045</dc:subject>
+<dc:subject>^d19402</dc:subject>
+<dc:subject>^d22921</dc:subject>
+<dc:subject>^d22347</dc:subject>
+<dc:subject>^d10530^s22019</dc:subject>
+<dc:subject>^d19341^s22074</dc:subject>
+<dc:subject>^d51792</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200512</dc:date>
+</metadata>
+</record>
+</ibecs-document>

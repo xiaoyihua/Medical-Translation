@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-101670</identifier>
+<setSpec>0212-6567</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Comparison of three methods for measuring multiple morbidity according to the use of health resources in primary healthcare</dc:title>
+<dc:description xml:lang="en">Objective: To compare three methods of measuring multiple morbidity according to the use of health resources (cost of care) in primary healthcare (PHC). Design: Retrospective study using computerized medical records. Setting: Thirteen PHC teams in Catalonia (Spain). Participants: Assigned patients requiring care in 2008. Main measurements: The socio-demographic variables were co-morbidity and costs. Methods of comparison were: a) Combined Comorbidity Index (CCI): an index itself was developed from the scores of acute and chronic episodes, b) Charlson Index (ChI), and c) Adjusted Clinical Groups case-mix: resource use bands (RUB). The cost model was constructed by differentiating between fixed (operational) and variable costs. Statistical analysis: 3 multiple lineal regression models were developed to assess the explanatory power of each measurement of co-morbidity which were compared from the determination coefficient (R2), p&lt; .05. Results: The study included 227,235 patients. The mean unit of cost was &#128;654.2. The CCI explained an R2=50.4%, the ChI an R2=29.2% and BUR an R2=39.7% of the variability of the cost. The behaviour of the ICC is acceptable, albeit with low scores (1 to 3 points), showing inconclusive results. Conclusions: The CCI may be a simple method of predicting PHC costs in routine clinical practice. If confirmed, these results will allow improvements in the comparison of the case-mix(AU)</dc:description>
+<dc:creator>Blanca Tamayo, Milagrosa</dc:creator>
+<dc:creator>Violan-Fors, Concepción</dc:creator>
+<dc:creator>Velasco-Velasco, Soledad</dc:creator>
+<dc:creator>Prados-Torres, Alexandra</dc:creator>
+<dc:creator>Sicras-Mainar, Antoni</dc:creator>
+<dc:creator>Ruíz Torrejón, Amador</dc:creator>
+<dc:creator>Navarro-Artieda, Ruth</dc:creator>
+<dc:creator>Aguado Jodar, Alba</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Comparar 3 diferentes métodos de medida de la multimorbilidad en función del uso de recursos sanitarios (coste de la asistencia) en atención primaria (AP). Diseño: Estudio retrospectivo realizado a partir de registros médicos informatizados. Emplazamiento: En 13 equipos de AP de Cataluña. Participantes: Pacientes adscritos que demandaron atención durante el año 2008. Medidas principales: Variables sociodemográficas, de comorbilidad y de coste. Los métodos de comparación fueron: a) índice de comorbilidad combinado (ICC): se elaboró un índice propio a partir de las puntuaciones de episodios agudos y crónicos; b) índice de Charlson (iCh), y c) índices de casuística de los Adjusted Clinical Groups: bandas de utilización de recursos (BUR). El modelo de costes se estableció diferenciando los costes fijos (funcionamiento de los centros) y los variables. Análisis estadístico: se desarrollaron 3 modelos de regresión lineal para evaluar la capacidad explicativa de cada medida de comorbilidad; que se compararon a partir del coeficiente de determinación (R2), p&lt;0,05. Resultados: Se seleccionaron 227.235 pacientes; el promedio/unitario del coste de la asistencia fue de 654,2 &#128;. El ICC explica un R2=50,4%, el iCh un R2=29,2% y las BUR un R2=39,7% de la variabilidad del coste. El comportamiento del ICC es aceptable, no obstante con puntuaciones bajas (entre 1 y 3 puntos) no se consiguen resultados tan concluyentes. Conclusiones: El ICC se muestra como un sencillo y posible predictor del coste de la asistencia en AP en situación de práctica clínica habitual. De confirmarse estos resultados posibilitarían una mejora en la comparación de la casuística(AU)</dc:description>
+<dc:source>Aten Primaria;44(6): 348-357, jun. 2012. tab, graf, ilus</dc:source>
+<dc:identifier>ibc-101670</dc:identifier>
+<dc:title xml:lang="es">Comparación entre tres métodos de medida de la multimorbilidad en función del uso de recursos sanitarios en atención primaria</dc:title>
+<dc:subject>^d32497^s22018</dc:subject>
+<dc:subject>^d30355^s22048</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23662^s22041</dc:subject>
+<dc:subject>^d23662^s22074</dc:subject>
+<dc:subject>^d^s22048</dc:subject>
+<dc:subject>^d23662^s22083</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d23662^s37748</dc:subject>
+<dc:subject>^d3378^s22045</dc:subject>
+<dc:subject>^d23662^s22048</dc:subject>
+<dc:subject>^d24572^s22066</dc:subject>
+<dc:subject>^d32497^s22045</dc:subject>
+<dc:subject>^d32497^s22060</dc:subject>
+<dc:subject>^d11756^s22045</dc:subject>
+<dc:subject>^d3376^s22048</dc:subject>
+<dc:subject>^d3380</dc:subject>
+<dc:subject>^d32497^s22041</dc:subject>
+<dc:subject>^d3376^s22049</dc:subject>
+<dc:subject>^d11756^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201206</dc:date>
+</metadata>
+</record>
+</ibecs-document>

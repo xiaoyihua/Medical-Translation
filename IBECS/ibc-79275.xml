@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-79275</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">RAN: A computer program to estimate random response patterns in objective tests Computar program for random response</dc:title>
+<dc:description xml:lang="en">In the psychological measurement, especially in personality, the paper-pencil method is the usual device between the psychologist and allied professions. The score obtained by a person examined can have questionable validity if the responses were random. To identify this problem, different methods have been used. The random response is a challenging situation for the measurement research and diagnosis in cognitive performance and personality, when they have been measured by test of dichotomous type. In this study a computer program that implements the Charter&#146;s method of point estimate and confidence intervals is presented in order to identify if the score obtained can be considered random. We analyze and discuss this program uses in the research and professional practice(AU)</dc:description>
+<dc:creator>Merino Soto, César</dc:creator>
+<dc:creator>López Pina, José</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En la medición psicológica, especialmente de personalidad, el método lápiz-papel es usual entre psicólogos y profesiones aliadas. La puntuación obtenida por un examinado puede tener una validez cuestionable si respondió aleatoriamente, e identificar este problema ha sido abordado por diferentes métodos. La respuesta aleatoria tiende a ser una situación desafiante para el diagnóstico y la investigación en la medición de la personalidad y desempeño cognitivo evaluados mediante preguntas de tipo dicotómico. En este trabajo se presenta un programa informático que implementa el método de estimación puntual y por intervalos de confianza de Charter, para identificar si la puntuación obtenida por un examinado es probablemente aleatoria. Se analizan y discuten sus usos en la práctica profesional e investigación(AU)</dc:description>
+<dc:source>Psicothema (Oviedo);22(2): 334-339, 2010.</dc:source>
+<dc:identifier>ibc-79275</dc:identifier>
+<dc:title xml:lang="es">RAN: un programa informático para estimar patrones de respuesta aleatorios en tests objetivos</dc:title>
+<dc:subject>^d10742^s22031</dc:subject>
+<dc:subject>^d12031^s22083</dc:subject>
+<dc:subject>^d12018^s22048</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d12018^s22083</dc:subject>
+<dc:subject>^d19244^s22074</dc:subject>
+<dc:subject>^d37613</dc:subject>
+<dc:subject>^d19243^s22066</dc:subject>
+<dc:subject>^d19243^s22045</dc:subject>
+<dc:subject>^d12031^s22066</dc:subject>
+<dc:subject>^d19245</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201000</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-037256</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Patient safety and adverse incident reporting systems</dc:title>
+<dc:description xml:lang="en">The use of adverse incident reporting systems has provided key information for improving safety in medical and nonmedical settings. Although the characteristics of the ideal reporting system are controversial, for this type of system to work, a culture of safety in the organization is required. Reporting systems gather information on adverse events, errors, or incidents with the aim of analyzing the causes and implementing changes in the system to prevent their repetition. One of the most important limitations of these systems is under-reporting, caused by fear of disciplinary or legal repercussions and lack of belief in the effectiveness of reporting. We present our experience of the use of a computerized system for reporting and analyzing critical incidents in an anesthesiology department. Over a period of 6 years, with 52,259 anesthesiology procedures performed, 513 critical incidents were reported (0.98%). The most frequently registered incidents were related to equipment, communication, and drugs. The factors most frequently associated with adverse incidents were failure to check equipment and drugs, communication problems, and inability to put knowledge into practice. Most (81.8%) of the incidents had no effect on the patient or produced only minor morbidity. In 78.9% of cases, the incident was considered avoidable. As a result of systematic analysis of the incidents, various corrective measures were adopted, some of which produced a statistically significant reduction in equipment-and drug-related incidents</dc:description>
+<dc:creator>González-Arévalo, Antonio</dc:creator>
+<dc:creator>García del Valle, Santiago</dc:creator>
+<dc:creator>Santa-Úrsula, José Antonio</dc:creator>
+<dc:creator>Hidalgo, Inmaculada </dc:creator>
+<dc:creator>Bartolomé, Antonio</dc:creator>
+<dc:creator>Gómez-Arnau, Juan Ignacio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La utilización de sistemas de comunicación de incidentes ha proporcionado información determinante para mejorar la seguridad en ámbitos médicos y no médicos. Aunque existe controversia sobre las características de un sistema de comunicación ideal, para que tenga éxito se necesita una cultura de seguridad implantada en la organización. Los sistemas de comunicación recogen información sobre sucesos adversos, errores o incidentes, con el objetivo de analizar sus causas e implantar cambios en el sistema para evitar su repetición. Una de las limitaciones más importantes de estos sistemas es la infracomunicación, que tiene su origen en el miedo a medidas disciplinarias o legales y la falta de convicción en su eficacia. Presentamos nuestra experiencia en la utilización de un sistema informatizado de comunicación y análisis de incidentes críticos en un servicio de anestesia. En un período de 6 años y 52.259 procedimientos anestésicos realizados, se comunicaron 513 incidentes críticos (0,98%). Los registros más frecuentes fueron los relacionados con el equipamiento, la comunicación y los fármacos. Los factores asociados con mayor frecuencia al desarrollo de incidentes fueron la falta de comprobación del equipamiento y de los fármacos, los problemas de comunicación y la incapacidad para aplicar conocimientos aprendidos. El 81,8% de los incidentes no tuvo ningún efecto sobre el paciente o produjo sólo morbilidad menor. En el 78,9% de los casos el incidente se consideró evitable. Como consecuencia del análisis sistemático de los incidentes se adoptaron distintas medidas correctoras, algunas de las cuales demostraron una reducción estadísticamente significativa en los incidentes de equipamiento y farmacológicos</dc:description>
+<dc:source>Rev. calid. asist;20(4): 228-234, jun. 2005.</dc:source>
+<dc:identifier>ibc-037256</dc:identifier>
+<dc:title xml:lang="es">Seguridad del paciente y sistemas de comunicación de incidentes</dc:title>
+<dc:subject>^d23790</dc:subject>
+<dc:subject>^d31061^s22045</dc:subject>
+<dc:subject>^d36428</dc:subject>
+<dc:subject>^d12720^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6904^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200506</dc:date>
+</metadata>
+</record>
+</ibecs-document>

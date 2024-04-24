@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-84249</identifier>
+<setSpec>0214-4840</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Study of the factors associated with substance use in adolescence using Association Rules</dc:title>
+<dc:description xml:lang="en">The aim of this study is to analyse the factors related to the use of addictive substances in adolescence using association rules, descriptive tools included in Data Mining. Thus, we have a database referring to the consumption of addictive substances in adolescence, and use the free distribution program in the R arules package (version 2.10.0). The sample was made up of 9,300 students between the ages of 14 and 18 (47.1% boys and 52.9% girls) with an average age of 15.6 (SE=1.2). The adolescents answered an anonymous questionnaire on personal, family and environmental risk factors related to substance use. The best rules obtained with regard to substance use relate the consumption of alcohol to perceived parenting style and peer consumption (confidence = 0.8528), the use of tobacco (smoking), cannabis and cocaine to perceived parental action and illegal behaviour (confidence= 0.8032, 0.8718 and 1.0000, respectively), and the use of ecstasy to peer consumption (confidence = 1.0000). In general, the association rules show in a simple manner the relationship between certain patterns of perceived parental action, behaviours that deviate from social behavioural norms, peer consumption and the use of different legal and illegal drugs of abuse in adolescence. The implications of the results obtained are described, together with the usefulness of this new methodology of analysis (AU)</dc:description>
+<dc:creator>Gervilla García, Elena</dc:creator>
+<dc:creator>Palmer Pol, Alfonso</dc:creator>
+<dc:creator>Jiménez López, Rafael</dc:creator>
+<dc:creator>Cajal Blasco, Berta</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">El objetivo del presente estudio es analizar los factores relacionados con el uso de sustancias adictivas en la adolescencia mediante reglas de asociación, herramientas descriptivas incluidas en Data Mining. Para ello se cuenta con una base de datos referidos al consumo de sustancias adictivas en la adolescencia y se utiliza el paquete arules, integrado en el programa de libre distribución R (versión 2.10.1). La muestra está formada por 9.300 estudiantes de edades comprendidas entre los 14 y los 18 años (47,1% chicos y 52,9% chicas) con una edad media de 15,6 años (SE=1,2). Los adolescentes contestaron un cuestionario anónimo que incluía preguntas sobre factores de riesgo personales, familiares y ambientales para el consumo desustancias. Las mejores reglas obtenidas en relación al consumo de sustancias relacionan el consumo de alcohol con la educación paterna percibida y el consumo de los amigos (confianza= 0.8528), el consumo de tabaco, cannabis y cocaína con la actuación paterna percibida y la realización de conductas ilegales (confianzas de 0.8032, 0.8718 y 1.0000, respectivamente)y el uso de éxtasis con el consumo de los iguales (confianza = 1.0000).En general, las reglas de asociación muestran de forma sencilla la relación existente entre ciertas pautas de actuación paterna percibida, la emisión de conductas desviadas de las normas de comportamiento social, el consumo por parte del grupo de iguales y el abuso de drogas, legales e ilegales, en la adolescencia. Se describen las implicaciones de los resultados obtenidos así como la utilidad de esta nueva metodología de análisis (AU)</dc:description>
+<dc:source>Adicciones (Palma de Mallorca);22(4): 293-300, oct.-dic. 2010. tab</dc:source>
+<dc:identifier>ibc-84249</dc:identifier>
+<dc:title xml:lang="es">Estudio de los factores asociados al uso de sustancias en la adolescencia mediante Reglas de Asociación</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d12031^s22039</dc:subject>
+<dc:subject>^d22937^s22056</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d30236^s22056</dc:subject>
+<dc:subject>^d297^s22056</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1252</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d33535^s22056</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201012</dc:date>
+</metadata>
+</record>
+</ibecs-document>

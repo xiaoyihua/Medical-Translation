@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-038866</identifier>
+<setSpec>0210-5705</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Advantages of computerized management in a gastrointestinal endoscopy unit</dc:title>
+<dc:description xml:lang="en">Computerized management of the activity of a gastrointestinal endoscopy unit in a hospital requires technological resources that include an intrahospital network, a compute- rized endoscopy program, a computerized appointments program and electronic medical records. The endoscopy unit should define the portfolio of services it provides and establish the time required to perform each procedure, probably using distinct criteria for outpatient and inpatient requests. Computerized management should establish forms designed to receive, accept and schedule requests, and should transfer all the contents of the request to the endoscopy program. The endoscopy program makes and stores reports and images. Integration among the programs allows these contents to be transferred to the electronic medical record. Measures to guarantee the confidentiality and safety of the medical information in each center should be implemented in accordance with its policy on access to medical information</dc:description>
+<dc:creator>Dolz Abadía, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Gestionar de forma informática la actividad de una unidad de endoscopia digestiva en un hospital requiere una dotación tecnológica que incluya una red intrahospitalaria, un programa informático de endoscopia, un programa gestor de peticiones y una historia clínica electrónica. La unidad de endoscopia debe definir el catálogo de prestaciones que realiza, establecer la estructura de su agenda de trabajo y probablemente dotar con criterios diferentes las peticiones de pacientes ambulatorios de las de los pacientes hospitalizados. Una solicitud de endoscopia debe ser vista mediante formas electrónicas predefinidas de recibir las solicitudes, aceptada y programada, lo que se traduce en la transmisión de todos los contenidos al programa de endoscopia. El programa de endoscopia realiza y almacena informes e imágenes. La integración entre los programas permite transmitir estos contenidos a la historia clínica electrónica. Deben existir medidas que garanticen la confidencialidad y la seguridad de la información médica que parametriza cada centro hospitalario según su política de accesos a la información médica</dc:description>
+<dc:source>Gastroenterol Hepatol;28(5): 298-305, may. 2005. tab</dc:source>
+<dc:identifier>ibc-038866</dc:identifier>
+<dc:title xml:lang="es">Ventajas de la gestión informatizada en una unidad de endoscopia digestiva</dc:title>
+<dc:subject>^d19349</dc:subject>
+<dc:subject>^d28994</dc:subject>
+<dc:subject>^d29040</dc:subject>
+<dc:subject>^d6905^s22055</dc:subject>
+<dc:subject>^d6447^s22055</dc:subject>
+<dc:subject>^d28918^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200505</dc:date>
+</metadata>
+</record>
+</ibecs-document>

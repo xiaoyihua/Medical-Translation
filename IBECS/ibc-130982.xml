@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-130982</identifier>
+<setSpec>0210-4806</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Circulating MicroRNAs in Blood of Patients With Prostate Cancer</dc:title>
+<dc:description xml:lang="en">Introduction: MicroRNAs (miRNAs) are small regulatory RNAs that do not code for proteins. Detection of circulating tumor cells (CTC) would provide diagnostic and prognostic information in prostate tumors (PT). Thus, miRNAs could constitute a promising new class of biomarkers for CTC detection. Objectives: To analyze circulating microRNAs in whole blood as non-invasive markers in patients with localized prostate cancer and healthy individuals. Material and methods: A preliminary study including a population of 40 patients with mean age of 71 years and mean PSA of 18, 9ng/ml (range). Regarding the risk group (RG): 33.3% had low risk, 30% intermediate risk and 36.7% high risk. A previous in silico study identified 92 candidates and was followed by another in vivo to verify the findings of the former using array technology by real-time PCR. Results: Statistical analysis of the results revealed 10 microRNAs candidates with statistically significant differential expression between the different risk groups and healthy controls: hsa-miR-337-3p, hsa-miR-330-3p, hsa-miR-339-3p, hsa-miR-124, hsa-miR-218, hsa-miR-128, hsa-miR-10a, hsa-miR-199b-5p, hsa-miR-200b and hsa-miR-15b. Conclusions: Our data suggest that circulating microRNAs can act as biomarkers to identify risk groups in CaP (AU)</dc:description>
+<dc:creator>Medina-Villaamil, V</dc:creator>
+<dc:creator>Antón-Aparicio, L. M</dc:creator>
+<dc:creator>Quindós-Varela, M</dc:creator>
+<dc:creator>Gómez-Veiga, F</dc:creator>
+<dc:creator>Martínez-Breijo, S</dc:creator>
+<dc:creator>Portela-Pereira, P</dc:creator>
+<dc:creator>Santamarina-Caínzos, I</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: Los microARN (miARN) son ARN reguladores de pequeño tamaño que no codifican para proteínas. La detección de células tumorales circulantes (CTC) proporcionaría información diagnóstica y pronóstica en los tumores de próstata (TP). En este sentido los miARN podrían constituir una nueva y prometedora clase de biomarcadores para la detección de CTC. Objetivos: Analizar miARN circulantes en sangre total como marcadores no invasivos en pacientes con cáncer de próstata localizado e individuos sanos. Material y métodos: Estudio preliminar con una N poblacional de 40 pacientes con una media de edad de 71 años y un PSA medio de 18, 9 ng/ml (rango). Respecto al grupo de riesgo (GR): un 33,3% bajo riesgo, un 30% riesgo intermedio y un 36,7% alto riesgo. Se realizó un estudio previo in silico que identificó 92 miARN candidatos seguido de otro in vivo para verificar los hallazgos del primero mediante tecnología de arrays de PCR a tiempo real. Resultados: El análisis estadístico de los resultados reveló 10 miARN candidatos con una expresión diferencial estadísticamente significativa entre los distintos grupos de riesgo y los controles sanos: hsa-miR-337-3p, hsa-miR-330-3p, hsa-miR-339-3p, hsa-miR-124, hsa-miR-218, hsa-miR-128, hsa-miR-10a, hsa-miR-199b-5p, hsa-miR-200b y hsa-miR-15b Conclusiones: Nuestros datos sugieren que los miARN circulantes pueden servir como biomarcadores para identificar grupos de riesgo en CaP (AU)</dc:description>
+<dc:source>Actas Urol Esp;38(10): 633-639, dic. 2014. tab, ilus</dc:source>
+<dc:identifier>ibc-130982</dc:identifier>
+<dc:title xml:lang="es">MicroARN circulantes en sangre de pacientes con cáncer de próstata</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d37535^s22062</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d24373^s22002</dc:subject>
+<dc:subject>^d11914^s22062</dc:subject>
+<dc:subject>^d54483^s22053</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28320^s22074</dc:subject>
+<dc:subject>^d30596^s22002</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24551</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201412</dc:date>
+</metadata>
+</record>
+</ibecs-document>

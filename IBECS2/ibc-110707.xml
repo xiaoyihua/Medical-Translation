@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-110707</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cancer incidence estimation in Spain: period 1993-1996</dc:title>
+<dc:description xml:lang="en">Objective: To estimate the number of incident cases of cancer in Spain between 1993 and 1996.Methods: We used data on the incidence of cancer from nine Spanish population-based cancer registries published in the monograph Cancer incidence in Five Continents, vols. VI and VII (period 1983-92). The National Institute of Statistics provided mortality data (period 1983-96). Generalized linear mixed models were used to estimate the number of incident cases. The incidence/mortality ratio was modeled. To account for heterogeneity, the providence of residence was considered as a random effect. Other factors analyzed were sex, age and period. Model parameters were estimated using a Bayesian approach with BUGS software. Estimates were valdated by comparing the observed number of cases with those predicted by the model in the regions with cancer registry data. Results: The average number of incident cases per annum for all cancer sites except non-melanoma skin cancer was78,440 for men and 55,480 for women. The most frequent neoplasm in men was lung with 15,480 cases followed by bladder with 9,445 cases and colorectal with 8,876 cases. In women (..) (AU)</dc:description>
+<dc:creator>Grupo de Estudio de las Causas del Cáncer en España (GECCE)</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Estimar el número de neoplasias incidentes en España para el período 1993-1996.Métodos: Se han utilizado los datos disponibles de incidenciad e los 9 registros poblacionales de cáncer de España publicados en la monografía Cancer Incidence in Five Continents, vols VI y VII (período 1983-1992) y los de mortalidad proporcionados por el Instituto Nacional de Estadística (período 1983-1996). Para estimar el número de casos incidentes se han utilizado modelos lineales generalizados mixtos. Se ha modelado la razón incidencia/mortalidad. La provincia de residencia se ha considerado un efecto aleatorio para tener en cuenta la heterogeneidad. Otros factores considerados fueron el sexo, la edad y el período. Los parámetros de los modelos se han estimado por una aproximación bayesiana mediante el software BUGS. Para validar las estimaciones se ha comparado el número de casos observados con los estimados para aquellas provincias en las que se disponía de información. Resultados: El promedio de casos incidentes anuales para la totalidad de tumores, excepto el de piel no melanoma, en el período 1993-1996 es de 78.440 en los varones y 55.480en las mujeres. La neoplasia más frecuente en los varones es la de pulmón, con 15.480 casos, seguida de la de vejiga, con 9.445, y la colorrectal, con 8.876 casos. En las mujeres el cáncer más frecuente es el de mama, con 13.490 (..) (AU)</dc:description>
+<dc:source>Gac Sanit;15(5): 380-388, sept.-oct. 2001. ilus, tab</dc:source>
+<dc:identifier>ibc-110707</dc:identifier>
+<dc:title xml:lang="es">Estimación de la incidencia de cáncer en España: período 1993-1996</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d24769</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28632^s22083</dc:subject>
+<dc:subject>^d9562^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200110</dc:date>
+</metadata>
+</record>
+</ibecs-document>

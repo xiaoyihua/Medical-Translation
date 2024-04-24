@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-113598</identifier>
+<setSpec>1137-6821</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Medication reconciliation in emergency departments</dc:title>
+<dc:description xml:lang="en">Medication errors, which are common in hospitals, lead to higher morbidity, mortality, and expenditure. Errors are most common when patients are transferred from one level of care to another, and the likelihood of mistakes is higher in emergency departments because of the intrinsic nature of emergency care. The internationally recognized remedy for this situation is medication reconciliation, defined as the process of obtaining a complete, accurate list of the patient's prior medications and comparing it to the list of medicines prescribed after admission to a new level of care. Discrepancies should be considered and prescriptions changed if necessary. Both the person who will be responsible for the next phase of care and the patient should be informed of the new list of medications. This consensus statement offers a set of general recommendations for medication reconciliation. Specific recommendations for each subgroup of medications are also included to allow emergency department prescribing to be tailored to individual patient characteristics. The recommendations in this statement should be overridden in some cases if the risk-benefit ratio suggests that further individualization is required. Individualized assessment of medications should be carried out by a multidisciplinary team responsible for the patient&#146;s care (AU)</dc:description>
+<dc:creator>Altimiras Ruiz, J</dc:creator>
+<dc:creator>Calderón Hernánz, B</dc:creator>
+<dc:creator>Tomas Vecina, S</dc:creator>
+<dc:creator>Oliver Noguera, A</dc:creator>
+<dc:creator>Baena Parejo, M. I</dc:creator>
+<dc:creator>Chanovas Borras, M</dc:creator>
+<dc:creator>García Peláez, M</dc:creator>
+<dc:creator>Juanes Borrego, A</dc:creator>
+<dc:creator>Roqueta Egea, F</dc:creator>
+<dc:creator>Calleja Hernández, M. A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Los errores de medicación (EM) son comunes en el ámbito hospitalario y conducen aun incremento de la morbilidad y mortalidad y de los costes económicos. Estos errores ocurren sobre todo durante la transición de pacientes entre los diferentes niveles asistenciales. La posibilidad de que se produzcan estos errores se ve aumentada en los servicios de urgencias (SU) por la naturaleza de éstos. Desde instituciones sanitarias a nivel mundial, se reconoce la conciliación de la medicación (CM) como la solución a esta problemática. Se define como el proceso que consiste en obtener un listado completo y exacto de la medicación previa del paciente y compararlo con la prescripción médica después de la transición asistencial. Si se encuentran discrepancias deben considerarse y, si es necesario, modificar la prescripción médica para finalmente comunicar al siguiente responsable en salud del paciente y al propio paciente, la nueva lista conciliada. Este documento de consenso ofrece una serie de recomendaciones generales para la conciliación de los medicamentos. Incluye para cada subgrupo una serie de recomendaciones específicas de tipo farmacológico, que permiten un abordaje personalizado del tratamiento del paciente que acude a urgencias en base a las características clínicas individuales. Existirán casos en los que se desestime las recomendaciones aquí descritas, ya que la relación riesgo/beneficio requerirá una valoración individualizada. Esta valoración individualizada para el paciente se llevará a cabo por el equipo multidisciplinar responsable de su asistencia sanitaria (AU)</dc:description>
+<dc:source>Emergencias (Sant Vicenç dels Horts);25(3): 204-217, jun. 2013. tab</dc:source>
+<dc:identifier>ibc-113598</dc:identifier>
+<dc:title xml:lang="es">Conciliación de los medicamentos en los servicios de urgencias</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d4713^s22045</dc:subject>
+<dc:subject>^d54857</dc:subject>
+<dc:subject>^d54220^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4707^s22045</dc:subject>
+<dc:subject>^d8675^s22054</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201306</dc:date>
+</metadata>
+</record>
+</ibecs-document>

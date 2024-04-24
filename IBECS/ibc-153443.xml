@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-153443</identifier>
+<setSpec>1888-4008</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Development and validation of an HPLC&#150;MS method for a simultaneous measurement of oxalate and citrate in urine</dc:title>
+<dc:description xml:lang="en">Objectives. An increased urinary oxalate and reduced urinary citrate are considered major risk factors in the formation of calcium oxalate kidney stones. In this work, an HPLC&#150;MS method is presented for the simultaneous measurement of oxalate and citrate in urine. Methods. Sample preparation was carried out using a liquid&#150;liquid extraction with ethyl acetate. Chromatographic separation was performed in a C18 column by gradient elution with methanol and 1 M formate buffer at 35 °C. Citrate and oxalate were monitored on a single-quadrupole MS system. Results. The method was linear in the concentration range of 0.5 mg/L to 450 mg/L for oxalate and from 2.5 mg/L to 950 mg/L for citrate. The Lower Limit of Measurement was 0.56 mg/L for oxalate and 2.5 mg/L for citrate. The within-day imprecision was 6% for oxalate and 3% for citrate, and the between day imprecision was lower than 15% for both analytes. LC&#150;MS method was compared with capillary electrophoresis and it was shown that both methods were interchangeable to measure oxalate, but not citrate. Conclusions. HPLC&#150;MS method is a good approach to measure oxalate and citrate in 24-hour urine, and it is applicable in clinical routine for patients with recurrent stone formation (AU)</dc:description>
+<dc:creator>Illana Cámara, Francisco José</dc:creator>
+<dc:creator>Arroyo Fernández, Manuel</dc:creator>
+<dc:creator>Ortega Madueño, Isabel</dc:creator>
+<dc:creator>Díaz González, María Carmen</dc:creator>
+<dc:creator>Torrejón Martínez, María José</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objetivos. La hiperoxaluria e hipocitraturia están consideradas el principal factor de riesgo en la formación de cálculos renales de oxalato cálcico. En este trabajo se ha desarrollado un método de HPLC-MS para la medida simultánea de oxalato y citrato en orina. Métodos. La preparación de muestras se realizó por una extracción líquido-líquido con etilacetato. La separación cromatográfica se llevó a cabo en una columna C-18 a 35 °C con un gradiente de elución con metanol y ácido fórmico 1 M. El citrato y el oxalato se monitorizaron mediante espectrometría de masas con un cuadrupolo simple. Resultados. El método fue lineal para el oxalato en el rango de concentración de 0,5 a 450 mg/l y para el citrato de 2,5 a 950 mg/l. El límite menor de intervalo de medida fue de 0,56 mg/l para el oxalato y de 2,5 mg/l para el citrato. La imprecisión intradía fue del 6% para el oxalato y del 3% para el citrato, y la interdía fue inferior al 15% para ambos analitos. El método de LC-MS desarrollado se comparó con un método de electroforesis capilar y se demostró que ambos eran intercambiables para el oxalato, pero no para el citrato. Conclusiones. El método de HPLC-MS desarrollado constituye una buena aproximación para medir oxalato y citrato en orina de 24 horas y es aplicable en la rutina clínica para pacientes con riesgo de formación de cálculos renales (AU)</dc:description>
+<dc:source>Rev. lab. clín;9(2): 93-97, abr.-jun. 2016. tab, graf</dc:source>
+<dc:identifier>ibc-153443</dc:identifier>
+<dc:title xml:lang="es">Desarrollo y validación de un método de HPLC-MS para la medida simultánea de oxalato y citrato en orina</dc:title>
+<dc:subject>^d13441^s22039</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d2900^s22039</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d13441^s22045</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d32762^s22039</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d32762^s22045</dc:subject>
+<dc:subject>^d32762^s22074</dc:subject>
+<dc:subject>^d2165^s22050</dc:subject>
+<dc:subject>^d24256^s22036</dc:subject>
+<dc:subject>^d13441^s22074</dc:subject>
+<dc:subject>^d24256^s22012</dc:subject>
+<dc:subject>^d2900^s22074</dc:subject>
+<dc:subject>^d32979^s22002</dc:subject>
+<dc:subject>^d2900^s22045</dc:subject>
+<dc:subject>^d32979^s22050</dc:subject>
+<dc:subject>^d35256</dc:subject>
+<dc:subject>^d2165^s22002</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201606</dc:date>
+</metadata>
+</record>
+</ibecs-document>

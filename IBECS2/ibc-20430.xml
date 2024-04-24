@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-20430</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The genetics of mitochondrial epilepsy</dc:title>
+<dc:creator>Montoya, J</dc:creator>
+<dc:creator>Playán, A</dc:creator>
+<dc:creator>Solano, A</dc:creator>
+<dc:creator>Enríquez, J. A</dc:creator>
+<dc:creator>Alcaine, M. J</dc:creator>
+<dc:creator>Fernández Silva, P</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>César Viguera</dc:publisher>
+<dc:description xml:lang="es">Introducción. Recientemente se ha establecido la base molecular de una serie de trastornos clínicos asociados a defectos en el sistema de fosforilación oxidativa (sistema OXPHOS) que conduce a la síntesis de ATP, la ruta final del metabolismo energético mitocondrial. Los polipéptidos componentes del sistema OXPHOS están codificados tanto en el ADN nuclear como en el mitocondrial, por lo que estas enfermedades mitocondriales pueden estar originadas por mutaciones en genes localizados en ambos sistemas genéticos. Desarrollo. En los últimos años se han definido y asociado varias de estas enfermedades neuromusculares con mutaciones en el ADN mitocondrial. Entre ellas, una de las que más ha llamado la atención es el síndrome de epilepsia mioclónica con fibras rojo-rasgadas (MERRF), caracterizado por epilepsias mioclónicas y por presentar un tipo de herencia materna. Esta enfermedad está causada por una mutación puntual en el ARNtLys mitocondrial (posición 8344), que origina una disminución de los niveles de lisil-ARNtLys y, por consiguiente, una terminación prematura de la traducción de las proteínas codificadas en el ADN mitocondrial (AU)</dc:description>
+<dc:source>Rev Neurol;30(4): 330-332, feb. 2000.</dc:source>
+<dc:identifier>ibc-20430</dc:identifier>
+<dc:title xml:lang="es">Genética de las epilepsias mitocondriales</dc:title>
+<dc:subject>^d30654</dc:subject>
+<dc:subject>^d30333</dc:subject>
+<dc:subject>^d30659</dc:subject>
+<dc:subject>^d30613</dc:subject>
+<dc:subject>^d14568</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12679</dc:subject>
+<dc:subject>^d22156</dc:subject>
+<dc:subject>^d10263</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200002</dc:date>
+</metadata>
+</record>
+</ibecs-document>

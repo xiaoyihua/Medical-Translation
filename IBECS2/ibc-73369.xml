@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-73369</identifier>
+<setSpec>1134-3230</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Quality analysis of scientific literature: impact factor</dc:title>
+<dc:description xml:lang="en">The impact factor is the average number of citations in a given year to those papers in a journal published in the previous 2 years. It is calculated by the Institute for the Scientific Information, that also it provides other measures as immediacy, cited half-life and citing half-life. The impact factor has advantages such as the simplicity of calculation, transparency, is a value not dependent on the amount of articles, and useful to compare journals and to monitor journal evolution. Nevertheless, it can be manipulated by authors and publishers. Impact factor is increased by augmenting the number of documents that are not source of citations, but are cited, as reviews, technical reports, consensus, etc. There are alternatives to impact factor, for example the five year impact factor, the SCImago Journal Rank, the Eigenfactor and the potential impact factor of the Spanish medical journals. Of these, the best positioned internationally is the Eigenfactor (AU)</dc:description>
+<dc:creator>Girbés Borrás, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El «factor de impacto» o «índice de impacto» es la media de las veces que, en un año determinado, fueron citados los artículos publicados por una revista en los dos años anteriores. Lo calcula el Institute for Scientifi c Information (ISI), que también proporciona otros índices como el de inmediatez, la vida media de citas recibidas y la vida media de citas incluidas. El factor de impacto ofrece ventajas como la sencillez de cálculo, la transparencia, su valor independiente de la cantidad de artículos, su utilidad como elemento de comparación y el hecho de permitir controlar la evolución de una revista. Sin embargo, puede ser manipulado por los autores y también por los editores. Infl uyen en el índice (incrementándolo) el aumento de documentos que no son fuente de citas pero que pueden ser citados; los artículos que generan más citas, como las revisiones, los informes técnicos, los consensos, etc.; también la autocita puede favorecerlo. Existen alternativas al factor de impacto, como el factor de impacto de 5 años, el SCImago Journal Rank, el Eigenfactor y el factor de impacto potencial de las revistas médicas españolas. De éstos, el mejor situado internacionalmente es el Eigenfactor (AU)</dc:description>
+<dc:source>Av. diabetol;25(5): 371-375, sept.-oct. 2009. tab</dc:source>
+<dc:identifier>ibc-73369</dc:identifier>
+<dc:title xml:lang="es">Análisis de la calidad de la literatura científica: índice de impacto</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d50088</dc:subject>
+<dc:subject>^d37673^s22066</dc:subject>
+<dc:subject>^d10697^s22066</dc:subject>
+<dc:subject>^d51780^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200910</dc:date>
+</metadata>
+</record>
+</ibecs-document>

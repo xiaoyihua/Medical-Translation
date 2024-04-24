@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-139232</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">State of the art and future trends in technology for computed tomography dose reduction</dc:title>
+<dc:description xml:lang="en">The introduction of helical and multislice acquisitions in CT scanners together with decreased image reconstruction times has had a tremendous impact on radiological practice. Technological developments in the last 10 to 12 years have enabled very high quality images to be obtained in a very short time. Improved image quality has led to an increase in the number of indications for CT. In parallel to this development, radiation exposure in patients has increased considerably. Concern about the potential health risks posed by CT imaging, reflected in diverse initiatives and actions by official organs and scientific societies, has prompted the search for ways to reduce radiation exposure in patients without compromising diagnostic efficacy. To this end, good practice guidelines have been established, special applications have been developed for scanners, and research has been undertaken to optimize the clinical use of CT. Noteworthy technical developments incorporated in scanners include the different modes of X -ray tube current modulation, automatic selection of voltage settings, selective organ protection, adaptive collimation, and iterative reconstruction. The appropriate use of these tools to reduce radiation doses requires thorough knowledge of how they work (AU)</dc:description>
+<dc:creator>R. Rodríguez González, R</dc:creator>
+<dc:creator>Hernández-Girón, I</dc:creator>
+<dc:creator>Salvadó Artells, M</dc:creator>
+<dc:creator>Calzado Cantera, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La introducción de las adquisiciones helicoidal y multicorte en los equipos de TC y la disminución de los tiempos de reconstrucción de las imágenes han tenido un impacto enorme en la práctica radiológica. El gran desarrollo tecnológico de los últimos 10-12 años ha propiciado la obtención de imágenes de alta calidad en un tiempo muy breve. Con la mejora en la calidad de las imágenes ha aumentado el número de indicaciones. En paralelo con este desarrollo se ha producido un incremento considerable de la exposición a la radiación de los pacientes. La preocupación acerca de los riesgos potenciales para la salud de los exámenes de TC, así como diversas iniciativas y acciones de organismos oficiales y sociedades científicas, constituyen un estímulo para buscar vías de reducción de la exposición a la radiación de los pacientes sin comprometer la eficacia diagnóstica. Con este fin se han establecido recomendaciones de buena práctica, se han desarrollado aplicaciones especiales en los equipos y se han llevado a cabo investigaciones para optimizar el uso clínico de la TC. Entre los desarrollos técnicos incorporados en los equipos cabe destacar los distintos modos de modulación de la intensidad de corriente del tubo, la selección automática de los valores de tensión del tubo, la protección selectiva de órganos, la colimación adaptativa y la reconstrucción iterativa. El uso adecuado de estas herramientas para reducir las dosis precisa de un buen conocimiento sobre su funcionamiento (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);55(supl.2): 9-16, dic. 2013. ilus</dc:source>
+<dc:identifier>ibc-139232</dc:identifier>
+<dc:title xml:lang="es">Estado actual y tendencia en el desarrollo tecnológico para la reducción de dosis en los equipos de tomografía computarizada</dc:title>
+<dc:subject>^d24375^s22045</dc:subject>
+<dc:subject>^d12268</dc:subject>
+<dc:subject>^d24375^s22066</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201312</dc:date>
+</metadata>
+</record>
+</ibecs-document>

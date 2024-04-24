@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-142397</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Variability in Home Mechanical Ventilation Prescription</dc:title>
+<dc:description xml:lang="en">Introduction: Few studies have analyzed the prevalence and accessibility of home mechanical ventilation (HMV). The aim of this study was to characterize the prevalence of HMV and variability in prescriptions from administrative data. Methods: Prescribing rates of HMV in the 37 healthcare sectors of the Catalan Health Service were compared from billing data from 2008 to 2011. Crude accumulated activity rates (per 100,000 population) were calculated using systematic component of variation (SCV) and empirical Bayes (EB) methods. Standardized activity ratios (SAR) were described using a map of healthcare sectors. Results: A crude rate of 23 HMV prescriptions per 100,000 population was observed. Rates increase with age and have increased by 39%. Statistics measuring variation not due to chance show a high variation in women (CSV= 0.20 and EB = 0.30) and in men (CSV= 0.21 and EB = 0.40), and were constant over time. In a multilevel Poisson model, hospitals with a chest unit were associated with a greater number of cases (beta = 0.68, P &lt; .0001). Conclusions: High variability in prescribing HMV can be explained, in part, by the attitude of professionals towards treatment and accessibility to specialist centers with a chest unit. Analysis of administrative data and variability mapping help identify unexplained variations and, in the absence of systematic records, are a feasible way of tracking treatment (AU)</dc:description>
+<dc:creator>Torrente, Elena</dc:creator>
+<dc:creator>Argimón, J</dc:creator>
+<dc:creator>Escarrabill, Joan</dc:creator>
+<dc:creator>Tresserras, Ricard</dc:creator>
+<dc:creator>Tebé, Cristian</dc:creator>
+<dc:creator>Espallargues, Mireia</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: Hay pocos estudios que hayan analizado la prevalencia y la accesibilidad a la ventilación mecánica a domicilio (VMD). El objetivo del presente estudio es describir la prevalencia de la VMD y estudiar la variabilidad a partir de datos administrativos. Métodos: Se compararon las tasas de VMD en las 37 áreas de salud a partir de los datos de facturación del Servicio Catalán de la Salud, durante el período 2008-2011. Se calcularon las tasas brutas de actividad acumulada (por 100.000 habitantes) utilizando el componente sistemático de variación (CSV) y empírico Bayes (EB). Las razones de actividad estandarizada (REA) se describieron mediante un mapa de sectores de salud. Resultados: La tasa bruta VMD fue de 23 usuarios/100.000 habitantes. Las tasas aumentan con la edad y han crecido un 39%. Los estadísticos que miden la variación no debida al azar muestran una variación elevada en mujeres (CSV = 0,20 y EB = 0,30) y en hombres (CSV = 0,21 y EB = 0,40), y constante a lo largo del tiempo. En un modelo de Poisson multinivel la existencia de un hospital con servicio de neumología se asoció con un mayor número de casos (beta = 0,68; p &lt; 0,0001). Conclusiones: La variabilidad elevada de la VMD puede explicarse, en parte, por la actitud de los profesionales hacia el tratamiento y la accesibilidad a centros que disponen de especialista de neumología. El análisis de los datos administrativos y la confección de mapas de variabilidad permiten identificar variaciones no explicadas y, en ausencia de registros sistemáticos, es una manera factible de realizar el seguimiento de un tratamiento (AU)</dc:description>
+<dc:source>Arch Bronconeumol;51(10): 490-495, oct. 2015. graf, ilus, tab</dc:source>
+<dc:identifier>ibc-142397</dc:identifier>
+<dc:title xml:lang="es">Variabilidad en la prescripción de la ventilación mecánica a domicilio</dc:title>
+<dc:subject>^d12541^s22074</dc:subject>
+<dc:subject>^d5517^s22018</dc:subject>
+<dc:subject>^d^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12541^s22048</dc:subject>
+<dc:subject>^d12541^s22018</dc:subject>
+<dc:subject>^d12541^s22039</dc:subject>
+<dc:subject>^d12541^s22045</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d^s22049</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201510</dc:date>
+</metadata>
+</record>
+</ibecs-document>

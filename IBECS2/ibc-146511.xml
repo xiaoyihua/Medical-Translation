@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-146511</identifier>
+<setSpec>0034-0618</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Functional characterization of P2Y1 and P2X4 receptors in human neuroblastoma SK-N-MC cells</dc:title>
+<dc:description xml:lang="en">Nucleotides are important signalling molecules in both the peripheral and central nervous system. However, the in vitro study of their receptors can be hampered by the heterogeneity of primary neuronal cultures. The use of clonal neuroblastoma cell lines allows to circumvent this difficulty, so these lines are often used as a model to analyze the properties, regulation and physiological role of nucleotide receptors in neural tissues. Expression studies indicated the presence of P2Y1, P2Y6, P2Y11, P2Y13, P2X1, P2X4, P2X5, P2X6 and P2X7 proteins in SK-N-MC cells. Functional analyses showed transient [Ca2+]i increases upon application of ADP, 2-MeSADP or ADP&amp;#946;S. Responses to these agonists seem to be mediated by a P2Y1 receptor, as demonstrated by the almost complete blockade exerted by the P2Y1-selective antagonist MRS2179. ATP was also able to induce [Ca2+]i increases in SK-N-MC cells. Responses to ATP were partially blocked by MRS2179 and the P2X antagonist TNP-ATP, thus suggesting that ATP can interact with two different P2 receptors: a P2Y1 receptor, inhibited by MRS2179, and a TNP-ATP sensitive P2X receptor. To characterize the P2X receptor responsible for the MRS2179-resistant component of the ATP response, we analyze the effect of several P2X agonists on [Ca2+]i. Cells did not show responses to either &amp;#945;,&amp;#946;-meATP or BzATP, although [Ca2+]i increases could be observed when cells were challenged with CTP. Both the response to CTP and the MRS2179-resistant component of ATP response were potentiated by ivermectin. Such pharmacological profile is consistent with the presence of a functional P2X4 receptor in SK-N-MC cell line (AU)</dc:description>
+<dc:creator>Gualix, Javier</dc:creator>
+<dc:creator>Recuero, María</dc:creator>
+<dc:creator>Miras Portugal, M Teresa</dc:creator>
+<dc:creator>Bullido, María Jesús</dc:creator>
+<dc:creator>Valdivieso, Fernando</dc:creator>
+<dc:creator>León Otegui, Miriam</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Los nucleótidos son importantes moléculas señalizadoras en el sistema nervioso. El estudio in vitro de sus receptores puede verse obstaculizado por la heterogeneidad de los cultivos neuronales. El uso de líneas celulares de neuroblastoma permite eludir esta dificultad y dichas líneas se utilizan frecuentemente como un modelo con el que analizar las propiedades, regulación y función de los receptores de nucleótidos en tejidos neurales. Estudios de expresión indicaron la presencia de proteínas P2Y1, P2Y6, P2Y11, P2Y13, P2X1, P2X4, P2X5, P2X6 y P2X7 en las células SK-N-MC. Análisis funcionales mostraron incrementos transitorios de [Ca2+]i tras la aplicación de ADP, 2- MeSADP o ADP&amp;#946;S, respuestas que parecen estar mediadas a través un receptor P2Y1, como se pone de manifiesto por el bloqueo casi total ejercido por el antagonista selectivo P2Y1, MRS2179. El ATP también indujo incrementos de [Ca2+]i en las células SK-N-MC, siendo su respuesta parcialmente bloqueada por MRS2179 y por el antagonista P2X TNP-ATP, lo que sugiere que el ATP puede interactuar con dos receptores P2 diferentes: un receptor P2Y1, inhibido por MRS2179, y un receptor P2X sensible a TNP-ATP. Se caracterizó el receptor P2X analizando el efecto de varios agonistas en la [Ca2+]i. Ninguna célula mostró respuestas a &amp;#945;,&amp;#946;- meATP o BzATP, aunque se observaron incrementos de [Ca2+]i cuando las células fueron estimuladas con CTP. Tanto la respuesta a CTP como el componente de la respuesta a ATP resistente a MRS2179, se potenciaron en presencia de ivermectina. Todos estos datos sugieren la presencia de un receptor P2X4 funcional en las células SK-N-MC (AU)</dc:description>
+<dc:source>An Real Acad Farm;81(3): 247-257, 2015. ilus, graf</dc:source>
+<dc:identifier>ibc-146511</dc:identifier>
+<dc:title xml:lang="es">Caracterización funcional de receptores P2Y1 y P2X4 en células SK-N-MC de neuroblastoma humano</dc:title>
+<dc:subject>^d9897^s22002</dc:subject>
+<dc:subject>^d54108^s29165</dc:subject>
+<dc:subject>^d9897^s22078</dc:subject>
+<dc:subject>^d22921^s22045</dc:subject>
+<dc:subject>^d22921^s22074</dc:subject>
+<dc:subject>^d9640^s22057</dc:subject>
+<dc:subject>^d54108^s22002</dc:subject>
+<dc:subject>^d54073^s22002</dc:subject>
+<dc:subject>^d28224^s22074</dc:subject>
+<dc:subject>^d54072^s22002</dc:subject>
+<dc:subject>^d54073^s29165</dc:subject>
+<dc:subject>^d29533^s29165</dc:subject>
+<dc:subject>^d28224^s22045</dc:subject>
+<dc:subject>^d54072^s29165</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201500</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-72895</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Optimization of the dose of radiation in shoulder arthrography</dc:title>
+<dc:description xml:lang="en">Objective: The aim of this study was to determine whether using a film with radiopaque coordinates placed over the region of interest to guide shoulder arthrography can reduce the dose of radiation received by patients. Material and methods: The entrance dose was obtained in 34 patients (mean age, 44 years; range, 15 to 75 years). The dose received by organs at risk and the effective dose were estimated with Monte Carlo techniques using the following input parameters: patient anatomy, examination geometry, and air kerma at the entrance to the patient without backscattering. Arthrography was performed with a remote controlled device and images were acquired digitally without fluoroscopy. Results: The mean thickness of the shoulders studied was 14.6±2.1cm (9&#150;20cm). Images were obtained with 80±10kVp (60&#150;85kVp) and 6.5±3.5mAs (1.4&#150;17mAs). The mean time of irradiation for each patient was 20±6ms (6.9&#150;47.9ms). The calculated air kerma was 0.41±0.19mGy and the effective dose was 0.79±0.40 &amp;#956;Sv. Conclusions: The technique described in this study has enabled us to reduce the dose of radiation received by patients undergoing shoulder arthrography in comparison with other techniques described in the literature and to ensure that the radiologist performing the procedure is not irradiated (AU)</dc:description>
+<dc:creator>Campos, P. A</dc:creator>
+<dc:creator>Reus, M</dc:creator>
+<dc:creator>Martínez, F</dc:creator>
+<dc:creator>Berná-Serna, J. D</dc:creator>
+<dc:creator>Redondo, M. V</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: El objetivo de este estudio fue reducir la dosis de radiación recibida por los pacientes sometidos a una artrografía de hombro y en los que se utiliza como sistema de guiado una placa con coordenadas radiopacas situada sobre el área de interés. Material y métodos: La dosis a la entrada se obtuvo en 34 pacientes con edades comprendidas entre 15 y 75 años, media de 44 años. La dosis a órganos de riesgo y la dosis efectiva se estimaron mediante técnicas de Monte Carlo, donde los parámetros de entrada son: anatomía del paciente, geometría de la exploración y kerma en aire a la entrada del paciente sin retrodispersión. Las artrografías se realizaron en un equipo telemando y las imágenes se obtuvieron mediante adquisición digital sin fluoroscopia. Resultados: El espesor medio de los hombros estudiados fue 14,6±2,1 cm (9-20 cm). Las imágenes se obtuvieron con 80±10kVp (60-85kVp) y 6,5±3,5 mAs (1,4-17 mAs). El tiempo medio de irradiación para cada paciente fue 20 ± 6ms (6,9-47,9ms). El kerma en aire calculado fue de 0,41 ± 0,19 mGy y la dosis efectiva de 0,79 ± 0,40 &amp;#956; Sv. Conclusiones: La técnica descrita en este trabajo ha permitido reducir la dosis de radiación al paciente respecto a otros procedimientos descritos en la bibliografía y que el radiólogo que realiza la artrografía no se irradie durante el procedimiento (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);51(3): 282-286, mayo 2009. ilus, tab</dc:source>
+<dc:identifier>ibc-72895</dc:identifier>
+<dc:title xml:lang="es">Optimización de las dosis de radiación en la artrografía de hombro</dc:title>
+<dc:subject>^d13163^s29166</dc:subject>
+<dc:subject>^d23228^s22039</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23248^s22074</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d12311^s22045</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d23228^s22074</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d23228^s22083</dc:subject>
+<dc:subject>^d13163^s22053</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d23228^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200905</dc:date>
+</metadata>
+</record>
+</ibecs-document>

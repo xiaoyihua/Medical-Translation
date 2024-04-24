@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-115662</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Influence of genetic polymorphisms in UGT1A1, UGT1A7 and UGT1A9 on the pharmacokynetics of irinotecan, SN-38 and SN-38G</dc:title>
+<dc:description xml:lang="en">Objective: To evaluate the Influence of genetic polymorphism in UGT1A1, UGT1A7 and UGT1A9 on the population pharmacokinetics of irinotecan and its metabolites, SN-38 and SN-38G. Methods: Plasma concentrations of irinotecan, SN-38 and SN-38G from 72 patients were pooled to develop a population pharmacokinetic model using NONMEM VII. M3 method was used to account for plasma concentrations below the limit quantification. The effect of age, sex, body surface area, total bilirubin, comedication, tumor type, and UGT1A1, UGT1A7 and UGT1A9 genotypes on the model parameters was evaluated. The model was internally validated using normalized visual predictive check (NVPC) and normalized predictive distribution errors (NPDE). Results: The typical values (between-subject variability; %) of the irinotecan, SN-38 and SN-38G clearances were 42,9 L/h (56,4%), 1340 L/h (76,8%) and 188 L/h (70,1%), respectively. The presence of UGT1A1*28, UGT1A7*3, UGT1A9*22 genotypes decreases SN-38 clearance between 20 and 36%. Internal validation confirms the population pharmacokinetic model describe the time course of irinotecan, SN-38 and SN-38G plasma concentration and their associated variability in cancer patients. Conclusion: The inclusion of pharmacokinetic-pharmacogenomic information can add value to the individualized dose adjustment of irinotecan, because it will let quantitatively handle dose reductions in patients with iatrogenic toxicity due to UGTIAVs genetic polymorphisms (AU)</dc:description>
+<dc:creator>González Manzano, R</dc:creator>
+<dc:creator>Escudero Ortiz, V</dc:creator>
+<dc:creator>González Sales, M</dc:creator>
+<dc:creator>Pérez Ruixo, C</dc:creator>
+<dc:creator>Martínez Navarro, E</dc:creator>
+<dc:creator>Rebollo Liceaga, J</dc:creator>
+<dc:creator>Valenzuela Jiménez, B</dc:creator>
+<dc:creator>Pérez Ruixo, J. J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Evaluar la influencia de los polimorfismos genéticos en UGT1A1, UGT1A7 y UGT1A9 sobre la farmacocinética poblacional de irinotecán y sus metabolitos, SN-38 y SN-38G. Metodología: Las concentraciones plasmáticas de irinotecán, SN-38 y SN-38G determinadas en 72 pacientes se utilizaron para desarrollar un modelo farmacocinético poblacional en el programa NONMEM VII. Se empleó el método M3 para incluir en el análisis las concentraciones por debajo del límite de cuantificación de la técnica analítica. Se evaluó el efecto de la edad, sexo, superficie corporal, bilirrubina total, medicación concomitante, tipo de tumor y polimorfismos genéticos en UGT1A1, UGT1A7 y UGT1A9 sobre los parámetros farmacocineticos del modelo. La validación interna del modelo farmacocinético se realizó mediante normalized visual predictive check(NVPC) y normalized predictive distribution error (NPDE). Resultados: El valor medio (variabilidad interpaciente, %) del aclaramiento de irinotecán, SN-38 y SN-38G ha sido 42,9 (56,4%), 1340 (76,8%) y 188 L/h (70,1%), respectivamente. La presencia de alelos con baja actividad enzimática (UGT1A1*28, UGT1A7*3 y UGT1A9*22) redujo el aclaramiento de SN-38 entre un 20 y un 36%. La validación interna ha confirmado que el modelo farmacocinético poblacional resulta adecuado para describir la evolución temporal de las concentraciones plasmáticas de irinotecán, SN-38 y SN-38G y su variabilidad en pacientes oncológicos. Conclusión: La inclusión de información farmacocinética-farmacogenética puede añadir valor a la personalización de la dosificación de irinotecán por cuanto que permitirá manejar cuantitativamente las reducciones de dosis en pacientes con toxicidad iatrogénica debido a los polimorfismos genéticos en UGT1A1 (AU)</dc:description>
+<dc:source>Farm Hosp;37(2): 111-127, mar.-abr. 2013. ilus, tab</dc:source>
+<dc:identifier>ibc-115662</dc:identifier>
+<dc:title xml:lang="es">Influencia de los polimorfismos genéticos enUGT1A1, UGT1A7 y UGT1A9 sobre la farmacocinética de irinotecán, SN-38 y SN-38G</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d^s22033</dc:subject>
+<dc:subject>^d11547</dc:subject>
+<dc:subject>^d54136^s22079</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d54727^s22045</dc:subject>
+<dc:subject>^d24411^s22021</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201304</dc:date>
+</metadata>
+</record>
+</ibecs-document>

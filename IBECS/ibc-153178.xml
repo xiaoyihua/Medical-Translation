@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-153178</identifier>
+<setSpec>0212-1611</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Serum betatrophin level increased in subjects with metabolic syndrome: a case-control study</dc:title>
+<dc:description xml:lang="en">Background: Betatrophin is a novel adipokine that provokes pancreatic &amp;#946;-cell proliferation and is involved in lipid metabolism. Aims: This study aims to evaluate the role of serum betatrophin in metabolic syndrome (MetS). Methods: A hospital-based, age-/gender-matched case control study was conducted. The serum betatrophin level was evaluated by enzymelinked immunosorbent assay. Serum concentrations of 12 adipokines were measured to assess their associations with serum betatrophin, using commercial Adipokine Magnetic Bead Panel kits. Statistical analyses included bivariate correlation, receiver operating characteristic (ROC) curve, and multivariate stepwise linear regression. Results: Serum betatrophin showed a higher level in MetS patients (997.36 ± 475.92 pg/ml, p = 0.001) compared with controls (735.35 ± 526.51 pg/ml). Compared with the lowest tertile, the highest tertile of serum betatrophin level indicated an association with higher risk of MetS (adjusted odds ratio = 3.521, 95% confidence interval [CI] [1.191-10.413], p = 0.023). ROC curve of betatrophin was developed to predict the presence of MetS (area under ROC = 0.682 [95% CI, 0.597-0.767], p &lt; 0.001). Furthermore, betatrophin correlated with several parameters, e.g. age (r = 0.286, p &lt; 0.001), body mass index (r = 0.160, p = 0.046), waist-to-hip ratio (r = 0.241, p = 0.002), high-density lipoprotein cholesterol (r = -0.167, p = 0.037), low-density lipoprotein cholesterol (r = -0.195, p = 0.015), fasting plasma glucose (r = 0.266, p = 0.001), hemoglobin A1C (r = 0.314, p &lt; 0.001), homeostasis model assessment of insulin resistance (r = 0.272, p = 0.001), and various adipokines, e.g. resistin (r = 0.571, p &lt; 0.001), interleukin-8 (r = 0.435, p &lt; 0.001), tumor necrosis factor-&amp;#945; (r = 0.295, p = 0.011) and lipocalin-2 (r = 0.346, p = 0.003). Conclusions: This study supports that serum betatrophin plays an important role in MetS, involving the regulations of glucose and lipid metabolism and inflammation (AU)</dc:description>
+<dc:creator>Zhu, Jin-Zhou</dc:creator>
+<dc:creator>Zhu, Hua-Tuo</dc:creator>
+<dc:creator>Yu, Chao-Hui</dc:creator>
+<dc:creator>Dai, Yi-Ning</dc:creator>
+<dc:creator>Wan, Xing-Yong</dc:creator>
+<dc:creator>Li, Chun-Xiao</dc:creator>
+<dc:creator>Zhao, De-Jian</dc:creator>
+<dc:creator>Fang, Zhi-Yun</dc:creator>
+<dc:creator>Li, You-Ming</dc:creator>
+<dc:creator>Wang, Yu-Ming</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Introducción: la betatrofina es una novedosa adipoquina que provoca la proliferación de células &amp;#946; pancreáticas e interviene en el metabolismo de los lípidos. Objetivos: el propósito de este estudio es evaluar el papel de la betatrofina en el síndrome metabólico. Método: se llevó a cabo un estudio hospitalario de casos y controles según sexo y edad. El nivel de betatrofina en suero fue evaluado mediante ensayo por inmunoabsorción ligado a enzimas. Se midieron las concentraciones en suero de 12 adipoquinas para evaluar las asociaciones con la betatrofina usando los kits comerciales Adipokine Magnetic Bead Panel. Los análisis estadísticos incluyeron correlación bivariada, análisis de curva ROC y análisis de regresión lineal multivariable. Resultados: el nivel de betatrofina en suero fue más elevado en pacientes con síndrome metabólico (997,36 ± 475,92 pg/ml, p = 0,001) que en los controles (735,35 ± 526,51 pg/ml). Frente al tercil más bajo, el tercil más alto del nivel de betatrofina mostró una asociación con mayor riesgo de síndrome metabólico (odds ratio ajustado = 3,521, intervalo de confianza [IC] 95% [1,191-10,413], p = 0,023). Se desarrolló la curva ROC de betatrofina para pronosticar la presencia de síndrome metabólico (área bajo la curva ROC = 0,682 [95% IC, 0,597-0,767], p &lt; 0,001). Además, la betatrofina mostró correlación con distintos parámetros, como edad (r = 0,286, p &lt; 0,001), índice de masa corporal (r = 0,160, p = 0,046), índice cintura-cadera (r = 0,241, p = 0,002), lipoproteína de alta densidad (r = -0,167, p = 0,037), lipoproteína de baja densidad (r = -0,195, p = 0,015), glucosa plasmática en ayunas (r = 0,266, p = 0,001), hemoglobina A1C (r = 0,314, p &lt; 0,001), índice de resistencia a la insulina mediante HOMA (r = 0,272, p = 0,001) y diversas adipoquinas, entre ellas resistina (r = 0,571, p &lt; 0,001), interleucina-8 (r = 0,435, p &lt; 0,001), factor de necrosis tumoral alfa (r = 0,295, p = 0,011) y lipocalina-2 (r = 0,346, p = 0,003). Conclusiones: este estudio demuestra que la betatrofina en suero desempeña una importante labor en el síndrome metabólico, implicando la regulación del metabolismo de la glucosa y los lípidos y la inflamación (AU)</dc:description>
+<dc:source>Nutr Hosp;33(2): 303-309, mar.-abr. 2016. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-153178</dc:identifier>
+<dc:title xml:lang="es">Aumento del nivel de betatrofina en suero en sujetos con síndrome metabólico: estudio de casos y controles</dc:title>
+<dc:subject>^d23568^s22062</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24551</dc:subject>
+<dc:subject>^d38237^s22002</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d36032^s22032</dc:subject>
+<dc:subject>^d7426^s22032</dc:subject>
+<dc:subject>^d6091^s22044</dc:subject>
+<dc:subject>^d52657^s22062</dc:subject>
+<dc:subject>^d32175^s22002</dc:subject>
+<dc:subject>^d51243</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201604</dc:date>
+</metadata>
+</record>
+</ibecs-document>

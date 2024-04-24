@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-2620</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Variations in medical practice. A propos of use of computerized axial tomography and nuclear magnetic resonance in the Spanish National Health System</dc:title>
+<dc:creator>Caicoya, M</dc:creator>
+<dc:creator>Natal, C</dc:creator>
+<dc:creator>Moral, L</dc:creator>
+<dc:creator>Alonso, P</dc:creator>
+<dc:creator>Alonso, M</dc:creator>
+<dc:creator>Sánchez, L. M</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Determinar la variabilidad de la utilización de tomografía axial computarizada (TAC) y resonancia nuclear magnética (RNM) entre hospitales y provincias en 1996 en el ámbito INSALUD, y evaluar la contribución de la disponibilidad de recursos, tanto humanos como materiales, a la variabilidad observada. Métodos: Los recursos, la utilización y la población asignada se obtuvieron del Sistema de Información de Atención Especializada (SIAE) del INSALUD. Las unidades de análisis fueron los hospitales y las provincias del territorio gestionado por el INSALUD. Las variables independientes analizadas fueron el número de equipos de TAC y RNM, el número de médicos de diversas especialidades, la lista de espera para estas tecnologías, y el nivel económico de la provincia. Para el análisis estadístico se utilizó la razón de variación entre las tasas de utilización y la regresión múltiple. Resultados: La relación de la mayor a la menor tasa de utilización de TAC y RNM es de 15 y 27 entre hospitales, y de 3 y 4 entre provincias, respectivamente. El número de neurocirujanos, el número de equipos TAC, la lista de espera para TAC y la tasa de utilización de RNM, todo ello por habitante, explican el 61 por ciento de la variabilidad para TAC por hospitales. Por provincias, el número de equipos TAC explica el 31 por ciento de esta variabilidad. Para la utilización de RNM por hospitales, el número de neurocirujanos, de traumatólogos y la tasa de utilización de TAC, todo ello por habitante, explica el 42 por ciento de la variabilidad. Los recursos disponibles no están asociados a la variabilidad en la utilización de RNM, por provincias. Conclusiones: La variabilidad encontrada en el territorio INSALUD para el uso de RNM y TAC por hospitales es alta y está ecológicamente asociada a la disponibilidad de recursos. Convendría confirmar estos hallazgos con estudios observacionales en los que también se evalúe la posible aportación del uso inadecuado a esta variabilidad (AU)</dc:description>
+<dc:source>Gac Sanit;14(6): 435-441, nov.-dic.  2000.</dc:source>
+<dc:identifier>ibc-2620</dc:identifier>
+<dc:title xml:lang="es">La variabilidad de la práctica médica. A propósito de la utilización de TAC y RNM en el territorio Insalud</dc:title>
+<dc:subject>^d22935</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d6446</dc:subject>
+<dc:subject>^d33118</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:subject>^d28905</dc:subject>
+<dc:subject>^d8671</dc:subject>
+<dc:subject>^d24375</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200012</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-141230</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Patient safety in primary care: PREFASEG project</dc:title>
+<dc:description xml:lang="en">The Institut Català de la Salut (ICS) has designed and integrated in electronic clinical station of primary care a new software tool to support the prescription of drugs, which can detect on-line certain medication errors. The software called PREFASEG (stands for Secure drug prescriptions) aims to prevent adverse events related to medication use in the field of primary health care (PHC). This study was made on the computerized medical record called CPT, which is used by all PHC physicians in our institution &#151;3,750&#151; and prescribing physicians through it. PREFASEG integrated in eCAP in July 2010 and six months later we performed a cross-sectional study to evaluate their usefulness and refine their design. The software alerts on-line in 5 dimensions: drug interactions, redundant treatments, allergies, contraindications of drugs with disease, and advises against drugs in over 75 years. PREFASEG generated 1,162,765 alerts (1 per 10 high treatment), with the detection of therapeutic duplication (62%) the most alerted. The overall acceptance rate is 35%, redundancies pharmacological (43%) and allergies (26%) are the most accepted. A total of 10,808 professionals (doctors and nurses) have accepted some of the recommendations of the program. PREFASEG is a feasible and highly efficient strategy to achieve an objective of Quality Plan for the NHS (AU)</dc:description>
+<dc:creator>Baena, José Miguel</dc:creator>
+<dc:creator>Amado, Ester</dc:creator>
+<dc:creator>Catalán, Arantxa</dc:creator>
+<dc:creator>Morales, Vicente</dc:creator>
+<dc:creator>Borrell, Francesc</dc:creator>
+<dc:creator>Pons, Àngels</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El Institut Català de la Salut (ICS) ha diseñado e integrado en la estación clínica y electrónica de trabajo de los profesionales de atención primaria una nueva herramienta informática de soporte a la prescripción de medicamentos, que permite detectar online determinados errores de medicación. El softwaredenominado PREFASEG (siglas de PREscripción FArmacológica SEGura) tiene como objetivo prevenir los acontecimientos adversos ligados al uso de medicamentos en el ámbito de la atención primaria de salud (APS). El presente estudio se realizó sobre la historia clínica informatizada llamada eCAP, que se utiliza por la totalidad de los médicos de APS de nuestra institución &#151;3.750 médicos&#151; y que prescriben a través de ella. PREFASEG se integró en eCAP en julio de 2010 y 6 meses después se ha realizado un estudio observacional transversal para evaluar su utilidad y perfeccionar su diseño. El software alerta online de 5 dimensiones: interacciones medicamentosas, tratamientos redundantes, alergias, contraindicaciones de fármacos con enfermedades y fármacos desaconsejados en mayores de 75 años. PREFASEG ha generado 1.162.765 alertas (1 por cada 10 altas de tratamiento), siendo la detección de duplicidades terapéuticas (62%) la más alertada. El porcentaje de aceptación general es del 35%, las redundancias farmacológicas (43%) y las alergias (26%) son las más aceptadas. Un total de 10.808 profesionales de APS (médicos y enfermeras) han aceptado alguna de las recomendaciones del programa. PREFASEG supone una estrategia factible y altamente eficiente para lograr uno de los objetivos del Plan de Calidad para el Sistema Nacional de Salud (AU)</dc:description>
+<dc:source>Med. clín (Ed. impr.);143(supl.1): 32-35, jul. 2014. ilus, tab</dc:source>
+<dc:identifier>ibc-141230</dc:identifier>
+<dc:title xml:lang="es">Seguridad del paciente en atención primaria: proyecto PREFASEG (PREscripción FArmacológica SEGura)</dc:title>
+<dc:subject>^d9508^s22049</dc:subject>
+<dc:subject>^d4408^s22049</dc:subject>
+<dc:subject>^d54857</dc:subject>
+<dc:subject>^d11756</dc:subject>
+<dc:subject>^d33121^s22054</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23897</dc:subject>
+<dc:subject>^d23106^s28898</dc:subject>
+<dc:subject>^d4404</dc:subject>
+<dc:subject>^d4409</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:subject>^d11252^s22056</dc:subject>
+<dc:subject>^d19402</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d10797^s22049</dc:subject>
+<dc:subject>^d23802</dc:subject>
+<dc:subject>^d29040</dc:subject>
+<dc:subject>^d11742</dc:subject>
+<dc:subject>^d51275</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201407</dc:date>
+</metadata>
+</record>
+</ibecs-document>

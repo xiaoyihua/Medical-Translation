@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-28338</identifier>
+<setSpec>0210-5020</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Vamp device</dc:title>
+<dc:creator>Granero Lázaro, Alberto</dc:creator>
+<dc:creator>García Morón, Nuria</dc:creator>
+<dc:creator>Fernández Moreno, Inmaculada</dc:creator>
+<dc:creator>Chacón Jordán, Encarnación</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Rol</dc:publisher>
+<dc:description xml:lang="es">La obtención de muestras de sangre a través de dispositivos intravasculares convencionales, requiere desechar un volumen inicial de mezcla de sangre y suero, que representa entre un 24-26 por ciento del volumen de sangre extraído al paciente ingresado en U.C.I. Actualmente existe un dispositivo con reservorio (VAMP) que permite obtener la muestra sin desechar este volumen inicial.La hipótesis de trabajo plantea que el uso del dispositivo VAMP disminuye el riesgo de transfusión. El diseño del estudio es prospectivo randomizado. Los sujetos de estudio son 58 pacientes ingresados en la U.C.I. de la Corporació Parc Taulí (C.P.T.), distribuidos en grupo control (portador de dispositivo convencional) y grupo VAMP (portador de dispositivo con reservorio). Se ha utilizado como instrumento una hoja de recogida de datos. Los cálculos estadísticos se han realizado con el programa SPSS (AU)</dc:description>
+<dc:source>Rev Enferm;26(9): 591-594, sept. 2003.</dc:source>
+<dc:identifier>ibc-28338</dc:identifier>
+<dc:title xml:lang="es">Dispositivo vamp</dc:title>
+<dc:subject>^d3439^s22045</dc:subject>
+<dc:subject>^d29623</dc:subject>
+<dc:subject>^d32787^s22049</dc:subject>
+<dc:subject>^d28219</dc:subject>
+<dc:subject>^d25987</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d32787^s22074</dc:subject>
+<dc:subject>^d4943</dc:subject>
+<dc:subject>^d32299^s22045</dc:subject>
+<dc:subject>^d28597^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200309</dc:date>
+</metadata>
+</record>
+</ibecs-document>

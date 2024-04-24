@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-134603</identifier>
+<setSpec>2253-654X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">A novel, fully automated, observer-independent program for semiquantifying striatal 123I-FP-CIT uptake</dc:title>
+<dc:description xml:lang="en">Objective: To describe and validate a novel, fully automated program specifically designed for the semi- quantification of striatal 123I-FP-CIT uptake using volumes of interest (VOI) analysis. Material and methods: The proposed algorithm is based on a template that mimics the striatal 123 I-FP-CIT uptake in a healthy subjects, derived from defined anatomical VOIs available from WFU PickAtlas. Four SPECT studies of the anthropomorphic Alderson phantom filled with variable radioactive concentrations were acquired for the experimental validation. Experimental SPECT images were spatially normalized with respect to the previously created template. The binary VOIs corresponding to left caudate and puta- men and right caudate and putamen, which were used to construct the template, were projected onto the experimental images to obtain the counts for these regions. To minimize the partial volume effect, a percentage of the voxels in these regions (threshold), rather than all of them, was used. A binary occipital VOI was used to quantify the non-specific uptake. Experimental binding potentials (BPs) were calculated from the counts in these regions. True BPs were calculated from aliquots taken from the solutions used to fill the phantom. Results: There were statistically significant differences in the experimental BP values (p &lt; 0.002) accord- ing to the percentage of voxels used. A highly significant correlation was achieved between true and experimental BP values, regardless of the percentage of voxels included for quantification. Conclusions: Our novel, observer-independent program automatically performs the semiquantification of striatal 123I-FP-CIT uptake in experimental studies (AU)</dc:description>
+<dc:creator>Montes, C</dc:creator>
+<dc:creator>García-Talavera, JR</dc:creator>
+<dc:creator>Tamayo, P</dc:creator>
+<dc:creator>Perez, ME</dc:creator>
+<dc:creator>Martin, E</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objetivos: Describir y validar un nuevo software, totalmente automático, específicamente diseñado para semicuantificar la captación estriatal de 123I-FP-CIT usando volúmenes de interés (VOIs). Material y métodos: El algoritmo propuesto se basa en una plantilla que remeda la captación estriatal de 123I-FP-CIT en un sujeto sano, obtenida a partir de VOIs anatómicos definidos en WFU PickAtlas. Para la validación experimental de este algoritmo se adquirieron 4 estudios SPECT del maniquí antropomórfico Alderson llenado con concentraciones radioactivas variables. Las imágenes SPECT experimentales se normalizaron espacialmente respecto a la plantilla creada. Los VOIs binarios correspondientes a núcleo caudado y putámen derechos e izquierdos, utilizados para disen &amp;#771;ar la plantilla, se proyectaron sobre las imágenes experimentales para obtener las cuentas en estas regiones. Para minimizar los efectos de volumen parcial se utilizó un porcentaje de vóxeles, en vez de utilizar todos los vóxeles contenidos en estos VOIs. Se ha utilizado un VOI binario situado en región occipital para cuantificar la unión no específica. Los potenciales de unión (BPs) experimentales se calcularon a partir de las cuentas obtenidas en estas regiones. Los BPs reales se calcularon a partir de alícuotas tomadas de las soluciones utilizadas para llenar el maniquí. Resultados: Hubo diferencias estadísticamente significativas en los BPs experimentales en función del porcentaje de vóxeles utilizados para la cuantificación (p &lt; 0.002). Se alcanzó una alta correlación entre los BPs reales y los experimentales, independientemente del porcentaje de vóxeles utilizados para la cuantificación. Conclusiones: Este nuevo programa automático e independiente del observador realiza la semicuantificación de la captación estriatal de 123I-FP-CIT en estudios experimentales (AU)</dc:description>
+<dc:source>Rev. esp. med. nucl. imagen mol. (Ed. impr.);34(2): 89-94, mar.-abr. 2015. tab, ilus, graf</dc:source>
+<dc:identifier>ibc-134603</dc:identifier>
+<dc:title xml:lang="es">Un nuevo programa, totalmente automático e independiente del observador para semi-cuantificar la captación estriatal de 123I-FP-CIT</dc:title>
+<dc:subject>^d24895^s22045</dc:subject>
+<dc:subject>^d12135^s22071</dc:subject>
+<dc:subject>^d1501^s22071</dc:subject>
+<dc:subject>^d32651^s22074</dc:subject>
+<dc:subject>^d33789</dc:subject>
+<dc:subject>^d55451</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d35256</dc:subject>
+<dc:subject>^d2460^s22071</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201504</dc:date>
+</metadata>
+</record>
+</ibecs-document>

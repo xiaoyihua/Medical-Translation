@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-33883</identifier>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cost-efectiveness of ibersartan in type ii diabetic nephropathy with hypertension. A spanish perspective</dc:title>
+<dc:creator>Álvaro, F. de</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Grupo Aula Médica, S.A.</dc:publisher>
+<dc:description xml:lang="es">Introducción: En el estudio IDNT (Irbesartan in Diabetic Nephropathy), el tratamiento con irbesartan demostró reducciones del 23 por ciento y del 20 por ciento frente a amlodipino y al grupo control respectivamente, en la variable de evaluación compuesta de duplicación de creatinina sérica (DCS), enfermedad renal terminal (ERT) o muerte, en pacientes hipertensos con nefropatía diabética tipo 2. Para proyectar las consecuencias económicas a largo plazo derivadas de este beneficio clínico, se desarrolló un modelo de simulación basado en el estudio IDNT que posteriormente fue adaptado para España. Material y Métodos: Utilizando un modelo de Markov, se simuló la progresión desde nefropatía hasta DSC, ERT y muerte en pacientes hipertensos con diabetes tipo 2 y nefropatía declarada. Las diferentes probabilidades de progresión asociadas a cada tratamiento se derivaron del estudio IDNT, mientras que los datos referidos a la evolución de la ERT, específicos para España, se tomaron de la literatura existente. El retraso de la evolución a ERT, las expectativas de vida y los costes medios se calcularon para pacientes con una edad basal de 59 años. Los costes futuros se descontaron a una tasa del 6 por ciento al año y se realizaron extensos análisis de sensibilidad. Conclusiones: El uso de irbesartan retrasó la evolución de la ERT en 1,41 y 1,35 años comparado con amlodipino y con la rama control respectivamente. Cuando se consideró un horizonte temporal de 25 años (toda la vida), éste retraso motivó mejorías en las expectativas de vida de los pacientes de 0,46 años comparado con amlodipino y 0,75 años comparado con el grupo control. Irbesartan se asoció a ahorros de costes de 13.673&#128; y 7.632&#128;/paciente comparado con amlodipino y el grupo control respectivamente. El desglose de costes por paciente reveló que el coste de irbesartan y amlodipino supuso el 2-5 por ciento de los costes totales considerados en este análisis, mientras que los costes derivados de la ERT suponían el 91-97 por ciento. El ahorro económico con irbesartan, debido mayormente al retraso en la progresión a ERT, se observó ya al tercer año de tratamiento, consiguiéndose el 80 por ciento de los ahorros durante los 9-11 primeros años. En conclusión, el tratamiento con irbesartan de pacientes hipertensos con nefropatía diabética tipo 2, es beneficioso en términos tanto de ahorro económico como de años de vida ganados (AU)</dc:description>
+<dc:source>Nefrologia;24(3): 231-238, mayo 2004.</dc:source>
+<dc:identifier>ibc-33883</dc:identifier>
+<dc:title xml:lang="es">Coste-efectividad de irbesartan en pacientes hipertensos con nefropatía diabética tipo II: una perspectiva española</dc:title>
+<dc:subject>^d14156</dc:subject>
+<dc:subject>^d30313</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d962</dc:subject>
+<dc:subject>^d3951</dc:subject>
+<dc:subject>^d28629</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29770</dc:subject>
+<dc:subject>^d32142</dc:subject>
+<dc:subject>^d3946</dc:subject>
+<dc:subject>^d1737</dc:subject>
+<dc:subject>^d7152</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200405</dc:date>
+</metadata>
+</record>
+</ibecs-document>

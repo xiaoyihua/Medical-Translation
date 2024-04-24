@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-134586</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Alternative splicing regulation: Implications in cancer diagnosis and treatment</dc:title>
+<dc:description xml:lang="en">The accurate expression of the genetic information is regulated by processes like mRNA splicing, proposed after the discoveries of Phil Sharp and Richard Roberts, who demonstrated the existence of intronic sequences, present in almost every structural eukaryotic gene, which should be precisely removed. This intron removal is called &#147;splicing&#148;, which generates different proteins from a single mRNA, with different or even antagonistic functions. We currently know that alternative splicing is the most important source of protein diversity, given that 70% of the human genes undergo splicing and that mutations causing defects in this process could originate up to 50% of genetic diseases, including cancer. When these defects occur in genes involved in cell adhesion, proliferation and cell cycle regulation, there is an impact on cancer progression, rising the opportunity to diagnose and treat some types of cancer according to a particular splicing profile (AU)</dc:description>
+<dc:creator>Martínez-Montiel, Nancy</dc:creator>
+<dc:creator>Rosas-Murrieta, Nora</dc:creator>
+<dc:creator>Martínez-Contreras, Rebeca</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La expresión de la información genética es regulada por procesos como el splicing del ARN mensajero, mecanismo propuesto por Phil Sharp y Richard Roberts, quienes demostraron la existencia de secuencias intrónicas, las cuales interrumpen a la mayoría de los genes estructurales en eucariotes y deben ser removidas con gran precisión. Dicha remoción de intrones se denomina splicing, y permite generar variantes proteicas a partir de un solo gen, cada una con funciones diversas y, a menudo, antagónicas. Actualmente se sabe que el splicing es la principal fuente de diversidad proteica, ya que el 70% de los genes humanos lo sufren, y defectos en este proceso originan hasta el 50% de las enfermedades genéticas, incluido el cáncer. Cuando estos defectos se presentan en genes involucrados en adhesión, proliferación y ciclo celular, repercuten en la progresión de procesos cancerosos cuyo diagnóstico, tratamiento y prognosis puede determinarse en base a su perfil de splicing (AU)</dc:description>
+<dc:source>Med. clín (Ed. impr.);144(7): 317-323, abr. 2015. tab</dc:source>
+<dc:identifier>ibc-134586</dc:identifier>
+<dc:title xml:lang="es">Regulación del splicing alternativo: Implicaciones en el diagnóstico y tratamiento del cáncer</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d51267</dc:subject>
+<dc:subject>^d27820</dc:subject>
+<dc:subject>^d30498</dc:subject>
+<dc:subject>^d9562^s22067</dc:subject>
+<dc:subject>^d9562^s22016</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201504</dc:date>
+</metadata>
+</record>
+</ibecs-document>

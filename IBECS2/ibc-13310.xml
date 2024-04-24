@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-13310</identifier>
+<setSpec>1575-0922</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">New therapies in diabetes mellitus</dc:title>
+<dc:creator>Faure Nogueras, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">La diabetes tipo 2 es una enfermedad heterogénea en la que se asocia la resistencia a la insulina y el déficit relativo y posteriormente absoluto de insulina. Recientemente se han descrito una serie de fármacos capaces de disminuir la glicemia posprandial de los pacientes diabéticos así como disminuir las concentraciones de HbA1c y mejorar el control metabólico. La repaglinida y la nateglinida actúan aumentando la secreción de insulina. Entre las tiazolidenedionas se han utilizado la toglitazona, la rosiglitazona y la pioglitazona. Su mecanismo de acción es estimulando los receptores de la PPAR- y activando la entrada de glucosa. La experiencia sobre estos fármacos es limitada. Parece que la pioglitazona y la rosiglitazona tienen menos efectos secundarios que los descritos para la toglitazona (hepatotoxicidad). Dichos fármacos pueden utilizarse en combinación con la insulina o con la metformina (AU)</dc:description>
+<dc:source>Endocrinol Nutr;48(6): 174-176, jun. 2001. tab</dc:source>
+<dc:identifier>ibc-13310</dc:identifier>
+<dc:title xml:lang="es">Nuevos tratamientos en la diabetes mellitus</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d3946^s22057</dc:subject>
+<dc:subject>^d33167^s22021</dc:subject>
+<dc:subject>^d7182^s22078</dc:subject>
+<dc:subject>^d8862^s22073</dc:subject>
+<dc:subject>^d7500^s22073</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200106</dc:date>
+</metadata>
+</record>
+</ibecs-document>

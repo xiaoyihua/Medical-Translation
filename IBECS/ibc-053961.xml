@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-053961</identifier>
+<setSpec>0212-7199</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Usefulness of MBDS in detection of adverse drug events</dc:title>
+<dc:description xml:lang="en">Objective: To analyze the incidence of adverse drug events (ADE) as noted in hospital discharge reports, as well as their potential avoidability, drugs involved, clinical symptoms and the type of medication errors that led to the preventable ADE.                 Material and methods: A retrospective study for the January- December 2005 period of time, at a district hospital. ADE were detected in which patients with discharge reports including event codes as defined by the IDC-9-CM system, using the minimum basic data set (MBDS).                 Results: ADEs were detected in 4.01% of all discharge reports in the study period (n = 160). 45% of ADEs were were detected at the Emergency Department (n = 72) and 55% (n = 88) were detected during hospitalization.                 62.3% of ADEs were considered potentially avoidable (n = 109). 38.1% of ADEs were serious, 40.0% moderate and 21.9% mild. Drugs most commonly involved in the ADEs sample studied included: antimicrobials (24.0%), systemic corticoids (15.4%), NSAIDs (11.4%), diuretics (10.3%), digoxin (9.1%), insulin and oral hypoglycaemic agents (5.7%), anticoagulants and heparin (5.7%). Inadequate therapy monitoring (47.7%), excessive dosage (28.5%), drug-drug interactions (10.1%) were the most common identified type of errors leading to preventable ADE.                 Conclusions: 3.2% of admissions was caused by ADEs. 2.2% of hospitalized patients experienced ADEs. 62% of ADEs were potentially preventable. A high proportion of preventable ADEs were around a small number of drugs. Effective safety practices directed to reduce the incidence of medication errors are needed</dc:description>
+<dc:creator>Alfaro Alfaro, M. J</dc:creator>
+<dc:creator>Sanjuán Portugal, F. J</dc:creator>
+<dc:creator>Sánchez Muñoz, L. A</dc:creator>
+<dc:creator>Naya Manchado, J</dc:creator>
+<dc:creator>Castiella Herrero, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Analizar la incidencia de los acontecimientos adversos a medicamentos (AAM) notificados en el informe de alta hospitalaria, valorar su evitabilidad y describir los fármacos implicados, las manifestaciones clínicas y los tipos de errores asociados a los AAM prevenibles.                 Material y método: Estudio retrospectivo del Conjunto Mínimo Básico de Datos (CMBD) del periodo enero-diciembre de 2005 en todos los servicios asistenciales de un hospital de ámbito comarcal, centrado en los pacientes en cuyo informe de alta se incluían los códigos asociados a efectos adversos por medicamentos según la Clasificación Internacional de Enfermedades (CIE-9-MC)                 Resultados: Se detectan AAM en un 4,01% de las altas codificadas en el período de estudio (n = 160). 45% de los AAM (n = 72) causados por el uso extrahospitalario de fármacos y 55% (n = 88) durante la hospitalización. El 62,3% de los AAM eran prevenibles (n = 109). El 38,1% de los AAM fueron graves, 40,0% moderados y 21,9% leves. Los fármacos más frecuentemente implicados en AAM fueron: antiinfecciosos 24,0%, glucocorticoides sistémicos 15,4%, AINEs y otros analgésicos 11,4%, diuréticos 10,3%, digoxina 9,1%, insulina y antidiabéticos orales 5,7%, anticoagulante orales y heparina 5,7%. Las causas que motivaban su aparición fueron la falta de seguimiento (47,7%), dosis elevada (28,5%), e interacción medicamentosa (10,1%)                 Conclusiones: Un 3,2% de los ingresos urgentes estaba motivado por AAM. Un 2,2% de los pacientes hospitalizados presentó AAM. Un 62% de AAM era prevenible. Un alto grado de AAM prevenibles se centran en un número reducido de fármacos. Es necesario implantar prácticas efectivas de seguridad para reducir los errores de medicación</dc:description>
+<dc:source>An Med Interna;24(3): 113-119, mar. 2007. ilus, tab</dc:source>
+<dc:identifier>ibc-053961</dc:identifier>
+<dc:title xml:lang="es">Utilidad del CMBD para la detección de acontecimientos adversos por medicamentos</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d8675^s22083</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d30279^s22083</dc:subject>
+<dc:subject>^d4422^s22083</dc:subject>
+<dc:subject>^d6916^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23106^s22020</dc:subject>
+<dc:subject>^d31061^s22049</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200703</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-112243</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Integrating information about imaging biomarkers into structured radiology reports</dc:title>
+<dc:description xml:lang="en">Imaging biomarkers describe objective characteristics that are related to normal biological processes, diseases, or the response to treatment. They enable radiologists to incorporate into their reports data about structure, function, and tissue components. With the aim of taking maximum advantage of the quantification of medical images, we present a procedure to integrate imaging biomarkers into radiological reports, bringing the new paradigm of personal medicine closer to radiological workflow. In this manner, the results of quantification can complement traditional radiological diagnosis, improving accuracy and the evaluation of the efficacy of treatments. A more personalized, standardized, structured radiological report should include quantitative analyses to complement conventional qualitative reporting in selected cases (AU)</dc:description>
+<dc:creator>Sanz Requena, R</dc:creator>
+<dc:creator>Pomar-Nadal, A</dc:creator>
+<dc:creator>Pérez-Castillo, C</dc:creator>
+<dc:creator>Martí-Bonmatí, L</dc:creator>
+<dc:creator>García-Martí, G</dc:creator>
+<dc:creator>Alberich-Bayarri, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Los biomarcadores de imagen describen características objetivas que están relacionadas con procesos biológicos normales, enfermedades, o la respuesta al tratamiento. Permiten a los radiólogos incorporar datos de estructura, función y componentes tisulares a sus informes. Con el fin de aprovechar al máximo las ventajas de la cuantificación de imagen médica se plantea un procedimiento para integrar los biomarcadores de imagen, acercando el nuevo paradigma de medicina personalizada al flujo de trabajo radiológico. Así, los resultados de cuantificación pueden complementar el diagnóstico radiológico tradicional, mejorando su precisión y la evaluación de la eficacia de los tratamientos. Un informe radiológico más personalizado, estandarizado y estructurado debe implementar los análisis cuantitativos como una buena alternativa complementaria al informe radiológico cualitativo convencional en casos previamente seleccionados (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);55(3): 188-194, mayo-jun. 2013.</dc:source>
+<dc:identifier>ibc-112243</dc:identifier>
+<dc:title xml:lang="es">Integrando el informe de biomarcadores de imagen en el informe radiológico estructurado</dc:title>
+<dc:subject>^d54358^s22041</dc:subject>
+<dc:subject>^d15351^s29166</dc:subject>
+<dc:subject>^d12309^s22083</dc:subject>
+<dc:subject>^d244^s29166</dc:subject>
+<dc:subject>^d25783^s22045</dc:subject>
+<dc:subject>^d23568^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d54358^s22048</dc:subject>
+<dc:subject>^d12309^s22019</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d54358^s22066</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201306</dc:date>
+</metadata>
+</record>
+</ibecs-document>

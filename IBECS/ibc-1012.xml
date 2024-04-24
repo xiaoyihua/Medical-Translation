@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-1012</identifier>
+<setSpec>0212-8241</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Who should measure blood pressure in the clinic?</dc:title>
+<dc:creator>García Puig, J</dc:creator>
+<dc:creator>Martínez López, M. A</dc:creator>
+<dc:creator>Sancho Bueso, T</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">La toma de la presión arterial es una de las actividades más habituales en la consulta médica y de ella dependen el diagnóstico y evaluación terapéutica de la hipertensión arterial. La lectura de la presión arterial por un médico induce una reacción de alerta, caracterizada por un incremento transitorio de la presión arterial y la frecuencia cardíaca. Dicha respuesta presora, conocida como "efecto de bata blanca", se produce también cuando una enfermera realiza la medición, pero su intensidad y duración es considerablemente inferior a la inducida por el médico. El efecto de bata blanca no se reduce por la repetición de visitas al mismo médico, al menos a corto plazo, aunque se ha sugerido (pero no demostrado) que un seguimiento más prolongado podría atenuarlo. La lectura de presión arterial por la enfermera se correlaciona más estrechamente con la presión ambulatoria diurna y varios marcadores de daño orgánico (masa del ventrículo izquierdo, microalbuminuria, etc.) que la efectuada por personal facultativo, por lo que representa mejor el perfil tensional del paciente fuera del centro sanitario, y potencialmente el daño en órganos diana. La lectura sistemática de la presión arterial por enfermeras podría evitar el diagnóstico de hipertensión de bata blanca en buen número de pacientes, en los que el inicio de un tratamiento farmacológico no estaría probablemente justificado. Los argumentos expuestos avalan la conveniencia de que sea el personal de enfermería (en lugar del médico) quien efectúe de modo rutinario la toma de presión en la consulta (AU)</dc:description>
+<dc:source>Hipertensión (Madr., Ed. impr.);18(3): 132-136, mar. 2001. graf</dc:source>
+<dc:identifier>ibc-1012</dc:identifier>
+<dc:title xml:lang="es">¿Quién debe tomar la presión arterial en la consulta?</dc:title>
+<dc:subject>^d1822</dc:subject>
+<dc:subject>^d555</dc:subject>
+<dc:subject>^d10004</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9926</dc:subject>
+<dc:subject>^d11252</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200103</dc:date>
+</metadata>
+</record>
+</ibecs-document>

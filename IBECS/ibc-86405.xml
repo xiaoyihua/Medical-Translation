@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-86405</identifier>
+<setSpec>0034-0618</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Application of the molecular topology to the prediction of anti-HIV-1 activity by acyclovir and ganciclovir analogs</dc:title>
+<dc:description xml:lang="en">Application of the molecular topology to the prediction ofanti-HIV-1 activity by acyclovir and ganciclovir analogsBy using multilinear regression analysis, a topological-mathematicalmodel has been built to predict the anti-HIV-1 activity for agroup of acyclovir and ganciclovir analogs. The structural depictionwas performed by using topological indices and one model with fourvariables for the prediction of EC50 (R2 = 0.8762 and Q2 = 0.8216) wasselected. The model was checked by cross-validation, internal validationand randomization test. The results confirm its capability to predictthe property analyzed(AU)</dc:description>
+<dc:creator>Santana, Manuel</dc:creator>
+<dc:creator>Sandoval, Nancy</dc:creator>
+<dc:creator>Montealegre, Mayra C</dc:creator>
+<dc:creator>Nagham, Edwige G</dc:creator>
+<dc:creator>Gálvez, Jorge</dc:creator>
+<dc:creator>García-Doménech, Ramón</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Usando el análisis de regresión multilineal, se ha propuesto unmodelo topológico-matemático de predicción de la actividad anti-VIH-1 para un grupo de compuestos análogos al aciclovir y ganciclovir.La caracterización estructural de cada compuesto se ha conseguidoa través de índices topológicos. El modelo seleccionado parala predicción de la concentración eficaz 50 está formado por cuatrovariables (R2 = 0.8762 y Q2 = 0.8216). La validación del modelo seha hecho a través de los test de crosvalidación, validación internay aleatoriedad. Los resultados obtenidos confirman la capacidad depredicción de la propiedad estudiada (AU)</dc:description>
+<dc:source>An Real Acad Farm;76(1): 45-57, ene.-mar. 2010. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-86405</dc:identifier>
+<dc:title xml:lang="es">Aplicación de la topología molecular para la predicción de la actividad anti-VIH-1 de un grupo de compuestos análogos del aciclovir y ganciclovir</dc:title>
+<dc:subject>^d32532^s22045</dc:subject>
+<dc:subject>^d32532^s22002</dc:subject>
+<dc:subject>^d29415^s29165</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:subject>^d220^s22065</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d220^s22079</dc:subject>
+<dc:subject>^d24662^s22078</dc:subject>
+<dc:subject>^d220^s22078</dc:subject>
+<dc:subject>^d24662^s22079</dc:subject>
+<dc:subject>^d29415^s22001</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201003</dc:date>
+</metadata>
+</record>
+</ibecs-document>

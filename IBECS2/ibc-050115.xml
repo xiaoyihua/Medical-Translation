@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-050115</identifier>
+<setSpec>1134-3230</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Insulin therapy in the diabetic patient receiving enteral or parenteral nutrition</dc:title>
+<dc:description xml:lang="en">In clinical practice, enteral or parenteral nutrition is frequently    administered to diabetic patients. Nutritional assessment,    indications for nutritional support and the estimation of nutritional    needs are similar to those of nondiabetic patients, except that    diabetic gastroparesis and excess weight are specific clinical    conditions associated with diabetes. To avoid overfeeding, the    weight used to estimate caloric requirements should be    intermediate between the ideal and the current weight. Enteral    formulas with less carbohydrate and more fat content are    associated with better glycemic control than standard formulas.    There is no evidence to support continuous enteral feeding in    hospitalized patients. When initiating tube feeding, the    administration of short-acting insulin is recommended, but once the    infusion rate has reached 40 mL/h, the use of NPH or long-acting    insulin analogues (insulin glargine or detemir) is generally safe. Oral    hypoglycemic agents can be used in well-controlled type 2 diabetic    patients. Before initiation of parenteral nutrition, capillary blood    glucose should be measured. If glucose values are higher than    150 mg/dL or the patient had previously been treated with insulin    or oral hypoglycemic agents, the addition of short-acting insulin to    the parenteral nutrition solution is recommended. A common    starting dose is 0.1 IU/g of dextrose in the solution and    subcutaneous short-acting insulin supplements for elevated glucose    values. When hyperglycemia is marked and persistent, intravenous    insulin infusion is required</dc:description>
+<dc:creator>Albero, R</dc:creator>
+<dc:creator>Álvarez, D</dc:creator>
+<dc:creator>Sanz París, A</dc:creator>
+<dc:creator>Riobó, P</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La nutrición enteral o parenteral en pacientes con diabetes es    frecuente en la práctica clínica. La valoración nutricional, las    indicaciones del soporte nutricional y el cálculo de los requerimientos    calóricos son similares a los de los pacientes no diabéticos, a    excepción de las situaciones clínicas de gastroparesia diabética y de    sobrepeso. Se debe evitar la sobrealimentación, por lo que el peso    usado para calcular los requerimientos calóricos debería ser uno    intermedio entre el ideal y el real. Las fórmulas de nutrición enteral con    menor contenido en hidratos de carbono y más ricas en grasas se    asocian con un mejor control glucémico que las fórmulas estándares    usadas. No hay evidencias científi cas para la nutrición enteral continua    en pacientes hospitalizados. Cuando se inicia nutrición enteral por    sonda, se recomienda el uso de insulinas de acción rápida hasta que la    perfusión llega a 40 mL/h, a partir de la cual el empleo de insulina    NPH o análogos de insulina de acción prolongada (glargina o detemir)    suele ser seguro. Se pueden usar hipoglucemiantes orales en    pacientes diabéticos tipo 2 bien controlados y estables. Antes de la    administración de nutrición parenteral, debería realizarse un control de    glucemia y añadir una cantidad basal de insulina rápida a la solución    de nutrición parenteral en los casos de glucemia &gt;150 mg/dL o en    pacientes en tratamiento previo con insulina o hipoglucemiantes orales.    Se suele iniciar con 0,1 UI/g de glucosa administradas en la solución y    suplementos de insulina rápida subcutánea ante situaciones de    hiperglucemia, pero cuando ésta es importante, se requiere la    instauración de perfusión de insulina intravenosa (i.v.)</dc:description>
+<dc:source>Av. diabetol;22(3): 207-215, jul.-sept. 2006. tab</dc:source>
+<dc:identifier>ibc-050115</dc:identifier>
+<dc:title xml:lang="es">Insulinización en el paciente diabético en tratamiento con nutrición enteral y parenteral</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d7500^s22000</dc:subject>
+<dc:subject>^d30324^s22045</dc:subject>
+<dc:subject>^d7182^s22000</dc:subject>
+<dc:subject>^d30401^s22045</dc:subject>
+<dc:subject>^d32235^s22017</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3942^s22067</dc:subject>
+<dc:subject>^d32108^s22045</dc:subject>
+<dc:subject>^d3942^s22017</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200609</dc:date>
+</metadata>
+</record>
+</ibecs-document>

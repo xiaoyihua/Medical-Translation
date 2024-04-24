@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-143827</identifier>
+<setSpec>0212-1611</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Calibration tools menu and calculation of the composition nutritional food; validity and variability</dc:title>
+<dc:description xml:lang="en">Introduction: Food composition tables (FCT) are a basic tool to know the energy content and the nutritional composition of foods. Objectives: To demonstrate through a model menu the existent variability between the different FCTs and the databases of the software used. Methods: A menu was calibrated by using the Alimentador software, which was then validated with the software DIAL, EasyDiet, and with RedBEDCA, CESNID, Mataix, 2003 y Moreiras O., 2013 FCTs. Results: many nutrients could not be compared due to the lack of data. The range of comparable data obtained for each nutrient may vary from 8% to 84%, being wider for micronutrients than for macronutrients or energy. Conclusion: We have shown the variability between FCTs and some software programs, which gives way to question the scientific validity of the use of these tools that frequently used by nutrition professionals (AU)</dc:description>
+<dc:creator>Hernández Rodríguez, B</dc:creator>
+<dc:creator>San Mauro Martín, Ismael</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: Las tablas de composición de alimentos (TCA) constituyen una herramienta básica para conocer el aporte de energía y la composición nutricional de los mismos. Objetivos: Demostrar mediante un menú modelo la variabilidad existente entre las distintas TCAs y bases de datos de los programas informáticos empleados. Métodos: Se calibró un menú con el programa Alimentador, y fue valorado posteriormente con los programas DIAL, EasyDiet, y con las TCAs de la RedBEDCA, CESNID, Mataix, 2003 y Moreiras O., 2013. Resultados: Muchos de los nutrientes no se pudieron comparar por la falta de datos. El rango de los datos comparables obtenidos para cada nutriente, difiere entre un 8% y un 84%, siendo mayor en micronutrientes que en macronutrientes o energía. Conclusión: Hemos demostrado la variabilidad entre las TCA y algunos programas informáticos, lo que resulta en cuestionarse la validez científica del uso de estas herramientas, tan habituales para profesionales de la nutrición (AU)</dc:description>
+<dc:source>Nutr Hosp;29(4): 929-934, abr. 2014. tab</dc:source>
+<dc:identifier>ibc-143827</dc:identifier>
+<dc:title xml:lang="es">Herramientas para la calibración de menús y cálculo de la composición nutricional de los alimentos; validez y variabilidad</dc:title>
+<dc:subject>^d5641</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9936</dc:subject>
+<dc:subject>^d50324</dc:subject>
+<dc:subject>^d8781</dc:subject>
+<dc:subject>^d2181</dc:subject>
+<dc:subject>^d23550</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201404</dc:date>
+</metadata>
+</record>
+</ibecs-document>

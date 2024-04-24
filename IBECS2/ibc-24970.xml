@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-24970</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Drugs with activity against Mycobacterium tuberculosis</dc:title>
+<dc:creator>Coll, Pere</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">El tratamiento de Mycobacterium tuberculosis ha de ser prolongado, ya que existen poblaciones de bacilos diferentes en cuanto a su actividad metabólica, y asociar varios fármacos, puesto que tienen lugar mutaciones cromosómicas espontáneas que producen resistencia. El fenotipo multirresistente se debe a la adquisición secuencial de mutaciones en diferentes loci de genes independientes. El conocimiento de los mecanismos de resistencia permite desarrollar técnicas moleculares para su detección precoz, lo cual permite un control correcto. El tratamiento de la tuberculosis incluye isoniacida, rifampicina y piracinamida los primeros 2 meses e isoniacida y rifampicina hasta completar los 6 meses de tratamiento. En determinadas situaciones debe añadirse un cuarto fármaco, etambutol en adultos y estreptomicina en niños, en quienes no puede monitorizarse la agudeza visual. En esta revisión se describen las características, actividad, mecanismos de resistencia y efectos secundarios de los distintos antituberculosos (AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;21(6): 299-308, jun. 2003.</dc:source>
+<dc:identifier>ibc-24970</dc:identifier>
+<dc:title xml:lang="es">Fármacos con actividad frente a Mycobacterium tuberculosis</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d14778</dc:subject>
+<dc:subject>^d30997</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d999</dc:subject>
+<dc:subject>^d914</dc:subject>
+<dc:subject>^d9362</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200306</dc:date>
+</metadata>
+</record>
+</ibecs-document>

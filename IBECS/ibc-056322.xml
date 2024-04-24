@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-056322</identifier>
+<setSpec>1575-1813</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">No disponible</dc:title>
+<dc:description xml:lang="en">No disponible</dc:description>
+<dc:creator>Lago Cabrera, Juan</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Esta monografía trata de presentar un breve informe    de situación de los estándares e.Learning con especial    mención a SCORM, estándar &#147;de facto&#148; que está    cobrando bastante importancia en los últimos años.    Entre los objetivos que se persiguen con estos    estándares, está la reutilización de contenidos    de aprendizaje con independencia de la tecnología de    las herramientas que los generan (herramientas    de autor) y los usan (plataformas e.Learning).    Son muchas las empresas, instituciones y organizaciones    educativas que están adoptando SCORM, pero es    interesante ver cómo también la comunidad de    Software Libre ha sabido adaptarse a la evolución    de estos estándares, pudiéndose encontrar    en Internet multitud de herramientas que los soportan.    Como ejemplo práctico, se verá cómo integrar    un contenido SCORM dentro de una plataforma LMS    de Software Libre como Moodle así como una breve    descripción de algunas herramientas de autor que    se pueden encontrar en la Web</dc:description>
+<dc:source>Educ. med. (Ed. impr.);9(supl.2): S26-S31, dic. 2006. ilus</dc:source>
+<dc:identifier>ibc-056322</dc:identifier>
+<dc:title xml:lang="es">Situación actual de estándares e. Learning y aplicación en entornos de Software Libre</dc:title>
+<dc:subject>^d14042^s22049</dc:subject>
+<dc:subject>^d14043^s22048</dc:subject>
+<dc:subject>^d19402^s22048</dc:subject>
+<dc:subject>^d33921^s22074</dc:subject>
+<dc:subject>^d14042^s37748</dc:subject>
+<dc:subject>^d19402^s22066</dc:subject>
+<dc:subject>^d19402^s22011</dc:subject>
+<dc:subject>^d12436</dc:subject>
+<dc:subject>^d33921^s22066</dc:subject>
+<dc:subject>^d14042^s22045</dc:subject>
+<dc:subject>^d8036^s37748</dc:subject>
+<dc:subject>^d19402^s37748</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200612</dc:date>
+</metadata>
+</record>
+</ibecs-document>

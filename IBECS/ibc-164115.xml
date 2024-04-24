@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-164115</identifier>
+<setSpec>0212-1611</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Comparison of gene expression profile between blood cells and white adipose tissue of patients with obesity</dc:title>
+<dc:description xml:lang="en">Introduction: Gene expression analyses from peripheral blood mononuclear cells (PBMC) and white adipose tissue are conflicting. It seems that results from single tissue are not enough to explain how changes affect humans as a complex biological system. Objective: The aim of this study was to compare, from obesity subjects, PBMC and white adipose tissue gene expression that regulates adipogenesis (perilipin 1 [PLIN1], adrenoreceptor beta 3 [ADRB3] and peroxisome proliferator-activated receptor [PPARG2]) and the energy metabolism (uncoupling protein UCP1, UCP2 and UCP3) process. Methods: This study enrolled 35 obese patients, with a body mass index (BMI) &gt; 40 kg/m2 (obesity group [OG]), and ten eutrophic health subjects, 18 &gt; BMI &gt; 24.9 kg/m2 (control group [CG]). Anthropometric and body composition data were assessed at recruitment using standardized protocols. Samples of peripheral blood and subcutaneous adipose tissue (biopsy) were collected to analyze gene expression by RT-qPCR technique. For statistical analysis, we used the Shapiro-Wilk test and Wilcoxon tests by the SPSS software version 20.0; a p &lt; 0.05 significance level was adopted. Results: There were significant differences of PLIN1, ADRB3, PPARG2 and UCP3 expression between blood against adipose tissue samples, showing that these genes are upregulated in adipose tissue. UCP2 expression was upregulated in PBMC. Conclusion: The PLIN1, ADRB3, PPARG2 and UCP3 genes were preferentially expressed in adipose tissue. However, UCP2 was upregulated in PBMC, suggesting that this gene may be assessed in a peripheral blood cell, which is easily accessible, safe and practical (AU)</dc:description>
+<dc:creator>Quinhoneiro, Driele Cristina Gomes</dc:creator>
+<dc:creator>Silva-Junior, Wilson Araújo da</dc:creator>
+<dc:creator>Nonino, Carla Barbosa</dc:creator>
+<dc:creator>Nicoletti, Carolina Ferreira</dc:creator>
+<dc:creator>Oliveira, Bruno Affonso Parenti</dc:creator>
+<dc:creator>Souza, Dorotéia Rossi Silva</dc:creator>
+<dc:creator>Pinhel, Marcela Augusta Souza</dc:creator>
+<dc:creator>Cortes-Oliveira, Cristiana</dc:creator>
+<dc:creator>Salgado-Junior, Wilson</dc:creator>
+<dc:creator>Marchini, Júlio Sergio</dc:creator>
+<dc:creator>Noronha, Natália Yumi</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Introducción: la expresión de genes de células mononucleares de sangre periférica y de tejido adiposo blanco es contradictoria. Los resultados del tejido no son suficientes para explicar cómo afectan los cambios al ser humano como un sistema biológico complejo. Objetivo: el objetivo de este estudio fue comparar, en individuos con obesidad, la expresión de genes que regulan los procesos de adipogénesis (PLIN1, ADRB3 y PPARg2) y el metabolismo energético (UCP1, UCP2 y UCP3) en sangre y tejido adiposo blanco. Métodos: este estudio incluyó a 35 pacientes con obesidad e índice de masa corporal (IMC) &gt; 40 kg/m2 en el grupo obesidad (GO) y a diez personas sanas con peso normal (18 &gt; IMC &gt; 24,9 kg/m2) en el grupo control (GC). Los datos antropométricos y de composición corporal fueron obtenidos por protocolos estandarizados. Se recogieron muestras de sangre periférica y tejido adiposo subcutáneo (biopsia) para analizar la expresión génica por la técnica de RT-qPCR. Para el análisis estadístico se utilizaron el test de Shapiro-Wilk y pruebas de Wilcoxon mediante el programa SPSS versión 20.0 (p &lt; 0,05). Resultados: no se encontraron diferencias significativas en la expresión de genes PLIN1, ADRB3, PPARg2 y UCP3 entre la sangre y las muestras de tejido adiposo, mostrando que estos genes son regulados positivamente en el tejido adiposo. La expresión del gen UCP2 fue regulada positivamente en sangre. Conclusión: los genes PLIN1, ADRB3, PPARg2 y UCP3 se expresaron de forma preferente en el tejido adiposo. Sin embargo, el gen UCP2 se reguló positivamente en sangre, lo que sugiere que puede ser evaluado en sangre periférica, que es fácilmente accesible, de forma segura y práctica (AU)</dc:description>
+<dc:source>Nutr Hosp;34(3): 603-607, mayo-jun. 2017. graf, tab</dc:source>
+<dc:identifier>ibc-164115</dc:identifier>
+<dc:title xml:lang="es">Comparación del perfil de expresión génica entre células de la sangre y el tejido adiposo blanco de pacientes con obesidad</dc:title>
+<dc:subject>^d27937^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d52011^s22053</dc:subject>
+<dc:subject>^d51236^s22033</dc:subject>
+<dc:subject>^d24542</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d9951^s22012</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d9951^s22033</dc:subject>
+<dc:subject>^d4813^s22033</dc:subject>
+<dc:subject>^d28320^s22045</dc:subject>
+<dc:subject>^d53386</dc:subject>
+<dc:subject>^d24666^s22033</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201706</dc:date>
+</metadata>
+</record>
+</ibecs-document>

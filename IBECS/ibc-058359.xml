@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-058359</identifier>
+<setSpec>0212-9728</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Bayesian nets as modelling tools in psychology</dc:title>
+<dc:description xml:lang="en">There is more and more research projects which have a lot of variables with complex relations between them. Bayes nets are statistical tools emerged from Artificial Intelligence field that allow us to face up these research situations. A Bayes net is a directed acyclic graph that represents conditional dependence and independence probabilistic relations and it uses the Bayes rule to update the model when some evidences are took into account. The paper describes Bayes nets mathematical essentials and the advantages as opposed to others multivariate tools. Finally, we review applications and potential applications of Bayes nets in Psychology</dc:description>
+<dc:creator>Fuente Solana, Emilia Inmaculada de la</dc:creator>
+<dc:creator>Fuente Sánchez, Leticia de la</dc:creator>
+<dc:creator>López Puga, Jorge</dc:creator>
+<dc:creator>García García, Juan</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Cada vez son más numerosas las investigaciones que trabajan con un amplio número de variables donde existen relaciones complejas entre ellas. Las redes bayesianas son herramientas estadísticas surgidas en el campo de la Inteligencia Artificial que nos permiten afrontar situaciones de investigación de estas características. Una red bayesiana es un grafo dirigido acíclico que codifica relaciones probabilísticas de dependencia e independencia condicional y que actualiza el modelo con base en las evidencias muestrales mediante la regla de Bayes. Este artículo describirá los principios matemático-estadísticos esenciales de las redes bayesianas y las ventajas que tienen frente a otras herramientas multivariantes. Finalmente, revisaremos las aplicaciones, que desde la Psicología, se han aportado, así como se describen sus usos potenciales</dc:description>
+<dc:source>An. psicol;23(2): 307-316, dic. 2007.</dc:source>
+<dc:identifier>ibc-058359</dc:identifier>
+<dc:title xml:lang="es">Las redes bayesianas como herramientas de modelado en psicología</dc:title>
+<dc:subject>^d12021^s22045</dc:subject>
+<dc:subject>^d28633</dc:subject>
+<dc:subject>^d28635</dc:subject>
+<dc:subject>^d19062</dc:subject>
+<dc:subject>^d16925^s22045</dc:subject>
+<dc:subject>^d37677</dc:subject>
+<dc:subject>^d7984^s22056</dc:subject>
+<dc:subject>^d12021^s22083</dc:subject>
+<dc:subject>^d22729</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200712</dc:date>
+</metadata>
+</record>
+</ibecs-document>

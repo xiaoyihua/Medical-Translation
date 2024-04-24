@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-34761</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Predictive model for community acquired bacteremia in patients from an Internal Medicine Unit</dc:title>
+<dc:creator>Gutiérrez Macías, Alfonso</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">FUNDAMENTO Y OBJETIVO: La sospecha de bacteriemia basada en el juicio clínico carece de la sensibilidad, especificidad o valor predictivo necesarios para tener utilidad diagnóstica. El objetivo de este trabajo es desarrollar un modelo de predicción de bacteriemia en pacientes ingresados en un servicio de medicina interna, con clínica adquirida en la comunidad que haya motivado la obtención de hemocultivos. PACIENTES Y MÉTODO: Se ha realizado durante 1 año un estudio prospectivo en el que se ha incluido a los enfermos de quienes se había obtenido hemocultivos en las primeras 48 h del ingreso. Se ha elaborado un modelo de predicción de bacteriemia derivado de una muestra aleatoria de aproximadamente dos tercios (grupo de derivación) y se ha validado en el tercio restante (grupo de validación). Tras el estudio estadístico bivariante, las variables significativas se han introducido en un modelo de regresión logística múltiple de exclusión escalonada paso a paso. En cada paciente de los grupos de derivación y validación se ha obtenido una puntuación derivada de la suma de los puntos de las variables significativas de la regresión logística; según esta puntuación, se han formado 4 grupos y se ha calculado en ellos la prevalencia de bacteriemia. Se han evaluado la calibración y la discriminación del modelo con la prueba de Hosmer-Lemeshow y el cálculo de la curva de eficacia diagnóstica (curva ROC), respectivamente. RESULTADOS: Se obtuvieron 448 hemocultivos, con una prevalencia de bacteriemia del 25,2 por ciento. En el grupo de derivación, las variables significativas en el análisis multivariante fueron foco urinario, temperatura de 38,3 °C o superior, desviación hacia la izquierda, velocidad de sedimentación globular igual o mayor de 70 mm/h, cifra de plaquetas inferior a 200 × 103/µl, glucemia igual o mayor de 140 mg/dl, urea igual o mayor de 50 mg/dl, proteína C reactiva igual o mayor de 12 mg/dl y albúmina inferior a 3 g/dl. El modelo permitió formar 4 grupos con prevalencia creciente de bacteriemia; en el grupo con puntuación de 0-3 puntos, la prevalencia fue del 2,4 por ciento; en el de 4-5, del 15,7 por ciento; en el de 6-7 puntos, un 42,9 por ciento, y en la puntuación igual o mayor de 8, del 65 por ciento. En el grupo de validación, la prevalencia fue del 4,1 por ciento, el 22,6, el 29,3 y el 80 por ciento, respectivamente. El modelo presentó una buena calibración (X2 de Hosmer-Lemeshow = 4,91; p = 0,77). La curva de eficacia diagnóstica del grupo de derivación fue de 0,81 (intervalo de confianza del 95 por ciento, 0,76-0,86), y la del grupo de validación fue de 0,77 (intervalo de confianza del 95 por ciento, 0,69-0,85). CONCLUSIONES: Nuestro modelo presentó una calibración y una capacidad de discriminación buenas, lo que indica su utilidad para estimar la probabilidad de bacteriemia en pacientes ingresados en un servicio de medicina interna. Utilizado de forma conjunta con el juicio clínico, el modelo puede ser útil en el proceso de toma de decisiones con respecto a la obtención de hemocultivos, monitorización clínica y tratamiento antibiótico empírico. Antes de su aplicación es necesaria su validación prospectiva en otros entornos (AU)</dc:description>
+<dc:source>Med. clín (Ed. impr.);123(7): 241-246, sept. 2004.</dc:source>
+<dc:identifier>ibc-34761</dc:identifier>
+<dc:title xml:lang="es">Bacteriemia adquirida en la comunidad: elaboración de un modelo de predicción clínica en pacientes ingresados en un servicio de medicina interna</dc:title>
+<dc:subject>^d7553</dc:subject>
+<dc:subject>^d31549</dc:subject>
+<dc:subject>^d28633</dc:subject>
+<dc:subject>^d28614</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12437</dc:subject>
+<dc:subject>^d3965</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d11913</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d11914</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d22512</dc:subject>
+<dc:subject>^d23568</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d30596</dc:subject>
+<dc:subject>^d30241</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200409</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-24537</identifier>
+<setSpec>1695-4033</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Estimation of creatinine clearance by the height / Plasma creatinine formula in critically-ill children</dc:title>
+<dc:creator>Menéndez Cuervo, S</dc:creator>
+<dc:creator>Málaga Guerrero, S</dc:creator>
+<dc:creator>Molinos Norniella, C</dc:creator>
+<dc:creator>Rey Galán, C</dc:creator>
+<dc:creator>Concha Torre, A</dc:creator>
+<dc:creator>Medina Villanueva, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Antecedentes: La función renal en niños críticamente enfermos puede alterarse obligando a ajustar las dosis de determinados fármacos. Los objetivos del trabajo fueron estudiar la correlación del aclaramiento de creatinina estimado por la talla (CCrest) y el aclaramiento de creatinina en orina de 24 h (CCrm) e investigar cuándo el CCrest infravalora o sobrevalora el CCrm, analizando la influencia del diagnóstico y la gravedad, y las consecuencias prácticas. Pacientes y métodos Se incluyeron 77 pacientes ingresados en una unidad de cuidados intensivos pediátricos. Se determinó durante las primeras 24 h tras el ingreso el CCrm empleando la creatinina plasmática, la creatinina urinaria y el volumen urinario. Se estimó el CCrest a partir de la creatinina plasmática, la talla y una constante. Se calculó la diferencia mediante: (CCrm - CCrest) × 100/CCrm. Se consideró una mala estimación si la diferencia era mayor del 15 por ciento. Resultados: La media del porcentaje de la diferencia fue de -29,2 (desviación estándar [DE], 39,9). No hubo diferencias en la distribución de los errores significativos ( &gt; 15 por ciento) entre enfermedades, aunque destaca una alta incidencia en los problemas metabólicos. En un 11,69 por ciento la incorrecta valoración del aclaramiento de creatinina supondría un error de tratamiento, con sobredosificación en un 10,39 por ciento de los casos. El PRISM fue mayor (p &lt; 0,05) en los pacientes con riesgo de sobredosificación. Conclusiones: La estimación del aclaramiento de creatinina por la talla no es buena en niños graves. En el 10,39 por ciento de los pacientes se sobredosificarían los fármacos de excreción renal, estando estos pacientes sobrestimados más graves. En los pacientes metabólicos y neurológicos esta tendencia es más llamativa  (AU)</dc:description>
+<dc:source>An Pediatr (Barc);59(5): 436-440, nov. 2003.</dc:source>
+<dc:identifier>ibc-24537</dc:identifier>
+<dc:title xml:lang="es">Estimación del aclaramiento de creatinina por la talla en pacientes críticamente enfermos</dc:title>
+<dc:subject>^d7399</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d30170</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d1852</dc:subject>
+<dc:subject>^d3421</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d2715</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200311</dc:date>
+</metadata>
+</record>
+</ibecs-document>

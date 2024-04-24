@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-144256</identifier>
+<setSpec>1135-7606</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Validation of an algorithm for calculation of tooth dimensions based on the method of Bloise</dc:title>
+<dc:description xml:lang="en">Introduction: When you study bone material from archaeological excavations or isolated remains, it is frequent that storage conditions are poor, so the anthropometric reconstruction of the main characteristic features cannot be observed. This problem is even greater in forensic cases in which, on many occasions, the identification must only be performed through tooth parts. For this reason, it is necessary to use validated alternative methods that allow the identification of an individual from dental fragmented remains. Goal: Validate the algorithm, based on the Bloise's method, by comparing the characteristic dimensions of a tooth in mesiodistal diameter known, taken as initial data for the calculation, with the calculated dimensions of the same tooth. Materials and methods: Software: an algorithm based on the Bloise's method in friendly Excel Version 14.0. 2010 was developed to calculate the size of the teeth from a single known piece. Instruments: the measurements were performed using a digital caliper, class 2, with 0.01 mm accuracy and a tooth gauge, class 2, with 0.01 mm accuracy. Subjects: were carried out 106 measures teeth, skulls and plaster models, were selected from Chair of Legal and Forensic Dentistry. Experimental procedure: a known tooth medial diameter was measured and its dimension was calculated using the algorithm. Analysis of data: the experimental data were compared with the values calculated by the algorithm using the method of Bland-Altman. For greater accuracy of the algorithm a correction factor was determined from the linear regression of Pearson coefficients (p &lt;0.05). Finally, the corrected values and the experimental values were again compared using the method of Bland-Altman. Results: When the Bland-Altman's method was applied between the experimental and the calculated values without correction, it was observed a dispersion of up to two standard deviations. This problem was corrected using the correction factor determined by the Pearson coefficient, i.e. Cor = (Cal - 0.0183)/0.9601. This fix allowed to decrease the bias for differences of ±0.08 mm (less than one standard deviation) between the experimental value and the value obtained from the algorithm. Conclusion: Correction factors suggested to Bloise's method is closer to the dental data measured experimentally. From this correction, it was possible to validate the virtual simulator based on the Bloise's method (AU)</dc:description>
+<dc:creator>Rospide, MA</dc:creator>
+<dc:creator>Goroso, DG</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: Cuando se estudia material óseo procedente de excavaciones arqueológicas o restos aislados es frecuente que las condiciones de conservación sean deficientes, por lo que la reconstrucción antropométrica de los principales rasgos característicos no se puede observar. Este problema es aún mayor en los casos forenses, en los que en muchas ocasiones la identificación debe realizarse únicamente a través de piezas dentarias. Por este motivo, son necesarios métodos alternativos validados que permitan la identificación de un individuo a partir de elementos dentarios. Objetivo: Validar el algoritmo, basado en el método de Bloise, comparando las dimensiones características de una pieza dentaria de diámetro mesiodistal conocido, tomado como dato inicial para el cálculo, con las dimensiones calculadas de esa misma pieza dentaria. Materiales y métodos: Materiales: se desarrolló un algoritmo basado en el método de Bloise en Excell Versión 14.0. 2010 para calcular el tamaño de piezas dentarias a partir de una única pieza conocida. Las mediciones se realizaron utilizando un calibre digital, clase 2, con precisión de 0,01 mm, y un calibre dentario, clase 2, con precisión de 0,01 mm. Muestra: se realizaron 106 medidas dentarias, provenientes de cráneos y modelos de yeso, todos seleccionados de la Cátedra de Odontología Legal y Forense. Procedimiento experimental: se midió el diámetro medial de una pieza dentaria conocida y se calculó su dimensión usando el algoritmo de cálculo. Análisis de datos: los datos experimentales se compararon con los valores calculados por el algoritmo aplicando el método de Bland-Altman. Para una mayor precisión del algoritmo se determinó un factor de corrección a partir de los coeficientes de regresión lineal de Pearson (p &lt;0,05). Finalmente, se compararon de nuevo los valores corregidos y los valores experimentales usando el método de Bland-Altman. Resultados: Aplicando el método de Bland-Altman entre los valores experimentales y los calculados sin corrección se observó una dispersión de hasta dos desviaciones estándar. Este problema fue corregido utilizando el factor de corrección determinado por los coeficientes de Pearson, esto es, Cor = (Cal - 0,0183)/0,9601. Esta corrección permitió disminuir las diferencias entre el valor experimental y el valor calculado por el algoritmo próximo a ±0,08mm (menor que una desviación estándar). Conclusión: El factor de corrección sugerido para el método de Bloise se acerca más a los datos dentarios medidos experimentalmente. A partir de esta corrección fue posible validar el algoritmo basado en el método de Bloise (AU)</dc:description>
+<dc:source>Cuad. med. forense;20(4): 180-190, oct.-dic. 2014. tab, ilus</dc:source>
+<dc:identifier>ibc-144256</dc:identifier>
+<dc:title xml:lang="es">Validación de un algoritmo para el cálculo de las dimensiones dentarias basado en el método de Bloise</dc:title>
+<dc:subject>^d5248^s22004</dc:subject>
+<dc:subject>^d13267^s22004</dc:subject>
+<dc:subject>^d9997^s22066</dc:subject>
+<dc:subject>^d5688</dc:subject>
+<dc:subject>^d5687</dc:subject>
+<dc:subject>^d2136</dc:subject>
+<dc:subject>^d3832</dc:subject>
+<dc:subject>^d32245</dc:subject>
+<dc:subject>^d27937</dc:subject>
+<dc:subject>^d9997^s22045</dc:subject>
+<dc:subject>^d28264</dc:subject>
+<dc:subject>^d35256</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201412</dc:date>
+</metadata>
+</record>
+</ibecs-document>

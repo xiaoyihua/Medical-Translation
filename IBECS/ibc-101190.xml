@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-101190</identifier>
+<setSpec>0003-3170</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Preoperative risk scales for the endovascular treatment of aortic aneurysms</dc:title>
+<dc:description xml:lang="en">Introduction: The aim of this study is to analyse the usefulness of two preoperative risk scales in the endovascular repair of abdominal aortic aneurysms in routine clinical practice. Patients and methods: A retrospective study was conducted on the morbidity and mortality at 30 days in 50 consecutive patients with an aortic aneurysm repaired by endovascular treatment. The Egorova-Giacovelli scale (EE-G) and Glasgow Aneurysm Scale (GAS) were used on all patients. A statistical analysis of the means, ROC curves, and risk was performed using the published cut-off point for both scales. Results: The mortality at 30 days was 4%, and the morbidity 12%, with both groups having a medium to high score on both scales. The analysis of the ROC curves showed good agreement, with an area under the curve (AUC) in the EE-G of 0.781 (95% CI: 0.543-1.020; P = .181) for the mortality and 0.831 (95% CI: 0.675-0.988; P = .009) for the morbidity. The AUC in the GAS was 0.839 (95% CI: 0.684-0.993; P = .108) for mortality and 0.917 (0.835-0.999; P = .001) for the morbidity. When the cut-off points were used, the mortality increased from 2% to 20% (OR: 11) with the EE-G and from 2% to 8% (OR: 3.36) with the GAS; the morbidity increased from 6% to 60% (OR: 21) with the EE-G and from 2% to 41% (OR: 26.42) with the GAS. Conclusions: These types of scales may help to determine the patient group with a higher risk of having complications in these types of procedures(AU)</dc:description>
+<dc:creator>Vallina Vázquez Victorero, M. J</dc:creator>
+<dc:creator>Álvarez Fernández, L. J</dc:creator>
+<dc:creator>Ramos Gallo, M. J</dc:creator>
+<dc:creator>Vicente Santiago, M</dc:creator>
+<dc:creator>Vaquero Lorenzo, F</dc:creator>
+<dc:creator>Álvarez Salgado, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: El objetivo de este estudio es analizar la utilidad en nuestra práctica habitual de dos escalas de riesgo preoperatorio en la reparación endovascular de los aneurismas aórticos abdominales. Pacientes y métodos: Estudio retrospectivo sobre mortalidad y morbilidad a 30 días en 50 pacientes consecutivos con aneurisma de aorta, a los que se realizó tratamiento endovascular. Se aplicó a todos los pacientes la escala de riesgo de Egorova-Giacovelli (EE-G) y la escala de aneurismas de Glasgow (GAS). Análisis estadístico mediante el estudio de medias, curvas ROC y riesgo según el punto de corte principal publicado para ambas escalas. Resultados: La mortalidad a 30 días fue del 4%, y la morbilidad del 12%, presentando ambos grupos una puntuación media mayor en ambas escalas. El análisis de las curvas ROC mostró una buena exactitud, con un área bajo la curva (AUC) en la EE-G de 0,781 (IC 95%: 0,543-1,020; p = 0,181) para la mortalidad y 0,831 (IC 95%: 0,675-0,988; p = 0,009) para la morbilidad. El AUC en la GAS fue 0,839 (IC 95%: 0,684-0,993; p = 0,108) para la mortalidad y 0,917 (0,835-0,999; p = 0,001) para la morbilidad. Cuando se utilizaron los puntos de corte la mortalidad subía del 2 al 20% (OR: 11) con la EE-G y del 2 al 8% (OR: 3,36) con la GAS; la morbilidad pasaba de 6 al 60% (OR: 21) con la EE-G y de 2 al 41% (OR: 26,42) con la GAS. Conclusiones: Este tipo de escalas pueden ayudarnos a descubrir el grupo de pacientes con mayor riesgo de presentar complicaciones en este tipo de procedimientos(AU)</dc:description>
+<dc:source>Angiologia;64(4): 161-166, jul.-ago. 2012. tab, graf, ilus</dc:source>
+<dc:identifier>ibc-101190</dc:identifier>
+<dc:title xml:lang="es">Escalas de riesgo preoperatorio para el tratamiento endovascular de aneurismas aórticos</dc:title>
+<dc:subject>^d1019^s22009</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d33939^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d54238^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201208</dc:date>
+</metadata>
+</record>
+</ibecs-document>

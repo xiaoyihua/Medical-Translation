@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-36145</identifier>
+<setSpec>0001-7310</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Ambulatory diagnostic groups in dermatology. Study at a regional hospital</dc:title>
+<dc:creator>Graells, Jordi</dc:creator>
+<dc:creator>García, Daniel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: La medición de la actividad asistencial mediante recuento de visitas y procedimientos refleja de forma inexacta su laboriosidad, complejidad y coste. Existen en atención primaria sistemas para medir más racionalmente esta actividad. En este trabajo se diseña un sistema de clasificación de pacientes ambulatorios dermatológicos y se describe su distribución en una consulta ambulatoria dermatológica. Métodos: Se crearon grupos diagnósticos ambulatorios (GDA) a partir de cuatro variables (diagnóstico principal, procedimiento, tipo visita, medicación asociada a complejidad), intentando generar un mínimo número de grupos con coherencia médica y homogeneidad económica. La información se recogió de forma prospectiva. Se incluyeron todas las visitas y procedimientos practicados durante el año 2003. Resultados: Se establecen 25 GDA que permiten calcular la proporción de actividad en cirugía menor (32,83%) discriminando por grupos de distinta complejidad y describir y cuantificar GDA médicos importantes médica y sociosanitariamente, como precáncer y cáncer de piel (5,66%), enfermedades de transmisión sexual (0,5%), enfermedades con mayor morbilidad o cronicidad (15,43%), enfermedades sistémicas (0,94%) o empleo de medicación sistémica asociada a complejidad (2,84%). Conclusiones. Es posible aplicar un sistema de clasificación de pacientes basado en GDA en la práctica diaria que permita evaluar de forma más racional la actividad realizada y su complejidad. Los GDA deben ser diseñados de forma dinámica y consensuada. Entre sus aplicaciones se encuentran el conocimiento de necesidades asistenciales, la planificación de objetivos, la orientación de la actividad hacia grupos de mayor importancia clínica, el control de calidad, el cálculo racional del tiempo de visita y la productividad (AU)</dc:description>
+<dc:source>Actas Dermosifiliogr;95(10): 613-617, dic. 2004. tab</dc:source>
+<dc:identifier>ibc-36145</dc:identifier>
+<dc:title xml:lang="es">Grupos diagnósticos ambulatorios en dermatología. Estudio en un hospital comarcal</dc:title>
+<dc:subject>^d30327^s22083</dc:subject>
+<dc:subject>^d13252^s22080</dc:subject>
+<dc:subject>^d556^s22083</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d28838</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200412</dc:date>
+</metadata>
+</record>
+</ibecs-document>

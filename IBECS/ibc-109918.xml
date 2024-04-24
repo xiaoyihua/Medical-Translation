@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-109918</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prolonged mechanical ventilation probability model</dc:title>
+<dc:description xml:lang="en">Objective: To design a probability model for prolonged mechanical ventilation (PMV) using variables obtained during the first 24hours of the start of MV. Design: An observational, prospective, multicenter cohort study. Scope: Thirteen Spanish medical-surgical intensive care units. Patients: Adult patients requiring mechanical ventilation for more than 24hours. Interventions: None. Study variables: APACHE II, SOFA, demographic data, clinical data, reason for mechanical ventilation, comorbidity, and functional condition. A multivariate risk model was constructed. The model contemplated a dependent variable with three possible conditions: 1. Early mortality; 2. Early extubation; and 3. PMV. Results: Of the 1661 included patients, 67.9% (n=1127) were men. Age: 62.1±16.2 years. APACHE II: 20.3±7.5. Total SOFA: 8.4±3.5. The APACHE II and SOFA scores were higher in patients ventilated for 7 or more days (p=0.04 and p=0.0001, respectively). Noninvasive ventilation failure was related to PMV (p=0.005). A multivariate model for the three above exposed outcomes was generated. The overall accuracy of the model in the training and validation sample was 0.763 (95%IC: 0.729-0.804) and 0.751 (95%IC: 0.672-0.816), respectively. The likelihood ratios (LRs) for early extubation, involving a cutoff point of 0.65, in the training sample were LR (+): 2.37 (95%CI: 1.77-3.19) and LR (-): 0.47 (95%CI: 0.41-0.55). The LRs for the early mortality model, for a cutoff point of 0.73, in the training sample, were LR (+): 2.64 (95%CI: 2.01-3.4) and LR (-): 0.39 (95%CI: 0.30-0.51). Conclusions: The proposed model could be a helpful tool in decision making. However, because of its moderate accuracy, it should be considered as a first approach, and the results should be corroborated by further studies involving larger samples and the use of standardized criteria (AU)</dc:description>
+<dc:creator>Quintana, M</dc:creator>
+<dc:creator>Madero, R</dc:creator>
+<dc:creator>Añón, J. M</dc:creator>
+<dc:creator>González-Higueras, E</dc:creator>
+<dc:creator>Pérez-Arriaga,  M</dc:creator>
+<dc:creator>Díaz-Alersi, R</dc:creator>
+<dc:creator>Choperena, G</dc:creator>
+<dc:creator>Marina, L</dc:creator>
+<dc:creator>Martín-Delgado, C</dc:creator>
+<dc:creator>García de Lorenzo, A</dc:creator>
+<dc:creator>Gómez-Tello, V</dc:creator>
+<dc:creator>Córcoles, V</dc:creator>
+<dc:creator>López-Martínez, J</dc:creator>
+<dc:creator>Oñoro, J. J</dc:creator>
+<dc:creator>Montejo, J. C</dc:creator>
+<dc:creator>Gordo, F</dc:creator>
+<dc:creator>García-Fernández, A. M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Diseñar un modelo de probabilidad de ventilación mecánica prolongada (VMP) con variables clínicas obtenidas durante las primeras 24 horas de su instauración. Diseño: Estudio de cohorte, observacional, prospectivo, multicéntrico. Ámbito: Trece UCI españolas polivalentes. Pacientes: Adultos ventilados durante más de 24 horas. Intervenciones: Ninguna. Variables de interés: APACHE II, SOFA, variables clínicas y demográficas, motivo de VM, comorbilidad y estado funcional. Se construyó un modelo de riesgo multivariante en el que la variable dependiente tenía tres posibles estados: 1.- Muerte precoz. 2.- Retirada precoz de la VM. 3.- VMP. Resultados: Se incluyeron 1.661 pacientes. El 67,9% (n=1.127) fueron hombres. Edad: 62,1±16,2 años. APACHE II: 20,3±7,5. SOFA: 8,4±3,5. Las puntuaciones APACHE II y SOFA fueron mayores en pacientes ventilados &gt; 7 días (p=0,04 y p=0,0001 respectivamente). El fracaso de la ventilación no invasiva (VNI) se asoció a VMP (p=0,005). Se generó un modelo de riesgo multivariante con las siguientes variables: APACHE II, SOFA, fracaso de VNI, ubicación hospitalaria antes del ingreso en UCI y motivo de ventilación mecánica. La exactitud del modelo global (..) (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);36(7): 488-495, oct. 2012. ilus, tab</dc:source>
+<dc:identifier>ibc-109918</dc:identifier>
+<dc:title xml:lang="es">Modelo de probabilidad de ventilación mecánica prolongada</dc:title>
+<dc:subject>^d12541^s22074</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d33939^s22045</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d7530^s22083</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12552^s22080</dc:subject>
+<dc:subject>^d7601^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201210</dc:date>
+</metadata>
+</record>
+</ibecs-document>

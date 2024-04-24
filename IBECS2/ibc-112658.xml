@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-112658</identifier>
+<setSpec>0365-6691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Variability between experts in defining the edge and area of the optic nerve head</dc:title>
+<dc:description xml:lang="en">Objective: Estimation of the error rate in the subjective determination of the optic nerve head edge and area.Method1) 169 images of optic nerve disc were evaluated by five experts for the defining of the edges in 8 positions (every 45°). 2) The estimated areas of 26 cases were compared with the measurements of the Cirrus Optical Coherence Tomography (OCT-Cirrus). Results: 1) The mean variation of the estimated radius was ±5.2%, with no significant differences between sectors. Specific differences were found between the 5 experts (P &lt;.001), each one compared with the others. 2) The disc area measured by the OCT-Cirros was 1.78 mm2 (SD =0.27). The results corresponding to the experts who detected smaller areas were better correlated to the area detected by the OCT-Cirrus (r=0.77-0.88) than the results corresponding to larger areas (r =0.61-0.69) (P &lt;.05 in extreme cases). Conclusions: There are specific patterns in each expert for defining the disc edges and involve 20% variation in the estimation of the optic nerve area. The experts who detected smaller areas have a higher agreement with the objective method used. A web tool is proposed for self-assessment and training in this task (AU)</dc:description>
+<dc:creator>Sigut Saavedra, J. F</dc:creator>
+<dc:creator>Sanchez, J. L</dc:creator>
+<dc:creator>Gonzalez de la Rosa, M</dc:creator>
+<dc:creator>Alayon, S</dc:creator>
+<dc:creator>Fumero, F. J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Estimar el grado de error en la determinación subjetiva del límite papilar.Método1) Fueron evaluadas 169 imágenes papilares por cinco expertos para delimitar los bordes papilares en 8 posiciones (cada 45°). 2) Las áreas estimadas en 26 casos se compararon con las medidas mediante tomógrafo de coherencia óptica (OCT-Cirrus). Resultados: 1) La variación media del radio papilar estimado fue de ± 5,2%, sin diferencias significativas entre sectores. Entre los cinco expertos existieron diferencias específicas (p&lt;0,001) de cada uno respecto a los restantes. 2) El área papilar medida por OCT-Cirrus fue de 1,78 mm2 (DE=0,27). Los resultados de los expertos que informaron de áreas menores estuvieron mejor correlacionados con el área de OCT-Cirrus (r = 0,77-0,88) que los que informaron de áreas mayores (r=0,61-0,69) (p&lt;0,05 en casos extremos). Conclusiones: Existen patrones específicos de cada experto para definir los límites papilares que pueden significar variaciones del 20% en la estimación de su área. Aquellos expertos que realizan delimitaciones menores tuvieron una mayor coincidencia con el método objetivo utilizado. Proponemos una herramienta web de autoevaluación y entrenamiento en esta tarea (AU)</dc:description>
+<dc:source>Arch Soc Esp Oftalmol;88(5): 168-173, mayo 2013. ilus, tab</dc:source>
+<dc:identifier>ibc-112658</dc:identifier>
+<dc:title xml:lang="es">Variabilidad entre expertos al delimitar el borde y área papilar</dc:title>
+<dc:subject>^d24807</dc:subject>
+<dc:subject>^d27865^s22016</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d10078^s22004</dc:subject>
+<dc:subject>^d10080^s22004</dc:subject>
+<dc:subject>^d28053^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201305</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-22908</identifier>
+<setSpec>0212-8799</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Informed conset for medical prescription in sports medicine</dc:title>
+<dc:creator>Fernández García, Benjamín</dc:creator>
+<dc:creator>Gallego Riestra, Sergio</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Federación Española de Medicina del Deporte</dc:publisher>
+<dc:description xml:lang="es">La medicina del deporte es una especialidad médica orientada al cuidado de la salud de la población general y de los deportistas de competición. Como actividad asistencial está sometida a las mismas exigencias legales que otras especialidades médicas. Sin embargo, también está sometida a la normativa de dopaje. En la actualidad existen diferentes documentos que registran la prescripción de fármacos. El objetivo de este trabajo es analizarlos documentos existentes y crear un modelo de consentimiento informado (CI) en la prescripción de fármacos en el deporte. Material y métodos: se analizan los distintos modelos genéricos: historia clínica y receta, libro de registro de prescripción, libro de salud y otros modelos particulares de consentimiento, en función de los criterios básicos del CI: información al deportista de la naturaleza del procedimiento terapeútico, riesgos, beneficios y alternativas de tratamiento. Resultados y discusión: la historia clínica es la base de toda atención médica y su legalidad está reconocida siempre que se detalle todos sus apartados. El libro de registro no contempla los criterios de Cl de tratamiento. El libro de salud incluye el listado de las sustancias dopantes pero no tiene en cuenta del resto de aspectos del CI. Por último, los modelos particulares analizados indican las sustancias dopantes pero no recogen, en cada prescripción, los criterios del CI. Por otro lado, proponemos un modelo de Cl para la prescripción de fármacos en medicina del deporte aceptado por el comité asistencial de ética del Hospital Central de Asturias. Conclusiones: la historia clínica es el documento básico de la atención médica. El documento propuesto de CI para la prescripción de fármacos en medicina del deporte cumple los criterios básicos de CI (AU)</dc:description>
+<dc:source>Arch. med. deporte;20(94): 129-134, mar. 2003.</dc:source>
+<dc:identifier>ibc-22908</dc:identifier>
+<dc:title xml:lang="es">Consentimiento informado para la prescripción de medicamentos en medicina del deporte</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d13562^s22041</dc:subject>
+<dc:subject>^d4360^s22054</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d^s22048</dc:subject>
+<dc:subject>^d7435^s22041</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200303</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-21960</identifier>
+<setSpec>1137-6821</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Severity scores and prediction of survival in severely injured patients treated in an urban prehospital emergency service</dc:title>
+<dc:creator>Gómez Díez, J. C</dc:creator>
+<dc:creator>Fernández Moya, A</dc:creator>
+<dc:creator>Gilarranz Vaquero, J. L</dc:creator>
+<dc:creator>Lucas García, N. de</dc:creator>
+<dc:creator>Medina Álvarez, J. C</dc:creator>
+<dc:creator>Santa Teresa Rodríguez, B</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Saned, S.A.</dc:publisher>
+<dc:description xml:lang="es">Introducción: Estudios realizados en norteamérica han demostrado la eficacia de algunos índices de gravedad para establecer la probabilidad de supervivencia. Pretendemos determinar su utilidad en pacientes traumatizados graves atendidos por un servicio de emergencias médicas prehospitalario urbano. Métodos: Se estudian los pacientes traumatizados graves atendidos por equipos de soporte vital avanzado durante 1996. Se establecen in situ los valores de "Injurity Severity Score" (ISS), Indice de Shock (IS), "Revised Trauma Score" (RTS) y versión de triage de RTS (T-RTS). Se comparan supervivientes y fallecidos mediante test T de Student y MannWhitney. Se valora la utilidad predictiva de los índices mediante regresión logística. Resultados: Se estudiaron 264 traumatizados graves (el 70 por ciento, consecuencia de un accidente de tráfico), observándose diferencia significativa en supervivientes y fallecidos a 6 y 24 horas para ISS, RTS y T-RTS, pero no para IS. Se ajustó la probabilidad de supervivencia a 6 y 24 horas en función del valor de RTS y T-RTS. Conclusiones: Se comprueba menor utilidad de IS para distinguir al paciente crítico que en estudios americanos, quizás por alterarse más tardíamente. Nuestras probabilidades de supervivencia en las puntuaciones más bajas del RTS y T-RTS son superiores a las publicadas en EE.UU., lo cual puede deberse a la diferente etiología de los traumatismos, nuestros cortos tiempos de respuesta y el tipo de asistencia. RTS y T-RTS son apropiados para establecer probabilidad de supervivencia in situ en traumatizados graves atendidos por un sistema de emergencias médicas prehospitalario urbano. No consideramos adecuado predecir supervivencia basándose en los resultados de sistemas prehospitalarios de atención urgente distintos (AU)</dc:description>
+<dc:source>Emergencias (Sant Vicenç dels Horts);12(1): 14-19, feb. 2000. tab, graf</dc:source>
+<dc:identifier>ibc-21960</dc:identifier>
+<dc:title xml:lang="es">Índices de gravedad y predicción de supervivencia en elpaciente traumatizado grave atendido por un servicio deemergencias prehospitalario urbano</dc:title>
+<dc:subject>^d24890</dc:subject>
+<dc:subject>^d22947^s22047</dc:subject>
+<dc:subject>^d24901</dc:subject>
+<dc:subject>^d28837^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d15345^s22047</dc:subject>
+<dc:subject>^d28604^s22066</dc:subject>
+<dc:subject>^d23893^s22047</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200002</dc:date>
+</metadata>
+</record>
+</ibecs-document>

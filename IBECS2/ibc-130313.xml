@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-130313</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Epidemiological study of Clostridium difficile infection in critical patients admitted to the Intensive Care Unit</dc:title>
+<dc:description xml:lang="en">Data on the epidemiology of infections caused by Clostridium difficile (CDI) in critically ill patients are scarce and center on studies with a limited time framework and/or epidemic outbreaks. Objective: To describe the characteristics and risk factors of critically ill patients admitted to the ICU with CDI, as well as the treatments used for the control of such infections. Material and methods: A retrospective study was made of patients included in the ENVIN-ICU registry with CDI in 2012. Patients were followed up to 72h after discharge from the ICU. A case report form was used to record the following data: demographic variables, risk factors related to CDI, treatment and outcome. Infections were classified as community-acquired, nosocomial out-ICU and nosocomial in-ICU, according to the day on which Clostridium difficile isolates were obtained. Infection rates as episodes per 10,000 days of ICU stay are presented. The global in-ICU and hospital mortality rates were calculated. Results: Sixty-eight episodes of CDI in 33 out of a total of 173 ICUs participating in the registry were recorded (19.1%) (2.1 episodes per 10,000 days of ICU stay). Forty-five patients were men (66.2%), with a mean (SD) age of 63.4 (16.4) years, a mean APACHE II score on ICU admission of 19.9 (7.4), and an underlying medical condition in 44 (64.7%). Sixty-two patients (91.2%) presented more than 3 liquid depositions/day, 40 (58.8%) in association with severe sepsis or septic shock. Community-acquired infection occurred in 13 patients (19.1%), nosocomial out-ICU infection in 13 (19.1%), and in-ICU infection in 42 (61.8%). Risk factors included age &gt; 64 years in 39 cases (57.4%), previous hospital admission (3 months) in 32 (45.6%), use of antimicrobials (previous 7 days) in 57 (83.8%), enteral nutrition in 23 (33.8%), and the use of H2 inhibitors in 39 (57.4%). Initial combined treatment was administered to 18 patients (26.5%). Metronidazole was used in 60 (88.2%) and vancomycin in 31 (45.6%). The in-ICU mortality rate was 25.0% (n=17), with a hospital mortality 27.9% (n=19). Conclusions: The rate of ICD in ICU patients is low, the infection affects severely ill patients, and is associated with high mortality. The presence of CDI is a marker of poor prognosis (AU)</dc:description>
+<dc:creator>Palomar, M</dc:creator>
+<dc:creator>Pascual, C</dc:creator>
+<dc:creator>Posada, MP</dc:creator>
+<dc:creator>Amador, J</dc:creator>
+<dc:creator>Villasboa, A</dc:creator>
+<dc:creator>Almirall, J</dc:creator>
+<dc:creator>Catalan, M</dc:creator>
+<dc:creator>Alvarez-Lerma, F</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La epidemiología de las infecciones por Clostridium difficile (ICD) en pacientes críticos es escasa y centrada en estudios limitados en tiempo y/o en brotes epidémicos. Objetivo: Describir las características y los factores de riesgo de pacientes críticos ingresados en UCI con ICD, así como los tratamientos utilizados para su control. Material y método: Análisis retrospectivo de pacientes incluidos en el registro ENVIN-UCI con ICD en el año 2012. Los pacientes se han seguido hasta 72h después de su alta de UCI. Se ha cumplimentado un cuaderno de recogida de datos, en el que se incluyen variables demográficas, factores de riesgo relacionados con Clostridium difficile, tratamiento y evolución. Los aislamientos se han clasificado por su origen en comunitarios, nosocomiales extra-UCI y nosocomiales intra-UCI en función del día de aislamiento. Se presentan las tasas por episodios por 10.000 días de estancia en UCI. Se describe la mortalidad global intra-UCI y hospitalaria. Resultados: Se han detectado 68 episodios de ICD en 33 (19,1%) UCI de las 173 participantes en el registro (2,1 episodios por 10.000 días de estancia-UCI). En 45 (66,2%) casos eran hombres, con edad media de 63,4 (16,4) años, APACHE II al ingreso de 19,9 (7,4) y enfermedad de base médica 44 (64,7%). En 62 (91,2%) ocasiones presentaron más de 3 deposiciones líquidas/día y en 40 (58,8%) se asoció con sepsis severa o shock séptico. En 13 (19,1%) ocasiones fue de origen comunitario, en 13 (19,1%) de origen nosocomial extra-UCI y en 42 (61,8%) de origen intra-UCI. Factores de riesgo: edad &gt; 64 años 39 (57,4%), ingreso previo hospital (3 meses) 32 (45,6%), antimicrobianos (7 días previos) 57 (83,8%), nutrición enteral 23 (33,8%) e inhibidores H2 39 (57,4%). Siguieron tratamiento inicial combinado 18 (26,5%) casos y se ha utilizado metronidazol en 60 (88,2%) y vancomicina en 31 (45,6%) casos. Hubo mortalidad global intra-UCI en 17 (25,0%) casos y hospitalaria de 19 (27,9%). Conclusiones: La tasa de ICD en pacientes ingresados en UCI es baja y afecta a pacientes con elevada gravedad y mortalidad. La presencia de ICD es un marcador de mal pronóstico (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);38(9): 558-566, dic. 2014. ilus, tab</dc:source>
+<dc:identifier>ibc-130313</dc:identifier>
+<dc:title xml:lang="es">Estudio epidemiológico de infección por Clostridium difficile en pacientes críticos ingresados en una Unidad de Cuidados Intensivos</dc:title>
+<dc:subject>^d30170^s22080</dc:subject>
+<dc:subject>^d7530^s22083</dc:subject>
+<dc:subject>^d3041^s22080</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28890^s22052</dc:subject>
+<dc:subject>^d28477^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201412</dc:date>
+</metadata>
+</record>
+</ibecs-document>

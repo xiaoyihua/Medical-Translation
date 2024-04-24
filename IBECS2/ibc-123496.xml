@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-123496</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Comparative Prognostic Value of Plasma and Urinary N-Terminal Pro-B-Type Natriuretic Peptide in Patients With Acute Destabilized Heart Failure</dc:title>
+<dc:description xml:lang="en">Introduction and objectives: Urinary concentrations of amino-terminal pro-B type natriuretic peptide (NT-proBNP) may be prognostically meaningful; however, direct comparison to plasma concentrations of this marker have not been performed in patients with acutely decompensated heart failure (ADHF). The aims of this study were to compare the prognostic value of plasma versus urinary NT-proBNP concentration for the risk stratification of patients with ADHF. Methods: Consecutive hospitalized patients with ADHF were prospectively studied. Blood and urine samples were simultaneously collected on hospital arrival to determine NT-proBNP concentrations. Clinical follow-up was obtained, and the occurrence of mortality and heart failure hospitalization was registered. Results: The study included 138 patients (median, 74 years [interquartile range, 67-80]; 54% men). During a median follow-up period of 387 days [interquartile range, 161-559], 65 patients (47%) suffered adverse clinical events. Plasma NT-proBNP concentration was higher among patients who presented adverse events (4561 pg/mL [2191-8631] vs 2906 pg/mL [1643-5823]; P=.03), whereas urinary NT-proBNP was similar in both groups (P=.62). After multivariable Cox regression analyses, plasma NT-proBNP concentration was associated with a higher risk of adverse events, whether considered continuously (per 100 pg/mL; hazard ratio [HR]=1.004; 95% confidence interval [CI], 1.001-1.007; P=.003) or categorically (&amp;#8805;3345 pg/mL; HR=2.35; 95% CI, 1.41-3.93; P=.001). In contrast, urinary NT-proBNP concentration was not associated with adverse outcomes. Conclusions: Plasma NT-proBNP concentration is superior to urinary NT-proBNP concentration for the prediction of adverse clinical outcomes among unselected patients with ADHF (AU)</dc:description>
+<dc:creator>Albaladejo-Otón, María D</dc:creator>
+<dc:creator>Valdés, Mariano</dc:creator>
+<dc:creator>Pastor, Patricia</dc:creator>
+<dc:creator>Boronat García, Miguel</dc:creator>
+<dc:creator>Muñoz-Esparza, Carmen</dc:creator>
+<dc:creator>Pascual-Figal, Domingo A</dc:creator>
+<dc:creator>Bonaque-González, Juan C</dc:creator>
+<dc:creator>Manzano-Fernández, Sergio</dc:creator>
+<dc:creator>Januzzi, James L</dc:creator>
+<dc:creator>Pastor-Pérez, Francisco J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos: Se ha sugerido que las concentraciones urinarias de la porción aminoterminal del pro-péptido natriurético tipo B (NT-proBNP) pueden tener valor pronóstico en pacientes con insuficiencia cardiaca estable, pero hasta ahora no se ha realizado una comparación directa con las concentraciones plasmáticas de este marcador en pacientes con una insuficiencia cardiaca aguda descompensada (ICAD). El objetivo de este estudio fue comparar el valor pronóstico de la concentración plasmática de NT-proBNP con el de la concentración urinaria de este marcador en la estratificación del riesgo de los pacientes con ICAD.Métodos: Se estudió prospectivamente a pacientes consecutivos hospitalizados con ICAD. A la llegada al hospital, se obtuvieron simultáneamente muestras de sangre y orina, para determinar las concentraciones de NT-proBNP. Se realizó un seguimiento clínico, y se registraron la mortalidad y la hospitalización por insuficiencia cardiaca.Resultados: Se incluyó un total de 138 pacientes (mediana de edad, 74 años [rango intercuartiles, 67-80]; 54 varones). Durante una mediana de seguimiento de 387 días [rango intercuartiles, 161-559], 65 pacientes (47%) presentaron eventos clínicos adversos. La concentración plasmática de NT-proBNP fue más alta en los pacientes que presentaron eventos clínicos adversos (4.561 pg/ml [2.191-8.631] frente a 2.906 pg/ml [1.643-5.823]; p=0,03), mientras que la concentración urinaria de NT-proBNP fue similar en ambos grupos (p=0,62). En los análisis de regresión de Cox multivariable, la concentración plasmática de NT-proBNP se asoció a un mayor riesgo de eventos clínicos adversos, tanto como variable continua (por 100 pg/ml; razón de riesgos [HR]=1,004; intervalo de confianza [IC] del 95%, 1,001-1,007; p=0,003) o categórica (&amp;#8805;3.345 pg/ml; HR; IC del 95%, 1,41-3,93; p=0,001). En cambio, la concentración urinaria de NT-proBNP no se asoció a una evolución clínica adversa.Conclusiones: La concentración plasmática de NT-proBNP es superior a la concentración urinaria de este marcador en la predicción de los resultados clínicos adversos en pacientes con ICAD (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;64(5): 365-372, mayo 2011. ilus, tab</dc:source>
+<dc:identifier>ibc-123496</dc:identifier>
+<dc:title xml:lang="es">Valor pronóstico comparativo del pro-péptido natriurético tipo B aminoterminal urinario en pacientes con insuficiencia cardiaca aguda descompensada</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d38110^s22050</dc:subject>
+<dc:subject>^d6486^s22032</dc:subject>
+<dc:subject>^d23568^s22002</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d28575</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201105</dc:date>
+</metadata>
+</record>
+</ibecs-document>

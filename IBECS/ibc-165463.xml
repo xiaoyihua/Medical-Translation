@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-165463</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Comparison of methods for dealing with missing value the EPV-R</dc:title>
+<dc:description xml:lang="en">Background: The development of an effective instrument to assess the risk of partner violence is a topic of great social relevance. This study evaluates the scale of  &#145;Predicción del Riesgo de Violencia Grave Contra la Pareja&#146; -Revisada- (EPV-R - Severe Intimate Partner Violence Risk Prediction Scale-Revised), a tool developed in Spain, which is facing the problem of how to treat the high rate of missing values, as is usual in this type of scale. Method: First, responses to the EPV-R in a sample of 1215 male abusers who were reported to the police were used to analyze the patterns of occurrence of missing values, as well as the factor structure. Second, we analyzed the performance of various imputation methods using simulated data that emulates the missing data mechanism found in the empirical database. Results: The imputation procedure originally proposed by the authors of the scale provides acceptable results, although the application of a method based on the Item Response Theory could provide greater accuracy and offers some additional advantages. Conclusions: Item Response Theory appears to be a useful tool for imputing missing data in this type of questionnaire (AU)</dc:description>
+<dc:creator>Amor, Pedro J</dc:creator>
+<dc:creator>Paniagua, David</dc:creator>
+<dc:creator>Echeburúa, Enrique</dc:creator>
+<dc:creator>Abad, Francisco J</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Antecedentes: el desarrollo de un instrumento eficaz para evaluar el riesgo de violencia contra la pareja representa un tema de gran relevancia social. En el presente estudio se evalúa la escala de Predicción del Riesgo de Violencia Grave Contra la Pareja -Revisada- (EPV-R), una herramienta desarrollada en nuestro contexto, que se enfrenta al problema de cómo tratar la elevada tasa de valores perdidos, que es usual en este tipo de escalas. Método: en primer lugar, se estudia en una muestra empírica (N = 1215) el patrón de aparición de los valores perdidos, así como la estructura factorial del EPV-R. En segundo lugar, se analiza el funcionamiento de distintos métodos de imputación en datos simulados en los que se emula el mecanismo de pérdida de datos encontrado para la base de datos empírica. Resultados: el procedimiento de imputación originalmente propuesto por los autores de la escala ofrece resultados aceptables, si bien la aplicación de un método basado en la Teoría de la Respuesta al Ítem podría proporcionar una mayor precisión y ofrece algunas ventajas adicionales. Conclusiones: la Teoría de la Respuesta al Ítem demuestra ser una herramienta útil para la imputación de respuestas en este tipo de cuestionarios (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);29(3): 384-389, ago. 2017. graf, tab</dc:source>
+<dc:identifier>ibc-165463</dc:identifier>
+<dc:title xml:lang="es">Comparación de métodos para el tratamiento de valores perdidos en la EPV-R</dc:title>
+<dc:subject>^d12031^s22039</dc:subject>
+<dc:subject>^d9204</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d56165^s22083</dc:subject>
+<dc:subject>^d56155^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d56156^s22056</dc:subject>
+<dc:subject>^d23027^s22056</dc:subject>
+<dc:subject>^d13564^s22056</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201708</dc:date>
+</metadata>
+</record>
+</ibecs-document>

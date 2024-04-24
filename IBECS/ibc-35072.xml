@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-35072</identifier>
+<setSpec>1135-4127</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:creator>Gómez Juanes, V</dc:creator>
+<dc:creator>Crespo Sánchez-Eznarriaga, B</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Este trabajo tiene como objetivo presentar el sistema de información Digitalis y describir el consumo farmacéutico medido en recetas, importe y dosis diarias definidas (DDD) por tramos de edad y sexo de los pacientes que han consumido medicamentos, todo ello mediante una selección básica de las posibilidades de explotación que ofrece dicho sistema. Digitalis se concibe como un sistema de explotación de los datos de la receta médica centralizado desde la perspectiva de un modelo de gestión por objetivos. Para actualizar o extraer datos, todos los usuarios acceden al sistema a través de la red de comunicaciones propia del servicio de salud en cuestión, mediante páginas web. Los resultados señalan que la población consumidora de medicamentos supone, al menos, un 59,70 por ciento de toda la población protegida. Asimismo destaca que, en el total de recetas, el conjunto de las mujeres consume un 50 por ciento más que los varones; en cambio, una receta de mujer es sensiblemente más barata que la de un varón. Además, el consumo aumenta con la edad, hasta el punto de que, por término medio, una persona de más de 65 años consumió diariamente cerca de 2 dosis de medicamentos durante todo el año 2001. Sólo en las edades infantiles los varones consumen más que las mujeres. Es imprescindible introducir la nueva perspectiva que supone la explotación de las características del paciente; para ello es preciso que los sistemas y bases de datos de todo el Sistema Nacional de Salud (SNS) permitan disponer e intercambiar toda esta información con el objetivo de aumentar la eficiencia de la planificación y gestión sanitaria. En este sentido, el sistema de información Digitalis es un paso adelante en esa dirección (AU)</dc:description>
+<dc:source>Cuad. gest. prof. aten. prim. (Ed. impr.);10(3): 115-128, jul. 2004. ilus</dc:source>
+<dc:identifier>ibc-35072</dc:identifier>
+<dc:title xml:lang="es">Sistema de información Digitalis: aplicación práctica al análisis del consumo farmacéutico por tramos de edad y sexo</dc:title>
+<dc:subject>^d7399</dc:subject>
+<dc:subject>^d6447^s22083</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d30355</dc:subject>
+<dc:subject>^d31048</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d^s22083</dc:subject>
+<dc:subject>^d33921</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d2715</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d13037</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d6447^s22018</dc:subject>
+<dc:subject>^d22226</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d19269</dc:subject>
+<dc:subject>^d31670</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200407</dc:date>
+</metadata>
+</record>
+</ibecs-document>

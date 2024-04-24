@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-99075</identifier>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Tables for estimating glomerular filtration rate from plasma creatinine</dc:title>
+<dc:description xml:lang="en">Chronic kidney disease (CKD) and its related complications have become an important health and social problem. Very expensive resources are required in end-stage renal disease, and both complications of CKD as well as the important associated cardiovascular risk demand for interventions long before renal substitution therapies are needed. Thus, early diagnosis of CKD is currently considered of paramount importance, and it is based essentially upon the estimation of the glomerular filtration rate by formulae such as the abbreviated equation of the MDRD study. Nevertheless, in spite of international published recommendations, an automatic calculation to estimate the glomerular filtration rate (GFR) from serum creatinine is not reported by most laboratories yet and the need for creatinine as say standardisation is far from being implemented. Thus, we have designed some tables to show the creatinine value corresponding to different GFR for ages between 20 and 90 y/o, at 5years intervals and in both sexes with both the MDRD-4 and MDRD-IDMS equations (Modification of Diet in Renal Disease-Isotope Dilution Mass Spectrometry). Moreover, we have created a global table including an estimation of GFR from plasma creatinine, age and sex by the MDRD-IDMS formula, the recommended for those laboratories which measure serum creatinine with assays aligned to the reference method. These tables aim to increase the awareness of the different assays for serum creatinine and to facilitate the diagnosis of CKD converting serum creatinine into GFR. This action should allow not only the early detection but also the possibility to establish the appropriate medical actions recommended after CKD detection (AU)</dc:description>
+<dc:creator>Bover, J</dc:creator>
+<dc:creator>Calero, F</dc:creator>
+<dc:creator>Pellicer, R</dc:creator>
+<dc:creator>Rocha, C. I</dc:creator>
+<dc:creator>Montañés, R</dc:creator>
+<dc:creator>Gracia, S</dc:creator>
+<dc:creator>Canal, C</dc:creator>
+<dc:creator>Ballarín, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La enfermedad renal crónica (ERC) y las complicaciones que de ella se derivan se ha convertido en un importante problema social y sanitario, tanto por los recursos que se requieren en los estadios finales de la enfermedad como por las complicaciones secundarias a la propia ERC y a su elevado riesgo cardiovascular asociado. Hoy se considera de gran valor el diagnóstico precoz, basándose la definición y la clasificación actuales fundamentalmente en la estimación del filtrado glomerular (FG) por medio de fórmulas como la ecuación abreviada del estudio MDRD. No obstante, a pesar de las recomendaciones internacionales, no en todos los laboratorios es posible el cálculo automático del FG a partir de la creatinina plasmática ni se ha enfatizado la necesidad de estandarización de los métodos de medición de la misma. Es por ello que hemos diseñado unas tablas en las que se ha calculado el valor de creatinina correspondiente a los diferentes FG con significación clínica para cada una de las edades comprendidas entre 20y 90 años y a intervalos de 5 años en ambos sexos con lasfórmulas MDRD-4 y MDRD-IDMS (Modification of Diet in Renal Disease-Isotope Dilution Mass Spectrometry). Además hemos creado una tabla que integra de forma global una estimación del FG a partir de la creatinina plasmática por el método MDRD-IDMS que es el recomendado para aquellos laboratorios que utilizan un método de medición de la creatinina con trazabilidad respecto al método de referencia de espectrometría de masas por dilución isotópica. Estas tablas pretenden, no sólo incrementar la conciencia de la existencia de distintos ensayos en la medida de la creatinina sérica que influyen sobre la estimación del FG, sino también el facilitar el diagnóstico de la ERC a partir de la conversión de la creatinina plasmática en FG, para permitirá sí el diagnóstico precoz y el establecimiento de las acciones precisas que se recomiendan tras su detección (AU)</dc:description>
+<dc:source>Nefrologia;28(3): 317-324, mayo-jun. 2008. tab</dc:source>
+<dc:identifier>ibc-99075</dc:identifier>
+<dc:title xml:lang="es">Tablas para la estimación del filtrado glomerular a partir de la creatinina plasmática</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d3421^s22062</dc:subject>
+<dc:subject>^d7852^s22045</dc:subject>
+<dc:subject>^d29407^s22074</dc:subject>
+<dc:subject>^d13441^s22074</dc:subject>
+<dc:subject>^d50497^s22032</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6063</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200806</dc:date>
+</metadata>
+</record>
+</ibecs-document>

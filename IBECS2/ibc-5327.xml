@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-5327</identifier>
+<setSpec>1135-4127</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:creator>Mayol Canas, J </dc:creator>
+<dc:creator>Cazorla Gil, P </dc:creator>
+<dc:creator>Dopico Ponte, A </dc:creator>
+<dc:creator>Tello García, M. L </dc:creator>
+<dc:creator>Velasco Sánchez, V </dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">El Área 1 de Atención Primaria de Madrid ha presentado sus primeras conclusiones del plan piloto previsto para dotar a los centros de salud de un dispositivo automático de cita previa ensayado en el Centro de Salud La Paz de Rivas Vaciamadrid. Objetivo del proyecto: Facilitar el acceso telefónico para la obtención de cita a través de un sistema automático, disminuyendo las reclamaciones derivadas del mismo y aumentar, de esta forma, la satisfacción del usuario con la cita previa. Descripción de la experiencia: Se han instalado 5 líneas telefónicas para asignación de cita previa automática con reconocimiento fonético y a través de tonos, que permiten la gestión inteligente de llamadas incluyendo el desvío a operadoras humanas. Las exigencias técnicas específicas son las referidas a las características de la centralita del centro que debe ser de multifrecuencia, informatización de las bases de datos de pacientes, software y hardware de reconocimiento fonético. Resultados: Se ha obtenido un porcentaje de cita estabilizado entre un 36,10 y un 52,20 por ciento a los 8 meses desde el inicio. Al año de la implantación, de aquellos pacientes que solicitan cita a través del teléfono, la media de citas telefónicas registradas es de un 44 por ciento. Dado que el sistema funciona 24 h al día, 365 días al año, se están produciendo un 10,11 por ciento de llamadas fuera de horario de apertura del centro, citándose el 55 por ciento de las mismas. Conclusiones: La cita telefónica automática permite, con eficiencia y eficacia, la gestión de llamadas para cita previa, aumentando la capacidad de respuesta, fundamentalmente, en los picos horarios y la distribución de llamadas hacia los horarios de cierre del centro (AU)</dc:description>
+<dc:source>Cuad. gest. prof. aten. prim. (Ed. impr.);6(4): 194-200, oct. 2000.</dc:source>
+<dc:identifier>ibc-5327</dc:identifier>
+<dc:title xml:lang="es">Cita telefónica automatizada. Soluciones precisas a un problema concreto en el Área 1 de atención primaria de Madrid</dc:title>
+<dc:subject>^d14067</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d22347</dc:subject>
+<dc:subject>^d29902</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1077</dc:subject>
+<dc:subject>^d11756^s22045</dc:subject>
+<dc:subject>^d27771</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200010</dc:date>
+</metadata>
+</record>
+</ibecs-document>

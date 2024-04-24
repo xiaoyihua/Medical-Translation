@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-124772</identifier>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Methodological approach for designing a telecare system for patients on pre-dialysis and peritoneal dialysis</dc:title>
+<dc:description xml:lang="en">Background: A major obstacle that hinders the implementation of technological solutions in healthcare is the rejection of developed systems by users (healthcare professionals and patients), who consider that they do not adapt to their real needs. Objectives: (1) To design technological architecture for the telecare of nephrological patients by applying a methodology that prioritises the involvement of users (professionals and patients) throughout the design and development process; (2) to show how users' needs can be determined and addressed by means of technology, increasing the acceptance level of the final systems. Methods: In order to determine the main current needs in Nephrology, a group of Spanish Nephrology Services was involved. Needs were recorded through semi-structured interviews with the medical team and questionnaires for professionals and patients. Results: A set of requirements were garnered from professionals and patients. In parallel, the group of biomedical engineers identified requirements for patient telecare from a technological perspective. All of these requirements drove the design of modular architecture for the telecare of peritoneal dialysis and pre-dialysis patients. Conclusions: This work shows how it is possible to involve users in the whole process of design and development of a system. The result of this work is the design of adaptable modular architecture for the telecare of nephrological patients and it addresses the preferences and needs of patient and professional users consulted (AU)</dc:description>
+<dc:creator>Vega-Díaz, Nicanor</dc:creator>
+<dc:creator>Tornero-Molina, Fernando</dc:creator>
+<dc:creator>Calvillo-Arbizu, Jorge</dc:creator>
+<dc:creator>Macía-Heras, Manuel</dc:creator>
+<dc:creator>Roa-Romero, Laura M</dc:creator>
+<dc:creator>Aresté-Fosalba, Nuria</dc:creator>
+<dc:creator>Milán-Martín, José A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Antecedentes: Un importante obstáculo que dificulta el despliegue de soluciones tecnológicas en sanidad es el rechazo que encuentran los sistemas desarrollados por los usuarios que tienen que utilizarlos (ya sean profesionales sanitarios o pacientes), que consideran que no se adaptan a sus necesidades reales. Objetivos: (1) Diseñar una arquitectura tecnológica para la asistencia remota de pacientes nefrológicos aplicando una metodología que prime la implicación de los usuarios (profesionales y pacientes) en todo el diseño y desarrollo; (2) ilustrar cómo las necesidades de los usuarios pueden ser recogidas y respondidas mediante la tecnología, aumentando el nivel de aceptación de los sistemas finales. Métodos: Para obtener las principales necesidades que existen actualmente en Nefrología se implicó a un conjunto de servicios españoles de la especialidad. Se realizó una recogida de necesidades mediante entrevistas semiestructuradas al equipo médico y cuestionarios a profesionales y pacientes. Resultados: Se extrajeron un conjunto de requisitos tanto de profesionales como de pacientes y, paralelamente, el grupo de ingenieros biomédicos identificó requisitos de la asistencia remota de pacientes desde un punto de vista tecnológico. Todos estos requisitos han dado pie al diseño de una arquitectura modular para la asistencia remota de pacientes en diálisis peritoneal y prediálisis. Conclusiones: Este trabajo ilustra cómo es posible implicar a los usuarios en todo el proceso de diseño y desarrollo de un sistema. Fruto de este trabajo es el diseño de una arquitectura modular adaptable para asistencia remota de pacientes nefrológicos respondiendo a las preferencias y necesidades de los usuarios pacientes y profesionales consultados (AU)</dc:description>
+<dc:source>Nefrologia;34(2): 1-9, mar.-abr. 2014. ilus</dc:source>
+<dc:identifier>ibc-124772</dc:identifier>
+<dc:title xml:lang="es">Aproximación metodológica al diseño de un sistema de teleasistencia para pacientes en prediálisis y diálisis peritoneal</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d19349</dc:subject>
+<dc:subject>^d50497^s22067</dc:subject>
+<dc:subject>^d32630^s22049</dc:subject>
+<dc:subject>^d33920^s22074</dc:subject>
+<dc:subject>^d29504^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30481^s22049</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201404</dc:date>
+</metadata>
+</record>
+</ibecs-document>

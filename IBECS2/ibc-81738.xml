@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-81738</identifier>
+<setSpec>0210-4806</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Relationship of preoperative PSA velocity to histopathological findings in the surgical specimen and survival after radical prostatectomy</dc:title>
+<dc:description xml:lang="en">Objective: To assess whether PSA velocity (PSV) is related to pathological findings in surgical specimen, biochemical recurrence-free survival (BRFS), cancer-related survival (CRS), and overall survival (OS). Materials and methods: A retrospective and prospective observational cohort study on 265 patients with prostate cancer (PCa) who underwent radical prostatectomy (RP) from 2000 to 2008. PSAV was calculated arithmetically and by linear regression analysis, using PSA values in the year prior to diagnosis. A multivariate logistic regression analysis was performed to detect variables associated to extracapsular disease (ECD). Variables related to BRFS, CRS, and OS were analyzed using Kaplan-Meier methodology (PSAV &amp;#8804;3 vs. &gt;3ng/mL/year) and a multivariate Cox regression analysis. The ability of PSA velociy to predict BRFS, CRS, and OS was evaluated by c-index. Results: Median follow-up was 56.16 months (9.14&#150;106.75). Median PSAV was 0.65 and 0.63ng/ml/year using the arithmetic and regression methods respectively. ECD was detected in 74 specimens (27.92%), and biochemical recurrence in 50 patients (18.87%). Cancer-related mortality was seen in 4 patients (1.52%) and overall mortality in 16 (6.08%). In the multivariate analysis, PSAV was not related to ECD. PSAV was an independent predictor for BRFS (RR: 1.06, 95% CI: 1.02&#150;1.13, p=0.008), CRS (RR: 1.22, 95% CI: 1.00&#150;1.50, p=0.048), and OS (RR: 1.35, 95% CI: 1.18&#150;1.55, p&lt;0.001) in the multivariate Cox regression analysis. Conclusions: PSAV is a preoperative parameter that predicts for BFRS, CRS, and OS in patients undergoing RP. No association was found between PSA velocity and presence of ECD (AU)</dc:description>
+<dc:creator>Rodríguez-Alonso, A</dc:creator>
+<dc:creator>Cuerpo-Pérez, M</dc:creator>
+<dc:creator>González-Blanco, A</dc:creator>
+<dc:creator>Pértega-Díaz, S</dc:creator>
+<dc:creator>Pita-Fernández, S</dc:creator>
+<dc:creator>Bonelli-Martín, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Determinar si la velocidad de antígeno prostático específico (PSAV) se relaciona con los hallazgos histopatológicos de la pieza, la supervivencia libre de recidiva bioquímica (SLRB), la supervivencia cáncer-relacionada (SCR) y la supervivencia global (SG). Material y métodos: Estudio observacional de cohorte retrospectivo y prospectivo formado por 265 pacientes con cáncer de próstata a los que se practicó prostatectomía radical (PR) entre 2000&#150;2008. La PSAV fue calculada de forma aritmética y mediante regresión lineal, utilizando valores de antígeno prostático específico del año previo al diagnóstico. Se realizó un análisis multivariado de regresión logística para detectar variables asociadas a enfermedad extracapsular (EEC). Las variables asociadas a SLRB, SCR y SG fueron estudiadas mediante análisis de Kaplan-Meier (PSAV&amp;#8804;3 vs. &gt;3ng/ml/año) y multivariado de regresión de Cox. La capacidad de PSAV para predecir SLRB, SCR y SG fue determinada mediante c-index. Resultados: La mediana de seguimiento fue 56,16 meses (9,14&#150;106,75). La mediana de PSAV fue 0,65 y 0,63ng/ml/año con los métodos aritmético y de regresión, respectivamente. Se detectó EEC en 74 casos (27,92%) y recidiva bioquímica en 50 (18,87%). Se observó mortalidad cáncer-relacionada en 4 pacientes (1,52%) y mortalidad global en 16 (6,08%). En el análisis multivariado, la PSAV no se relacionó con EEC, asociándose de forma independiente con la SLRB (RR: 1,06; IC 95%: 1,02&#150;1,13; p:=0,008), SCR (RR: 1,22; IC 95%: 1,00&#150;1,50; p=0,048) y SG (RR: 1,35; IC 95%: 1,18&#150;1,55; p&lt;0,001). Conclusiones: La PSAV es una variable preoperatoria que predice SLRB, SCR y SG en los pacientes tratados mediante PR. No se observa asociación entre PSAV y la presencia de EEC (AU)</dc:description>
+<dc:source>Actas Urol Esp;34(5): 417-427, mayo 2010. graf, tab</dc:source>
+<dc:identifier>ibc-81738</dc:identifier>
+<dc:title xml:lang="es">Relación de la velocidad preoperatoria de PSA con los hallazgos histopatológicos de la pieza quirúrgica y la supervivencia tras prostatectomía radical</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d32281</dc:subject>
+<dc:subject>^d9557^s22080</dc:subject>
+<dc:subject>^d11911^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d11914^s22009</dc:subject>
+<dc:subject>^d30596^s22002</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201005</dc:date>
+</metadata>
+</record>
+</ibecs-document>

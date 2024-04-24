@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-78479</identifier>
+<setSpec>0014-2565</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Short stay medical unit. Causes of readmissions</dc:title>
+<dc:description xml:lang="en">IntroductionHospital readmissions reflect the quality of the Sanitary Attention given.AimTo identify the factors that predict readmission in patients who are admitted to a Short Stay Medical Unit.Material and methodsProspective cohort study. Readmission was defined by an urgent admission after discharge caused by the same main diagnosis. The predicting factors for readmission were calculated by means of log regression.Results335 patients were included. Readmission rates at 10, 28 and 90 days was 2.1, 8.4 and 17.0%, respectively. The independent factor of readmission at 10 days was the previous hospitalizations; at 28 days were previous hospitalizations, the length of stay and the educational status; at 90 days were comorbidities and the health related quality of life.ConclusionsThe factors predicting early hospital readmissions were the previous admissions and the length of stay of index admission, while late readmission was related to comorbidities and health related quality of life(AU)</dc:description>
+<dc:creator>Iglesia Martínez, F. de la</dc:creator>
+<dc:creator>Ramos Polledo, V</dc:creator>
+<dc:creator>Seoane González, B</dc:creator>
+<dc:creator>Nicolás Miguel, R</dc:creator>
+<dc:creator>Pellicer Vázquez, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">IntroducciónLos reingresos hospitalarios pueden ser un indicador de la calidad de la atención sanitaria prestada. Hemos estudiado los factores que predicen el reingreso hospitalario en los pacientes dados de alta desde una Unidad de corta estancia médica.Material y métodosEstudio de cohortes, prospectivo, en el que se analizan los factores predictores de reingreso hospitalario, definido como un nuevo ingreso motivado por el mismo diagnóstico.ResultadosEn el periodo de estudio, 436 enfermos fueron dados desde alta de la Unidad de corta estancia médica. Se incluyeron 335 pacientes (77%) seleccionados aleatoriamente. Las variables independientes predictoras de reingreso fueron: A los 10 días, el número de ingresos en los dos años precedentes; a los 28 días, el número de ingresos, los días de estancia y un nivel de estudios escaso; y a los 90 días, la comorbilidad (índice de Charlson) y la peor calidad de vida.ConclusiónLos factores que mejor predicen el reingreso hospitalario precoz son el número de ingresos previos y la duración del ingreso. A más largo plazo el reingreso está determinado por la comorbilidad y la calidad de vida percibida por los pacientes(AU)</dc:description>
+<dc:source>Rev Clin Esp;210(3): 118-123, mar.2010. tab</dc:source>
+<dc:identifier>ibc-78479</dc:identifier>
+<dc:title xml:lang="es">Unidad de corta estancia médica. Causas de reingreso</dc:title>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d8079^s22018</dc:subject>
+<dc:subject>^d24572^s22066</dc:subject>
+<dc:subject>^d8079^s22083</dc:subject>
+<dc:subject>^d12225</dc:subject>
+<dc:subject>^d8079^s22066</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201003</dc:date>
+</metadata>
+</record>
+</ibecs-document>

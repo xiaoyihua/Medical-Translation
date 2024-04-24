@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-61244</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Effect of distinct sociodemographic variables on progression of HIV infection in a cohort of drug users</dc:title>
+<dc:description xml:lang="en">Objective: To analyze whether the effectiveness of combinedantiretroviral therapy in delaying progression to AIDS anddeath is affected by social inequities in a cohort of HIV-positiveinjecting drug users (IDUs).Methods: A cohort of 3,122 HIV-positive IDUs identified inthe AIDS Information and Prevention Centers of the autonomousregion of Valencia was analyzed, with further follow-upin 1,876. Progression to AIDS and death after seroconversionwere calculated by Kaplan-Meier estimation according to sociodemographicvariables (age, sex, education, marital status,length of addiction). Cox regression models were also fitted.Results: No significant differences were observed accordingto the variables considered when analyzing time to AIDS development.Evaluation of survival time revealed that individualswith further follow-up showed an excess of mortality (HR = 1.35;95%CI: 0.20-1.54). For individuals without follow-up, mortalityrisk was reduced in those with secondary school education(HR = 0.51; 95%CI: 0.35-0.74) and with university education(HR = 0.41; 95%CI: 0.18-0.93) compared with thosewith no education. When individuals with follow-up were analyzed,the differences lost significance for those with secondaryschool education (HR = 0.92; 95%CI: 0.72-1.19) and universityeducation (HR = 0.62; 95%CI: 0.35-1.11).Conclusions: The mortality excess found in IDUs with lowereducational levels, especially among those not seeking healthcarein the initial period after being identified as HIV-positive,highlights the need for interventions aimed at facilitatingaccess to health systems, especially among the sociallydisadvantaged(AU)</dc:description>
+<dc:creator>Lumbreras, Blanca</dc:creator>
+<dc:creator>Ferreros, Inmaculada</dc:creator>
+<dc:creator>Hernández-Aguado, Ildefonso</dc:creator>
+<dc:creator>Pérez-Hoyos, Santiago</dc:creator>
+<dc:creator>Hurtado, Isabel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Analizar si la efectividad de la terapia antirretroviralcombinada (cART) en la progresión a sida y muerte seve afectada por diferencias sociodemográficas en una cohortede usuarios de drogas intravenosas, infectados por el virusde la inmunodeficiencia humana (VIH).Métodos: Se analiza la cohorte formada por 3.122 VIH+ identificadosen los Centros de Información y Prevención del sidade la Comunidad Valenciana, con un seguimiento posterioren 1.876. Se calcula la progresión a sida y muerte desde laseroconversión por medio de curvas de Kaplan-Meier en funciónde las variables sociodemográficas (edad, sexo, estudios,estado civil y tiempo desde la primera inyección). Posteriormente,se ajustan modelos de regresión de Cox.Resultados: No se observaron diferencias significativas paralas variables consideradas al evaluar el tiempo hasta la apariciónde sida. Al evaluar la supervivencia se encuentra un excesode mortalidad entre los sujetos para los que se disponede seguimiento (hazard ratio [HR] = 1,35; intervalo deconfianza del 95% [IC95%]: 0,20-1,54). En los individuos sinseguimiento se observa una disminución del riesgo de muerteen los que tienen estudios secundarios (HR = 0,51; IC95%:0,35-0,74) y universitarios (HR = 0,41; IC95%: 0,18-0,93), frentea aquellos sin estudios. En los individuos en que se ha efectuadoel seguimiento, las diferencias se atenúan y pierden lasignificación en los sujetos con estudios secundarios (HR =0,92; IC95%: 0,72-1,19) y universitarios (HR = 0,62; IC95%:0,35-1,11).Conclusiones: El exceso de mortalidad encontrado en sujetosde niveles educativos bajos, sobre todo entre los queno acudieron al sistema sanitario en los momentos inicialesde haber sido identificado como VIH+, refuerza la necesidadde efectuar intervenciones que favorezcan el acceso al sistemasanitario, sobre todo entre los socialmente más desfavorecidos(AU)</dc:description>
+<dc:source>Gac Sanit;22(6): 541-546, nov.-dic. 2008. tab</dc:source>
+<dc:identifier>ibc-61244</dc:identifier>
+<dc:title xml:lang="es">Efecto de diferentes variables sociodemográficas en la progresión de la infección por el virus de la inmunodeficiencia humana en una cohorte de usuarios de drogas</dc:title>
+<dc:subject>^d29416^s22031</dc:subject>
+<dc:subject>^d7334^s22080</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d33535^s22080</dc:subject>
+<dc:subject>^d29364^s22080</dc:subject>
+<dc:subject>^d24624</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24718^s22080</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d33535^s22054</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200812</dc:date>
+</metadata>
+</record>
+</ibecs-document>

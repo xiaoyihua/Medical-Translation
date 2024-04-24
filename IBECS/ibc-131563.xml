@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-131563</identifier>
+<setSpec>1137-6821</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Evaluation of appropriate hospital admissions from a tertiary level hospital emergency department</dc:title>
+<dc:description xml:lang="en">Objectives: To estimate the percentage of inappropriate hospital admissions ordered by the emergency department of a tertiary care hospital and to assess the association between appropriateness and patient and care factors. Methods: Cross-sectional study of 631 randomly selected admissions in 2011. The Spanish version of the Appropriateness Evaluation Protocol was used. We recorded patient characteristics (age, sex) and care factors (referred consultation or not, shift, day of the week, and level of demand for services). The unit of statistical analysis was an admission episode. Associations were explored by multivariable regression analysis. Results: We detected a rate of inappropriate admission of 15.2% (95% CI, 12.62%-18.23%). The most common reason for inappropriate admission was to perform diagnostic tests and/or procedures that could have been ordered through outpatient clinics (59.4%). Patients who were appropriately admitted were significantly older, by a mean of 5.4 years (P=.005). Multivariable analysis found a positive association between appropriateness of admission and 2 variables: age (odds ratio [OR], 1.021; 95% CI, 1.008-1.035) and number of admissions daily (OR, 1.027; 95% CI, 1.001-1.053). Conclusions: The rate of inappropriate admissions by our department is similar to the rates published for other Spanish hospitals. Organizational variables that our hospital can potentially improve are the main reasons behind inappropriate admissions. Age and the number of admissions daily were positively associated with appropriate admission (AU)</dc:description>
+<dc:creator>Quintana, M</dc:creator>
+<dc:creator>Martínez, A. M</dc:creator>
+<dc:creator>Martín, A</dc:creator>
+<dc:creator>Giráldez, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Estimar el porcentaje de ingresos inadecuados realizados desde un servicio de urgencias a servicios clínicos de un hospital de tercer nivel, describir las causas de inadecuación, y evaluar la asociación entre adecuación del ingreso y características del paciente y de la asistencia sanitaria. Método: Mediante estudio transversal, se evaluaron 631 ingresos realizados durante el año 2011, seleccionados aleatoriamente. El instrumento de evaluación fue la versión española del Appropiateness Evaluation Protocol. Se recogió información sobre el paciente(edad, sexo) y la asistencia sanitaria (tipo de consulta, turno, día de la semana y presión asistencial). La unidad de análisis estadístico fue el episodio de ingreso. Se evaluó la asociación mediante modelo de regresión logística multivariable. Resultados: El porcentaje de ingresos inadecuados fue 15,2% (IC 95%: 12,6-18,2). La principal causa de inadecuación fue las pruebas diagnósticas y/o los procedimientos que pueden realizarse en consultas externas (59,4%). La edad media fue 5,4 años mayor en los ingresos adecuados (p = 0,005). El análisis multivariable encontró asociación positiva entre la adecuación del ingreso y la edad (OR: 1,021; IC 95%: 1,008-1,035) y el número de ingresos/día (OR: 1,027; IC 95%: 1,001-1,053). Conclusiones: El porcentaje de ingresos inadecuados estimado es similar al de otros hospitales españoles. Las principales causas de inadecuación tienen que ver con aspectos organizativos susceptibles de mejora. La edad y el número de ingreso/día se asociaron positivamente a la adecuación del ingreso (AU)</dc:description>
+<dc:source>Emergencias (Sant Vicenç dels Horts);26(6): 464-467, dic. 2014. tab</dc:source>
+<dc:identifier>ibc-131563</dc:identifier>
+<dc:title xml:lang="es">Adecuación de los ingresos hospitalarios procedentes del servicio de urgencias de un hospital de tercer nivel</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d4707^s22049</dc:subject>
+<dc:subject>^d33125^s22083</dc:subject>
+<dc:subject>^d10537^s22083</dc:subject>
+<dc:subject>^d^s22083</dc:subject>
+<dc:subject>^d28838</dc:subject>
+<dc:subject>^d6916^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201412</dc:date>
+</metadata>
+</record>
+</ibecs-document>

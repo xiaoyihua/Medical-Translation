@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-79113</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Automatic detection of pulmonary nodules on computed tomography: a preliminary study</dc:title>
+<dc:description xml:lang="en">Recent years have seen growing interest in the development of algorithms for computer-assisted diagnosis (CAD) for the detection of pulmonary nodules on both plain-film radiographs and computed tomography (CT) studies. The purpose of CAD algorithms in this context is to alert radiologists to suspicious radioopacities that might represent cancer in the images. We are developing a CAD system for the detection of pulmonary nodules on helical CT images. Material and methods. We collected cases of patients with pulmonary nodules examined with helical CT. A total of 64 nodules, including both calcified and noncalcified lesions, ranging from 3 to 30 mm in diameter were included in the study. Studies were acquired on one 4-slice and one 64-slice CT scanners. Three chest radiologists at two institutions interpreted the studies to determine whether pulmonary nodules were present. We calculated the sensitivity and the number of false positives per image to evaluate the CAD system. Results. We have developed and evaluated an algorithm for the automatic detection of pulmonary nodules on CT images. For a sensitivity of 76%, the false-positive rate was 1.3 per image. Conclusions. Our preliminary results suggest that the system might be useful for radiologists in the detection of pulmonary nodules on helical CT images (AU)</dc:description>
+<dc:creator>Vidal, J. J</dc:creator>
+<dc:creator>Tahoces, P. G</dc:creator>
+<dc:creator>Souto, M</dc:creator>
+<dc:creator>Remy, J</dc:creator>
+<dc:creator>Suárez Cuenca, J. J</dc:creator>
+<dc:creator>Remy-Jardin, M</dc:creator>
+<dc:creator>Lado, M. J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos. Durante estos últimos años ha habido un interés creciente en el desarrollo de algoritmos de diagnóstico asistido por ordenador (CAD) aplicados a la detección de nódulos pulmonares, tanto en radiografías como en tomografía computarizada (TC); su propósito consistiría en llamar la atención del radiólogo indicando radioopacidades sospechosas que podrían representar cáncer en las imágenes. Nosotros estamos desarrollando un sistema CAD dedicado a la detección de nódulos pulmonares en imágenes de TC helicoidal. Material y métodos. Se han recogido casos de TC helicoidal de pacientes con nódulos pulmonares. Se incluyeron en el estudio 64 nódulos, calcificados y no calcificados, con diámetros entre 3-30 mm. Para la obtención de los casos se han utilizado dos equipos de TC de 4 y 64 cortes, respectivamente. Los casos positivos para nódulo pulmonar se determinaron mediante interpretación del estudio por tres radiólogos de tórax, de dos instituciones diferentes. Para evaluar el sistema de detección se calcularon la sensibilidad y el número de falsos positivos por imagen. Resultados. Se ha desarrollado un algoritmo de detección automática de nódulos pulmonares en TC y se ha realizado una evaluación preliminar del mismo. Para una sensibilidad del 76% se obtuvo una tasa de 1,3 falsos positivos por imagen. Conclusiones. Los resultados obtenidos, aunque son preliminares, sugieren que el sistema podría ser de ayuda para los radiólogos en la detección de nódulos pulmonares en TC helicoidal (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);50(5): 387-392, sept. 2008. tab, ilus</dc:source>
+<dc:identifier>ibc-79113</dc:identifier>
+<dc:title xml:lang="es">Detección automática de nódulos pulmonares en tomografía computarizada. Un estudio preliminar</dc:title>
+<dc:subject>^d24339^s22066</dc:subject>
+<dc:subject>^d3105^s22032</dc:subject>
+<dc:subject>^d24339^s22045</dc:subject>
+<dc:subject>^d19062</dc:subject>
+<dc:subject>^d3105^s22016</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d37549^s22074</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d7435^s22048</dc:subject>
+<dc:subject>^d3105^s29166</dc:subject>
+<dc:subject>^d19200^s22066</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d19200^s22074</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200809</dc:date>
+</metadata>
+</record>
+</ibecs-document>

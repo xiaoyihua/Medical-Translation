@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-22675</identifier>
+<setSpec>1137-6627</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Surveillance and control of infection in the operating theatre</dc:title>
+<dc:creator>Soto, J. A</dc:creator>
+<dc:creator>Aizcorbe, M</dc:creator>
+<dc:creator>Torre, A. De la</dc:creator>
+<dc:creator>Iñigo, J. J</dc:creator>
+<dc:creator>Usoz, J. J</dc:creator>
+<dc:creator>Izco, T</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Departamento de Salud. Gobierno de Navarra</dc:publisher>
+<dc:description xml:lang="es">La infección de sitio quirúrgico es la infección nosocomial más frecuente entre los pacientes quirúrgicos; es la causa del fallecimiento de un elevado porcentaje de los pacientes quirúrgicos y supone un significativo incremento en la estancia hospitalaria de dichos pacientes. Se describen los criterios que deben cumplirse para que una infección pueda ser considerada como nosocomial y las definiciones relacionadas con las diferentes localizaciones posibles de las infecciones de sitio quirúrgico que han sido dictadas por los Centers for Disease Control and Prevention (CDC).Igualmente se indican cuáles son los gérmenes más frecuentes en las infecciones de sitio quirúrgico según sea su fuente de contaminación y los factores que pueden influir en su aparición. Estos factores pueden depender del propio paciente, de la preparación del mismo para la intervención, del entorno o de las personas presentes en el quirófano durante la intervención o del propio acto quirúrgico. Se presentan las recomendaciones dictadas por el CDC para la prevención y control de las infecciones de sitio quirúrgico, distribuidas en grupos relacionados con los distintos factores que influyen en su aparición y adjudicándoles una categoría a cada una según la evidencia científica que las soporta. Por último, se presenta la tasa de infecciones que ha presentado el CDC, procedente del análisis de los datos enviados desde los hospitales adscritos al National Nosocomial Surveillance System (NNIS). Esta tasa se presenta distribuyendo a los pacientes en distintos grupos relacionados con los diferentes índices de riesgo para cada categoría NNIS a la que quedan adscritos los correspondientes procedimientos quirúrgicos (AU)</dc:description>
+<dc:source>An Sist Sanit Navar;23(supl.2): 129-141, mayo 2000. tab</dc:source>
+<dc:identifier>ibc-22675</dc:identifier>
+<dc:title xml:lang="es">Vigilancia y control de la infección de sitio quirúrgico</dc:title>
+<dc:subject>^d13912^s22047</dc:subject>
+<dc:subject>^d30037^s22045</dc:subject>
+<dc:subject>^d13912^s22054</dc:subject>
+<dc:subject>^d28477^s22054</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28441</dc:subject>
+<dc:subject>^d13912^s22080</dc:subject>
+<dc:subject>^d28477^s22080</dc:subject>
+<dc:subject>^d30037^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200005</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-050429</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Treatment and temperature series study for use in public health. The case of Castilla-La Mancha, Spain</dc:title>
+<dc:description xml:lang="en">Background: Numerous articles relate atmospheric variablesto health indicators. In large regions, such as Castilla-La Mancha, itmay be necessary to divide the region into areas in terms of theatmospheric variables available by selecting a representativeweather station for each zone. This article focuses on analyzing thedaily temperature data from numerous Castilla La Mancha observatoriesand reducing the number thereof to a few representative stationsfor being used in studies relating atmospheric variables tohealth indicators in this region.Methods: Castilla-La Mancha weather stations were selected interms of the number of years available and missing data. After fillingin the gaps in the selected series, to detect any possible discontinuitiesand to homogenize the series, the daily temperature data is usedin hierarchical cluster and factorial analyses by principal components.Results: Factorial analyses extract one single factor by using themaximum, mean or minimum temperature series. For the maximumtemperatures, this factor explains 93.45% of the variance, with aneigenvalue of 39.249. The «Compuesta» station in Toledo showscorrelation coefficients in the principal components matrix of 0.987,0.991 and 0.981 respectively for the maximum, mean and minimumtemperature series. Conclusions: Castilla-La Mancha is an isoclimatic region interms of the temperature, the «Compuesta» station in Toledo beingselected as the representative station for the region for public healthstudies. The results afford the possibility of conducting studies brokendown into small units such as the provinces, with the stations inthe government capitals as a reference</dc:description>
+<dc:creator>Gutierrez Ávila, Gonzalo</dc:creator>
+<dc:creator>Linares Gil, Cristina</dc:creator>
+<dc:creator>Montero Rubio, Juan Carlos</dc:creator>
+<dc:creator>Mayoral Arenas, Sheila</dc:creator>
+<dc:creator>Criado- Álvarez, Juan José</dc:creator>
+<dc:creator>Paredes Beato, Daniel</dc:creator>
+<dc:creator>Mirón Pérez, Isidro J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamento: Numerosos trabajos relacionan variables atmosféricascon indicadores sanitarios. En regiones extensas, como Castilla-La Mancha, puede ser necesario dividirla en áreas en función delas variables atmosféricas disponibles, eligiendo una estación meteorológicarepresentativa para cada zona. El objetivo de este artículoes analizar los datos diarios de temperaturas de numerosos observatoriosde Castilla- La Mancha y su reducción a unas pocas estacionesrepresentativas para ser utilizadas en estudios que relacionen variablesatmosféricas con indicadores sanitarios de esta región.Métodos: Se seleccionaron estaciones meteorológicas de Castilla-La Mancha en función del número de años disponibles y de datosperdidos. Tras rellenar las lagunas de las series elegidas, detectarposibles discontinuidades y homogeneizar las series, los datos diariosde temperaturas se utilizan en análisis de conglomerados jerárquicoy factorial mediante componentes principales.Resultados: El análisis factorial extrae un solo factor utilizandolas series de temperaturas máximas, medias o mínimas. En las máximas,ese factor explica el 93,45% de la varianza, con autovalor39,249. La estación Toledo «Compuesta» tiene coeficientes decorrelación en la matriz de componentes principales de 0,987; 0,991y 0,981 para las series de temperaturas máximas, medias y mínimasrespectivamente. Conclusiones: Castilla-La Mancha es una región isoclimática enfunción de la temperatura y la estación Toledo «Compuesta» la elegidacomo representativa regional para estudios en salud pública.Los resultados permiten la realización de estudios desagregados enunidades menores como las provincias, con las estaciones de lascapitales administrativas como referencia</dc:description>
+<dc:source>Rev Esp Salud Publica;80(2): 113-124, mar.-abr. 2006. mapas, tab</dc:source>
+<dc:identifier>ibc-050429</dc:identifier>
+<dc:title xml:lang="es">Tratamiento y estudio de series de temperatura para su aplicación en salud pública. El caso de Castilla- La Mancha</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d16303</dc:subject>
+<dc:subject>^d13002</dc:subject>
+<dc:subject>^d28631^s22066</dc:subject>
+<dc:subject>^d24517</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d14074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200604</dc:date>
+</metadata>
+</record>
+</ibecs-document>

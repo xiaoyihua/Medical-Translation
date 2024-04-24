@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-35356</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cost-effectiveness analysis in conditions that require mechanical ventilation. A DRGs 475 and 483 study</dc:title>
+<dc:creator>Prieto González, M</dc:creator>
+<dc:creator>López Messa, J. B</dc:creator>
+<dc:creator>Treceño Campillo, J</dc:creator>
+<dc:creator>Pascual Palacín, R</dc:creator>
+<dc:creator>San Luis González, L. C. de</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Objetivo. Evaluar la relación coste-efectividad del tratamiento en procesos complejos predefinidos que precisan ventilación mecánica (VM). Diseño. Estudio de cohorte retrospectivo con análisis coste-efectividad y estimación del porcentaje de pacientes sometidos a cuidados potencialmente ineficientes (CPI). Ámbito. Unidad de Cuidados Intensivos (UCI) de un hospital general. Pacientes. Pacientes ingresados entre los años 1997 y 2001, asignados al alta hospitalaria a los GRD 475 (diagnósticos del sistema respiratorio con ventilación asistida) y 483 (traqueostomía excepto trastornos de la boca, laringe o faringe). Intervenciones. Ninguna. Variables de interés principales. Edad, sexo, gravedad (mediante APACHE II), estado crónico de salud, grupo patológico de base, estancia en UCI, estancia hospitalaria, duración de la VM, mortalidad hospitalaria predicha y observada. Estimación del coste-efectividad mediante cociente entre costes totales hospitalarios y años de vida ganados (avg). Porcentaje de pacientes sometidos a CPI, definido como pacientes con costes totales superiores al percentil 90 y destino exitus. Resultados. Se estudiaron 247 pacientes, 142 del GRD 475 y 105 del GRD 483. Los dos grupos poseían características similares, salvo mayor predominio de pacientes médicos, menor estancia y duración de VM en el GRD 475. El costeefectividad fue favorable en todos los subgrupos estudiados, y mostró un incremento en ambos grupos de GRD según aumentaba la edad, la gravedad y la duración de la VM. La distribución del coste-efectividad por estado crónico de salud no mostró diferencias en el GRD 475, mientras que en el GRD 483 se producía un incremento del mismo según empeoraba el estado de salud. En el GRD 483 y grupo patológico de base cardiológico, se observaron los peores valores de costeefectividad. El porcentaje de CPI fue del 7,0 por ciento en GRD 475 y del 5,4 por ciento en GRD 483. Conclusiones. El tratamiento de los pacientes críticos agrupables a los GRD 475 y 483, se ha mostrado coste-efectivo de forma global y en todos los subgrupos analizados. La estimación del coste-efectividad y del porcentaje de pacientes sometidos a CPI, en procesos con similar complejidad de la casuística, ofrece información médica y económica del funcionamiento de una UCI (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);28(7): 349-355, oct. 2004. tab</dc:source>
+<dc:identifier>ibc-35356</dc:identifier>
+<dc:title xml:lang="es">Análisis coste-efectividad en procesos que requieren ventilación mecánica. Estudio de los GRD 475 y 483</dc:title>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d30313</dc:subject>
+<dc:subject>^d8079^s22018</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d30047</dc:subject>
+<dc:subject>^d30327</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12541^s22018</dc:subject>
+<dc:subject>^d3439^s22018</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d7530^s22018</dc:subject>
+<dc:subject>^d32281</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d23042^s22018</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200410</dc:date>
+</metadata>
+</record>
+</ibecs-document>

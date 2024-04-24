@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-91023</identifier>
+<setSpec>1888-6116</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">System training for operations of total knee replacement TKR</dc:title>
+<dc:description xml:lang="en">Objetive: To develop an orthopedic surgery simulator for operations for total knee replacement (TKR), this also serves as the basis for the study of other interventions such as total hip replacement (THR). Material and method: Is described an application based on open source software that integrates the modeling of bone and soft tissue objects in medical imaging and haptic technology to enhance the properties of immersion. The system consists of two stages; first, medical images of a joint are analyzed, and a plan for intraoperative 3D sections is established. At next stage, the user integrates information from the different objects previously generated from the sectioned bones to interact with virtual models and prosthesis. Results: The main contribution of this work is the generation of a mixed model surface and volume to simulate the machining of a bone by removing user-defined sections such as section surface on which no deformation or proposed modification (cutting, drilling, milling) and volumetric section consists of surface primitive (points, spheres, or cubes) with properties of geometric transformations and independent collision reports. Conclusions: The simulator can be used to train other orthopedic cases considering the use of images, 3D models and specific instruments, becoming a training tool that complements traditional methods of medical education (AU)</dc:description>
+<dc:creator>Pinto, M. L</dc:creator>
+<dc:creator>Garcia, N. M</dc:creator>
+<dc:creator>Azorín, J. M</dc:creator>
+<dc:creator>Sofrony, J. I</dc:creator>
+<dc:creator>Sabater, J. M</dc:creator>
+<dc:creator>Perez, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Desarrollar un simulador para las operaciones de reemplazo total de rodilla (TKR) que sirve además como base para el estudio de otras intervenciones como reemplazo total de cadera (THR). Material y Método: Se describe una aplicación que integra el modelado de objetos óseos y tejidos blandos con el procesamiento de imágenes médicas y la tecnología háptica para aumentar las propiedades de inmersión. El sistema esta compuesto por dos etapas, primero se analizaron imágenes medicas de la articulación y se estableció un plan intraoperatorio para seccionar los tejidos. En una etapa posterior, se integró la información de los huesos seccionados para interactuar con modelos virtuales de prótesis e instrumental quirúrgico, añadiendo sensaciones de contacto. Resultados: Se generó un modelo mixto superficial-volumétrico que simuló un hueso mediante la separación de secciones definidas por el usuario como la sección superficial sobre la cual no se proponen deformaciones o modificaciones (cortes, taladrado, fresado) y sección volumétrica compuesta por primitivas superficiales (puntos, esferas, o cubos) con propiedades de transformaciones geométricas y reportes de colisión independiente. Conclusion: El simulador presentado se puede usar para el entrenamiento de cirugías ortopédicas utilizando imágenes, modelos e instrumental 3D que complementa los métodos clásicos de enseñanza (AU)</dc:description>
+<dc:source>Trauma (Majadahonda);22(3): 197-205, jul.-sept. 2011. ilus</dc:source>
+<dc:identifier>ibc-91023</dc:identifier>
+<dc:title xml:lang="es">Sistema de entrenamiento para operaciones de reemplazo total de rodilla</dc:title>
+<dc:subject>^d^s22066</dc:subject>
+<dc:subject>^d10162^s22019</dc:subject>
+<dc:subject>^d10160^s22066</dc:subject>
+<dc:subject>^d19132^s22074</dc:subject>
+<dc:subject>^d^s22045</dc:subject>
+<dc:subject>^d10160^s22074</dc:subject>
+<dc:subject>^d19369^s22019</dc:subject>
+<dc:subject>^d7893^s22009</dc:subject>
+<dc:subject>^d^s22019</dc:subject>
+<dc:subject>^d28574^s22045</dc:subject>
+<dc:subject>^d^s22039</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201109</dc:date>
+</metadata>
+</record>
+</ibecs-document>

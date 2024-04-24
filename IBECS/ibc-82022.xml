@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-82022</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Statistical Process Control (SPC) can help prevent treatment errors without increasing costs in radiotherapy</dc:title>
+<dc:description xml:lang="en">Purpose. Statistical Process Control (SPC) was applied to monitor patient set-up in radiotherapy and, when the measured set-up error values indicated a loss of process stability, its root cause was identified and eliminated to prevent set-up errors. Materials and methods. Set up errors were measured for medial-lateral (ml), cranial-caudal (cc) and anterior-posterior (ap) dimensions and then the upper control limits were calculated. Materials and methods. Once the control limits were known and the range variability was acceptable, treatment set-up errors were monitored using sub-groups of 3 patients, three times each shift. These values were plotted on a control chart in real time. Results. Control limit values showed that the existing variation was acceptable. Set-up errors, measured and plotted on a X¯ chart, helped monitor the set-up process stability and, if and when the stability was lost, treatment was interrupted, the particular cause responsible for the non-random pattern was identified and corrective action was taken before proceeding with the treatment. Conclusion. SPC protocol focuses on controlling the variability due to assignable cause instead of focusing on patient-to-patient variability which normally does not exist. Compared to weekly sampling of set-up error in each and every patient, which may only ensure that just those sampled sessions were set-up correctly, the SPC method enables set-up error prevention in all treatment sessions for all patients and, at the same time, reduces the control costs(AU)</dc:description>
+<dc:creator>Rueda, C</dc:creator>
+<dc:creator>Govindarajan, R</dc:creator>
+<dc:creator>Molero, J</dc:creator>
+<dc:creator>Paradinas, C</dc:creator>
+<dc:creator>Soler, N</dc:creator>
+<dc:creator>Llueguera, E</dc:creator>
+<dc:creator>Melero, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. El control estadístico de proceso (SPC) fue aplicado para monitorizar la estabilidad del proceso de colocación de pacientes en un tratamiento de radioterapia. Una vez medidos los errores de colocación, si estos indicaban una pérdida de estabilidad se identificaba la causa principal y se procedía a eliminarla para prevenir dichos errores. Material y métodos. Se midieron los errores de colocación en las dimensiones medial-laterales, craneal-caudal y anterior-posterior y se calcularon los límites de control superiores. Una vez conocidos los límites de control y el rango de variabilidad era aceptable, se procedió a observar los errores de colocación utilizando subgrupos de tres pacientes tres veces cada turno y se representaron en una gráfica de control a tiempo real. Resultados. Los valores de límite de control mostraron que la variabilidad existente era aceptable. Los errores de colocación, medidos y representados en un gráfico de promedio del proceso, ayudaron a controlar la estabilidad del proceso de colocación, ya que si la estabilidad se perdía, el tratamiento se interrumpía, se identificaba la causa específica responsable del patrón no aleatorio y se llevaba a cabo una acción correctora antes de proceder con el tratamiento. Conclusiones. El protocolo del SPC se centra en el control de la variabilidad debido a una causa asignable en lugar de centrarse en la variabilidad paciente a paciente, la cual no existe normalmente. Conclusiones A diferencia del método actual, que consiste en un único control semanal de colocación por paciente y, por tanto, solo asegura la correcta colocación del paciente en dicha sesión, el SPC permite prevenir el error de colocación de todos los pacientes en todas las sesiones al mismo tiempo que se reducen los costes de control(AU)</dc:description>
+<dc:source>Rev. calid. asist;25(5): 281-290, sept.-oct. 2010. tab, ilus</dc:source>
+<dc:identifier>ibc-82022</dc:identifier>
+<dc:title xml:lang="es">El control estadístico de proceso puede ayudar a prevenir los errores de tratamiento sin aumentar los costes en radioterapia</dc:title>
+<dc:subject>^d3380^s22048</dc:subject>
+<dc:subject>^d^s22066</dc:subject>
+<dc:subject>^d12314^s22083</dc:subject>
+<dc:subject>^d33121^s22054</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3378^s22083</dc:subject>
+<dc:subject>^d12314^s22045</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d33121^s22018</dc:subject>
+<dc:subject>^d12314^s22018</dc:subject>
+<dc:subject>^d3376^s22066</dc:subject>
+<dc:subject>^d3378^s22066</dc:subject>
+<dc:subject>^d3378^s22045</dc:subject>
+<dc:subject>^d3376^s22074</dc:subject>
+<dc:subject>^d8675^s22018</dc:subject>
+<dc:subject>^d3378^s22074</dc:subject>
+<dc:subject>^d3378^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201010</dc:date>
+</metadata>
+</record>
+</ibecs-document>

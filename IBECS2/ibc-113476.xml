@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-113476</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Social network analysis. A method to improve safety in healthcare organizations</dc:title>
+<dc:description xml:lang="en">Patient safety depends on the culture of the healthcare organization involving relationships between professionals. This article proposes that the study of these relations should be conducted from a network perspective and using a methodology called Social Network Analysis (SNA). This methodology includes a set of mathematical constructs grounded in Graph Theory.With the SNAwe can know aspects of the individual's position in the network (centrality) or cohesion among team members. Thus, the SNA allows to know aspects related to security such as the kind of links that can increase commitment among professionals, how to build those links, which nodes have more prestige in the team in generating confidence or collaborative network, which professionals serve as intermediaries between the subgroups of a teamto transmit information or smooth conflicts, etc. Useful aspects in stablishing a safety culture. The SNAwould analyze the relations among professionals, their level of communication to communicate errors and spontaneously seek help and coordination between departments to participate in projects that enhance safety. Thus, they related through a network, using the same language, a fact that helps to build a culture. In summary, we propose an approach to safety culture from a SNA perspective that would complement other commonly used methods(AU)</dc:description>
+<dc:creator>Agra Varela, Yolanda</dc:creator>
+<dc:creator>González Pérez, Marta Eva</dc:creator>
+<dc:creator>Marqués Sánchez, Pilar</dc:creator>
+<dc:creator>Vega Núñez, Jorge</dc:creator>
+<dc:creator>Pinto Carral, Arrate</dc:creator>
+<dc:creator>Quiroga Sánchez, Enedina</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La seguridad del paciente depende de la cultura de la organización sanitaria y de las relaciones que los profesionales mantienen entre sí. En este artículo se propone que el estudio de esas relaciones debería de llevarse a cabo desde una perspectiva de red y mediante una metodología denominadaAnálisis de Redes Sociales (ARS). Esta incluye un conjunto de constructos matemáticos fundamentados en la Teoría de grafos. Con el ARS podemos conocer aspectos relacionados con la posición del individuo en la red (centralidad) o la cohesión entre los miembros de un equipo. De esta forma se pueden conocer aspectos tan relacionados con la seguridad como por ejemplo saber qué tipo de vínculos pueden aumentar el compromiso entre los profesionales, cómo se construyen, qué nodos tienen más prestigio en el equipo en cuanto a generar confianza o una red colaborativa, qué profesionales sirven de intermediarios entre los subgrupos de un equipo para transmitir información o suavizar conflictos, etcétera, todos ellos aspectos útiles para establecer una cultura de seguridad. El ARS permitiría analizar las relaciones de los profesionales, su nivel de comunicación para manifestar los errores y pedir ayuda de forma espontánea y la coordinación existente entre departamentos para participar en proyectos que mejoren la seguridad. De esta forma, se relacionan en red utilizando un mismo lenguaje, hecho que ayuda a construir una cultura. En conclusión, se propone un abordaje de la cultura de seguridad desde una perspectiva de ARS que complementaría otros métodos habitualmente utilizados(AU)</dc:description>
+<dc:source>Rev Esp Salud Publica;87(3): 209-219, mayo-jun.2013. tab, ilus</dc:source>
+<dc:identifier>ibc-113476</dc:identifier>
+<dc:title xml:lang="es">El análisis de las redes sociales. Un método para la mejora de la seguridad en las organizaciones sanitarias</dc:title>
+<dc:subject>^d54744</dc:subject>
+<dc:subject>^d31061^s22045</dc:subject>
+<dc:subject>^d32795^s22083</dc:subject>
+<dc:subject>^d31061^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d13328</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d31061^s22048</dc:subject>
+<dc:subject>^d31061^s22049</dc:subject>
+<dc:subject>^d6442^s22066</dc:subject>
+<dc:subject>^d54857^s22083</dc:subject>
+<dc:subject>^d32795^s22049</dc:subject>
+<dc:subject>^d6442^s22041</dc:subject>
+<dc:subject>^d54857^s22048</dc:subject>
+<dc:subject>^d32795^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201306</dc:date>
+</metadata>
+</record>
+</ibecs-document>

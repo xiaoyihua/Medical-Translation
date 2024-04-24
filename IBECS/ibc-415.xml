@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-415</identifier>
+<setSpec>0482-5985</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Influence of fracture reduction on the mechanical environment of callus formation during bone repair using external fixation</dc:title>
+<dc:creator>Sierra Hernández, M. A</dc:creator>
+<dc:creator>Comín Clavijo, M</dc:creator>
+<dc:creator>Mollá Doménech, F</dc:creator>
+<dc:creator>Prat Pastor, J. M</dc:creator>
+<dc:creator>Atienza Vicente, C. M</dc:creator>
+<dc:creator>Peris Serra, J. L</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Se evalúa la influencia que, sobre el ambiente mecánico del callo, ejercen distintos grados de reducción no anatómica de fracturas tratadas mediante fijación externa unilateral. Diseño experimental: Se desarrolla un modelo de elementos finitos del conjunto fijador externo-tibia fracturada, validado con ensayos mecánicos de compresión, flexión en los planos frontal y sagital, y torsión. El modelo considera, además, la evolución del callo desde un estado inicial hasta su consolidación, mediante la variación de sus propiedades elásticas. Del modelo desarrollado se obtienen valores de fuerzas, momentos y tensiones en el foco de fractura, considerando diversos grados de reducción no anatómica según las configuraciones siguientes: ángulo entre fragmentos (planos sagital y frontal), desalineación entre ejes de fragmentos (planos sagital y frontal) y separación longitudinal. Resultados: Los momentos presentes en el callo aumentan al disminuir el grado de reducción, especialmente en los casos de angulación y desalineación, con valores máximos de 60 Nm (+600 por ciento). La tensión de von Mises también aumenta con menores grados de reducción, produciéndose incrementos del 180 por ciento (hasta 80 MPa) respecto a los valores obtenidos en fracturas con reducción anatómica. Conclusiones: Una reducción de fractura no adecuada incrementa los momentos flectores en el callo, así como su estado tensional en general, que se hace más crítico cuanto menor es el grado de reducción alcanzado, fundamentalmente en el caso de angulación y desalineación entre fragmentos. Ciertos grados de reducción no anatómica representan, por tanto, un mayor riesgo de retardo en la consolidación o incluso ausencia de la misma (AU)</dc:description>
+<dc:source>Rev. ortop. traumatol. (Madr., Ed. impr.);45(3): 234-244, jun. 2001. tab, ilus</dc:source>
+<dc:identifier>ibc-415</dc:identifier>
+<dc:title xml:lang="es">Influencia del grado de reducción de la fractura en el ambiente mecánico del callo durante el proceso de reparación ósea mediante fijación externa</dc:title>
+<dc:subject>^d28930</dc:subject>
+<dc:subject>^d1721</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200106</dc:date>
+</metadata>
+</record>
+</ibecs-document>

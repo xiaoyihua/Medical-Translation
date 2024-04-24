@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-123666</identifier>
+<setSpec>1699-048X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:creator>Belda Iniesta, C</dc:creator>
+<dc:creator>García Alonso, P</dc:creator>
+<dc:creator>Sánchez-Pérez, I</dc:creator>
+<dc:language>en</dc:language>
+<dc:source>Clin Transl Oncol;11(8): 493-498, ago. 2009. ilus</dc:source>
+<dc:identifier>ibc-123666</dc:identifier>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d793</dc:subject>
+<dc:subject>^d13662^s22016</dc:subject>
+<dc:subject>^d13662^s22033</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d13662^s22053</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d32316^s22044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200908</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-30822</identifier>
+<setSpec>1575-0973</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Neurobiology of alcohol dependence</dc:title>
+<dc:creator>Pérez Rial, S</dc:creator>
+<dc:creator>Ortiz, S</dc:creator>
+<dc:creator>Manzanares, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: El proceso de dependencia al alcohol implica modificaciones funcionales en la neurotransmisión cerebral alterando de esta manera el equilibrio homeostático entre neurotransmisores inhibidores y excitadores en diferentes circuitos cerebrales relacionados con el refuerzo inducido por sustancias. Material y métodos: Se revisa la neurobiología de la dependencia al alcohol. Resultados: Un gran número de resultados experimentales sugieren que el alcohol ejerce efectos muy variados sobre los principales sistemas de neurotransmisión dependiendo del tiempo y el patrón de ingesta de la bebida. Así, el consumo de alcohol a corto plazo potencia la neurotransmisión inhibitoria (por inhibición de la transmisión glutamatérgica, y activación de neuronas GABAérgicas), mientras que a largo plazo se produce tolerancia, lo que tiende a desplazar estas alteraciones neuroquímicas hacia valores normales. Por el contrario, si el consumo de alcohol es discontinuo o se reduce bruscamente, se produce activación de la neurotransmisión glutamatérgica e inhibición de la neurotransmisión GABAérgica, entre otras muchas alteraciones neuroquímicas, lo que desencadena síndrome de abstinencia y consiguiente comportamiento de búsqueda y deseo irrefrenable de consumir alcohol. Conclusiones: Los efectos del alcohol están regulados por distintos sistemas de neurotransmisión y neuromodulación, entre los que se puede destacar los sistemas de la dopamina (DA), noradrenalina (NA), factor liberador de corticotropina (CRF), neuropéptido Y (NPY), sistema opioide y el sistema cannabinoide endógeno, de forma que no se pueden explicar muchos de los efectos farmacológicos y comportamentales del alcohol sin entender sus acciones sobre estos sistemas (AU)</dc:description>
+<dc:source>Trastor. adict;5(1): 4-12, ene. 2003.</dc:source>
+<dc:identifier>ibc-30822</dc:identifier>
+<dc:title xml:lang="es">Neurobiología de la dependencia alcohólica</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d19259^s22021</dc:subject>
+<dc:subject>^d32115</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23774^s22021</dc:subject>
+<dc:subject>^d440^s22056</dc:subject>
+<dc:subject>^d31127^s22021</dc:subject>
+<dc:subject>^d30561^s22021</dc:subject>
+<dc:subject>^d13761^s22032</dc:subject>
+<dc:subject>^d22405^s22021</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200301</dc:date>
+</metadata>
+</record>
+</ibecs-document>

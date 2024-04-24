@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-123499</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Relative Validity of the 10-Year Cardiovascular Risk Estimate in a Population Cohort of the REGICOR Study</dc:title>
+<dc:description xml:lang="en">Introduction and objectives Cardiovascular risk screening requires accurate risk functions. The relative validity of the Framingham-based REGICOR adapted function is analyzed and the population distribution of cardiovascular 10-year cardiovascular events is described by risk group.MethodsA population cohort of 3856 participants recruited between 1995 and 2000, aged 35 to 74years from Girona without symptoms of cardiovascular diseases, was followed between 2006 and 2009. Standardized laboratory and blood pressure measurements, questionnaires, and case definitions were used. The follow-up combined cross-linkage of our databases with our regional mortality registry, reexamination, and telephone contact with participants. Coronary disease endpoints alone were considered.ResultsA total of 27 487 person-years were obtained (mean follow-up 7.1years), and the follow-up was achieved in 97% of participants (120 coronary disease events). Validity was good: the regression coefficients estimated with the cohort data did not differ from those obtained in the original Framingham function. Function calibration was good: the observed incidence of cardiovascular events in the decile groups of risk did not differ from the function prediction (P=.127 in women, and P=.054 in men). The C statistic (discrimination) was 0.82 (95% confidence interval, 0.76-0.88) in women, and 0.78 (95% confidence interval, 0.73-0.83) in men. More than 50% of cardiovascular events occurred in participants whose 10-year risk was 5% to 14.9%.ConclusionsThe studied function accurately predicts coronary disease events at 10years. Risk stratification could be simplified in 4 groups: low (&lt;5%), moderate (5%-9.9%), high (10%-14.9%) and very high (&amp;#8805;15%) (AU)</dc:description>
+<dc:creator>Elosua, Roberto</dc:creator>
+<dc:creator>Fitó, Montserrat</dc:creator>
+<dc:creator>Subirana, Isaac</dc:creator>
+<dc:creator>Marrugat, Jaume</dc:creator>
+<dc:creator>Vila, Joan</dc:creator>
+<dc:creator>Baena-Díez, José Miguel</dc:creator>
+<dc:creator>Sala, Joan</dc:creator>
+<dc:creator>Ramos, Rafel</dc:creator>
+<dc:creator>Grau, María</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos El cribado del riesgo cardiovascular requiere de tablas de riesgo precisas. Se analiza la validez relativa de la función de REGICOR adaptada de la original de Framingham, y la distribución poblacional de acontecimientos cardiovasculares a 10 años según grupos de riesgo.MétodosSe siguió entre 2006 y 2009 a una cohorte poblacional, reclutada entre 1995 y 2000, de 3.856 participantes de 35 a 74 años de Girona combinando el cruce con el registro de mortalidad, examen presencial y llamadas telefónicas. Los factores de riesgo cardiovascular se midieron con metodología estandarizada. Los acontecimientos de interés fueron los coronarios.ResultadosSe acumularon 27.487 personas-año (120 acontecimientos coronarios) y se siguió al 97% de los participantes (media, 7,1 años). La validez de los coeficientes de regresión estimados con los datos de la cohorte fue buena: no difirieron de los originales de la función de Framingham. La calibración de la función fue buena: la incidencia de acontecimientos coronarios en los grupos de deciles de riesgo no difirió de la observada (p=0,127 en mujeres y p=0,054 en varones). El estadígrafo C (discriminación) fue 0,82 (intervalo de confianza del 95%, 0,76-0,88) en las mujeres y 0,78 (intervalo de confianza del 95%, 0,73-0,83) en los varones. Más del 50% de los acontecimientos cardiovasculares ocurrió en el grupo del 5 al 14,9% de riesgo a 10 años.ConclusionesLa función estudiada predice con precisión y exactitud los acontecimientos coronarios a 10 años. La estratificación de riesgo se puede simplificar a bajo (&lt; 5%), moderado (5-9,9%), alto (10-14,9%) y muy alto (&amp;#8805; 15%) (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;64(5): 385-394, mayo 2011. ilus, tab</dc:source>
+<dc:identifier>ibc-123499</dc:identifier>
+<dc:title xml:lang="es">Validez relativa de la estimación del riesgo cardiovascular a 10 años en una cohorte poblacional del estudio REGICOR</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d30650^s22080</dc:subject>
+<dc:subject>^d2359^s22080</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d33939^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28575</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201105</dc:date>
+</metadata>
+</record>
+</ibecs-document>

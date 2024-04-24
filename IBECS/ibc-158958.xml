@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-158958</identifier>
+<setSpec>0210-4806</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Competing risk analysis of mortality in prostate cancer treated with radical prostatectomy</dc:title>
+<dc:description xml:lang="en">Objective: To determine the risk of cancer-specific mortality (CSM) versus the competing risk of mortality by other causes (MOC) in patients with localised prostate cancer (LPC) treated with radical prostatectomy (RP). Material and method: An observational cohort study of 982 patients with LPC treated with RP selected from our department&#146;s PC registry database. A competing risk analysis was performed, calculating the probability of CSM in the presence of the competing risk of MOC. Cumulative incidence curves were constructed, and point estimates were performed at 5, 10 and 15 years. The analysis was stratified by age (&amp;#8804; 65 vs. &gt; 65 years) and risk group: low (Gleason score &amp;#8804; 6 and pT2abc); intermediate (Gleason score of 7 and pT2abc) and high (Gleason score of 8-10 or pT3ab). Results: With a median follow-up of 60 months, the overall probability of dying from PC was 3.5%, and the probability of dying from other causes was 9%. A competing effect for MOC was observed. The risk of MOC was almost 3 times greater than that of CSM. This effect remained for all risk groups, although its magnitude decreased progressively according to the risk group level. At 10 years, CSM was only 0%, 1% and 2% for the low, intermediate and high-risk groups, respectively, while the likelihood of MOC was 4%, 4% and 10%, respectively. The mortality risk was shown after 10 years of follow-up and was higher for other causes not attributable to PC and for patients older than 65 years. Conclusions: The benefit of RP might be overestimated, given that the risk of MOC is greater than that of CSM, regardless of the age group and risk group, especially after 10 years of followup. The only parameter that varied was the magnitude of the CSM/MOC ratio. This information could help in choosing the active treatment for patients with LPC and short life expectancies (AU)</dc:description>
+<dc:creator>Boronat-Tormo, F</dc:creator>
+<dc:creator>Luján-Marco, S</dc:creator>
+<dc:creator>Loras-Monfort, A</dc:creator>
+<dc:creator>Rogel-Bertó, R</dc:creator>
+<dc:creator>Soto-Poveda, A</dc:creator>
+<dc:creator>Ruiz-Cerdá, JL</dc:creator>
+<dc:creator>Trassierra-Villa, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Estimar el riesgo de muerte cáncer específica (MCE) frente al riesgo competitivo de mortalidad por otras causas (MOC) en pacientes con cáncer de próstata localizado (CaP-Lo) tratados mediante prostatectomía radical (PR). Material y método: Estudio observacional de una cohorte de 982 pacientes con CaP-Lo tratados mediante PR seleccionados de la base de datos del registro de CaP de nuestro servicio. Se ha realizado un análisis de riesgos competitivos calculando la probabilidad de MCE en presencia del riesgo competitivo por MOC. Se han construido curvas de incidencia acumulada y se han llevado a cabo estimaciones puntuales a 5, 10 y 15 años. El análisis se ha estratificado por edad (&amp;#8804; 65 vs. &gt; 65 años) y por grupos de riesgo: bajo (Gleason &amp;#8804; 6 y pT2abc); intermedio (Gleason = 7 y pT2abc) y elevado (Gleason 8-10 o pT3ab). Resultados: Con una mediana de seguimiento de 60 meses, la probabilidad global de fallecer por CaP fue del 3,5% y la de fallecer por otras causas del 9%. Se evidenció un efecto competitivo por MOC. El riesgo de MOC fue de casi 3 veces superior al de MCE. Este efecto se mantuvo para todos los grupos de riesgo, si bien su magnitud disminuyó progresivamente conforme aumentó el nivel del grupo de riesgo. A 10 años, la MCE fue únicamente de 0, 1 y 2% para los grupos de riesgo bajo, intermedio y elevado respectivamente, mientras que la probabilidad MOC fue de 4, 4 y 10%. El riesgo de fallecer se evidenció a partir de 10 años de seguimiento y fue más frecuente por otras causas no atribuibles al CaP y en pacientes de edad &gt; 65 años. Conclusiones: El beneficio de la PR puede estar sobreestimado, ya que el riesgo de MOC es superior al de MCE independientemente del grupo de edad y grupo de riesgo, sobre todo a partir de los 10 años de seguimiento. Lo único que varía es la magnitud de la razón MCE/MOC. Esta información puede ayudar a decidir el tratamiento activo en pacientes con CaP-Lo y corta expectativa de vida (AU)</dc:description>
+<dc:source>Actas Urol Esp;41(1): 11-22, ene.-feb. 2017. tab, graf</dc:source>
+<dc:identifier>ibc-158958</dc:identifier>
+<dc:title xml:lang="es">Análisis de riesgos competitivos de mortalidad en cáncer de próstata tratado mediante prostatectomía radical</dc:title>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d33939^s22045</dc:subject>
+<dc:subject>^d11911^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d11911^s22047</dc:subject>
+<dc:subject>^d11914^s22009</dc:subject>
+<dc:subject>^d11914^s22047</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201702</dc:date>
+</metadata>
+</record>
+</ibecs-document>

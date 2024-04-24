@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-105957</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Development of integrated support software for drug validation</dc:title>
+<dc:description xml:lang="en">Objective: To describe the development of a tool to automate detection of adverse drug-related events (ADRE) in all patients in a hospital. Method: We selected the ADRE that we wished to detect (administering drugs to patients with kidney failure and/or by enteral feeding tube) We designed software to record, process and integrate analytical results from SELENE®clinical history programme, treatment prescribedusing Farmatools®, and the information included in the tables we designed. Results: The programme allows us to automatically detect patients likely to experience the ADRE we de&amp;#64257;ned, and recommends a modi&amp;#64257;ed treatment to the pharmacist. This new tool enables us to search for all patients who might have a speci&amp;#64257;c ADRE. Conclusions: The software we designed may be a useful drug validation tool (AU)</dc:description>
+<dc:creator>Gallego Úbeda, M</dc:creator>
+<dc:creator>Campos Fernández de Sevilla, M. A</dc:creator>
+<dc:creator>Tutau Gómez, F</dc:creator>
+<dc:creator>Delgado Téllez, L</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Describir el desarrollo de una herramienta para automatizar la detección de eventos relacionados con los medicamentos (ERM), en todos los pacientes del hospital. Método Se seleccionaron los ERM que se pretendían buscar (administración de fármacos en insuficiencia renal y/o por sonda enteral). Se diseñó un software para capturar, procesar e integrar los resultados analíticos de la historia clínica informatizada SELENE®, los tratamientos prescritos en Farmatools®, con la información incluida en las tablas diseñadas. Resultados El programa posibilita la detección automática de los pacientes candidatos a presentar los ERM definidos, a la vez que propone al farmacéutico una recomendación de ajuste del tratamiento. La nueva herramienta permite buscar todos los pacientes que pueden presentar un determinado ERM. Conclusiones El software diseñado podría ser una herramienta de ayuda para la validación farmacéutica (AU)</dc:description>
+<dc:source>Farm Hosp;36(5): 351-355, sep. -oct. 2012. ilus, tab</dc:source>
+<dc:identifier>ibc-105957</dc:identifier>
+<dc:title xml:lang="es">Desarrollo de un software integrado de ayuda a la validación farmacéutica</dc:title>
+<dc:subject>^d28889^s22049</dc:subject>
+<dc:subject>^d19402</dc:subject>
+<dc:subject>^d29453^s22049</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d52955^s22049</dc:subject>
+<dc:subject>^d31865^s22049</dc:subject>
+<dc:subject>^d33618^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201210</dc:date>
+</metadata>
+</record>
+</ibecs-document>

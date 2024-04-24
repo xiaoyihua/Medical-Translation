@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-30862</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Systematic bias in measuring triglyceride levels</dc:title>
+<dc:creator>Viñals, María Inmaculada</dc:creator>
+<dc:creator>Machado, Francisco</dc:creator>
+<dc:creator>Sánchez-Serrano, Ignacio</dc:creator>
+<dc:creator>Rodríguez-Manotas, Miguel</dc:creator>
+<dc:creator>López, Ascensión</dc:creator>
+<dc:creator>Amorín, Manuel</dc:creator>
+<dc:creator>Gomis, Rafael</dc:creator>
+<dc:creator>Herrera, José</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivos: Búsqueda de errores sistemáticos en la medida de las concentraciones de triglicéridos. Valoración de su importancia para el diagnóstico y control del paciente, en virtud de las recomendaciones del National Cholesterol Education Program: Adult Treatment Panel III. Material y métodos: Se plantearon 2 procedimientos para detectar errores de exactitud en la medida de triglicéridos, mediante los métodos con y sin blanco de glicerol. Por un lado, el análisis independiente que consistió en el análisis en paralelo de 116 muestras de suero obtenidas por muestreo aleatorio en el mes de diciembre de 2002 mediante 2 métodos, uno de ellos de fiabilidad garantizada. Por otro, se preparó una muestra patrón para valorar en ella la concentración equivalente de triglicéridos por ambos métodos. Procesamiento estadístico de resultados. Resultados: Se detectó un error sistemático o determinado positivo en la medida de triglicéridos con blanco de glicerol: a) la valoración del análisis independiente arrojó una diferencia positiva constante de 0,110 mmol/l; b) el análisis de las muestras patrón por el método MCB estableció un intervalo de confianza de 8,5-8,7 mmol/l, que no incluyó la concentración teórica calculada para las muestras patrón, 8,4 mmol/l .Conclusiones: El error sistemático encontrado, aunque no sorprende por su valor absoluto ( 5 por ciento), tiene importancia por presentar signo positivo respecto a la determinación de triglicéridos sin tener en cuenta el blanco de glicerol (AU)</dc:description>
+<dc:source>Rev. calid. asist;19(1): 16-19, ene. 2004. ilus, graf</dc:source>
+<dc:identifier>ibc-30862</dc:identifier>
+<dc:title xml:lang="es">Errores sistemáticos en la determinación de triglicéridos</dc:title>
+<dc:subject>^d6134</dc:subject>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d12223</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12437</dc:subject>
+<dc:subject>^d3979</dc:subject>
+<dc:subject>^d14679^s22062</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200401</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-23146</identifier>
+<setSpec>0034-7973</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Functional flow cytometry application to the antiplatelet treatment: Ca2+ mobilization and P-selectin exposition on platelets patients heated with Ticlopidine</dc:title>
+<dc:creator>Sansonetty, Filipe</dc:creator>
+<dc:creator>O'Connor, José-Enrique</dc:creator>
+<dc:creator>Monteiro, Maria-do-Céu</dc:creator>
+<dc:creator>Gonçalves, Maria José</dc:creator>
+<dc:creator>Martínez, Marcial</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Editorial Siglo, S.L.</dc:publisher>
+<dc:description xml:lang="es">Los pacientes con tendencia protrombótica pueden ser sometidos a terapia antiplaquetaria. La inhibición de las funciones plaquetarias puede influir diversamente en la progresión de la enfermedad en los pacientes individuales, por lo que los procedimientos para determinar objetivamente el estado funcional de las plaquetas son de interés clínico. Hemos aplicado un método citométrico en sangre entera, recientemente desarrollado en nuestro laboratorio (Monteiro et al. Cytometry 35, 302-310, 1999), para monitorizar las alteraciones en la respuesta de activación de las plaquetas en donantes voluntarios sanos tratados con ticlopidina (250 mg dos veces al día por vía oral durante cuatro días). La activación plaquetaria inducida por ADP y trombina se ha estudiado en sangre entera por citometría de flujo mediante el ensayo cinético de la movilización de Ca2+ libre intracelular y la determinación de la expresión de P-selectina (CD62P). Los cambios en la movilización de Ca2+ libre y la expresión de CD62P inducidas por ADP y trombina reflejan el efecto inhibidor de la ticlopidina. La intensidad de las respuestas de Ca2+ ( por ciento inhibición 50 por ciento) tras la activación de plaquetas con ADP y con baja concentración de trombina fueron reducidas de forma estadísticamente significativa tras el tratamiento con ticlopidina. Dado que se detectó una marcada variabilidad interindividual tras la administración de ticlopidina, nuestros resultados muestran la utilidad de estos sensibles ensayos en sangre entera para monitorizar la inhibición de la función plaquetaria y para optimizar en consecuencia la dosificación terapéutica de forma individualizada en cada paciente sometido a terapia antiplaquetaria (AU)</dc:description>
+<dc:source>Rev. diagn. biol;52(1): 23-31, ene. 2003. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-23146</dc:identifier>
+<dc:title xml:lang="es">Aplicación de la citometría de flujo funcional a la monitorización del tratamiento antiplaquetario: Movilización de Ca2+ y expresión de P-Selectina en plaquetas de sujetos tratados con Ticlopidina</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d32658^s22044</dc:subject>
+<dc:subject>^d28261^s22044</dc:subject>
+<dc:subject>^d1819^s22044</dc:subject>
+<dc:subject>^d22965^s22073</dc:subject>
+<dc:subject>^d5567^s22045</dc:subject>
+<dc:subject>^d19367^s22073</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200301</dc:date>
+</metadata>
+</record>
+</ibecs-document>

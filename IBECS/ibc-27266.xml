@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-27266</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Clinical diagnostic of brain death and transcranial doppler, looking for middle cerebral arteries and intracranial vertebral arteries. Agreement with scintigraphic techniques</dc:title>
+<dc:creator>Suárez, M. A</dc:creator>
+<dc:creator>Virgós, B</dc:creator>
+<dc:creator>Araiz, J. J</dc:creator>
+<dc:creator>Tejero, C</dc:creator>
+<dc:creator>Sánchez, J. I</dc:creator>
+<dc:creator>Santos, S</dc:creator>
+<dc:creator>Larraga, J</dc:creator>
+<dc:creator>Millastre, A</dc:creator>
+<dc:creator>Nebra, A. C</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>César Viguera</dc:publisher>
+<dc:description xml:lang="es">Introducción. El Real Decreto 2070/1999 supuso una importante modificación en la legislación, al incluir al Doppler transcraneal (DTC) dentro de las exploraciones para confirmar el diagnóstico clínico de muerte encefálica (ME). Habitualmente, para su empleo en el diagnóstico de ME se ecografían las arterias cerebrales medias (ACM) y la arteria basilar (AB). Objetivos. Comprobar la eficacia del DTC como prueba confirmatoria de ME, ecografiando ambas ACM y ambas arterias vertebrales en su porción intracraneal (AV) en lugar de la AB, tomando como patrón de oro la gammagrafía de perfusión cerebral. Pacientes y métodos. Presentamos 25 pacientes diagnosticados clínicamente de ME a los que se realizó DTC como prueba confirmatoria de dicho diagnóstico, ecografiando ambas ACM y ambas AV. Posteriormente, se procedió a realizar gammagrafía de perfusión cerebral (GPC) en todos los casos, como prueba confirmatoria final. Se usa como herramienta estadística el test de ji cuadrado, demandando un intervalo de confianza del 95 por ciento. Resultados. En 24 de los 25 el DTC fue eficaz a la hora de confirmar el diagnóstico de ME. En el paciente restante, se obtuvo un falso positivo, dado que el DTC no reveló flujo en fosa posterior, comprobándose mediante la GPC la presencia de flujo residual a dicho nivel, flujo que desapareció en 36 horas. Dicho paciente estaba hemodinámicamente inestable en el momento de realizar el DTC. Conclusiones. El DTC obtiene una fiabilidad del 100 por ciento a la hora de confirmar la ausencia de perfusión en la fosa anterior; no obstante el falso positivo obtenido en fosa posterior nos obliga a ser cautos a la hora de aceptar la ecografía de las AV, sobre todo en sujetos con tendencia a la inestabilidad hemodinámica, como prueba confirmatoria de ausencia de perfusión en la fosa posterior (AU)</dc:description>
+<dc:source>Rev Neurol;33(10): 916-920, nov. 2001.</dc:source>
+<dc:identifier>ibc-27266</dc:identifier>
+<dc:title xml:lang="es">Diagnóstico clínico de muerte encefálica y empleo del Dopplertranscraneal, con ecografía de las arterias cerebrales mediasy el segmento intracraneal de las arterias vertebrales. Concordancia con los hallazgos de la gammagrafía cerebral</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23234</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d15115</dc:subject>
+<dc:subject>^d1952</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d34044</dc:subject>
+<dc:subject>^d30991</dc:subject>
+<dc:subject>^d14065</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200111</dc:date>
+</metadata>
+</record>
+</ibecs-document>

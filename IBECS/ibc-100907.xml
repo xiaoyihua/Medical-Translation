@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-100907</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cancer survival between 1995 and 2004 in the Basque Country, Spain</dc:title>
+<dc:creator>Larrañaga Larrañaga, Nerea</dc:creator>
+<dc:creator>Tobalina Gómez, María-Crescencia</dc:creator>
+<dc:creator>Castro Laiz, Visitación de</dc:creator>
+<dc:creator>Martínez Cobo, Ruth</dc:creator>
+<dc:creator>Mozo Carollo, Imanol</dc:creator>
+<dc:creator>Izarzugaza Lizarraga, Isabel</dc:creator>
+<dc:creator>Machón Sobrado, Mónica</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Background: geographic differences described in the prognosis of cancer patients in the Basque Country have been attributed to a different incidence in tumours with different lethality. Therefore, cancer relative survival adjusted by case-mix was included to estimate cancer survival by provinces and health regions, using data from 1995 to 2004. Methods: a total of 93 585 cases of malignant tumours were identified from a population-based cancer registry. The five-year relative survival (RS) was calculated using Ederer´s method. The five-year relative excess risk (RER) of death was estimated with a generalised linear model, standardized by age and adjusted for sex, date of diagnosis and case-mix. Results: the five-year RS increased fromperiod 1995-1999 to 2000- 2004, this latter, with values ranging by health regions between 46-58% and 57-65% in men and women, respectively. There was an excess risk of death in Bizkaia (RER=1.06, CI95%: 1.03-1.09), this same effect being identified in almost all the health regions in the province. In contrast, in Gipuzkoa province, differences were only statistically significant in the Gipuzkoa and Tolosa health regions (RER=1.07; CI95%: 1.02-1.13 and RER=0.91; CI95%: 0.84-0.98, respectively), and even these disappeared after adjusting for potential confounders. Conclusions: cancer patients of Bizkaia, except for the Uribe health region, presented a worse prognosis(AU)</dc:description>
+<dc:source>Rev Esp Salud Publica;86(3): 293-299, may.-jun.2012. tab</dc:source>
+<dc:identifier>ibc-100907</dc:identifier>
+<dc:title xml:lang="es">Supervivencia del cáncer en el País Vasco entre 1995-2004</dc:title>
+<dc:subject>^d24890</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d28418</dc:subject>
+<dc:subject>^d50290</dc:subject>
+<dc:subject>^d28604</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d27794</dc:subject>
+<dc:subject>^d5703^s22083</dc:subject>
+<dc:subject>^d13915^s22031</dc:subject>
+<dc:subject>^d24712^s22080</dc:subject>
+<dc:subject>^d27786^s22083</dc:subject>
+<dc:subject>^d9562^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201206</dc:date>
+</metadata>
+</record>
+</ibecs-document>

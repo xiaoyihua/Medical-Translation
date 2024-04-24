@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-7245</identifier>
+<setSpec>1134-3230</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:creator>Casamitjana, R</dc:creator>
+<dc:creator>Busturia, M. A</dc:creator>
+<dc:creator>Castaño, L 1,</dc:creator>
+<dc:creator>Bilbao, J. R</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Ergon, S.A</dc:publisher>
+<dc:description xml:lang="es">La utilidad de los autoanticuerpos contra la glutamato-descarboxilasa (CADA) y la tirosina fosfatasa pancreática IA-2 (IA2A) como marcadores de diabetes autoinmune ha estimulado la aparición de kits comerciales para su detección. En este trabajo comparamos cinco kits comerciales de GADA (tres radioensayos y dos ELISA) y cuatro ensayos de IA2A (tres radioensayos y un ELISA) con los radioensayos de inmunoprecipitación del Hospital de Cruces. Se investigó la presencia de GADA e IA2A en el suero de 55 diabéticos tipo I al debut y 25 individuos sin historia de la enfermedad. Los radioensayos de CADA identificaron entre el 83 por ciento y el 100 por ciento de los sueros positivos en la técnica estándar, mientras que los dos ELISA sólo alcanzaron el 22 por ciento y el 65 por ciento. En el caso de los IA2A, la sensibilidad relativa de los radioensayos se situó entre el 66 por ciento y el 91 por ciento y fue del 37 por ciento para el ELISA. En conclusión, los radioensayos comerciales de CADA se comportan adecuadamente (uno iguala a la técnica patrón) y posiblemente la pérdida de sensibilidad pueda reducirse modificando los protocolos. Por su parte, los ELISA no alcanzan niveles satisfactorios. Los kits de IA2A muestran unos resultados algo más limitados, a lo que probablemente contribuye el que la forma molecular del antígeno sea diferente a la empleada en el Hospital de Cruces. En cualquier caso, los resultados pueden ser mejorados si se ajustan los valores de positividad en base a controles propios (AU)</dc:description>
+<dc:source>Av. diabetol;16(4): 233-238, dic. 2000. tab, graf</dc:source>
+<dc:identifier>ibc-7245</dc:identifier>
+<dc:title xml:lang="es">Autoanticuerpos anti-gad65 y antiia-2 en diabetes tipo i: valoración de kits comerciales para su detección</dc:title>
+<dc:subject>^d23568^s22062</dc:subject>
+<dc:subject>^d1329^s22001</dc:subject>
+<dc:subject>^d12367</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3944^s22038</dc:subject>
+<dc:subject>^d3944^s22016</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d10367^s22044</dc:subject>
+<dc:subject>^d6112^s22038</dc:subject>
+<dc:subject>^d29866^s22038</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200012</dc:date>
+</metadata>
+</record>
+</ibecs-document>

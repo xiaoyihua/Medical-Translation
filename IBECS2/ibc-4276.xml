@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-4276</identifier>
+<setSpec>0212-6567</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Evaluation of the glucocard memory 2 analyser for measuring glucose concentration in capillary blood</dc:title>
+<dc:creator>Navarro, J. M</dc:creator>
+<dc:creator>Bonamus, L</dc:creator>
+<dc:creator>Carrera, T</dc:creator>
+<dc:creator>Almirall, L</dc:creator>
+<dc:creator>Benet Travé, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Objetivo. Evaluar la validez y precisión analítica y la practicabilidad del sistema medidor de la concentración de glucosa Glucocard Memory 2 diseñado para el autocontrol del paciente diabético. Diseño. Descriptivo, transversal. Validación de un instrumento de medida siguiendo las recomendaciones de la Sociedad Española de Bioquímica Clínica y Patología Molecular. Emplazamiento. Estudio realizado en un laboratorio de atención primaria. Muestra. Noventa y tres muestras de sangre de pacientes diabéticos seleccionadas mediante muestreo consecutivo de los tubos recibidos en el laboratorio para realizar el protocolo analítico de seguimiento de diabetes. Mediciones y resultados principales. La repetibilidad del sistema se estudió analizando la precisión intradía a 4 concentraciones distintas de glucosa, obteniéndose coeficientes de variación entre el 2,12 por ciento (a 410 mg/dl de glucosa) y un 4,17 por ciento (a 37,2 mg/dl). La linealidad del analizador se demostró experimentalmente entre 27 y 485 mg/dl. La exactitud se evaluó por comparación con el procedimiento habitual del laboratorio (Hitachi 747, GOD-PAP), calculando la recta de regresión mediante el método de Passing-Bablok (y = 1,01, * -2,34) y mediante la obtención del coeficiente de correlación intraclase, cuyo resultado fue del 99 por ciento. La técnica de análisis de 'error Grid' para investigar la significación clínica de las posibles desviaciones respecto al método de referencia dio un 100 por ciento de resultados dentro de la zona de exactitud clínica. El estudio de la practicabilidad mostró una gran simplicidad de manejo. Conclusiones. El Glucocard Memory 2 es un analizador para la medición de la glucemia capilar y venosa con una extrema simplicidad de manejo y unas excelentes características analíticas (AU)</dc:description>
+<dc:source>Aten Primaria;26(5): 327-330, sept. 2000.</dc:source>
+<dc:identifier>ibc-4276</dc:identifier>
+<dc:title xml:lang="es">Evaluación del analizador glucocard memory 2 para medir la concentración de glucosa en sangre capilar</dc:title>
+<dc:subject>^d23570</dc:subject>
+<dc:subject>^d1812</dc:subject>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d23569</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3942</dc:subject>
+<dc:subject>^d32295</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200009</dc:date>
+</metadata>
+</record>
+</ibecs-document>

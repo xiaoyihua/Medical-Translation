@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-107988</identifier>
+<setSpec>1130-0108</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Endoscopic localization of colorectal cancer: study of its accuracy and possible error factors</dc:title>
+<dc:description xml:lang="en">Introduction: accurate preoperative localization of colorectal cancer (CRC) is very important, with a wide range of published error rates. Aim: to determine accuracy of endoscopic localization of CRC in comparison with preoperative computed tomography (CT). To analyse variables that could be associated with a wrong endoscopic localization. Patients and methods: endoscopic and CT localization of a series of CRC without previous surgery were reviewed. We studied the concordance between endoscopic and radiologic localization against operative findings comparing accuracy of endoscopy and CT. We analysed the frequency of wrong endoscopic diagnoses with regard to a series of patient, endoscopy and tumor variables. Results: two hundred thirty seven CRC in 223 patients were studied. Concordance with surgical localization was: colonoscopy = 0.87 and CT = 0.69. Endoscopic localization accuracy was: 91.1%; CT: 76.2%: p = 0.00001; OR = 3.22 (1.82-5.72). Obstructive cancer presented a higher rate of wrong localization: 18 vs. 5.7% in non-obstructive tumors (p = 0.0034; OR = 3.65 (1.35- 9.96). Endoscopic localization mistakes varied depending on tumor location, being more frequent in descending colon: 36.3%, p = 0.014; OR = 6.23 (1.38-26.87) and cecum: 23.1%, p = 0.007; OR = 3.92 (1.20-12.43). Conclusions: endoscopic accuracy for CRC localization was very high and significantly better than CT accuracy. Obstructive tumor and those located in the descending colon or cecum were associated with a significant increase of the error risk of CRC endoscopic localization(AU)</dc:description>
+<dc:creator>Ostiz, Miriam</dc:creator>
+<dc:creator>Borda, Fernando</dc:creator>
+<dc:creator>Jiménez, Francisco Javier</dc:creator>
+<dc:creator>Urman, Jesús</dc:creator>
+<dc:creator>Goñi, Silvia</dc:creator>
+<dc:creator>Borda, Ana</dc:creator>
+<dc:creator>Zozaya, José Manuel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: una correcta localización preoperatoria del cáncer colorrectal (CCR) es muy importante, siendo variables las tasas de error de localización endoscópica publicadas. Objetivo: determinar la precisión de la localización endoscópica del CCR, comparándola con la del TAC preoperatorio. Analizar las variables que pudieran asociarse a una localización endoscópica errónea. Pacientes y métodos: revisamos la localización endoscópica y por TAC de una serie de CCR sin cirugía previa. Estudiamos la concordancia entre localización endoscópica y radiológica frente a la operatoria, comparando la precisión de la endoscopia y del TAC. Analizamos la frecuencia de diagnósticos endoscópicos incorrectos con respecto a una serie de variables del paciente, de la endoscopia y del tumor. Resultados: estudiamos 237 CCR, en 223 pacientes. La concordancia con la localización quirúrgica fue: colonoscopia = 0,87 y TAC = 0,69. La precisión de la localización endoscópica fue: 91,1% (87,3-95); TAC: 76,2% (70,8-82): p = 0,00001; OR = 3,22 (1,82-5,72). El cáncer obstructivo presentó mayor frecuencia de localización errónea: 18% frente al no obstructivo: 5,7%, p = 0,0034; OR = 3,65 (1,35-9,96). Los errores endoscópicos de localización variaron según la ubicación tumoral, siendo más frecuentes en descendente: 36,3%, p = 0,014; OR = 6,23 (1,38-26,87) y ciego: 23,1%, p = 0,007; OR = 3,92 (1,20-12,43). Conclusiones: la precisión endoscópica para la localización del CCR resultó muy elevada y significativamente superior a la del TAC. El carácter obstructivo del tumor y el asentar en descendente o ciego se asocian con un significativo aumento del riesgo de error en la localización endoscópica del CCR(AU)</dc:description>
+<dc:source>Rev Esp Enferm Dig;104(10): 512-517, oct.-nov. 2012. tab, ilus</dc:source>
+<dc:identifier>ibc-107988</dc:identifier>
+<dc:title xml:lang="es">Localización endoscópica del cáncer colorrectal: estudio de su precisión y posibles factores de error</dc:title>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d28918^s22045</dc:subject>
+<dc:subject>^d29341^s22045</dc:subject>
+<dc:subject>^d36269^s22074</dc:subject>
+<dc:subject>^d33121^s22054</dc:subject>
+<dc:subject>^d29341^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28918^s22066</dc:subject>
+<dc:subject>^d3979^s22054</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d24339^s22074</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d4805^s22074</dc:subject>
+<dc:subject>^d4805^s22045</dc:subject>
+<dc:subject>^d23595^s22016</dc:subject>
+<dc:subject>^d23595^s29166</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d24339^s22039</dc:subject>
+<dc:subject>^d28630^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201211</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-155785</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Association between thoracic aorta calcium and thoracic aorta geometry in a cohort of asymptomatic participants at increased cardiovascular risk</dc:title>
+<dc:description xml:lang="en">Introduction and objectives: Thoracic aorta calcium detection is known to improve cardiovascular risk prediction for cardiac and noncardiac events beyond traditional risk factors. We investigated the influence of thoracic aorta morphometry on the presence and extent of aortic calcifications. Methods: Nonenhanced computed tomography heart scans were performed in 970 asymptomatic participants at increased cardiovascular risk. An automated algorithm estimated the geometry of the entire thoracic aorta and quantified the aortic calcium Agatston score. A nonparametric model was used to analyze the percentiles of calcium score by age. Logistic regression models were calculated to identify anatomical associations with calcium levels. Results: Calcifications were concentrated in the aortic arch and descending portions. Higher amounts of calcium were associated with an enlarged, unfolded, less tapered and more tortuous aorta. The size of the ascending aorta was not correlated with aortic calcium score, whereas enlargement of the descending aorta had the strongest association: the risk of having a global calcium score &gt; 90th percentile was 3.62 times higher (confidence interval, 2.30-5.91; P &lt; .001) for each 2.5-mm increase in descending aorta diameter. Vessel taper, tortuosity, unfolding and aortic arch and descending volumes were also correlated with higher amounts of calcium. Conclusions: Thoracic aorta calcium was predominantly found at the arch and descending aorta and was positively associated with the size of the descending aorta and the aortic arch, but not with the size of the ascending aorta. These findings suggest that aortic dilatation may have different mechanisms and may consequently require different preventive strategies according to the considered segments (AU)</dc:description>
+<dc:creator>Sirieix, Marie Emmanuelle</dc:creator>
+<dc:creator>Mousseaux,  Elie</dc:creator>
+<dc:creator>Craiem, Damian</dc:creator>
+<dc:creator>El Batti, Salma</dc:creator>
+<dc:creator>Alsac, Jean Marc</dc:creator>
+<dc:creator>Casciaro, Mariano E</dc:creator>
+<dc:creator>Simon, Alain</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos: La detección del calcio de la aorta torácica mejora la predicción del riesgo cardiovascular, en cuanto a los eventos cardiacos y no cardiacos, respecto a la obtenida solo con los factores de riesgo tradicionales. En este trabajo se ha investigado la influencia de la morfometría de la aorta torácica en la presencia y la magnitud de las calcificaciones aórticas. Métodos: Se realizaron exploraciones por tomografía computarizada cardiaca sin contraste en 970 participantes asintomáticos con riesgo cardiovascular aumentado. Se utilizó un algoritmo automático para estimar la geometría de toda la aorta torácica y se cuantificó la puntuación de Agatston del calcio aórtico. Se utilizó un modelo no paramétrico para analizar los percentiles de la puntuación de calcio según la edad. Se calcularon modelos de regresión logística para identificar asociaciones anatómicas con las concentraciones de calcio. Resultados: Las calcificaciones se concentraron en el cayado aórtico y la aorta descendente. Las mayores cantidades de calcio se asociaron con una aorta agrandada, desplegada, con menor estrechamiento y más tortuosa. El tamaño de la aorta ascendente no mostró correlación con la puntuación de calcio de la aorta, mientras que el tamaño de la aorta descendente es el parámetro que mostró mayor asociación: el riesgo de tener una puntuación de calcio global superior al percentil 90 fue 3,62 veces (intervalo de confianza, 2,30-5,91; p &lt; 0,001) mayor por cada 2,5 mm de aumento del diámetro de la aorta descendente. La reducción gradual del diámetro, la tortuosidad, el despliegue y los volúmenes del cayado aórtico y la aorta descendente estaban correlacionados con mayor cantidad de calcio. Conclusiones: Las calcificaciones se hallaron predominantemente en el cayado aórtico y la aorta descendente y mostraron asociación positiva con el tamaño de la aorta descendente y el cayado aórtico, pero no con el tamaño de la aorta ascendente. Estas observaciones indican que la dilatación aórtica puede tener mecanismos diferentes y, por consiguiente, requiere estrategias preventivas distintas según el segmento considerado (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;69(9): 827-835, sept. 2016. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-155785</dc:identifier>
+<dc:title xml:lang="es">Asociación entre el calcio de la aorta torácica y la geometría de esta en una cohorte de sujetos asintomáticos con riesgo cardiovascular aumentado</dc:title>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d1018</dc:subject>
+<dc:subject>^d50504^s22016</dc:subject>
+<dc:subject>^d54008^s22080</dc:subject>
+<dc:subject>^d54540^s22016</dc:subject>
+<dc:subject>^d24375^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d2359^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201609</dc:date>
+</metadata>
+</record>
+</ibecs-document>

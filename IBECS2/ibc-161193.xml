@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-161193</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Municipal distribution of the incidence of the most common tumours in an area with high cancer mortality</dc:title>
+<dc:description xml:lang="en">Objective: To describe the geographic distribution patterns of the municipal incidence of the most common tumours in the Huelva province (Spain) as compared to the estimated incidence for all of Spain. Methods: Relative risk (RR) was computed based on the conditional autoregressive model proposed by Besag, York and Mollié by applying the INLA tool to the cancer data for 2007-2011 for the following tumour locations: colon, rectum and anus (men and women); trachea, bronchia, and lungs, prostate and bladder in men; and breasts in women. The RR was presented in in choropleth and isopleth (with kriging interpolation) risk maps. Results: RR for bladder cancer in men was greater than 1.0 in all municipalities, with confidence intervals over 1.0 in four municipalities; Madrid having a 1.56 RR (95%CI 1.30&#150;1.67). For prostate cancer, a posteriori probabilities were below 0.1 in 68 of the 79 municipalities. For lung cancer, nine municipalities had confidence limits below 1.0, almost all of them in western Spain. For women, the RR for breast cancer was significantly higher in the capital of province area. The cancer incidence rates for the Huelva province were, in general, similar to those estimated for Spain, standing out bladder cancer in men (35% higher) and prostate cancer (30% lower). Conclusions: In the Huelva province, there is a geographical municipal distribution of cancer incidence with well-defined patterns for some specific tumour locations, with overall incidence rates very similar to those in the rest of Spain (AU)</dc:description>
+<dc:creator>Fernández Navarro, Pablo</dc:creator>
+<dc:creator>Viñas Casasola, Manuel Jesús</dc:creator>
+<dc:creator>Alguacil Ojeda, Juan</dc:creator>
+<dc:creator>Fajardo Rivas, María Luisa</dc:creator>
+<dc:creator>Gurucelain Raposo, José Luis</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Describir los patrones de distribución geográfica de la incidencia municipal de los tumores más frecuentes en la provincia de Huelva y compararla con la estimada para el conjunto de España. Método: Se calcularon los riesgos relativos (RR) usando el modelo condicional autorregresivo propuesto por Besag, York y Mollié mediante la herramienta INLA, para los años 2007-2011, de las siguientes localizaciones: colon, recto y ano en hombres y en mujeres; tráquea, bronquios y pulmón, próstata y vejiga en hombres; y mama en mujeres. Estos RR se representaron en mapas de coropletas y de isopletas (mediante interpolación por kriging). Resultados: Los RR para cáncer de vejiga en hombres fueron superiores a 1 en todos los municipios, siendo sus intervalos de credibilidad superiores a la unidad en cuatro municipios, destacando la capital con 1,56 (intervalo de credibilidad al 95%:1,30-1,67). Para el cáncer de próstata, las probabilidades a posteriori en 68 de los 79 municipios quedaron por debajo de 0,1. Para el cáncer de pulmón, nueve municipios mostraron intervalos de credibilidad por debajo de la unidad, casi todos en la zona oriental. En las mujeres, los RR para cáncer de mama fueron significativamente superiores en la zona de la capital. Finalmente, las tasas de incidencia provincial de Huelva muestran en general valores próximos a las estimadas para el conjunto de España, destacando las diferencias en cáncer de vejiga en hombres (35% superior) y en cáncer de próstata (30% inferior). Conclusiones: En la provincia de Huelva existe una distribución espacial municipal de la incidencia de cáncer con unos patrones bien definidos para algunas localizaciones tumorales concretas, presentando en general unas tasas de incidencia cercanas a las del territorio nacional (AU)</dc:description>
+<dc:source>Gac Sanit;31(2): 100-107, mar.-abr. 2017. tab, ilus</dc:source>
+<dc:identifier>ibc-161193</dc:identifier>
+<dc:title xml:lang="es">Distribución municipal de la incidencia de los tumores más frecuentes en un área de elevada mortalidad por cáncer</dc:title>
+<dc:subject>^d55119^s22066</dc:subject>
+<dc:subject>^d28423</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28583</dc:subject>
+<dc:subject>^d9562^s22080</dc:subject>
+<dc:subject>^d37724^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201704</dc:date>
+</metadata>
+</record>
+</ibecs-document>

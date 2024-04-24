@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-155521</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Influence of length of hospital stay on mortality after discharge in older patients with acute medical diseases</dc:title>
+<dc:description xml:lang="en">Objective: To analyse whether hospital length of stay is associated with mortality at six months after discharge in the elderly. Methods: An observational longitudinal study of patients surviving at hospital discharge. A binary logistic regression analysis was performed to study factors related to extended stay (&gt; 12 days). The relationship between mortality at 6 months and length-of-stay quartiles was studied using a Cox regression analysis. Results: 1180 patients were studied with a mean age of 86.6 years (standard deviation: 6.9). The median length of stay was 8 days (interquartile range: 5-12). Six-month mortality was 26.1%. After adjusting for age, gender, main diagnosis, comorbidity, albumin at admission, functional deterioration at admission and functional and mental status at discharge, hospital stay above the median was associated with mortality at 6 months: 9-12 days, HR=1.79, 95% CI: 1.01-3.14; and &gt; 12 days, HR=2.04, 95% CI: 1.19-3.53. Conclusions Prolonged hospital stay is an independent risk factor for mortality at 6 months after discharge (AU)</dc:description>
+<dc:creator>Socorro García, Alberto</dc:creator>
+<dc:creator>Baztán Cortés, Juan José</dc:creator>
+<dc:creator>López Pardo, Patricia</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Analizar la influencia de la estancia hospitalaria sobre la mortalidad a los 6 meses del alta en ancianos. Métodos: Estudio longitudinal observacional en pacientes supervivientes al alta tras un ingreso hospitalario. Se realizó un análisis de regresión logística binaria para estudiar factores relacionados con la estancia prolongada (&gt;12 días). Se estudió la relación entre la mortalidad a los 6 meses y los cuartiles de estancia mediante un análisis de regresión de Cox. Resultados: Se estudiaron 1180 pacientes, con una edad media de 86,6 años (desviación estándar: 6,9). La mediana de estancia fue de 8 días (rango intercuartílico: 5-12). La mortalidad a los 6 meses fue del 26,1%. Tras ajustar por edad, sexo, diagnóstico principal, comorbilidad, albúmina al ingreso, deterioro funcional al ingreso y situación funcional y mental al alta, la estancia por encima de la mediana se relacionó con la mortalidad a los 6 meses: para 9-12 días, hazard ratio (HR) de 1,79 e intervalo de confianza del 95% (IC95%) de 1,01-3,14; para más de 12 días, HR de 2,04 e IC95% de 1,19-3,53. Conclusiones: La estancia hospitalaria prolongada es un factor de riesgo independiente de mortalidad a los 6 meses tras la hospitalización (AU)</dc:description>
+<dc:source>Gac Sanit;30(5): 375-378, sept.-oct. 2016. tab</dc:source>
+<dc:identifier>ibc-155521</dc:identifier>
+<dc:title xml:lang="es">Influencia de la duración de la estancia hospitalaria sobre la mortalidad tras el alta en pacientes mayores con patología médica aguda</dc:title>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d30047^s22066</dc:subject>
+<dc:subject>^d8079^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28561^s22080</dc:subject>
+<dc:subject>^d6450^s22083</dc:subject>
+<dc:subject>^d28940^s22083</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201610</dc:date>
+</metadata>
+</record>
+</ibecs-document>

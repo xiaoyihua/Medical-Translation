@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-137605</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Failure mode and effects analysis on computerized drug prescriptions</dc:title>
+<dc:description xml:lang="en">Objective. To identify and analyze errors in drug prescriptions of patients treated in a «high resolution» hospital by applying a Failure mode and effects analysis (FMEA).Material and methods A multidisciplinary group of medical specialties and nursing analyzed medical records where drug prescriptions were held in free text format. An FMEA was developed in which the risk priority index (RPI) was obtained from a cross-sectional observational study using an audit of the medical records, carried out in 2 phases: 1) Pre-intervention testing, and (2) evaluation of improvement actions after the first analysis. An audit sample size of 679 medical records from a total of 2,096 patients was calculated using stratified sampling and random selection of clinical events. Results. Prescription errors decreased by 22.2% in the second phase. FMEA showed a greater RPI in «unspecified route of administration» and «dosage unspecified», with no significant decreases observed in the second phase, although it did detect, «incorrect dosing time», «contraindication due to drug allergy», «wrong patient» or «duplicate prescription», which resulted in the improvement of prescriptions. Conclusions. Drug prescription errors have been identified and analyzed by FMEA methodology, improving the clinical safety of these prescriptions. This tool allows updates of electronic prescribing to be monitored. To avoid such errors would require the mandatory completion of all sections of a prescription (AU)</dc:description>
+<dc:creator>Roldán-Aviña, JP</dc:creator>
+<dc:creator>Calvo Rubio-Burgos, Miguel</dc:creator>
+<dc:creator>Osuna-Navarro, FJ</dc:creator>
+<dc:creator>Pérez-Ramírez, C</dc:creator>
+<dc:creator>Blanco-Sánchez, MC</dc:creator>
+<dc:creator>González-García, Mercedes</dc:creator>
+<dc:creator>Paredes-Atenciano, JA</dc:creator>
+<dc:creator>Pinto-Melero, MA</dc:creator>
+<dc:creator>Jurado-Carmona, AM</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Determinar y analizar los errores en las prescripciones farmacológicas de pacientes asistidos en un hospital de alta resolución mediante la aplicación de un análisis modal de fallos y efectos (AMFE). Material y métodos. Un grupo multidisciplinar de distintas especialidades médicas y de enfermería analizó historias clínicas, en las que las prescripciones farmacológicas se realizaban en formato de texto libre. Se desarrolló un AMFE en el que el índice de prioridad de riesgos (IPR) se obtuvo a partir de un estudio observacional transversal, mediante una auditoría de historias clínicas realizada en 2 fases: 1) verificación previa a la intervención y 2) evaluación de las acciones de mejora después del primer análisis. El tamaño muestral auditable, calculado con técnica de muestreo estratificado y selección aleatoria de episodios clínicos, fue de 679 historias clínicas. Resultados. Se incluyó a 2.096 pacientes. Los errores de prescripción respecto del total de prescripciones descendieron en la segunda fase un 22,2%. En las variables con IPR mayor («vía de administración no especificada» y «dosificación no especificada») no se observaron descensos significativos en la segunda fase, durante la cual no se detectó «pauta horaria incorrecta», «contraindicación del fármaco por alergia», «paciente incorrecto» ni «duplicidad de prescripción», lo que redundó en la mejora de las prescripciones. Conclusiones. Se han determinado y analizado errores de prescripciones farmacológicas mediante la metodología AMFE, mejorando la seguridad clínica de dichas prescripciones. La herramienta permite monitorizar actualizaciones del sistema de prescripción electrónica. Para evitar dichos errores se requeriría que todos los apartados de una prescripción fueran de registro obligado (AU)</dc:description>
+<dc:source>Rev. calid. asist;30(4): 182-194, jul.-ago. 2015. tab, ilus</dc:source>
+<dc:identifier>ibc-137605</dc:identifier>
+<dc:title xml:lang="es">Análisis modal de fallos y efectos en las prescripciones farmacológicas informatizadas</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d53392^s22083</dc:subject>
+<dc:subject>^d29040^s22066</dc:subject>
+<dc:subject>^d29040^s22074</dc:subject>
+<dc:subject>^d7524^s22048</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d8675^s22054</dc:subject>
+<dc:subject>^d28596^s22045</dc:subject>
+<dc:subject>^d28596^s22074</dc:subject>
+<dc:subject>^d54857^s22041</dc:subject>
+<dc:subject>^d19156^s22048</dc:subject>
+<dc:subject>^d53392^s22048</dc:subject>
+<dc:subject>^d19156^s22045</dc:subject>
+<dc:subject>^d29040^s22039</dc:subject>
+<dc:subject>^d29040^s22049</dc:subject>
+<dc:subject>^d28596^s22048</dc:subject>
+<dc:subject>^d29040^s22048</dc:subject>
+<dc:subject>^d54857^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201508</dc:date>
+</metadata>
+</record>
+</ibecs-document>

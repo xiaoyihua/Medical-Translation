@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-058514</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Evaluation of the reproducibility of the data collection for the APACHE II, APACHE III adapted for Spain and the SAPS II in nine Intensive Care Units in Spain</dc:title>
+<dc:description xml:lang="en">Objective. To assess reproducibility in data collection and its influence on the calculation of the severity scoring and mortality risk in APACHE II, APACHE III adapted for Spain and SAPS II.                 Design. Multicenter, prospective, observational cohort study.                 Setting. Nine Spanish Intensive Care Units (ICUs).                 Patients. 1,211 consecutive patients admitted during the study period were included. Those patients under 16 years of age, those with a stay in the ICU of less than 24 hours, those admitted for scheduled pacemaker implant and those readmitted to the ICU within the same hospital admission were excluded.                 Intervention. None.                 Endpoints of interest. The data needed to calculate the severity and mortality risk scores were collected. A total of 10% of the patients were chosen by simple random sampling and the same data were collected by an independent group of intensive care physicians. Finally, the data obtained by the two groups of intensivists were compared.                 Results. Significant differences were detected in the acute physiology score (APS) and severity score used for the calculation of APACHE III and SAPS II, and the predicted risk of death calculated for SAPS II. The percentage of agreement on admission diagnosis to the ICU was 50% for both APACHE II and III models. Nonetheless, in most of the patients (76.58% for APACHE II and 79.82% for APACHE III), the difference in the predicted risk of death due to the different assignation of diagnoses on admission to the ICU was less than 10%.                 Conclusions. In this study, APS was the most influential factor on the reproducibility of severity scores and risk of death prediction. Admission diagnosis assignment had no significant impact on the reproducibility of the predicted mortality risk</dc:description>
+<dc:creator>Sagredo, V</dc:creator>
+<dc:creator>Carriedo, D</dc:creator>
+<dc:creator>García-Labattut, Á</dc:creator>
+<dc:creator>Frutos, M. de</dc:creator>
+<dc:creator>López-Messa, J</dc:creator>
+<dc:creator>Domínguez, L</dc:creator>
+<dc:creator>Blanco, J</dc:creator>
+<dc:creator>Gandía, F</dc:creator>
+<dc:creator>Taboada, F</dc:creator>
+<dc:creator>Valledor, M</dc:creator>
+<dc:creator>Enríquez, P</dc:creator>
+<dc:creator>Álvarez, P</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Evaluar la reproducibilidad en la recogida de datos y su influencia en el cálculo de la gravedad y del riesgo predicho de muerte para los modelos APACHE II, APACHE III adaptado para España y SAPS II.                 Diseño. Estudio multicéntrico, prospectivo y observacional de cohortes.                 Ámbito. Nueve Unidades de Cuidados Intensivos (UCI) en España.                 Pacientes. Inclusión consecutiva de los pacientes ingresados en el período de estudio. Se excluyeron los pacientes menores de 16 años, con estancia en UCI menor de 24 horas, los ingresados para implante programado de marcapasos y los reingresados en UCI dentro del mismo ingreso hospitalario.                 Intervención. Ninguna.                 Variables de interés principales. Se recogieron los datos necesarios para el cálculo de las puntuaciones de gravedad y del riesgo predicho de muerte. Se seleccionaron el 10% de los pacientes por muestreo aleatorio simple y se recogieron los mismos datos por un grupo independiente de intensivistas. Finalmente se compararon los datos recogidos por los dos grupos de intensivistas.                 Resultados. Se encontraron diferencias significativas en el APS (acute physiology score) y puntuación de gravedad calculados para el APACHE III y SAPS II, y en el riesgo de muerte predicho por SAPS II. El porcentaje de acuerdos en el diagnóstico de ingreso en UCI fue del 50% para los modelos APACHE II y III. En la mayoría de los pacientes (76,58% en el APACHE II y 79,82% en el APACHE III) la diferencia en el riesgo predicho de muerte debido a la diferente asignación del diagnóstico de ingreso en UCI fue menor del 10%.                 Conclusiones. En este estudio el APS se mostró como el factor más influyente en la reproducibilidad de los índices de gravedad y del cálculo del riesgo predicho de muerte. El diagnóstico de ingreso en UCI no mostró un impacto importante en la reproducibilidad del riesgo predicho de muerte</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);32(1): 15-22, ene. 2008. ilus, tab</dc:source>
+<dc:identifier>ibc-058514</dc:identifier>
+<dc:title xml:lang="es">Evaluación de la reproducibilidad de la recogida de datos para el APACHE II, APACHE III adaptado para España y SAPS II en 9 Unidades de Cuidados Intensivos en España</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d33551^s22083</dc:subject>
+<dc:subject>^d30327^s22083</dc:subject>
+<dc:subject>^d30047^s22066</dc:subject>
+<dc:subject>^d12222^s22045</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d32354</dc:subject>
+<dc:subject>^d29640</dc:subject>
+<dc:subject>^d7530^s22049</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200801</dc:date>
+</metadata>
+</record>
+</ibecs-document>

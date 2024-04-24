@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-126439</identifier>
+<setSpec>1138-2074</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Identification of key genes involved in Down syndrome pathogenesis by gene therapy</dc:title>
+<dc:description xml:lang="en">Viruses have evolved ways of encapsulating and delivering their genes into human cells. Gene therapy takes advantage of this capability to manipulate the viral genome and convert an infectious agent into an efficient vector that delivers therapeutic genes. In the current work we have applied gene therapy approaches based on adeno-associated virus and lentivirus delivery to identify candidate genes (protein-coding or miRNAs) involved in the cognitive deficits in Down Syndrome. We show that the hippocampal injection of the adeno-associated virus AAV2/1-shDyrk1A normalized Dyrk1A expression in the trisomic Ts65Dn mice. As a consequence the regulation of key molecular players in memory and learning processes was rescued and mice showed an attenuation of synaptic plasticity defects and improved efficacy in learning strategies. All together these results reinforce the role of Dyrk1A in cognition. On the other hand, with the lentiviral strategydeveloped to specifically inhibit miR-155 and miR-802 (Lv-anti-miR155/802), we were able to show a tight control of the miRNAs target Mecp2 suggesting that the downregulation of MeCP2 in Down syndromecould be a contributing factor to the cognitive defects (AU)</dc:description>
+<dc:creator>Martín, E. D</dc:creator>
+<dc:creator>Andreu, N</dc:creator>
+<dc:creator>Fillat, C</dc:creator>
+<dc:creator>Santos, M</dc:creator>
+<dc:creator>Villanueva, E</dc:creator>
+<dc:creator>Altafa, X</dc:creator>
+<dc:creator>D&#146;Amico, D</dc:creator>
+<dc:creator>Bofill-De Ros, X</dc:creator>
+<dc:creator>Dierssen, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La terapia génica nos ofrece la posibilidad de manipular los virus para convertir un agente infeccioso en un vehículo que transporta en su genoma secuencias de DNA con potencial terapéutico. En este trabajo hemos aprovechado la metodología que nos proporciona la terapia génica para desarrollar vectores virales derivados de virus adenoasociados y lentivirus con el objetivo de identificar genes clave (proteínas o microRNA [miRNA]) implicados en las alteraciones cognitivas presentes en el síndrome de Down (SD). Hemos demostrado que en un contexto de trisomía, como es el modelo de ratón Ts65Dn, la normalización de la expresión de Dyrk1A a través de la administración de los virus adenoasociados AAV2/1-shDyrk1A contribuye a restablecer la regulación de moléculas clave en los procesos de memoria y aprendizaje. Ello permite una atenuación de los defectos en plasticidad sináptica y facilita el desarrollo de una estrategia de aprendizaje visuoespacial más eficiente. Estos estudios refuerzan el papel destacado de Dyrk1A en los procesos cognitivos. Por otro lado, la estrategia de control de la expresión de miRNA desarrollada mediante los lentivirus Lv-anti-miR155-802 nos permite proponer a MeCP2 como un gen cuya desregulación en el síndrome de Down puede tener un papel clave en el deterioro cognitivo (AU)</dc:description>
+<dc:source>SD, Rev. med. int. Síndr. Down (Ed. castell.);18(2): 21-28, mayo-ago. 2014.</dc:source>
+<dc:identifier>ibc-126439</dc:identifier>
+<dc:title xml:lang="es">Identificación de genes clave implicados en el síndrome de Down mediante terapia génica</dc:title>
+<dc:subject>^d23652^s22048</dc:subject>
+<dc:subject>^d8994</dc:subject>
+<dc:subject>^d23652^s22045</dc:subject>
+<dc:subject>^d23652^s22056</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d23652^s22039</dc:subject>
+<dc:subject>^d30934^s22033</dc:subject>
+<dc:subject>^d24666</dc:subject>
+<dc:subject>^d23652^s22066</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d23652^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201408</dc:date>
+</metadata>
+</record>
+</ibecs-document>

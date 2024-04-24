@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-23629</identifier>
+<setSpec>1139-6709</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Learning from yeasts: intracellular sensing of stress conditions</dc:title>
+<dc:description xml:lang="en">One intriguing challenge in modern biology is to understand how cells respond to, and distinguish between different stressing stimuli. Evidence accumulated in recent years indicates that a network of signaling pathways extends from the plasma membrane to the very core of the cell nucleus to transduce environmental changes into a graded transcriptional response. Although many steps still remain unclear, studies on the stress-activated protein kinase (SAPK) pathways and related mechanisms provide insight into the biochemistry that regulates signal transmission and leads to outcomes such as cell adaptation and differentiation. This review focuses on selected topics of current interest related to the sensing of stress signals in cells of the fission yeast Schizosaccharomyces pombe. Because signaling pathways appear to be evolutionarily well conserved, yeasts may be useful models to learn how higher eukaryotes sense and respond to stresses at the cellular level (AU)</dc:description>
+<dc:publisher>Springer-Verlag Ibérica</dc:publisher>
+<dc:description xml:lang="es">Uno de los desafíos más intrigantes de la biología moderna es comprender cómo responden las células a diferentes estímulos estresantes y cómo los distinguen. Las pruebas acumuladas en los últimos años indican que una red de señales se extiende desde la membrana del citoplasma hasta el núcleo celular para transducir los cambios ambientales en una respuesta transcripcional satisfactoria. Aunque muchos pasos aún no están claros, estudios sobre la vía de la proteína quinasa activada por estrés (SAPK) y mecanismos afines proporcionan una nueva percepción de la bioquímica que regula la señal de transmisión y lleva a resultados tales como la adaptación y diferenciación celular. Esta revisión se centra en aspectos seleccionados de interés actual relativos a la percepción de señales de estrés en células de fisión de la levadura Schizosaccharomyces pombe. Debido a que las vías de señal parecen estar, desde un punto de vista evolutivo, bien conservadas, las levaduras podrían ser modelos útiles para aprender cómo perciben el estrés los eucariotas superiores y como responden al mismo a nivel celular (AU)</dc:description>
+<dc:source>Int Microbiol;6(3): 211-219, sept. 2003. ilus</dc:source>
+<dc:title xml:lang="es">Aprendiendo de las levaduras: percepción intracelular de las condiciones de estrés</dc:title>
+<dc:type>article</dc:type>
+<dc:creator>Soto, Teresa</dc:creator>
+<dc:creator>Vicente-Soler, Jero</dc:creator>
+<dc:creator>Gacto, Mariano</dc:creator>
+<dc:creator>Cansado, José</dc:creator>
+<dc:creator>Villa, Tomás G</dc:creator>
+<dc:language>en</dc:language>
+<dc:identifier>ibc-23629</dc:identifier>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d23827</dc:subject>
+<dc:subject>^d32735</dc:subject>
+<dc:subject>^d24669</dc:subject>
+<dc:subject>^d34450</dc:subject>
+<dc:subject>^d22471</dc:subject>
+<dc:subject>^d12949</dc:subject>
+<dc:date>200309</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-24058</identifier>
+<setSpec>0014-2565</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Retrospective study of early readmissions to an Internal Medicine Department</dc:title>
+<dc:creator>Barba Martín, R</dc:creator>
+<dc:creator>Cervero Jiménez, M</dc:creator>
+<dc:creator>Riva, I. de la</dc:creator>
+<dc:creator>Marco Martínez, J</dc:creator>
+<dc:creator>Plaza Canteli, S</dc:creator>
+<dc:creator>Gómez Rodrigo, J</dc:creator>
+<dc:creator>Solís Villa, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivo. Determinar la frecuencia del reingreso hospitalario en un servicio de Medicina Interna de un Hospital General de la Comunidad, así como las variables asociadas al mismo. Métodos. Análisis de las altas durante el año 1997. Los datos fueron facilitados por el Servicio de Codificación y Archivo, incluyendo características sociodemográficas y aspectos relacionados con el proceso asistencial de cada paciente, así como sus GRD al alta según la versión HCFA. Se construyó un modelo de regresión logística para identificar las variables que se asocian independientemente con el riesgo de reingresar precozmente (menos de 30 días tras el alta). Resultados. La tasa de reingresos precoces es del 7,4 por ciento. Las variables asociadas a un mayor riesgo de reingreso fueron la edad, una estancia superior a la media en el primer ingreso, así como la patología asociada con el síndrome de inmunodeficiencia adquirida (SIDA) y la cardiopatía como diagnósticos principales al alta. Conclusiones. Con los datos obtenidos no podemos considerar la tasa de reingresos como un índice fiable de calidad en sí mismo que deba ser valorado negativamente, ya que algunos reingresos son inesperados y/o inevitables. (AU)</dc:description>
+<dc:source>Rev Clin Esp;200(5): 252-260, mayo 2000.</dc:source>
+<dc:identifier>ibc-24058</dc:identifier>
+<dc:title xml:lang="es">Estudio retrospectivo de los reingresos precoces de un servicio de medicina interna</dc:title>
+<dc:subject>^d7553</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d30327</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d10553</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200005</dc:date>
+</metadata>
+</record>
+</ibecs-document>

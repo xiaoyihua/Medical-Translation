@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-050047</identifier>
+<setSpec>1138-3593</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Influenza</dc:title>
+<dc:description xml:lang="en">Influenza is a mild and self-limited viral infection that occurs in yearly epidemic outbreaks. It is an important public health problem due to the direct and indirect mortality it can cause and its high social and economic costs</dc:description>
+<dc:creator>Escribano Romo, G</dc:creator>
+<dc:creator>González Fernández, G</dc:creator>
+<dc:creator>Abollado Rego, M</dc:creator>
+<dc:creator>Díez Rodríguez, M</dc:creator>
+<dc:creator>Fernández Miranda, I</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La gripe es una infección viral generalmente leve y autolimitada que cursa en forma de epidemias anuales. Supone un importante problema de salud pública tanto por la mortalidad directa o indirecta que puede llegar a provocar, como por los altos costes socioeconómicos que acarrea</dc:description>
+<dc:source>SEMERGEN, Soc. Esp. Med. Rural Gen. (Ed. Impr.);32(8): 382-389, oct. 2006. tab, graf</dc:source>
+<dc:identifier>ibc-050047</dc:identifier>
+<dc:title xml:lang="es">Gripe</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d23941^s22073</dc:subject>
+<dc:subject>^d22658^s22073</dc:subject>
+<dc:subject>^d51281^s22057</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d24517</dc:subject>
+<dc:subject>^d^s22073</dc:subject>
+<dc:subject>^d51281^s22012</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9632^s22006</dc:subject>
+<dc:subject>^d51281^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200608</dc:date>
+</metadata>
+</record>
+</ibecs-document>

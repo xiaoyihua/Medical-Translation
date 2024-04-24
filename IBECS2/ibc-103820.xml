@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-103820</identifier>
+<setSpec>0365-6691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Design of computerised database for clinical and basic management of uveal melanoma</dc:title>
+<dc:description xml:lang="en">Purpose: The uveal melanoma is the most common primary intraocular tumour in adults. The objective of this work is to show how a computerised database has been formed with specific applications, for clinical and research use, to an extensive group of patients diagnosed with uveal melanoma. Method: For the design of the database a selection of categories, attributes and values was created based on the classifications and parameters given by various authors of articles which have had great relevance in the field of uveal melanoma in recent years. Results: The database has over 250 patient entries with specific information on their clinical history, diagnosis, treatment and progress. It enables us to search any parameter of the entry and make quick and simple statistical studies of them. Conclusion: The database models have been transformed into a basic tool for clinical practice, as they are an efficient way of storing, compiling and selective searching of information. When creating a database it is very important to define a common strategy and the use of a standard language (AU)</dc:description>
+<dc:creator>Blanco Teijeiro, MJ</dc:creator>
+<dc:creator>Capeans Tome, C</dc:creator>
+<dc:creator>Mera Yañez, P</dc:creator>
+<dc:creator>Pardo Perez, M</dc:creator>
+<dc:creator>Santiago Varela, M</dc:creator>
+<dc:creator>Bande Rodríguez, M. F</dc:creator>
+<dc:creator>Piñeiro Ces, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Propósito: El melanoma uveal es el tumor intraocular primario más frecuente en la edad adulta. El objetivo de este trabajo es mostrar cómo se ha construido una base de datos informatizada con aplicaciones, tanto clínicas como de investigación concretas, a un grupo extenso de pacientes diagnosticados de melanoma de la úvea. Métodos: Para el diseño de la base de datos se realizó una selección de categorías, atributos y valores basándose en las clasificaciones y parámetros dados por diferentes autores en artículos que han tenido gran relevancia en el campo del melanoma uveal en los últimos años. Resultados: La base de datos cuenta en la actualidad con más de 250 registros de pacientes, con información específica sobre su clínica, diagnóstico, tratamiento y evolución. Nos permite realizar búsquedas sobre cualquier parámetro del registro y hacer estudios estadísticos de estos de una forma rápida y sencilla. Conclusión: Los modelos de bases de datos se han convertido en un arma fundamental para la práctica clínica, pues constituyen una forma eficaz tanto de almacenamiento como de recopilación y búsqueda selectiva de información. A la hora de realizar una base de datos es muy importante la definición de una estrategia común y el uso de un idioma normalizado (AU)</dc:description>
+<dc:source>Arch Soc Esp Oftalmol;87(9): 278-283, sept. 2012. ilus</dc:source>
+<dc:identifier>ibc-103820</dc:identifier>
+<dc:title xml:lang="es">Diseño de una base de datos informatizada para la gestión clínica y básica del melanoma uveal</dc:title>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d8714^s22012</dc:subject>
+<dc:subject>^d8714^s22067</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d8714^s22053</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d8714^s22016</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d51792</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201209</dc:date>
+</metadata>
+</record>
+</ibecs-document>

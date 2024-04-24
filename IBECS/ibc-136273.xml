@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-136273</identifier>
+<setSpec>0214-3429</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">An analysis of the association between genotype and antimicrobial resistance in methicillin-resistant Staphylococcus aureus clinical isolates</dc:title>
+<dc:description xml:lang="en">Genotyping methods are useful resources for the surveillance, detection, prevention and control of multidrug-resistant nosocomial agents, such as methicillin-resistant Staphylococcus aureus (MRSA). An understanding of the association between genotype and antibiotic susceptibility in MRSA clones may be useful in the surveillance of MRSA and to avoid inappropriate treatment future resistance. We genotyped MRSA clinical isolates from the Extremadura region of Spain using pulsed field electrophoresis (PFGE) and analyzed the spectrum of antibiotic susceptibility for each isolate to determine whether resistance is associated with specific genotypes. PFGE revealed six major genotypes: E8a (25%), E7b (17%), E7a (12%), E8B (8%), E10 (6%), and E20 (4%). Isolates with the genotypes E8a and E10 exhibit higher resistance ratios for levofloxacin than isolates with the other major pulsotypes. Similar results were obtained for isolates with the E20 pulsotype with respect to mupirocin. Although we identified no vancomycin-, tigecycline-, linezolid- or daptomycin-resistant strains, we observed significant differences in the mean MIC values obtained for some of these drugs among the major genotypes. Specifically, isolates with the E7b, E8b, and E20 genotypes have significantly higher MICs of tigecycline, vancomycin and linezolid, respectively, than the most sensitive pulsotypes. Isolates with the E8b profile also exhibit a significantly higher rate of reduced vancomycin susceptibility (RVS) (i.e., MIC between 1 and 2 mg/L) than clones with the E10 and E8a profiles. In conclusion, we report associations between genotype and antibiotic sensitivity that should be considered in programs for monitoring and controlling MRSA in health care settings (AU)</dc:description>
+<dc:creator>Aguadero, Vicente</dc:creator>
+<dc:creator>González-Velasco, Miguel</dc:creator>
+<dc:creator>Vindel, Ana</dc:creator>
+<dc:creator>González-Velasco, Carmen</dc:creator>
+<dc:creator>Moreno, Juan José</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Los métodos de genotipaje son un recurso útil para la vigilancia, detención, prevención y control de agentes nosocomiales con multirresistencia antibiótica, como es Staphylococcus aureus resistente a meticilina (SARM). Nuestro grupo lleva a cabo el genotipaje mediante Electroforesis en Campo Pulsado (PFGE) de cepas SARM productoras de infección en la región de Extremadura (España), y realiza un estudio de asociación de los clones obtenidos, con respecto a la sensibilidad antibiótica mostrada por las cepas genotipadas, con el objetivo de conocer si existen resistencias que puedan asociarse específicamente a genotipos concretos. PFGE revela la existencia de 6 genotipos mayoritarios: E8a (25%), E7b (17%), E7a (12%), E8b (8%), E10 (6%), E20 (4%). A través del test Exacto de Fisher determinamos que los genotipos E8a y E10 se inclinan hacia ratios de resistencia mayores para levofloxacino en comparación a los mostrados por otros pulsotipos mayoritarios. De manera análoga ocurre para el pulsotipo E20 con mupirocina. Aunque no se encuentran cepas resistentes para vancomicina, tigeciclina, linezolid y daptomicina, encontramos en los tres primeros, diferencias significativas en el valor medio de CMI obtenido en los diferentes genotipos mayoritarios. Concretamente E7b, E8b y E20 presentan CMI significativamente más altas con respecto a tigeciclina, vancomicina y linezolid, respectivamente, en relación a los pulsotipos más sensibles. Además el perfil E8b muestra un mayor número de cepas con sensibilidad disminuida a vancomicina (SDV) (CMI entre 1 y 2 mg/L) que los clones E10 y E8a, de manera significativa. Creemos que esta información puede resultar útil en la vigilancia de la sensibilidad antibiótica de SARM en nuestro medio, para evitar tratamientos inadecuados y/o futuras resistencias (AU)</dc:description>
+<dc:source>Rev Esp Quimioter;28(2): 79-85, abr. 2015. tab</dc:source>
+<dc:identifier>ibc-136273</dc:identifier>
+<dc:title xml:lang="es">Análisis de la asociación entre genotipos y resistencia a múltiples antimicrobianos en aislados de Staphylococcus aureus resistente a meticilina</dc:title>
+<dc:subject>^d24244^s22045</dc:subject>
+<dc:subject>^d32271</dc:subject>
+<dc:subject>^d28477^s22057</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d53002^s22038</dc:subject>
+<dc:subject>^d54727^s22045</dc:subject>
+<dc:subject>^d22165</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201504</dc:date>
+</metadata>
+</record>
+</ibecs-document>

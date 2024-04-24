@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-36491</identifier>
+<setSpec>0210-5020</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Infant asthma</dc:title>
+<dc:creator>Liñán Cortés, Santos</dc:creator>
+<dc:creator>Cobos Barroso, Nicolás</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Rol</dc:publisher>
+<dc:description xml:lang="es">Con suma frecuencia nos encontramos con niños que siguen un tratamiento específico para combatir sus repetidos episodios de dificultad respiratoria y sibilancias. En muchos casos se trata de asma.Hipócrates definió el asma como "la situación en la que se origina una estrechez excesiva de los bronquios tras reaccionar con un estímulo provocador, que habitualmente no produce ningún efecto" (AU)</dc:description>
+<dc:source>Rev Enferm;27(11): 740-746, nov. 2004. tab</dc:source>
+<dc:identifier>ibc-36491</dc:identifier>
+<dc:title xml:lang="es">Asma infantil</dc:title>
+<dc:subject>^d906^s22073</dc:subject>
+<dc:subject>^d7345</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4479</dc:subject>
+<dc:subject>^d29373</dc:subject>
+<dc:subject>^d2715</dc:subject>
+<dc:subject>^d2021^s22073</dc:subject>
+<dc:subject>^d1257^s22027</dc:subject>
+<dc:subject>^d1257^s22016</dc:subject>
+<dc:subject>^d1257^s22057</dc:subject>
+<dc:subject>^d19256</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200411</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-101240</identifier>
+<setSpec>0210-4466</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Alhacen&#146;s problem</dc:title>
+<dc:description xml:lang="en">This paper deals with the problem that Alhazen formulated and solved in book V of his treatise on optics. That is to say, finding the reflection point in a given mirror, when the positions of both the object and the observer are known. The intention is to, firstly, exhibit the complex argumentation scheme used by the Arabic scientist and philosopher; and secondly, propose a possible method of reasoning like a candidate exhibiting the logic of the theory which could lead to the discovery of the solution(AU)</dc:description>
+<dc:creator>Cardona Suárez, Carlos Alberto</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El artículo se ocupa del problema que Alhacén formuló y resolvió en el libro V de su tratado de óptica. A saber, encontrar el punto de reflexión en un espejo dado, si se conocen las posiciones del objeto y del observador. Se pretende, primero, exponer el complejo esquema de argumentación usado por el filósofo y científico árabe, y segundo, proponer un posible esquema de razonamiento como un candidato que exhibe la lógica del descubrimiento(AU)</dc:description>
+<dc:source>Asclepio;64(1): 251-276, ene.-jun. 2012. ilus</dc:source>
+<dc:identifier>ibc-101240</dc:identifier>
+<dc:title xml:lang="es">El problema de Alhacén</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d32532^s22034</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6825</dc:subject>
+<dc:subject>^d15197</dc:subject>
+<dc:subject>^d53364^s22034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201206</dc:date>
+</metadata>
+</record>
+</ibecs-document>

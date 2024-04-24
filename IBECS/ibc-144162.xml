@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-144162</identifier>
+<setSpec>0212-1611</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Design of a semantic framework for contextualized retriev al of scientific documents in the health domain</dc:title>
+<dc:description xml:lang="en">Personalized healthcare requires recombining heterogeneous publicly available data with a patient&#146;s or group of patient&#146;s profile. A well-known problem in state-ofthe- art information management is the overwhelming amount of information available. Besides, state-of-the-art solutions do not take advantage of modern semantic processing to adequately transform data into knowledge. This issue is especially relevant in the health domain, as key processes depend dramatically on the access to high quality, complete, up-to-date, and relevant content (e.g. diagnostics, risk assessment, public health interventions, etc.). This proposal aims to provide novel information management and retrieval solutions in the domain of health sciences to address the situation discussed above. More specifically, we introduce semantic reasoning to retrieve the most relevant knowledge available according to the health profile of a given person. For this, we developed a semantic model to represent health profiles of people and to characterize existing sources of relevant information in order to crawl them to populate a semantic repository with content references and properties. We outline the tools needed to query the knowledge base using the semantic profiles of individuals to get the most relevant content. The proposed solution, discussed here as a proof-of-concept, aims to contribute to the realm of personal health and evidence-based medicine technologies. The tools developed could also be used to take advantage of existing knowledge to facilitate a systematic review of reports, studies and analysis that may be relevant to the health conditions of single patients or patient profiles (AU)</dc:description>
+<dc:creator>Santos Gago, JM</dc:creator>
+<dc:creator>Alonso Roris, VM</dc:creator>
+<dc:creator>Míguez Pérez, R</dc:creator>
+<dc:creator>Mikic Fonte, F</dc:creator>
+<dc:creator>Álvarez Sabucedo, LM</dc:creator>
+<dc:creator>Fernández Iglesias, MJ</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La atención médica personalizada requiere combinar información pública de diversas fuentes con información disponible sobre un paciente o grupo de pacientes. Un problema bien conocido en el ámbito de la gestión de la información es la enorme cantidad de información disponible. Además, las soluciones actuales no aprovechan las ventajas de las últimas aportaciones en el campo del procesamiento semántico. Este problema es especialmente relevante en el ámbito de la salud, ya que sus procesos clave dependen de manera determinante del acceso a información de alta calidad, completa, actualizada y relevante. Esta propuesta tiene como objetivo proporcionar soluciones novedosas para la gestión y recuperación de información en el ámbito de ciencias de la salud para hacer frente a la situación descrita. Para ello, hemos desarrollado un modelo semántico para representar perfiles de salud y caracterizar fuentes de información relevante y así poder completar un repositorio semántico con referencias de contenido y sus propiedades. Además, proponemos las herramientas necesarias para consultar esta Base de Conocimiento a partir de los perfiles semánticos de los pacientes. La solución propuesta, presentada aquí como una prueba de concepto, pretende contribuir al avance de las tecnologías aplicadas a la salud personal y la medicina basada en la evidencia. Las herramientas desarrolladas también pueden ser utilizadas con el fin de hacer uso del conocimiento existente para dar soporte a la revisión sistemática de informes, estudios y análisis relevantes según las condiciones de salud de los pacientes individuales o perfiles de los pacientes (AU)</dc:description>
+<dc:source>Nutr Hosp;27(supl.2): 56-66, nov. 2012. ilus</dc:source>
+<dc:identifier>ibc-144162</dc:identifier>
+<dc:title xml:lang="es">Diseño de un marco semántico para la recuperación contextualizada de documentos científicos en el ámbito sanitario</dc:title>
+<dc:subject>^d19144^s22048</dc:subject>
+<dc:subject>^d19144^s22049</dc:subject>
+<dc:subject>^d19243^s22019</dc:subject>
+<dc:subject>^d19243^s37748</dc:subject>
+<dc:subject>^d22347^s22074</dc:subject>
+<dc:subject>^d33619^s22048</dc:subject>
+<dc:subject>^d22347^s22048</dc:subject>
+<dc:subject>^d22347^s22049</dc:subject>
+<dc:subject>^d19243^s22048</dc:subject>
+<dc:subject>^d19243^s22049</dc:subject>
+<dc:subject>^d19243^s22045</dc:subject>
+<dc:subject>^d51274</dc:subject>
+<dc:subject>^d19243^s22034</dc:subject>
+<dc:subject>^d13042</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201211</dc:date>
+</metadata>
+</record>
+</ibecs-document>

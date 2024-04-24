@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-051322</identifier>
+<setSpec>1135-2841</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">No disponible</dc:title>
+<dc:description xml:lang="en">No disponible</dc:description>
+<dc:creator>Díez, J</dc:creator>
+<dc:creator>Herruzo, R</dc:creator>
+<dc:creator>Cerrillo, A</dc:creator>
+<dc:creator>García, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Una nueva solución alcohólica aceptada para el comercio en España debe cumplir normas básicas "in vitro" (que estudian efecto tras contacto directo, como la 1.040, etc.) y también la norma básica "in vivo" 1.500. Pero con estas pruebas no se puede extrapolar su eficacia a microorganismos diferentes de E. coli ni a los procedentes de enfermos. Por ello se propone el siguiente esquema de actuación para tener una idea más adecuada de su eficacia y así poder "aconsejar" o no un producto en el hospital:A) Pruebas obligatorias:1) Efecto in vitro con portagérmenes y 14 microorganismos (o 30, si se desea estratificar por tipo de microorganismos) recién aislados de enfermos: se realiza en paralelo con el alcohol de 60Q. Se valora la diferencia media de 10gIO reducidos respecto del alcohol en 30 segundos. Si el alcohol es significativamente mejor que el nuevo producto, se abandona, si no, se pasa a la prueba siguiente.2) Efecto in vivo 1: norma 1.500 modificada, para valorar en 30 segundos la eficacia ante diversa flora adquirida, con cepas ATCC: E. cofi, S aureus, P aeruginosa y e albicans. Valorar que el alcohol de 60° no es estadísticamente superior en eficacia, ni en cada germen, ni en el conjunto.Resultado: si supera ambas pruebas, el nuevo producto es "aconsejable para la practica hospitalaria". Se pueden transformar esos resultados en un escore (-5 a +5) que permita comparar entre sí varias soluciones consideradas aconsejables.Los productos que obtengan esta calificación deberán pasar también una prueba piloto, para comprobar la no producción de alteraciones dérmicas en los usuarios.B) Si el producto se quiere utilizar en lavado quirúrgico, senecesitaría otra prueba obligatoria: Efecto residual sobre la flora residente (in vivo).Tiempo:3 y 6 horas.Resultado: sólo se aprobará para esta indicación si supera en eficacia, y tolerabilidad al lavado quirúrgico habitual (por ejemplo, con povidona iodada), si no, sólo indicar para higienización de piel.Si fuese posible, tras su introducción en el hospital se debería hacer un seguimiento del producto y las consecuencias de su uso (problemas en dispensadores, aumento o no de la higienización de manos y de la infección hospitalaria de origen exógeno, etc.).Adendum: en caso de empate de escores, para ayudar a elegir entre dos soluciones alcohólicas aconsejables para el uso hospitalario, se pueden hacer, de forma escalonada, las siguientes pruebas:1. Efecto residual in vitro, con cepas ATCC: E. coli, P aeruginosa, e albicans o S aureus. Si persiste el empate:2. Efecto sobre flora autóctona, con otra modificación de la norma 1.500 (sin contaminación previa y en 30 segundos de contacto), diferenciando al menos el efecto logrado ante S coagulasa + y "otros". Si aún persistiese el empate, se podría hacer:3. Semejante a la 1.500 modificada, pero utilizando para la contaminación artificial de las manos microorganismos recién aislados de enfermos y con resistencia a 2 o más antibiótico s diferentes de su resistencia natural (mínimo, SAMR, P aeruginosa y E cloaca e poliR). Finalizar con una antisepsia reglada y de 2 minutos, para evitar que persista algún microorganismo utilizado.Si no se puede elegir por estas pruebas objetivas de eficacia, usar otros parámetros como precio, mejor aceptabilidad por los usuarios, etc</dc:description>
+<dc:source>Med. prev;11(4): 24-30, oct.-dic. 2005. tab, graf</dc:source>
+<dc:identifier>ibc-051322</dc:identifier>
+<dc:title xml:lang="es">Protocolo de valoración multifacética de las soluciones alcohólicas para higienización o lavado quirúrgico de manos</dc:title>
+<dc:subject>^d28477^s22054</dc:subject>
+<dc:subject>^d29758</dc:subject>
+<dc:subject>^d13297^s22002</dc:subject>
+<dc:subject>^d441^s22073</dc:subject>
+<dc:subject>^d27977</dc:subject>
+<dc:subject>^d28062^s22045</dc:subject>
+<dc:subject>^d19042</dc:subject>
+<dc:subject>^d4263^s22002</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200512</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-137283</identifier>
+<setSpec>0211-5638</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Patient's education with neck pain</dc:title>
+<dc:description xml:lang="en">No disponible</dc:description>
+<dc:creator>Salinas Palacios, V</dc:creator>
+<dc:creator>Montilla Herrador, J</dc:creator>
+<dc:creator>Jiménez Serrano, F J</dc:creator>
+<dc:creator>Medina i Mirapeix, F</dc:creator>
+<dc:creator>Sánchez Pérez, S</dc:creator>
+<dc:creator>Escolar Reina, P</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">No disponible</dc:description>
+<dc:source>Fisioterapia (Madr., Ed. impr.);22(monográfico 2): 0-0, ene. 2000. ilus</dc:source>
+<dc:identifier>ibc-137283</dc:identifier>
+<dc:title xml:lang="es">Educación del paciente con cervicalgia</dc:title>
+<dc:subject>^d36319</dc:subject>
+<dc:subject>^d37606</dc:subject>
+<dc:subject>^d52426</dc:subject>
+<dc:subject>^d54839</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28483</dc:subject>
+<dc:subject>^d32948^s22067</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d32948^s22054</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200001</dc:date>
+</metadata>
+</record>
+</ibecs-document>

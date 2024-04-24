@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-052226</identifier>
+<setSpec>0004-0614</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Current validity of nomograms for prostate cancer staging</dc:title>
+<dc:description xml:lang="en">OBJETIVE: This paper presents a review of the concept of &#147;nomogram&#148; applied to prostate cancer, and specifically as a staging tool.METHODS/RESULTS: We describe the essentialparameters for the evaluation of such type of predictive models: Calibration, discrimination and clinical usefulness. Such requisites are analyzed using a real clinical case in our clinical setting, comparing the &#147;Partin`s tables&#148; and the &#147;Miguel Servet University Hospital´s nomogram&#148;. We demonstrate its correct calibration, discrimination and clinical usefulness after previous selection of proper cut points.CONCLUSION: The application of the predictivemodel to our clinical practice has achieved a clinical understaging of 17.3% after radical prostatectomy</dc:description>
+<dc:creator>Gil Martínez, Pedro</dc:creator>
+<dc:creator>Rioja Sanz, Luis Ángel</dc:creator>
+<dc:creator>Sanz, Gerardo</dc:creator>
+<dc:creator>Gil Sanz, María Jesús</dc:creator>
+<dc:creator>Borque Fernando, Ángel</dc:creator>
+<dc:creator>Carlos Allepuz Losa, Carlos</dc:creator>
+<dc:creator>Patricia Serrano Frago, Patricia</dc:creator>
+<dc:creator>García de Jalón, Ángel</dc:creator>
+<dc:creator>Mariano Esteban, Luís</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">OBJETIVO: En este trabajo se presenta una revisión del concepto de &#147;nomograma&#148; aplicado al cáncer de próstata y específicamente como medio de estadificación.MÉTODOS/RESULTADOS: Para ello se describen los parámetros indispensables para evaluar este tipo de modelos predictivos, a saber: Calibración, Discriminacióny Utilidad Clínica. Estos requisitos son analizados sobre un caso práctico real en nuestro medio asistencial comparando las &#147;Tablas de Partin&#148; y el &#147;Nomograma del Hospital Universitario Miguel Servet&#148;, demostrando su correcta calibración, discriminación y utilidad clínica previa selección de adecuados puntos de corte.CONCLUSIÓN: La aplicación del modelo predictivo a nuestra práctica asistencial ha logrado una infraestadificaciónclínica tras prostatectomía radical del 17,3%</dc:description>
+<dc:source>Arch Esp Urol;59(10): 989-1000, dic. 2006. ilus, tab</dc:source>
+<dc:identifier>ibc-052226</dc:identifier>
+<dc:title xml:lang="es">Vigencia actual de los nomogramas en la estadificación del cáncer de próstata</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28401</dc:subject>
+<dc:subject>^d11911^s22074</dc:subject>
+<dc:subject>^d11914^s22053</dc:subject>
+<dc:subject>^d9560^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200612</dc:date>
+</metadata>
+</record>
+</ibecs-document>

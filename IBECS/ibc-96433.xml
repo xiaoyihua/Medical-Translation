@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-96433</identifier>
+<setSpec>0212-9728</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Computerized adaptive testing: a general perspective</dc:title>
+<dc:description xml:lang="en">Computerized adaptive testing (CAT) adapts the items to be administered to each examinee according to the responses to the previous items. In this way, more accurate trail level estimations can be obtained or test length is reduced. In the last years, several CATs have been developed in Spain and it can be expected that, given the advantages of this technique, more will become available soon. The goal of this work is to offer and updated view of this topic. For doing so, the basic structure of a CAT is presented and the different steps composing it are commented. Special emphasis is given ot item selection, the fundamental part for the adaptability of the test, from the perspective of the four objectives that must be satisfied by a CAT: (a) accuracy, (b) item bank security; (c) content balance; and (d) test maintenance (AU)</dc:description>
+<dc:creator>Barrada, Juan Ramón</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Los tests adaptativos informatizados (TAIs) adaptan las preguntas a administrar a cada examinado según sus respuestas a las preguntas previas. De este modo, se consiguen estimaciones de su nivel de rasgo más precisas o se reduce la longitud del test. En los últimos años, se han desarrollo diversos TAIs en España y es probable que, dadas las ventajas que ofrece esta técnica, sean bastantes más lo que se hagan disponibles próximamente. El objetivo de este trabajo es ofrecer una visión actualizada de este campo. Para ello, se presenta la estructura básica de un TAI y se comentan los distintos pasos que lo componen. Se hace especial énfasis en la selección de ítems, la parte fundamental para la adaptatibilidad del test, desde la perspectiva de los cuatros objetivos que ha de satisfacer un TAI: (a) precisión, (b) seguridad del banco de ítems, (c) control de contenidos, y (d) mantenimiento de la prueba (AU)</dc:description>
+<dc:source>An. psicol;28(1): 289-302, ene.-abr. 2012. ilus</dc:source>
+<dc:identifier>ibc-96433</dc:identifier>
+<dc:title xml:lang="es">Tests adaptativos informatizados: una perspectiva general</dc:title>
+<dc:subject>^d12031^s37748</dc:subject>
+<dc:subject>^d10747^s22048</dc:subject>
+<dc:subject>^d12018^s22048</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d10747^s22034</dc:subject>
+<dc:subject>^d22347^s22074</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d10747^s22083</dc:subject>
+<dc:subject>^d12031^s22048</dc:subject>
+<dc:subject>^d12031^s22019</dc:subject>
+<dc:subject>^d33197</dc:subject>
+<dc:subject>^d12031^s22066</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201204</dc:date>
+</metadata>
+</record>
+</ibecs-document>

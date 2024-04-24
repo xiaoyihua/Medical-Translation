@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-9570</identifier>
+<setSpec>1139-6202</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Sample size and selection in finite population</dc:title>
+<dc:creator>Rueda García, M. del Mar</dc:creator>
+<dc:creator>Arcos Cebrián, Antonio</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Saned, S.A.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: La primera pregunta que un estadístico ha de responder cuando se diseña un muestreo es sobre el tamaño de muestra requerido para estimar un parámetro poblacional con una precisión específica.Este trabajo busca la respuesta a esta pregunta y muestra procedimientos prácticos de selección de una muestra en muestreo aleatorio simple, muestreo sistemático y muestreo estratificado. Para que los conceptos básicos expuestos en este trabajo tengan aplicación directa en la práctica, se han ilustrado con ejemplos en censos actuales de Oficinas de Farmacia en Andalucía (AU)</dc:description>
+<dc:source>Pharm. care Esp;2(5): 310-320, sept. 2000. graf</dc:source>
+<dc:identifier>ibc-9570</dc:identifier>
+<dc:title xml:lang="es">Tamaño y selección de muestras en poblaciones finitas</dc:title>
+<dc:subject>^d32095</dc:subject>
+<dc:subject>^d16405</dc:subject>
+<dc:subject>^d28613</dc:subject>
+<dc:subject>^d9152</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d32037</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200009</dc:date>
+</metadata>
+</record>
+</ibecs-document>

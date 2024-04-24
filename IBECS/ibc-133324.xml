@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-133324</identifier>
+<setSpec>0212-7113</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Multiple in silico genetic toxicity alerting tools for antimalarial compounds prioritization</dc:title>
+<dc:description xml:lang="en">Introduction: As part of the commitment of GSK in reducing attrition rate in clinical and preclinical stages, it has been set up in early stages of development (H2L, Lead Op) a candidate quality strategy to avoid genotoxicity liabilities that mainly can stop the progression of compound towards advanced stages. The aim of the study is to apply the new strategy in order to triage structures with less genotoxicity risk by means an in silico multiple system that predicts the outcome of Ames test. Material &amp; Methods: Active compounds against P. falciparum phenotypic screening from GSK collection were used. Three different models: Derek Nexus (Lhasa Limited, Leeds, UK), Leadscope and a quantum mechanics method developed internally were used for in silico predictions. Results: The use of three models have an accurately success rate, greater than 75% with only 1 false positives. Conclusions: Those molecules that fire 2 or more genotoxicity alerts should be deprioritised or tested experimentally in Ames test to confirm or discharge the genotoxicity risk (AU)</dc:description>
+<dc:creator>Hattotuwagam, C</dc:creator>
+<dc:creator>Muñoz-Muriedas, J</dc:creator>
+<dc:creator>Castañeda-Casado, P</dc:creator>
+<dc:creator>Robinson, S</dc:creator>
+<dc:creator>Gresham, S</dc:creator>
+<dc:creator>Giddings, A</dc:creator>
+<dc:creator>Jimémez-Navarro, E</dc:creator>
+<dc:creator>Harvey, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: Como parte del compromiso de GSK en la reducción del fracaso en las fases de desarrollo clínico y preclínico, se ha implementado en las fases más tempranas de desarrollo una estrategia para evitar los problemas de genotoxicidad que son los que, en mayor manera, pueden obstaculizar la progresión a fases más avanzadas. El objetivo de este trabajo es aplicar la nueva estrategia de GSK para la priorización de compuestos que permita seleccionar aquellas estructuras con menor riesgo de genotoxicidad utilizando una combinación de herramientas computacionales que predice el resultado del test de Ames. Materiales y Métodos: Compuestos de la colección de GSK, activos en el screening fenotípico frente a P. falciparum, fueron utilizados en este estudio. Tres modelos, Derek Nexus (Lhasa Limited, Leeds, UK), Leadscope y un método de mecánica cuántica desarrollado internamente se utilizaron para las predicciones in silico. Resultados: la combinación de los tres modelos de predicción tuvo un porcentaje de éxito del 75% con sólo 1 falso positivo. Conclusiones: Moléculas con 2 o más alertas de genotoxicidad generadas por este sistema múltiple deberían ser despriorizadas o ensayadas experimentalmente cuanto antes para descartar su riesgo de genotoxicidad (AU)</dc:description>
+<dc:source>Rev. toxicol;31(2): 168-171, jul.-dic. 2014. tab, ilus</dc:source>
+<dc:identifier>ibc-133324</dc:identifier>
+<dc:title xml:lang="es">Aplicación de un sistema in silico múltiple para la priorización en la selección de compuestos antimaláricos</dc:title>
+<dc:subject>^d24965^s22045</dc:subject>
+<dc:subject>^d965^s22073</dc:subject>
+<dc:subject>^d51695^s22083</dc:subject>
+<dc:subject>^d51695^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d51695^s22002</dc:subject>
+<dc:subject>^d9344^s22066</dc:subject>
+<dc:subject>^d29770</dc:subject>
+<dc:subject>^d965^s22068</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201412</dc:date>
+</metadata>
+</record>
+</ibecs-document>

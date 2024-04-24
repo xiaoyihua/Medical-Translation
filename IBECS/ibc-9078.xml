@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-9078</identifier>
+<setSpec>0365-6691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Diagnostic accuracy of frequency doubling perimetry</dc:title>
+<dc:creator>Villegas, R. S</dc:creator>
+<dc:creator>Andrada, M. T</dc:creator>
+<dc:creator>Bernaldo de Quirós, P</dc:creator>
+<dc:creator>Antón, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Audiovisual y Marketing, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Evaluar la capacidad de la Perimetría de Duplicación de Frecuencia (FDP) para clasificar sujetos normales o glaucomatosos. Método: Diseño: estudio transversal. Se examinaron 54 sujetos con glaucoma (edad media 64,5 D.S. 9,3 años) y 54 sujetos normales empatados para la edad (64,2 D.S. 9,8 años). Los sujetos normales tenían presión intraocular (PIO)  21 mmHg, nervio óptico glaucomatoso y perimetría estándar glaucomatosa. Se seleccionó aleatoriamente un ojo de cada sujeto. Todos fueron examinados con los programas C-20-5 y N-30 de la FDP. Se calcularon la sensibilidad y especificidad de cada programa, las curvas de características operativas (ROC) para los índices del N-30, y la correlación cuantitativa con la perimetría estándar mediante el test de Pearson. Resultados: Los valores de sensibilidad y especificidad para el programa C-20-5 fueron del 74 por ciento y 96 por ciento, respectivamente, y para el N-3O, del 88 por ciento y 92 por ciento, respectivamente. El área ROC para la desviación media fue de 0,85, y para la desviación estándar del patrón (DEP), 0,93. Se obtuvo una correlación lineal significativa entre los índices DEP del N-30 y desviación estándar de la media del Humphrey (r2= 0,76, p&lt;0,001). Conclusión: El programa N-30 de la FDP clasificó los casos normales y los glaucomas con elevada sensibilidad y especificidad. Se obtuvo una elevada correlación entre los índices de la FDP y de la perimetría estándar (AU)</dc:description>
+<dc:source>Arch Soc Esp Oftalmol;76(12): 711-718, dic. 2001.</dc:source>
+<dc:identifier>ibc-9078</dc:identifier>
+<dc:title xml:lang="es">Precisión diagnóstica de la perimetría de duplicación de frecuencia</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d54195</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d28054</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200112</dc:date>
+</metadata>
+</record>
+</ibecs-document>

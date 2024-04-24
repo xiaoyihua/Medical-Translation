@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-107913</identifier>
+<setSpec>0214-4603</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Developement of a spreadsheet for hearing impairment using Microsoft Excel</dc:title>
+<dc:description xml:lang="en">In daily clinical practice, the results of audiometric tests often need to be converted into the percentage of hearing impairment in order to prepare health reports or to provide information requested by patients. Until now, manual systems have been used to calculate this percentage. To simplify and add precision to this calculation, we developed a spreadsheet using Microsoft Excel software and the American Academy of Otolaryngology's formula to determine hearing handicap. Compared with other systems, our spreadsheet provides two main advantages. First, it corrects the intrinsic problem of the original formula, which gives negative results in the presence of normal audiometries (values under 25dB) or results over 100 in the case of severe hypoacusis (values over 90dB). The second advantage is that there is no need to specify the best ear in order to calculate the global hearing handicap, thus avoiding the introduction of two values and saving 20% of the overall calculation time. In conclusion, we consider that the Excel spreadsheet, adapted for the evaluation of hearing handicap, could save time and be more accurate than manual methods, thus reducing the possibility of making mistakes.(AU)</dc:description>
+<dc:creator>Larrosa Díaz, Francisco</dc:creator>
+<dc:creator>Durà Mata, Maria José</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En nuestra actividad profesional diaria es habitual que necesitemos calcular el impedimento auditivo, para realizar informes médicos o para informar a nuestros pacientes. Hasta ahora hemos utilizado tablas y sistemas de cálculo manual que lo facilitan. Para simplificar y hacer más preciso este cálculo hemos desarrollado un sistema utilizando el programa Microsoft Excel y las fórmulas de cálculo de la American Academy of Otolaryngology. Respecto a otros sistemas, el programa de cálculo que describimos aporta 2 ventajas. La primera es su capacidad para corregir el error asociado a la aplicación directa de la fórmula de cálculo del impedimento monoaural, que con valores audiométricos normales (&lt;25dB)da resultados negativos y en caso de hipoacusia profunda (&gt;90dB), resultados superiores al 100%. La segunda ventaja es que no se tiene que indicar cuál es el oído mejor antes de realizar el cálculo binaural hecho que evita la introducción de los valores de «oído mejor» «oído peor» en 2 celdas y supone el ahorro de alrededor de un 20% de tiempo total de cálculo. En conclusión, consideramos que en nuestras especialidades, la hoja de cálculo de Excel adaptada para la valoración del impedimento auditivo, resulta muy adecuada, reproduce los resultados de cualquier sistema de cálculo manual y minimiza la posibilidad de error, por lo que puede aportar un ahorro de tiempo y una mayor seguridad(AU)</dc:description>
+<dc:source>Rev. logop. foniatr. audiol. (Ed. impr.);32(4): 152-155, oct.-dic.2012.</dc:source>
+<dc:identifier>ibc-107913</dc:identifier>
+<dc:title xml:lang="es">Desarrollo de una hoja de cálculo del impedimento auditivo usando Microsoft EXCEL</dc:title>
+<dc:subject>^d165^s22083</dc:subject>
+<dc:subject>^d6462^s22080</dc:subject>
+<dc:subject>^d6465^s22080</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1304^s22045</dc:subject>
+<dc:subject>^d19402^s22083</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d1315</dc:subject>
+<dc:subject>^d1304^s22083</dc:subject>
+<dc:subject>^d1313^s22080</dc:subject>
+<dc:subject>^d1309^s22080</dc:subject>
+<dc:subject>^d54501^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201212</dc:date>
+</metadata>
+</record>
+</ibecs-document>

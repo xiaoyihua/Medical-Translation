@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-145197</identifier>
+<setSpec>0213-9626</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Molecular signals involved in CD4 versus CD8 T cell commitment</dc:title>
+<dc:description xml:lang="en">During T cell development in the thymus, differentiation and selection processes take place to ensure the generation of a restricted self-tolerant T cell repertoire with the ability to recognize and eliminate foreign pathogens. Thymocytes that recognise self peptides on self MHC molecules with low avidity are rescued from programmed cell death and are positively selected, while those thymocytes recognising self peptide-MHC complexes with high avidity are deleted by negative selection. It is known that signals transduced through the T Cell Receptor are crucial for the survival and differentiation of immature thymocytes, during positive selection. One of the most important events during this selection process is the choice of a specific T cell lineage, to become a helper CD4 T cell or a cytotoxic CD8 T cell. The molecular events involved in this choice are still on debate. The initial models described to explain this selection process were known as the «instructive» and the «stochastic» models, both of which have found experimental evidence in favour and against. However, a «strength of signal» model, based on the intensity and/or duration of the TCR-MHC/peptide interaction has recently acquired more support. Finally we also describe a new model called &#147;kinetic signalling&#148; model which offers a new perspective of the mechanisms by which T cell commitment takes place in the thymus. In this review, we will also discuss the current knowledge about the molecular mechanisms involved in CD4 versus CD8 lineage commitment, including signalling and transcriptional pathways, which have been postulated to participate in this differentiation process (AU)</dc:description>
+<dc:creator>Soldevila, G</dc:creator>
+<dc:creator>Nava, K</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Durante el desarrollo de los linfocitos T se llevan a cabo distintos procesos de selección y diferenciación que aseguran la generación de un repertorio de linfocitos T restringido por MHC propio y auto-tolerante, capaz de reconocer y eliminar patógenos extraños. Los timocitos que reconocen con baja avidez péptidos propios son rescatados de la muerte celular programada y seleccionados positivamente, mientras que los timocitos que reconocen complejos péptido-MHC con alta avidez son eliminados mediante selección negativa. Se sabe que las señales moleculares transducidas a través del receptor para el antígeno de los linfocitos T (TCR), son cruciales para la supervivencia y diferenciación de los timocitos inmaduros durante la selección positiva. Uno de los eventos más importantes durante este proceso de selección es la elección de un linaje T específico, que diferenciará el timocito en un linfocito T CD4 cooperador, o bien CD8 citotóxico. Las señales moleculares implicadas en esta elección están todavía en debate. Inicialmente los modelos propuestos para explicar la elección de linaje, conocidos como los modelos «instructivo» y estocástico, encontraron evidencia experimental a favor y en contra. Recientemente ha adquirido mayor apoyo el modelo de la «fuerza de la señal» basado en la intensidad y/o duración de la interacción TCR-MHC/péptido. Por último, describimos un nuevo modelo «de la cinética de señalización» que aporta una nueva perspectiva sobre los mecanismos implicados en el proceso de elección de linaje que tiene lugar durante el desarrollo de los timocitos. Esta revisión discute el conocimiento actual sobre los mecanismos moleculares implicados en el compromiso hacia linaje CD4 versus CD8, incluyendo las vías de señalización y los factores transcripcionales que se ha postulado participan en dicho proceso de diferenciación (AU)</dc:description>
+<dc:source>Inmunología (1987);23(4): 313-327, oct.-dic. 2004. ilus</dc:source>
+<dc:identifier>ibc-145197</dc:identifier>
+<dc:title xml:lang="es">Señales moleculares implicadas en la diferenciación cd4 versus CD8</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d24016^s22038</dc:subject>
+<dc:subject>^d8387^s22038</dc:subject>
+<dc:subject>^d23827^s22038</dc:subject>
+<dc:subject>^d30207</dc:subject>
+<dc:subject>^d7295^s22038</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23473^s22038</dc:subject>
+<dc:subject>^d14549^s22038</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200412</dc:date>
+</metadata>
+</record>
+</ibecs-document>

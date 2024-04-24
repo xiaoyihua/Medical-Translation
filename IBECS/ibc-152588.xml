@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-152588</identifier>
+<setSpec>1888-7546</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Analysis of goals (score) studied in thirteen seasons (2000/01 to 2012/13) for a league of professional spanish football League</dc:title>
+<dc:description xml:lang="en">Objective. The aim of this study is to analyze, 2000/01season through 2012/13season, the goal scored distribution by game and team; as its behavior in time. We also analyze the relationship with the league competitiveness degree. Method. We used the Poisson and the Negative Binomial distributions in order to study the goals distribution; and the Normalized Shannon Entropy for calculating the leagues uncertainty. Results. The Spaniard league has lost competitiveness in the seasons evaluated as the entropy and index of dispersion (team-game) display, especially in the last seasons analyzed. From the perspective of teams, it is not Poisson anymore, above all beyond 2008/09 season. From the perspective of games it does not take place the same phenomenon, specially the last seasons studied (a = 0.0099 ± 0.0097; b = 0.9622 ± 0.077; R2 = 0.316; p = 0.045 vs. a = 0.0162 ± 0.009; b = 0.9952 ± 0.0715; R2 = 0.588; p = 0.002). Regarding time differences between each goal, the behavior is different from 200 minutes, where the process follows an exponential distribution, and can be considered as a Poissonian process. This modification points out a possible memory effect that can be understood as a Mathew effect, which explains that the less powerful teams are unable to overcome the situation. Conclusions. The superiority of most powerful teams seems to be more clear, perhaps excessive, compared to the rest of participating teams, as well as the probability that a lot of goals take place (&gt; 5 goals) in a single game (AU)</dc:description>
+<dc:creator>Saa, Y de</dc:creator>
+<dc:creator>Martín-González, JM</dc:creator>
+<dc:creator>Arriaza-Ardiles, EJ</dc:creator>
+<dc:creator>Silva-Griglotetto, ME da</dc:creator>
+<dc:creator>Sánchez-Flores, J</dc:creator>
+<dc:creator>García-Manso, JM</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. El propósito del estudio es analizar, en las temporadas 2000/01-2012/13, la distribución de los goles conseguidos, por partido y equipo, y su comportamiento a lo largo del tiempo; además se ha analizado su relación con el grado de competitividad de la liga. Método. Se utilizó la distribución de Poisson y la distribución binomial negativa para el análisis de los goles y la entropía normalizada de Shannon para el cálculo del grado de competitividad de las ligas. Resultados. La liga española ha perdido competitividad en las temporadas evaluadas, como demuestran la entropía y en el índice de dispersión entre equipo-partido, especialmente en las últimas temporadas evaluadas. La distribución de los goles por equipos deja de ser poissoniana, especialmente a partir de la temporada 2008-09, tal y como muestra el aumento del índice de dispersión (ajuste lineal: a = 0.0162 ± 0.009; b = 0.9952 ± 0.0715; R2 = 0.588; p = 0.002). Sin embargo, no ocurre lo mismo si el análisis lo hacemos desde el punto de vista de los partidos, especialmente en las últimas temporadas, ya que el valor del índice se mantiene (ajuste lineal: a = 0.0099 ± 0.0097; b = 0.9622 ± 0.077; R2 = 0.316; p = 0.045). Si atendemos a diferencias de tiempo entre gol, con independencia del número de partidos, el comportamiento es diferente a partir de los 200 minutos, donde el proceso sigue una exponencial y puede considerarse un proceso poissoniano. Este cambio parece indicar cierto efecto de memoria que se puede interpretar como un efecto Mateo que explica la incapacidad de los equipos más débiles para recuperarse de dinámicas perdedoras. Conclusiones. La superioridad de los equipos más potentes parece clara, quizás excesiva, respecto al resto de equipos que participan en la principal liga española de fútbol. También se ha incrementado la probabilidad de que se consiga un número elevado de goles (&gt; 5 goles) en un partido. Esto provoca que la distribución del número de goles por partido sea del tipo binomial negativa (AU)</dc:description>
+<dc:source>Rev. andal. med. deporte;9(2): 55-61, jun. 2016. tab, graf</dc:source>
+<dc:identifier>ibc-152588</dc:identifier>
+<dc:title xml:lang="es">Análisis de los goles conseguidos en 13 temporadas (2000/01-2012/13) correspondientes a la Primera División de la Liga Española de Fútbol Profesional</dc:title>
+<dc:subject>^d33181</dc:subject>
+<dc:subject>^d13298^s22048</dc:subject>
+<dc:subject>^d24838</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d24538</dc:subject>
+<dc:subject>^d51792^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d13298^s22083</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d33544^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201606</dc:date>
+</metadata>
+</record>
+</ibecs-document>

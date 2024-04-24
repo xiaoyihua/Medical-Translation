@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-115465</identifier>
+<setSpec>1888-4008</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Use of Digital Health Records and corporate service «WebMovil» in the management of reporting critical results in the context of a primary care health area</dc:title>
+<dc:description xml:lang="en">Introduction. To describe and evaluate a communication protocol of critical results in the context of primary care in Health Management Area. Material and methods. We analyze the size and type of critical values of the Health Care Area for outpatient patients. We evaluated a computerized reporting system, in real-time through Diraya Digital Health Records, which is the management and information system for health management in Andalusia and integrates the Analytical Test Unit (MPA), in connection with the Laboratory Information System (LIS). This protocol is complemented, in collaboration with the information technology (IT), by the Andalusion Regional Government Short Message Service Mobile Web (SMS), «WebMovil». Results. Critical values for primary care patients represent about the 26.33% of the total. The most common notice was for low hemoglobin (52.17%). The total number of critical values for primary care was 138. The average time of notification by the new protocol was 13 minutes. The success rate of notifications was 95.7%, and those for abandonments 0%. In 99.93% of the cases contact was made with the patient, and medical action was taken in 98.55% of the cases. Conclusions. The communication by a computerized system linked to SMS technology showed a reduction in the time of notification and produced additional benefits, such as eliminating the risk of errors when the step of repetition by the receiver is not used. Furthermore, the use of SMS ensures that doctors on-call will always get the information immediately(AU)</dc:description>
+<dc:creator>Navajas Luque, Federico</dc:creator>
+<dc:creator>Cazalla Martín, Francisca</dc:creator>
+<dc:creator>Ballesteros Martín, Inmaculada</dc:creator>
+<dc:creator>Guzmán González, Antonio</dc:creator>
+<dc:creator>Sánchez-Montes Moreno, Soledad</dc:creator>
+<dc:creator>Rodríguez Peña, Francisco</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. El objetivo ha sido describir y evaluar un nuevo protocolo de comunicación de resultados críticos en un Área Sanitaria de Andalucía. Material y métodos. Se analiza el tamaño y tipo de los valores críticos del Área Sanitaria para pacientes de Atención Primaria. Se evaluó un nuevo sistema de notificación informatizado, a tiempo real, a través de la Historia Digital de Salud Diraya, que integra el módulo de pruebas analíticas (MPA). Dicho protocolo se complementa en colaboración con la tecnología de la información (TI), con el servicio de mensajes cortos (SMS) «WebMovil» de la Junta de Andalucía. Resultados. Los valores críticos para los pacientes de Atención Primaria representan el 26,33% del total. El número total de valores críticos para Atención Primaria fue de 138 desde noviembre 2010 a septiembre 2011. El aviso más frecuente fue por hemoglobina baja (52,17%). El tiempo promedio de notificaciones fue de 13 min. La tasa de éxito de las notificaciones ha sido del 95,7% y se obtuvo un 0% de abandonos. En el 99,93% de los casos se constató el contacto con el enfermo y en el 98,55% la actuación médica. Conclusiones. La comunicación por un sistema informatizado unida a la tecnología SMS demostró una reducción en el tiempo de notificación y produjo beneficios adicionales, como eliminar el riesgo de errores cuando por parte del receptor no hay una repetición de la información recibida por el laboratorio. Además, el uso de mensajes SMS asegura que a los médicos de guardia siempre les llegue la información de una forma inmediata(AU)</dc:description>
+<dc:source>Rev. lab. clín;6(3): 101-109, jul.-sept. 2013.</dc:source>
+<dc:identifier>ibc-115465</dc:identifier>
+<dc:title xml:lang="es">Utilización de la Historia Digital de Salud y la aplicación «WebMovil» corporativa, en la comunicación de resultados críticos en Atención Primaria</dc:title>
+<dc:subject>^d29633</dc:subject>
+<dc:subject>^d^s22045</dc:subject>
+<dc:subject>^d^s22074</dc:subject>
+<dc:subject>^d36428</dc:subject>
+<dc:subject>^d51868^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d51868^s22045</dc:subject>
+<dc:subject>^d^s22048</dc:subject>
+<dc:subject>^d^s22049</dc:subject>
+<dc:subject>^d51868^s22054</dc:subject>
+<dc:subject>^d11756^s22074</dc:subject>
+<dc:subject>^d51868^s22083</dc:subject>
+<dc:subject>^d54857^s22083</dc:subject>
+<dc:subject>^d11756^s22049</dc:subject>
+<dc:subject>^d11756^s22045</dc:subject>
+<dc:subject>^d54857^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201309</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-038286</identifier>
+<setSpec>1139-6709</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The role of MEN (mitosis exit network) proteins in the cytokinesis of Saccharomyces cerevisiae</dc:title>
+<dc:description xml:lang="en">At the latest stages of their cell cycle, cells carry out crucial processes for the correct segregation of their genetic and cytoplasmic material. In this work, we provide evidence demonstrating that the cell cycle arrest of some MEN (mitosis exit network) mutants in the anaphase-telophase transition is bypassed. In addition, the ability of cdc15 diploid mutant strains to develop non-septated chains of cells, supported by nuclear division, is shown. This phenotype is also displayed by haploid cdc15 mutant strains when cellysis is prevented by osmotic protection, and shared by other MEN mutants. By contrast, anaphase-telophase arrest is strictly observed in double MEN-FEAR (fourteen early anaphase release) mutants. In this context, the overexpression of a FEAR component, SPO12, in a MEN mutant background enhances the ability of MEN mutants to bypass cell cycle arrest. Taken together, these data suggest a critical role of Cdc15 and other MEN proteins in cytokinesis, allowing a new model for their cellular function to be proposed (AU)</dc:description>
+<dc:creator>Castelao, Beatriz A</dc:creator>
+<dc:creator>Sánchez-Pérez, Miguel</dc:creator>
+<dc:creator>Jiménez, Javier</dc:creator>
+<dc:creator>González-Novo, Alberto</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">En las últimas etapas de su ciclo celular, las células llevan a cabo procesos cruciales para la segregación correcta del material genético y citoplásmico. Es un tema de investigación de gran actualidad. En este trabajo aportamos pruebas que demuestran que en algunos mutantes MEN («mitosis exit network») el ciclo celular no se detiene en la transicionan a fase-telofase. Además, se demuestra la capacidad de las cepas mutantes diploides cdc15 para desarrollar cadenas de células no septadas acompañadas por división nuclear. También muestran ese fenotipo las cepas mutantes haploides cdc15 cuando se impide la lisis celular mediante protección osmótica y lo comparten con otros mutantes MEN. En cambio, la detención en la transición anafase-telofase se observa siempre en los mutantes dobles MEN-FEAR («fourteen early anaphase release»). En este contexto, la sobrexpresión de un componente FEAR, SPO12, en un fondo MEN mutante aumenta la capacidad de los mutantes MEN para soslayar la detención del ciclo celular. En conjunto, esos datos indican que la proteína Cdc15 y otras proteínas MEN deben de desempeñar un papel crucial en la citocinesis, lo que permite proponer un nuevo modelo de su función en la célula (AU)</dc:description>
+<dc:source>Int Microbiol;8(1): 33-42, mar. 2005. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-038286</dc:identifier>
+<dc:title xml:lang="es">Función de las proteínas MEN («mitosis exit network») en la citocinesis de Saccharomyces cerevisiae</dc:title>
+<dc:subject>^d32230^s22031</dc:subject>
+<dc:subject>^d719^s22033</dc:subject>
+<dc:subject>^d12815^s22033</dc:subject>
+<dc:subject>^d2490^s22033</dc:subject>
+<dc:subject>^d3610^s22033</dc:subject>
+<dc:subject>^d9128^s22033</dc:subject>
+<dc:subject>^d14070^s22033</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200503</dc:date>
+</metadata>
+</record>
+</ibecs-document>

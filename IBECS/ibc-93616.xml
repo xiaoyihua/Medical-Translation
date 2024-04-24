@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-93616</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Usefulness of high sensitivity troponin T assay in detecting acute allograft rejection after heart transplantation</dc:title>
+<dc:description xml:lang="en">Introduction and objectives. Detection of acute allograft rejection in heart transplant recipients by noninvasive methods is a challenge in the management of these patients. In this study, the usefulness of a new highly sensitive method for the measurement of troponin T is evaluated. Methods. We designed a case-crossover study, in which each patient served as his or her own control, by selecting samples from treated acute rejection episodes (29 cases) and samples obtained immediately before and/or after rejection (38 controls). The highly sensitive troponin T was measured by a new pre-commercial test (Elecsys Troponin T HS). Results. In all samples, highly sensitive troponin was detectable, with a median of 0.068 ng/mL (IQR, 0.030-0.300 ng/mL). The levels correlated with right atrial pressure (r=0.37; P=.002), N-terminal pro-brain natriuretic peptide concentration (r=0.67; P&lt;.001), and time since transplantation (r=&#150;0.81; P&lt;.001). The highly sensitive troponin concentrations were higher in patients with rejection (0.155 ng/mL vs 0.047 ng/mL; P=.006). In the receiver operating characteristic analysis, the area under the curve was 0.67 (95% confidence interval, 0.53-0.77) and the best cutoff was 0.035 ng/mL, which was associated with rejection (odds ratio=3.7; 95% confidence interval, 1.2-11.9; P=.02). By restricting the analysis to the first 2 months, the area under the curve increased to 0.86 (95% confidence interval 0.66-0.97), with an optimal cutoff of 1.10 ng/mL (S=58% [28%-85%]; E=100% [74%-100%]). Conclusions. Troponin T was detectable in all samples when a new highly sensitive assay was used, and at higher concentrations in the presence of acute rejection; however, the usefulness of this test in patient management is limited to support for clinical or histological suspicion of rejection, especially in the early post-transplant period (AU)</dc:description>
+<dc:creator>Casas, Teresa</dc:creator>
+<dc:creator>Valdés, Mariano</dc:creator>
+<dc:creator>Muñoz-Esparza, Carmen</dc:creator>
+<dc:creator>Pastor-Pérez, Francisco</dc:creator>
+<dc:creator>Garrido, Iris P</dc:creator>
+<dc:creator>Blanco, Rosa</dc:creator>
+<dc:creator>González-Cánovas, Cristina</dc:creator>
+<dc:creator>Pascual-Figal, Domingo A</dc:creator>
+<dc:creator>Peñafiel, Pablo</dc:creator>
+<dc:creator>Minguel, Alfredo</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos. La detección del rechazo agudo en pacientes trasplantados cardiacos mediante métodos no invasivos representa un reto. La disponibilidad de un nuevo método de alta sensibilidad para la determinación de troponina T podría ayudar a su detección. Métodos. Estudio case-crossover, en el que cada paciente sirvió como control de sí mismo, mediante la selección de muestras obtenidas en episodios de rechazo agudo tratados (29 casos) y muestras sin rechazo obtenidas inmediatamente antes y/o después (38 controles). La determinación de alta sensibilidad de troponina T se realizó mediante un nuevo test precomercial (Elecsys Troponina T HS). Resultados. La troponina T fue detectable en todas las muestras: mediana, 0,068 [intervalo intercuartílico, 0,030-0,300] ng/l. Sus concentraciones se correlacionaron con la presión auricular derecha (r=0,37; p=0,002), la fracción aminoterminal del propéptido natriurético cerebral (r=0,67; p&lt;0,001) y el tiempo transcurrido desde el trasplante (r=&#150;0,81; p&lt;0,001). Las concentraciones de troponina T fueron mayores en presencia de rechazo (0,155 frente a 0,047 ng/l; p=0,006). En el análisis operador-receptor, el área bajo la curva fue 0,67 (intervalo de confianza del 95%, 0,53-0,77) y el mejor punto de corte, 0,035 ng/l, que se asoció con mayor riesgo de rechazo (odds ratio=3,7; intervalo de confianza del 95%, 1,2-11,9; p=0,02). Durante los primeros 2 meses, el área bajo la curva aumentó hasta 0,86 (intervalo de confianza del 95%, 0,66-0,97), con un punto de corte óptimo de 1,1 ng/l (sensibilidad, 58% [28-85%]; especificidad, 100% [74-100%]). Conclusiones. El análisis de alta sensibilidad detectó troponina T en todas las muestras tras el trasplante, en mayor concentración en caso de rechazo agudo, si bien su utilidad en la monitorización se limitaría a servir como apoyo ante la sospecha clínica o histológica, especialmente en los primeros meses (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;64(12): 1109-1113, dic. 2011.</dc:source>
+<dc:identifier>ibc-93616</dc:identifier>
+<dc:title xml:lang="es">Utilidad de la prueba de troponina T de alta sensibilidad en la detección de rechazo agudo en trasplante cardiaco</dc:title>
+<dc:subject>^d33838^s22044</dc:subject>
+<dc:subject>^d33838</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6235^s22016</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d29419^s22045</dc:subject>
+<dc:subject>^d6235^s22012</dc:subject>
+<dc:subject>^d33842^s22002</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d28938^s22074</dc:subject>
+<dc:subject>^d24811</dc:subject>
+<dc:subject>^d33556^s22074</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d33556^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201112</dc:date>
+</metadata>
+</record>
+</ibecs-document>

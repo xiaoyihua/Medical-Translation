@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-143695</identifier>
+<setSpec>0212-6567</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prescription drug consumption recovery following the co-payment change: Evidence from a regional health service</dc:title>
+<dc:description xml:lang="en">Objectives: In the past few decades, increasing pharmaceutical expenditures in Spain and other western countries led to the adoption of reforms in order to reduce this trend. The aim of our study was to analyze if reforms concerning the pharmaceutical reimbursement scheme in Spain have been associated with changes in the volume and trend of pharmaceutical consumption. Design: Retrospective observational study. Setting: Region of Murcia. Prescription drug in primary care and external consultations. Participants: Records of prescribed medicines between January 1, 2008 and December 31, 2013. Method: Segmented regression analysis of interrupted time-series of prescription drug consumption. Results: Dispensing of all five therapeutic classes fell immediately after co-payment changes. The segmented regression model suggested that per patient drug consumption in pensioners may have decreased by about 6.76% (95% CI; -8.66% to -5.19%) in the twelve months after the reform, compared with the absence of such a policy. Furthermore the slope of the series of consumption increased from 6.08(P&lt;.001) to 12.17 (P&lt;.019). Conclusions: The implementation of copayment policies could be associated with a significant decrease in the level of prescribed drug use in Murcia Region, but this effect seems to have been only temporary in the five therapeutic groups analyzed, since almost simultaneously there has been an increase in the growth trend (AU)</dc:description>
+<dc:creator>Sánchez, Fernando I</dc:creator>
+<dc:creator>Arense, Julián J</dc:creator>
+<dc:creator>Sánchez, Diego P</dc:creator>
+<dc:creator>Torres, Alberto M</dc:creator>
+<dc:creator>López, Ángel</dc:creator>
+<dc:creator>Guillén, José J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: El objetivo de este estudio es evaluar el efecto de las políticas de copago farmacéutico en la cantidad y la tendencia de consumo de medicamentos. Diseño: Estudio observacional retrospectivo. Emplazamiento: Región de Murcia. Prescripción de medicamentos en atención primaria y especializada. Participantes: Registros correspondientes a las recetas dispensadas por las oficinas de farmacia entre enero del 2008 y diciembre del 2013. Método: Análisis de regresión lineal segmentada de series temporales de consumo de medicamentos expresado en número de envases y dosis por 1.000 habitantes-día (DHD), con un análisis diferenciado de los cinco grupos terapéuticos de mayor consumo. Resultados: La dispensación de los 5 grupos terapéuticos analizados disminuyó inmediatamente después de la introducción de los cambios en el copago. El modelo de regresión segmentada indicó que la tasa de consumo en los beneficiarios pensionistas del SMS habría disminuido un 6,76% (IC del 95%, &#150;8,66% a &#150;5,19%) 12 meses después de la reforma, en comparación con la ausencia de una política de este tipo. Por otro lado, la pendiente de crecimiento del consumo se incrementó de 6,08 (p &lt; 0,001) a 12,17 (p = 0,019). Conclusiones: La aplicación de los cambios en la política de copago se podría asociar con una disminución significativa de las tasas de consumo de medicamentos en la Región de Murcia, pero parece que con un efecto temporal limitado en los grupos terapéuticos analizados, ya que de manera casi simultánea se ha producido un aumento en la tendencia de crecimiento (AU)</dc:description>
+<dc:source>Aten Primaria;47(7): 411-418, ago.-sept. 2015. ilus, graf, tab</dc:source>
+<dc:identifier>ibc-143695</dc:identifier>
+<dc:title xml:lang="es">La recuperación del consumo farmacéutico tras la modificación del copago: evidencia de un servicio regional de salud</dc:title>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23106^s22000</dc:subject>
+<dc:subject>^d10785^s22049</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d10785^s22055</dc:subject>
+<dc:subject>^d10785^s22066</dc:subject>
+<dc:subject>^d55169^s22054</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d55169^s22066</dc:subject>
+<dc:subject>^d55169^s22020</dc:subject>
+<dc:subject>^d55169^s22083</dc:subject>
+<dc:subject>^d55169^s37748</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201509</dc:date>
+</metadata>
+</record>
+</ibecs-document>

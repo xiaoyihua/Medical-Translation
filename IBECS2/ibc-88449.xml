@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-88449</identifier>
+<setSpec>0001-6519</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Newborn hearing screening test with multiple auditory steady-state responses</dc:title>
+<dc:description xml:lang="en">Introduction: The techniques most frequently used within a screening context (otoacoustic emissions and click auditory brainstem response) have well-known limitations in hearing loss detection. Objective: This study examines the feasibility of a semi-automated multiple auditory steady-state responses (MSSR) system designed for neonatal hearing screening. Methods: A sample of 50 newborns without risk factors (well-babies) was tested within two weeks of birth. All had detectable auditory brainstem responses to clicks down to 40dB nHL in both ears. Two amplitude modulated carrier tones of 500 and 2,000Hz were mixed together and presented simultaneously. Each infant (and ear) was screened with the MSSR system; to simulate a hearing loss, a recording without stimulation was also obtained. Results: Mean auditory thresholds were 42.5±7dB HL at 500Hz and 35.5±6dB HL at 2,000Hz. The average duration of the MSSR recording was 2.6±1.6minutes for each tested ear and the overall duration of the screening procedure (including electrode fitting and infant preparation) was 17.8±3.7minutes. The diagnostic sensibility and the positive predictive values of the MSSR semi-automatic screening system was 100% and 96% respectively, with specificity of 96% and negative predictive values of 100%. Conclusions: Although the diagnostic efficiency of the semi-automated MSSR system was found adequate, further technological improvements are still necessary to facilitate its use in the context of universal newborn hearing screening program (AU)</dc:description>
+<dc:creator>Robertson Terry, Regla</dc:creator>
+<dc:creator>Mijares Nodarse, Eleina</dc:creator>
+<dc:creator>Herrera Alonso, Didiesle</dc:creator>
+<dc:creator>Pérez Abalo, María Cecilia</dc:creator>
+<dc:creator>Mendez Alarcón, Leonel</dc:creator>
+<dc:creator>Gaya Vázquez, José</dc:creator>
+<dc:creator>Santos Febles, Elsa</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: Las técnicas más utilizadas en los programas de cribado auditivo presentan limitaciones reconocidas en la detección de las pérdidas auditivas. Se presenta una nueva alternativa de cribado auditivo basada en el uso de potenciales evocados de estado estable. Objetivo: Evaluar la factibilidad de una prueba semiautomática de cribado auditivo en una población de recién nacidos sanos. Métodos: Se estudiaron 50 neonatos (7-18 días de nacidos) sin factores clínicos de riesgo y con respuesta detectable bilateral a 40 db nHL con potenciales evocados auditivos de tronco cerebral. A cada uno se le realizó una prueba con potenciales evocados auditivos de estado estable a múltiples frecuencias (PEAee-MF) (500 y 2.000Hz) y un registro sin estímulo para simulación de sordera. Resultados: Los umbrales auditivos se encontraron entre 25 y 50dB HL para ambas frecuencias (42,5±7dB HL para 500Hz y 35,5±6dB HL para 2.000Hz). Los tiempos medios de registro fueron de 2,6±1,6min por cada oído y la duración total del procedimiento (incluyendo preparación y colocación de electrodos) fue de 17,8±3,7min. Con la prueba de cribado se obtuvo una adecuada eficiencia diagnóstica (sensibilidad, 100%, y especificidad, 96%). Conclusiones: Los resultados descritos sugieren que los PEAee-MF (estimulación simultánea con múltiples frecuencias) pudieran ser utilizados como prueba de cribado auditivo en una población de recién nacidos sanos. Para esto, es necesario seguir perfeccionando la técnica combinando una metodología válida y sencilla con determinadas facilidades de automatización (AU)</dc:description>
+<dc:source>Acta Otorrinolaringol Esp;62(2): 87-94, mar.-abr. 2011. ilus, graf, tab</dc:source>
+<dc:identifier>ibc-88449</dc:identifier>
+<dc:title xml:lang="es">Cribado auditivo neonatal con potenciales evocados auditivos de estado estable a múltiples frecuencias</dc:title>
+<dc:subject>^d6470^s22080</dc:subject>
+<dc:subject>^d5169</dc:subject>
+<dc:subject>^d22226</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29480^s22045</dc:subject>
+<dc:subject>^d3655^s22080</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201104</dc:date>
+</metadata>
+</record>
+</ibecs-document>

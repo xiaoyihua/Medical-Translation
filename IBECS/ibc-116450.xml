@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-116450</identifier>
+<setSpec>2253-654x</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Elaboration of the SPM template for the standardization of SPECT images with 123I-Ioflupane</dc:title>
+<dc:description xml:lang="en">Purpose: Statistical parametric mapping (SPM) is a widely used produced for normalization of functional images. This study has aimed to develop a normalization template of 123I-Ioflupane SPECT-imaging DaTSCAN®, GE Healthcare), not available in SPM5, and to validate it compared to other quantification methods. Material and methods: In order to write the template we retrospectively selected 26 subjects who had no evidence of nigrostriatal degeneration and whose age distribution was similar to that of the patients in the usual practice of our Department: 2 subjects (7.6%) were &lt; 35 years, 9 between 35-65 years (34.6%) and 15 &gt; 65 years (57.7%). All the studies were normalized with the T1-template available in SPM5 and an average image of the value was obtained for each voxel. For validation we analyzed 60 patients: 30 with idiopathic Parkinson&#146;s disease patients (iPD) with right involvement (66.83 ± 12.20 years) and 30 with essential tremor patients (ET) (67.27 ± 8.33 years). Specific uptake rates (SUR) of different striatal regions were compared after image normalization with our template and the application of a semiautomated VOIs-map created with Analyze v9.0 (©BIR, Mayo Clinic), against two quantification methods: a) manual adjustment of a ROIs-map drawn in Analyze, and b) semi-automated method (HERMES-BRASS) with normalization and implementation of VOIs-map. Results: No statistically significant differences in the iPD/ET discriminatory capacity between the three methods analyzed were observed (p &lt; 0,001). The correlation of SUR after normalization with our «template» was higher than that obtained by method b) (R &gt; 0,871, p &lt; 0,001). This difference was greater in patients with PD. Conclusions: Our study demonstrates the efficacy of our SPM «template» for 123I-Ioflupane SPECT-imaging, obtained from normalization with «T1-template» (AU)</dc:description>
+<dc:creator>Luis-Simón, F. J</dc:creator>
+<dc:creator>Carrillo, F</dc:creator>
+<dc:creator>Mir, P</dc:creator>
+<dc:creator>Marín-Oyaga, V. A</dc:creator>
+<dc:creator>Vázquez-Albertino, R. J</dc:creator>
+<dc:creator>García-Gómez, F. J</dc:creator>
+<dc:creator>García-Solís, D</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. El SPM (statistical parametric mapping, mapas estadísticos paramétricos) es un procedimiento de análisis ampliamente utilizado para la normalización de imágenes funcionales. El propósito de este trabajo es elaborar una plantilla (template) para la normalización de imágenes SPECT con 123I-Ioflupano (DaTSCAN®; GE Healthcare), no disponible en SPM5, y su validación respecto a otros métodos de cuantificación. Material y métodos. Para la elaboración del template seleccionamos retrospectivamente los estudios SPECT de 26 sujetos sin evidencias de degeneración nigroestriatal, con distribución de edad similar a la de los pacientes que se incluyen en la práctica habitual de nuestro servicio: 2 sujetos &lt; 35 años (7,6%), 9 entre 35-65 años (34,6%) y 15 &gt; 65 años (57,7%). Todos los estudios fueron normalizados con el template-T1, disponible en SPM5, obteniendo una imagen promedio del valor para cada vóxel. Para la validación analizamos 60 pacientes: 30 con enfermedad de Parkinson idiopática (EPi) con afectación del hemicuerpo derecho (66,83 ± 12,20 años) y 30 pacientes con temblor esencial (TE) (67,27 ± 8,33 años). Se compararon los índices de captación específica (ICE) de las distintas regiones estriatales, obtenidos tras la normalización de las imágenes con nuestro template y aplicando un mapa de VOIs semiautomatizado creado en Analyze v9.0 (©BIR, Mayo Clinic), con otros 2 métodos de cuantificación: a) ajuste manual de un mapa de ROIs elaborado en Analyze, y b) mediante un método semicuantitativo automatizado (HERMES-BRASS) que realiza normalización y aplicación de un mapa de VOIs. Resultados. No observamos diferencias estadísticamente significativas en la capacidad discriminatoria EPi/TE entre los 3 métodos analizados (p &lt; 0,001). La correlación de los ICE tras la normalización con nuestro template fue mayor con la obtenida por el método b) (R &gt; 0,871; p &lt; 0,001). En los pacientes con EPi esta diferencia fue más acusada. Conclusiones. Nuestro estudio demuestra la eficacia de nuestro template de SPM para SPECT con 123I-Ioflupano, obtenido a partir de la normalización con el template-T1 (AU)</dc:description>
+<dc:source>Rev. esp. med. nucl. imagen mol. (Ed. impr.);32(6): 350-356, nov.-dic. 2013. tab, ilus</dc:source>
+<dc:identifier>ibc-116450</dc:identifier>
+<dc:title xml:lang="es">Elaboración de una plantilla de SPM para la normalización de imágenes de SPECT con 123I-Ioflupano</dc:title>
+<dc:subject>^d24895^s22045</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d24895^s22039</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d10489^s22012</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d23484^s22074</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d23987</dc:subject>
+<dc:subject>^d14595^s22012</dc:subject>
+<dc:subject>^d10489^s22016</dc:subject>
+<dc:subject>^d9871^s22066</dc:subject>
+<dc:subject>^d9871^s22045</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d14595^s22016</dc:subject>
+<dc:subject>^d24895^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201312</dc:date>
+</metadata>
+</record>
+</ibecs-document>

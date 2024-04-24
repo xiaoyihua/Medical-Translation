@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-123761</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Spectral analysis of sustained and non sustained ventricular fibrillation in patients with an implantable cardioverter-defibrillator</dc:title>
+<dc:description xml:lang="en">The mechanisms responsible for the maintenance and termination of ventricular fibrillation (VF) are poorly understood. The aim of this study was to compare the spectral characteristics of the electrical signal during sustained and non-sustained VF in patients with an implantable cardioverter-defibrillator. The study included 51 patients who had had at least one episode of sustained VF (i.e., duration &gt;5 s and requiring shock administration) and non-sustained VF (i.e., duration &gt;3 s and spontaneously terminated) that were recorded by the device set in a unipolar configuration. Spectral analysis of the first 3 s of each episode was performed. The dominant frequency was higher in sustained VF (4.6±0.7 Hz) than in non-sustained VF (4.3±0.6 Hz; P=.01), while the other parameters were similar. Although the spectra (..) (AU)</dc:description>
+<dc:creator>Everss, Estrella</dc:creator>
+<dc:creator>Sánchez Muñoz, Juan José</dc:creator>
+<dc:creator>Rojo Alvarez, José Luis</dc:creator>
+<dc:creator>Requena Carrión, Jesús</dc:creator>
+<dc:creator>Martínez Sánchez, Juan</dc:creator>
+<dc:creator>García Alberola, Arcadi</dc:creator>
+<dc:creator>Ortiz, Mercedes</dc:creator>
+<dc:creator>Valdés Chávarri, Mariano</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Los mecanismos de mantenimiento y finalización de la fibrilación ventricular (FV) son poco conocidos. El objetivo del estudio es comparar las características espectrales de la señal eléctrica de la FV sostenida y no sostenida en pacientes portadores de desfibrilador implantable. Se incluyó a 51 pacientes con al menos un episodio de FV sostenida (de más de 5 s y que precisara choque) y no sostenida (de más de 3 s y terminación espontánea) registrados por el dispositivo en configuración monopolar. Se realizó un análisis espectral de los primeros 3 s de cada episodio. La frecuencia dominante fue mayor en las FV sostenidas (4,6 ± 0,7 frente a 4,3 ± 0,6 Hz en las no sostenidas; p = 0,01), y los demás parámetros fueron similares. Durante los primeros 3 s, si bien las características espectrales son parecidas, hay diferencias utilizables en algoritmos de detección precoz de FV no sostenida (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;62(6): 690-693, jun. 2009. ilus, tab</dc:source>
+<dc:identifier>ibc-123761</dc:identifier>
+<dc:title xml:lang="es">Análisis espectral de la fibrilación ventricular sostenida y no sostenida en portadores de desfibrilador implantable</dc:title>
+<dc:subject>^d30763^s22074</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d13440^s22045</dc:subject>
+<dc:subject>^d21027^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d15100^s22016</dc:subject>
+<dc:subject>^d11622^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200906</dc:date>
+</metadata>
+</record>
+</ibecs-document>

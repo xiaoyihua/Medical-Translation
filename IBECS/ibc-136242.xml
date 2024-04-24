@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-136242</identifier>
+<setSpec>2253-654X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Obtaining a formula that improves maximum oxygen consumption estimation in cycle ergometer exercise tests</dc:title>
+<dc:description xml:lang="en">Objectives: To evaluate if the estimation of the maximal oxygen consumption (MO2C) in METs (metabolic equivalents) by means of the table proposed in the guidelines of the Spanish Society of Cardiology is a sufficiently reliable method when applied to the bicycle exercise test. Material and methods: The MO2C in METs was obtained by gas-exchange analysis on bicycle ergometer tests in 97 healthy subjects (group i). It was compared with the estimate of METs using the table in which only watts and patient's weight were included. A better-adjusted formula was validated in 289 subjects with normal exercise myocardial perfusion gated-SPECT (group ii) using the introduction of clinical and ergometric variables. Results: In group i individuals a good correlation between METs estimated with the table and those obtained through gas-exchange analysis (CCI: 0.93) was observed. However, the best adjusted formula to estimate METs in group ii subjects included watts, body mass index (BMI), age and gender (METS = 11.820 &amp;#8722; 0.054 × age &amp;#8722; 0.189 × BMI + 1.031 × gender + 0.020 × watts) (women: 0, men: 1). This formula allowed the reclassification of 46.9% of group ii subjects into the category &lt; 5 METs versus the estimation by table. Conclusions: Estimating the METs with the conventional table is reliable. However, the best adjustment in subjects with normal bicycle exercise SPECT was obtained when, in addition to watts and BMI, age and gender were also considered (AU)</dc:description>
+<dc:creator>Romero-Farina, G</dc:creator>
+<dc:creator>Aguadé-Bruix, S</dc:creator>
+<dc:creator>García-Dorado, D</dc:creator>
+<dc:creator>Bofill, JM</dc:creator>
+<dc:creator>Pizzi, MN</dc:creator>
+<dc:creator>Candell-Riera, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Valorar si la estimación del consumo máximo de oxígeno (CMO2) en MET (unidad metabólica) mediante las tablas propuestas en las guías de la Sociedad Española de Cardiología (SEC) es un método suficientemente fiable cuando se aplica a las pruebas de esfuerzo con bicicleta ergométrica. Material y métodos: Se obtuvo el CMO2 en MET por consumo de gases en bicicleta ergométrica en 97 sujetos sanos (grupo i) y se comparó con la estimación de los MET obtenida mediante tabla en la que solo intervienen los vatios y el peso del paciente. Mediante la introducción de variables clínicas y ergométricas se obtuvo una fórmula con mejor ajuste para el cálculo de los MET validándose en 289 pacientes (grupo ii) con gated-SPECT de perfusión miocárdica normal. Resultados: En los individuos del grupo i se observó una buena correlación entre los MET estimados con la tabla y los MET obtenidos mediante consumo de gases (CCI: 0,93). Sin embargo, la fórmula con mejor ajuste para la estimación de los MET en los pacientes del grupo ii incluyó los vatios, el índice de masa corporal (IMC), la edad y el sexo (MET = 11,820 &amp;#8722; 0,054 × edad &amp;#8722; 0,189 × IMC + 1,031 × sexo + 0,020 × vatios) (mujer: 0, hombre: 1). Esta fórmula permitió la reclasificación de un 46,9% de los individuos del grupo ii en la categoría &lt; 5 MET con respecto a la estimación por tabla. Conclusiones: La estimación de los MET mediante la tabla convencional es fiable, aunque el ajuste óptimo, cuando se aplica a sujetos con gated-SPECT de perfusión miocárdica de esfuerzo normal, se obtiene al considerar, además de los vatios, el IMC, la edad y el sexo (AU)</dc:description>
+<dc:source>Rev. esp. med. nucl. imagen mol. (Ed. impr.);34(3): 167-172, mayo-jun. 2015. tab, graf</dc:source>
+<dc:identifier>ibc-136242</dc:identifier>
+<dc:title xml:lang="es">Obtención de una fórmula que mejora la estimación del consumo máximo de oxígeno en las pruebas de esfuerzo con bicicleta ergométrica</dc:title>
+<dc:subject>^d24895^s22045</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d5178^s22045</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d10281^s22031</dc:subject>
+<dc:subject>^d22594^s22045</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d54400</dc:subject>
+<dc:subject>^d53211</dc:subject>
+<dc:subject>^d2359^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201506</dc:date>
+</metadata>
+</record>
+</ibecs-document>

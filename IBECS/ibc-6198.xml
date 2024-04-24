@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-6198</identifier>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Hemodialysis costs analysis calculated by relative value units</dc:title>
+<dc:creator>Bernat, A</dc:creator>
+<dc:creator>Cerrillo, V</dc:creator>
+<dc:creator>Hernández Jaras, J</dc:creator>
+<dc:creator>García, H</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Grupo Aula Médica, S.A.</dc:publisher>
+<dc:description xml:lang="es">Las sesiones de hemodiálisis realizadas en las unidades hospitalarias presentan un distinto grado de complejidad en función del tipo de paciente que reciba este tratamiento. El objetivo de este estudio es aplicar unos factores de ponderación que sean capaces de discriminar la distinta complejidad de cada tipo de sesión realizada, y así lograr una aproximación más real con las sesiones realizadas entre las distintas unidades. Se han analizado los distintos costes de la unidad de hemodiálisis del Hospital General de Castellón y se han definido 5 tipos de sesiones realizadas en el hospital, a las que se aplicaron unos factores de ponderación denominados Unidades Relativas de Valor (URV), en función de los tiempos de dedicación del personal sanitario, el gasto en material fungible y en farmacia. Los costes por sesión de hemodiálisis antes de la aplicación de las URV fue de 28.549 ptas. El 32` por ciento correspondió a material fungible, el 29,38 por ciento a personal sanitario, el 18,54 por ciento a costes estructurales, el 13,4 por ciento a gastos de farmacia y el 5,73 por ciento a personal facultativo. Al aplicar las URV, los costes de la sesión tipo 1 (crónicos en programa) fue de 24.882 ptas. Los costes se incrementan progresivamente a medida que aumenta la complejidad de las sesiones hasta las sesiones tipo V (pacientes agudos en U.C.I.) cuyo coste fine de 68.448 ptas. Concluimos que la ponderación de los distintos tipos de sesiones mediante URV permite una mejor valoración de los costes y logra una mejor comparación de los distintos tipos de sesiones realizadas en las unidades de hemodiálisis hospitalarias (AU)</dc:description>
+<dc:source>Nefrologia;20(3): 284-290, mayo 2000.</dc:source>
+<dc:identifier>ibc-6198</dc:identifier>
+<dc:title xml:lang="es">Aproximación al análisis de costes de diferentes tipos de hemodiálisis mediante unidades relativas de valor (URV)</dc:title>
+<dc:subject>^d24858</dc:subject>
+<dc:subject>^d29407</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3380</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200005</dc:date>
+</metadata>
+</record>
+</ibecs-document>

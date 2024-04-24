@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-32283</identifier>
+<setSpec>0004-0614</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Blurred logic in urology. How to reason in inaccurate terms</dc:title>
+<dc:creator>Vázquez Alba, David</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Iniestares, S. A.</dc:publisher>
+<dc:description xml:lang="es">El pensamiento occidental es básicamente binario, basado en opuestos. La lógica clásica constituye una sistematización de ese pensamiento. El método de las ciencias duras como la física se apoya en la medición sistemática, el análisis y la síntesis. De esta manera la naturaleza es descrita mediante ecuaciones diferenciales deterministas. El conocimiento médico se ajusta mal a las ecuaciones deterministas de la física por lo que se utiliza un método probabilístico. Sin embargo, este método no está exento de problemas, tanto teóricos como prácticos, por lo que a menudo no es posible ni siquiera conocer con certeza las probabilidades de la mayoría de los sucesos. Por otra parte, la aplicación de la lógica binaria a la medicina en general, y a la urología en particular, tropieza con serias dificultades como son el carácter impreciso de la definición de la mayoría de las enfermedades y la incertidumbre asociada a casi todos los actos médicos. Este hecho es responsable de que la mayor parte de las recomendaciones médicas se realicen utilizando un lenguaje literario que es impreciso, inconsistente e incoherente. Una manera de razonar de forma coherente utilizando los conceptos imprecisos es mediante la lógica borrosa. Esta lógica fue propuesta por Lofti Zadeh en 1965 y se basa en dos principios: la teoría de los conjuntos borrosos y la utilización de reglas borrosas. Un conjunto borroso es aquél cuyos elementos tienen un grado de pertenencia que varía entre 0 y 1. Cada conjunto borroso lleva asociado una propiedad imprecisa o variable lingüística. Las reglas borrosas utilizan los principios de la lógica clásica adaptados a los conjuntos borrosos tomando como valor de verdad el grado de pertenencia de cada elemento al conjunto borroso de referencia. La lógica borrosa permite realizar recomendaciones urológicas coherentes como en qué pacientes está indicada la realización de un PSA, qué se debe hacer ante unas cifras de PSA elevadas, o realizar diagnósticos adaptados a la incertidumbre de las pruebas diagnósticas como por ejemplo los datos suministrados por el estudio presión flujo en el sexo femenino (AU)</dc:description>
+<dc:source>Arch Esp Urol;57(4): 365-376, mayo 2004.</dc:source>
+<dc:identifier>ibc-32283</dc:identifier>
+<dc:title xml:lang="es">La lógica borrosa en urología. Cómo razonar con términos imprecisos</dc:title>
+<dc:subject>^d30721</dc:subject>
+<dc:subject>^d33182</dc:subject>
+<dc:subject>^d14972</dc:subject>
+<dc:subject>^d28633</dc:subject>
+<dc:subject>^d8678</dc:subject>
+<dc:subject>^d8601</dc:subject>
+<dc:subject>^d33673</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200405</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-10643</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Interaction between phenytoin and a number of artificial enteric-nutrition dietary formulas</dc:title>
+<dc:creator>Martí Bonmatí, E</dc:creator>
+<dc:creator>Gil Gomez, I</dc:creator>
+<dc:creator>Ortega García, M. P</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Arán Ediciones, S.A.</dc:publisher>
+<dc:description xml:lang="es">El objetivo de este trabajo es estudiar la interacción in vitro de una solución de fenitoína sódica y diferentes fórmulas dietéticas artificiales para nutrición enteral, así como con cada uno de los substratos de estas fórmulas de manera aislada. Para ello se expuso una solución de fenitoína sódica con las diferentes fórmulas para nutrición enteral durante 24 horas y a 25 °C y con los substratos puros durante 3 horas. Los resultados muestran una menor recuperación en aquellas fórmulas con mayor contenido proteico y una mayor recuperación en los preparados con fibra. Aparecen diferencias significativas entre la recuperación en el blanco y la recuperación en el preparado hiperproteico y estándar a las 1,5 horas de exposición y existe una correlación negativa significativa a tiempo 0 entre la recuperación de fenitoína y el contenido proteico de las fórmulas. En el estudio aislado de los substratos, la caseína y los ácidos grasos son los que muestran una menor recuperación de fenitoina a las 3 horas de exposición. De este estudio podemos concluir que existe una interacción in vitro entre las proteínas de las fórmulas dietéticas artificiales para nutrición enteral y la fenitoína, que la fibra parece tener un efecto protector sin distinción entre fibra soluble o insoluble y que los iones calcio y magnesio no interaccionan in vitro con la fenitoína (AU)</dc:description>
+<dc:source>Farm Hosp;26(1): 13-17, ene. 2002. tab, graf</dc:source>
+<dc:identifier>ibc-10643</dc:identifier>
+<dc:title xml:lang="es">Interacción entre fenitoína y diversas fórmulas dietéticas artificiales para nutrición enteral</dc:title>
+<dc:subject>^d30324</dc:subject>
+<dc:subject>^d32247^s22031</dc:subject>
+<dc:subject>^d10867^s22000</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d10867^s22079</dc:subject>
+<dc:subject>^d4080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200201</dc:date>
+</metadata>
+</record>
+</ibecs-document>

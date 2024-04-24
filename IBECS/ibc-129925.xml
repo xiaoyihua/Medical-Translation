@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-129925</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">A comparison of a T1 weighted 3D gradient-echo sequence with three different parallel imaging reduction factors, breath hold and free breathing, using a 32 channel coil at 1.5T. A preliminary study</dc:title>
+<dc:description xml:lang="en">Purpose. To investigate whether increasing temporal resolution with higher parallel imaging (PI) reduction factors (RF) in both breath-hold and free breathing approaches, using a non-contrast T1-weighted 3D gradient echo (GRE) sequence and a 32-channel phased array coil, permits diagnostic image quality, with potential application in patients unable to cooperate with breath-hold requirements. Materials and methods. The 9 healthy subjects (5 females and 4 males; age range was 20-49, mean 36 yrs) were recruited. A 3D GRE MR imaging of the abdomen was performed on 1.5T MR system using a 32-element phased-array torso coil with PI RFs of 2, 4 and 6, breath hold and free breathing. Two reviewers retrospectively qualitatively evaluated all sequences for image quality, extent of artifacts, including motion, truncation, aliasing, pixel graininess and signal heterogeneity. The results were compared using Wilcoxon signed rank and a Bonferroni adjustment was applied for multiple comparisons. Results. Image quality and extent of artifacts were better with breath hold than with free breathing acquisitions. The rate of artifacts increased with higher RF. The best quality was acquired with breath hold sequence using RF=2. RF=4 had lower but diagnostic rates (P=.004). The severity of artifacts, mainly pixel graininess (P=.004), rendered sequences with RF=6 non-diagnostic. All sequences were non-diagnostic in free breathing acquisitions. Conclusion. Breath hold sequences with RF=2 had excellent quality and RF=4 had good quality and may be potentially used in partially cooperative patients. None of the sequences was considered diagnostic in free breathing acquisitions (AU)</dc:description>
+<dc:creator>Ramalho, M</dc:creator>
+<dc:creator>Toni, M. de</dc:creator>
+<dc:creator>Dale, B</dc:creator>
+<dc:creator>Op de Campos, R</dc:creator>
+<dc:creator>Herédia, V</dc:creator>
+<dc:creator>Semelka, R. C</dc:creator>
+<dc:creator>Sams, C</dc:creator>
+<dc:creator>Burke, L. B</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Analizar si el aumento de la resolución temporal utilizando mayores factores de reducción (FR) de imagen en paralelo (IP), tanto en apnea como con respiración libre, utilizando una secuencia 3D con eco de gradiente (EG) potenciada en T1, sin contraste y una bobina de múltiples elementos (phased array) de 32 canales, proporciona una calidad de imagen diagnóstica, con posibilidad de ser aplicada en pacientes que no puedan cooperar para mantener la apnea. Material y métodos. Se incluyeron en el estudio 9 sujetos sanos (5 mujeres y 4 varones; rango de edad: 20-49; media: 36 años). Se les realizó un estudio de RM abdominal con secuencias 3D EG en un equipo de 1,5T con bobina de múltiples elementos (phased-array) de 32 canales con FR de imagen en paralelo de 2, 4 y 6, en apnea y con respiración libre. Dos revisores evaluaron retrospectiva y cualitativamente la calidad de imagen de las secuencias, la magnitud de los artefactos, incluyendo los artefactos de movimiento por reducción de señales, de solapamiento (aliasing), de granulado de los píxeles y la heterogeneidad de la señal. Los resultados se compararon mediante la prueba de Wilcoxon de los rangos con signo y la corrección de Bonferroni para comparaciones múltiples. Resultados. La adquisición en apnea proporcionó mejor calidad de imagen y menos artefactos que la adquisición con respiración libre. La tasa de artefactos fue mayor para FR más altos. La mejor calidad se obtuvo con secuencias en apnea con un FR = 2. Un FR = 4 presentó tasas menores pero diagnósticas (p = 0,004). La severidad de los artefactos, en especial el granulado de los píxeles (p = 0,004), hizo que las secuencias con un FR = 6 no fueran diagnósticas. Ninguna de las secuencias obtenidas con respiración libre fue diagnóstica. Conclusión. Las secuencias obtenidas en apnea con un FR = 2 presentaron una calidad de imagen excelente, y aquellas con un FR = 4 presentaron una calidad buena y potencialmente se pueden aplicar en pacientes poco colaboradores. Ninguna de las secuencias obtenidas con respiración libre se consideró diagnóstica (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);56(6): 533-540, nov.-dic. 2014.</dc:source>
+<dc:identifier>ibc-129925</dc:identifier>
+<dc:title xml:lang="es">Comparación de una secuencia en 3D con eco de gradiente potenciada en T1 con 3 factores de reducción de imagen en paralelo diferentes, en apnea y respiración libre, utilizando una bobina de 32 canales a 1,5T. Estudio preliminar</dc:title>
+<dc:subject>^d32016</dc:subject>
+<dc:subject>^d35390^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24850^s22045</dc:subject>
+<dc:subject>^d35390^s22045</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d35390^s22039</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d22935^s22045</dc:subject>
+<dc:subject>^d1056^s29166</dc:subject>
+<dc:subject>^d13273^s29166</dc:subject>
+<dc:subject>^d23405^s22045</dc:subject>
+<dc:subject>^d9871^s22045</dc:subject>
+<dc:subject>^d22935^s22039</dc:subject>
+<dc:subject>^d29531^s22074</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d33587</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201412</dc:date>
+</metadata>
+</record>
+</ibecs-document>

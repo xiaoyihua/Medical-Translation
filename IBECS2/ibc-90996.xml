@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-90996</identifier>
+<setSpec>0214-3429</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Pharmacoeconomic assessment of daptomycin as first-line therapy for bacteraemia and complicated skin and skin structure infections caused by gram-positive pathogens in Spain</dc:title>
+<dc:description xml:lang="en">Objective: To assess the efficiency of daptomycin as firstline therapy (D) versus daptomycin as salvage therapy after vancomycin (V&amp;#8594;D ) or linezolid (L&amp;#8594;D) failure in gram-positive bacteraemia and complicated skin and skin-structure infections (cSSTIs). Methods: Cost-effectiveness analysis of 161 bacteraemia and 84 cSSTIs patients comparing the above mentioned therapeutic alternatives was performed using the data from 27 Spanish hospitals involved in the EUCORE study. Direct medical costs were considered. Patients were observed from the first antibiotic dose for infection until either the end of daptomycin therapy or exitus. A multivariate Monte Carlo probabilistic sensitivity analysis was applied for costs (lognormal distribution) and effectiveness (normal distribution). Results: In terms of effectiveness there were no statistical differences between groups but referring total costs per patient, there were significant differences. Sensitivity analysis confirmed that D dominates over L&amp;#8594;D between 44.2%-62.1% of simulations in bacteraemia and between 48.2%-67.5% in cSSTIs. In comparison to V&amp;#8594;D, D dominance was detected in 29.2%-33.2% of simulations in bacteraemia and between 48.2%-59.3% in cSSTIs. Conclusions: Daptomycin as first-line therapy dominates over daptomycin as salvage therapy after linezolid failure both in bacteraemia and cSSTIs. Comparing daptomycin as first-line therapy with its use after vancomycin failure, in cSSTIs the former is dominant. In bacteremia daptomycin as first line therapy is as effective as daptomycin as salvage therapy after vancomycin failure and implies lower costs(AU)</dc:description>
+<dc:creator>Grau, Santiago</dc:creator>
+<dc:creator>Cuervo, Jesús</dc:creator>
+<dc:creator>Rebollo, Pablo</dc:creator>
+<dc:creator>Gil-Parrado, Shirley</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Evaluar la eficiencia de daptomicina como tratamiento de primera línea (D) frente a su uso como tratamiento de rescate tras fallo con vancomicina (V&amp;#8594;D) o linezolid (L&amp;#8594;D) en la terapia de bacteriemia e infecciones complicadas de piel y tejidos blandos (IcPTB) causadas por microorganismos grampositivos. Métodos: Análisis coste-efectividad de 161 pacientes con bacteriemia y 84 IcPTB procedentes de 27 hospitales españoles participantes en el estudio observacional, multicéntrico, retrospectivo EUCORE. Los costes directos médicos se registraron desde la primera dosis de tratamiento hasta su finalización o exitus. Se aplicó un análisis probabilístico de Monte Carlo para costes (distribución log-normal) y efectividad (distribución normal). Resultados: No se encontraron diferencias significativas en la efectividad de las distintas alternativas pero sí en los costes totales por paciente. En el análisis de sensibilidad, se confirmó que en bacteriemia e IcPTB la alternativa D fue dominante sobre L&amp;#8594;D entre el 44,2% - 62,1% y del 48,2 - 67,5%, respectivamente. Respecto a D vs V&amp;#8594;D, en bacteriemia la alternativa D fue dominante entre el 29,2% - 33,2% de las simulaciones y en IcPTB entre 48,2% - 59,3%. Conclusiones: Daptomicina como tratamiento de primera línea es la alternativa dominante sobre daptomicina como terapia de rescate tras fracaso de linezolid tanto en bacteriemia como en IcPTB. Daptomicina también es la alternativa dominante en IcPTB como tratamiento de primera línea sobre daptomicina como rescate tras el fallo de vancomicina, mientras que en bacteremia su uso en primera línea es similar en efectividad e implica costes menores (AU)</dc:description>
+<dc:source>Rev Esp Quimioter;24(3): 154-163, sep.2011.</dc:source>
+<dc:identifier>ibc-90996</dc:identifier>
+<dc:title xml:lang="es">Evaluación farmacoeconómica de daptomicina como terapia de primera línea en el tratamiento de bacteriemia e infecciones complicadas de piel y tejidos blandos causadas por microorganismos grampositivos en España</dc:title>
+<dc:subject>^d30313</dc:subject>
+<dc:subject>^d31495^s22066</dc:subject>
+<dc:subject>^d31495^s22083</dc:subject>
+<dc:subject>^d31518^s22073</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30241^s22057</dc:subject>
+<dc:subject>^d13411^s22080</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d30241^s22018</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d13255^s22018</dc:subject>
+<dc:subject>^d4538^s22049</dc:subject>
+<dc:subject>^d50303</dc:subject>
+<dc:subject>^d13255^s22057</dc:subject>
+<dc:subject>^d31518^s22018</dc:subject>
+<dc:subject>^d16672^s22066</dc:subject>
+<dc:subject>^d31495^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201109</dc:date>
+</metadata>
+</record>
+</ibecs-document>

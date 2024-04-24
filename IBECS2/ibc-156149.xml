@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-156149</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prognostic value of interleukin 6 for death of patients with sepsis</dc:title>
+<dc:description xml:lang="en">Background and objective: To see the influence of interlukin-6 (IL-6) as an inflammatory mediator in patients with systemic inflammatory response syndrome (SIRS) and sepsis, assessing whether their serum levels during their stay in intensive care unit (ICU) serve as an early mortality prognostic marker. Material and methods: A prospective observational cohort study with 203 ICU patients from a third level hospital. A descriptive analysis was made, X2 test used to compare qualitative variables, T-Student test to compare quantitative ones. We made a logistic regression multivariant analysis on admission, third and seventh day of stay with dependent variable mortality and independent variables age, gender and IL-6, lactate and C-reactive protein plasma levels as well as APACHE II and SOFA scores. The biomarkers&#146; prognostic accuracy was established through ROC curves with their sensitivity and specificity. Finally, a survival curve was performed at 28 days. Results: Of 203 patients, 52 (26%) died and 151 (74%) survived. Ninety-eight (48,3%) had SIRS of infectious aetiology (sepsis). There were no significant differences between age, gender and mortality. More patients died in the sepsis group. The persistence of high IL-6 plasma levels was associated with mortality. On the third day of stay, IL-6 was the most significant variable in relation to mortality with 75% sensitivity and 86% specificity. Patients with IL-6 plasma levels greater than 124.14pg/ml on the 3th day were 6.1 times more likely to die than those with lower levels. Conclusions: Patients with SIRS-sepsis who died had higher IL-6 plasma levels than those who survived. IL-6 was an early marker of intra-ICU mortality (AU)</dc:description>
+<dc:creator>Pallás Beneyto, Luis Alberto</dc:creator>
+<dc:creator>Miguel Bayarri, Vicente</dc:creator>
+<dc:creator>Cotell Simón, Oscar</dc:creator>
+<dc:creator>Saiz Sánchez, Carmen</dc:creator>
+<dc:creator>Rodríguez Luis, Olga</dc:creator>
+<dc:creator>Bautista Rentero, Daniel</dc:creator>
+<dc:language>es</dc:language>
+<dc:source>Med. clín (Ed. impr.);147(7): 281-286, oct. 2016. tab, graf</dc:source>
+<dc:identifier>ibc-156149</dc:identifier>
+<dc:title xml:lang="es">Valor pronóstico de la interleucina 6 en la mortalidad de pacientes con sepsis</dc:title>
+<dc:subject>^d29472^s22073</dc:subject>
+<dc:subject>^d13150^s22016</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d50295^s22039</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d29472^s22002</dc:subject>
+<dc:subject>^d28630</dc:subject>
+<dc:subject>^d38340</dc:subject>
+<dc:subject>^d32030^s22016</dc:subject>
+<dc:subject>^d32030^s22027</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d50295^s22045</dc:subject>
+<dc:subject>^d32031^s22047</dc:subject>
+<dc:subject>^d32030^s22012</dc:subject>
+<dc:subject>^d13150^s22067</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d32031^s22016</dc:subject>
+<dc:subject>^d13150^s22047</dc:subject>
+<dc:subject>^d32031^s22067</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201610</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-20529</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Some aspects of histopathology in multiple sclerosis</dc:title>
+<dc:creator>Brück, W</dc:creator>
+<dc:creator>Kuhlmann, T</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>César Viguera</dc:publisher>
+<dc:description xml:lang="es">La esclerosis múltiple (EM) es una enfermedad inflamatoria del sistema nervioso central. La inflamación, desmielinización y un grado variable de pérdida de oligodendrocitos son rasgos característicos de esta enfermedad. En las placas de la EM pueden distinguirse distintos estadios de la actividad desmielinizante a partir de la presencia de proteínas de la mielina en el citoplasma de los macrófagos, el grado de remielinización y la expresión de antígenos de activación macrofágica; además, pueden identificarse distintos patrones de pérdida y preservación de oligodendrocítica, lo cual indica patogenia heterogénea como causa de la desmielinización en esta enfermedad. En el presente informe, presentamos los criterios para clasificar la actividad desmielinizante, así como los patrones patológicos oligodendrocíticos (AU)</dc:description>
+<dc:source>Rev Neurol;30(12): 1208-1212, jun. 2000.</dc:source>
+<dc:identifier>ibc-20529</dc:identifier>
+<dc:title xml:lang="es">Algunos aspectos de la histopatología en la esclerosis múltiple</dc:title>
+<dc:subject>^d8434</dc:subject>
+<dc:subject>^d27723</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29594</dc:subject>
+<dc:subject>^d948</dc:subject>
+<dc:subject>^d9296</dc:subject>
+<dc:subject>^d14065</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200006</dc:date>
+</metadata>
+</record>
+</ibecs-document>

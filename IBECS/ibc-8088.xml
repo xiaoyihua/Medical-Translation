@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-8088</identifier>
+<setSpec>0001-6519</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Parameters of normality in multifrequency tympanometry</dc:title>
+<dc:description xml:lang="en">Multifrequency tympanometry studies consist of tympanography using probe tone frequencies ranging from 200 to 2000 Hz, improving the study of acoustic transmission through the tympano-ossicular system because then two components of admittance, conductance and susceptance, can be separated. The resonance frequency is the frequency at which mass and spring elements of the middle ear cancel each other out, leaving only the friction component. This measurement has been found to be more sensitive to the presence of pathologies that affect the tympano-ossicular system, such as otosclerosis and rheumatoid arthritis. It is necessary to know normal pattents of tympanometric parameters to improve the study of these diseases. Multifrequency tympanometry performed on 136 patients, 91 women and 45 men, age range 11-78 years. The mean resonant frequency of the middle ear was 1132.33 Hz, mean static admittance 0.76 dapa, and mean tympanometric amplitude 94.31 mmhos ac. Age showed no systematic effect of age on any of these measures in this population, and no significant association was found between static admittance or tympanometric amplitude and resonance frequency (AU)</dc:description>
+<dc:publisher>Sanidad y Ediciones (SANED, S.L.)</dc:publisher>
+<dc:description xml:lang="es">La timpanometría de multifrecuencia realiza un barrido timpanométrico entre 226 y 2000 Hz, mejorando el análisis de la transmisión del sonido a través del sistema tímpano-osicular, ya que posibilita el estudio independiente de los dos componentes de la admitancia del oído medio, la susceptancia y la conductancia. La frecuencia de resonancia del oído medio es la frecuencia en la que los elementos distensibles y de masa de la caja timpánica están en equilibrio; por tanto este parámetro se muestra útil en el estudio de patologías que alteren las características del sistema tímpano osicular como la otosclerosis y la artritis reumatoide. Es preciso conocer los parámetros de normalidad con el objeto de poderlos comparar con estas patologías. Realizamos la timpanometría de multifrecuencia a 136 pacientes entre 11 y 78 años. La frecuencia de resonancia media de oído medio fue de 1132.33 Hz, la admitancia estática media de 0, 76 dapa, y la amplitud timpanométrica media de 94,31 nmohs ac. Ninguno de estos parámetros mostró variaciones significativas en los distintos grupos de edad, y tampoco observamos asociación entre la frecuencia de resonancia de oído medio y la admitancia estática o la amplitud timpanométrica (AU)</dc:description>
+<dc:source>Acta Otorrinolaringol Esp;51(3): 207-210, abr. 2000. graf, tab</dc:source>
+<dc:title xml:lang="es">Parámetros de norma lidad en la timpanometría de multifrecuencia</dc:title>
+<dc:type>article</dc:type>
+<dc:creator>Soto, A</dc:creator>
+<dc:creator>Lechuga, R</dc:creator>
+<dc:creator>Frade, C</dc:creator>
+<dc:creator>Labella, T</dc:creator>
+<dc:language>es</dc:language>
+<dc:identifier>ibc-8088</dc:identifier>
+<dc:subject>^d4493^s22053</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d1315^s22031</dc:subject>
+<dc:subject>^d1306^s22045</dc:subject>
+<dc:subject>^d10218^s22053</dc:subject>
+<dc:subject>^d1178</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d165^s22045</dc:subject>
+<dc:date>200004</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-96597</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Left ventricular function, volumes, and mass in MRI studies using SFPP versus FLASH sequences in an animal model</dc:title>
+<dc:description xml:lang="en">ObjectiveTo compare the accuracy of two cine-gradient-echo sequences to quantify left ventricular function, volumes, and mass in an animal model. Material and methodsWe studied ten Gottingen miniature pigs (seven male, three female; mean weight 49.8±10.65kg; range: 35¿65kg) with a 1.5 Tesla MRI scanner using free-breathing SSFP and FLASH sequences. We used 8-mm short-axis images to estimate left ventricular ejection fraction (EF), volumes (end-diastolic (EDV), end-systolic (ESV), and stroke volume (SV)), mass, and signal-to-noise ratio (SNR) on SSFP and FLASH sequences. We analyzed the correlation and concordance of the two sequences for each variable. ResultsUsing the SSFP sequence, the mean estimated EF was 77.35±3.13%; mean EDV 61.55±8.64ml; mean ESV 13.83±1.92ml; mean SV 47.72±7.78ml; and mean myocardial mass 75.87±11.44g. Using the FLASH sequence, the mean EF was 81.87±2.22%; mean EDV 55.4±8.08ml; mean ESV 10.03±1.87ml; mean SV 45.38±6.83ml; and mean myocardial mass 87.74±15.21g. The correlation between SSFP and FLASH to quantify EDV, SV, and myocardial mass was excellent (r&gt;0.8) and moderate (r&gt;0.4) for quantifying ESV and EF. The SNR in the SSFP sequence was significantly higher than in the FLASH sequence (mean difference 120.94±42.94). ConclusionsIn the SSFP sequence, ventricular volumes are slightly higher and ventricular mass is slightly lower than in the FLASH sequence, probably because of the higher SNR on SSFP sequences (AU)</dc:description>
+<dc:creator>Alonso-Burgos, A</dc:creator>
+<dc:creator>Bastarrika, G</dc:creator>
+<dc:creator>Abizanda, G</dc:creator>
+<dc:creator>Ilzarbe, M</dc:creator>
+<dc:creator>Gavira, J. J</dc:creator>
+<dc:creator>Prósper, F</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo Comparar la exactitud de 2 secuencias cine eco de gradiente para cuantificar función, volúmenes y masa ventricular izquierda en un modelo animal. Material y métodosSe estudiaron 10 cerdos miniatura tipo Goettingen (7 machos, 3 hembras; peso medio: 49,8±10,65kg; rango: 35¿65kg) en un equipo 1,5 Tesla con secuencias precesión libre en estado estacionario (SSFP) y eco de gradiente convencionales (FLASH) en respiración libre. Se utilizaron imágenes de 8mm de grosor obtenidas en el eje corto para cuantificar los parámetros del ventrículo izquierdo. Se calcularon la fracción de eyección (FE), volúmenes (volumen telediastólico [VTD], volumen telesistólico [VTS], volumen latido [VL]), masa ventricular y la relación señal ruido (RSR) con cada secuencia. Se estudiaron la correlación y concordancia entre las distintas secuencias para cada variable. ResultadosUtilizando la secuencia SSFP, la FE media estimada fue 77,35±3,13%; VTD medio 61,55±8,64ml; VTS medio 13,83±1,92ml; VL medio 47,72±7,78ml y la masa miocárdica media calculada fue de 75,87±11,44g. Mediante la secuencia FLASH se calculó una FE media de 81,87±2,22%; VTD medio 55,4±8,08ml; VTS medio 10,03±1,87ml; VL medio 45,38±6,83ml, y masa miocárdica media 87,74±15,21g. Se demostró una correlación excelente entre SSFP y FLASH para cuantificar VTD, VL y masa miocárdica (r&gt;0,8) y moderada para VTS y FE (r&gt;0,4). La RSR que se obtuvo con la secuencia SSFP fue significativamente superior a la estimada con la secuencia FLASH (diferencia media 120,94±42,94). ConclusionesCon la secuencia SSFP se obtienen volúmenes ventriculares ligeramente superiores y masa ventricular izquierda ligeramente inferior a los calculados con la secuencia FLASH probablemente por su mayor RSR (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);51(2): 156-162, mar.-abr. 2009. ilus, tab</dc:source>
+<dc:identifier>ibc-96597</dc:identifier>
+<dc:title xml:lang="es">Función, volúmenes y masa ventricular izquierda por resonancia magnética en estudios realizados en un modelo animal con secuencias SSFP y FLASH: comparación de los resultados</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d6505^s22058</dc:subject>
+<dc:subject>^d10107</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d4255</dc:subject>
+<dc:subject>^d29150</dc:subject>
+<dc:subject>^d23405^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200904</dc:date>
+</metadata>
+</record>
+</ibecs-document>

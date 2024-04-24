@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-8372</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Assessing the pharmacotherapeutic complexity of prescriptions</dc:title>
+<dc:creator>Climente Martí, M</dc:creator>
+<dc:creator>Pérez Ruixo, J. J</dc:creator>
+<dc:creator>Jiménez Torres, N. V</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Arán Ediciones, S.A.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Desarrollar una escala que estratifique la complejidad farmacoterapéutica de las prescripciones y ayude a la toma de decisiones clínicas durante el proceso de validación farmacéutica. Métodos: Trece farmacéuticos seleccionaron y definieron las dimensiones de la escala, asignaron su importancia relativa y establecieron los grados de complejidad de cada dimensión. Para disminuir la variabilidad inter-evaluador, en la ponderación de cada dimensión de la escala, se valoró la razón de consistencia intraevaluador y se aplicó el método Delphy. La escala de complejidad farmacoterapéutica fue aplicada a una muestra de 60 prescripciones realizadas al ingreso de 60 pacientes en los servicios de Medicina Digestiva y Neurología. La reproducibilidad de la escala se evaluó mediante el estadístico de Cronbach y la validez fue estimada en base a la relación existente entre la puntuación de la escala CFT al ingreso de los pacientes y su estancia hospitalaria.R e s u l t a d o s : Las dimensiones ponderadas que definen la escala se circunscriben a: situación clínica del paciente (25,32 por ciento), tipo de prescripción (4,38 por ciento), número de medicamentos (6,47 por ciento), descripción y legibilidad del tratamiento (24,06 por ciento), necesidad de individualización posológica (13,12 por ciento), pauta posológica (7,54 por ciento), preparación del tratamiento (4,97 por ciento), vía de administración (4,28 por ciento), disponibilidad del medicamento (3,48 por ciento) y duración del tratamiento (3,64 por ciento). La escala de complejidad farmacoterapéutica muestra una aceptable fiabilidad ( de Cronbach: 0,74). La puntuación de la escala al ingreso de los pacientes se correlaciona significativamente con la estancia hospitalaria, de forma que la probabilidad de permanecer ingresado se multiplica por 2,70 (IC 95 por ciento: 1,22 a 6,03) por cada incremento de 100 unidades en la escala. Conclusión: La escala propuesta proporciona una herramienta útil para valorar la complejidad farmacoterapéutica de las prescripciones e identificar de forma precoz pacientes con estancias hospitalarias prolongadas (AU)</dc:description>
+<dc:source>Farm Hosp;25(5): 274-283, sept. 2001. tab, graf</dc:source>
+<dc:identifier>ibc-8372</dc:identifier>
+<dc:title xml:lang="es">Valoración de la complejidad farmacoterapéutica de las prescripciones</dc:title>
+<dc:subject>^d^s22083</dc:subject>
+<dc:subject>^d3675</dc:subject>
+<dc:subject>^d6940</dc:subject>
+<dc:subject>^d10797^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23106^s22000</dc:subject>
+<dc:subject>^d10797^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200109</dc:date>
+</metadata>
+</record>
+</ibecs-document>

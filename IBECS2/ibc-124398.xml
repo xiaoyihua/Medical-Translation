@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-124398</identifier>
+<setSpec>1137-6821</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Impact of using the ASIGNA computer program in a hospital emergency department</dc:title>
+<dc:description xml:lang="en">Objective: To determine whether the ASIGNA program for assigning patients to nurse-physician teams expedites time until the initial evaluation of a patient by an emergency physician in the Hospital General Universitario de Elda, Spain. Methods: Nonrandomized study of the effect of using the ASIGNA program from February 2012 to February 2013. The main outcomes were times in minutes until triage and until the initial evaluation by an emergency physician, and the qualitative assessment of compliance or not with times considered reasonable for each color-coded priority category in the Manchester triage system. Secondary variables recorded were sex, age, triage color code, and number of patients waiting. Multivariable linear regression analysis was used to study time between triage and physician evaluation in minutes; logistic regression analysis was used to study the associations with reasonable time according to the Manchester triage system. Indicators of clinical relevance were calculated with 95% confidence (..) (AU)</dc:description>
+<dc:creator>Palazón Bru, A</dc:creator>
+<dc:creator>Gil Guillén, V</dc:creator>
+<dc:creator>Carrasco Tortosa, V</dc:creator>
+<dc:creator>Urtubia Palacios, A</dc:creator>
+<dc:creator>Carbonell Torregrosa, M. A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Determinar si el programa informático ASIGNA, basado en la asignación de pacientes por equipo enfermero-médico, reduce el tiempo de espera de los usuarios antes de ser valorados por urgenciólogos del Hospital de General Universitario de Elda. Método: Estudio de intervención no aleatorio, realizado en febrero de 2012 y febrero de 2013, tras la instauración del programa ASIGNA. Se determina como variable principal, el tiempo entre el triaje y la valoración por el urgenciólogo, cuantitativamente en minutos y de forma cualitativa mediante el cumplimiento o no de los tiempos determinados para cada color del triaje Manchester. Las variables secundarias fueron: sexo, edad, color de triaje y la cola o densidad de pacientes. Se utiliza el análisis multivariante de regresión lineal múltiple (tiempo triaje -valoración médica en minutos) y regresión logística (tiempo correcto). Se calculan los indicadores de relevancia clínica. Resultados: ASIGNA aumenta el porcentaje de triaje realizado correctamente del 68,2al 90,6% (p &lt; 0,001), reduce el tiempo triaje -valoración médica de 63,6 min a 25,2min (p &lt; 0,001) y reduce la cola de pacientes de 23,8 a 18,0 (..) (AU)</dc:description>
+<dc:source>Emergencias (Sant Vicenç dels Horts);26(3): 188-194, jun. 2014. ilus, tab</dc:source>
+<dc:identifier>ibc-124398</dc:identifier>
+<dc:title xml:lang="es">Impacto de la implantación del programa ASIGNA en un servicio de urgencias hospitalario</dc:title>
+<dc:subject>^d4707^s22049</dc:subject>
+<dc:subject>^d32094^s22049</dc:subject>
+<dc:subject>^d28838^s22049</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4713^s22083</dc:subject>
+<dc:subject>^d55032^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201406</dc:date>
+</metadata>
+</record>
+</ibecs-document>

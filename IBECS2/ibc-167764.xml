@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-167764</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The maximum likelihood alignment approach to testing for approximate measurement invariance: A paradigmatic cross-cultural application</dc:title>
+<dc:description xml:lang="en">Background: The impracticality of using the confirmatory factor analytic (CFA) approach in testing measurement invariance across many groups is now well known. A concertedeffort to addressing these encumbrances over the last decade has resulted in a new generation of alternative methodological procedures that allow for approximate, rather than exact measurement invariance across groups. The purpose of this article is twofold: (a) to describe and illustrate common difficulties encountered when tests for multigroup invariance are based on traditional CFA procedures and the number of groups is large, and (b) to walk readers through the maximum likelihood (ML) alignment approach in testing for approximate measurement invariance. Methods: Data for this example application derive from an earlier study of family functioning across 30 cultures that include responses to the Family Values Scale for 5,482 university students drawn from 27 of these30 countries. Analyses were based on the Mplus 7.4 program. Results: Whereas CFA tests for invariance revealed 108 misspecified parameters that precluded tests for latent mean differences, noninvariant results were well within the acceptable range for the alignment approach thereby substantiating the trustworthiness of the latent mean estimates and their comparison across groups. Conclusion: The alignment approach in testing for approximate measurement invariance provides an automated procedure that can overcome important limitations of traditional CFA procedures in large-scale comparisons (AU)</dc:description>
+<dc:creator>Byrne, Barbara M</dc:creator>
+<dc:creator>Van de Vijver, Fons JR</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Antecedentes: la imposibilidad de utilizar el análisis factorial confirmatorio (AFC) para evaluar la invarianza de medida para muchos grupos es bien conocida. El objetivo de este artículo es doble: (a) describir e ilustrar las dificultades que se encuentran cuando las pruebas para evaluar la invarianción multigrupo se basan en los procedimientos tradicionales de AFC y el número de grupos es grande, y (b) mostrar a los lectores el método de alineamiento de máxima verosimilitud para evaluar la invarianza de medida aproximada. Método: los datos provienen de un estudio intercultural previo sobre funcionamiento familiar que incluye 30 culturas. Se aplicó la Escala de Valores Familiares a 5.482 estudiantes universitarios de 27 de estos 30 países. Los análisis se realizaron con el programa Mplus 7.4. Resultados: los métodos basados en el AFC generaron 108 parámetros mal especificados, lo cual hace inviable la comparación de las diferencias de medias latentes. Con el método de alineamiento se obtuvieron resultados de invarianza dentro de un rango acceptable, lo cual da solidez a las estimaciones de las medias latentes y su comparación a través de los grupos. Conclusion: el método de alineamiento para la evaluación de la invarianza de medida aproximada proporciona un procedimiento automatizado que puede superar las importantes limitaciones de los métodos tradicionales basados en el AFC  (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);29(4): 539-551, nov. 2017. graf, tab</dc:source>
+<dc:identifier>ibc-167764</dc:identifier>
+<dc:title xml:lang="es">El enfoque de alineamiento de máxima verosimilitud para evaluar de forma aproximada la invarianza de medida: una aplicación intercultural paradigmática</dc:title>
+<dc:subject>^d28437</dc:subject>
+<dc:subject>^d28624</dc:subject>
+<dc:subject>^d24768</dc:subject>
+<dc:subject>^d24568</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:subject>^d38408^s22083</dc:subject>
+<dc:subject>^d9101^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201711</dc:date>
+</metadata>
+</record>
+</ibecs-document>

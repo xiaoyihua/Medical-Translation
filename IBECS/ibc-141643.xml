@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-141643</identifier>
+<setSpec>1130-0108</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Validation of the Glasgow-Blatchford Scoring System to predict mortality in patients with upper gastrointestinal bleeding in a hospital of Lima, Peru (June 2012-December 2013)</dc:title>
+<dc:description xml:lang="en">Background and aim: Upper gastrointestinal bleeding is a major cause of hospitalization and the most prevalent emergency worldwide, with a mortality rate of up to 14%. In Peru, there have not been any studies on the use of the Glasgow-Blatchford Scoring System to predict mortality in upper gastrointestinal bleeding. The aim of this study is to perform an external validation of the Glasgow-Blatchford Scoring System and to establish the best cutoff for predicting mortality in upper gastrointestinal bleeding in a hospital of Lima, Peru. Methods: This was a longitudinal, retrospective, analytical validation study, with data from patients with a clinical and endoscopic diagnosis of upper gastrointestinal bleeding treated at the Gastrointestinal Hemorrhage Unit of the Hospital Nacional Edgardo Rebagliati Martins between June 2012 and December 2013. We calculated the area under the curve for the receiver operating characteristic of the Glasgow-Blatchford Scoring System to predict mortality with a 95% confidence interval. Results: A total of 339 records were analyzed. 57.5% were male and the mean age (standard deviation) was 67.0 (15.7) years. The median of the Glasgow-Blatchford Scoring System obtained in  the population was 12. The ROC analysis for death gave an area under the curve of 0.59 (95% CI 0.5-0.7). Stratifying by type of upper gastrointestinal bleeding resulted in an area under the curve of 0.66 (95% CI 0.53-0.78) for non-variceal type. Conclusions: In this population, the Glasgow-Blatchford Scoring System has no diagnostic validity for predicting mortality (AU)</dc:description>
+<dc:creator>Cassana, Alessandra</dc:creator>
+<dc:creator>Chacaltana, Alfonso</dc:creator>
+<dc:creator>Scialom, Silvia</dc:creator>
+<dc:creator>Segura, Eddy R</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Antecedentes y propósito del estudio: la hemorragia digestiva alta es una causa importante de ingreso hospitalario y constituye la principal emergencia gastroenterológica, con una tasa de mortalidad de hasta el 14%. En el Perú no existen estudios sobre el uso de la escala de Glasgow-Blatchford para predecir mortalidad por hemorragia digestiva alta. El objetivo de este estudio es realizar la validación externa de la escala de Glasgow-Blatchford y establecer su mejor punto de corte para predecir mortalidad por hemorragia digestiva alta en un hospital de Lima, Perú. Métodos: estudio de validación diagnóstica, analítico, longitudinal, de tipo retrospectivo, con datos de pacientes con diagnóstico clínico y endoscópico de hemorragia digestiva alta atendidos en la Unidad de Hemorragia Digestiva del Hospital Nacional Edgardo Rebagliati Martins, entre junio de 2012 y diciembre de 2013. Calculamos el área bajo la curva ROC (receiver operating characteristic) de la escala de Glasgow-Blatchford para predecir mortalidad, con un intervalo de confianza al 95%. Resultados: un total de 339 registros fueron analizados. El 57,5% fueron varones y la edad media (desviación estándar) fue de 67,0 (15,7) años. La mediana de la escala de Glasgow-Blatchford obtenida en la población fue de 12. El análisis ROC para mortalidad dio un área bajo la curva de 0,59 (IC95% 0,5-0,7). Se estratificó por tipo de hemorragia digestiva alta, obteniendo un área bajo la curva de 0,66 (IC95% 0,53-0,78) para el tipo no variceal. Conclusiones: en la población estudiada, la escala de Glasgow-Blatchford no posee una validez diagnóstica adecuada para predecir mortalidad (AU)</dc:description>
+<dc:source>Rev Esp Enferm Dig;107(8): 476-482, ago. 2015. tab, ilus</dc:source>
+<dc:identifier>ibc-141643</dc:identifier>
+<dc:title xml:lang="es">Estudio de validación diagnóstica de la escala de Glasgow-Blatchford para la predicción de mortalidad en pacientes con hemorragia digestiva alta en un hospital de Lima, Perú (junio 2012-diciembre 2013)</dc:title>
+<dc:subject>^d6623^s22012</dc:subject>
+<dc:subject>^d6623^s22044</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d35402^s22048</dc:subject>
+<dc:subject>^d6623^s22062</dc:subject>
+<dc:subject>^d6623^s22053</dc:subject>
+<dc:subject>^d37754^s22005</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d8281^s22053</dc:subject>
+<dc:subject>^d8281^s22044</dc:subject>
+<dc:subject>^d37754^s22044</dc:subject>
+<dc:subject>^d35256</dc:subject>
+<dc:subject>^d37754^s22042</dc:subject>
+<dc:subject>^d35402^s22074</dc:subject>
+<dc:subject>^d37754^s22063</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201510</dc:date>
+</metadata>
+</record>
+</ibecs-document>

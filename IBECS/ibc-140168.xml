@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-140168</identifier>
+<setSpec>1575-0922</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Predictors of mean blood glucose control and its variability in diabetic hospitalized patients</dc:title>
+<dc:description xml:lang="en">Introduction: This study was intended to assess the effectiveness and predictors factors of inpatient blood glucose control in diabetic patients admitted to medical departments. Material and methods: A retrospective, analytical cohort study was conducted on patients discharged from internal medicine with a diagnosis related to diabetes. Variables collected included demographic characteristics, clinical data and laboratory parameters related to blood glucose control (HbA1c, basal plasma glucose, point-of-care capillary glucose). The cumulative probability of receiving scheduled insulin regimens was evaluated using Kaplan-Meier analysis. Multivariate regression models were used to select predictors of mean inpatient glucose (MHG) and glucose variability (standard deviation [GV]). Results: The study sample consisted of 228 patients (mean age 78.4 (SD 10.1) years, 51% women). Of these, 96 patients (42.1%) were treated with sliding-scale regular insulin only. Median time to start of scheduled insulin therapy was 4 (95% CI, 2-6) days. Blood glucose control measures were: MIG 181.4 (SD 41.7) mg/dL, GV 56.3 (SD 22.6). The best model to predict MIG (R2: .376; P &lt; .0001) included HbA1c (b = 4.96; P = .011), baseline plasma glucose (b = .056; P = .084), mean capillary blood glucose in the first 24 hours (b = .154;P &lt; .0001), home treatment (versus oral agents) with basal insulin only (b = 13.1; P = .016) or more complex (pre-mixed insulin or basal-bolus) regimens (b = 19.1; P = .004), corticoid therapy (b = 14.9;P = .002), and fasting on admission (b = 10.4; P = .098). Conclusion: Predictors of inpatient blood glucose control which should be considered in the design of DM management protocols include home treatment, HbA1c, basal plasma glucose, mean blood glucose in the first 24 hours, fasting, and corticoid therapy (AU)</dc:description>
+<dc:creator>Sierra-Bergua, Beatriz</dc:creator>
+<dc:creator>Pérez-Calvo, Juan Ignacio</dc:creator>
+<dc:creator>Sáenz-Abad, Daniel</dc:creator>
+<dc:creator>Gimeno-Orna, José Antonio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: Nuestros objetivos fueron evaluar el control glucémico intrahospitalario de pacientes con diabetes mellitus (DM) y determinar sus factores predictores. Material y métodos: Estudio de cohortes retrospectivo analítico con inclusión de pacientes dados de alta de medicina interna con un diagnóstico relacionado con la DM. Se recogieron variables clínicas (demográficas y relacionadas con el manejo intrahospitalario del paciente) y analíticas relacionadas con el control glucémico (HbA1c, glucemia plasmática inicial, glucemias capilares durante el ingreso). Se evaluó la probabilidad de recibir insulina programada mediante curvas de Kaplan Meier y los factores predictores de la glucemia media (GM) y de su variabilidad (desviación estándar [VG]) mediante regresión múltiple. Resultados: Se incluyeron 228 pacientes (edad media 78,4 [DE 10,1] años, 51% mujeres); 96 (42,1%) recibieron solo pauta correctora. La mediana del tiempo hasta el inicio de insulina programada fue 4 días (IC 95%: 2-6). Las medidas de control fueron: GM 181,4 (DE 41,7) mg/dl, VG 56,3 (DE 22,6) mg/dl. El mejor modelo predictor de la GM (R2: 0,376; p &lt; 0,0001) incluyó HbA1c (b = 4,96; p = 0,011), glucemia plasmática inicial (b = 0,056; p = 0,084), glucemia media de las primeras 24 h (b = 0,154; p &lt; 0,0001), tratamiento domiciliario (versus antidiabéticos orales) con insulina basal (b = 13,1; p = 0,016) o mezclas o basal-bolo (b = 19,1; p = 0,004), tratamiento con corticoides (b = 14,9; p = 0,002) y ayuno al ingreso (b = 10,4; p = 0,098). Conclusión: Los determinantes del control glucémico intrahospitalario, que deberían considerarse en protocolos de actuación, son el tratamiento previo, la HbA1c, la glucemia inicial y media de las primeras 24 h de ingreso, el ayuno y la utilización de corticoides (AU)</dc:description>
+<dc:source>Endocrinol Nutr;62(6): 257-263, jun.-jul. 2015. tab, ilus</dc:source>
+<dc:identifier>ibc-140168</dc:identifier>
+<dc:title xml:lang="es">Factores predictores del control glucémico promedio y de su variabilidad en pacientes diabéticos ingresados en el hospital</dc:title>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d7124^s22054</dc:subject>
+<dc:subject>^d3942^s22053</dc:subject>
+<dc:subject>^d1812^s22002</dc:subject>
+<dc:subject>^d7124^s22016</dc:subject>
+<dc:subject>^d7500^s22073</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3942^s22054</dc:subject>
+<dc:subject>^d7124^s22053</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d7124^s22062</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201507</dc:date>
+</metadata>
+</record>
+</ibecs-document>

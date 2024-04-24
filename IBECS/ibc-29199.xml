@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-29199</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Ionic currents and ventricular fibrillation dynamics</dc:title>
+<dc:creator>Warren, Mark</dc:creator>
+<dc:creator>Jalife, José</dc:creator>
+<dc:creator>Moreno, Javier</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">La fibrilación ventricular es la causa principal de muerte súbita cardíaca. A diferencia de otras arritmias, en general se ha considerado farmacológicamente inabordable, dado que parece una sucesión de innumerables frentes eléctricos descoordinados que circulan de manera caótica desde su inicio. Durante varias décadas, su prevención se centró básicamente en la supresión de las extrasístoles ventriculares que pudieran precipitarla. Este enfoque terapéutico se tradujo en pésimos resultados clínicos. En la última década, gracias a los conceptos de la teoría de propagación de ondas en medios no lineales, la visión global de la fibrilación ventricular ha cambiado de manera radical. Se ha demostrado que la fibrilación está mediada por reentradas funcionales con forma helicoidal que rotan siguiendo una dinámica determinada por su pivote organizativo o rotor. Estos rotores se comportarían como el centro que genera los múltiples frentes de activación eléctricos. Los rotores, a su vez, están condicionados por las propiedades electrofisiológicas del miocardio, determinadas por la dinámica de las diferentes corrientes iónicas. Así, recientemente se han publicado numerosos trabajos experimentales y de simulación sobre el papel que desempeña cada corriente en la dinámica de los rotores y se han analizado los efectos de su bloqueo mediante antiarrítmicos. Esta revisión detalla los hallazgos de los principales trabajos publicados, así como los análisis teóricos que describen sus autores. De estos trabajos se desprenden nuevos enfoques terapéuticos farmacológicos que buscarían evitar no ya el latido desencadenante, sino el propio mantenimiento de la fibrilación (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;57(1): 69-79, ene. 2004.</dc:source>
+<dc:identifier>ibc-29199</dc:identifier>
+<dc:title xml:lang="es">Corrientes iónicas y dinámica de la fibrilación ventricular</dc:title>
+<dc:subject>^d7641</dc:subject>
+<dc:subject>^d7645</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9145</dc:subject>
+<dc:subject>^d15100</dc:subject>
+<dc:subject>^d902</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200401</dc:date>
+</metadata>
+</record>
+</ibecs-document>

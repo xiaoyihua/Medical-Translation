@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-114159</identifier>
+<setSpec>0004-0614</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Preoperative predictive model for biochemical recurrence in patients with localized prostate cancer treated with radical prostatectomy</dc:title>
+<dc:description xml:lang="en">OBJECTIVES: To identify pre-prostatectomy clinical prognostic factors for biochemical recurrence (BR) and to create a predictive model for BR based on predictive clinical variables prior to radical prostatectomy (RP). METHODS: a retrospective case-records study of patients with clinically localized prostate cancer treated with RP as monotherapy pN0-pNx and monitored at least for 12 months between 1996 and 2007. We considered BR the PSA persistence or elevation after RP greater than 0.4 ng/ml. The clinical variables analyzed were PSA, clinical stage and Gleason score from the biopsy (GS). Univariate and multivariate analysis were carried out using the chi squared test and logistic regression to determine the variables associated with BR. In order to estimate BR based on the variables identified we developed a mathematical model and designed an Excel spreadsheet to apply it. Calibration and discrimination were performed using the Hosmer-Lemeshow test and an ROC curve determining the area under the curve. RESULTS: We included 627 patients. The mean age was 64 years with a mean follow-up of 87 months. The mean PSA was 8 ng/ml. 68.6% of patients had a PSA &amp;#8804; 10 ng/ml, 53,1% had a GS &amp;#8804; 6 and 61,7% had a clinical stage of cT1a-c. BR was observed in 204 (32,5%) patients, 39 due to biochemical persistence. The mean time to BR was 28 months with 89,7% of instances occurring in the first 8 years. On the multivariate analysis, PSA and GS were independent predictors of BR (p=0.001), while the cT2c stage had a tendency towards statistical significance (p=0.06). The three variables were included in the equation for the model with different specific weight. Specificity was 93.6%, sensitivity was 36.8% and an overall precision of 75.1%. The model had a predictive capacity of 73% and a p-value &lt; 0.001. CONCLUSIONS: PSA and GS are independent prognostic clinical variables associated with BR-free survival. The predictive model developed allows the risk of BR to be estimated with 73% reliability (AU)</dc:description>
+<dc:creator>Hernández Fernández, Carlos</dc:creator>
+<dc:creator>Herranz Amo, Felipe</dc:creator>
+<dc:creator>Páez Borda, Álvaro</dc:creator>
+<dc:creator>Molina Escudero, Roberto</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">OBJETIVOS: Identificar los factores clínicos pre-prostatectomía pronósticos de recidiva bioquímica (RB) y elaborar un modelo predictivo para la RB basándose en variables predictivas clínicas previas a la prostatectomia radical (PR). MÉTODOS: Analizamos retrospectivamente los pacientes con cáncer de próstata clínicamente localizado tratados con PR en monoterapia pN0-pNx, con un seguimiento mínimo de 12 meses entre 1996 y 2007. Consideramos como RB la persistencia o elevación del PSA después de la PR &gt; 0,4 ng/ml en ascenso en la siguiente determinación. Las variables clínicas analizadas fueron PSA, estadio clínico y score Gleason de la biopsia (SGB). Realizamos un análisis uni y multivariante mediante regresión logística para determinar las variables asociadas con la RB. Desarrollamos un modelo matemático para estimar la RB en base a las variables identificadas según la ecuación de función logística y diseñamos una hoja de cálculo en Excel para su aplicación. La calibración y discriminación se realizaron mediante la prueba de Hosmer-Lemeshow y una curva ROC determinando el área bajo la misma. RESULTADOS: Incluimos 627 pacientes. La mediana de edad fue de 64 años con una mediana de seguimiento de 87 meses. La mediana de PSA fue 8 ng/ml. El 68,6% de los pacientes tenía un PSA &amp;#8804; 10 ng/ml, el 53,1% un SGB &amp;#8804; 6 y el 61,7% un estadio clínico cT1a-c. En 204(32,5%) pacientes se observó RB, debiéndose en 39 casos a persistencia bioquímica. La mediana de tiempo hasta la RB fue 28 meses, aconteciendo el 89,7% en los 8 primeros años. En el análisis multivariante el PSA y el SGB resultaron factores predictores independientes de RB (p=0,001), mientras que el estadio cT2c presentó tendencia a la significación estadística (p=0,06). Las tres variables fueron incluidas en la ecuación del modelo. La especificidad fue del 93,6%, la sensibilidad del 36,8% y una exactitud global del 75,1%. El modelo presentó una capacidad predictiva del 73% y una p&lt; 0,001. CONCLUSIONES: El PSA y el SGB son las variables clínicas pronosticas independientes relacionadas con la supervivencia libre de RB. El modelo predictivo desarrollado permite estimar con una fiabilidad del 73% el riesgo de RB (AU)</dc:description>
+<dc:source>Arch Esp Urol;66(6): 567-575, jul.-ago. 2013. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-114159</dc:identifier>
+<dc:title xml:lang="es">Modelo predictivo preoperatorio para la recidiva bioquímica en pacientes con cáncer de próstata localizado tratados con prostatectomía radical en monoterapia</dc:title>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d53702</dc:subject>
+<dc:subject>^d28614</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d11911^s22074</dc:subject>
+<dc:subject>^d11911^s22045</dc:subject>
+<dc:subject>^d11911^s22066</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d11914^s22009</dc:subject>
+<dc:subject>^d11914^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201308</dc:date>
+</metadata>
+</record>
+</ibecs-document>

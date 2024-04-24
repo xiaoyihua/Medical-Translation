@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-3344</identifier>
+<setSpec>0213-4853</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">"Five by five test". A brief instrument for the detection of cognitive impediment in clinical settings</dc:title>
+<dc:creator>Lamet Gil, I. C</dc:creator>
+<dc:creator>Ferrero Arias, J</dc:creator>
+<dc:creator>Sánchez Saudinós, M. B</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Grupo Ars XXI de Comunicación, S.A.</dc:publisher>
+<dc:description xml:lang="es">FUNDAMENTO Y OBJETIVO: Muchos tests psicológicos para la detección de impedimento cognitivo y demencia son inadecuados por ser demasiado largos, inconsistentes o de baja especificidad o sensibilidad. Se presenta un test breve de evocación de nombres propios por clases (TIG) y se comparan sus propiedades psicométricas y utilidad con el Miniexamen Mental (MEM). SUJETOS Y MÉTODOS: Se seleccionó a 196 pacientes que acudieron a una consulta de neurología hospitalaria con quejas indicativas de deterioro mnesicocognitivo y en los que se descartaron afecciones cerebrales focales o crónicas, trastornos sensoriales, alteraciones psiquiátricas graves y toxicidad por fármacos o drogas. Se agrupó a los pacientes por estadio de la escala Clinical Dementia Rating y se les evaluó neuropsicológicamente. Se examinó la consistencia interna del TIG y se efectuó una validación cruzada para probar la validez predictiva. Asimismo, se probó la validez convergente con la escala de demencias de Blessed y el MEM. Por último, se analizó la eficiencia diagnóstica de ambas pruebas, los efectos de las variables demográficas y la utilidad clínica. Se utilizaron pruebas estadísticas no paramétricas, análisis de sensibilidad sobre curvas de características operativas para el receptor (ROC) y análisis de las probabilidades postest. RESULTADOS: El TIG tiene una consistencia interna y una validez adecuada. Se evaluó la eficiencia diagnóstica (área bajo la curva ROC 0,939 [intervalo de confianza (IC) del 95 por ciento: 0,908-0,971]; p &lt; 0,0001).La introducción de las covariables demográficas en un modelo logístico mejoró discretamente la eficiencia diagnóstica. El TIG tiene un desempeño algo mejor que el MEM. Ni el MEM ni el TIG son pruebas idóneas para el cribado de defecto cognitivo en poblaciones. CONCLUSIONES: El TIG es más breve, fácil de aplicar y eficiente que el MEM. Posiblemente, es útil para detectar defectos mnesicocognitivos en contextos clínicos, aunque este estudio es preliminar (AU)</dc:description>
+<dc:source>Neurologia;16(6): 254-261, jun. 2001.</dc:source>
+<dc:identifier>ibc-3344</dc:identifier>
+<dc:title xml:lang="es">El test "cinco por cinco". Un instrumento breve para la detección de impedimento cognitivo en contextos clínicos</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d28614</dc:subject>
+<dc:subject>^d3103</dc:subject>
+<dc:subject>^d33119</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d3718</dc:subject>
+<dc:subject>^d1800</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d9673</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200106</dc:date>
+</metadata>
+</record>
+</ibecs-document>

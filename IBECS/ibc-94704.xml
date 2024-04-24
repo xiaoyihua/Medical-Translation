@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-94704</identifier>
+<setSpec>0213-4853</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Thalamic metabolism and neurological outcome after traumatic brain injury. A voxel-based morphometric FDG-PET study</dc:title>
+<dc:description xml:lang="en">Objective: To study the relationship between thalamic metabolism and neurological outcome in patients who had sustained a traumatic brain injury (TBI). Methods: Nineteen patients who had sustained a severe TBI and ten control subjects were included in this study. Six of the 19 patients had a low level of consciousness (vegetative state or minimally conscious state), while thirteen showed normal consciousness. All patients underwent a PET with 18F-FDG, 459.4 ± 470.9 days after the TBI. The FDG-PET images were normalized in intensity, with a metabolic template being created from data derived from all subjects. The thalamic trace was generated automatically with a mask of the region of interest in order to evaluate its metabolism. A comparison between the two groups was carried out by a two sample voxel-based T-test, under the General Linear Model (GLM) framework. Results: Patients with low consciousness had lower thalamic metabolism (MNI-Talairach coordinates: 12, -24, 18; T = 4.1) than patients with adequate awareness (14, -28, 6; T = 5.5). Control subjects showed the greatest thalamic metabolism compared to both patients groups. These differences in metabolism were more pronounced in the internal regions of the thalamus. Conclusions: The applied method may be a useful ancillary tool to assess neurological outcomes after a TBI, since it permits an objective quantitative assessment of metabolic function for groups of subjects. Our results confirm the vulnerability of the thalamus to suffering the effects of the acceleration-deceleration forces generated during a TBI. It is hypothesized that patients with low thalamic metabolism represent a subset of subjects highly vulnerable to neurological and functional disability after TBI (AU)</dc:description>
+<dc:creator>Cueva, L de la</dc:creator>
+<dc:creator>García Panach, J</dc:creator>
+<dc:creator>García Martí, G</dc:creator>
+<dc:creator>Lull, N</dc:creator>
+<dc:creator>Lull,, J</dc:creator>
+<dc:creator>Noé, E</dc:creator>
+<dc:creator>Ferri, J</dc:creator>
+<dc:creator>Sopena, R</dc:creator>
+<dc:creator>Chirivella, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Estudiar la relación entre el metabolismo talámico y la situación neurológica en pacientes que han sufrido un traumatismo craneoencefálico (TCE). Material y métodos: Se incluyó a 19 pacientes que habían sufrido un TCE grave y 10 sujetos control. De los 19 pacientes, 6 presentaban un grado de alerta bajo (estado vegetativo o estado de mínima conciencia), mientras que 13 mostraban un grado de alerta normal. A todos los pacientes se les realizó una tomografía con emisión de positrones (PET) con 18-fluorodesoxiglucosa (18F-FDG) 459,4 ± 470,9 días después del TCE. Las imágenes de PET-FDG se normalizaron en intensidad, creándose posteriormente una plantilla metabólica del grupo entre todos los sujetos. El trazado talámico se generó automáticamente con una máscara de la región de interés. Se comparó el metabolismo talámico de los dos grupos de pacientes respecto al grupo control, para ello se utilizó un método de análisis basado en vóxel, con significación estadística, p &lt; 0,05 corregido para múltiples comparaciones. Resultados: Los pacientes con grado de alerta bajo mostraron menor metabolismo talámico (coordenadas MNI-Talairach, 12, -24, 18; T = 4,1), con respecto a los sujetos control, que los pacientes con grado de alerta adecuado (14, -28, 6; T = 5,5). Estas diferencias en el metabolismo fueron más acentuadas en las regiones internas del tálamo. Conclusiones: La PET-FDG puede ser una herramienta útil para valorar la situación neurológica después de un TCE. El método utilizado permite una evaluación objetiva y cuantitativa de imágenes de PET-FDG para grupos de sujetos. Nuestros resultados confirman la vulnerabilidad del tálamo a sufrir los efectos de las fuerzas de aceleración-desaceleración generadas durante un TCE (AU)</dc:description>
+<dc:source>Neurologia;25(3): 174-180, abr. 2010. ilus</dc:source>
+<dc:identifier>ibc-94704</dc:identifier>
+<dc:title xml:lang="es">Metabolismo talámico y situación neurológica tras un traumatismo craneoencefálico. Estudio mediante PET-FDG y morfometría basada en vóxel</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d14167^s22044</dc:subject>
+<dc:subject>^d6410^s22012</dc:subject>
+<dc:subject>^d2527^s22080</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3263^s22011</dc:subject>
+<dc:subject>^d38793^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201004</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-11878</identifier>
+<setSpec>0009-739X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prognostic factors for mortality in left colonic peritonitis: a new scoring system</dc:title>
+<dc:creator>Ruiz, David</dc:creator>
+<dc:creator>Biondo, Sebastián</dc:creator>
+<dc:creator>Deiros, Manuel</dc:creator>
+<dc:creator>Jaurrieta, Eduardo</dc:creator>
+<dc:creator>Oca, Javier de</dc:creator>
+<dc:creator>Parés, David</dc:creator>
+<dc:creator>Martí Ragué, Juan</dc:creator>
+<dc:creator>Ramos, Emilio</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Introducción. Las perforaciones de colon afectan a un heterogéneo grupo de pacientes, frecuentemente ancianos, y se suelen presentar como una urgencia abdominal con una elevada morbimortalidad. Los objetivos de este estudio fueron analizar el valor pronóstico de factores específicos en pacientes con peritonitis de colon izquierdo y evaluar la utilidad de un método de puntuación que permita definir los grupos de pacientes con diferentes riesgos de mortalidad. Diseño del estudio. Entre enero de 1994 y diciembre de 1999, 156 pacientes (77 varones y 79 mujeres), con una edad media de 63,2 años (ñ 15 años) (rango, 22-87 años), fueron sometidos a una intervención urgente por una perforación de colon distal. La resección y la anastomosis primaria de colon (RAP) fue la intervención de elección realizada en 69 pacientes (47,4 por ciento), la colectomía subtotal lo fue en nueve y la colostomía se efectuó en 4 pacientes. Analizamos una serie de variables específicas relacionadas con la mortalidad, como el sexo, la edad, ASA (American Society of Anesthesiologists score), el estado de inmunodepresión, la etiología y el grado de peritonitis, el fracaso multiorgánico preoperatorio (FMO), el tiempo (en horas) entre el ingreso y la intervención quirúrgica y la temperatura corporal. La relación univariante entre los factores pronósticos y los resultados (fallecimiento) fue analizada usando la regresión logística. Los análisis de regresión logística multivariante fueron utilizados para estimar el valor pronóstico de la combinación de las variables. Los factores significativos identificados en regresión logística univariante y multivariante se emplearon para definir el sistema de Puntuación de Severidad de Peritonitis en colon izquierdo (PSS). Los factores que fueron significativos solamente en un análisis univariante, puntuaron 2 puntos si estaban presentes y 1 si no lo estaban. Las variables significativas en los análisis multivariantes fueron puntuadas de 1 a 3 puntos. Los pacientes fueron aleatorizados en 2 grupos, uno en el que se calculaba el sistema de puntuación y otro en el que se validó. Resultados. La tasa de mortalidad postoperatoria global fue del 22,4 por ciento. La mortalidad debida a sepsis se produjo en 24 pacientes (15,4 por ciento). La edad, el grado de peritonitis, la puntuación ASA, el estado de inmunodepresión y la colitis isquémica fueron significativos para la mortalidad postoperatoria en los análisis univariantes, pero sólo la puntuación ASA y el FMO estaban asociados significativamente con la mortalidad postoperatoria en el análisis de regresión logística multivariante. La PSS, definida en este estudio, fue descrita por los resultados de los pacientes. La tasa de mortalidad creció desde el 0 por ciento cuando la PSS era de 6 puntos (puntuación mínima de 5) al 100 por ciento en pacientes con PSS de 13 puntos (puntuación máxima de 14).Conclusiones. La peritonitis de colon izquierdo continúa presentando una alta mortalidad en pacientes con complicaciones sépticas. La puntuación ASA y el FMO son los únicos factores que se asocian de manera significativa con la mortalidad en el análisis multivariante. La clasificación PSS puede ayudar a definir uniformemente el riesgo de mortalidad de los pacientes con peritonitis de colon distal y podría permitir realizar comparaciones entre estudios llevados a cabo en diferentes centros (AU)</dc:description>
+<dc:source>Cir. Esp. (Ed. impr.);71(5): 232-238, mayo 2002. tab, ilus</dc:source>
+<dc:identifier>ibc-11878</dc:identifier>
+<dc:title xml:lang="es">Factores pronósticos de mortalidad en la peritonitis de colon izquierdo. Un nuevo sistema de puntuación</dc:title>
+<dc:subject>^d10728^s22047</dc:subject>
+<dc:subject>^d24339^s22045</dc:subject>
+<dc:subject>^d50495^s22012</dc:subject>
+<dc:subject>^d6711^s22012</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d23962^s22073</dc:subject>
+<dc:subject>^d30780^s22012</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d6711^s22016</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d30780^s22016</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d3138^s22053</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d50495^s22016</dc:subject>
+<dc:subject>^d23206^s22045</dc:subject>
+<dc:subject>^d10728^s22012</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d10728^s22016</dc:subject>
+<dc:subject>^d23962^s22000</dc:subject>
+<dc:subject>^d5683^s22012</dc:subject>
+<dc:subject>^d12552^s22012</dc:subject>
+<dc:subject>^d4301^s22012</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d5683^s22016</dc:subject>
+<dc:subject>^d12552^s22016</dc:subject>
+<dc:subject>^d5^s22053</dc:subject>
+<dc:subject>^d4301^s22016</dc:subject>
+<dc:subject>^d5^s22058</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200205</dc:date>
+</metadata>
+</record>
+</ibecs-document>

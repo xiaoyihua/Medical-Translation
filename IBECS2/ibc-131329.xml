@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-131329</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cost-effectiveness analysis of aflibercept in combination with FOLFIRI in the treatment of patients with metastatic colorectal cancer</dc:title>
+<dc:description xml:lang="en">Objectives: To estimate the incremental cost per life-year gained (LYG) of aflibercept in combination with FOLFIRI as second-line treatment inmetastatic colorectal cancer (mCRC) patients previously treated with oxaliplatin. Methods: Based on clinical trial VELOUR results, a three-state Markovmodel (stable disease, progression and death) with 2-week cycle duration was designed. Transition to health state «progression» implied the interruption of second-line treatment and administration of a third-line treatment(post-second line chemotherapy). Cost estimation included disease management cost (pharmaceutical, adverse event management, administration costs, etc.). Both cost and outcomes were discounted (3% annually).Sensitivity analyses (SA) were performed to test model robustness. Results: Administration of aflibercept + FOLFIRI as second-line treatment provided 1.78 LYG (21 life-months gained). With FOLFIRI 1.43 LYG (17months) were obtained. The cost of the clinical management of aflibercept+ FOLFIRI implied an additional investment of &#128; 13,564 compared with FOLFIRI for a lifetime horizon, being total costs for aflibercept + FOLFIRI of&#128; 38,346, compared to &#128; 24,782 with FOLFIRI. In the cost-effectiveness analysis &#128; 38,931/LYG was obtained with aflibercept in combination with FOLFIRI versus FOLFIRI. Conclusion: Aflibercept in combination with FOLFIRI increased overall survival versus FOLFIRI, so it is an effective strategy in the treatment of patients with mCRC. Aflibercept in combination with FOLFIRI is an efficient strategy for second-line mCRC treatment from the National Health System perspective (AU)</dc:description>
+<dc:creator>Echave, M</dc:creator>
+<dc:creator>Giménez, E</dc:creator>
+<dc:creator>Pericay, C</dc:creator>
+<dc:creator>Oyagüez, I</dc:creator>
+<dc:creator>Naoshy, S</dc:creator>
+<dc:creator>Joulain, F</dc:creator>
+<dc:creator>Rubio, M</dc:creator>
+<dc:creator>Frías, C</dc:creator>
+<dc:creator>Abad, A</dc:creator>
+<dc:creator>Lamas, M. J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Estimar el coste incremental por año de vida ganado (AVG) dela utilización de aflibercept en combinación con FOLFIRI como tratamiento de 2ª línea en pacientes con cáncer color rectal metastásico (CCRm) previamente tratados con oxaliplatino. Material y métodos: Basándose en los resultados del ensayo clínico VELOUR, se utilizó un modelo de Markov con 3 estados de salud (enfermedad estable, progresión y muerte) y ciclos de 2 semanas. La transición al estado de salud «progresión» implicaba interrumpir el tratamiento en 2ªlínea y administrar una 3ª línea de tratamiento. La estimación de costes incluyó costes del manejo de la enfermedad (farmacológicos, acontecimientos adversos, administración, etc.). Costes y resultados en salud fueron descontados al 3% anualmente. Para probar la robustez del modelo se realizaron análisis de sensibilidad determinístico y probabilístico. Resultados: La administración de aflibercept + FOLFIRI como 2ª línea de quimioterapia aporta 1,78 AVG (21 meses de vida ganados). Con FOLFIRI se consiguen 1,43 AVG (17 meses). El coste del manejo clínico de aflibercept + FOLFIRI supone una inversión adicional de 13.564 &#128; frente a FOLFIRI a lo largo de toda la vida del paciente, siendo el coste total de 38.346 &#128; para aflibercept + FOLFIRI y 24.782 &#128; para FOLFIRI. Se obtiene un RCEI (ratio coste efectividad incremental) de 38.931 &#128;/AVG con aflibercept + FOLFIRI frente a FOLFIRI. Conclusión: Aflibercept en combinación con FOLFIRI incrementa la supervivencia global frente a FOLFIRI, lo que supone una estrategia efectiva en el tratamiento de pacientes con CCRm. La relación coste-efectividad incremental de aflibercept en combinación con FOLFIRI supone una estrategia eficiente, coste-efectiva, para el Sistema Nacional de Salud (AU)</dc:description>
+<dc:source>Farm Hosp;38(4): 317-327, jul.-ago. 2014. ilus, tab</dc:source>
+<dc:identifier>ibc-131329</dc:identifier>
+<dc:title xml:lang="es">Análisis coste-efectividad de aflibercept en combinación con FOLFIRI en el tratamiento de pacientes con cáncer colorrectal metastásico</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d9555^s22067</dc:subject>
+<dc:subject>^d974^s22079</dc:subject>
+<dc:subject>^d23947^s22079</dc:subject>
+<dc:subject>^d50303</dc:subject>
+<dc:subject>^d23595^s22057</dc:subject>
+<dc:subject>^d38242^s22006</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201408</dc:date>
+</metadata>
+</record>
+</ibecs-document>

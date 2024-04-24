@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-152219</identifier>
+<setSpec>1578-8423</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Study on the quality of an observation instrument</dc:title>
+<dc:description xml:lang="en">The construction of a good instrument of observation in the field of observational methodology is important in order to validate the hypotheses of the study. The objective of this study is to present a procedure to know the quality of an instrument. Using as reference a design of follow-up, nomotetic, multidimensional, and an instrument of observation (category system) built to record the offensive plays in a football game. The statistical technique of logistic regression, in this case, is used to predict the success/ no success of played offensive, as explained variable, which according to some predictor variables will determine the degree of adaptation of the instrument of observation to the situation to study. Checks are not good predictors of offensive transitions through the Cox - Snell and Nagelkerke R2 (AU)</dc:description>
+<dc:creator>Leiva, David</dc:creator>
+<dc:creator>Losada, José Luis</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La construcción de un buen instrumento de observación en el ámbito de la Metodología Observacional es importante para poder validar las hipótesis del estudio. El objetivo de este trabajo, es presentar un procedimiento para conocer la calidad del instrumento de observación. Se utiliza como referencia un diseño de seguimiento, nomotético, multidimensional, y un sistema de categorías construido para registrar las jugadas ofensivas en el fútbol. La técnica estadística de la regresión logística, en este caso, permite determinar el grado de adecuación del instrumento de observación a la situación a estudiar. Se comprueba que las categorías que lo configuran no son buenas para registrar las transiciones ofensivas utilizando la información de los coeficientes R2 de Cox- Snell y R2 de Nagelkerke (AU)</dc:description>
+<dc:source>Cuad. psicol. deporte;16(1): 43-50, ene. 2016. ilus, graf, tab</dc:source>
+<dc:identifier>ibc-152219</dc:identifier>
+<dc:title xml:lang="es">Estudio sobre la calidad de un instrumento de observación</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d13562</dc:subject>
+<dc:subject>^d50295^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d28575</dc:subject>
+<dc:subject>^d3194</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201601</dc:date>
+</metadata>
+</record>
+</ibecs-document>

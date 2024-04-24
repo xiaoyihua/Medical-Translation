@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-142497</identifier>
+<setSpec>0212-1611</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">A simplified equation for total energy expenditure in mechanically ventilated critically ill patients</dc:title>
+<dc:description xml:lang="en">Introduction: 'tight calorie control' concept arose to avoid over- and under-feeding of patients. Objective: to describe and validate a simplified predictive equation of total energy expenditure (TEE) in mechanically ventilated critically ill patients. Methods: this was a secondary analysis of measurements of TEE by indirect calorimetry in critically ill patients. Patients were allocated in a 2:1 form by a computer package to develop the new predictive equation TEE (prediction cohort) and the validation cohort. Indirect calorimetry was performed with three different calorimeters: the Douglas-bag, a metabolic computer and the Calorimet®. We developed a new TEE predictive equation using measured TEE (in kcal/kg/d) as dependent variable and as independent variables different factors known to influence energy expenditure: age, gender, body mass index (BMI) and type of injury. Results: prediction cohort: 179 patients. Validation cohort: 91 patients. The equation was: TEEPE (kcal/Kg/d) = 33 - (3 x A) - (3 x BMI) - (1 x G). Where: A (age in years): &amp;#8804; 50 = 0; &gt; 50 = 1. BMI (Kg/m2 ): 18.5 &#150; 24.9 = 0; 25 &#150; 29.9 = 1; 30 &#150; 34.9 = 2; 35 &#150; 39.9 = 3. G (gender): male = 0; female = 1. The bias (95% CI) was -0.1 (-1.0 &#150; 0.7) kcal/kg/d and the limits of agreement (± 2SD) were -8.0 to 7.8 kcal/kg/d. Predicted TEE was accurate (within 85% to 115%) in 73.6% of patients. Conclusion: the new predictive equation was acceptable to predict TEE in clinical practice for most mechanically ventilated critically ill patients (AU)</dc:description>
+<dc:creator>Raurich, Joan María</dc:creator>
+<dc:creator>Riera, María</dc:creator>
+<dc:creator>Ferreruela, Mireia</dc:creator>
+<dc:creator>Colomar, Asunción</dc:creator>
+<dc:creator>Marsé, Pere</dc:creator>
+<dc:creator>Ayestarán, Ignacio</dc:creator>
+<dc:creator>Llompart-Pou, Juan Antonio</dc:creator>
+<dc:creator>Homar, Javier</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Introducción: el concepto de 'control calórico estricto' surgió para evitar la excesiva y la deficiente nutrición de los pacientes. Objetivo: describir y validar una ecuación simplificada para el cálculo del gasto energético total (GET) en pacientes críticos con ventilación mecánica. Métodos: análisis secundario de las mediciones de GET por calorimetría indirecta en pacientes críticos. Los pacientes fueron asignados de forma 2:1 por un paquete estadístico; el primer grupo se empleó para desarrollar la nueva ecuación predictiva del GET (grupo predictivo) y el segundo para validarla (grupo validación). La calorimetría indirecta se realizó con tres calorímetros diferentes: la bolsa de Douglas, un computador metabólico y el equipo Calorimet®. Hemos desarrollado la nueva ecuación predictiva del GET utilizando el GET medido (en kcal/kg/d), como variable dependiente, y como variables independientes los diferentes factores que influyen en el gasto energético: edad, género, índice de masa corporal (IMC) y tipo de lesión. Resultados: el grupo de predicción incluyó 179 pacientes y el de validación 91 pacientes. La ecuación predictiva fue: GETEP = 33 - (3 x E) - (3 x IMC) - (1 x G). Donde: E (edad en años): &amp;#8804; 50 = 0; &gt; 50 = 1. IMC (kg / m2): 18,5- 24,9 = 0; 25-29,9 = 1; 30-34,9 = 2; 35-39,9 = 3. G (género): hombre = 0; mujer = 1. El sesgo (IC del 95%) entre el GET medido y el predicho fue de -0,1 (-1,0 a 0,7) kcal/ kg/día y los límites de acuerdo (± 2SD) fueron -8,0 a 7,8 kcal/kg/d. El GET por la ecuación predictiva fue preciso (entre el 85% y el 115%) en el 73,6% de los pacientes. Conclusiones: La nueva ecuación predictiva fue aceptable para predecir el GET de la mayoría de pacientes críticos con ventilación mecánica en la práctica clínica (AU)</dc:description>
+<dc:source>Nutr Hosp;32(3): 1273-1280, sept. 2015. ilus, tab</dc:source>
+<dc:identifier>ibc-142497</dc:identifier>
+<dc:title xml:lang="es">Ecuación simplificada para el cálculo del gasto energético total en pacientes críticos con ventilación mecánica</dc:title>
+<dc:subject>^d19062</dc:subject>
+<dc:subject>^d12541^s22083</dc:subject>
+<dc:subject>^d4813^s22031</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d30170^s22067</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201509</dc:date>
+</metadata>
+</record>
+</ibecs-document>

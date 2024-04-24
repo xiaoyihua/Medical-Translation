@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-105356</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">New technologies applied to the medication-dispensing process, error analysis and contributing factors</dc:title>
+<dc:description xml:lang="en">Objective Calculate error prevalence occurred in different medication-dispensing systems, the stages of occurrence, and contributing factors. Methodology Prospective observational study. The staging of the dispensing process were reviewed in five dispensing systems: Stock, Unitary-Dose dispensing systems (UDDS) without Computerized Prescription Order Entry (CPOE), CPOE-UDDS, Automated Dispensing Systems (ADS) without CPOE and CPOE-ADS. Dispensing errors were identified, together with the stages of occurrence of such errors and their contributing factors.Results2,181 errors were detected among 54,169 opportunities of error. Error-rate: Stock, 10.7%; no-CPOE-UDDS, 3.7%, CPOE-UDDS, 2.2%, no-CPOE-ADS, 20.7%; CPOE-ADS, 2.9%. Most frequent stage when error occurs: Stock, preparation of order; no-CPOE-UDDS and CPOE-UDDS, filling of the unit dose cart; no-CPOE-ADS and CPOE-ADS, filling of the ADS. Most frequent error: Stock, no-CPOE-ADS and CPOE-ADS, omission; CPOE-UDDS, different amount of drug and no-CPOE-UDDS, extra medication. Contributing factor: Stock, CPOE-ADS and no-CPOE-ADS, stock out/supply problems; CPOE-UDDS, inexperienced personnel and deficient communication system between professionals; no-CPOE-UDDS, deficient communication system between professionals. Conclusions Applying new technologies to the dispensing process has increased its safety, particularly, implementation of CPOE has enabled to reduce dispensing errors (AU)</dc:description>
+<dc:creator>Serna Pérez, J</dc:creator>
+<dc:creator>Gómez de Salazar López de Silanes, E</dc:creator>
+<dc:creator>Delgado Silveira, E</dc:creator>
+<dc:creator>Pérez Menéndez-Conde, C</dc:creator>
+<dc:creator>Pintor Recuenco, R</dc:creator>
+<dc:creator>Álvarez Díaz, A. M</dc:creator>
+<dc:creator>Mendoza Jiménez, T</dc:creator>
+<dc:creator>Bermejo Vicedo, T</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo Calcular la prevalencia de los errores producidos en diferentes sistemas de dispensación de medicamentos, las etapas en que se producen y los factores contribuyentes. Métodos Estudio observacional prospectivo. Se revisaron las etapas del proceso de dispensación en 5 sistemas de dispensación: stock o botiquín de planta, sistema de distribución de medicamentos en dosis unitaria (SDMDU) sin prescripción electrónica asistida (PEA), SDMDU con PEA, sistema automatizado de dispensación (SAD) sin PEA y SAD con PEA. Se identificaron los errores de dispensación, las etapas en que ocurrieron dichos errores y sus factores contribuyentes. Resultados De 54.169 oportunidades de error, se detectaron 2.181 errores. Tasa de error: stock, 10,7%; SDMDU sin PEA, 3,7%; SDMDU con PEA, 2,2%; SAD sin PEA, 20,7%; SAD con PEA, 2,9%. Etapa más frecuente en la que se produce el error: stock, preparación del pedido; SDMDU sin PEA y con PEA, llenado del carro; SAD sin PEA y con PEA, llenado del SAD. Error más frecuente: stock, SAD sin PEA y con PEA, omisión; SDMDU con PEA, diferente cantidad de medicamento; SDMDU sin PEA, sobra medicamento. Factor contribuyente: stock, SAD sin PEA y con PEA, rotura de stock/desabastecimiento; SDMDU con PEA, personal sin experiencia y sistema de comunicación deficiente entre profesionales; SDMDU sin PEA, sistema de comunicación deficiente entre profesionales. Conclusiones La aplicación de nuevas tecnologías en el proceso de dispensación ha aumentado su seguridad, concretamente la implantación de la PEA ha permitido disminuir los errores en el proceso de dispensación (AU)</dc:description>
+<dc:source>Farm Hosp;34(2): 59-67, mar. -abr. 2010. tab</dc:source>
+<dc:identifier>ibc-105356</dc:identifier>
+<dc:title xml:lang="es">Nuevas tecnologías aplicadas al proceso de dispensación de medicamentos. Análisis de errores y factores contribuyentes</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28889^s22049</dc:subject>
+<dc:subject>^d51455</dc:subject>
+<dc:subject>^d51335</dc:subject>
+<dc:subject>^d8675^s22083</dc:subject>
+<dc:subject>^d10797^s22049</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d52955^s22049</dc:subject>
+<dc:subject>^d53392</dc:subject>
+<dc:subject>^d16957^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201004</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-046420</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The design and implementation of a computer application for managing a register of patients diagnosed with genetic mental retardation</dc:title>
+<dc:description xml:lang="en">Introduction. In order to conduct studies of mental retardation of a genetic origin over the GIRMOGEN network,a computerised register of cases needs to be set up. Materials and methods. This register requires the implementation of acomputer application consisting of a series of management programs together with the actual database. The aims of this workare: a) To analyse all the infrastructural, scientific and technical conditioning factors that allow the computer application andthe databases associated to the register to be designed; b) To design all the elements that go to make up the application, namely,the application engine, consisting of all the programs responsible for providing all the operative capabilities, and the databasefor storing all the data structures with the variables related to the research; c) Implementing all the designs that are developed;and d) Drawing up the security protocols and work procedures involved in running the application. Results. The result of all thisprocess is the Girmogen-Pro software application, which includes all the capabilities needed to enable it to fulfil the scientificgoals of the study. It includes the security measures required to comply with the current laws regarding the handling of filescontaining personal information. Furthermore, the data structures that will constitute the registers to be used in the study werealso been built. Conclusions. This process does not end with the implementation of the designs, since an ongoing assessmentprocess is also performed with the aim of optimising the data structures that contain the variables that go to make up theregister, so as to ensure it fits the scientific objectives of the study as well as possible</dc:description>
+<dc:creator>Rodríguez-Andrés, C</dc:creator>
+<dc:creator>Bellón-Vázquez, A</dc:creator>
+<dc:creator>Delgado-Naranjo, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. Para la realización del estudio en retrasomental de origen genético por la red GIRMOGEN se necesita lacreación de un registro informatizado de casos. Materiales y métodos.Este registro requiere la implementación de una aplicacióninformática, consistente en una serie de programas de gestión y lapropia base de datos. Los objetivos de este trabajo son: a) El análisisde todos los condicionantes infraestructurales, científicos y técnicosque permiten llevar a cabo el diseño de la aplicación informáticay las bases de datos asociadas al registro; b) El diseño de todoslos elementos de la aplicación: el motor de la aplicación, consistenteen todos los programas encargados de proporcionar todas susfuncionalidades operativas, y la base de datos donde alojar todaslas estructuras de datos con las variables relacionadas con la investigación;c) La implementación de todos los diseños realizados; y d)La elaboración de los protocolos de seguridad y procedimientos detrabajo en el uso de la aplicación. Resultados. Como resultado detodo este proceso, se ha obtenido la aplicación Girmogen-Pro, en laque se han implementado todas las funcionalidades necesarias parasu adecuación a los propósitos científicos del estudio. Se han incluidolas medidas de seguridad derivadas del cumplimiento de la normativalegal vigente sobre tratamiento de ficheros de datos decarácter personal, y se han construido las estructuras de datos quecompondrán los registros a utilizar en el estudio. Conclusión. Esteproceso no termina con la implementación de los diseños, ya queexiste un proceso continuo de evaluación encaminado a optimizarlas estructuras de datos que contienen las variables que componenel registro, con objeto de adaptarse lo mejor posible a los objetivoscientíficos del estudio</dc:description>
+<dc:source>Rev Neurol;42(supl.1): s125-s130, ene. 2006. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-046420</dc:identifier>
+<dc:title xml:lang="es">Diseño e implementación de una aplicación informática para la gestión de un registro de pacientes diagnosticados de retraso mental de origen genético</dc:title>
+<dc:subject>^d28402</dc:subject>
+<dc:subject>^d33619^s22049</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d8777^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200601</dc:date>
+</metadata>
+</record>
+</ibecs-document>

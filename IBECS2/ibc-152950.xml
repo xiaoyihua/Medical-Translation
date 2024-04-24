@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-152950</identifier>
+<setSpec>1889-7347</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Development and validation of a protocol for the proteomic analysis of bronchoaspiration samples in patients with lung adenocarcinoma</dc:title>
+<dc:description xml:lang="en">Introduction: identifying markers in aspirated bronchial samples could represent a relevant discovery, complementary to cytohistological studies, in patients with lung adenocarcinoma. Objective: determine whether the procedure applied is valid to obtain sufficient peptides and proteins to establish a protocol and perform mass spectrometry-based shotgun proteomic analysis for the resulting peptides. Material and Method: 4 aspirated bronchial samples were included from patients with pulmonary adenocarcinoma, applying the following work flow (I) recollection of aspirated bronchial samples; (II) purification of its protein component; (III) protein digestion in solution; and (IV) mass spectrometry-based shotgun proteomic analysis for the resulting peptides. To classify proteins based on cellular component, biological process and molecular function, gene ontology analysis was performed. Results: in the 2.1 mlmeanbronchial sample per patient, a 1% restrictive false discovery rate (FDR)was established;an elevated number of proteins were identified, with an average of 625, range between 529 to 708 and 6.290 single peptides, range between 5.585 to 6.759. The proteincomposition of the samples was uniform, without differences in the classification with regards to cellular components, biological processes and molecular functions. The efficacy of enzymatic digestion was greater than 90% in all cases, which guarantees the reproducibility of the methodology used. Conclusions: themethodology developed for the proteomic analysis is highly effective and reproducible; it identifies a high number of proteins in the bronchial samples and allows us to perform, in a robust manner, a quantitative study in a wide range of patients and control group (AU)</dc:description>
+<dc:creator>Rodríguez Ariza, A</dc:creator>
+<dc:creator>Jurado Gámez, B</dc:creator>
+<dc:creator>Arenas de Larriva, MS</dc:creator>
+<dc:creator>Ortea, I</dc:creator>
+<dc:creator>Cosano Povedano, J</dc:creator>
+<dc:creator>Chicano Gálvez, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: la identificación de marcadores en el broncoaspirado puede representar un hallazgo relevante, complementario al estudio citohistológico. Objetivo: determinar si el procedimiento aplicado es válido para obtener péptidos y proteínas suficientes, normalizar el protocolo y realizar un análisis shotgun por espectrometría de masas de los péptidos resultantes. Material y métodos: se incluyeron 4 muestras de broncoaspirado de pacientes con adenocarcinoma de pulmón, aplicando el siguiente flujo de trabajo (I) recolección del broncoaspirado; (II) purificación de su componente proteica; (III) digestión proteica en solución; y (IV) análisis shotgun por espectrometría de masas de los péptidos resultantes. Para clasificar las proteínas según componente celular, proceso biológico y función molecular, se realizó un análisis Gene Onthology. Resultados: en la muestra de 2,1 ml de broncoaspirado medio por paciente, fijando una tasa de falso descubrimiento (FDR, False Discovery Rate) restrictiva del 1%, se identificaron un número elevado de proteínas, con una media de 625, rango entre 529 a 708, y 6.290 péptidos únicos, rango entre 5.585 a 6.759. La composición proteica de las muestras fue homogénea, sin diferencias en la clasificación en relación a los componentes celulares, procesos biológicos y funciones moleculares. La eficacia de la digestión enzimática fue mayor del 90% en todos los casos, lo que asegura la reproducibilidad de la metodología utilizada. Conclusiones: la metodología desarrollada para el análisis proteómico es altamente eficaz y reproducible, identificando un número elevado de proteínas en el broncoaspirado y permitirá realizar, de manera robusta, un estudio cuantitativo en una muestra amplia de pacientes y grupo control (AU)</dc:description>
+<dc:source>Rev. esp. patol. torac;28(3): 164-170, mayo 2016. graf, tab, ilus</dc:source>
+<dc:identifier>ibc-152950</dc:identifier>
+<dc:title xml:lang="es">Desarrollo y validación de un protocolo para el análisis proteómico de muestras de broncoaspirado de pacientes con adenocarcinoma de pulmón</dc:title>
+<dc:subject>^d238^s22053</dc:subject>
+<dc:subject>^d8352^s22053</dc:subject>
+<dc:subject>^d13781^s22074</dc:subject>
+<dc:subject>^d22853^s22010</dc:subject>
+<dc:subject>^d23568^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24551</dc:subject>
+<dc:subject>^d37630^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201605</dc:date>
+</metadata>
+</record>
+</ibecs-document>

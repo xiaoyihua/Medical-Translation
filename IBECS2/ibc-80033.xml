@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-80033</identifier>
+<setSpec>0210-5020</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The pharmacokinetic process: is the drug getting to its site of action?</dc:title>
+<dc:description xml:lang="en">The pharmacokinetic process is concerned with the absorption, distribution, and elimination (by metabolism and excretion) of drugs. It is evident that drug molecules have to pass many structural and metabolic barriers. The concentration of a drug at its site of action must have the blood concentration as one of its determinants. Only the free form of the drug is susceptible of management by the body. Drug bioavailability and the factors that may affect it are influencing the choice of an optimal route of drug administration and the pharmaceutical form as well as bioequivalence between different preparations. There are three kinds of factors that may affect drug bioavailability: drug-related, patient-related and environmental-related factors. A reduction of the speed of absorption is leading to diminished pharmacological after single oral doses of the drug but it is not affecting the steady-state concentration of the drug or drug effects. On the contrary, Tmax is not affected by those factors that are reducing the amount of available drug in the body through drug absorption impairment. However, they may cause therapeutic failure due to low steady-state concentration of the drug during long-term treatment(AU)</dc:description>
+<dc:creator>Carrillo Norte, Juan Antonio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El proceso farmacocinético comprende los mecanismos de absorción, distribución y eliminación (metabolismo y excreción) de fármacos. Durante este proceso, las moléculas farmacológicas tienen que atravesar diversas barreras estructurales y metabólicas. La concentración de un fármaco en el sitio de acción depende en cierta forma de la concentración plasmática que alcanza. Únicamente su forma libre (y no la ligada a proteínas) es susceptible de manipulación farmacocinética por el organismo. Su biodisponibilidad y los factores que lo afectan determinan la vía de administración y la forma farmacéutica óptima en cada caso, así como la equivalencia entre formulaciones farmacéuticas. Las factores que afectan la biodisponibilidad de un fármaco son de tres clases: farmacológicos, dependientes del paciente y ambientales. Una disminución en la velocidad de absorción reduce los efectos tras dosis únicas de un fármaco, pero no afecta una pauta terapéutica de dosis múltiples, ya que no modifica la concentración plasmática en equilibrio o nivel estable del fármaco (Css o «steady-state concentration») ni sus efectos. Los factores que reducen la cantidad absorbida no afectan la Tmax. Sin embargo, tras dosis repetidas del fármaco, reducen el nivel estable (Css) y pueden originar un problema de ineficacia terapéutica(AU)</dc:description>
+<dc:source>Rev Enferm;33(5): 378-386, mayo 2010. ilus, tab</dc:source>
+<dc:identifier>ibc-80033</dc:identifier>
+<dc:title xml:lang="es">El proceso farmacocinético: ¿llega el fármaco al sitio de acción? Absorción de fármacos</dc:title>
+<dc:subject>^d23106</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23224</dc:subject>
+<dc:subject>^d22960</dc:subject>
+<dc:subject>^d7571^s22031</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201005</dc:date>
+</metadata>
+</record>
+</ibecs-document>

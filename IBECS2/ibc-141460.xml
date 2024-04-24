@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-141460</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Shared Electronic Health Record in Catalonia, Spain</dc:title>
+<dc:description xml:lang="en">The result has been the establishment of a set of components and relation rules among which we highlight the following: 1) Display of information that collects sociodemographic data of the citizen, documents or reports (radiology, laboratory, therapeutic procedures, hospital release, emergency room), diagnostic health, prescription and immunization plus a summary screen with the most recent and relevant references; 2) Set of tools helping the user and direct messaging between professionals to facilitate their cooperation; 3) Model designed for supranational connections which will allow adding later, with ad hocrules, clinical data provided by the private health sector or the proper citizen (AU)</dc:description>
+<dc:creator>Nozal-Baldajos, Montserrat A</dc:creator>
+<dc:creator>Acedo-Anta, Mateo</dc:creator>
+<dc:creator>Marimon-Suñol, Santiago</dc:creator>
+<dc:creator>Rovira-Barberà, María</dc:creator>
+<dc:creator>Guanyabens-Calvet, Joan</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Por mandato legal de su Parlamento, el Gobierno de Cataluña ha desarrollado un sistema de historia clínica electrónica para su Sistema Nacional de Salud (SNS). Los principios que rigen el modelo son: a) el ciudadano como titular de los datos: acceso a su información y ejercicio del derecho a oposición; b)generar confianza en el sistema: solidez en seguridad y confidencialidad; c) modelo común de gestión de la información: sistema de publicación y acceso a información organizada y estructurada, teniendo presente que nuestro SNS formalmente es un &#147;Sistema sanitario integral de utilización pública de Cataluña (SISCAT)&#148; con diversidad de formas jurídicas en sus instituciones prestadoras de servicios asistenciales, yd) utilización de estándares de comunicación y de catálogos como necesidad de integración tecnológica y funcional. En síntesis: sistema único de historia clínica compartida entre diversidad de agentes, con instrumentos de interoperabilidad y conforme a la legislación aplicable en Cataluña y a su sistema sanitario. El resultado ha sido el establecimiento de un conjunto de componentes y de reglas de relación entre los que destacamos: a) visor de información que reúne datos sociodemográficos del ciudadano, documentos o informes (radiología, laboratorio, procedimientos terapéuticos, alta hospitalaria, urgencias), datos de diagnósticos de salud, prescripción e inmunización más una pantalla de resumen con los datos y referencias más recientes o relevantes; b) conjunto de instrumentos de ayuda y mensajería directa entre profesionales para facilitar su cooperación, y c) modelo apto para su conexión supranacional e incorporar posteriormente, con reglas ad hoc, datos clínicos aportados por sanidad privada o el propio ciudadano (AU)</dc:description>
+<dc:source>Med. clín (Ed. impr.);134(supl.1): 45-48, ene. 2010.</dc:source>
+<dc:identifier>ibc-141460</dc:identifier>
+<dc:title xml:lang="es">Historia Clínica Compartida en Cataluña</dc:title>
+<dc:subject>^d53713</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d28167</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201001</dc:date>
+</metadata>
+</record>
+</ibecs-document>

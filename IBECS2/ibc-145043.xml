@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-145043</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Development of the management for parenteral nutrition traceability in a standard hospital</dc:title>
+<dc:description xml:lang="en">Objective: to develop the traceability control and the hazard analysis in the processes of parenteral nutrients (PN). Method: a standardized graphical notation was generated, describing in detail each of the stages in the overall process. The presence of hazards was analysed by sequencing decisions. The existence of Control Points (CP) or Critical Control Points (CCP) was estimated by Criticality Index (CI) for each hazard taking into account the probability of occurrence and the severity of the damage. The threshold for the IC was set in 6. Results: a specific flow chart for the management and traceability of PN was obtained, defining each of the stages in CPs (validation and transcription of the prescription and administration) or CCPs (preparation, storage and infusion pump &#150;flow and filter-). Stages regarding the delivery, the recovery and the recycle of the packing material of PNs are not considered CPs and, therefore, they were not included in the dashboard. Conclusions: PN must be dealt with in the frame of a standardized management system in order to improve patient safety, clinical relevance, maximize resource efficiency and minimize procedural issues. The proposed system provides a global management model whose steps are fully defined, allowing monitoring and verification of PN. It would be convenient to make use of a software application to support the monitoring of the traceability management and to store the historical records in order to evaluate the system (AU)</dc:description>
+<dc:creator>Bernabéu Soria, Beatriz</dc:creator>
+<dc:creator>Sanz-Valero, Javier</dc:creator>
+<dc:creator>Mateo García, Máxima</dc:creator>
+<dc:creator>Cervera Peris, Mercedes</dc:creator>
+<dc:creator>Wanden-Berghe, Carmina</dc:creator>
+<dc:creator>Piñeiro Corrales, Guadalupe</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objetivo: desarrollar el control de la trazabilidad y el análisis de riesgos en el proceso de mezcla de nutrientes parenterales (NP). Método: se diseñó la notación gráfica normalizada, caracterizando cada una de las etapas dentro del proceso global. Se analizó la presencia de riesgos mediante la secuenciación de decisiones. La existencia de Puntos de Control (PC) o de Puntos Críticos de Control (PCC) se calculó mediante el Índice de Criticidad (IC) para cada uno de los riesgos, teniendo en cuenta la probabilidad del suceso y la gravedad de los daños. El punto de corte del IC se estableció en 6. Resultados: se obtuvo el diagrama de flujo específico para la gestión y trazabilidad de la NP, caracterizándose cada una de las etapas en PC (validación y transcripción de la prescripción y administración) o PCC (preparación, conservación y bomba de infusión -flujo y filtro-). Las etapas de entrega de la NP y de recuperación y reciclado del material de envasado no se consideraron PC y, en consecuencia, no fueron incluidos en el cuadro de gestión. Conclusiones: la NP debe integrarse en un sistema normalizado de gestión con el fin de mejorar la seguridad del paciente y la pertinencia clínica, maximizar la eficiencia de los recursos y minimizar los incidentes procesales. El sistema propuesto permite establecer una gestión global cuyas etapas quedan totalmente caracterizadas, permitiendo su control y verificación. Sería deseable disponer de una aplicación informática que facilitara el seguimiento de la gestión de la trazabilidad y tener un histórico de los registros que permita evaluar el sistema (AU)</dc:description>
+<dc:source>Farm Hosp;39(6): 358-377, nov.-dic. 2015. ilus, tab</dc:source>
+<dc:identifier>ibc-145043</dc:identifier>
+<dc:title xml:lang="es">Desarrollo de la gestión de la trazabilidad de la nutrición parenteral en un hospital tipo</dc:title>
+<dc:subject>^d28889^s22049</dc:subject>
+<dc:subject>^d12223</dc:subject>
+<dc:subject>^d30401^s22045</dc:subject>
+<dc:subject>^d4401^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29873^s22045</dc:subject>
+<dc:subject>^d50324</dc:subject>
+<dc:subject>^d54124^s22078</dc:subject>
+<dc:subject>^d31002^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201512</dc:date>
+</metadata>
+</record>
+</ibecs-document>

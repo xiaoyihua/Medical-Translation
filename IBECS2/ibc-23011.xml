@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-23011</identifier>
+<setSpec>0212-8799</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Biomechanics of the lower extremities in the shot put linear technique of the finalists of the spanish athletics championship of San Sebastian '98</dc:title>
+<dc:creator>Meana Riera, Marta</dc:creator>
+<dc:creator>Grande Rodríguez, Ignacio</dc:creator>
+<dc:creator>Sánchez Lozano, Rodrigo</dc:creator>
+<dc:creator>Tomé Bermejo, Iñigo</dc:creator>
+<dc:creator>Aguado Jódar, Xavier</dc:creator>
+<dc:creator>López Elvira, José Luis</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Federación Española de Medicina del Deporte</dc:publisher>
+<dc:description xml:lang="es">El comportamiento de las extremidades inferiores de los lanzadores de peso es un aspecto tradicionalmente estudiado en biomecánica. En la técnica lineal se definen dos tendencias a la hora de realizar el lanzamiento. Una forma de ejecución "corta-larga" y otra "larga-corta"; definidas en función del valor de la distancia que recorre el pie derecho en su fase inicial de vuelo. 'fase de deslizamiento ", y la distancia entre los pies en la "posición de fuerza". Se han estudiado diferentes variables del movimiento de los pies mediante un análisis cinemático en vídeo 3D de los 8 mejores lanzamientos con técnica lineal del Campeonato de España Absoluto al Aire Libre celebrado en San Sebastián'98. Los lanzamientos fueron digitalizados manualmente reconstruyéndose las coordenadas tridimensionales mediante el algoritmo de la DLT y utilizando funciones splines de orden 5 para el suavizado. Para la mejor comprensión del movimiento y posibilitar una mejor visualización independiente de las extremidades inferiores se construyeron animaciones en 3D de estos segmentos. Se comprobó como la tendencia predominante es la "corta-larga" con un valor medio de deslizamiento de 0.960ñ0.160 m y con una distancia entre las puntas de los pies en la "posición de fuerza'' de 1.574ñ0.122 m. Durante la fase inicial de apoyo del pie derecho en el suelo y el posterior vuelo en la fase de deslizamiento este segmento realiza un giro en sentido antihorario que lo coloca con una orientación respecto al eje X de 120ñ114.6°. Los autores recomiendan que este ángulo sea de 90° pero se señala que en la técnica "corta-larga" no es tan importante llegar a apoyar el pie derecho en él centro del círculo tan girado. Se observa que la extremidad inferior izquierda realiza un giro sobre su antepié de -30.3ñ15.7º en sentido antihorario en su última fase de apoyo antes de la liberación. Cabe señalar como en el instante de liberación la totalidad de los lanzadores estudiados perdían el contacto con el suelo; aspecto que diferentes autores consideran de forma negativa aunque es de uso frecuente. En los lanzamientos analizados la biomecánica de los miembros inferiores coincide con el modelo técnico ideal de la técnica de deslizamiento, lo que indica un alto nivel técnico de los lanzadores de peso españoles (AU)</dc:description>
+<dc:source>Arch. med. deporte;17(75): 31-39, ene. 2000. ilus, tab</dc:source>
+<dc:identifier>ibc-23011</dc:identifier>
+<dc:title xml:lang="es">Biomecánica de los miembros inferiores en la técnica lineal del lanzamiento de peso en los finalistas del campeonato de españa de atletismo San Sebastian '98</dc:title>
+<dc:subject>^d1721</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d8044^s22031</dc:subject>
+<dc:subject>^d13562^s22031</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200001</dc:date>
+</metadata>
+</record>
+</ibecs-document>

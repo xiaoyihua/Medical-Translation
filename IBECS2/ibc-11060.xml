@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-11060</identifier>
+<setSpec>0001-6640</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Kawasaki disease</dc:title>
+<dc:creator>Ros Viladoms, J. B</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Mayo, S.A</dc:publisher>
+<dc:description xml:lang="es">La enfermedad de Kawasaki es un cuadro de descripción reciente con una etiopatogenia confusa y con un diagnóstico fundamentalmente clínico. Existen formas muy típicas de la enfermedad que son fáciles de diagnosticar, pero cada vez se presentan más casos atípicos o incompletos que pueden pasar inadvertidos o que se diagnostican tardíamente. Es un síndrome que puede tener graves alteraciones cardiovasculares, por lo que es imprescindible realizar un diagnóstico y un tratamiento precoces para intentar evitar su morbimortalidad (AU)</dc:description>
+<dc:source>Acta Pediatr Esp;60(2): 67-74, feb. 2002. ilus, tab</dc:source>
+<dc:identifier>ibc-11060</dc:identifier>
+<dc:title xml:lang="es">Enfermedad de Kawasaki</dc:title>
+<dc:subject>^d26532</dc:subject>
+<dc:subject>^d19138^s22027</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d22183^s22000</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22183^s22078</dc:subject>
+<dc:subject>^d9272^s22012</dc:subject>
+<dc:subject>^d9272^s22057</dc:subject>
+<dc:subject>^d9272^s22016</dc:subject>
+<dc:subject>^d9272^s22027</dc:subject>
+<dc:subject>^d31023</dc:subject>
+<dc:subject>^d32751</dc:subject>
+<dc:subject>^d7450</dc:subject>
+<dc:subject>^d13195</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200202</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-30017</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Stage I nonsmall cell lung cancer up to 3 cm in diameter. Prognostic factors</dc:title>
+<dc:creator>Padilla, J</dc:creator>
+<dc:creator>Peñalver, J. C</dc:creator>
+<dc:creator>García, A</dc:creator>
+<dc:creator>Pastor, J</dc:creator>
+<dc:creator>Escrivá, J</dc:creator>
+<dc:creator>Blasco, E</dc:creator>
+<dc:creator>Calvo V</dc:creator>
+<dc:creator>Jordá, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">OBJETIVO: Valorar el papel pronóstico de una serie de variables clínico-patológicas en el carcinoma broncogénico no anaplásico de células pequeñas con un tamaño máximo de 3 cm y clasificado en estadio I.PACIENTES Y MÉTODO: Se estudió a 271 pacientes. La supervivencia se analizó con el método de Kaplan-Meier. Para el análisis multivariante se utilizó el modelo de Cox.RESULTADOS: La supervivencia fue del 78,63 y el 67,59 por ciento a los 5 y 10 años, respectivamente. El sexo, la edad, la amplitud de exéresis, la estirpe histológica, la invasión de la pleura visceral, el grado de invasión bronquial y T1-T2 no influyeron significativamente en la supervivencia. La década en que el paciente fue operado condicionó la supervivencia (p = 0,0037), que a los 5 años fue del 58 por ciento para los intervenidos entre 1970 y 1980, del 77 por ciento para los operados entre 1981 y 1990 y del 84 por ciento para los sometidos a la intervención entre 1991 y 2000.El tamaño tumoral también condicionó la supervivencia (p = 0,0046), que fue del 86 por ciento para los pacientes con tumores con un diámetro inferior o igual a 2 cm y del 73 por ciento para los que tenían tumores con diámetro de más de 2 cm. Ambas variables entraron en regresión cuando se utilizó el análisis multivariante.CONCLUSIÓN: Hemos comprobado una migración pronóstica (fenómeno de Will Rogers) en relación con la década en que el paciente fue operado (time trend) y que el tamaño tumoral condicionó la supervivencia de nuestra serie. Por último, el sistema vigente de estadificación TNM es deficiente en la configuración de grupos de pacientes con un pronóstico homogéneo. (AU)</dc:description>
+<dc:source>Arch Bronconeumol;40(3): 110-113, mar. 2004.</dc:source>
+<dc:identifier>ibc-30017</dc:identifier>
+<dc:title xml:lang="es">Carcinoma broncogénico no anaplásico de células pequeñas en estadio I y de diámetro máximo de 3 cm. Factores pronósticos</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d28604</dc:subject>
+<dc:subject>^d31722</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d8352</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d9560</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200403</dc:date>
+</metadata>
+</record>
+</ibecs-document>

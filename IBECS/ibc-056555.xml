@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-056555</identifier>
+<setSpec>1130-0108</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Diet and colon cancer</dc:title>
+<dc:creator>Riestra, S</dc:creator>
+<dc:creator>Rodrigo, L</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">No disponible</dc:description>
+<dc:source>Rev Esp Enferm Dig;99(4): 183-189, abr. 2007. ilus</dc:source>
+<dc:identifier>ibc-056555</dc:identifier>
+<dc:title xml:lang="es">Dieta y cáncer de colon</dc:title>
+<dc:subject>^d29633</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d22182</dc:subject>
+<dc:subject>^d23595^s22080</dc:subject>
+<dc:subject>^d31896^s22080</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d8195</dc:subject>
+<dc:subject>^d32686</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200704</dc:date>
+</metadata>
+</record>
+</ibecs-document>

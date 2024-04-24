@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-93230</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Economic evaluation of rituximab added to fludarabine plus cyclophosphamide versus fludarabine plus cyclophosphamide for the treatment of chronic lymphocytic leukemia</dc:title>
+<dc:description xml:lang="en">Objectives: We evaluated the cost-effectiveness of rituximab added to the chemotherapy regimen of fludarabineplus cyclophosphamide (R-FC) versus fludarabine plus cyclophosphamide (FC) for the treatmentof patients with previously untreated or relapsed/refractory chronic lymphocytic leukemia (CLL).Methods: Two Markov models were built, using published results on progression-free survival (PFS) inpatients receiving first- or second-line therapy with R-FC vs FC, rates of disease progression and mortalityrates in Spain. Patient-elicited utilities were applied to PFS and progressed health states. The cost of drugs,supportive care, and quality-adjusted life years (QALY) were estimated over a 10-year period. Univariateand probabilistic (Monte Carlo) sensitivity analyses were performed.Results: The addition of rituximab to chemotherapy in first- and second-line therapy increased lifeyearsgained (LYG) and QALYs compared with chemotherapy. The incremental cost per LYG and QALYgained was D 20,703 and D 19,343 for first-line treatment and was D 23,183 and D 24,781 for second-linetreatment (AU)</dc:description>
+<dc:creator>Ríos, Eduardo</dc:creator>
+<dc:creator>Castro, Antonio J</dc:creator>
+<dc:creator>García Marco, José Antonio</dc:creator>
+<dc:creator>Rubio-Terrés, Carlos</dc:creator>
+<dc:creator>Felipe Casado, Luis</dc:creator>
+<dc:creator>Serna, Javier de la</dc:creator>
+<dc:creator>González, Marcos</dc:creator>
+<dc:creator>Urbano, Álvaro</dc:creator>
+<dc:creator>Vicente, Vicente</dc:creator>
+<dc:creator>Gilsanz, Florinda</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Evaluar el coste-efectividad del esquema de rituximab, fludarabina y ciclofosfamida (R-FC) encomparación con el de fludarabina y ciclofosfamida (FC) en dos tipos de pacientes con leucemia linfáticacrónica (LLC): no tratados previamente o bien en recidiva/resistentes al tratamiento previo.Métodos: Dos modelos de Markov, utilizando los resultados publicados de superviviencia libre de progresión(SLP) de pacientes con LLC tratados con R-FC o FC en primera o segunda línea, las tasas de progresiónde la enfermedad y las tasas de mortalidad en Espa&#152;na. A los estados de SLP y progresión se les asignaronutilidades obtenidas en un estudio sobre LLC. Los costes de los medicamentos y de los tratamientos desoporte, así como los a&#152;nos de vida ajustados por calidad (AVAC), se estimaron para un periodo de 10 a&#152;nos.Se efectuaron análisis de sensibilidad univariados y probabilísticos (Monte Carlo).Resultados: La adición de rituximab a la quimioterapia con FC aumentó los a&#152;nos de vida ganados (AVG) ylos AVAC tanto en primera como en segunda línea de tratamiento. La razón de coste-eficacia incrementalfue de 20.703 D por AVG y de 19.343 D por AVAC con la primera línea de tratamiento, y de 23.183 D porAVG y 24.781 D por AVAC con la segunda línea de tratamiento.Conclusiones: En los pacientes con LLC no tratados previamente y en aquellos en recaída o resistentes altratamiento previo, la adición de rituximab al esquema FC aumentó la esperanza de vida y los AVAC, y enambos casos resultó ser un tratamiento coste-efectivo (AU)</dc:description>
+<dc:source>Gac Sanit;25(4): 274-281, jul. -ago. 2011. ilus, tab</dc:source>
+<dc:identifier>ibc-93230</dc:identifier>
+<dc:title xml:lang="es">Evaluación económica de rituximab en combinación con fludarabinay ciclofosfamida en comparación con fludarabina y ciclofosfamida enel tratamiento de la leucemia linfática crónica</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d3540^s22073</dc:subject>
+<dc:subject>^d31495^s22066</dc:subject>
+<dc:subject>^d^s22083</dc:subject>
+<dc:subject>^d23712^s22057</dc:subject>
+<dc:subject>^d28629</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d920^s22073</dc:subject>
+<dc:subject>^d32836^s22073</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201108</dc:date>
+</metadata>
+</record>
+</ibecs-document>

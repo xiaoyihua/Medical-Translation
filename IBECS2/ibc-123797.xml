@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-123797</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prevalence of anosognosia in Alzheimer's disease</dc:title>
+<dc:creator>Reñé Ramírez, Ramón</dc:creator>
+<dc:creator>Garre Olmo, Josep</dc:creator>
+<dc:creator>Lopez Pousa, Secundino</dc:creator>
+<dc:creator>Turró Garriga, Oriol</dc:creator>
+<dc:creator>Gascón Bayarri, Jordi</dc:creator>
+<dc:creator>Conde Sala, Josep Luis</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamento y objetivo: La anosognosia es un trastorno que afecta a la presentación clínica de la enfermedad de Alzheimer (EA), incrementándose su frecuencia con la evolución de la misma. El objetivo fue determinar la prevalencia de anosognosia y analizar los factores asociados y predictores. Pacientes y método: Estudio multicéntrico transversal, observacional y analítico de 345 pacientes con EA. La anosognosia se evaluó mediante la Anosognosia Questionnaire-Dementia y el estadio evolutivo con la Global Deterioration Scale (GDS). Se utilizaron los tests Mini-Mental State Examination, Disability Assessment for Dementia y Neuropsychiatric Inventory para valorar la cognición, el estado funcional y los síntomas neuropsiquiátricos, respectivamente. Se ajustaron modelos de regresión lineal para determinar las variables asociadas y de regresión logística binaria (RLog) para analizar los factores predictores de la anosognosia. Resultados: La prevalencia global de la anosognosia fue del 46,7% (intervalo de confianza del 95% [IC 95%] 41,3-52,1). La prevalencia en los estadios fue de 28,4% (GDS 4), 64,6% (GDS 5) y 91,4% (GDS 6). La RLog identificó como variables predictoras la mayor edad (odds ratio [OR] 1,04; IC 95% 1,01-1,09), la menor capacidad funcional (OR 0,96; IC 95% 0,93-0,98), el menor nivel cognitivo (OR 0,9; IC 95% 0,88-0,99), y la mayor apatía (OR 1,1; IC 95% 1,03-1,18), desinhibición (OR 1,2; IC 95% 1,09-1,50), irritabilidad (OR 1,1; IC 95% 1,09-1,50) y trastornos motores (OR 1,2; IC 95% 1,09-1,50). Conclusiones: La anosognosia se incrementa con el mayor deterioro. En los pacientes en fase leve las variables predictoras fueron la apatía, la desinhibición y los trastornos motores (AU)</dc:description>
+<dc:source>Med. clín (Ed. impr.);143(1): 13-19, jul. 2014.</dc:source>
+<dc:identifier>ibc-123797</dc:identifier>
+<dc:title xml:lang="es">Prevalencia de anosognosia en la enfermedad de Alzheimer</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d545^s22032</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d3103^s22080</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29640</dc:subject>
+<dc:subject>^d9673</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201407</dc:date>
+</metadata>
+</record>
+</ibecs-document>

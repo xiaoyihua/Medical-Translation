@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-166859</identifier>
+<setSpec>1698-031X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The reliability of magnetic resonance imaging for the evaluation of testicular volume</dc:title>
+<dc:description xml:lang="en">Objective. To determine the capability of segmentation by magnetic resonance imaging (MRI) in the quantification of testicular volume and to compare it with the formula proposed by Lambert (0.71×width×height×length), which has been used as a reference method. Material and methods. A prospective study of patients attending the urology is made. A total of 27 patients (49 testes) were included with a mean age of 38.7±11.0years (range: 21-58years). The volume was determined in both methods. All parameters were expressed as mean and standard deviation in cm3. Statistical analysis was conducted using SPSS version 19 for Windows and STATA. Results. The mean testicular volume using Lambert's formula was 25.3cm3 and with the segmentation MRI it was 18.1cm3. A strong correlation was found between the methods with a Pearson's coefficient of 0.91. However, Lambert's formula provided consistently higher values as it was revealed by Bland and Altman's analysis. Conclusions. MRI segmentation technique allows a reliable calculation of testicular volume (AU)</dc:description>
+<dc:creator>Santiago-Pérez, María Isolina</dc:creator>
+<dc:creator>Vilanova, Joan C</dc:creator>
+<dc:creator>Baleato-González, Sandra</dc:creator>
+<dc:creator>García-Figueiras, Roberto</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. El objetivo de nuestro trabajo es evaluar la cuantificación del volumen testicular mediante segmentación en resonancia magnética (RM) y compararla con la fórmula propuesta por Lambert en ecografía (0,71×ancho×alto×largo), que es el método utilizado como referencia. Material y métodos. Se realiza un estudio prospectivo de pacientes que acuden a la consulta de urología. Se estudian un total de 27 pacientes (49 testículos) con una edad media de 38,7±11,0años (rango: 21 a 58años). Se determina en todos ellos la volumetría mediante los dos métodos expresando los valores en cm3. El análisis estadístico se desarrolló en el paquete estadístico SPSS versión 19 para Windows y STATA. Resultados. El volumen medio testicular utilizando la fórmula de Lambert es de 25,3cm3, y con el método de segmentación es de 18,1cm3. El coeficiente de correlación lineal de Pearson entre ambos métodos es de 0,91. Sin embargo, la fórmula de Lambert proporciona valores sistemáticamente superiores, como muestra el análisis de Bland y Altman. Conclusiones. La técnica de segmentación con RM permite un cálculo fiable del volumen testicular (AU)</dc:description>
+<dc:source>Rev. int. androl. (Ed. impr.);15(4): 141-148, oct.-dic. 2017. tab, ilus, graf</dc:source>
+<dc:identifier>ibc-166859</dc:identifier>
+<dc:title xml:lang="es">Valoración del volumen testicular mediante resonancia magnética</dc:title>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d30476^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30476^s22045</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d22935^s22045</dc:subject>
+<dc:subject>^d23405^s22039</dc:subject>
+<dc:subject>^d14116^s29166</dc:subject>
+<dc:subject>^d14116^s22031</dc:subject>
+<dc:subject>^d23405^s22045</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201712</dc:date>
+</metadata>
+</record>
+</ibecs-document>

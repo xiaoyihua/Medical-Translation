@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-35336</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Changes in auto-peep during mechanical ventilation associated with respiratory steady according to time-constant analysis</dc:title>
+<dc:creator>Muñoz Muñoz, J. L</dc:creator>
+<dc:creator>Morante Valle, A</dc:creator>
+<dc:creator>La Rosa Salas, F. J</dc:creator>
+<dc:creator>Brea Salvago, J. F</dc:creator>
+<dc:creator>Pola Gallego, M. D</dc:creator>
+<dc:creator>Rucabado Aguilar, L</dc:creator>
+<dc:creator>Ruiz Ferrón, F</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Objetivo. El análisis de la constante de tiempo espiratorio (tau) indica el tiempo necesario para que el sistema respiratorio alcance un estado estable. Estudiamos, durante la ventilación mecánica controlada, si el ajuste de la frecuencia respiratoria, según el valor de tau, puede reducir o eliminar la auto-PEEP (presión positiva telespiratoria). Diseño. Estudio clínico prospectivo de una cohorte de pacientes en ventilación mecánica. Ámbito. Unidad de medicina intensiva de un hospital universitario. Pacientes y método. Estudiamos a 17 pacientes con lesión pulmonar aguda (n = 10) o con insuficiencia respiratoria crónica agudizada (n = 7). En ventilación mecánica controlada, medimos la mecánica respiratoria, la auto-PEEP estática y el valor de tau en la fase espiratoria de la curva de volumen (V[t] = V0 e -[t/RC] + b). Conociendo el valor de tau, cambiamos la frecuencia respiratoria manteniendo el volumen por minuto constante (TE = tau × 4, I:E = 0,5) y analizamos el cambio en la auto-PEEP y mecánica respiratoria. Resultados. El valor de la constante b fue 0,02 (0,04) l y se correlacionó con el valor de tau (r = 0,8). En los pacientes con insuficiencia respiratoria crónica agudizada, el valor de tau fue de 1,04 (0,44) s, y la frecuencia respiratoria fue disminuida de 13,49 (2,87) a 11,72 (3,07) respiraciones/min (p = 0,06), sin un descenso significativo en la auto-PEEP (5,29 [5,11] a 4,87 [5,21] cmH2O). En los pacientes con lesión pulmonar aguda, tau fue de 0,53 (0,16) s y la frecuencia respiratoria fue aumentada desde 15,22 (2,74) a 20,62 (7,26) respiraciones/min (p = 0,05), sin modificar significativamente la auto-PEEP (2,80 [2,03] a 2,40 [1,67] cmH2O). Conclusiones. El análisis de la constante de tiempo no permitió disminuir la auto-PEEP en los pacientes con insuficiencia respiratoria crónica agudizada (FRCA). En el grupo con lesión pulmonar aguda fue posible utilizar frecuencias respiratorias elevadas sin aumentar la auto-PEEP (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);28(4): 185-192, abr. 2004. ilus, tab</dc:source>
+<dc:identifier>ibc-35336</dc:identifier>
+<dc:title xml:lang="es">Cambios en la auto-PEEP durante la ventilación mecánica relacionados con la frecuencia respiratoria según el análisis de la constante de tiempo</dc:title>
+<dc:subject>^d12552^s22067</dc:subject>
+<dc:subject>^d8348^s22067</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12541^s22045</dc:subject>
+<dc:subject>^d29278^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200404</dc:date>
+</metadata>
+</record>
+</ibecs-document>

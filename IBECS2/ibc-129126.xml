@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-129126</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Validation of Two Clinical Prognostic Models in Patients With Acute Symptomatic Pulmonary Embolism</dc:title>
+<dc:description xml:lang="en">Objective: The aim of this study was to compare the predictive value of two clinical prognostic models, the Spanish score and the simplified Pulmonary Embolism Severity Index (sPESI), in an independent cohort of patients diagnosed of acute symptomatic pulmonary embolism (PE). Methods: We performed a retrospective analysis of a cohort composed of 1447 patients with acute symptomatic PE. The Spanish score and the sPESI were calculated for each patient according to different clinical variables. We assessed the predictive accuracy of these scores for 30-day mortality, and a composite of non fatal recurrent venous thromboembolism and non fatal major bleeding, using C statistic, which was obtained by means of logistic regression and ROC curves. Results: Overall, 138 patients died (9.5%) during the first month of follow-up. Both scores showed an excellent predictive value for 30-day all-cause mortality (C statistic, 0.72 and 0.74), but the performance was poor for the secondary endpoint (C statistic, 0.60 and 0.59). The sPESI classified fewer patients as low risk (32% versus 62%; P&lt;0.001). Low-risk patients based on the sPESI had a lower 30-day mortality than those based on the Spanish score (1.1% versus 4.2%), while the 30-day rate of non fatal recurrent VTE or major bleeding was similar (2.2% versus 2.3%). Conclusions: Both scores provide excellent information to stratify the risk of mortality in patients treated of PE. The usefulness of these models for nonfatal adverse events is questionable. The sPESI identified low-risk patients with PE better than the Spanish score (AU)</dc:description>
+<dc:creator>Morillo, Raquel</dc:creator>
+<dc:creator>Sandoval, Emmanuel</dc:creator>
+<dc:creator>Jiménez, David</dc:creator>
+<dc:creator>García, Leticia</dc:creator>
+<dc:creator>Uresandi, Fernando</dc:creator>
+<dc:creator>Ferrer, Marta</dc:creator>
+<dc:creator>Otero, Remedios</dc:creator>
+<dc:creator>Elías, Teresa</dc:creator>
+<dc:creator>Jara, Luis</dc:creator>
+<dc:creator>Nieto, Rosa</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: El objetivo de este estudio fue validar y comparar 2 escalas pronósticas, la escala española y la escala Pulmonary Embolism Severity Index simplificada (PESIs), en una cohorte de pacientes diagnosticados de tromboembolia de pulmón (TEP) aguda sintomática. Métodos: Se realizó un análisis retrospectivo de una cohorte de 1.447 pacientes diagnosticados consecutivamente de TEP aguda sintomática. Evaluamos el valor predictivo de las 2 escalas para muerte a 30 días y para un episodio compuesto de recurrencia tromboembólica no mortal y hemorragia mayor no mortal mediante el estadístico  C , empleando para su cálculo regresión logística y curvas ROC. Resultados: Durante los primeros 30 días de seguimiento fallecieron 138 pacientes (9,5%). Las 2 escalas mostraron un valor predictivo bueno para mortalidad a 30 días (estadístico C, 0,72 y 0,74) y pobre para la predicción del episodio secundario (estadísticos C, 0,60 y 0,59). La escala PESIs clasificó una proporción significativamente menor de pacientes como de bajo riesgo, comparada con la escala española (32% versus 62%; p &lt; 0,001). La mortalidad del grupo de bajo riesgo según la escala PESIs fue menor que la de la escala española (1,1% versus 4,2%). La proporción de episodios no mortales fue similar en el grupo de bajo riesgo de ambos modelos (2,2% versus 2,3%). Conclusiones: La escala española y la escala PESIs presentaron excelente capacidad discriminatoria para la mortalidad a 30 días. La escala PESIs fue más segura para identificar a los pacientes con TEP y bajo riesgo de complicaciones precoces (AU)</dc:description>
+<dc:source>Arch Bronconeumol;49(10): 427-431, oct. 2013. tab, graf</dc:source>
+<dc:identifier>ibc-129126</dc:identifier>
+<dc:title xml:lang="es">Validación de 2 escalas clínicas pronósticas en pacientes con tromboembolia pulmonar aguda sintomática</dc:title>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d55051</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12092^s22032</dc:subject>
+<dc:subject>^d35256</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201310</dc:date>
+</metadata>
+</record>
+</ibecs-document>

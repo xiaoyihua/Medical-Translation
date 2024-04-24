@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-60560</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Mechanisms of resistance and failure of treatment with maraviroc</dc:title>
+<dc:description xml:lang="en">Maraviroc (MVC) is a new antagonist of the CCR5 coreceptorand is the first antiviral compound available thathas a cell factor essential for HIV entry as a target. Theinformation available from clinical studies with MVCsuggests that the main cause of therapeutic failure is, morethan the tropism change, the rapid selection of pre-existing strains with an affinity for CXCR4, not detected by thereference test. A recently developed tropism test with animproved sensitivity will help to detect the minority, butclinically significant, presence of strains that use CXCR4.Evidence of resistance to MVC has been shown in vivo insome patients. The mechanism of this resistance appears tobe related to changes in gp120 and mainly in the V3 regionwhich enables the virus to recognise the CCR5-co-receptorbound to the MVC molecule. From a practical point of view,standardised tests are currently unavailable to assesssusceptibility to MVC, although in dose-response phenotypetests a maximum percentage inhibition (MPI) &lt; 95% wouldbe indicative of resistance to the compound. Similarly,although some mutations associated with resistance in V3,and other zones of gp120, have been described, thispreliminary information suggests different resistancepatterns and at the moment, we do not know the canonicalmutations to be able to establish genotyping algorithms(AU)</dc:description>
+<dc:creator>Delgado, Rafael</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Maraviroc (MVC) es un nuevo antagonista del correceptorCCR5 y es el primer compuesto antiviral disponible que tienecomo diana un factor celular imprescindible para la entradadel VIH. La información disponible en estudios clínicos conMVC indica que la causa principal del fallo terapéutico es,más que el cambio de tropismo, la rápida selección de cepaspreexistentes con afinidad por CXCR4 no detectadas por laprueba de referencia. Una prueba de tropismo consensibilidad mejorada recientemente desarrollado contribuiráa detectar la presencia minoritaria, pero clínicamentesignificativa, de cepas que utilizan CXCR4. La resistencia aMVC se ha podido evidenciar in vivo en algunos pacientes. Elmecanismo de esta resistencia parece estar relacionado concambios en gp120 y, fundamentalmente, en la región V3 quepermiten al virus reconocer el correceptor CCR5 unido a lamolécula de MVC. Desde un punto de vista práctico, nodisponemos por el momento de pruebas estandarizadas paraevaluar la susceptibilidad a MVC, aunque en las pruebasfenotípicas de dosis-respuesta un porcentaje máximo deinhibición (MPI) &lt; 95% sería indicativo de resistencia alcompuesto. Igualmente, aunque se han descrito algunasmutaciones relacionadas con resistencia en V3 y otras zonasde gp120, esta información preliminar indica diferentespatrones de resistencia y desconocemos por el momento lasmutaciones canónicas para poder establecer algoritmos degenotipificación(AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;26(supl.11): 28-33, oct. 2008. ilus</dc:source>
+<dc:identifier>ibc-60560</dc:identifier>
+<dc:title xml:lang="es">Mecanismos de resistencia y fracaso al tratamiento con maraviroc</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d36265^s22079</dc:subject>
+<dc:subject>^d24718^s22057</dc:subject>
+<dc:subject>^d29416^s22021</dc:subject>
+<dc:subject>^d38332^s22079</dc:subject>
+<dc:subject>^d33499^s22021</dc:subject>
+<dc:subject>^d33498^s22021</dc:subject>
+<dc:subject>^d36326</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200810</dc:date>
+</metadata>
+</record>
+</ibecs-document>

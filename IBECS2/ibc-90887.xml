@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-90887</identifier>
+<setSpec>1888-4008</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Evaluation of a critical value reporting procedure</dc:title>
+<dc:description xml:lang="en">Objective. Analysis of running a critical value and a critical test reporting procedure in Montilla Hospital (Empresa Pública Hospital Alto Guadalquivir), Montilla, Córdoba (Spain). Material and method. The concept of critical tests and critical values were defined in a list approved by the physicians and based on the literature. The time of the notification was established as less than 30minutes. To identify critical values, some automatic rules were created to generate a notification test in the Laboratory Informatics System (Omega 3000, Roche Diagnostics). A critical value is checked under the appropriate specific procedure, which also establishes the responsibilities for communication and the priority of persons to be notified in each case. Another test is created to register the notification and must include: who notified, at what time and who received the notification («Read-back»). To control the quality of the process we considered: the number of notifications, the time delay in notifying a critical value and if there had been some adverse effects due to any delay. Results. From January to September in 2010 we have notified 73 critical tests and 354 critical values (0.64% of the analysis applications). We reported 77 (22%) critical values from outpatients and 277 (78%) from inpatients. The most frequent notification was due to hyperkalaemia (15.8%). Conclusions. The procedure has involved a slight increase in laboratory workload, but it has assumed more clinical diligence to make critical decisions. These initiatives generate a safety culture for the patient, the staff and good relationships in the organization (AU)</dc:description>
+<dc:creator>Romero De Castilla Y Gil, Rafael Javier</dc:creator>
+<dc:creator>Vicente Rueda, Antonio</dc:creator>
+<dc:creator>López Pelayo, Iratxe</dc:creator>
+<dc:creator>Arroyo Jiménez, María Ángeles</dc:creator>
+<dc:creator>García Rubio, Inés</dc:creator>
+<dc:creator>Fernández Suárez, Antonio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Evaluar la puesta en marcha de un procedimiento de comunicación de pruebas y valores críticos en el Hospital de Montilla (Empresa Pública Hospital Alto Guadalquivir), Montilla, Córdoba. Material y métodos. Se consensuó un catálogo de «pruebas y valores críticos» estableciendo como óptimo un tiempo de comunicación inferior a 30 minutos. Para identificarlos se crearon en el Sistema Informático de Laboratorio (Omega 3000, Roche Diagnostics) reglas automáticas que generan una prueba de aviso. El valor crítico se comprueba analíticamente conforme al procedimiento. Se establecen las responsabilidades en la comunicación y la relación de personas a avisar en cada supuesto. Para el registro se genera otra prueba que incluye quién comunica, a qué hora, el receptor y la recepción de la notificación («Read-back»). Como indicadores se establecieron: número de comunicaciones, tiempo de demora y efectos adversos por retraso. Resultados. Desde enero a septiembre de 2010 se han realizado 73 avisos por pruebas críticas y 354 por valores críticos (0,64% del total de peticiones) de los que 77 (22%) han correspondido a análisis de rutina y 277 (78%) a análisis de urgencias y consulta única. El aviso más frecuente fue por hiperpotasemia (15,8%). Conclusiones. La puesta en marcha del procedimiento ha generado un ligero aumento de la carga de trabajo en el laboratorio, pero ha supuesto una mayor diligencia clínica a la hora de generar acciones médicas inmediatas. Estas iniciativas generan cultura de seguridad para el paciente y los profesionales, creando sinergias beneficiosas en toda la organización (AU)</dc:description>
+<dc:source>Rev. lab. clín;4(3): 145-152, jul.-sept. 2011.</dc:source>
+<dc:identifier>ibc-90887</dc:identifier>
+<dc:title xml:lang="es">Implantación y evaluación de un procedimiento de comunicación de valores críticos</dc:title>
+<dc:subject>^d3173</dc:subject>
+<dc:subject>^d5166</dc:subject>
+<dc:subject>^d10221^s22074</dc:subject>
+<dc:subject>^d33124^s22048</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d33124^s22066</dc:subject>
+<dc:subject>^d23802^s22045</dc:subject>
+<dc:subject>^d23802^s22066</dc:subject>
+<dc:subject>^d50325</dc:subject>
+<dc:subject>^d10221^s22049</dc:subject>
+<dc:subject>^d10221^s22048</dc:subject>
+<dc:subject>^d23802^s22083</dc:subject>
+<dc:subject>^d33124^s37748</dc:subject>
+<dc:subject>^d10221^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201109</dc:date>
+</metadata>
+</record>
+</ibecs-document>

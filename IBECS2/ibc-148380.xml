@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-148380</identifier>
+<setSpec>0212-6567</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Quality of registration of dementia diagnosis in primary care: The situation in Spain in 2002-2011</dc:title>
+<dc:description xml:lang="en">Objective: To ascertain the diagnosis associated with specific treatment for dementia in the Primary Care Electronic Clinical Record (PC-ECR) and to analyse the factors associated with the quality of registration. Methods: Descriptive study of patients taking cholinesterase inhibitors or memantine registered in Database for pharmacoepidemiological research in PC (BIFAP) 2011: 24,575 patients between 2002 and 2011. Diagnoses associated with first prescription of these drugs were grouped into 5 categories: 'dementia', 'memory impairment', 'dementia-related diseases', 'intercurrent processes' and 'convenience codes'. We calculated the prevalence of each category by age and sex for each study year (95% CI) and analysed the associations and trend for 2002-2011 using difference in proportions in independent samples and binary logistic regression. Results: A code of 'dementia' was associated with first prescription in 56.5% (95% CI: 55.8-57.1) of patients. It was higher in women [OR 1.09 (95% CI: 1.03-1.15)] and with increasing follow-up time [OR 1.07 (95% CI: 1.06-1.08) for each year of follow-up]. 'Convenience codes' [16.3% (95% CI: 15.8-16.7)] were coded more frequently in women and in those &amp;#8805; 80 years; 'Memory impairment' [12.4% (95% CI: 12.0-12.8)], 'related diseases' [4.6% (95% CI: 4.4-4.8)] and 'intercurrent processes' [10.3% (95% CI: 9.9-10.6)] were used more in men and in persons &lt; 80 years. Between 2002 and 2011 improved the use of 'convenience codes'. Conclusions: Almost half of the patients taking cholinesterase inhibitors or memantine do not have a diagnosis of dementia registered in their PC-ECR. Registration improves with increasing time of follow-up. Improvements are needed in the PC-ECR, adequate care coordination, and proactive approach to increase the quality of dementia registration (AU)</dc:description>
+<dc:creator>Hoyos-Alonso, María del Canto de</dc:creator>
+<dc:creator>Otero Puime, Ángel</dc:creator>
+<dc:creator>Bonis, Julio</dc:creator>
+<dc:creator>Castell Alcalá, María Victoria</dc:creator>
+<dc:creator>Bryant, Verónica</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Comprobar el diagnóstico asociado al tratamiento específico para demencia en la historia clínica electrónica de atención primaria (HCE-AP) y analizar los factores asociados a la calidad del registro. Método: Estudio descriptivo de los pacientes con anticolinesterásicos o memantina registrados en la Base para Investigación Farmacoepidemiológica en atención primaria (BIFAP) 2011: 24.575 pacientes entre 2002 y 2011. Los diagnósticos asociados a la primera prescripción de estos fármacos se agruparon en 5 categorías: «demencia», «alteraciones de memoria», «enfermedades relacionadas con demencia», «procesos intercurrentes» y «códigos de conveniencia». Se calculó la prevalencia de cada categoría por edad y sexo en cada año de estudio (IC 95%) y se analizaron asociaciones y tendencia 2002-2011, utilizando diferencias de proporciones para muestras independientes y regresión logística binaria. Resultados: El 56,5% (IC 95%: 55,8-57,1) de los pacientes tenían asociado código «demencia» a la primera prescripción. Se registró mejor en mujeres (OR: 1,09 [IC 95%: 1,03-1,15]) y al aumentar el tiempo transcurrido (OR: 1,07 [IC 95%: 1,06-1,08] por cada año de seguimiento). Los «códigos de conveniencia» (16,3% [IC 95%: 15,8-16,7]) se utilizaron más en mujeres y &amp;#8805; 80 años; las «alteraciones de memoria» (12,4% [IC 95%: 12,0-12,8]), «enfermedades relacionadas» (4,6% [IC 95%: 4,4-4,8]) y «procesos intercurrentes» (10,3% [IC 95%: 9,9-10,6]) más en hombres y &lt; 80 años. De 2002 a 2011 mejoró el uso de «códigos de conveniencia». Conclusiones: Casi la mitad de los pacientes con anticolinesterásicos o memantina no tienen registrado diagnóstico de demencia en su HCE-AP. El registro mejora al aumentar el tiempo de seguimiento. Se requieren mejoras de la HCE-AP, coordinación asistencial adecuada y actitud activa para aumentar la calidad del registro de demencia (AU)</dc:description>
+<dc:source>Aten Primaria;48(1): 33-41, ene. 2016. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-148380</dc:identifier>
+<dc:title xml:lang="es">Calidad del registro del diagnóstico de demencia en atención primaria. La situación en España en el periodo 2002-2011</dc:title>
+<dc:subject>^d28219^s22041</dc:subject>
+<dc:subject>^d26566</dc:subject>
+<dc:subject>^d5703^s22049</dc:subject>
+<dc:subject>^d5703^s22048</dc:subject>
+<dc:subject>^d31194^s22049</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24240^s22073</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d3718^s22080</dc:subject>
+<dc:subject>^d11756^s22074</dc:subject>
+<dc:subject>^d53713^s22074</dc:subject>
+<dc:subject>^d53713^s22049</dc:subject>
+<dc:subject>^d28219^s22048</dc:subject>
+<dc:subject>^d53713^s22048</dc:subject>
+<dc:subject>^d11756^s22045</dc:subject>
+<dc:subject>^d3718^s22016</dc:subject>
+<dc:subject>^d31194^s22083</dc:subject>
+<dc:subject>^d11756^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201601</dc:date>
+</metadata>
+</record>
+</ibecs-document>

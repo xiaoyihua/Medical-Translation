@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-115971</identifier>
+<setSpec>0213-4853</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Memory, fluency, and orientation: A five-minute screening test for cognitive decline</dc:title>
+<dc:description xml:lang="en">Background: The prevalence of cognitive impairment (CI) will double in the next 20 years, making early detection a key priority. Objectives: Validation of a 5-minute CI screening test. Methods: Adults aged 60 and older were recruited from memory clinics and the community at large in the Santiago, Chile metropolitan area. Based on clinical examination they were categorised as No CI (NCI), Mild CI (MCI) and dementia sufferers (DS). We measured the validity of a new test, MEFO, evaluating memory (5 points), phonetic verbal fluency (2 points) and orientation (6 points) by comparing its results with those from the MMSE. Results: We evaluated 214 subjects, comprising 49 with dementia, 47 with MCI, and 118 with no CI. The MEFO differentiated between all 3 groups whereas the MMSE did not discriminate between the MCI and NCI groups. The area under the ROC curve (AUC) for the MEFO distinguishing NCI subjects from dementia sufferers was 0.97; for NCI vs CI (dementia + MCI), 0.89; and for NCI vs MCI, 0.80. On the MMSE these values were 0.95, 0.84, and 0.73, respectively. A cut-off score of 6/7 on the MEFO identified dementia sufferers with a sensitivity of 86% and a specificity of 96%. A cut-off score of 8/9 distinguished CI from NCI subjects with a sensitivity of 83% and a specificity of 75%. Conclusions: The MEFO is a valid and reliable test for discriminating between dementia and CI sufferers and subjects with no CI. Its validity is similar to that the MMSE under these conditions, but it is more effective for identifying subjects with MCI and its administration time is shorter (AU)</dc:description>
+<dc:creator>Delgado Derio, C</dc:creator>
+<dc:creator>Araneda Yañez, A</dc:creator>
+<dc:creator>Slachevsky Chonchol, A</dc:creator>
+<dc:creator>Behrens Pellegrino, M. I</dc:creator>
+<dc:creator>Troncoso Ponce, M</dc:creator>
+<dc:creator>Guerrero Bonnet, S</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Antecedentes: En los próximos 20 años se duplicará la cantidad de personas con deterioro cognitivo (DC) apremiando su pronta detección. Objetivos: Validar una prueba de cribado de DC aplicable en &lt; de 5 min. Métodos: Adultos &amp;#8805; 60 años reclutados desde la comunidad y las clínicas de memoria de la zona urbana de Santiago de Chile fueron clasificados clínicamente en: dementes, DC leve (DCL) y sin DC (SDC). Se evaluó la validez de un nuevo test, MEFO, consistente en la evaluación de: memoria (5 puntos), fluidez fonética (2 puntos) y orientación (6 puntos) contrastado con los resultados del MMSE. Resultados: Se evaluó a 214 personas: 49 con demencia, 47 con DCL y 118 SDC. El MEFO diferenció a los 3 grupos clínicos entre sí, mientras que el MMSE no permitió discriminar DCL de SDC. El área bajo la curva ROC en el MEFO para diferenciar los grupos SDC versus: a) demencia fue = 0,97; b) DC (dementes + DCL) fue = 0,89; y c) DCL fue = 0,80; siendo estos valores para el MMSE de 0,95, 0,84, y 0,73, respectivamente. Un punto de corte (PC) del MEFO = 6/7 distinguió a las personas con demencia con una sensibilidad (S) = 86% y una especificidad (E) = 96%; y un PC = 8/9 distinguió a aquellos con DC con una: S = 83% y E = 75%. Conclusiones: El MEFO resultó una prueba confiable y válida para diferenciar a personas con demencia y DC, similar al MMSE en estos casos, pero con mayor utilidad para distinguir a los pacientes con DCL y de menor duración de aplicación (AU)</dc:description>
+<dc:source>Neurologia;28(7): 400-407, sept. 2013. tab</dc:source>
+<dc:identifier>ibc-115971</dc:identifier>
+<dc:title xml:lang="es">Memoria, fluidez y orientación: prueba de cribado de deterioro cognitivo en 5 minutos</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d25123^s22045</dc:subject>
+<dc:subject>^d13448^s22080</dc:subject>
+<dc:subject>^d3103^s22080</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d3718^s22080</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d8739^s22080</dc:subject>
+<dc:subject>^d9673</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201309</dc:date>
+</metadata>
+</record>
+</ibecs-document>

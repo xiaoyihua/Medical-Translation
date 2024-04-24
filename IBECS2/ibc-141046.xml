@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-141046</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">High pitch CT in triple rule-out studies: radiation dose and image quality compared to multidetector CT</dc:title>
+<dc:description xml:lang="en">Objective. To compare the image quality and radiation dose from high pitch dual source CT (128-DSCT) versus those from retrospective acquisition with 64-row multidetector CT (64-MDCT) in triple rule-out studies. Material and methods. We retrospectively studied 60 patients with acute chest pain: 30 with a retrospective EKG acquisition with 64-MDCT and 30 with high pitch 128-DSCT. We quantitatively analyzed the image quality by calculating the vascular density, muscular density (DM), noise, vascular density/noise ratio (VDNR), and contrast/noise ratio (CNR). We qualitatively evaluated the artifacts in the vena cava, aorta, and coronary arteries. We estimated the effective dose (ED) of radiation by means of the dose-length product. Results. There were no significant differences between 128-DSCT and 64-MDCT in the vascular density. The VDNR and CNR were higher on 128-DSCT than on 64-MDCT in the aorta (VDNR: 28.9 ± 11.7 vs. 20 ± 5.5; CNR: 24.4 ± 10.9 vs. 16.8 ± 5.4; P &lt; .01), in the pulmonary arteries (VDNR: 25.5 ± 10 vs. 20.6 ± 6.5; CNR: 24.5 ± 5.4 vs. 17.4 ± 6.4; P &lt; .01), and in the coronary arteries (VDNR: 25.9 ± 8.2 vs. 18.9 ± 4.9; CNR: 24.9 ± 8.2 vs. 15.6 ± 4.6; P &lt; .01). There were fewer artifacts in the coronary arteries on 128-DSCT than on 64-MDCT (3 vs. 34 nondiagnostic segments; P &lt; .001), and the ED in 128-DSCT was lower than in 64-MDCT (13.77 ± 4 vs. 2.77 ± 0.6 mSv; P &lt; .001). Conclusion. In triple rule-out studies, high pitch 128-DSCT delivers a lower dose of radiation and provides better image quality than retrospective acquisition with 64-MDCT (AU)</dc:description>
+<dc:creator>Oca Pernas, R</dc:creator>
+<dc:creator>Grande Astorquiza, A</dc:creator>
+<dc:creator>Tardáguila de la Fuente, G</dc:creator>
+<dc:creator>Bustos Fiore, A</dc:creator>
+<dc:creator>Fernández del Valle, A</dc:creator>
+<dc:creator>Delgado Sánchez-Gracián, C</dc:creator>
+<dc:creator>Trinidad López, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Comparar la calidad de imagen y dosis de radiación de la TC de doble fuente (128-TCDF) con pitch alto y la adquisición retrospectiva con TC de 64 filas de detectores (64-TCMD) en estudios de triple descarte. Material y métodos. Estudiamos retrospectivamente 60 pacientes con dolor torácico agudo: 30 con una adquisición ECG-retrospectiva con 64-TCMD y 30 con 128-TCDF y pitch alto. Analizamos cuantitativamente la calidad de la imagen calculando la densidad vascular (DV), densidad muscular (DM), ruido y cocientes densidad vascular/ruido (CDVR) y contraste/ruido (CCR). Valoramos cualitativamente los artefactos en la vena cava, aorta y coronarias. Calculamos la dosis de radiación efectiva estimada (DRE) con el producto dosis-longitud. Resultados. No hubo diferencias significativas en la DV. Con 128-TCDF los CDVR y CCR fueron mayores en la aorta (CDVR: 28,9 ± 11,7 y 20 ± 5,5; CCR: 24,4 ± 10,9 y 16,8 ± 5,4; p &lt; 0,01), arterias pulmonares (CDVR: 25,5 ± 10 y 20,6 ± 6,5; CCR: 24,5 ± 5,4 y 17,4 ± 6,4; p &lt; 0,01) y coronarias (CDVR: 25,9 ± 8,2 y 18,9 ± 4,9; CCR: 24,9 ± 8,2 y 15,6 ± 4,6; p &lt; 0,01). Los artefactos coronarios (3 y 34 segmentos no diagnósticos p &lt; 0,001) y la DRE (13,77 ± 4 y 2,77 ± 0,6 mSv; p &lt; 0,001) fueron menores con 128-TCDF. Conclusión. El pitch alto en el triple descarte disminuye la dosis de radiación y mejora la calidad de la imagen con respecto a la adquisición retrospectiva con 64-TCMD (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);57(5): 412-418, sept.-oct. 2015. tab, ilus</dc:source>
+<dc:identifier>ibc-141046</dc:identifier>
+<dc:title xml:lang="es">Tomografía computarizada de pitch alto en estudios de triple descarte: dosis de radiación y calidad de la imagen comparada con la de la tomografía computarizada multidetector</dc:title>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d54667^s22074</dc:subject>
+<dc:subject>^d24339^s22045</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d4367</dc:subject>
+<dc:subject>^d54667^s22039</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d54667^s22045</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d12268</dc:subject>
+<dc:subject>^d19100^s22027</dc:subject>
+<dc:subject>^d19100^s29166</dc:subject>
+<dc:subject>^d6493^s22022</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201510</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-AOT-2075</identifier>
+<setSpec>0034-9356</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Monitoring intraoperative neuromuscular blockade and blood pressure with one device (TOF-Cuff): A comparative study with mechanomyography and invasive blood pressure</dc:title>
+<dc:description xml:lang="en">Objective. The overall objective of the study is to determine the ability of TOF-Cuff device (blood-pressure modified cuff, including stimulation electrodes) to monitor with the same device the non-invasive blood pressure (NIBP) and the depth of a neuromuscular blockade (NMB) induced pharmacologically, by stimulation of the brachial plexus at the humeral level and recording evoked changes in arterial pressure. Material and method. Clinical, single-centre, open-controlled study with 32 adult patients ASA I-III for scheduled elective surgery under general anaesthesia in supine position, for the validation of neuromuscular monitoring, comparing the values obtained from neuromuscular relaxation TOF-Cuff with those obtained by mechanomyography (MMG) (control method) during the recovery phase of NMB, when a TOF ratio&gt;0.7 and&gt;0.9 (primary endpoint) were reached respectively. And an additional consecutive study of 17 patients for validation of NIBP monitoring with TOF-Cuff device vs invasive blood pressure measured by an intra-arterial catheter. All data were analyzed using the Bland-Altman method. Results. Recovery from NMB measured with the TOF-Cuff was earlier compared to MMG. Comparing TOF-ratio&gt;0.9 measured with TOF-Cuff vs TOF-ratio&gt;0.7 with MMG, a specificity of 91% and a positive predictive value of 84% were obtained. In NIBP measurement, the mean error and standard deviation of both systolic blood pressure (1.6±7mmHg) and diastolic blood pressure (&amp;#8722;3.4±6.3) were within the European accuracy requirements for medical devices. Conclusions. The TOF-Cuff device has been shown to be valid and safe in the monitoring of NMB and in the measurement of NIBP, with no patient presenting any adverse events, skin-level lesions or residual pain. It is not interchangeable with MMG, having a TOF-ratio&gt;0.9 quantified by the TOF-Cuff device, a good correlation with a TOF-ratio&gt;0.7 on MMG (AU)</dc:description>
+<dc:creator>Orozco Montes, J</dc:creator>
+<dc:creator>García Cayuela, J</dc:creator>
+<dc:creator>García Rojo, B</dc:creator>
+<dc:creator>Parreño Caparrós, M</dc:creator>
+<dc:creator>Aguayo Albasini, JL</dc:creator>
+<dc:creator>Veiga Ruiz, G</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Determinar la capacidad del dispositivo TOF-Cuff (manguito de presión modificado que incluye electrodos de estimulación) para monitorizar la presión arterial no invasiva (PANI) y el nivel de bloqueo neuromuscular (BNM) inducido farmacológicamente. Material y método. Estudio observacional, prospectivo, de 32 pacientes adultos ASA I-III programados para cirugía bajo anestesia general, para la validación de la monitorización del BNM con el dispositivo TOF-Cuff vs. mecanomiografía (MMG, método control) durante la fase de recuperación del BNM, cuando se alcanzó un TOF-ratio de 0,9 con TOF-Cuff y de 0,7 con la MMG (variable principal). Para completar el estudio principal se realizó un estudio adicional consecutivo al anterior y que incluyó a 17 pacientes para validar el dispositivo TOF-Cuff en la monitorización de la PANI en comparación con la presión arterial invasiva a nivel de la arteria radial (método control). Los datos fueron analizados mediante el método de Bland-Altman. Resultados. Se produjo un adelanto de la recuperación medida con TOF-Cuff respecto a la mecanomiografía. Al comparar un TOF-ratio&gt;0,9 cuantificado mediante TOF-Cuff con un TOF-ratio&gt;0,7 en la MMG tuvo una especificidad del 91% y un valor predictivo positivo del 84%. En la medición de la PANI, el error medio y la desviación estándar tanto de la presión arterial sistólica (1,6±7mmHg) como diastólica (&amp;#8722;3,4±6,3) estuvieron dentro de los requisitos europeos de precisión para aparatos sanitarios. Conclusiones. El dispositivo TOF-Cuff ha mostrado ser válido y seguro en la monitorización del BNM y en la medición de la PANI, no presentando ningún paciente acontecimientos adversos, lesiones a nivel de la piel o dolor residual. No es intercambiable con la MMG, teniendo un TOF-ratio&gt;0,9 cuantificado mediante el dispositivo TOF-Cuff, una buena correlación con un TOF-ratio&gt;0,7 en la MMG (AU)</dc:description>
+<dc:source>Rev Esp Anestesiol Reanim;64(10): 560-567, dic. 2017. tab, ilus, graf</dc:source>
+<dc:identifier>ibc-AOT-2075</dc:identifier>
+<dc:title xml:lang="es">Monitorización intraoperatoria del bloqueo neuromuscular y la presión arterial con un solo dispositivo (TOF-Cuff): estudio comparativo con la mecanomiografía y la presión arterial invasiva</dc:title>
+<dc:subject>^d9658^s22079</dc:subject>
+<dc:subject>^d29646</dc:subject>
+<dc:subject>^d33110^s22045</dc:subject>
+<dc:subject>^d771^s22045</dc:subject>
+<dc:subject>^d24541^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1822^s22039</dc:subject>
+<dc:subject>^d28998^s22045</dc:subject>
+<dc:subject>^d9405^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201712</dc:date>
+</metadata>
+</record>
+</ibecs-document>

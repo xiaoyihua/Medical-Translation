@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-25858</identifier>
+<setSpec>0048-7120</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Evaluation of a classification model of patients in our setting</dc:title>
+<dc:creator>Barroeta Urquiza, J</dc:creator>
+<dc:creator>Vigil Martín, E</dc:creator>
+<dc:creator>Fernández Palacín, A</dc:creator>
+<dc:creator>García Díaz, J</dc:creator>
+<dc:creator>Zarco Periñán, M. J</dc:creator>
+<dc:creator>Echevarría Ruiz de Vargas, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">El objetivo del estudio ha sido valorar, en nuestro entorno, la utilización de la clasificación de grupos de deterioro de Uniform Data System (UDS), como grupos homogéneos de pacientes, y evaluar los distintos factores que pueden predecir el número de visitas, como medida de consumo de recursos. Pacientes y métodos: Se han recogido 1594 registros del conjunto mínimo básico de datos (CMBD) realizado para tal fin, y que correspondían a la primera visita y al alta de un total de 747 pacientes, evaluados en las consultas externas de Rehabilitación. La clasificación se realizó utilizando en primer lugar el diagnóstico principal del paciente, según la clasificación internacional de enfermedades (CIE-9MC), que fue codificada mediante un tesaurus. Posteriormente, los pacientes fueron reagrupados, empleando los grupos de deterioro de UDS. Otras variables incluidas en el estudio fueron: variables demográficas (edad, sexo), la valoración funcional en la primera visita, realizada mediante la aplicación de la escala de valoración funcional "Virgen del Rocío" (EVFvr), y el considerar al paciente como crónico o no. Se realizó un estudio multivariante utilizando el modelo de regresión logística, para determinar qué variables eran predictoras del consumo de recursos, el número de visitas. Resultados: Cada uno de los pacientes pudo ser clasificado en un solo grupo, de los 12 grupos de deterioro de UDS utilizados. Al valorar las variables predictoras de consumo de recursos, se comprobó la relación existente entre el grupo de deterioro del paciente, al considerar a éste como presencia o ausencia de enfermedad y el número de visita. Otras variables relacionadas fueron la edad del paciente (p &lt; 0,01) y el nivel funcional evaluado por EVFvr (p &lt; 0,04).Conclusiones: Nuestros resultados sugieren que en nuestro medio, es posible utilizar el sistema de clasificación de grupo de deterioro. En la valoración del consumo de recursos mediante el número de visitas realizadas a un paciente, es necesario considerar, además de la clasificación realizada en base al diagnóstico, la edad del paciente y el nivel funcional que presenta. Sin embargo, son necesarios estudios, que nos lleven a desarrollar un nuevo sistema de clasificación de pacientes de uso en rehabilitación, más ajustado a nuestro medio (AU)</dc:description>
+<dc:source>Rehabilitación (Madr., Ed. impr.);37(3): 132-140, mayo 2003. tab</dc:source>
+<dc:identifier>ibc-25858</dc:identifier>
+<dc:title xml:lang="es">Evaluación de un modelo de clasificación de pacientes en nuestro entorno</dc:title>
+<dc:subject>^d28838^s22045</dc:subject>
+<dc:subject>^d28838^s22066</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d28838^s22048</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22519^s22074</dc:subject>
+<dc:subject>^d28838^s22041</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d28838^s22083</dc:subject>
+<dc:subject>^d10554^s22011</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200305</dc:date>
+</metadata>
+</record>
+</ibecs-document>

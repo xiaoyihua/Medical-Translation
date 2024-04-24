@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-168533</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Performance and optimisation of a trigger tool for the detection of adverse events in hospitalised adult patients</dc:title>
+<dc:description xml:lang="en">Objective: To characterise the performance of the triggers used in the detection of adverse events (AE) of hospitalised adult patients and to define a simplified panel of triggers to facilitate the detection of AE. Method: Cross-sectional study of charts of patients from a service of internal medicine to detect EA through systematic review of the charts and identification of triggers (clinical event often related to AE), determining if there was AE as the context in which it appeared the trigger. Once the EA was detected, we proceeded to the characterization of the triggers that detected it. Logistic regression was applied to select the triggers with greater AE detection capability. Results: A total of 291 charts were reviewed, with a total of 562 triggers in 103 patients, of which 163 were involved in detecting an AE. The triggers that detected the most AE were 'A.1. Pressure ulcer' (9.82%), 'B.5. Laxative or enema' (8.59%), 'A.8. Agitation' (8.59%), 'A.9. Over-sedation' (7.98%), 'A.7. Haemorrhage' (6.75%) and 'B.4. Antipsychotic' (6.75%). A simplified model was obtained using logistic regression, and included the variable 'Number of drugs'  and the triggers 'Over-sedation', 'Urinary catheterisation', 'Readmission in 30 days', 'Laxative or enema'  and 'Abrupt medication stop'. This model showed a probability of 81% to correctly classify charts with EA or without EA (p &lt;0.001; 95% confidence interval: 0.763-0.871). Conclusions: A high number of triggers were associated with AE. The summary model is capable of detecting a large amount of AE, with a minimum of elements (AU)</dc:description>
+<dc:creator>Guzmán Ruiz, Óscar</dc:creator>
+<dc:creator>Pérez Lázaro, Juan José</dc:creator>
+<dc:creator>Ruiz López, Pedro</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Caracterizar el rendimiento de los triggers utilizados en la detección de eventos adversos (EA) de pacientes adultos hospitalizados y definir un panel de triggers simplificado suficientemente sensible y específico, para la detección de EA. Método: Estudio transversal de altas de pacientes de un servicio de medicina interna para la detección de EA mediante revisión sistemática de la historia clínica y la identificación de 41 triggers (evento clínico relacionado frecuentemente con EA), determinando si hubo EA según el contexto en que apareció el trigger. Una vez identificado el EA, se procedió a la caracterización de los triggers que lo detectaron. Se aplicó regresión logística para la selección de los triggers con mayor capacidad de detección de EA. Resultados: Se revisaron 291 historias clínicas y se detectaron 562 triggers en 103 pacientes, de los cuales 163 estuvieron implicados en la detección de un EA. Los triggers que detectaron más EA fueron «A.1. Úlcera por presión» (9,82%), «B.5. Laxante o enema» (8,59%), «A.8. Agitación» (8,59%), «A.9. Sobresedación» (7,98%), «A.7. Hemorragia» (6,75%) y «B.4. Antipsicótico» (6,75%). Se obtuvo un modelo simplificado de triggers que incluyó la variable «Número de fármacos» y los triggers «Sobresedación», «Sondaje», «Reingreso en 30 días», «Laxante o enema» y «Cese brusco de la medicación». Este modelo obtuvo una probabilidad del 81% de clasificar correctamente las historias con EA y sin EA (p &lt;0,001; intervalo de confianza del 95%: 0,763-0,871). Conclusiones: Un número elevado de triggers estuvieron asociados a EA. El modelo resumido permite detectar una gran cantidad de EA con un mínimo de elementos (AU)</dc:description>
+<dc:source>Gac Sanit;31(6): 453-458, nov.-dic. 2017. tab, graf</dc:source>
+<dc:identifier>ibc-168533</dc:identifier>
+<dc:title xml:lang="es">Rendimiento y optimización de la herramienta trigger en la detección de eventos adversos en pacientes adultos hospitalizados</dc:title>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d4421^s22067</dc:subject>
+<dc:subject>^d28596^s22045</dc:subject>
+<dc:subject>^d7553^s22045</dc:subject>
+<dc:subject>^d33121^s22020</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4421^s22016</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:subject>^d54857^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201712</dc:date>
+</metadata>
+</record>
+</ibecs-document>

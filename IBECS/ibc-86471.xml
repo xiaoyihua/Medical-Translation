@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-86471</identifier>
+<setSpec>0212-8799</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Setting the concept 2 "Draf factor" for the simulation of fixed-thwart boat rowing?</dc:title>
+<dc:description xml:lang="en">Background: The CONCEPT 2 rowing ergometer (C2)is a world wide used device, both for rowers performance assessment and for indoor training. In order to regulate the resistance of the flywheel the C2 has a damper to control the air that can pass across the fan. This resistance is called drag factor (DF) and the manufacturer recommend to use the machine in the 115-140 range, because at this level the perception is closest to that of a racing boat. Although theC2 is also the most commonly used ergometer in fixed thwart rowing (trainer a), it is unknown which is the DF that better simulate the conditions of this rowing modality. Objective: To assess the most appropriate DF of the C2 to reflect fixed-thwart trainer a rowing. Design: Cross-sectional comparative study. Subjects: 19 Well trained male rowers, age 25 ± 5 year, anaerobic threshold (4 mmol/l) (W4) 231 ± 26 W. Measurements: The heart rate (FC) in trainer a and in C2was measured using three different DF (140, 150 and 160),34 samples at each DF were taken. To assure that the C2and the trainer a rowing was similar, the stroke rate (R) and the drive phase duration (TP) were controlled. Analysis: The Bland-Altman`s method was used to test the agreement of the FC between the C2 and the trainer a at the three different DF. Results: The best agreement was found at 160 DF of theC2. The differences between the FC of the trainer a and the C2 showed a great data dispersion in all the DF. The FC demonstrated a significant difference of 7, 4 and 5 lat/min, for the 140, 150 and 160 DF, respectively. Conclusions: Among the three DF of the C2 studied in this investigation (140, 150 and 160) the one that best reflect the trainer a rowing is 160. Although, a systematic error were found in the measurement of the FC at all of the three tested DF (AU)</dc:description>
+<dc:creator>Arrizabalaga, Ramón</dc:creator>
+<dc:creator>Samaniego, Juan C</dc:creator>
+<dc:creator>Emparanza, Jose I</dc:creator>
+<dc:creator>Aramendi, Jose F</dc:creator>
+<dc:creator>Gallego, Elisa</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Antecedentes: El remo ergómetro CONCEPT 2 (C2) es uno de los más utilizados en todo el mundo, tanto en la valoración funcional de los remeros, como en sus entrenamientos fuera del agua. Este ergómetro controla la resistencia del ventilador mediante una ventanilla que regula la entrada de aire al mismo. El fabricante denomina a esta resistencia drag factor (DF), y recomienda utilizar DF entre 115 y 140, debido a que son los que mejor simulan las sensaciones delos remeros de banco móvil en el agua. A pesar de que elC2 es también el remo ergómetro más utilizado en el remo de banco fijo (trainera), se desconoce cuál es el DF que mejor simula las condiciones de esta modalidad. Objetivo: Determinar cuál era el DF del C2 más adecuado al remo en la trainera. Diseño: Estudio transversal comparativo. Sujetos: 19 Remeros varones, edad de 26 ± 5 años, y un umbral anaeróbico (4 mmol/l) (W4) de 231 ± 26 W. Medidas: Se midió la frecuencia cardiaca (FC) en trainera y en el C2 con tres DF diferentes (140, 150 y 160). Se tomaron 34 muestras para cada DF. Para asegurar la similitud entre la remada del ergómetro y la de la trainera también se controló la cadencia de palada (R) y el tiempo de la fase de pasada (TP).Análisis: Método de Bland-Altman para comprobar la concordancia de la FC entre el C2 y la trainera para los diferentes DF. Resultados: La mejor concordancia se encontró para un DF de 160. Las diferencias de las FC de la trainera y el C2mostraron una dispersión importante, y unas diferencias significativas, de 7, 4 y 5 lat/min, para los DF de 140, 150 y160 respectivamente. Conclusiones: De los tres DF del C2 utilizados en este estudio (140, 150 y 160), el que mejor concordancia demostró con el remo de la trainera de banco fijo fue el de160. Sin embargo, se produjo un error sistemático en la medida de la FC entre ambas condiciones para todos los DF testados (AU)</dc:description>
+<dc:source>Arch. med. deporte;24(120): 245-252, jul.-ago. 2007. tab, graf</dc:source>
+<dc:identifier>ibc-86471</dc:identifier>
+<dc:title xml:lang="es">¿Cual es el "Draf factor" del concept 2 que mejor simula el remo en trainera?</dc:title>
+<dc:subject>^d30118^s22039</dc:subject>
+<dc:subject>^d5178^s22039</dc:subject>
+<dc:subject>^d5178^s22045</dc:subject>
+<dc:subject>^d51792^s22045</dc:subject>
+<dc:subject>^d5178^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d11240^s22031</dc:subject>
+<dc:subject>^d30118^s22045</dc:subject>
+<dc:subject>^d52940^s22083</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d30118^s22074</dc:subject>
+<dc:subject>^d52940^s22031</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d1721^s22039</dc:subject>
+<dc:subject>^d1721^s22045</dc:subject>
+<dc:subject>^d6493^s22031</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200708</dc:date>
+</metadata>
+</record>
+</ibecs-document>

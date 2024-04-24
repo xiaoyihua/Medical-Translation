@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-046419</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Theoretical foundations for the creation of a register of patients diagnosed with mental retardation of a genetic origin: an epidemiological and public health perspective</dc:title>
+<dc:description xml:lang="en">Introduction. The need to quantify and classify the cases of mental retardation with a genetic origin (MRGO) has ledthe GIRMOGEN (Genetic Mental Retardation Research Group) to promote a computerised register of cases of MRGO. Aims.To draw up a suitable protocol for the design and development of a register of these characteristics, to theoretically define thephases that make up the overall process of designing and developing the register, and to create a register of patients diagnosedwith MRGO following the phases set out in that procedure. Materials and methods. A nine-phase circular sequential methodwas used. The first consists of an initial approach phase and the process continues until the final production and research phase isreached, which is managed by a single computer program or application. The intermediate phases between the initial approachand the production are as follows: planning, requirements, analysis and design, security (legal cover and confidentiality),implementation, trials and testing, and evaluation. Results. The circular sequential design and development process resulted ina relational database system managed by a computer application called GIRMOGEN-Pro v. 1.0. Conclusions. This softwareallows cases to be registered in real time and constitutes a multi-centre system that makes it possible to register cases at differentgeographical locations. It allows a correct epidemiological analysis to be performed, reduces the chances of biases occurring,and also makes it possible to control for confusion and interaction among variables. Technically it meets the standards set outby current law regulating personal health-related information</dc:description>
+<dc:creator>Rodríguez-Andrés, C</dc:creator>
+<dc:creator>Delgado-Naranjo, J</dc:creator>
+<dc:creator>Bellón-Vázquez, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. La necesidad de cuantificar y clasificarlos casos de retraso mental de origen genético (RMOG), ha impulsadoa GIRMOGEN (Grupo de Investigación en Retraso Mental de Origen Genético) a promover el desarrollo de un registro informatizadode casos de RMOG. Objetivos. Elaborar un protocolo de diseñoy desarrollo adaptado a un registro de estas características,definir teóricamente las fases que componen el proceso global dediseño y desarrollo del registro, y crear un registro de pacientesdiagnosticados de RMOG, siguiendo las fases de dicho procedimiento.Materiales y métodos. Se empleó un método secuencial circular,compuesto por nueve fases; se parte de una fase de planteamientoinicial, para culminar en la fase de producción e investigación,gestionado por un único programa o aplicación informática.Las fases intermedias entre el planteamiento inicial y la producciónson: planificación, requerimientos, análisis y diseño, seguridad(cobertura legal y confidencialidad), implementación, tests ypruebas, y evaluación. Resultados. Como resultado del proceso secuencialcircular de diseño y desarrollo, se obtuvo un sistema relacionalde bases de datos gestionado por una aplicación informáticadenominada GIRMOGEN-Pro v. 1.0. Conclusión. Permite el registrode casos en tiempo real. Constituye un sistema multicéntricoque posibilita el registro de casos en diferentes puntos geográficos.Permite un correcto análisis epidemiológico, disminuye la probabilidadde sesgo, y posibilita el control de la confusión e interacciónentre variables. Se ajusta técnicamente a la legislación vigente enmateria de datos de carácter personal relacionados con la salud</dc:description>
+<dc:source>Rev Neurol;42(supl.1): s117-s123, ene. 2006. ilus, tab</dc:source>
+<dc:identifier>ibc-046419</dc:identifier>
+<dc:title xml:lang="es">Fundamentos teóricos para la creación de un registro de pacientes diagnosticados de retraso mental de origen genético: perspectiva desde la epidemiología y la salud pública</dc:title>
+<dc:subject>^d36354^s37748</dc:subject>
+<dc:subject>^d33619^s22049</dc:subject>
+<dc:subject>^d28402^s22048</dc:subject>
+<dc:subject>^d28219</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d8777^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200601</dc:date>
+</metadata>
+</record>
+</ibecs-document>

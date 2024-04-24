@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-130706</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Consequences of the error in bibliographical references. The specific case of the journal Psicothema</dc:title>
+<dc:description xml:lang="en">The errors, as they appear in the databases of the Web of Science, found in the bibliographical citations of the works published in Psicothema were analyzed. The most frequent error found is citing the title of the journal as Psicothema, instead of Psicothema. The authors reveal the need to take more care when reviewing the titles of journals in the bibliographical references of the works. Such errors often prevent locating the works cited in the article. They also hinder authors&#146; evaluation of the works and the journals because many bibliometric indicators used to establish the rankings of the best journals of a specialty are calculated based on the number of citations of works published in the journals (AU)</dc:description>
+<dc:creator>Peñaranda Ortega, María</dc:creator>
+<dc:creator>Civera Mollá, Cristina</dc:creator>
+<dc:creator>Osca-Lluch, Julia</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Se realiza un análisis de los errores encontrados en las citas bibliográficas de los trabajos publicados en la revista Psicothema, tal y como se recogen en las bases de datos del Web of Science. De los errores que se encontraron, el más frecuente está en la utilización del título de la revista como Psicotherma, en lugar de Psicothema. Los autores reflejan la necesidad de que se cuide mejor el proceso de revisión de los títulos de las revistas en las referencias bibliográficas de los trabajos, ya que estos errores impiden muchas veces la localización de los trabajos citados, y además perjudica la evaluación de los autores de los trabajos citados y de las revistas, ya que muchos de los indicadores bibliométricos utilizados para establecer los rankings de las mejores revistas de una especialidad se calculan a partir del número de citaciones que reciben los trabajos publicados en las revistas (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);21(2): 300-303, abr.-jun. 2009. tab</dc:source>
+<dc:identifier>ibc-130706</dc:identifier>
+<dc:title xml:lang="es">Consecuencias de los errores en las referencias bibliográficas. El caso de la revista Psicothema</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d1659</dc:subject>
+<dc:subject>^d50088</dc:subject>
+<dc:subject>^d15354^s22048</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d10697^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200906</dc:date>
+</metadata>
+</record>
+</ibecs-document>

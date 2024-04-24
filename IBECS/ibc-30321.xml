@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-30321</identifier>
+<setSpec>1137-6627</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Metal poisoning</dc:title>
+<dc:creator>Ferrer, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Departamento de Salud. Gobierno de Navarra</dc:publisher>
+<dc:description xml:lang="es">Los metales están entre los tóxicos más antiguos conocidos por el hombre. En el industrializado mundo actual las fuentes de exposición a metales son ubicuas tanto en el campo laboral como a partir de agua, los alimentos o el ambiente contaminados. Su toxicidad está caracterizada por el elemento metálico en cuestión pero se ve modificada por el tipo de compuesto, orgánico o inorgánico y sus características de hidro o liposolubilidad, que determina su toxicocinética y por tanto sus posibilidad de alcanzar sus dianas. Las biomoléculas más afectadas por los metales son las proteínas con actividad enzimática por lo que su patología es multisistema. Los principales sistemas afectados son el gastrointestinal, neurológico central y periférico, hemático y renal. Algunos de los compuestos metálicos son carcinógenos. Los metales se benefician de un tratamiento condicionado por su reactividad química. Pueden ser inactivados y eliminados mediante la administración de substancias quelantes que producen con ellos moléculas complejas, atóxicas y excretables. Los principales agentes quelantes son: BAL (British Anti-Lewisite o dimercaprol), DMPS (ácido 2,3-dimercapto-1-propanosulfonico) y DMSA (ácido meso-2,3-dimercatosuccínico o Succimer), EDTA, Penicilamina (beta, beta-dimetilcisteína) y Desferoxamina. Se exponen a continuación las características toxicocinéticas, mecanismo de acción, clínica y tratamiento de alguno de los metales y metaloides más relevantes: plomo, mercurio y arsénico (AU)</dc:description>
+<dc:source>An Sist Sanit Navar;26(supl.1): 141-153, ene. 2003.</dc:source>
+<dc:identifier>ibc-30321</dc:identifier>
+<dc:title xml:lang="es">Intoxicación por metales</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d8034^s22057</dc:subject>
+<dc:subject>^d32485</dc:subject>
+<dc:subject>^d8846^s22068</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d34352^s22057</dc:subject>
+<dc:subject>^d2659^s22000</dc:subject>
+<dc:subject>^d8807^s22057</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200301</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-33033</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Design and implementation of diagnosis-related group packages in the Hospital Clínico of the University of Chile</dc:title>
+<dc:creator>Carmona, Sergio</dc:creator>
+<dc:creator>Salinas, Hugo</dc:creator>
+<dc:creator>Veloz, Patricio</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Los sistemas de financiación de los hospitales están considerando de manera creciente el pago por la actividad que estos centros generan, más que el gasto en que éstos incurren independientemente de su actividad. Por tanto, es indispensable el diseño de metodologías que apunten a la adecuada construcción de paquetes de prestaciones. El Hospital Clínico de la Universidad de Chile ha estado elaborando una metodología para construir paquetes asistenciales y evaluar su aplicación en varios servicios clínicos. Se presenta la metodología y su aplicación a las siguientes intervenciones: a) colecistectomía por vía laparoscópica, y b) tonsilectomía a manera de ejemplo, así como la aplicación de ésta como un sistema de auditoría clínica a partir de variables económicas, la cual puede ser complementaria a las que se emplean en el interior de los centros hospitalarios (AU)</dc:description>
+<dc:source>Rev. calid. asist;19(4): 261-268, jun. 2004. tab, ilus</dc:source>
+<dc:identifier>ibc-33033</dc:identifier>
+<dc:title xml:lang="es">Diseño e implementación de paquetes asistenciales en el Hospital Clínico de la Universidad de Chile</dc:title>
+<dc:subject>^d2722^s22080</dc:subject>
+<dc:subject>^d3709^s22048</dc:subject>
+<dc:subject>^d3709^s22049</dc:subject>
+<dc:subject>^d28627</dc:subject>
+<dc:subject>^d3709^s22066</dc:subject>
+<dc:subject>^d20208^s22049</dc:subject>
+<dc:subject>^d16617</dc:subject>
+<dc:subject>^d3709^s22074</dc:subject>
+<dc:subject>^d20208^s22018</dc:subject>
+<dc:subject>^d6435^s22049</dc:subject>
+<dc:subject>^d30313^s22045</dc:subject>
+<dc:subject>^d8653^s22049</dc:subject>
+<dc:subject>^d8655^s22045</dc:subject>
+<dc:subject>^d16645</dc:subject>
+<dc:subject>^d24624</dc:subject>
+<dc:subject>^d30912^s22018</dc:subject>
+<dc:subject>^d6435^s22074</dc:subject>
+<dc:subject>^d3164^s22074</dc:subject>
+<dc:subject>^d6435^s22011</dc:subject>
+<dc:subject>^d30057</dc:subject>
+<dc:subject>^d8653^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200406</dc:date>
+</metadata>
+</record>
+</ibecs-document>

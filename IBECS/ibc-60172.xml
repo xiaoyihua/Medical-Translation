@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-60172</identifier>
+<setSpec>1135-2841</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">No disponible</dc:title>
+<dc:description xml:lang="en">Objective. To examine whether the Ambulatory Patient Group (APG) system is useful as a planning and management tool for the emergency departments. Estimating the funding system according to the theroretical average weight of each process. Materials and methods. We developed a minimum discharge data set specific to the emergency activity. Implemented software APG Finder, which lists each episode in APGs and calculates their average weight. We calculated the theoretical funding on the basis of the average weight of each visit. Results. A total of 6.628 emergency visits were coded and grouped into APGs, distributed as follows: 66% doctor visits, 16% procedures and meaningful therapies, and 18% test and auxiliary procedures. 15 APGs grouped a 67,4% of all cases seen the emergency department. APGS are valid as information system for planning and managing the emergency department. The emergency visits are funded below (AU)</dc:description>
+<dc:creator>Ballester, E</dc:creator>
+<dc:creator>Fernández, A. I</dc:creator>
+<dc:creator>Atance, J. C</dc:creator>
+<dc:creator>Magro, R</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Analizar el sistema Ambulatory Patient Groups (APG) es útil como sistema de planificación y gestión de los servicios de urgencias. Estimar el sistema de financiación teórico de acuerdo al peso medio de cada proceso. Material y métodos: Se desarrolló un conjunto mínimo básico de datos específico  para la actividad de urgencia. Se aplicó el software APG Finder, que clasifica cada episodio en APGs y calcula su peso medio. Se calculó la financiación teórica en función del peso medio de cada visita. Resultados. Se han codificado y agrupado en APGs un total de 6.628 urgencias. Distribuidas en 66% visitas médicas, 16% de procedimientos y terapias significativas, y 18% de pruebas y procedimientos auxiliares. Quince APGs agrupan un 67,4% de la casuística atendida en urgencias. Conclusiones. Los APGs son válidos como sistema de información para la planificación y la gestión de los servicios de urgencias. Las visitas de urgencias están infrafinanciadas (AU)</dc:description>
+<dc:source>Med. prev;14(3): 9-16, jul.-sept. 2008. tab, ilus</dc:source>
+<dc:identifier>ibc-60172</dc:identifier>
+<dc:title xml:lang="es">Aplicación de los Ambulatory Patient Groups a un servicio de urgencias hospitalarias</dc:title>
+<dc:subject>^d28838^s22045</dc:subject>
+<dc:subject>^d4711^s22083</dc:subject>
+<dc:subject>^d10223^s22083</dc:subject>
+<dc:subject>^d28571</dc:subject>
+<dc:subject>^d28984^s22083</dc:subject>
+<dc:subject>^d10223^s22011</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200809</dc:date>
+</metadata>
+</record>
+</ibecs-document>

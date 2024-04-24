@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-138006</identifier>
+<setSpec>0001-6640</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Scientific communication (XXII). Groupware environments</dc:title>
+<dc:description xml:lang="en">New technologies allow scientific community to have a set of tools to simulate some of the processes to elaborate scientific work, such as establishing meetings, writing papers, and sharing files, highlighting the importance of the collaborative work. The uses of these applications, where synchronization and update of contents are fundamental, allow the professionals to conduct these processes in a fluent and agile way. This article shows applications to plan meetings (Doodle, Google Calendar), to store and share big sized files (Dropbox, SugarSync), and to write cooperative documents (GoogleDrive, OneDrive) (AU)</dc:description>
+<dc:creator>Navarro Molina, C</dc:creator>
+<dc:creator>González de Dios, J</dc:creator>
+<dc:creator>Alonso Arroyo, A</dc:creator>
+<dc:creator>Vidal Infer, A</dc:creator>
+<dc:creator>Aleixandre Benavent, R</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Las nuevas tecnologías ponen a disposición de la comunidad científica un grupo de herramientas que emulan algunos de los procesos de elaboración del trabajo científico, como reunirse, redactar un artículo o compartir archivos, en los que la colaboración es un elemento importante. El empleo de estas aplicaciones, en que la sincronización y la actualización del contenido son fundamentales, permite al profesional realizar estos procesos de forma ágil y fluida. En este artículo se describen aplicaciones para planificar reuniones (Doodle, Google Calendar), almacenar y compartir archivos de gran tamaño (Dropbox y SugarSync) y redactar documentos de forma cooperativa (GoogleDrive y OneDrive) (AU)</dc:description>
+<dc:source>Acta Pediatr Esp;73(4): 106-109, abr. 2015. ilus</dc:source>
+<dc:identifier>ibc-138006</dc:identifier>
+<dc:title xml:lang="es">Comunicación científica (XXII). Entornos de trabajo en grupo</dc:title>
+<dc:subject>^d50131</dc:subject>
+<dc:subject>^d6276</dc:subject>
+<dc:subject>^d33196^s22049</dc:subject>
+<dc:subject>^d3320</dc:subject>
+<dc:subject>^d6273^s22049</dc:subject>
+<dc:subject>^d32795^s22049</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201504</dc:date>
+</metadata>
+</record>
+</ibecs-document>

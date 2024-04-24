@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-90659</identifier>
+<setSpec>0210-5020</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Pharmacokinetic process: does the site of drug action? Excretion of drugs</dc:title>
+<dc:description xml:lang="en">The main route of excretion of drugs is the kidney. Other routes include the lungs; breast milk; sweat; tears, and genital secretions (alarming if the patient is not expecting the orange-red discoloration caused by rifampicin); bile (leading to recirculation of some compounds, for example chloramphenicol, whose inactive metabolites are reactivated by hydrolysis in the gut, morphine, rifampicin, tetracyclines, and digoxin); and saliva (sometimes used in monitoring drug concentrations in body fluids). Three processes determine the renal excretion of drugs: glomerular filtration, passive tubular reabsorption and active tubular secretion. Thus, total renal excretion= excretion by filtration + excretion by secretion &#150; retention by reabsorption. If an active drug is metabolized mainly to inactive compounds, renal function will not greatly affect elimination of the parent compound. However, if the drug or an active metabolite is excreted unchanged via the kidneys, changes in renal function (i.e. chronic renal failure) will influence its elimination. Therefore, dose adjustment of the drug should be recommended(AU)</dc:description>
+<dc:creator>Carrillo Norte, Juan Antonio</dc:creator>
+<dc:creator>Postigo Mota, Salvador</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El riñón constituye la vía principal de excreción de fármacos fuera del organismo. Junto con el aparato urinario, los fármacos se excretan a través de otras vías como los pulmones, la leche materna, el sudor, la secreción lagrimal y genital (la rifampicina produce una coloración rojo anaranjada), la bilis y la saliva. La excreción de algunos compuestos por via biliar (p.ej. cloranfenicol), puede dar lugar a un fenómeno de recirculación entero-hepática como consecuencia de la reactivación mediante hidrólisis intestinal de los metabolitos y su posterior reabsorción. Además de cloranfenicol, otros fármacos excretados a través de la bilis son la morfina, la rifampicina, las tetraciclinas y la digoxina. La saliva puede ser útil para la monitorización de fármacos que se concentran especialmente en este medio. Tres procesos determinan la excreción renal: la filtración glomerular, la reabsorción tubular pasiva y la secreción tubular activa. La excreción total de un fármaco en la orina es la resultante de dichos procesos, de forma que excreción renal= filtración + secreción &#150; reabsorción. Si un compuesto farmacológico es inactivado, principalmente a través del metabolismo, la función renal no es un factor relevante en su eliminación. Sin embargo, la alteración de la función renal (p.ej. en la insuficiencia renal crónica) constituye un factor relevante en la eliminación de fármacos cuando éstos, o sus metabolitos activos, se expulsan principalmente por el riñón, sin transformación metabólica previa. En esta situación es recomendable ajustar la dosis en el paciente(AU)</dc:description>
+<dc:source>Rev Enferm;34(9): 584-591, sept. 2011. tab, ilus</dc:source>
+<dc:identifier>ibc-90659</dc:identifier>
+<dc:title xml:lang="es">Excreción de fármacos. El proceso farmacocinético: ¿Llega el fármaco al sitio de acción?</dc:title>
+<dc:subject>^d12705^s22073</dc:subject>
+<dc:subject>^d26971</dc:subject>
+<dc:subject>^d7021^s22021</dc:subject>
+<dc:subject>^d12705^s22044</dc:subject>
+<dc:subject>^d13923^s22063</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d14133^s22044</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d2747^s22073</dc:subject>
+<dc:subject>^d14133^s22073</dc:subject>
+<dc:subject>^d2747^s22044</dc:subject>
+<dc:subject>^d4116^s22073</dc:subject>
+<dc:subject>^d12838^s22063</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201109</dc:date>
+</metadata>
+</record>
+</ibecs-document>

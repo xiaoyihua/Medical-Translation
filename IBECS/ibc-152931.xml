@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-152931</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Impact of the pharmaceutical copayment reform on the use of antidiabetics, antithrombostics and drugs for chronic airflow obstructions. Spain</dc:title>
+<dc:description xml:lang="en">Background: In 2012 it changed the Spanish legislation regulating the pharmaceutical copayment by the National Health System (NHS). The objective was to know if the Spanish pharmaceutical copayment reform in 2012 has affected drugs consumptions for chronic diseases such as antidiabetics, antithrombotics and agents against obstructive conditions of the respiratory tract. Methods: Retrospective longitudinal observational study, using general segmented linear regression models for interrupted time series. The variables analyzed were the number of defined daily doses (DDDs) and the amount corresponding to public funding and not public funding from the NHS since September 2010 to August 2015 (T=60). Results: The estimated variation rate of DDDs is negative but decreasing for the three therapeutic subgroups at 6, 12, 24 and 38 months after the intervention: The estimated variation rate of DDDs is negative but decreasing for the most part of the three therapeutic subgroups at 6, 12, 24 and 38 months after the intervention: -0.1% for antidiabetics after 6 months and 0.3% after 38 months; -3.7% for antithrombotics after 6 months and -4.6% after 38 months; -2.7% for asthma and COPD drugs after 6 months and -1.3% after 38 months. A sustained and significant reduction in expenditure was estimated only in the subgroup of asthma and COPD drugs: -5.2% after 6 months, -7.0% after 12 months and after 24 months, and -6.2% after 38 months. Conclusions: The pharmaceutical copayment reform of 2012 led to an immediate and significant reduction in the number of DDDs of all three therapeutic subgroups selected in this study. This level effect is not permanent, as it is accompanied by a change in the growth trend in the post-intervention months, which has partly offset the effect on the level (AU)</dc:description>
+<dc:creator>Puig-Junoy, Jaume</dc:creator>
+<dc:creator>González López-Valcárcel, Beatriz</dc:creator>
+<dc:creator>Gómez-Navarro, Vanessa</dc:creator>
+<dc:creator>Rodríguez-Feijóo, Santiago</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamentos: En 2012 cambió la legislación española que regulaba el copago farmacéutico de la prestación farmacéutica del Sistema Nacional de Salud (SNS). El objetivo fue conocer si este cambio afecta al consumo de los medicamentos para enfermedades crónicas, tales como antidiabéticos, antitrombóticos y fármacos contra padecimientos obstructivos de las vías respiratorias. Método: Estudio observacional longitudinal retrospectivo. Se utilizaron modelos de regresión lineal segmentada general para series de tiempo interrumpido. Las variables analizadas fueron el número de dosis diarias definidas (DDDs) y el importe de la facturación de las dispensaciones financiadas y no financiadas por el SNS desde septiembre de 2010 hasta agosto de 2015 (T=60). Resultados: La tasa de variación estimada de las DDDs fue negativa pero decreciente para los 3 subgrupos terapéuticos a los 6, 12, 24 y 38 meses de la intervención: -0,1% para antidiabéticos a los 6 meses y 0,3% a los 38 meses; -3,7% para antitrombóticos a los 6 meses y -4,6% a los 38 meses; -2,7% a los 6 meses para anti-asma y EPOC y -1,3% a los 38 meses. Se estimó una reducción mantenida y significativa del gasto únicamente en el subgrupo para asma y EPOC: -5,2% a los 6 meses, -7,0% a los 12 meses y a los 24 meses y -6,2% a los 38 meses. Conclusiones: La reforma del copago farmacéutico de 2012 ocasionó una reducción inmediata y significativa en el número de dosis diarias definidas de los tres grupos terapéuticos estudiados. Este efecto nivel no fue permanente ya que se acompañó de un cambio en la tendencia de crecimiento en los meses post-intervención que, en parte, compensó el efecto sobre el nivel (AU)</dc:description>
+<dc:source>Rev Esp Salud Publica;90: 0-0, 2016. tab, graf</dc:source>
+<dc:identifier>ibc-152931</dc:identifier>
+<dc:title xml:lang="es">Impacto de la reforma del copago farmacéutico sobre la utilización de medicamentos antidiabéticos, antitrombóticos y para la obstrucción crónica del flujo aéreo</dc:title>
+<dc:subject>^d31495^s22041</dc:subject>
+<dc:subject>^d405^s22018</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d7524^s22074</dc:subject>
+<dc:subject>^d5478^s22018</dc:subject>
+<dc:subject>^d5478^s22073</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28152^s22018</dc:subject>
+<dc:subject>^d11016^s22074</dc:subject>
+<dc:subject>^d7182^s22018</dc:subject>
+<dc:subject>^d8059^s22074</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d405^s22080</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d30175^s22048</dc:subject>
+<dc:subject>^d30175^s22045</dc:subject>
+<dc:subject>^d30175^s22018</dc:subject>
+<dc:subject>^d24769</dc:subject>
+<dc:subject>^d7182^s22073</dc:subject>
+<dc:subject>^d28152^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201600</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-107142</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Doctors&#146; acceptance of recommendations for patients with the opportunity for pharmacotherapy improvement</dc:title>
+<dc:description xml:lang="en">Objective: To identify and quantify the in&amp;#64258;uence of different variables on the implementation of pharmacotherapy optimisation measures in hospitalised patients. Method: Descriptive transversal study. Period: 2000&#151;2007. Environment: public university general hospital (25,000 patients admitted/year).The Programme implemented to improve pharmacotherapy quality and patient safety covers30% of all patients. Using records from the Atefarm®Farmis application, we analysed pharmacotherapy recommendations (PRs) made by pharmacists to doctors. The selected variables were the following: Risk of the medication for ADE (1-high, 0-low), ADE category, (0-indication, 1-effectiveness, 2-safety), potential severity (scale of 1 to 5), impact of the PR (0-effectiveness,1-safety, 2-ef&amp;#64257;ciency) and implementation of the PR (yes/no).We calculated the frequency (%) and 95% CI for the categorical variables and performeda multivariate logistical regression analysis to identify the variables&#146; degree of in&amp;#64258;uence onimplementing the PRs. Results: We identi&amp;#64257;ed 7920 ADEs in 4680 patients. A PR was issued in 85% of the cases (6762),and it was implemented in 83% (95% CI 74.2&#151;89.8). Potential severity of the ADE &amp;#8805;2 (OR 1.57;95% CI 1.27&#151;1.94), and ADE category for effectiveness and safety (OR 1.19; 95% CI 1.02&#151;1.39)were shown to be determining factors for implementing the PR for the patient. Conclusions: The probability that a PR will be implemented for a patient is related to the potential severity and the category of the identi&amp;#64257;ed ADE. Therefore, recommendations intended to improve effectiveness of pharmacotherapy or patient safety, and those with potential clinical consequences have a greater chance of being applied to a patient (AU)</dc:description>
+<dc:creator>Climente Martí, M</dc:creator>
+<dc:creator>López-Montenegro Soria, M. A</dc:creator>
+<dc:creator>Jiménez Torres, N. V</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Identificar y cuantificar la influencia de diferentes variables en la implantación de medidas de optimización farmacoterapéutica en pacientes ingresados. Método Estudio descriptivo, transversal. Período: 2000&#150;2007. Ámbito: hospital general universitario público (25.000 pacientes ingresados/año).El Programa de Mejora de la Calidad de la Farmacoterapia y la Seguridad del Paciente implantado da cobertura al 30% de los pacientes. A partir de los registros del aplicativo Atefarm® Farmis, se analizaron las recomendaciones farmacoterapéuticas (RF) realizadas por los farmacéuticos al médico. Las variables seleccionadas fueron las siguientes: riesgo del medicamento (problema relacionado con el medicamento [PRM]) (0, bajo; 1, alto), categoría del PRM, (0, indicación; 1, efectividad; 2, seguridad), gravedad potencial (escala 1&#150;5), impacto de la RF (0, efectividad; 1, seguridad; 2, eficiencia) e implantación de la RF (sí/no).Se calculó la frecuencia (%) y el intervalo de confianza del 95% (IC95%) de las variables categóricas y se realizó un análisis de regresión logística multivariante para identificar el grado de influencia de las variables en la implantación de las RF. Resultados Se identificaron 7.920 PRM en 4.680 pacientes. En el 85% (6.762) de los PRM se realizó una RF, que se implantó en el 83% (IC95%: 74,2&#150;89,8). La gravedad potencial del PRM superior o igual a 2 (OR: 1,57; IC95%: 1,27&#150;1,94) y la categoría del PRM de efectividad y seguridad (OR: 1,19; IC95%: 1,02&#150;1,39) se manifestaron como determinantes de la implantación de la RF en el paciente. Conclusiones La probabilidad de implantación de RF en el paciente está relacionada con la gravedad potencial y la categoría del PRM identificado. Así, las recomendaciones orientadas a mejorar la efectividad de la farmacoterapia o la seguridad del paciente, y con consecuencias clínicas potenciales presentan mayor éxito en su aplicación al paciente(AU)</dc:description>
+<dc:source>Farm Hosp;35(2): 51-57, Mar. -Abr. 2011. ilus, tab</dc:source>
+<dc:identifier>ibc-107142</dc:identifier>
+<dc:title xml:lang="es">Aceptación de recomendaciones en el paciente con oportunidades de mejora farmacoterapéutica</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d54857</dc:subject>
+<dc:subject>^d10797^s22045</dc:subject>
+<dc:subject>^d54219^s22054</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d11742^s22083</dc:subject>
+<dc:subject>^d54376^s22049</dc:subject>
+<dc:subject>^d8675^s22054</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201104</dc:date>
+</metadata>
+</record>
+</ibecs-document>

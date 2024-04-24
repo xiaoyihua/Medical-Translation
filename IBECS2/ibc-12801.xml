@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-12801</identifier>
+<setSpec>1137-2273</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Right heart defects</dc:title>
+<dc:creator>Sabriá Rius, J</dc:creator>
+<dc:creator>Bach Vallmajor, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Alpe Editores, S.A.</dc:publisher>
+<dc:description xml:lang="es">Este artículo presenta una revisión de las anomalías cardíacas congénitas del corazón derecho en las que es posible realizar un diagnóstico prenatal mediante la ecografía y el Doppler color. Para cada anomalía se describen las imágenes que se observan en la exploración ecográfica y el Doppler color, las diferencias con la exploración normal y los cortes ecográficos necesarios para su diagnóstico. Además se valora su frecuencia y la asociación con otras malformaciones congénitas cardíacas y no cardíacas. Se exponen las anomalías cardíacas del corazón derecho, siguiendo el orden de las conexiones venosa-auricular, auriculoventricular y ventriculoarterial (AU)</dc:description>
+<dc:source>Cienc. ginecol;6(2): 45-53, mar. 2002. ilus</dc:source>
+<dc:identifier>ibc-12801</dc:identifier>
+<dc:title xml:lang="es">Anomalías del corazón derecho</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d22261</dc:subject>
+<dc:subject>^d6505^s22005</dc:subject>
+<dc:subject>^d6483^s29166</dc:subject>
+<dc:subject>^d5426^s29166</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29142</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d16^s29166</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200203</dc:date>
+</metadata>
+</record>
+</ibecs-document>

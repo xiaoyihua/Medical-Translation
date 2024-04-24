@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-040342</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Clinical predictors of chronic chagasic myocarditis progression</dc:title>
+<dc:description xml:lang="en">Introduction and objectives. Previous prognostic studies of Chagas' disease have focused on mortality associated with end-stage cardiopathy (i.e., heart failure). Our aim was to identify indicators of progression in early-stage Chagas' heart disease. Matherial and method. The study included 856 patients with 3 positive anti-Trypanosoma cruzi test results. Those with heart failure were excluded. Patients were divided into 3 clinical groups: those without heart disease (Group I); those with heart disease but without left ventricular enlargement (Group II); and those with left ventricular enlargement but without heart failure (Group III). The endpoint was progression to a more severe clinical stage or death due to cardiovascular disease. A Cox regression model was used to derive a clinical risk score from clinical, electrocardiographic and echocardiographic variables. Results. At study entry, the patients' mean age was 43.7 years. They were followed up for a mean of 8 years. The following were predictors of heart disease progression: age at entry (HR=1.05; 95% CI, 1.02-1.07; P&lt;.001), left ventricular systolic diameter (HR=1.06; 95% CI, 1.04-1.09; P&lt;.001), intraventricular conduction abnormalities (HR=1.85; 95% CI, 1.02-3.36; P=.04), and sustained ventricular tachycardia (HR=3.97; 95% CI, 1.65-9.58; P=.002). Treatment with benznidazole reduced the risk of progression (HR=0.40; 95% CI, 0.23-0.72; P=.002). The devised clinical risk score was effective in stratifying the likelihood of cardiopathy progression. Conclusions. Specific clinical indicators and a derived clinical risk score can be used to predict the progression of chronic chagasic myocarditis in patients without heart failure (AU)</dc:description>
+<dc:creator>Lococo, Bruno</dc:creator>
+<dc:creator>Álvarez, María G</dc:creator>
+<dc:creator>Armenti, Alejandro</dc:creator>
+<dc:creator>Bertocchi, Graciela</dc:creator>
+<dc:creator>Vigliano, Carlos</dc:creator>
+<dc:creator>Viotti, Rodolfo</dc:creator>
+<dc:creator>Petti, Marcos</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos. Los estudios de pronóstico efectuados sobre la mortalidad de la cardiopatía se han centrado en la etapa final de la enfermedad (insuficiencia cardíaca). Nuestro objetivo fue establecer los indicadores de progresión de la enfermedad de Chagas en estadios tempranos. Material y método. Se incluyó a 856 pacientes con 3 pruebas reactivas anti-Trypanosoma cruzi y se excluyó a los pacientes con insuficiencia cardíaca. Se utilizó la siguiente estratificación clínica: grupo I, sin cardiopatía; grupo II, con cardiopatía y sin dilatación del ventrículo izquierdo (VI); grupo III, con dilatación del VI, sin insuficiencia cardíaca. El punto final de evaluación fue la progresión hacia un grupo clínico de mayor severidad o la muerte cardiovascular. Se incluyeron las variables clínicas, electrocardiográficas y ecocardiográficas en un análisis multivariado (Cox) y se construyó una puntuación de riesgo. Resultados. La edad promedio fue de 43,7 años y el seguimiento de 8 años. La edad (hazard ratio [HR] = 1,05; intervalo de confianza [IC] del 95%, 1,02-1,07; p &lt; 0,001), el diámetro sistólico del VI (HR = 1,06; IC del 95%, 1,04-1,09; p &lt; 0,001), los trastornos de conducción intraventricular (HR = 1,85; IC del 95%, 1,02-3,36; p = 0,04) y la taquicardia ventricular sostenida (HR = 3,97; IC del 95%, 1,65-9,58; p = 0,002) fueron predictores de progresión de la cardiopatía. El tratamiento con benznidazol redujo el riesgo de progresión (HR = 0,40; IC del 95%, 0,23-0,72; p = 0,002). La puntuación de riesgo construido estratificó adecuadamente la probabilidad de progresión de la cardiopatía. Conclusiones. Los indicadores clínicos y la puntuación propuesta pueden establecer el pronóstico de progresión de la miocarditis chagásica crónica sin insuficiencia cardíaca (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;58(9): 1037-1044, sept. 2005. tab, graf</dc:source>
+<dc:identifier>ibc-040342</dc:identifier>
+<dc:title xml:lang="es">Indicadores clínicos de progresión de la miocarditis chagásica crónica</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d6486^s22080</dc:subject>
+<dc:subject>^d14752^s22052</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d2641^s22080</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d2641^s22032</dc:subject>
+<dc:subject>^d14752^s22001</dc:subject>
+<dc:subject>^d6486^s22027</dc:subject>
+<dc:subject>^d4634^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200509</dc:date>
+</metadata>
+</record>
+</ibecs-document>

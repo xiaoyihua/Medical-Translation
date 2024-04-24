@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150672</identifier>
+<setSpec>0213-4853</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Validity of the clinical and content scales of the Multiphasic Personality Inventory Minnesota 2 for the diagnosis of psychogenic non-epileptic seizures</dc:title>
+<dc:description xml:lang="en">Introduction: The use of the Multiphasic Personality Inventory Minnesota 2 (MMPI-2) for the diagnosis of psychogenic non-epileptic seizures (PNES) is controversial. This study examines the validity of the clinical scales and, unlike previous works, the content scales. Methods: Cross-sectional study of 209 patients treated in the epilepsy unit. We performed a logistic regression analysis, taking video-electroencephalography as the reference test, and as predictor variables age, sex, IQ and clinical (model A) or content scales (model B) of the MMPI-2. The models were selected according to the Aikake index and compared using the DeLong test.  Results: We analyzed 37 patients with PNES alone, or combined with seizures, and 172 patients with seizures only. The model consisting of sex, Hs (hypochondriasis) and Pa (paranoia) showed a sensitivity of 77.1%, a specificity of 76.8%, a percentage of correct classification of 76.8%, and an area under the curve (AUC) of 0.836 for diagnosing CNEP. Model B, consisting of sex, HEA (health concerns) and FRS (fears), showed a sensitivity of 65.7%, a specificity of 78.0%, a percentage of correct classification of 75.9% and an AUC of 0.840. DeLong's test did not detect significant differences. Conclusions: The MMPI-2 has a moderate validity for the diagnosis of PNES in patients referred to an epilepsy unit. Using content scales does not significantly improve results from the clinical scales (AU)</dc:description>
+<dc:creator>Gil Nagel, A</dc:creator>
+<dc:creator>Jiménez Huete, A</dc:creator>
+<dc:creator>Toledano, R</dc:creator>
+<dc:creator>García Morales, I</dc:creator>
+<dc:creator>Barrio, A del</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: La utilidad del Inventario Multifásico de Personalidad de Minnesota 2 (MMPI-2) para el diagnóstico de crisis no epilépticas psicógenas (CNEP) es controvertida. Este estudio analiza la validez de las escalas clínicas y, a diferencia de trabajos previos, las escalas de contenido. Métodos: Estudio transversal de 209 pacientes atendidos en la unidad de epilepsia. Se realizó un análisis de regresión logística tomando como prueba de referencia la vídeo-electroencefalografía y como variables predictoras edad, sexo, cociente intelectual y las escalas clínicas (modelo A) o de contenido (modelo B) del MMPI-2. Los modelos se seleccionaron según el índice de Aikake y se compararon con el test de DeLong. Resultados: Se analizó a 37 pacientes con CNEP solas o combinadas con crisis epilépticas y 172 pacientes solo con crisis epilépticas. El modelo A, compuesto por sexo, hipocondría (Hs) y paranoia (Pa), mostró una sensibilidad del 77,1%, una especificidad del 76,8%, un porcentaje de clasificación correcta del 76,8% y un área bajo la curva (AUC) de 0,836 para el diagnóstico de CNEP. El modelo B, compuesto por sexo, preocupación por la salud (HEA) y miedos (FRS), mostró una sensibilidad del 65,7%, una especificidad del 78,0%, un porcentaje de clasificación correcta del 75,9% y un AUC de 0,840. El test de DeLong no detectó diferencias significativas. Conclusiones: El MMPI-2 presenta una validez moderada para el diagnóstico de CNEP en los pacientes remitidos a una unidad de epilepsia. El uso de las escalas de contenido no mejora de forma significativa los resultados obtenidos con las escalas clínicas (AU)</dc:description>
+<dc:source>Neurologia;31(2): 106-112, mar. 2016. tab, graf</dc:source>
+<dc:identifier>ibc-150672</dc:identifier>
+<dc:title xml:lang="es">Validez de las escalas clínicas y de contenido del Inventario Multifásico de Personalidad de Minnesota-2 para el diagnóstico de crisis no epilépticas psicógenas</dc:title>
+<dc:subject>^d3971^s22074</dc:subject>
+<dc:subject>^d28575^s22039</dc:subject>
+<dc:subject>^d28575^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4907^s22016</dc:subject>
+<dc:subject>^d3971^s22039</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d9615^s22080</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d4907^s22056</dc:subject>
+<dc:subject>^d4907^s22067</dc:subject>
+<dc:subject>^d9652^s22039</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:subject>^d9615^s22054</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d9652^s22045</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d9652^s22074</dc:subject>
+<dc:subject>^d9615^s22016</dc:subject>
+<dc:subject>^d9140</dc:subject>
+<dc:subject>^d35256</dc:subject>
+<dc:subject>^d35223</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201603</dc:date>
+</metadata>
+</record>
+</ibecs-document>

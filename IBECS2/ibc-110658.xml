@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-110658</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Disagreement among hospital and community studies evaluating the same research question</dc:title>
+<dc:description xml:lang="en">The goal of this review is to delineate some of reasons that justify the lack of consistency between hospital-based and community research. The main reasons for the differences are the selection of the hospital population and information based on clinical chart (its lack of uniformity and the treatment of the «not available» data). The reasons for lack of consistency are divided according to the type of research question: frequency, diagnosis, etiology, prognosis and treatment-prevention. The way a hospital population is selected justifies discrepancies regarding frequency and prognosis. As regards diagnosis, differences are mainly due the prevalence of disease. In the ascertainment of causality several biases are more common in hospital-based research, such as detection bias, protopathic (both producing an away-from-null estimate), and inclusion bias (diminishing the strength of association). Examples taken from the medical literature are offered to illustrate each bias. Regarding treatment-prevention problems arise from external validity, as clinical trials are less prone to bias; this latter situation is exemplified with an assessment of vaccine efficacy in both patients and healthy population. The frequency of citation of bias was assessed by a Medline search; in hospital studies detection bias and confounding by indication were more often quoted than in non-hospital research (RR = 2.71; 95% CI; 1.69-4.37; RR = 1.76; 95% CI, 0,90-3,42, respectively). Lastly, several recommendations are given to increase the validity of hospital-based research (AU)</dc:description>
+<dc:creator>Delgado Rodríguez , M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Se abordan las razones que motivan que los resultados de la investigación realizada sobre poblaciones hospitalarias en ocasiones no sea consistente con la practicada en la comunidad. En la base de las diferencias se encuentran el proceso de selección de los pacientes y la recogida de datos por la historia clínica (su falta de uniformidad y el tratamiento de los «no consta»). Se estructura la razón de las discrepancias en función del tipo de pregunta de investigación: frecuencia, diagnóstico, etiología, pronóstico y tratamiento-prevención. Es el proceso de selección el que justifica las diferencias en frecuencia y pronóstico. En relación con el diagnóstico, las discrepancias se deben a la prevalencia de la enfermedad. En el estudio de asociaciones de causalidad ciertos errores son más frecuentes en los estudios hospitalarios, como los sesgos de detección, protopático (ambos exageran la asociación), y el de inclusión (reduce la asociación). Se analizan ejemplos publicados de cada una de ellas. En relación con el tratamiento-prevención, los problemas son sobre todo de validez externa, ya que la metodología del ensayo clínico previene las amenazas a la validez interna; se analiza con un ejemplo de valoración de la eficacia vacunal en pacientes y población sana. La frecuencia de citación de los sesgos se midió en una búsqueda en Medline; en los estudios hospitalarios se mencionó con más frecuencia el sesgo de detección ([RR] = 2,71; intervalo de confianza [IC] del 95%, 1,69-4,37) y el sesgo de confusión por indicación (RR = 1,76; IC del 95%, 0,90-3,42). Por último, se da una serie de recomendaciones destinadas a aumentar la validez de los estudios realizados en el medio hospitalario (AU)</dc:description>
+<dc:source>Gac Sanit;16(4): 344-353, jul.-ago. 2002. ilus, tab</dc:source>
+<dc:identifier>ibc-110658</dc:identifier>
+<dc:title xml:lang="es">Discordancias entre los estudios de ámbitos hospitalario y comunitario cuando evalúan la misma preguntade investigación</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d24807</dc:subject>
+<dc:subject>^d50053</dc:subject>
+<dc:subject>^d19291</dc:subject>
+<dc:subject>^d6935^s22066</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6920^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200208</dc:date>
+</metadata>
+</record>
+</ibecs-document>

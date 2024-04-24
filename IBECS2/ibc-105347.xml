@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-105347</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">No disponible</dc:title>
+<dc:description xml:lang="en">Objective Evaluation of an analytic method for determining linezolid concentrations in biological fluids including plasma, vitreous humour and cerebrospinal fluid using high-efficiency liquid chromatography and subsequent ultraviolet detection. Method The method was validated by studying the following parameters: accuracy, precision, sensitivity, linearity and recovery. The drug was extracted from the biological matrix by means of a protein precipitation with perchloric acid. Chromatographic separation was performed by eluting linezolid with a mobile phase consisting of 80% K2HPO4 buffer solution (15mM; pH=5) and 20% acetonitrile, and a stationary phase, NOVAPAK C18 150×3.9mm with precolumn. The wavelength reading was 254nm and the working flow rate was 1ml/min. Results We obtained values with accuracies between 94.4 and 106.1%, and precisions between 0.88&#150;6% and 3.7&#150;5.6% for intra-and inter-day variability, respectively. Recovery obtained after analysing the plasma samples was at 93%. The method showed itself to be linear for the concentration levels under study (AU)</dc:description>
+<dc:creator>Guerrero, L</dc:creator>
+<dc:creator>Sarasa, M</dc:creator>
+<dc:creator>Soy, D</dc:creator>
+<dc:creator>López, Y</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo Validación de un método analítico para la determinación de concentraciones de linezolid (LNZ) en fluidos biológicos: plasma, humor vítreo y líquido cefalorraquídeo mediante cromatografía líquida de alta eficacia y posterior detección ultravioleta. Método El método se validó mediante el estudio de los siguientes parámetros: exactitud, precisión, sensibilidad, linealidad y recuperación. El fármaco se extrajo de la matriz biológica mediante una precipitación proteica con ácido perclórico. La separación cromatográfica se realizó mediante la elución de LNZ con una fase móvil compuesta por el 80% de un tampón de fosfato dipotásico-monohidrogenado (K2HPO4) (15mM; pH=5) con el 20% de acetonitrilo y una fase estacionaria NOVAPAK® C18 150×3,9mm con precolumna. La longitud de onda de lectura fue de 254nm y el flujo de trabajo fue de 1ml/min. Resultados Se obtuvieron valores de exactitud entre el 94,4&#150;106,1% y de precisión entre el 0,88&#150;6% y el 3,7&#150;5,6% para la variabilidad intradía e interdía, respectivamente. La recuperación obtenida tras el análisis de las muestras de plasma fue del 93%. El método mostró ser lineal para los intervalos de concentraciones estudiados. Discusión El método se comporta de forma lineal, precisa y exacta. Además, es rápido, sensible y de bajo coste económico. Es un método útil para la determinación de concentraciones de LNZ en múltiples matrices biológicas. Es posible su utilización como base para posteriores estudios de farmacocinética clínica (AU)</dc:description>
+<dc:source>Farm Hosp;34(1): 27-31, ene. -feb. 2010. ilus</dc:source>
+<dc:identifier>ibc-105347</dc:identifier>
+<dc:title xml:lang="es">Determinación de linezolid en fluidos biológicos mediante cromatografía líquida de alta eficacia</dc:title>
+<dc:subject>^d911^s22007</dc:subject>
+<dc:subject>^d15224^s22021</dc:subject>
+<dc:subject>^d35322^s22043</dc:subject>
+<dc:subject>^d2900^s22045</dc:subject>
+<dc:subject>^d10244^s22007</dc:subject>
+<dc:subject>^d2594^s22021</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201002</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-30320</identifier>
+<setSpec>1137-6627</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Alcohol intoxication</dc:title>
+<dc:creator>Dueñas, A</dc:creator>
+<dc:creator>Roldán, J</dc:creator>
+<dc:creator>Frauca, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Departamento de Salud. Gobierno de Navarra</dc:publisher>
+<dc:description xml:lang="es">La intoxicación etílica es la primera toxicomanía en muchos países del mundo. Afecta a todos los tramos de edad, en los dos sexos y en casi todos los grupos sociales. La mortalidad asociada sólo a la intoxicación etílica aguda es excepcional, pero puede ser un importante factor si coexiste con ingesta de otras drogas de abuso. Es responsable directo de más de la mitad de los accidentes de tráfico. El diagnóstico es fácil por la anamnesis y la clínica y se puede confirmar determinando el nivel de etanol en sangre. El tratamiento es de sostén, intentando proteger al paciente de complicaciones secundarias. El metanol o alcohol de quemar se utiliza como disolvente, encontrándose también como adulterante de bebidas alcohólicas. La intoxicación vía oral es la más frecuente. Oxidado en el hígado a través de la enzima alcohol deshidrogenasa, la toxicidad se debe a sus metabolitos, formaldehído y ácido fórmico. La clínica consiste fundamentalmente en cefalea, náuseas, vómitos, hipotensión y depresión del SNC. El nervio óptico es especialmente sensible pudiendo producirse una ceguera total e irreversible. El etilenglicol se utiliza como disolvente y anticongelante; la toxicidad se debe a la acumulación de sus metabolitos. La clínica incluye síntomas comunes con la intoxicación metílica. Puede ocurrir fallo renal por necrosis tubular y depósito de cristales de oxalato. (AU)</dc:description>
+<dc:source>An Sist Sanit Navar;26(supl.1): 129-139, ene. 2003. tab</dc:source>
+<dc:identifier>ibc-30320</dc:identifier>
+<dc:title xml:lang="es">Intoxicación por alcoholes</dc:title>
+<dc:subject>^d10080^s22021</dc:subject>
+<dc:subject>^d431^s22068</dc:subject>
+<dc:subject>^d441^s22068</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d439^s22016</dc:subject>
+<dc:subject>^d438^s22025</dc:subject>
+<dc:subject>^d29407^s22074</dc:subject>
+<dc:subject>^d433^s22068</dc:subject>
+<dc:subject>^d7202^s22027</dc:subject>
+<dc:subject>^d5892^s22074</dc:subject>
+<dc:subject>^d439^s22067</dc:subject>
+<dc:subject>^d5629^s22073</dc:subject>
+<dc:subject>^d22102^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200301</dc:date>
+</metadata>
+</record>
+</ibecs-document>

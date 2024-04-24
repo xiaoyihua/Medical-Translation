@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-111645</identifier>
+<setSpec>0213-4853</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Gait parameters in a reference sample of healthy Spanish schoolchildren: multivariate descriptive statistics and asymmetries observed in left and right cycles</dc:title>
+<dc:description xml:lang="en">Introduction: Instrumental gait analysis is an emerging technology used increasingly to evaluate motor disorders in children. Normal reference data is necessary in order to evaluate patients, but there are few reference resources for the Spanish paediatric population. Objective: We aim to describe the values of 16 clinically relevant gait variables in healthy Spanish schoolchildren, and identify any linear associations or left-right asymmetries. Subjects and methods: The values of 16 gait variables were determined in schoolchildren (n = 27, aged 5-13 years) using instrumental gait analysis. We analysed asymmetries for each  variable (Student&#146;s t-test for dependent samples) and calculated their confidence intervals (95% of the standardised difference in right and left means [SMD]). Values and associations between variables were represented using a heat map. Results: Our project presents normal values tables for 16 variables in the gait cycle. Significant asymmetries were detected in the mean values for minimum hip flexion (SMD: 0.25 95% CI, 0.11-0.39) and peak hip abduction in swing (SMD: &amp;#8722;1.05 95% CI: &amp;#8722;1.71- &amp;#8722;  0.27). Functional associations among gait variables are present. Conclusions: We present a reference dataset for Spanish school-aged children in which leftright asymmetries and functional associations may be observed for different variables (AU)</dc:description>
+<dc:creator>Pulido Valdeolivas, I</dc:creator>
+<dc:creator>Martín Gonzalo, J. A</dc:creator>
+<dc:creator>Sánchez Hernández, J. J</dc:creator>
+<dc:creator>Gómez Barrena, E</dc:creator>
+<dc:creator>López López, J</dc:creator>
+<dc:creator>Gómez Andrés, D</dc:creator>
+<dc:creator>Rausell, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: El análisis instrumental de marcha (AIM) es una tecnología de uso creciente en la evaluación de trastornos motores infantiles. La evaluación de pacientes requiere una base de referencia de normalidad, pero existen pocas referencias infantiles españolas. Objetivo: Descripción de 16 variables de marcha de relevancia clínica en una muestra de  referencia de escolares sanos. Estudio de sus relaciones lineales y asimetrías izquierda-derecha. Sujetos y métodos: Se midieron con AIM 16 variables de marcha en escolares sanos (n = 27, 5-13 años). Se estudiaron las asimetrías en cada variable (t de Student, muestras dependientes) y sus intervalos de confianza (95% de la media de diferencia estandarizada derecha menos izquierda, dz). Se representaron los valores y las asociaciones entre variables mediante «heatmap». Resultados: Se aportan tablas de normalidad para 16 variables del ciclo de marcha. Son significativamente  asimétricos los valores medios de flexión mínima de cadera (dz: 0,25 IC del 95%, 0,11-0,39) y de máxima abducción de cadera en el balanceo (dz: -1,05 IC del 95%, &#151;1,71; &#151;0,27). Existen asociaciones funcionales entre las variables de marcha. Conclusiones: Presentamos una muestra de normalidad de escolares españoles donde se observan asimetrías entre los lados izquierdo y derecho y organización funcional entre sus variables (AU)</dc:description>
+<dc:source>Neurologia;28(3): 145-152, abr. 2013. tab, ilus</dc:source>
+<dc:identifier>ibc-111645</dc:identifier>
+<dc:title xml:lang="es">Parámetros de marcha en una muestra de referencia de escolares sanos españoles: descripción multivariante y asimetrías entre ciclos izquierdos y derechos</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d8018^s22031</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9241^s22031</dc:subject>
+<dc:subject>^d12437</dc:subject>
+<dc:subject>^d5823^s22031</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201304</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-164027</identifier>
+<setSpec>0304-5013</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Decision making and Down Syndrome screening: individualized cutoff</dc:title>
+<dc:description xml:lang="en">Objectives: To evaluate by decision making if biochemical and ultrasonographic universal screening of Down syndrome is accurate, or they must be used in a selective way related to decision thresholds. To develope a probabilistic model to calcule the decision thresholds following Pauker-Kassirer model. To design a method of utility assessment to quantify women´s individual preferences. Material and methods: An influence diagram with uncertainty nodes (affected or unaffected birth, positive or negative screening, amniocentesis related miscarriage or no complicated technique), decision nodes (to perform screening, to perform amniocentesis) and utilities was developed. Utilities were the average of 10 consecutive pregnant women preference measures using the time trade-off model to obtain quality-adjusted life years. A sensitivity analysis comparing utility for every strategy related to prior probability was done. To perform mathematical results the free software programme OpenMarkov (http://www.openmarkov.org) was used. Results: Utilities were: unaffected birth 1, Down syndrome-affected birth 0.57, elective abortion after Down syndrome diagnosis 0.9 and amniocentesis procedure related miscarriage 0.8. Over 41 year-old risk (Odds 1/70) invasive diagnostic testing has the maximum expected utility. The testing threshold is lower than the lowest-risk women. Therefore, screening is the best option under that prior probability. Discussion: We agree with prior published data: current cutoff is not appropriate because it assumes that women value equally burdensome procedure-related miscarriage of a normal fetus and Down syndrome-affected birth. There was a substantial subject-to-subject variation; individual preferences should be used to stablish a personalised cutoff following Pauker-Kassirer model (AU)</dc:description>
+<dc:creator>López-García, Luis María</dc:creator>
+<dc:creator>Montes-Diez, Raquel</dc:creator>
+<dc:creator>Pont-Giner, Luis Javier</dc:creator>
+<dc:creator>Borruel-Zapatero, Juan Antonio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: demostrar mediante la teoría de la decisión que el cribado bioquímico-ecográfico del síndrome de Down no debe aplicarse de forma universal sino teniendo en cuenta los umbrales de decisión. Desarrollar el cálculo matemático individualizado para cada gestante de los umbrales de decisión siguiendo el modelo de Pauker-Kassirer. Implementar un método simple para la obtención individualizada de las utilidades que intervienen. Material y métodos: definimos un diagrama de influencia con: variables aleatorias: tener Síndrome de Down, resultado del cribado, pérdida gestacional tras amniocentesis. Decisiones: aplicar el cribado, realizar amniocentesis. Utilidades relativas a los diferentes resultados posibles calculadas en un grupo de 10 gestantes consecutivas mediante diagramas de equivalencia temporal para el cálculo del tiempo de vida ajustado en calidad. Realizamos un análisis de sensibilidad comparando la utilidad de cada estrategia en función de la probabilidad a priori. Los cálculos fueron realizados con OpenMarkov (http://www.openmarkov.org). Resultados: con las utilidades obtenidas (tener un hijo sano 1; tener un hijo con síndrome de Down 0,57; interrumpir el embarazo por diagnóstico de síndrome de Down 0,90; pérdida gestacional secundaria a amniocentesis 0,80) en gestantes con una probabilidad a priori mayor de 0,014 (Odds de 1/70, corresponde al riesgo de una gestante de 41 años) se obtiene la máxima utilidad realizando directamente una amniocentesis. Al resto deberemos aplicar el cribado porque el umbral diagnóstico (0,0002) es menor que el riesgo en las gestantes más jóvenes. Discusión: la gran variabilidad interindividual de las utilidades aconseja que el cálculo de los umbrales de decisión se individualicen para cada gestante; para ello proponemos un método matemático basado en Pauker-Kassirer (AU)</dc:description>
+<dc:source>Prog. obstet. ginecol. (Ed. impr.);60(1): 7-15, ene.-feb. 2017.</dc:source>
+<dc:identifier>ibc-164027</dc:identifier>
+<dc:title xml:lang="es">Teoría de la decisión y cribado del Síndrome de Down: cálculo individualizado del dintel de normalidad</dc:title>
+<dc:subject>^d25123^s22054</dc:subject>
+<dc:subject>^d22261</dc:subject>
+<dc:subject>^d28449</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d23211</dc:subject>
+<dc:subject>^d32532^s22045</dc:subject>
+<dc:subject>^d22877</dc:subject>
+<dc:subject>^d30934^s22016</dc:subject>
+<dc:subject>^d12225</dc:subject>
+<dc:subject>^d664^s22066</dc:subject>
+<dc:subject>^d25123^s22083</dc:subject>
+<dc:subject>^d30934^s22054</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201702</dc:date>
+</metadata>
+</record>
+</ibecs-document>

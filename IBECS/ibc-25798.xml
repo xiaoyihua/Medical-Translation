@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-25798</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">A critical review of the pragmatic clinical trial</dc:title>
+<dc:creator>Vallvé, Carles</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">En 1967 Schwartz y Lellouch propusieron distinguir entre ensayo clínico explicativo y ensayo clínico pragmático. El último concepto ha sido objeto de diferentes interpretaciones y de numerosas críticas. No obstante, muchos autores han reclamado la realización de ensayos pragmáticos, especialmente cuando es preciso tomar una decisión terapéutica. A fin de aclarar la situación actual del ensayo pragmático, se ha efectuado una revisión bibliográfica: entre 1976 y 2002 sse registran 95 artículos que informan acerca de ensayos realizados según dicho diseño experimental; solo 4 siguieron de forma estricta el método descrito por Schwartz et al. En el ensayo pragmático, en general, el enmascaramiento de las intervenciones no es posible, lo que implica que la asignación al azar es imperfecta. Esta limitación pone en duda la validez de aplicar métodos frecuentistas a la valoración de los resultados según intención de tratar en un ensayo clínico pragmático. Esta orientación experimental exige una valoración acorde con la teoría de las decisiones. Según el teorema de Bayes, la probabilidad posterior de una hipótesis está condicionada por su probabilidad previa y por su verosimilitud. Existe el convencimiento de que la estadística bayesiana es un instrumento idóneo para la valoración del ensayo clínico pragmático, pero la falta de programas informáticos adecuados ha limitado su aplicación de forma importante. Recientemente se han desarrollado algunos programas (WinBUGS, TreeAge) que se han mostrado adecuados para el análisis de decisiones en problemas terapéuticos propios de la atención primaria. Es posible predecir que, gracias a la aplicación de los mencionados programas, el ensayo clínico pragmático experimentará a corto plazo un importante renacer (AU)</dc:description>
+<dc:source>Med. clín (Ed. impr.);121(10): 384-388, sept. 2003.</dc:source>
+<dc:identifier>ibc-25798</dc:identifier>
+<dc:title xml:lang="es">Revisión clínica del ensayo clínico pragmático</dc:title>
+<dc:subject>^d28635</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200309</dc:date>
+</metadata>
+</record>
+</ibecs-document>

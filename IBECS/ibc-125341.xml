@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-125341</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Clinical decision-making support systems in renal failure</dc:title>
+<dc:description xml:lang="en">Introduction: Support systems in clinical decision-making use individual characteristics of the patient to generate recommendations to the clinician. Objective: To assess the impact of a tool for adjusting drug dosing in renal failure as a support system in clinical decision-making regarding the level of acceptance of the interventions as well as the time invested by the pharmacist. Method: Non-randomized, prospective and hospital interventional study comparingpre- and post-implementation phases of an automated renal function alert system, carried out at two county hospitals. Forty drugs were monitored before the intervention(2007). The blood work of the patients receiving any of these drugs was reviewed. In case of impaired renal function, an adjustment recommendation was inserted in the medical prescription. If the physician accepted it, it was rated as success. The average time was 1 minute per blood work reviewed and 3 minutes per recommendation. Anautomated adjustment recommendation system according to renal function with alert pop-ups was implemented in 2008 for 100 drugs. Later (2009), the number of interventions and the success rate for this tool were assessed and compared. Results: Pre-implementation phase. 28,234 electronic medical prescriptions corresponding to a mean number of 205 hospitalized patients/day were validated and 4,035 bloodworks were reviewed. One hundred and twenty-one pharmaceutical interventions(0.43% of the medical prescriptions) were inserted. A success rate of 33.06% of the interventions was obtained. The time invested by the pharmacist for consulting the bloodworks and making the recommendations was 73.3 hours (67.25 hours corresponding to patients without renal function impairment and in whom no intervention was (..) (AU)</dc:description>
+<dc:creator>Ruiz Poza, D</dc:creator>
+<dc:creator>Parada Aradilla, M. A</dc:creator>
+<dc:creator>Martínez Bernabé, E</dc:creator>
+<dc:creator>Castellvi Gordo, M</dc:creator>
+<dc:creator>Terre Ohme, S</dc:creator>
+<dc:creator>Paluzie-Ávila, G</dc:creator>
+<dc:creator>Albertí Valmaña, R</dc:creator>
+<dc:creator>González Martínez, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: Los sistemas de soporte a la toma de decisiones clínicas utilizan características individuales del paciente para generar recomendaciones a los clínicos. Objetivo: Evaluar el impacto de una herramienta de ajuste de fármacos en insuficiencia renal como sistema de soporte en la toma de decisiones clínicas en cuanto al grado de aceptación de las intervenciones y el tiempo invertido por el farmacéutico. Método: Estudio cuasi-experimental del tipo antes y después realizado en dos hospitales comarcales. La intervención consistía en la incorporación de una alerta automatizada de función renal en la orden médica. Antes de la intervención (2007) se monitorizaron 40 fármacos. Se revisaron las analíticas de pacientes cuyo tratamiento contenía alguno de ellos. En caso de función renal alterada, se insertaba una recomendación de ajuste en la orden médica. Si el médico aceptaba, se consderaba éxito. El tiempo medio empleado fue 1 minuto/analítica consultada y 3minutos/recomendación. En 2008 se incorporó un sistema de recomendación automática de ajuste según función renal de 100 fármacos con mensajes emergentes. En una fase posterior (2009) se evaluó y comparó el número de intervenciones y el porcentaje de éxito con la herramienta. Resultados: Fase previa: Se validaron 28.234 Ordenes Médicas Electrónicas, correspondientes a un promedio de 205 pacientes hospitalizados/día, y se revisaron 4.035analíticas. Se realizaron 121 intervenciones  (..) (AU)</dc:description>
+<dc:source>Farm Hosp;38(3): 216-222, mayo-jun. 2014. ilus, tab</dc:source>
+<dc:identifier>ibc-125341</dc:identifier>
+<dc:title xml:lang="es">Sistemas de soporte a la toma de decisiones clínicas  en insuficiencia renal</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28889^s22049</dc:subject>
+<dc:subject>^d50495^s22057</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d28380</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d53392</dc:subject>
+<dc:subject>^d19156^s22045</dc:subject>
+<dc:subject>^d29199</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201406</dc:date>
+</metadata>
+</record>
+</ibecs-document>

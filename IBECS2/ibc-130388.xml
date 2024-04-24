@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-130388</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Validity and concordance of electronic health records in primary care (AP-Madrid) for surveillance of diabetes mellitus. PREDIMERC study</dc:title>
+<dc:description xml:lang="en">Objective. To assess the validity and concordance of diabetes data in the electronic health records of primary care (Madrid-PC) by comparing with those from the PREDIMERC study. Methods. The sensitivity, specificity, positive predictive value, negative predictive value and kappa index of diabetes cases recorded in the health records of Madrid-PC were calculated by using data from PREDIMERC as the gold standard. The prevalence of diabetes was also determined according to each data source. Results. The sensitivity of diabetes recorded in Madrid-PC was 74%, the specificity was 98.8%, the positive predictive value was 87.9%, the negative predictive value was 97.3%, and the kappa index was 0.78. The prevalence of diabetes recorded in Madrid-PC was 6.7% versus 8.1% by PREDIMERC, where known diabetes was 6.3%. Conclusions. The electronic health records of primary care are a valid source for epidemiological surveillance of diabetes in Madrid (AU)</dc:description>
+<dc:creator>Zorrilla Torrás, Belén</dc:creator>
+<dc:creator>Gil Montalbán, Elisa</dc:creator>
+<dc:creator>López-Gay Lucio-Villegas, Dulce</dc:creator>
+<dc:creator>Arrieta Blanco, Francisco</dc:creator>
+<dc:creator>Ortiz Marrón, Honorato</dc:creator>
+<dc:creator>Nogales Aguado, Pedro</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Estudiar la validez y la concordancia de los datos de diabetes en la historia clínica electrónica de atención primaria (AP-Madrid) comparándola con el estudio PREDIMERC. Métodos. En una muestra poblacional de 2268 individuos se calcularon la sensibilidad, la especificidad, el valor predictivo positivo, el valor predictivo negativo y el índice kappa de los casos de diabetes registrados en la historia clínica AP-Madrid, comparándolos con el estudio PREDIMERC (como referencia). Se estimó la prevalencia de diabetes según cada fuente de información. Resultados. La sensibilidad para la diabetes registrada en AP-Madrid fue del 74%, la especificidad del 98,8%, el valor predictivo positivo del 87,9%, el valor predictivo negativo del 97,3% y el índice kappa de 0,78. La prevalencia de diabetes registrada fue del 6,7%, frente al 8,1% de PREDIMERC, siendo la diabetes conocida del 6,3%. Conclusiones. La AP-Madrid es un sistema de información válido para realizar estudios de vigilancia epidemiológica de diabetes en la Comunidad de Madrid (AU)</dc:description>
+<dc:source>Gac Sanit;28(5): 393-396, sept.-oct. 2014. tab</dc:source>
+<dc:identifier>ibc-130388</dc:identifier>
+<dc:title xml:lang="es">Validez y concordancia de la historia clínica electrónica de atención primaria (AP-Madrid) en la vigilancia epidemiológica de la diabetes mellitus. Estudio PREDIMERC</dc:title>
+<dc:subject>^d28219^s22041</dc:subject>
+<dc:subject>^d3942^s22080</dc:subject>
+<dc:subject>^d28219^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d11756^s22074</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d28596^s22045</dc:subject>
+<dc:subject>^d28596^s22066</dc:subject>
+<dc:subject>^d28441^s22066</dc:subject>
+<dc:subject>^d28441^s22048</dc:subject>
+<dc:subject>^d33556^s22074</dc:subject>
+<dc:subject>^d28441^s22049</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d28219^s22048</dc:subject>
+<dc:subject>^d3942^s22054</dc:subject>
+<dc:subject>^d11756^s22048</dc:subject>
+<dc:subject>^d11756^s22045</dc:subject>
+<dc:subject>^d35256</dc:subject>
+<dc:subject>^d11756^s22066</dc:subject>
+<dc:subject>^d33556^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201410</dc:date>
+</metadata>
+</record>
+</ibecs-document>

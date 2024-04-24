@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-139027</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Medical abortion provided by telemedicine to women in Latin America: complications and their treatment</dc:title>
+<dc:description xml:lang="en">Objective: To analyze reported complications and their treatment after a medical abortion with mifepristone and misoprostol provided by a telemedicine service to women living in Latin America. Methods: Observational study based on the registry of consultations in a telemedicine service. A total of 872 women who used the service in 2010 and 2011 participated in the study. The dependent variables were overall complications, hemorrhage, incomplete abortion, overall treatments, surgical evacuation, and antibiotics. Independent variables were age, area of residence, socioeconomic deprivation, previous children, pregnancies and abortions, and week of pregnancy. We fitted Poisson regression models with robust variance to estimate incidence ratios and 95% confidence intervals (95%CI). Results: Complications were reported by 14.6% of the participants: 6.2% reported hemorrhage and 6.8% incomplete abortion. Nearly one-fifth (19.0%) received postabortion treatment: 10.9% had a surgical evacuation and 9.3% took antibiotics. Socioeconomic deprivation increased the risk of complications by 64% (95%CI: 15%-132%), and, among these, the risk of incomplete abortion by 82% (95%CI: 8%-206%) and the risk of surgical intervention by 62%  (95%CI: 7%-144%). Previous pregnancies increased the risk of complications and, specifically, the risk of hemorrhage by 2.29 times (95%CI: 1.33-3.95%). Women with a pregnancy of 12 or more weeks had a 2.45 times higher risk of receiving medical treatment and a 2.94 times higher risk of taking antibiotics compared with women with pregnancies of 7 or less weeks. Conclusion: Medical abortion provided by telemedicine seems to be a safe and effective alternative in contexts where it is legally restricted (AU)</dc:description>
+<dc:creator>Larrea, Sara</dc:creator>
+<dc:creator>Perez, Glòria</dc:creator>
+<dc:creator>Palència, Laia</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Analizar las complicaciones y los tratamientos declarados después de un aborto farmacológico con mifepristona y misoprostol dispensado a través de un servicio de telemedicina a mujeres que viven en América Latina. Métodos: Estudio observacional basado en el registro de consultas médicas de un servicio de telemedicina. Participaron 872 mujeres que usaron el servicio entre 2010 y 2011. Variables dependientes: total de complicaciones, hemorragia, aborto incompleto, total de tratamientos, evacuación quirúrgica y antibióticos. Variables independientes: edad, zona de residencia, privación socioeconómica, tener hijos/as, embarazos y abortos previos, y semana gestacional. Se ajustaron modelos de Poisson con estimación de la varianza robusta para estimar razones de incidencia (RI) y sus intervalos de confianza del 95% (IC95%). Resultados: El 14,6% de las participantes declaró complicaciones (6,2% hemorragia y 6,8% aborto incompleto). El 19,0% tuvo tratamiento postaborto (10,9% evacuación quirúrgica y 9,3% antibióticos). La privación socioeconómica aumentó en un 64% el riesgo de complicaciones (IC95%: 15%-132%), y dentro de estas un 82% el de aborto incompleto (IC95%: 8%-206%) y un 62% el riesgo de intervención quirúrgica (IC95%: 7%-144%). Los embarazos previos aumentaron el riesgo de hemorragia (RI=2,29; IC95%: 1,33-3,95%). Las mujeres con un embarazo de 12 semanas o más tuvieron un riesgo 2,45 veces mayor de tener tratamiento médico y 2,94 veces mayor de tomar antibióticos, comparado con embarazos de 7 semanas o menos. Conclusión: El aborto farmacológico proveído por telemedicina puede ser una opción segura y efectiva para la interrupción voluntaria del embarazo en contextos donde está legalmente restringido (AU)</dc:description>
+<dc:source>Gac Sanit;29(3): 198-204, mayo-jun. 2015. ilus, tab</dc:source>
+<dc:identifier>ibc-139027</dc:identifier>
+<dc:title xml:lang="es">Aborto farmacológico dispensado a través de un servicio de telemedicina a mujeres de América Latina: complicaciones y su tratamiento</dc:title>
+<dc:subject>^d8022^s22080</dc:subject>
+<dc:subject>^d22^s22055</dc:subject>
+<dc:subject>^d29962^s22079</dc:subject>
+<dc:subject>^d22^s22079</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30481^s22049</dc:subject>
+<dc:subject>^d30^s22045</dc:subject>
+<dc:subject>^d24783^s22079</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201506</dc:date>
+</metadata>
+</record>
+</ibecs-document>

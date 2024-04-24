@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-96838</identifier>
+<setSpec>1137-6821</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prognostic value of emergency department testing for N-terminal fragment of brain natriuretic peptide in patients with acute heart failure: the PICASU-1 study</dc:title>
+<dc:description xml:lang="en">Objective: To determine the usefulness of hospital emergency department testing for the N-terminal fragment of brainnatriuretic peptide (NT-proBNP) as a predictor of mortality and revisits in patients with acute heart failure (AHF). Methods: The PICASU-1 study (NT-proBNP in AHF in the Emergency Department) was an analytical multicenter cohort studythat included 641 patients with AHF attended at 9 emergency departments that were able to perform emergency NT-proBNPtests. Data collected included 18 variables related to the patient&#146;s baseline situation and 21 variables related to the episode ofAHF. The area under the receiver operating characteristic curves (AUC) were calculated to assess the ability of NT-proBNP levelto predict in-hospital mortality, 30-day mortality, and revisiting. Ninety-day survival curves were also constructed. Results: Elevated NT-proBNP concentrations were found in patients who died in hospital and within 30 days ofemergency care (P&lt;.001, both cases). No differences were seen between patients who revisited within 30 days and thosewho did not (P=.91). The 90-day survival curves gave similar results. NT-proBNP concentration had a moderate ability topredict mortality in-hospital (AUC, 0.75; P&lt;.001) and within 30 days (AUC, 0.71; P&lt;.001), but no predictive power forrevisiting (AUC, 0.50; P=.92). These results were consistent with those for the 244 patients who were discharged homefrom the emergency department (38.3%): the NT-proBNP levels were higher for those who died within 30 days (P&lt;.01)but similar for revisiting and nonrevisiting patients (P=.50). In these patients, NT-proBNP level once again had moderate predictive power for 30-day mortality (AUC, 0.72; P&lt;.01) but no association with revisiting (AUC, 0.47; P=.50). Conclusion: NT-proBNP testing seems useful for predicting the likelihood of death for a particular patient with AHF, butit has no ability to predict ED revisiting (AU)</dc:description>
+<dc:creator>Herrero, P</dc:creator>
+<dc:creator>Giménez, A</dc:creator>
+<dc:creator>Segura, F</dc:creator>
+<dc:creator>Llorens, P</dc:creator>
+<dc:creator>Richard, F</dc:creator>
+<dc:creator>Martín-Sánchez, J</dc:creator>
+<dc:creator>Álvarez, A</dc:creator>
+<dc:creator>Jacob, J</dc:creator>
+<dc:creator>Miró, O</dc:creator>
+<dc:creator>Noval, A</dc:creator>
+<dc:creator>Pérez-Dura, M. J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Conocer la utilidad del NT-proBNP en pacientes con insuficiencia cardiaca aguda (ICA) que consultaron en un servicio de urgencias hospitalario (SUH) para predecirla mortalidad y la reconsulta a dicho SUH. Método: El estudio PICASU-1 (ProBNP en Insuficiencia Cardiaca Aguda en los Servicios de Urgencias) es un estudio analítico, multicéntrico, con seguimiento de cohortes, que incluyó 641 pacientes con ICA atendidos en 9 SUH en los que se determinó NT-proBNP de forma urgente. Se recogieron 18 datos basales y 21 datos del episodio de ICA. Los datos evolutivos analizados fueron mortalidad intrahospitalaria y mortalidad y revisita a 30 días, y para cada una de estas variables se calculó el área bajo la curva (AUC) ROC deNT-proBNP. El análisis se repitió mediante curvas de supervivencia truncadas a 90 días. Resultados: NT-proBNP estaba más elevado en los fallecidos intrahospitalariamente y a los30 días de la consulta en el SUH (p &lt; 0,001 para ambos), pero no hubo diferencias entre los que reconsultaron a los 30 días y los que no (p = 0,91). Resultados similares se observaron en el estudio mediante curvas de supervivencia a 90 días. NT-proBNP tuvo un poder discriminativo moderado para la mortalidad intrahospitalaria (AUC 0,75, p &lt; 0,001) y a 30 días (AUC 0,71, p &lt; 0,001), pero nulo para la reconsulta (AUC 0,50, p = 0,92). Similares resultados se obtuvieron en los 244 pacientes (38,3%) dados de alta directamente de lSUH: NT-proBNP superior en los fallecidos a 30 días (p &lt; 0,01) y sin diferencias en los que reconsultaron (p = 0,50), y su poder discriminativo fue moderado para la mortalidad a 30días (AUC 0,72, p &lt; 0,01) y nulo para la reconsulta (AUC 0,47, p = 0,50). Conclusión: El NT-proBNP es una herramienta útil para predecir a priori la probabilidad de fallecer de un paciente con ICA en concreto, pero tiene un valor nulo para determinar las posibilidades de reconsultar al SUH (AU)</dc:description>
+<dc:source>Emergencias (Sant Vicenç dels Horts);23(3): 183-192, jun. 2011. ilus, tab</dc:source>
+<dc:identifier>ibc-96838</dc:identifier>
+<dc:title xml:lang="es">Valor pronóstico de la determinación urgente del péptido natriurético tipo B en los servicios de urgencias en pacientes con insuficiencia cardiaca: estudio PICASU-1</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d38110^s22002</dc:subject>
+<dc:subject>^d30047^s22066</dc:subject>
+<dc:subject>^d23568^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4707^s22045</dc:subject>
+<dc:subject>^d13915</dc:subject>
+<dc:subject>^d6486^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201106</dc:date>
+</metadata>
+</record>
+</ibecs-document>

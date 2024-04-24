@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-050431</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Health system interventions assessment in Spain: an approach through the analysis of the time trends and the geographical variability of avoidable mortality between 1986 -2001</dc:title>
+<dc:description xml:lang="en">Background: Many studies have proposed Avoidable Mortality(ME) to monitor the performance of health services although itsusefulness is limited by the multiplicity of the avoidable mortalitylists being used. Time trends from 1986-2001 and the geographicaldistribution of avoidable mortality by provinces, are presented forSpain.Methods: An Avoidable Mortality consensus list is being used.It includes avoidable mortality through the intervention of healthservices (ISAS in Spanish) and through health policy interventions(IPSI in Spanish). Time trends are analyzed adjusting Poisson orJoinpoint regression models and the annual percentages of change(APC) are estimated. Changes in geographical distribution betweenthe first half of the analysed period and the second are tested bymeans of standard mortality ratios (SMR) and comparative mortalityrates (CMR) for each province.Results: Between 1986 and 2001 avoidable mortality decreased(APC: -1.68; CI: -1.99 and -1.38) slightly more than non-avoidablemortality (APC: -1.28; CI: -1.40 and -1.17). Higher reduction wasobserved for ISAS mortality (APC: -2.77; CI: -2.89 and -2.65) andan irregular trend for IPSI (between 1986-1990 increase APC: 4.86;CI: 3.32 and 6.41, between 1990-95 stabilization APC: -0.03; CI: -2.32 and 2.31 and finally 1995-2001 decrease APC: -3.57; CI: -4.72and -2.40). Conclusions: Avoidable mortality decreased more than nonavoidable mortality and important geographical variability can beobserved among provinces which should be monitored in order toidentify the health services weaknesses. The higher ISAS mortalitywas observed in southern provinces and the higher IPSI mortality insome areas on the coast. The pattern is somewhat similar for bothanalyzed periods</dc:description>
+<dc:creator>Fernández-Cuenca, Rafael</dc:creator>
+<dc:creator>Librero, Julián</dc:creator>
+<dc:creator>Caminal, Josefina</dc:creator>
+<dc:creator>Freitas Ramírez, Adriana</dc:creator>
+<dc:creator>Alberquilla, Ángel</dc:creator>
+<dc:creator>Barés Marcano, M. Arán</dc:creator>
+<dc:creator>Torné Farré, Mar</dc:creator>
+<dc:creator>Albert, Xavier</dc:creator>
+<dc:creator>Alfonso, José Luis</dc:creator>
+<dc:creator>García, Fernando</dc:creator>
+<dc:creator>Ruiz, Miguel</dc:creator>
+<dc:creator>Gervas, Juan</dc:creator>
+<dc:creator>Martos, Carmen</dc:creator>
+<dc:creator>Medrano, M. José </dc:creator>
+<dc:creator>Rosa Gispert Magarolas, Rosa</dc:creator>
+<dc:creator>Puigdefàbregas Serra, Anna</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamento: Muchos estudios proponen la mortalidad evitable(ME) como indicador para monitorizar los servicios de salud aunquesu generalización está limitada por el gran número de listas de causasutilizadas. El objetivo es analizar la evolución temporal del período1986-2001 y la distribución geográfica de la mortalidad evitable utilizandouna lista de causas consensuada.Métodos: Se analiza la mortalidad evitable global (ME) y agrupadaen causas ISAS (intervenciones de los servicios sanitarios) ycausas IPSI (políticas intersectoriales). Se analiza la evolución temporalajustando una recta de regresión de Poisson o un modelo deregresión de Joinpoint, según el caso, y se estima el porcentaje decambio anual (PCA). Para la distribución geográfica se calculan losíndices de mortalidad estandarizada (IME) por provincia y la razónde mortalidad comparativa (RMC) de cada provincia entre la primeray la segunda parte del periodo temporal.Resultados: Entre 1986-2001 la mortalidad evitable se redujo(PCA -1,68; IC:-1,99 a -1,38) algo más que la no-evitable (PCA -1,28; IC:-1,40 a -1,17). La mayor disminución se observó en la mortalidadpor causas ISAS (PCA del -2,77; IC: -2,89, -2,65) mientrasque la mortalidad por causas IPSI aumentó entre 1986-1990 (PCAdel 4,86; IC: 3,32 y 6,41), se mantiene constante de 1990-1995 (PCAdel -0,03; IC: -2,32 y 2,31) y disminuyó de 1995-2001 (PCA del -3,57; IC: -4,72 y -2,40). Conclusiones: Durante el período estudiado la mortalidad evitableha tenido una reducción mayor que la no evitable y se observandiferencias importantes entre provincias que sería necesario monitorizarpara tratar de identificar posibles disfunciones en los serviciossanitarios. La mortalidad es superior por causas ISAS en la zona surde España y por causas IPSI en algunas provincias costeras y estepatrón no varió mucho en el período analizado</dc:description>
+<dc:source>Rev Esp Salud Publica;80(2): 139-155, mar.-abr. 2006. mapas, tab, graf</dc:source>
+<dc:identifier>ibc-050431</dc:identifier>
+<dc:title xml:lang="es">Medida del resultado de las intervenciones sanitarias en españa: una aproximación mediante el análisis temporal y espacial de la mortalidad evitable entre 1986-2001</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28632</dc:subject>
+<dc:subject>^d6447^s22083</dc:subject>
+<dc:subject>^d28637</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d31002</dc:subject>
+<dc:subject>^d13411^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200604</dc:date>
+</metadata>
+</record>
+</ibecs-document>

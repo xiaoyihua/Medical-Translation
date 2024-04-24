@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-133607</identifier>
+<setSpec>0211-2159</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Assessing retest effects at the individual level: A general IRT-based approach</dc:title>
+<dc:description xml:lang="en">Test-retest studies for assessing stability and change are widely used in different domains and allow improved or additional individual estimates of interest to be obtained. However, if these estimates are to be validly interpreted the responses given at Time-2 must be free of retest effects, and the fullfilment of this assumption must be empirically checked. This article proposes a comprehensive item response theory-based approach for assessing retest effects at the individual level and test the assumption of local independence under repetition. The approach can be used with a wide array of unidimensional and multidimensional models, and is based on correlation-type and mean-square-type indices. Procedures for (a) establishing critical values for detection purposes and (b) interpreting the magnitude of the retest effects for the detected respondents are also proposed. Furthermore, the article discusses the consequences of not addressing retest effects in stability and change studies. The procedures were assessed with simulation and used in three empirical studies. In all cases they worked well and provided meaningful information (AU)</dc:description>
+<dc:creator>Pere J. Ferrando, Pere, J</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Los estudios test-retest para evaluar estabilidad y cambio se utilizan ampliamente en diferentes dominios y permiten obtener estimaciones individuales más precisas o información adicional sobre el individuo. Sin embargo, para interpretar de forma válida las estimaciones derivadas de un estudio de este tipo, las respuestas obtenidas en la segunda ocasión deben estar libres de efectos retest, y el cumplimiento de este requisito debe evaluarse empíricamente. El presente artículo presenta un enfoque general basado en la teoría de respuesta al ítem para evaluar los efectos retest a nivel del individuo y evaluar el supuesto de independencia local bajo repetición. El enfoque propuesto puede utilizarse con una amplia variedad de modelos unidimensionales y mutidimensionales, y está basado en índices correlacionales e índices mínimo-cuadráticos. Se proponen procedimientos para (a) establecer valores críticos con fines de detección y (b) interpretar la magnitud de los efectos retest para los individuos detectados. Se discuten además las consecuencias de ignorar los efectos retest cuando están actuando. Los procedimientos propuestos se evaluaron mediante simulación y se aplicaron en tres estudios empíricos. En todos los casos funcionaron bien y proporcionaron información de interés (AU)</dc:description>
+<dc:source>PsicolÔogica (Valencia, Ed. impr.);36(1): 143-163, 2015. tab, ilus</dc:source>
+<dc:identifier>ibc-133607</dc:identifier>
+<dc:title xml:lang="es">Evaluación de los efectos retest a nivel individual: Un enfoque global basado en la TRI</dc:title>
+<dc:subject>^d12031^s22039</dc:subject>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d12018</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28575</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201500</dc:date>
+</metadata>
+</record>
+</ibecs-document>

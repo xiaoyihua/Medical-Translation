@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-120431</identifier>
+<setSpec>0212-1611</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Nutritional status of the persons living with hiv/aids. Its relationship with TCD4+ cells counts</dc:title>
+<dc:description xml:lang="en">Rationale: Malnutrition might be present in people living with HIV/aids (PHIV/aids), and be associated with derangement of the immune system. Objective: To assess the association between the nutritional status of the PHIV/aids and the counts of T CD4+ cells. Study design: Observational, analytical and cross-sectional. Methods: The nutritional status of 217 PHIV/aids in the Pinar del Río province, Cuba (Men: 72.4%; Age at the moment of HIV/aids diagnosis: &lt; 30 years: 62.2%; CD4+ Counts &lt; 350 cells.mm-3: 32.3%; Anti-retroviral therapy: 33.2%) was indistinctively established by means of the Body Mass Index (BMI), the Global Subjective Assessment (SGA) and the Chang's algorithm. The association between the nutritional status and the CD4+ counts was estimated from the corresponding odds-ratios (OR), indistinctively calculated from the cross-products ratios of a 2 x 2 contingency table; or the coefficients of the logistic regression model. Results: Malnutrition frequency was dependent from the nutritional assessment method: BMI: 3.7%; Chang´s algorithm: 8.8%; SGA: 10.6%; respectively. Nutritional status was weakly associated with CD4+ counts: BMI: ORContingencyTable = 3.69 (p &gt; 0.05); Chang´s algorithm: ORContingencyTable = 2.55 (p = 0.047); and SGA: ORContingencyTable = 1.72 (p &gt; 0.05); respectively. When the study serie was adjusted according anti-retroviral therapy (ARVT), association between CD4+ and nutritional status was as follows: BMI: ORLogisticRegression = 0.367 (p = 0.083); Chang´s Algorithm: ORLogisticRegression = 2.604 (p = 0.050); and SGA: ORLogisticRegression = 1.714 (p = 0.232); respectively. Conclusions: Inception of ARVT modifies the association that might exist between the immune system and nutritional status. Reduction of CD4+ counts in a PHIV/aids was weakly associated with derangement of nutritional indicators. It is likely that body weight excess might be modifying this association: 29.0% of the studied PHIV/aids had BMI values &gt;= 25.0 kg.m-2 (AU)</dc:description>
+<dc:creator>Sanabria Negrín, José Guillermo</dc:creator>
+<dc:creator>Santana Porbén, Sergio</dc:creator>
+<dc:creator>León Sánchez, Maria Amparo</dc:creator>
+<dc:creator>Linares Guerra, Elisa Maritza</dc:creator>
+<dc:creator>Acosta Núñez, Nadia</dc:creator>
+<dc:creator>Coniell Linares, Emilia</dc:creator>
+<dc:creator>Pla Cruz, Alina</dc:creator>
+<dc:creator>Carrillo Fornés, Olimpia</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Justificación: La desnutrición puede presentarse en las personas con VIH/sida (PVIH/sida), y asociarse con deterioro del sistema inmune. Objetivo: Evaluar la asociación entre el estado nutricional de la PVIH/sida y el conteo de las células T CD4+. Diseño del estudio: Observacional, analítico y transversal. Métodos: El estado nutricional de 217 PVIH/sida domiciliados en la provincia Pinar del Río, Cuba (Hombres: 72,4%; Edad en el momento del diagnóstico del VIH/sida: &lt; 30 años: 62,2%; Conteos CD4+ &lt; 350 células.mm-3: 32,2%; Terapia antirretroviral: 33,2%) se estableció indistintamente mediante el Índice de Masa Corporal (IMC), la Evaluación Subjetiva Global (ESG) y el algoritmo de Chang. Se evaluó la asociación entre el estado nutricional y el conteo de CD4+ mediante las correspondientes razones de disparidades (OR), estimadas indistintamente de las razones de los productos cruzados de la tabla 2 x 2 de contingencia, o de los coeficientes del modelo de regresión logística. Resultados: La frecuencia de desnutrición fue dependiente del método de evaluación nutricional: IMC: 3,7%; Algoritmo de Chang: 8,8%; ESG: 10,6%; respectivamente. El estado nutricional se asoció débilmente con los conteos CD4+: IMC: ORTablaContingencia = 3,69 (p &gt; 0,05); Algoritmo de Chang: ORTablaContingencia = 2,55 (p = 0,047); y ESG: ORTablaContingencia = 1,72 (p &gt; 0,05); respectivamente. Ajustada la serie de datos según la terapia antirretroviral (TARV), la asociación entre los CD4+ y el estado nutricional fue como sigue: IMC: ORRegresiónLogística = 0,367 (p = 0,083); Algoritmo de Chang: ORRegresiónLogística = 2.604 (p = 0,050); y ESG: ORRegresiónLogística = 1.714 (p = 0,232); respectivamente. Conclusiones: La instauración de la TARV modifica apreciablemente la asociación que pudiera existir entre el sistema inmune y el estado nutricional. La disminución en los conteos de CD4+ en una PVIH/sida se asocia débilmente con el deterioro de los indicadores nutricionales. Es probable que el exceso de peso esté modificando esta asociación: el 29,0% de las PVIH/sida estudiadas tenía valores del IMC &gt;= 25.0 kg.m-2 (AU)</dc:description>
+<dc:source>Nutr Hosp;28(6): 2197-2207, nov.-dic. 2013. ilus, tab</dc:source>
+<dc:identifier>ibc-120431</dc:identifier>
+<dc:title xml:lang="es">Estado nutricional de las personas con VIH/Sida; su relación con el conteo de las células T CD4+</dc:title>
+<dc:subject>^d28466^s22031</dc:subject>
+<dc:subject>^d24718^s22032</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d23747</dc:subject>
+<dc:subject>^d35395^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24542</dc:subject>
+<dc:subject>^d29364^s22032</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201312</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-76626</identifier>
+<setSpec>1134-928X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Computer applications in the welfare management of a home care</dc:title>
+<dc:description xml:lang="en">Introduction and aim: The development of computer toolsincreasingly powerful for the effective and rapid managementof the sanitary information , it has promoted the interestof the professionals of nursing to know the design andmanaging of these computer applications. To elaborate abase of information on our residents that it allows us to improvethe management and record of the clinical information.Method: Bibliographical review on computer systemsof management, development of elaboration´s criteria ofthe base of information, introduction of information of theresidents, validation of the program and valuation of efficiency.Results:We present a computer program for themanagement of the sanitary records of our residents of ourcenter. It is distributed in 5 basic files that share a commonelement (personal and sanitary information of the resident)and another specific that changes according to the file.These are: Management of medicaments in Primary careof Health (APS); Leaf (Sheet) of treatment; Leaf (Sheet)of urgency (clinical summary); Management of appointmentsto specialists and Effects of nursing. Standsout his facility of use, the rapid access to the information,the elaboration of documents and the creation of new reportsthanks to the interrelationship of the different fields.Conclusions: The base use of information to improve bureaucraticsteps and to manage sanitary information, is auseful, valid and even indispensable tool in the welfarefield that allows to store great quantity of information inlittle space, with great aptitude to classify, to emit reportsand before constructed documents (AU)</dc:description>
+<dc:creator>Rodríguez Palma, Manuel</dc:creator>
+<dc:creator>Vallejo Sánchez, Jesús Manuel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivo: El desarrollo de herramientasinformáticas cada vez más potentes para la gestión eficazy rápida de la información sanitaria ha potenciado el interésde los profesionales de enfermería por conocer el diseñoy manejo de estas aplicaciones. Elaborar una base dedatos para agilizar la gestión y el registro de la informaciónclínica de los residentes de nuestro centro. Método:Revisión bibliográfica sobre sistemas de gestión informáticos;desarrollo de metodología y criterios de elaboraciónde la base de datos; introducción de datos de los residentes,validación del programa y valoración de eficacia. Resultados:Presentamos un programa informático para lagestión de los registros sanitarios de los residentes denuestro centro, distribuidos en cinco archivos básicos quecomparten un elemento común (datos personales y asistencialesgenerales del residente) y otro específico que varíasegún el archivo. Estos son: Gestión de fármacos enAtención Primaria de Salud (APS); Hoja de tratamiento;Hoja de urgencia (resumen clínico); Gestión de citas a especialistase Incidencias de enfermería. Destaca su facilidad deuso, el acceso rápido a la información, la elaboración dedocumentos y la creación de nuevos informes gracias a lainterrelación de los distintos campos. Conclusiones: Lautilización de bases de datos para agilizar trámites burocráticosy gestionar datos sanitarios es una herramientaútil, válida e incluso imprescindible en el campo asistencialque permite almacenar gran cantidad de informaciónen poco espacio, con gran capacidad para clasificar, emitirinformes y documentos previamente estructurados (AU)</dc:description>
+<dc:source>Gerokomos (Madr., Ed. impr.);20(2): 58-64, abr. -jun. 2009. ilus</dc:source>
+<dc:identifier>ibc-76626</dc:identifier>
+<dc:title xml:lang="es">Aplicaciones informáticasen la gestión asistencialde una residencia de mayores</dc:title>
+<dc:subject>^d6863^s22049</dc:subject>
+<dc:subject>^d19402</dc:subject>
+<dc:subject>^d19243</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200904</dc:date>
+</metadata>
+</record>
+</ibecs-document>

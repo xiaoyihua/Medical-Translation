@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-93970</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Procedures for performing Meta-Analyses of the accuracy of tools for binary classification</dc:title>
+<dc:description xml:lang="en">The assessment of accuracy in binary classification tools must take into account two non-independent rates: true positives and false positives. A variety of indices have been proposed. They have been estimated for tests employed for early detection or screening purposes. We summarize and review the main methods proposed for performing a meta-analysis that assesses the accuracy of this type of tools. They are applied to the results from 14 studies that report estimates of the accuracy of the AUDIT. The method of direct aggregation does not allow the use of meta-analytic procedures; the separate estimation of sensitivity and specificity does not acknowledge that they are not independent; the SROC method treats accuracy and threshold as fixed effects and has limitations to deal with the potential role of covariates. The Normal Bivariate (NB) model and the Hierarchical Summary ROC (HSROC) model are statistically rigorous and can deal with the covariates properly. They allowed analyzing the association between the gender composition of the sample and the way the test AUDIT behaves in the example (AU)</dc:description>
+<dc:creator>Botella, Juan</dc:creator>
+<dc:creator>Huang, Huiling</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La evaluación de la precisión en la clasificación binaria debe contemplar dos indicadores no independientes: verdaderos positivos y falsos positivos. Se han propuesto varios índices. Estos han sido estimados en algunos tests para la detección temprana o cribaje. Resumimos y revisamos los principales métodos propuestos para realizar meta-análisis que evalúan la precisión de este tipo de instrumentos. Se aplican a los resultados de 14 estudios que informan de estimaciones de la precisión del test AUDIT. La agregación directa no permite el uso de los procedimientos meta-analíticos; la estimación separada de la sensibilidad y la especificidad no reconoce que no son independientes; el método de la curva ROC-resumen trata la precisión y el umbral como factores fijos y tiene limitaciones para manejar el papel potencial de las covariables. Los modelos Normal Bivariado y Jerárquico de la curva ROC Resumen son estadísticamente rigurosos y son capaces de incorporar las covariables adecuadamente. Ambos métodos permitieron analizar la asociación entre el género de la muestra y el comportamiento del AUDIT (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);24(1): 133-141, ene.-mar. 2012. tab, ilus</dc:source>
+<dc:identifier>ibc-93970</dc:identifier>
+<dc:title xml:lang="es">Procedimientos para realizar meta-análisis de la precisión de instrumentos de clasificación binaria</dc:title>
+<dc:subject>^d28214</dc:subject>
+<dc:subject>^d32532^s22045</dc:subject>
+<dc:subject>^d28416^s22083</dc:subject>
+<dc:subject>^d28614</dc:subject>
+<dc:subject>^d28416^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d3164^s22074</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201203</dc:date>
+</metadata>
+</record>
+</ibecs-document>

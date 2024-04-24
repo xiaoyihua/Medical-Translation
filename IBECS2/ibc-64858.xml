@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-64858</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:description xml:lang="en">Tractography of cerebral white matter fibers based on diffusion tensor imaging (DTI) is a recent magnetic resonance technique that enables the visualization of the anatomy and integrity of white matter tracts. This article aims to provide two- and three-dimensional representations of the main white matter tracts in the brain from high spatial resolution DTI data and to explain the physical basis of the technique, its main clinical applications, and how we use it. We provide examples of the use of DTI in the study of the corpus callosum, the anterior white commissure, the corticospinal tract, the limbic system, the long association fibers, the cerebellar peduncles, and the optic tract (AU)</dc:description>
+<dc:creator>Duque, A</dc:creator>
+<dc:creator>Roa, E</dc:creator>
+<dc:creator>Castedo, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La tractografía de las fibras de la sustancia blanca cerebral basada en el tensor de difusión es una reciente técnica de resonancia magnética que proporciona la visualización de la anatomía y la integridad de los tractos de dicha sustancia blanca. El propósito de este trabajo es representar de forma bidimensional y tridimensional las principales vías de la sustancia blanca cerebral a partir de los datos de la imagen del tensor de difusión de alta resolución espacial, y exponer las bases físicas de la técnica, nuestra metodología y sus principales aplicaciones clínicas. Se estudian y representan el cuerpo calloso, la comisura blanca anterior, el tracto corticoespinal, el sistema límbico, las fibras largas de asociación, los pedúnculos cerebelosos y la vía óptica (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);50(2): 99-111, mar. 2008. ilus</dc:source>
+<dc:identifier>ibc-64858</dc:identifier>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d13068^s22004</dc:subject>
+<dc:subject>^d12148^s22004</dc:subject>
+<dc:subject>^d3353^s22004</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d15196^s22004</dc:subject>
+<dc:subject>^d8207^s22004</dc:subject>
+<dc:subject>^d22561^s22004</dc:subject>
+<dc:subject>^d37550^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200803</dc:date>
+</metadata>
+</record>
+</ibecs-document>

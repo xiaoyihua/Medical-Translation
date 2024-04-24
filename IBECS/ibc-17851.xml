@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-17851</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Implementing an electronic medical prescription program in an INSALUD hospital</dc:title>
+<dc:creator>Juana Velasco, P. de</dc:creator>
+<dc:creator>Hidalgo Correas, F. J</dc:creator>
+<dc:creator>García Díaz, B</dc:creator>
+<dc:creator>Bermejo Vicedo, M. T</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Arán Ediciones, S.A.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Los errores de medicación son una de las causas más significativas de producir efectos adversos sobre el paciente y en la mayoría de los casos pueden prevenirse. Los sistemas de prescripción electrónica son la herramienta más adecuada para reducir los errores de medicación, disminuir los costes asociados a la terapia y mejorar la calidad del tratamiento al prescribirse el fármaco más eficiente. Métodos: En este trabajo se describen las características principales de un programa informático de prescripción médica electrónica, su implantación en siete Unidades de Hospitalización para que el facultativo realice la prescripción en el mismo y las ventajas y problemas que ello conlleva. Asimismo se presenta la opinión del médico ante el nuevo sistema, conocida mediante la realización de una encuesta. Por último el análisis de calidad de la prescripción informatizada versus la tradicional en un misma Unidad de Hospitalización. Resultados: La implantación en estas unidades ha supuesto una mejora de la calidad en el proceso de prescripción-dispensación-administración (AU)</dc:description>
+<dc:source>Farm Hosp;26(6): 327-334, nov. 2002. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-17851</dc:identifier>
+<dc:title xml:lang="es">Implantación de un programa de prescripción médica electrónica en un hospital del insalud</dc:title>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d10797^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d19245</dc:subject>
+<dc:subject>^d33551</dc:subject>
+<dc:subject>^d8675^s22054</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200211</dc:date>
+</metadata>
+</record>
+</ibecs-document>

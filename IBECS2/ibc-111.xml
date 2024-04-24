@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-111</identifier>
+<setSpec>0212-7199</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prognostic value in nutritional assessment and cytokine (IL-1, FNTa e IL-6) in critically ill patients</dc:title>
+<dc:creator>Martínez Riera, A</dc:creator>
+<dc:creator>González Reimers, E</dc:creator>
+<dc:creator>Alemán Valls, M.R</dc:creator>
+<dc:creator>Santolaria Fernández, F</dc:creator>
+<dc:creator>Tormo Cantos, A</dc:creator>
+<dc:creator>Milena Abril, A</dc:creator>
+<dc:creator>Rodríguez Moreno, F</dc:creator>
+<dc:creator>Rodríguez Gaspar, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Arán Ediciones, S.A.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: En el pronóstico del paciente hospitalizado influyen, entre otros factores, el estado de nutrición, la intensidad de la reacción de fase aguda (RFA) y la gravedad de la enfermedad. Estos tres factores están estrechamente interrelacionados: la enfermedad, a través de la RFA mediada por citoquinas, produce desnutrición, más intensa cuanto más grave es la enfermedad. Nuestro objetivo es analizar en que medida los mencionados factores están relacionados con la mortalidad y cuáles de ellos tienen valor predictivo independiente. Método: Se ha estudiado a 119 pacientes ingresados consecutivamente en una unidad de cuidados intermedios, en los que se realizó una valoración nutricional objetiva y subjetiva, determinaciones bioquímicas nutricionales, reactantes de fase aguda y citoquinas IL-1, FNTa e IL-6. La gravedad de la enfermedad se valoró a través de la existencia de insuficiencia de órganos. Se consideró como único punto final el fallecimiento o el alta hospitalaria del paciente. Resultados: Se relacionaron con mayor mortalidad un peor estado de nutrición, tanto los antecedentes de alimentación deficiente, como una peor valoración nutricional subjetiva, la elevación de la IL-6, el aumento del porcentaje de neutrófilos, el descenso de los linfocitos, de la hemoglobina, de la transferrina y la anergia al PPD; también la existencia de alguna de las siguientes complicaciones o insuficiencia de órganos: sepsis, ventilación mecánica, shock, insuficiencia renal aguda y alteraciones de la coagulación. En el análisis multivariante (regresión logística) sólo las variables nutricionales, la existencia de sepsis y los datos de insuficiencia de órganos mostraron valor pronóstico independiente, mientras que la IL-6 era desplazada por los datos de fallo de órganos. Conclusión. De cara al pronóstico, la gravedad de la enfermedad y el estado de nutrición aportan información independiente, mientras que la IL-6 queda desplazada, probablemente debido a su estrecha relación con la respuesta inflamatoria y la existencia de fallo de órganos (AU)</dc:description>
+<dc:source>An Med Interna;16(11): 562-568, nov. 1999. tab</dc:source>
+<dc:identifier>ibc-111</dc:identifier>
+<dc:title xml:lang="es">Valor pronóstico del estado de nutrición y de las citoquinas proinflamatorias (IL-1, FNTa e IL-6) en pacientes graves</dc:title>
+<dc:subject>^d29472^s22062</dc:subject>
+<dc:subject>^d28466</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9933^s22080</dc:subject>
+<dc:subject>^d29591</dc:subject>
+<dc:subject>^d30170^s22047</dc:subject>
+<dc:subject>^d29472</dc:subject>
+<dc:subject>^d28584</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d29487^s22062</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d29487</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d29591^s22002</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d18001</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>199911</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-14379</identifier>
+<setSpec>0214-3429</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Association between MLS antibiotic and tetracycline resistance genes in Streptococcus pneumoniae</dc:title>
+<dc:creator>Castillo, F. J</dc:creator>
+<dc:creator>Rubio Calvo, M. C</dc:creator>
+<dc:creator>Gómez Lus, R</dc:creator>
+<dc:creator>García, C</dc:creator>
+<dc:creator>Seral, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>J.R. Prous, S.A.</dc:publisher>
+<dc:description xml:lang="es">La resistencia a los macrólidos, lincosamidas y estreptograminas tipo B (MLSB) en Streptococcus pneumoniae es el resultado de la adquisición de alguno de los determinantes de resistencia: erm(B), mef(A) o ambos. El gen erm(B) es el gen de resistencia a MLSB predominante y puede coexistir con genes de origen estreptocócico, como mef(A), gen de flujo externo, y con genes de origen estafilocócico, como msr(A), gen de flujo externo; todo un ejemplo de promiscuidad genética. El gen tet(M), que codifica resistencia a la tetraciclina y la minociclina, está relacionado con la resistencia a la eritromicina en las cepas de neumococos que contienen el gen erm(B), mientras que no se relaciona con la resistencia a la eritromicina en los estreptococos que contienen el gen mef(A). Esta asociación es consecuencia de que los genes tet(M) y erm(B) están presentes, generalmente, en los mismos transposones conjugativos cromosómicos (AU)</dc:description>
+<dc:source>Rev Esp Quimioter;14(1): 55-62, mar. 2001.</dc:source>
+<dc:identifier>ibc-14379</dc:identifier>
+<dc:title xml:lang="es">Asociación de los genes de resistencia a antibióticos MLS y a tetraciclina en Streptococcus pneumoniae</dc:title>
+<dc:subject>^d13683</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d911</dc:subject>
+<dc:subject>^d23036</dc:subject>
+<dc:subject>^d32697</dc:subject>
+<dc:subject>^d36138</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200103</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-141384</identifier>
+<setSpec>0212-1611</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Validation of a computer program for detection of malnutrition hospital and analysis of hospital costs</dc:title>
+<dc:description xml:lang="en">Background: one of the methods of diagnosis of malnutrition is serum albumin, for the simplicity of its determination and low cost. Objectives: the main objective is to validate and implement a computer program based on the determination of serum albumin, allowing early detection and treatment to malnourished or at risk of malnutrition patients, still another objective evaluation of costs by diagnosis-related groups. Methods: the study design is cohort, dynamic and prospective, which are included hospital discharge from november 2012 until march 2014, being the study population of patients over age 14 who enter the various services of a Medical Surgical Hospital of the Granada´s Hospital Complex Univesity, whose numbers are lower serum albumin 3.5 g/dL, for a total of 307 patients. Results: of the 307 patients, 141 are malnourished (program sensitivity: 45.9%). 54.7% of patients were male and 45.3% female. The mean age of 65.68 years. The median length of stay is 16 days. 13.4% of patients have died. The average cost of GRD is &#128;5 958.30 and said average cost after detecting malnutrition is &#128;11376.48. Conclusions: the algorithm that implements the software identifies nearly half of patients hospitalized malnourished. It is essential to record the diagnosis of malnutrition (AU)</dc:description>
+<dc:creator>Lobo Támer, Gabriela</dc:creator>
+<dc:creator>Fernández Valdivia, Antonia</dc:creator>
+<dc:creator>García Larios, José Vicente</dc:creator>
+<dc:creator>Pérez de la Cruz, Antonio Jesús</dc:creator>
+<dc:creator>Rodríguez Rodríguez , José María</dc:creator>
+<dc:creator>Valero Aguilera, Beatriz</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: uno de los métodos de diagnóstico de la desnutrición es la albúmina sérica, por la sencillez de su determinación y bajo coste. Objetivos: el objetivo principal es validar e implementar un programa informático, basado en la determinación de albúmina sérica, que permita detectar y tratar precozmente a los pacientes desnutridos o en riesgo de desnutrición, siendo otro objetivo la evaluación de costes por grupos relacionados por el diagnóstico. Métodos: el diseño del estudio es de tipo cohorte, dinámico y prospectivo, en el que se han incluido las altas hospitalarias desde noviembre del año 2012 hasta marzo del año 2014, siendo la población de estudio los pacientes mayores de 14 años que ingresen en los diversos servicios de un Hospital Médico Quirúrgico del Complejo Hospitalario Universitario de Granada, cuyas cifras de albú- mina sérica sean menores de 3,5 g/dL, siendo el total de 307 pacientes. Resultados: de los 307 pacientes, 141 presentan desnutrición (sensibilidad del programa: 45,9%). El 54,7% de los pacientes son hombres y el 45,3% mujeres. La edad media es de 65,68 años. La mediana de la estancia es de 16 días. El 13,4% de los pacientes han fallecido. El coste medio de los GRD es de 5.958,30&#128; y dicho coste medio después de detectar la desnutrición es de 11.376,48&#128;. Conclusiones: el algoritmo que implementa el programa informático identifica a casi la mitad de los pacientes hospitalizados desnutridos. Es fundamental registrar el diagnóstico de desnutrición (AU)</dc:description>
+<dc:source>Nutr Hosp;32(1): 389-393, jul. 2015. tab</dc:source>
+<dc:identifier>ibc-141384</dc:identifier>
+<dc:title xml:lang="es">Validación de un programa informático para detección de la desnutrición hospitalaria y análisis del coste hospitalario</dc:title>
+<dc:subject>^d30327^s22074</dc:subject>
+<dc:subject>^d29235^s22045</dc:subject>
+<dc:subject>^d38340</dc:subject>
+<dc:subject>^d30057^s22083</dc:subject>
+<dc:subject>^d38061^s22016</dc:subject>
+<dc:subject>^d6916^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d35256</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201507</dc:date>
+</metadata>
+</record>
+</ibecs-document>

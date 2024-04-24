@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-63644</identifier>
+<setSpec>1575-0922</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:description xml:lang="en">Objective: Obesity is closely related to insulin-resistance (IR) but it is evaluated differently in the diverse definitions of the metabolic syndrome. The objective of this study was to verify the utility of different anthropometric measures to predict IR and to evaluate the best cut-off points. Subjects and method: We performed a cross-sectional study of the general population aged 40 to 70 years old (n = 2,143); a simple random sample of 305 non-diabetic persons was obtained. Sociodemographic data, physical examination and routine biochemical analysis with insulinemia were obtained. IR was defined by a HOMA index (Homeostasis Model Assessment) $ 2.9. To obtain the best variables to predict IR, a forward stepwise logistic regression was performed. Subsequently, a logistic equation was constructed and its predictive capacity was compared with the different anthropometric variables by the area under the ROC (receiver-operating characteristic) curve (AUC). The best cut-off points were established according to the Youden index. Results: Body mass index (BMI) and the waist/hip ratio 3 100 were entered into the model, but age, sex, waist, hip and body surface were not. The logistic equation found: p(RI) = 1/1 + exp{­[­14.295] ­ [0.234 3 IMC] ­ [0.07 3 (waist/hip 3 100)]} showed good adjustment, and the probability calculated on the basis of this equation showed the greatest AUC overall and in both sexes, followed in women by BMI and by waist measurement in men, but without significant differences. Conclusions: No significant differences were found between the BMI, waist or hip measurements and the logistic model to predict IR (AU) </dc:description>
+<dc:creator>Suárez García, Saúl</dc:creator>
+<dc:creator>Díaz González, Luis</dc:creator>
+<dc:creator>Álvarez Cosme, Artemio</dc:creator>
+<dc:creator>López Fernández, Vicente</dc:creator>
+<dc:creator>Prieto Díaz, Miguel Ángel</dc:creator>
+<dc:creator>Arias García, María Teresa</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: La obesidad está estrechamente relacionada con la resistencia a la insulina (RI), pero se valora de forma dispar en las diversas definiciones de síndrome metabólico. El objetivo del estudio fue comprobar la utilidad de distintas mediciones antropométricas para predecir RI y valorar los mejores puntos de corte. Sujetos y método: Estudio transversal sobre población de 40 a 70 años (2.143 habitantes); se obtuvo una muestra aleatoria simple de 305 pacientes no diabéticos. Se recogieron variables sociodemográficas, exploración y analítica habituales más insulinemia. Se consideró RI un índice de HOMA (homeostasis model assessment) $ 2,9. Se practicó una regresión logística por pasos hacia delante para obtener las mejores variables para predecir RI; después se construyó una ecuación logística y se comparó el área bajo la curva ROC (receiver operating characteristic) de ésta y de las distintas variables antropométricas en su capacidad de predicción, y los mejores puntos de corte según el índice de Youden. Resultados: Han entrado en el modelo el índice de masa corporal (IMC) y la razón cintura/cadera 3 100. No han entrado la edad, el sexo, la cintura, la cadera y la superficie corporal. La ecuación logística hallada: p(RI) = 1/1 + exp {­[­14,295] ­ [0,234 3 IMC] ­ [0,07 3 (cintura/cadera 3 100)]} mostró un buen ajuste, y la probabilidad calculada por ella presenta la mayor área en general y para cada sexo, seguida en mujeres por el IMC y en varones por la cintura, pero sin diferencias significativas. Conclusiones: No se ha encontrado diferencias significativas ente IMC, cintura, cadera y un modelo logístico para predecir la RI (AU) </dc:description>
+<dc:source>Endocrinol Nutr;55(2): 69-77, feb. 2008. ilus, tab</dc:source>
+<dc:identifier>ibc-63644</dc:identifier>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d22231^s22031</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d36032^s22080</dc:subject>
+<dc:subject>^d24542</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d9951^s22016</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d27937</dc:subject>
+<dc:subject>^d36032^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200802</dc:date>
+</metadata>
+</record>
+</ibecs-document>

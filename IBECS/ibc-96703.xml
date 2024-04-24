@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-96703</identifier>
+<setSpec>1132-0559</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Confirmatory Factor Analysis in the study of the Structure and Stability of Assessment Instruments: An example with the Self-Esteem Questionnaire (CA-14)</dc:title>
+<dc:description xml:lang="en">This research presents a study of the factor structure and temporal stability of the Self-EsteemQuestionnaire (CA-14) using Confirmatory Factor Analysis (CFA) techniques. The paper pretends to offer a potential guide to researchers, paying special attention to data requirements, estimation methods suggested in the literature, recommended fit indices and other circumstances that need to be taken into account when estimating CFA models. Also, various methodological strategies are shown during the implementation of CFA models: correlated errors, use of parameter constraints, multigroup analysis, etc (AU)</dc:description>
+<dc:creator>Herrero, Juan</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Este trabajo presenta un estudio de la estructura factorial y la estabilidad del Cuestionario de Autoestima CA-14 utilizando la técnica del Análisis Factorial Confirmatorio. El trabajo pretende ilustrar y guiar en las posibilidades que ofrece esta técnica, prestando especial atención a los requisitos que deben cumplir los datos, los métodos de estimación sugeridos en la literatura científica, los índices de ajuste más adecuados para evaluar los modelos y otras circunstancias que se deben tener en cuenta a la hora de estimar modelos de Análisis Factorial Confirmatorio. En el trabajo se presentan además diversas estrategias metodológicas en la implementación de esta técnica: correlación de errores residuales, imposición de constriccion eso equivalencias en los parámetros de un modelos, modelos multigrupo, etc (AU)</dc:description>
+<dc:source>Interv. psicosoc;19(3): 289-300, dic. 2010. tab, ilus</dc:source>
+<dc:identifier>ibc-96703</dc:identifier>
+<dc:title xml:lang="es">El Análisis Factorial Confirmatorio en el estudio de la Estructura y Estabilidad de los Instrumentos de Evaluación: Un ejemplo con el Cuestionario de Autoestima CA-14</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d13033</dc:subject>
+<dc:subject>^d12031^s22039</dc:subject>
+<dc:subject>^d28624</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28608^s22074</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:subject>^d12018^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201012</dc:date>
+</metadata>
+</record>
+</ibecs-document>

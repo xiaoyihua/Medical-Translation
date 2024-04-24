@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-148189</identifier>
+<setSpec>0212-9728</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Hipatia: a hypermedia learning environment in mathematics</dc:title>
+<dc:description xml:lang="en">Literature revealed the benefits of different instruments for the development of mathematical competence, problem solving, self-regulated learning, affective-motivational aspects and intervention in students with specific difficulties in mathematics. However, no one tool combined all these variables. The aim of this study is to present and describe the design and development of a hypermedia tool, Hipatia. Hypermedia environments are, by definition, adaptive learning systems, which are usually a web-based application program that provide a personalized learning environment. This paper describes the principles on which Hipatia is based as well as a review of available technologies developed in different academic subjects. Hipatia was created to boost self-regulated learning, develop specific math skills, and promote effective problem solving. It was targeted toward fifth and sixth grade students with and without learning difficulties in mathematics. After the development of the tool, we concluded that it aligned well with the logic underlying the principles of self-regulated learning. Future research is needed to test the efficacy of Hipatia with an empirical methodology (AU)</dc:description>
+<dc:creator>Núñez, José Carlos</dc:creator>
+<dc:creator>Cueli, Marisol</dc:creator>
+<dc:creator>González-Castro, Paloma</dc:creator>
+<dc:creator>González-Pienda, Julio Antonio</dc:creator>
+<dc:creator>Krawec, Jennifer</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">La literatura existente señala los beneficios de diferentes herramientas dirigidas al desarrollo de la competencia matemática, la solución de problemas y los aspectos afectivo-motivacionales y la intervención en estudiantes con dificultades específicas de aprendizaje en matemáticas. Sin embargo, no existe una herramienta que combine todas estas variables. El objetivo de este estudio es presentar y describir el diseño y desarrollo de una herramienta hipermedia llamada Hipatia. Los ambientes hipermedia son, por definición, sistemas adaptativos de aprendizaje que son habitualmente empleados para proporcionar ambientes personalizados de aprendizaje. Este trabajo describe los principios en los que se basa la herramienta hipermedia Hipatia, así como, una revisión de las tecnologías disponibles desarrollas en diferentes áreas académicas. Hipatia fue creada para potenciar la autorregulación del aprendizaje y desarrollar habilidades específicas matemáticas y la resolución de problemas. La herramienta está dirigida a estudiantes de quinto y sexto curso de Educación Primaria con y sin dificultades de aprendizaje en matemáticas. Tras el desarrollo de la Hipatia, se puede concluir que efectivamente subyace los principios de la aprendizaje autorregulado. En investigaciones futuras será necesario poner a prueba la eficacia de la herramienta a través de metodologías empírica (AU)</dc:description>
+<dc:source>An. psicol;32(1): 98-105, ene. 2016. tab, ilus, graf</dc:source>
+<dc:identifier>ibc-148189</dc:identifier>
+<dc:title xml:lang="es">Hipatia: un entorno de aprendizaje hipermedia en matemáticas</dc:title>
+<dc:subject>^d33198^s22074</dc:subject>
+<dc:subject>^d8036</dc:subject>
+<dc:subject>^d1301</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d8601^s22039</dc:subject>
+<dc:subject>^d14043</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201601</dc:date>
+</metadata>
+</record>
+</ibecs-document>

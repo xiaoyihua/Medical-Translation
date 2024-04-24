@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-054809</identifier>
+<setSpec>0034-9356</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Proposed scoring system for biomedical scientific publications</dc:title>
+<dc:description xml:lang="en">There are no bibliometric formulas currently    available to measure the intrinsic quality of scientific    publications. Nonetheless, publication assessment is an    inescapable feature of academic and professional    evaluation although it is not always done fairly.    This paper proposes a scoring system that combines    several of the variables most often used for evaluation:    article length, inclusion in biomedical databases, impact    factor of the journals publishing the articles, and    number of citations received during the 2 years    following publication. Articles can be classified in 20    categories and assigned scores depending on how the    factors are combined. The scoring system's advantage is    that it limits excessive weight given to extreme impact    factors and corrects differences due to varying citing    behaviors in different Science Citation Index categories.    Finally, scores are classified by type of article, number of    co-authors, and arthorship order.    When applying this system, it would be sufficient to    evaluate candidates&#146; 5 best articles in order to establish    quantitative differences between them, reducing    administrative costs and the workloads of assessment    committees</dc:description>
+<dc:creator>Figueredo, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">No existen fórmulas bibliométricas que puedan medir    la calidad intrínseca de las publicaciones científicas; sin    embargo, la valoración de los artículos con fines curriculares    es una formalidad ineludible, aunque ello no    siempre se consigue resolver con justicia.    En el presente artículo se propone un modelo de baremo    en el que se combinan algunos de los parámetros    más frecuentes de evaluación: extensión de los artículos,    inclusión en las bases de datos biomédicas, factor de    impacto de las revistas donde fueron publicados y número    de citas recibidas durante los dos años siguientes al de    publicación. Dependiendo de la combinación de estos    factores, los artículos se clasifican en 20 categorías a las    que se les adjudica un valor numérico. El modelo de    baremo presenta la ventaja de limitar las desproporciones    existentes entre los valores extremos de factor de    impacto y soslaya las diferencias debidas a los distintos    hábitos de citación que se observan en revistas pertenecientes    a distintas categorías temáticas del Science Citation    Index. Finalmente se reparte la puntuación obtenida    en función del tipo de artículo, del número de coautores    y de su posición ordinal.    Con este baremo, bastaría evaluar los cinco mejores    artículos de cada participante para establecer diferencias    cuantitativas entre ellos, lo cual reduciría el trabajo    de los tribunales evaluadores y los costes administrativos</dc:description>
+<dc:source>Rev Esp Anestesiol Reanim;54(2): 109-119, feb. 2007. tab</dc:source>
+<dc:identifier>ibc-054809</dc:identifier>
+<dc:title xml:lang="es">Propuesta de un modelo de baremación para las publicaciones científicas en Biomedicina</dc:title>
+<dc:subject>^d12078^s22048</dc:subject>
+<dc:subject>^d28633</dc:subject>
+<dc:subject>^d24536</dc:subject>
+<dc:subject>^d10697^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200702</dc:date>
+</metadata>
+</record>
+</ibecs-document>

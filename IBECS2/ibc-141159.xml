@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-141159</identifier>
+<setSpec>1889-1837</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The Delphi method in health</dc:title>
+<dc:description xml:lang="en">The Delphi method is the most widely used method to achieve consensus. In this method, a panel of experts evaluates a set of items privately and anonymously during several rounds. In each new round, the experts evaluate the same elements (and are able to change their responses or comments) but are aware of the opinions expressed in the previous round by the other members of the panel; in this way, the opinions show a tendency to converge in each round. The results are subsequently analyzed and a document is drafted containing an analysis of the results obtained. The uses of this method in health include prognosis, decision-making in situations where the information and available evidence are insufficiently conclusive, and as support in the formulation of recommendations in clinical practice guidelines (AU)</dc:description>
+<dc:creator>Masdeu Ávila, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La metodología Delphi es la más extendida para la búsqueda formal de consenso. En ella, un grupo de expertos valora un conjunto de ítems de manera privada y anónima a lo largo de varias rondas. En cada nueva ronda, los expertos deben evaluar los mismos elementos (pudiendo cambiar sus respuestas o comentarios) pero contando con información actualizada sobre las opiniones que el resto de expertos ofreció en la ronda anterior, de modo que las opiniones muestran una tendencia al consenso en cada iteración. Las opiniones se estudian posteriormente y se elabora un documento de conclusiones donde se analizan los resultados obtenidos. Sus usos en el marco de la investigación van desde el pronóstico o la toma de decisiones en situaciones donde la información y la evidencia existente no son suficientemente concluyentes, hasta el apoyo en la formulación de recomendaciones en guías de buena práctica clínica (AU)</dc:description>
+<dc:source>Hipertens. riesgo vasc;32(supl.1): 12-16, mar. 2015. tab</dc:source>
+<dc:identifier>ibc-141159</dc:identifier>
+<dc:title xml:lang="es">Metodología Delphi en salud</dc:title>
+<dc:subject>^d37619</dc:subject>
+<dc:subject>^d5201^s22074</dc:subject>
+<dc:subject>^d^s22048</dc:subject>
+<dc:subject>^d33118^s22074</dc:subject>
+<dc:subject>^d29199</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201503</dc:date>
+</metadata>
+</record>
+</ibecs-document>

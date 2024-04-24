@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-156790</identifier>
+<setSpec>0004-0614</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Application of fluid mechanics and simulation: urinary tract and ureteral catheters</dc:title>
+<dc:description xml:lang="en">The mechanics of urine during its transport from the renal pelvis to the bladder is of great interest for urologists. The knowledge of the different physical variables and their interrelationship, both in physiologic movements and pathologies, will help a better diagnosis and treatment. The objective of this chapter is to show the physics principles and their most relevant basic relations in urine transport, and to bring them over the clinical world. For that, we explain the movement of urine during peristalsis, ureteral obstruction and in a ureter with a stent. This explanation is based in two tools used in bioengineering: the theoretical analysis through the Theory of concontinuous media and Ffluid mechanics and computational simulation that offers a practical solution for each scenario. Moreover, we review other contributions of bioengineering to the field of Urology, such as physical simulation or additive and subtractive manufacturing techniques. Finally, we list the current limitations for these tools and the technological development lines with more future projection. CONCLUSIONS: In this chapter we aim to help urologists to understand some important concepts of bioengineering, promoting multidisciplinary cooperation to offer complementary tools that help in diagnosis and treatment of diseases (AU)</dc:description>
+<dc:creator>Cruz, Domingo</dc:creator>
+<dc:creator>Martínez-Reina, Javier</dc:creator>
+<dc:creator>Pagador, José Blas</dc:creator>
+<dc:creator>Gómez-Blanco, Juan Carlos</dc:creator>
+<dc:creator>Sánchez-Margallo, Francisco Miguel</dc:creator>
+<dc:creator>Soria, Federico</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El comportamiento de la orina durante su transporte, desde la pelvis renal hasta la vejiga, tiene un gran interés para los urólogos. El conocimiento de las diferentes variables físicas y su interrelación, en movimientos fisiológicos y patologías, ayudará a un mejor diagnóstico y tratamiento. El objetivo de este capítulo es exponer y acercar al mundo clínico los conceptos físicos y sus relaciones básicas más relevantes en el transporte de orina. Para ello, se explica el movimiento de la orina durante una peristalsis, una obstrucción ureteral y un uréter tutorizado con un catéter ureteral. Esta explicación se basa en dos herramientas muy utilizadas en bioingeniería: el análisis teórico a través de la Teoría de los Medios Continuos y la Mecánica de Fluidos y la simulación computacional que ofrece una solución práctica de cada uno de los escenarios. Además, se repasan otras aportaciones de la bioingeniería al campo de la Urología, como la simulación física o las técnicas de fabricación aditiva y sustractiva. Finalmente, se enumeran las limitaciones actuales de estas herramientas y las líneas de desarrollo tecnológico con más proyección. CONCLUSIÓN: Se pretende que este capítulo ayude a los urólogos a comprender algunos conceptos importantes de bioingeniería, fomentando la colaboración multidisciplinar para ofrecer herramientas complementarias que les ayuden en el diagnóstico y el tratamiento de enfermedades (AU)</dc:description>
+<dc:source>Arch Esp Urol;69(8): 451-461, oct. 2016. ilus, graf</dc:source>
+<dc:identifier>ibc-156790</dc:identifier>
+<dc:title xml:lang="es">Aplicación de la mecánica de fluidos y la simulación: tracto urinario y catéteres ureterales</dc:title>
+<dc:subject>^d10718^s22031</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d14923^s22016</dc:subject>
+<dc:subject>^d14916^s22009</dc:subject>
+<dc:subject>^d25365^s22045</dc:subject>
+<dc:subject>^d25365^s22002</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d30797^s22045</dc:subject>
+<dc:subject>^d14923^s22067</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d14916^s22016</dc:subject>
+<dc:subject>^d53798^s22045</dc:subject>
+<dc:subject>^d53798^s22066</dc:subject>
+<dc:subject>^d53798^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201610</dc:date>
+</metadata>
+</record>
+</ibecs-document>

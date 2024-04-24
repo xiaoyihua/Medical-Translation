@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-9683</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Popper and the problem of induction in eidemiology</dc:title>
+<dc:creator>Rodríguez Artalejo, Fernando</dc:creator>
+<dc:creator>Banegas, José</dc:creator>
+<dc:creator>Rey Calero, Juan del</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ministerio de Sanidad y Consumo</dc:publisher>
+<dc:description xml:lang="es">En este artículo discutimos algunas aportaciones del filósofo austro-británico Karl R. Popper, uno de los más influyentes pensadores contemporáneos, cuyas teorías epistemológicas y sociopolíticas han llegado también al ámbito de la epidemiología. Nos centramos principalmente en el llamado problema de la inducción. Sostenemos, siguiendo a Popper, que el método científico no usa un razonamiento inductivo, sino hipotético-deductivo. Aunque el paso desde los datos que evalúan una hipótesis a una conclusión sobre ésta va de lo particular a lo general, e.d., en dirección inductiva, no existe la inducción como razonamiento o inferencia. Es decir, no existe un método que permita inducir o verificar las hipótesis o teorías (no es posible explorar todas las situaciones posibles para ver si la teoría se mantiene), ni siquiera hacerlas muy probables. Además, los científicos buscan teorías altamente informativas, no altamente probables. Lo que se hace realmente es proponer una hipótesis como solución tentativa de un problema, confrontar la predicción deducida de la hipótesis con la experiencia, y evaluar si la hipótesis queda rechazada o no por los hechos. Al no poder verificarse las teorías sólo podemos aceptarlas si resisten el intento de rechazarlas. Por tanto, la contrastación consiste en la crítica o intento serio de falsación, es decir, la eliminación de error dentro de una teoría, para rechazarla si es falsa. El objetivo es, pues, la búsqueda de teorías verdaderas. Para ello, el método científico utiliza un conjunto sistemático de reglas metodológicas (no lógicas), es decir, decisiones. Estas reglas o principios metodológicos se resumen en dos: ¡sea inventivo y crítico!, e.d., proponga hipótesis audaces y sométalas a tests rigurosos de la experiencia. La lógica juega principalmente su papel al permitir deducir de la hipótesis las predicciones que se confrontarán con los hechos o evidencias. Esto es aplicable tanto a la inferencia estadística como a la inferencia causal. Argumentamos que los criterios de causalidad usados en epidemiología no son sino reglas del método destinadas a lo mismo: tratan de eliminar o reducir el error (azar, sesgos...) al contrastar una hipótesis causal. Por tanto, la llamada inferencia causal, el paso de la evidencia a la teoría causal, no es un proceso lógico inductivo o probabilístico sino decisión basada en la evaluación de una hipótesis causal gracias a reglas metodológicas como los criterios de causalidad. Pensamos que el interés del debate entre los epidemiólogos popperianos y los inductivistas no es meramente verbal, pues si somos conscientes de que no operamos inductivamente, que no podemos establecer firmemente una hipótesis, ni siquiera afirmarla probabilísticamente, seremos presuntamente más humildes en nuestra actitud y buscaremos más los errores en las teorías que sus fáciles ejemplos confirmadores. (AU)</dc:description>
+<dc:source>Rev Esp Salud Publica;74(4): 327-339, jul. 2000.</dc:source>
+<dc:identifier>ibc-9683</dc:identifier>
+<dc:title xml:lang="es">Popper y el problema de la inducción en epidemiología</dc:title>
+<dc:subject>^d28566</dc:subject>
+<dc:subject>^d33182</dc:subject>
+<dc:subject>^d10878</dc:subject>
+<dc:subject>^d28600</dc:subject>
+<dc:subject>^d28605</dc:subject>
+<dc:subject>^d8776</dc:subject>
+<dc:subject>^d8304</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23211</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200007</dc:date>
+</metadata>
+</record>
+</ibecs-document>

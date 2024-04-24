@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-33725</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Exploring k-space for improved MR imaging</dc:title>
+<dc:creator>Millet Roig, José</dc:creator>
+<dc:creator>Castells, Francisco</dc:creator>
+<dc:creator>Moratal-Pérez, David</dc:creator>
+<dc:creator>Martí-Bonmatí, Luis</dc:creator>
+<dc:creator>Brummer, Marijin</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Lo que marca la diferencia entre la resonancia magnética (RM) y otras modalidades de imagen médica es que el usuario tiene completo control sobre la forma de adquirir los datos y cómo éstos pueden manipularse para mostrar la imagen final. El radiólogo puede modificar la resolución, el tamaño del campo de visión, el contraste, la velocidad de la adquisición, la influencia de los artefactos y tantos otros muchos parámetros que contribuyen a formar la imagen final. El artífice de este control se conoce como espacio-k, y no es más que la matriz de datos sin procesar obtenida a la salida del equipo de RM antes de la aplicación de la transformada de Fourier, la cual proveerá de la imagen final reconstruida. Este control que proporciona el espacio-k forzará la necesidad por parte del usuario de comprender los conceptos y los mecanismos ligados a éste. Sólo de esta forma le podrá sacar el máximo rendimiento a la resolución espacial, resolución temporal y calidad final de la imagen. El principal problema radica en que el espacio-k es un concepto abstracto. Aunque su contenido se puede visualizar, sus datos tienen poco sentido y no poseen una relación aparente con la imagen de RM. Por otra parte, la construcción matemática que lo describe con detalle es sofisticada y complicada y no da a entender, de una forma intuitiva, de lo que se trata. Este artículo analizará este concepto poco conocido, aunque ampliamente utilizado en RM (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);46(3): 133-150, mayo 2004. ilus, tab</dc:source>
+<dc:identifier>ibc-33725</dc:identifier>
+<dc:title xml:lang="es">Surcando el espacio-k para mejorar la imagen por resonancia magnética</dc:title>
+<dc:subject>^d22935^s22045</dc:subject>
+<dc:subject>^d23405^s22039</dc:subject>
+<dc:subject>^d23405</dc:subject>
+<dc:subject>^d23405^s22045</dc:subject>
+<dc:subject>^d22878^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200405</dc:date>
+</metadata>
+</record>
+</ibecs-document>

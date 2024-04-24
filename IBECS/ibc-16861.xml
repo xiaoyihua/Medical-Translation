@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-16861</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Hospital readmissions and quality of care</dc:title>
+<dc:creator>Guerrero, Mariano</dc:creator>
+<dc:creator>Marqués, Juan Antonio</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">No disponible</dc:description>
+<dc:source>Rev. calid. asist;17(2): 61-63, mar. 2002.</dc:source>
+<dc:identifier>ibc-16861</dc:identifier>
+<dc:title xml:lang="es">Reingresos hospitalarios y calidad asistencial</dc:title>
+<dc:subject>^d29633</dc:subject>
+<dc:subject>^d12222^s22074</dc:subject>
+<dc:subject>^d10553^s22066</dc:subject>
+<dc:subject>^d12222^s22066</dc:subject>
+<dc:subject>^d10553^s22048</dc:subject>
+<dc:subject>^d12222^s22049</dc:subject>
+<dc:subject>^d12222^s22048</dc:subject>
+<dc:subject>^d31002^s22049</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200203</dc:date>
+</metadata>
+</record>
+</ibecs-document>

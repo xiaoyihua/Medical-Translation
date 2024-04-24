@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-30578</identifier>
+<setSpec>0214-8919</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Healthcare organizations efficiency under the data envelopment analisis: the Spanish comunidades autónomas in 2000</dc:title>
+<dc:creator>Blasco Perepérez, S</dc:creator>
+<dc:creator>Guerrero Fernández, M</dc:creator>
+<dc:creator>Bueno Cañigral, F. J</dc:creator>
+<dc:creator>Alfonso Sánchez, J. L</dc:creator>
+<dc:creator>Carrera Hueso, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Introducción: Uno de los indicadores de gestión más prácticos en los servicios sanitarios es la medición de la eficiencia de sus inversiones, entendida como el resultado de la productividad de los factores. Las comunidades autónomas (CCAA), aunque tienen un objetivo más social, también deben buscar la maximización de la eficiencia de sus inversiones. El objetivo del estudio es medir la eficiencia transversal de las CCAA españolas en el 2000 en materia sanitaria. Material y métodos: El estudio se hizo a partir datos de las memorias del Ministerio de Sanidad y las consejerías para el año 2000. Se realizó un estudio no paramétrico con el análisis envolvente de datos (AED) para analizar la eficiencia transversal de las CCAA españolas. Las variables incluidas como factores productivos fueron: número de camas por 1.000 habitantes, gasto sanitario por habitante (en euros), número de tomografías axiales computarizadas (TAC) por 100.000 habitantes, número de médicos por cada 1.000 habitantes y personal de enfermería por cada 1.000 habitantes. Como factores resultado se utilizaron: ingresos hospitalarios por cada 1.000 habitantes, total de intervenciones quirúrgicas, tasa de mortalidad general estandarizada y esperanza de vida. Resultados y conclusiones: La estadística paramétrica no acabó de identificar los factores utilizados como inputs o outputs. De la estadística no paramétrica mediante AED, cabe comentar que 8 CCAA tuvieron un nivel de eficiencia global del 100 por ciento, mientras que las restantes tuvieron menores valores de eficiencia. La eficiencia media por CCAA fue del 94 por ciento, lo que nos hace pensar que todas ellas tienen aún un recorrido de ganancias medias del 6 por ciento. Con la plena eficiencia benchmarkiana en el Sistema Nacional de Salud español para dicho año, se podría llegar a reducir un 21 por ciento de las camas y un 19 por ciento el gasto, fundamentalmente a expensas de una reducción del 32 por ciento del personal médico y, además, se debería poder incrementar los ingresos hospitalarios un 15 por ciento, con una reducción de la mortalidad del 12 por ciento, aunque con apenas repercusión en la esperanza de vida (AU)</dc:description>
+<dc:source>Gest. hosp. (Ed. impr.);14(4): 112-119, oct. 2003. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-30578</dc:identifier>
+<dc:title xml:lang="es">La eficiencia de las organizaciones sanitarias a través del análisis envolvente de datos: las Comunidades Autónomas españolas en el 2000</dc:title>
+<dc:subject>^d6442</dc:subject>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d20208</dc:subject>
+<dc:subject>^d31493^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d13411^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200310</dc:date>
+</metadata>
+</record>
+</ibecs-document>

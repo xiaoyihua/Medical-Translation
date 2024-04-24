@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-15167</identifier>
+<setSpec>1575-734X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Quantification assay for the major allergen in alternaria alternata, alt a 1</dc:title>
+<dc:creator>Polo, F</dc:creator>
+<dc:creator>Duffort, O</dc:creator>
+<dc:creator>Barber, D</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Saned, S.A.</dc:publisher>
+<dc:description xml:lang="es">Antecedentes y objetivos: Los extractos alergénicos de hongos poseen una gran variabilidad como consecuencia de la existencia de diferentes subtipos de cada especie, así como del resultado de las diferentes condiciones de cultivo y de los distintos procedimientos de extracción. El resultado de esta intrínseca complejidad es la dificultad que conlleva la estandarización y caracterización de estos extractos para su uso en el diagnóstico y tratamiento de enfermedades alérgicas. Con el objetivo de contribuir a esta importante tarea, hemos desarrollado un ELISA en fase sólida para la cuantificación del alergeno mayoritario de Alternaria alternata, Alt a 1. Material y métodos: Se inmunizaron ratones BALB/c con un extracto de A. alternata y se procedió a fusionar las células del bazo del ratón que tenía mejor título frente a A. alternata con células del mieloma SP2/0-Ag 14. Los hibridomas resultantes fueron seleccionados por su capacidad de secretar anticuerpos específicos frente a Alt a 1 mediante un radioimmunoanálisis de captura de antígeno utilizando el alergeno marcado radiactivamente. Una selección posterior mediante un análisis de inhibición competitiva entre los anticuerpos monoclonales (AcMo) nos permitió identificar dos AcMo (Aa 1.1.1 y Aa 4.4.1) que reconocían epítopos diferentes en la molécula de Alt a1. Estos dos AcMo fueron utilizados en el desarrollo del ELISA para la cuantificación de Alt a 1, adsorbiendo uno de ellos a la fase sólida (Aa 4.4.1) y usando el segundo anticuerpo (Aa 1.1.1) como anticuerpo trazador conjugado con biotina. El AcMo Aa 1.1.1 fue purificado y adsorbido a un soporte sólido para purificar Alt a1 a homogeneidad mediante cromatografía de afinidad y usar este material purificado como estándar en la construcción de la curva de valoración, previo análisis de su pureza y de su actividad biológica. Resultados: El ensayo es específico y sensible; posee un límite de detección de 0,5 ng/mL y un rango de cuantificación entre 1 y 25 ng/mL. Se halló una excelente correlación (r=0,9767; p&lt;0,0001) cuando se valoró el contenido de Alt a 1 en 13 extractos de A. alternata por este método y se comparó con la actividad alergénica de los mismos determinada por RAST de inhibición. Conclusiones: El ELISA que hemos desarrollado es especialmente útil para monitorizar la calidad y estabilidad de los extractos de A. alternata de una manera simple y fiable, y como herramienta potencial para valorar Alt a1 en muestras ambientales y en múltiples sistemas biológicos (AU)</dc:description>
+<dc:source>Alergol. inmunol. clín. (Ed. impr.);17(3): 162-168, jun. 2002. ilus, graf</dc:source>
+<dc:identifier>ibc-15167</dc:identifier>
+<dc:title xml:lang="es">Ensayo de cuantificación del alergeno mayoritario de alternaria alternata, alt a 1</dc:title>
+<dc:subject>^d8994</dc:subject>
+<dc:subject>^d23089^s22001</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d8997</dc:subject>
+<dc:subject>^d920</dc:subject>
+<dc:subject>^d22443</dc:subject>
+<dc:subject>^d529^s22038</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200206</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-052580</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Modelling of the number of days of cannabis consumption</dc:title>
+<dc:description xml:lang="en">This article aims to show the appropriate way to model a count type response variable from a practical viewpoint. The results show that the Poisson regression model is more appropriate than the linear regression model, as it takes count data characteristics into consideration, although the presence of overdispersion indicates the correction of standard errors in the Poisson model parameters and may cause modelling through the negative binomial model. The Zero Inflated model shall be used whenever there is an excessive number of zeros. To do so, the number of days of cannabis consumption in accordance with peer group consumption and cannabis consumption by parents and siblings is modelled</dc:description>
+<dc:creator>Llorens Aleixandre, Noelia</dc:creator>
+<dc:creator>Palmer Pol, Alfonso</dc:creator>
+<dc:creator>Perelló del Río, Miguel J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Este artículo pretende mostrar, desde un punto de vista práctico, la manera adecuada de modelar una variable de respuesta de tipo recuento. Los resultados muestran que el modelo de regresión de Poisson es un modelo más adecuado que el de regresión lineal, ya que tiene en cuenta las características propias de los datos de recuento, aunque la presencia de sobredispersión indicará la corrección de los errores estándar de los parámetros del modelo de Poisson, y puede provocar el modelado mediante el modelo binomial negativa. El modelo de ceros aumentados será usado cuando haya un número excesivo de ceros. Para ello se modela el número de días de consumo de cannabis en función del consumo por parte del grupo de iguales y del consumo de cannabis del padre, de la madre y de los hermanos</dc:description>
+<dc:source>Psicothema (Oviedo);17(4): 569-574, nov. 2005. ilus, tab</dc:source>
+<dc:identifier>ibc-052580</dc:identifier>
+<dc:title xml:lang="es">Modelado del número de días de consumo de cannabis</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d22937^s22056</dc:subject>
+<dc:subject>^d28235^s22080</dc:subject>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d24769</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22937^s22080</dc:subject>
+<dc:subject>^d28235^s22056</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200511</dc:date>
+</metadata>
+</record>
+</ibecs-document>

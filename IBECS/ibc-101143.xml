@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-101143</identifier>
+<setSpec>0210-4806</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Obesity as Risk Factor for Lithiasic Recurrence</dc:title>
+<dc:description xml:lang="en">Objectives: Obese patients may have special characteristics in the urinary stones formed, as the body mass index (BMI) may also be a predictive factor in lithiasic recurrence. We aim to evaluate and compare the lithiasic characteristics according to the different BMI categories, also considering the likelihood of lithiasic recurrence in presence of age and gender covariables. Material and methods: Retrospective, cross-sectional analysis on 346 lithiasic patients, 96 (27.7%) had low-normal weight, 151 (43.6%) overweight, and 99 (28.6%) obesity. The Chi-square and ANOVA tests were used. Survival analysis for the calculation of likelihood of lithiasic recurrence (yes/no) was made based on time on 158 patients in whom complete resolution of the initial stone was achieved by the Kaplan Meier method. Comparisons between the different categories of BMI were made using the log-Rank, Breslow and Tarone-Ware tests. Multivariate analysis was also made with the Cox regression model, introducing the covariables of age and gender. Results: A significant growing linear tendency has been demonstrated between multiplicity and BMI (p=0.03). The variables size and composition did not show significant differences between the groups. Median follow-up of 158 patients included in the survival analysis was 1866 days (95% CI 1602.5-2129.5). Eighteen (11.4%) of them recurred, without finding significant differences between groups: 4 low-normal weight (9.8%), 10 overweight (14.1%) and 4 obese (8.7%). The multivariate analysis also did not show a significant influence of the BMI on lithiasic recurrence (p=0.86; HR =1.06; 95% CI: 0.56-2.03). Conclusion: A significant influence of BMI was shown on lithiasic multiplicity on diagnosis, although not on lithiasic recurrence based on time. It seems to be necessary to carry out studies in larger samples to calculate the true influence of BMI on lithiasic recurrence (AU)</dc:description>
+<dc:creator>Alarcón, R. O</dc:creator>
+<dc:creator>Cáncer, E</dc:creator>
+<dc:creator>Sáenz, J</dc:creator>
+<dc:creator>Casas, J. M</dc:creator>
+<dc:creator>Páez, A</dc:creator>
+<dc:creator>Rendón, D</dc:creator>
+<dc:creator>Álvarez, M</dc:creator>
+<dc:creator>Sánchez, A</dc:creator>
+<dc:creator>Durán, M</dc:creator>
+<dc:creator>Pereira, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Los enfermos obesos pueden presentar particularidades en las características de los cálculos urinarios que forman; además el índice de masa corporal (IMC) puede constituir un factor predictivo de recidiva litiásica. Pretendemos evaluar y comparar las características litiásicas según las diferentes categorías de IMC, teniendo también en cuenta la probabilidad de recidiva litiásica en presencia de las covariables edad y sexo .Material y métodos:  Análisis transversal retrospectivo sobre 346 enfermos litiásicos: 96 (27,7%) presentaban bajo-normopeso, 151 (43,6%) sobrepeso y 99 (28,6%) obesidad. Se utilizaron los test de la Chi cuadrado y ANOVA. Se realizó análisis de supervivencia para el cálculo de la probabilidad de recidiva litiásica (sí/no) en función del tiempo, sobre 158 enfermos, en los que se consiguió la resolución completa del cálculo inicial empleando el método de Kaplan Meier. Las comparaciones entre las diferentes categorías de IMC se realizaron mediante los test de Log-Rank, Breslow y Tarone-Ware. Se realizó también análisis multivariante mediante modelo de regresión de Cox, introduciendo las covariables edad y sexo. Resultados: Se demostró una tendencia creciente lineal significativa entre multiplicidad e IMC (p=0,03). Las variables tamaño y composición no demostraron diferencias significativas entre los grupos. La mediana de seguimiento de los 158 enfermos incluidos en el análisis de supervivencia fue 1.866 días (IC 95%: 1.602,5-2.129,5). Recidivaron 18 de ellos (11,4%) sin encontrarse diferencias significativas entre grupos: 4 bajo-normopeso (9,8%), 10 sobrepeso (14,1%) y 4 obesos (8,7%). El análisis multivariante tampoco demostró una influencia significativa del IMC sobre la recidiva litiásica (p=0,86: HR = 1,06; IC 95%: 0,56-2,03). Conclusión: Se demuestra una influencia significativa del IMC sobre la multiplicidad litiásica al diagnóstico, aunque no sobre la recidiva litiásica en función del tiempo. Parece necesario llevar a cabo estudios con muestras amplias para calcular la verdadera influencia del IMC sobre la recidiva litiásica (AU)</dc:description>
+<dc:source>Actas Urol Esp;36(4): 228-233, abr. 2012. tab, graf</dc:source>
+<dc:identifier>ibc-101143</dc:identifier>
+<dc:title xml:lang="es">Obesidad como factor de riesgo para la recidiva litiásica</dc:title>
+<dc:subject>^d28620</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d32016</dc:subject>
+<dc:subject>^d52438</dc:subject>
+<dc:subject>^d50524^s22080</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24542</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d52133^s22016</dc:subject>
+<dc:subject>^d9951^s22012</dc:subject>
+<dc:subject>^d52133^s22032</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d28596^s22045</dc:subject>
+<dc:subject>^d52133^s22012</dc:subject>
+<dc:subject>^d50524^s22012</dc:subject>
+<dc:subject>^d9951^s22016</dc:subject>
+<dc:subject>^d12428^s22054</dc:subject>
+<dc:subject>^d28596^s22074</dc:subject>
+<dc:subject>^d52133^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201204</dc:date>
+</metadata>
+</record>
+</ibecs-document>

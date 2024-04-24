@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-106496</identifier>
+<setSpec>2172-3761</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Application of a computer program tool to improve the control of medicinal product expiry dates</dc:title>
+<dc:description xml:lang="en">Deployment Health Center (CS) of a tool, in order to facilitate monitoring of expiry dates and ensure proper tracking of existing drugs in the medicine chest. The process begins with check of drugs (brand and active), batch, expiry dates and quantity in the software, and end of each month to print the batch report forfeitures to the removal of the medicine chest. The program also allows for a report with lots of drugs stored enabling the rapid location and retrieval in the event of drug alert from the Spanish Agency of Medicines and Health Products (Competent Authority). The new system streamlines and improves the control and removal of drugs and lots now reviewed and no blisters or compressed drives. Given the good results obtained, we proceed in the coming months to its implementation in the rest of CS District by training for those responsible for first aid kits (AU)</dc:description>
+<dc:creator>Adame García, S</dc:creator>
+<dc:creator>Ramos Guerrero, R.  M</dc:creator>
+<dc:creator>López Palomino, J</dc:creator>
+<dc:creator>Ladrón de Guevara García, M</dc:creator>
+<dc:creator>González-Carrascosa Vega, T</dc:creator>
+<dc:creator>Márquez Ferrando, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Implantación en un centro de salud de una herramienta informática con el objetivo de facilitar el control de caducidades y garantizar la adecuada trazabilidad de los medicamentos existentes en los botiquines. El proceso se inicia con el registro de entrada de los medicamentos (marca y principio activo), lotes, caducidades y cantidad en la aplicación informática, y al final de cada mes se imprime el informe de caducidades por lotes procediendo a su retirada del botiquín. El programa también permite obtener un informe con los lotes de los medicamentos almacenados permitiendo su rápida localización y retirada en caso de alerta farmacéutica de la Agencia Española de Medicamentos y Productos Sanitarios. El nuevo sistema agiliza y mejora el control y retirada de los medicamentos ya que ahora se revisan lotes y no unidades de ampollas o comprimidos. Ante los buenos resultados obtenidos, se procederá en los próximos meses a su implantación en el resto de centro de salud del Distrito, mediante formación dirigida a los responsables de botiquines (AU)</dc:description>
+<dc:source>Farm. aten. prim;10(1): 15-17, ene.-abr. 2012. ilus</dc:source>
+<dc:identifier>ibc-106496</dc:identifier>
+<dc:title xml:lang="es">Aplicación de una herramienta informática para mejorar el control de caducidades en medicamentos</dc:title>
+<dc:subject>^d28889^s22049</dc:subject>
+<dc:subject>^d10797^s22049</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d16719</dc:subject>
+<dc:subject>^d19245</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201204</dc:date>
+</metadata>
+</record>
+</ibecs-document>

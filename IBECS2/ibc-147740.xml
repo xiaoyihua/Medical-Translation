@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-147740</identifier>
+<setSpec>1695-4033</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Analysis of small areas of pediatric cancer in the municipality of Murcia (Spain)</dc:title>
+<dc:description xml:lang="en">Introduction: Occasionally, primary care pediatricians notice the presence of small clusters of pediatric cancer (PC), but are often frustrated by the findings after statistical analysis. The study of small areas in spatial epidemiology has led to advances in identifying clusters and the environmental risk factors involved. The purpose of this study was to describe the PC incidence and the spatial distribution at the minimum level of disaggregation possible in Murcia, presenting the first urban municipality map of PC in Spain. Materials and methods: A population-based descriptive study was conducted on the PC cases diagnosed in children younger than 15 years, between 1998 and 2013 in the municipality of Murcia. Cases were classified by sex, age group, and tumor type. Coordinates of home addresses at the time of diagnosis were assigned to each case, and spatial and spatio-temporal analyses were carried out at the level of census tracts, using FleXScan and SatScan. Results: A total of 155 cases of PC were diagnosed during this period. The overall incidence of PC (138/106 of children under the age of 15) and the incidence for individual tumor types were within the expected ranges for Europe. A spatio-temporal cluster of Hodgkin lymphoma was identified. Conclusions: Small area analysis of PC cases may be a useful tool for the identification of PC clusters, which would allow for the generation of hypotheses regarding disease etiology, as well as developing urban models for environmental surveillance of PC (AU)</dc:description>
+<dc:creator>Cárceles-Álvarez, A</dc:creator>
+<dc:creator>Ortega-García, JA</dc:creator>
+<dc:creator>Bermúdez-Cortes, M</dc:creator>
+<dc:creator>López-Hernández, FA</dc:creator>
+<dc:creator>Santiago-Rodríguez, EJ</dc:creator>
+<dc:creator>Fuster-Soler, JL</dc:creator>
+<dc:creator>Sánchez, AC</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: Ocasionalmente, los pediatras, sobre todo los de Atención Primaria, alertan de la presencia de pequeños agrupamientos de casos de cáncer pediátrico (CP) y con frecuencia sus expectativas se ven frustradas al aplicar los métodos estadísticos. El estudio de áreas pequeñas en epidemiología espacial ha permitido realizar algunos avances en la identificación de clústeres y de los factores de riesgo medioambientales implicados. El objetivo de este trabajo es describir la incidencia del CP y la distribución espacial a nivel de sección censal, así como presentar el primer mapa urbano municipal de CP de España. Material y métodos: Estudio descriptivo de base poblacional, por sexo, grupos de edad, subperiodos y tipo tumoral de los casos de CP diagnosticados en menores de 15 años, entre 1998 y 2013 en el municipio de Murcia. Georreferenciación de casos en el momento del diagnóstico y análisis de clústeres espaciales y espacio-temporales a nivel de sección censal mediante los estadísticos FleXScan y SatScan. Resultados: Un total de 155 casos fueron diagnosticados. La incidencia global (138 por millón de niños menores de 15 años) y por tipos tumorales está dentro de los márgenes de referencia del área europea. Identificación de un clúster espacio-temporal de linfomas de Hodgkin. Conclusiones: El análisis de áreas pequeñas de los casos diagnosticados de CP es una herramienta útil para identificar clústeres de casos que permita plantear hipótesis sobre las causas que originan la enfermedad y desarrollar modelos urbanos de vigilancia ambiental del cáncer infantil (AU)</dc:description>
+<dc:source>An Pediatr (Barc);84(3): 154-162, mar. 2016. tab, ilus</dc:source>
+<dc:identifier>ibc-147740</dc:identifier>
+<dc:title xml:lang="es">Análisis en áreas pequeñas del cáncer pediátrico en el municipio de Murcia</dc:title>
+<dc:subject>^d11756^s22074</dc:subject>
+<dc:subject>^d22497^s22080</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d9562^s22054</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d13915^s22031</dc:subject>
+<dc:subject>^d11756^s22045</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d22497^s22054</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d9562^s22080</dc:subject>
+<dc:subject>^d11756^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201603</dc:date>
+</metadata>
+</record>
+</ibecs-document>

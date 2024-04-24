@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-81442</identifier>
+<setSpec>1130-8621</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Variability of preanalytical errors between decentralized phlebotomy centers: A challenge for patient safety</dc:title>
+<dc:description xml:lang="en">ObjectiveThe aim of the study is to show the most frequent preanalytical sample errors from distinct decentralized phlebotomy centers.MethodThe study was conducted from May 2005 to March 2008. In this period 36,2054 requests and 2,880,742 tests were received from the 16 decentralized phlebotomy centers. When an unsuitable sample is received specific coded results are registered as test results to inform the physician that an error had occurred and a new specimen collection is recommended. We used the the request number, which is specific for each phlebotomy center to ascertain where the samples with errors had been drawn, The preanalytical errors were identified by looking for coded results and were collected automatically from the LIS using a software program based on OLAP's cube (Omnium® Roche Diagnostic®), obtaining number and type of preanalytical error for each sample. The errors are calculated as number per million samples requested. Analysis of data was carried out using Microsoft Excel 2003. Categorical variables were expressed as frequency and percentage.ResultsThe highest number of incidences occurred in urine samples (52%), followed by coagulation (21%), haematology (17%) and biochemistry (10%). With regard to the type of error, the largest proportion of errors was due to failures of process (62%).ConclusionsThe high incidence of preanalytical errors and variability between centers suggests that there is a need to standardize the drawing practice(AU)</dc:description>
+<dc:creator>Salinas, María</dc:creator>
+<dc:creator>Lillo, Rosa</dc:creator>
+<dc:creator>López-Garrigós, Maite</dc:creator>
+<dc:creator>Uris, Joaquín</dc:creator>
+<dc:creator>López-Pérez, Jesús</dc:creator>
+<dc:creator>Cruz, Loreto</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">ObjetivoMostrar el número y tipo de incidencias preanalíticas en los centros de extracción periférica (CEP) del Departamento de Salud 17 de la Agencia Valenciana de Salud.MétodoEl estudio se ha llevado a cabo durante 35 meses (mayo 2005&#150;marzo 2008) sobre las 362.054 solicitudes y las 2.880.742 pruebas que se han recibido de los 16 CEP de Atención Primaria del Departamento de Salud 17.MétodoLas incidencias son registradas en el sistema de información de laboratorio mediante un resultado codificado específico en la prueba solicitada. La procedencia de la muestra afectada se conoce mediante el número de petición que es específico para cada CEP.MétodoLos resultados codificados y las muestras afectadas son recogidos automáticamente mediante un software basado en cubos On-Line Analytical Processing (OLAP) (Omnium®, Roche Diagnostics®). Calculamos las incidencias (expresadas en defectos por millón de oportunidades) para cada tipo de muestra en cada uno de los CEP. Se clasificaron los errores preanalíticos en dos grandes grupos: errores debidos a la pericia extractora (muestra coagulada, insuficiente o hemolizada) y error debido a fallo de proceso (muestra no disponible). El tratamiento de los datos obtenidos se ha realizado mediante Microsoft Excel 2003. Las variables son expresadas como frecuencia y porcentaje.ResultadosEl mayor número de incidencias tuvo lugar en las muestras de orina (5.358 [52%]), seguidas por las de coagulación (2.164 [21%]), hematología (1.752 [17%]) y bioquímica (1.030 [10%]). Con respecto al tipo de error, la mayor proporción de errores fue debida a fallos de proceso (7.007 [62%]).ConclusionesLa alta incidencia de errores preanalíticos y su variabilidad entre centros sugieren que existe una necesidad de homogeneizar la práctica de la extracción de muestras(AU)</dc:description>
+<dc:source>Enferm. clín. (Ed. impr.);20(1): 36-39, ene.-feb. 2010. graf</dc:source>
+<dc:identifier>ibc-81442</dc:identifier>
+<dc:title xml:lang="es">Variabilidad en los errores preanalíticos del laboratorio entre centros periféricos de extracción: un reto para la seguridad del paciente</dc:title>
+<dc:subject>^d7931</dc:subject>
+<dc:subject>^d32650^s22083</dc:subject>
+<dc:subject>^d10554</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12825</dc:subject>
+<dc:subject>^d32650^s22048</dc:subject>
+<dc:subject>^d3979</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201002</dc:date>
+</metadata>
+</record>
+</ibecs-document>

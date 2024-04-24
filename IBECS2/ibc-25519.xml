@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-25519</identifier>
+<setSpec>1138-9672</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Relationship between psychosocial risk factors and occupational and nonoccupational absentism in Spain</dc:title>
+<dc:creator>Martínez, J. M</dc:creator>
+<dc:creator>Marko, D</dc:creator>
+<dc:creator>Gimeno, D</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>SM Group</dc:publisher>
+<dc:description xml:lang="es">El objetivo de este trabajo fue analizar la asociación entre los factores de riesgo psicosociales laborales y la ausencia por razones de salud (ARS), dependiendo de si el motivo de la misma estaba o no relacionado con las condiciones de trabajo. Métodos: La muestra fueron 1.178 trabajadores españoles participantes en la Tercera Encuesta Europea de Condiciones de Trabajo. Todos los trabajadores que señalaron haber estado al menos 1 día ausentes de su trabajo por razones de salud durante el último año fueron clasificados como trabajadores que habían sufrido ARS. Según la atribución de los trabajadores, los motivos de ARS fueron: accidente de trabajo, enfermedad laboral (profesional y relacionada con el trabajo) y enfermedad no laboral. Los factores psicosociales laborales analizados fueron la demanda psicológica y el control en el trabajo. Resultados: Los trabajadores con alta demanda mostraron mauor riesgo de ARS por enfermedad laboral y aquéllos con bajo control mostraron un mayor riesgo de ARS por accidente de trabajo. Los resultados fueron estadísticamente significativos aún después de ajustar conforme a otras variables sociodemográficas y condiciones de trabajo. Sin embargo, al ajustar por la actividad económica y/o por el tamaño de la empresa las diferencias no fueron significativas. Conclusiones: Los factores psicosociales, la alta demanda psicológica y el bajo control en el trabajo, están relacionados diferencialmente con distintos tipos de ARS por motivos laborales. El conocimiento de esta relación puede ser de utilidad a la hora de planificar y desarrollar las actuaciones preventivas en las empresas (AU)</dc:description>
+<dc:source>Arch. prev. riesgos labor. (Ed. impr.);6(3): 139-145, jul. 2003.</dc:source>
+<dc:identifier>ibc-25519</dc:identifier>
+<dc:title xml:lang="es">Relación entre los factores de riesgo psicosociales laborales y la ausencia por razones de salud: motivos laborales y no laborales en España</dc:title>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d9967^s22056</dc:subject>
+<dc:subject>^d13344</dc:subject>
+<dc:subject>^d32027</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d23892^s22056</dc:subject>
+<dc:subject>^d9967^s22054</dc:subject>
+<dc:subject>^d23892^s22054</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d16385</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200307</dc:date>
+</metadata>
+</record>
+</ibecs-document>

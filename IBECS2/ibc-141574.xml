@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-141574</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cost-effectiveness analysis of Belimumab in patients with systemic lupus erythematosus in Spain</dc:title>
+<dc:description xml:lang="en">Objective: To estimate the cost-effectiveness of belimumab in patients with systemic lupus erythematosus (SLE) presenting positive biomarkers and active disease despite standard treatment (ST), from the Spanish social perspective. Methods: A microsimulation model was used to estimate the cost-effectiveness of belimumab plus ST versus ST alone. A treatment duration of two years with a life-time horizon were considered. Efficacy data were obtained from belimumab clinical trials and the evolution of the disease was simulated from John Hopkins´ patient cohort data in the United States. Utility data were obtained from literature review. Direct and indirect costs were calculated based on Spanish published data (&#128;, 2014), applying a discount rate (DR) of 3% to both costs and effects. Results were expressed as incremental cost-effectiveness ratio (ICER) in terms of gained life years (LY) and quality of life adjusted life years (QALYs). Probabilistic (PSA) and deterministic sensitivity analyses (DR of 0% and 5%, 5-years treatment duration and excluding indirect costs) were performed to determine the robustness of the model. Results: The incremental cost-effectiveness ratio (ICER) was 16,647&#128; per life year gained, with an incremental cost-utility ratio (ICUR) of 23,158&#128; per additional QALY gained. In 68% of the scenarios simulated in the PSA, belimumab was found to be a cost-effective alternative, considering a threshold of 30,000&#128;/ QALY. Conclusion: Belimumab can be regarded as a cost-effective alternative from the Spanish social perspective (AU)</dc:description>
+<dc:creator>Vallejo-Aparicio, Laura Amanda</dc:creator>
+<dc:creator>García-Aparicio, Ángel María</dc:creator>
+<dc:creator>Parrondo, Javier</dc:creator>
+<dc:creator>Díaz-Cerezo, Silvia</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Estimar el coste-efectividad (CE) de belimumab en aquellos pacientes con biomarcadores positivos y enfermedad activa a pesar del tratamiento estándar (TE) desde la perspectiva social española. Métodos: A partir de un modelo de microsimulación, que permite simular la evolución natural de la enfermedad, se estimó el CE de belimumab + TE vs. TE. Se consideró una duración del tratamiento de dos años y un horizonte temporal de toda la vida. La extrapolación de eficacia a largo plazo se basó en los ensayos clínicos de belimumab y en la cohorte de pacientes John Hopkins de Estados Unidos; los datos de utilidades se obtuvieron de la literatura. Se calcularon costes directos e indirectos en base a datos españoles publicados (&#128;, 2014), aplicando una tasa de descuento (TD) del 3% tanto a costes como a efectos. Los resultados se expresaron como ratio coste-efectividad incremental (ICER) en términos de años de vida ganados (AVG) y años de vida ajustados por calidad (AVAC). Se realizaron análisis de sensibilidad determinísticos (TD al 0% y 5%, duración de tratamiento 5 años y exclusión de costes indirectos) así como probabilísticos (PSA). Resultados: El ICER de belimumab + TE vs. TE fue de 16.647&#128;/ AVG y 23.158&#128;/AVAC respectivamente. La variación de la TD supuso la mayor variación de los resultados respecto al escenario base. En el 68% de los escenarios simulados en el PSA, belimumab fue una alternativa coste-efectiva considerando como umbral 30.000&#128;/AVAC. Conclusiones: Belimumab puede considerarse una alternativa coste-efectiva desde la perspectiva social española (AU)</dc:description>
+<dc:source>Farm Hosp;39(3): 161-170, mayo-jun. 2015. ilus, tab</dc:source>
+<dc:identifier>ibc-141574</dc:identifier>
+<dc:title xml:lang="es">Análisis coste-efectividad de Belimumab en pacientes con lupus eritematoso sistémico en España</dc:title>
+<dc:subject>^d1716^s22074</dc:subject>
+<dc:subject>^d920^s22079</dc:subject>
+<dc:subject>^d12225</dc:subject>
+<dc:subject>^d8356^s22057</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d50303</dc:subject>
+<dc:subject>^d29770</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201506</dc:date>
+</metadata>
+</record>
+</ibecs-document>

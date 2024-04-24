@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-82570</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Regression-based techniques for statistical decision making in singlecase designs</dc:title>
+<dc:description xml:lang="en">The present study evaluates the performance of four methods for estimating regression coefficients used to make statistical decisions about intervention effectiveness in single-case designs. Ordinary least square estimation is compared to two correction techniques dealing with general trend and a procedure that eliminates autocorrelation whenever it is present. Type I error rates and statistical power are studied for experimental conditions defined by the presence or absence of treatment effect (change in level or in slope), general trend, and serial dependence. The results show that empirical Type I error rates do not approach the nominal ones in the presence of autocorrelation or general trend when ordinary and generalized least squares are applied. The techniques controlling trend show lower false alarm rates, but prove to be insufficiently sensitive to existing treatment effects. Consequently, the use of the statistical significance of the regression coefficients for detecting treatment effects is not recommended for short data series (AU)</dc:description>
+<dc:creator>Solanas, Antonio</dc:creator>
+<dc:creator>Manolov, Rumen</dc:creator>
+<dc:creator>Arnau, Jaume</dc:creator>
+<dc:creator>Bono, Roser</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">El estudio evalúa el rendimiento de cuatro métodos de estimación de los coeficientes de regresión utilizados para la toma de decisiones estadísticas sobre la efectividad de las intervenciones en diseños de caso único. La estimación por mínimos cuadrados ordinarios se compara con dos métodos que controlan la tendencia en los datos y un procedimiento que elimina la autocorrelación cuando ésta es significativa. Los resultados indican que las tasas empíricas y nominales de falsas alarmas no coinciden en presencia de dependencia serial o tendencia al aplicar mínimos cuadrados ordinarios o generalizados. Los métodos que controlan la tendencia muestran tasas más bajas de error Tipo I, pero no son suficientemente sensibles a efectos existentes (cambio de nivel o de pendiente), por lo que el uso de la significación estadística de los coeficientes de regresión para detectar efectos no se recomienda cuando se dispone de series cortas de datos (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);22(4): 1026-1032, 2010.</dc:source>
+<dc:identifier>ibc-82570</dc:identifier>
+<dc:title xml:lang="es">Técnicas fundamentadas en la regresión para la decisión estadística en diseños de caso único</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d28579</dc:subject>
+<dc:subject>^d12465</dc:subject>
+<dc:subject>^d51792^s22045</dc:subject>
+<dc:subject>^d29210^s22039</dc:subject>
+<dc:subject>^d28568^s22039</dc:subject>
+<dc:subject>^d28568^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201000</dc:date>
+</metadata>
+</record>
+</ibecs-document>

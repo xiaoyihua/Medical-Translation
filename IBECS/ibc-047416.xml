@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-047416</identifier>
+<setSpec>1696-5981</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Design and development of computer-aided application for the Oswestry Disability Index</dc:title>
+<dc:description xml:lang="en">Introduction: The Oswestry scale is a self applied questionnairewhich allows to measure the functional consequences of the low backpain. The effort to calculate the score of the test and the interpretationof the results it is a real limit to be incorporate to the daily practice.Objective: To design a computer application, based on theSpanish version of the scale, which allows: 1) automatic calculationof the score; 2) patient classification based on the functionallimitation category; 3) to generate clinic alerts; 4) to provide to thepatient personalize postural norms (adapted to the own limitations,age and gender); 5) to generate graphic presentations to visualizethe time dependence of the score and 6) the automaticgeneration of the report with the results.Results and Discussion:We have developed a web application, accessiblefrom the navigator programme, with the above mentionedfunctions. The structure is flexible, easy to scale and connected to adata base (in Access). The internal validation process shows a clear decreasein the working time used to calculate the score of the scale (thefinal time is only a 25% of the time requested in the manual mode).The external evaluation shows that the application is considered bythe potential users (medicals and physiotherapists) as useful, easy touse and attractive, so that we clearly achieve the proposed objectives</dc:description>
+<dc:creator>Flórez García, M. T</dc:creator>
+<dc:creator>García Pérez, F</dc:creator>
+<dc:creator>Echávarri Pérez, C</dc:creator>
+<dc:creator>Alcántara Bumbiedro, S</dc:creator>
+<dc:creator>Urraca Gesto, A</dc:creator>
+<dc:creator>Martín Valle, B</dc:creator>
+<dc:creator>Alañón Caballero, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">No disponibleIntroducción: La escala de Oswestry es un cuestionario autoaplicadoque permite medir la repercusión funcional del dolor lumbar.El esfuerzo que representa calcular la puntuación e interpretar y registrarlos resultados limita su incorporación a la práctica diaria.Objetivo: Diseñar una aplicación informática, sobre la versiónen castellano de la escala, que permita: 1) calcular automáticamentela puntuación; 2) clasificar al paciente en una categoría delimitación funcional; 3) generar alertas clínicas; 4) facilitar al pacientenormas posturales personalizadas (adaptadas a sus limitacionesy a su edad y sexo); 5) crear gráficos para ver la evoluciónen el tiempo de las puntuaciones; y 6) escribir automáticamenteun informe del resultado.Resultados y Discusión: Se ha desarrollado una aplicación web,accesible a través de un navegador, con las funciones señaladas. Laestructura es flexible, escalable y está conectada a una base de datos(Access). El proceso de evaluación interna demostró una disminuciónsignificativa del tiempo empleado en puntuar la escala (se reduce aun 25% del requerido con el método manual). La evaluación externaindicó que la aplicación es percibida por los usuarios potenciales(médicos y fisioterapeutas) muy útil, fácil de manejar y atractiva yque consigue ampliamente los objetivos planteados</dc:description>
+<dc:source>Patol. apar. locomot. Fund. Mapfre Med;3(2): 120-131, abr.-jun. 2005. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-047416</dc:identifier>
+<dc:title xml:lang="es">Diseño y desarrollo de una aplicación informática para la escala de incapacidad por dolor lumbar de Oswestry</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d4245</dc:subject>
+<dc:subject>^d30665^s22012</dc:subject>
+<dc:subject>^d19283^s22039</dc:subject>
+<dc:subject>^d19243</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200502</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-115898</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Using the R-mape index as a resistant measure of forecast accuracy</dc:title>
+<dc:description xml:lang="en">Background: The mean absolute percentage error (MAPE) is probably the most widely used goodness-of-fit measure. However, it does not meet the validity criterion due to the fact that the distribution of the absolute percentage errors is usually skewed to the right, with the presence of outlier values. In these cases, MAPE overstates the corresponding population parameter. In this study, we propose an alternative index, called Resistant MAPE or R-MAPE based on the calculation of the Huber M-estimator, which allows overcoming the aforementioned limitation. Method: The results derived from the application of Artificial Neural Network (ANN) and Autoregressive Integrated Moving Average (ARIMA) models are used to forecast a time series. Results: The arithmetic mean, MAPE, overstates the corresponding population parameter, unlike R-MAPE, on a set of error distributions with a statistically significant right skew, as well as outlier values. Conclusions: Our results suggest that R-MAPE represents a suitable alternative measure of forecast accuracy, due to the fact that it provides a valid assessment of forecast accuracy compared to MAPE (AU)</dc:description>
+<dc:creator>Palmer Pol, Alfonso</dc:creator>
+<dc:creator>Sesé Abad, Albert</dc:creator>
+<dc:creator>Cajal Blasco, Berta</dc:creator>
+<dc:creator>Montaño Moreno, Juan José</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Antecedentes: el Promedio del Error Porcentual Absoluto (MAPE) es probablemente la medida de adecuación de la previsión más ampliamente utilizada. Sin embargo, no cumple el criterio de validez debido a que la distribución de los errores porcentuales absolutos habitualmente presenta una forma asimétrica a la derecha con presencia de valores alejados. En estos casos, el MAPE proporciona una sobreestimación del correspondiente parámetro poblacional. En el presente trabajo se propone un índice alternativo, denominado MAPE Resistente o R-MAPE, y basado en el cálculo del M-estimador de Huber, el cual permite superar la mencionada limitación. Método: se utilizan los resultados derivados de la aplicación de modelos de Red Neuronal Artificial (ANN) y modelos Autorregresivos Integrados de Media Móvil (ARIMA) en la previsión de una serie temporal. Resultados: se puede observar que la media aritmética, el MAPE, realiza una sobreestimación del correspondiente parámetro poblacional, a diferencia del R-MAPE, sobre un conjunto de distribuciones de errores con asimetría a la derecha y presencia de valores alejados. Conclusiones: nuestros resultados ponen de manifiesto que el R-MAPE representa una adecuada alternativa en la medición del ajuste en la previsión, debido a que proporciona una evaluación válida de dicho ajuste en comparación al MAPE (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);25(4): 500-506, oct.-dic. 2013. ilus, tab</dc:source>
+<dc:identifier>ibc-115898</dc:identifier>
+<dc:title xml:lang="es">El índice R-MAPE como medida resistente del ajuste en la previsión</dc:title>
+<dc:subject>^d28635</dc:subject>
+<dc:subject>^d12018^s22048</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d12018^s22083</dc:subject>
+<dc:subject>^d12031^s22039</dc:subject>
+<dc:subject>^d5678^s22045</dc:subject>
+<dc:subject>^d35136</dc:subject>
+<dc:subject>^d51826^s22045</dc:subject>
+<dc:subject>^d35256</dc:subject>
+<dc:subject>^d12031^s22066</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201312</dc:date>
+</metadata>
+</record>
+</ibecs-document>

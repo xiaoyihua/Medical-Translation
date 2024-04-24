@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-17834</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Predicting delayed methotrexte elimination using Bayesian methods</dc:title>
+<dc:creator>Giráldez Deiró, J</dc:creator>
+<dc:creator>Martínez Callejo, V</dc:creator>
+<dc:creator>Aquerreta González, I</dc:creator>
+<dc:creator>Sierrasesúmaga Ariznavarreta, L</dc:creator>
+<dc:creator>Aldaz Pastor, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Arán Ediciones, S.A.</dc:publisher>
+<dc:description xml:lang="es">Introducción: El objetivo de este estudio fue comprobar la capacidad de los métodos bayesianos para predecir adecuadamente la evolución temporal de las concentraciones plasmáticas de metotrexato (MTX) en los pacientes monitorizados en el departamento de Oncología Pediátrica. Material y métodos: Como fase previa, se procedió a la estimación de los parámetros farmacocinéticos poblacionales del MTX a partir de los datos de 56 pacientes que recibieron 310 ciclos de tratamiento con MTX. Los parámetros farmacocinéticos del MTX fueron estimados mediante IT2B y NPEM. Se estimaron los tiempos óptimos de muestreo del MTX mediante D-optimalidad. Resultados y conclusión: En dos pacientes, las concentraciones extraídas a las 0 y 10 horas detectaron pacientes con futuras concentraciones tóxicas a las 24 horas, lo que permitió tomar medidas preventivas y de intensa vigilancia en los pacientes. Las concentraciones reales extraídas a las 24 horas postinfusión coincidieron exactamente con las predichas por metodología bayesiana, validando esta sistemática de trabajo (AU)</dc:description>
+<dc:source>Farm Hosp;26(2): 90-95, mar. 2002. tab, graf</dc:source>
+<dc:identifier>ibc-17834</dc:identifier>
+<dc:title xml:lang="es">Predicción del retraso en la eliminación de metotrexato mediante métodos bayesianos</dc:title>
+<dc:subject>^d967^s22079</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d28635</dc:subject>
+<dc:subject>^d28169^s22062</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d967^s22062</dc:subject>
+<dc:subject>^d28169^s22079</dc:subject>
+<dc:subject>^d14384</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200203</dc:date>
+</metadata>
+</record>
+</ibecs-document>

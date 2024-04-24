@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-75796</identifier>
+<setSpec>0211-2159</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Robust tests for two-way ANOVA models under heteroscedasticity</dc:title>
+<dc:description xml:lang="en">Theaim of this research was to compare the robustness of two heteroscedastictest statistics, the Welch-James statistic developed by Johansen (WJ) and theType-Box statistic developed by Brunner, Dette and Munk (BDM), togetherwith the General Linear Model (GLM), not heteroscedastic test statistic, intwo different manners depending on the calculation of the critical value. Onthe one hand, when the critical values are based on theoretical values (WJ,BDM and GLM respectively), and on the other hand, when they areobtained by means of bootstrap resampling (WJB, BDMB and GLMBrespectively). To carry out it a study of simulation was realized on afactorial design lacking in homogeneity, normality and orthogonally. Theresults show that when the relation between the size of the cells and the sizeof the variances was positive the procedure WJ was the most robust and thatwhen the relation was negative the most robust procedure was WJB. Bothprocedures behaved in a liberal way when the shape of the distribution wasskewed, in major measure major it were the degree of inequality of the sizeof the cells and the heterogeneity of the variances(AU)</dc:description>
+<dc:creator>Pablo Livacic-Rojas, Pablo</dc:creator>
+<dc:creator>Fernández, Paula</dc:creator>
+<dc:creator>Vallejo, Guillermo</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El objetivo de esta investigación fue comparar la robustez de dosestadísticos heteroscedásticos, Welch-James desarrollado por Johansen (WJ)y el estadístico Tipo Box desarrollado por Brunner, Dette y Munk (BDM),junto con el Modelo Lineal General (GLM), no heteroscedástico, de dosmodos diferentes en función del cálculo del valor crítico. De una parte,cuando los valores críticos se basan en valores teóricos (WJ, BDM y GLMrespectivamente), y de otra parte, cuando se obtienen mediante remuestreobootstrap (WJB, BDMB y GLMB respectivamente). Para llevarlo a cabo serealizó un estudio de simulación sobre un diseño factorial carente dehomogeneidad, normalidad y ortogonalidad. Los resultados muestran quecuando la relación entre el tamaño de las celdas y el tamaño de las varianzasfue positiva el procedimiento WJ fue el más robusto y que cuando larelación fue negativa el procedimiento más robusto fue WJB. Ambosprocedimientos se comportaron de modo liberal cuando la forma dedistribución fue sesgada, en mayor medida, cuanto mayor era el grado dedesigualdad del tamaño de las celdas y la heterogeneidad de las varianzas(AU)</dc:description>
+<dc:source>PsicolÔogica (Valencia, Ed. impr.);31(1): 129-148, ene.-abr. 2010. tab</dc:source>
+<dc:identifier>ibc-75796</dc:identifier>
+<dc:title xml:lang="es">Pruebas robustas para modelos ANOVA de dos factores con varianzas heterogéneas</dc:title>
+<dc:subject>^d28620</dc:subject>
+<dc:subject>^d28615^s22066</dc:subject>
+<dc:subject>^d28615^s22045</dc:subject>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d28624</dc:subject>
+<dc:subject>^d28640^s22045</dc:subject>
+<dc:subject>^d28640^s22066</dc:subject>
+<dc:subject>^d24535</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28574^s22045</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d24807</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d28615^s22049</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201004</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-113599</identifier>
+<setSpec>1137-6821</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Design and implementation of a patient safety program for a hospital emergency department: how to do it a patient safety culture</dc:title>
+<dc:description xml:lang="en">This paper describes the design of a patient safety program for the emergency department of a highly complex tertiary care university hospital. The program comprises a broad set of preventive measures for reducing the risk of identified adverse events. An expert working group within the emergency department undertook the following steps to create the program: 1) brainstorming to identify the potential adverse events that occur in the emergency department as well as the errors and contributing factors responsible for them, 2) ranking of the adverse events according to a risk priorityindex by means of failure mode and effect analysis, 3) listing recommendations for risk reduction, and 4) mapping risks onto the overall emergency care process. The working group identified 43 adverse events, 65 types of error, 86 causes, and 207 ameliorating actions. Each adverse event generated between 1 and 21 ameliorating actions. Problems with the clinical care process accounted for 46.51% of the total, medication incidents for 13.95%, the diagnostic process for6.97%, procedures for 6.97%, and infections for 2.32%. Other types of incidents accounted for 23.26% of the total. Our experience underlines the importance of creating a patient safety culture in an emergency department. Such a culture can be created by first analyzing and ranking adverse events according to level of risk and then planning ameliorating actions that reduce risk (AU)</dc:description>
+<dc:creator>Miñarro del Moral,  R</dc:creator>
+<dc:creator>Montero-Pérez , F. J</dc:creator>
+<dc:creator>Gracia García,  F</dc:creator>
+<dc:creator>Tejedor Fernández,  M</dc:creator>
+<dc:creator>Roig García,  J. J</dc:creator>
+<dc:creator>García Moyano,  A. M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Se describe cómo se ha diseñado un plan de seguridad del paciente en un servicio de urgencias hospitalario de un centro universitario de alta complejidad. El plan contiene una amplia serie de acciones preventivas para minimizar el riesgo de aparición de los eventos adversos identificados. Para ello, se realizó por parte de un grupo de expertos en urgencias la: 1) identificación de los eventos adversos que pueden producirse en el servicio de urgencias hospitalario, así como los fallos y causas que los producen, mediante la técnica degeneración de ideas o brainstorming, 2) priorización de los eventos adversos y obtención del índice de prioridad de riesgos, mediante el análisis modal de fallos y efectos, 3) propuesta de acciones preventivas, y 4) elaboración de un mapa de riesgos del macroproceso asistencial de urgencias. Se identificaron un total de 43 eventos adversos distintos, 65 tipos de fallos, 86 causas y 207 acciones preventivas. Cada eventos adversos generó entre 1 y21 acciones preventivas. El 6,97% de los eventos adversos estuvieron relacionados con el diagnóstico, de 13,95% con la medicación, el 46,51% con los cuidados, el 2,32% con infecciones, el 6,97% con la realización de un procedimiento y el 23,26% con otros aspectos. Nuestra experiencia enfatiza la importancia de crear una cultura de seguridad del paciente en un servicio de urgencias hospitalario a través de la implantación de un plan de seguridad que incluya un análisis de los eventos adversos, su priorización y la planificación de acciones preventivas para disminuir su incidencia (AU)</dc:description>
+<dc:source>Emergencias (Sant Vicenç dels Horts);25(3): 218-227, jun. 2013. ilus, tab</dc:source>
+<dc:identifier>ibc-113599</dc:identifier>
+<dc:title xml:lang="es">Diseño e implantación de un plan de seguridad del paciente en un servicio de urgencias de hospital: ¿cómo hacerlo?</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d4707^s22049</dc:subject>
+<dc:subject>^d37609</dc:subject>
+<dc:subject>^d54857</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d31061^s22049</dc:subject>
+<dc:subject>^d18001</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201306</dc:date>
+</metadata>
+</record>
+</ibecs-document>

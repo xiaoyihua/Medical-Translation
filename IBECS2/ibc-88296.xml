@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-88296</identifier>
+<setSpec>0210-4806</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cost-Effectiveness of the Combination Therapy of Dutasteride and Tamsulosin in the Treatment of Benign Prostatic Hyperlasia in Spain</dc:title>
+<dc:description xml:lang="en">Objectives: to evaluate the incremental cost-effectiveness ratio (ICER) of the combination therapy with dutasteride and tamsulosin (DUT+TAM) as initiation treatment versus the most used drug in Spain, tamsulosin (TAM), in the treatment of moderate to severe benign prostatic hyperplasia (BPH) with risk of progression. Methods: a semi-Markov model was developed using 4-year and 35-year time horizons and from the Spanish National Healthcare Service perspective. Data were obtained from the CombAT trial. Effectiveness was measured in terms of quality adjusted life years (QALYs). Health care resources were defined by an experts&#146; panel, and unitary costs were obtained from published Spanish sources. Pharmacologic cost is expressed in PTPWAT; in the case of TAM, the generic price is used, in the case of DUT+TAM the price of a fixed dose combination is used. Costs are expressed in 2010 Euros. Results: combination therapy with DUT+TAM produces an incremental effectiveness of 0.06QALY at year 4 and 0.4QALY at year 35. DUT+TAM represents an incremental cost of &#128; 810.53 at 4 years and &#128; 3,443.62 at 35 years. Therefore, the ICER for DUT+TAM versus TAM is &#128; 14,023.32/QALY at year 4 and &#128; 8,750.15/QALY at year 35. Conclusions: initiation treatment with DUT+TAM represents a cost-effective treatment versus TAM, the most used treatment in Spain, due to the fact the ICER is below the threshold that usually allows a technology to be considered as cost-effective (AU)</dc:description>
+<dc:creator>Brenes, F</dc:creator>
+<dc:creator>Huerta, A</dc:creator>
+<dc:creator>Antoñanzas, F</dc:creator>
+<dc:creator>Palencia, R</dc:creator>
+<dc:creator>Cozar, J. M</dc:creator>
+<dc:creator>Molero, J. M</dc:creator>
+<dc:creator>Fernández-Pro, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: evaluar el coste-efectividad incremental (CEI) de la combinación dutasterida y tamsulosina (DUT+TAM) de inicio frente al tratamiento más utilizado, tamsulosina (TAM), en pacientes con hiperplasia benigna de próstata (HBP) moderada-grave con riesgo de progresión. Material y métodos: se diseñó un modelo semi-Markov con un horizonte temporal a 4 y a 35 años desde la perspectiva del Sistema Nacional de Salud español a partir del estudio CombAT. La efectividad de los tratamientos se midió en años de vida ajustados por calidad (AVAC). El uso de recursos sanitarios se obtuvo de un panel de expertos. Los costes unitarios proceden de tarifas publicadas por las Comunidades Autónomas. El coste del tratamiento farmacológico se expresa en PVP-IVA; en el caso de TAM se utilizó el precio del genérico y en el de DUT+TAM el de la combinación a dosis fija. Todos los costes se expresan en euros de 2010. Resultados: DUT+TAM produce una mejoría incremental respecto a TAM de 0,06 AVAC a los 4 años y de 0,4 AVAC a los 35 años. El coste incremental de DUT+TAM es de 810,53 &#128; a los 4 años y 3.443,62 &#128; a los 35 años. Por tanto, El CEI de TAM+DUT respecto a TAM es 14.023,32 &#128;/ AVAC y 8.750,15 &#128;/ AVAC a los 4 y 35 años respectivamente. Conclusiones: el tratamiento de inicio con la combinación DUT+TAM es un tratamiento coste-efectivo frente TAM, el tratamiento más habitual en la práctica clínica española, al encontrase el ratio CEI por debajo del umbral que usualmente se considera para clasificar las tecnologías como coste-efectivas (AU)</dc:description>
+<dc:source>Actas Urol Esp;35(2): 65-71, feb. 2011. tab, `bilus, graf</dc:source>
+<dc:identifier>ibc-88296</dc:identifier>
+<dc:title xml:lang="es">Coste-efectividad de la combinación dutasterida y tamsulosina en el tratamiento de la hiperplasia benigna de próstata en España</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d33939^s22045</dc:subject>
+<dc:subject>^d4400</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d50303</dc:subject>
+<dc:subject>^d11913^s22057</dc:subject>
+<dc:subject>^d14119^s22006</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201102</dc:date>
+</metadata>
+</record>
+</ibecs-document>

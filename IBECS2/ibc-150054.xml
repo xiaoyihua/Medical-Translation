@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150054</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Detection of non-uniform DIF: Mantel-Haenszel and logistic regression methods</dc:title>
+<dc:description xml:lang="en">The present simulation study compared the performance under different conditions of the Mantel-Haenszel (MH) statistic, the variation of the MH statistic proposed by Mazor, Clauser and Hambleton (1994), and the logistic regression (LR) on detection of nonuniform differential item functioning (DIF). Simulated data were obtained from a real study (Ferreres, 1998). Item parameters used in the simulation are from a aplication of Verbal Mental Ability Scale of Middle BADYG (Yuste, 1988). Variables manipulated were: sample size, differences in the group trait level averages, type of nonuniform DIF, proportions of DIF items and signification level. These methods were evaluated by examining changes in the power and the Type I error rate over 100 replications. Results obtained have contributed to clarify the utility of these statistical methods in the presence of nonuniform DIF. Conclusions to consider in future studies of the deteccion of nonuniform DIF are given (AU)</dc:description>
+<dc:creator>Fidalgo Aliste, Ángel M</dc:creator>
+<dc:creator>Ferreres Traver, Doris</dc:creator>
+<dc:creator>Muñiz, José</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El presente trabajo de simulación pretende identificar bajo qué condiciones el estadístico Mantel-Haenszel en su forma estándar, la modificación propuesta por Mazor, Clauser y Hambleton (1994), y la técnica de la Regresion Logística (RL) son capaces de detectar el funcionamiento diferencial de los ítems no uniforme. Los datos simulados en este estudio procedieron de datos empíricos (Ferreres, 1998). Los parámetros utilizados en la generación de los datos fueron tomados de una aplicación de la escala Habilidad Mental Verbal (HMV), parte integrante de la batería BADYG Medio (Yuste, 1988). Las variables manipuladas fueron: el tamaño muestral, la presencia o no de impacto, el tipo de FDI no uniforme, el porcentaje de ítems con FDI en el test y el nivel de significación. La eficacia de los diferentes métodos se analizó en términos de la potencia de prueba y la tasa de error de Tipo I que presentaron a través de 100 replicaciones. Los resultados contribuyen a clarificar el comportamiento de dichos métodos en presencia del FDI no uniforme. Asimismo, se presentan conclusiones a considerar para futuras investigaciones en la detección del FDI no uniforme (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);12(supl.2): 220-225, 2000. tab</dc:source>
+<dc:identifier>ibc-150054</dc:identifier>
+<dc:title xml:lang="es">Detección del funcionamiento diferencial de los ítems no uniforme: comparación de los métodos Mantel-Haenszel y regresión logística</dc:title>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d1084^s22083</dc:subject>
+<dc:subject>^d8776</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d32037</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:subject>^d54366</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200000</dc:date>
+</metadata>
+</record>
+</ibecs-document>

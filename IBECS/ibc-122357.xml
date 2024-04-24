@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-122357</identifier>
+<setSpec>1888-6116</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Design and validation of a risk map for improving safety patient in emergency departments</dc:title>
+<dc:description xml:lang="en">Objective: To design and validate an emergency care risk map (RM) which can be used in all the Spanish emergency departments (ED). Material and methods: To design a RM using the Failures Modes and Effects Analysis method (FMEA). The study has four phases: Design, consensus (using Delphi technique), validation and final design. Results: The final RM collected, after validation, a total of 13 processes, 118 subprocesses, 271 possible failures and 1,368 risks. Based on median scores risk odds ratio (IPR), we obtained two smaller versions: Recommended MR, with the risks above the overall median for each process, consists of 13 processes, 108 subprocesses, 217 possible failures and 748 risks; and Essential RM (with the risk &gt;280 points IPR), consisting of a total of 10 processes, 54 subprocesses, 79 and 180 potential risks. Conclusion: The RM obtained is a proactive, homogeneous and validated tool, which analyzes all the emergency cares processes, and which allows risk management in every ED (AU)</dc:description>
+<dc:creator>Chanovas Borrás, M</dc:creator>
+<dc:creator>Bueno Domínguez, M. J</dc:creator>
+<dc:creator>Roqueta Egea, F</dc:creator>
+<dc:creator>Tomás Vecina, S</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Diseño y validación de un mapa de riesgos de la atención urgente (MR) aplicable para todos los servicios de urgencias (SU) hospitalarios españoles. Material y métodos: Diseño de un MR utilizando la metodología del Análisis Modal de Fallos y Efectos (AMFE). El trabajo constó de cuatro fases: diseño, consenso (rondas de consultores mediante técnica Delphi), validación y diseño definitivo. Resultados: El MR definitivo recogió, tras su validación, 13 procesos, 118 subprocesos, 271 fallos posibles y 1.368 riesgos. Atendiendo a las puntuaciones de mediana del índice de probabilidad de riesgos (IPR), se elaboraron dos versiones reducidas: MR Recomendado, con los riesgos por encima de la mediana global de cada proceso, formado por 13 procesos, 108 subprocesos, 217 fallos posibles y 748 riesgos; y MR Imprescindible (con los riesgos &gt;280 puntos de IPR), formado por 10 procesos, 54 subprocesos, 79 fallos posibles y 180 riesgos. Conclusión: El MR obtenido es una herramienta proactiva homogénea y validada, que analiza todos los procesos asistenciales urgentes y que permite la gestión de riesgos en cualquier SU (AU)</dc:description>
+<dc:source>Trauma (Majadahonda);25(1): 46-53, ene.-mar. 2014. tab</dc:source>
+<dc:identifier>ibc-122357</dc:identifier>
+<dc:title xml:lang="es">Diseño y validación de un mapa de riesgos para la mejora de la seguridad del paciente en los servicios de urgencias hospitalarios</dc:title>
+<dc:subject>^d4707^s22049</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d4710^s22083</dc:subject>
+<dc:subject>^d34868</dc:subject>
+<dc:subject>^d28626</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28416^s22049</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d28416^s22083</dc:subject>
+<dc:subject>^d54857^s22083</dc:subject>
+<dc:subject>^d4707^s22083</dc:subject>
+<dc:subject>^d4710^s22045</dc:subject>
+<dc:subject>^d35256</dc:subject>
+<dc:subject>^d4707^s22048</dc:subject>
+<dc:subject>^d54857^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201403</dc:date>
+</metadata>
+</record>
+</ibecs-document>

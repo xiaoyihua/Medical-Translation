@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-82284</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Nosological analysis of MRI tissue perfusion parameters obtained using the unicompartmental and pharmacokinetic models in cerebral glioblastomas</dc:title>
+<dc:description xml:lang="en">Objectives. To classify the tumor areas in patients with grade IV astrocytoma by calculating and statistically analyzing quantitative MRI perfusion parameters. Material and methods. We applied two models of MRI perfusion, the unicompartmental and the pharmacokinetic models, in 15 patients diagnosed with grade IV astrocytoma. In the unicompartmental model, we quantified cerebral blood volume (CBV), mean transit time (MTT), and cerebral blood flow (CBF). In the pharmacokinetic model, we measured the permeability constant (Ktrans), the extraction coefficient (kep), the fraction of the volume in the interstitial space (ve), the fraction of the volume in the vessels (vp), the permeability in the first pass (Kfp), and the vascular volume in the first pass (vpfp). For each parameter, histograms were obtained for the total tumor area, for the peritumoral area, and for the healthy tissue. The statistical analysis included an analysis of variance for each parameter and a discriminant analysis. Results. The most significant differences between the regions were obtained with CBV, CBF, Ktrans, and vpfp; of these, CBV had the best results. The best classificatory function on the discriminant analysis was the combination of Ktrans and CBV. The analysis of the shape of the histogram showed statistically significant differences for the kurtosis of Ktrans and kep, as well as for the skewness of CBV, CBF, Ktrans, and vpfp. Conclusion. When parameters are considered individually, CBV is the one that best enables differentiation between tumor, peritumoral, and healthy tissue. The classificatory function generated from CBV and Ktrans results in improved classification by areas (AU)</dc:description>
+<dc:creator>Cremades, A</dc:creator>
+<dc:creator>Piquer, J</dc:creator>
+<dc:creator>Martí-Bonmatí, L</dc:creator>
+<dc:creator>Carot, J. M</dc:creator>
+<dc:creator>Revert Ventura, A. J</dc:creator>
+<dc:creator>Jornet, J</dc:creator>
+<dc:creator>Sanz-Requena, R</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos. Clasificar las áreas tumorales en pacientes con astrocitoma de grado IV mediante el cálculo y análisis estadístico de parámetros cuantitativos de perfusión por RM. Material y métodos. Se aplicaron 2 modelos de perfusión por RM, monocompartimental y farmacocinético, en 15 pacientes diagnosticados de astrocitoma grado IV. Con el modelo monocompartimental se cuantificó el volumen sanguíneo cerebral (VSC), el tiempo de tránsito medio (TTM) y el flujo sanguíneo cerebral (FSC). Con el farmacocinético se midió la constante de permeabilidad (Ktrans), el coeficiente de extracción (kep), la fracción de volumen del espacio intersticial (ve), la fracción de volumen vascular (vp), la permeabilidad en primer paso (Kfp) y el volumen vascular en primer paso (vpfp). Para cada parámetro se obtuvieron los histogramas del área tumoral total, peritumoral y sana. El análisis estadístico incluyó un análisis de varianza para cada parámetro y un análisis discriminante. Resultados. Las diferencias más significativas entre las regiones se obtuvieron con el VSC, FSC, Ktrans y vpfp, siendo VSC el que mostró mejores resultados. La mejor función clasificatoria mediante análisis discriminante se obtuvo para una combinación de Ktrans y VSC. El análisis de la forma del histograma evidenció diferencias estadísticamente significativas para la curtosis de Ktrans y kep, así como para la asimetría de VSC, FSC, Ktrans y vpfp. Conclusión. El VSC es el parámetro que aisladamente permitió diferenciar mejor entre área tumoral, peritumoral y sana. La función clasificatoria generada a partir de VSC y Ktrans consiguió mejorar estos resultados haciendo más eficaz la clasificación por áreas (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);52(5): 432-441, sept.-oct. 2010. tab, ilus</dc:source>
+<dc:identifier>ibc-82284</dc:identifier>
+<dc:title xml:lang="es">Análisis nosológico con parámetros de perfusión tisular de RM obtenidos mediante los modelos monocompartimental y farmacocinético en los glioblastomas cerebrales</dc:title>
+<dc:subject>^d1262^s22011</dc:subject>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d24609</dc:subject>
+<dc:subject>^d28620</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d10669^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1262^s29166</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d31846^s29166</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201010</dc:date>
+</metadata>
+</record>
+</ibecs-document>

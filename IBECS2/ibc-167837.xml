@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-167837</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Activity of ceftazidime-avibactam against multidrug-resistance Enterobacteriaceae expressing combined mechanisms of resistance</dc:title>
+<dc:description xml:lang="en">Introduction: Antimicrobial resistance in Enterobacteriaceae is increasing worldwide and is making treating infections caused by multidrug-resistant Enterobacteriaceae a challenge. The use of Beta -lactam agents is compromised by microorganisms harboring extended-spectrum Beta -lactamases (ESBLs) and other mechanisms of resistance. Avibactam is a non Beta -lactam agent that inhibits clinically relevant Beta -lactamases, such as ESBL and AmpC. The ceftazidime-avibactam combination (CAZ-AVI) was recently approved for use in certain complicated infections, and may provide a therapeutic alternative for infections caused by these microorganisms. Methods: The in vitro activity of CAZ and CAZ-AVI (AVI at a fixed concentration of 4mg/L) was tested against 250 clinical isolates of Enterobacteriaceae using broth microdilution. EUCAST breakpoint criteria were used for CAZ, and FDA criteria for CAZ-AVI. Clinical isolates included bacteria producing extended-spectrum Beta -lactamases (ESBLs) and acquired AmpC Beta -lactamases (AACBLs). Porin loss in Klebsiella pneumoniae was also evaluated. Results: The combination of AVI with CAZ displayed excellent activity against clinical isolates of ESBL-producing Escherichia coli and Klebsiella pneumoniae, rendering all the ceftazidime-resistant isolates susceptible to ceftazidime. CAZ-AVI retained activity against porin-deficient isolates of K. pneumoniae producing ESBLs, AACBLs, or both, although MIC values were higher compared to porin-expressing isolates. CAZ-AVI rendered all the ceftazidime-resistant AACBL-producing Enterobacteriaceae tested susceptible to ceftazidime. Conclusion: CAZ-AVI showed potent in vitro activity against clinical isolates of Enterobacteriaceaeproducing ESBLs and/or AACBLs, including K. pneumoniae with loss of porins (AU)</dc:description>
+<dc:creator>López-Hernández, Inmaculada</dc:creator>
+<dc:creator>Alonso, Noemí</dc:creator>
+<dc:creator>Navarro, Ferrán</dc:creator>
+<dc:creator>Martínez Martínez, Luis</dc:creator>
+<dc:creator>Conejo, M Carmen</dc:creator>
+<dc:creator>Pascual, Alvaro</dc:creator>
+<dc:creator>Fernández Martínez, Marta</dc:creator>
+<dc:creator>Rivera, Alba</dc:creator>
+<dc:creator>Zamorano, Laura</dc:creator>
+<dc:creator>Oliver, Antonio</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Introducción: La resistencia antibiótica en enterobacterias está en aumento y el tratamiento de infecciones producidas por enterobacterias multirresistentes supone un reto terapéutico. El uso de betalactámicos se afecta con la producción de betalactamasas de espectro extendido (BLEE) y otros mecanismos de resistencia. Avibactam es un compuesto no betalactámico que inhibe betalactamasas como BLEE o AmpC. La combinación ceftazidima-avibactam (CAZ-AVI) ha sido aprobada recientemente para el tratamiento de infecciones complicadas y puede ser una alternativa terapéutica en estas infecciones. Métodos: La actividad in vitro de CAZ y CAZ-AVI (AVI, concentración fija de 4mg/mL) fue determinada en 250 aislamientos clínicos de enterobacterias mediante microdilución en caldo. Los puntos de corte de EUCAST fueron utilizados para CAZ, y los criterios de FDA se utilizaron para CAZ-AVI. Las enterobacterias estudiadas producían BLEE y/o AmpC adquiridas (BLAA). El papel de la pérdida de porinas en Klebsiella pneumoniae también fue evaluado. Resultados: CAZ-AVI demostró una excelente actividad en Escherichia coli y Klebsiella pneumoniaeproductoras de BLEE, devolviendo la sensibilidad a CAZ en todos los aislamientos resistentes a CAZ. CAZ-AVI mantuvo su actividad en aislamientos de K. pneumoniae deficientes en porinas productoras de BLEE y/o BLAA, aunque los valores de CMI fueron más altos comparados con las cepas que expresaban porinas. En todas las enterobacterias resistentes a ceftazidima productoras de BLAA analizadas en este estudio CAZ-AVI devolvió la sensibilidad a ceftazidima. Conclusión: CAZ-AVI demostró una potente actividad in vitro en aislamientos clínicos de enterobacterias productoras de BLEE y/o BLAA, incluyendo K. pneumoniae con pérdida de porinas (AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;35(8): 499-504, oct. 2017. graf, tab</dc:source>
+<dc:identifier>ibc-167837</dc:identifier>
+<dc:title xml:lang="es">Actividad de ceftazidima/avibactam en enterobacterias multirresistentes con mecanismos de resistencia combinados</dc:title>
+<dc:subject>^d32271^s22021</dc:subject>
+<dc:subject>^d1639^s22078</dc:subject>
+<dc:subject>^d31164^s22001</dc:subject>
+<dc:subject>^d24244^s22039</dc:subject>
+<dc:subject>^d7887^s22021</dc:subject>
+<dc:subject>^d7887^s22001</dc:subject>
+<dc:subject>^d4835^s22021</dc:subject>
+<dc:subject>^d19042^s22045</dc:subject>
+<dc:subject>^d55660^s22073</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201710</dc:date>
+</metadata>
+</record>
+</ibecs-document>

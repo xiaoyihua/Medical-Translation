@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-989</identifier>
+<setSpec>0212-8241</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Design of a multiparametric risk model of microvascular events in the diabetic type 2 patient by means of multiple logistical regression</dc:title>
+<dc:creator>Rojano Martín, J. C</dc:creator>
+<dc:creator>Luque Martín, J. S</dc:creator>
+<dc:creator>Grondona Mayayo, A</dc:creator>
+<dc:creator>Sánchez Luque, J. J</dc:creator>
+<dc:creator>Morell Ocaña, M</dc:creator>
+<dc:creator>Ortiz García, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Propósito del estudio. Diseño de un modelo multiparamétrico de riesgo de eventos microvasculares en el paciente diabético tipo 2 mediante análisis de regresión logística múltiple que permita discriminar las variables asociadas a un mayor riesgo y los individuos más susceptibles de presentar este tipo de complicaciones. Métodos usados. Estudio observacional analítico de 60 diabéticos tipo 2. Muestreo aleatorio sistematizado aplicando un análisis de regresión logística múltiple (programa JMP del SAS Institute).Resultados. Perfil poblacional: edad media: 61,15 ñ 10,69 años; sexo: 36 por ciento hombres/64 por ciento mujeres; índice de masa corporal (IMC): 30,5 ñ 5,03; índice cintura-cadera: 0,97 ñ 0,05; hipertensión arterial: 65 por ciento; sistólica: 143,61ñ16mmHg; diastólica: 83,65 ñ 10,67 mmHg; dislipidemias: 70 por ciento; eventos microvasculares: 35 por ciento; glucemia basal: 174,63 ñ 54,53 mg/dl; HbA1c: 6,56ñ1,61 por ciento; colesterol: 222,61ñ51,37 mg/dl; triglicéridos: 184,93 ñ 15,77 mg/dl; c-HDL: 49,03 ñ 1 mg/dl; microalbuminuria: 16,6 por ciento. Diseño de un modelo de regresión logistica múltiple de eventos microvasculares, análisis de verosimilitud p &lt; 0,0025. Están relacionadas en este modelo las siguientes variables ordenadas según su peso específico en la ecuación de riesgo: microalbuminuria, índice cintura-cadera, hipertensión arterial y glucemia basal. Conclusiones. Se diseña un modelo multiparamétrico de riesgo de eventos microvasculares en el paciente diabético tipo 2 que considera como variables discriminativas asociadas a un mayor riesgo: indice cintura-cadera, hipertensión arterial, microalbuminuria y glucemia basal (AU)</dc:description>
+<dc:source>Hipertensión (Madr., Ed. impr.);18(8): 353-356, nov. 2001. tab</dc:source>
+<dc:identifier>ibc-989</dc:identifier>
+<dc:title xml:lang="es">Diseño de un modelo multiparamétrico de riesgo de eventos microvasculares en el paciente diabético tipo 2 mediante regresión logística múltiple</dc:title>
+<dc:subject>^d3946^s22012</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d3946^s22032</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d2359^s22032</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d2359^s22027</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200111</dc:date>
+</metadata>
+</record>
+</ibecs-document>

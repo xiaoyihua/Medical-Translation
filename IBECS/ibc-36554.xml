@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-36554</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Longitudinal studies: concept and particularities</dc:title>
+<dc:creator>Llorca Díaz, Javier</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ministerio de Sanidad y Consumo</dc:publisher>
+<dc:description xml:lang="es">En la presente revisión se analiza el concepto de estudio longitudinal. Los libros de texto de epidemiología actuales en general no lo definen, mientras que sí lo hacen los tratados de estadística. Se habla más de "datos longitudinales" que de "estudios longitudinales". El estudio longitudinal implica la existencia de medidas repetidas (más de dos) a lo largo de un seguimiento. Sería pues un subtipo de estudio de cohortes que, a diferencia de los de tipo tabla de vida, permite inferencias a nivel individual y analizar cambios en diferentes variables (exposiciones y efectos) y transiciones entre diferentes estados de salud. Las particularidades de este tipo de diseño hace que se tenga que prestar atención especial al control de calidad durante su ejecución, a los abandonos durante el seguimiento, y a los datos perdidos en algunas de las mediciones. El análisis debe tener en cuenta las medidas repetidas y esto es lo que confiere finalmente a un estudio su carácter longitudinal (AU)</dc:description>
+<dc:source>Rev Esp Salud Publica;78(2): 141-148, mar. 2004.</dc:source>
+<dc:identifier>ibc-36554</dc:identifier>
+<dc:title xml:lang="es">Estudios longitudinales: concepto y particularidades</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28630</dc:subject>
+<dc:subject>^d37673</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200403</dc:date>
+</metadata>
+</record>
+</ibecs-document>

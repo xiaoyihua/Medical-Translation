@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-124543</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Revisiting the &#145;Low BirthWeight paradox&#146; using a model-based definition</dc:title>
+<dc:description xml:lang="en">Introduction Immigrant mothers in Spain have a lower risk of delivering Low Birth Weight (LBW) babies in comparison to Spaniards (LBW paradox). This study aimed at revisiting this finding by applying a model-based threshold as an alternative to the conventional definition of LBW. Methods Vital information data from Madrid was used (2005&#150;2006). LBW was defined in two ways (less than 2500g and Wilcox's proposal). Logistic and linear regression models were run. Results According to common definition of LBW (less than 2500g) there is evidence to support the LBW paradox in Spain. Nevertheless, when an alternative model-based definition of LBW is used, the paradox is only clearly present in mothers from the rest of Southern America, suggesting a possible methodological bias effect. Conclusion In the future, any examination of the existence of the LBW paradox should incorporate model-based definitions of LBW in order to avoid methodological bias (AU)</dc:description>
+<dc:creator>Juárez, Sol</dc:creator>
+<dc:creator>Clarke, Lynda</dc:creator>
+<dc:creator>Ploubidis, George B</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Introducción Estudios previos señalan que las madres inmigrantes residentes en España tienen menos probabilidades de dar a luz niños con bajo peso que las autóctonas (paradoja del bajo peso). Este estudio evalúa si este resultado se mantiene al utilizar un umbral alternativo que tiene en cuenta las distribuciones de peso en los diferentes colectivos. Métodos Se utilizaron las estadísticas vitales de Madrid (2005&#150;2006). Se definió bajo peso al nacer como menos de 2.500g y siguiendo la propuesta de Wilcox. Se utilizaron regresiones logísticas y lineales. Resultados Utilizando el umbral convencional confirmamos la existencia de la paradoja del peso al nacer. Sin embargo, con el umbral alternativo sólo las madres del resto de América del sur muestran una menor probabilidad de bajo peso. Conclusión Futuras investigaciones tienen que incorporar definiciones de bajo peso que tengan en cuenta las distribuciones específicas según el origen de la madre para evitar sesgos metodológicos (AU)</dc:description>
+<dc:source>Gac Sanit;28(2): 160-162, mar.-abr. 2014. tab</dc:source>
+<dc:identifier>ibc-124543</dc:identifier>
+<dc:title xml:lang="es">Revisando la "paradoja del bajo peso" utilizando una definición basada en modelos</dc:title>
+<dc:subject>^d22261</dc:subject>
+<dc:subject>^d52950^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22225</dc:subject>
+<dc:subject>^d23904^s22083</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d1748</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201404</dc:date>
+</metadata>
+</record>
+</ibecs-document>

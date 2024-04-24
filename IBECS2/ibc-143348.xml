@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-143348</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Continuous tissue glucose monitoring correlates with measurement of intermittent capillary glucose in patients with distributive shock</dc:title>
+<dc:description xml:lang="en">Background: Intermittent glycemic measurements in patients admitted to the intensive care unit (ICU) can result in episodes of severe hypoglycemia or in a poor control of glycemia range. We designed a study to assess accuracy and reliability of continuous monitoring of tissue glucose for patients with distributive shock. Methods: Consecutive patients admitted to the ICU with a diagnosis of distributive shock and the need of insulin infusion for glycemic control were included in the study. These patients were implanted a Continuous Glucose Control Monitoring System (CGMS) with the sensor inserted subcutaneously into the abdominal wall. CGMS values were recorded every 5min. Capillary glucose (CG) was monitored for adjusting insulin perfusion according to the ICU protocol. Correlation between both methods was assessed. Results: A total of 11,673 CGMS and 348 CG values were recorded. In five patients, CGMS failed to detect tissue glucose. A glucose value &lt;3.33mmol/l (&lt;60mg/dl) was observed in 3.6% of CGMS and in 0.29% CG values. 295 pairs of measurements were included in the statistical analysis for correlation assessment. The intraclass correlation coefficient was 0.706. The Pearson correlation coefficient was 0.71 (p&lt;0.0001, 95% CI 0.65&#150;0.76). The mean of differences between both measurement methods was 0.22mmol/l (3.98mg/dl) (95% CI 0.66&#150;7.31). Conclusions: When the Continuous Glucose Control Monitoring System (CGMS) is able to obtain data (75% of the patients), there is correlation between the values obtained by this method and capillary blood glucose in patients with distributive shock. CGMS can detect more episodes of glycemic excursions outside the normal range than intermittent capillary glucose monitoring. Variables that may impair glucose metabolism and peripheral soft tissues perfusion could impair CGMS measurements (AU)</dc:description>
+<dc:creator>Martínez, Ó</dc:creator>
+<dc:creator>Martín Parra, C</dc:creator>
+<dc:creator>López Matamala, B</dc:creator>
+<dc:creator>Ballesteros, D</dc:creator>
+<dc:creator>Estébanez, B</dc:creator>
+<dc:creator>Chana, M</dc:creator>
+<dc:creator>Gómez-Casero, R. Blancas</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Antecedentes: la medición de glucemia intermitente pueden provocar episodios de hipoglucemia severa o un mal control glucémico en los pacientes ingresados en la Unidad de Cuidados Intensivos (UCI). Diseñamos un estudio para evaluar la exactitud y fiabilidad de la monitorización continua de glucosa tisular en pacientes con shock distributivo. Métodos: Se incluyeron en el estudio todos los pacientes ingresados consecutivamente en la UCI con el diagnóstico de shock distributivo y la necesidad de insulina en perfusión para el control glucémico. A estos pacientes se les implantó un Sistema de Monitorización Continua de la Glucosa Tisular (CGMS) con un sensor insertado en tejido subcutáneo de la pared abdominal. CGMS valores se registraron cada cinco minutos. La glucosa capilar (GC) fue monitorizada para ajustar la perfusión de insulina de acuerdo con el protocolo de la UCI. Se evaluó la correlación entre ambos métodos. Resultados: Se registraron un total de 11.673 valores de CGMS y 348 valores de CG. En cinco pacientes, la CGMS no pudo ser detectada. Un valor de glucosa &lt;3,33mmol/l (&lt;60mg/dl) se observó en 3,6% de los valores de CGMS y en el 0,29% de los valores de CG. 295 pares de mediciones se incluyeron en el análisis estadístico para la evaluación de la correlación. El coeficiente de correlación intraclase fue de 0,706. El coeficiente de correlación de Pearson fue de 0,71 (p&lt;0,0001; IC 95% 0,65&#150;0,76). La media de las diferencias entre los dos métodos de medición fue de 0,22mmol/l (3,98mg/dl) (IC 95% 0,66 a 7,31). Conclusiones: Cuando el sensor de medición de glucosa tisular continua es capaz de obtener datos (75% de los pacientes), existe correlación entre los valores obtenidos mediante este método y la glucemia capilar en los pacientes que presentan shock distributivo. CGMS puede detectar más episodios de excursiones glucémicas fuera del rango de normalidad que la monitorización intermitente de glucosa capilar. Variables que pueden perjudicar el metabolismo de la glucosa y la perfusión periférica de los tejidos blandos podrían afectar las mediciones CGMS (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);39(7): 405-411, oct. 2015. ilus, tab</dc:source>
+<dc:identifier>ibc-143348</dc:identifier>
+<dc:title xml:lang="es">La monitorización continua de la glucosa de tejido se correlaciona con la medición de glucosa capilar intermitente en pacientes con shock distributivo</dc:title>
+<dc:subject>^d3439^s22045</dc:subject>
+<dc:subject>^d7181^s22054</dc:subject>
+<dc:subject>^d7124^s22054</dc:subject>
+<dc:subject>^d7530^s22083</dc:subject>
+<dc:subject>^d23570^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d13147^s22032</dc:subject>
+<dc:subject>^d9183^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201510</dc:date>
+</metadata>
+</record>
+</ibecs-document>

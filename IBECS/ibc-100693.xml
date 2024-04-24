@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-100693</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Effect of the violation of normality and sphericity in the linear mixed model in split-plot designs</dc:title>
+<dc:description xml:lang="en">This study aimed to evaluate the robustness of the linear mixed model, with the Kenward-Roger correction for degrees of freedom, when implemented in SAS PROC MIXED, using split-plot designs with small sample sizes. A Monte Carlo simulation design involving three groups and four repeated measures was used, assuming an unstructured covariance matrix to generate the data. The study variables were: sphericity, with epsilon values of 0.75 and 0.57; group sizes, equal or unequal; and shape of the distribution. As regards the latter, non-normal distributions were introduced, combining different values of kurtosis in each group. In the case of unbalanced designs, the effect of pairing (positive or negative) the degree of kurtosis with group size was also analysed. The results show that the Kenward-Roger procedure is liberal, particularly for the interaction effect, under certain conditions in which normality is violated. The relationship between the values of kurtosis in the groups and the pairing of kurtosis with group size are found to be relevant variables to take into account when applying this procedure (AU)</dc:description>
+<dc:creator>Arnau, Jaime</dc:creator>
+<dc:creator>Bendayan, Rebecca</dc:creator>
+<dc:creator>Blanca, María J</dc:creator>
+<dc:creator>Bono, Rose</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El objetivo del presente trabajo fue evaluar la robustez del Modelo Lineal Mixto, mediante el PROC MIXED del SAS, con la corrección de los grados de libertad por el procedimiento Kenward-Roger (K-R) y con diseños split-plot. El estudio se realizó mediante simulación Monte Carlo con un diseño de tres grupos y cuatro medidas repetidas, asumiendo una matriz de covarianza no estructurada para generar los datos. Las variables del estudio fueron la esfericidad, con valores de épsilon de 0,75 y 0,57; el tamaño de grupo, igual o desigual, y la forma de la distribución. Referente a esta última, se han tenido en cuenta distribuciones no normales, combinando distintos valores de curtosis en cada grupo. Con diseños no balanceados, se analizó también el efecto del emparejamiento (positivo o negativo) del grado de curtosis con el tamaño de grupo. Los resultados muestran que el procedimiento K-R es liberal, sobre todo para el efecto de interacción, bajo determinadas condiciones de violación de la normalidad. Al aplicar este procedimiento con muestras pequeñas se debe considerar la relación entre los valores de curtosis de los grupos y el emparejamiento de la curtosis con el tamaño de grupo como variables relevantes (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);24(3): 449-454, jul.-sept. 2012. tab</dc:source>
+<dc:identifier>ibc-100693</dc:identifier>
+<dc:title xml:lang="es">Efecto de la violación de la normalidad y esfericidad en el modelo lineal mixto en diseños split-plot</dc:title>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d28620</dc:subject>
+<dc:subject>^d12031^s22083</dc:subject>
+<dc:subject>^d24769</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:subject>^d12018^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201209</dc:date>
+</metadata>
+</record>
+</ibecs-document>

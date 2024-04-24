@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-25088</identifier>
+<setSpec>0004-0614</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Design and analysis of a treatment study in clinical research in urology</dc:title>
+<dc:creator>Terleira Fernández, Ana</dc:creator>
+<dc:creator>Vargas Castrillón, Emilio</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Iniestares, S. A.</dc:publisher>
+<dc:description xml:lang="es">El ensayo clínico es el tipo de diseño más apropiado para la evaluación de intervenciones y por ello, en la medida de lo posible, los tratamientos que apliquemos a nuestros pacientes deben fundamentarse en sus resultados. Sin embargo, una lectura poco crítica de los artículos donde se presenten, puede llevar a conclusiones inadecuadas, ya que el hecho de que un articulo este publicado no garantiza su calidad metodológica ni su aplicabilidad. El tipo de pacientes incluidos, el método de aleatorización, la sistemática de seguimiento, el tipo de análisis realizado, así como la magnitud, precisión y relevancia clínica de los resultados deben ser siempre tenidos en cuenta. Junto a estos aspectos deben considerarse los efectos adversos y el coste de las intervenciones, debiéndose todos ellos integrarse de forma adecuada para optimizar el cuidado de nuestros pacientes (AU)</dc:description>
+<dc:source>Arch Esp Urol;56(6): 615-628, jul. 2003.</dc:source>
+<dc:identifier>ibc-25088</dc:identifier>
+<dc:title xml:lang="es">Diseño y análisis de un estudio de tratamiento en investigación clínica en urología</dc:title>
+<dc:subject>^d14972</dc:subject>
+<dc:subject>^d32095</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12528</dc:subject>
+<dc:subject>^d24300</dc:subject>
+<dc:subject>^d37673</dc:subject>
+<dc:subject>^d33671</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200307</dc:date>
+</metadata>
+</record>
+</ibecs-document>

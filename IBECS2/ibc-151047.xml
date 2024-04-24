@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-151047</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">R-ALERGO. Allergy-healthy routes in Valencia</dc:title>
+<dc:description xml:lang="en">R-ALERGO is a project developed by researchers from the Universitat Politècnica de València and the Hospital Universitario La Fe (Valencia, Spain). The main objective of the project is to create a mobile application identifying, within the city of Valencia, the most favorable routes for allergic individuals. The application is developed using nine environmental variables with a potential effect on the development of clinical manifestations in allergic individuals. The application combines the use of spatial analysis based on network technology and implemented with a geographic information system software. The first 01 version is under evaluation for a Healthy app hallmark. The next step in this project is to design a clinical validation process to test its usefulness in allergic individuals (AU)</dc:description>
+<dc:creator>Díaz Palacios, Miguel</dc:creator>
+<dc:creator>Moya Fuero, Alfonso</dc:creator>
+<dc:creator>Perales Chordá, Carolina</dc:creator>
+<dc:creator>Temes Cordovez, Rafael R</dc:creator>
+<dc:creator>Martí Garrido, Jaume</dc:creator>
+<dc:creator>Hernández Fernández de Rojas, Dolores</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El proyecto R-ALERGO, desarrollado entre la Universitat Politècnica de València y el Hospital Universitario La Fe, tiene como objetivo crear una aplicación móvil (App) que permita a los/las usuarios/as seleccionar, dentro de la ciudad de Valencia, las rutas más favorables para las personas alérgicas. En el desarrollo de la aplicación se ha seleccionado un conjunto de nueve variables ambientales presentes en la ciudad, que pueden influir en la aparición de manifestaciones clínicas en las personas alérgicas. Mediante el uso de un método de análisis espacial apoyado en tecnología de redes y sistemas de información geográfica se ha desarrollado la versión 01 de la App que se audita a través del Distintivo AppSaludable. El paso siguiente en este desarrollo es diseñar un proceso de validación clínica con el fin de comprobar su utilidad para las personas alérgicas (AU)</dc:description>
+<dc:source>Gac Sanit;30(2): 140-143, mar.-abr. 2016. tab</dc:source>
+<dc:identifier>ibc-151047</dc:identifier>
+<dc:title xml:lang="es">R-ALERGO. Rutas alergosaludables en Valencia</dc:title>
+<dc:subject>^d28064^s22054</dc:subject>
+<dc:subject>^d12551^s22054</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d55440^s22074</dc:subject>
+<dc:subject>^d4862^s22054</dc:subject>
+<dc:subject>^d37724^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201604</dc:date>
+</metadata>
+</record>
+</ibecs-document>

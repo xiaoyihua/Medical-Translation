@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-143087</identifier>
+<setSpec>1698-6946</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">DNA microarrays in oral cancer</dc:title>
+<dc:description xml:lang="en">One of the principal aims of modern cancer research is to identify markers allowing individual prediction of prognosis or response to treatment. In this connection, the number of genes thought to be involved in the different stages of different types of oral cancer increases apace. DNA microarrays allow simultaneous evaluation of the expression of hundreds of genes in a single assay. The parallel format of microassay slides is designed to allow rapid comparison of gene expression between two samples, for example tumor cells and healthy cells. This article reviews studies that have aimed to identify genes related to oral cancer, and to classify these genes into groups that are commonly co-expressed. These studies suggest that DNA microarrays are set to become routine tools in the detection, diagnosis, characterization and treatment of oral cancers (AU)</dc:description>
+<dc:creator>Otero Rey, Eva</dc:creator>
+<dc:creator>Somoza Martín, Manuel</dc:creator>
+<dc:creator>Torres Español,  María</dc:creator>
+<dc:creator>Gándara Rey, José Manuel</dc:creator>
+<dc:creator>García García, Abel</dc:creator>
+<dc:creator>Barros Angueira, Francisco</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Uno de los principales objetivos en la investigación sobre el cáncer en la actualidad es el estudio de marcadores que puedan predecir el pronóstico o la respuesta al tratamiento de forma individual. El número de genes implicados en los distintos pasos de la carcinogénesis oral aumenta a medida que se investiga sobre el tema. Los microarrays de DNA permiten el análisis simultáneo de la expresión de cientos de genes de un tejido en un solo experimento. El formato paralelo del ensayo permite el estudio de diferencias en la expresión genética entre células normales y enfermas, puesto que la actividad de cada gen en el microarray puede ser comparada en dos poblaciones celulares distintas. El objetivo de este trabajo es hacer una breve revisión de los estudios realizados por diversos autores que han intentado identificar genes relacionados con el cáncer oral, así como clasificarlo en subgrupos según los patrones de expresión genética; lo que permitirá una precoz detección, mejor diagnóstico y pronóstico del cáncer oral (AU)</dc:description>
+<dc:source>Med. oral patol. oral cir. bucal (Internet);9(4): 288-292, ago.-oct. 2004. ilus</dc:source>
+<dc:identifier>ibc-143087</dc:identifier>
+<dc:title xml:lang="es">Microarrays de DNA en el cáncer oral</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d22570^s22033</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24411</dc:subject>
+<dc:subject>^d24666^s22033</dc:subject>
+<dc:subject>^d33876^s22045</dc:subject>
+<dc:subject>^d2337^s22033</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200410</dc:date>
+</metadata>
+</record>
+</ibecs-document>

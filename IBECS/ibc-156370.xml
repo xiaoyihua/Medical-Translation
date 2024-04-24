@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-156370</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Expression of microRNA-133 inhibits epithelial-mesenchymal transition in lung cancer cells by directly targeting FOXQ1</dc:title>
+<dc:description xml:lang="en">Introduction: MicroRNA (miR) was implicated in the tumorigenesis of many types of cancer, but no study was conducted on the exact role of miR-133 in lung cancer. Methods: We have identified miR-133 as a putative regulator of FOXQ1 expression, and investigated the potential involvement of miR-133 in the migration and invasion of lung cancer cells, as well as the underlying molecular mechanism. Results: MiR-133 directly targeted and down-regulated FOXQ1 expression, which in turn reduced TGF-&amp;#946; level. MiR-133 was down-regulated in lung cancer cell lines A549 and HCC827, and its re-expression significantly inhibited the migration and invasion of the lung cancer cells. Further investigation revealed that this inhibition was caused by reversing the epithelial-mesenchymal transition, evidenced by miR-133 induced elevation of epithelial marker E-cadherin, and reduction of mesenchymal marker Vimentin. Conclusions: Our study is the first to identify miR-133 as a biomarker for lung cancer. It functions to down-regulate FOXQ1, and inhibit epithelial mesenchymal transition, which antagonizes lung cancer tumorigenesis. Therefore our data support the role of miR-133 as a potential molecular therapeutic tool in treating lung cancer (AU)</dc:description>
+<dc:creator>Gu, Zeyun</dc:creator>
+<dc:creator>Liu, Huazhen</dc:creator>
+<dc:creator>Ji, Cheng</dc:creator>
+<dc:creator>Xiao, Bo</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: El microARN (miR) se ha relacionado con la génesis tumoral en muchos tipos de cáncer, pero ningún estudio ha examinado el rol exacto del miR-133 en el cáncer de pulmón. Métodos: Identificamos el miR-133 como posible regulador de la expresión de la FOXQ1 e investigamos la posible implicación del miR-133 en la migración y la invasión de células de cáncer de pulmón, y el mecanismo molecular subyacente. Resultados: El miR-133 se dirigió directamente y redujo la expresión de la FOXQ1, que a su vez redujo la concentración de TGF-&amp;#946;. El miR-133 disminuyó en líneas celulares de cáncer de pulmón A549 y HCC827, y su reexpresión inhibió significativamente la migración y la invasión de células de cáncer de pulmón. Investigaciones subsiguientes revelaron que dicha inhibición estaba provocada por una inversión de la transición epitelio-mesenquimatosa, constatada por una elevación del marcador epitelial E-cadherina inducida por el miR-133 y una reducción del marcador vimentina. Conclusiones: Nuestro estudio es el primero que ha identificado el miR-133 como biomarcador del cáncer de pulmón. Su función es reducir la FOXQ1 e inhibir la transición epitelio-mesenquimatosa, la cual antagoniza la génesis tumoral en el cáncer de pulmón. Por consiguiente, nuestros datos respaldan el papel del miR-133 como posible instrumento terapéutico molecular en el tratamiento del cáncer de pulmón (AU)</dc:description>
+<dc:source>Arch Bronconeumol;52(10): 505-511, oct. 2016. graf</dc:source>
+<dc:identifier>ibc-156370</dc:identifier>
+<dc:title xml:lang="es">La expresión de microARN-133 inhibe la transición epitelio-mesenquimatosa en las células del cáncer de pulmón apuntando directamente al FOXQ1</dc:title>
+<dc:subject>^d29139^s22073</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d8352^s22016</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d8352^s22047</dc:subject>
+<dc:subject>^d8352^s22067</dc:subject>
+<dc:subject>^d9555^s22032</dc:subject>
+<dc:subject>^d37535^s22073</dc:subject>
+<dc:subject>^d9555^s22067</dc:subject>
+<dc:subject>^d9562^s22012</dc:subject>
+<dc:subject>^d9562^s22067</dc:subject>
+<dc:subject>^d37535^s22000</dc:subject>
+<dc:subject>^d37535^s22078</dc:subject>
+<dc:subject>^d9555^s22016</dc:subject>
+<dc:subject>^d9562^s22011</dc:subject>
+<dc:subject>^d54324^s22031</dc:subject>
+<dc:subject>^d29139^s22078</dc:subject>
+<dc:subject>^d29139^s22000</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201610</dc:date>
+</metadata>
+</record>
+</ibecs-document>

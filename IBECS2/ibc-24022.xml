@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-24022</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Variations in the use of hospital resources in treating patients with chronic obstructive pulmonary disease</dc:title>
+<dc:creator>Verdaguer Munujos, A</dc:creator>
+<dc:creator>Librero, J</dc:creator>
+<dc:creator>Peiró, S</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">OBJETIVO: Analizar los factores asociados a la duración de la estancia y el gasto farmacéutico en pacientes ingresados por enfermedad pulmonar obstructiva crónica (EPOC) y evaluar si la atención por diferentes facultativos implica un uso diferencial de estos recursos. MÉTODOS: Cohorte retrospectiva de 1.033 ingresos por EPOC en el Hospital de Mataró (1996-1998) en la que se analizaron los factores asociados a la duración de la estancia y el gasto en fármacos a partir del Conjunto Mínimo de Datos Básicos, las bases de datos de análisis clínicos y la base de datos de la unidosis de farmacia. Se analizaron también las diferencias entre los pacientes atendidos por cada facultativo y se desarrollaron modelos de regresión lineal múltiple con objeto de valorar la presencia de diferencias en función de la atención por uno u otro médico. RESULTADOS: La duración de la estancia aumentó con la mayor edad, el número de ingresos, la presencia de fibrilación auricular o insuficiencia respiratoria, las alteraciones ventilatorias, la cronicidad, un valor de ventilación espiratoria máxima en el primer segundo inferior al 50 por ciento y la atención por determinados facultativos. El gasto farmacéutico mostró un comportamiento similar. Aunque los pacientes atendidos por los diferentes médicos fueron muy homogéneos, la estancia mediana según facultativos varió desde 9 a 11 días, y la mediana de gasto farmacéutico, desde 7.258 hasta 9.049 ptas. Tras eliminar el efecto de las diversas covariables mediante análisis de regresión múltiple, se mantuvo el comportamiento diferencial entre facultativos. CONCLUSIONES: Las diferencias entre médicos en cuanto a duración de la estancia hospitalaria y consumo farmacéutico son importantes y persisten tras controlar el efecto de las diferencias relativas a la gravedad de los pacientes atendidos  (AU)</dc:description>
+<dc:source>Arch Bronconeumol;39(10): 442-448, oct. 2003.</dc:source>
+<dc:identifier>ibc-24022</dc:identifier>
+<dc:title xml:lang="es">Variabilidad en la utilización de recursos hospitalarios en pacientes con enfermedad pulmonar obstructivacrónica (EPOC)</dc:title>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d8079</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d31403</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29362</dc:subject>
+<dc:subject>^d6916</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d24572</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d30152</dc:subject>
+<dc:subject>^d36008</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d12093</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d11252</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200310</dc:date>
+</metadata>
+</record>
+</ibecs-document>

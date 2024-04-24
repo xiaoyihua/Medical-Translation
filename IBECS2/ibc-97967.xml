@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-97967</identifier>
+<setSpec>0212-6567</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Ebrictus study. Functional results, survival, and potential years of life lost after the first stroke</dc:title>
+<dc:description xml:lang="en">Aim: To determine the mortality, degree of dependence, survival, and years of life lost (YLL) after first episode of stroke. Design: Cohort study. Location: Community based register. Participants: A total of 553 subjects between 15-90 years with a first episode of definitive or transitory stroke were recruited between 01/04/2006 and 31/03/2008.MeasurementsThe analyses were performed with the use of time-to-event methods, according to the intention-to-treat principle. The level of dependency was assessed according to the Barthel Scale one year after stroke; YLL (1-70 years) from the mean life expectancies at birth; survival analysis by Kaplan-Meier's curves, bivariate analysis comparing the variables between patients who had survived and those who died, and Cox's multivariate.: Results: The mean age was 73.3 (±11.6 years. The mean time of follow-up was 29.7±13,4 months, during which 26.6% of the patients died. The mean Barthel score fell by &gt;20%, particularly among women. There was moderate or greater dependence in 41.5% (95%CI 30.6-52.8%) of the subjects. The overall accumulative probability of survival was 0.96 (95% CI 0.94-0.97) in the first month and 0.69 (95% CI 0.65-0.72) in the fourth year. The thrombolytic treatment showed a protective effect on mortality, particularly among the women. The main predictive variables were, history of recurrent cardiovascular event (RR 6.7, 95% CI 2.2-21.7) and aging (RR 1.08, 95% CI 1.01-1.2). The average YLL was 11.5/10000/year SD7.2, and higher among men. Conclusion: There are differences in functional outcome, mortality, and potential years of life lost by gender. A new cardiovascular event is an independent prognostic factor of survival(AU)</dc:description>
+<dc:creator>Clua-Espuny, J. L</dc:creator>
+<dc:creator>Gil-Guillen, V. F</dc:creator>
+<dc:creator>Orozco-Beltran, D</dc:creator>
+<dc:creator>Lucas-Noll, J</dc:creator>
+<dc:creator>Panisello-Tafalla, A</dc:creator>
+<dc:creator>Queralt-Tomas, M. L</dc:creator>
+<dc:creator>Piñol-Moreso, J. L</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Conocer la mortalidad, el grado de dependencia, la supervivencia y los años potenciales de vida perdidos (APVP) después de un primer episodio de ictus. Diseño: Estudio de cohorte fija. Emplazamiento: Base comunitaria. Participantes: Entre el 1/4/2006 y el 31/3/2008 fueron incluidas 553 personas entre 15-90 años, con un primer episodio de ictus definitivo o transitorio. Mediciones principales: Grado de dependencia según la escala de Barthel (EB) al año, APVP (1-70 años) a partir de las medias de las esperanzas de vida al nacer, análisis de supervivencia por curvas de Kaplan-Meier, bivariante entre pacientes fallecidos y supervivientes, y multivariante de Cox. Resultados: Edad media, 73,3; DE: 11,6 años. El tiempo medio de seguimiento fue 29,7; DE:13,4 meses, en el que un 26,6% de los pacientes fallecieron. El valor medio EB descendió &gt; 20%, especialmente entre las mujeres. El 41,5% (IC 95% 30,6-52,8%) tenía una dependencia moderada o más. La probabilidad de supervivencia global acumulada fue de 0,96 (IC 95% 0,94-0,97) el primer mes y 0,69 (IC 95% 0,65-0,72) al final. La fibrinólisis mejoró significativamente la curva de supervivencia a los 3 años post-episodio, en particular entre las mujeres. Los factores pronósticos independientes para la supervivencia global fueron la edad (riesgo relativo [RR] 1,08, IC 95% 1,001-1,179) y la incidencia de un nuevo episodio cardiovascular (RR 6,97, IC 95% 2,23-21,7). La tasa de APVP fue 11,5/104, DE 7,2, significativamente mayor en los hombres. Conclusiones: La evolución funcional, la mortalidad y la tasa de APVP son diferentes por género. La incidencia de un nuevo episodio cardiovascular es un factor pronóstico independiente de la supervivencia(AU)</dc:description>
+<dc:source>Aten Primaria;44(4): 223-231, abr. 2012.</dc:source>
+<dc:identifier>ibc-97967</dc:identifier>
+<dc:title xml:lang="es">Estudio Ebrictus. Resultados funcionales, supervivencia y años potenciales de vida perdidos después del primer episodio de ictus</dc:title>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d37737^s22066</dc:subject>
+<dc:subject>^d37737^s22045</dc:subject>
+<dc:subject>^d37737^s22056</dc:subject>
+<dc:subject>^d34247^s22016</dc:subject>
+<dc:subject>^d34247^s22027</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d37737^s22083</dc:subject>
+<dc:subject>^d27295</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d37737^s37748</dc:subject>
+<dc:subject>^d34247^s22080</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d34247^s22012</dc:subject>
+<dc:subject>^d53386</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d5453^s22031</dc:subject>
+<dc:subject>^d34247^s22061</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201204</dc:date>
+</metadata>
+</record>
+</ibecs-document>

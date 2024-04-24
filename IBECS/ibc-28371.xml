@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-28371</identifier>
+<setSpec>1134-3230</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Gestational diabetes: prospective study of the analytic parameters obtained in the O'Sullivan test as macrosomia and cesarean section risk factors</dc:title>
+<dc:creator>Salas López, L</dc:creator>
+<dc:creator>Perca Carrasco, R</dc:creator>
+<dc:creator>Bassas Baena de León, E</dc:creator>
+<dc:creator>Lombardo Grífol, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Ergon, S.A</dc:publisher>
+<dc:description xml:lang="es">La diabetes gestacional (GDM), entre otras alteraciones, incrementa el peso del recién nacido (RN), y este incremento es causa de complicaciones obstétricas en el parto. El objetivo de este estudio es cuantificar por regresión logística, los factores de riesgo tanto clínicos como los obtenidos en el test de sobrecarga de 50g de glucosa (GCT), para su utilidad en la predicción de macrosomía (&gt;_4 kg del RN) y parto por cesárea; en especial glucosa en la hora e índice I ([glucosa/100] x [fructosamina / proteínas totales]). Diseño del estudio: Estudio prospectivo de 583 gestantes consecutivas a las que se les realizó el test de screening GCT, con determinación de glucemia, fructosamina y proteínas totales; seguido a las 2 semanas del test de sobrecarga de 100g de glucosa (OGTT) para el diagnóstico de GDM. Otros datos recogidos son: la edad materna, la edad gestacional al parto, el número de gestaciones y el tipo de parto; así como en el RN, peso y sexo. Resultados: El único factor que predecía parto por cesárea es la edad de la madre con Odds Ratio (OR) de 1,08 (1,02-1,14). El diagnóstico de GDM actuaba como factor protector en la predicción de macrosomía con OR = 0,168 (0,033-0,856), debido al tratamiento. Por lo cual se estudió el modelo de regresión logística para macrosomía sólo con las gestantes no GDM (n= 535). Se detectó una fuerte interacción entre el sexo femenino (SF) del RN y la glucosa en lª hora 2_140 mg/dl (TS+), o el índice i.49 (ID+), con OR de "TS+ x SF" = 5,56 (1,59-19,44) y "ID+ x SF" =12,52 (3,52-44,57). Otros factores significativos en el modelo son, tener embarazos anteriores con OR = 3,06, sexo con OR = 0,26, y semanas de gestación con OR = 1,84. Conclusiones: Las gestantes con TS+ o ID+ y cuyo feto sea de sexo femenino, tienen aumentado el riesgo de macrosomía del RN, y este riesgo es independiente de otras variables controladas. Así como que, el diagnóstico de GDM, por el tratamiento, conlleva una normalización del peso del RN (AU)</dc:description>
+<dc:source>Av. diabetol;19(2): 65-72, abr. 2003. tab</dc:source>
+<dc:identifier>ibc-28371</dc:identifier>
+<dc:title xml:lang="es">Diabetes gestacional: Estudio prospectivo de los parámetros analíticos obtenidos en el test de O'Sullivan como factores de riesgo de macrosomía y de parto por cesárea</dc:title>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d2625^s22020</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d30157^s22016</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d30157^s22012</dc:subject>
+<dc:subject>^d30157^s22067</dc:subject>
+<dc:subject>^d2625^s22048</dc:subject>
+<dc:subject>^d30157^s22032</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d33025</dc:subject>
+<dc:subject>^d6091</dc:subject>
+<dc:subject>^d19165^s22012</dc:subject>
+<dc:subject>^d30157^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200304</dc:date>
+</metadata>
+</record>
+</ibecs-document>

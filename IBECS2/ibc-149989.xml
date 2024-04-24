@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-149989</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The power of mean tests with two and three groups, with small effect size and under non-normality and homo-heteroscedaticity</dc:title>
+<dc:description xml:lang="en">The power of mean contrasts is studied in conditions of small effect size, with two and three samples, and using several parametric and non-parametric statistical tests (Student&#146;s test, Welch test and Mann-Withney-Wilcoxon&#146;s U with two groups; ANOVA, James second order test and Kruskal-Wallis with three groups), both complying with the parametric assumptions of normality and homocedasticity and violating those assumptions. The main result is that, when it is not possible to have big samples (which is very common when investigating in applied Psychology) these tests are not useful and different ways of investigating must be accomplished (AU)</dc:description>
+<dc:creator>Sánchez Bruno, Alfonso</dc:creator>
+<dc:creator>Cañadas Osinski, Isabel</dc:creator>
+<dc:creator>San Luis Costas, Concepción</dc:creator>
+<dc:creator>Borges del Rosal, África</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Se estudia el problema de la potencia analizando tamaños de efecto pequeño en dos y tres muestras, utilizando diversos contrastes paramétricos y no paramétricos (t de Student, prueba de Welch y U de Mann-Withney-Wilcoxon en el caso de dos grupos, y ANOVA, prueba de James de segundo orden (James, 1951, 1954) y Kruskal-Wallis, en el caso de tres grupos), ello tanto en condiciones de cumplimiento de los supuestos subyacentes a las pruebas como bajo violación de los supuestos de normalidad y homocedasticidad. La principal conclusión es que, cuando no sea posible trabajar con muestras numerosas, (caso común en la investigación en Psicología aplicada) se deben plantear otras formas de investigación que permitan resultados más esclarecedores (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);12(supl.2): 114-116, 2000.</dc:source>
+<dc:identifier>ibc-149989</dc:identifier>
+<dc:title xml:lang="es">Estudio de la potencia de los contrastes de medias con dos y tres grupos con tamaño de efecto pequeño y en condiciones de no normalidad y homo-heterocedasticidad</dc:title>
+<dc:subject>^d12049^s22083</dc:subject>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d54358</dc:subject>
+<dc:subject>^d1544^s22083</dc:subject>
+<dc:subject>^d29210^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12528</dc:subject>
+<dc:subject>^d10697^s22083</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200000</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-14655</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Multilevel regression models: Applications in school psychology</dc:title>
+<dc:description xml:lang="en">Data collection procedures in the behavioral sciences do not always follow the rules of simple random sampling, an assumption of ordinary least squares regression. This is the case in cluster sampling designs which contain more than one type of experimental unit, such as subjects that are nested within classes, schools or companies. Failure of taking into consideration the special structure of the data results in estimation bias for the standard error and in an increase in the probability of inference errors. Multilevel analysis models this relationship among the observations while providing unbiased standard error and estimates of the contextual variability of regression coefficients. The purpose of this paper is to simplify multilevel analysis as a generalization of the analysis of covariance on the basis of commonly used statistical concepts such as repeated measures designs, fixed and random effects models. Several application examples in school psychology are reviewed (AU)</dc:description>
+<dc:creator>Oliver, Juan</dc:creator>
+<dc:creator>Jara, Pilar</dc:creator>
+<dc:creator>Rosel, Jesús</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Es frecuente en la investigación comportamental que el proceso de recogida de datos no siga los principios del muestreo aleatorio simple supuesto por la regresión clásica, sino un muestreo por agrupamientos (cluster sampling) en donde junto con los participantes se selecciona también unidades contextuales a las que éstos pertenecen tales como escuelas, municipios o empresas. La consecuencia de utilizar regresión ordinaria es la producción de sesgos en el error típico de medida y un aumento en la probabilidad de cometer errores de inferencia. El análisis multinivel modela explícitamente estas relaciones jerárquicas proporcionando además estimaciones sobre la variabilidad contextual de los coeficientes de regresión. El objetivo del trabajo es simplificar el análisis multinivel como una generalización del análisis de covarianza, a partir de conceptos estadísticos más comunes como los diseños de medidas repetidas, modelos de efectos fijos y aleatorios. Se presentan ejemplos de aplicaciones en el contexto de la psicología escolar (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);12(3): 487-494, ago. 2000. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-14655</dc:identifier>
+<dc:title xml:lang="es">Modelos de regresión multinivel: aplicación en psicología escolar</dc:title>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d2698^s22056</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d28409</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d28597^s22045</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200008</dc:date>
+</metadata>
+</record>
+</ibecs-document>

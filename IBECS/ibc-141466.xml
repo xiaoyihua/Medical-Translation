@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-141466</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">An Adverse Event Continuous Surveillance System in Surgical Services of the Autonomous Region of Cantabria (Spain)</dc:title>
+<dc:description xml:lang="en">Objective: To design a continuous surveillance system for adverse events (AEs) in surgical services in the Autonomous Community of Cantabria. Through homogeneous methodology, this system will provide the information needed to prevent and control AEs and avoid their recurrence. Material and methods: We performed a prospective study of the population undergoing inpatient surgery in our service. The methodology used was an adapted version of the IDEA (Identification of Adverse Events) project. Surgeons had access to an intranet website and introduced the data by using a personal login. A web application allowed feedback through report-generation. Results: During the pilot phase, limited collection of variables requiring calculations and of those related to location and causality was observed. Assessment of the system indicated the need for simplification to obtain valid and useful information, as well as the need to provide help windows. The system was redesigned with two data input screens and currently allows for automatic report generation of registered AEs. Information was gathered on 70% of the patients and an incidence of 11.2 AEs/100 admissions was found. Of these, 47% were defined as surgical complications (AU)</dc:description>
+<dc:creator>Gómez-Fleitas, Manuel</dc:creator>
+<dc:creator>Madrazo-Leal, César</dc:creator>
+<dc:creator>Rebollo-Rodrigo, Henar</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Diseñar un sistema de vigilancia continua de efectos adversos (EA) en los servicios quirúrgicos de Cantabria para conocer, mediante una metodología homogénea, la información necesaria para orientar la prevención y el control de los EA y que sea una fuente de aprendizaje para evitar su recurrencia. Material y métodos: Estudio prospectivo de la población que ingresa y es intervenida en el servicio. La herramienta utilizada es un servidor SQL con bases de datos relacionadas, con acceso a través de web utilizando la intranet del hospital y códigos de seguridad establecidos para todos los usuarios. Nace de la metodología del proyecto IDEA adaptada. Resultados: En la prueba piloto se detecta una baja cumplimentación de las variables que requieren cálculo y de las de localización y causalidad. Esta valoración indica la necesidad de simplificar para obtener información factible y de utilidad, así como la necesidad de incorporar ventanas de ayuda. El sistema se ha rediseñado en dos pantallas de introducción de datos y permite la elaboración automática de informes generales y específicos de los EA registrados. La tasa de consignación alcanza casi el 70%, y se ha encontrado una incidencia de 11,2 EA/100 ingresos, de los que el 47% se definió como complicaciones quirúrgicas. Conclusiones: La implantación de un sistema de vigilancia continua de EA es posible si los profesionales participan, la herramienta es simple y la información que reciben del sistema es rápida y útil para implantar medidas correctoras. Así, se puede considerarla una herramienta de extraordinario valor para obtener información sobre los EA y, en consecuencia, de las potenciales áreas de mejora en la actividad quirúrgica de nuestros hospitales (AU)</dc:description>
+<dc:source>Med. clín (Ed. impr.);135(supl.1): 12-16, jul. 2010. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-141466</dc:identifier>
+<dc:title xml:lang="es">Sistema de vigilancia continua de eventos adversos en los servicios quirúrgicos de Cantabria</dc:title>
+<dc:subject>^d31061^s22045</dc:subject>
+<dc:subject>^d33121^s22054</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d31061^s22083</dc:subject>
+<dc:subject>^d33121^s22083</dc:subject>
+<dc:subject>^d^s22048</dc:subject>
+<dc:subject>^d28442</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201007</dc:date>
+</metadata>
+</record>
+</ibecs-document>

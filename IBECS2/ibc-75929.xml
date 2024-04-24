@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-75929</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Complexity in Asthma: Inflammation and Scale-Free Networks</dc:title>
+<dc:description xml:lang="en">Our understanding of asthma has traditionally been based on linear deterministic relationships of the type stimulus-bronchial hyperresponsiveness-obstruction-symptoms. This notion however neglects the fact that nonlinear relationships may be present. To better define the disease, some authors therefore suggest that we should think in terms of complex systems with a scale-free topology. The idea of multiple inflammatory hits proposed by the group of Pavord is in its broadest sense a further contribution to this line of thought. According to this theory, the coexistence of additional inflammatory stimuli, which may or may not be localized to the lungs, are responsible for deteriorating lung function. The effects of these stimuli may be additive or act in synergy with the underlying inflammation of asthma itself. In addition to the practical implications, this hypothesis serves as a reminder that the body is made up of interconnected parts and that the pathogenesis of asthma includes distinct elements linked together. If this hypothesis proves valid, future approaches should start to look for the hubs in this network that constitutes asthma, and attempt to integrate information from genomics, proteomics, and metabolomics(AU)</dc:description>
+<dc:creator>Perpiñá Tordera, Miguel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Tradicionalmente la interpretación del asma se ha fundamentado en relaciones deterministas directas del tipo estímulo-inflamación-hiperrespuesta bronquial-obstrucción-síntomas, olvidando, sin embargo, que en esta enfermedad no es infrecuente detectar circunstancias que no guardan linealidad. Por tal motivo algunos autores postulan que el abordaje de su patogenia debería comenzar a realizarse desde la óptica de los sistemas complejos que adoptan una topología libre de escala. La teoría de los impactos inflamatorios múltiples, propuesta por el grupo de Pavord, representa, en su sentido más amplio, una aportación adicional a esta línea de pensamiento. De acuerdo con ella, en el asma la coexistencia de estímulos inflamatorios adicionales, de localización pulmonar o extrapulmonar, agravan la evolución del proceso respiratorio. Los efectos de esos estímulos pueden ser aditivos o actuar de manera sinérgica con la propia inflamación asmática. Más allá de su interés práctico, la hipótesis viene a recordarnos que el organismo es un constructo conformado a partir de conjuntos interconectados, y que el asma incluye en su patogenia elementos de naturaleza diversa entrelazados. Si esto es así, el planteamiento futuro tendría que comenzar a centrarse en la búsqueda de los hubs de esa red llamada asma integrando la información aportada por la genómica, la proteómica y la metabolómica(AU)</dc:description>
+<dc:source>Arch Bronconeumol;45(9): 459-465, sept. 2009. ^tab, ilus, graf</dc:source>
+<dc:identifier>ibc-75929</dc:identifier>
+<dc:title xml:lang="es">La complejidad en el asma: inflamación y redes libres de escala</dc:title>
+<dc:subject>^d7399</dc:subject>
+<dc:subject>^d1257^s22080</dc:subject>
+<dc:subject>^d14190</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d12560</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d30191</dc:subject>
+<dc:subject>^d23966</dc:subject>
+<dc:subject>^d1257^s22067</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d1257^s22027</dc:subject>
+<dc:subject>^d9369</dc:subject>
+<dc:subject>^d9367</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d7426</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d2715</dc:subject>
+<dc:subject>^d13981</dc:subject>
+<dc:subject>^d22226</dc:subject>
+<dc:subject>^d36008</dc:subject>
+<dc:subject>^d1257^s22053</dc:subject>
+<dc:subject>^d1257^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200909</dc:date>
+</metadata>
+</record>
+</ibecs-document>

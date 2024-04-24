@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-162972</identifier>
+<setSpec>0212-8799</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Peak oxygen uptake prediction in overweight and obese adults</dc:title>
+<dc:description xml:lang="en">Peak oxygen uptake ( VO2peak) is an important risk predictor for cardiovascular mortality and morbidity. The main aim of this study was to develop equations for estimating VO2peakin sedentary and active overweight and obese subjects. The second objective was to compare the newly created equations with the standard equations that are widely used. One hundred and  twenty-nine overweight and obese subjects (57 males), aged 18-50 years, were randomized into two groups: development group (n = 94) and validation group (n= 35). Individuals performed a modified Bruce protocol before (sedentary) and after (active) a 24-week weight loss program. Body composition was measured by bioelectrical impedance analysis. Stepwise multiple regression models were performed; the following factors: age, body weight (BW ), lean body mass percentage (%LBM), and time of effort test (TIME) were included in the model. Four equations were developed: with and without effort test data for sedentary and active subjects. In the validation group, equations with and without TIME underestimated VO2peakvalues in sedentary (p= 0.002 and p= 0.008, respectively), but not in active subjects. Furthermore, the equations derived from this study presented  the greatest determination coefficients and the lowest values for the standard errors of estimate, for both development and validation groups. The following equation presented the highest determination coefficient, using effort test data for active subjects: VO2peak(L/min) = -5.017 + (0.040×BW ) + (0.127×TIME) + (0.046×%LBM) + (-0.010×AGE). The predicted VO2peakvalues using the Bruce equation were significantly lower than the measured values in active participants (p = 0.046); whereas those predicted by ACSM&#146;s equation were significantly higher in comparison to the measured O2peak levels in sedentary and active subjects (p&lt;0.001), for both groups. In conclusion, equations developed in this study were adequate to predict VO2peakin overweight and obese subjects, whilst the most commonly used equations in the literature, ACSM and Bruce, reported an inaccurate estimation of VO2pea (AU)</dc:description>
+<dc:creator>Fernández, Isabel R</dc:creator>
+<dc:creator>Calderón, Javier</dc:creator>
+<dc:creator>Cupeiro, Rocío</dc:creator>
+<dc:creator>Benito, Pedro J</dc:creator>
+<dc:creator>Peinado, Ana B</dc:creator>
+<dc:creator>Castro, Eliane A</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">El consumo de oxígeno pico (VO2peak) es un predictor importante de riesgo cardiovascular. El principal objetivo de este estudio fue desarrollar ecuaciones para estimar el VO2peak en sujetos con sobrepeso y obesidad, tanto sedentarios como activos. El objetivo secundario fue comparar las ecuaciones desarrolladas con ecuaciones ampliamente utilizadas. Ciento veintinueve sujetos con sobrepeso y obesidad (57 varones), de entre 18 y 50 años, fueron aleatoriamente divididos en dos grupos: de desarrollo (n=94) y de validación (n=35). Los sujetos realizaron un protocolo de Bruce modificado antes (sedentario) y tras un programa de pérdida de peso de 24 semanas (activo). La composición corporal se midió con impedancia bioeléctrica. Se realizaron modelos de regresión múltiple por pasos y los siguientes factores fueron incluidos en el modelo: edad, peso corporal (PC), porcentaje de masa magra (%MM) y tiempo máximo en la prueba de esfuerzo (TIEMPO). Fueron desarrolladas cuatro ecuaciones: con y sin dato de prueba de esfuerzo para sedentarios y activos. En el grupo de validación, las ecuaciones con y sin TIEMPO subestimaron los valores de VO2peak en sedentarios (p = 0,002 y p = 0,008, respectivamente), pero no en sujetos activos. Por otra parte, nuestras ecuaciones presentaron los mayores coeficientes de determinación y los valores más bajos en errores estándar de estimación, tanto para el grupo de desarrollo como para el grupo de validación. La ecuación con el coeficiente de determinación más alto fue la desarrollada para los sujetos activos con datos de prueba de esfuerzo: O2peak (L/min) = -5,017 + (0,040×PC) + (0,127×TIEMPO) + (0,046×%MM) + (0,010×EDAD). La ecuación de Bruce calculó valores de O2peak significativamente menores que los valores medidos en sujetos activos (p = 0,046); mientras que los valores predichos por la ecuación de ACSM fueron significativamente mayores en comparación con los valores de VO2peak medidos, tanto en sedentarios como en activos (p &lt;0,001), para ambos grupos. En conclusión, las ecuaciones desarrolladas en este estudio fueron adecuadas para predecir VO2peak en sujetos con sobrepeso y obesidad, mostrando una mayor precisión que otras ecuaciones utilizadas en la literatura (AU)</dc:description>
+<dc:source>Arch. med. deporte;34(178): 72-79, mar.-abr. 2017. tab, graf</dc:source>
+<dc:identifier>ibc-162972</dc:identifier>
+<dc:title xml:lang="es">Predicción del consumo pico de oxígeno en adultos con sobrepeso y obesidad</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d50524^s22032</dc:subject>
+<dc:subject>^d9951^s22032</dc:subject>
+<dc:subject>^d53743</dc:subject>
+<dc:subject>^d28137^s22031</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d5678</dc:subject>
+<dc:subject>^d10281^s22031</dc:subject>
+<dc:subject>^d53386</dc:subject>
+<dc:subject>^d5178^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201704</dc:date>
+</metadata>
+</record>
+</ibecs-document>

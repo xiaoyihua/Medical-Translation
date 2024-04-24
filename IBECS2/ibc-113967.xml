@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-113967</identifier>
+<setSpec>1888-6116</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Design, development and assessment of a Brain Computer Interface (BCI) system applied to control domotic and electronic devices in order to improve the quality of life of people with severe disabilities</dc:title>
+<dc:description xml:lang="en">Objective: The aim of this study is to design, develop and assess an application for automatic control through the electroencephalogram (EEG) signal using a P300 evoked potentials-based Brain Computer Interface (BCI) system, in order to increase the autonomy of dependent people at home. Material and methods: An application for automatic control, by means the user&#146;s EEG signal, through a P300- based BCI system was developed. The system was applied to nine subjects, users of the National Reference Center on Disability and Dependence from León (Spain). Results: Most of the subjects could control the application with an accuracy of 65% and upward. Three of them achieved even more than 85%. These results are significantly higher than the results achieved using a motor imagery-based BCI. Conclusions: P300-based systems require neither a training period nor an extremely high level of attention. Due to this reason, most of users were able to control suitably the developed application, which allows them to control devices at home, improving their independence and quality of life (AU)</dc:description>
+<dc:creator>Corralejo, R</dc:creator>
+<dc:creator>Hornero, R</dc:creator>
+<dc:creator>Álvarez, D</dc:creator>
+<dc:creator>Martín, L</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: El objetivo del presente trabajo consiste en diseñar, desarrollar y validar una aplicación de control domótico a partir de la señal de electroencefalograma (EEG) empleando un sistema Brain Computer Interface (BCI) basado en potenciales P300 para incrementar la autonomía de las personas dependientes en el hogar. Material y métodos: Se ha implementado una aplicación domótica a partir de un sistema BCI basado en potenciales evocados P300 empleando la señal EEG del usuario. El sistema se aplicó a nueve usuarios con grave discapacidad, procedentes del Centro de Referencia Estatal (CRE) de Discapacidad y Dependencia de León. Resultados: La mayoría de los usuarios fueron capaces de controlar la aplicación con una precisión superior al 65%. Tres de ellos, incluso, superaron el 85%. Estos resultados son notablemente mejores que los obtenidos mediante un sistema BCI basado en ritmos sensoriomotores. Conclusiones: Los sistemas basados en P300 no necesitan etapa de entrenamiento ni un alto nivel de atención sostenida. Por ello, la mayoría de los usuarios consiguieron un buen control de la aplicación propuesta que permite controlar dispositivos del hogar, aumentando así su independencia y calidad de vida (AU)</dc:description>
+<dc:source>Trauma (Majadahonda);24(2): 117-125, abr.-jun. 2013. tab, ilus</dc:source>
+<dc:identifier>ibc-113967</dc:identifier>
+<dc:title xml:lang="es">Diseño, desarrollo y evaluación de un sistema Brain Computer Interface (BCI) aplicado al control de dispositivos domóticos para mejorar la calidad de vida de las personas con grave discapacidad</dc:title>
+<dc:subject>^d50241</dc:subject>
+<dc:subject>^d4641^s22074</dc:subject>
+<dc:subject>^d30935^s22061</dc:subject>
+<dc:subject>^d54824^s22045</dc:subject>
+<dc:subject>^d54825^s22045</dc:subject>
+<dc:subject>^d4245</dc:subject>
+<dc:subject>^d4641^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d54825^s22048</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d54824^s22048</dc:subject>
+<dc:subject>^d4641^s22039</dc:subject>
+<dc:subject>^d54824^s22049</dc:subject>
+<dc:subject>^d54825^s22049</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d30943^s22048</dc:subject>
+<dc:subject>^d30935^s22019</dc:subject>
+<dc:subject>^d30943^s22066</dc:subject>
+<dc:subject>^d30943^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201306</dc:date>
+</metadata>
+</record>
+</ibecs-document>

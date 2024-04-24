@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-59173</identifier>
+<setSpec>0034-9356</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Construction and validation of a model to predict intraoperative hypothermia</dc:title>
+<dc:description xml:lang="en">OBJECTIVES: Perioperative hypothermia is linked toadverse effects that increase morbidity and mortality. Theobjectives of this study were to identify the risk factors forintraoperative hypothermia and construct an instrumentfor identifying patients at high risk.MATERIALS AND METHODS: We studied patients of allages who had undergone surgery. Patients were assignedto a design group or a validation group by means of a listof randomly generated numbers. Intraoperativehypothermia was defined by an tympanic temperature of35.9°C or less. A bivariate analysis of the design groupidentified the predictive factors and a multivariate analysis(logistic regression with backward elimination ofnonsignificant variables) provided a predictive model.Risk scores were obtained for each variable by convertingthem to a 4-degree risk scale (abbreviated model).Predictive power was determined by calculating the areaunder the receiver-operator characteristic curve (AUC).RESULTS: We enrolled 264 consecutive patients; 200were assigned to the design group and 64 to the validationgroup. In the design group, the AUC was 0.85 for thecomplete model and 0.83 for the abbreviated model. In thevalidation group, the AUC was 0.85 for the completemodel and 0.82 for the abbreviated model. The P valuewas &lt;.01 for all curves.CONCLUSION: Age, weight, approximate duration ofsurgery, and body and ambient temperature duringinduction were the included factors that predictedintraoperative hypothermia in a heterogeneous sample ofsurgical patients (AU)</dc:description>
+<dc:creator>Eslava-Schmalbach, J</dc:creator>
+<dc:creator>Rincón, D. A</dc:creator>
+<dc:creator>Valero, J. F</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">OBJETIVO: La hipotermia perioperatoria se asocia aefectos adversos que aumentan la morbilidad y la mortalidad.El objetivo de este estudio fue identificar los factoresde riesgo para hipotermia intraoperatoria y construir unaherramienta para identificar a los pacientes de alto riesgo.MATERIAL Y MÉTODOS: Se estudiaron pacientes, sin límitede edad, en los que se realizó algún procedimiento quirúrgico.Fueron asignados a dos grupos &#147;diseño&#148; y &#147;validación&#148;mediante una lista de números generados al azar. Lahipotermia intraoperatoria se definió como una temperaturatimpánica de 35,9ºC o menos. En un análisis bivariableen el grupo diseño se identificaron los factores predictores ydespués en un modelo multivariable (regresión logística deeliminación progresiva de variables no significativas) seobtuvo un modelo predictivo. Además, se elaboró una tablade puntuación transformando las variables (modelo abreviado).El poder predictivo se determinó mediante el áreabajo la curva ROC [área bajo curva ROC (ABC-ROC)].RESULTADOS: Se incluyeron 264 pacientes consecutivos;200 en el grupo diseño y 64 en el de validación En el grupodiseño el ABC-ROC del modelo completo fue 0,85 y ladel modelo abreviado ABC-ROC 0,83. En el grupo validaciónel ABC-ROC del modelo competo fue 0,85 y la delmodelo abreviado ABC-ROC 0,82. El valor P fue &lt;0,01 entodas las curvas.CONCLUSIÓN: En nuestro estudio, la edad, peso, duraciónestimada del procedimiento y las temperaturas corporaly ambiental durante la inducción, incluidas en unmodelo predictivo, fueron factores preoperatorios que predicenel desarrollo de hipotermia intraoperatoria en unamuestra heterogénea de pacientes quirúrgicos (AU)</dc:description>
+<dc:source>Rev Esp Anestesiol Reanim;55(7): 401-406, ago.-sept. 2008. tab, graf</dc:source>
+<dc:identifier>ibc-59173</dc:identifier>
+<dc:title xml:lang="es">Construcción y validación de un modelo predictivo de hipotermiaintraoperatoria</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d28998^s22074</dc:subject>
+<dc:subject>^d13895^s22020</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d7215^s22027</dc:subject>
+<dc:subject>^d771^s22020</dc:subject>
+<dc:subject>^d7593^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200809</dc:date>
+</metadata>
+</record>
+</ibecs-document>

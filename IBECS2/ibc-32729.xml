@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-32729</identifier>
+<setSpec>0212-1611</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">A multivalent computer program for nutritional status studies in population groups. Dietary intake valuation</dc:title>
+<dc:description xml:lang="en">The aim of the study is the presentation and validation of a computer program, GRUNUMUR, designed for nutritional evaluation studies in great population groups, and to describe some of the results obtained after the application of this working tool. This program includes he following types of studies: a) dietary study; b) food habits study; c) anthropometric study and d) clinical study.  The main advantage of GRUNUMUR is the possibility of being periodically actualised without any important software knowledge, and to be opened to the introduction of new data bases.  The software program GRUNUMUR Is one more of the multiple programs described in the literature. However, once validated, this tool has the particularity of being developed after an important experience in the nutritional field and only with a scientific purpose. The result is a reliable tool, which facilitates nutrition research (AU)</dc:description>
+<dc:publisher>Grupo Aula Médica, S.A.</dc:publisher>
+<dc:description xml:lang="es">El objetivo de este trabajo es la presentación y validación de un programa informático, GRUNUMUR, que ha sido diseñado para estudios de evaluación  nutricional en grandes colectivos de población, así como la descripción de algunos de los resultados obtenidos tras su utilización. Este programa incluye los siguientes tipos de estudios: a) estudio dietético; b) estudio sobre hábitos alimentarios; c) estudio antropométrico, y d) estudio clínico.  La principal ventaja que GRUNUMUR presenta es la de poder ser periódicamente actualizado sin conocimientos profundos de informática, además de estar abierto a la introducción de otras nuevas bases de datos.  El programa informático GRUNUMUR no deja de ser uno más de los múltiples descritos en la bibliografía, pero una vez validado, tiene la particularidad de que ha sido desarrollado tras una larga experiencia en el campo de la nutrición y por un interés puramente científico, que ha dado como resultado una herramienta fiable que facilita este tipo de investigaciones en nutrición (AU)</dc:description>
+<dc:source>Nutr Hosp;19(3): 160-166, mayo 2004. tab, graf</dc:source>
+<dc:title xml:lang="es">Una aplicación informática multivalente para estudios del estado nutricional de grupos de población. Valoración de la ingesta alimentaria</dc:title>
+<dc:type>article</dc:type>
+<dc:creator>Marín, R</dc:creator>
+<dc:creator>Zamora, S</dc:creator>
+<dc:creator>Pérez de Heredia, F</dc:creator>
+<dc:creator>Herrero, F</dc:creator>
+<dc:creator>Garaulet, M</dc:creator>
+<dc:creator>Palma, JT</dc:creator>
+<dc:creator>Pérez-Llamas, F</dc:creator>
+<dc:language>es</dc:language>
+<dc:identifier>ibc-32729</dc:identifier>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d19402</dc:subject>
+<dc:subject>^d4499</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d35256</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d28222</dc:subject>
+<dc:date>200405</dc:date>
+</metadata>
+</record>
+</ibecs-document>

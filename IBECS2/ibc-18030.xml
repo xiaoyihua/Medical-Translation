@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-18030</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The high-grade interpolator: a means for enhancing the resolution of helical computed tomography images of the lung</dc:title>
+<dc:creator>García Santos, José María</dc:creator>
+<dc:creator>Blanco, Ana</dc:creator>
+<dc:creator>Rodríguez, Reme</dc:creator>
+<dc:creator>Hernández, María Dolores</dc:creator>
+<dc:creator>Torres del Río, Silvia</dc:creator>
+<dc:creator>Girela, Enrique</dc:creator>
+<dc:creator>Parlorio, Elena</dc:creator>
+<dc:creator>Canteras, Manuel</dc:creator>
+<dc:creator>García, Antonio</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivos: Nuestro trabajo pretende demostrar que la aplicación de un interpolador de alto orden en la reconstrucción de las imágenes torácicas aumenta la resolución, independientemente del filtro de alta resolución. Material y métodos: Ocho observadores separados en dos grupos (de expertos y de inexpertos) valoraron (en dos lecturas separadas en el tiempo) la misma sección torácica reconstruida cuatro veces (st-st, st-xs, b-st, b-xs), combinando los filtros (estándar-st y alta resoluciónb) y los interpoladores (estándar-st y alto orden-xs). Clasificaron las imágenes de más a menos según la resolución percibida. Los resultados se utilizaron para comparar tanto el grado de resolución introducido por el interpolador y el filtro, como la existencia o no de variabilidad entre observadores y entre sus propias observaciones, influida o no por la experiencia. Resultados: Seis de los ocho observadores clasificaron la imagen b-xs como la de mayor resolución en la mayoría de las ocasiones. En segundo lugar se clasificó la imagen b-st. En tercero la imagen st-xs. En último lugar la imagen st-st. Los otros dos observadores (uno entre los expertos y otro en los inexpertos) difirieron sólo en el orden de las imágenes st-xs y b-st, que fueron clasificadas en segundo y tercer lugar respectivamente. El grupo de expertos no mostró variabilidad intraobservador aunque sí dos de los inexpertos. Conclusiones: El interpolador de alto orden aumenta la resolución de las imágenes torácicas, independientemente de quien las evalúe, sin un aumento importante del ruido. Este hecho hace aconsejable su uso en las exploraciones torácicas con TC espiral (TCE). (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);44(3): 103-111, abr. 2002. ilus</dc:source>
+<dc:identifier>ibc-18030</dc:identifier>
+<dc:title xml:lang="es">El interpolador de alto orden: un medio para incrementar la resolución de las imágenes pulmonares obtenidas mediante tomografía computarizada espiral</dc:title>
+<dc:subject>^d24339^s22045</dc:subject>
+<dc:subject>^d8345^s29166</dc:subject>
+<dc:subject>^d27249</dc:subject>
+<dc:subject>^d22878^s22074</dc:subject>
+<dc:subject>^d22878^s22045</dc:subject>
+<dc:subject>^d22878^s22011</dc:subject>
+<dc:subject>^d22878^s22066</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d14294^s22053</dc:subject>
+<dc:subject>^d23327^s22045</dc:subject>
+<dc:subject>^d14294^s29166</dc:subject>
+<dc:subject>^d19200^s22045</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d8345^s22053</dc:subject>
+<dc:subject>^d19200^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200204</dc:date>
+</metadata>
+</record>
+</ibecs-document>

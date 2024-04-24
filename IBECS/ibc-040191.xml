@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-040191</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Prevalence of hyperhomocysteinemia and associated factors in primary health care</dc:title>
+<dc:description xml:lang="en">Background and objective: To identify plasma homocysteine concentrations that could be taken as normal values in our population, and to measure hyperhomocysteinemia prevalence. Subjects and method: Cross-sectional study performed in all subjects attending or working in a primary health care center for any reason. Information was collected about personal history, cardiovascular risk factors and socio-demografic variables, and plasma homocysteine levels and other biochemical parameters were measured. Distribution of homocysteine concentration was compared in individuals with a history of cardiovascular disease and in a gold-standard population (healthy subjects with normal serum concentrations of B-vitamins). The value of homocysteine concentration chosen as cut-off value was the one that offered an optimal sensitivity/specificity ratio in ROC curves derived from logistic regression models. Results: 1,636 subjects (51% female and 49% male, mean age 45 [16.3]) were included in the study. Mean plasma homocysteine concentration was 10.7 (4.1) y 8.5 (2.9) µmol/L in men and women, respectively (p &lt; 0.01). Homocysteine levels that best discriminated between cardiovascular disease and gold-standard populations were 10.85 µmol/L in men (sensitivity 58%, specificity 68%), and 9.57 µmol/L in women (sensitivity 50%, specificity 81%). 31.4% of the population (95% CI, 29.1-36.6) presented homocysteine values above these levels. Conclusions: Hyperhomocysteinemia is not a rare condition in our population. The predictive values obtained imply that measurement of serum homocysteine should be performed only in conjunction with measures of other cardiovascular risk factors. Further research should analyze if homocysteine adds predictive power in cardiovascular risk stratification</dc:description>
+<dc:creator>Medrano-Albero, M. José</dc:creator>
+<dc:creator>Rey-Sánchez, José M. Del</dc:creator>
+<dc:creator>Moro-Serrano, Concepción</dc:creator>
+<dc:creator>Villar-Fidalgo, Margarita</dc:creator>
+<dc:creator>Boix-Martínez, Raquel</dc:creator>
+<dc:creator>Matíes-Prats, Milagro</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamento y objetivo: Determinar los valores de homocisteína plasmática que pueden considerarse normales en nuestra población y medir la prevalencia de hiperhomocisteinemia. Sujetos y método: Estudio transversal realizado entre todas las personas que acudían (por cualquier motivo) a un centro de salud de Madrid. Se recogió información sociodemográfica, de factores de riesgo, enfermedades y hábitos de vida, y se midieron los valores plasmáticos de homocisteína y otros parámetros bioquímicos. Se calculó el valor de homocisteína que mejor discriminaba a la población con antecedentes de enfermedad vascular de la población de referencia (sujetos sanos con valores plasmáticos normales de vitaminas), mediante análisis de curvas eficacia diagnóstica derivadas de modelos de regresión logística. Resultados: Participaron en el estudio 1.636 personas (un 49% varones y un 51% mujeres), con concentración plasmática media (desviación estándar) de homocisteína de 10,7 (4,1) y 8,5 (2,9) µmol/l, en varones y mujeres respectivamente (p &lt; 0,01). La media de edad fue 45 (16,3) años. El valor de homocisteína que mejor discriminaba el riesgo de presentar enfermedad vascular fue de 10,85 µmol/l en varones (sensibilidad del 58% y especificidad del 68%), y de 9,57 µmol/l en mujeres (sensibilidad del 50% y especificidad del 81%). Un 31,4% de los sujetos (intervalo de confianza del 95%, 29,1-36,6) presentaron concentraciones de homocisteína superiores a estos valores. Conclusiones: La hiperhomocisteinemia es frecuente en nuestra población. El valor predictivo obtenido implica que la determinación de homocisteína sólo debería utilizarse en la valoración de riesgo cardiovascular junto con otros factores de riesgo. Se debe estudiar en el futuro si su determinación añade poder predictivo al estudio de los factores de riesgo clásicos</dc:description>
+<dc:source>Med. clín (Ed. impr.);125(13): 487-492, oct. 2005. tab, graf</dc:source>
+<dc:identifier>ibc-040191</dc:identifier>
+<dc:title xml:lang="es">Prevalencia de la hiperhomocisteinemia y factores asociados en atención primaria</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d28449</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12437</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d33775^s22080</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d6866^s22062</dc:subject>
+<dc:subject>^d2359^s22080</dc:subject>
+<dc:subject>^d8195</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200510</dc:date>
+</metadata>
+</record>
+</ibecs-document>

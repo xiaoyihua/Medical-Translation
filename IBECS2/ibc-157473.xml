@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-157473</identifier>
+<setSpec>2253-654X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">A comparative study of the target volume definition in radiotherapy with «Slow CT Scan» vs. 4D PET/CT Scan in early stages non-small cell lung cancer</dc:title>
+<dc:description xml:lang="en">Objectives. To evaluate the use of 4D PET/CT to quantify tumor respiratory motion compared to the «Slow»-CT (CTs) in the radiotherapy planning process. Material and methods. A total of 25 patients with inoperable early stage non small cell lung cancer (NSCLC) were included in the study. Each patient was imaged with a CTs (4s/slice) and 4D PET/CT. The adequacy of each technique for respiratory motion capture was evaluated using the volume definition for each of the following: Internal target volume (ITV) 4D and ITVslow in relation with the volume defined by the encompassing volume of 4D PET/CT and CTs (ITVtotal). The maximum distance between the edges of the volume defined by each technique to that of the total volume was measured in orthogonal beam's eye view. Results. The ITV4D showed less differences in relation with the ITVtotal in both the cranio-caudal and the antero-posterior axis compared to the ITVslow. The maximum differences were 0.36mm in 4D PET/CTand 0.57mm in CTs in the antero-posterior axis. 4D PET/CT resulted in the definition of more accurate (ITV4D/ITVtotal 0.78 vs. ITVs/ITVtotal 0.63), and larger ITVs (19.9 cc vs. 16.3 cc) than those obtained with CTs. Conclusion. Planning with 4D PET/CT in comparison with CTs, allows incorporating tumor respiratory motion and improving planning radiotherapy of patients in early stages of lung cancer (AU)</dc:description>
+<dc:creator>Molla, M</dc:creator>
+<dc:creator>Anducas, N</dc:creator>
+<dc:creator>Giralt, J</dc:creator>
+<dc:creator>Cuberas-Borros, G</dc:creator>
+<dc:creator>Beltran, M</dc:creator>
+<dc:creator>Ramos, M</dc:creator>
+<dc:creator>Simó, M</dc:creator>
+<dc:creator>Castell, J</dc:creator>
+<dc:creator>Seoane, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos. Evaluar el uso de la 4D PET/TC para capturar el movimiento respiratorio en comparación con la «slow»-TC (TCs), en el procedimiento de planificación de radioterapia. Material y métodos. Se ha incluido a 25 pacientes diagnosticados de estadio inicial de cáncer de pulmón de célula no pequeña (NSCLC) médicamente inoperable. A cada paciente se le realizó una TCs (4 s/corte) y una 4D PET/TC. La idoneidad de cada técnica en la captura del movimiento respiratorio fue evaluada comparando el volumen definido por cada una de ellas: internal target volumen (ITV) 4D y el ITVslow, con relación a la suma de los volúmenes de la 4D PET/TC y la TCs (ITVsuma). La máxima diferencia entre el volumen definido por cada técnica respecto al volumen suma fue evaluada en una proyección antero-posterior y otra lateral. Resultados. Los volúmenes generados con 4D PET/TC consiguen una definición más precisa del ITV que los volúmenes obtenidos con TCs (ITV4D/ITVsuma 78% vs. ITVslow/ITVsuma 63%). En general, los volúmenes de la 4D PET/TC son de mayor tamaño (19,9 vs. 16,3 cc). El ITV4D muestra menor diferencia con el ITVsuma en los ejes cráneo-caudal y antero-posterior respecto al ITVslow y capta el movimiento de forma más exacta. La máxima diferencia observada es de 0,36mm en la 4D PET/TC y de 0,57mm en la TCs en el eje antero-posterior. Conclusiones. La planificación con 4D PET/TC en comparación con TCs permite cuantificar el movimiento respiratorio del tumor y mejorar la planificación de radioterapia en estadios iniciales de NSCLC (AU)</dc:description>
+<dc:source>Rev. esp. med. nucl. imagen mol. (Ed. impr.);35(6): 373-378, nov.-dic. 2016. tab, ilus, graf</dc:source>
+<dc:identifier>ibc-157473</dc:identifier>
+<dc:title xml:lang="es">Estudio comparativo en la definición del volumen de tratamiento en radioterapia con «Slow TC Scan» vs. 4D PET/TC Scan en estadios iniciales de cáncer de pulmón de célula no pequeña</dc:title>
+<dc:subject>^d31722^s29166</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d31722^s22059</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d33090^s22000</dc:subject>
+<dc:subject>^d38793^s22039</dc:subject>
+<dc:subject>^d9871^s22045</dc:subject>
+<dc:subject>^d33090^s22002</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d38793^s22074</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d33090^s22073</dc:subject>
+<dc:subject>^d38793^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201612</dc:date>
+</metadata>
+</record>
+</ibecs-document>

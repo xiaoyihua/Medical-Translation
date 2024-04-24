@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-9098</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Resource utilazation groups in acute care units and average lengths of stay in geriatric units</dc:title>
+<dc:creator>Solano Jaurrieta, Juan José</dc:creator>
+<dc:creator>Baztán Cortés, Juan José</dc:creator>
+<dc:creator>Hornillos Calvo, Mercedes</dc:creator>
+<dc:creator>Tardón García, Adonina</dc:creator>
+<dc:creator>Carbonell Collar, Antonio</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ministerio de Sanidad y Consumo</dc:publisher>
+<dc:description xml:lang="es">Fundamentos: En los últimos años se han implantado en nuestro país Sistemas de Clasificación de Pacientes (SCP) con objeto de medir el 'producto hospitalario'. Sin embargo los sistemas más tradicionales resultan poco adecuados para la población anciana, en los que la incapacidad asociada a la enfermedad resulta determinante para explicar el consumo de recursos y los resultados asistenciales. Por ello, nos planteamos aplicar en servicios especializados de atención al anciano un sistema que contempla este parámetro, los Grupos de Utilización de Recursos (RUG), analizando las características y diferencias en la distribución en función de RUG en cuatro Servicios de Geriatría. Métodos: Se estudian transversalmente, mediante cortes sucesivos en períodos superiores a la estancia media en cada unidad, los pacientes ingresados en las unidades de agudos y media estancia de los Servicios de Geriatría del Hospital Monte Naranco (HMN) (n=318), Hospital Central de la Cruz Roja (HCCR) (n=384), Hospital General de Guadalajara (HG) (n=272) y Hospital Virgen del Valle (HVV) (n=390), en lo relativo a su distribución según la clasificación RUG-T18. Las posibles diferencias entre los centros se analizaron mediante el test estadístico chi-cuadrado (SPSS para windows) Resultados: Para el conjunto de la muestra los pacientes se concentran en los grupos R, S y C de la clasificación, con muy escasa representación de los grupos P y B, detectándose diferencias entre los centros. Así, el HCCR es el que maneja una mayor proporción de pacientes del grupo R (47,64 por ciento vs. 23,66 por ciento en el HMN, 20,57 por ciento en el HG y 20,53 por ciento en el HVV) y una menor proporción de pacientes del grupo S (3,12 por ciento vs 6,40 por ciento en el HMN, 9,92 por ciento en el HG y 9,76 por ciento en el HVV) y C (48,94 por ciento vs 76,29 por ciento en el HMN, 66,89 por ciento en el HG y 68,36 por ciento en el HVV). Igualmente es posible detectar diferencias en el análisis individual para las unidades de agudos y media estancia. Conclusiones: Los grupos de utilización de recursos pueden resultar de utilidad para establecer diferencias en las cargas asistenciales en la atención hospitalaria a los pacientes ancianos (AU)</dc:description>
+<dc:source>Rev Esp Salud Publica;75(3): 249-262, mayo 2001.</dc:source>
+<dc:identifier>ibc-9098</dc:identifier>
+<dc:title xml:lang="es">Grupos de utilizacion de recursos en unidades de agudos y media estancia de servicios de geriatria (*)</dc:title>
+<dc:subject>^d8079</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d5993</dc:subject>
+<dc:subject>^d30327</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6913</dc:subject>
+<dc:subject>^d28561</dc:subject>
+<dc:subject>^d6450</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200105</dc:date>
+</metadata>
+</record>
+</ibecs-document>

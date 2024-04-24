@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-16657</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Severe community-acquired pneumonia due to legionella pneumophila</dc:title>
+<dc:creator>Jorge Amigo, V</dc:creator>
+<dc:creator>Ortiz Leyba, C</dc:creator>
+<dc:creator>Pérez Alé, M</dc:creator>
+<dc:creator>Sánchez Olmedo, J. I</dc:creator>
+<dc:creator>Jiménez Jiménez, F. J</dc:creator>
+<dc:creator>Garnacho Montero, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Legionella pneumophila (LP) es la segunda causa de neumonía comunitaria en nuestro medio, y un elevado porcentaje de casos precisan ingreso en unidades de cuidados intensivos (UCI), con una elevada mortalidad. Presentamos 3 casos de neumonía comunitaria grave (NCG) por LP. El motivo de ingreso en todos los casos fue insuficiencia respiratoria. Al ser tanto la clínica como la radiología torácica inespecíficas, se llegó al diagnóstico mediante pruebas complementarias, siendo positivas las antigenurias para LP en los tres pacientes y sólo en dos de los casos la serología era positiva para el serogrupo 1. Se realizó tratamiento antimicrobiano empírico con fluoroquinolonas (levofloxacino) y cefalosporinas de tercera generación (ceftriaxona). Dos pacientes presentaron una mala evolución clínica, desarrollando un cuadro de disfunción multiorgánica, motivo finalmente de los fallecimientos. El tercer caso evolucionó de manera favorable, siendo dado de alta a las 48 horas del ingreso. (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);26(10): 504-507, dic. 2002. ilus, tab</dc:source>
+<dc:identifier>ibc-16657</dc:identifier>
+<dc:title xml:lang="es">Neumonía comunitaria grave por legionella pneumophila</dc:title>
+<dc:subject>^d30016</dc:subject>
+<dc:subject>^d21012</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d19603^s22073</dc:subject>
+<dc:subject>^d32073^s22046</dc:subject>
+<dc:subject>^d23786^s22073</dc:subject>
+<dc:subject>^d32073^s22057</dc:subject>
+<dc:subject>^d32073^s22016</dc:subject>
+<dc:subject>^d31474</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d22539^s22057</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200212</dc:date>
+</metadata>
+</record>
+</ibecs-document>

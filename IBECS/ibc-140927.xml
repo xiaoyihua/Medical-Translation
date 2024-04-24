@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-140927</identifier>
+<setSpec>0214-3429</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Duration of antimicrobial therapy</dc:title>
+<dc:description xml:lang="en">The management of infectious diseases is always complex, not only because of its high incidence and mortality, but the difficulty of designing effective treatments that minimize the development of bacterial resistance in the clinical setting. One of the most important options is the reduction of exposure to antibiotic treatment, optimizing by desescalation and shortening the duration of therapy (AU)</dc:description>
+<dc:creator>Pasquau, Juan</dc:creator>
+<dc:creator>Matesanz, Mayra</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El manejo de las enfermedades infecciosas es siempre complejo, no sólo por su elevada incidencia y mortalidad, sino por la dificultad de diseñar tratamientos eficaces, que minimicen el desarrollo de las resistencias bacterianas en el escenario clínico. Una de las opciones más importantes es la reducción de la exposición al tratamiento antibiótico optimizando mediante la desescalada y el acortamiento de la duración del mismo (AU)</dc:description>
+<dc:source>Rev Esp Quimioter;28(supl.1): 30-33, sept. 2015.</dc:source>
+<dc:identifier>ibc-140927</dc:identifier>
+<dc:title xml:lang="es">La duración del tratamiento antibiótico</dc:title>
+<dc:subject>^d55032^s22066</dc:subject>
+<dc:subject>^d14190^s22039</dc:subject>
+<dc:subject>^d55032^s22048</dc:subject>
+<dc:subject>^d14190^s22048</dc:subject>
+<dc:subject>^d911^s22073</dc:subject>
+<dc:subject>^d29770</dc:subject>
+<dc:subject>^d14190^s22066</dc:subject>
+<dc:subject>^d14190^s22045</dc:subject>
+<dc:subject>^d50302</dc:subject>
+<dc:subject>^d55032^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201509</dc:date>
+</metadata>
+</record>
+</ibecs-document>

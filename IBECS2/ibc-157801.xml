@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-157801</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Do dichromats see colours in this way? Assesing simulation tools without colorimetric measurements</dc:title>
+<dc:description xml:lang="en">Background: Simulcheck evaluates Colour Simulation Tools (CSTs, they transform colours to mimic those seen by colour vision deficients). Two CSTs (Variantor and Coblis) were used to know if the standard Simulcheck version (direct measurement based, DMB) can be substituted by another (RGB values based) not requiring sophisticated measurement instruments. Method: Ten normal trichromats performed the two psychophysical tasks included in the Simulcheck method. The Pseudoachromatic Stimuli Identification task provided the huv (hue angle) values of the pseudoachromatic stimuli: colours seen as red or green by normal trichromats but as grey by colour deficient people. The Minimum Achromatic Contrast task was used to compute the LR (relative luminance) values of the pseudoachromatic stimuli. Results and conclusions: Simulcheck DMB version showed that Variantor was accurate to simulate protanopia but neither Variantor nor Coblis were accurate to simulate deuteranopia. Simulcheck RGB version provided accurate huv values, so this variable can be adequately estimated when lacking a colorimeter -an expensive and unusual apparatus-. Contrary, the inaccuracy of the LR estimations provided by Simulcheck RGB version makes it advisable to compute this variable from the measurements performed with a photometer, a cheap and easy to find apparatus (AU)</dc:description>
+<dc:creator>Álvaro Llorente, Leticia</dc:creator>
+<dc:creator>Moreira Villegas, Humberto</dc:creator>
+<dc:creator>Melnikova, Anna</dc:creator>
+<dc:creator>Lillo Jover, Julio Antonio</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Antecedentes: Simulcheck evalúa Herramientas de Simulación del Color (HSCs, transforman los colores para imitar lo que ven las personas con deficiencias en la visión  cromática). Se utilizaron dos HSCs (Variantor y Coblis) para evaluar si la versión estándar de Simulcheck (basada en mediciones directas, BMD) puede sustituirse por otra que no requiere instrumentos de medición sofisticados (basada en valores RGB). Método: diez tricrómatas realizaron las tareas psicofísicas  incluidas en el método Simulcheck. La de Identificación de Estímulos Pseudoacromáticos proporcionó el ángulo cromático (huv) de los estímulos que los observadores comunes ven rojos o verdes, pero grises las personas con deficiencias en la visión cromática. La de Mínimo Contraste Acromático proporcionó los valores LR (luminancia relativa) de los estímulos pseudoacromáticos. Resultados y conclusiones: la versión BMD mostró que Variantor simuló adecuadamente la protanopia, pero que ni Variantor ni Coblis fueron adecuados para la deuteranopia. La Versión RGB del método Simulcheck proporcionó valores huv adecuados, consecuentemente se concluyó que esta variable puede estimarse adecuadamente sin un colorímetro &#150;aparato caro e inusual&#151;. Por el contrario, la inadecuación de las estimaciones de LR proporcionadas por la versión RGB recomienda computar esta variable usando mediciones realizadas con un fotómetro, un aparato barato y fácil de encontrar (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);28(4): 435-441, nov. 2016. tab, graf</dc:source>
+<dc:identifier>ibc-157801</dc:identifier>
+<dc:title xml:lang="es">¿Son estos los colores que ven los dicrómatas? Evaluando herramientas de simulación sin mediciones colorimétricas</dc:title>
+<dc:subject>^d6531</dc:subject>
+<dc:subject>^d12037^s22039</dc:subject>
+<dc:subject>^d21012</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28574^s22045</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d28241^s22016</dc:subject>
+<dc:subject>^d28241^s22056</dc:subject>
+<dc:subject>^d3155^s22039</dc:subject>
+<dc:subject>^d12037^s22045</dc:subject>
+<dc:subject>^d3151^s22045</dc:subject>
+<dc:subject>^d3151^s22056</dc:subject>
+<dc:subject>^d3155^s22045</dc:subject>
+<dc:subject>^d12037^s22066</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201617</dc:date>
+</metadata>
+</record>
+</ibecs-document>

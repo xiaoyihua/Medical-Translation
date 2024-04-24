@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150173</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Suggestions for coping with multicollinearity in condensation logistic rules</dc:title>
+<dc:description xml:lang="en">Whitely (1980) proposed the first conjunctive linkage rule relating subtask probabilities to the total item response. De Boeck (1991) defines two main families of linking rules: (1) the compensatory rule, or weighted additive and (2) the conjunctive rule. The latter formally includes the (3) disjunctive rule that can also be formulated as a conjunctive rule of the errors. Afterwards, De Boeck (1993) suggested two mixed logistic linking rules: the partially conjunctive and the partially disjunctive rules. In this paper I present a combined logistic linking rule that summarizes the three classes of effects: conjunctive, disjunctive and compensatory. The analysis of multicollinearity among the three terms, in the two components case, allows the reduction of the partially conjunctive, the partially disjunctive and the conjunctive-disjunctive-compensatory rules into a more simple combined logistic rule (AU)</dc:description>
+<dc:creator>Melià, Josep L</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Whitely (1980) propuso la primera regla de enlace conjuntiva enlazando las probabilidades de las subtareas con la respuesta total del ítem. De Boeck (1991) ha definido dos familias principales de reglas de enlace (1) la regla compensatoria, o aditiva ponderada, y (2) la regla conjuntiva. Esta última incluye formalmente a la (3) regla disyuntiva, que puede formularse como una regla conjuntiva de los errores. Posteriormente De Boeck (1993) sugirió dos reglas logísticas de enlace de carácter mixto: la parcialmente conjuntiva y la parcialmente disyuntiva. En este trabajo presento una regla logística combinada que resume las tres clases de efectos, conjuntivos, disyuntivos y compensatorios. El análisis de la multicolinealidad entre los tres términos, para el caso de dos componentes, permite la reducción de las reglas parcialmente conjuntiva, parcialmente disyuntiva y conjuntiva-disyuntiva-compensatoria en una regla logística combinada más simple (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);12(supl.2): 382-385, 2000.</dc:source>
+<dc:identifier>ibc-150173</dc:identifier>
+<dc:title xml:lang="es">Análisis de la multicolinealidad</dc:title>
+<dc:subject>^d28603</dc:subject>
+<dc:subject>^d1544</dc:subject>
+<dc:subject>^d14027</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200000</dc:date>
+</metadata>
+</record>
+</ibecs-document>

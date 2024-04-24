@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-17301</identifier>
+<setSpec>1695-4033</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Diagnostic test in emergency departments for bacterial infections in infants younger than 12 months</dc:title>
+<dc:creator>Carrascal Arranz, M</dc:creator>
+<dc:creator>Centeno Malfaz, F</dc:creator>
+<dc:creator>González Armengod, C</dc:creator>
+<dc:creator>Rodríguez Calleja, J</dc:creator>
+<dc:creator>Muro Tudelilla, J. M</dc:creator>
+<dc:creator>Alcalde Martín, C</dc:creator>
+<dc:creator>Jiménez Mena, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Analizar los datos clinicoanalíticos relacionados con el diagnóstico de infección bacteriana en la unidad de urgencias en niños con edad inferior a un año. Pacientes y métodos Estudio retrospectivo de 430 niños menores de un año con cultivos centrales positivos (hemocultivos, 30; cultivos de líquido cefalorraquídeo (LCR), 25; urocultivos, 207; coprocultivos, 193). Estos pacientes se compararon con un grupo control (n 430), seleccionados de forma aleatoria del resto de pacientes que ingresaron con edad inferior a 12 meses, sospecha de infección y cultivos centrales negativos. Se excluyeron los pacientes de la unidad de neonatología y los niños ingresados para cirugía. Se realizaron el test de la t de Student para muestras independientes, prueba de Levene para estudio de igualdad de varianzas, correlaciones bivariadas y ANOVA de un factor, así como curvas ROC (receiver-operating characteristic) y odds ratio cuando se obtuvieron resultados con significación estadística (p &lt; 0,05). Dichos estudios se obtuvieron con el paquete estadístico SPSS 10,0. Resultados El 11,7 per cent de los niños ingresados con edad inferior a un año tenían algún cultivo central positivo. De las variables analizadas tuvieron significación estadística la temperatura (p 0,005), el recuento leucocitario (p 0,003), el porcentaje de segmentados (p &lt; 0,0001) y proteína C reactiva (PCR) (p &lt; 0,0001). En las infecciones invasivas existió además significación estadística para el sexo (predominio de varones) (p 0,03), frecuencia cardíaca (p &lt; 0,0001) y frecuencia respiratoria (p 0,003). En las curvas ROC el mejor rendimiento diagnóstico se obtuvo con la PCR (con un corte óptimo de 29 mg/l se obtuvo un área bajo la curva de 0,93 con especificidad de 86 per cent y sensibilidad de 91 per cent). Conclusión La PCR es fundamental para el diagnóstico de infección bacteriana en la sala de urgencias en niños menores de un año (AU)</dc:description>
+<dc:source>An Pediatr (Barc);58(1): 17-22, ene. 2003.</dc:source>
+<dc:identifier>ibc-17301</dc:identifier>
+<dc:title xml:lang="es">Orientación diagnóstica en la unidad de urgencias en lactantes menores de 12 meses con infección bacteriana</dc:title>
+<dc:subject>^d7399</dc:subject>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d1447</dc:subject>
+<dc:subject>^d4711</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200301</dc:date>
+</metadata>
+</record>
+</ibecs-document>

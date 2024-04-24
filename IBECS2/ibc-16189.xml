@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-16189</identifier>
+<setSpec>1130-8621</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">An explanatory model of citation patterns in spanish nursing journals</dc:title>
+<dc:creator>Gálvez Toro, Alberto</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Introducción: Los estudios empíricos sobre producción científica de la enfermería española han aportado un importante volumen de datos descriptivos que, sin embargo, no se han utilizado para explicar o demostrar la relación entre variables bibliográficas y bibliométricas. Entre los indicadores más relevantes documentados en estos trabajos destaca la repercusión de una revista según el número de citas recibidas por otras revistas. Objetivo: Explicar el patrón de citación de las revistas de enfermería españolas respecto a las citas que hacen a su propia producción científica. Hipótesis: La conducta de citación de cada revista se puede explicar a partir de la producción científica circulante de esa revista y, en general, se puede predecir la pauta de citación de las revistas españolas teniendo en cuenta la producción científica circulante. Método: Análisis estadístico de series de datos publicados en la bibliografía y estudio de asociación mediante procedimientos estadísticos de inferencia. Resultados: Durante los años 1994 y 1995 la variabilidad observada en el número de citas que reciben las revistas de enfermería españolas se puede explicar con un modelo polinómico de segundo grado (R2 &gt; 0,95), mientras que en el año 2000 un modelo similar tiene una bondad de ajuste menor (R2 = 0,779).Conclusiones: El patrón de citación observado en 1994 y 1995 se puede explicar perfectamente con la producción científica circulante, tanto que a mayor producción científica de una publicación, mayor probabilidad de ser citada por otras revistas de enfermería. En el año 2000 la producción científica circulante no explica satisfactoriamente el patrón de citación hallado, aunque ambas variables están asociadas. Las bases de datos bibliográficas de enfermería de acceso gratuito y universal en Internet son posiblemente la variable responsable de esta variación e implica que el número de citas que recibe una revista de enfermería no sólo está relacionado con su producción científica circulante  (AU)</dc:description>
+<dc:source>Enferm. clín. (Ed. impr.);12(5): 210-216, nov. 2002. graf, tab</dc:source>
+<dc:identifier>ibc-16189</dc:identifier>
+<dc:title xml:lang="es">Un modelo explicativo de la pauta de citación a revistas de enfermería españolas</dc:title>
+<dc:subject>^d28904^s22074</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d29491</dc:subject>
+<dc:subject>^d24536</dc:subject>
+<dc:subject>^d10697^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200211</dc:date>
+</metadata>
+</record>
+</ibecs-document>

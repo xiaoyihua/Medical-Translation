@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-151715</identifier>
+<setSpec>0212-9728</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Multiple Imputation of missing values in exploratory factor analysis of multidimensional scales: estimating latent trait scores</dc:title>
+<dc:description xml:lang="en">Researchers frequently have to analyze scales in which some participants have failed to respond to some items. In this paper we focus on the exploratory factor analysis of multidimensional scales (i.e., scales that consist of a number of subscales) where each subscale is made up of a number of Likert-type items, and the aim of the analysis is to estimate participants&#146; scores on the corresponding latent traits. We propose a new approach to deal with missing responses in such a situation that is based on (1) multiple imputations of non-responses and (2) simultaneous rotation of the imputed datasets. We applied the approach in a real dataset where missing responses were artificially introduced following a real pattern of non-responses, and a simulation study based on artificial datasets. The results show that our approach (specifically, Hot-Deck multiple imputation followed of Consensus Promin rotation) was able to successfully compute factor score estimates even for participants that have missing data (AU)</dc:description>
+<dc:creator>Van Ginkel, Joost R</dc:creator>
+<dc:creator>Lorenzo-Seva,  Urbano</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Imputación múltiple de valores perdidos en el análisis factorial exploratorio de escalas multidimensionales: estimación de las puntuaciones de rasgos latentes. Resumen: Los investigadores con frecuencia se enfrentan a la difícil tarea de analizar las escalas en las que algunos de los participantes no han respondido a todos los ítems. En este artículo nos centramos en el análisis factorial exploratorio de escalas multidimensionales (es decir, escalas que constan de varias de subescalas), donde cada subescala se compone de una serie de ítems de tipo Likert, y el objetivo del análisis es estimar las puntuaciones de los participantes en los rasgos latentes correspondientes. En este contexto, se propone un nuevo enfoque para hacer frente a las respuestas faltantes que se basa en (1) la imputación múltiple de las respuestas faltantes y (2) la rotación simultánea de las muestras de datos imputados. Se ha aplicado el método en una muestra de datos reales en que las respuestas que faltantes fueron introducidas artificialmente siguiendo un patrón real de respuestas faltantes, y un estudio de simulación basado en conjuntos de datos artificiales. Los resultados muestran que nuestro enfoque (en concreto, Hot-Deck de imputación múltiple seguido de rotación Consensus Promin) es capaz de calcular correctamente la puntuación factorial estimada incluso para los participantes que tienen valores perdidos (AU)</dc:description>
+<dc:source>An. psicol;32(2): 596-608, mayo 2016. graf, tab</dc:source>
+<dc:identifier>ibc-151715</dc:identifier>
+<dc:title xml:lang="es">Imputación múltiple de valores perdidos en el análisis factorial exploratorio de escalas multidimensionales: estimación de las puntuaciones de rasgos latentes</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d1544^s22083</dc:subject>
+<dc:subject>^d28624</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28575</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201605</dc:date>
+</metadata>
+</record>
+</ibecs-document>

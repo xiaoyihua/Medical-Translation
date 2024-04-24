@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-34183</identifier>
+<setSpec>0558-6291</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Electronically activated: advantages and disadvantages in forensic genetics</dc:title>
+<dc:creator>Carracedo, A</dc:creator>
+<dc:creator>Sobrino, B</dc:creator>
+<dc:creator>Salas, A</dc:creator>
+<dc:creator>Alvarez, V</dc:creator>
+<dc:creator>Brion, M</dc:creator>
+<dc:creator>Lareu, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Facultad de Medicina. Universidad de Zaragoza</dc:publisher>
+<dc:description xml:lang="es">En genética forense, el análisis de SNPs resulta interesante debido a su abundancia en el genoma, su baja tasa de mutación y la posibilidad de automatizar el análisis. Sin embargo, el número de SNPs que necesitan ser analizados para obtener el mismo poder de discriminación que con 13 STRs es de 50-80. Por lo tanto, es necesario el desarrollo de tecnologías que nos permitan tipar un gran número de SNPs simultáneamente. En este trabajo se presentan los resultados obtenidos con los chips electrónicamente activos de NanogenTM para el tipado de SNPs de cromosoma Y mediante dos estrategias: "amplicon down" y "capture down". Las ventajas y desventajas de cada una de ellas son analizadas (AU)</dc:description>
+<dc:source>Arch. Fac. Med. Zaragoza;43(2): 49-51, ago. 2003. ilus, tab</dc:source>
+<dc:identifier>ibc-34183</dc:identifier>
+<dc:title xml:lang="es">Chips electrónicamente activos: ventajas y desventajas en genética forense</dc:title>
+<dc:subject>^d15397^s22033</dc:subject>
+<dc:subject>^d32245^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d5957^s22039</dc:subject>
+<dc:subject>^d33876^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200308</dc:date>
+</metadata>
+</record>
+</ibecs-document>

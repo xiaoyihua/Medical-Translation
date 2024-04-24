@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-59547</identifier>
+<setSpec>1139-6202</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Metabolic Syndrome (MS)</dc:title>
+<dc:creator>Oller Dolcet, H</dc:creator>
+<dc:creator>Pacareu Corbera, C</dc:creator>
+<dc:creator>Rojals Pallisé, R</dc:creator>
+<dc:creator>Dolcet García, M. H</dc:creator>
+<dc:creator>Oller Sales, F</dc:creator>
+<dc:language>es</dc:language>
+<dc:source>Pharm. care Esp;10(4): 193-195, dic. 2008. ilus</dc:source>
+<dc:identifier>ibc-59547</dc:identifier>
+<dc:title xml:lang="es">Síndrome metabólico (SM)</dc:title>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d2359^s22054</dc:subject>
+<dc:subject>^d7152^s22057</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23861</dc:subject>
+<dc:subject>^d36032^s22016</dc:subject>
+<dc:subject>^d11016^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200812</dc:date>
+</metadata>
+</record>
+</ibecs-document>

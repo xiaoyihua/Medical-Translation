@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150015</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Practical considerations on detection of publication bias</dc:title>
+<dc:description xml:lang="en">The present review aims to answer 3 questions: does publication bias need to be assessed in meta-analyses?; what procedures, not requiring complex statistical approaches, can be applied to detect it?; and should other factors be taken into account when interpreting the procedures? The first question is easy to answer. Publication bias is a potential threat to the validity of the conclusions of meta-analyses. Therefore, both the MOOSE and QUOROM statements include publication bias in their guidelines; nevertheless, many meta-analyses do not use these statements (e.g., meta-analyses conducted by the Cochrane Collaboration), perhaps because they use a comprehensive search strategy. There are many methods to assess publication bias. The most frequently used are funnel plots or «Christmas trees», «trim and fill» (which allow the effects of bias to be estimated), and methods based upon regression on plots, such as Egger's method and funnel plot regression. An advantage of these methods is that they can only be applied using published data. However, agreement between these methods in detecting bias is often poor. Therefore, application of more than one method to detect publication bias is recommended. To correctly interpret the results, the number of pooled studies should be more than 10 and the existence of heterogeneity in the pooled estimate must be taken into account (AU)</dc:description>
+<dc:creator>Palma Pérez, Silvia</dc:creator>
+<dc:creator>Delgado Rodríguez, Miguel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En la presente revisión se intenta dar respuesta a 3 preguntas en el ámbito del metaanálisis: ¿es necesario valorar el sesgo de publicación?, ¿qué procedimientos sencillos se pueden aplicar? y ¿qué otros aspectos hay que tener en cuenta en su interpretación? La primera cuestión es fácil de responder. El sesgo de publicación es una amenaza potencial para la validez de las conclusiones de un metaanálisis y, por ello, las declaraciones MOOSE y QUOROM recomiendan que se valore. A pesar de ello, con frecuencia se omite (p. ej., en metaanálisis realizados por la colaboración Cochrane), quizá debido a que realizan una estrategia de búsqueda exhaustiva. Los procedimientos más utilizados para la valoración del sesgo de publicación son los gráficos en embudo o «árboles de navidad », el «trim and fill» («podar y completar», que permite estimar la repercusión del sesgo) y los métodos de regresión sobre gráficos, como el de Egger y la regresión lineal en el gráfico en embudo. Estos métodos tienen la ventaja de que se pueden estimar tan sólo con los datos publicados, pero con frecuencia la concordancia entre ellos es baja. Por esto se recomienda aplicar más de un procedimiento para su detección. En la interpretación de los resultados de un test de detección del sesgo de publicación debe tenerse en cuenta el número de estudios (son procedimientos que funcionan mal con menos de 10 estudios, y la mayoría de metaanálisis en la actualidad combinan un número inferior de estudios) y la presencia de heterogeneidad en el metaanálisis (AU)</dc:description>
+<dc:source>Gac Sanit;20(supl.2): 10-16, dic. 2006. graf</dc:source>
+<dc:identifier>ibc-150015</dc:identifier>
+<dc:title xml:lang="es">Consideraciones prácticas acerca de la detección del sesgo de publicación</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28214</dc:subject>
+<dc:subject>^d31152^s22083</dc:subject>
+<dc:subject>^d37673^s22045</dc:subject>
+<dc:subject>^d54358^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200612</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-154631</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Power analysis to detect treatment effect in longitudinal studies with heterogeneous errors and incomplete data</dc:title>
+<dc:description xml:lang="en">Background: S. Usami (2014) describes a method to realistically determine sample size in longitudinal research using a multilevel model. The present research extends the aforementioned work to situations where it is likely that the assumption of homogeneity of the errors across groups is not met and the error term does not follow a scaled identity covariance structure. Method: For this purpose, we followed a procedure based on transforming the variance components of the linear growth model and the parameter related to the treatment effect into specific and easily understandable indices. At the same time, we provide the appropriate statistical machinery for researchers to use when data loss is unavoidable, and changes in the expected value of the observed responses are not linear. Results: The empirical powers based on unknown variance components were virtually the same as the theoretical powers derived from the use of statistically processed indexes. Conclusions: The main conclusion of the study is the accuracy of the proposed method to calculate sample size in the described situations with the stipulated power criteria (AU)</dc:description>
+<dc:creator>Tuero Herrero, Ellián</dc:creator>
+<dc:creator>Fernández García, Paula</dc:creator>
+<dc:creator>Vallejo, Guillermo</dc:creator>
+<dc:creator>Livacic Rojas, Pablo E</dc:creator>
+<dc:creator>Ato, Manuel</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Antecedentes: S. Usami (2014) describe un método que permite determinar de forma realista el tamaño de muestra en la investigación longitudinal utilizando un modelo multinivel. En la presente investigación se extiende el trabajo aludido a situaciones donde es probable que se incumpla el supuesto de homogeneidad de los errores a través de los grupos y la estructura del término de error no sea de identidad escalada. Método: para ello, se ha seguido procedimiento basado en transformar los componentes de varianza del modelo de crecimiento lineal y el parámetro relacionado con el efecto del tratamiento en índices de fácil comprensión y especificación. También se proporciona la maquinaria estadística adecuada para que los investigadores puedan usarlo cuando la pérdida de información resulte inevitable y los cambios en el valor esperado de las respuestas observadas no sean lineales. Resultados: las potencias empíricas basadas en componentes de varianza desconocidos fueron virtualmente idénticas a las potencias teóricas derivadas a partir del uso de índices estadísticos transformados. Conclusiones: la principal conclusión del trabajo es la exactitud del enfoque propuesto para calcular el tamaño de muestra bajo las situaciones reseñadas con el criterio de potencia estipulado (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);28(3): 330-339, ago. 2016. ilus</dc:source>
+<dc:identifier>ibc-154631</dc:identifier>
+<dc:title xml:lang="es">Análisis de potencia para detectar el efecto del tratamiento en estudios longitudinales con errores heterogéneos y datos incompletos</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d28620</dc:subject>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d32037</dc:subject>
+<dc:subject>^d12528</dc:subject>
+<dc:subject>^d28630</dc:subject>
+<dc:subject>^d24551</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201608</dc:date>
+</metadata>
+</record>
+</ibecs-document>

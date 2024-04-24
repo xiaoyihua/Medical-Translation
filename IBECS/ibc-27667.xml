@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-27667</identifier>
+<setSpec>0210-0010</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cell signaling in the epileptic hippocampus</dc:title>
+<dc:creator>Ferrer, I</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>César Viguera</dc:publisher>
+<dc:description xml:lang="es">La señalización celular que manda sobre la muerte o la supervivencia en el hipocampo epiléptico humano es difícil de identificar a causa del prolongado intervalo entre el comienzo de los síntomas y el muestreo del tejido cerebral dañado para el examen neuropatológico. La inyección intraperitonial del glutamato análogo del ácido kaínico (AK) es una herramienta útil para el análisis de los efectos de convulsiones y el daño excitotóxico en el hipocampo del roedor. El AK actúa sobre los receptores NMDA y AK, mientras que el impacto sobre los receptores AMPA es muy pequeño. Las neuronas del hilio y las neuronas CA3 son dianas primarias del AK, aunque las neuronas gabérgicas que contienen parvoalbúmina son menos vulnerables que las neuronas glutamatérgicas. Las respuestas inmediatas al AK son la inducción de hsp-70, ARNm y la expresión de la proteína HSP-70/72, junto con c-fos y c-jun ARNm, y la expresión de las proteínas c-Fos y cJun en el hipocampo, aunque la expresión aumentada de c-Fos y c-Jun no predice la muerte celular o la supervivencia de la misma. Por el contrario, el activador del plasminógeno tisular (tPA) y la vía de señal de la membrana Fas/FasL probablemente tenga un papel facilitador en el seguimiento de la muerte celular por la inyección de AK. La afectación de otras vías permanece controvertida. Un aumento en la expresión de Bas pro-apotótico junto con una reducción en Bcl-2 sugiere apoptosis ayudado por Bax. La activación de la vía mitocondrial incluye el escape del citocromo c al citosol y activación de la cascada caspasa que lleva a la apoptosis. Sin embargo, otros estudios han puesto de relieve la expresión limitada de la caspasa-3, el ejecutor principal de la apoptosis, y la relevancia de necrosis como la forma principal de la muerte celular después de la excitotoxicidad del AK. La activación fosforilación dependiente de varias cinasas, entre ellas MAPK, p38 y JNK/SAPK, y sus sustratos, se ha encontrado en los animales tratados con AK. La expresión disminuida de CREBp se asocia con la muerte celular, mientras que el aumento en ATF-2P y Elk-1P se asocia con la supervivencia celular. Los factores tróficos probablemente no desempeñan un papel significativo en las etapas iniciales del daño hipocampal, pero tienen su importancia en el remodelado de las células granulares y el brote de fibras musgosas a la capa molecular del giro dentado. Esta regeneración anómala , a su vez, facilita el `reclutamiento' y mantenimiento crónico de las convulsiones (AU)</dc:description>
+<dc:source>Rev Neurol;34(6): 544-550, mar. 2002.</dc:source>
+<dc:identifier>ibc-27667</dc:identifier>
+<dc:title xml:lang="es">Señalización celular en el hipocampo epiléptico</dc:title>
+<dc:subject>^d9666</dc:subject>
+<dc:subject>^d6783</dc:subject>
+<dc:subject>^d33826</dc:subject>
+<dc:subject>^d7777</dc:subject>
+<dc:subject>^d30889</dc:subject>
+<dc:subject>^d32259</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30827</dc:subject>
+<dc:subject>^d22940</dc:subject>
+<dc:subject>^d23827</dc:subject>
+<dc:subject>^d4907</dc:subject>
+<dc:subject>^d33030</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d34450</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200203</dc:date>
+</metadata>
+</record>
+</ibecs-document>

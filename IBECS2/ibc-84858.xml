@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-84858</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Differentiating clinical characteristics in bacteriemia caused by Enterococcus faecalis or Enterococcus faecium</dc:title>
+<dc:description xml:lang="en">Introduction Enterococci are responsible for severe infections, such as endocarditis and bacteremia. During recent decades, enterococcal infections have grown in importance because of the increasing number of cases. Knowledge of the factors predisposing to acquisition of infection by E. faecalis or E. faecium may be useful to improve the empirical treatment. Methods Retrospective study of patients diagnosed with enterococcal bacteremia and hospitalized over a 7-year period (January 2000&#150;December 2006), analyzing demographic data, clinical and microbiological characteristics, antibiotic exposure, treatment, and outcome. To identify the predisposing factors for isolation of E. faecalis or E. faecium in a clinical specimen, we performed univariate comparisons between the 2 groups, and subsequently, multivariate logistic regression analysis.ResultsA total of 228 episodes of bacteremia were recorded, 168 caused by E. faecalis and 60 by E. faecium. All E. faecalis isolates were susceptible to ampicillin, but only 25% of E. faecium were ampicillin-susceptible. There was only 1 vancomycin-resistant isolate. The variables independently associated with acquisition of E. faecium bacteriemia were surgical ward admission (odds ratio [OR], 4.223; P=.001), &gt;5 days of previous treatment with cephalosporins (OR, 2.564; P=.013), &gt;5 days of carbapenems (OR, 2.652; P=.027), previous administration of penicillins (OR, 2.008; P=0.044), SAPS score &gt;30 at admission (OR, 3.530; P=0.001), and hepatobiliary disease as a comorbid condition (OR, 3.754; P&lt;0.001), Conclusion Because of the differing susceptibility patterns of the enterococcal species studied, it is essential to know the factors predisposing to acquisition of infection by one or the other species to initiate adequate empirical treatment (AU)</dc:description>
+<dc:creator>Conde-Estévez,  David</dc:creator>
+<dc:creator>Grau, Santiago</dc:creator>
+<dc:creator>Terradas,  Roser</dc:creator>
+<dc:creator>Morales-Molina,  José Antonio</dc:creator>
+<dc:creator>Mateu-de Antonio, Javier</dc:creator>
+<dc:creator>Sorli,  Luisa</dc:creator>
+<dc:creator>Knobel,  Hernando</dc:creator>
+<dc:creator>Horcajada,  Juan Pablo</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción Los enterococos son causantes de infecciones graves, como endocarditis y bacteriemias. Durante las últimas décadas, las infecciones enterocócicas han ganado importancia debido al aumento del número de casos. El conocimiento de los factores predisponentes al aislamiento de Enterococcus faecalis o Enterococcus faecium puede ser útil para mejorar el tratamiento empírico de las bacteriemias. Métodos Estudio retrospectivo de los pacientes hospitalizados diagnosticados de bacteriemia enterocócica (enero 2000&#150;diciembre 2006). Se analizaron datos demográficos, clínicos, microbiológicos, exposición antibiótica, tratamientos y pronóstico. Para identificar los factores predisponentes al aislamiento de E. faecalis o E. faecium se llevó a cabo un análisis comparativo univariado y después un análisis multivariado. Resultados Se estudiaron 228 episodios de bacteriemia: 168 de E. faecalis y 60 de E. faecium. Todos los aislamientos de E. faecalis fueron sensibles a ampicilina, aunque sólo el 25% lo fue en el grupo de E. faecium. Hubo un caso de resistencia a vancomicina. Las variables que se asociaron independientemente a la adquisición de bacteriemia por E. faecium cuando se compararon con las bacteriemias producidas por E. faecalis fueron el ingreso en una unidad quirúrgica (OR: 4,223; p=0,001), más de 5 días de tratamiento previo con cefalosporinas o carbapenémicos (OR: 2,564; p=0,013 y OR: 2,652; p=0,027, respectivamente), la administración previa de penicilinas (OR: 2,008; p=0,044), Simplified Acute Physiology Score superior a 30 al ingreso (OR: 3,530; p=0,001) y enfermedad hepática de base (OR: 3,754; p&lt;0,001).Conclusiones Debido al diferente patrón de resistencia de ambas especies enterocócicas, es esencial el conocimiento de los factores predisponentes a la adquisición de bacteriemia por una u otra especie a fin de establecer un tratamiento empírico antibiótico adecuado (AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;28(6): 342-348, jun. -jul. 2010. tab, ilus</dc:source>
+<dc:identifier>ibc-84858</dc:identifier>
+<dc:title xml:lang="es">Características clínicas diferenciales entre las bacteriemias por Enterococcus faecalis y Enterococcus faecium</dc:title>
+<dc:subject>^d30127</dc:subject>
+<dc:subject>^d30421</dc:subject>
+<dc:subject>^d30071^s22046</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30241^s22046</dc:subject>
+<dc:subject>^d3965</dc:subject>
+<dc:subject>^d30071^s22016</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d30241^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201007</dc:date>
+</metadata>
+</record>
+</ibecs-document>

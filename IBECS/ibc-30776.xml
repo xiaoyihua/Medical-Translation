@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-30776</identifier>
+<setSpec>0211-3465</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Design and analysis of cohort studies</dc:title>
+<dc:creator>Alonso Fernández, A. M</dc:creator>
+<dc:creator>Comas Tizón, T. P</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Alpe Editores, S.A.</dc:publisher>
+<dc:description xml:lang="es">En este artículo se revisan las principales medidas asociados a los estudios de cohortes. Se describen los métodos de diseño y de análisis estadístico de este tipo de estudio y se ejemplifican estos procedimientos mediante software estándar como EpiInfo y EpiTable. Por último, se presenta la corrección necesaria en el caso de que la exposición al factor de riesgo se mide con test de sensibilidad y especificidad conocida (AU)</dc:description>
+<dc:source>Pediátrika (Madr.);24(2): 52-59, feb. 2004. tab, graf</dc:source>
+<dc:identifier>ibc-30776</dc:identifier>
+<dc:title xml:lang="es">Diseño y análisis de estudios de cohortes</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28621</dc:subject>
+<dc:subject>^d28567</dc:subject>
+<dc:subject>^d28595</dc:subject>
+<dc:subject>^d51780</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200402</dc:date>
+</metadata>
+</record>
+</ibecs-document>

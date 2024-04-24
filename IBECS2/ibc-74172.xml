@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-74172</identifier>
+<setSpec>0212-6567</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Identification of pharmacy cost outliers in primary care</dc:title>
+<dc:description xml:lang="en">ObjectiveTo identify pharmacy cost outlier patients in Primary Care, describing epidemiological differences between normal users and outliers; and to study the explanatory power of risk adjustment tools based on Adjusted Clinical Groups (ACG) as regards the variability of pharmacy expenditure for both groups of patients.DesignObservational, retrospective study.Setting23 health centres located in the regions of Aragon, Catalonia and the Balearic Islands.ParticipantsThe study sample consisted of 286,450 patients who were seen at least once in 2005.MeasurementsVariables related to demographic features, pharmacy cost, and case-mix (ACG® 7.1) were collected. Pharmacy cost outliers were selected according to the inter-quartile range method. A linear regression model was developed to measure the explanatory power of ACG. This same model was applied stratifying the population by variables of the physician, the health centre and the region.ResultsOne out of ten patients was classified as an outlier. This group was responsible for 60% of the total pharmacy expenditure. These outlier patients were 26.3 years older than normal users and had a higher comorbidity. The explanatory power of the ACG classification system was markedly lower &amp;#8722;3% vs. 26.4% for normal users-.ConclusionsFurther research should be done on factors causing a lack of adequacy of ACG among pharmacy outlier patients. Although it could be thought that social circumstances might play a role in the clinical state of patients, it is more likely that the applied trimming method does not allow outliers with justifiable clinical reasons for higher costs to be distinguished from those without them(AU)</dc:description>
+<dc:creator>Prados Torres, Alexandra</dc:creator>
+<dc:creator>Sicras Mainar, Antoni</dc:creator>
+<dc:creator>Estelrich Bennasar, José</dc:creator>
+<dc:creator>Calderón Larrañaga, Amaia</dc:creator>
+<dc:creator>Anselmo López Cabañas, Anselmo</dc:creator>
+<dc:creator>Rabanaque Hernández, María José</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">ObjetivoIdentificar pacientes hiperconsumidores de farmacia en atención primaria, describir las diferencias epidemiológicas entre pacientes normoconsumidores e hiperconsumidores e investigar la capacidad explicativa del sistema de ajuste de riesgos ACG (Adjusted Clinical Groups) sobre la variabilidad del gasto farmacéutico para ambos grupos de pacientes.DiseñoEstudio observacional retrospectivo.Emplazamiento23 centros de salud de Aragón, Baleares y Cataluña.ParticipantesSe incluyeron 286.450 pacientes atendidos al menos una vez en 2005.MedicionesSe analizaron variables demográficas, de consumo farmacéutico y de casuística (ACG® 7.1). Se identificaron pacientes hiperconsumidores a partir del rango intercuartílico. Se construyó un modelo de regresión lineal, para conocer la capacidad explicativa del ACG sobre el consumo farmacéutico. El mismo modelo se aplicó para la estratificación según variables del profesional, centro de salud y comunidad autónoma.ResultadosUno de cada 10 pacientes se clasificó como hiperconsumidor. Este grupo fue el causante del 60% del gasto farmacéutico. Se trata de pacientes con 26,3 años más y con mayor comorbilidad que los pacientes normoconsumidores. La capacidad explicativa del ACG sobre el gasto farmacéutico fue llamativamente inferior para el grupo de hiperconsumidores (3 frente a 26% en pacientes normoconsumidores).ConclusionesHan de investigarse las causas que provocan la falta de adaptación de los ACG al grupo de pacientes hiperconsumidores. Puede que haya circunstancias sociales que influyen sobre la situación clínica de estos pacientes. O, más probablemente, el método utilizado para detectar el hiperconsumo no permita diferenciar adecuadamente, de entre todos los pacientes hiperconsumidores, a aquéllos en los que la enfermedad justifica el gasto realizado(AU)</dc:description>
+<dc:source>Aten Primaria;41(8): 453-459, ago. 2009. tab, graf</dc:source>
+<dc:identifier>ibc-74172</dc:identifier>
+<dc:title xml:lang="es">Identificación de pacientes hiperconsumidores de farmacia en atención primaria</dc:title>
+<dc:subject>^d51454</dc:subject>
+<dc:subject>^d50295</dc:subject>
+<dc:subject>^d3275</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d11016</dc:subject>
+<dc:subject>^d50249</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d10794</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200908</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-104114</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">No disponible</dc:title>
+<dc:creator>Pineda, Juan Antonio</dc:creator>
+<dc:creator>Ortega, Enrique</dc:creator>
+<dc:creator>Oyagüez, Itziar</dc:creator>
+<dc:creator>Tural, Cristina</dc:creator>
+<dc:creator>García-Jurado, Laura</dc:creator>
+<dc:creator>Casado, Miguel Ángel</dc:creator>
+<dc:creator>González-García, Juan</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: La evaluación del estadio de fibrosis es crucial en la toma de decisiones terapéuticas en los pacientes infectados con VIH/sida coinfectados por el VHC ya que permite realizar un pronóstico de la enfermedad y establecer la necesidad de priorizar el tratamiento de la hepatitis C en estos pacientes. Métodos Se ha desarrollado un modelo de simulación de eventos discretos y un modelo de Markov para representar la evolución de fibrosis a cirrosis hepática en pacientes coinfectados por VIH/VHC. El modelo evaluó dos alternativas para el diagnóstico y seguimiento de estos pacientes, la elastografía de transición realizada de forma anual y la biopsia hepática realizada cada 7 años. El modelo fue desarrollado desde la perspectiva del Sistema Nacional de Salud y solo incluyó los costes médicos directos (tratamiento de la patología y de estados de salud). Se llevaron a cabo varios análisis de sensibilidad univariante para evaluar el impacto de los parámetros con mayor incertidumbre. Se aplicó una tasa de descuento del 3%.ResultadosLos resultados del caso base muestran que el diagnóstico y seguimiento de los pacientes con elastografía de transición es una estrategia dominante frente a biopsia hepática, obteniendo mayor esperanza de vida a menor coste. Los análisis de sensibilidad realizados confirmaron la robustez de estos resultados. Conclusión La elastografía de transición demostró ser una estrategia dominante frente a biopsia hepática en el diagnóstico y seguimiento de la fibrosis hepática en los pacientes coinfectados por VIH/VHC en España (AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;30(6): 294-299, jun. -jul. 2012. ilus, tab</dc:source>
+<dc:identifier>ibc-104114</dc:identifier>
+<dc:title xml:lang="es">Evaluación económica de la elastografía de transición (FibroScan ®) en el diagnóstico de fibrosis hepática en pacientes con hepatitis C coinfectados con VIH</dc:title>
+<dc:subject>^d24718^s22012</dc:subject>
+<dc:subject>^d8276^s22016</dc:subject>
+<dc:subject>^d52855^s22018</dc:subject>
+<dc:subject>^d^s22083</dc:subject>
+<dc:subject>^d16645</dc:subject>
+<dc:subject>^d1731^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d33344^s22012</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201207</dc:date>
+</metadata>
+</record>
+</ibecs-document>

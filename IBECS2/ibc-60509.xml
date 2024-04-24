@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-60509</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Toxicogenetics of antiretroviral treatment (II): Neurotoxicity, hepatotoxicity, lactic acidosis, kidney damage, and other adverse effects of antiretroviral drugs</dc:title>
+<dc:description xml:lang="en">Several pharmacogenetics studies have analyzed the influence of specific genetic polymorphisms on the toxicity of antiretroviral treatment. The present review describes some of the adverse effects of antiretroviral drugs in which a genetic predisposition may be involved: efavirenz-induced neurological toxicity, generally associated with the 516G&gt;T polymorphism of liver enzyme cytochrome P450 2B6 (CYP2B6); hypersensitivity reactions to nevirapine, associated with specific alleles of major histocompatibility complex, mainly the HLADRB1* 0101 allele, which, in combination with a high CD4 lymphocyte count, has been associated with systemic reactions and hepatitis in Caucasians, and the HLA-Cw8 allele, which is associated with hypersensitivity reactions in persons from the Italian island of Sardinia and from Japan; nevirapine-induced hepatotoxicity associated with the C&gt;T polymorphism in position 3435T of the ABCB1 (MDR-1) gene codifying for glycoprotein P (lower risk); hyperbilirubinemia in patients exposed to atazanavir or indinavir carrying the UGT1A1*28 polymorphism; peripheral neuropathy with nucleoside analogues associated with haplogroup T of the mitochondrial genome (higher risk) and with the HFE C282Y genotype of the hemochromatosis gene (lower risk); the mutation in codon 964 (R964C) of the POLG gene that codifies the mitochondrial polymerase DNA gamma described in a Thai patient with lactic acidosis; the ABCC2 gene haplotypes associated with tenofovir-induced proximal tubulopathy, and the risk of pancreatitis in persons with mutations in the CFTR and SPINK-1 genes(AU)</dc:description>
+<dc:creator>Gutiérrez Rodero, Félix</dc:creator>
+<dc:creator>Sánchez Hellín, Victoria</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Diversos estudios farmacogenéticos han analizado la influencia de determinados polimorfismos genéticos en la toxicidad del tratamiento antirretroviral. En esta revisión se describen algunos de los efectos adversos de los fármacos antirretrovirales en los que se ha documentado que puede existir una predisposición genética: la toxicidad neurológica en pacientes en tratamiento con efavirenz, por lo general asociada al polimorfismo 516G&gt;T de la isoenzima hepática 2B6 del sistema del citocromo P450 (CYP2B6); las reacciones de hipersensibilidad a nevirapina asociadas con alelos específicos del complejo mayor de histocompatibilidad (HLA), principalmente el alelo HLADRB1* 0101 que, en combinación con un recuento elevado de linfocitos CD4, se ha asociado a reacciones sistémicas y hepatitis en pacientes de raza caucásica, y el alelo HLACw8 asociado con las reacciones de hipersensibilidad en personas de la isla italiana de Cerdeña y de Japón; la hepatotoxidad con nevirapina (NVP) asociada al polimorfismo C&gt;T en la posición 3435T del gen ABCB1 (MDR-1) que codifica la glucoproteína P (gp- P) (protector); la hiperbilirrubinemia en pacientes expuestos a atazanavir o indinavir portadores del polimorfismo UGT1A1*28; la neuropatía periférica con análogos de nucleósidos asociada al haplogrupo T del genoma mitocondrial (mayor riesgo) y al genotipo HFE C282Y del gen de la hemocromatosis (protector); la mutación en el codón 964 (R964C) del gen POLG que codifica la ADN polimerasa mitocondrial gamma descrita en un paciente tailandés con acidosis láctica; los haplotipos ABCC2 asociados con la tubulopatía proximal inducida por tenofovir, y el riesgo de pancreatitis en las personas con mutaciones en los genes CFTR y SPINK-1(AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;26(supl.6): 24-33, mayo 2008. tab</dc:source>
+<dc:identifier>ibc-60509</dc:identifier>
+<dc:title xml:lang="es">Toxicogenética del tratamiento antirretroviral (y II): neurotoxicidad, hepatotoxicidad, acidosis láctica, daño renal y otros efectos adversos del tratamiento antirretroviral</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d24718^s22012</dc:subject>
+<dc:subject>^d24718^s22057</dc:subject>
+<dc:subject>^d10382^s22036</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d3595^s22021</dc:subject>
+<dc:subject>^d34349^s22033</dc:subject>
+<dc:subject>^d4404</dc:subject>
+<dc:subject>^d38362^s22045</dc:subject>
+<dc:subject>^d37290^s22036</dc:subject>
+<dc:subject>^d19051^s22036</dc:subject>
+<dc:subject>^d38332^s22020</dc:subject>
+<dc:subject>^d7112^s22036</dc:subject>
+<dc:subject>^d53500^s22033</dc:subject>
+<dc:subject>^d28850^s22033</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200805</dc:date>
+</metadata>
+</record>
+</ibecs-document>

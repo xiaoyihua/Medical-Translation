@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-123228</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">New Data About Atrial Fibrillation, Comment to the OFRECE Study</dc:title>
+<dc:description xml:lang="en">No disponible</dc:description>
+<dc:creator>Otero-Raviña, Fernando</dc:creator>
+<dc:creator>González-Juanatey, José Ramón</dc:creator>
+<dc:creator>Vidal-Pérez, Rafael</dc:creator>
+<dc:creator>Otero-Mata, Manuel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">No disponible</dc:description>
+<dc:source>Rev Esp Cardiol;67(6): 499-499, jun. 2014.</dc:source>
+<dc:identifier>ibc-123228</dc:identifier>
+<dc:title xml:lang="es">Nuevos datos sobre fibrilación auricular, observaciones al estudio OFRECE</dc:title>
+<dc:subject>^d21027^s22074</dc:subject>
+<dc:subject>^d29625</dc:subject>
+<dc:subject>^d11756</dc:subject>
+<dc:subject>^d29638</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1287^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201406</dc:date>
+</metadata>
+</record>
+</ibecs-document>

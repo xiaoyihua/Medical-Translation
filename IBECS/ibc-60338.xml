@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-60338</identifier>
+<setSpec>0212-3568</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Computerized control of medical labour absences at the military units</dc:title>
+<dc:description xml:lang="en">A model of file, performed with Microsoft´s Office Access, is presented as a tool for its practice at the Health Services of the military units, useful for a computerized medical control of absences in such units (AU)</dc:description>
+<dc:creator>Encinas, A</dc:creator>
+<dc:creator>Ruano, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Se presenta aquí un modelo de fichero de base de datos en programa ACCESS de Microsoft Office para su uso en Servicios de Sanidad de Unidades y que permite llevar un control informático de las bajas médicas de dichas unidades (AU)</dc:description>
+<dc:source>Med. mil;62(4): 217-220, oct.-dic. 2006. ilus</dc:source>
+<dc:identifier>ibc-60338</dc:identifier>
+<dc:title xml:lang="es">Control informático de bajas médicas en las unidades</dc:title>
+<dc:subject>^d6928^s22083</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d19402</dc:subject>
+<dc:subject>^d8183^s22074</dc:subject>
+<dc:subject>^d6928^s22049</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200612</dc:date>
+</metadata>
+</record>
+</ibecs-document>

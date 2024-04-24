@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-122102</identifier>
+<setSpec>0001-6519</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Acoustic voice analysis using the Praat program: Comparative study with the Dr. Speech program</dc:title>
+<dc:description xml:lang="en">Introduction and objectives: The European Laryngological Society (ELS) basic protocol for functional assessment of voice pathology includes 5 different approaches: perception, videostroboscopy, acoustics, aerodynamics and subjective rating by the patient. In this study we focused on acoustic voice analysis. The purpose of the present study was to correlate the results obtained by the commercial software Dr. Speech and the free software Praat in 2 fields: 1. Narrow-band spectrogram (the presence of noise according to Yanagihara, and the presence of subharmonics) (semi-quantitative). 2. Voice acoustic parameters (jitter, shimmer, harmonics-to-noise ratio, fundamental frequency) (quantitative). Material and methods: We studied a total of 99 voice samples from individuals with Reinke's oedema diagnosed using videostroboscopy. One independent observer used Dr. Speech 3.0 and a second one used the Praat program (Phonetic Sciences, University of Amsterdam). The spectrographic analysis consisted of obtaining a narrow-band spectrogram from the previous digitalised voice samples by the 2 independent observers. They then determined the presence of noise in the spectrogram, using the Yanagihara grades, as well as the presence of subharmonics. As a final result, the acoustic parameters of jitter, shimmer, harmonics-to-noise ratio and fundamental frequency were obtained from the 2 acoustic analysis programs. Results: The results indicated that the sound spectrogram and the numerical values obtained for shimmer and jitter were similar for both computer programs, even though types 1, 2 and 3 voice samples were analysed. Conclusions: The Praat and Dr. Speech programs provide similar results in the acoustic analysis of pathological voices (AU)</dc:description>
+<dc:creator>González Márquez, Rocío</dc:creator>
+<dc:creator>Núñez Batalla, Faustino</dc:creator>
+<dc:creator>Morato Galán, Marta</dc:creator>
+<dc:creator>González Laborda, Irene</dc:creator>
+<dc:creator>Peláez González, M. Belén</dc:creator>
+<dc:creator>Fernández Fernández, María</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos: El protocolo de la European Laringological Society (ELS) para la valoración funcional de la disfonía incluye 5 dimensiones: percepción, análisis acústico, videoestroboscopia, aerodinámica y autovaloración del paciente. El objetivo de este trabajo es correlacionar los resultados obtenidos con el programa comercial Dr. Speech con los obtenidos con el programa gratuito Praat en 2 ámbitos: 1. Espectrograma de banda estrecha (presencia de ruido según Yanagihara y presencia de subarmónicos) (semicuantitativo). 2. Parámetros acústicos de la voz (jitter, shimmer, relación armónico-ruido, frecuencia fundamental) (cuantitativo). Material y métodos: Se estudiaron un total de 99 muestras de voz diagnosticadas mediante videoestroboscopia de edema de Reinke. En este estudio un observador independiente utilizó el Dr. Speech 3.0 y otro el Praat (Phonetic Sciences, University of Amsterdam). El análisis espectrográfico consistió en obtener un espectrograma de banda estrecha a partir de las anteriores voces digitalizadas por parte de los 2 observadores independientes. Después determinaron la presencia de ruido en el espectrograma siguiendo los grados de Yanagihara y la presencia de subarmónicos. Por último, se obtuvieron los siguientes parámetros acústicos: jitter, shimmer, relación armónico-ruido (HNR) y el valor de la frecuencia fundamental (Fo). Resultados: Los resultados indican que el espectrograma y el parámetro de perturbación de la frecuencia jitter son comparables en los 2 programas. También es comparable el parámetro de perturbación de la amplitud shimmer, a pesar de haber analizado tanto voces de tipo 1, como de tipo 2 y de tipo 3. Conclusiones: Los programas Praat y Dr. Speech ofrecen similares resultados en el análisis acústico de las voces patológicas (AU)</dc:description>
+<dc:source>Acta Otorrinolaringol Esp;65(3): 170-176, mayo-jun. 2014. tab, graf</dc:source>
+<dc:identifier>ibc-122102</dc:identifier>
+<dc:title xml:lang="es">Análisis acústico de la voz mediante el programa Praat: estudio comparativo con el programa Dr. Speech</dc:title>
+<dc:subject>^d53079^s22016</dc:subject>
+<dc:subject>^d15235</dc:subject>
+<dc:subject>^d38799^s22074</dc:subject>
+<dc:subject>^d13444</dc:subject>
+<dc:subject>^d27926^s22016</dc:subject>
+<dc:subject>^d13401^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d54263</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201406</dc:date>
+</metadata>
+</record>
+</ibecs-document>

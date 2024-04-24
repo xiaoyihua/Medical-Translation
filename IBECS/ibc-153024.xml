@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-153024</identifier>
+<setSpec>1130-2399</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Patient mortality is associated with staff resources and workload in the ICU</dc:title>
+<dc:description xml:lang="en">No disponible</dc:description>
+<dc:creator>Solís Muñoz, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: La adecuación de los recursos de personal sanitario (enfermeras y médicos) a las necesidades de los pacientes en la UCI es un factor clave para la calidad de la atención. El objetivo fue evaluar el impacto de la ratio personal sanitario-paciente y la carga de trabajo sobre la mortalidad en la UCI. Diseño: Se realizó un estudio longitudinal multicéntrico utilizando los datos de los hospitales recogidos de forma habitual. Ámbito: Se analizó la información relativa a todos los pacientes en 8 de las UCI de 4 hospitales universitarios de enero a diciembre del 2013. Pacientes: Se incluyeron un total de 5.718 hospitalizaciones. Intervenciones: Ninguna. Mediciones y resultados principales: Se utilizó una medida de la variación de la ratio paciente-personal sanitario en combinación con la carga de trabajo turno por turno para establecer su relación con la mortalidad en función del tiempo en UCI, excluyendo a los pacientes con decisión de renunciar a la terapia de soporte vital. Se usó la regresión multinivel de Poisson, se cuantificó el riesgo de mortalidad relativa en la UCI, ajustado por la rotación de pacientes, la gravedad y los niveles de dotación de personal. El riesgo de muerte se incrementó en 3,5 (IC del 95%, 1,3-9,1) cuando la ratio paciente-enfermera era mayor de 2,5 y se incrementó en 2,0 (IC del 95%, 1,3-3,2) cuando la ratio paciente-médico superó el 14. Las proporciones más altas se produjeron con más frecuencia durante el fin de semana para el personal de enfermería y durante la noche para los médicos(p &lt; 0,001). La alta rotación del paciente (riesgo relativo ajustado, 5,6 [2,0-15,0]) y el volumen de procedimientos de soporte vital realizados por el personal (riesgo relativo ajustado, 5,9 [4,3-7,9]) también se asociaron con una mayor mortalidad. Conclusiones: Este estudio propone umbrales para ratios paciente-personal sanitario basados en la evidencia, por encima de los cuales se compromete la seguridad del paciente en UCI. Monitorizar en tiempo real los niveles de dotación de personal y la carga de trabajo es factible para ajustar los recursos de personal sanitario a las necesidades de los pacientes (AU)</dc:description>
+<dc:source>Enferm Intensiva;27(2): 81-83, jun. 2016.</dc:source>
+<dc:identifier>ibc-153024</dc:identifier>
+<dc:title xml:lang="es">La mortalidad de los pacientes está asociada con los recursos de personal y la carga de trabajo en la UCI</dc:title>
+<dc:subject>^d6431^s22083</dc:subject>
+<dc:subject>^d3439^s22045</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d30047^s22066</dc:subject>
+<dc:subject>^d7530^s22083</dc:subject>
+<dc:subject>^d29625</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29745^s22083</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201606</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-123654</identifier>
+<setSpec>1699-048X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:creator>Medina, V</dc:creator>
+<dc:creator>Díaz-Prado, S</dc:creator>
+<dc:creator>Calvo, M. B</dc:creator>
+<dc:creator>Espada, J</dc:creator>
+<dc:language>en</dc:language>
+<dc:source>Clin Transl Oncol;11(7): 411-427, jul. 2009. tab, ilus</dc:source>
+<dc:identifier>ibc-123654</dc:identifier>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d37753^s22044</dc:subject>
+<dc:subject>^d6562^s22053</dc:subject>
+<dc:subject>^d6562^s22010</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d50821^s22044</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d13620^s22044</dc:subject>
+<dc:subject>^d2506</dc:subject>
+<dc:subject>^d7585^s22010</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d7585^s22044</dc:subject>
+<dc:subject>^d14810^s22044</dc:subject>
+<dc:subject>^d4696^s22023</dc:subject>
+<dc:subject>^d53428^s22044</dc:subject>
+<dc:subject>^d50759^s22044</dc:subject>
+<dc:subject>^d54781</dc:subject>
+<dc:subject>^d53428^s22010</dc:subject>
+<dc:subject>^d4696^s22010</dc:subject>
+<dc:subject>^d53428^s22053</dc:subject>
+<dc:subject>^d37753^s22053</dc:subject>
+<dc:subject>^d14810^s22053</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200907</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-16872</identifier>
+<setSpec>1134-282X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Evaluation of pharmaceutical problem-oriented clinical practice</dc:title>
+<dc:creator>Font Noguera, Isabel</dc:creator>
+<dc:creator>Climente Martí, Mónica</dc:creator>
+<dc:creator>Jiménez Torres, Víctor</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Validar la reproducibilidad en la documentación de los procedimientos para la práctica clínica orientada a problemas terapéuticos establecida por farmacéuticos en dos hospitales universitarios.Métodos: Se han seleccionado aleatoriamente 28 actuaciones farmacéuticas realizadas en dos hospitales con procedimientos de documentación similares. Se ha analizado la concordancia entre dos evaluadores farmacéuticos desde una triple perspectiva: a) del problema farmacoterapéutico y del error de medicación; b) del proceso farmacoterapéutico en el paciente, y c) del proceso farmacoterapéutico del sistema. La reproducibilidad de las variables categóricas se ha estudiado con el índice kappa ( ) y para variables ordinales se ha aplicado el ponderado (lineal y cuadrático).Resultados: Se ha obtenido una concordancia total en la fuente de identificación y el tipo de problema farmacoterapéutico identificado, tipo de error de medicación y fase en la que se produce. La valoración de la gravedad del problema farmacoterapéutico ha presentado un índice lineal y cuadrático de 0,67 (0,40-0,93) y 0,70 (0,47-0,93). Las valoraciones de la idoneidad de las actuaciones farmacéuticas presentaron niveles de acuerdo moderado, con un índice lineal y cuadrático de 0,54 (0,24-0,83) y 0,62 (0,29-0,95).La reproducibilidad de la valoración clínica de la actuación multidisciplinaria ha dado valores de lineal y cuadrático de 0,45 (0,07-0,82) y 0,65 (0,35-0,96).Conclusión: La metodología de documentación de la práctica clínica de los farmacéuticos presentada es reproducible, especialmente en los elementos de proceso, mientras que las valoraciones de elementos de resultados revelan un nivel de concordancia moderado.Se precisa mejorar las escalas de medida y/o el entrenamiento de los profesionales, y establecer criterios explícitos para la documentación de actuaciones farmacéuticas, con el objeto de cuantificar con fiabilidad su impacto en el cuidado de los pacientes. (AU)</dc:description>
+<dc:source>Rev. calid. asist;17(3): 149-159, mayo 2002. tab</dc:source>
+<dc:identifier>ibc-16872</dc:identifier>
+<dc:title xml:lang="es">Validación de los procedimientos para la práctica clínica orientada a problemas farmacoterapéuticos</dc:title>
+<dc:subject>^d4403^s22045</dc:subject>
+<dc:subject>^d4414^s22048</dc:subject>
+<dc:subject>^d12223</dc:subject>
+<dc:subject>^d24413^s22049</dc:subject>
+<dc:subject>^d4418^s22048</dc:subject>
+<dc:subject>^d16704</dc:subject>
+<dc:subject>^d^s22048</dc:subject>
+<dc:subject>^d12222^s22049</dc:subject>
+<dc:subject>^d6940^s22049</dc:subject>
+<dc:subject>^d12222^s22048</dc:subject>
+<dc:subject>^d35256</dc:subject>
+<dc:subject>^d12224^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200205</dc:date>
+</metadata>
+</record>
+</ibecs-document>

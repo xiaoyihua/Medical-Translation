@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-83318</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Factors Associated with Asthma Control in Primary Care Patients: The CHAS Study</dc:title>
+<dc:description xml:lang="en">BackgroundAsthma control is inadequate in all populations studied to date, leading to a major part of the cost of the disease. The aim of our study was to evaluate the prevalence of uncontrolled asthma in primary care patients and identify the associated factors.MethodsWe carried out a cross-sectional study of the population of primary care asthmatic patients over 18 years old in Spain (n=2159). Asthma control was measured with the Asthma Control Questionnaire (ACQ). The sociodemographic variables and treatment compliance were measured using a questionnaire. We built logistic-regression models using Asthma control, a dichotomous variable generated from ACQ score.ResultsThe prevalence of uncontrolled asthma was 63.9%. Treatment with oral corticosteroids (OCS) (OR=6.55), greater asthma severity (OR=3.11), presence of a distressing event (OR=2.44), lower significance given to treatment compliance (OR=1.66) and living in a rural area (OR=1.29) are associated with uncontrolled asthma. On the contrary, sex, age, obesity, smoking, alcohol intake and educational level had no effect on asthma control.ConclusionsIn Spain asthma is still uncontrolled and some factors leading to this situation appear to be modifiable by the health system(AU)</dc:description>
+<dc:creator>Caamaño-Isorna, Francisco</dc:creator>
+<dc:creator>González Barcala, Francisco Javier</dc:creator>
+<dc:creator>Fuente-Cid, Ramón de la</dc:creator>
+<dc:creator>Tafalla, Mónica</dc:creator>
+<dc:creator>Álvarez-Gil, Rosa</dc:creator>
+<dc:creator>Nuevo, Javier</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">IntroducciónEl control del asma es inadecuado en todas las poblaciones estudiadas hasta el momento actual, generando la mayor parte de los costes de la enfermedad. El obejtivo de nuestro estudio fue evaluar la prevalencia de asma mal controlada en pacientes de atención primaria, e identificar algunos factores asociados con este hecho.MétodosLlevamos a cabo un estudio transversal, incluyendo pacientes asmáticos mayores de 18 años, seguidos en consultas de atención primaria (n=2159). El control del asma se evaluó con el cuestionario «Asthma Control Questionnaire». Las variables sociodemográficas y el cumplimiento terapéutico se evaluaron mediante un cuestionario. Mediante regresión logística se calcularon los OR de asma mal controlada; utilizando como variable dependiente el control del asma, valorado de acuerdo a la puntuación ACQ.ResultadosLa prevalencia de asma no controlada fue del 63,9%. El tratamiento con corticoides orales (OR=6,55), la mayor gravedad del asma (OR=3,11), la presencia de un evento estresante reciente (OR=2,44), una menor importancia otorgada al cumplimiento terapéutico (OR=1,66) y vivir en un medio rural (OR=1,29) fueron factores de riesgo para asma mal controlada. Por el contrario, el sexo, la edad, la obesidad, el tabaquismo, el consumo de alcohol y el nivel educacional no mostraron ninguna influencia sobre el control del asma.ConclusionesEn España el asma permanece mal controlada, y algunos de los factores relacionados con esta situación podrían ser modificables desde el sistema sanitario(AU)</dc:description>
+<dc:source>Arch Bronconeumol;46(7): 358-363, jul. 2010. tab</dc:source>
+<dc:identifier>ibc-83318</dc:identifier>
+<dc:title xml:lang="es">Factores asociados con el control del asma en pacientes de atención primaria en España: el estudio CHAS</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d1257^s22080</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d32858^s22073</dc:subject>
+<dc:subject>^d1257^s22054</dc:subject>
+<dc:subject>^d13411^s22080</dc:subject>
+<dc:subject>^d11756^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201007</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-59750</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Normal values for cerebrospinal fluid flow dynamics in the aqueduct of Sylvius through optimized analysis of phase-contrast MR images</dc:title>
+<dc:description xml:lang="en">Objective: to establish normal values for the different parameters that characterize the cerebrospinal fluid (CSF) flow dynamics in the aqueduct of Sylvius (velocity, flow, volume per cycle, and CSF production) obtained from phase-contrast MR images using a reliable and reproducible post-processing method. The optimized semiautomatic method eliminates interobserver variability and corrects errors due to low amplitude movements, aliasing, and the partial volume effect. Material and methods: we studied 42 healthy subjects without neurological or cerebrovascular disease or disturbances in CSF dynamics. Images were acquired on a 1.5 T MR scanner using a phase-contrast sequence. All images were acquired during the same time frame (14:00 to 18:00) to avoid circadian influences. Results: we obtained normal values for each of the parameters that characterize CSF dynamics in the aqueduct (maximum diastolic and systolic velocity, mean velocity, maximum diastolic and systolic flow, mean flow, production rate, and stroke volume). Although trends were noted, neither sex nor age (&lt; 25, 26-50, &gt; 51 years old) had a statistically significant effect on any parameter (p ¡Ý 0.05). Discussion: although measurements of CSF flow dynamics parameter are sensitive to various factors (temporal and spatial resolutions of the MR sequence, circadian rhythms, age, sex, and MR equipment manufacturer), an optimized post-processing method enables reliable and reproducible values and ranges for normal subjects to be established (AU)</dc:description>
+<dc:creator>Moratal, D</dc:creator>
+<dc:creator>Florez, N</dc:creator>
+<dc:creator>Martí-Bonmatí, L</dc:creator>
+<dc:creator>Forner, J</dc:creator>
+<dc:creator>Arana, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: establecer valores de normalidad de los diferentes parámetros que caracterizan la dinámica del líquido cefalorraquídeo (LCR) en el acueducto de Silvio (velocidad, flujo, volumen por ciclo y producción), obtenidos de las imágenes de resonancia magnética (RM) por contraste de fase empleando un método de posproceso fiable y reproducible. El método semiautomático optimizado presenta una variabilidad nula de los resultados interobservador y corrige los errores debidos a los movimientos de baja amplitud, al submuestreo (aliasing) y al efecto del volumen parcial. Material y métodos: se analizó a 42 sujetos sanos sin alteraciones neurológicas, hidrocefalia ni enfermedades cerebrovasculares. Las imágenes se adquirieron en un equipo de RM de 1,5 T con una secuencia de contraste de fase. Todas las exploraciones se adquirieron en la misma franja horaria (de 14:00 a 18:00 h) para evitar influencias circadianas. Resultados: se obtuvieron valores de normalidad para cada uno de los parámetros que caracterizan la dinámica del LCR en el acueducto de Silvio (velocidades máximas diastólica y sistólica, velocidad promedio, flujos máximos diastólico y sistólico, flujo promedio, producción de LCR y volumen por ciclo). Aunque hubo una tendencia, ni el sexo ni la edad (&lt; 25, 26-50 y &gt; 51 años) influyeron estadísticamente en los parámetros calculados. Conclusiones: aunque las mediciones de los parámetros de la dinámica del flujo de LCR son sensibles a múltiples factores (resolución temporal y espacial de la secuencia RM, ritmo circadiano, edad y sexo, y fabricante del equipo de RM), un método optimizado de posproceso permite establecer valores y rangos de normalidad precisos y reproducibles (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);51(1): 38-44, ene. 2009. tab</dc:source>
+<dc:identifier>ibc-59750</dc:identifier>
+<dc:title xml:lang="es">Valores de normalidad de la dinámica del flujo de líquido cefalorraquídeo en el acueducto de Silvio mediante análisis optimizado de imágenes de contraste de fase en resonancia magnética</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d2572^s22004</dc:subject>
+<dc:subject>^d23405^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12437</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d2594^s22063</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200901</dc:date>
+</metadata>
+</record>
+</ibecs-document>

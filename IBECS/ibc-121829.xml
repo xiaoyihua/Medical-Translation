@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-121829</identifier>
+<setSpec>0004-0614</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Predictive postoperative model for biochemical recurrence in patients with localized prostate cancer treated with radical prostatectomy as monotherapy</dc:title>
+<dc:description xml:lang="en">OBJECTIVES: To identify the post-prostatectomy prognostic factors of biochemical recurrence (BCR) and develop a predictive model for BCR based on predictive pathological variables after radical prostatectomy (RP). METHODS: We retrospectively analysed patients with clinically localised prostate cancer treated with RP as monotherapy with a minimum follow up period of 12 months. We considered BCR to be the persistence or elevation of PSA levels after RP of &gt; 0,4 ng/ml, and rising in the following determination.  We performed uni- and multivariate analysis, using the logistic regression test to determine the variables associated with BCR. We developed a mathematical model to estimate BCR, based on the variables identified, with a logistic function equation and then designed an Excel spreadsheet to apply it. Calibration and discrimination were performed by way of a Hosmer-Lemeshow test and an ROC curve. RESULTS: 693 patients were included. Average age was 63.5 years and average follow up was 88.5 months. BCR was observed in 218 patients. The average time to BCR was 35.5 months, and 90% of the cases occurred in the first 7 years. In the multivariate analysis, the PSA, Gleason Score (GS) . 7(4+3), pathological stage pT3b and affectation of the surgical margin (PSM) were identified as independent prognostic pathological variables related to BCR (p&lt;0,001). The above four variables were included into the equation of the model. Specificity and sensitivity were 90.6% and 50.2%. Its predictive capacity was 80.5% (CI 95% 76,80 . 84.3). CONCLUSIONS: PSA, GS . 7(4+3), pathological stage pT3b and PSM were found to be the independent prognostic pathological variables related to BCR-free survival. The predictive model developed permits BCR risk estimation with a reliability of 80.5% (AU)</dc:description>
+<dc:creator>Molina-Escudero, R</dc:creator>
+<dc:creator>Herranz-Amo, F</dc:creator>
+<dc:creator>Hernández-Fernández, C</dc:creator>
+<dc:creator>Páez-Borda, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">OBJETIVO: Identificar los factores pronósticos de recidiva bioquímica (RB) post-prostatectomía radical y elaborar un modelo predictivo para la RB basado en las variables obtenidas. MÉTODOS: Analizamos retrospectivamente los pacientes con cáncer de próstata clínicamente localizado tratados con PR en monoterapia con seguimiento mínimo de 12 meses. Consideramos como RB la elevación del PSA después de la PR &gt; 0,4 ng/ml. Realizamos un análisis uni y multivariante mediante regresión logística para determinar las variables asociadas con la RB. Desarrollamos un modelo matemático para estimar probabilidad de RB según la ecuación de función logística y una hoja de cálculo en Excel para su aplicación. La calibración y discriminación se realizaron mediante la prueba de Hosmer-Lemeshow y una curva ROC. RESULTADOS: Incluimos 693 pacientes con una edad media de 63,5 años y un seguimiento medio de 88,5 meses. En 218 pacientes se observó RB. El tiempo medio hasta la RB fue 35,5 meses, aconteciendo el 90% en los 7 primeros años. En el análisis multivariante el PSA, el Score Gleason (SG) &amp;#8805; 7(4+3), el estadio pT3b y la afectación del margen quirúrgico (MQP) resultaron variables patológicas independientes relacionadas con la RB. La especificidad, sensibilidad y capacidad predictiva del modelo fueron 90,6%, 50,2% y 80,5%respectivamente (IC95% 76,80 &#150; 84,3). CONCLUSIONES: El PSA, el SG &amp;#8805; 7(4+3), el estadio patológico pT3b y el MQP son las variables patológicas pronosticas independientes relacionadas con la supervivencia libre de RB. El modelo predictivo desarrollado permite estimar con una fiabilidad del 80,5% el riesgo de RB (AU)</dc:description>
+<dc:source>Arch Esp Urol;67(3): 259-267, abr. 2014. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-121829</dc:identifier>
+<dc:title xml:lang="es">Modelo predictivo postoperatorio para la recidiva bioquímica en pacientes con cáncer de próstata localizado tratados con prostatectomía radical en monoterapia</dc:title>
+<dc:subject>^d11623</dc:subject>
+<dc:subject>^d11911^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d5678</dc:subject>
+<dc:subject>^d11914^s22009</dc:subject>
+<dc:subject>^d30596^s22002</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d9557^s22053</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201404</dc:date>
+</metadata>
+</record>
+</ibecs-document>

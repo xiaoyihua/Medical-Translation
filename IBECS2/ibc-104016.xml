@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-104016</identifier>
+<setSpec>1137-6821</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Agent-based emergency decision-making aid for hospital emergency departments</dc:title>
+<dc:description xml:lang="en">Objective: To design a model and a simulation tool that hospital emergency department directors can use as a decision making aid for managing human and material resources and for planning the strategic deployment of resources during an expected pandemic. Methods: We used an iterative spiral approach to developing the model in 5 phases (systems analysis, model building, design and implementation of the simulation tool, verifying the simulator&#146;s functionality, and validation of the simulator against real emergency department data). After each iteration, we identified improvements to make before the next phase. The process was repeated until the model and the simulation tool behaved similarly to the real system. The data necessary to develop the model were obtained from 2 hospitals, one a tertiary care facility and the other a secondary one; the centers were visited and interviews were conducted with the directors, supervisors and other staff. Results: The model describes the complex dynamics of a hospital emergency department whose behavior results from the actions and interactions of agents (patients, physicians, nurses, managers and other staff); therefore the behavior of each type of agent had to be reflected in the model. The functioning of the model was verified for a simple department, with analysis of the effects that changes in emergency staff deployment and levels of experience would have on the department&#146;s output. Conclusion: The simulation tool proved useful as a decision-making aid, allowing the user to identify the optimal deployment of human resources for attending a specific number of patients (AU)</dc:description>
+<dc:creator>Luque,  E</dc:creator>
+<dc:creator>Taboada, M</dc:creator>
+<dc:creator>Cabrera, E</dc:creator>
+<dc:creator>Epelde, F</dc:creator>
+<dc:creator>Iglesias, M. L</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Diseñar y desarrollar un modelo y un simulador que puedan ser usados por los responsables de servicios de urgencias hospitalarios (SUH) como sistema de ayuda a la toma de decisiones (DSS) para gestionar de forma óptima los recursos humanos y técnicos del servicio y determinar la configuración de recursos que permita atender una pandemia previsible Método: Se utilizó una metodología de desarrollo en espiral organizada en iteraciones divididas en 5 etapas (análisis del sistema; diseño del modelo; diseño/implementación del simulador; verificación funcional del simulador; validación/sintonización del simulador con el SUH real). Completada cada iteración se identificaban mejoras a introducir en la siguiente, repitiéndose el proceso hasta que el modelo y el simulador recogían el comportamiento del sistema real. La información necesaria fue obtenida de 2 hospitales, uno terciario y otro secundario, a través de visitas al SUH y entrevistas con directores, responsables y otro personal del servicio. Resultados: El modelo obtenido describe la dinámica compleja del SUH, cuyo comportamiento emerge de las acciones-interacciones mantenidas por los diferentes agentes (pacientes, médicos, personal de enfermería, administrativos, etc.), por lo que se tuvo que modelar el comportamiento individual de cada tipo de agente. Para la verificación funcional se implementó en el simulador un SUH sencillo que fue utilizado para analizar los efectos de cambios en cantidad y nivel de experiencia que los equipos del servicio provocan sobre el rendimiento del SUH. Conclusiones: Los resultados obtenidos muestran la utilidad del simulador como DSS, y permite identificar la configuración óptima del equipo humano del SUH para atender una determinada llegada de pacientes (AU)</dc:description>
+<dc:source>Emergencias (Sant Vicenç dels Horts);24(3): 189-195, jun. 2012. ilus, tab</dc:source>
+<dc:identifier>ibc-104016</dc:identifier>
+<dc:title xml:lang="es">Sistema de ayuda a la toma de decisiones para servicios de urgencias hospitalarios diseñado mediante técnicas de modelado orientado a individuos</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d4707^s22049</dc:subject>
+<dc:subject>^d555</dc:subject>
+<dc:subject>^d34637</dc:subject>
+<dc:subject>^d29199</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201206</dc:date>
+</metadata>
+</record>
+</ibecs-document>

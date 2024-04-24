@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-60486</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Antibiotic therapy in odontogenic infections in children and adolescents: pharmacokinetic/pharmacodynamic analysis</dc:title>
+<dc:description xml:lang="en">INTRODUCTION. The objective of this study was to evaluate the efficacy of the most commonly used antimicrobial treatments in odontogenic infections in children and adolescents on the basis of pharmacokinetic/pharmacodynamic (PK/PD) criteria. METHODS. Unbound drug plasma concentration-time curves were simulated with mean population pharmacokinetic parameters of amoxicillin, co-amoxiclav, cefuroxime axetil, spiramycin, clindamycin, azithromycin, and metronidazole. For drugs showing time-dependent antibacterial killing, the time above MIC90 of the pathogens studied was calculated (T &gt; MIC). For drugs with concentration dependent bactericidal activity, the area under the concentration-time curve (AUC)/MIC90 ratio was calculated. RESULTS. Adequate efficacy indexes (T &gt; MIC &gt; 40%) against all the microorganisms examined with the exception of Veillonella spp. were obtained with co-amoxiclav(80 mg/kg/day). Clindamycin (40 mg/kg/day) obtained ad equate PK/PD indexes except for Lactobacillus, Actinobacillus actinomy cetemcomitans, penicillin-resistant Peptostreptococcus, and Eikenella corrodens. High-dose amoxicillin yielded unsatisfactory results against many bacterial species. Azithromycin and metronidazole showed inadequate efficacy indexes against the majority of pathogens studied (AUC/MIC90 &lt; 25).CONCLUSION. When antibiotic therapy is needed for odontogenic infections in children and adolescents, the most active empirical therapeutic choice is co-amoxiclav with high doses of amoxicillin. Clindamycin can be used as an alternative option. These results should be confirmed inclinical trials, in which the PK/PD approach could be useful for the design and assessment of results (AU)</dc:description>
+<dc:creator>Labora, Alicia</dc:creator>
+<dc:creator>Planells, Paloma</dc:creator>
+<dc:creator>Salmerón-Escobar, José Ignacio</dc:creator>
+<dc:creator>Pedraz, José Luis</dc:creator>
+<dc:creator>Beltrí-Orta, Paola</dc:creator>
+<dc:creator>Canut, Andrés</dc:creator>
+<dc:creator>Rodríguez-Gascón, Alicia</dc:creator>
+<dc:creator>Isla, Arantxazu</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">INTRODUCCIÓN. El objetivo de este estudio es evaluar la eficacia de los tratamientos más utilizados en infecciones odontogénicas en niños y adolescentes aplicando criterios farmacocinéticos/farmacodinámicos (PK/PD).MÉTODOS. Se han simulado las curvas de concentración plasmática libre-tiempo a partir de parámetros farmacocinéticos medios de amoxicilina, amoxicilina-ácido clavulánico, cefuroxima axetilo, espiramicina, clindamicina, azitromicina y metronidazol. Para los antibióticos con actividad dependiente del tiempo, se ha calculado el tiempo durante el cual las concentraciones permanecen por encima de la concentración inhibitoria mínima (CIM90)de los microorganismos (T &gt; CIM). Para los antimicrobianos con actividad dependiente de la concentración, se ha calculado el cociente entre el área bajo la curva y la CIM90 (ABC/CIM90).RESULTADOS. Con amoxicilina-ácido clavulánico(80 mg/kg/día) se han obtenido índices de eficacia adecuados frente a los microorganismos estudiados(T &gt; CIM &gt; 40%), excepto para Veillonella spp. Clindamicina (40 mg/kg/día) también ha presentado índices PK/PD adecuados frente a la mayoría de los patógenos, excepto Lactobacillus, Actinobacillus actinomycetemcomitans, Peptostreptococcus resistente a penicilina y Eikenellacorrodens. Con dosis altas de amoxicilina los resultados nohan sido satisfactorios frente a varias especies bacterianas. Con azitromicina y metronidazol no se han alcanzado valores adecuados frente a la mayoría de patógenos (ABC/CIM90 &lt; 25).CONCLUSIÓN. El tratamiento empírico más adecuado en infecciones odontogénicas en niños y adolescentes esamoxicilina-ácido clavulánico en altas dosis de amoxicilina, aunque se puede utilizar como alternativa clindamicina. Sería conveniente confirmar estos resultados mediante ensayos clínicos, para cuyo diseño y evaluación podría serde gran utilidad la aplicación de estudios PK/PD(AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;26(10): 621-628, dic. 2008. tab</dc:source>
+<dc:identifier>ibc-60486</dc:identifier>
+<dc:title xml:lang="es">Utilización de antimicrobianos en las infecciones odontogénicas en niños y adolescentes: análisis farmacocinético/farmacodinámico (PK/PD)</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d911^s22079</dc:subject>
+<dc:subject>^d5626^s22057</dc:subject>
+<dc:subject>^d23201^s22079</dc:subject>
+<dc:subject>^d9252^s22057</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d33384^s22079</dc:subject>
+<dc:subject>^d673^s22079</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200812</dc:date>
+</metadata>
+</record>
+</ibecs-document>

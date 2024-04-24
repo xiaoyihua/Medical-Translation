@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-33112</identifier>
+<setSpec>0214-3429</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Levofloxacin in patients in the ICU. Factors influencing the choice of dose and its use in combined therapy</dc:title>
+<dc:creator>Álvarez Lerma, F</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>J.R. Prous, S.A.</dc:publisher>
+<dc:description xml:lang="es">El objetivo de este estudio fue identificar los factores que influyen en la elección de las distintas formas de prescripción de levofloxacino (monoterapia vs. tratamiento combinado, intervalo de 12 h vs. 24 h) y evaluar su influencia en la mortalidad en la UCI. Se trata de un estudio observacional, multicéntrico y prospectivo. Se realiza análisis de regresión logística para identificar los factores asociados con la prescripción en terapia combinada y en la dosificación de 500 mg cada 12 h. Se incluye un análisis de regresión logística para identificar el impacto de las distintas formas de prescripción en la mortalidad en la UCI. Las dosis iniciales más frecuentes han sido 500 mg/24 h (48,5 por ciento) y 500 mg/12 h (48,3 por ciento). No se ha identificado ningún factor que influya en la elección de la dosis-día. El 49,7 por ciento de las indicaciones han sido en terapia combinada. Los factores que influyen en la elección de tratamiento combinado son: infección nosocomial extra-UCI (OR: 1,97; IC95 por ciento: 1,133,42), sepsis grave (OR: 2,56; IC95 por ciento: 1,66-3,94), shock séptico (OR: 6,22; IC95 por ciento: 3,54-10,9) y etiología conocida (OR: 1,99; IC95 por ciento: 1,34-2,95). La mortalidad ha sido del 21,4 por ciento y los factores asociados fueron shock séptico (OR: 3,09; IC95 por ciento: 1,38-6,91), fracaso terapéutico (OR: 23,4; IC95 por ciento: 12,3-44,6) y terapia combinada (OR: 2,36; IC95 por ciento: 1,21-4,59). Se concluye que ningún factor conocido influye en la elección de la dosis inicial de levofloxacino, mientras que se inicia en terapia combinada en los pacientes con etiología conocida, mayor respuesta sistémica e infecciones nosocomiales extra-UCI. La elección de terapia combinada se asocia con peor pronóstico (AU)</dc:description>
+<dc:source>Rev Esp Quimioter;17(1): 57-63, mar. 2004.</dc:source>
+<dc:identifier>ibc-33112</dc:identifier>
+<dc:title xml:lang="es">Levofloxacino en pacientes ingresados en UCI. Factores que influyen en la elección de la dosis y en su uso en terapia combinada</dc:title>
+<dc:subject>^d7530</dc:subject>
+<dc:subject>^d7414</dc:subject>
+<dc:subject>^d23786</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d903</dc:subject>
+<dc:subject>^d3439</dc:subject>
+<dc:subject>^d4419</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200403</dc:date>
+</metadata>
+</record>
+</ibecs-document>

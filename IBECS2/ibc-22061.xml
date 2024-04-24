@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-22061</identifier>
+<setSpec>1137-6821</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Drug interactions of anti-ulcus drugs</dc:title>
+<dc:creator>Marrero Francés, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Saned, S.A.</dc:publisher>
+<dc:description xml:lang="es">La interacción es la alteración en el efecto de un fármaco producida por la administración de otro fármaco. Los antiulcerosos pueden presentar interacciones con otros fármacos por cuatro mecanismos: 1. Alteración de la absorción intestinal (antiácidos, sucralfato y antisecretores); 2. Unión competitiva a la citocromo P450 (anti-H2 e inhibidores de la bomba de protones); 3. Alteración del aclaramiento renal (anti-H2); 4. Inhibición de la alcohol-deshidrogenasa (anti-H2). Se revisan las interacciones de antiácidos, sucralfato, anti-H2, agente procinéticos (metoclopramida, betanecol, cisaprida), inhibidores de la bomba de protones, misoprostol y sales de bismuto. Se destaca que pantoprazol es el inhibidor de la bomba de protones que menos interacciones medicamentosas presenta. Por último se hacen unas recomendaciones para evitar la aparición de interacciones (AU)</dc:description>
+<dc:source>Emergencias (Sant Vicenç dels Horts);14(1): 14-18, feb. 2002. tab</dc:source>
+<dc:identifier>ibc-22061</dc:identifier>
+<dc:title xml:lang="es">Interacciones medicamentosas de los antiulcerosos</dc:title>
+<dc:subject>^d19355^s22020</dc:subject>
+<dc:subject>^d29962^s22020</dc:subject>
+<dc:subject>^d877^s22020</dc:subject>
+<dc:subject>^d1585^s22020</dc:subject>
+<dc:subject>^d7571^s22021</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6794^s22020</dc:subject>
+<dc:subject>^d3595^s22021</dc:subject>
+<dc:subject>^d1753^s22020</dc:subject>
+<dc:subject>^d23311^s22021</dc:subject>
+<dc:subject>^d4409</dc:subject>
+<dc:subject>^d908^s22020</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200202</dc:date>
+</metadata>
+</record>
+</ibecs-document>

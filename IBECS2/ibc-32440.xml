@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-32440</identifier>
+<setSpec>1137-6821</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Standards for transportation for the prehospital patients evaluated with syncope to the hospital</dc:title>
+<dc:creator>Pérez Irazusta, I</dc:creator>
+<dc:creator>Hernández García, J</dc:creator>
+<dc:creator>Salegi Etxebeste, I</dc:creator>
+<dc:creator>Marín Tamayo, J. M</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Saned, S.A.</dc:publisher>
+<dc:description xml:lang="es">Introducción: El síncope es una situación clínica frecuente en la asistencia extrahospitalaria de los equipos de soporte vital avanzado (SVA). Hemos diseñado un algoritmo que nos ayude a decidir en qué casos estaría indicada la derivación de estos pacientes al hospital y a cuáles podríamos darles el alta en el lugar de asistencia. Objetivo: Validar este algoritmo de decisiones. Métodos: Estudio descriptivo prospectivo incluyendo los síncopes atendidos por nuestro equipo de SVA desde el 05/08/01 al 04/08/02. Resultados: Se recogieron 163 síncopes. Se realizó el estudio sobre 159 casos (se perdieron 4). Se calculó la sensibilidad, especificidad, valor predictivo positivo (VPP) y valor predictivo negativo (VPN) del algoritmo, usando como "Gold standard" el estudio hospitalario o ambulatorio realizado a cada paciente y la evolución durante 2 meses. La sensibilidad de nuestro algoritmo fue del 90 por ciento (IC 95 por ciento: 85-95 por ciento), la especificidad del 49 por ciento (IC 95 por ciento: 41-57 por ciento), tuvo un VPP del 52 por ciento (IC 95 por ciento: 44-60 por ciento) y un VPN del 89 por ciento (IC 95 por ciento: 84-94 por ciento). Conclusiones: Nuestro algoritmo de decisiones se muestra como una herramienta válida para la atención del síncope en el medio extrahospitalario (AU)</dc:description>
+<dc:source>Emergencias (Sant Vicenç dels Horts);16(2): 68-73, abr. 2004. tab</dc:source>
+<dc:identifier>ibc-32440</dc:identifier>
+<dc:title xml:lang="es">Criterios de derivación hospitalaria en los pacientes con síncope</dc:title>
+<dc:subject>^d3285^s22048</dc:subject>
+<dc:subject>^d4713^s22048</dc:subject>
+<dc:subject>^d28837^s22048</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d13955^s22067</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200404</dc:date>
+</metadata>
+</record>
+</ibecs-document>

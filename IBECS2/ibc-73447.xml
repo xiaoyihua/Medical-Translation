@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-73447</identifier>
+<setSpec>1695-4033</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Usefulness of a rapid serum interleukin-6 test combined with C-reactive protein to predict sepsis in newborns with suspicion of infection</dc:title>
+<dc:description xml:lang="en">Aim: To evaluate the diagnostic value of interleukin-6 (IL-6) to predict the likelihood of neonatal sepsis in order to design an algorithm to decide antibiotic therapy.MethodsIL-6 and C-reactive protein (CRP) were determined in 42 newborns with clinical suspicion of infection. Newborns were classified as a confirmed, probable or no infection, based on the results of cultures, chest X-rays and the involvement of four or more clinical areas on a scale of eight. Samples for IL-6 were collected in the initial assessment and frozen until its determination at the end of the study. Blinded IL-6 measurements were performed using a rapid test. Receiver operator characteristics curves (ROC) for CRP and IL-6 versus infection (confirmed or probable) were determined. Results: Among the 42 cases included in the study 11 (26.2%) were classified as confirmed or probable infection. The area under curve (AUC) for IL-6 was 0.9, with a cut-off value of 53pg/ml: sensitivity 90.91%, specificity 80%, positive predictive value (PPV) 62.5% and negative (NPV) 96% The level of IL-6&gt;96pg/ml and/or the combination of IL-6&gt;53+CRP&gt;13.3mg/l, were the markers that best predicted infection: specificity 100% and PPV: 100%. Conclusions: Assessment of IL-6 could allow withholding or early discontinuation of antibiotics in newborns with IL-6&lt;54pg/ml. In cases with IL-6&gt;96pg/ml and/or IL-6&gt;53+ CRP&gt;13.3, antibiotics should be started promptly, given the high likelihood of infection. Implementation of an algorithm based on the determination of IL-6 and CRP, in the initial assessment of the newborn with clinical suspicion of infection, could reduce unnecessary antibiotic therapy (AU)</dc:description>
+<dc:creator>Beceiro Mosquera, J</dc:creator>
+<dc:creator>Sivera Monzo, C. L</dc:creator>
+<dc:creator>Herbozo Nory, C</dc:creator>
+<dc:creator>Olivas López de Soria, C</dc:creator>
+<dc:creator>Oria de Rueda Salguero, O</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Evaluar el valor diagnóstico de la interleuquina-6 (IL-6) para predecir el riesgo de sepsis neonatal, a fin de diseñar un algoritmo para decidir el inicio de tratamiento antibiótico. Métodos: Se determinaron la IL-6 y la proteína C reactiva (PCR) en 42 recién nacidos (RN) con sospecha clínica de infección. Los RN se clasificaron como infección confirmada, infección probable o ausencia de infección, sobre la base de los resultados de los cultivos, las radiografías de tórax y la afectación de 4 o más áreas clínicas en una escala de 8. Las muestras para IL-6 se recogieron en la evaluación inicial y se congelaron hasta su determinación al final del estudio. El análisis de IL-6 se realizó de forma ciega mediante un test rápido. Se determinaron las curvas de características operador receptor para PCR e IL-6 frente a infección (confirmada o probable). Resultados: Once (26,2%) entre 42 casos incluidos en el estudio se clasificaron como infección confirmada o infección probable. El área bajo la curva para IL-6 fue de 0,9, con un valor de corte de 53pg/ml, sensibilidad del 90,91%, especificidad del 80%, valor predictivo positivo del 62,5% y valor predictivo negativo del 96%. El nivel de IL-6&gt;96pg/ml o la combinación de IL-6&gt;53+ PCR&gt;13,3mg/l fueron los marcadores que mejor predijeron la infección (especificidad y VPP del 100%). Conclusiones: La determinación de IL-6 podría permitir demorar o suspender precozmente el tratamiento antibiótico en los recién nacidos con IL-6&lt;54pg/ml. En los casos con IL-6&gt;96pg/ml o IL-6&gt;53+PCR&gt;13,3 mg/l, el tratamiento antibiótico debería iniciarse de inmediato, dada la alta probabilidad de infección. La aplicación de un algoritmo basado en la determinación de IL-6 y PCR, en la evaluación inicial de los RN con sospecha clínica de infección, podría reducir el consumo innecesario de antibióticos (AU)</dc:description>
+<dc:source>An Pediatr (Barc);71(6): 483-488, dic. 2009. tab, graf, ilus</dc:source>
+<dc:identifier>ibc-73447</dc:identifier>
+<dc:title xml:lang="es">Utilidad de un test rápido de interleuquina-6 sérico combinado con proteína C reactiva para predecir la sepsis en recién nacidos con sospecha de infección</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d23568^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29480^s22045</dc:subject>
+<dc:subject>^d29472</dc:subject>
+<dc:subject>^d22124</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d28903^s22002</dc:subject>
+<dc:subject>^d7426^s22016</dc:subject>
+<dc:subject>^d22226</dc:subject>
+<dc:subject>^d28903</dc:subject>
+<dc:subject>^d7414^s22016</dc:subject>
+<dc:subject>^d32031^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200912</dc:date>
+</metadata>
+</record>
+</ibecs-document>

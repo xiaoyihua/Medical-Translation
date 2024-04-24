@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-3165</identifier>
+<setSpec>0212-6567</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Medical record of primary care: quality and predisponding factors</dc:title>
+<dc:creator>Piñol Moreso, J. L.</dc:creator>
+<dc:creator>Sobrequés Soriano, J.</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Objetivo. Usar un método basado en el registro de un mínimo de datos de interés sanitario que evalúe cuantitativamente la información en las historias clínicas de atención primaria (HCAP) de la población adulta y analizar el efecto que diversos factores, relacionados con los centros asistenciales, los usuarios y los médicos de atención primaria, determinan sobre las HCAP observadas. Diseño. Estudio observacional transversal. Emplazamiento. Atención primaria de salud. Participantes. Un total de 1.473 HCAP de 8 áreas básicas de salud de la Comunidad Autónoma de Cataluña. Mediciones principales. Cuestionario estructurado, que además de los datos sociodemográficos relacionados con el centro asistencial, el usuario y el médico de atención primaria, también recogía los criterios de registro mínimo de datos de interés sanitarios (RMDS) de la HCAP. Se acordó, por consenso de un grupo de profesionales, considerar el RMDS adecuado cuando en la HCAP se encontraban de forma conjunta el registro de la presión arterial, colesterol, consumo de alcohol, tabaquismo e índice de masa corporal. Resultados. Sólo un 18,3 por ciento (intervalo de confianza [IC] del 95 por ciento: 16,3-20,3 por ciento) del total de HCAP analizadas cumplían los criterios de RMDS. El riesgo de tener el RMDS en una HCAP era superior: a mayor número de médicos del ABS (odds ratio [OR]: 1,10; IC del 95 por ciento: 1,01-1,20); si el usuario era de sexo femenino (OR: 1,17; IC del 95 por ciento: 1,01-1,36); a mayor edad del usuario (OR: 1,02; IC del 95 por ciento: 1,02-1,03); si al menos había un registro en el último año (OR: 1,51; IC del 95 por ciento: 1,23-1,85), y si el médico era de sexo femenino (OR: 1,46; IC del 95 por ciento: 1,24-1,71).Conclusiones. La proporción de HCAP de población adulta con RMDS es de un 18,3 por ciento (IC del 95 por ciento: 16,3-20,3 por ciento). Se asocian con el RMDS las HCAP con los siguientes factores determinantes: un mayor número de médicos del ABS, el sexo femenino, una mayor edad del usuario, el registro en el último año del HCAP, y el sexo femenino del médico de cabecera (AU)</dc:description>
+<dc:source>Aten Primaria;28(8): 535-542, nov. 2001.</dc:source>
+<dc:identifier>ibc-3165</dc:identifier>
+<dc:title xml:lang="es">Historia clínica de atención primaria: calidad y factores asociados</dc:title>
+<dc:subject>^d23925</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d12224</dc:subject>
+<dc:subject>^d11756</dc:subject>
+<dc:subject>^d6444</dc:subject>
+<dc:subject>^d29815</dc:subject>
+<dc:subject>^d28219</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d14384</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200111</dc:date>
+</metadata>
+</record>
+</ibecs-document>

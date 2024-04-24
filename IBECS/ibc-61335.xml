@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-61335</identifier>
+<setSpec>1135-7606</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Human identification by superimposition of images. A methodological proposal</dc:title>
+<dc:description xml:lang="en">We present a new method for human identificationby analysis of images and photographic superimposition.We discuss the advantages of including skull threedimensionalimages, that provide the overlap and eliminateerrors when scaling the 3D model in real size. This workwas developed by an interdisciplinary team and its goal is toprovide a tool for semi-automatic human identification,based on the craniofacial recognition(AU)</dc:description>
+<dc:creator>Santamaría, J</dc:creator>
+<dc:creator>Botella, M. C</dc:creator>
+<dc:creator>Damas, S</dc:creator>
+<dc:creator>Navarro, F</dc:creator>
+<dc:creator>Alemán, I</dc:creator>
+<dc:creator>Cordón, Ó</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Se presenta un nuevo método para la identificaciónhumana por medio de análisis de imágenes y superposiciónfotográfica. Se discuten las ventajas que aporta laincorporación de imágenes tridimensionales del cráneo,ya que, por un lado, facilitan la superposición y por otro,eliminan errores de escalado al estar el modelo 3D atamaño real. Este trabajo se ha desarrollado por un equipointerdisciplinar y su objetivo fundamental es proporcionaruna herramienta semiautomática de identificaciónhumana, basada en el reconocimiento craneofacial(AU)</dc:description>
+<dc:source>Cuad. med. forense;14(53/54): 309-315, jul.-oct. 2008. ilus</dc:source>
+<dc:identifier>ibc-61335</dc:identifier>
+<dc:title xml:lang="es">Identificación humana mediante superposición de imágenes. Una propuesta metodológica</dc:title>
+<dc:subject>^d23421^s22045</dc:subject>
+<dc:subject>^d19200^s22039</dc:subject>
+<dc:subject>^d23421^s22039</dc:subject>
+<dc:subject>^d19200^s22045</dc:subject>
+<dc:subject>^d19200^s22034</dc:subject>
+<dc:subject>^d19200^s22011</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200810</dc:date>
+</metadata>
+</record>
+</ibecs-document>

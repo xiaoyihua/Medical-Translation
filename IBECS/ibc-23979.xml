@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-23979</identifier>
+<setSpec>0214-8927</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Jump height prediction in vertical jump based on anthropometric and body composition meassurements in prepubertal children</dc:title>
+<dc:creator>Vicente-Rodríguez, G</dc:creator>
+<dc:creator>López Calbet, J. A</dc:creator>
+<dc:creator>Arteaga Ortiz, R</dc:creator>
+<dc:creator>Jiménez Ramírez, J</dc:creator>
+<dc:creator>Ara Royo, I</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Alpe Editores, S.A.</dc:publisher>
+<dc:description xml:lang="es">El objetivo de este estudio es determinar el valor que tienen las variables antropométricas (protocolo de O&#146;scale de Ward) y la composición corporal (absorciometría fotónica dual de rayos X) para predecir la altura de vuelo en el salto vertical, utilizando un modelo de regresión lineal múltiple. Para ello se determinó la altura de vuelo (AV) en saltos verticales sin contramovimiento (SJ) y con contramovimiento (CMJ) mediante plataforma de fuerzas. También se midieron: la fuerza máxima realizada durante el salto (Fmax), el impulso mecánico positivo durante el salto (Ip+) y la fuerza isométrica máxima (FIM) de extensión desde la posición de &#147;semisentadilla&#148;, con las piernas flexionadas a 90º. Participaron en el estudio 114 sujetos prepúberes de 9.4ñ0.1 años de edad, 136.9ñ0.9 cm de talla y 33.9ñ0.9 kg de masa corporal (valores expresados como media ñ error estándar). La maduración sexual se determinó mediante el test de Tanner. El porcentaje medio de grasa de las piernas (PERFATPM) fue la principal variable predictiva de la AV en los CMJs, explicando por si sola un 20.5 por ciento de la variabilidad (R=-0.5, p&lt;0.01). La variable anterior combinada con la masa muscular de las piernas media (MUSCPRM) permitió explicar un 30.8 por ciento (R=0.6, p&lt;0.01), de tal manera que la AV (en m) en el CMJ puede ser estimada a partir de la siguiente ecuación: AV=0.19 &#150; (0.002 x PERFATPM) + (0.015 x MUSCPRM en kg) Una ecuación similar ha sido desarrollada para predecir la altura de vuelo en saltos sin contramovimiento: AV= 0.12 - (0.002 x PERFATPM) + (0.0035 x CMUSLO) - (0.0027 x PANTMS) En la que CMUSLO es la circunferencia superior del muslo (en cm) y PANTMS el pliegue anterior del muslo (en mm). (AU)</dc:description>
+<dc:source>Selección (Madr.);12(1): 18-27, ene. 2003.</dc:source>
+<dc:identifier>ibc-23979</dc:identifier>
+<dc:title xml:lang="es">Predicción de la altura de vuelo en el salto vertical a partir de variables antropométricas y de composición corporal en niños prepúberes</dc:title>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d9261</dc:subject>
+<dc:subject>^d27937</dc:subject>
+<dc:subject>^d1848</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200301</dc:date>
+</metadata>
+</record>
+</ibecs-document>

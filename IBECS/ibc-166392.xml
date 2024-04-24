@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-166392</identifier>
+<setSpec>1131-3587</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Programming implantable cardioverter&#150;defibrillators</dc:title>
+<dc:description xml:lang="en">Among other functions, modern implantable cardioverter-defibrillators (ICDs) are able to perform antibradycardia pacing, low-energy cardioversion, and highenergy defibrillation. In addition, they can implement a range of different arrhythmia detection criteria that enable them to discriminate, when possible, between ventricular and supraventricular tachycardias. The devices can be programmed in a range of different ways. They can be set to respond differently according to specific tachycardia frequency ranges, thereby enabling each form of tachycardia experienced by the patient to be treated differently. This capability is particularly useful in patients who present with ventricular tachycardias with a number of different cycle lengths. Antitachycardia pacing reduces the need for cardioversion or defibrillation in patients with ventricular tachycardias. Comparison of different pacing algorithms has shown that they give similar results. This part of the monograph contains reviews of the efficacy of these algorithms and how they can be better programmed, of the need for antibradycardia pacing and selection of the most appropriate pacing mode, and of how the administration of inappropriate shocks in response to supraventricular arrhythmias can be avoided (AU)</dc:description>
+<dc:creator>Ormaetxe-Merodio, José M</dc:creator>
+<dc:creator>Arcocha-Torres, María F</dc:creator>
+<dc:creator>García-Martín, Rubén</dc:creator>
+<dc:creator>Martínez-Alday, Jesús D</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Los desfibriladores automáticos modernos incluyen entre sus funciones la estimulación antibradicardia, la cardioversión de baja energía y la desfibrilación de alta energía. Tienen, además, criterios adicionales de detección para discriminar en lo posible las arritmias ventriculares de las de origen supraventricular. Son multiprogramables y pueden ser programados para actuar en diferentes zonas de frecuencia de taquicardia, lo que permite tratar de forma diferente cada taquicardia ventricular (TV) que pueda tener un paciente. Esto es particularmente útil en pacientes que presentan TV con ciclos diferentes. La estimulación antitaquicardia disminuye la necesidad de cardioversión o desfibrilación en pacientes con TV. Se han comparado diferentes algoritmos de estimulación con resultados similares. En este capítulo de la monografía se analizan dichos algoritmos y su mejor programación, la necesidad de estimulación antibradicardia y la selección del modo de estimulación, y cómo evitar en lo posible las terapias inapropiadas debidas a arritmias supraventriculares (AU)</dc:description>
+<dc:source>Rev. esp. cardiol. Supl. (Ed. impresa);8(supl.A): 65a-75a, 2008. tab, ilus</dc:source>
+<dc:identifier>ibc-166392</dc:identifier>
+<dc:title xml:lang="es">Programación del desfibrilador automático implantable</dc:title>
+<dc:subject>^d52886^s22045</dc:subject>
+<dc:subject>^d30763^s22074</dc:subject>
+<dc:subject>^d51842^s22045</dc:subject>
+<dc:subject>^d13993^s22080</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4630^s22045</dc:subject>
+<dc:subject>^d35391^s22045</dc:subject>
+<dc:subject>^d35391^s22048</dc:subject>
+<dc:subject>^d13993^s22054</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200800</dc:date>
+</metadata>
+</record>
+</ibecs-document>

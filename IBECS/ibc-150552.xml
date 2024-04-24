@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150552</identifier>
+<setSpec>0214-7823</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">R as the environment for data analysis in psychological evaluation</dc:title>
+<dc:description xml:lang="en">R is a free computing environment for statistical data analysis and graph creation. It is becoming a key tool in a wide range of knowledge domains. The interaction with the software is mainly based on a command line interface but efforts are currently being made to develop friendlier graphical user interfaces that will help novice users to become familiar with this programming language. R is a flexible and powerful system thanks to the development community that is working together to improve its capabilities. As a result, it is the chosen statistical software in many applied and basic contexts. This paper highlights the potential usefulness of R for psychological assessment and related areas. Additionally, the relevance of statistical data analysis is emphasised as an instrument that will boost the progress of psychology under the umbrella of the scientific method (AU)</dc:description>
+<dc:creator>Puga, Jorge L</dc:creator>
+<dc:creator>Ruiz-Ruano, Ana María</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">R es un entorno libre para el análisis estadístico de datos y para la generación de gráficos que está cobrando un papel clave en un amplio espectro de áreas de conocimiento. Pese a que el usuario ha de interaccionar con el programa, principalmente, por medio de una consola de comandos; se están invirtiendo esfuerzos en proporcionar entornos gráficos amigables que aproximen al usuario novel a esta especie de lengua franca del análisis estadístico contemporáneo. Además, la flexibilidad y versatilidad del programa, en conjunción con una comunidad de desarrolladores y usuarios global, facilitan que R sea la herramienta elegida en muchos contextos básicos o aplicados. En este trabajo se presenta la utilidad potencial que supone R para la evaluación psicológica en general a la vez que se acentúa el rol que asume la estadística propiamente dicha como instrumento de progreso de la psicología al amparo del método científico (AU)</dc:description>
+<dc:source>Pap. psicol;37(1): 74-79, ene.-abr. 2016. tab</dc:source>
+<dc:identifier>ibc-150552</dc:identifier>
+<dc:title xml:lang="es">R como entorno para el análisis estadístico en evaluación psicológica</dc:title>
+<dc:subject>^d12031^s22039</dc:subject>
+<dc:subject>^d28401</dc:subject>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d19402</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201604</dc:date>
+</metadata>
+</record>
+</ibecs-document>

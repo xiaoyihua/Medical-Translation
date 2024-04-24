@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-124558</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Real waiting times for surgery. Proposal for an improved system for their management</dc:title>
+<dc:description xml:lang="en">Objectives In Spain, official information on waiting times for surgery is based on the interval between the indication for surgery and its performance. We aimed to estimate total waiting times for surgical procedures, including outpatient visits and diagnostic tests prior to surgery. In addition, we propose an alternative system to manage total waiting times that reduces variability and maximum waiting times without increasing the use of health care resources. This system is illustrated by three surgical procedures: cholecystectomy, carpal tunnel release and inguinal/femoral hernia repair. Methods Using data from two Autonomous Communities, we adjusted, through simulation, a theoretical distribution of the total waiting time assuming independence of the waiting times of each stage of the clinical procedure. We show an alternative system in which the waiting time for the second consultation is established according to the time previously waited for the first consultation. Results Average total waiting times for cholecystectomy, carpal tunnel release and inguinal/femoral hernia repair were 331, 355 and 137 days, respectively (official data are 83, 68 and 73 days, respectively). Using different negative correlations between waiting times for subsequent consultations would reduce maximum waiting times by between 2% and 15% and substantially reduce heterogeneity among patients, without generating higher resource use. Conclusion Total waiting times are between two and five times higher than those officially published. The relationship between the waiting times at each stage of the medical procedure may be used to decrease variability and maximum waiting times (AU)</dc:description>
+<dc:creator>Jiménez, Octavio</dc:creator>
+<dc:creator>González López-Valcárcel, Beatriz</dc:creator>
+<dc:creator>Barber, Patricia</dc:creator>
+<dc:creator>Abásolo, Ignacio</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objetivos En España, la información oficial sobre tiempos de espera para cirugía está basada en el tiempo desde que se indica la cirugía hasta que se realiza. Nuestro objetivo es estimar el tiempo de espera total considerando también la visita al especialista y las pruebas diagnósticas previas a la cirugía, y proponer un sistema alternativo para gestionar tiempos de espera totales que reduce la variabilidad y los tiempos máximos sin incrementar los de recursos. Se ilustra para tres procedimientos quirúrgicos: colecistectomía, reparación quirúrgica del túnel carpiano y de la hernia inguinal/femoral. Métodos Con datos de dos Comunidades Autónomas, se ajusta mediante simulación, una distribución teórica del tiempo de espera total, asumiendo independencia de los tiempos de cada etapa del proceso asistencial. Se muestra un sistema alternativo donde el tiempo de espera para la segunda consulta se establece condicionado al esperado previamente en la primera consulta. Resultados Los tiempos de espera totales medios para la colecistectomía, túnel carpiano y hernia inguinal/femoral son 331, 355 y 137 días, siendo los oficiales 83, 68 y 73, respectivamente. Utilizando diferentes correlaciones negativas entre los tiempos de espera de consultas sucesivas se reducirían tanto los tiempos de espera máximos (entre el 2% y el 15%) como la heterogeneidad entre pacientes, sin mayor uso de recursos. Conclusión Los tiempos totales de espera son entre dos y cinco veces mayores que los publicados oficialmente. La relación entre tiempos de espera en cada etapa del procedimiento puede utilizarse para reducir la variabilidad y los tiempos máximos de espera (AU)</dc:description>
+<dc:source>Gac Sanit;28(3): 215-221, mayo-jun. 2014. ilus, tab</dc:source>
+<dc:identifier>ibc-124558</dc:identifier>
+<dc:title xml:lang="es">Los tiempos de espera reales en cirugía. Propuesta de un sistema mejorado para su gestión</dc:title>
+<dc:subject>^d2392^s22009</dc:subject>
+<dc:subject>^d28842</dc:subject>
+<dc:subject>^d54857</dc:subject>
+<dc:subject>^d^s22083</dc:subject>
+<dc:subject>^d23190^s22083</dc:subject>
+<dc:subject>^d6710^s22009</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d13885^s22083</dc:subject>
+<dc:subject>^d55032^s22083</dc:subject>
+<dc:subject>^d34002</dc:subject>
+<dc:subject>^d31008^s22049</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201406</dc:date>
+</metadata>
+</record>
+</ibecs-document>

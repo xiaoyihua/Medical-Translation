@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-93974</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Methods for averaging alpha coefficients in reliability generalization studies</dc:title>
+<dc:description xml:lang="en">The reliability generalization (RG) approach is a kind of meta-analysis that aims to statistically integrate a set of independent reliability coefficients obtained in several applications of a test, with the purpose of characterizing the measurement error and determining which factors related to the studies and samples can explain its variability. Diverse procedures have been proposed in the literature for averaging a set of independent alpha coefficients, and there is no consensus about which methods are best. Here, we present the results of a Monte Carlo simulation study, comparing the performance of twelve procedures proposed in Feldt and Charter, in terms of bias and mean square error. These procedures differ from each other in the transformation (or not) of the coefficients, and in the application or not of a weighting scheme based on sample size. Our results recommend using weighted methods in contrast to unweighted ones, and transforming the coefficients by the Hakstian and Whalen&#146;s proposal or by the proposal based on the square root of the inverse alpha coefficient. Lastly, we discuss the relations between the diverse procedures for averaging alpha coefficients with fixed-effects, random-effects, and varying coefficients models(AU)</dc:description>
+<dc:creator>López-López, José A</dc:creator>
+<dc:creator>López-Pina, José A</dc:creator>
+<dc:creator>Sánchez-Meca, Julio</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El enfoque de la generalización de la fiabilidad (GF) es un tipo de meta-análisis que pretende integrar un conjunto de coeficientes de fiabilidad obtenidos en varias aplicaciones de un test, con objeto de caracterizar el error de medida y determinar qué factores de los estudios pueden explicar su variabilidad. Se han propuesto en la literatura diferentes procedimientos para promediar un conjunto de coeficientes alfa independientes y no existe un consenso actual sobre qué métodos son los mejores. Presentamos los resultados de un estudio de simulación Monte Carlo para comparar el funcionamiento, en términos de sesgo y error cuadrático medio, de doce procedimientos propuestos por Feldt y Charter. Los procedimientos difieren en función de si los coeficientes se transforman o no, y de si se ponderan por el tamaño muestral o no. Nuestros resultados apuntan hacia la recomendación de que se utilicen procedimientos ponderados frente a los no ponderados, y a que se transformen los coeficientes mediante la propuesta de Hakstian y Whalen o la basada en la raíz cuadrada de la inversa del coeficiente alfa. Finalmente, se discuten las relaciones entre los diferentes procedimientos de promediar con los modelos estadísticos de efectos fijos, aleatorios y de coeficientes variables(AU)</dc:description>
+<dc:source>Psicothema (Oviedo);24(1): 161-166, 2012. tab</dc:source>
+<dc:identifier>ibc-93974</dc:identifier>
+<dc:title xml:lang="es">Métodos para promediar coeficientes alfa en los estudios de generalización de la fiabilidad</dc:title>
+<dc:subject>^d32532^s22045</dc:subject>
+<dc:subject>^d28214</dc:subject>
+<dc:subject>^d28640^s22045</dc:subject>
+<dc:subject>^d28640^s22066</dc:subject>
+<dc:subject>^d24535</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201200</dc:date>
+</metadata>
+</record>
+</ibecs-document>

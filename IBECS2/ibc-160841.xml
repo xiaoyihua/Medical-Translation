@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-160841</identifier>
+<setSpec>0213-4853</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Reliability of the minimum basic dataset for diagnoses of cerebrovascular disease</dc:title>
+<dc:description xml:lang="en">Introduction. The minimum basic dataset is the largest available hospital care administrative database that is used in clinical studies and hospital management in association with diagnosis-related groups (DRGs). In 2011, the quality of the national MBDS in hospital discharges was audited, in order to assess its reliability. This paper presents a sub-analysis of the results from that analysis which are referred to cerebrovascular disease (CVD). Methods. Using all discharge reports from the Spanish MBDS in 2009, a representative sample was obtained by stratified sampling and 11 209 records were evaluated. Outcome indicators were obtained to measure any differences observed between the national MBDS being evaluated and the hospital's original MBDS. Analysis of codes for CVD as a primary diagnosis was performed for ICD-9-CM diagnostic categories 430 through 438. We evaluated error rates in the selection and classification of main diagnoses, as well as in DRG assignment. Results. There were 397 discharges of cases of CVD which included 21 different DRGs. Diagnostic coding showed a concordance rate of 81.87%; the selection error rate was 2.26% and the classification error rate was 15.87%. The error rate in the DRG was 16.12% and associated with the greatest impact on the mortality risk level. Conclusions. While the errors we observed must be taken into account, data suggest that the quality of the MBDS for CVD is sufficient to ensure delivery of valid information. The hospital discharge registry serves as a valuable tool for use in studies of this disease (AU)</dc:description>
+<dc:creator>Alonso Cánovasa, A</dc:creator>
+<dc:creator>Gogorcena, MA</dc:creator>
+<dc:creator>Hernández Medrano, I</dc:creator>
+<dc:creator>Guillána, M</dc:creator>
+<dc:creator>Masjuana, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. El conjunto mínimo básico de datos (CMBD) es la mayor base de datos clínico-administrativa hospitalaria disponible, empleada en estudios clínicos y en gestión hospitalaria, a través de los grupos relacionados con el diagnóstico (GRD). En 2011 se acometió una auditoría de la calidad del CMBD en las altas hospitalarias, a fin de evaluar su fiabilidad. Este trabajo constituye un subanálisis de los resultados, referidos a enfermedad cerebrovascular (ECV). Métodos. De todas las altas del CMBD estatal del 2009, se obtuvo una muestra representativa, evaluándose 11.209 historias clínicas. Los indicadores de resultado se obtuvieron como medida de las diferencias observadas entre el CMBD evaluado y el CMBD original del hospital. El análisis de la codificación de la ECV como diagnóstico principal se realizó sobre las categorías diagnósticas CIE-9-MC 430-438. Se evaluaron las tasas de error en la selección y clasificación del diagnóstico principal, así como en la asignación del GRD. Resultados. Se observaron 397 altas por ECV, incluyendo 21 GRD diferentes. La codificación mostró una concordancia del 81,87%, siendo la tasa de error de selección del 2,26% y de error de clasificación del 15,87%. La tasa de error en los GRD fue del 16,12%, con mayor repercusión sobre el nivel de riesgo de mortalidad. Conclusiones. Si bien los errores observados deben ser considerados, los resultados obtenidos indican que la calidad del CMBD en la ECV permite garantizar la obtención de información válida. El registro de altas hospitalarias puede ser una herramienta valiosa a la hora acometer estudios sobre esta enfermedad (AU)</dc:description>
+<dc:source>Neurologia;32(2): 74-80, mar. 2017. tab</dc:source>
+<dc:identifier>ibc-160841</dc:identifier>
+<dc:title xml:lang="es">Fiabilidad del conjunto mínimo básico de datos en el diagnóstico de la enfermedad cerebrovascular</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d1953^s22016</dc:subject>
+<dc:subject>^d26566</dc:subject>
+<dc:subject>^d2600^s22012</dc:subject>
+<dc:subject>^d1953^s22012</dc:subject>
+<dc:subject>^d34247^s22016</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d34247^s22012</dc:subject>
+<dc:subject>^d10545^s22083</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d2600^s22080</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201703</dc:date>
+</metadata>
+</record>
+</ibecs-document>

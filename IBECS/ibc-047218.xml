@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-047218</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Validation of colorectal cancer diagnostic codes in a hospital administration data set</dc:title>
+<dc:description xml:lang="en">Objectives: To validate the ability of a hospital administration data set (minimum data set [MDS]) to detect incident cases of colorectal cancer using the Murcia Cancer Registry (MCR) as the gold standard and to measure agreement between the MDS and registration of colorectal cancer. Material and method: A cross sectional validation study of the MDS of the main hospital in the region of Murcia (Spain) was conducted. The study population consisted of incident cases of colorectal cancer in 2000 obtained from the MCR and cases in the MDS of the above-mentioned hospital for the same year with an ICD-9 diagnostic code between 153.0 and 154.1, eliminating readmissions. During the process, two analyses were performed: one analysis with the principal diagnosis only and another with all the diagnostic codes. Sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV) and agreement was calculated with their 95% confidence intervals (CI). Results: With the first diagnosis only, the MDS detected 80% of the incident cases of colorectal cancer with a PPV of 75%. With all the diagnoses, the MDS detected 85% of the cases with a PPV of 64%. The agreement in codification was high at three digits (kappa 88% [95% CI, 0.79-0.97] first diagnosis, 89% [95% CI, 0.80-0.97] all diagnoses) as well as at four digits (kappa 77% [IC, 0.68-0.85] first diagnosis, 78% [95% CI, 0.70-0.86] all diagnoses) in both analyses. Conclusions: Because of its high sensitivity, the MDS is a good source for detecting incident cases of cancer. The high agreement found in the site of colorectal cancer helps to consolidate the MDS as a data source for cancer registration</dc:description>
+<dc:creator>Navarro Sánchez, Carmen</dc:creator>
+<dc:creator>Párraga Sánchez, Encarnación</dc:creator>
+<dc:creator>Márquez Cid, Mirari</dc:creator>
+<dc:creator>Valera Niñirola, Isabel</dc:creator>
+<dc:creator>Chirlaque López, María Dolores</dc:creator>
+<dc:creator>Tortosa Martínez, Jacinta</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Validar la capacidad del Conjunto Mínimo Básico de Datos (CMBD) para detectar casos incidentes de cáncer de colon y recto utilizando como estándar de referencia el Registro de Cáncer de Murcia (RCM) y medir la concordancia entre el CMBD y el registro de cáncer en tumores colorrectales. Material y método: Estudio de validación transversal del CMBD del Hospital Virgen de la Arrixaca de Murcia. La población de estudio son los casos incidentes de colon-recto del año 2000 del RCM y los casos del CMBD en el citado hospital para el mismo año con algún código diagnóstico CIE-9 entre 153.0 y 154.1 eliminando reingresos. Durante el proceso se van a realizar 2 análisis: sólo con el diagnóstico principal y con todos los diagnósticos. Se calcula la sensibilidad, la especificidad, el valor predictivo positivo (VPP) y negativo (VPN) y la concordancia con sus intervalos de confianza (IC) del 95%. Resultados: Con sólo el primer diagnóstico, el CMBD detecta el 80% de los casos incidentes de cáncer colorrectal con un VPP del 75%; considerando todos los diagnósticos, detecta el 85% con un VPP del 64%. La concordancia en la codificación es elevada tanto con 3 dígitos (índice kappa del 88% [IC del 95%, 0,79-0,97] en primer diagnóstico, y del 89% [IC del 95%, 0,80-0,97] en todos los diagnósticos) como de 4 dígitos (índice kappa del 77% [IC del 95%, 0,68-0,85] en el primer diagnóstico, y del 78% [IC del 95%, 0,70-0,86] en todos diagnósticos) en ambos análisis. Conclusiones: El CMBD es una buena fuente para detectar casos incidentes de cáncer al presentar una elevada sensibilidad. La alta concordancia encontrada en las localizaciones tumorales de colon-recto contribuye a consolidar el CMBD como fuente de datos para los registros de cáncer</dc:description>
+<dc:source>Gac Sanit;20(4): 266-272, jul. 2006. tab, graf</dc:source>
+<dc:identifier>ibc-047218</dc:identifier>
+<dc:title xml:lang="es">Validación de los códigos diagnósticos de cáncer de colon y recto del Conjunto Mínimo Básico de Datos</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d3142^s22016</dc:subject>
+<dc:subject>^d28402</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d12424^s22080</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d28583</dc:subject>
+<dc:subject>^d12424^s22016</dc:subject>
+<dc:subject>^d3142^s22080</dc:subject>
+<dc:subject>^d28596</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200607</dc:date>
+</metadata>
+</record>
+</ibecs-document>

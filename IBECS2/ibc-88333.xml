@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-88333</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Community-acquired pneumonia</dc:title>
+<dc:description xml:lang="en">Given the inherent difficulty of determining the cause of community-acquired pneumonia (CAP) (anetiological diagnosis is only established in 40-60 % of cases), assessment of severity plays a key role instratifying CAP patients arriving at the emergency department in three groups according to the need forhospitalization: outpatient, hospitalization, and the need for intensive care unit (ICU) admission. The twomost common severity scales used to assess the need for hospital admission in CAP are the PneumoniaSeverity Index (PSI) and CURB-65 score while ATS-IDSA 2007 criteria are specific to evaluate the need for ICUadmission. Because of the possible etiological differences between the three groups, distinct etiological testsand empiric antibiotic treatments will be required in each subgroup, although a possible pneumococcaletiology should always be considered, since Streptococcus pneumoniae is the most common etiology of CAP inall three groups. Clinical status must be reassessed 48 hours after empirical antibiotic treatment is started(AU)</dc:description>
+<dc:creator>Sanz, Francisco</dc:creator>
+<dc:creator>Blanquer, José</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La estratificación del riesgo de la neumonía adquirida en la comunidad (NAC) a su llegada a urgencias médicases la clave principal para diferenciar los pacientes con NAC en tres subgrupos según el lugar donde se debeefectuar el tratamiento inicial: extrahospitalario, ingreso en salas de hospitalización, requerimiento de ingresoen la unidad de cuidados intensivos (UCI), dadas las dificultades inherentes a conocer la etiología causal dela NAC (el diagnóstico etiológico se alcanza sólo en 40-60 % de los casos). Las dos escalas de riesgo más usadasson: el Pneumonia Severity Index (PSI) o escala de Fine y el CURB-65, útiles sobre todo para evaluar la necesidadde ingreso hospitalario. Los criterios de la normativa ATS-IDSA de 2007 son los más utilizados para valorarel ingreso del paciente con NAC en la UCI. Las posibles diferencias etiológicas y evolutivas de los tres gruposde pacientes ya citados son la base de la diversidad de pruebas diagnósticas y de tratamiento empíricoque requerirán cada uno de ellos, aunque en los tres subgrupos se ha de contemplar la posible etiología neumocócica,dado que Streptococcus pneumoniae es el agente causal más frecuente de la NAC en cada uno deellos. Se considera esencial una nueva evaluación del estado clínico del paciente a las 48 h de haber iniciadoel tratamiento empírico(AU)</dc:description>
+<dc:source>Arch Bronconeumol;46(supl.7): 26-30, oct. 2010. tab</dc:source>
+<dc:identifier>ibc-88333</dc:identifier>
+<dc:title xml:lang="es">Neumonía adquirida en la comunidad</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d31549^s22012</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6916</dc:subject>
+<dc:subject>^d11443^s22012</dc:subject>
+<dc:subject>^d18001</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201010</dc:date>
+</metadata>
+</record>
+</ibecs-document>

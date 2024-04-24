@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-057397</identifier>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Coagulation problems in extracorporeal circuits and strategies for improving filters duration</dc:title>
+<dc:description xml:lang="en">Filter coagulation is the cause of replacing kits in 40% to 70% of the cases. Furthermore, circuit coagulation        represents loss of blood (around 200 mL), nursing workload, consumption of fungibles and temporary        interruption of treatments. Anticoagulation of the extracorporeal circuit is generally required to prevent        clotting of the circuit and preserve filter performance. On the other hand, anticoagulants can produce        systemic effects and bleeding. Thus, there is a struggle between filter coagulation and hemorrhage. Circuit        survival time is generally used to judge the effect of anticoagulation.        Unfractionated sodium heparin (standard heparin) remains the most frequently used agent and the drug        of choice for patients who require anticoagulation. It is cheap, and at low dosages (5-10 IU/kg per hour)        the systemic effects are minor, providing an activated thromboplastin time less than 1.5 times the control.        The drugs most often used apart from heparin in CRRT are prostaglandins and citrates.        In patients with filter hypercoagulability heparin is frequently insufficient, and apart from physical maneuvers,        such as reinfusion in pre-dilution and the reduction of the filtration fraction, we can add prostacyclin        to heparin to increase filter life.        Continued exposure to heparin may lead to the development of heparin-immunoglobulin G4 complexes        and heparin-induced thrombocytopenia type II (TIH II), increasing the risk of both bleeding and thrombotic        complications. In these cases there are several alternatives to heparin: regional citrate anticoagulation,        prostaglandins, human recombinant hirudin (lepirudin), danaparoid and argatroban</dc:description>
+<dc:creator>Gaínza, F. J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La coagulación de los filtros en técnicas de depuración extracorpórea continuas constituye uno de        los principales problemas de su aplicación. Casi la mitad de los circuitos no llegan a cumplir el tiempo        programado para su recambio. No existe consenso sobre lo que debe durar dicho circuito, aunque        la mayoría de fabricantes recomiendan cambiar filtro y líneas cada 48 a 72 horas.        Existen una serie de medidas encaminadas a mejorar la duración. La reposición prefiltro y el control        de la fracción de filtración (mantenida por debajo del 20 ó 25%) son las más eficaces y las que        mejor podemos controlar. Las emboladas con suero no han demostrado aumento en la eficacia. El correcto        diseño de los circuitos y, lo que está más a nuestro alcance, un buen catéter proporcionan mayor        duración y menos interrupciones de tratamiento.        En la mayoría de los casos debemos optar por anticoagular el circuito, procurando que nuestra actuación        tenga el menor efecto sistémico sobre el paciente y reduciendo al mínimo las complicaciones hemorrágicas.        En algunas circunstancias se puede optar por no anticoagular, especialmente en casos de sangrado        importante, coagulopatía, trombopenia severa o alteraciones en las pruebas de la coagulación; en este        caso convendrá mantener a la baja la fracción de filtración y reponer prefiltro (en predilución). Sin        embargo, en la mayor parte de las ocasiones emplearemos heparina no fraccionada a dosis bajas (5-        10 U/kg·h) controlando el APTT para obtener valores de entre 1 y 1,4 veces el control (menor de 45        segundos). En casos de TIH podremos utilizar antioagulación regional con citratos, prostaglandinas (sobre todo epoprostenol), fondaparinux o inhibidotes de la trombina. En casos de coagulación frecuente        de filtros se pueden asociar prostaglandinas a heparina. El esquema de actuación queda resumido        en el algoritmo de la figura 1. Los niveles de evidencia se describen en la tabla I</dc:description>
+<dc:source>Nefrologia;27(supl.3): 166-177, 2007. ilus, tab</dc:source>
+<dc:identifier>ibc-057397</dc:identifier>
+<dc:title xml:lang="es">Problemas de coagulación de los circuitos extracorpóreos y estrategias para mejorar la duración de los filtros</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d932^s22073</dc:subject>
+<dc:subject>^d1807^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d8737</dc:subject>
+<dc:subject>^d1804</dc:subject>
+<dc:subject>^d25870</dc:subject>
+<dc:subject>^d29407^s22039</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200700</dc:date>
+</metadata>
+</record>
+</ibecs-document>

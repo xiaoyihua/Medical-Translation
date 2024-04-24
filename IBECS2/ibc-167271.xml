@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-167271</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Indirect methods to estimate hidden population</dc:title>
+<dc:description xml:lang="en">Estimating the prevalence of the so-called "hidden populations" can be challenging, because the identification of its members is difficult due to their socially sanctionable or illegal behaviors. This article provides a critical review of the most widely used methods for estimating the size of a hard-to-reach population. All are indirect methods, based on incomplete data sources. Depending on the available data, one method can be more appropriate than another. Besides, each method must fulfill a number of requirements, and each one may be subject to specific risk of bias. To choose the most suitable method, an accurate evaluation of the available data is necessary, and. if possible several methods should be used simultaneously to be able to compare the results and to critically evaluate if these results fit with the reality (AU)</dc:description>
+<dc:creator>Jiménez-Mejías, Eladio</dc:creator>
+<dc:creator>Sordo, Luis</dc:creator>
+<dc:creator>Lorenzo Ortega, Rocío</dc:creator>
+<dc:creator>Pulido, José</dc:creator>
+<dc:creator>González Crespo, Almudena</dc:creator>
+<dc:creator>Sonego, Michela</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En determinadas situaciones podemos encontrar dificultades a la hora de calcular prevalencias en algunas poblaciones. Es el caso de personas que tienen comportamientos que son difíciles de identificar debido a que pueden estar sancionados socialmente o ser ilegales. Es lo que llamamos poblaciones ocultas. Este artículo proporciona una revisión crítica de los métodos más utilizados para calcular el tamaño de una población de difícil acceso. Se trata de métodos indirectos, que estiman la prevalencia de una población oculta basándose en fuentes de datos incompletas. Se exponen diferentes métodos, cada uno de ellos tiene diferentes indicaciones para ser utilizado, dependiendo de los datos de los que dispongamos. Además, precisan de una serie de requisitos para poder ser aplicados y cada uno está expuesto a diferentes tipos de sesgos. Por estos motivos, hay que valorar correctamente los datos disponibles para aplicar el método más preciso, y si fuese posible, utilizar simultáneamente varios métodos para poder comparar los resultados obtenidos, además de valorar críticamente los resultados y comprobar si se ajustan a la realidad (AU)</dc:description>
+<dc:source>Rev Esp Salud Publica;91: 0-0, 2017. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-167271</dc:identifier>
+<dc:title xml:lang="es">Métodos indirectos para la estimación de poblaciones ocultas</dc:title>
+<dc:subject>^d28615^s22045</dc:subject>
+<dc:subject>^d28441^s22083</dc:subject>
+<dc:subject>^d28455^s22083</dc:subject>
+<dc:subject>^d16128</dc:subject>
+<dc:subject>^d34900</dc:subject>
+<dc:subject>^d28597^s22083</dc:subject>
+<dc:subject>^d24811</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28441^s22049</dc:subject>
+<dc:subject>^d37735^s22083</dc:subject>
+<dc:subject>^d24584</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201700</dc:date>
+</metadata>
+</record>
+</ibecs-document>

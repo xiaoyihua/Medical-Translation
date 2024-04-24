@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-822</identifier>
+<setSpec>0009-739X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Predictive factors for colorectal cancer recurrence</dc:title>
+<dc:creator>Nogués, E</dc:creator>
+<dc:creator>Marchena, J</dc:creator>
+<dc:creator>Gómez, G</dc:creator>
+<dc:creator>García Anguiano, F</dc:creator>
+<dc:creator>Martín, J. A</dc:creator>
+<dc:creator>Hernández, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Introducción. El seguimiento estrecho y no selectivo de todos los pacientes intervenidos de cáncer colorrectal (CCR) supone un gran consumo de recursos y tiempo, cuya necesidad se ha cuestionado. Sería ideal conocer a priori a aquellos pacientes con mayor probabilidad de recidiva que serían los que verdaderamente se van a beneficiar de una estrecha vigilancia. Objetivos. Definir una población de alto riesgo de recidiva de CCR según parámetros comúnmente empleados en la clínica y laboratorio. Pacientes y método. Estudio retrospectivo, descriptivo y longitudinal de 398 pacientes intervenidos de CCR en nuestra institución entre 1988 y 1995. Se recogieron los datos correspondientes a filiación, antecedentes personales, síntomas clínicos relevantes (masa palpable, anemia, perforación, oclusión); datos de laboratorio; marcadores tumorales, localización del tumor, tipo y carácter de la intervención, estadio TNM, grado de diferenciación, presencia de mucina, transfusiones perioperatorias, complicaciones postoperatorias, infecciones, recidiva y supervivencia libre de enfermedad. El tiempo medio de seguimiento fue de 33,6 meses. Se analizó la relación de estas variables con la supervivencia libre de recidiva mediante el test de rangos logarítmicos. Posteriormente, se introdujeron las variables significativas en un modelo de regresión de Cox para determinar los factores pronósticos independientes que se relacionaban con la recidiva. Resultados. La muestra estudiada constaba de 398 pacientes, 204 varones (51,4 por ciento) y 194 mujeres (48,7 por ciento); edad media: 65,30 años (rango: 21-91) (DE: 13,46; IC del 95 por ciento: 63,98-66,63). Recidivaron 85 pacientes (21,4 por ciento), siendo la probabilidad de estar libre de recidiva a los 5 años del 63,47 por ciento. En el análisis bivariante se relacionaron con la recidiva de forma estadísticamente significativa los siguientes parámetros: edad (p = 0,007); clínica de complicación (perforación/oclusión) (p = 0,009); valores de GGT (p = 0,02); CEA alterado (p = 0,04); localización rectal (p = 0,03); cirugía urgente (p = 0,01); penetración transmural (p = 0,001); ganglios afectados (p = 0,0001) y absceso de pared (p = 0,0005). El resto de los parámetros no se relacionó con la recidiva. En el análisis multivariante permanecieron como factores predictivos independientes los siguientes: edad (p = 0,02; OR = 0,98); valores de GGT (p = 0,001; OR = 3,15); localización en recto (p = 0,04; OR = 2,03); absceso de pared (p = 0,04; OR = 1,9), y afecció ganglionar (p = 0,0001; OR = 4,72).Conclusiones. La identificación de una población de alto riesgo de recidiva tumoral podría permitir un seguimiento postoperatorio más selectivo con vistas a disminuir recursos y costes (AU)</dc:description>
+<dc:source>Cir. Esp. (Ed. impr.);70(6): 267-273, dic. 2001. tab, ilus</dc:source>
+<dc:identifier>ibc-822</dc:identifier>
+<dc:title xml:lang="es">Factores predictivos de la recidiva de cáncer colorrectal</dc:title>
+<dc:subject>^d24373</dc:subject>
+<dc:subject>^d24339^s22045</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d11622</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d28630</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d9557^s22012</dc:subject>
+<dc:subject>^d23595^s22009</dc:subject>
+<dc:subject>^d14294^s29166</dc:subject>
+<dc:subject>^d9557^s22016</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d23595^s22016</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d23595^s22047</dc:subject>
+<dc:subject>^d23595^s22032</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200112</dc:date>
+</metadata>
+</record>
+</ibecs-document>

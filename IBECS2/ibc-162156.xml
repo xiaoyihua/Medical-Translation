@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-162156</identifier>
+<setSpec>1132-9483</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Withdrawal behaviors and mental health among college students</dc:title>
+<dc:description xml:lang="en">Youth social withdrawal has raised clinical concerns, and prevention of withdrawal behavior is important yet difficult. While human evaluation of withdrawal behavior can be subjective, technology provides objective measurement for withdrawal behavior. This study aims to examine the association between withdrawal behaviors (home-stay and non-communication) and mental health status (stress, depression and loneliness). The open-access StudentLife dataset, including the location and conversation information derived from the sensor data, stress levels, and pre- and post-questionnaires of depression (PHQ-9) and loneliness (RULS) of 47 college students over 10 weeks was used. Multilevel modeling and functional regression were employed for data analysis. Daily duration of home-stay was negatively associated with daily stress levels, and the interaction effect of daily duration of home-stay and non-communication were positively associated with daily stress levels and changes in PHQ-9 and RULS scores. Smartphone data is useful to provide adjunct information to the professional clinical judgement and early detection on withdrawal behavior (AU)</dc:description>
+<dc:creator>Cao, Jiannong</dc:creator>
+<dc:creator>Li, Chun-Tung</dc:creator>
+<dc:creator>Wong, Paul WC</dc:creator>
+<dc:creator>Li, Tim MH</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">El aislamiento social de los jóvenes ha generado preocupaciones clínicas y prevenir estos comportamientos es importante pero difícil. Aunque la evaluación del aislamiento puede ser subjetiva, la tecnología proporciona medidas objetivas de este comportamiento. El objetivo de este estudio es examinar la asociación entre los comportamientos de aislamiento (permanecer en casa y no comunicarse) y el estado de la salud mental (estrés, depresión y soledad). Se utilizó la base de datos de libre acceso StudentLife, incluyendo información sobre la ubicación y la conversación registrada por un sensor de datos, los niveles de estrés y medidas de autoinforme pre y pos sobre depresión (PHQ-9) y soledad (RULS) de 47 estudiantes universitarios durante 10 semanas. Para el análisis de datos se utilizaron modelos multinivel y la regresión funcional. La duración diaria de la permanencia en casa estaba negativamente asociada con los niveles diarios de estrés y el efecto de interacción de la duración diaria de la permanencia en casa y la falta de comunicación estaban positivamente relacionados con los niveles diarios de estrés y los cambios en las puntuaciones en PHQ-9 y RULS. Los datos del teléfono inteligente son útiles para obtener información complementaria al juicio clínico profesional y para la detección temprana de los comportamientos de aislamiento (AU)</dc:description>
+<dc:source>Psicol. conduct;25(1): 99-109, 2017. mapas, tab, ilus</dc:source>
+<dc:identifier>ibc-162156</dc:identifier>
+<dc:title xml:lang="es">Comportamientos de aislamiento y salud mental en estudiantes universitarios</dc:title>
+<dc:subject>^d12031^s22039</dc:subject>
+<dc:subject>^d3173</dc:subject>
+<dc:subject>^d3883^s22056</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d38340</dc:subject>
+<dc:subject>^d13316^s22056</dc:subject>
+<dc:subject>^d51868</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d54836^s22074</dc:subject>
+<dc:subject>^d8308^s22056</dc:subject>
+<dc:subject>^d13703^s22056</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201700</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-152352</identifier>
+<setSpec>2253-654X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Glycolytic activity in breast cancer using 18F-FDG PET/CT as prognostic predictor: A molecular phenotype approach</dc:title>
+<dc:description xml:lang="en">Objetivo. Analizar la relación entre la captación basal de 18F-FDG en tumores mamarios y la supervivencia en pacientes con cancer de mama (CM) bajo la aproximación del fenotipo molecular. Material y métodos. Este estudio prospectivo y multicentrico incluyó 193 mujeres diagnosticadas de CM. Todas las pacientes fueron sometidas a una 18F-FDG PET/TC previa al tratamiento. Se obtuvo el SUVmax en el tumor (T), ganglios linfáticos (N) así como el índice N/T en todos los casos. Además se determinó el estadio metabólico. Atendiendo a los factores biológicos pronósticos, los tumores fueron clasificados en subtipos moleculares y categorias de riesgo. Se obtuvo tanto la supervivencia global (SG) como la supervivencia libre de enfermedad (SLE). Se estudió la relación entre los parámetros metabólicos semicuantitativos con los fenotipos moleculares y las categorías de riesgo. Se analizó el efecto del subtipo molecular y las categorías de riesgo en el pronóstico mediante análisis de Kaplan&#150;Meier y test uni y multivariantes. Resultados. Se encontraron diferencias estadísticamente significativas en tanto el SUVT como el SUVN, deacuerdo a los fenotipos moleculares y las categorías de riesgo, con valores mayores en los tumores biológicamente más agresivos. No se observaron diferencias con respecto al índice N/T. El análisis de Kaplan&#150;Meier reveló que las categorías de riesgo se relacionaron de forma significativa con la SG y SLE. En el análisis multivariante, el estadio metabólico y la categoría de riesgo mostraron asociación significativa con la SLE. Conclusion. La categoría de alto riesgo manifestó un peor pronóstico con respecto a las otras categorías, con mayores valores de SUVmax tanto en el tumor primario como en ganglios linfáticos (AU)</dc:description>
+<dc:creator>Soriano Castrejón, A</dc:creator>
+<dc:creator>Espinosa Aunion, R</dc:creator>
+<dc:creator>Muñoz Madero, V</dc:creator>
+<dc:creator>Garcia Vicente, AM</dc:creator>
+<dc:creator>Muñoz Sanchez, MM</dc:creator>
+<dc:creator>Lopez Fidalgo, JF</dc:creator>
+<dc:creator>Alvarez Cabellos, R</dc:creator>
+<dc:creator>Amo-Salas, M</dc:creator>
+<dc:language>en</dc:language>
+<dc:source>Rev. esp. med. nucl. imagen mol. (Ed. impr.);35(3): 152-158, mayo-jun. 2016. tab, graf, ilus</dc:source>
+<dc:identifier>ibc-152352</dc:identifier>
+<dc:title xml:lang="es">Actividad glicolítica en el cancer de mama mediante 18F-FDG PET/TC como predictor pronóstico: aproximación del fenotipo molecular</dc:title>
+<dc:subject>^d8375^s22053</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d52438</dc:subject>
+<dc:subject>^d8375^s29166</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29640</dc:subject>
+<dc:subject>^d55117^s22066</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d55117^s22045</dc:subject>
+<dc:subject>^d1968^s29166</dc:subject>
+<dc:subject>^d23924^s22031</dc:subject>
+<dc:subject>^d32281</dc:subject>
+<dc:subject>^d23924^s22044</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d13915^s22031</dc:subject>
+<dc:subject>^d33478^s22002</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201606</dc:date>
+</metadata>
+</record>
+</ibecs-document>

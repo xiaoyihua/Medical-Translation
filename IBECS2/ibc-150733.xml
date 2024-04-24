@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-150733</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Comparison of clinical categories for Escherichia coli harboring specific qnrand chromosomal-mediated fluoroquinolone resistance determinants according to CLSI and EUCAST</dc:title>
+<dc:description xml:lang="en">EUCAST breakpoints are more restrictive than those defined by CLSI. This study highlights the discrepancies between CLSI and EUCAST in a well characterized isogenic Escherichia coli collection and their correlations with specific quinolone resistance mechanisms. The greatest number of discrepancies was observed in strains containing 2&#150;4 resistance mechanisms (MIC values on the borderline of clinical resistance). Bearing in mind that quinolones are concentration dependent antimicrobial agents, small changes in MIC may have relevant consequences for treatment outcomes (AU)</dc:description>
+<dc:creator>Machuca, Jesús</dc:creator>
+<dc:creator>Martínez-Martínez, Luis</dc:creator>
+<dc:creator>Briales, Alejandra</dc:creator>
+<dc:creator>Pascual, Álvaro</dc:creator>
+<dc:creator>Rodríguez-Martínez, José-Manuel</dc:creator>
+<dc:creator>Díaz-de-Alba, Paula</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Los puntos de corte de EUCAST son más restrictivos que los definidos por CLSI. Este estudio analiza las discrepancias entre CLSI y EUCAST en una colección isogénica de Escherichia coli y su correlación con mecanismos específicos de resistencia a quinolonas. El mayor número de discrepancias se observó en cepas que contienen 2&#150;4 mecanismos de resistencia (con CMI en el límite de la resistencia clínica). Teniendo en cuenta que las quinolonas son agentes antimicrobianos concentración-dependientes, pequeños cambios en el valor de la CMI pueden tener consecuencias relevantes para el resultado del tratamiento (AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;34(3): 188-190, mar. 2016. graf</dc:source>
+<dc:identifier>ibc-150733</dc:identifier>
+<dc:title xml:lang="es">Comparación de las categorías clínicas de cepas de Escherichia coli que contienen definidos mecanismos cromosómicos y plasmídicos de resistencia a quinolonas según CLSI y EUCAST</dc:title>
+<dc:subject>^d22165^s22038</dc:subject>
+<dc:subject>^d5016^s22052</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d36060^s22073</dc:subject>
+<dc:subject>^d5017^s22057</dc:subject>
+<dc:subject>^d24244^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201603</dc:date>
+</metadata>
+</record>
+</ibecs-document>

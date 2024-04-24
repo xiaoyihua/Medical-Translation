@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-133809</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Quality of the Spanish Vital Statistics to Estimate Perinatal Health Outcomes: Small and Large for Gestational Age</dc:title>
+<dc:description xml:lang="en">Background: Relative measures of birthweight (small and large-for-gestational age, SGA-LGA) are increasingly preferred to absolute measures (low birthweight, macrosomia). In this study we assess whether the national vital statistics provided by the Spanish National Statistical Institute (INE) reliably estimate SGA and LGA. Also, we will assess whether missing data (selection) and misreported information (bias) are systematically associated with parental socioeconomic information. Methods: We linked the information on 6,339 births at the Hospital Clínico San Carlos of Madrid (2005-06) with the vital statistics records (successful for the 95% of the observation). Validity measures and concordance were estimated for low birthweight (LBW, &lt;2500 gr), macrosomia (&gt;4500 gr), SGA (&lt;10th percentile) and LGA (&gt;90 percentile). Logistic regressions were fitted. Results: The prevalence estimated with the hospital data were: LBW (6%), macrosomia (0.5%) SGA (1%) and LGA (15%) and, with the data from INE: 5% 0.5% 2% 12% respectively. Kappa statistics: LBW (83%), macrosomia (79%), PEG (24%) and LGA (82%). Missing and misreported data vary with parental nationality and their situation in the labor market (OR between 1.5 y 2.2). Conclusions: Vital statistics overestimate the prevalence of SGA and underestimate the prevalence of LGA. The concordance between the sources is very good for low birthweight, macrosomia and LGA, and moderately good for SGA. Both missing and misreported birthweight and gestational age are associated with parental socioeconomic characteristics (AU)</dc:description>
+<dc:creator>Pía Juárez, Sol</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamentos: Los indicadores perinatales de peso relativo como pequeño y grande para la edad gestacional (PEG, GEG) son preferibles frente a medidas de peso absolutas (bajo peso, macrosomia). El objetivo de esta investigación fue evaluar si los datos del Instituto Nacional de Estadística (INE) tienen la fiabilidad suficiente para estimar indicadores de peso relativo y si la calidad de la información que comunican los progenitores varía según sus características sociodemográficas. Métodos: Se comparó la información de 6.339 nacimientos del Hospital Clínico San Carlos de Madrid (2005-06) con el registro de nacimientos del INE (con un éxito del 95%). Se evaluaron medidas de validación y acuerdo para los indicadores de bajo peso (BP &lt;2500 gr), macrosomia (&gt;4.500 gr), PEG (&lt;percentil 10) y GEG (&gt;percentil 90). Se realizó un análisis de regresión logísticas. Resultados: Las prevalencias estimadas con los datos del hospital fueron: BP (6%), macrosomia (0,5%) PEG (1%) y GEG (15%) y con datos del INE: 5% 0,5% 2% 12%, respectivamente. La especificidad: 80%, 78%, 24%, 82%. El estadístico Kappa: BP (83%), macrosomia (79%), PEG (24%) y GEG (82%). La omisión e incorrecta declaración varió según la nacionalidad y la situación laboral de los padres (OR entre 1,5 y 2,2). Conclusiones: El INE sobreestimaría la prevalencia de PEG e infraestimaría la de GEG. El acuerdo entre las fuentes es muy bueno para BP, macrosomia y GEG y moderadamente bueno para PEG. Tanto la omisión como los errores en la declaración del peso y la edad gestacional varían en función de las características sociodemográficas de los padres (AU)</dc:description>
+<dc:source>Rev Esp Salud Publica;89(1): 85-91, ene.-feb. 2015. tab</dc:source>
+<dc:identifier>ibc-133809</dc:identifier>
+<dc:title xml:lang="es">Calidad de los datos del Instituto Nacional de Estadística para la elaboración de los indicadores de salud perinatal: pequeño y grande para su edad gestacional</dc:title>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22225</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d1748</dc:subject>
+<dc:subject>^d28585</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d22229</dc:subject>
+<dc:subject>^d22226</dc:subject>
+<dc:subject>^d22227</dc:subject>
+<dc:subject>^d19165^s22080</dc:subject>
+<dc:subject>^d28618</dc:subject>
+<dc:subject>^d52870</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201502</dc:date>
+</metadata>
+</record>
+</ibecs-document>

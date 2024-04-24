@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-151713</identifier>
+<setSpec>0212-9728</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Differences between Cronbach&#146;s alpha coefficients, with small samples and parts: A VB program</dc:title>
+<dc:description xml:lang="en">This paper presenting a computer program written in VB 6.0, to calculate the difference between internal consistency coefficients (Cronbach&#146;s alpha) obtained in independent small samples and with instruments have a small number of parts or items. The comparison of reliability coefficients allow to identify possible differences in amount of measurement error in instruments; this methodology use the hypothesis testing approach for test the null hypothesis of equally reliability coefficients. This situation is tending to be common in clinical practice between psychologists or allied career, and even in the construction phases of instruments of measurement, for example in pilot samples. The proposed technique is from the work of Feldt and Kim (2006), and offers a viable and interesting methodological proposal that expands the analysis of the reliability of instruments of psychological and educational measurement (AU)</dc:description>
+<dc:creator>Merino-Soto, César</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Se presenta un programa informático escrito en VB 6.0, para calcular la diferencia entre coeficientes de consistencia interna (alfa de Cronbach), obtenidos en muestras pequeñas independientes y/o con instrumentos que poseen un número también pequeño de partes o ítems. La comparación de coeficientes de fiabilidad permite identificar posibles diferencias en el tamaño del error de medición en los instrumentos comparados; esta metodología usa el enfoque de prueba de hipótesis, probando la hipótesis nula de igualdad de los coeficientes. Esta condición tiende a ser frecuente en la práctica clínica entre psicólogos y profesiones aliadas, e inclusive en las fases de construcción de instrumentos de medición, por ejemplo en muestras piloto. La técnica aplicada proviene del trabajo de Feldt y Kim (2006), y ofrece una viable e interesante propuesta metodológica que expande el análisis de la fiabilidad de instrumentos de medición psicológicos y educativos. Se presenta las características de su uso, y se discuten las condiciones apropiadas de aplicación (AU)</dc:description>
+<dc:source>An. psicol;32(2): 587-588, mayo 2016.</dc:source>
+<dc:identifier>ibc-151713</dc:identifier>
+<dc:title xml:lang="es">Diferencias entre coeficientes alfa de Cronbach, con muestras y partes pequeñas: Un programa VB</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28584</dc:subject>
+<dc:subject>^d28583</dc:subject>
+<dc:subject>^d28575</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201605</dc:date>
+</metadata>
+</record>
+</ibecs-document>

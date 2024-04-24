@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-88454</identifier>
+<setSpec>0001-6519</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">How to analyse a Vestibular Evoked Myogenic Potential? Applying a non-lineal method</dc:title>
+<dc:description xml:lang="en">Introduction: This article presents the investigation of the clinical utility of artificial neural networks as an alternative in interpreting vestibular evoked myogenic potential (VEMP). Methods: We developed an application that incorporates a neural network. This software reproduces and analyses the vestibular potential under study. The software also gives an estimated error for this process. Results: The correlation obtained in this study between the neural network and an experienced human observer was always above 95%. Conclusion: The neural network created offers useful, reliable interpretations of vestibular evoked myogenic potential, in agreement with current clinical parameters (AU)</dc:description>
+<dc:creator>Rama-López, Julio</dc:creator>
+<dc:creator>Pérez-Fernández, Nicolás</dc:creator>
+<dc:creator>Barona-De Guzmán, Rafael</dc:creator>
+<dc:creator>Rey-Martínez, Jorge</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: El propósito de este artículo es investigar la utilidad clínica de las redes neurales artificiales como alternativa a la interpretación del potencial evocado miogénico vestibular (VEMP). Métodos: Para ello se diseña una aplicación informática que implementa una red neural que reproduce e interpreta el potencial vestibular a estudio, ofreciendo un error estimado de su propia interpretación. Resultados: El grado de correlación obtenido en las distintas fases del trabajo entre la red neural y un observador experimentado se encontró siempre por encima del 95%. Conclusión: La red neural creada es válida para ofrecer una interpretación útil y fiable de los potenciales evocados miogénicos vestibulares según los criterios clínicos actuales (AU)</dc:description>
+<dc:source>Acta Otorrinolaringol Esp;62(2): 126-131, mar.-abr. 2011. ilus, tab</dc:source>
+<dc:identifier>ibc-88454</dc:identifier>
+<dc:title xml:lang="es">¿Cómo analizar un Potencial evocado Miogénico Vestibular? Aplicación de un método no lineal</dc:title>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d36345^s22031</dc:subject>
+<dc:subject>^d9608^s22031</dc:subject>
+<dc:subject>^d5169^s22031</dc:subject>
+<dc:subject>^d28304^s22037</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201104</dc:date>
+</metadata>
+</record>
+</ibecs-document>

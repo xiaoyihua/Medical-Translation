@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-34920</identifier>
+<setSpec>0034-7973</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Compatibility of results between two immunoassays for the measure of the total and free Prostate Specific Antigen</dc:title>
+<dc:creator>Riesco, C</dc:creator>
+<dc:creator>Barceló, B</dc:creator>
+<dc:creator>García, A</dc:creator>
+<dc:creator>Barceló, A</dc:creator>
+<dc:creator>Castanyer, B</dc:creator>
+<dc:creator>Pérez, G</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Editorial Siglo, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: evaluar la transferibilidad de los resultados de PSA total y libre medidos en dos inmunoensayos y las consecuencias prácticas que puede tener la elección de un ensayo. Material y métodos: 151 pacientes con sospecha de hiperplasia benigna de próstata (HBP) y/o con carcinoma prostático. El PSA total se determinó mediante los ensayos de ADVIA Centaur e Immulite 2000 y el PSA libre en el ACS 180 e Immulite 2000. Resultados: La media de los resultados del PSA total es mayor en el Immulite 2000 (p&lt;0.0001); la media de PSA libre )p&lt;0.0001) y del por cientoPSA libre (p&lt;0.0001) es menor en el Immulite 2000. Conclusiones: a) Los resultados de los dos ensayos evaluados no son intercambiables y demuestran la necesidad de realizar estudios de transferibilidad de resultados cuando se produce un cambio de método en el laboratorio. 2) Las discrepancias entre los ensayos podrían traducirse en diferencias clínicamente significativas (AU)</dc:description>
+<dc:source>Rev. diagn. biol;52(2): 80-83, abr. 2003. tab, graf</dc:source>
+<dc:identifier>ibc-34920</dc:identifier>
+<dc:title xml:lang="es">Transferibilidad de resultados entre dos ensayos para la medida del Antígeno Prostático Específico total y libre</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12437</dc:subject>
+<dc:subject>^d30596^s22002</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22512^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200304</dc:date>
+</metadata>
+</record>
+</ibecs-document>

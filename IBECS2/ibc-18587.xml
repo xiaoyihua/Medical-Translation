@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-18587</identifier>
+<setSpec>0034-7973</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Study of the effect of hemolisys in a basic coagulation panel</dc:title>
+<dc:creator>Aulesa, C</dc:creator>
+<dc:creator>Galimany, R</dc:creator>
+<dc:creator>Ruiz, G</dc:creator>
+<dc:creator>Durán, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Editorial Siglo, S.L.</dc:publisher>
+<dc:description xml:lang="es">Se han procesado 40 muestras de pacientes provenientes de cirugía ambulatoria con un perfil básico de coagulación compuesto por TP (tiempo de protrombina), TTPA (tiempo de tromboplastina parcial activado), fibrinógeno derivado, fibrinógeno VonClaus, TT (tiempo de trombina) y TR (tiempo de reptilase) y ATIII (antitrombina III). Seguidamente se ha realizado una hemólisis controlada "in vitro" de las muestras mediante la aplicación de ultrasonidos y se ha repetido el mismo perfil a las muestras hemolizadas, midiendo la cuantía de la hemólisis mediante la determinación de la Hemoglobina (mg/dl) del plasma sobrenadante. Aplicando la t de Student para muestras apareadas, entre los resultados de la muestra normal y la misma hemolizada se deduce que: las muestras hemolizadas muestran diferencias significativas en el TP medido por metodos ópticos a partir de 150 mg/dl de Hb. El fibrinógeno derivado, presenta descensos muy significativos de su concentración a partir de &gt;75 mg/dl Hb de hemólisis. El TT se ve afectado también significativamente por un pequeño grado de hemólisis. Finalmente se analiza las alternativas tecnológicas que ofrecen los analizadores actuales de coagulación, para la resolución de los problemas de hemólisis, como puede ser la posible utilización alternativa de los métodos mecánicos de medición de la coagulación, frente a los métodos ópticos más generalizados, estableciendo una normativa para la realización correcta, de las pruebas de coagulación de las muestras hemolizadas que nos llegan al Laboratorio Central, remitidas sobre todo, desde centros de extracción periféricos. (AU)</dc:description>
+<dc:source>Rev. diagn. biol;51(2): 54-59, abr. 2002. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-18587</dc:identifier>
+<dc:title xml:lang="es">Estudio de la influencia de la hemólisis en un perfil básico de coagulación</dc:title>
+<dc:subject>^d1804^s22031</dc:subject>
+<dc:subject>^d11383^s29165</dc:subject>
+<dc:subject>^d29407^s22045</dc:subject>
+<dc:subject>^d10505</dc:subject>
+<dc:subject>^d27942</dc:subject>
+<dc:subject>^d14302</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22179</dc:subject>
+<dc:subject>^d11957</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200204</dc:date>
+</metadata>
+</record>
+</ibecs-document>

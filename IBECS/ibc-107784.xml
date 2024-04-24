@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-107784</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Comparing the Digoxin Test With the Architect ®i1000sr System With Respect to the AxSYM® System</dc:title>
+<dc:description xml:lang="en">Objective To assess the technique employed by the autoanalyser Architect® i1000sr to determine digoxin in serum samples, compared with the assay developed for AsSYM® using microparticle enzyme immunoassay (Digoxin II).Method A prospective analysis of the samples from 100 requests to monitor patients being treated with digoxin. The samples were processed in AxSYM® and Architect®. The techniques were assessed using the linear regression coefficient, determination coefficient, mean absolute error, mean squared prediction error and the Bland-Altman method. Results The serum levels showed a correlation coefficient of 0.93. There was nearly a 40% difference for the concentrations between 0.8 and 2ng/ml and nearly 20% in the rest of the samples analysed. Conclusions The Architect® system is precise; however, from a clinical monitoring point of view, it is unacceptably inaccurate when compared with the AxSYM® (AU)</dc:description>
+<dc:creator>Alós Almiñana, M</dc:creator>
+<dc:creator>Roch Ventura, M. A</dc:creator>
+<dc:creator>Albert Vicent, E</dc:creator>
+<dc:creator>Ferriols Lisart, R</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo Evaluar en muestras séricas la técnica empleada por el autoanalizador Architect® i1000sr para la determinación de digoxina respecto al ensayo desarrollado para AxSYM® mediante enzimoinmuno análisis de micropartículas (DigoxinII).Método Análisis prospectivo de las muestras procedentes de 100 solicitudes de monitorización de pacientes en tratamiento con digoxina. Las muestras fueron procesadas en AxSYM® y Architect®. Las técnicas se evaluaron mediante el coeficiente de regresión lineal, el coeficiente de determinación, el error absoluto medio, el error cuadrático medio de predicción y el método de Bland-Altman. Resultados Las concentraciones séricas mostraron un coeficiente de correlación de 0,93. La diferencia se aproxima al 40% para concentraciones entre 0,8 y 2 ng/ml y al 20% en el resto de muestras analizadas. Conclusiones El sistema Architect® es preciso pero inexacto, en una magnitud inaceptable desde el punto de vista de la monitorización clínica respecto al AxSYM®(AU)</dc:description>
+<dc:source>Farm Hosp;35(5): 256-259, Sep. -Oct. 2011. ilus</dc:source>
+<dc:identifier>ibc-107784</dc:identifier>
+<dc:title xml:lang="es">Comparación del ensayo de digoxina con el sistema Architect ®i1000sr respecto al sistema AxSYM®</dc:title>
+<dc:subject>^d4116^s22062</dc:subject>
+<dc:subject>^d30150^s22045</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23224</dc:subject>
+<dc:subject>^d4116^s22079</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201110</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-049319</identifier>
+<setSpec>0300-2896</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Appropriateness of hospital admissions to a pulmonology department</dc:title>
+<dc:description xml:lang="en">Objectives: To analyze the rate of inappropriate admissions to a pulmonology department over the period of a year and to establish the reasons for such admission and predictors.         Patients and methods: All 2004 admissions to the pulmonology department of the Hospital de Valme were analyzed using a version of the Appropriateness Evaluation Protocol (AEP) developed for concurrent review. Two physicians who were not directly involved in admitting the patients performed the review. A logistic regression analysis was performed in order to identify the independent predictors of inappropriate hospital admission.                 Results: Of the 633 admissions analyzed, 92.1% (n=583) were appropriate and 7.9% (n=50) were inappropriate. The main reason for considering an admission to be inappropriate was that the patients in question could have been managed as outpatients (70%), whereas appropriate admissions were most frequently justified by the need for parenteral treatment (76.3%) or respiratory therapy (62%). In the logistic regression analysis, the variables that were independently associated with inappropriate admission were nonurgent admission (odds ratio, 2.82; 95% confidence interval, 1.28-6.21; P=.01), and a neoplasia diagnosis as the reason for admission (odds ratio, 8.57; 95% confidence interval, 2.69-27.24; P&lt;.0005).                 Conclusions: The rate of inappropriate hospital admissions was lower than that reported in other studies. Most inappropriate admissions were of patients who could have been managed as outpatients. An admission diagnosis of neoplasm and nonurgent admission were independent predictors of inappropriateness</dc:description>
+<dc:creator>Campos Rodríguez, Francisco</dc:creator>
+<dc:creator>Muñoz Lucena, Francisco</dc:creator>
+<dc:creator>Cruz Morón, Inés de la</dc:creator>
+<dc:creator>Tejedor Fernández, Martín</dc:creator>
+<dc:creator>Díaz Martínez, Araceli</dc:creator>
+<dc:creator>López Rodríguez, Luis</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Analizar la tasa de inadecuación de ingresos en un servicio de neumología a lo largo de un año y conocer las causas que motivan dicha inadecuación, así como las variables predictoras de ésta.                 Pacientes y métodos: Se analizaron todos los ingresos del Servicio de Neumología del Hospital de Valme durante 2004 aplicando una versión concurrente del Appropriateness Evaluation Protocol (AEP). Realizaron la evaluación 2 facultativos no implicados en el ingreso de los pacientes. Se efectuó un análisis de regresión logística para determinar las variables que predecían la inadecuación de forma independiente.                 Resultados: Se analizaron 633 ingresos, de los que el 92,1% (n = 583) fueron adecuados y el 7,9% (n = 50) inadecuados. La causa principal de inadecuación fue el ingreso de pacientes que podrían haber sido manejados ambulatoriamente (70%), mientras que los criterios que con más frecuencia justificaron la adecuación del ingreso fueron la necesidad de tratamiento parenteral (76,3%) y las terapias respiratorias (62%). Las variables que se relacionaron de forma independiente con la inadecuación en la regresión logística fueron el ingreso no urgente (odds ratio = 2,82; intervalo de confianza del 95%, 1,28-6,21; p = 0,01) y el diagnóstico de neoplasia como motivo de ingreso (odds ratio = 8,57; intervalo de confianza del 95%, 2,69-27,24; p &lt; 0,0005).                 Conclusiones: La tasa de inadecuación de ingresos fue baja en comparación con otros estudios y se debió sobre todo al ingreso de pacientes que podían haber sido manejados ambulatoriamente. La neoplasia como diagnóstico de ingreso y los ingresos no urgentes fueron predictores independientes de inadecuación</dc:description>
+<dc:source>Arch Bronconeumol;42(9): 440-445, sept. 2006. tab</dc:source>
+<dc:identifier>ibc-049319</dc:identifier>
+<dc:title xml:lang="es">Adecuación de los ingresos hospitalarios en un servicio de neumología</dc:title>
+<dc:subject>^d28841</dc:subject>
+<dc:subject>^d^s22083</dc:subject>
+<dc:subject>^d6913^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d23806</dc:subject>
+<dc:subject>^d10537^s22083</dc:subject>
+<dc:subject>^d6916^s22083</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d10537^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200609</dc:date>
+</metadata>
+</record>
+</ibecs-document>

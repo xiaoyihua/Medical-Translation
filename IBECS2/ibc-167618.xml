@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-167618</identifier>
+<setSpec>0212-8799</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Effects of different automatic filters on the analysis of heart rate variability with Kubios HRV software</dc:title>
+<dc:description xml:lang="en">Background and objective:  Heart rate variability (HRV) can provide useful information on different physiological situations. The aim of this study was to analyse heart rate variability (HRV) indices following the application of different filters included in a widely used analysis program. Material and method: 30 measurements were recorded of the heart rate signal of professional footballers. HRV was recorded in a sitting position, early morning and fasting. The HR monitor Firstbeat Bodyguard recorded HR data for 10 minutes during every measurement and Kubios(R) software imported and analysed all RR intervals. Each recording was analysed without a filter (none) and subsequently with each of the five different filters (very low=0.45 sec. low=0.35 sec. medium=0.25 sec. strong=0.15 sec. very strong=0.05 sec). The variables analysed pertained to time domain (standard deviation of RR intervals (SDNN), the square root of the mean of the squares of the differences between adjacent RR intervals (rMSSD) and the number of pairs of adjacent RR intervals that differ by over 50ms in the whole recording, divided by the total number of RR intervals and expressed as a percentage (pNN50)); frequency domain (high frequency HF, low frequency LF, very low frequency VLF, both in terms of power and peak frequency); the diameters of the Poincaré plot (SD1 and SD2); as well as the internal complexity of the signal, Detrended Fluctuation Analysis (&amp;#945;1 and &amp;#945;2) and approximate and sample entropy (ApEn and SampEn). Results: A significant difference was only found for rMSSD, pNN50, LF power and HF power and SD1 when comparing the analysis of the no filter recording with the very strong filter. Conclusion: The filtering system provided by the Kubios(R) software to treat the artefacts did not affect the values of the HRV indices analysed, except when the "very strong" filter was applied (AU)</dc:description>
+<dc:creator>Cruz,  Blanca de la</dc:creator>
+<dc:creator>Aranda, Carmen</dc:creator>
+<dc:creator>Naranjo, Jose</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Introducción y objetivo: La Variabilidad de la Frecuencia Cardiaca (VFC) puede proporcionar información útil sobre diferentes situaciones fisiológicas. El objetivo de este estudio fue analizar los índices de variabilidad de la frecuencia cardiaca (VFC) tras la aplicación de diferentes filtros incluidos en un programa de análisis utilizado.Material y método: Se registraron 30 mediciones de la señal del rimo cardíaco, pertenecientes a futbolistas profesionales. La VFC se registró en una posición sentada, por la mañana y en ayunas. Se realizó un registro de 10 min de duración con el monitor de ritmo cardiaco Firstbeat Bodyguard y todos las series de intervalos RR fue importada y analizada con el software Kubios(R). Cada serie de tiempo se analizó sin un filtro (ninguno) y posteriormente con cada uno de los cinco filtros diferentes (Muy bajo = 0,45 seg. Bajo = 0,35 seg. Medio = 0,25 seg. Fuerte = 0,15 seg. = Muy fuerte 0,05 seg). Las variables analizadas pertenecen al dominio de tiempo (desviación estándar de los intervalos RR (SDNN), la raíz cuadrada de la media de los cuadrados de las diferencias entre intervalos adyacentes RR (rMSSD) y el número de pares de intervalos RR adyacentes que difieren en más de 50 ms en toda la grabación, dividido por el número total de intervalos RR y expresada como un porcentaje (pNN50)); al dominio de la frecuencia (HF: alta frecuencia, LF: baja frecuencia y VLF: muy baja frecuencia, tanto en términos de potencia y la frecuencia de pico); los diámetros del gráfico de Poincaré (SD1 y SD2); así como la complejidad interna de la señal, con el análisis de la fluctuaciones sin tendencias (&amp;#945;1 y &amp;#945;2) y entropía aproximada y muestral (ApEn y SampEn). Resultados:Se encontró sólo diferencia significativa en rMSSD, pNN50, HF y LF en términos de potencia y SD1 cuando se compararon los registros al aplicar el filtro muy fuerte con sin filtro. Conclusión: El sistema de filtrado proporcionada por el software Kubios(R) para tratar los artefactos no afectó a los valores de los índices de VFC analizados, excepto cuando se aplicó el filtro "muy fuerte" (AU)</dc:description>
+<dc:source>Arch. med. deporte;34(180): 196-200, jul.-ago. 2017. tab</dc:source>
+<dc:identifier>ibc-167618</dc:identifier>
+<dc:title xml:lang="es">Efecto de los diferentes filtros automáticos en el análisis de la variabilidad de la frecuencia cardiaca con el software Kubios HRV</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d2361</dc:subject>
+<dc:subject>^d13298^s22031</dc:subject>
+<dc:subject>^d9183^s22039</dc:subject>
+<dc:subject>^d^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6493^s22031</dc:subject>
+<dc:subject>^d53386</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d19245</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201708</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-146973</identifier>
+<setSpec>0210-4806</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Baseline PSA in a Spanish male population aged 40-49 years anticipates detection of prostate cancer</dc:title>
+<dc:description xml:lang="en">Introduction: We researched the usefulness of optimizing prostate cancer (PC) screening in our community using baseline PSA readings in men between 40-49 years of age. Material and method: A retrospective study was performed that analyzed baseline PSA in the fifth decade of life and its ability to predict the development of PC in a population of Madrid (Spain). An ROC curve was created and a cutoff was proposed. We compared the evolution of PSA from baseline in patients with consecutive readings using the Friedman test. We established baseline PSA ranges with different risks of developing cancer and assessed the diagnostic utility of the annual PSA velocity (PSAV) in this population. Results: Some 4,304 men aged 40-49 years underwent opportunistic screening over the course of 17 years, with at least one serum PSA reading (6,001 readings) and a mean follow-up of 57.1 ± 36.8 months. Of these, 768 underwent biopsy of some organ, and 104 underwent prostate biopsy. Fourteen patients (.33%) were diagnosed with prostate cancer. The median baseline PSA was .74 (.01&#150;58.5) ng/mL for patients without PC and 4.21 (.76&#150;47.4) ng/mL for those with PC. The median time from the reading to diagnosis was 26.8 (1.5&#150;143.8) months. The optimal cutoff for detecting PC was 1.9 ng/mL (sensitivity, 92.86%; specificity, 92.54%; PPV, 3.9%; NPV, 99.97%), and the area under the curve was 92.8%. In terms of the repeated reading, the evolution of the PSA showed no statistically significant differences between the patients without cancer (p=.56) and those with cancer (P = .64). However, a PSAV value &gt; .3 ng/mL/year revealed high specificity for detecting cancer in this population. Conclusions: A baseline PSA level &amp;#8805; 1.9 ng/mL in Spanish men aged 40-49 years predicted the development of PC. This value could therefore be of use for opportunistic screening at an early age. An appropriate follow-up adapted to the risk of this population needs to be defined, but an annual PSAV &amp;#8805; .3 ng/mL/year appears of use for reaching an early diagnosis (AU)</dc:description>
+<dc:creator>Angulo, JC</dc:creator>
+<dc:creator>Luján, M</dc:creator>
+<dc:creator>Ramón de Fata, F</dc:creator>
+<dc:creator>Granados, R</dc:creator>
+<dc:creator>Viñas, MA</dc:creator>
+<dc:creator>Gimbernat, H</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: Investigamos en nuestro entorno la utilidad de optimizar el cribado de cáncer de próstata (CaP) mediante determinación de PSA basal en varones entre 40-49 años. Material y método: Estudio retrospectivo que analiza el PSA basal en la quinta década y su capacidad para predecir desarrollo de CaP en una población de Madrid (España). Se realiza curva ROC y se propone un punto de corte. Se compara la evolución del PSA desde basal en pacientes con determinaciones consecutivas mediante el test de Friedman. Se establecen rangos de PSA basal con diferente riesgo de desarrollo de cáncer y se evalúa la utilidad diagnóstica de la velocidad de PSA (VPSA) anual en esta población. Resultados: Un total de 4.304 varones de 40-49 años fueron sometidos a cribado oportunista a lo largo de 17 años, con al menos una determinación sérica de PSA (6.001 determinaciones) y con seguimiento medio de 57,1 ± 36,8 meses. A 768 se les practicó biopsia de algún órgano y a 104 biopsia prostática. Catorce pacientes (0,33%) fueron diagnosticados de cáncer de próstata. La mediana de PSA basal fue 0,74 ng/ml (0,01-58,5) para pacientes sin CaP y 4,21 ng/ml (0,76-47,4) con CaP. La mediana de tiempo desde la determinación hasta el diagnóstico fue 26,8 meses (1,5-143,8). El punto de corte óptimo para detectar CaP fue 1,9 ng/ml (sensibilidad 92,86%, especificidad 92,54%, VPP 3,9%, VPN 99,97%) y el área bajo la curva 92,8%. Respecto a las determinaciones repetidas, la evolución del PSA no mostró diferencias estadísticamente significativas entre pacientes sin cáncer (p = 0,56) o con cáncer (p = 0,64); pero un valor de VPSA &gt; 0,3 ng/ml/año revela elevada especificidad para detectar cáncer en esta población. Conclusiones: Un PSA basal &amp;#8805; 1,9 ng/ml en varones españoles de 40-49 años predice el desarrollo de CaP, por lo que podría resultar de utilidad para el cribado oportunista en edad temprana. Se necesita definir un seguimiento apropiado adaptado al riesgo en esta población, pero una VPSA anual &amp;#8805; 0,3 ng/ml/año parece de utilidad para conseguir un diagnóstico temprano (AU)</dc:description>
+<dc:source>Actas Urol Esp;39(10): 605-611, dic. 2015. tab, graf</dc:source>
+<dc:identifier>ibc-146973</dc:identifier>
+<dc:title xml:lang="es">El PSA basal en una población de varones españoles de 40-49 años anticipa la detección de cáncer de próstata</dc:title>
+<dc:subject>^d25123^s22045</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d28614</dc:subject>
+<dc:subject>^d1731^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d38340</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d30596^s22002</dc:subject>
+<dc:subject>^d30596^s22001</dc:subject>
+<dc:subject>^d11914^s22016</dc:subject>
+<dc:subject>^d30596^s22044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201512</dc:date>
+</metadata>
+</record>
+</ibecs-document>

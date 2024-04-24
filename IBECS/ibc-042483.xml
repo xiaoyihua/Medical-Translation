@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-042483</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Influence of shear stress on in-stent restenosis: in vivo study using 3D reconstruction and computational fluid dynamics</dc:title>
+<dc:description xml:lang="en">Introduction and objectives. Local factors may influence neointimal proliferation following conventional stent implantation. In this study, the relationship between wall shear stress and luminal loss after coronary stenting was assessed using a combination of angiography, intravascular ultrasound, and computational fluid dynamics. Patients and method. Seven patients with de novo right coronary lesions treated with conventional (i.e., bare metal) stents were included. Realistic three-dimensional geometric reconstructions were generated offline from angiographic and intravascular ultrasound data both immediately after stenting and at 6-month follow-up. A finite-volume model was used to calculate local wall shear stress within the stent and 4 mm proximally and distally to the stent. The mean coronary ostium entry flow velocity was assumed to be 25 cm/s in all cases. Results. The mean neointimal thickness was 0.29 (0.21) mm. In five cases, weak negative correlations between wall shear stress and neointimal thickness were found: maximum r value =­-0.34, minimum r value = -­0.11 (P&lt;.001). The neointimal thickness in segments in which the level of wall shear stress was in the lowest quartile was greater than that in segments in which it was in highest quartile, at 0.34 (0.21) mm and 0.27 (0.24) mm (P&lt;.001) for quartiles 1 and 4, respectively. Conclusions. Low wall shear stress after stenting favors neointimal proliferation both within the stent and at the stent's edges</dc:description>
+<dc:creator>Goicolea, Javier</dc:creator>
+<dc:creator>García, Carlos</dc:creator>
+<dc:creator>Crespo, Antonio</dc:creator>
+<dc:creator>Rodríguez, Javier</dc:creator>
+<dc:creator>Sanmartín, Marcelo</dc:creator>
+<dc:creator>García, Javier</dc:creator>
+<dc:creator>Goicolea, José M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos. Los factores locales pueden influir en la proliferación neointimal tras la implantación de stents convencionales. En este estudio se evalúa la relación entre la tensión de cizallamiento y la pérdida luminal tras la colocación de stents en las arterias coronarias, utilizando la combinación de angiografía, ecografía intravascular y cálculo computacional de la dinámica de fluidos. Pacientes y método. Se incluyó a 7 pacientes con lesiones de novo en las arterias coronarias derechas tratadas con stents convencionales (no recubiertos de fármacos). Se realizó una reconstrucción tridimensional real, basada en la angiografía y en la ecografía intracoronaria, realizada offline tras la angioplastia y a los 6 meses. Mediante el modelo de volúmenes finitos se calculó la tensión de cizallamiento localmente, en el interior del segmento con stent y en los 4 mm proximales y distales, tomando como velocidad de entrada en el ostium coronario un valor de 25 cm/s. Resultados. El grosor neointimal medio fue de 0,29 ± 0,21 mm. En 5 casos se encontró una correlación negativa débil entre la tensión de cizallamiento y el grosor neointimal (valor máximo de r = -­0,34, valor mínimo de r = 0,11; p &lt; 0,001). Los segmentos en el cuartil inferior de la tensión de cizallamiento mostraron valores más altos de grosor neointimal, comparados con los del cuartil superior (0,34 ± 0,21 frente a 0,27 ± 0,24 mm; p &lt; 0,001, para los cuartiles 1 y 4, respectivamente). Conclusiones. La baja tensión de cizallamiento tras la implantación de stents convencionales favorece la pérdida luminal, tanto en los segmentos intra-stent como en los bordes del stent</dc:description>
+<dc:source>Rev Esp Cardiol;59(1): 20-27, ene. 2006. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-042483</dc:identifier>
+<dc:title xml:lang="es">Influencia de la tensión de cizallamiento en la reestenosis intra-stent: estudio in vivo con reconstrucción 3D y dinámica de fluidos computacional</dc:title>
+<dc:subject>^d30956^s22045</dc:subject>
+<dc:subject>^d28625</dc:subject>
+<dc:subject>^d36021^s22009</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24885</dc:subject>
+<dc:subject>^d12461^s22031</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d36021^s29166</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d37672</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d30178</dc:subject>
+<dc:subject>^d29304^s22045</dc:subject>
+<dc:subject>^d19200</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200601</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-155622</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Afatinib as first-line therapy in mutation-positive EGFR. Results by type of mutation</dc:title>
+<dc:description xml:lang="en">The discovery of endothelial growth factor receptor (EGFR) mutations has laid the foundations for personalized medicine in non-small cell lung carcinoma (NSCLC). In phase III trials, the first-generation tyrosine kinase inhibitors (TKI), gefitinib and erlotinib, demonstrated greater efficacy compared with chemotherapy in patients with EGFR mutations, achieving progression-free survival of 8-13.5 months. Afatinib, a second-generation irreversible pan-ErbB inhibitor, is the first TKI that has shown a benefit in overall survival (OS) compared with chemotherapy in EGFR mutation-positive NSCLC when used as first-line treatment. Exon 19 deletion (Del19) and the single-point substitution mutation (L858R) in exon 21, called activating mutations due to their ability to confer sensitivity to TKI, represent approximately 90% of the EGFR mutations in NSCLC. Distinct sensitivity to TKI has been observed depending on the type of mutation, with greater progression-free survival in patients with the Del19 mutation. The analysis of OS in the LUX-Lung 3 and LUX-Lung 6 trials showed a statistically significant increase in survival in afatinib-treated patients with the Del 19 mutation, but no significant increase in that of patients with the L858R mutation. Direct comparison of afatinib and gefitinib as first-line therapy (LUX-Lung 7 trial) showed a statistically-significant increase in progression-free survival (hazard ratio: 0.73; 95% confidence interval, 0.57-0.95; p=0.0165) with afatinib. In the analysis by type of mutation, this benefit was observed for both the Del19 and the L858R mutations (AU)</dc:description>
+<dc:creator>Juan Vidal, Óscar</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El descubrimiento de las mutaciones del receptor de factor de crecimiento epidérmico (EGFR) ha creado las bases para la medicina personalizada en el carcinoma de pulmón no microcítico (CPNM). Los inhibidores de la tirosincinasa (ITK) de primera generación, gefitinib y erlotinib, demostraron en ensayos fase III mayor eficacia comparados con la quimioterapia en los pacientes con mutaciones de EGFR, consiguiendo una supervivencia libre de progresión de 8-13,5 meses. Afatinib, un inhibidor irreversible pan-ErbB de segunda generación, es el primer ITK que ha mostrado un beneficio en la supervivencia global comparado con la quimioterapia en pacientes con CPNM con mutación de EGFR tratados en primera línea. La deleción en el exón 19 (Del19) y la mutación puntual en el exón 21 (L858R) constituyen las denominadas mutaciones activadoras, por conferir sensibilidad a los ITK, y representan aproximadamente el 90% de las mutaciones de EGFR en CPNM. Se ha observado diferente sensibilidad a los ITK según el tipo de mutación, observándose mayor supervivencia libre de progresión en pacientes con la Del19 de EGFR frente a quimioterapia. El análisis de supervivencia global de los ensayos LUX-Lung 3 y LUX-Lung 6 mostró un incremento estadísticamente significativo de la supervivencia en los pacientes tratados con afatinib y que presentaban Del19, mientras que este no fue significativo en los pacientes con mutación L858R. La comparación directa de afatinib y gefitinib en primera línea de tratamiento (ensayo LUX-Lung 7) mostró un aumento estadísticamente significativo de la supervivencia libre de progresión (hazard ratio: 0,73; intervalo de confianza del 95%, 0,57-0,95; p = 0,0165) a favor del afatinib. En el análisis por tipo de mutación, el beneficio se observó tanto para la Del19 como para la mutación L858R (AU)</dc:description>
+<dc:source>Med. clín (Ed. impr.);146(supl.1): 12-18, abr. 2016. tab, graf, ilus</dc:source>
+<dc:identifier>ibc-155622</dc:identifier>
+<dc:title xml:lang="es">Tratamiento con afatinib en primera línea EGFR M+. Resultados según subtipo de mutación</dc:title>
+<dc:subject>^d8352^s22057</dc:subject>
+<dc:subject>^d30782^s22045</dc:subject>
+<dc:subject>^d55936^s22073</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d32227^s22021</dc:subject>
+<dc:subject>^d29770</dc:subject>
+<dc:subject>^d9346^s22021</dc:subject>
+<dc:subject>^d50302</dc:subject>
+<dc:subject>^d19589^s22002</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d31722^s22057</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201604</dc:date>
+</metadata>
+</record>
+</ibecs-document>

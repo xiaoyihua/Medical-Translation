@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-156172</identifier>
+<setSpec>0210-4806</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Cost effectiveness analysis of fesoterodine compared to mirabegron in first-line therapy setting for overactive bladder with urge urinary incontinence, from the Spanish National Health System perspective</dc:title>
+<dc:description xml:lang="en">Objectives: To evaluate the cost-effectiveness of first-line treatment of Overactive Bladder (OAB) with fesoterodine relative to mirabegron, from the Spanish National Health System (NHS) perspective. Methods: A decision tree model was developed to represent a typical clinical process of 52-week of treatment for an OAB patient with urge urinary incontinence (UUI) initiating first-line therapy with fesoterodine 4mg, including optional titration to 8mg, vs.mirabegron 50mg. Efficacy data were obtained from a Bayesian indirect treatment meta-analysis. Patients with UUI of less than one episode/day were defined as treatment responder and persistence was assessed at weeks 4, 12 and 24. At week 12, non-responders discontinued treatment permanently. Quality-adjusted life years (QALYs) were calculated based on time spent in responder and non-responder states. OAB-related drug and medical care costs including physician visits, laboratory tests, incontinence pads, and comorbidities (fracture, skin infection, urinary tract infections and depression) were modeled and expressed in &#128;2015. Results: At week 52, the percentage of responders was 20.8% for patients starting on fesoterodine 4mg who optionally titrated to 8mg and 19.4% for patients treated with mirabegron. QALYs were slightly higher with fesoterodine than mirabegron (0.7703vs. 0.7668, difference=0.0035). Fesoterodine treatment also had slightly higher total costs than mirabegron (3,296&#128;vs. 3,217, difference=79&#128;), resulting in a cost of 22,523/QALY&#128; gained for fesoterodine versus mirabegron. Probabilistic sensitivity analysis confirmed the slight advantage of fesoterodine with a 61.1% probability of being cost-effective at the 30,000&#128; willingness-to-pay for 1QALY threshold. Conclusions: Given the relatively small 1-year cost difference between the two treatments, fesoterodine can be considered a cost-effective option relative to mirabegron for the first-line management of OAB with UUI in Spain (AU)</dc:description>
+<dc:creator>Angulo, JC</dc:creator>
+<dc:creator>Snedecor, SJ</dc:creator>
+<dc:creator>Sánchez Ballester, F</dc:creator>
+<dc:creator>Peral, C</dc:creator>
+<dc:creator>Sudharshan, L</dc:creator>
+<dc:creator>Ramos, J</dc:creator>
+<dc:creator>Liu, S</dc:creator>
+<dc:creator>Luo, X</dc:creator>
+<dc:creator>Rejas, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Evaluar el coste-efectividad del tratamiento de primera línea de la vejiga hiperactiva (VH) con fesoterodina en relación con mirabegron, desde la perspectiva del Sistema Nacional de Salud (SNS) español. Métodos: Se desarrolló un modelo de árbol de decisión para representar un proceso clínico típico de tratamiento de 52 semanas para un paciente con VH con incontinencia urinaria de urgencia (IUU) iniciando el tratamiento de primera línea con fesoterodina 4mg, incluyendo valoración opcional a 8mg frente a mirabegron 50mg. Los datos de eficacia se obtuvieron de un metaanálisis de tratamiento indirecto bayesiano. Los pacientes con IUU de menos de un episodio/día fueron definidos como respondedor al tratamiento, y la persistencia se evaluó en las semanas 4, 12 y 24. En la semana 12 los no respondedores interrumpieron el tratamiento de forma permanente. Los años de vida ajustados por calidad (AVAC) se calcularon sobre la base de tiempo de permanencia en estados de respondedores y no respondedores. Los costes de la medicina relacionada con la VH y atención médica, incluyendo visitas médicas, pruebas de laboratorio, compresas para la incontinencia y comorbilidades (fractura, infección de la piel, infecciones del tracto urinario y depresión) se modelaron y expresaron en 2015&#128;. Resultados: En la semana 52 el porcentaje de respondedores fue de 20,8% para los pacientes que comienzan con 4mg de fesoterodina, que opcionalmente valoró a 8mg, y de 19,4% para los pacientes tratados con mirabegron. Los AVAC fueron ligeramente superiores con fesoterodina que con mirabegron (0,7703 vs. 0,7668, diferencia=0,0035). El tratamiento con fesoterodina también tenía costes totales ligeramente mayores que mirabegron (3.296&#128; vs. 3.217, diferencia=79&#128;), lo que resulta en un coste de 22.523/AVAC&#128; ganado para la fesoterodina frente al mirabegron. El análisis de sensibilidad probabilístico confirmó la ligera ventaja de la fesoterodina, con un 61,1% de probabilidad de ser rentable en la disposición a pagar de 30.000&#128; para un umbral de AVAC. Conclusiones: Dada la relativamente pequeña diferencia de coste de un año entre los 2 tratamientos, la fesoterodina puede considerarse una opción rentable en relación con mirabegron para el manejo de primera línea de la VH con IUU en España (AU)</dc:description>
+<dc:source>Actas Urol Esp;40(8): 513-522, oct. 2016. graf, tab</dc:source>
+<dc:identifier>ibc-156172</dc:identifier>
+<dc:title xml:lang="es">Análisis de coste efectividad de fesoterodina comparado con mirabegron en el marco de tratamiento de primera línea para vejiga hiperactiva con incontinencia urinaria de urgencia, desde la perspectiva del Sistema Nacional de Salud español</dc:title>
+<dc:subject>^d321^s22073</dc:subject>
+<dc:subject>^d29544^s22001</dc:subject>
+<dc:subject>^d35346^s22073</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24572</dc:subject>
+<dc:subject>^d53821^s22048</dc:subject>
+<dc:subject>^d14949^s22012</dc:subject>
+<dc:subject>^d53821^s22049</dc:subject>
+<dc:subject>^d52129^s22018</dc:subject>
+<dc:subject>^d30313^s22045</dc:subject>
+<dc:subject>^d30313^s22048</dc:subject>
+<dc:subject>^d53821^s22045</dc:subject>
+<dc:subject>^d52129^s22057</dc:subject>
+<dc:subject>^d52129^s22012</dc:subject>
+<dc:subject>^d51280</dc:subject>
+<dc:subject>^d50303</dc:subject>
+<dc:subject>^d14949^s22018</dc:subject>
+<dc:subject>^d14949^s22057</dc:subject>
+<dc:subject>^d32129^s22073</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201610</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-102441</identifier>
+<setSpec>1888-7546</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Spectral analysis of electromyographic signal in supramaximal effort in cycle ergometer using Fourier and Wavelet transforms: a comparative study</dc:title>
+<dc:description xml:lang="en">Objective. The objective of this study was to compare these methods Fourier (STFT) and Wavelet (WT) transforms to assess muscle fatigue during supramaximal exercise. Methods. Twenty five subjects of both genders (13 men, age = 28.2 ± 2.7 years and 12 women, age = 23.2 ± 2.7 years) performed the Wingate test, during which the electromyographic responses of the superficial muscles of the quadriceps were examined. For analysis we used the STFT and WT transforms, which provided the following variables: median frequency (MF), slope and variance. Results. The results showed no differences (P &gt; 0.05) in MF and slope. However, there were differences for the variance between the analysis (P &lt; 0.05). Conclusion. It seems that both analyzes provide the same physiological parameters, however, the WT transform shows less variance between the results(AU)</dc:description>
+<dc:creator>Pedro, R. E</dc:creator>
+<dc:creator>Altimari, J. M</dc:creator>
+<dc:creator>Altimari, L. R</dc:creator>
+<dc:creator>Moraes, A. C</dc:creator>
+<dc:creator>Oliveira, R. S</dc:creator>
+<dc:creator>Abrão, T</dc:creator>
+<dc:creator>Silva, R. A. da</dc:creator>
+<dc:creator>Camata, T. V</dc:creator>
+<dc:creator>Bortolotti, H</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. El propósito de este estudio fue comparar los métodos transformados de Fourier (STFT) y Wavelet (WT) para evaluar la fatiga muscular durante el ejercicio supra-máximo. Método. Veinticinco individuos de ambos sexos (13 hombres, 28,2 ± 2,7 años and 12 mujeres, 23,2 ± 2,7 años) realizaron el test de Wingate, durante el cual las respuestas electromiográficas de los músculos superficiales de los cuádriceps fueron examinadas. Para el análisis se utilizaron las transformaciones de STFT y la WT, lo cual proporcionó las siguientes variables: frecuencia media (FM), de pendiente y variación. Resultados. Los resultados no mostraron diferencias (P &gt; 0,05) en FM y en la pendiente. Sin embargo, hubo diferencias en la variación entre el análisis (P &lt; 0,05). Conclusiones. Parece que ambos análisis proporcionan los mismos parámetros fisiológicos, sin embargo, la transformada de WT muestra menos variación entre los resultados(AU)</dc:description>
+<dc:source>Rev. andal. med. deporte;5(2): 48-52, jun. 2012. tab, ilus</dc:source>
+<dc:identifier>ibc-102441</dc:identifier>
+<dc:title xml:lang="es">El análisis espectral de la señal de EMG en el esfuerzo supra-máximo en el cicloergómetro utilizando las transformaciones de Fourier y Wavelet: un estudio comparativo</dc:title>
+<dc:subject>^d30118^s22039</dc:subject>
+<dc:subject>^d13440^s22048</dc:subject>
+<dc:subject>^d27937^s22039</dc:subject>
+<dc:subject>^d13440^s22045</dc:subject>
+<dc:subject>^d13440^s22066</dc:subject>
+<dc:subject>^d27937^s22045</dc:subject>
+<dc:subject>^d13440^s22074</dc:subject>
+<dc:subject>^d5180^s22031</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30118^s22066</dc:subject>
+<dc:subject>^d30118^s22045</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d13440^s22039</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d30118^s22074</dc:subject>
+<dc:subject>^d5717</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d1862^s22045</dc:subject>
+<dc:subject>^d23631^s22031</dc:subject>
+<dc:subject>^d54272</dc:subject>
+<dc:subject>^d32128^s22031</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201206</dc:date>
+</metadata>
+</record>
+</ibecs-document>

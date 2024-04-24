@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-92648</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Factors determining antibiotic prescription in primary care</dc:title>
+<dc:description xml:lang="en">Introduction: To determine patient and physician-related factors associated with variability in antibioticprescription. Material and methods: Observational study of the prevalence of antibacterial medication prescription&gt;14 years old. Data source: official prescriptions, clinical histories and individual health cards. Patien trelated variables were: age, sex, number of medical visits-year, comorbidity, antibacterials dispensed with prescription. Physician-related variables were age, sex, number of patients assigned, place of work and rurality. Variables associated with prescription were studied by estimating the odds ratio (OR) from the fit of the multilevel logistic regression models. Results: The rate of antibiotic prescription-year in the population was 31.4%. Factors associated with prescription were high rate of visits (users with more than 5 annual visits multiply the probability of receiving antibiotics, compared to those who made no visits: OR= 10.8), age (non-linearly, with a greater likelihood in the young and the elderly) and sex, with a higher rate in women (OR = 1.5). No association was found between prescription and age and sex of the physician, but an association was found with workload: the higher the physician&#146;s workload, the higher the likelihood of antibiotic prescription Conclusions: The most important factor associated with the increase in prescription rate was the frequency of visits. In addition, women, the young and the elderly receive more antibiotics. A multi-factor intervention focusing on demand, patients, and physicians should be carried out to reduce prescription rates (AU)</dc:description>
+<dc:creator>Ribes, Esther</dc:creator>
+<dc:creator>Godoy, Pere</dc:creator>
+<dc:creator>Serna, M. Catalina</dc:creator>
+<dc:creator>Marsal, Josep R</dc:creator>
+<dc:creator>Real, Jordi</dc:creator>
+<dc:creator>Galván, Leonardo</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción Determinar los factores del paciente y el médico asociados a la variabilidad en la prescripción de antibióticos. Material y métodos Estudio observacional de prevalencia de las dispensaciones de medicamentos antibacterianos en población mayor de 14 años. Fuente de datos: receta oficial, historia clínica y tarjeta sanitaria individual. Las variables del usuario fueron: edad, sexo, número de consultas al médico durante el año, presencia de comorbilidad, envase antibacteriano dispensado con prescripción, y las variables del médico: edad, sexo, número de usuarios asignados, centro de trabajo y ruralidad. Las variables asociadas a la prescripción se estudiaron mediante la estimación de la odds ratio (OR) a partir del ajuste de modelos de regresión logística multinivel. Resultados La tasa de prescripción de antibióticos durante un año en la población es de un 31,4%. Los factores asociados a la prescripción fueron la mayor frecuentación (usuarios con más de 5 visitas-año multiplican la probabilidad de recibir antibiótico respecto los no visitados: OR=10,8), la edad con más prescripción en jóvenes y mayores y el sexo con más prescripciones en mujeres (OR=1,5). Ni la edad ni el sexo del profesional presentaron asociación con la prescripción. Los médicos con alta carga asistencial tienen una mayor probabilidad de prescripción de antibióticos. Conclusiones El principal factor asociado al aumento de prescripciones es la frecuentación en consulta. También reciben más antibióticos las mujeres, los jóvenes y los mayores. Los médicos con más carga asistencial prescriben más antibióticos. Se debe realizar una intervención multifactorial (sobre demanda, pacientes y médicos) para reducir la prescripción (AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;29(3): 193-200, mar. 2011. ilus, tab</dc:source>
+<dc:identifier>ibc-92648</dc:identifier>
+<dc:title xml:lang="es">Determinantes de la prescripción de antibióticos en atención primaria</dc:title>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d11742^s22083</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d11756^s22083</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d911^s22073</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d53386</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201103</dc:date>
+</metadata>
+</record>
+</ibecs-document>

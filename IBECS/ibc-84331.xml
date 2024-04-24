@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-84331</identifier>
+<setSpec>0212-9728</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Analysis techniques of chaotic patterns: a review of empirical studies in Psychology</dc:title>
+<dc:description xml:lang="en">For a variety of reasons longitudinal research remains uncommon in Psychology. Traditional longitudinal analysis techniques, based on linearity assumption, offer limited ways to study different types of changes over time. This article describes nonlinearity analysis techniques, with emphasis in those whom allow the study of chaotic patterns in time series (Lyapunov exponents, recurrence plots, surrogate data, Kolmogorov&amp;#8223; entropy, Hurst&amp;#8223; exponent, and correlation dimension). Our main objective is to check the use of these techniques in Psychology with a research review of PsycIN-FO articles database. Results show the wide use of these techniques in some topics and the prevalence of articles published on impact factor&amp;#8223; journals. A considerable amount of articles have been cited. All of these reveal the growing presence of these techniques in Psychology. Finally, we think that techniques based on chaos theory offer a complementary perspective to study time series patterns&amp;#8223;. We expect a grown in their application to psychological research (AU)</dc:description>
+<dc:creator>García-Izquierdo, Antonio León</dc:creator>
+<dc:creator>Ramos-Villagrasa, Pedro José</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La investigación longitudinal es todavía escasa en Psicología, y las técnicas de análisis en las que se basa presentan limitaciones para detectar adecuadamente los cambios que se producen en el tiempo. Las aproximaciones lineales son bien conocidas pero las no lineales han sido menos utilizadas, especialmente las que permiten el estudio de patrones caóticos. El objetivo de este artículo es comprobar el uso que se da en Psicología a las técnicas de análisis de patrones caóticos. En concreto, explicamos y analizamos los exponentes de Lyapunov, el mapa de recurrencia, las series vicarias, la entropía de Kolmogorov, el exponente de Hurst, y la dimensión de correlación. Para ello, se realiza una revisión de artículos publicados en los últimos diez años incluidos en la base de datos PsycINFO. Los resultados muestran que estas técnicas han sido utilizadas en estudios empíricos de diversas áreas de la Psicología y que un importante número de artículos han sido publicados en revistas con índice de impacto. Como conclusión, consideramos que estas técnicas nos ofrecen una forma adecuada con la que estudiar patrones que otras técnicas no permiten. Por ello, esperamos un incremento de su uso en la investigación futura (AU)</dc:description>
+<dc:source>An. psicol;27(1): 239-248, ene.-abr. 2011. tab, graf</dc:source>
+<dc:identifier>ibc-84331</dc:identifier>
+<dc:title xml:lang="es">Técnicas de análisis de patrones caóticos: revisión de estudios empíricos en Psicología</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d12527^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d31243</dc:subject>
+<dc:subject>^d28419</dc:subject>
+<dc:subject>^d28597^s22045</dc:subject>
+<dc:subject>^d28630</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201106</dc:date>
+</metadata>
+</record>
+</ibecs-document>

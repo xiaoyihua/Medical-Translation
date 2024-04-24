@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-129343</identifier>
+<setSpec>0210-4806</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Optimizing D&#146;Amico risk groups in radical prostatectomy through the addition of magnetic resonance imaging data</dc:title>
+<dc:description xml:lang="en">Objectives: To improve the predictive efficacy of the D&#146;Amico risk classification system with magnetic resonance imaging (MRI) of the pelvis. Material and methods: We studied 729 patients from a series of 1310 radical prostatectomies for T1-T2 prostate cancer who underwent staging pelvic MRI. Each patient was classified with T2, T3a or T3b MRI, and N (+) patients were excluded. We identified the therapeutic factors that affected the biochemical progression-free survival (BPFS) time (prostate specific antigen [PSA] levels &gt; 0.4 ng/mL) using a univariate and multivariate study with Cox models. We attempted to improve the predictive power of the D&#146;Amico model (low risk: T1; Gleason 2-6; PSA levels &lt; 10 ng/mL; intermediate risk: T2 or Gleason 7 or PSA levels 10-20 ng/mL; high risk: T3 or Gleason 8-10 or PSA levels &gt; 20 ng/mL). Results: In the univariate study, the clinical factors that influenced BPFS were the following: Gleason 7 (HR: 1.7); Gleason 8-10 (HR: 2.9); T2 (HR: 1.6); PSA levels 10-20 (HR: 2); PSA levels &gt; 20 (HR: 4.3); D&#146;Amico intermediate (HR: 2.1) and high (HR: 4.8) risk; T3a MRI (HR: 2.3) and T3b MRI (HR: 4.5). In the multivariate study, the only variables that affected BPFS were the following: D&#146;Amico intermediate risk (HR: 2; 95% CI 1.2-3.3); D&#146;Amico high risk (HR: 4.1; 95% CI 2.4-6.8); T3a MRI (HR: 1.9; 95% CI 1.2-2.9) and T3b MRI (HR: 3.9; 95% CI 2.5-6.1). Predictive model: Using the multivariate Cox models, we assessed the weight of each variable. A value of 1 was given to D&#146;Amico low risk and T2 MRI; a value of 2 was given to D&#146;Amico intermediate risk and T3a MRI and a value 3 was given to D&#146;Amico high risk and T3b MRI. Each patient had a marker that varied between 2 and 6. The best model included 3 groups, as follows: 494 (67.7%) patients in group 1, with a score of 2-3 points (HR, 1), a BPFS of 86% ± 2% and 79% ± 2% at 5 and 10 years, respectively; 179 (24.6%) patients in group 2, with a score of 4 points (HR, 3), a BPFS of 60% ± 4% and 54% ± 5% at 5 and 10 years, respectively; and 56 (7.7%) patients in group 3, with a score of 5-6 points (HR, 9.3), a BPFS of 29% ± 8% and 19% ± 7% at 5 and 10 years, respectively. The median BPFS time was 1.5 years. Conclusion: MRI data significantly improves the predictive capacity of BPFS when using the D&#146;Amico model data (AU)</dc:description>
+<dc:creator>Rincón, A</dc:creator>
+<dc:creator>Tienza,  A</dc:creator>
+<dc:creator>Velis, J. M</dc:creator>
+<dc:creator>Zudaire, B</dc:creator>
+<dc:creator>Algarra, R</dc:creator>
+<dc:creator>Pascual, I</dc:creator>
+<dc:creator>Zudaire, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivos: Se pretende mejorar la eficacia predictora de la clasificación de D&#146;Amico con la resonancia nuclear magnética (RNM) de pelvis. Material y métodos: Se estudian 729 pacientes de una serie de 1.310 prostatectomías radicales por cáncer de próstata T1-T2 a quienes se realizó RNM de pelvis de estadificación. Cada paciente fue calificado con RNM de T2; T3a o T3b. Se excluyen los pacientes N (+). Se identifican los factores clínicos influyentes en el tiempo de supervivencia libre de progresión bioquímica (SLPB) (PSA &gt; 0,4 ng/ml) (estudio univariado y multivariado con modelos de Cox). Se intenta mejorar el poder predictivo del modelo de D&#146;Amico (bajo riesgo: T1; Gleason 2-6; PSA &lt; 10 ng/ml; riesgo intermedio: T2 o Gleason 7 o PSA 10-20 ng/ml; alto riesgo: T3 o Gleason 8-10 o PSA &gt; 20 ng/ml). Resultados:  Factores clínicos influyentes en SLPB: en el estudio univariado las variables influyentes son Gleason 7 (HR: 1,7); Gleason 8-10 (HR: 2,9); T2 (HR: 1,6); PSA 10-20 (HR: 2); PSA &gt; 20 (HR: 4,3); D&#146;Amico intermedio (HR: 2,1) y alto (HR: 4,8); RNM T3a (HR: 2,3) y RNM T3b (HR: 4,5). En el estudio multivariado solo son influyentes D&#146;Amico riesgo intermedio (HR: 2; IC 95%: 1,2-3,3); D&#146;Amico alto riesgo (HR: 4,1; IC 95%: 2,4-6,8); RNM T3a (HR: 1,9; IC 95%: 1,2-2,9) y RNM T3b (HR: 3,9; IC 95%: 2,5-6,1). Modelo predictivo: utilizando los modelos multivariantes de Cox se valora el peso de cada variable. Se da un valor de 1 a D&#146;Amico de bajo riesgo y a RNM T2; se da valor de 2 a D&#146;Amico de riesgo intermedio y a RNM T3a y valor 3 a D&#146;Amico alto riesgo y RNM T3b. Cada paciente tiene un marcador que oscila entre 2 y 6. El mejor modelo incluye 3 grupos. Grupo 1 (2-3 puntos, HR 1) 494 (67,7%) pacientes; SLPB de 86 ± 2% y 79 ± 2%, 5 y 10 años. Grupo 2 (4 puntos, HR 3) 179 (24,6%) pacientes; SLPB de 60 ± 4% y 54 ± 5%, 5 y 10 años. Grupo 3 (5-6 puntos, HR 9,3) 56 (7,7%) pacientes; SLPB de 29 ± 8% y 19 ± 7%, 5 y 10 años; mediana de SLPB 1,5 años. Conclusión: El modelo D'Amico mejora significativamente la capacidad de predicción de la SLPB utilizando la información de la RNM (AU)</dc:description>
+<dc:source>Actas Urol Esp;38(9): 594-599, nov. 2014. tab, graf</dc:source>
+<dc:identifier>ibc-129343</dc:identifier>
+<dc:title xml:lang="es">Optimización de los grupos de riesgo de D'Amico en prostatectomía radical añadiendo la información de la resonancia nuclear magnética</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d11911^s22083</dc:subject>
+<dc:subject>^d24373^s22002</dc:subject>
+<dc:subject>^d9560^s22074</dc:subject>
+<dc:subject>^d23405^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d11914^s22009</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d32285</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201411</dc:date>
+</metadata>
+</record>
+</ibecs-document>

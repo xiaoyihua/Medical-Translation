@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-31671</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Assessing the GRDOSIS®, Software program as a tool to anlyse drug usage by DRGs</dc:title>
+<dc:creator>Vilaseca Tomás, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Arán Ediciones, S.A.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Validación del programa informático GRDOSIS® como herramienta para el cálculo de los pesos españoles de medicamentos de los GRDs y para el análisis de la información empleada en dicho cálculo. Material y métodos: A partir del cruce de información del conjunto mínimo básico de datos procesados con el programa agrupador en GRDs Estación Clínica -3M® y del consumo de medicamentos en dosis unitarias, se analiza la información referida a una muestra de 7 hospitales. Se depuran los datos eliminando los casos con estancia inusual (corta o larga) para cada GRD y se calculan los pesos y los pesos ponderados. Se analiza la información de los 5 GRDs de mayor prevalencia utilizando las diferentes posibilidades que ofrece el programa informático con la finalidad de detectar puntos de intervención para la mejora de resultados. Resultados: La eliminación de los casos extremos reduce sensiblemente el coste medio por GRD. Un grupo reducido de GRDs representan un porcentaje muy elevado del coste total. Asimismo, en un GRD un número reducido de medicamentos puede representar un porcentaje elevado del coste de dicho GRD. Se evidencia la utilización de grupos terapéuticos específicos para GRDs concretos y, dentro de un mismo grupo terapéutico, la utilización correcta de medicamentos de primera elección frente a sus alternativas terapéuticas. Se advierte sin embargo una variabilidad no justificada en la dosificación y frecuencia de administración de fármacos. Conclusiones: El programa informático GRDOSIS® se muestra como una potente herramienta en el análisis tanto cualitativo (perfiles de utilización de medicamentos, posología, dosificación) como cuantitativo (costes) de la información generada en el servicio de farmacia (AU)</dc:description>
+<dc:source>Farm Hosp;27(3): 150-158, mayo 2003.</dc:source>
+<dc:identifier>ibc-31671</dc:identifier>
+<dc:title xml:lang="es">Evaluación del programa informático GRDOSIS® como herramienta de análisis de la utilización de medicamentos por GRD</dc:title>
+<dc:subject>^d19402</dc:subject>
+<dc:subject>^d30327</dc:subject>
+<dc:subject>^d23106</dc:subject>
+<dc:subject>^d30152</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d31498</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200305</dc:date>
+</metadata>
+</record>
+</ibecs-document>

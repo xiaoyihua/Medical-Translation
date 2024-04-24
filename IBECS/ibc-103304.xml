@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-103304</identifier>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Early biomarkers of acute kidney failure after heart angiography or heart surgery in patients with acute coronary syndrome or acute heart failure</dc:title>
+<dc:description xml:lang="en">Background: Acute kidney injury (AKI) is a common complication in cardiac surgery and coronary angiography, which worsens patients' prognosis. The diagnosis is based on the increase in serum creatinine, which is delayed. It is necessary to identify and validate new biomarkers that allow for early and effective interventions. Aims: To assess the sensitivity and specificity of neutrophil gelatinase-associated lipocalin in urine (uNGAL), interleukin-18 (IL-18) in urine and cystatin C in serum for the early detection of AKI in patients with acute coronary syndrome or heart failure, and who underwent cardiac surgery or catheterization. Methods: The study included 135 patients admitted to the intensive care unit for acute coronary syndrome or heart failure due to coronary or valvular pathology and who underwent coronary angiography or cardiac bypass surgery or valvular replacement. The biomarkers were determined 12 hours after surgery and serum creatinine was monitored during the next six days for the diagnosis of AKI. Results: The area under the ROC curve (AUC) for NGAL was 0.983, and for cystatin C and IL-18 the AUCs were 0.869 and 0.727, respectively. At a cut-off of 31.9ng/ml for uNGAL the sensitivity was 100% and the specificity was 91%. Conclusions: uNGAL is an early marker of AKI in patients with acute coronary syndrome or heart failure and undergoing cardiac surgery and coronary angiography, with a higher predictive value than cystatin C or IL-18 (AU)</dc:description>
+<dc:creator>Puchades, M. J</dc:creator>
+<dc:creator>Elmlili, N</dc:creator>
+<dc:creator>Ramos, C</dc:creator>
+<dc:creator>Miguel, A</dc:creator>
+<dc:creator>Sanjuán, R</dc:creator>
+<dc:creator>Ribes, J</dc:creator>
+<dc:creator>Montoliu, C</dc:creator>
+<dc:creator>Blasco, M. L</dc:creator>
+<dc:creator>Urios, A</dc:creator>
+<dc:creator>Torregrosa, I</dc:creator>
+<dc:creator>Tomás, P</dc:creator>
+<dc:creator>Solís, M. A</dc:creator>
+<dc:creator>Carratalá, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Antecedentes: El fracaso renal agudo (FRA) es una complicación frecuente tras la cirugía cardíaca y la angiografía coronaria que ensombrece el pronóstico de estos pacientes. El diagnóstico se basa en el ascenso de la creatinina sérica, que es tardío. Es necesaria la identificación y validación de nuevos biomarcadores precoces que permitan intervenciones más tempranas y eficaces. Objetivos: Evaluar la sensibilidad y especificidad de interleuquina-18 (IL-18) en orina, neutrophil gelatinase-associated lipocalin en orina (uNGAL) y cistatina C en suero para la detección precoz del FRA en una población de pacientes con síndrome coronario agudo o fallo cardíaco y sometidos a cirugía cardíaca o cateterismo. Métodos: Se incluyeron en el estudio 135 pacientes ingresados en una unidad de cuidados intensivos por síndrome coronario agudo o fallo cardíaco por patología coronaria o valvular y a los que se realizaron una angiografía cardíaca o una cirugía cardíaca de revascularización o recambio valvular. Se determinaron los biomarcadores a las 12 horas de la intervención y se monitorizó la creatinina sérica durante los siguientes seis días para el diagnóstico del FRA. Resultados: Para NGAL se obtuvo un área bajo la curva ROC (AUC) de 0,983 y para cistatina C e IL-18 de 0,869 y 0,727, respectivamente. Para un punto de corte de NGAL en orina de 31,9 ng/ml la sensibilidad fue del 100% y la especificidad del 91%. Conclusiones: uNGAL es un marcador precoz de FRA en pacientes con síndrome coronario o fallo cardíaco agudo y sometidos a cirugía cardíaca y angiografía cardíaca, con una capacidad predictiva superior a cistatina o a IL-18 (AU)</dc:description>
+<dc:source>Nefrologia;32(1): 44-52, ene.-feb. 2012. ilus, tab</dc:source>
+<dc:identifier>ibc-103304</dc:identifier>
+<dc:title xml:lang="es">Biomarcadores precoces de fracaso renal agudo tras angiografía coronaria o cirugía cardíaca en pacientes con síndrome coronario o fallo cardíaco agudos</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d52613^s22032</dc:subject>
+<dc:subject>^d52790^s22050</dc:subject>
+<dc:subject>^d6486^s22032</dc:subject>
+<dc:subject>^d23568^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d53982^s22032</dc:subject>
+<dc:subject>^d53168^s22062</dc:subject>
+<dc:subject>^d30178^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201202</dc:date>
+</metadata>
+</record>
+</ibecs-document>

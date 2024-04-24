@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-5303</identifier>
+<setSpec>0378-4835</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Manupulation and correction of digital radiological images used in radiosurgery</dc:title>
+<dc:creator>Roselló Ferrando, J</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Alpe Editores, S.A.</dc:publisher>
+<dc:description xml:lang="es">El rápido desarrollo de los distintos tipos de imagen y su gran variedad de formatos hacen que se presenten muchas veces problemas de compatibilidad entre los diferentes sistemas. En el presente trabajo se trata de analizar las citadas imágenes y establecer procedimientos para compatibilizar los diferentes formatos. Por otra parte se aborda el problema de la corrección por software de la deformación geométrica producida por diferentes sistemas de imagen a partir del estudio de la deformación producida en la imagen de un objeto de geometría simple y conocida y se presenta un algoritmo capaz de corregir la citada deformación (AU)</dc:description>
+<dc:source>Oncologia;25(2): 121-129, feb. 2002. tab, ilus</dc:source>
+<dc:identifier>ibc-5303</dc:identifier>
+<dc:title xml:lang="es">Manipulación y corrección de imágenes radiológicas digitales de uso en radiocirugía</dc:title>
+<dc:subject>^d29853^s22045</dc:subject>
+<dc:subject>^d19314</dc:subject>
+<dc:subject>^d19062</dc:subject>
+<dc:subject>^d19200^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200202</dc:date>
+</metadata>
+</record>
+</ibecs-document>

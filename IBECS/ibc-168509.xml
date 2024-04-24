@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-168509</identifier>
+<setSpec>1137-6821</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Medication reconciliation errors according to patient risk and type of physician prescriber identified by prescribing tool used</dc:title>
+<dc:description xml:lang="en">Objectives. To study the frequency of medication reconciliation errors (MREs) in hospitalized patients and explore the profiles of patients at greater risk. To compare the rates of errors in prescriptions written by emergency physicians and ward physicians, who each used a different prescribing tool. Methods. Prospective cross-sectional study of a convenience sample of patients admitted to medical, geriatric, and oncology wards over a period of 6 months. A pharmacist undertook the medication reconciliation report, and data were analyzed for possible associations with risk factors or prescriber type (emergency vs ward physician). Results. A total of 148 patients were studied. Emergency physicians had prescribed for 68 (45.9%) and ward physicians for 80 (54.1%). A total of 303 MREs were detected; 113 (76.4%) patients had at least 1 error. No statistically significant differences were found between prescriber types. Factors that conferred risk for a medication error were use polypharmacy (odds ratio [OR], 3.4; 95% CI, 1.2-9.0; P=.016) and multiple chronic conditions in patients under the age of 80 years (OR, 3.9; 95% CI, 1.1-14.7; P=.039). Conclusion. The incidence of MREs is high regardless of whether the prescriber is an emergency or ward physician. The patients who are most at risk are those taking several medications and those under the age of 80 years who have multiple chronic conditions (AU)</dc:description>
+<dc:creator>Bilbao Gomez-Martino, Cristina</dc:creator>
+<dc:creator>Martin-Sanchez, Francisco Javier</dc:creator>
+<dc:creator>Fernandez Perez, Cristina</dc:creator>
+<dc:creator>Nieto Sanchez, Angel</dc:creator>
+<dc:creator>Borrego Hernando, M Isabel</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Estudiar la frecuencia y el perfil de los pacientes ingresados que tienen mayor riesgo de errores de conciliación (EC) y si las prescripciones originadas por los médicos de urgencias (MU), mediante una herramienta de prescripción electrónica de texto libre, presentan más EC que las realizadas por los médicos responsables de la planta de hospitalización (MPH) con un programa de prescripción electrónica asistida. Método. Estudio de una serie de casos prospectivos con análisis transversal que incluyo por oportunidad a los pacientes ingresados en plantas de hospitalización convencional de los servicios de medicina interna, geriatría y oncología durante un periodo de 6 meses. Los EC detectados por un farmacéutico se analizaron en función de los factores de riesgo teóricos y del responsable de la prescripción (MU frente a MPH). Resultados. Se incluyeron 148 pacientes, 68 (45,9%) con prescripción de los MU y 80 (54,1%) de los MPH. El farmacéutico detecto 303 EC y 113 pacientes (76,4%) presentaron al menos un EC. No hubo diferencias significativas según el responsable de la prescripción conciliada. Los EC se asociaron a la polimedicación [OR 3,4 (IC 95%:1,2-9,0; p = 0,016)] y el tener pluripatología en el grupo de pacientes menores de 80 anos [OR 3,9 (IC95%:1,1-14,7; pinteracción = 0,039)]. Conclusiones. La frecuencia de EC es elevada indistintamente de si el responsable de la prescripción fue el MU o el MPH. Los pacientes con mayor riesgo de EC fueron los polimedicados y los menores de 80 años con pluripatología (AU)</dc:description>
+<dc:source>Emergencias (Sant Vicenç dels Horts);29(6): 384-390, dic. 2017. tab, graf</dc:source>
+<dc:identifier>ibc-168509</dc:identifier>
+<dc:title xml:lang="es">Perfil de riesgo y análisis comparativo de los errores de conciliación de medicamentos según el médico prescriptor y la herramienta de prescripción</dc:title>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d53392^s22083</dc:subject>
+<dc:subject>^d54857</dc:subject>
+<dc:subject>^d33105</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24772</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d8675^s22054</dc:subject>
+<dc:subject>^d24572</dc:subject>
+<dc:subject>^d54220^s22049</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d53392^s22048</dc:subject>
+<dc:subject>^d11742^s22048</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201712</dc:date>
+</metadata>
+</record>
+</ibecs-document>

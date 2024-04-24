@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-1309</identifier>
+<setSpec>0004-0614</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Princilples of urodynamics: The urinary flow curve</dc:title>
+<dc:creator>Casanueva Luis, Tomás</dc:creator>
+<dc:creator>Polanco Corchero, Asterio</dc:creator>
+<dc:creator>Casanueva Delgado, Tomás</dc:creator>
+<dc:creator>Calahorra Fernández, Luis</dc:creator>
+<dc:creator>Caballero Gómez, Pilar</dc:creator>
+<dc:creator>Gallardo Galán, Carlos</dc:creator>
+<dc:creator>Benítez Navio, Julio</dc:creator>
+<dc:creator>Laguna Urraca, Ginés</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Iniestares, S. A.</dc:publisher>
+<dc:description xml:lang="es">OBJETIVOS: Hemos pretendido dar una expresión matemática a un fenómeno habitual, como es la curva de flujo.MÉTODO: El método empleado es el método estadístico de ajuste por mínimos cuadrados.RESULTADOS: Creemos haber conseguido una expresión matemática del fenómeno estudiado, que se ajusta a cada una de las curvas de flujo, con un error aceptable.CONCLUSIONES: Concluimos que no nos sirve el modelo que considera a la curva de flujo como una parábola, ya que ésta es expresión de un fenómeno estadístico, muy variable de un caso a otro. Aquí realizamos un ajuste por mínimos cuadrados para conseguir una línea de regresión que es la expresión más fiel posible del flujo urinario. Consideramos además a la curva de flujo como el resultado de las fuerzas desarrolladas en el ámbito del detrusor, como generador del complejo fenómeno de la micción. Y constituye un paso previo al desarrollo matemático de la mecánica de los fluidos urinarios (AU)</dc:description>
+<dc:source>Arch Esp Urol;53(2): 139-153, mar. 2000.</dc:source>
+<dc:identifier>ibc-1309</dc:identifier>
+<dc:title xml:lang="es">Fundamentos de Urodinámica. La curva de flujo</dc:title>
+<dc:subject>^d14963</dc:subject>
+<dc:subject>^d8601</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200003</dc:date>
+</metadata>
+</record>
+</ibecs-document>

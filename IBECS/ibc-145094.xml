@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-145094</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Structural sensitivity análisis</dc:title>
+<dc:description xml:lang="en">The aim of this study was to perform a structural sensitivity analysis of a decision model and to identify its advantages and limitations. A previously published model of dinoprostone was modified, taking two scenarios into account: eliminating postpartum hemorrhages and including both hemorrhages and uterine hyperstimulation among the adverse effects. The result of the structural sensitivity analysis shows the robustness of the underlying model and confirmed the initial results: the intrauterine device is more cost-effective than intracervical dinoprostone gel. Structural sensitivity analyses should be congruent with the situation studied and clinically validated. Although uncertainty may be only slightly reduced, these analyses provide information and add greater validity and reliability to the model (AU)</dc:description>
+<dc:creator>Carrera-Hueso, FJ</dc:creator>
+<dc:creator>Ramón-Barrios, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El objetivo fue realizar un análisis de sensibilidad estructural a un modelo de decisión y extraer sus ventajas y limitaciones. Se tomó como modelo base uno previamente publicado sobre dinoprostona que se modificó teniendo en cuenta dos escenarios: eliminando las hemorragias posparto e incluyendo en los efectos adversos tanto las hemorragias como la hiperestimulación uterina. El resultado del análisis de sensibilidad estructural realizado muestra la robustez del modelo base y confirma los resultados iniciales: el dispositivo intrauterino de dinoprostona es más coste-efectivo que administrado en gel endocervical. El análisis de sensibilidad estructural debe ser congruente con la situación estudiada y validado clínicamente. Aunque la reducción de la incertidumbre obtenida puede no ser alta, sí aporta información y proporciona mayor validez y fiabilidad al modelo (AU)</dc:description>
+<dc:source>Farm Hosp;35(supl.2): 10-17, 2011. ilus, tab</dc:source>
+<dc:identifier>ibc-145094</dc:identifier>
+<dc:title xml:lang="es">Análisis de sensibilidad estructural</dc:title>
+<dc:subject>^d22877</dc:subject>
+<dc:subject>^d10797^s22018</dc:subject>
+<dc:subject>^d30152^s22066</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d31495^s22049</dc:subject>
+<dc:subject>^d9151</dc:subject>
+<dc:subject>^d50303</dc:subject>
+<dc:subject>^d29199</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201100</dc:date>
+</metadata>
+</record>
+</ibecs-document>

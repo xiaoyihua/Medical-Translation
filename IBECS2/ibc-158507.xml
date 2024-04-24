@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-158507</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Toxoplasma gondii serostatus in heart transplant recipients: is it an independent prognostic factor?</dc:title>
+<dc:description xml:lang="en">Introduction and objectives: To assess the potential association between recipient Toxoplasma gondii serostatus and outcomes after heart transplant (HT). Methods: We conducted a retrospective single-center study of 657 HT recipients from 1991 to 2015. Survival and the incidence of adverse clinical events of T. gondii-seropositive (n = 481) vs T. gondii-seronegative (n = 176) recipients were compared by means of 2 different multivariable Cox regression models. Model 1 included solely age and sex, and model 2 included other potential confounders. Results: Over a median follow-up of 2903 days (interquartile range: 898-4757), 250 seropositive recipients (52%) and 72 seronegative recipients (41%) died. Univariable analysis showed increased posttransplant mortality among T. gondii-seropositive recipients (hazard ratio [HR] = 1.31; 95% confidence interval [95%CI], 1,00-1.70). After multivariable adjustment, the statistical significance of this association was lost (model 1: HR = 1.09; 95%CI, 0.83-1.43; model 2:HR = 1.12; 95%CI, 0.85-1.47). Recipient T. gondii seropositivity was independently associated with an increased risk of acute rejection (model 1: HR = 1.36; 95%CI, 1.06-1.74; model 2: HR = 1.29; 95%CI, 1.01-1.66). Multivariable models showed no statistically significant impact of recipient T. gondii serostatus on the incidence of infection, malignancy, coronary allograft vasculopathy, or the composite outcome of cardiac death or retransplant. No significant association was found between donor-recipient T. gondii serostatus matching and posttransplant outcome. Conclusions: In this study, recipient T. gondii serostatus was not an independent predictor of long-term post-HT outcome (AU)</dc:description>
+<dc:creator>Barge Caballero, Gonzalo</dc:creator>
+<dc:creator>Barge Caballero, Eduardo</dc:creator>
+<dc:creator>Vázquez Rodríguez, José M</dc:creator>
+<dc:creator>Barbeito Caamaño, Cayetana</dc:creator>
+<dc:creator>Marzoa Rivas, Raquel</dc:creator>
+<dc:creator>Herrera Noreña, José M</dc:creator>
+<dc:creator>Paniagua Martín, María J</dc:creator>
+<dc:creator>Solla Buceta, Miguel</dc:creator>
+<dc:creator>Couto Mallón, David</dc:creator>
+<dc:creator>Estévez Cid, Francisco</dc:creator>
+<dc:creator>Cuenca Castillo, José J</dc:creator>
+<dc:creator>Crespo Leiro, María G</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos: Analizar la influencia pronóstica del estado serológico frente a Toxoplasma gondii en receptores de trasplante cardiaco (TC). Métodos: Se realizó un estudio retrospectivo unicéntrico con 657 receptores de TC entre 1991 y 2015. Mediante dos modelos multivariantes de Cox se comparó la supervivencia y la incidencia de episodios clínicos adversos de los receptores seropositivos (n = 481) y los receptores seronegativos (n = 176) frente a T. gondii. El modelo 1 incluyó edad y sexo, y el modelo 2 incluyó otros factores de confusión potenciales. Resultados: Con una mediana de seguimiento de 2.903 días (rango intercuartílico: 898-4.757), fallecieron 250 pacientes seropositivos (52%) y 72 receptores seronegativos (41%) frente a T. gondii. Los pacientes seropositivos presentaron mayor mortalidad no ajustada tras el TC (hazard ratio[HR] = 1,31; intervalo de confianza del 95% [IC95%], 1,00-1,70). Tras el ajuste multivariante, este efecto perdió su significación estadística (modelo 1: HR = 1,09; IC95%, 0,83-1,43; modelo 2: HR = 1,12; IC95%, 0,85-1,47). La seropositividad frente a T. gondii del receptor se asoció de modo independiente con mayor riesgo de rechazo agudo (modelo 1: HR = 1,36; IC95%, 1,06-1,74; modelo 2: HR = 1,29; IC95%, 1,01-1,66). Los modelos multivariantes no pusieron de manifiesto una influencia significativa del estado serológico frente a T. gondii del receptor sobre la incidencia de infección, neoplasias, enfermedad vascular del injerto o el desenlace combinado muerte cardiaca o retrasplante. Tampoco se observó una influencia pronóstica significativa de la concordancia donante-receptor respecto al estado serológico frente a T. gondii. Conclusiones: El presente estudio no ha puesto de manifiesto un efecto pronóstico independiente del estado serológico frente a T. gondii en los receptores de TC (AU)</dc:description>
+<dc:source>Rev Esp Cardiol;69(12): 1160-1166, dic. 2016. tab</dc:source>
+<dc:identifier>ibc-158507</dc:identifier>
+<dc:title xml:lang="es">Estado serológico frente a Toxoplasma gondii en receptores de trasplante cardiaco: ¿un factor pronóstico independiente?</dc:title>
+<dc:subject>^d27868^s22080</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d29419^s22083</dc:subject>
+<dc:subject>^d14515^s22052</dc:subject>
+<dc:subject>^d14408^s22083</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d13915</dc:subject>
+<dc:subject>^d22669^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201612</dc:date>
+</metadata>
+</record>
+</ibecs-document>

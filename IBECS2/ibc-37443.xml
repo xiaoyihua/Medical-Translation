@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-37443</identifier>
+<setSpec>0212-3568</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Sepsis by Meningococcus</dc:title>
+<dc:creator>Pérez Oviedo, Miguel</dc:creator>
+<dc:creator>García de La Llana, Miguel</dc:creator>
+<dc:creator>Campos Palacios, Arturo</dc:creator>
+<dc:creator>García Torrejón, M. Carmen</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ministerio de Defensa</dc:publisher>
+<dc:description xml:lang="es">Las infecciones meningocócicas se caracterizan por un comienzo brusco, un posible curso fulminante y una mortalidad elevada. Presentamos un caso de Sepsis por Meningococo tipo C, que evolucionó desfavorablemente a pesar de una correcta cobertura antibiótica inicial (AU)</dc:description>
+<dc:source>Med. mil;56(1): 12-13, ene.-mar.  2000. ilus</dc:source>
+<dc:identifier>ibc-37443</dc:identifier>
+<dc:title xml:lang="es">Sepsis por meningococo</dc:title>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d36588^s22052</dc:subject>
+<dc:subject>^d8746^s22012</dc:subject>
+<dc:subject>^d21012</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d32031^s22046</dc:subject>
+<dc:subject>^d32031^s22057</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200003</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-036152</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Pharmacokinetic/pharmacodynamic analysis of antibiotic therapy in dentistry and stomatology</dc:title>
+<dc:description xml:lang="en">INTRODUCTION. This study evaluates the efficacy of various antimicrobial treatments for oro facial infections on the basis of pharmacokinetic/pharmaco dynamic (PK/PD) criteria. METHODS. A complete a literature search was undertaken to establish the MIC90 values of the five microorganisms most frequently isolated in odontogenic infections and the pharmacokinetic parameters of 13 antibiotics used in these infections. Pharmacokinetic simulations were then carried out with mean population parameters and efficacy indexes were calculated for the 47 treatment regimens analyzed. For drugs showing time-dependent antibacterial killing, the time above MIC (t &gt; MIC) was calculated. For drugs with concentration-dependent bactericidal activity, the AUC/MIC was calculated. RESULTS. Amoxicillin-clavulanic (500 mg/8 h or1000 mg/12 h) and clindamycin (300 mg/6 h) in the time-dependant killing group and moxifloxacin(400 mg/24 h) in the concentration-dependant  group showed adequate efficacy indexes against the five pathogens considered to be the most commonly implicated in odontogenic infections. The spiramycin plus metronidazole combination, present in the commercial formulation Rhodogyl®, did not reach satisfactory PK/PD indexes. CONCLUSION. PK/PD indexes, which are useful predictors of the potential efficacy of antibacterial therapy, were used with ontogenic infections in the present study. The PK/PD simulations showed that amoxicillin-clavulanic, clindamycin and moxifloxacin were the most suitable antibiotics for this kind of infection. Clinical trials are required to confirm that this methodology is useful in these pathologic processes (AU)</dc:description>
+<dc:creator>Ardanza-Trevijano, Bruno</dc:creator>
+<dc:creator>Solinís, María Ángeles</dc:creator>
+<dc:creator>Labora, Alicia</dc:creator>
+<dc:creator>Pedraz, José Luis</dc:creator>
+<dc:creator>Canut, Andrés</dc:creator>
+<dc:creator>Rodríguez-Gascón, Alicia</dc:creator>
+<dc:creator>Isla, Arantxazu</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">INTRODUCCIÓN. Evaluar la eficacia de diferentes tratamientos antimicrobianos en infecciones oro faciales utilizando criterios fármaco cinéticos/fármaco dinámicos (PK/PD).MÉTODOS. Tras llevar a cabo una revisión bibliográfica que permitió conocer los valores de concentración inhibitoria mínima (CIM90) de cinco de los microorganismos más frecuentemente aislados en infecciones odontógenas y los parámetros fármaco-cinéticos de 13 antibióticos utilizados en este tipo de infecciones, se realizaron simulaciones farmacocinéticas con parámetros poblacionales medios y se calcularon los índices de eficacia para las 47 pautas posológicas analizadas. Para los antibióticos dependientes de tiempo se calculó el tsupra CIM, mientras que para los dependientes de concentración se determinó el cociente ABC/CIM90.RESULTADOS. Amoxicilina-ácido clavulánico (500 mg/8 ho 1.000 mg/12 h) y clindamicina (300 mg/6 h), entre los antibióticos con actividad dependiente de tiempo, y moxifloxacino (400 mg/24 h) entre los dependientes de concentración mostraron índices de eficacia adecuados frente a los cinco microorganismos considerados como los más frecuentemente implicados en este tipo de infecciones. La combinación de espiramicina más metronidazol presente en la formulación comercial denominada Rhodogyl®, no alcanzó índices PK/PD satisfactorios. CONCLUSIÓN. Los índices PK/PD son herramientas útiles para predecir la eficacia potencial de la terapia antimicrobiana, y en este caso se han aplicado al tratamiento de infecciones odontógenas. Estas simulaciones PK/PD permiten concluir que amoxicilina-ácido clavulánico, clindamicina y moxifloxacino se presentan como los antibióticos más adecuados que se deben utilizar para el tratamiento de este tipo de infecciones. Sin embargo, sería importante contrastar los resultados obtenidos con un ensayo clínico para confirmar que esta metodología es útil en este tipo de procesos patológicos (AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;23(3): 116-121, mar. 2005. tab</dc:source>
+<dc:identifier>ibc-036152</dc:identifier>
+<dc:title xml:lang="es">Análisis farmacocinético/farmacodinámico (PK/PD)de la antibioterapia en odontoestomatología</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d33384^s22073</dc:subject>
+<dc:subject>^d9252^s22057</dc:subject>
+<dc:subject>^d31792^s22021</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1447^s22057</dc:subject>
+<dc:subject>^d24244</dc:subject>
+<dc:subject>^d1384^s22073</dc:subject>
+<dc:subject>^d10655^s22021</dc:subject>
+<dc:subject>^d30094^s22021</dc:subject>
+<dc:subject>^d911^s22078</dc:subject>
+<dc:subject>^d4419^s22078</dc:subject>
+<dc:subject>^d23201^s22078</dc:subject>
+<dc:subject>^d10709^s22057</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200503</dc:date>
+</metadata>
+</record>
+</ibecs-document>

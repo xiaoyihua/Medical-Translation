@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-4628</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">The clinical microbiology laboratory in the diagnosis of catheter related bacteremia</dc:title>
+<dc:creator>Soloaga, Rolando</dc:creator>
+<dc:creator>Procopio, Adriana</dc:creator>
+<dc:creator>Tokumoto, Marta</dc:creator>
+<dc:creator>Nagel, Claudia</dc:creator>
+<dc:creator>Fernández, Analía</dc:creator>
+<dc:creator>Gutfraind, Zulema</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">La sepsis relacionada con los catéteres es un problema de gran importancia en pacientes de todas las edades. El diagnóstico microbiológico debe contemplar las principales vías de infección (interfase piel-catéter y la vía endoluminal). Con esta finalidad, analizamos 1.496 catéteres centrales y periféricos de corta permanencia y 119 episodios de bacteriemia asociada con catéteres (BAC). Éstos fueron sembrados por la técnica cuantitativa de Brun Buisson (QT), la semicuantitativa de Maki (SQ) y la cualitativa (QL) en caldo, obteniéndose los siguientes valores de sensibilidad, especificidad, valor predictivo positivo, valor predictivo negativo e índice de Youden: SQ = 87 por ciento; 88 por ciento; 40 por ciento; 99 por ciento; 0,75; QT (&gt;= 100 unidades formadoras de colonias [UFC]/ml) = 88 por ciento, 89 por ciento, 43 por ciento, 99 por ciento, 0,77; QT (&gt;= 1.000 UFC/ml) = 77 por ciento, 92 por ciento, 48 por ciento, 97 por ciento, 0,69, y QL = 94 por ciento, 68 por ciento, 20 por ciento, 99 por ciento, 0,62. Los resultados entre SQ y QT (&gt;= 100 UFC/ml) fueron comparables, y el agregado de QT a SQ permitió incrementar la detección de BAC en el 12,8 por ciento, en tanto que la situación inversa se dio en el 10 por ciento de los casos. De acuerdo con estos datos es aconsejable combinar rutinariamente SQ y QT. Finalmente, en 42 episodios de BAC asociados a catéteres implantables procesados por medio del cultivo cuantitativo diferencial de sangre obtenida a través de catéter frente a sangre obtenida de vena periférica, el 79 por ciento tuvieron una relación superior a 1.000, el 7 por ciento entre 100 y 1.000, el 9 por ciento entre 10 y 100 y sólo el 5 por ciento entre 5 y 10 UFC/ml (AU)</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;18(2): 62-65, feb. 2000.</dc:source>
+<dc:identifier>ibc-4628</dc:identifier>
+<dc:title xml:lang="es">El laboratorio de microbiología en el diagnóstico de la bacteriemia relacionada con los catéteres</dc:title>
+<dc:subject>^d22859</dc:subject>
+<dc:subject>^d28479</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d2446</dc:subject>
+<dc:subject>^d22860</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d30241</dc:subject>
+<dc:subject>^d29168</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200002</dc:date>
+</metadata>
+</record>
+</ibecs-document>

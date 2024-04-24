@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-1636</identifier>
+<setSpec>0210-5691</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Death rate predictions. Evaluation carried out at a paediatric intensive care unit</dc:title>
+<dc:creator>López Álvarez, J. M</dc:creator>
+<dc:creator>Limiñana Cañal, J. M</dc:creator>
+<dc:creator>Morón Saen de Casas, A</dc:creator>
+<dc:creator>Alamán y Laguardia</dc:creator>
+<dc:creator>Sánchez López, J. M</dc:creator>
+<dc:creator>González Jorge, R</dc:creator>
+<dc:creator>Pérez Rocha, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Evaluar en términos de calibración y discriminación el comportamiento del índice de riesgo de mortalidad pediátrica (PRISM) y del índice de mortalidad pediátrica (PIM), en la población ingresada en una unidad de medicina intensiva pediátrica (UMIP).Métodos: Se estudian prospectivamente a 235 pacientes ingresados consecutivamente en una UMIP durante un período de tiempo de un año. Se calculó la mortalidad esperada basada en la puntuación PRISM y PIM en todos los pacientes, comparándola con la mortalidad observada. Se realizó un análisis de calibración y discriminación mediante las pruebas de bondad de ajuste y medida del estadístico 2 de Lemeshow-Hosmer. Se determinó la sensibilidad y especificidad de cada modelo, así como el área bajo la curva ROC (AUC) y el cociente de clasificación correcta total (CCT). Se utilizaron los programas SPSS 9.0 y Medcalc. Resultados: El 56,2 por ciento de la población analizada fueron varones. La edad media fue de 48,2 (51,2) meses. La mortalidad de la población fue de 13 pacientes (5,5 por ciento). El PRISM medio fue de 6,61 (6,22). La sensibilidad de ambos índices fue del 84,6 por ciento, mientras que la especificidad del PRISM fue del 91,4 por ciento y la del PIM del 93,2 por ciento. Las predicciones de mortalidad del PRISM presentaron un valor de 2 de 3,05 y un valor de p de 0,93.Las predicciones de mortalidad del PIM presentaron un valor 2 de 5,5 y un valor de p de 0,69. El AUC y el error estándar fueron de 0,93 (0,04) (intervalo de confianza del 95 por ciento: 0,89-0,96) para el PRISM y de 0,92 (0,05) (intervalo de confianza del 95 por ciento: 0,88-0,95) para el PIM. Conclusiones: a) Los dos índices utilizados, PRISM y PIM, presentaron gran exactitud en la predicción de la mortalidad en la población estudiada; b) la capacidad de los dos modelos para discriminar entre pacientes que sobreviven y pacientes que fallecen fue igualmente muy elevada, y c) la principal ventaja objetivada fue la facilidad en la aplicación del PIM (AU)</dc:description>
+<dc:source>Med. intensiva (Madr., Ed. impr.);25(2): 47-52, feb. 2001.</dc:source>
+<dc:identifier>ibc-1636</dc:identifier>
+<dc:title xml:lang="es">Índices pronósticos de mortalidad. Evaluación en una unidad de medicina intensiva pediátrica</dc:title>
+<dc:subject>^d7399</dc:subject>
+<dc:subject>^d29315</dc:subject>
+<dc:subject>^d2694</dc:subject>
+<dc:subject>^d22226</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d23699</dc:subject>
+<dc:subject>^d28105^s22066</dc:subject>
+<dc:subject>^d2715</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200102</dc:date>
+</metadata>
+</record>
+</ibecs-document>

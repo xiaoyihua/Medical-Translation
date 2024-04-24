@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-90154</identifier>
+<setSpec>0210-4806</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Computer-aided analysis of transrectal ultrasound images of the prostate</dc:title>
+<dc:description xml:lang="en">Introduction: Prostate cancer is usually diagnosed by transrectal ultrasound (TRUS) biopsy. Nevertheless, suspicious images are frequently not found. Imaging analysis studies aim to identify ultrasound patterns characteristic of apparently hidden conditions. Material and methods: We digitally recorded 288 TRUS ultrasound guided transrectal biopsies and extracted 3 static images from the puncture-biopsy area. The extraction of the texture characteristics were obtained by &#147;simple mapping&#148; on a gray scale and spatial gray level dependence matrices (SGLDM), also known as Haralick&#145;s co-occurrence matrices, which study the relationship of each pixel and its neighbors. A pattern recognition software system was developed with two different classification methods: nearest neighbor (k-NN) and Markov's hidden models. Finally, a virtual experiment was carried out in which four urologists compared their diagnostic accuracy for prostate cancer with our system in 408 TRUS images, not in real time. Results: The diagnostic capacity (R.O.C. curve) with the simple gray map study was 59.7% with nearest-neighbor classification and 61.6% with Markov's hidden models classification. The co-occurrence matrices showed an area under R.O.C. curve of 60.1% and 60.0% with k-NN and Markov's hidden models classification, respectively. The virtual experiment was conducted with a simple gray map study and k-NN classification. The images processed by our system showed the following diagnostic accuracy: 63.3, 67, 64.3 and 63.7% compared to 61.7, 60.5, 66.2 and 60.7% with the original image. Conclusions: Our pattern recognition system for prostate cancer TRUS images has a limited, yet stable, accuracy (AU)</dc:description>
+<dc:creator>Gómez-Ferrer, Á</dc:creator>
+<dc:creator>Arlandis, S</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: El método de diagnóstico de elección del cáncer de próstata (CP) es la biopsia transrectal guiada ecográficamente. Sin embargo, es frecuente no objetivar imágenes sospechosas. Los estudios de análisis de imagen pretenden identificar patrones ecográficos propios de una patología aparentemente ocultos. Materiales y método: Registramos digitalmente 288 biopsias transrectales ecoguiadas, de las que se aislaron imágenes estáticas de cada punción-biopsia para su análisis computarizado. Para ello se procedió a la extracción de características de textura mediante «mapeo simple» en escala de gris y «matrices espaciales dependientes del nivel de gris» o «matrices de coaparición», que estudian la relación de cada píxel con sus vecinos. Se desarrolló un sistema de «reconocimiento de formas» con dos métodos de clasificación: «técnica de k-vecinos» y «modelos ocultos de Markov». Finalmente realizamos una simulación del sistema con 4 ecografistas, comparando su capacidad diagnóstica en escala de gris con imágenes procesadas con nuestro sistema en 408 punciones grabadas, no en tiempo real. Resultados: La capacidad diagnóstica (curva ROC) con mapeo simple fue de 59,7 y 61,6% con clasificación mediante k-vecinos y modelos ocultos de Markov, respectivamente. Las matrices de coaparición ofrecieron un área bajo la curva ROC de 60,1 y 60,0%. El experimento virtual se llevó a cabo mediante «mapeo simple» y clasificación con «k-vecinos», otorgando una capacidad diagnóstica en cada urólogo de 63,3, 67,0, 64,3 y 63,7% frente a 61,7, 60,5, 66,2 y 60,7% conseguidas con la imagen original. Conclusiones: La utilización de nuestro método de análisis de imagen tiene una capacidad limitada, aunque estable, en la detección de áreas prostáticas cancerígenas (AU)</dc:description>
+<dc:source>Actas Urol Esp;35(7): 404-413, jul.-ago. 2011. ilus, graf, tab</dc:source>
+<dc:identifier>ibc-90154</dc:identifier>
+<dc:title xml:lang="es">Análisis de imagen asistido por ordenador en ecografía transrectal de próstata</dc:title>
+<dc:subject>^d37562^s22066</dc:subject>
+<dc:subject>^d11914^s22053</dc:subject>
+<dc:subject>^d37562^s22045</dc:subject>
+<dc:subject>^d11914^s29166</dc:subject>
+<dc:subject>^d37562^s22039</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d11914^s22016</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201108</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-168510</identifier>
+<setSpec>1137-6821</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">A new artificial intelligence tool for assessing symptoms in patients seeking emergency department care: the Mediktor application</dc:title>
+<dc:description xml:lang="en">Objectives. To analyze agreement between diagnoses issued by the Mediktor application and those of an attending physician, and to evaluate the usefulness of this application in patients who seek emergency care. Methods. Prospective observational study in a tertiary care university hospital emergency department. Patients with medical problems and surgical conditions (surgery and injuries) who did not require immediate emergency care responded to the Mediktor questions on a portable computer tablet. The software analyzed the answers and provided a list of 10 possible preliminary diagnoses in order of likelihood. The patient and the attending physician were blinded to the list to so that the usual care process would not be altered. The level of agreement between the physician's diagnosis and the Mediktor diagnosis was analyzed. Results. A total of 1015 patients were included; 622 cases were considered valid for study. Cases were excluded if the patients did not meet the inclusion criteria, they did not have a discharge diagnosis, they had a final diagnosis expressed as a symptom or their final diagnosis was not included in the Mediktor database. The physician's diagnosis (the gold standard) coincided with one of the 10 MEDIKTOR diagnoses in 91.3% of the cases, with one of the first 3 diagnoses in 75.4%, and with the first diagnosis in 42.9%. Sensitivity was over 92% and specificity over 91% in the majority of common diagnostic groups; the &amp;#954; statistic ranged from 0.24 to 0.98. Conclusions. The Mediktor application is a reliable diagnostic aid for the most prevalent problems treated in a hospital emergency department. The general public finds it easy to use (AU)</dc:description>
+<dc:creator>Martin Baranera, Montserrat</dc:creator>
+<dc:creator>Sanchez Sanchez, Miquel</dc:creator>
+<dc:creator>Moreno Barriga, Elvira</dc:creator>
+<dc:creator>Pueyo Ferrer, Irene</dc:creator>
+<dc:creator>Masip Utset, Josep</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo. Analizar la concordancia entre los diagnósticos emitidos por MediktorR con el realizado por el médico responsable, así como valorar la utilidad de este dispositivo en pacientes que acuden a un servicio de urgencias (SU). Método. Estudio observacional prospectivo realizado en el SU de un hospital terciario universitario. A los pacientes con patologías médicas y quirúrgicas (cirugia y traumatologia) que no precisaban asistencia médica inmediata se les entrego una tableta digital para responder al interrogatorio de MediktorR. Según las respuestas, el software adjudicaba un listado de 10 prediagnosticos ordenados por probabilidad, que se ocultaban al paciente y al médico responsable, para no modificar el proceso habitual. Posteriormente se analizó el grado de coincidencia entre el diagnóstico médico y los diagnósticos ofrecidos por MediktorR. Resultados. 1.015 pacientes fueron incluidos, de los que 622 se consideraron casos válidos para el estudio. Se excluyeron los pacientes que no cumplían los criterios de inclusión, sin diagnostico al alta, con diagnostico final expresado como síntoma y aquellos con diagnósticos no incluidos en MediktorR. Las coincidencias entre el diagnostico medico (patrón oro) y los diez diagnósticos de MediktorR fueron de un 91,3%, en los tres primeros diagnósticos de un 75,4% y en el primer diagnóstico de un 42,9%. Según los grupos de diagnósticos más frecuentes, se objetivo una sensibilidad &gt; 92% y una especificidad &gt; 91% en la mayoría de ellos, con un índice kappa que oscilo entre el 0,24 y el 0,98. Conclusiones. MediktorR es una herramienta fiable para ayudar al diagnóstico de las enfermedades más prevalentes de un SU y fácil de utilizar por el público en general (AU)</dc:description>
+<dc:source>Emergencias (Sant Vicenç dels Horts);29(6): 391-396, dic. 2017. tab</dc:source>
+<dc:identifier>ibc-168510</dc:identifier>
+<dc:title xml:lang="es">Experiencia de Mediktor(R): un nuevo evaluador de síntomas basado en inteligencia artificial para pacientes atendidos en el servicio de urgencias</dc:title>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d22729^s22048</dc:subject>
+<dc:subject>^d3980^s22049</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d4707^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201712</dc:date>
+</metadata>
+</record>
+</ibecs-document>

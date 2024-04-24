@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-045591</identifier>
+<setSpec>0025-7753</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Mortality of gastric cancer in Catalonia, Spain: geographical distribution and time trends from 1986 to 2000</dc:title>
+<dc:description xml:lang="en">Background and objective: The aims of this study are to describe the time trends and the changes in the spatial distribution of stomach cancer mortality by gender, in Catalonia, Spain, in the period 1986-2000. Material and method: The mortality data comes from the Mortality Register for Catalonia at the Health Department and the population data from the Institute of Statistics for Catalonia. To analyze time trends, a Poisson regression model was adjusted for each gender. To analyze the geographical distribution, a Bayesian hierarchical model was used. Results: During the period 1986-2000 the number of deaths from stomach cancer was 8,627 for males and 5,831 for females. During this period the estimated decrease in mortality was 3.13% for males and 3.91% for females. The spatial analysis showed the lowest mortality risk areas along the coast while the mortality risk increased toward the zones in the interior. This geographical pattern is very similar for both sexes but in the lasts years of the period it has been fading. Conclusions: The time trends and the geographical pattern of stomach cancer mortality in Catalonia is similar for both sexes and it is consistent with the trends observed in other developed countries. This suggests a relationship with improved food habits and a better accessibility to health care in the areas of higher risk</dc:description>
+<dc:creator>Ginebra, Josep</dc:creator>
+<dc:creator>Puig, Xavier</dc:creator>
+<dc:creator>Bisbe, Josep c</dc:creator>
+<dc:creator>Gispert, Rosa</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Fundamento y objetivo: Este estudio analiza la evolución temporal y los cambios en la distribución espacial, por comarcas, de la mortalidad por cáncer de estómago en Cataluña, para cada sexo, durante el período 1986-2000. Material y método: Las defunciones por cáncer de estómago de los años 1986-2000 proceden del Registro de Mortalidad de Cataluña del Departament de Salut y la población del Institut d'Estadística de Cataluña. Para el análisis de la evolución temporal se ajustó un modelo de regresión de Poisson para cada sexo. Para el análisis espacial en cada comarca se ha utilizado un modelo jerárquico bayesiano. Resultados: En los años 1986-2000 se produjeron 8.627 defunciones por cáncer de estómago en varones y 5.831 en mujeres. Durante este período se ha estimado un descenso de la mortalidad del 3,13% en los varones y del 3,91% en las mujeres. El análisis espacial muestra que las zonas con menor riesgo de mortalidad son las del litoral y este riesgo aumenta de forma gradual hacia las zonas del interior. Este patrón geográfico es muy similar para los 2 sexos y se ha ido difuminando con el paso del tiempo. Conclusiones: La evolución temporal y la distribución geográfica de la mortalidad por cáncer de estómago en Cataluña son similares en ambos sexos y coherentes con las tendencias observadas en otros países desarrollados. Este patrón indica una mejora en los hábitos alimentarios y una mejor accesibilidad a los servicios sanitarios de las zonas con mayor riesgo</dc:description>
+<dc:source>Med. clín (Ed. impr.);126(13): 481-484, abr. 2006. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-045591</dc:identifier>
+<dc:title xml:lang="es">Mortalidad por cáncer de estómago en Cataluña: distribución geográfica y evolución temporal entre 1986 y 2000</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d27804^s22083</dc:subject>
+<dc:subject>^d13662^s22047</dc:subject>
+<dc:subject>^d27830</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29362</dc:subject>
+<dc:subject>^d13411^s22080</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200604</dc:date>
+</metadata>
+</record>
+</ibecs-document>

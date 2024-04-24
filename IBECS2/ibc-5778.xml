@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-5778</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Substitution indexes in ambulatory surgery: measure, count and compare</dc:title>
+<dc:creator>Colomer, J</dc:creator>
+<dc:creator>Ondategui, S</dc:creator>
+<dc:creator>Esteban, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Comparar los índices de sustitución de la actividad realizada por cirugía mayor ambulatoria en el Hospital Vall d'Hebron con aquellos índices obtenidos por el conjunto de hospitales públicos de Catalunya, los cuales constituyen la Xarxa Hospitalaria d'Utilització Pública (XHUP).Métodos: Se calculan los índices de sustitución del 65 por ciento de los Grupos Relacionados en el Diagnóstico (GRD) susceptibles de cirugía sin ingreso del Hospital Vall d'Hebron y los de la XHUP para después poder calcular y comparar las medias de los dos grupos. Para ello se utilizan las bases de datos del CMBDH de los años 1998 y 1999.Resultados: Las medias de los índices de sustitución son de un 48,88 por ciento para el Hospital Vall d'Hebron y de un 35,14 por ciento para los hospitales de la XHUP. Esta diferencia es estadísticamente significativa (p &lt; 0,0001) calculada con un nivel de significación de un 5 por ciento. También se observa que los DRG con índices de sustitución más elevados son coincidentes en los dos grupos y son los siguientes: 039, 229, 364, 262, 062, 362 y 342.Conclusiones: Considerando las actuales técnicas de benchmarking en el ámbito sanitario, este trabajo demuestra que los índices de sustitución son una herramienta válida a utilizar para comparar hospitales, especialmente en el caso que se pudiera trabajar con bases de datos robustas (AU)</dc:description>
+<dc:source>Gac Sanit;15(6): 523-526, nov.  -dic.  2001.</dc:source>
+<dc:identifier>ibc-5778</dc:identifier>
+<dc:title xml:lang="es">Indices de sustitución en cirugía mayor ambulatoria: medir, contar y comparar</dc:title>
+<dc:subject>^d33549</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d30327</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d557</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200112</dc:date>
+</metadata>
+</record>
+</ibecs-document>

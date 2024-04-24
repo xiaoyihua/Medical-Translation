@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-820</identifier>
+<setSpec>0009-739X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Computer analysis of intestinal myoelectric activity</dc:title>
+<dc:creator>Sáiz, J</dc:creator>
+<dc:creator>Martínez, J. L</dc:creator>
+<dc:creator>Silvestre, J</dc:creator>
+<dc:creator>Meseguer, M. F</dc:creator>
+<dc:creator>Sancho, S</dc:creator>
+<dc:creator>Ponce, J. L</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L</dc:publisher>
+<dc:description xml:lang="es">Se presenta un sistema que permite la adquisición simultánea y en tiempo real del registro manométrico y eléctrico del intestino delgado, diseñado para el estudio experimental en animales (perro). Mediante unos sensores (electrodos y microbalones submucosos) se registra la actividad intestinal, que tras ser acondicionada por amplificadores, adquirida, procesada digitalmente y almacenada en bloques de un minuto. Con posterioridad, las señales son analizadas con el fin de obtener los índices de motilidad. Se describen las técnicas de análisis temporales para registros de corta duración, que permiten el estudio de la onda presiva y el electroenterograma, así como la posibilidad de estudiar la relación existente entre ambas, durante largos períodos de tiempo, y obtener los índices de motilidad. Mediante el sistema descrito, diseñado por el equipo de investigación, se obtiene el registro en tiempo real del electroenterograma y de la señal manométrica simultáneamente, lo cual permite el estudio de la motilidad intestinal (AU)</dc:description>
+<dc:source>Cir. Esp. (Ed. impr.);70(6): 280-285, dic. 2001. tab, ilus</dc:source>
+<dc:identifier>ibc-820</dc:identifier>
+<dc:title xml:lang="es">Análisis de la actividad mioeléctrica intestinal basada en el computador</dc:title>
+<dc:subject>^d4630^s22039</dc:subject>
+<dc:subject>^d19133^s22074</dc:subject>
+<dc:subject>^d5910^s22031</dc:subject>
+<dc:subject>^d7585^s29166</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d7585^s22031</dc:subject>
+<dc:subject>^d27977</dc:subject>
+<dc:subject>^d4345</dc:subject>
+<dc:subject>^d4630^s22045</dc:subject>
+<dc:subject>^d8537^s22045</dc:subject>
+<dc:subject>^d19346^s22039</dc:subject>
+<dc:subject>^d29059</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200112</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-18683</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Particulate air pollution and health in Valencia [Spain] 1994-1996</dc:title>
+<dc:description xml:lang="en">Objective: To estimate the short-term association between levels of air pollution due to suspended particulates and several indicators of morbidity and mortality in the city of Valencia, Spain. Methods: We performed an ecological time-series study. Daily levels of air pollution from black smoke were related to indicators of mortality, hospital admissions, and visits to emergency departments in the city of Valencia between 1994 and 1996. The magnitude of the association was estimated through Poisson autoregression using generalized additive models. The form of the relationship, the delayed effect of pollution, and the possible modification of this effect by other pollutants or periods of the year were assessed. Results: A significant association was found between levels of suspended particulates and several of the indicators analyzed in Valencia. The form of this relationship was linear. An increment of 10 &amp;#956;g/m3 in the daily levels of black smoke was associated with an increase of 1.8% (95% confidence interval: 0.9-2.7%) in the number of deaths on the following day. The same increment in pollutant levels was associated with an increase of 1.5% (0.1-2.8%) in deaths from all cardiovascular causes, an increase of 1.3% (0.0-2.6%) in admissions for all cardiovascular diseases and in an increase of 5.4% (0.6-10.4%) in the number of emergency visits for asthma. This association was not confounded by levels of other pollutants. Black smoke was not associated with mortality from respiratory diseases, with hospital admissions for cerebrovascular diseases, or with emergency visits for chronic obstructive pulmonary disease. Conclusions: This study provides evidence that levels of suspended particles in Valencia are associated with emergency visits for asthma, hospital admissions for cardiovascular diseases, and daily deaths. The association found is consistent with the results of previous studies and fits with recent knowledge of psychopathological mechanisms (AU)</dc:description>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivo: Estimar la asociación a corto plazo entre los valores de contaminación atmosférica por partículas en suspensión y diferentes indicadores de morbilidad y mortalidad en la ciudad de Valencia. Métodos: Estudio ecológico de series temporales en el que se relacionan las variaciones diarias en los valores de contaminación atmosférica por humos negros e indicadores de mortalidad, ingresos hospitalarios y visitas a urgencias en la ciudad de Valencia, durante el período 1994-1996. La magnitud de la asociación se estimó mediante regresión autorregresiva de Poisson utilizando modelos aditivos generalizados. Se examinó la forma de la relación, el efecto retardado de la contaminación y la posible modificación de efecto por otros contaminantes o períodos del año. Resultados: Existe una asociación significativa entre los valores de partículas en suspensión y varios indicadores analizados en Valencia. La forma de dicha relación es lineal. Un incremento de 10 µg/m3 en los valores diarios de humos negros se asoció con un incremento del 1,8 por ciento (intervalo de confianza [IC] del 95 por ciento, 0,9-2,7 por ciento) en el número de defunciones del día siguiente. El mismo incremento en la contaminación se asoció con un aumento del 1,5 por ciento (0,1-2,8 por ciento) en las defunciones por causa circulatoria, en un 1,3 por ciento (0,0-2,6 por ciento) en los ingresos por causas circulatorias y en un 5,4 (0,6-10,4 por ciento) en el número de visitas a urgencias por asma. Esta asociación no está confundida por los valores de otros contaminantes. No se encontró asociación de los humos negros con la mortalidad por enfermedades respiratorias, los ingresos hospitalarios por enfermedades cerebrovasculares ni las visitas a urgencias por enfermedad pulmonar obstructiva crónica (EPOC).Conclusiones: Este estudio proporciona evidencia de que los valores de partículas en suspensión en Valencia se asocian con las urgencias por asma, los ingresos por enfermedades circulatorias y las defunciones diarias. La asociación encontrada es consistente con los resultados de otros estudios realizados y es coherente con conocimientos recientes sobre los mecanismos fisiopatológicos (AU)</dc:description>
+<dc:source>Gac Sanit;16(6): 464-479, nov.  -dic.  2002.</dc:source>
+<dc:title xml:lang="es">Contaminación atmosférica por partículas y salud en Valencia, 1994-1996</dc:title>
+<dc:type>article</dc:type>
+<dc:creator>Tenías, J. M</dc:creator>
+<dc:creator>Iñiguez, C</dc:creator>
+<dc:creator>Ballester, F</dc:creator>
+<dc:creator>Pérez Hoyos, S</dc:creator>
+<dc:language>es</dc:language>
+<dc:identifier>ibc-18683</dc:identifier>
+<dc:subject>^d13287</dc:subject>
+<dc:subject>^d28449</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d400</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:date>200212</dc:date>
+</metadata>
+</record>
+</ibecs-document>

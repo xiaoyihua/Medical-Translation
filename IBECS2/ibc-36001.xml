@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-36001</identifier>
+<setSpec>0033-8338</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Asbestos-related benign diseases</dc:title>
+<dc:creator>Gallego, José Carlos</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Recientemente, España se ha sumado a los países que prohíben la utilización de cualquier tipo de asbesto. Sin embargo, dado su largo período de latencia y la persistencia del material empleado con anterioridad, seguiremos viendo durante muchos años manifestaciones derivadas de su inhalación. Las fibras de asbesto interactúan con los macrófagos alveolares, liberando citocinas y oxidantes que ponen en marcha los procesos de inflamación y la fibrosis. El mecanismo patogénico de las lesiones pleurales está menos claro. Las manifestaciones que se producen son relativamente típicas para el radiólogo, fundamentalmente en los estudios con tomografía computarizada (TC). Consisten en placas pleurales, derrame pleural, engrosamiento pleural difuso, atelectasias redondas, adenopatías y asbestosis, enfermedad intersticial que se caracteriza por líneas intersticiales, bandas parenquimatosas, opacidades curvilíneas subpleurales, panalización y otras alteraciones observables, sobre todo en la TC de alta resolución (TCAR).Para el futuro queda también saber cuáles son los efectos de los sustitutos del asbesto, al parecer, no totalmente inocuos (AU)</dc:description>
+<dc:source>Radiología (Madr., Ed. impr.);46(6): 345-352, nov. 2004.</dc:source>
+<dc:identifier>ibc-36001</dc:identifier>
+<dc:title xml:lang="es">Enfermedades benignas relacionadas con el asbesto</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d1201^s22016</dc:subject>
+<dc:subject>^d24375^s22074</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1200^s22020</dc:subject>
+<dc:subject>^d11424^s22027</dc:subject>
+<dc:subject>^d1270^s22027</dc:subject>
+<dc:subject>^d23481^s22074</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200411</dc:date>
+</metadata>
+</record>
+</ibecs-document>

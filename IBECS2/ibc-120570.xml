@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-120570</identifier>
+<setSpec>0212-1611</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Study of two variants of nutritional risk score &#147;NUTRIC&#148; in ventilated critical patients</dc:title>
+<dc:description xml:lang="en">Introduction: The NUTRIC score was proposed to assess the risk of adverse events potentially modifiable through nutritional intervention in critically ill patients. This score uses interleukin-6 (IL-6), a biomarker not always available. Objective: To study two variants of the score in patients with assisted mechanical ventilation (AMV): NUTRIC-1 without IL-6 and NUTRIC-2 with CRP as biomarker. Methods: Observational prospective cohort with 368 patients with AMV &gt;24 hours. The predictive capacity of both NUTRIC scores was studied by binary logistic regression. The significance level was set at 5%. Results: mean age, 52 years; males 68%. Mean APACHE II score: 20.73 points. Death at the ICU: 196 (53%). Mean time on AMV of the survivals: 8.55 days. Mean NUTRIC-1 and NUTRIC-2 in the deceased-survivors: 4.23 - 3.06 (p = 0.000) and 4.68 -3.39 (p = 0.000). The mortality increased in relation to the score (p = 0.000). The calculated AUC for NUTRIC-1 and NUTRIC-2 were 0.671 (CI 0.617-0.726) and 0.679 (CI 0.6240.733). The mean CRP was higher in deceased patients: 13.07 mg/dL - 8.97 mg/dL (p = 0.001), the correlation improved with more days on AMV (p = 0.034 and p = 0.010) and the AUC increased in a similar way to IL-6 in the original work (0.008 and 0.007, respectively). Conclusion: The two studied variants of the NUTRIC score behaved similarly to the original NUTRIC score. The addition of the CRP improves the score performance and may be an alternative to IL-6, if it is not available (AU)</dc:description>
+<dc:creator>Horacio Bagilet, Daniel</dc:creator>
+<dc:creator>Settecase, Claudio Jesús</dc:creator>
+<dc:creator>Buncuga, Martín</dc:creator>
+<dc:creator>Quintana, Rosana</dc:creator>
+<dc:creator>Moretti, Dino</dc:creator>
+<dc:creator>Quaglino, Marta Beatriz</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: La puntuación NUTRIC, propuesta para evaluar el riesgo de eventos adversos potencialmente modificables por la intervención nutricional en pacientes críticos, utiliza un biomarcador no siempre disponible, la Interleuquina-6 (IL-6). Objetivo: Estudiar en pacientes con asistencia ventilatoria mecánica (AVM) dos variantes de la puntuación: NUTRIC-1 sin IL-6 y NUTRIC-2 con PCR como biomarcador. Métodos: Cohorte prospectiva observacional de 368 enfermos con AVM &gt;24 horas. La capacidad predictiva de las dos variantes del NUTRIC se estudió mediante regresión logística binaria. El nivel de significación utilizado fue de 5%. Resultados: Edad promedio: 52 años, varones: 68%. APACHE II promedio: 20,73 puntos. Fallecidos en la UCI: 196 (53%). Tiempo de AVM promedio de los sobrevivientes: 8,55 días. NUTRIC-1 y NUTRIC-2 promedio en fallecidos - sobrevivientes: 4,23 - 3,06 (p = 0,000) y 4,68 -3,39 (p = 0,000). La mortalidad aumentó en relación al incremento de la puntuación (p = 0,000). Las AUC calculadas para NUTRIC-1 y NUTRIC-2 fueron 0,671 (IC 0,617-0,726) y 0,679 (IC 0,624-0,733). La PCR promedio fue superior en los pacientes fallecidos: 13,07 mg/dl - 8,97 mg/dl (p = 0,001), mejoró la correlación con los días de AVM (p 0,034 y p 0,010) e incremento el AUC en forma similar a la IL-6 en el trabajo original (0,008 y 0,007 respectivamente). Conclusión: Las dos variantes de la puntuación estudiadas se comportaron en forma similar al NUTRIC original. La incorporación de la PCR mejora el rendimiento de dicha puntuación y podría ser una alternativa a la IL-6, de no estar disponible (AU)</dc:description>
+<dc:source>Nutr Hosp;29(1): 166-172, ene. 2014. ilus, tab</dc:source>
+<dc:identifier>ibc-120570</dc:identifier>
+<dc:title xml:lang="es">Estudio de dos variantes de la puntuacion de riesgo nutricional &#147;NUTRIC&#148; en pacientes criticos ventilados</dc:title>
+<dc:subject>^d12541^s22074</dc:subject>
+<dc:subject>^d24806</dc:subject>
+<dc:subject>^d28466</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d33939^s22045</dc:subject>
+<dc:subject>^d30170</dc:subject>
+<dc:subject>^d38061^s22016</dc:subject>
+<dc:subject>^d23568^s22002</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d7426^s22032</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201401</dc:date>
+</metadata>
+</record>
+</ibecs-document>

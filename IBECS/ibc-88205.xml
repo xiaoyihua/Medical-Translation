@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-88205</identifier>
+<setSpec>1137-6627</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Triage: a key tool in emergency care</dc:title>
+<dc:description xml:lang="en">&#147;Triage&#148; is a process that enables us to manage clinicalrisk in order to safely and suitably handle patientflows when demand and clinical needs exceed resources.At present, triage systems that are employed arestructured according to five levels of priority. Levelsare allocated according to the concept that what isurgent is not always serious and that what is seriousis not always urgent. This makes it possible to classifypatients according to &#147;degree of urgency&#148;, so thatthe more urgent patients will be attended to first andthe rest will be re-evaluated until they are seen by thedoctor. The Spanish triage system (SET) and the Manchestertriage system (MTS) are the two standardisedsystems most implemented in our country. We alsodiscuss the system of triage devised in Navarre - integratedin the computerised clinical history- and usedin the hospital network of Navarre. All are multidisciplinarysystems based on the reasons and urgency ofconsultation, but not on diagnoses, and are carried outby nursing staff with medical support when required.In addition, they all include monitoring of the quality ofthe accident and emergency service itself, and can beapplied in the outpatient field(AU)</dc:description>
+<dc:creator>Soler, W</dc:creator>
+<dc:creator>Bragulat, E</dc:creator>
+<dc:creator>Álvarez, A</dc:creator>
+<dc:creator>Gómez Muñoz, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El triaje es un proceso que permite una gestión delriesgo clínico para poder manejar adecuadamente ycon seguridad los flujos de pacientes cuando la demanday las necesidades clínicas superan a los recursos.Actualmente se utilizan sistemas de triaje estructuradocon cinco niveles de prioridad que se asignan asumiendoel concepto de que lo urgente no siempre esgrave y lo grave no es siempre urgente y hacen posibleclasificar a los pacientes a partir del «grado de urgencia», de tal modo que los pacientes más urgentes seránasistidos primero y el resto serán reevaluados hasta servistos por el médico. El sistema español de triaje (SET)y el sistema de triaje Manchester (MTS) son los dos sistemasnormalizados de mayor implantación en nuestropaís, pero analizamos también el sistema de triaje elaboradoen Navarra que se integra en la historia clínicainformatizada (HCI) y que se utiliza en toda la redpública hospitalaria de Navarra. Todos son sistemasmultidisciplinares basados en motivos y en la urgenciade la consulta pero no en diagnósticos y son llevados acabo por enfermería con apoyo médico puntual. Tambiéntodos incorporan elementos de monitorización dela calidad del propio servicio de urgencias y cuentancon proyección para poder ser aplicados en el ámbitoextrahospitalario(AU)</dc:description>
+<dc:source>An Sist Sanit Navar;33(supl.1): 55-68, ene.-abr. 2010. tab, graf, ilus</dc:source>
+<dc:identifier>ibc-88205</dc:identifier>
+<dc:title xml:lang="es">El triaje: herramienta fundamental en urgencias y emergencias</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28838^s22045</dc:subject>
+<dc:subject>^d4713^s22045</dc:subject>
+<dc:subject>^d12720^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d4711^s22049</dc:subject>
+<dc:subject>^d33551</dc:subject>
+<dc:subject>^d34002</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201004</dc:date>
+</metadata>
+</record>
+</ibecs-document>

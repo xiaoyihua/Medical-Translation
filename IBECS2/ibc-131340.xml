@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-131340</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Factors related with the appropriateness of pharmacologicaltreatment in polypathological patients</dc:title>
+<dc:description xml:lang="en">Objective: To evaluate the association between the number of pharmacological inappropriateness and possible factors related with it. Methods: All polyphatological patients of the IMPACTO project in a tertiary hospital were included (July 2010-March 2012). The pharmacist performed the interventions based on a combined strategy that included the modified MAI and the STOPP-START criteria. A greater number of interventions indicated smaller treatment appropriateness. In the analysis of the strength of association between two continuous variables the Pearson correlation coefficient was used. Test of Student&#146;s t or Mann-Whitney comparisons of quantitative data between two groups were applied. Subsequently, a multivariate analysis was performed to study possible variables which explain the inappropriateness of the pharmacological treatment. Results: 242 patients were included. 838 inappropriateness were detected (average per patient of 3±2). The appropriateness was associated with: number of diagnoses, medications, and categories of polypathology, Charlson Comorbidity Index, sex, and categories A1 and B2. When diagnosing collinearity in the multivariate model, we observed that there was collinearity between «Charlson Comorbidity Index» and «number of categories of polypathological patients», so it was decided to conduct two multivariate models variables, one each. The number of drugs, the number of diagnoses and the gender remained significant in both multivariate models. Conclusions: The appropriateness of pharmacological treatment decreases with increasing number of drugs and number of diagnoses, as well as female gender. However, both multivariate models explain a low percentage of variability in the number of inappropriateness (AU)</dc:description>
+<dc:creator>Rivas Covas, P. C</dc:creator>
+<dc:creator>Nieto Martín, M. D</dc:creator>
+<dc:creator>Rincón Gómez, M</dc:creator>
+<dc:creator>Alfaro Lara, E. R</dc:creator>
+<dc:creator>Galván Banqueri, M</dc:creator>
+<dc:creator>Veja, M. D</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">Objetivo: evaluar la asociación entre el número de inadecuaciones farmacológicas y posibles factores relacionados con la misma. Métodos: Se incluyeron todos los pacientes pluripatológicos del proyecto IMPACTO en un hospital de tercer nivel (Julio 2010-Marzo 2012). El farmacéutico realizó las intervenciones en base a una estrategia combinada que incluía el MAI modificado y los criterios STOPP-START. A mayor número de intervenciones menor adecuación del tratamiento. En los análisis de la fuerza de asociación entre dos variables continuas se utilizó el coeficiente de correlación de Pearson. Se aplicó el test de la t de Student o U de Mann-Whitney en comparaciones de datos cuantitativos entre dos grupos. Posteriormente, se realizó un análisis multivariante, para estudiar posibles variables que explicasen las inadecuaciones del tratamiento farmacológico. Resultados: Se incluyeron un total de 242 pacientes. Se detectaron un total de 838 inadecuaciones, siendo la media por paciente de 3±2. La adecuación del tratamiento farmacológico se asoció con el número de diagnósticos, el número de medicamentos, el número de categorías de paciente pluripatológico, el índice de comorbilidad de Charlson, el sexo y las categorías A1 y B2. Al realizar el diagnóstico de colinealidad, en el modelo multivariante, de las variables se observó que existía colinealidad entre las variables «índice de comorbilidad de Charlson» y «número de categorías de paciente pluripatológico», por lo que se decidió realizar dos modelos multivariantes, uno con cada una de ellas. Se mantuvieron significativos con el multivariante y para ambos modelos el número de medicamentos, el número de diagnósticos y el sexo. Conclusiones: La adecuación del tratamiento farmacológico disminuyó al aumentar el número de medicamentos y el número de diagnósticos, así como en mujeres. No obstante, ambos modelos multivariantes, explicaron un porcentaje de variabilidad del número de inadecuaciones leve (AU)</dc:description>
+<dc:source>Farm Hosp;38(5): 405-410, sept.-oct. 2014. ilus, tab</dc:source>
+<dc:identifier>ibc-131340</dc:identifier>
+<dc:title xml:lang="es">Factores relacionados con la adecuación del tratamiento farmacológico en pacientes pluripatológicos</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d54220^s22049</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d50249</dc:subject>
+<dc:subject>^d54219^s22083</dc:subject>
+<dc:subject>^d4419</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201410</dc:date>
+</metadata>
+</record>
+</ibecs-document>

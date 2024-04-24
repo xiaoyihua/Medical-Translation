@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-35916</identifier>
+<setSpec>1135-4127</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:creator>Segovia Pérez, C</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Ediciones Doyma, S.L.</dc:publisher>
+<dc:description xml:lang="es">Objetivos. Establecer un método explícito para asignar los objetivos en cartera de servicios de una organización de un nivel administrativo a las unidades operativas del nivel inmediatamente inferior. Métodos. Se calculan las cargas de trabajo asociadas a los objetivos. Se asignan esas cargas a las unidades operativas. Después se distribuyen esas cargas de trabajo en los diferentes servicios, en función de los aumentos necesarios para llegar a las coberturas deseadas. Resultados. El método hace desaparecer las bolsas de ineficiencia, y hace patente la necesidad de disminuir recursos, aumentarlos o mejorar los procesos. El método correlaciona muy bien los aumentos en cada servicio con la distancia entre las coberturas alcanzadas y las coberturas deseadas. Conclusiones. El método permite tener en cuenta tanto la carga de trabajo como la distribución deseada de esa carga en diferentes servicios (AU)</dc:description>
+<dc:source>Cuad. gest. prof. aten. prim. (Ed. impr.);10(4): 189-194, oct. 2004. tab</dc:source>
+<dc:identifier>ibc-35916</dc:identifier>
+<dc:title xml:lang="es">Un método para asignar objetivos de cartera de servicios</dc:title>
+<dc:subject>^d16855</dc:subject>
+<dc:subject>^d11756^s22049</dc:subject>
+<dc:subject>^d29075</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d10112</dc:subject>
+<dc:subject>^d37678</dc:subject>
+<dc:subject>^d29745^s22083</dc:subject>
+<dc:subject>^d17099</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200410</dc:date>
+</metadata>
+</record>
+</ibecs-document>

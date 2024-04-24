@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-110558</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Application of tobit regression models in modelling censored epidemiological variables</dc:title>
+<dc:description xml:lang="en">Many variables in epidemiological studies are continuous measures obtained by means of measurement equipments with detection limits, generating censored distributions. The censorship, opposite to the trucation, takes place for a defect of the data of the sample. The distribution of a censored variable is a mixture between a continuous and a categorical distributions. In this case, results from lineal regression models, by means of ordinary least squares, will provide biased estimates. With one only censorhip point the tobit model must be used, while with several censorship points this model's generalization should also be used. The illustration of these models is presented through the analysis of the levels of mercury measured in urine in the study about health effects of a municipal solid-waste incinerator in the county of Mataró (Spain) (AU)</dc:description>
+<dc:creator>Bleda Hernández, M. J</dc:creator>
+<dc:creator>Tobías Garcés, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Muchas variables en estudios epidemiológicos corresponden a medidas continuas obtenidas mediante aparatos de medición con determinados límites de detección, produciendo distribuciones censuradas. La censura, a diferencia del truncamiento, se produce por un defecto de los datos de la muestra. La distribución de una variable censurada es una mezcla entre una distribución continua y otra discreta. En este caso, no es adecuado utilizar el modelo de regresión lineal estimado para mínimos cuadrados ordinarios, ya que proporciona estimaciones sesgadas. Con un único punto de censura debe utilizarse el modelo de regresión censurado (modelo tobit), mientras que cuando hay varios puntos de censura se utiliza la generalización de este modelo. La ilustración de estos modelos se presenta a través del análisis de las concentraciones de mercurio medidas en orina, correspondientes al estudio sobre los efectos para la salud de las emisiones de la incineradora de residuos sólidos de Mataró (AU)</dc:description>
+<dc:source>Gac Sanit;16(2): 188-195, mar.-abr. 2002. ilus, tab</dc:source>
+<dc:identifier>ibc-110558</dc:identifier>
+<dc:title xml:lang="es">Aplicación de los modelos de regresión tobit en la modelización de variables epidemiológicas censuradas</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28565</dc:subject>
+<dc:subject>^d24768</dc:subject>
+<dc:subject>^d24625</dc:subject>
+<dc:subject>^d24535</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28609</dc:subject>
+<dc:subject>^d28374</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200204</dc:date>
+</metadata>
+</record>
+</ibecs-document>

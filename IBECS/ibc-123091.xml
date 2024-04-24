@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-123091</identifier>
+<setSpec>2173-4712</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Suppression and mediation effect in psychosocial intervention: Differences, similarities and examples</dc:title>
+<dc:description xml:lang="en">This paper compares the mediator and suppressor effect of a third variable. Both effects split the variance of the dependent variable (Y). Mediation is the reduction, after introducing the third variable (Z) in the model, of the proportion of variance explained on variable Y directly by the independent variable (X), and suppression is the increase of the of the proportion of variance explained on variable Y directly by the independent variable after introducing the third variable in the model. Then, the characteristics and differences of each effect are analyzed and the situations in which either effect occurs are examined. Each situation, consisting of three intercorrelated variables, is explained with examples from the psychosocial intervention context. Finally, recommendations for the use and interpretation of both effects are provided (AU)</dc:description>
+<dc:creator>Murgui, Sergio</dc:creator>
+<dc:creator>Jiménez, Teresa I</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">El presente trabajo compara el efecto mediador y el supresor de una tercera variable. Ambos efectos parcelan la varianza de la variable dependiente (Y). La mediación es la reducción, tras introducir una tercera variable (Z) en el modelo, de la proporción de varianza explicada directamente por la variable independiente (X) en la variable criterio (Y) y la supresión es el incremento de la proporción de varianza explicada directamente por la independiente en la variable criterio, al incluir la tercera variable en el modelo. Se analizan las características y diferencias de cada efecto y se examina en qué situaciones se produce uno u otro. Cada situación, compuesta de tres variables correlacionadas entre sí, se explica con un ejemplo en el contexto de la intervención psicosocial. Finalmente, se proporcionan recomendaciones sobre la interpretación y utilización de ambos efectos (AU)</dc:description>
+<dc:source>Interv. psicosoc. (Internet);22(1): 55-59, abr. 2013. ilus, tab</dc:source>
+<dc:identifier>ibc-123091</dc:identifier>
+<dc:title xml:lang="es">Efecto de supresión y mediación en el contexto de la intervención psicosocial: Diferencias, similitudes y ejemplos</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d29938^s22056</dc:subject>
+<dc:subject>^d3244</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d13328</dc:subject>
+<dc:subject>^d50302</dc:subject>
+<dc:subject>^d13309</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201304</dc:date>
+</metadata>
+</record>
+</ibecs-document>

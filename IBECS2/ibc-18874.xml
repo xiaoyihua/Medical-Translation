@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-18874</identifier>
+<setSpec>1134-8046</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Pain assesment (II)</dc:title>
+<dc:creator>Serrano Atero, M. S</dc:creator>
+<dc:creator>Caballero, J</dc:creator>
+<dc:creator>Prieto, J</dc:creator>
+<dc:creator>García Saura, P. L</dc:creator>
+<dc:creator>Serrano Álvarez, C</dc:creator>
+<dc:creator>Cañas, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>Arán Ediciones, S.A</dc:publisher>
+<dc:description xml:lang="es">No disponible</dc:description>
+<dc:source>Rev. Soc. Esp. Dolor;9(2): 109-121, mar. 2002. tab</dc:source>
+<dc:identifier>ibc-18874</dc:identifier>
+<dc:title xml:lang="es">Valoración del dolor (II)</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d10333^s22056</dc:subject>
+<dc:subject>^d31706^s22044</dc:subject>
+<dc:subject>^d10333^s22032</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d19283^s22045</dc:subject>
+<dc:subject>^d453^s22044</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200203</dc:date>
+</metadata>
+</record>
+</ibecs-document>

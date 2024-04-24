@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-96328</identifier>
+<setSpec>1695-4033</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Measuring tidal volume during paediatric oscillatory and jet high-frequency ventilation</dc:title>
+<dc:description xml:lang="en">Objective: To as certain whether a spirometer can measure tidal volume (TV) during high frequency oscillatory ventilation (HFOV) and high frequency jet ventilation (HFJV), and to analyse the effect of changes in ventilator settings. Methods: The study was performed with paediatric porcine lung models submitted to HFOV with a Sensormedics 3100 ventilator and HFJV with a Paravent Pate R ventilator connected to a D-Fend spirometer. Programmed frequency, amplitude, and mean airway pressure (MAP) were changed in the ventilator, and TV and pressures were recorded using the spirometer. Results: The spirometer measured TV in the paediatric lung models and piglets, but could not measure TV less than 8 ml, when the pressure amplitude was higher than 55 cmH2O or the MAP was higher than 30 cmH2O. With HFOV there was a correlation between amplitude and tidal volume, and a positive correlation between pressure and TV with HFJV. With both respirators there was a negative correlation between frequency and TV. Conclusions: The D-Fend spirometer can measure tidal volume and pressure during HFOV and HFJV. However, it does not work with volumes lower than 8 ml, and high amplitude or mean airway pressure (AU)</dc:description>
+<dc:creator>Urbano, J</dc:creator>
+<dc:creator>Castillo, J. del</dc:creator>
+<dc:creator>Bellón, J. M</dc:creator>
+<dc:creator>Solana, M. J</dc:creator>
+<dc:creator>López-Herce, J</dc:creator>
+<dc:creator>Mencía, S</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Valorar si un espirómetro puede medir el volumen corriente en ventilación de alta frecuencia oscilatoria (VAFO) y por jet (VAFJ) y analizar el efecto de los cambios en los parámetros del respirador. Métodos: Se realizó un estudio con pulmones de prueba pediátricos y en cerdos. Para la VAFO se utilizó el respirador Sensormedics 3100BR y para la VAFJ el respirador Paravent PateR. La medición del volumen corriente (VC) se realizó con un espirómetro D-Fend. Se realizaron cambios en la frecuencia, amplitud y presión media en la vía aérea (PMVA), registrándose los cambios en el VC y las presiones. Resultados: El espirómetro midió el VC en los pulmones de prueba y en los cerdos, pero no pudo medir VC menores de 8 ml, cuando la amplitud era mayor de 55 cmH2O o la PMVA mayor de 30 cmH2O. En la VAFO existió una correlación entre la amplitud y el VC y en la VAFJ entre la presión y el VC. En ambos respiradores existió una correlación negativa entre la frecuencia y el VC. Conclusiones: El espirómetro D-Fend puede medir el volumen corriente durante la VAFO y la VAFJ, pero no es capaz de medir VC menores de 8 o cuando se utilizan amplitudes o presiones elevadas (AU)</dc:description>
+<dc:source>An Pediatr (Barc);76(1): 11-15, ene. 2012. graf</dc:source>
+<dc:identifier>ibc-96328</dc:identifier>
+<dc:title xml:lang="es">Medición del volumen corriente en ventilación de alta frecuencia</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d841</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d22916^s22045</dc:subject>
+<dc:subject>^d22917^s22045</dc:subject>
+<dc:subject>^d9183^s22045</dc:subject>
+<dc:subject>^d13530^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201201</dc:date>
+</metadata>
+</record>
+</ibecs-document>

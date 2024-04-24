@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-147870</identifier>
+<setSpec>0212-6982</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">SPECT-CT: a new tool for localisation of sentinel lymph nodes in breast cancer patients</dc:title>
+<dc:description xml:lang="en">Introduction. Sentinel lymph node biopsy has become a widely accepted procedure for axillary lymph node staging in patients with breast cancer. Aim. The aim of this study was to determine the advantages of using SPECT-CT instead of planar scintigraphy in the presurgical localisation of sentinel lymph nodes. Methods. We prospectively included 25 consecutive patients with breast cancer who were admitted to our department for SLN localisation. Patients were divided into two groups, depending on whether neoadjuvant chemotherapy had been received (B, n = 6) or not (A, n = 19). Four doses (1.0 mCi each) of 99mTc-nanocolloid were injected intradermallly in all patients, and SPECT-CT and planar images were acquired. All patients underwent surgery and SLN localisation with a hand-held gamma probe. Any axillary &#147;hot spots&#148; were resected. The kappa index (ki) was calculated using surgical findings as the gold standard. Results. In group A, the SLN was correctly detected in 17/19 patients (89.5 %) with SPECT-CT and in 12/19 (63.2%) with planar images. The correlation between SPECT-CT and surgical findings (ki 0.91) was better than between planar images and surgical findings (ki 0.57). In group B, the results of SPECT-CT and planar images were identical, with accurate localisation of the SLN in 5/6 patients (ki 0.76). Conclusions. The results of this study suggest that SPECT-CT may be useful for locating the SLN in breast cancer patients, as it provides accurate localization of the SLN with useful anatomical information. This may allow the surgeon to search exclusively for SLN viewed on SPECT-CT, and avoid false negative and false positive results (AU)</dc:description>
+<dc:creator>Mucientes Rasilla, J</dc:creator>
+<dc:creator>Delgado-Bolton, R</dc:creator>
+<dc:creator>Cardona Arboniés, J</dc:creator>
+<dc:creator>Farge Balbín, L</dc:creator>
+<dc:creator>Izarduy Pereyra, L</dc:creator>
+<dc:creator>Carreras Delgado, JL</dc:creator>
+<dc:creator>Rodríguez Rey, C</dc:creator>
+<dc:creator>Román Santamaría, JM</dc:creator>
+<dc:creator>González Maté, A</dc:creator>
+<dc:creator>Moreno Elola-Olaso, A</dc:creator>
+<dc:creator>Lapeña Gutiérrez, L</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción. La biopsia selectiva del ganglio centinela es una herramienta que ha demostrado ser eficaz en la estadificación linfática, evitando realizar linfadenectomías a pacientes que no van a beneficiarse de ellas. Objetivo. Determinar las ventajas de la SPECT-TAC frente a la gammagrafía convencional en la localización prequirúrgica del ganglio centinela. Material y métodos. Se trata de un estudio prospectivo con 25 pacientes divididas en dos grupos, según hubiesen recibido o no quimioterapia neoadyuvante (grupo A, n = 19 sin quimioterapia previa; grupo B, n = 6 con quimioterapia), a las que se les realizó la gammagrafía planar convencional y un estudio con un equipo híbrido SPECT-TAC de baja dosis. Se realizó la localización intraoperatoria con sonda portátil resecando todos los depósitos existentes en la axila. Resultados. La SPECT-TAC determinó correctamente el número y localización de los ganglios en 17 de 19 pacientes del grupo A, frente a 12 de 19 pacientes en las que lo hizo la gammagrafía. La concordancia de la SPECT-TAC con los hallazgos de la cirugía fue muy buena (índice kappa 0,91), mientras que la gammagrafía presentó una concordancia moderada (índice kappa 0,57). Conclusiones. La SPECT-TAC se constituye como una herramienta nueva que aporta al cirujano una información exacta de la localización de los ganglios centinela, permitiendo orientar de inicio el acto quirúrgico a la búsqueda exclusiva de los ganglios observados en las imágenes (AU)</dc:description>
+<dc:source>Rev Esp Med Nucl;27(3): 183-190, mayo 2008. tab, ilus</dc:source>
+<dc:identifier>ibc-147870</dc:identifier>
+<dc:title xml:lang="es">SPECT-TAC: una nueva herramienta para la localización del ganglio centinela en pacientes con cáncer de mama</dc:title>
+<dc:subject>^d29623</dc:subject>
+<dc:subject>^d238^s22059</dc:subject>
+<dc:subject>^d238^s22057</dc:subject>
+<dc:subject>^d9560^s22045</dc:subject>
+<dc:subject>^d35392^s22045</dc:subject>
+<dc:subject>^d24895</dc:subject>
+<dc:subject>^d31593^s22008</dc:subject>
+<dc:subject>^d31593^s22009</dc:subject>
+<dc:subject>^d24375</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d1968^s22053</dc:subject>
+<dc:subject>^d8384^s22008</dc:subject>
+<dc:subject>^d33861</dc:subject>
+<dc:subject>^d27848</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d31593^s22064</dc:subject>
+<dc:subject>^d1968^s22057</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:subject>^d3162</dc:subject>
+<dc:subject>^d238^s22064</dc:subject>
+<dc:subject>^d1968^s22009</dc:subject>
+<dc:subject>^d31593^s22057</dc:subject>
+<dc:subject>^d31593^s22058</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d29310</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d1377</dc:subject>
+<dc:subject>^d238^s22009</dc:subject>
+<dc:subject>^d28607</dc:subject>
+<dc:subject>^d238^s22008</dc:subject>
+<dc:subject>^d28606</dc:subject>
+<dc:subject>^d974^s22073</dc:subject>
+<dc:subject>^d8384^s22016</dc:subject>
+<dc:subject>^d8384^s22058</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200805</dc:date>
+</metadata>
+</record>
+</ibecs-document>

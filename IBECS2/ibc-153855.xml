@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-153855</identifier>
+<setSpec>0009-739X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">New scale for predicting mortality in ruptured abdominal aortic aneurysms</dc:title>
+<dc:description xml:lang="en">Introduction: To determine the usefulness of mortality risk scores for the endovascular treatment of ruptured abdominal aortic aneurysms. Methods: Retrospective study of 61 patients undergoing endovascular repair between 2009 and 2014. Preoperative variables and in-hospital mortality were collected. The Hardman, GAS, Vancouver and ERAS scales were calculated. Results: In-hospital mortality was 45.9%. The univariate predictors obtained were age, male sex, hypertension, smoking, chronic obstructive pulmonary disease, systolic blood pressure &lt; 90 mmHg, heart rate and loss of consciousness. After completing the multivariate analysis, significant variables were age (P=.021), systolic blood pressure &lt; 90 mmHg (P=.004) and heart rate (P=.050). The GAS (76.79 ± 9.88 vs. 90.43 ± 14.76, P=.001), Vancouver (4.41 ± 0.62 vs. 4.83 ± 0.55, P=.007) and ERAS scales (0.06 ± 0.24 vs. 0.86 ± 0.76, P=.001) were statistically different between the groups. The scale resulting from the following formula: 0.083 + 0.158 (if age&gt; 80 years) + 0.701 (if systolic blood pressure&lt; 80 mmHg) + 0.598 (if heart rate&lt; 70 beats/min); obtained an area under the curve of 0.95. Conclusions: Age, systolic pressure and heart rate, are predictors of hospital mortality of patients treated with endovascular repair of ruptured abdominal aortic aneurysms. Applying the scale proposed in this study, in combination with GAS, Vancouver and ERAS scales, allows the detection of patients who would not benefit from endovascular treatment (AU)</dc:description>
+<dc:creator>Fuente, Ruth</dc:creator>
+<dc:creator>Martín Pedrosa, Miguel</dc:creator>
+<dc:creator>San Norberto, Enrique M</dc:creator>
+<dc:creator>Revilla, Alvaro</dc:creator>
+<dc:creator>García Saiz, Irene</dc:creator>
+<dc:creator>Vaquero, Carlos</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción: Conocer la utilidad de las escalas de riesgo de mortalidad para el tratamiento endovascular de los pacientes con aneurisma de aorta abdominal roto. Diseñar una escala de riesgo específica. Métodos: Estudio retrospectivo de 61 pacientes intervenidos mediante reparación endovascular de aneurisma de aorta abdominal roto entre 2009 y 2014. Se recogieron variables preoperatorias y de mortalidad intrahospitalaria, así como las escalas Hardman, GAS, Vancouver y ERAS. Resultados: La mortalidad intrahospitalaria fue del 45,9%. El estudio univariante obtuvo como factores pronósticos la edad, el sexo varón, la hipertensión arterial, el hábito tabáquico, la enfermedad pulmonar obstructiva crónica, la tensión arterial sistólica &lt; 90 mmHg, la frecuencia cardiaca y la pérdida de conciencia. Tras la realización del análisis multivariante, la variables significativas fueron la edad (p = 0,021), la presión arterial sistólica (p = 0,004) y la frecuencia cardiaca (p = 0,050). Las escalas GAS (76,79 ± 9,88 vs. 90,43 ± 14,76; p = 0,001), Vancouver (4,41 ± 0,62 vs. 4,83 ± 0,55; p = 0,007) y ERAS (0,06 ± 0,24 vs. 0,86 ± 0,76; p = 0,001) resultaron estadísticamente diferentes en los pacientes fallecidos. La escala resultante de la siguiente fórmula: 0,083 + 0,158 (si edad &gt; 80 años) + 0,701 (si tensión arterial&lt; 80 mmHg) + 0,598 (si frecuencia cardiaca&lt; 70 lat/min) obtuvo un área bajo la curva de 0,95. Conclusiones: Edad, presión sistólica y frecuencia cardiaca constituyen factores predictores de mortalidad intrahospitalaria de los pacientes con aneurisma de aorta abdominal roto tratados mediante exclusión endovascular. La aplicación de la escala propuesta en el presente estudio, en combinación con las escalas GAS, Vancouver y ERAS, permite conocer los pacientes que no se beneficiarían de tratamiento endovascular (AU)</dc:description>
+<dc:source>Cir. Esp. (Ed. impr.);94(6): 339-345, jun.-jul. 2016. tab, graf</dc:source>
+<dc:identifier>ibc-153855</dc:identifier>
+<dc:title xml:lang="es">Nueva escala de predicción de mortalidad en los aneurismas de aorta abdominal rotos</dc:title>
+<dc:subject>^d28599</dc:subject>
+<dc:subject>^d30829^s22080</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d30047^s22066</dc:subject>
+<dc:subject>^d28626</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d1024^s22080</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d24572</dc:subject>
+<dc:subject>^d1024^s22047</dc:subject>
+<dc:subject>^d30829^s22047</dc:subject>
+<dc:subject>^d54238^s22066</dc:subject>
+<dc:subject>^d54238^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201607</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-102566</identifier>
+<setSpec>0212-8799</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Use of pNNx statistics in the evaluation of heart rate variability at rest and during exercise</dc:title>
+<dc:description xml:lang="en">Number of differences higher than 50 ms in successive normal heartbeats expressed as percent (pNN50) has been widely used to measure the heart rate variability (HRV). But pNN50 is only one member of a general pNNx statistics for HRV. The objective was to assess the power of different pNNx values indistinguishing between healthy people and cardiac patients both at rest and during aerobic exercise. We studied 9 male cardiac patients and the results were compared to 10 physically healthy active. Heartbeat signal was recorded beat to beat for 15 minutes at rest supine and 15minutes while pedalling at 60% of the maximal theoretical HR. At the moment of the study each cardiac patient had suffered at least one episode of acute myocardial infarction (AMI)between 1 and 8 years before the study and he was taking part in the phase III of a cardiac rehabilitation program, so none of the patients have suffered acute episode in the last year. The pNNx was calculated as the number of differences higher than x ms expressed as percent and for x values from 10 to 50ms.All pNNx values decreased with exercise, but the differences increase as &#147;x&#148; values decrease. When using standard pNN50cardiac and healthy clearly differ at rest (1.71±2.24 and9.87±5.68, respectively) but not during exercise (0.48±1.02and 0.30±0.33, respectively). However, at low &#147;x&#148; values these four situations became different and with pNN10 they were completely distinguishable. In conclusion, pNN10 is more sensible that pNN50 as index of HRV in cardiac patients both at rest and exercise (AU)</dc:description>
+<dc:creator>Naranjo Orellana, José</dc:creator>
+<dc:creator>Cruz Torres, Blanca de la</dc:creator>
+<dc:language>en</dc:language>
+<dc:description xml:lang="es">El número de diferencias mayores de 50 ms en una serie de latidos cardiacos normales expresada en porcentaje (pNN50)se ha usado ampliamente para medir la Variabilidad de la Frecuencia Cardiaca (VFC). El pNN50 es solo un miembro de una familia general de estadísticos para el análisis de la VFC. El objetivo de este estudio es explorar la potencia de diferentes pNNx para diferenciar sujetos sanos de pacientes cardiacos tanto en reposo como durante un ejercicio aeróbico. Hemos estudiado a 9 pacientes cardiacos hombres y los resultados fueron comparados con otros 10 hombres sanos y físicamente activos. La señal cardiaca fue registrada latido a latido durante 15 minutos en reposo y otros 15 pedaleando a una intensidad del 60% de la FC máxima teórica. En el momento del estudio cada sujeto del grupo de pacientes había sufrido, al menos, un episodio de infarto agudo de miocardio (IAM) entre 1 y 8 años antes y formaba parte de un programa de rehabilitación cardiaca en fase III. Ningún paciente había sufrido un episodio agudo en el último año. El pNNx se calculó como el número de diferencias mayores de x ms para valores de x entre 10 y 50 ms. Todos los valores de pNNx disminuyeron con el ejercicio perolas diferencias son mayores a medida que x es menor. Usando el pNN50 los cardiópatas y sujetos sanos difirieron claramente en reposo (1.71±2.24 y 9.87±5.68, respectivamente) pero no durante el ejercicio (0.48±1.02 y 0.30±0.33, respectivamente).Sin embargo, a medida que se reduce x, las cuatro situaciones van diferenciándose hasta que el pNN10 fue capaz de distinguirlas completamente. En conclusión, el pNN10 es más sensible que el pNN50 como índice de la VFC en pacientes cardiacos en reposo y ejercicio (AU)</dc:description>
+<dc:source>Arch. med. deporte;27(138): 255-259, jul.-ago. 2010. tab, graf</dc:source>
+<dc:identifier>ibc-102566</dc:identifier>
+<dc:title xml:lang="es">El uso de los estadísticos pNNx en la evaluación de la variabilidad de la frecuencia cardiaca en reposo y durante e lejercicio</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d6484^s22032</dc:subject>
+<dc:subject>^d23631^s22031</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d6493^s22031</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201008</dc:date>
+</metadata>
+</record>
+</ibecs-document>

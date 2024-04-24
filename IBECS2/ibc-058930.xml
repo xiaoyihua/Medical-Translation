@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-058930</identifier>
+<setSpec>0014-2565</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Studies of association in complex diseases: Statistical problems related to the analysis of genetic polymorphisms</dc:title>
+<dc:description xml:lang="en">The positive results on the association between a genetic polymorphism and a specific complex disease -in population-based association studies (e.g. case-control) are rarely replicated in independent studies. Furthermore, the design of these studies often lacks sufficient power to detect the association. Therefore, the «prevalence» of both type I and II errors in the scientific literature dealing with the study of complex diseases is extremely high. There are many potential problems that underlie this current, unfortunate situation such as the effect of population stratification, deficient correction for multiple tests or publication bias, among others. The present review deals with all these problems and provides guidelines that can help to minimize their effects</dc:description>
+<dc:creator>Carracedo, A</dc:creator>
+<dc:creator>Salas, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Los resultados positivos de asociación entre un polimorfismo genético y una determinada enfermedad compleja observados en los estudios de asociación caso-control raramente se replican. Frecuentemente, el diseño de estos estudios carece además de poder suficiente para detectar la asociación. En consecuencia, la prevalencia de errores tipo I y II en la literatura científica en el estudio de enfermedades complejas es extremadamente alta. Las causas que subyacen a esta desafortunada situación son muchas y variadas: estratificación poblacional, corrección por hipótesis múltiple, sesgo de publicación, etc. Esta revisión reflexiona sobre estos problemas y los procedimientos que ayudarían a minimizar sus efectos</dc:description>
+<dc:source>Rev Clin Esp;207(11): 563-565, dic.2007.</dc:source>
+<dc:identifier>ibc-058930</dc:identifier>
+<dc:title xml:lang="es">Estudios de asociación en enfermedades complejas: problemas estadísticos relacionados con el análisis de polimorfismos genéticos</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d28623</dc:subject>
+<dc:subject>^d28601</dc:subject>
+<dc:subject>^d11547</dc:subject>
+<dc:subject>^d33779</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200711</dc:date>
+</metadata>
+</record>
+</ibecs-document>

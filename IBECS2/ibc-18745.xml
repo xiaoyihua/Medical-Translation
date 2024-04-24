@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-18745</identifier>
+<setSpec>0214-3429</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">In vitro activity of posaconazole against yeasts isolated in blood cultures</dc:title>
+<dc:creator>Rubio, M. C</dc:creator>
+<dc:creator>Orero, A</dc:creator>
+<dc:creator>Pemán, J</dc:creator>
+<dc:creator>Viudes,  A</dc:creator>
+<dc:creator>Gil, J</dc:creator>
+<dc:creator>Gobernado, M</dc:creator>
+<dc:creator>Cantón, E</dc:creator>
+<dc:language>es</dc:language>
+<dc:publisher>J.R. Prous, S.A.</dc:publisher>
+<dc:description xml:lang="es">Se ha valorado la actividad in vitro de posaconazol comparándola con la de fluconazol en especies de levaduras aisladas en hemocultivo, así como el factor tiempo de incubación para la detección de resistencias a estos azoles. Se estudiaron un total de 112 levaduras: 32 Candida albicans, 33 C. parapsilosis, 17 C. tropicalis, 8 C. glabrata, 8 C. guilliermondii, 3 C. famata, 2 C. lusitaniae, 1 C. lipolytica, 1 C. inconspicua, 1 C. lambica, 3 Saccharomyces cerevisiae,1 Blastoschizomyces capitatus, 1 Geotricum spp. y 1 Pichia omheri. La CMI se determinó mediante el método de microdilución M27-A descrito por el NCCLS para Candida spp. y Cryptococcus neoformans. Las especies más sensibles a posaconazol fueron C. parapsilosis (CMI90 0,016 mg/l), C. glabrata (CMI90 0,5 mg/l), C. guilliermondii (CMI90 0,12 mg/l) y el grupo de Candida spp. (CMI90 0,25 mg/l). Sin embargo, este azol no mejora la actividad de fluconazol frente a C. tropicalis (CMI90 8 mg/l) y C. albicans (CMI90 8 mg/l). El tiempo de lectura influyó a la hora de detectar resistencias, ya que a las 48 horas el número de cepas resistentes fue mayor que a las 24 horas, en el caso de C. albicans y C. tropicalis; el resto de las especies estudiadas fueron igual de sensibles en los dos tiempos de lectura. (AU)</dc:description>
+<dc:source>Rev Esp Quimioter;15(4): 335-340, dic. 2002.</dc:source>
+<dc:identifier>ibc-18745</dc:identifier>
+<dc:title xml:lang="es">Actividad in vitro de posaconazol frente a levaduras aisladas en hemocultivo</dc:title>
+<dc:subject>^d15401</dc:subject>
+<dc:subject>^d1794</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d14625</dc:subject>
+<dc:subject>^d22780</dc:subject>
+<dc:subject>^d29168</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200212</dc:date>
+</metadata>
+</record>
+</ibecs-document>

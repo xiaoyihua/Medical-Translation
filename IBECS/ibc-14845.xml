@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-14845</identifier>
+<setSpec>1139-6709</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Bacterial membrane injuries induced by lactacin F and nisin</dc:title>
+<dc:description xml:lang="en">The combined action of nisin and lactacin F, two bacteriocins produced by lactic acid bacteria, is additive. In this report, the basis of this effect is examined. Channels formed by lactacin F were studied by experiments using planar lipid bilayers, and bactericidal effects were analyzed by flow cytometry. Lactacin F produced pores with a conductance of 1 ns in black lipid bilayers in 1 mM KCI at 10 mV at 20 degrees C. Pore formation was strongly dependent on voltage. Although lactacin F formed pores at very low potential (10 mV), the dependence was exponential above 40 mV. The injuries induced by nisin and lactacin F in the membranes of Lactobacillus helveticus produced different flow cytometric profiles. Probably, when both bacteriocins are present, each acts separately; their cooperation may be due to an increase in the number of single membrane injuries (AU)</dc:description>
+<dc:publisher>Springer-Verlag Ibérica</dc:publisher>
+<dc:description xml:lang="es">La acción combinada de la nisina y la lactacina F (dos bacteriocinas producidas por las bacterias del ácido láctico) es aditiva. En este artículo se examina la base de este fenómeno. Los canales que forma la lactacina F fueron estudiados mediante experimentos en bicapas lipídicas, mientras que los efectos bactericidas fueron analizados mediante citometría de flujo. La lactacina F produjo poros con una conductancia de 1 nS en bicapas lipídicas negras en KCl 1 mM a 10 mV y 20ºC. La formación del poro es altamente dependiente del voltaje. Aunque la lactacina F forma poros a potenciales muy bajos (10 mV), la dependencia a partir de los 40 mV es exponencial. Las lesiones inducidas por la nisina y la lactacina F en las membranas de Lactobacillus helveticus producen perfiles de flujo citométrico distintos. Seguramente, cuando actúan juntas, cada molécula actúa por separado; su cooperación puede deberse a un aumento en el número de lesiones unimembranales. (AU)</dc:description>
+<dc:source>Int Microbiol;5(2): 73-80, jun. 2002. tab, graf</dc:source>
+<dc:title xml:lang="es">Lesiones en la membrana bacteriana inducidas por lactacina F y nisina</dc:title>
+<dc:type>article</dc:type>
+<dc:creator>Viñas, Miguel</dc:creator>
+<dc:creator>Maier, Elke</dc:creator>
+<dc:creator>Benz, Roland</dc:creator>
+<dc:creator>Dalmau, M</dc:creator>
+<dc:creator>Mulet, Natalia</dc:creator>
+<dc:language>en</dc:language>
+<dc:identifier>ibc-14845</dc:identifier>
+<dc:subject>^d8734</dc:subject>
+<dc:subject>^d9746</dc:subject>
+<dc:subject>^d7954</dc:subject>
+<dc:subject>^d2497</dc:subject>
+<dc:subject>^d8226</dc:subject>
+<dc:subject>^d5567</dc:subject>
+<dc:subject>^d1453</dc:subject>
+<dc:date>200206</dc:date>
+</metadata>
+</record>
+</ibecs-document>

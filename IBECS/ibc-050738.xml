@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-050738</identifier>
+<setSpec>0300-8932</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Influence of admission glucose level on long-term prognosis in patients with acute coronary syndrome</dc:title>
+<dc:description xml:lang="en">Introduction and objectives. Hyperglycemia can increase the risk of death or a poor outcome following myocardial infarction. Our objective was to investigate the value of the admission glucose level in predicting long-term outcome in patients with acute coronary syndrome. Methods. The study population comprised 565 patients admitted with acute coronary syndrome within 24 hours of the start of symptoms. The final diagnosis was myocardial infarction in 56% and unstable angina in 44%. Results. The patients' mean glucose level was 143 (77) mg/dL. During follow-up (42 [6] months), 55 (9.7%) patients died. The area under the receiver operating characteristic curve for the optimum cut point for predicting death from the glucose level was 0.67; the cut point was 128 mg/dL, with a sensitivity of 85% and a specificity of 62%. Patients were divided into 2 groups according to blood glucose level: in group 1 (36.8%), it was &amp;#8805; 128 mg/dL; in group 2, &lt;128 mg/dL. There were differences between the groups in the incidence of diabetes (47.2% vs 12.6%; P&lt;.001), systolic blood pressure (138 [33] mm Hg vs 133 [33] mm Hg; P&lt;.001), and ejection fraction (48.3 [0.9]% vs 55.2 [12.4]%; P=.004). At 4 years, the survival rates were 40% and 77% in groups 1 and 2, respectively (log rank test P&lt;.001). The following were independent predictors of mortality: admission glucose level &amp;#8805;128 mg/dL (hazard ratio [HR= 2.41; P=.021), admission systolic blood pressure (HR= 0.97; P&lt;.001), admission troponin-T level (HR=4.88; P&lt;.001), and the development of heart failure (HR=1.04; P=.001). A rise of 10 mg/dL in glucose level was associated with a 2.56-fold increase in the risk of death (P=.012). Conclusions. In patients with acute coronary syndrome, hyperglycemia at admission (cut point &amp;#8805;128 mg/dL) was associated with increased long-term risk and, in addition, was a strong independent predictor of mortality</dc:description>
+<dc:creator>Macín, Stella M</dc:creator>
+<dc:creator>Franciosi, Valeria A</dc:creator>
+<dc:creator>Bayol, Pablo A</dc:creator>
+<dc:creator>Riera-Stival, Jorge L</dc:creator>
+<dc:creator>Badaracco, Jorge R</dc:creator>
+<dc:creator>Kriskovich, Jorge O</dc:creator>
+<dc:creator>González-Arjol, Bilda</dc:creator>
+<dc:creator>Perna, Eduardo R</dc:creator>
+<dc:creator>Coronel, María L</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Introducción y objetivos. La hiperglucemia puede incrementar el riesgo de muerte y evolución adversa después del infarto. Analizamos el valor pronóstico a largo plazo de la concentración de glucemia en el momento del ingreso en pacientes con síndrome coronario agudo (SCA). Métodos. La población estaba constituida por 565 pacientes hospitalizados con SCA dentro de las 24 h siguientes al inicio de los síntomas. El diagnóstico fue infarto agudo de miocardio en el 56% y angina inestable en el 44%. Resultados. La glucemia media fue de 143 ± 77 mg/dl. Durante el seguimiento (42 ± 6 meses) se registraron 55 muertes (9,7%). El área bajo la curva ROC para determinar el mejor punto de corte de glucemia en la predicción de muerte fue 0,67; el punto de corte de 128 mg/dl mostró una sensibilidad del 85% y una especificidad del 62%. Los pacientes fueron clasificados en grupo 1 (glucemia &amp;#8805; 128 mg/dl), con un 36,8%, o grupo 2 (glucemia &lt; 128 mg/dl). Ambos grupos difirieron en la diabetes (el 47,2 frente al 12,6%; p &lt; 0,001), la presión arterial sistólica (138,3 ± 33 frente a 133 ± 33 mmHg; p &lt; 0,001) y la fracción de eyección (48,3 ± 0,9 frente a 55,2 ± 12,4%; p = 0,004). La supervivencia a 4 años fue del 40 y el 77% en los grupos 1 y 2, respectivamente (test de rangos logarítmicos; p &lt; 0,001). En el momento del ingreso, un valor de glucemia &amp;#8805; 128 mg/dl (hazard ratio [HR] = 2,41; p = 0,021), la presión arterial sistólica (HR = 0,97; p &lt; 0,001), la troponina T (HR = 4,88; p &lt; 0,001) y el desarrollo de insuficiencia cardiaca (HR = 1,04; p = 0,001) fueron predictores independientes de mortalidad. Un incremento de 10 mg en la glucemia supuso un aumento del riesgo de muerte de 2,56 (p = 0,012). Conclusiones. En pacientes con síndrome coronario agudo, la hiperglucemia en el momento del ingreso, con un punto de corte &amp;#8805; 128 mg/dl, se asoció con un mayor riesgo a largo plazo y fue, además, un fuerte predictor independiente</dc:description>
+<dc:source>Rev Esp Cardiol;59(12): 1268-1275, dic. 2006. tab, graf</dc:source>
+<dc:identifier>ibc-050738</dc:identifier>
+<dc:title xml:lang="es">Influencia de la concentración de glucemia en el momento del ingreso en la evolución a largo plazo de los pacientes con síndrome coronario agudo</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d37656^s22031</dc:subject>
+<dc:subject>^d7124^s22012</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d11812</dc:subject>
+<dc:subject>^d3343^s22032</dc:subject>
+<dc:subject>^d9395^s22032</dc:subject>
+<dc:subject>^d9395^s22067</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d9396</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200612</dc:date>
+</metadata>
+</record>
+</ibecs-document>

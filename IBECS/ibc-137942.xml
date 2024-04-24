@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-137942</identifier>
+<setSpec>1135-5727</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Methodology for the Implementation of e-Health Services for Chronic Patient Monitoring and Control</dc:title>
+<dc:description xml:lang="en">A methodology is presented for a smooth, orderly implementation of specific e-Health services for monitoring chronic patients outside of the hospital setting. Identified as a stage-gate model for the management of the overall implementation process, this methodology is presented formally structured into three steps: a) exploratory examination (pilot project stage); 2) in-depth evaluation (clinical trial stage); and 3) deployment (guided use stage). In the first stage, controlled by the R+D team, the predominant criteria are the functionality and usability of the technologies involved. In the second stage, controlled by an associated Health Technology Evaluation Agency, the predominant criterion is the scientific aspect related to the results obtained in the clinical testing. The third stage is controlled through decisions made by the health administrations as to the implementation of new technologies and the financing thereof. A description is provided as to the requirements of the technological platform designed to serve as the medium for the projects and tests from stage 1 and 2. As an example of what is done in stage 2, a description is given of a trial related to hypertension (AU)</dc:description>
+<dc:creator>Hernández Salvador, Carlos</dc:creator>
+<dc:creator>Monteagudo Peña, José Luis</dc:creator>
+<dc:creator>García-López, Fernando</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Se presenta una metodología para la introducción progresiva y ordenada de servicios específicos de e-Salud para el seguimiento extrahospitalario de pacientes crónicos. Identificado como un modelo de pasos con filtro para la gestión del proceso global de introducción, se presenta formalmente estructurado en tres pasos: 1) exploratorio (fase de proyecto piloto); 2) evaluación en profundidad (fase de ensayo clínico), y 3) despliegue (fase de uso tutelado). En la primera fase, controlada por el equipo de I+D, los criterios predominantes son los de funcionalidad y utilidad de las tecnologías involucradas. En la segunda fase, controlada por una Agencia de Evaluación de Tecnologías Sanitarias, prevalece el criterio científico asociado con los resultados obtenidos en el ensayo clínico. La tercera fase es controlada por decisiones de las administraciones sanitarias sobre la introducción de nuevas tecnologías y su financiación. Se describen los requerimientos de la plataforma tecnológica diseñada para soportar los proyectos y ensayos de las fases 1 y 2. Como ejemplo de actuación en la fase 2 se describe un ensayo sobre hipertensión arterial (AU)</dc:description>
+<dc:source>Rev Esp Salud Publica;78(5): 571-581, sept.-oct. 2004. graf, tab</dc:source>
+<dc:identifier>ibc-137942</dc:identifier>
+<dc:title xml:lang="es">Metodología de introducción de servicios de e-salud para el seguimiento y control de pacientes crónicos</dc:title>
+<dc:subject>^d28563^s22067</dc:subject>
+<dc:subject>^d^s22045</dc:subject>
+<dc:subject>^d13411</dc:subject>
+<dc:subject>^d33921</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30481</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200410</dc:date>
+</metadata>
+</record>
+</ibecs-document>

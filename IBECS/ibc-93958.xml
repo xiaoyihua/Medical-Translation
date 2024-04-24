@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-93958</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Exploration styles modulate length perception through dynamic touch</dc:title>
+<dc:description xml:lang="en">One of the most surprising capacities of the haptic system is the ability to estimate different properties of objects, like weight or length, through invariants of rotational mechanics that are accessible via the proprioceptive system. This field of research is called Dynamic Touch. In its classical experimental paradigm, the participant firmly grasps a rod that can be wielded but not seen, and he or she tries to match the hand-held rod&#146;s length using another rod that can be seen but not wielded. In the experiment reported here, we focus on the role of the exploratory behavior, restricting the wielding in six conditions that vary both the amplitude and the frequency of movements. Increments in the speed of the movement are shown to increase the accuracy in the haptic estimation. It is argued that these results support the moment of inertia as the best informational candidate, given that it is an invariant property that only emerges when rotational torques are applied. Alternative candidates such as static moment or mass are discarded because they do not depend on differential movements (AU)</dc:description>
+<dc:creator>Lobo, Lorena</dc:creator>
+<dc:creator>Travieso, David</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Una de las habilidades más sorprendentes del sistema háptico es su capacidad de realizar estimaciones de algunas propiedades de los objetos, como el peso o el tamaño, utilizando invariantes de la mecánica rotacional que son accesibles por medio del subsistema propioceptivo; este campo de investigación se denomina tacto dinámico. En un ejemplo clásico de este paradigma experimental, el participante sujeta una varilla en su mano, sin estar ésta a la vista, y trata de igualar el tamaño percibido usando otra varilla que puede ver pero no blandir. En este experimento analizamos el papel del comportamiento exploratorio en esta situación, restringiendo el balanceo de la varilla en seis condiciones que varían la frecuencia y amplitud de los movimientos. Los resultados muestran que con una mayor velocidad en los movimientos se incrementa el ajuste de las estimaciones hápticas. Por ello, se argumenta que el momento de inercia es el mejor candidato informacional al realizar la tarea, ya que es una propiedad invariante que emerge únicamente cuando se aplica fuerza y se realizan movimientos rotacionales con el objeto. Se descartan otros candidatos informacionales, como el momento estático, o la masa, dado que no dependen de movimientos diferenciales (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);24(1): 55-61, ene.-mar. 2012. tab, ilus</dc:source>
+<dc:identifier>ibc-93958</dc:identifier>
+<dc:title xml:lang="es">El patrón de exploración modula la percepción de longitudes a través del tacto dinámico</dc:title>
+<dc:subject>^d53266^s22031</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d7874^s22031</dc:subject>
+<dc:subject>^d28620</dc:subject>
+<dc:subject>^d12026^s22045</dc:subject>
+<dc:subject>^d12026^s22066</dc:subject>
+<dc:subject>^d51792^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d12026^s22048</dc:subject>
+<dc:subject>^d53386</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201203</dc:date>
+</metadata>
+</record>
+</ibecs-document>

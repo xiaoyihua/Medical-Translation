@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-155952</identifier>
+<setSpec>0034-9356</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Spectral entropy in monitoring anesthetic depth</dc:title>
+<dc:description xml:lang="en">Monitoring the brain response to hypnotics in general anesthesia, with the nociceptive and hemodynamic stimulus interaction, has been a subject of intense investigation for many years. Nowadays, monitors of depth of anesthesia are based in processed electroencephalogram by different algorithms, some of them unknown, to obtain a simplified numeric parameter approximate to brain activity state in each moment. In this review we evaluate if spectral entropy suitably reflects the brain electric behavior in response to hypnotics and the different intensity nociceptive stimulus effect during a surgical procedure (AU)</dc:description>
+<dc:creator>Escontrela Rodríguez, B</dc:creator>
+<dc:creator>Merino Julián, I</dc:creator>
+<dc:creator>Martínez Ruiz, A</dc:creator>
+<dc:creator>Gago Martínez, A</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La posibilidad de monitorizar la respuesta cerebral a los hipnóticos en cada una de las fases de la anestesia general, en la que interactúan además estímulos nociceptivos y hemodinámicos, es un tema objeto de intensa investigación desde hace muchos años. Los monitores de profundidad de la anestesia de los que disponemos en la actualidad utilizan el procesamiento del registro electroencefalográfico mediante diferentes algoritmos, algunos no conocidos en su totalidad, para, de una forma simplificada, obtener un parámetro numérico que se aproxima al estado de la actividad cerebral en cada momento. En esta revisión descriptiva se evalúa la capacidad de la entropía espectral de reflejar adecuadamente el comportamiento eléctrico cerebral en respuesta a los hipnóticos y al efecto de los estímulos nociceptivos de diferente intensidad que tienen lugar durante una intervención quirúrgica (AU)</dc:description>
+<dc:source>Rev Esp Anestesiol Reanim;63(8): 471-478, oct. 2016. tab</dc:source>
+<dc:identifier>ibc-155952</dc:identifier>
+<dc:title xml:lang="es">La entropía espectral en la monitorización de la profundidad de la anestesia</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d33181</dc:subject>
+<dc:subject>^d4641^s22074</dc:subject>
+<dc:subject>^d7167</dc:subject>
+<dc:subject>^d771^s22045</dc:subject>
+<dc:subject>^d52865^s22045</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d788^s22079</dc:subject>
+<dc:subject>^d28998^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201610</dc:date>
+</metadata>
+</record>
+</ibecs-document>

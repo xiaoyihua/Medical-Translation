@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-109345</identifier>
+<setSpec>0212-9728</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Missing data and psychometric properties of personality tests</dc:title>
+<dc:description xml:lang="en">The aim of this study was to analyze the influence of missing values on the psychometric properties of personality tests. An applied approach was used, trying to simulate conditions similar to those found in the professional practice. Two simulation studies were designed, based on actual data from the administration of ESQUIZO-Q test, which assesses schizotypy. In the first study a large sample was used (N=3056), and in the second one a smaller sample (N=200) was analyzed. In both cases four levels of missing values, and eight procedures for handling missing values were simulated. The influence of these conditions on the estimates of Cronbach's  alpha, the factor structure of the test, and the arrangement of test scores were analyzed. The results suggest that in the presence of low levels of missing values, even the simplest imputation methods offer appropriate solutions from a applied point of view. From a statistical perspective the Expectation-Maximization (EM) method is the one with a better overall performance in the different criteria handled. Also noteworthy is the poor performance of replacement procedures when using the value of the previous or posterior item in order to maintain the factor structure of the data (AU)</dc:description>
+<dc:creator>Cuesta, Marcelino</dc:creator>
+<dc:creator>Vallejo, Guillermo</dc:creator>
+<dc:creator>Fonseca-Pedrero, Eduardo</dc:creator>
+<dc:creator>Muñiz, José</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Se investigo la influencia que tienen los valores perdidos sobre la estimación de las propiedades psicométricas de los tests de personalidad. Se ha utilizado un enfoque aplicado, simulando situaciones que puedan tener relevancia cara a la práctica profesional. Se diseñaron dos estudios de simulación a partir de datos reales obtenidos de la aplicación de la prueba ESQUIZO-Q que evalúa esquizotipia. En el primero de ellos se utilizo una muestra de 3056 personas y en el segundo una de 200; en ambos casos se emplearon cuatro niveles de pérdida de respuestas y ocho procedimientos de imputación de los valores perdidos. Se estudio su influencia sobre las estimaciones del coeficiente alfa de Cronbach, la estructura factorial de la prueba y la ordenación de las puntuaciones en el cuestionario. Los resultados apuntan a que en presencia de niveles bajos de valores perdidos, incluso los métodos más simples, ofrecen soluciones muy razonables desde el punto de vista práctico. Desde la perspectiva mas estadística el procedimiento de Expectación-Maximización (EM) es el que presenta un mejor comportamiento global en los diferentes criterios manejados. Destaca también el pobre comportamiento de los métodos de sustitución por el valor anterior o posterior de cara a mantener la estructura factorial de los datos (AU)</dc:description>
+<dc:source>An. psicol;29(1): 285-292, ene.-abr. 2013. tab</dc:source>
+<dc:identifier>ibc-109345</dc:identifier>
+<dc:title xml:lang="es">Datos perdidos y propiedades psicométricas en los tests de personalidad</dc:title>
+<dc:subject>^d12031^s37748</dc:subject>
+<dc:subject>^d10747^s22048</dc:subject>
+<dc:subject>^d28624</dc:subject>
+<dc:subject>^d12018^s22048</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d28608^s22074</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d10747^s22083</dc:subject>
+<dc:subject>^d12031^s22039</dc:subject>
+<dc:subject>^d12031^s22048</dc:subject>
+<dc:subject>^d12031^s22049</dc:subject>
+<dc:subject>^d12031^s22066</dc:subject>
+<dc:subject>^d12031^s22045</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201304</dc:date>
+</metadata>
+</record>
+</ibecs-document>

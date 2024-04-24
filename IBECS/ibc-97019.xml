@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-97019</identifier>
+<setSpec>0213-005X</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Taxonomy and biology of fungi causing human infection</dc:title>
+<dc:description xml:lang="en">The advent of molecular techniques, mainly DNA sequencing, has led to important changes in the taxonomy of pathogenic fungi and a better understanding of the phylogenetic relationships among them. The number of fungal species potentially pathogenic for humans has increased dramatically. Most of them are cryptic species belonging to complex species that have replaced traditional single morphospecies. This has occurred in several genera of mucorales and particularly in different ascomycetous genera, such as Aspergillus, Fusarium, Sporothrix and Scedosporium, among others. The correct identification of these species is crucial for a better management of patients, since on many occasions those species show different virulence and different antifungal responses. This review summarises some of the most striking recent taxonomic changes produced in pathogenic fungi (AU)</dc:description>
+<dc:creator>Guarro, Josep</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En los últimos años la taxonomía de los hongos causantes de infecciones en el hombre ha cambiado sustancialmente especialmente debido al rápido desarrollo de las técnicas de secuenciación de ADN que han permitido avanzar en el conocimiento de las relaciones filogenéticas entre estos microorganismos. El número de especies fúngicas potencialmente patógenas ha sufrido un espectacular aumento, siendo muchas de ellas especies crípticas que forman parte de complejos de especies que han sustituido a lo que antes eran consideradas como simples morfoespecies. Ello ha ocurrido en diferentes géneros de mucorales y especialmente de ascomicetes tales como Aspergillus, Fusarium, Sporothrix y Scedosporium, entre otros. Es frecuente que dichas especies difieran en virulencia y en su respuesta a los antifúngicos por lo que su correcta identificación es de especial importancia para el adecuado tratamiento del paciente. En esta revisión se resumen algunos de los cambios más significativos en la taxonomía de los hongos patógenos que se han producido en los últimos años</dc:description>
+<dc:source>Enferm Infecc Microbiol Clin;30(1): 33-39, ene. 2012. tab</dc:source>
+<dc:identifier>ibc-97019</dc:identifier>
+<dc:title xml:lang="es">Taxonomía y biología de los hongos causantes de infección en humanos</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d1210^s22052</dc:subject>
+<dc:subject>^d1509^s22052</dc:subject>
+<dc:subject>^d9282^s22052</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d30522^s22045</dc:subject>
+<dc:subject>^d9373^s22046</dc:subject>
+<dc:subject>^d5794^s22052</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201201</dc:date>
+</metadata>
+</record>
+</ibecs-document>

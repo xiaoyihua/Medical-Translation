@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-145093</identifier>
+<setSpec>1130-6343</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Methods for analyzing uncertainty</dc:title>
+<dc:description xml:lang="en">Current budgetary restrictions in health systems have increased the influence of economic evaluation studies on decision making. Nevertheless, uncertainty about the parameters used in pharmacoeconomic models is inevitable and may affect the conclusions drawn. The present article aims to review the main methods proposed to quantify the uncertainty inherent in pharmacoeconomic evaluations applied to health technologies. The most accurate pharmacoeconomic estimations are obtained by probabilistic methods of uncertainty analysis such as Monte Carlo simulation, repetitive sampling and the Fieller method. Alternatives to these methods are calculation of the cost-effectiveness acceptability curve or net health benefit.  Equally, the economic impact of uncertainty in the pharmacoeconomic models used in the decision-making process can be estimated by obtaining what is known as the value of perfect information (AU)</dc:description>
+<dc:creator>Ferriols, R</dc:creator>
+<dc:creator>Alós, M</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">La actual situación de restricción presupuestaria en los sistemas sanitarios ha provocado que la toma de decisiones esté cada vez más influenciada por los estudios de evaluación económica. No obstante, la incertidumbre en los parámetros empleados en los modelos farmacoeconómicos es inevitable y puede afectar a las conclusiones alcanzadas. El objetivo de este artículo es revisar los principales métodos propuestos para cuantificar la incertidumbre inherente a las evaluaciones farmacoeconómicas aplicadas a las tecnologías sanitarias. Los métodos probabilísticos de análisis de la incertidumbre como la simulación de Monte Carlo, el método de muestreo repetitivo o el método de Fieller proporcionan las estimaciones farmacoeconómicas más precisas. Otras alternativas a estos métodos son el cálculo de la curva de aceptabilidad de coste-efectividad o el beneficio neto sanitario. Igualmente, es posible estimar el impacto económico de la incertidumbre en los modelos farmacoeconómicos empleados en el proceso de toma de decisiones mediante la obtención del denominado valor de la información perfecta (AU)</dc:description>
+<dc:source>Farm Hosp;35(supl.2): 3-9, 2011. ilus, tab, graf</dc:source>
+<dc:identifier>ibc-145093</dc:identifier>
+<dc:title xml:lang="es">Métodos de análisis de la incertidumbre</dc:title>
+<dc:subject>^d10797^s22018</dc:subject>
+<dc:subject>^d30152^s22066</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d31495^s22049</dc:subject>
+<dc:subject>^d50303</dc:subject>
+<dc:subject>^d37587</dc:subject>
+<dc:subject>^d29199</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201100</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-97828</identifier>
+<setSpec>0214-9915</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Factor analysis of ipsative data: a simulation study</dc:title>
+<dc:description xml:lang="en">This paper introduces a summary on how to proceed to conduct a factor analysis when the input data are ipsative. The classical factor analysis procedures cannot be used because the covariance matrix is singular. Additionally, previous research on the optimal conditions to conduct factor analysis for ipsatized data is reviewed, and the results of a simulation study are presented. The study includes conditions of sample size, model complexity, and model specification (correct vs. incorrect). The results suggest that researchers should be careful when factor analyzing ipsatized data, particularly if they suspect that the model is incorrectly specified and includes a smaller number of factors (AU)</dc:description>
+<dc:creator>Calderón Carvajal, Carlos</dc:creator>
+<dc:creator>Ximénez Gómez, Carmen</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">En este trabajo se expone un resumen sobre cómo proceder para llevar a cabo un análisis factorial cuando los ítems tienen formato ipsativo. Los procedimientos clásicos de factorización no pueden emplearse puesto que la matriz de covarianzas es singular. Adicionalmente, se revisan los estudios publicados en la literatura previa sobre las condiciones óptimas para la factorización de datos ipsatizados y se presentan los resultados de un estudio de simulación que explora diferentes condiciones: tamaño de la muestra, complejidad del modelo y especificación del modelo (correcta vs incorrecta). Los resultados indican que la factorización de los datos ipsatizados ha de hacerse con precaución, en particular si se sospecha que el modelo está incorrectamente especificado e incluye un número menor de factores (AU)</dc:description>
+<dc:source>Psicothema (Oviedo);24(2): 302-309, abr.-jun. 2012. ilus, tab</dc:source>
+<dc:identifier>ibc-97828</dc:identifier>
+<dc:title xml:lang="es">El análisis factorial de datos ipsativos: un estudio de simulación</dc:title>
+<dc:subject>^d8479^s22056</dc:subject>
+<dc:subject>^d10742^s22031</dc:subject>
+<dc:subject>^d28624</dc:subject>
+<dc:subject>^d37613</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d28574^s22045</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>201206</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-147807</identifier>
+<setSpec>0212-6982</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Diagnostic accuracy of the spect of post-stress myocardial perfusion with attenuation and scatter correction</dc:title>
+<dc:description xml:lang="en">Objective: To evaluate the effect of attenuation and scatter correction (AC-SC) on the diagnostic accuracy of post-stress myocardial perfusion (MP) SPECT. Material and methods: The retrospective analysis included 121 patients who had a non-corrected (NC) and AC-SC 99mTc- Tetrofosmin MP SPECT after stress. The left ventricle was divided into 13 segments. Two observers performed a visual assessment of the MP on a scale from 0 (perfusion defect) to 3 (normal uptake). A consensus on concordances and discordances between the NC and AC-SC images was established. Final diagnosis of coronary artery disease (CAD) was established by coronary angiography (CANG) (stenosis  70%). Results: The combined analysis of NC and AC-SC images produced 93 concordances and 28 discordances. Of the 93 concordances, both studies were abnormal in 67 patients (abnormal CANG in 57) and normal in 26 patients (normal CANG in 20). Among the 28 discordances, 23 were abnormal NC/normal AC-SC (normal CANG in 18) and 5 normal NC/abnormal AC-SC. In these 5 patients AC-SC generated anterior perfusion defects but the CANG was normal. Overall, the appearance of NC and AC-SC images were in agreement with the CANG findings in the 72 % (87/121) and 78 % (95/121) of the patients, respectively. Sixty-seven of the 90 patients with abnormal NC had also abnormal AC-SC (abnormal CANG in 57) and the other 23 had normal AC-SC (normal CANG in 18). The appearance of AC-SC was in agreement with CANG finding in the 83 % (75/90) of patients with abnormal NC. MP abnormalities in NC normalized by AC-SC were more frequently located in inferior wall Conclusion: AC-SC improves the diagnostic accuracy of post stress NC MP SPECT for the diagnosis of CAD. From these results we consider that AC-SC is of clinical value for the correction of attenuation artifacts, more frequently observed in the inferior wall. The presence of antero-apical perfusion defects in AC-SC with normal NC does not mean CAD. So it is necessary to adjust the normalcy pattern of MP SPECT when AC-SC is performed (AU)</dc:description>
+<dc:creator>Pena, FJ</dc:creator>
+<dc:creator>Quirce, R</dc:creator>
+<dc:creator>Banzo, I</dc:creator>
+<dc:creator>Hernández Allende, R</dc:creator>
+<dc:creator>Carril, JM</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Evaluar el efecto de la corrección de atenuación y de dispersión (CA-CS) sobre la exactitud diagnóstica de la SPET de perfusión miocárdica (PMI) postesfuerzo. Material y métodos: Se analizaron de forma retrospectiva 121 pacientes en los que se practicó una SPET de PMI postesfuerzo con Tetrofosmina-Tc99m sin corrección (NC) y con CA-CS. El ventrículo izquierdo fue dividido en 13 segmentos. Dos observadores realizaron un análisis visual de la PMI en cada segmento siguiendo una escala del 0 (defecto de captación) al 3 (normal). Se estableció un consenso acerca de las coincidencias y discrepancias entre las imágenes NC y CA-CS. El diagnóstico definitivo de enfermedad coronaria (EC) se estableció por la coronariografía (CANG) (estenosis 70 %). Resultados: El análisis de las imágenes NC y CA-CS produjo 93 coincidencias y 28 discrepancias. Ambos estudios fueron anormales en 67 de las 93 coincidencias (CANG anormal en 57) y normales en 26 (CANG normal en 20). Las 28 discrepancias fueron 23 NC anormal/CA-CS normal (CANG normal en 18) y 5 NC normal/CA-CS anormal. En estos 5 pacientes la CA-CS generó defectos de perfusión en cara anterior pero la CANG fue normal. Globalmente, los resultados de las imágenes NC y CA-CS coincidieron con la CANG en el 72% (87/121) y 78 % (95/121) de los pacientes respectivamente. De los 90 pacientes con NC anormales, 67 tenían CA-CS anormales (CANG anormal en 57) y 23 CA-CS normales (CANG normal en 18). Por tanto la imagen CA-CS coincidió con los hallazgos de la CANG en el 83 % (75/90) de los pacientes con NC patológicas. Las alteraciones de PMI en NC normalizadas por la CA-CS se localizaron preferentemente en la cara inferior. Conclusión: La aplicación de la CA-CS mejora la exactitud diagnóstica de la SPET NC de PMI postesfuerzo en el diagnóstico de la EC. Con estos resultados consideramos que la CA-CS tiene valor clínico en la corrección de los artefactos por atenuación que observamos con más frecuencia en la cara inferior. La aparición en las imágenes CA-CS de defectos de perfusión antero-apicales con imágenes NC normales no significa significa EC. Por ello es necesario ajustar el patrón de normalidad de la SPET de PMI cuando se trabaja con CA-CS (AU)</dc:description>
+<dc:source>Rev Esp Med Nucl;23(6): 387-393, nov. 2004. tab, ilus</dc:source>
+<dc:identifier>ibc-147807</dc:identifier>
+<dc:title xml:lang="es">Exactitud diagnóstica de la SPET de perfusión miocárdica postesfuerzo con corrección de atenuación y de dispersión</dc:title>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d5178</dc:subject>
+<dc:subject>^d28611</dc:subject>
+<dc:subject>^d3342</dc:subject>
+<dc:subject>^d19139^s22008</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d19139^s22016</dc:subject>
+<dc:subject>^d24895</dc:subject>
+<dc:subject>^d19139^s22032</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:subject>^d20174</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d35251</dc:subject>
+<dc:subject>^d9062</dc:subject>
+<dc:subject>^d19059</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200411</dc:date>
+</metadata>
+</record>
+</ibecs-document>

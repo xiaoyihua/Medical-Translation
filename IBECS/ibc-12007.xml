@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-12007</identifier>
+<setSpec>0001-6519</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Acoustic voice analysis: reliability of a set of multi-dimensional parameters</dc:title>
+<dc:description xml:lang="en">A correlational study of the reliability of acoustic voice parameters was made of 148 healthy adults. Acoustic analysis was performed with MDVP-Multi-Dimensional Voice Program implemented in a CSL-Computerized Speech Lab of Kay Elemetrics. A set of 29 voice parameters were obtained from two samples of sustained vowel /a/ recorded from each subject. General results separated by sex are showed and the test-retest reliability in each pair of measures was calculated. Data show a high intra-subject stability of Frequency Fundamental parameters; acceptable stability in parameters of Frequency and Amplitude Perturbation, Noise, Subharmonics and Voice irregularities; and a very low consistency in Tremor parameters. Parameters related with shimmer were more reliable than parameters related with jitter. According to results several conclusions are reported (AU)</dc:description>
+<dc:publisher>Sanidad y Ediciones (SANED, S.L.)</dc:publisher>
+<dc:description xml:lang="es">La fiabilidad del análisis acústico de la voz es una cuestión relevante poco estudiada todavía. Se presenta aquí un estudio correlacional sobre la fiabilidad de los parámetros de la voz en una muestra de 148 adultos sanos. El análisis se llevó a cabo mediante el MDVP- Multi-Dimensional Voice Program instalado en una unidad de CSL-Computerized Speech Lab de Kay Elemetrics. Por cada sujeto se obtuvieron 29 parámetros de voz a partir de dos registros de la vocal /a/ sostenida. Se ofrecen los resultados generales separados por géneros y la fiabilidad testretest obtenida en cada par de medidas. Los datos muestran una alta estabilidad intra-sujeto en los parámetros de Frecuencia Fundamental; estabilidad aceptable en los parámetros de Perturbación de Frecuencia y de Amplitud, Ruido, Subarmónicos e Irregularidad de la voz; y una consistencia muy baja en los parámetros de Temblor. Los parámetros relacionados con el shimmer son más fiables que los relacionados con el jitter. De acuerdo con los resultados obtenidos se extraen conclusiones útiles para la práctica clínica (AU)</dc:description>
+<dc:source>Acta Otorrinolaringol Esp;53(4): 256-268, abr. 2002. tab</dc:source>
+<dc:title xml:lang="es">Análisis acústico de la voz: fiabilidad de un conjunto de parámetros multidimensionales</dc:title>
+<dc:type>article</dc:type>
+<dc:creator>Cervera, T</dc:creator>
+<dc:creator>González, J</dc:creator>
+<dc:creator>Miralles, JL</dc:creator>
+<dc:language>es</dc:language>
+<dc:identifier>ibc-12007</dc:identifier>
+<dc:subject>^d28610</dc:subject>
+<dc:subject>^d331</dc:subject>
+<dc:subject>^d23925</dc:subject>
+<dc:subject>^d15235</dc:subject>
+<dc:subject>^d13444</dc:subject>
+<dc:subject>^d27926^s22016</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d21030</dc:subject>
+<dc:subject>^d21044</dc:subject>
+<dc:date>200204</dc:date>
+</metadata>
+</record>
+</ibecs-document>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ibecs-document>
+<record>
+<header>
+<identifier>ibc-110686</identifier>
+<setSpec>0213-9111</setSpec>
+</header>
+<metadata xmlns="http://example.org/myapp/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.org/myapp/schema.xsd">
+<dc:title xml:lang="en">Survival analysis with competing risks: estimating failure probability</dc:title>
+<dc:description xml:lang="en">Objective: To show the impact of competing risks of death on survival analysis. Method: We provide an example of survival time without chronic rejection after heart transplantation, where death before rejection acts as a competing risk. Using a computer simulation, we compare the Kaplan-Meier estimator and the multiple decrement model. Results: The Kaplan-Meier method overestimated the probability of rejection. Next, we illustrate the use of the multiple decrement model to analyze secondary end points (in our example: death after rejection). Finally, we discuss Kaplan-Meier assumptions and why they fail in the presence of competing risks. Conclusions: Survival analysis should be adjusted for competing risks of death to avoid overestimation of the risk of rejection produced with the Kaplan-Meier method (AU)</dc:description>
+<dc:creator>Delgado-Rodríguez, Miguel</dc:creator>
+<dc:creator>Llorca, Javier</dc:creator>
+<dc:language>es</dc:language>
+<dc:description xml:lang="es">Objetivo: Mostrar el efecto de los riesgos competitivos de muerte en el análisis de supervivencia. Métodos: Se presenta un ejemplo sobre la supervivencia libre de rechazo tras un trasplante cardíaco, en el que la muerte antes de desarrollar el rechazo actúa como riesgo competitivo. Mediante una simulación se comparan el estimador de Kaplan-Meier y el modelo de decrementos múltiples. Resultados: El método de Kaplan-Meier sobrestima el riesgo de rechazo. A continuación, se expone la aplicación del modelo de decrementos múltiples para el análisis de acontecimientos secundarios (en el ejemplo, la muerte tras el rechazo). Finalmente, se discuten las asunciones propias del método de Kaplan-Meier y las razones por las que no puede ser aplicado en presencia de riesgos competitivos. Conclusiones: El análisis de supervivencia debe ajustarse por los riesgos competitivos de muerte para evitar la sobrestimación del riesgo de fallo que se produce con el método de Kaplan-Meier (AU)</dc:description>
+<dc:source>Gac Sanit;18(5): 1-1, sept.-oct. 2004. ilus</dc:source>
+<dc:identifier>ibc-110686</dc:identifier>
+<dc:title xml:lang="es">Análisis de supervivencia en presencia de riesgos competitivos: estimadores de la probabilidad de suceso</dc:title>
+<dc:subject>^d29611</dc:subject>
+<dc:subject>^d24890</dc:subject>
+<dc:subject>^d28612</dc:subject>
+<dc:subject>^d52438</dc:subject>
+<dc:subject>^d21034</dc:subject>
+<dc:subject>^d24842</dc:subject>
+<dc:subject>^d29419^s22020</dc:subject>
+<dc:subject>^d11622^s22080</dc:subject>
+<dc:subject>^d33939</dc:subject>
+<dc:type>article</dc:type>
+<dc:date>200410</dc:date>
+</metadata>
+</record>
+</ibecs-document>
