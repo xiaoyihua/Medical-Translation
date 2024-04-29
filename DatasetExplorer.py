@@ -118,8 +118,8 @@ def count_words(df):
 
 def count_sentences(df):
     # Counting sentences using nltk setn_tokenize, which uses punkt
-    df['NumSentencesEn'] = df.apply(lambda x: len(sent_tokenize(x['description_en'], language='english')), axis=1)
-    df['NumSentencesEs'] = df.apply(lambda x: len(sent_tokenize(x['description_es'], language='spanish')), axis=1)
+    df['NumSentencesEn'] = df.apply(lambda x: len(sent_tokenize(x['description_en'], language='english')) if isinstance(x['decription_en'], str) else 0, axis=1)
+    df['NumSentencesEs'] = df.apply(lambda x: len(sent_tokenize(x['description_es'], language='spanish')) if isinstance(x['decription_es'], str) else 0, axis=1)
 
     return df
 
