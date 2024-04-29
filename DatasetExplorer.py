@@ -169,7 +169,7 @@ def main():
     graph_wordcount_en(df, dir)
     graph_wordcount_es(df, dir)
 
-    # df.to_csv('Pubmed.csv', index=False)
+    df.to_csv('Pubmed.csv', index=False)
 
 if __name__ == "__main__":
     main()
